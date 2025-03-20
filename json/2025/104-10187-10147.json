@@ -1,0 +1,29 @@
+{
+  "classification": "Cuba",
+  "document_type": "Message Form",
+  "security": "Revealing that the Intel Service Chief may attempt to take full credit in a briefing with President Rivera could damage working relationships and reveal the agency's interest in controlling the narrative around Cuban defectors. \"HDQS FEELS IT IMPORTANT THAT [LIGIBON] ALSO ATTEND PRESIDENT RIVER BRIEFING, SINCE WILL MOST LIKELY TRY MOVE IN ON LEADS AND TAKE FULL CREDIT.\"",
+  "security_level": "SECRET",
+  "summary": "A message from the Director to SALV (San Salvador station) regarding a briefing for President Rivera, emphasizing the importance of the Intel Service Chief's attendance to manage leads and ensure appropriate credit.",
+  "summary_one_paragraph": "This secret message, dated September 3, 1964, is directed from the Director to the San Salvador station (SALV) concerning a briefing for President Rivera. The message emphasizes the necessity of the Intelligence Service Chief, LIGIBON, attending the briefing. The main concern is that LIGIBON will likely try to take full credit and control any leads related to Cuban defectors. The message underscores that Headquarters (HDQS) deems LIGIBON's attendance important to manage the briefing effectively.",
+  "tags": [
+    "CIA",
+    "San Salvador",
+    "President Rivera",
+    "Cuban Defectors",
+    "Intelligence Briefing",
+    "LIGIBON"
+  ],
+  "title": "Briefing for President Rivera",
+  "date": "1964-09-03",
+  "locations_mentioned": [
+    "San Salvador",
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "President Rivera",
+    "LIGIBON (Intel Service Chief)"
+  ],
+  "recipient": "SALV (San Salvador Station)",
+  "sender": "Director"
+}

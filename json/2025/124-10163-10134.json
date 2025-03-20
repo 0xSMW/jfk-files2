@@ -1,0 +1,40 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Paper, Textual Document",
+  "security": "Disclosing the identity of individuals providing information to U.S. intelligence could endanger those individuals or compromise future intelligence gathering. Revealing the specific questions asked during interviews with Aberg or Albrecht could expose intelligence collection methods. The document is marked SECRET NO FOREIGN, indicating restrictions on sharing this intelligence outside of authorized U.S. channels.",
+  "security_level": "Secret",
+  "summary": "The CIA provides information to the FBI regarding Adolph Jay ALBRECHT, a U.S. citizen residing in Sweden, who reported a statement made by Karl-Erik RIDDERSTRALE predicting President Kennedy's assassination. The CIA requests any pertinent information the FBI may have on ALBRECHT, ABERG, and RIDDERSTRALE.",
+  "summary_one_paragraph": "In a memorandum dated December 4, 1964, the CIA's Deputy Director for Plans informs the FBI Director about Adolph Jay ALBRECHT, an American copywriter in Stockholm, who reported a pre-assassination prediction made by Karl-Erik RIDDERSTRALE, a Swedish nobleman and Castro supporter, to ALBRECHT's former girlfriend, Charlotte ABERG. ALBRECHT visited the American Embassy in Stockholm to report the incident, and ABERG was subsequently interviewed, corroborating ALBRECHT's account with minor discrepancies. The CIA's files contain no information on ALBRECHT, ABERG, or RIDDERSTRALE, and the agency requests any relevant information the FBI may possess, cleared for sharing with Swedish authorities; information was also given to the Legal Attache in London.",
+  "tags": [
+    "JFK Assassination",
+    "CIA",
+    "FBI",
+    "Adolph Jay ALBRECHT",
+    "Karl-Erik RIDDERSTRALE",
+    "Charlotte ABERG",
+    "Sweden",
+    "Prediction",
+    "Name Check",
+    "Assistance",
+    "Suspect"
+  ],
+  "title": "",
+  "date": "1964-12-04",
+  "locations_mentioned": [
+    "Stockholm, Sweden",
+    "New Jersey",
+    "New York City",
+    "London"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Adolph Jay ALBRECHT",
+    "Karl-Erik RIDDERSTRALE",
+    "Charlotte ABERG",
+    "President John F. Kennedy",
+    "Fidel Castro",
+    "S. J. Papich"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "Deputy Director of Plans"
+}

@@ -1,0 +1,43 @@
+{
+  "classification": "Commission",
+  "document_type": "Historical Study",
+  "security": "This historical study details CIA's interactions with the Warren Commission, including the drafting of questions for the Soviet government and providing information on Oswald's activities in the USSR. Releasing details of specific requests and responses could reveal intelligence-gathering methods and sources, potentially compromising future operations.",
+  "security_level": "SECRET",
+  "summary": "This is a historical study by Frederick Walters from August 1972, detailing the Counterintelligence Operations of the Soviet Russia Division from 1946-1965, focusing on the CIA's support to the Warren Commission in 1964, including the agency's work related to Lee Harvey Oswald's activities in the USSR.",
+  "summary_one_paragraph": "Frederick Walters' August 1972 historical study, CS HP 334, outlines the Counterintelligence Operations of the Soviet Russia Division (1946-1965) and highlights the CIA's collaboration with the Warren Commission following President Kennedy's assassination. The study details how the SR/CI/Research Branch responded to requests for information about Lee Harvey Oswald and his connections in the USSR. This included drafting questions for the Soviet government, compiling a chronology of Oswald's time in the USSR, providing name traces, and surveying Soviet use of assassination. The study also notes the discovery of a photograph of Oswald in Minsk by a CIA employee and the process of sanitizing reports for public release in the Warren Commission's report.",
+  "tags": [
+    "CIA",
+    "Warren Commission",
+    "Lee Harvey Oswald",
+    "Counterintelligence",
+    "Soviet Russia Division",
+    "Historical Study",
+    "SR/CI/Research",
+    "Assassination",
+    "DDP"
+  ],
+  "title": "COUNTERINTELLIGENCE OPERATIONS SOVIET RUSSIA DIVISION 1946-1965",
+  "date": "1972-08-01",
+  "locations_mentioned": [
+    "USSR",
+    "Minsk"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Frederick Walters",
+    "David H. Blee",
+    "J. Lee Rankin",
+    "Lee Harvey Oswald",
+    "Allen Dulles",
+    "Tennant H. Bagley",
+    "Petr Deryabin",
+    "Alexander W. Brasko",
+    "W. David Slawson",
+    "Marina Oswald",
+    "Lydia DINNIKOV",
+    "Yekaterina FURTSEVA",
+    "Konstantin Petrovich SERGEEVSKY"
+  ],
+  "recipient": "SB Division, O/DDP",
+  "sender": "Frederick Walters"
+}

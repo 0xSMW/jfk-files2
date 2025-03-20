@@ -1,0 +1,42 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This report details the CIA's MKNAOMI program, including the development and stockpiling of biological and chemical agents for clandestine use, as well as specific devices like dart launchers and microbioinoculators. It also mentions the destruction of most agents but reveals the discovery of shellfish toxin and cobra venom in OTS storage. Sharing this information could expose sensitive operational methods, compromise sources, and reveal previously undisclosed details about CIA activities, potentially damaging the agency's reputation and international relations. Specifically, the report mentions, \"Maintenance of a stockpile of incapacitating and lethal agents in readiness for operational use,\" and \"Adaptation and testing of a non-discernible microbioinoculator...to determine compatibility with various materials...\"",
+  "security_level": "Secret",
+  "summary": "This is an interim report on the CIA's investigation of MKNAOMI, a project involving the development and stockpiling of biological and chemical agents at Fort Detrick for potential clandestine use. The report details the scope of the project, including the types of agents developed, dissemination methods, and the discovery of remaining toxins in CIA storage, as well as potential connections to assassination attempts against Castro.",
+  "summary_one_paragraph": "This interim report, dated July 10, 1975, summarizes the CIA's internal investigation into MKNAOMI, a project involving the agency's relationship with the Army Biological Laboratory at Fort Detrick for the development of biological and chemical warfare agents. The investigation, initiated due to concerns about questionable past activities, uncovered details about the project's objectives, including maintaining a stockpile of lethal and incapacitating agents, developing clandestine dissemination systems, and creating a microbioinoculator. The report also addresses the discovery of shellfish toxin and cobra venom in CIA storage, potential connections to assassination planning (specifically regarding Castro), and the limited records available due to the project's high level of compartmentation.",
+  "tags": [
+    "CIA",
+    "MKNAOMI",
+    "Fort Detrick",
+    "Biological Warfare",
+    "Chemical Warfare",
+    "Clandestine Operations",
+    "Anti-Castro Activities",
+    "Assassination Planning",
+    "Project Discovery",
+    "Toxins",
+    "BW Agents",
+    "CW Agents"
+  ],
+  "title": "[Restricted]",
+  "date": "1975-07-10",
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Philip Buchen",
+    "Carl",
+    "Sayre Stevens",
+    "Tom Nevison",
+    "Tom Karamessines",
+    "Cornelius Roosevelt",
+    "Ray Treichler",
+    "Nathan Gordon",
+    "David Boston",
+    "Rod Hills",
+    "Senator Church",
+    "Helms",
+    "Castro"
+  ],
+  "recipient": "Philip Buchen",
+  "sender": "Carl, Office of the DD/S&T"
+}

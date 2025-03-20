@@ -1,0 +1,32 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Memorandum",
+  "security": "Disclosing E. Howard Hunt's alias (Edward Joseph Hamilton) and the existence of alias birth certificates issued by TSD in connection with the Bay of Pigs operation could compromise covert operations and reveal sensitive information about past activities. Quoting the document: 'Number 63 on the true name list reads E. Howard Hunt and on the alias list, Edward Joseph Hamilton...Most of these alias birth certificates were issued in connection with the Bay of Pigs Operation.'",
+  "security_level": "SECRET",
+  "summary": "A CIA memorandum discusses E. Howard Hunt's alias birth certificate (Edward Joseph Hamilton) and the attempt to recall outstanding alias birth certificates, many of which were issued for the Bay of Pigs operation.",
+  "summary_one_paragraph": "This secret memorandum, dated November 2, 1973, from the Chief of Cover & Commercial Staff to the Acting General Counsel, addresses the issue of E. Howard Hunt's alias birth certificate and the CIA's effort to recall outstanding alias birth certificates, particularly those issued during the Bay of Pigs operation. The memo clarifies that Hunt possessed a tourist card under the alias Edward Joseph Hamilton, not a U.S. passport, and explains that this information surfaced during discussions with the Special Prosecutor's office regarding U.S. passports issued to Hunt. The memo also details how a list of true names and corresponding aliases, obtained from TSD, revealed Hunt's alias but had been overlooked in previous reviews of his cover file.",
+  "tags": [
+    "CIA",
+    "E. Howard Hunt",
+    "Alias Birth Certificate",
+    "Bay of Pigs",
+    "Tourist Card",
+    "Edward Joseph Hamilton",
+    "Covert Operations",
+    "Special Prosecutor"
+  ],
+  "title": "Mr. E. Howard Hunt - Alias Birth Certificate",
+  "date": "1973-11-02",
+  "persons_mentioned": [
+    "E. Howard Hunt",
+    "John S. Warner",
+    "Robert Bennett",
+    "Silbert",
+    "Skip Dunn",
+    "John Richards",
+    "James W. Franklin",
+    "Robert Johnson"
+  ],
+  "recipient": "Acting General Counsel",
+  "sender": "Chief, Cover & Commercial Staff"
+}

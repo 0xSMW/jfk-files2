@@ -1,0 +1,26 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "The document pertains to the transfer of alias documents for David Morales, including credentials, driver's licenses, and various membership cards. Revealing that the CIA creates and manages alias identities and documentation for its personnel could expose sensitive operational methods and compromise the security of clandestine operations. Direct quote: 'Foreign Resources Division is transferring the following alias documents to WH Division.'",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A memorandum from the Foreign Resources (FR) Plans Chief Robert Baker to WH/Security, regarding the transfer of alias documents for David Morales, including various identification cards and a Mexican passport.",
+  "summary_one_paragraph": "On July 25, 1973, Robert Baker, Chief of FR/Plans, sent a memo to WH/Security, specifically E.A. Cahill, detailing the transfer of alias documents for David Morales. These documents include a CIA credential, a Maryland driver's license, a Social Security card, insurance cards, club cards under the name Miguel P. COSSIO, and a Florida driver's license, library card, AAA card, Social Security card, club cards and a Pan American Bank card under the name Diego S. MARDONES, plus a MEXICAN PASSPORT. The memo indicates these documents are being held and will not be issued without Cahill's approval, suggesting a specific project need.",
+  "tags": [
+    "CIA",
+    "Alias Documents",
+    "David Morales",
+    "FR/Plans",
+    "WH/Security"
+  ],
+  "title": "Transfer of Alias Documents - David Morales",
+  "date": "1973-07-25",
+  "persons_mentioned": [
+    "Miguel P. Cossio",
+    "Diego S. Mardones",
+    "David Morales",
+    "E. A. Cahill",
+    "Robert Baker"
+  ],
+  "recipient": "WH/Security",
+  "sender": "C/WH/Security, E. A. Cahill; Robert Baker (Chief, FR/Plans)"
+}

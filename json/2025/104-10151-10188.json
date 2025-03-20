@@ -1,0 +1,33 @@
+{
+  "classification": "Liaison",
+  "document_type": "Journal",
+  "security": "Revealing the details of CIA interactions with Congressional committees, such as discussing potential difficulties with open sessions on terrorism or the destruction of files, could damage the CIA's reputation and compromise its relationships with these committees. Directly quoting: 'an open session for CIA on the subject of terrorism would probably cause us some difficulty' and 'the House Select Committee on Assassinations had strongly urged us not to [destroy files].'",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A journal entry detailing the Office of Legislative Counsel's interactions with the House Permanent Select Committee on Intelligence and the House Select Committee on Assassinations, covering topics such as terrorism hearings, codeword cover sheets, file destruction, and intelligence reports.",
+  "summary_one_paragraph": "This journal entry from the Office of Legislative Counsel on May 1, 1978, outlines several liaison activities with House committees. It includes setting up a meeting about terrorism with Herb Romerstein of the House Permanent Select Committee on Intelligence, discussing codeword cover sheets and safe removal with Alan Brown, providing recess schedule information to Joyce Early, explaining the impediment to CIA file destruction to Loch Johnson (due to the House Select Committee on Assassinations' urging), and arranging for the delivery of intelligence reports to Joe DiGiorgio of the GAO via the Panama regional office.",
+  "tags": [
+    "CIA",
+    "Legislative Counsel",
+    "House Permanent Select Committee on Intelligence",
+    "House Select Committee on Assassinations",
+    "Terrorism",
+    "File Destruction",
+    "GAO",
+    "Intelligence Reports"
+  ],
+  "title": "Journal - Office of Legislative Counsel",
+  "date": "1978-05-01",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Herb Romerstein",
+    "Dave Millbank",
+    "Ed Mickolus",
+    "Pat Taylor",
+    "Alan Brown",
+    "Joyce Early",
+    "Loch Johnson",
+    "Joe DiGiorgio"
+  ],
+  "recipient": "Office of Legislative Counsel",
+  "sender": "MMP"
+}

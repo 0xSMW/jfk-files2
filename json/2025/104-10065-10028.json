@@ -1,0 +1,32 @@
+{
+  "classification": "Personnel, Operations, Soviet",
+  "document_type": "Record",
+  "security": "Disclosing operational details such as the use of basehouses for surveillance against the Soviet Embassy and the identities of personnel involved (e.g., Ramon Joseph ALVAREZ, Oliver G. SCANTLING, Jorge Barcello VILLAGRAn Alvarez) could compromise current or future intelligence operations and endanger individuals who were or are associated with these activities. The document mentions specific operational codenames (LIEMPTY, LIMITED, LILYRIC, LICALLA, LIENTRAP) which, if exposed, could allow adversaries to identify and counteract similar operations. The document says, \"In order provide maximum compartmentation between the various basehouses, Oliver G. SCANTLING was inserted as the cutout to the LIMITED basehouse\" and \"ALVAREZ continued as cutout for the LIENTRAP (roving van), LICALLA and LILYRIC.\" This level of detail about operational roles and methods could be exploited by hostile intelligence services.",
+  "security_level": "SECRET",
+  "summary": "This document details Ramon Joseph ALVAREZ's recruitment and activities within a CIA surveillance team targeting the Soviet Mission, including his role in managing basehouses and photo surveillance, as well as personnel changes and operational specifics related to Project LIEMPTY.",
+  "summary_one_paragraph": "The document outlines the operational history of Ramon Joseph ALVAREZ, who was recruited in March 1955 for a CIA surveillance team and later became a contract agent managing photo surveillance of the Soviet Mission under Project LIEMPTY. It details his responsibilities for various basehouses (LIMITED, LILYRIC, LICALLA) used for surveillance, his marriage to LIEMPTY-19 (Hester ROOS) who assisted him, the insertion of Oliver G. SCANTLING as a cutout for LIMITED, and ALVAREZ's subsequent divorce and termination. The document also notes that a photo of a man alleged to be Oswald was taken from the LIMITED basehouse and that LIEMPTY-6 (Jorge Barcello VILLAGRAn Alvarez) was the photo tech who took the pictures in 1963, when OSWALD allegedly visited the Soviet Embassy.",
+  "tags": [
+    "CIA",
+    "Surveillance",
+    "Soviet Embassy",
+    "LIEMPTY",
+    "LIMITED",
+    "LILYRIC",
+    "LICALLA",
+    "Ramon Joseph ALVAREZ",
+    "Oliver G. SCANTLING",
+    "Hester ROOS",
+    "Jorge Barcello VILLAGRAn Alvarez",
+    "Oswald",
+    "Photo Surveillance"
+  ],
+  "title": "Ramon Joseph ALVAREZ Durant",
+  "persons_mentioned": [
+    "Ramon Joseph ALVAREZ Durant",
+    "Hester ROOS",
+    "Oliver G. SCANTLING",
+    "Jorge Barcello VILLAGRAn Alvarez",
+    "Oswald"
+  ],
+  "sender": "CIA Station (unilateral surveillance team recruitment information included in document notes, although actual sender not specified.)"
+}

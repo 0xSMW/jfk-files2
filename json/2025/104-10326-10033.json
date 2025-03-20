@@ -1,0 +1,30 @@
+{
+  "classification": "Administrative",
+  "document_type": "Cable",
+  "security": "The document outlines the process for informing former employees that their names appear in JFK assassination records and could be publicly released. It includes the grounds for postponement of public disclosure and advises the station on how to assist the former employee in communicating with headquarters. Releasing these internal procedures could reveal the Agency's methods for managing sensitive information and protecting former employees. Specifically, the line, \"THE IMPACT OF THE RELEASE OF THE RELATIONSHIP OF YOUR TRUE NAME AND THE AGENCY WILL HAVE TO BE LOOKED AT CAREFULLY TO DETERMINE THE VIABILITY OF CONTINUED COVER PROTECTION\" indicates the sensitivity of maintaining cover.",
+  "security_level": "SECRET",
+  "summary": "A cable from the CIA's Office of Collection Coordination (OCC) to the Caracas station requesting assistance in contacting a former employee residing in Caracas to inform them about the potential public release of their name in JFK assassination records, as mandated by the President John F. Kennedy Assassination Records Collection Act of 1992.",
+  "summary_one_paragraph": "This cable, sent on March 6, 1997, from the CIA's OCC to the Caracas station, concerns the impending release of JFK assassination records as mandated by the President John F. Kennedy Assassination Records Collection Act of 1992. The cable requests the Caracas station to contact a former Agency employee living in Caracas, inform them that their name appears in documents being reviewed for public release, and explain the implications of this release. It includes a form letter to be delivered to the former employee, outlining their rights and options, including the possibility of requesting postponement of the release of their name if they can demonstrate a credible threat to themselves, their family, or sensitive activities. The cable also provides answers to frequently asked questions about the release process and emphasizes the need for specific details if the former employee wishes to prevent the release of their name.",
+  "tags": [
+    "CIA",
+    "JFK Assassination Records Act",
+    "Public Release",
+    "Former Employee",
+    "Cover Protection",
+    "OCC",
+    "Caracas Station",
+    "WNINTEL"
+  ],
+  "title": "Request for Station Assistance Regarding JFK Assassination Records Act",
+  "date": "1997-03-06",
+  "locations_mentioned": [
+    "Caracas",
+    "Washington, DC"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Beth Mills"
+  ],
+  "recipient": "Caracas Station",
+  "sender": "Chief/OCC"
+}

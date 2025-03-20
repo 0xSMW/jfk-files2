@@ -1,0 +1,26 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security": "This cable discusses the planned visit of HIDALE/2, Chief of NIGALE Service, to JEFTONS in February 1964. Sharing this information could compromise operational security by revealing planned meetings and relationships between individuals involved in intelligence activities.",
+  "security_level": "SECRET",
+  "summary": "A secret cable from the Director to JEWAVE, relaying information about HIDALE/2's planned visit to JEFTONS in February 1964 and requesting confirmation of convenience.",
+  "summary_one_paragraph": "This secret cable, dated December 10, 1963, is from the Director to JEWAVE, concerning a planned visit by HIDALE/2 (Chief of NIGALE Service) to JEFTONS from February 16-19, 1964, prior to HIDALE/2's return to Brussels. The message indicates that HIDALE/2 is a personal friend of JEFTONS and plans a personal visit to 'polish MOS tales'. The cable requests confirmation as to whether the visit is convenient and mentions that a HQS officer will escort HIDALE/2.",
+  "tags": [
+    "CIA",
+    "HIDALE/2",
+    "JEFTONS",
+    "NIGALE Service",
+    "Visit",
+    "Brussels",
+    "Operational Planning"
+  ],
+  "title": "HIDALE/2 Visit to JEFTONS in February 1964",
+  "date": "1963-12-10",
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "HIDALE/2",
+    "JEFTONS"
+  ],
+  "recipient": "JEWAVE",
+  "sender": "Director"
+}

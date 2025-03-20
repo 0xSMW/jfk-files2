@@ -1,0 +1,26 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Releasing information about ongoing investigations or intelligence-gathering activities could compromise sources or methods. Additionally, any data that reveals personal information, such as an individual's date and place of birth, military service number, or family relationships, could potentially violate privacy if improperly disclosed.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report regarding Manuel Marti, providing information from the FBI indicating they have no information on file about Marti, other than what may appear in reports on his father.",
+  "summary_one_paragraph": "This agent report, dated November 22, 1968, concerns Manuel Marti, a Private E-1 in the U.S. Army. Harold Bloom of the 108th MI Group (I-NYFO) submitted the report, referencing control symbol 8240-6019. The report indicates that on September 26, 1968, the New York Office of the FBI furnished information stating they have no records on Manuel Marti other than what might appear in FBI reports about Marti's father, which have already been provided to the 108th Military Intelligence Group.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "DOD",
+    "Personnel Incident Investigations",
+    "FBI",
+    "Local Agency Check",
+    "Manuel Marti"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1968-11-22",
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Harold Bloom",
+    "Robert C. Sheaffer"
+  ],
+  "sender": "BLOOM, HAROLD"
+}

@@ -1,0 +1,32 @@
+{
+  "classification": "Security",
+  "document_type": "Office Memorandum",
+  "security": "Revealing that Balmes Nieves Hidalgo Jr. is a contract employee for the Travel Control Project, specifically in Panama, and discussing the logistics of his potential testimony or interview, could expose sensitive operational details and compromise ongoing intelligence activities. Quoting directly: 'Subject was presently a Contract Employee whose services are being utilized in (Panama) under the Travel Control Project.' Discussing how quickly Hidalgo could be recalled to the United States could also reveal operational readiness and contingency plans.",
+  "security_level": "SECRET",
+  "summary": "A memo from the Chief of the Special Referral Branch to the Deputy Chief of the Special Security Division discusses the availability of Balmes Nieves Hidalgo, Jr., a contract employee in Panama under the Travel Control Project, for testimony or interview regarding the Subversive Activities Control Board.",
+  "summary_one_paragraph": "This secret memorandum, dated October 21, 1953, addresses the availability of Balmes Nieves Hidalgo, Jr., identified as #65077, who is working in Panama under the Travel Control Project, for potential testimony before the Subversive Activities Control Board or an FBI interview. The memo summarizes an interview with Mr. William B. Caldwell, Chief of WH/FI, who indicates that Hidalgo could be made available within 24 hours if necessary, though using CIA to transmit questions and receive answers is the preferred method. The memo also notes a correction in Hidalgo's name, as identified by Miss Helen Poindexter, and states that no further investigation is planned unless otherwise advised.",
+  "tags": [
+    "Balmes Nieves Hidalgo Jr.",
+    "Travel Control Project",
+    "Subversive Activities Control Board",
+    "FBI",
+    "Panama",
+    "CIA",
+    "Security Information"
+  ],
+  "title": "HIDALGO, Jr., Balmes Nieves",
+  "date": "1953-10-21",
+  "locations_mentioned": [
+    "United States",
+    "Panama"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Balmes Nieves Hidalgo Jr.",
+    "William B. Caldwell",
+    "Helen Poindexter",
+    "Charles W. Kane"
+  ],
+  "recipient": "Deputy Chief, Special Security Division",
+  "sender": "Chief, Special Referral Branch"
+}

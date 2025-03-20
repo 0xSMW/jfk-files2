@@ -1,0 +1,26 @@
+{
+  "classification": "Security",
+  "document_type": "Agreement",
+  "security": "This is an agreement acknowledging the signee understands their obligations regarding their employment status with the United States Government. The document explicitly states 'no change in my employment status or relationship with the United States Government will relieve me of my obligation under this Agreement.' Disclosing this agreement could reveal the existence of sensitive projects and the involvement of specific individuals, potentially compromising national security and operational effectiveness.",
+  "security_level": "SECRET",
+  "summary": "This document is an agreement signed by dient Reidenheimen acknowledging their understanding of obligations related to their employment status and relationship with the United States Government, specifically regarding Projects JENNIFER (AZORIAN, URALITE, LYRICAL, TAMBOURINE, CROFTON). Clare Boothe Luce is listed as a witness.",
+  "summary_one_paragraph": "This is a signed agreement (M342000-L) indicating that Dient Reidenheimen understands that their obligations under the agreement will not be relieved by any change in employment status or relationship with the U.S. Government. It also confirms they were advised on procedures for determining identities of individuals with access to 'Project JENNIFER (AZORIAN, URALITE, LYRICAL, TAMBOURINE, CROFTON)' and how to resolve any questions under the agreement. The agreement is witnessed by Clare Boothe Luce and includes a reference to PFIAB.",
+  "tags": [
+    "Agreement",
+    "Security Clearance",
+    "Project JENNIFER",
+    "AZORIAN",
+    "URALITE",
+    "LYRICAL",
+    "TAMBOURINE",
+    "CROFTON",
+    "Clare Boothe Luce",
+    "PFIAB"
+  ],
+  "title": "Agreement Regarding Employment Status and Project Obligations",
+  "persons_mentioned": [
+    "dient Reidenheimen",
+    "Clare Boothe Luce"
+  ],
+  "sender": "Gelar Luce"
+}

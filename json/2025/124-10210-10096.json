@@ -1,0 +1,34 @@
+{
+  "classification": "Mexico",
+  "document_type": "Memorandum",
+  "security": "This letter is classified confidential and not to be reported for dissemination.",
+  "security_level": "Confidential",
+  "summary": "A memorandum from the FBI's Mexico City office to the FBI Director regarding the deportation of Samuel M. Giancana from Mexico, including information from the CIA and Mexican officials.",
+  "summary_one_paragraph": "On November 5, 1974, the FBI's Mexico City office sent a memorandum to the FBI Director concerning the deportation of Samuel M. Giancana from Mexico. The memo references an earlier airtel and includes information from the CIA, specifically from Mr. Rod Marshall, who indicated that information possibly originating from the Drug Enforcement Administration (DEA) was furnished to Fernando Gutierrez Barrios, the Subsecretary of Gobernacion, which deported Giancana. Gutierrez Barrios stated the deportation was due to Giancana's illegal presence in Mexico, not criminal activities, and the memo notes some inconsistencies in the information provided by Marshall, as well as the possibility that Giancana was expelled due to his Mafia connections amidst increased emphasis on narcotics enforcement.",
+  "tags": [
+    "FBI",
+    "Mexico City",
+    "Samuel M. Giancana",
+    "Deportation",
+    "CIA",
+    "DEA",
+    "Fernando Gutierrez Barrios",
+    "Gobernacion",
+    "Mafia"
+  ],
+  "title": "SAMUEL M. GIANCANA, aka",
+  "date": "1974-11-05",
+  "locations_mentioned": [
+    "Mexico City",
+    "Mexico"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Samuel M. Giancana",
+    "Rod Marshall",
+    "Fernando Gutierrez Barrios",
+    "HARRINGTON"
+  ],
+  "recipient": "DIRECTOR, FBI",
+  "sender": "LEGAT, MEXICO CITY"
+}

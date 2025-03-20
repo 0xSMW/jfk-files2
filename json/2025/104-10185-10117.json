@@ -1,0 +1,42 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "Revealing that the CIA is collecting personality information on foreign officials could compromise intelligence gathering operations. Additionally, confirming Jose Fernandez’s anti-communist stance and his value to Castro could affect Cuban internal dynamics. Quoting directly: 'It is requested that the addressees take no action on any of the individuals mentioned in the personality reports without first checking with this Agency.'",
+  "security_level": "SECRET",
+  "summary": "This report details information on Jose Fernandez, a high-ranking Cuban military officer, noting his roles in army training, defense preparations, and his complex relationship with the Castro regime.",
+  "summary_one_paragraph": "This August 1964 CIA report compiles personality information on Jose Fernandez, a key figure in the Cuban military. The report, sourced from a former Cuban Intelligence officer and supplemented by agency records, describes Fernandez as the chief of all army training schools and a significant military strategist, particularly in defense preparations. Despite attending artillery schools in the U.S. and being described as non-Communist, Fernandez maintains a crucial role under Fidel Castro due to his military expertise, even though Castro is likely aware of Fernandez's anti-Communist leanings. The CIA cautions against taking any action against Fernandez without consulting the Agency.",
+  "tags": [
+    "Cuba",
+    "Jose Fernandez",
+    "Cuban Military",
+    "Training",
+    "Anti-Communist",
+    "Castro Regime",
+    "CIA",
+    "Personality Report",
+    "Intelligence",
+    "FOIA"
+  ],
+  "title": "JOSE FERNANDEZ",
+  "date": "1964-08-21",
+  "locations_mentioned": [
+    "Cuba",
+    "Washington, D.C.",
+    "Rome",
+    "Habana",
+    "Playa Giron",
+    "Miami",
+    "Soviet Union",
+    "Moscow"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Jose Fernandez",
+    "Fidel Castro",
+    "Raul Castro",
+    "Enrique Lister",
+    "Batista"
+  ],
+  "recipient": "STATE, DIA, ARMY, NAVY, AIR, NSA, OCR, FBI, REP, CINCLANT, CINCSO, I&NS",
+  "sender": "CIA"
+}

@@ -1,0 +1,26 @@
+{
+  "classification": "Kennedy Assassination",
+  "document_type": "Classified Message",
+  "security": "The message is short, but reveals operational codenames (AMLONG) and a query related to identity, which could compromise intelligence sources and methods if exposed. Quoting: 'IDENTITY A ALFREDO DAVINS'",
+  "security_level": "SECRET",
+  "summary": "A highly redacted CIA message from Director to Mexico City station concerning project 'AMLONG' and an individual named Alfredo Davins.",
+  "summary_one_paragraph": "This SECRET-level classified message, dated October 5, 1963, originates from the Director of the CIA and is addressed to the Mexico City station. The message refers to project 'AMLONG' and includes a query about the identity of an individual named Alfredo Davins.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "AMLONG",
+    "Alfredo Davins",
+    "Identity"
+  ],
+  "title": "Message regarding AMLONG and Alfredo Davins",
+  "date": "1963-10-05",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Alfredo Davins"
+  ],
+  "recipient": "Mexico City Station",
+  "sender": "Director"
+}

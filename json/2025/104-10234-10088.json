@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Message Form",
+  "security": "Revealing that XPORTELA contacted AMLASH-1 and APMWHIP-1 on behalf of WAVE could expose sources and methods used to gather intelligence on Cuban activities, potentially jeopardizing ongoing or future operations. Quoting directly: 'XPORTELA States Jeweler who CONTACTED Him MIAMI Hotel EARLY FALL 64 BEHALF AMLASH-1 AND APMWHIP-I.'",
+  "security_level": "SECRET/S",
+  "summary": "A message indicating concurrence with action para 3 of WAVE 7531, referencing XPORTELA's contact with AMLASH-1 and APMWHIP-1 in Miami on behalf of WAVE.",
+  "summary_one_paragraph": "This message form, dated January 27, 1965, indicates that JMHAVE Paris concurs with action paragraph 3 of WAVE 7531. The message highlights that XPORTELA, identified as a jeweler, contacted AMLASH-1 and APMWHIP-1 in a Miami hotel in the early fall of 1964 on behalf of WAVE.",
+  "tags": [
+    "AMLASH",
+    "APMWHIP",
+    "WAVE",
+    "Cuba",
+    "Miami",
+    "XPORTELA",
+    "JMHAve"
+  ],
+  "title": "AMLASH MHAPRON ANGABE",
+  "date": "1965-01-27",
+  "locations_mentioned": [
+    "Paris",
+    "Miami"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "XPORTELA",
+    "AMLASH-1",
+    "APMWHIP-1"
+  ],
+  "recipient": "JMHAVE PARIS",
+  "sender": "DCICRO"
+}

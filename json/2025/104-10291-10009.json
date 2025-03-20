@@ -1,0 +1,39 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "This document reveals internal CIA processes for gathering commercial and financial intelligence on private organizations, including using bank sources and commercial reports. Quoting directly: “If the D & D report does not contain the financial information desired, would you please try to obtain this information through your bank sources.” Disclosing these methods could impede future intelligence-gathering efforts and damage relationships with commercial entities or banks.",
+  "security_level": "SECRET",
+  "summary": "This file contains documents reviewed by the House Select Committee on Assassinations staff regarding Permindex Corporation. The documents primarily consist of internal communications within the CIA regarding attempts to gather information on Permindex Ltd. and the Centro Mondiale Commerciale (World Trade Center) from 1959 to 1960.",
+  "summary_one_paragraph": "This file includes CIA internal documents from 1959 to 1960, focusing on the agency’s efforts to gather commercial and financial intelligence on Permindex Ltd., a Swiss corporation, and its relation to the Centro Mondiale Commerciale (World Trade Center) in Rome. The memoranda detail requests for Dun & Bradstreet reports, information from bank sources, and background checks on individuals connected to Permindex, including former Hungarian Prime Minister Ferenc Nagy. Additionally, it references information obtained from sources such as the New York Times, the Daily American in Rome, and the U.S. Chamber of Commerce.",
+  "tags": [
+    "CIA",
+    "Permindex",
+    "World Trade Center",
+    "Commercial Intelligence",
+    "Ferenc Nagy",
+    "House Select Committee on Assassinations",
+    "HSCA"
+  ],
+  "title": "PERMINDEX CORP. ICD DOCUMENTS",
+  "date": "1959-11-30",
+  "locations_mentioned": [
+    "Switzerland",
+    "Rome",
+    "New York City",
+    "Basel"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Ferenc Nagy",
+    "Enrico Mandel-Mantello",
+    "Fritz Schurch",
+    "Ernst W. Infeld",
+    "Ernst Feisst",
+    "Lillian I. Grant",
+    "K.M. Ashcraft",
+    "Charles P. White",
+    "Lloyd McMahon"
+  ],
+  "recipient": "Chief, Contact Division (Support)",
+  "sender": "Chief, New York Office"
+}

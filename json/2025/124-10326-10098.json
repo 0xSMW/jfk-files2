@@ -1,0 +1,29 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security": "Disclosing that James Angleton is treated as a \"Confidential Informant\" and the details of his information sharing arrangement with the FBI could compromise intelligence sources and methods. Quoting from the document: \"Angleton more or less falls into the category of a Confidential Informant. He furnishes information of a sensitive nature and it is, therefore, believed that when disseminating his data, he should be protected as a source.\"",
+  "security_level": "Secret",
+  "summary": "FBI memo from V. P. Keay to A. R. Belmont discussing James Angleton (CIA) as a Bureau source and recommending procedures for handling the information received from him.",
+  "summary_one_paragraph": "On June 10, 1953, V. P. Keay of the FBI sent a memo to A. R. Belmont regarding James Angleton, a CIA official who heads the Special Projects unit and provides valuable intelligence to the Bureau. Keay recommends establishing a control file for Angleton's communications and alerting Section Chiefs on how to securely handle his information, as Angleton is considered a confidential informant who has been very cooperative in volunteering information and following up on Bureau leads. The memo details Angleton's access to foreign intelligence sources, including the Israeli Intelligence Service, Jay Lovestone's AFL reports, and various intelligence services in Europe, as well as his authorized cooperation with the FBI under directives from General Walter Bedell Smith and Allen Dulles.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "James Angleton",
+    "Bureau Source",
+    "Confidential Informant",
+    "Intelligence Liaison",
+    "Special Projects"
+  ],
+  "title": "CENTRAL INTELLIGENCE AGENCY - INFORMATION RECEIVED FROM JAMES ANGLETON",
+  "date": "1953-06-10",
+  "persons_mentioned": [
+    "James Angleton",
+    "A. R. Belmont",
+    "V. P. Keay",
+    "Jay Lovestone",
+    "Walter Bedell Smith",
+    "Allen Dulles"
+  ],
+  "recipient": "Belmont",
+  "sender": "Keay"
+}

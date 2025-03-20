@@ -1,0 +1,31 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Releasing personal information such as Social Security number and date of birth could violate privacy. Also, the document is marked 'FOR OFFICIAL USE ONLY,' indicating that unauthorized disclosure could be detrimental to internal procedures.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report documents the interview of Robert Scheer at the Armed Forces Examining and Entrance Station in Oakland, California, where he requested counsel before answering questions regarding his qualification for DD Forms and submitted documents substantiating his views on US policies.",
+  "summary_one_paragraph": "On October 5, 1966, Robert Scheer was interviewed at the Armed Forces Examining and Entrance Station in Oakland, California, where he stated his desire to have counsel present before answering questions about his qualifications on DD Forms 98 and 398. He also submitted documents, attached as EXHIBITS I, II, III, IV, and V, that substantiated his views on US policies. The agent report, filed by L. Lewis of the 115th INTC Gp(I) on October 11, 1966, summarizes this interview.",
+  "tags": [
+    "Robert Scheer",
+    "Agent Report",
+    "Armed Forces Examining and Entrance Station",
+    "Oakland",
+    "California",
+    "US Policies",
+    "DD Forms 98",
+    "DD Forms 398",
+    "Interview"
+  ],
+  "title": "Subject Interview Report of Findings",
+  "date": "1966-10-11",
+  "locations_mentioned": [
+    "Bronx, New York",
+    "Berkeley, California",
+    "Oakland, California"
+  ],
+  "origin_agency": "CSF/INSCOM",
+  "persons_mentioned": [
+    "Robert Scheer",
+    "L. Lewis"
+  ]
+}

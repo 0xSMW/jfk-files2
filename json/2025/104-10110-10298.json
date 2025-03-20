@@ -1,0 +1,26 @@
+{
+  "classification": "Personnel",
+  "document_type": "Request",
+  "security": "Revealing that Ms. Bustos-Videla is assigned to the Trinidad Station and is being placed under Nominal State cover for her future Headquarters assignment, could potentially compromise her identity and endanger ongoing operations. Directly quoting: 'Ms. Bustos-Videla is currently assigned to the Trinidad Station under Integrated State cover. It is requested that she be placed under Nominal State cover for her future Headquarters assignment.' This could risk the integrity of personnel security measures, future operations relying on cover, and relationships with foreign government.",
+  "security_level": "SECRET",
+  "summary": "A request to change Charlotte Bustos-Videla's official cover from Integrated State to Nominal State for her future Headquarters assignment after serving in the Trinidad Station.",
+  "summary_one_paragraph": "This document is a request from Jonathan G. Hanke, C/LA/PEMS, to the CCS/Official Cover Branch to change Charlotte Bustos-Videla's official cover status from Integrated State to Nominal State due to her reassignment from the Trinidad Station to Headquarters; it indicates that her CIA affiliation has not been voluntarily declared or involuntarily exposed, and provides a justification for the requested action, which involves her role within the CIA; the Office of Security reviews the request for any exposure, compromise, security, or other pertinent factors, and upon approval, the cover change is implemented.",
+  "tags": [
+    "Official Cover",
+    "Personnel Security",
+    "Charlotte Bustos-Videla",
+    "Trinidad Station",
+    "Nominal State Cover",
+    "Integrated State Cover",
+    "Headquarters Assignment",
+    "Jonathan G. Hanke",
+    "Security"
+  ],
+  "title": "Request Official Cover Action",
+  "persons_mentioned": [
+    "Charlotte Bustos-Videla",
+    "Jonathan G. Hanke"
+  ],
+  "recipient": "CCS/Official Cover Branch",
+  "sender": "Jonathan G. Hanke, C/LA/PEMS"
+}

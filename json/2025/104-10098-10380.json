@@ -1,0 +1,26 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "This cable contains operational details regarding the handling of an individual ('WELCOME HOS') upon arrival in Mexico City. Revealing the identity of 'WELCOME HOS' and the arrangements made for their arrival could compromise their security and any related intelligence operations. Specifically, the cable states 'PLS PROVIDE IDEN AND ETA SO CAM HEET AIRPORT,' indicating a planned meeting.",
+  "security_level": "SECRET",
+  "summary": "A SECRET cable from Mexico City to the Director requests the identity and ETA of 'WELCOME HOS' so that 'CAM' can meet them at the airport.",
+  "summary_one_paragraph": "This is a SECRET cable dispatched from Mexico City on December 20, 1963, addressed to the Director. The message, assigned priority and referencing 'MEXI 7458' and 'IN 84770,' pertains to an individual referred to as 'WELCOME HOS'. The cable requests the Director to provide the identity (IDEN) and estimated time of arrival (ETA) of 'WELCOME HOS' to enable 'CAM' to meet them at the airport. The cable also references 'REDWOOD REDSKIN' and 'PEF DIR 90368'.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "Cable",
+    "WELCOME HOS",
+    "CAM",
+    "Airport",
+    "REDWOOD REDSKIN",
+    "PEF DIR 90368"
+  ],
+  "title": "Request for Identity and ETA of WELCOME HOS",
+  "date": "1963-12-20",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "Director",
+  "sender": "Mexico City"
+}

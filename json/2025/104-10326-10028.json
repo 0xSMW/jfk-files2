@@ -1,0 +1,42 @@
+{
+  "classification": "Operations",
+  "document_type": "Contact Report",
+  "security": "Revealing agent's cryptonym (BRACERB/17), COS's name (PHALEN), subsources (BRCOYOTE/1, MAC, VPMARTIAL/1) and methods of communication (brush pass at Executive Health Club lockeroom) could compromise the agent and sources, and the operational methods.",
+  "security_level": "SECRET",
+  "summary": "A contact report details a meeting between a COS (Case Officer) named PHALEN and asset BRACERB/17, covering operational tasks including an upcoming HOS trip, acquiring intelligence on SANDF efforts against Zimbabwe, and tasking on Zaire; the report also mentions a bizarre JFK conspiracy account written by Roy Robin Mullins.",
+  "summary_one_paragraph": "This SECRET contact report, dated May 14, 1997, outlines a meeting between COS PHALEN and recruited asset BRACERB/17 in Harare. The discussion covered operational matters such as the agent's upcoming HOS trip, acquisition of updated intelligence from subsource BRCOYOTE/1, and tasks related to SANDF efforts against Zimbabwe and developments in Zaire. Additionally, BRACERB/17 provided a bizarre, lengthy JFK conspiracy account written by Roy Robin Mullins, which the COS initially laughed at, before returning it to the agent. The report also addresses administrative issues such as payment for BRCOYOTE/1, a wire transfer for subsource MAC's accommodation exchange, and funds for the agent's travel, as well as maintaining superb atmospherics and security.",
+  "tags": [
+    "Contact Report",
+    "Asset Meeting",
+    "BRACERB/17",
+    "PHALEN",
+    "Intelligence Gathering",
+    "Zimbabwe",
+    "Zaire",
+    "JFK Conspiracy",
+    "Roy Robin Mullins",
+    "RYBAT",
+    "WNINTEL",
+    "BRACERB"
+  ],
+  "title": "Contact Report with BRACERB/17, 201-0969314",
+  "conspiracy": "The report mentions a 'lengthy and bizarre account of JFK conspiracy written by necromancer Roy Robin Mullins', indicating potential interest in gathering such material even if it is considered unusual.",
+  "date": "1997-05-14",
+  "locations_mentioned": [
+    "Harare",
+    "Malawi",
+    "Lusaka",
+    "England"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "BRACERB/17",
+    "PHALEN",
+    "BRCOYOTE/1",
+    "MAC",
+    "VPMARTIAL/1",
+    "Roy Robin Mullins"
+  ],
+  "recipient": "Director, LIMITED DISSEM AF/SG INFO CIC/AF",
+  "sender": "STAFF"
+}

@@ -1,0 +1,33 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "The document details an attempt to locate a character reference for Manuel Marti, including the address used and the results of a physical check and mail correspondence. While the information is marked 'FOR OFFICIAL USE ONLY', disclosing the methodologies used to verify character references and the details of the investigation could potentially expose investigative techniques and compromise future personnel checks.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report details a physical check conducted at an address in the Bronx, New York, to locate Juanita Reyes, a character reference for Manuel Marti, with negative results, indicating Reyes was not found at the listed address.",
+  "summary_one_paragraph": "On November 20, 1968, Special Agent Alphonso E. Marshall of the 108th MI Group (I-SIB) submitted a report detailing efforts to verify a character reference for Manuel Marti, a Private E-1. A physical check was conducted on October 28, 1968, at 1435 Ogden Avenue, Bronx, New York, to locate Juanita Reyes, Marti's listed character reference, but the search was unsuccessful as no listing for Reyes was found in the apartment building, and the building superintendent's wife had no knowledge of her; a courtesy letter sent to Reyes was returned by the Post Office Department as 'Addressee unknown'.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "DOD",
+    "Personnel Investigation",
+    "Character Reference",
+    "Manuel Marti",
+    "Juanita Reyes",
+    "Bronx, New York",
+    "Agent Report"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1968-11-20",
+  "locations_mentioned": [
+    "Bronx, New York",
+    "San Juan, Puerto Rico",
+    "1435 Ogden Avenue, Bronx, New York"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Juanita Reyes",
+    "Alphonso E. Marshall"
+  ],
+  "sender": "[RESTRICTED]"
+}

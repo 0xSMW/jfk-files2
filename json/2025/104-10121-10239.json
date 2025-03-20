@@ -1,0 +1,27 @@
+{
+  "classification": "Personnel",
+  "document_type": "Background Use Only",
+  "security": "This document contains personal information about individuals working for the CIA, including their names, employment details (GS level, EOD), and relationships to the subject. Releasing this information could violate privacy, compromise personnel security, and potentially expose current staff members. Directly quoting: \"Subject's spouse is a current GS-9 staff employee who EOD in March 1956. N.D.\"",
+  "security_level": "SECRET",
+  "summary": "This document provides background information on several individuals related to Sara Sioux (Barnes) Gray, including her spouse, son, supervisors, and SR (Security Representative), noting their employment status, Entry on Duty (EOD) dates, and any derogatory information.",
+  "summary_one_paragraph": "This document, marked \"Background Use Only,\" details employment information related to Sara Sioux (Barnes) Gray. It lists several individuals connected to her, including her spouse (a GS-9 staff employee), a son who was a summer contract employee, an SR (a GS-10 staff employee), and multiple supervisors (GS-15 and GS-14 staff employees). The document notes their employment status, Entry on Duty (EOD) dates, and whether any pertinent derogatory information exists, such as an SRS flag sheet dated 6 March 1956 in one staff member's file.",
+  "tags": [
+    "Personnel",
+    "Background Check",
+    "Employment Details",
+    "Sara Sioux (Barnes) Gray",
+    "Security Representative (SR)"
+  ],
+  "title": "Background Information on Sara Sioux (Barnes) Gray and Related Individuals",
+  "persons_mentioned": [
+    "Sara Sioux (Barnes) Gray",
+    "John Franklin Gray",
+    "Claude Griffith Panner, Jr.",
+    "Claude G. Fenker",
+    "David Sanchez Morales",
+    "Charles Hunter Pocher",
+    "Forrest Shivers",
+    "Donald George Vorits"
+  ],
+  "recipient": "CIA"
+}

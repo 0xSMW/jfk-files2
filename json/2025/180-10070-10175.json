@@ -1,0 +1,30 @@
+{
+  "classification": "Personnel",
+  "document_type": "Payroll Records",
+  "security": "The document contains personally identifiable information (PII) in the form of Social Security numbers. The Review Board determined that the public disclosure of these numbers could reasonably be expected to constitute an unwarranted invasion of personal privacy, which outweighs the public interest.",
+  "security_level": "Unclassified",
+  "summary": "This document is a collection of payroll authorization forms and related memoranda for James Lerer Wolf, an employee of the House Select Committee on Assassinations (HSCA), spanning from December 1976 to January 1979. The forms detail his appointments, salary adjustments, and title changes within the committee, signed by authorizing officials such as Louis Stokes and Henry B. Gonzalez.",
+  "summary_one_paragraph": "This collection of documents primarily consists of payroll authorization forms and a related memorandum concerning James Lerer Wolf's employment with the House Select Committee on Assassinations (HSCA) between December 1976 and January 1979. These forms, authorized by figures such as Louis Stokes and Henry B. Gonzalez, outline various personnel actions including Wolf's initial appointment, subsequent salary adjustments, and changes in his position titles. Additionally, there is a memo addressing payroll certification requirements, particularly concerning the relationships of staff employees to members of Congress.",
+  "tags": [
+    "HSCA",
+    "Payroll Records",
+    "James Lerer Wolf",
+    "Louis Stokes",
+    "Henry B. Gonzalez",
+    "Social Security Numbers",
+    "Payroll Authorization",
+    "Administration"
+  ],
+  "title": "Staff Payroll Records",
+  "date": "1976-12-20",
+  "origin_agency": "HSCA",
+  "persons_mentioned": [
+    "James Lerer Wolf",
+    "Louis Stokes",
+    "Henry B. Gonzalez",
+    "Richard A. Sprague",
+    "Thomas N. Downing"
+  ],
+  "recipient": "Clerk of the House of Representatives, All Staff Employees",
+  "sender": "Budget Officer"
+}

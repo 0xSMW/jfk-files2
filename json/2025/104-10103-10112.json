@@ -1,0 +1,43 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security": "The document details a covert operation, AMTRUNK, aimed at overthrowing the Cuban government and penetrating high levels of the Cuban military. It also acknowledges the risk to ODACID and QKFLOWAGE:  \"Not only will KUBARK stand to suffer, but ODACID will be tied directly in to the operation, as may also QKFLOWAGE...\"",
+  "security_level": "SECRET",
+  "summary": "A dispatch from the Chief of Station, JMWAVE, to the Chief, Special Affairs Staff, recommending the termination of Project AMTRUNK due to various weaknesses and potential risks, despite the high quality of the agents involved.",
+  "summary_one_paragraph": "This dispatch, dated April 5, 1963, from JMWAVE station, recommends the termination of Project AMTRUNK, an operation aimed at overthrowing the Cuban government. The report cites multiple weaknesses, including a lack of control over AMTRUNK agents who admit to being anti-CIA (KUBARK), high risk of exposure that could implicate ODACID and QKFLOWAGE, questionable security, potential for misunderstandings regarding commitments to agents, and a risky landing point. Despite the quality of the agents and the worthwhile objective, JMWAVE recommends termination while awaiting a decision from Headquarters, but has continued training and planning in the interim.",
+  "tags": [
+    "CIA",
+    "JMWAVE",
+    "AMTRUNK",
+    "Cuba",
+    "Covert Operation",
+    "Castro",
+    "Infiltration",
+    "Exfiltration"
+  ],
+  "title": "Operational/TYPIC/AMTRUNK Project AMTRUNK Operational Review",
+  "date": "1963-04-05",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Plantation Key",
+    "Cinco Leguas Key",
+    "Matanzas",
+    "Miami",
+    "New York"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Andrew S. Parmers",
+    "Irving N. Peggins",
+    "Hobart J. Vandeborn",
+    "Eloy Gutierrez Menoyo",
+    "Manuel Ray",
+    "Camilio Cienfuegos",
+    "Che Guevara",
+    "Raul Castro"
+  ],
+  "recipient": "Chief, Special Affairs Staff",
+  "sender": "Chief of Station, JMWAVE"
+}

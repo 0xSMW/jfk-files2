@@ -1,0 +1,43 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "Disclosing the identities of individuals whose credit blocks were removed could potentially compromise past or ongoing security operations. Quoting directly: \"The Credit Blocks at the Washington, D.C. Credit Bureau for the following listed individuals may be removed:\".",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memo directing the removal of credit blocks for several individuals listed by name and identifying information.",
+  "summary_one_paragraph": "This memorandum, dated August 12, 1975, instructs the Special Agent in Charge at the Washington Field Office to remove credit blocks at the Washington, D.C. Credit Bureau for Louis Edward Marchi, Anthony C. Pontari, Cecil C. Purvis, Walter S. Snowdon, and Boris D. Tarasoff. The memo provides identifying information for each individual, including OS numbers, SS numbers, dates and places of birth, and addresses, and states that a written report on the matter is not required.",
+  "tags": [
+    "Credit Blocks",
+    "Washington Field Office",
+    "Louis Edward Marchi",
+    "Anthony C. Pontari",
+    "Cecil C. Purvis",
+    "Walter S. Snowdon",
+    "Boris D. Tarasoff",
+    "Background Check"
+  ],
+  "title": "Removal of Credit Blocks",
+  "date": "1975-08-12",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Lucca, Italy",
+    "Philadelphia, Pa.",
+    "Ellabelle, Georgia",
+    "Plainfield, N.J.",
+    "Ekaterinosav, Russia",
+    "Phoenix, Arizona",
+    "McLean, Va.",
+    "Alexandria, Virginia",
+    "Reston, Virginia",
+    "Guadalajara, Jal., Mexico"
+  ],
+  "origin_agency": "Headquarters",
+  "persons_mentioned": [
+    "Louis Edward Marchi",
+    "Anthony C. Pontari",
+    "Cecil C. Purvis",
+    "Walter S. Snowdon",
+    "Boris D. Tarasoff"
+  ],
+  "recipient": "Special Agent in Charge, Washington Field Office",
+  "sender": "Headquarters"
+}

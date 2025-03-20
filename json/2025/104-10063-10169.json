@@ -1,0 +1,37 @@
+{
+  "classification": "Security",
+  "document_type": "Agency Message",
+  "security": "Revealing the CIA's interest in monitoring Black Panther members and their connections to Henri Curiel's organization, as well as the request for photos to aid in identifying them before surgery, could compromise ongoing intelligence operations and sources. Quoting: \"BLACK PANTHER MEMBERS...ARRIVED IN PARIS FROM ALGIERS...HENRI CURIEL'S CLANDESTINE ORGANIZATION HAS PROVIDED THEM LODGING AND TRAINING...TRYING TO ARRANGE PLASTIC SURGERY AND FALSE DOCUMENTATION...UNBOUND REQUESTS ON URGENT BASIS ANY AVAILABLE PHOTOS OF ABOVE INDIVIDUALS TO AID THEM IN IDENTIFYING THEM BEFORE SURGERY TAKES PLACE.\"",
+  "security_level": "SECRET",
+  "summary": "A CIA message reports that Black Panther members, including George Edward Wright, have arrived in Paris from Algiers and are receiving support from Henri Curiel's organization to obtain plastic surgery and false documentation for re-entry into the U.S., prompting a request for photos to aid in their identification.",
+  "summary_one_paragraph": "This secret CIA message, dated July 1973, relays information from a source identified as \"BABOUCHE\" stating that Black Panther members George Edward Wright, George Brown, Melvin McNair, Jean Carol McNair, and Joyce Rillerson arrived in Paris from Algiers in late March. The message indicates that Henri Curiel's clandestine organization is providing them with lodging and training while they attempt to secure plastic surgery and false documentation to enable their clandestine re-entry into the United States. The message urgently requests any available photos of these individuals to assist in identifying them before the surgeries take place.",
+  "tags": [
+    "CIA",
+    "Black Panthers",
+    "Henri Curiel",
+    "Plastic Surgery",
+    "False Documentation",
+    "Surveillance",
+    "RYBAT",
+    "MACURS",
+    "MHCHAOS"
+  ],
+  "title": "Black Panther Members in Paris Receiving Support from Henri Curiel's Organization",
+  "date": "1973-07-06",
+  "locations_mentioned": [
+    "Paris",
+    "Algiers",
+    "United States"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "George Edward Wright",
+    "George Brown",
+    "Melvin McNair",
+    "Jean Carol McNair",
+    "Joyce Rillerson",
+    "Henri Curiel"
+  ],
+  "recipient": "Headquarters",
+  "sender": "PARIS"
+}

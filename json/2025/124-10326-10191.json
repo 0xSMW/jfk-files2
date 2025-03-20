@@ -1,0 +1,43 @@
+{
+  "classification": "Cuba",
+  "document_type": "Paper, Textual Document",
+  "security": "This document discusses ongoing anti-Castro activities and mentions CIA operations. Releasing details of these activities could compromise ongoing intelligence operations and reveal sources and methods.",
+  "security_level": "Secret",
+  "summary": "An FBI report details Michael J. P. Malone's conversations regarding US plans for Cuba, relaying information from Robert Kleberg's meeting with Vice-President Lyndon B. Johnson and Malone's discussions with CIA contacts about differing opinions on action in Cuba.",
+  "summary_one_paragraph": "This FBI document, dated March 29, 1962, recounts Michael J. P. Malone's report on US policy toward Cuba following Robert Kleberg's meeting with Vice-President Lyndon B. Johnson, where Kleberg was informed President Kennedy had no immediate plans for large-scale action against Cuba. Malone also spoke with CIA contacts, one of whom suggested that Malone and his associates should pressure Senators close to the 'New Frontier' to influence Kennedy, while another indicated the CIA was continuing operations despite limited authority; These mixed messages left Malone confused about the administration's intentions.",
+  "tags": [
+    "Anti-Castro Activities",
+    "IS-Cuba",
+    "Lyndon B. Johnson",
+    "Robert Kleberg",
+    "Michael J. P. Malone",
+    "CIA",
+    "John F. Kennedy",
+    "Robert F. Kennedy",
+    "Cuban Revolutionary Council",
+    "Jose Miro Cardona"
+  ],
+  "title": "ANTI CASTRO ACTIVITIES IS-CUBA",
+  "date": "1962-03-29",
+  "locations_mentioned": [
+    "New York City",
+    "Kingsville, Texas",
+    "Washington, DC",
+    "Cuba",
+    "Miami"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Michael J. P. Malone",
+    "Robert Kleberg",
+    "Lyndon B. Johnson",
+    "John F. Kennedy",
+    "Herbert",
+    "Hubert Humphrey",
+    "Charles Marchin",
+    "Robert F. Kennedy",
+    "Jose Miro Cardona"
+  ],
+  "recipient": "HQ",
+  "sender": "NY"
+}

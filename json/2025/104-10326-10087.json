@@ -1,0 +1,34 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "Acknowledging where TELTAP tapes on Oswald were derived would have a detrimental effect on the current Liaison relationship because Mexican officials \"continue to be sensitive re the NWBOLTON relationship\" and \"any exposure (whether old or new) at this stage of the Liaison relationship (a new regime is coming to power) would force the Mexicans to reassess their relationship with us as well as question our ability to maintain a discreet and protected relationship.\"",
+  "security_level": "SECRET",
+  "summary": "A SECRET cable from the CIA's Mexico City station to the Director, concerning potential issues related to the JFK assassination, specifically the origin of TELTAP tapes on Oswald and the possible disclosure of a Non-Official Cover (NOC) involved in transcribing the tapes.",
+  "summary_one_paragraph": "In December 1994, the CIA's Mexico City station sent a cable to the Director regarding JFK assassination issues. It conveys concerns that acknowledging the source of TELTAP tapes related to Oswald would harm the station's relationship with Mexican liaison services, who are sensitive about the NWBOLTON relationship. The station also plans to discreetly check consular files to see if the NOC involved in transcribing the tapes is still in Mexico. The station is concerned that disclosing the NOC's involvement with the Oswald tapes could expose the station's use of NOCs and increase scrutiny of U.S. businessmen operating in Mexico, thus, preserving station liaison equities is paramount.",
+  "tags": [
+    "JFK Assassination",
+    "TELTAP",
+    "Oswald",
+    "Mexico",
+    "Liaison",
+    "NOC",
+    "Counterintelligence",
+    "RYBAT",
+    "WNINTEL"
+  ],
+  "title": "Issues",
+  "date": "1994-12-02",
+  "locations_mentioned": [
+    "Mexico",
+    "Mexico City",
+    "Russian Embassy",
+    "Cuban Embassy"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "NWBOLTON"
+  ],
+  "recipient": "Director",
+  "sender": "STAFF (Mexico City Station, NOWOCIN Acting)"
+}

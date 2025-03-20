@@ -1,0 +1,30 @@
+{
+  "classification": "Cuba, Liaison",
+  "document_type": "Memo",
+  "security": "Releasing details about CIA and FBI coordination to plant articles in US publications could reveal intelligence sources and methods, potentially compromising ongoing investigations or operations and damaging the reputation of both agencies. Quoting the document: '...CIA proposes to plant in a leading United States publication...The material essentially consists of an attack against the captioned organization and includes some material which has been disseminated by the Bureau to CIA.'",
+  "security_level": "Secret",
+  "summary": "The memo discusses a CIA proposal to plant an article in a leading U.S. publication attacking the Fair Play for Cuba Committee (FPCC), using material provided in part by the FBI.",
+  "summary_one_paragraph": "On March 17, 1961, S.J. Papich of the FBI sent a memo to Mr. L'Allier regarding a CIA proposal to plant an article critical of the Fair Play for Cuba Committee (FPCC) in a major U.S. publication, possibly the Saturday Evening Post. Jane Roman of the CIA provided a draft of the article, which includes material disseminated by the FBI to the CIA. The memo indicates that the CIA will allow the FBI to review the final draft before publication, and the information is directed to the Nationalities Intelligence Section for action and response via the Liaison.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Fair Play for Cuba Committee",
+    "FPCC",
+    "Propaganda",
+    "Liaison",
+    "Nationalities Intelligence Section"
+  ],
+  "title": "CIA Liaison Material, Fair Play for Cuba Committee",
+  "date": "1961-03-17",
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "S. J. Papich",
+    "L'Allier",
+    "Jane Roman",
+    "Donahoe",
+    "Cotter",
+    "Belmont"
+  ],
+  "recipient": "L'Allier",
+  "sender": "PAPICH"
+}

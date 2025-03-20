@@ -1,0 +1,26 @@
+{
+  "classification": "Personnel",
+  "document_type": "Security Approval Notification",
+  "security": "Sharing personnel security clearances can potentially reveal sensitive information about individuals and security protocols used by the agency. Compromising security procedures could make it easier for unauthorized individuals to access classified information. For example, the documents indicate that access to classified information is tied to Regulations 10-210 and 20-730. They also specify a timeline for entrance on duty and conditions for security interviews.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "These are two notifications regarding the security approval status of Myroslaw Andrew Maksymiec; the first grants SECRET clearance and the second grants clearance through TOP SECRET, contingent on certain conditions.",
+  "summary_one_paragraph": "These documents are notifications from the Director of Security to the Director of Personnel concerning the security approval status of Myroslaw Andrew Maksymiec. The first, dated July 26, 1961, grants approval for access to classified information through SECRET, with potential for TOP SECRET approval after a personal interview upon reaching age 18. The second, dated November 29, 1961, confirms full security approval, including access to classified information through Top Secret, under Regulations 10-210 and 20-730, contingent on completing duty arrangements within a specified timeframe.",
+  "tags": [
+    "Security Clearance",
+    "Personnel Security",
+    "Myroslaw Andrew Maksymiec",
+    "Regulations 10-210",
+    "Regulations 20-730",
+    "Office of Security",
+    "Top Secret",
+    "Secret"
+  ],
+  "title": "Security Approval: Myroslaw Andrew Maksymiec",
+  "date": "1961-11-29",
+  "persons_mentioned": [
+    "Myroslaw Andrew Maksymiec",
+    "W.A. Osborne"
+  ],
+  "recipient": "Director of Personnel",
+  "sender": "Director of Security"
+}

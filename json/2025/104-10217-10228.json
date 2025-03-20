@@ -1,0 +1,36 @@
+{
+  "classification": "Operations",
+  "document_type": "Contact Report",
+  "security": "Disclosing the identities of agents (Tulpa, Tipteft, Lavion), safe house locations, and operational details regarding planned trips and photo acquisitions could endanger ongoing operations and compromise the safety of involved individuals. 'Safe House #2', 'trip to the Congo', 'first six covers on the new triques Revolutionaire', 'Gibson will purchase and forward several of K.'s negatives'.",
+  "security_level": "Secret",
+  "summary": "A contact report details a meeting between Tulpa, Tipteft, and Lavion, discussing Tulpa's upcoming trip to the Congo, instructions to Meinturff, photographic arrangements with Serge Michel, and a contact from Gibson regarding a request from Dave Matty of a suspect sheet in New York City for photos.",
+  "summary_one_paragraph": "This secret contact report, dated January 25, 1963, summarizes a meeting at Safe House #2 between Tulpa, Tipteft, and Lavion. The primary agenda included informing Tulpa of Headquarters' approval for his trip to the Congo and outlining initial instructions to Meinturff, pending further directives from Holden. Discussions also covered Serge Michel's agreement to shoot covers for 'triques Revolutionaire' and an unusual inquiry from Gibson concerning Dave Matty, who runs a 'highly suspect sheet' in New York City, seeking to purchase Kulpa’s negatives. Additionally, Tipteft worked on straightening out his accountings during the meeting, with the next meeting scheduled for January 29.",
+  "tags": [
+    "CIA",
+    "Safe House",
+    "Congo",
+    "Photography",
+    "Gibson",
+    "Dave Matty",
+    "Triques Revolutionaire",
+    "Meinturff"
+  ],
+  "title": "Contact Report",
+  "date": "1963-01-25",
+  "locations_mentioned": [
+    "Congo",
+    "New York City"
+  ],
+  "persons_mentioned": [
+    "Tulpa",
+    "Tipteft",
+    "Lavion",
+    "Meinturff",
+    "Holden",
+    "Serge Michel",
+    "K. K.",
+    "Gibson",
+    "Dave Matty"
+  ],
+  "sender": "APCATUAR"
+}

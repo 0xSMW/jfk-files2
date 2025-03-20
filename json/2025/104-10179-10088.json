@@ -1,0 +1,47 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This message reports on the activities and plans of rebel forces in Cuba, including Ernesto Guevara's movements and strategies. Releasing specific details about sources (e.g., George K Harper), Cuban rebel strategies, labor actions, and the involvement of French military advisors could compromise intelligence gathering, endanger sources, and strain diplomatic relations with France. For example, \"FC: AMBARK-2 confirms this rebel strategy\" reveals a sensitive source providing critical information.",
+  "security_level": "SECRET",
+  "summary": "A classified message from Havana reports on the movements of Ernesto Guevara and rebel activities in Cuba, including efforts to disrupt traffic and replace labor officials, as well as Batista's engagement of French military advisors.",
+  "summary_one_paragraph": "This SECRET classified message, dated December 16, 1958, from the CIA station in Havana, reports that Ernesto Guevara has moved westward with approximately 165 men, aiming to cut off central highway traffic west of Santa Clara. The message also details the 26th of July Movement's actions to replace labor officials in captured sugar centrales, MRC Chief Manuel Ray's visit to Fidel Castro to discuss dissolving the MRC into the 26th of July Movement, FEU force activities near Coliseo in Matanzas, and Fulgencio Batista's contracting of French army officers to advise the Cuban army. The information is sourced from various individuals and sources, including George K Harper, AMARIA, AMDARK-1, and Harry Graham.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Ernesto Guevara",
+    "Fidel Castro",
+    "Batista",
+    "Rebellion",
+    "Intelligence",
+    "French Military Advisors",
+    "AMBARK-2",
+    "FEU",
+    "MRC"
+  ],
+  "title": "Report on Rebel Activities in Cuba",
+  "date": "1958-12-16",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Las Villas",
+    "Manacas",
+    "Santa Clara",
+    "Santo Domingo",
+    "Sierra Maestra",
+    "Coliseo",
+    "Matanzas",
+    "Cayo Hueso, Florida"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Ernesto Guevara",
+    "Fidel Castro",
+    "Manuel Ray",
+    "Fulgencio Batista",
+    "Conrad Bequer Diaz",
+    "George K Harper",
+    "Harry Graham"
+  ],
+  "recipient": "Director",
+  "sender": "Havana"
+}

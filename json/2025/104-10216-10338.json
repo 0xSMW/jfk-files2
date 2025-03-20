@@ -1,0 +1,35 @@
+{
+  "classification": "Operations",
+  "document_type": "Message Form",
+  "security": "Revealing the identities and roles of agents like UNSNAFU/9, AMLASH/1, and AMTHIP/1, as well as operational methods (e.g., using a 'jeweler friend' as a cut-out), could compromise ongoing or future intelligence operations. The document explicitly discusses a plan to relay information through a secure channel using a coded conversation and a trusted intermediary, emphasizing the need for discretion and security. Quote: 'BELIEVE THIS SECURE ENOUGH AND EMINENTLY FASTER AND MORE CERTAIN THAN S/W LETTER.'",
+  "security_level": "SECRET/RYBAT",
+  "summary": "This message discusses determining the background of UNSNAFU/19's statement about UNSNAFU/9 being a \"dirty KUBARK agent\" and proposes a method to relay this information to AMLASH/1 through AMTHIP/1 using a jeweler in Havana as a secure channel.",
+  "summary_one_paragraph": "Dated March 24, 1965, this SECRET/RYBAT message outlines a plan to assess the validity of UNSNAFU/19's accusation that UNSNAFU/9 was a \"dirty KUBARK agent.\" Concerned about potential hazards to AMLASH/1, the Director instructs the Paris station to task AMTHIP/1 with discreetly inquiring about the basis for UNSNAFU/19’s statement. The plan involves AMTHIP/1 contacting a jeweler friend, Jose Iglesias in Havana, under the guise of a business matter to relay pertinent details, ensuring the information reaches AMLASH/1 quickly and securely. The message stresses caution and requests notification if AMTHIP/1 deems the method unsafe.",
+  "tags": [
+    "CIA",
+    "KUBARK",
+    "AMLASH",
+    "AMTHIP",
+    "UNSNAFU",
+    "Intelligence Operation",
+    "Secure Communication",
+    "Havana",
+    "Jose Iglesias"
+  ],
+  "title": "Determining Background to UNSNAFU/19 Statement Regarding UNSNAFU/9",
+  "date": "1965-03-24",
+  "locations_mentioned": [
+    "Paris",
+    "Havana, Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "UNSNAFU/19",
+    "UNSNAFU/9",
+    "AMLASH/1",
+    "AMTHIP/1",
+    "Jose Iglesias"
+  ],
+  "recipient": "Paris",
+  "sender": "Director"
+}

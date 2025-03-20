@@ -1,0 +1,37 @@
+{
+  "classification": "Operations",
+  "document_type": "Status Report",
+  "security": "The report details covert operations including potential assassination plans and psywar activities. Disclosing these details would reveal ongoing clandestine operations, potentially compromising their effectiveness and endangering involved parties. For example, the report mentions \"the feasibility of assassinating Sihanouk\" and CIA-designed leaflets dropped into North Vietnam to create a diversion.",
+  "security_level": "SECRET",
+  "summary": "A CIA Task Force Status Report from 1963 outlines covert actions in Southeast Asia, including potential assassination plans in Cambodia and psychological warfare operations in North Vietnam, aimed at weakening DRV security and diverting resources from South Vietnam.",
+  "summary_one_paragraph": "This CIA Task Force Status Report, dated in 1963, provides highlights of covert actions in Southeast Asia. In Cambodia, the report indicates the GRC's plans to assist dissident leader Son Ngoc Thanh in a political action campaign against Sihanouk's government, exploring both Thanh's infiltration capabilities and the feasibility of assassinating Sihanouk. In North Vietnam, over 700,000 CIA-designed leaflets were dropped in the Haiphong/Lay Kay areas to create a diversion and lessen DRV capability for action in South Vietnam. The report also details a completed Civic Action Ministry training course in South Vietnam for Montagnard cadres to form fixed teams at Special Forces camps.",
+  "tags": [
+    "CIA",
+    "Task Force Southeast Asia",
+    "Covert Operations",
+    "Cambodia",
+    "North Vietnam",
+    "South Vietnam",
+    "Assassination",
+    "Psychological Warfare",
+    "Son Ngoc Thanh",
+    "Sihanouk",
+    "Montagnard"
+  ],
+  "title": "Task Force Status Report",
+  "date": "1963-00-00",
+  "locations_mentioned": [
+    "Cambodia",
+    "Saigon",
+    "North Vietnam",
+    "Haiphong",
+    "Lay Kay",
+    "South Vietnam"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Son Ngoc Thanh",
+    "Sihanouk",
+    "General Rosson"
+  ]
+}

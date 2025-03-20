@@ -1,0 +1,33 @@
+{
+  "classification": "Operations",
+  "document_type": "Charge",
+  "security": "Revealing this information could expose the operational needs and collection methods of the G-2 co-opted status subject. Specifically, the request to 'ransack Zurc bookstores' and the mention of specific book titles reveals collection priorities and potentially compromises the subject's cover.",
+  "security_level": "SECRET",
+  "summary": "A message from MIDDAUGH to ZURC requesting the purchase and shipment of books on espionage and counter-espionage in English or French to support a G-2 co-opted subject's needs.",
+  "summary_one_paragraph": "This secret message, dated 11 July 1963, from MIDDAUGH to ZURC, urgently requests the procurement of espionage-related books. The books are needed to support a G-2 co-opted subject who needs them for immediate posting to G-. MIDDAUGH asks ZURC to thoroughly search bookstores for any type of work on espionage or counter-espionage, including historical accounts and studies by communist defectors, in either English or French. The message lists examples of books already sent and requests a phone call to confirm the number of books available before commercially mailing them to MIDDAUGH's private address.",
+  "tags": [
+    "Espionage",
+    "Counter-Espionage",
+    "Book Procurement",
+    "G-2",
+    "Co-opted Subject",
+    "Zurich",
+    "MIDDAUGH",
+    "RYBAT",
+    "INDEVCUT"
+  ],
+  "title": "Request for Espionage Books",
+  "date": "1963-07-11",
+  "locations_mentioned": [
+    "Zurich",
+    "Bern",
+    "London",
+    "Holland"
+  ],
+  "origin_agency": "Unspecified (likely CIA based on context)",
+  "persons_mentioned": [
+    "MIDDAUGH"
+  ],
+  "recipient": "ZURC",
+  "sender": "MIDDAUGH"
+}

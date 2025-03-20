@@ -1,0 +1,30 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This message pertains to intelligence gathered about planned sabotage activities by a Cuban anti-communist youth group. Releasing details of intelligence sources and specific operations related to Cuban groups may compromise current or future intelligence activities and put sources at risk. Specifically, mentioning, 'SUPDATA SOURCE HANS ARTURO BODEWIG 7 LEVENBERGER WHO GAVE INFO TO HAVA STATION' and 'SOURCE CUBAN WHO CLAIMS CONTACTS IN JACA (F)' reveals sensitive source information.",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "A classified message from the Havana station to the Director concerning intelligence on planned sabotage activities by a Cuban anti-communist youth group, Juventud Accion Cubana Anticomunista, scheduled for April 30 to May 3, 1960.",
+  "summary_one_paragraph": "On May 7, 1960, the Havana station sent a classified message to the Director regarding intelligence received from Hans Arturo Bodewig, who provided information about planned sabotage activities by the Cuban anti-communist youth group, Juventud Accion Cubana Anticomunista. These activities were reportedly scheduled to take place in Cuba, particularly Havana, between April 30 and May 3, 1960. The message references a previous report (HAVA 4414) and notes that a Cuban source with contacts in JACA provided the information.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Sabotage",
+    "Anticommunist",
+    "Youth Group",
+    "Intelligence",
+    "Havana Station",
+    "FOIA"
+  ],
+  "title": "Intelligence on Planned Sabotage Activities by Cuban Youth Group",
+  "date": "1960-05-07",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Hans Arturo Bodewig"
+  ],
+  "recipient": "Director",
+  "sender": "Havana"
+}

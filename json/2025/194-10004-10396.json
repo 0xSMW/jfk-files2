@@ -1,0 +1,31 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "The release of personal information such as addresses and employment details could potentially compromise individuals or their families.  Specifically, the report includes Lucien Todman's residence address (Apartment 4A, 1660 Andrews Avenue, Bronx, New York 10453) and workplace (Mutual Insurance Advisory Association, 733 3rd Avenue, New York, New York).",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report providing a character reference for Manuel Marti based on an interview with Lucien Todman, a colleague, conducted on October 20, 1968. Todman vouches for Marti's loyalty, intelligence, and responsible nature, recommending him for a position of trust with the U.S. government.",
+  "summary_one_paragraph": "This agent report, dated November 18, 1968, summarizes an interview with Lucien Todman, a computer operator at Mutual Insurance Advisory Association, regarding Manuel Marti, a former colleague. Todman, who knew Marti for about two years before Marti was drafted in May 1968, describes Marti as intelligent, friendly, industrious, and responsible. Marti is portrayed as a Puerto Rico native with limited knowledge of his homeland, interested in history, and supportive of the U.S. government. Todman highlights Marti’s maturity, lack of known difficulties with creditors or law enforcement, and recommends him highly for a position of trust within the U.S. government.",
+  "tags": [
+    "Character Reference",
+    "Manuel Marti",
+    "Lucien Todman",
+    "Mutual Insurance Advisory Association",
+    "Agent Report"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1968-11-18",
+  "locations_mentioned": [
+    "San Juan, Puerto Rico",
+    "New York, New York",
+    "Bronx, New York",
+    "Germany"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Lucien Todman",
+    "Alphonso E. Marshall"
+  ],
+  "recipient": "[RESTRICTED]",
+  "sender": "USA"
+}

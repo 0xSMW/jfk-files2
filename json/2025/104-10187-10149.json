@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Message",
+  "security": "This message details planned briefings for high-ranking government officials in El Salvador and Guatemala regarding Cuban subversion. Disclosing these plans could compromise ongoing intelligence efforts and alert the Cuban government to surveillance and counter-intelligence activities. The message also mentions potential 'pitches' to AMMUG leads, referring to intelligence operations directed at AMMUG. Publishing these details could expose the CIA’s targeting of AMMUG and potentially endanger the individuals involved: \"SCHWILL TRAVEL SALV AND GUAT UPON COMPLETION TEGU MINISTERS MEETING FOR DISCUSSIONS WITH DOTH STATIONS. HDQS WANTS STATIONS TO SET UP BRIEFINGS FOR PRESIDENT 06 RIVERA AND CHIEF GOVT PERALTA AND ROUNDTABLE TALKS ON CUBAN SURVERSION BOTH COUNTRIES...MM WILL EXPLORE WITH YOU POSSIBLE PITCHES TO AMMUG LEADS.\"",
+  "security_level": "SECRET",
+  "summary": "A message from headquarters directs stations in El Salvador and Guatemala to arrange briefings for President Rivera and Chief Peralta on Cuban subversion, as well as exploring potential pitches to AMMUG leads.",
+  "summary_one_paragraph": "This message, dated August 27, 1964, instructs stations in San Salvador and Guatemala City to organize briefings for President Rivera and Chief Peralta regarding Cuban subversion following Schwill's travel to the region. It also tasks the stations with setting up roundtable discussions on the same topic, involving station chiefs, local liaison chiefs, and staff employees. Furthermore, the message directs the El Salvador station to explore potential 'pitches' to AMMUG leads, suggesting headquarters is prepared to immediately make AMMUG available for such pitches.",
+  "tags": [
+    "CIA",
+    "Cuban Subversion",
+    "El Salvador",
+    "Guatemala",
+    "Briefings",
+    "AMMUG",
+    "Intelligence Operations"
+  ],
+  "title": "Message Regarding Briefings on Cuban Subversion in El Salvador and Guatemala",
+  "date": "1964-08-27",
+  "locations_mentioned": [
+    "San Salvador",
+    "Guatemala City",
+    "El Salvador",
+    "Guatemala",
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Rivera",
+    "Peralta",
+    "Schwill",
+    "AMMUG"
+  ],
+  "recipient": "San Salvador, Guatemala City",
+  "sender": "Director"
+}

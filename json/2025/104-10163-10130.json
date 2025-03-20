@@ -1,0 +1,45 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "This document contains details about ongoing operations and intelligence-gathering activities related to Cuban exiles and Cuban government officials. Specifically, it discusses the use of an agent (K-1) to infiltrate the \"Circulo Cubano de Mexico\" and the potential for exploiting letters sent from exiles to Cuba for VWTOGA-type operations. Sharing these details could compromise active agents, disrupt intelligence operations, and expose sensitive sources and methods. As stated in the document, \"LETTERS OF THIS SORT ARE MONITORED BY CUBAN SECURITY OFFICIALS WHO THEN SURVEIL THE RECIPIENTS. THIS MAY PROVIDE OPPORTUNITY FOR VWTOGA-TYPE OP INTENDED BUPN IMPORTANT CUBAN OFFICIAL.\"",
+  "security_level": "SECRET",
+  "summary": "This document details CIA operations involving a Cuban exile, Manuel Artime, and a double agent (K-1) working to gather intelligence on Cuban exiles and potentially compromise Cuban officials through monitored communications.",
+  "summary_one_paragraph": "The document consists of several cables and memos from 1974 concerning Manuel Artime and related CIA activities. A cable from Mexico City details K-1's interactions with a Cuban intelligence officer (SLOTH-21), including tasks such as gathering information on Cuban exiles, infiltrating the \"Circulo Cubano de Mexico,\" and potentially compromising U.S. Embassy personnel. Other cables discuss Artime's alleged contacts with high-ranking officials in Costa Rica and his business associations in Nicaragua. The document also includes requests for information on Artime's activities and his potential involvement in plotting against the government of Panama.",
+  "tags": [
+    "CIA",
+    "Manuel Artime",
+    "Cuban Exiles",
+    "KDALCOHOL",
+    "SLOTH-21",
+    "Mexico",
+    "Costa Rica",
+    "Nicaragua",
+    "VWTOGA",
+    "Counterintelligence"
+  ],
+  "title": "ARTIME-Buesa, Manuel",
+  "date": "1974",
+  "locations_mentioned": [
+    "Miami",
+    "Mexico",
+    "Cuba",
+    "Caracas",
+    "Costa Rica",
+    "Nicaragua",
+    "Panama"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Manuel Artime Buesa",
+    "Jose Ignacio Rasco Bermudez",
+    "Jose Maria Crucet Bernal",
+    "Rafael Angel Quevedo",
+    "Tony Santiago",
+    "Emilio Maspero",
+    "Eduardo Garcia",
+    "James D. Zaboth",
+    "Anastasio Somoza Debayle"
+  ],
+  "recipient": "Director, WH/Miami; Director, Panama City; Director",
+  "sender": "Mexico City Station; San Jose Station; Managua Station; Panama City Station"
+}

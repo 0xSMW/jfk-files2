@@ -1,0 +1,42 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Summary",
+  "security": "This document contains summaries of internal reports and hearings related to US involvement in Vietnam and the Diem regime. Releasing details about CIA activities, State Department telegrams, and internal disagreements could damage the CIA’s reputation and expose sensitive diplomatic strategies.",
+  "security_level": "Declassified",
+  "summary": "This document summarizes various reports and hearings related to the Diem regime in Vietnam, U.S. involvement, and key figures such as John F. Kennedy, William Colby, and others, spanning from 1963 to 1975.",
+  "summary_one_paragraph": "This document, dated June 1975, summarizes multiple reports and hearings concerning the Diem regime in Vietnam and the U.S. role. Compiled by R. Dawson from the SSCIA's Church Committee records, it covers events from 1963 onward, including discussions among John F. Kennedy, John McCone, and other officials about supporting or removing Diem. Key points include the influence of CIA cables, State Department telegrams (like DEPTEL 243), and the views of figures such as Henry Cabot Lodge and General Maxwell Taylor. The document also highlights incidents like the Buddhist crisis, the role of individuals like Conein, and the internal debates within the U.S. government regarding its policy towards Diem and Vietnam.",
+  "tags": [
+    "CIA",
+    "SSCIA",
+    "Church Committee",
+    "Vietnam",
+    "Diem Assassination",
+    "John F. Kennedy",
+    "William Colby"
+  ],
+  "title": "DIEM",
+  "date": "1975-06-00",
+  "origin_agency": "SSCIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "William Colby",
+    "Ngo Dinh Diem",
+    "John McCone",
+    "Henry Cabot Lodge",
+    "Maxwell Taylor",
+    "Roger Hilsman",
+    "Robert McNamara",
+    "Dean Rusk",
+    "Roswell Gilpatric",
+    "Richard Helms",
+    "Averell Harriman",
+    "Conein",
+    "Ngo Dinh Nhu",
+    "General Duong Van Minh",
+    "Thich Tri Quang",
+    "William Trueheart",
+    "John Mecklin",
+    "General Don"
+  ],
+  "sender": "Dawson, R."
+}

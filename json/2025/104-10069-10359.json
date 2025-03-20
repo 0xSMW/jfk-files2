@@ -1,0 +1,34 @@
+{
+  "classification": "Cuba",
+  "document_type": "Routing and Record Sheet",
+  "security": "Disclosing the CIA's sources, methods of contact, and internal routing could compromise ongoing intelligence operations and reveal sensitive information about individuals under surveillance. Sharing the fact that a source provided information about Halperin's address could expose the source and disrupt future intelligence gathering. The document is marked SECRET and CIA INTERNAL USE ONLY, indicating that its contents are considered highly sensitive.",
+  "security_level": "SECRET",
+  "summary": "A CIA routing sheet indicating Maurice Halperin's current address in Cuba, as reported by a source who received a Christmas card from him; this information is being circulated within the CIA due to Halperin's past activities and associations.",
+  "summary_one_paragraph": "This document is a CIA routing and record sheet, dated December 31, 1962, indicating that Maurice Halperin's current address is \"Apt C-2, Calle 12, no 103, Miramar, Habana, Cuba,\" as reported by a source who received a Christmas card from Halperin. The source, who had known Halperin for years and last saw him in Moscow in 1961, provided this information to the CIA. The CIA's Contact Division (Support) is circulating this information internally due to Halperin's past activities and associations, noting that Halperin \"always seems to show up wherever there is some sort of activity going on.\"",
+  "tags": [
+    "CIA",
+    "Maurice Halperin",
+    "Cuba",
+    "Surveillance",
+    "Contact Division",
+    "Source",
+    "Christmas Card",
+    "Moscow",
+    "Habana"
+  ],
+  "title": "Current Address of Maurice Halperin",
+  "date": "1962-12-31",
+  "locations_mentioned": [
+    "Cuba",
+    "Miramar, Habana",
+    "Moscow",
+    "USSR"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Maurice Halperin",
+    "Preston E James"
+  ],
+  "recipient": "TFW, Joe Kroger, Holben, R.H., Contact Division (Support), SR/CI, CI/LN, Security",
+  "sender": "Chief, Contact Division (Support) Stuntz"
+}

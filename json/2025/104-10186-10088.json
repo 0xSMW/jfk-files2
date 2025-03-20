@@ -1,0 +1,29 @@
+{
+  "classification": "Cuba",
+  "document_type": "Information Report",
+  "security": "This report details Cuban intelligence directives in Haiti, including targeting \"Plans of aggression against Cuba\" and \"Progressive political forces.\" Disclosing these directives could compromise Cuban intelligence operations, expose their sources, and harm relations with Haiti.",
+  "security_level": "SECRET",
+  "summary": "This is a report detailing policy guidance directives for Cuban intelligence representatives in Haiti, as prepared by the General Directorate of Intelligence (DGI). The document outlines priorities for Cuban intelligence gathering, including monitoring potential aggression against Cuba, progressive political forces, and attitudes toward the Cuban Revolution.",
+  "summary_one_paragraph": "This February 4, 1965 Central Intelligence Agency (CIA) information report, sourced from a former Cuban intelligence officer, outlines the policy guidance directives for Cuban intelligence representatives in Haiti, as issued by the General Directorate of Intelligence (DGI). The directives prioritize intelligence gathering on potential aggression against Cuba, progressive political forces, political party attitudes toward the Cuban Revolution, solidarity movements with Cuba, and strategic information. The report also identifies important intelligence targets such as relations with the United States, internal Haitian politics, the social situation, the armed forces, the Church, and information on foreign diplomats, specifying essential actions related to aggression plans and strategic data collection.",
+  "tags": [
+    "Cuban Intelligence",
+    "Haiti",
+    "DGI",
+    "Policy Directives",
+    "Espionage",
+    "Cuban Revolution",
+    "Intelligence Gathering"
+  ],
+  "title": "Policy Guidance Directives for Cuban Intelligence Representatives in Haiti",
+  "date": "1965-02-04",
+  "locations_mentioned": [
+    "Cuba",
+    "Haiti"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Duvalier"
+  ],
+  "recipient": "REPCINCLANT, I&NS, FBI, DIA"
+}

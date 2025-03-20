@@ -1,0 +1,36 @@
+{
+  "classification": "Personnel",
+  "document_type": "File",
+  "security": "Several documents within the file are marked SECRET, indicating that their disclosure could cause serious damage to national security. The polygraph results, investigative reports, and operational approvals contain sensitive information about intelligence sources, methods, and ongoing investigations, which, if revealed, could compromise operations and endanger individuals. For instance, the file includes information about 'infiltration of CRASH,' which details operational methods. Disclosing the true name and cryptonym association of WKSCARLET/3 could expose an intelligence asset. As directly quoted, 'REPRODUCTION BY OTHER THAN THE ISSUING OFFICE IS PROHIBITED' reinforces the need to protect the file's contents.",
+  "security_level": "SECRET",
+  "summary": "This file contains various documents related to Luis Posada Carriles (WKSCARLET/3), including polygraph results, investigative reports, and operational approvals, indicating CIA interest and involvement with him.",
+  "summary_one_paragraph": "This file, compiled by the CIA, contains documents pertaining to Luis Posada Carriles, also known by the cryptonym WKSCARLET/3, covering the period around 1972-1976. It includes a polygraph examination, security investigative reports, and operational approvals, signaling active interest and scrutiny from various CIA departments like CI/Operations and the Office of Security. The documents also reveal considerations around Posada Carriles's contacts and activities, such as a planned meeting in Rome and his possible involvement in the destruction of a Cubana aircraft, reflecting his role as an informant and the sensitivity of his engagements.",
+  "tags": [
+    "Luis Posada Carriles",
+    "WKSCARLET/3",
+    "CIA",
+    "Polygraph",
+    "Investigation",
+    "Operational Approval",
+    "Venezuela",
+    "Cuba",
+    "Cubana Aircraft Bombing",
+    "CRASH"
+  ],
+  "title": "POSADA, LUIS CLEALELTE",
+  "date": "1974-01-01",
+  "locations_mentioned": [
+    "Venezuela",
+    "Barbados",
+    "Rome"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Luis Posada Carriles",
+    "Nancy L Davis",
+    "Theodore G. Shackley",
+    "Richard L. Conolly"
+  ],
+  "recipient": "IP/201 Section",
+  "sender": "Chief, CI/Operations"
+}

@@ -1,0 +1,16 @@
+{
+  "classification": "Cuba",
+  "document_type": "List",
+  "security": "Listing names could potentially reveal sensitive sources or operational interests related to Cuban activities.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document appears to be a list of names with associated code names or identifiers, possibly related to Cuban operations or contacts.",
+  "summary_one_paragraph": "The document, a list of names and identifiers, includes entries such as \"GONZALEZ Ort, Alberto (AMTRUNK 5)\", \"OROZCO Basulto, Modesto (9)\", and \"CABEZA Coupau, David (AMFAUNA 1)\", among others. These entries suggest possible associations with code names or project names like AMTRUNK and AMFAUNA. The document provides minimal context but appears to catalogue individuals potentially linked to Cuban-related activities.",
+  "tags": [
+    "Cuba",
+    "AMTRUNK",
+    "AMFAUNA",
+    "Personnel List",
+    "Code Names"
+  ],
+  "title": "List of Names and Identifiers"
+}

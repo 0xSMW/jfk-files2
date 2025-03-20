@@ -1,0 +1,27 @@
+{
+  "classification": "Operations",
+  "document_type": "Message Form",
+  "security": "This message discusses operational security and potential vulnerabilities of the AMLASH operation. Releasing details about AMWHIP/2's involvement, the suggestion to minimize contact, and the planned briefing by Joseph Langosch could compromise ongoing or future intelligence activities. Quoting directly: 'NO DEFINITE EVIDENCE AMLASH COMPLEX PART OF DOUBLED OP BUT CERTAINLY AN INSECURE ONE...SUGGEST CONTACT WITH HIM BE MINIMIZED UNTIL LANGOSCH CAN PROVIDE BACKGROUND.'",
+  "security_level": "SECRET/RYBAT",
+  "summary": "A message concerning the AMLASH operation and the involvement of AMWHIP/2, recommending minimized contact until Joseph Langosch provides a briefing. It also assesses the operation as potentially insecure.",
+  "summary_one_paragraph": "This message, dated June 26, 1965, addresses concerns regarding the AMLASH operation and the role of AMWHIP/2. It indicates that while there's no concrete evidence the AMLASH complex is compromised, it's considered insecure. The message suggests limiting contact with AMWHIP/2 until Joseph Langosch, who is being assigned to PRAN as a PBRUMEN regional service, can brief Presland in Rome, likely in August, about the background of the case. It references previous communications for background details and suggests minimizing contact with AMWHIP/2 unless immediate operational plans require his involvement.",
+  "tags": [
+    "AMLASH",
+    "AMWHIP/2",
+    "Joseph Langosch",
+    "PBRUMEN",
+    "Operational Security",
+    "Rome",
+    "Desmond Fitzgerald"
+  ],
+  "title": "AMLASH Operation and AMWHIP/2 Involvement",
+  "date": "1965-06-25",
+  "persons_mentioned": [
+    "Joseph Langosch",
+    "AMWHIP/2",
+    "Presland",
+    "Desmond Fitzgerald"
+  ],
+  "recipient": "Director",
+  "sender": "Rome"
+}

@@ -1,0 +1,20 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Book Message",
+  "security": "The message is encoded and classified, implying that revealing its contents could compromise ongoing operations or intelligence-gathering methods.",
+  "security_level": "SECRET",
+  "summary": "An encoded book message relays activity and authorization related to MEIRV BOW and OPTA HOW, specifying indicator assignments and traffic handling.",
+  "summary_one_paragraph": "This document is a classified book message detailing activities related to MEIRV BOW and OPTA HOW. It indicates that MEIRV BOW is active as a NIDOER AKANET, authorized with HAFELE ODXOKE, and has a DEDICATOR RUGSUN ABSICHIED. Similarly, OPTA HOW is noted as active in MEDER AZAKINT, and its indicator is RUBIOW. The message also specifies that OSILY KUBARIK traffic is handled by OTTAMA.",
+  "tags": [
+    "Encoded Message",
+    "MEIRV BOW",
+    "OPTA HOW",
+    "NIDOER AKANET",
+    "MEDER AZAKINT",
+    "HAFELE ODXOKE",
+    "RUBIOW",
+    "OSILY KUBARIK",
+    "OTTAMA"
+  ],
+  "title": "Book Message"
+}

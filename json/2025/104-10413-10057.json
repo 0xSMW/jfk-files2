@@ -1,0 +1,36 @@
+{
+  "classification": "Mexico",
+  "document_type": "Memorandum and Cable",
+  "security": "Revealing that the CIA sought to identify individuals who visited the Cuban and Soviet Embassies in Mexico City and that the Cuban DGI provided information to the CIA about a KGB officer could damage relationships. Disclosing this collaboration and the identities of the sources could jeopardize their safety and future cooperation with intelligence agencies. Additionally, exposing that individuals were requested to identify photographs from the Warren Commission report could reveal the focus and methods of the CIA's investigation into the JFK assassination.",
+  "security_level": "SECRET/CONFIDENTIAL",
+  "summary": "A memorandum from the CIA's Domestic Collection Division requests the Miami Field Office to show photographs of an unidentified man, seen at the Cuban and Soviet Embassies in Mexico City in 1963, to Subject 57845, followed by a cable reporting Subject 57845 identified the man as Yuri, a KGB officer met in Moscow in 1964.",
+  "summary_one_paragraph": "In March 1977, a CIA memorandum from the Domestic Collection Division tasked the Miami Field Office with showing photographs of an unidentified man, who visited the Cuban and Soviet Embassies in Mexico City in October 1963, to Subject 57845. The request cited the man's photograph being published in the Warren Commission report and widely distributed by journalists. Subsequently, a cable from Miami reported that a former member of the Cuban DGI identified the man as Yuri, a KGB officer encountered in Moscow in 1964 during an intelligence course, noting Yuri was fluent in English and Spanish and acted as a troubleshooter for the Cuban group attending the course.",
+  "tags": [
+    "CIA",
+    "KGB",
+    "DGI",
+    "Mexico City",
+    "Warren Commission",
+    "JFK Assassination",
+    "Soviet Embassy",
+    "Cuban Embassy",
+    "Intelligence",
+    "Identification",
+    "OIR Reports"
+  ],
+  "title": "Case 57845: Identification of Unidentified Man in Mexico City",
+  "date": "1977-03-11",
+  "locations_mentioned": [
+    "Mexico City",
+    "Moscow"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Yuri (LNU)",
+    "Juan (Pseudo)",
+    "Ramiro Perez Rodriguez",
+    "President Kennedy"
+  ],
+  "recipient": "Chief, Miami Field Office",
+  "sender": "Chief, Domestic Collection Division, Operations Services Group, Alien Branch"
+}

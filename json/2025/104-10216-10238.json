@@ -1,0 +1,30 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Sharing the identities of contacts with Cuban security services (Cantillo) and the details of ongoing relationships (QUJAY’s friendship with Cantillo) could compromise sources and hinder operations. Quoting directly: “CIS CONTACT IS LU. MANUEL CANTILLO TOIRAC...WHO REPORTEDLY CONNECTED CUBAN SECURITY” and “AT STATION DIRECTION QUJAY DEVELOPING CLOSE FRIENDSHIP WITH CANTILLO”.",
+  "security_level": "SECRET",
+  "summary": "A classified message reporting that a CIS contact, Manuel Cantillo Toirac (new Second Secretary at the Cuban Embassy in Madrid), is reportedly connected to Cuban security; also notes that QUJAY is developing a close friendship with Cantillo.",
+  "summary_one_paragraph": "This SECRET classified message, dated 281046Z, relays information regarding Manuel Cantillo Toirac, the new Second Secretary at the Cuban Embassy in Madrid, who is reportedly connected with Cuban security services. The message, sent from an unspecified director (possibly CROWERY acting, citing MADR 2662 and referencing DIR 73234), also notes that QUJAY, at the station's direction, is cultivating a close friendship with Cantillo. The message's subject is related to TYPIC AMLASH, under control number 20049756.",
+  "tags": [
+    "CIA",
+    "AMLASH",
+    "Cuba",
+    "Cuban Embassy",
+    "Madrid",
+    "Contact",
+    "Security Services",
+    "QUJAY"
+  ],
+  "title": "AMLASH - Contact with Cuban Security",
+  "date": "1968-10-28",
+  "locations_mentioned": [
+    "Madrid",
+    "Cuba"
+  ],
+  "persons_mentioned": [
+    "Manuel Cantillo Toirac",
+    "QUJAY"
+  ],
+  "recipient": "UNIT",
+  "sender": "DIR"
+}

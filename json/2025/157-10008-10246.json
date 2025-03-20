@@ -1,0 +1,36 @@
+{
+  "classification": "Commission",
+  "document_type": "Interview Summary",
+  "security": "This document contains descriptions of personnel roles and potential vulnerabilities, such as Harvey's thyroid problem and behavior after lunch ('four martini man at lunch' which, coupled with Harvey's thyroid medicine, caused Harvey to be sleepy, etc., after lunch'). Revealing these details could undermine operational effectiveness and provide ammunition for those seeking to discredit CIA personnel.",
+  "security_level": "TOP SECRET",
+  "summary": "This is a summary of an interview with Paul David (alias) conducted on July 25, 1975, by SSCIA personnel regarding the JFK assassination inquiry, covering his career at the CIA and his interactions with individuals like Bissell, Helms, McCone, and Harvey.",
+  "summary_one_paragraph": "On July 25, 1975, SSCIA personnel interviewed Paul David (alias) at the Carroll Arms concerning the assassination inquiry; George Clarke from the CIA's General Counsel's staff was present for the last fifteen minutes. The interview covered David's CIA career from 1948 to 1974, including roles such as Assistant to the Chief of Station in Romania, Chief of Operations Against Communist Areas, and Special Assistant to Helms. David discussed his interactions with Bissell, who asked him to review Zoogby's Cuban operations paper, and his subsequent role as Helms' staff assistant, primarily screening cable traffic and preparing briefings; he also provided insights on Harvey, describing him as egocentric, a proponent of compartmentaliation, and noted his thyroid problem and issues with McCone.",
+  "tags": [
+    "SSCIA",
+    "CIA",
+    "Interview",
+    "Paul David",
+    "Assassination Inquiry",
+    "Helms",
+    "Harvey",
+    "McCone",
+    "Bissell",
+    "Cuban Operations"
+  ],
+  "title": "Interview and Meeting Summary",
+  "date": "1975-07-25",
+  "persons_mentioned": [
+    "Paul David (alias)",
+    "Wallach",
+    "DiGenova",
+    "George Clarke",
+    "Bissell",
+    "Helms",
+    "McCone",
+    "Harvey",
+    "Zoogby",
+    "Carkey"
+  ],
+  "recipient": "SSCIA",
+  "sender": "SSCIA"
+}

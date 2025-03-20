@@ -1,0 +1,38 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Information concerning individuals such as home addresses, personal relationships, and character assessments is restricted.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report summarizing an interview with Hugo Rivera, a character reference for Manuel Marti, providing details about Marti's background, character, and loyalty.",
+  "summary_one_paragraph": "This agent report, dated November 19, 1968, summarizes an interview with Hugo Rivera, a close friend of Manuel Marti for approximately 12 years. Rivera provides details about Marti's childhood, education, family, and character, noting that Marti is honest, trustworthy, dependable, and loyal to the United States. Rivera also mentions Marti's interest in coin and stamp collecting, his lack of a girlfriend, and his father's occasional expression of socialist views, which Marti would argue against. Rivera highly recommends Marti for a position of trust and responsibility with the United States Government.",
+  "tags": [
+    "Manuel Marti",
+    "Character Reference",
+    "Hugo Rivera",
+    "Background Check",
+    "Loyalty",
+    "INSCOM",
+    "Agent Report"
+  ],
+  "title": "Agent Report on Manuel Marti Character Reference",
+  "date": "1968-11-19",
+  "locations_mentioned": [
+    "San Juan, Puerto Rico",
+    "New York, New York",
+    "Bronx, New York",
+    "Miami, Florida"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Hugo Rivera",
+    "Reyes Marti",
+    "Ivan Marti",
+    "Blanca Marti",
+    "Polo",
+    "Juanita Reyes",
+    "Aleanso Ortiz",
+    "Carlos Delgado",
+    "Alphonso E. Marshall"
+  ]
+}

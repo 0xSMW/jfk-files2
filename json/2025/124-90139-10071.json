@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memo",
+  "security": "Release of CIA information in this document, except brackets.",
+  "security_level": "Secret",
+  "summary": "The FBI memo discusses the Cuban government's interest in purchasing jute bags and hessian cloth through the International Ore and Fertilizer Company, with possible CIA connections to the New York company.",
+  "summary_one_paragraph": "This FBI memorandum, dated November 28, 1961, from the Salt Lake City SAC to the Director of the FBI, concerns the Cuban government's interest in purchasing large quantities of jute bags and hessian cloth through the International Ore and Fertilizer Company in New York City. The memo indicates a potential CIA connection to the New York company, prompting the FBI to forward the original and copies of a letterhead memorandum along with photostats of teletypes from the International Ore and Fertilizer Company to St. Regis Paper Company in Salt Lake City. The information was provided to SA John R. Philips, Jr., by Herbert Levy, Director of Central Operations at St. Regis Paper Company, who mentioned previous interactions with the CIA during his time in Houston, Texas, where he provided economic information on his trips to India.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Cuba",
+    "Economic Matters",
+    "Jute Bags",
+    "Hessian Cloth",
+    "International Ore and Fertilizer Company",
+    "St. Regis Paper Company",
+    "Liaison Material"
+  ],
+  "title": "Large Quantities of Jute Bags and Hessian Cloth Sought by Cuban Government",
+  "date": "1961-11-28",
+  "locations_mentioned": [
+    "Cuba",
+    "New York City",
+    "Salt Lake City",
+    "Houston",
+    "India"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John R. Philips, Jr.",
+    "Herbert Levy"
+  ],
+  "recipient": "HQ",
+  "sender": "SU"
+}

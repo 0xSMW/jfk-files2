@@ -1,0 +1,44 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Collection of Classified Messages and Documents",
+  "security": "These messages discuss the management and handling of WIROGUE, including preventing his return to the Congo due to potential compromise of KUBARK (CIA) operations and false documentation. Explicit instructions are given to FRAN (Frankfurt station) and LEOP (Leopoldville station) regarding contact, document retrieval, and the provision of substitute papers. Phrases such as, \"should be told his complete cooperation essential if contact to be continued,\" and references to \"Legal Documentation\" indicates involvement in sensitive methods of operations. Releasing this information could reveal sources and methods, compromise ongoing operations, and damage relationships with foreign intelligence services. Additionally, the discussions surrounding WIROGUE's financial irregularities and potential double-dealing could damage the CIA's reputation.",
+  "security_level": "SECRET",
+  "summary": "This file contains classified messages and documents related to the CIA's WIROGUE project, focusing on managing an agent's activities, preventing his return to the Congo due to security concerns, and handling his documentation.",
+  "summary_one_paragraph": "This collection of classified messages and documents primarily concerns the CIA's management of the WIROGUE project in 1961-1962. Key issues include concerns about WIROGUE's security, his financial improprieties, and his potential return to the Congo, which the CIA sought to prevent due to the risk of exposing KUBARK operations. The messages outline plans to retrieve his Austrian documents, provide him with alternative documentation (such as West German refugee papers), and caution him against contacting Leopoldville. The documents also detail his role within the Congolese Air Force and efforts to recruit instructors, as well as the CIA’s assessment of his capabilities and trustworthiness.",
+  "tags": [
+    "CIA",
+    "WIROGUE",
+    "KUBARK",
+    "Congolese Air Force",
+    "Documentation",
+    "Operations",
+    "Counterintelligence",
+    "Paul Arnold Pierrot",
+    "False Documents",
+    "FRAN (Frankfurt)",
+    "LEOP (Leopoldville)"
+  ],
+  "title": "WIROGUE Project Files",
+  "date": "1961-03-12",
+  "locations_mentioned": [
+    "Congo",
+    "Europe",
+    "Vienna",
+    "Germany",
+    "Leopoldville"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "WIROGUE",
+    "Robert B. Guthman",
+    "Lester E. Salvack",
+    "Fernand KAJADI",
+    "Paul Arnold PIERROT",
+    "E.N. Korn-Patterson",
+    "Robert Bouchard",
+    "P. Springer",
+    "William Phelps"
+  ],
+  "recipient": "Chief, Africa Division, Frankfurt, Leopoldville",
+  "sender": "Director, Frankfurt"
+}

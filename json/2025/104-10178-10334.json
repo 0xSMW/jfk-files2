@@ -1,0 +1,51 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Memorandum, Cable, Routing Sheet",
+  "security": "The memo details visa requests for a Cuban national, Reinaldo Pico Ramor, and mentions potential ties to the Latin American Confederation of Christian Trade Unions. Disclosing these associations could reveal sources or methods used to monitor or support such organizations. Quoting directly, \"OTHER TRAVEL NOTED IN FILE: Travel FR/TO Message sent Message Date FR/to U.S./Brazil Miami/Rio 14 August 1065 REMARKS: Visa REquested\". Revealing such traces can expose intelligence-gathering activities regarding individuals' movements.",
+  "security_level": "SECRET",
+  "summary": "This document includes memoranda, cables, and routing sheets regarding Reinaldo Pico Ramor, a Cuban national, detailing his travel history and visa requests in Latin America and the U.S., and refers to field traces and potential connections to organizations like the Latin American Confederation of Christian Trade Unions (CLASC). It also involves requests for information updates and file cross-referencing, indicating active intelligence interest in Ramor.",
+  "summary_one_paragraph": "This compilation of documents, dated from 1964 to 1969, focuses on Reinaldo Pico Ramor, a Cuban national with a travel history across Latin America and the United States. The documents include details of visa requests, travel itineraries, and references to his potential associations with the Latin American Confederation of Christian Trade Unions (CLASC) and other organizations. Filed and cross-referenced within intelligence networks, these records reflect ongoing efforts to trace and update information on Ramor, evidenced by the various field traces, requests for priority updates, and coordination among different intelligence offices, as seen in Caracas and elsewhere.",
+  "tags": [
+    "CIA",
+    "Reinaldo Pico Ramor",
+    "Travel Records",
+    "Latin America",
+    "Visa Requests",
+    "CLASC",
+    "Field Traces"
+  ],
+  "title": "FID Files Review: Reinaldo Pico Ramor Travel History and Information Requests",
+  "date": "1969-10-15",
+  "locations_mentioned": [
+    "Honduras",
+    "Guatemala",
+    "U.S.",
+    "Brazil",
+    "Miami",
+    "Rio",
+    "Chile",
+    "Venezuela",
+    "Caracas",
+    "San Juan",
+    "Santiago",
+    "Dominican Republic",
+    "Santo Domingo",
+    "Quito",
+    "Cuba",
+    "Havana"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Reinaldo Pico Ramor",
+    "Helen H. Stilson",
+    "Barbara Bowen",
+    "DTDORIC JMDEVEL",
+    "AMICE-31",
+    "AMCLEVE-15",
+    "Regino PICO",
+    "Maria de la Poz PICO",
+    "Carmen"
+  ],
+  "recipient": "Sulcor",
+  "sender": "FI/D"
+}

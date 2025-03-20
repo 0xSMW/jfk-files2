@@ -1,0 +1,27 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "Disclosing specific personal identifiers, such as the suspect's physical description, aliases, and criminal record, could compromise ongoing law enforcement efforts to apprehend James Earl Ray. Referencing mental health history (\"\". . .Once confined to mental hospital. . .\") may also violate privacy.",
+  "security_level": "SECRET",
+  "summary": "A cable identifies James Earl Ray as the accused assassin, providing his physical description, aliases, criminal record, and past mental health history; photos are being pouched for liaison.",
+  "summary_one_paragraph": "This secret cable, dated April 19, 1968, identifies James Earl Ray (born March 10, 1928, in Illinois) as the accused assassin. The cable provides a detailed physical description, including height, weight, eye color, hair color, and scars, and notes his aliases (James McBride, James Walton, W. C. Herron, and James O'Connor). It also mentions Ray's U.S. Army service, discharge due to ineptitude, past confinement in a mental hospital, employment history, and long criminal record involving burglary, armed robbery, and forgery; he has been missing from the Missouri State Penitentiary since April 23, 1967. The cable states that Ray is considered armed and extremely dangerous, with his current whereabouts unknown, and that photos are being sent for liaison purposes.",
+  "tags": [
+    "James Earl Ray",
+    "Assassination",
+    "Identification",
+    "Criminal Record",
+    "Aliases"
+  ],
+  "title": "Identification of Accused Assassin as James Earl Ray",
+  "date": "1968-04-19",
+  "persons_mentioned": [
+    "Richard Obar",
+    "James Earl Ray",
+    "James McBride",
+    "James Walton",
+    "W. C. Herron",
+    "James O'Connor"
+  ],
+  "recipient": "Asuncion, Bangkok, Barcelona, Beirut, Berlin, Bern, Bogota, Brasilia, Brussels, Buenos Aires, Caracas, Copenhagen, Frankfurt, Geneva, Georgetown, Guatemala City, Guayaquil, The Hague, Hamburg, Helsinki, Hong Kong, Kingston, La Paz, Lima, London, Madrid, Managua, Montevideo, New Delhi, Lisbon, Manila, Munich, Oslo, Panama City, Paris, Port Au Prince, Port of Spain, Porto Alegre, Quito, Recife, Rawalpindi, Rio de HX Janerio, Rome, San Jose, Santo Domingo, San Salvador, Santiago, Santiago de los Caballeros, Sao Paulo, Stockholm, Tegucigalpa, Tokyo, Vienna, Zurich",
+  "sender": "Richard Eber (by direction, CI/OPIDO)"
+}

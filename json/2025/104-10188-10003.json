@@ -1,0 +1,43 @@
+{
+  "classification": "Mexico/Operations/Security",
+  "document_type": "Classified Messages and Dispatch",
+  "security": "Several dispatches detail the LIFEAT operation, a sensitive phone-tapping program. Releasing details about targets, methods, personnel (like David M. WILSTED and Wayne C. DRABAND), and technical aspects (recording equipment, terminal markings) could reveal intelligence-gathering capabilities and compromise ongoing operations. For example, one report states, “LIFEAT operation provided a total of 62 reels of raw take from ACGM lines to local ODENVY for their processing.” Another describes a technique for marking telephone terminals, stating, \"The terminal identification system consists of two fluids... Generously daubed on the end of the screw, this solution dries almost immediately in a water repellont, invisible coating.\"",
+  "security_level": "SECRET",
+  "summary": "Collection of classified messages and dispatches concerning the CIA's LIFEAT operation in Mexico City, covering topics such as phone tapping, technical support, security measures, and personnel recruitment.",
+  "summary_one_paragraph": "This collection of documents primarily relates to the CIA's LIFEAT operation in Mexico City between 1962 and 1963. It includes messages approving technical support (such as loaning a dial pulse recorder), requesting assistance with clandestine markings for telephone cable terminals, and progress reports detailing targets, exploitation of leads, security protocols, and personnel involved (e.g., David M. WILSTED). One dispatch outlines the recruitment of a retired officer for contract work related to a technical operation, while another discusses LIFEAT’s role in supporting Treasury/Narcotics investigations, and also provides an update on efforts to secure telephone lines.",
+  "tags": [
+    "CIA",
+    "LIFEAT",
+    "Mexico City",
+    "Phone Tapping",
+    "Technical Operations",
+    "Security",
+    "Personnel Recruitment",
+    "Counterintelligence",
+    "Surveillance"
+  ],
+  "title": "LIFEAT Operation in Mexico City - Classified Messages and Dispatches",
+  "date": "1963-06-28",
+  "locations_mentioned": [
+    "Mexico City",
+    "Mexico"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "John M. Whitten",
+    "David N. WILSTED",
+    "Willard N. Auman",
+    "Wayne C. Draband",
+    "Svyatoslav F. KUZNETSOV",
+    "Juan Jose Arevalo Bermejo",
+    "Peter Watkins",
+    "Carlos Illescas",
+    "Margaret Maltz",
+    "Charles Smolikoff",
+    "Noah Seborer",
+    "William J. Durkin",
+    "Bruce La Rose"
+  ],
+  "recipient": "Various CIA Stations and Personnel",
+  "sender": "Director; Chief of Station, Mexico City; Chief, WH Division"
+}

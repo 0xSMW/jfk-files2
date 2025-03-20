@@ -1,0 +1,28 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "Revealing internal inquiries about a staff member's retirement, especially regarding whether it was amicable, could expose internal personnel management processes and decision-making, potentially undermining confidence in the CIA. Quoting: \"...would appreciate whatever info HQS could provide on REF IDEN's retirement/resignation - was separation amicable?\".",
+  "security_level": "SECRET",
+  "summary": "A cable from Vienna requests further information regarding a reference identification's retirement/resignation to assist in compliance with the JFK Assassination Records Collection Act of 1992.",
+  "summary_one_paragraph": "This SECRET cable, originating from Vienna on October 12, 1995, seeks additional information about a reference identification's retirement or resignation, as requested by the Director (REF DIRECTOR 493642 95 2040015). The information is needed to assist DCOS Eveson in delivering the reference tear line and to comply with the President John F. Kennedy Assassination Records Collection Act of 1992. Specifically, the cable requests clarification on whether the separation was amicable and notes that the reference identification is listed in the latest Vienna phone directory.",
+  "tags": [
+    "JFK Assassination Records Collection Act",
+    "Personnel Information",
+    "Retirement",
+    "Resignation",
+    "Vienna",
+    "DCOS Eveson",
+    "LIMIT"
+  ],
+  "title": "REQUEST FOR FURTHER INFORMATION",
+  "date": "1995-10-12",
+  "locations_mentioned": [
+    "Vienna"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "DCOS Eveson"
+  ],
+  "recipient": "Director, LIMIT Chief/OCC",
+  "sender": "STAFF"
+}

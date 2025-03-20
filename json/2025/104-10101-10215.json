@@ -1,0 +1,21 @@
+{
+  "classification": "Soviet",
+  "document_type": "Cable",
+  "security": "This cable directs multiple COS and COBs to mount unilateral surveillance and/or alert liaison services to discreet gatherings on the 46th anniversary of the founding of the Soviet State Security Organization. Disclosing this directive could compromise intelligence gathering methods and alert the KGB to surveillance activities.",
+  "security_level": "SECRET",
+  "summary": "A secret cable from the Director to all COS and COB stations, instructing them to conduct surveillance on Soviet KGB residencies discreet gatherings on December 20, the 46th anniversary of the founding of the Soviet State Security Organization, or alert their liaison services to this date as appropriate, in an attempt to identify members and confirm previous identifications.",
+  "summary_one_paragraph": "This secret cable, dated December 18, 1963, is directed from the Director to all Chiefs of Station (COS) and Chiefs of Base (COB), regarding the 46th anniversary of the founding of the Soviet State Security Organization on December 20. It instructs addressees to mount unilateral surveillance and/or alert liaison services to the anticipated discreet gatherings held by KGB residencies around the world, typically in embassies, official installations, or the homes of members, with the goal of making new identifications or confirming previous tentative identifications of KGB personnel.",
+  "tags": [
+    "KGB",
+    "Surveillance",
+    "Soviet State Security Organization",
+    "Liaison Services",
+    "COS",
+    "COB"
+  ],
+  "title": "CHKIST BIRTHDAY Surveillance Directive",
+  "date": "1963-12-18",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "All COS & COB Stations",
+  "sender": "Director"
+}

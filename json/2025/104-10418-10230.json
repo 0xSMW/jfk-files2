@@ -1,0 +1,37 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "Disclosing the identity of a sensitive sympathizer source or the surveillance of Willem Oltmans, given his connection to George de Mohrenschildt and congressional inquiries, could compromise intelligence operations and sources. The cable states, \"Sensitive sympathizer source indicates...WILLEM OLTMANS made appointment meet with CUBAN AMBASSADOR...\" and mentions Oltmans' \"notorious role at the time of the death of GEORGE DE MOHRENSCHILDT.\"",
+  "security_level": "SECRET",
+  "summary": "A cable reports on Willem Oltmans' meetings and contacts with Cuban and Soviet diplomats, noting his past association with George de Mohrenschildt and the interest of congressional committees.",
+  "summary_one_paragraph": "This SECRET cable, dated November 9, 1977, reports from The Hague on Willem Oltmans' scheduled meetings with the Cuban and Russian ambassadors in October 1977, noting Oltmans' prior travel to the Soviet Union and planned travel to Cuba. Given Oltmans' past notoriety concerning George de Mohrenschildt's death, which was of interest to both the Senate Select Committee on Intelligence and the House Assassinations Subcommittee, the cable suggests informing proper congressional authorities about Oltmans' contacts, with adequate source protection.",
+  "tags": [
+    "CIA",
+    "Willem Oltmans",
+    "George de Mohrenschildt",
+    "Cuba",
+    "Soviet Union",
+    "Congressional Interest",
+    "Source Protection",
+    "MHCOLOR",
+    "RYBAT",
+    "WNINTEL"
+  ],
+  "title": "Report on Willem Oltmans' Contacts with Cuban and Soviet Diplomats",
+  "date": "1977-11-09",
+  "locations_mentioned": [
+    "The Hague",
+    "America",
+    "Soviet Union",
+    "Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Willem Oltmans",
+    "Cuban Ambassador",
+    "Russian Ambassador Romanov",
+    "George de Mohrenschildt"
+  ],
+  "recipient": "Director",
+  "sender": "The Hague Station"
+}

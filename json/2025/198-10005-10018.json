@@ -1,0 +1,42 @@
+{
+  "classification": "Cuba",
+  "document_type": "Paper, Textual Document",
+  "security": "The document contains information affecting the National Defense of the United States within the meaning of the Espionage Laws, Title 18, U.S.C Secs. 793 and 794, the transmission or revelation of which in any manner to an unauthorized person is prohibited by law. It includes details of arms smuggling, potential involvement of Soviet fishing boats, and reports from intelligence sources. Disclosing such information could compromise intelligence operations and sources, and reveal sensitive information about U.S. knowledge of Cuban activities. Quoting the document: 'Soviet fishing boats, under cover of fishing Atlantic waters, are transporting contraband arms to Latin American countries.'",
+  "security_level": "Secret",
+  "summary": "This document consists of assorted papers related to Cuban material support of Communist subversives in Latin America, covering topics such as arms smuggling to and from Cuba and Cuban-sponsored subversion.",
+  "summary_one_paragraph": "This collection of documents, dated 6/24/201, pertains to Cuban involvement in supporting Communist subversion throughout Latin America. The papers, part of the Califano Papers, include reports on arms smuggling methods, such as using fishing boats and canning products, as well as assessments of arms caches discovered in Brazil and Venezuela. The reports also discuss possible shipments of arms to British Guiana and potential Cuban preparations for an invasion of a Caribbean country, while also including information from various intelligence sources and agencies regarding the transportation and origin of these arms.",
+  "tags": [
+    "Arms Smuggling",
+    "Cuba",
+    "Latin America",
+    "Subversion",
+    "Soviet Fishing Boats",
+    "Communist",
+    "CIA",
+    "Army",
+    "Califano Papers"
+  ],
+  "title": "ARMS SHIPMENTS TO AND FROM CUBA",
+  "date": "0000-00-00",
+  "locations_mentioned": [
+    "Cuba",
+    "Latin America",
+    "Honduras",
+    "Nicaragua",
+    "Panama",
+    "Venezuela",
+    "British Guiana",
+    "Brazil",
+    "San Cristobal",
+    "Colombia",
+    "Haiti"
+  ],
+  "origin_agency": "ARMY",
+  "persons_mentioned": [
+    "Castro",
+    "Che Guevara",
+    "Batista",
+    "Amado de Jesus Zapata",
+    "P.I. Plata"
+  ]
+}

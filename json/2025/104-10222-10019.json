@@ -1,0 +1,35 @@
+{
+  "classification": "Personnel",
+  "document_type": "Official Personnel Folder",
+  "security": "Revealing details from personnel files could compromise the privacy of individuals who worked with the CIA. This includes exposing names, dates of birth, marital status, employment history (both within and outside the CIA), education, language abilities, and performance evaluations. Quoting directly: \"BIOGRAPHIC PROFILE (PART 1)\" includes fields such as “MARITAL STATUS”, “DATE OF BIRTH”, “LANGUAGE APTITUDE TEST DATE”, and “NON-CIA EMPLOYMENT\". Also, “Commendation 19 from Chief of Station, Havana, for superior performance of duty\" shows commendations of employee.",
+  "security_level": "SECRET",
+  "summary": "This document is David Sanchez Morales' official personnel file, containing biographic information, employment history, and performance evaluations within the CIA.",
+  "summary_one_paragraph": "This is the official personnel file for David Sanchez Morales, also known as Vincent C. Pivall (#48). The file includes Morales' biographical information, such as his date of birth (August 26, 1925), marital status (married), and educational background. It details his CIA employment history from 1958 to 1973, outlining positions held in organizations like the DDP/Cuba Station and JMWAVE. It also notes his commendations, language abilities (Spanish), and security clearances. The file contains documents dated from 1953 to 1975.",
+  "tags": [
+    "CIA",
+    "Personnel File",
+    "David Sanchez Morales",
+    "Vincent C. Pivall",
+    "JMWAVE",
+    "Cuba Station",
+    "Performance Evaluations"
+  ],
+  "title": "Official Personnel Folder - David S. Morales",
+  "date": "1973",
+  "locations_mentioned": [
+    "Havana",
+    "U.S. Field",
+    "Forward Operations Station - JMWAVE",
+    "Phoenix, Arizona",
+    "Los Angeles, California",
+    "Baltimore",
+    "Germany"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "David S. Morales",
+    "Vincent C. Pivall",
+    "Horacio Sanchez",
+    "Watts W. Armstrong"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "The memo discusses sensitive source information related to the Kampiles Case and reveals that the DCI briefed Chairman Boland on a personal matter after briefing Chairman Bayh, indicating private communications between the DCI and committee members. Additionally, it references discussions about the Iranian situation, the President's displeasure with political reporting, and the SAVAK involvement, any of which could be damaging. For example, “the DCI informed Chairman Boland of the sensitive source-information involved in the case…the DCI briefed Chairman Boland on a personal matter…our hope that an FOIA repealer and a provision permitting our security people to carry guns be included…extensive involvement with SAVAK during the reporting period on Iran…report from Guyana about the goings on at Jonestown”. Revealing any of these details could compromise sources, reveal sensitive personal communications, or damage international relations.",
+  "security_level": "SECRET",
+  "summary": "This memo summarizes a meeting between the DCI and Chairman Boland of the HPSCI on December 5, 1978, covering topics such as the Kampiles Case, a personal matter, the Iranian situation, legislative charters, and the Authorization Bill.",
+  "summary_one_paragraph": "On December 5, 1978, the DCI met with Chairman Boland of the HPSCI to discuss several sensitive matters, including the Kampiles Case and its source-information, which the DCI shared only after Boland expressed interest, a personal matter previously briefed to Chairman Bayh, the Iranian situation and presidential displeasure with political reporting, and the progress of legislative charters where the DCI requested HPSCI's early involvement. The meeting also touched on the Authorization Bill, focusing on the inclusion of an FOIA repealer and a provision for security personnel to carry guns, and concluded with Boland's inquiries about CIA involvement with SAVAK and information regarding Jonestown.",
+  "tags": [
+    "DCI",
+    "HPSCI",
+    "Kampiles Case",
+    "Iran",
+    "Charters",
+    "Authorization Bill",
+    "SAVAK",
+    "Jonestown",
+    "Legislative Counsel"
+  ],
+  "title": "DCI Meeting with Chairman Boland of HPSCI, 5 Dec. 1978",
+  "date": "1978-12-06",
+  "persons_mentioned": [
+    "Boland",
+    "Kampiles",
+    "Mazzoli",
+    "Bayh",
+    "Latimer",
+    "O'Neil",
+    "Church",
+    "Rose"
+  ],
+  "recipient": "Executive Registry",
+  "sender": "Frederick P. Hitz (Legislative Counsel)"
+}

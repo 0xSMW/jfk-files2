@@ -1,0 +1,38 @@
+{
+  "classification": "Oswald",
+  "document_type": "Cable",
+  "security": "Disclosing that \"ARRB met principally with the following BKGB officials: ALEKSANDR ((VERAS)), HEAD OF SECTION (NFI); LEV ((PIMENAU)), HEAD OF SECTION (NFI); ALEKSANDR ((ABLAMEIKA)), PUBLIC RELATIONS DEPT.; GENNADIY ((NARKEVICH)) (PHONETIC), A DEPUTY CHAIRMAN, BKGB\" could harm ongoing operations by revealing intelligence sources and methods.",
+  "security_level": "SECRET",
+  "summary": "A cable from Minsk Station in March 1998 discusses a request from the USG Assassination Records Review Board (ARRB) for access to BKGB (Belarusian KGB) records related to Lee Harvey Oswald and the challenges in obtaining those records, including past failed attempts and the BKGB's concerns about privacy laws.",
+  "summary_one_paragraph": "In March 1998, the Minsk Station sent a cable detailing a request from the USG Assassination Records Review Board (ARRB) to access BKGB records concerning Lee Harvey Oswald's time in Minsk. The ARRB had previously made inquiries in October 1996, facilitated by the station, but the BKGB refused to provide copies of the documents citing privacy laws, particularly concerning Oswald's former wife, Marina. The cable also highlights complications arising from author Norman Mailer's prior access to these records, which led the BKGB to feel exploited due to profits earned from Mailer's book. The station seeks guidance and authorization on how to proceed with facilitating future ARRB meetings with the BKGB, anticipating a renewed request from the ARRB through the State Department and the Embassy.",
+  "tags": [
+    "WNINTEL",
+    "JYVAPOROUS",
+    "BKGB",
+    "Assassination Records Review Board",
+    "Lee Harvey Oswald",
+    "John F. Kennedy",
+    "Marina Oswald",
+    "Norman Mailer",
+    "Minsk",
+    "Belarus"
+  ],
+  "title": "BKGB Access Support to USG<ASSASSINATION>RECORD Review Board",
+  "date": "1998-03-06",
+  "locations_mentioned": [
+    "Minsk, Belarus"
+  ],
+  "origin_agency": "CIA Minsk Station",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "John F. Kennedy",
+    "Marina Oswald",
+    "Aleksandr Veras",
+    "Lev Pimenau",
+    "Aleksandr Ablameika",
+    "Gennadiy Narkevich",
+    "Norman Mailer"
+  ],
+  "recipient": "Director",
+  "sender": "STAFF"
+}

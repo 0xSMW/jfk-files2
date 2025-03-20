@@ -1,0 +1,29 @@
+{
+  "classification": "Operations",
+  "document_type": "Memorandum",
+  "security": "Revealing details about Operation MHCHAOS, including its sensitivity and restricted handling channels, could damage national security. The memo states, \"during its tenure MHCHAOS was one of the most sensitive operations conducted under DDP aegis, repeatedly sanctioned (in writing) by the DCI. The activity was deemed so sensitive that it was controlled by/through extremely restricted handling channels.\" Additionally, mentioning the acquisition of information from sensitive sources/methods and references to classified FBI reports could compromise intelligence-gathering capabilities and relationships with other agencies.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A memorandum from P. Haefner to J.D. Lavery of OGC, via A. Addona, regarding the classification of document EX 3600, justifying its classification based on its connection to Operation MHCHAOS and the inclusion of information from sensitive sources and classified FBI reports.",
+  "summary_one_paragraph": "In a memorandum dated April 7, 1977, P. Haefner (C/SCB/IP) responds to J.D. Lavery (OGC), via A. Addona (DDO/PICG), explaining the classification of document EX 3600. Haefner, who was not directly involved with Operation MHCHAOS, reasons that any document produced by MHCHAOS, given its sensitivity and control through restricted channels, would be classified at least SECRET. He argues that the document's current CONFIDENTIAL classification is proper due to information acquired from sensitive sources/methods and frequent mentions of classified FBI information concerning Peace Movement groups, recommending FOIA exemption (b)(3).",
+  "tags": [
+    "MHCHAOS",
+    "Classification",
+    "FOIA",
+    "FBI",
+    "Peace Movement",
+    "Sensitive Sources",
+    "DCI",
+    "OGC",
+    "DDO/PICG"
+  ],
+  "title": "Classification of EX 3600",
+  "date": "1977-04-07",
+  "persons_mentioned": [
+    "J. D. Lavery",
+    "A. Addona",
+    "P. Haefner",
+    "DCI (Director of Central Intelligence)"
+  ],
+  "recipient": "J. D. Lavery",
+  "sender": "P. Haefner"
+}

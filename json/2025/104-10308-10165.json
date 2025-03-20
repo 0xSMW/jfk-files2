@@ -1,0 +1,42 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This message discusses intelligence sources and methods, including the use of a Brazilian official as a courier. Revealing these details could compromise ongoing intelligence operations and endanger individuals providing information. For example, the message states: \"(MESTRINHO) ALSO DELIVERED TO A-1 LETTER FROM MARIANNA ARGUELLES...\" and \"A-1 SAID (MESTRINHO) WHO HAD GIVEN LETTERS WITHOUT KNOWLEDGE ORIGINATORS...\"",
+  "security_level": "SECRET",
+  "summary": "A classified message from the Director to WAVE (likely a CIA station) reports on information obtained from Mario Rogerio Mestrinho de Mello, a Brazilian official, regarding rumors of an assassination attempt on Fidel Castro, travel restrictions affecting Brazilian Cubans, and a possible connection between Lee Oswald and a Cuban named Jose \"Pope\" Glanuzakhet in Mexico. The message also discusses correspondence delivered by Mestrinho from Marianna Arguelles and concerns regarding her potential cooperation with anti-Communists.",
+  "summary_one_paragraph": "This SECRET classified message, dated October 18, 1963, conveys information gathered from Mario Rogerio Mestrinho de Mello, a Brazilian official on leave from the Brazilian embassy in Havana, who visited ANSTRUT-1 on December 13. Mestrinho reported rumors of an assassination attempt on Fidel Castro, mentioned travel restrictions impacting Brazilians wanting to visit Cuba, alluded to a rumor linking Lee Harvey Oswald with a Cuban named Jose \"Pope\" Glanuzakhet in Mexico, and delivered letters from Marianna Arguelles to A-1. The correspondence suggested Arguelles might be willing to cooperate with anti-Communists, and A-1 requested the station provide items for Arguelles; the message also inquired if headquarters had any interest in Mestrinho as a courier.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Brazil",
+    "Fidel Castro",
+    "Lee Harvey Oswald",
+    "Mario Rogerio Mestrinho de Mello",
+    "Marianna Arguelles",
+    "Assassination Attempt",
+    "KUBARK"
+  ],
+  "title": "Director Classified Message Regarding Information from Brazilian Official",
+  "conspiracy": "The document mentions a \"WIDE RUMOR CUBAN JOSE \"POPE\" GLANUZAKHET LEE OSWALD IN MEXICO BEFORE KENNEDY ASSASSINATION\" but provides no additional evidence or confirmation of this rumor. Therefore it does not provide evidence that clarifies who killed JFK, but potentially a possible accomplice or connection.",
+  "date": "1963-10-18",
+  "locations_mentioned": [
+    "Rio de Janeiro",
+    "Havana",
+    "Brazil",
+    "Cuba",
+    "Mexico",
+    "Algiers",
+    "Moscow"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Mario Rogerio Mestrinho de Mello",
+    "Fidel Castro",
+    "Bastigo Pinto",
+    "Lee Harvey Oswald",
+    "Jose \"Pope\" Glanuzakhet",
+    "Marianna Arguelles"
+  ],
+  "recipient": "WAVE (likely a CIA station)",
+  "sender": "Director"
+}

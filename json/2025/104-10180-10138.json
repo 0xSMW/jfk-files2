@@ -1,0 +1,32 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security": "The dispatch outlines the procedures for secure communication using specific supplies and techniques. Disclosing these details could compromise existing or future covert operations by revealing the methods used to maintain secrecy. Specifically, mentioning the use of carbon sheets, developer pills with code numbers like #30607 and #58838, and instructions for agent training could allow adversaries to identify and decode messages. Quoting directly: \"The S supplies and instructions needed to establich two-way SW correspondence with AMIRE 1 are transmitted herewith...\" and \"AMERE l will develop the SW messages he receives by means of pill #58838.\"",
+  "security_level": "SECRET",
+  "summary": "A dispatch from the Chief of Station, Havana, to Chief, KURIOT, regarding supplies and instructions for establishing secure two-way communication (SW) with agent AMIRE 1, including carbon paper, developer materials, and training procedures.",
+  "summary_one_paragraph": "This dispatch, sent from the Chief of Station in Havana to Chief, KURIOT, details the transmission of supplies and instructions necessary for initiating secure two-way communication with agent AMIRE 1. It outlines the use of specific carbon sheets and developer pills for creating and deciphering messages, emphasizing the importance of agent training and adherence to proper writing techniques. The dispatch also covers protocols for handling incoming and outgoing messages via accommodation addresses in Latin America, ensuring cover correspondence, and maintaining supply security. The goal is to establish reliable and discreet communication between the agent and the case officer, minimizing the risk of exposure.",
+  "tags": [
+    "CIA",
+    "KURIOT",
+    "Havana",
+    "AMIRE 1",
+    "Secure Communication",
+    "SW Supplies",
+    "Covert Operations",
+    "Agent Training",
+    "Carbon Paper",
+    "Developer Pills"
+  ],
+  "title": "DC: AQUATIC/Operational SW Supplies for AYTRE",
+  "date": "1960-06-23",
+  "locations_mentioned": [
+    "Havana",
+    "Latin America"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "AMIRE 1"
+  ],
+  "recipient": "Chief, KURIOT",
+  "sender": "Chief of Station, Havana"
+}

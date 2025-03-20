@@ -1,0 +1,37 @@
+{
+  "classification": "Security",
+  "document_type": "Field Information Report",
+  "security": "Sharing details about intelligence gathering on individuals with suspected communist ties and the investigation of their personal connections could compromise ongoing intelligence operations and reveal sources. For example, the report details: \"Alicia ROMERO reportedly is the mistress of various politicians. She claims her home to be at Av. Coyoacan 624-2. Alicia ROMERO is reported to be pro-Communist and to be a member of the PCM.\"",
+  "security_level": "SECURITY INFORMATION",
+  "summary": "This report details information gathered on Alicia Romero G., a suspicious contact of Soviet Naval Attache Grigoris Nikiporets, including her possible communist ties and connections with Mexican politicians and individuals linked to Soviet intelligence.",
+  "summary_one_paragraph": "A Field Information Report, dated September 19, 1956, outlines intelligence collected on Alicia Romero G. in Mexico City from May to August 1956. The report identifies Romero as a contact of Soviet Naval Attache Grigoris Nikiporets. It also includes details about her residence, her connection to Maria Eugenia Romero de Haro and Captain Antonio Haro Oliva, and possible links to Yurix Paporov, a Soviet cultural and intelligence officer. Romero is reported to work in the photographic department of FRAZ magazine, to be pro-Communist, a possible member of the PCM (Mexican Communist Party), and a mistress to several politicians.",
+  "tags": [
+    "Alicia Romero G.",
+    "Grigoris Nikiporets",
+    "Soviet Naval Attache",
+    "Mexico",
+    "Communist",
+    "PCM",
+    "Yurix Paporov",
+    "Intelligence",
+    "Counterintelligence"
+  ],
+  "title": "Alicia ROMERO G. (Garzun)",
+  "date": "1956-09-19",
+  "locations_mentioned": [
+    "Mexico",
+    "Mexico City"
+  ],
+  "origin_agency": "CIA (assumed based on document context)",
+  "persons_mentioned": [
+    "Alicia Romero G.",
+    "Grigoris Nikiporets",
+    "Maria Eugenia Romero de Haro",
+    "Antonio Haro Oliva",
+    "Nadia Haro Oliva",
+    "Yurix Paporov",
+    "Jorge Haro Cabrera",
+    "Maria de la Luz de Romero"
+  ],
+  "recipient": "Unknown"
+}

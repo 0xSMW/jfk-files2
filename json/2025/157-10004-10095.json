@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This document is prepared in response to your request and is not for dissemination outside your Committee. Its use is limited to official proceedings by your Committee and the contents shall not be disclosed to unauthorized personnel without the express approval of the FBI.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "The FBI reported an alleged Cuban plan to assassinate the President of Panama based on information from Orlando Piedra, a former member of the Federal Police in Cuba, who received the information from a source in Cuba.",
+  "summary_one_paragraph": "On March 17, 1964, the FBI reported that Orlando Piedra, formerly of the Cuban Federal Police and residing in New Orleans, advised that he received information approximately one week prior from a reliable source in Cuba indicating that Fidel Castro planned to assassinate the President of Panama to incite uprisings in that country; Piedra claimed he informed Colonel Bolivar Ballarino, Chief of the National Guard of Panama, via letter. The FBI confirmed the information was shared orally with representatives from the State Department, CIA, Department of the Army, Department of the Air Force, and Department of the Navy.",
+  "tags": [
+    "Cuban Plot",
+    "Assassination",
+    "President of Panama",
+    "FBI",
+    "Panama",
+    "Orlando Piedra"
+  ],
+  "title": "Alleged Cuban Plan to Assassinate President of Panama",
+  "date": "1964-03-17",
+  "locations_mentioned": [
+    "Cuba",
+    "Panama",
+    "New Orleans, Louisiana"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Orlando Piedra",
+    "Fidel Castro",
+    "Bolivar Ballarino",
+    "J. J. Kelly",
+    "Jones Marmion",
+    "A. J. Decker",
+    "Colonel Graham E. Schmid",
+    "Major William Boya",
+    "Don Gorham"
+  ],
+  "recipient": "SSCIA"
+}

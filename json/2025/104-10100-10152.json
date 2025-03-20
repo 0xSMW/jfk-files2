@@ -1,0 +1,31 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "Revealing contact information and operational code names could compromise intelligence operations and endanger individuals involved. Specifically, the mention of 'identity 1353 A (ALFONSO BIBILDOX) 08 PARAM' and the instruction 'See Bass for asse' (asset?) indicate sensitive operational details.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A cable from PARIS/LPIPIT to MEAL and CITY regarding the identity of a contact, Alfonso Bibildox, and instructions to see Bass for asset-related information.",
+  "summary_one_paragraph": "This unclassified cable, dated October 8, 1963, originates from PARIS/LPIPIT and is addressed to MEAL and CITY. It references the identity of a contact, identified as 1353 A (Alfonso Bibildox), with the identifier '08 PARAM'. The cable provides a brief instruction to 'See Bass for asse', likely referring to asset-related information. The cable involves Manuel Aragon (CA/35), and routing information includes MEXI *4043, MEDUIC, and LEPITOCE, referencing DIR 74042.",
+  "tags": [
+    "CIA",
+    "Mexico",
+    "LPIPIT",
+    "Alfonso Bibildox",
+    "Manuel Aragon",
+    "Assets",
+    "Contacts"
+  ],
+  "title": "Identity of Contact: Alfonso Bibildox",
+  "date": "1963-10-08",
+  "locations_mentioned": [
+    "Paris",
+    "Mexico City"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Manuel Aragon",
+    "Alfonso Bibildox",
+    "Bass"
+  ],
+  "recipient": "MEAL, CITY",
+  "sender": "PARIS/LPIPIT"
+}

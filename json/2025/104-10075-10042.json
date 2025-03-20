@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Disclosing the identities and code names of intelligence sources operating in Cuba (ANTRUNK) could expose them to harm.  Quote: 'TYPIC ANTRUNK ANTRUNK ... ICEN A [LUIS (GOICOCHEA) ...",
+  "security_level": "SECRET",
+  "summary": "A SECRET cable from JMWAVE (Miami) to the Director, dated November 29, 1963, provides information related to individuals with code names ICEN A, IDER B, LDEN C, LUEN D, and IDEN E. This cable is a TYPIC ANTRUNK ANTRUNK cable.",
+  "summary_one_paragraph": "This SECRET cable, dated November 29, 1963, was sent from JMWAVE (Miami) to the Director and provides information regarding ANTRUNK. The cable lists individuals with code names: ICEN A [LUIS (GOICOCHEA)], IDER B [ISRAEL (GARCIA)], LDEN C [CARLOS (DIAGO)], LUEN D [MANUEL (GARCIA) SUAMEZ KPT SUAREZ], and IDEN E [JUAN (MULAT) SANCHEZ]. The cable is designated as TYPIC ANTRUNK ANTRUNK and references WAVE 6123.",
+  "tags": [
+    "CIA",
+    "JMWAVE",
+    "ANTRUNK",
+    "Cuba",
+    "Intelligence Sources",
+    "Code Names"
+  ],
+  "title": "ANTRUNK Cable Regarding Individuals with Code Names",
+  "date": "1963-11-29",
+  "locations_mentioned": [
+    "Cuba"
+  ],
+  "origin_agency": "JMWAVE (Miami)",
+  "persons_mentioned": [
+    "LUIS (GOICOCHEA)",
+    "ISRAEL (GARCIA)",
+    "CARLOS (DIAGO)",
+    "MANUEL (GARCIA) SUAMEZ KPT SUAREZ",
+    "JUAN (MULAT) SANCHEZ"
+  ],
+  "recipient": "Director",
+  "sender": "JMWAVE"
+}

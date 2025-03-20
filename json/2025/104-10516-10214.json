@@ -1,0 +1,28 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "Revealing the identities of letter drops or the use of specific individuals for clandestine communications could compromise ongoing operations and endanger individuals involved. ",
+  "security_level": "3X SECRET",
+  "summary": "A message from Mexico City requests that LEXI provide a letter drop for TICRYSTAL-1, with the letters to be addressed to Angel Guadaluppe Rivera at a specific address in Mexico City.",
+  "summary_one_paragraph": "A highly classified message originating from Mexico City requests that LEXI, a component within the CIA, establish a letter drop for an individual identified as TICRYSTAL-1. The message specifies that letters should be directed to Angel Guadaluppe Rivera, residing at Manzanos 70, Department 32, in Mexico City, D.F. This communication, referencing DIR 84498, indicates covert operational support involving clandestine correspondence.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "Letter Drop",
+    "TICRYSTAL-1",
+    "Angel Guadaluppe Rivera",
+    "Covert Operations"
+  ],
+  "title": "Request for Letter Drop for TICRYSTAL-1",
+  "date": "1964-04-22",
+  "locations_mentioned": [
+    "Mexico City, D.F."
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Angel Guadaluppe Rivera",
+    "TICRYSTAL-1"
+  ],
+  "recipient": "Director",
+  "sender": "Mexico City"
+}

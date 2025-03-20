@@ -1,0 +1,52 @@
+{
+  "classification": "Operations",
+  "document_type": "File",
+  "security": "This file contains sensitive operational details about SLANK-1, a former DGI officer, including his compensation, activities, and contacts. Disclosing this information could compromise his security and reveal CIA methods for recruiting and handling assets. For example, the memo of oral commitment details financial arrangements and security obligations: \"Subject is reimbursed for travel expenses and is given a salary replacement... this Agency would have an obligation to reimburse Subject for expenses required to reduce that threat, including expenses needed to relocate Subject and his family.\"",
+  "security_level": "SECRET",
+  "summary": "This file contains operational material from 1971-1972 and 1975-1978, relating to SLANK-1, a former DGI officer, and his interactions with CIA personnel, including potential operations against Cuban officials. It includes memoranda, contact reports, and details of his employment and compensation.",
+  "summary_one_paragraph": "This file documents the CIA's interactions with SLANK-1 (Vladimir Rodriguez Lahera), a former DGI officer, between 1971 and 1978. The documents detail his engagement under Project SLEEPER, including his compensation, security arrangements, and operational activities. They also cover his potential use in operations against Cuban officials like Ramon Cesar CUENCA and Norberto HERNANDEZ Curbelo, his contacts with individuals such as Salvador Aldereguia, and his employment as a bus driver with the Metro Transit Authority in Miami, where the CIA sought permission for his operational absences. The file also includes memos, contact reports, and information about his debriefing and recruitment attempts.",
+  "tags": [
+    "CIA",
+    "SLANK-1",
+    "Vladimir Rodriguez Lahera",
+    "DGI",
+    "Project SLEEPER",
+    "Cuban Intelligence",
+    "Miami",
+    "Operations",
+    "Asset Handling"
+  ],
+  "title": "Operational Material re: SLANK-1 (Vladimir Rodriguez Lahera)",
+  "date": "1970-12-31",
+  "locations_mentioned": [
+    "Miami, Florida",
+    "Caracas",
+    "Cuba",
+    "Washington, D.C.",
+    "New York City",
+    "Newark, New Jersey"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "SLANK-1 (Vladimir Rodriguez Lahera)",
+    "Henry S. Pachankis",
+    "Salvador Aldereguia",
+    "Ramon Cesar CUENCA Montoto",
+    "Norberto HERNANDEZ Curbelo",
+    "Roberto RODRIGUEZ Llompart",
+    "Ricardo ESPINO Martinez",
+    "Federico CRESPO Moreira",
+    "Rafael MIRABAL Fernandez",
+    "Manuel CARDONELL Duque",
+    "Armando \"Ulises\" ESTRADA Fernandez",
+    "Roque DALTON Garcia",
+    "William Walton",
+    "Jack Cogshell",
+    "H.I. Cross",
+    "B.L. Wallace",
+    "K.C. Butler",
+    "Joseph Norris"
+  ],
+  "recipient": "Director, Federal Bureau of Investigation, LA/Miami, Panama City",
+  "sender": "CIA (Various)"
+}

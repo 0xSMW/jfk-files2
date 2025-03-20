@@ -1,0 +1,50 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security": "Disclosing the details of this memo, particularly the potential use of Beliard for CIA operations in Cuba and the FBI's internal discussion on whether to allow CIA contact, could expose ongoing or planned intelligence activities and compromise sources. The document specifically mentions, \"CIA is of the opinion that Beliard through his contacts in the Cubana Airlines and because of his possible association with individuals who travel regularly between the two countries, could arrange for CIA (to communicate with clandestine sources inside Cuba.\" and \"ACTION: CLASSIFIED BY 5668 SUD/KSR DECLASSIFY.ON: 25X(JFK)\"",
+  "security_level": "Confidential",
+  "summary": "An FBI memo from S.J. Papich to Mr. L'Allier discusses a CIA request concerning Jorge Beliard, a station manager for Cubana Airlines, and explores options for FBI involvement or allowing CIA contact for potential courier routes between Cuba and the United States.",
+  "summary_one_paragraph": "This FBI memorandum, dated June 26, 1961, from S.J. Papich to Mr. L'Allier, addresses a CIA inquiry about Jorge Beliard, a Cubana Airlines station manager at Idlewild International Airport. The CIA believes Beliard could be valuable for establishing courier routes between Cuba and the U.S. The memo outlines three potential FBI actions: preventing CIA contact, allowing CIA to proceed, or having the FBI act as an intermediary with Beliard, with a final decision deferred to the Nationalities Intelligence Section for appropriate review.",
+  "tags": [
+    "CIA",
+    "FBI",
+    "Jorge Beliard",
+    "Cubana Airlines",
+    "Courier Routes",
+    "Cuba",
+    "Liaison",
+    "Name Check"
+  ],
+  "title": "CIA Liaison Material: Jorge Beliard",
+  "date": "1961-06-26",
+  "locations_mentioned": [
+    "Idlewild International Airport, New York City",
+    "Cuba",
+    "United States"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "S. J. Papich",
+    "L'Allier",
+    "Jorge Beliard",
+    "Jane Roman",
+    "Tolson",
+    "Belmont",
+    "Mohr",
+    "Callahan",
+    "Conrad",
+    "DeLoach",
+    "Evans",
+    "Malone",
+    "Rosen",
+    "Sullivan",
+    "Tavel",
+    "Trotter",
+    "Ingram",
+    "Gandy",
+    "Donahoe",
+    "Dunn"
+  ],
+  "recipient": "L'Allier",
+  "sender": "Papich"
+}

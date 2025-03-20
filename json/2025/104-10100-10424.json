@@ -1,0 +1,32 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "Revealing that the CIA is tracking journalists and coordinating with other agencies (“MOTH”) could damage relations with the press and expose intelligence-gathering methods.",
+  "security_level": "SECRET",
+  "summary": "A cable reports that journalist Frank Pilgrim, representing Reuters and the Manchester Guardian, plans to attend Cuban anniversary celebrations and will likely travel to Mexico afterward; the CIA will not attempt contact but will receive debriefing results from another agency (MOTH).",
+  "summary_one_paragraph": "On December 26, 1963, a secret cable was sent noting that journalist Frank Pilgrim, affiliated with Reuters and the Manchester Guardian, is scheduled to attend Cuban anniversary celebrations on January 1st and is expected to travel to Mexico via Cubana. The cable specifies that KUBARK (CIA) should not attempt to contact Pilgrim directly but will receive debriefing information, if any, from MOTH (another agency) following Pilgrim's return.",
+  "tags": [
+    "CIA",
+    "Frank Pilgrim",
+    "Reuters",
+    "Manchester Guardian",
+    "Cuba",
+    "Mexico",
+    "Journalist",
+    "Surveillance",
+    "Debriefing",
+    "MOTH"
+  ],
+  "title": "Journalist Frank Pilgrim's Travel Plans",
+  "date": "1963-12-26",
+  "locations_mentioned": [
+    "Cuba",
+    "Mexico"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Frank Pilgrim"
+  ],
+  "recipient": "OPAP, C/CI, C/FI 2, C/FI/INT 2, CNC, CAN 5, MEXI",
+  "sender": "SAS/C/"
+}

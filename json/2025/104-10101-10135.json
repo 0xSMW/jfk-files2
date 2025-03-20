@@ -1,0 +1,29 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "Sharing the identities of individuals connected to COSEC could potentially endanger those individuals.  Quoting directly: \"A. DONALD EMERSON - NORTH AMERICAN SECRETARY COSSC B. RAUL AVILA - LATIN AMERICAN SECRETARY COSEC\"",
+  "security_level": "SECRET",
+  "summary": "A SECRET cable identifies Donald Emerson as the North American Secretary of COSSC and Raul Avila as the Latin American Secretary of COSEC.",
+  "summary_one_paragraph": "On December 5, 1963, a SECRET cable was sent from the Director to PARIS/LOPEM and MEXICO CITY, identifying Donald Emerson as the North American Secretary of COSSC and Raul Avila as the Latin American Secretary of COSEC, with the reference DIR 87036.",
+  "tags": [
+    "CIA",
+    "COSSC",
+    "COSEC",
+    "Donald Emerson",
+    "Raul Avila",
+    "Identities"
+  ],
+  "title": "Identities of Donald Emerson and Raul Avila",
+  "date": "1963-12-05",
+  "locations_mentioned": [
+    "Mexico City",
+    "Paris"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Donald Emerson",
+    "Raul Avila"
+  ],
+  "recipient": "PARIS/LOPEM, MEXICO CITY",
+  "sender": "Director"
+}

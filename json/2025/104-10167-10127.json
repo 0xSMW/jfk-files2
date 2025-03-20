@@ -1,0 +1,43 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security": "Disclosing the agent's intention to help DMCHAR devise a communication strategy could expose methods, such as asking DMCHAR's wife to contact FEDEZ de Castro. This could compromise ongoing intelligence-gathering efforts and put individuals at risk.",
+  "security_level": "SECRET",
+  "summary": "This secret dispatch from August 1957 details a contact report with DMCHAR, covering topics from funding and communication strategies to information on Soviet presence and potential contacts within Castro's regime.",
+  "summary_one_paragraph": "In August 1957, a secret dispatch was sent from KU (KARINZY) detailing a contact report with DMCHAR regarding their group's activities. DMCHAR reported slow progress due to lack of funds and communication with contacts in Cuba, while also mentioning a potential aircraft sale and past connections with Julio LOBO for fundraising. The dispatch further discusses plans for a propaganda program, DMCHAR's knowledge of Soviet presence in Cuba through Douglas ROOT, and potential contacts within Raul CASTRO's circle, including an introduction to Fidel Castro's secretary. The dispatch concludes with a recommendation to pass DMCHAR's suggestion of contacting FEDEZ de Castro to the Havana Station.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "DMCHAR",
+    "Propaganda",
+    "Soviets",
+    "Castro",
+    "Funding",
+    "Communication",
+    "Kariny"
+  ],
+  "title": "Report of Contact with DMCHAR on 13 August 1957",
+  "date": "1957-08",
+  "locations_mentioned": [
+    "Cuba",
+    "Santiago de Cuba",
+    "Miami, Florida"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "DMCHAR",
+    "Julio LOBO",
+    "OLEDBIAS",
+    "EDCOVE",
+    "Douglas ROOT",
+    "Raul CASTRO",
+    "Fidel CASTRO",
+    "Marta",
+    "Rasir ALDES",
+    "Juan FEDEZ de Castro",
+    "Frank FICRET",
+    "Elecy GUTIERREZ Mazoo"
+  ],
+  "recipient": "Tier, Division",
+  "sender": "KU (KARINZY) ARECT"
+}

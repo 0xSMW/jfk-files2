@@ -1,0 +1,40 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "Disclosing information about the source (Jose Ricardo Rabel Ortega) and his family in Cuba could endanger them. \"Note: This information is confidential, and I want it to be kept in the greatest possible secrecy. I have spoken with no one else of this matter, which I consider very delicate. I want held in complete reserve the name of my brother-in-law and that of Mr. Laureano ('Lino') Pequeno.\"",
+  "security_level": "SECRET",
+  "summary": "A report from July 1962 details information provided by a Cuban national, Jose Ricardo Rabel Ortega, concerning the DRE (Directorio Revolucionario Estudiantil) receiving arms and planning sabotage activities against the Castro regime in Cuba.",
+  "summary_one_paragraph": "This SECRET report, dated July 20, 1962, originates from JMWAVE and Task Force W, relaying intelligence from Jose Ricardo Rabel Ortega, a Cuban national and former Navy cadet, regarding the activities of the Directorio Revolucionario Estudiantil (DRE) in Cuba. Ortega reported that his brother-in-law, Fernando Gomez Fonseca, in charge of the DRE in Havana Province, informed him that the DRE had received 14 tons of arms and munitions and was expecting more shipments, including a yacht for use against the Castro government. The DRE's operations, including sabotage of bridges and railroads, were expected to commence within one to two months. The report suggests that the Station establish contact with Ortega to determine his operational potential and assess any security breaches.",
+  "tags": [
+    "CIA",
+    "JMWAVE",
+    "Task Force W",
+    "DRE",
+    "Directorio Revolucionario Estudiantil",
+    "Cuba",
+    "Castro Regime",
+    "Sabotage",
+    "Arms Shipment",
+    "GYROSE/PW"
+  ],
+  "title": "Activities of the DRE (Directorio Revolucionario Estudiantil)",
+  "date": "1962-07-20",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Oriente Province",
+    "Minas del rio",
+    "Miami, Florida"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Jose Ricardo Rabel Ortega",
+    "Jose Ricardo Rabel Hunez",
+    "Fernando Gomez Fonseca",
+    "Laureano (\"Lino\") Pequeno",
+    "Manuel Gomez",
+    "Neil T. Pickworth"
+  ],
+  "recipient": "Chief of Station, JMWAVE; Chief, Task Force W",
+  "sender": "Neil T. Pickworth"
+}

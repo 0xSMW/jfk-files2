@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Progress Report",
+  "security": "Disclosing details about the operational capabilities and intelligence-gathering methods of resistance groups and foreign intelligence services could jeopardize ongoing clandestine operations and expose sensitive sources and methods. Specifically, the report mentions 'A unilaterally recruited senior officer of the diplomatic service of a neutralist African country has been briefed and given training in secret writing and communications to assist him in reporting on our objectives in Cuba' and 'The Chief of the Danish Intelligence Service has agreed to cooperate with us on Cuban intelligence operations.' Revealing this information could compromise these relationships and endanger the individuals involved.",
+  "security_level": "Secret",
+  "summary": "This is a progress report on the Cuba Project, dated April 10, 1962, which details operational activities including infiltration and exfiltration of agents, collaboration with foreign intelligence services, debriefing of Cuban refugees, and monitoring of Cuban trade and internal conditions.",
+  "summary_one_paragraph": "The Cuba Project Progress Report, covering April 4-11, 1962, outlines operational activities such as assessing the effectiveness of Cuban resistance organizations, recruiting and training a senior officer from a neutral African country for intelligence gathering in Cuba, and establishing cooperative relationships with the Danish and Norwegian Intelligence Services for Cuban intelligence operations. It also discusses the operation of a Cuban refugee debriefing center in Madrid, the collection of data on Cuban trade through a defector, and ongoing contact with the sister of Huber Matos. The report includes information from the Caribbean Admission Center (CAC) on internal conditions in Cuba, such as the informant system, the export of Castroist-communism, Soviet military equipment, and shortages leading to protests.",
+  "tags": [
+    "Anti-Castro Cubans",
+    "MRR Group",
+    "Clandestine Operations",
+    "Refugee Debriefing",
+    "Foreign Intelligence Cooperation",
+    "Internal Resistance",
+    "CAC Information"
+  ],
+  "title": "Cuba Project Progress Report",
+  "date": "1962-04-10",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Miami",
+    "Madrid",
+    "Norway",
+    "Kiel, Germany",
+    "Canada",
+    "Isle of Pines",
+    "Opa-locka, Florida",
+    "Camaguey",
+    "Miranda"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Amando Hart",
+    "Huber Matos",
+    "Eva Matos"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "classification": "Liaison",
+  "document_type": "Classified Message",
+  "security": "Disclosing that an AMUG-1 debriefing has been forwarded to a liaison officer and inquiring whether to give a copy to Col Arriaga could reveal the existence of intelligence-sharing agreements and specific liaison relationships, potentially damaging trust and operational effectiveness. Sharing specific intelligence could expose sources, methods, or the scope of intelligence gathering.",
+  "security_level": "SECRET",
+  "summary": "A classified message concerning the forwarding of a Spanish version AMUG-1 debriefing and seeking guidance on providing a copy to Col Arriaga.",
+  "summary_one_paragraph": "This SECRET classified message, dated March 25, 1966, discusses the forwarding of a Spanish version AMUG-1 debriefing (HGGV3947) and asks for instructions on whether to give the present copy to Col Arriaga. The message also requests that if such action is approved, an additional copy be sent for station retention.",
+  "tags": [
+    "CIA",
+    "AMUG-1",
+    "Debriefing",
+    "Liaison",
+    "Intelligence Sharing",
+    "Col Arriaga",
+    "JFK Assassination Records Act"
+  ],
+  "title": "AMUG-1 Debriefing (Spanish Version) Forwarded",
+  "date": "1966-03-25",
+  "persons_mentioned": [
+    "Col Arriaga"
+  ],
+  "recipient": "Director"
+}

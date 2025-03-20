@@ -1,0 +1,38 @@
+{
+  "classification": "Personnel",
+  "document_type": "Cable",
+  "security": "Disclosing Oltmans' homosexuality could expose private details unrelated to national security and create privacy concerns. Quoting directly: \"Station records reflect that William L. Oltmans (201-155221) is Dutch free lance journalist who has long history of sensational journalism and homosexual activity.\"",
+  "security_level": "SECRET",
+  "summary": "A secret cable from The Hague station provides information on Dutch journalist William L. Oltmans, noting his leftist views, alleged intimate relationships with Indonesians (including Sukarno), conflicts with NATO leadership, contacts with Soviet diplomats, and connections to American journalists.",
+  "summary_one_paragraph": "This cable, sent from the CIA station in The Hague on May 4, 1976, relays information regarding William L. Oltmans, a Dutch freelance journalist known for his sensational journalism and alleged homosexual activity. While not a communist, Oltmans is described as holding extremely leftist views, believing in communism for Indonesia, and maintaining connections with Soviet diplomats suspected of being KGB. The cable mentions Oltmans' past conflicts with NATO Secretary General Josef Luns, his travels to the USSR, and alleged intimate relations with prominent Indonesians, including Sukarno. The dispatch suggests that if the JAGUAR program hasn't requested traces on Oltmans, it should do so and references relevant file numbers for cross-referencing.",
+  "tags": [
+    "William L. Oltmans",
+    "The Hague",
+    "Journalist",
+    "Leftist",
+    "Homosexual",
+    "Soviet Contacts",
+    "Sukarno",
+    "NATO",
+    "KGB",
+    "JAGUAR Program"
+  ],
+  "title": "Information on William L. Oltmans",
+  "date": "1976-05-04",
+  "locations_mentioned": [
+    "The Hague",
+    "Indonesia",
+    "USSR"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "William L. Oltmans",
+    "Sukarno",
+    "Josef Luns",
+    "Willem Dries",
+    "Jack Anderson",
+    "Howard Jones"
+  ],
+  "recipient": "London Station, Director, CAKARTA",
+  "sender": "The Hague Station"
+}

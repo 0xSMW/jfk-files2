@@ -1,0 +1,20 @@
+{
+  "classification": "Administrative",
+  "document_type": "Cable",
+  "security": "Dissemination of sensitive information through FBIS (Foreign Broadcast Information Service) could compromise intelligence operations. The cable explicitly states: \"REF C WAS PASSED FBIS UPON RECEIPT BY COMMO/HONG KONG...RECOMMEND HEADQUARTERS RECALL ACTION. E2, IMPDET.\"",
+  "security_level": "SECRET",
+  "summary": "A cable from Hong Kong to the Director recommends recalling a document (REF C) that was inadvertently passed to FBIS due to its sensitive nature, potentially compromising intelligence operations.",
+  "summary_one_paragraph": "Originating from Hong Kong on June 1, 1978, this SECRET cable urgently advises the Director to recall document REF C, which was mistakenly disseminated to the Foreign Broadcast Information Service (FBIS). The communication indicates that instructions were clear regarding FBIS distribution, yet the document was still passed, potentially jeopardizing sensitive intelligence matters (E2, IMPDET). The cable stresses the need for Headquarters to take immediate action to retrieve the document from all FBIS units.",
+  "tags": [
+    "FBIS",
+    "Foreign Broadcast Information Service",
+    "Intelligence Operations",
+    "Document Recall",
+    "Hong Kong",
+    "Sensitive Information"
+  ],
+  "title": "Cable Regarding Recall of Document Due to FBIS Dissemination",
+  "date": "1978-06-01",
+  "origin_agency": "CIA (likely)",
+  "recipient": "Director"
+}

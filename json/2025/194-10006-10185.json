@@ -1,0 +1,27 @@
+{
+  "classification": "Personnel",
+  "document_type": "Report of Findings, Agent Report",
+  "security": "This document contains personal information, such as social security number (SSN: 112-28-1134) and date of birth (DOB: 4 April 1936), which should be protected from unauthorized disclosure. It also includes potentially sensitive information about Robert Scheer's political activities, which could be misused if released without proper context. \"SSvc Registrant SSN: 112-28-1134\", \"DOB: 4 April 1936\", \"Issued a permit for campaign speaking as a candidate for US Congress in the Spring of 1966.\"",
+  "security_level": "SECRET",
+  "summary": "An agent report from October 1966 provides findings on Robert Scheer, including his social security number and date of birth, as well as information regarding his campaign speaking permit as a candidate for US Congress in Berkeley, California.",
+  "summary_one_paragraph": "On October 13, 1966, an agent from the 115th INTC Gp(I), identified as L. Lewis, submitted a report of findings on Robert Scheer. A records check conducted on October 11, 1966, at Casual Source B-14 in Berkeley, California, revealed that Robert Scheer, born on April 4, 1936, and registered with SSvc SSN 112-28-1134, had been issued a permit for campaign speaking as a candidate for US Congress in the spring of 1966. The report is marked \"FOR OFFICIAL USE ONLY.\"",
+  "tags": [
+    "Robert Scheer",
+    "Agent Report",
+    "Records Check",
+    "US Congress",
+    "Berkeley, California",
+    "Casual Source"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1966-10-13",
+  "locations_mentioned": [
+    "Bronx, New York",
+    "Berkeley, California"
+  ],
+  "origin_agency": "CSF/INSCOM",
+  "persons_mentioned": [
+    "Robert Scheer",
+    "L. Lewis"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security": "This document reveals sensitive liaison activities between the FBI and CIA, specifically concerning Project HUNTER, a mail intercept program targeting correspondence to and from the Soviet Union. Sharing details of this project, its operational methods (opening and photographing mail, use of a New York laboratory), and the types of individuals and organizations targeted (Soviet exchange students, American communists, extremist groups) could compromise the program, expose intelligence sources, and damage relationships with postal authorities. It also includes internal FBI procedures for handling information from the CIA, with strict instructions to limit dissemination and avoid compromising the source: “You are being cautioned that information obtained from Bureau Informant 200 is not to be disseminated outside the Bureau and should not be set forth in any investigative reports. Information from this informant should be utilized for lead purposes only.”",
+  "security_level": "SECRET",
+  "summary": "This series of memos discusses Project HUNTER, a CIA program involving the review of mail to and from the Soviet Union, and details the FBI's collaboration with the CIA in utilizing information from this project for internal security purposes.",
+  "summary_one_paragraph": "This collection of memoranda, spanning from 1958 to 1973, outlines the FBI’s involvement with Project HUNTER, a highly sensitive CIA operation focused on intercepting and analyzing mail to and from the Soviet Union. The documents detail arrangements for the FBI to receive information from the CIA, including procedures for handling the intelligence, the types of data of interest (e.g., correspondence from Soviet exchange students, American communists, and extremist groups), and the FBI’s efforts to protect the confidentiality of the source. They also mention CIA’s capabilities for examining correspondence for secret writing and microdots and discuss the potential transfer of Project HUNTER responsibilities from the CIA to the FBI.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Project HUNTER",
+    "Mail Intercept",
+    "Soviet Union",
+    "Espionage",
+    "Internal Security",
+    "Liaison",
+    "Bureau Informant 200"
+  ],
+  "title": "Coverage of Mail to the (U.S.S.R.) and BUREAU INFORMANT 200",
+  "date": "1958-01-22",
+  "locations_mentioned": [
+    "U.S.S.R.",
+    "United States",
+    "Washington, D.C.",
+    "New York City"
+  ],
+  "origin_agency": "Federal Bureau of Investigation (FBI)",
+  "persons_mentioned": [
+    "Mr. Boardman",
+    "A.H. Belmont",
+    "Harry Stone",
+    "James Angleton",
+    "Sam Papich",
+    "John Edgar Hoover",
+    "Vernon A. Walters",
+    "Dr. Schlesinger"
+  ],
+  "recipient": "Mr. Boardman",
+  "sender": "A.H. Belmont"
+}

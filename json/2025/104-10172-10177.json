@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing the identities and activities of sources and contacts such as [GEORGE HOPPING], [MRS GEDDES] and ANTONIO CUESTA, as well as operational details about AMDENIM-1 and AMDENIM-4, could jeopardize their safety and compromise ongoing intelligence operations. The reference to 'BARK interest' and the attempt to purchase a high-speed boat suggests covert activities that, if exposed, could damage relationships. Citing: \"ONE OF [MRS GEDDES] ASSOCIATES PER REF B, ONE ANTONIO CUESTA, FORMER CREWMEMBER TEJANA III FRIEND OF AMDENIM-1... A-4 NOT AWARE BARK INTEREST [MRS GEDDES].\"",
+  "security_level": "SECRET",
+  "summary": "A classified message from the JMBAR station reports on Antonio Cuesta, an associate of [MRS GEDDES] and former crewmember of the Tejana III, who is making inquiries about a boat and may return to PBRUMEN soon; the message also notes that AMDENIM-4 is unaware of BARK's interest in [MRS GEDDES].",
+  "summary_one_paragraph": "On November 24, 1961, JMBAR station sent a SECRET classified message to the Director regarding Antonio Cuesta, an associate of [MRS GEDDES] and former crewmember of the Tejana III, who is a friend of AMDENIM-1. Cuesta, according to a reliable source [GEORGE HOPPING], is making inquiries about a boat. AMDENIM-4 reports that Cuesta may return to PBRUMEN soon, but A-4 is not aware of BARK's interest in [MRS GEDDES]. The message references previous communications and requests further details on AMDENIM-2's contact with a boat dealer on behalf of two Cubans attempting to purchase a high-speed boat.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "JMZIP",
+    "KUSODA",
+    "KUDESK",
+    "AMDENIM",
+    "Tejana III",
+    "PBRUMEN",
+    "BARK",
+    "Boat Purchase"
+  ],
+  "title": "Report on Antonio Cuesta and Boat Inquiries",
+  "date": "1961-11-24",
+  "locations_mentioned": [
+    "PBRUMEN"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Antonio Cuesta",
+    "[MRS GEDDES]",
+    "[GEORGE HOPPING]",
+    "AMDENIM-1",
+    "AMDENIM-4"
+  ],
+  "recipient": "Director",
+  "sender": "JMBAR"
+}

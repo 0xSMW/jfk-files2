@@ -1,0 +1,23 @@
+{
+  "classification": "Administrative",
+  "document_type": "Cable",
+  "security": "This message concerns internal communications regarding the handling of intelligence information. Disclosing that REF B is intended for station use and not for wider dissemination to FBIS could reveal intelligence-sharing protocols and internal misunderstandings that could potentially be exploited.",
+  "security_level": "SECRET",
+  "summary": "A cable clarifies that a previous message (REF B) was intended for station use only and not for forwarding to the Foreign Broadcast Information Service (FBIS). The message aims to correct a misunderstanding from the Hong Kong station.",
+  "summary_one_paragraph": "This SECRET cable, originating from STAFF on May 31, 1978, is directed to the Hong Kong station to clarify that message REF B is intended for internal use by the station and not for distribution to the Foreign Broadcast Information Service (FBIS), correcting a misunderstanding that arose from the Hong Kong station's query (REF A). The cable confirms that the station was confused and that the guidance provided in REF B should remain within the station's operational scope.",
+  "tags": [
+    "CIA",
+    "FBIS",
+    "Intelligence Communication",
+    "Hong Kong Station",
+    "Internal Communication"
+  ],
+  "title": "Clarification on Intelligence Handling",
+  "date": "1978-05-31",
+  "locations_mentioned": [
+    "Hong Kong"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "Hong Kong Station",
+  "sender": "STAFF"
+}

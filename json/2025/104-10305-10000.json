@@ -1,0 +1,45 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum and Routing Sheets",
+  "security": "This collection of documents reveals the CIA's repeated investigations into Gordon Novel, an individual with ties to organized crime who claimed to be affiliated with the Agency. Several documents explicitly state that Novel \"has never been an employee of the Agency in any capacity,\" while detailing his contacts with various CIA offices and his involvement in the Garrison investigation. Releasing these documents could expose the Agency's methods of tracking individuals, its coordination with other law enforcement agencies (like the Naval Investigative Service and local police), and its internal processes for responding to Freedom of Information Act requests and potential litigation. The repeated denials of Novel's employment, coupled with the records of his claims and activities, could draw unwanted scrutiny and potentially damage the CIA's reputation.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This collection of documents pertains to Gordon Novel, an individual who claimed affiliation with the CIA, and the Agency's efforts to monitor and address his claims, particularly in relation to the Garrison investigation and his legal troubles.",
+  "summary_one_paragraph": "This collection comprises memoranda, routing sheets, and reports from various agencies (CIA, Naval Investigative Service) concerning Gordon Novel, an individual known for claiming association with the CIA despite never being employed by the Agency. The documents detail CIA security checks and responses to inquiries from law enforcement agencies, particularly concerning Novel's claims of CIA affiliation in connection with his activities, including a conspiracy to firebomb buildings in New Orleans. The collection also addresses Novel's attempts to access his Agency file under the Freedom of Information Act and a civil suit where he named a former CIA employee as a defendant, highlighting the Agency's efforts to refute Novel's claims and protect its personnel.",
+  "tags": [
+    "Gordon Novel",
+    "CIA",
+    "Garrison Investigation",
+    "FOIA",
+    "Security Investigation",
+    "Naval Investigative Service",
+    "Organized Crime",
+    "Arson"
+  ],
+  "title": "Gordon Novel Investigation and Related Matters",
+  "date": "1975-01-28",
+  "locations_mentioned": [
+    "New Orleans, Louisiana",
+    "Seabrook, Texas",
+    "Washington, D.C.",
+    "Springfield, Virginia",
+    "Annandale, Virginia"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Gordon Novel",
+    "James Garrison",
+    "Howard Osborn",
+    "George Jameson",
+    "Robert S. Wattles",
+    "John K. Greaney",
+    "Lawrence B. Rohde",
+    "Allen D. Bell, Jr.",
+    "Arthur Trollinger",
+    "Curtis R. Rivers",
+    "D. E. Usrey",
+    "William R. Kotapish",
+    "Edwal Jones"
+  ],
+  "recipient": "Various CIA Offices and Personnel",
+  "sender": "Various CIA Personnel"
+}

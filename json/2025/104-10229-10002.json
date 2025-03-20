@@ -1,0 +1,45 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Disclosing the identities of individuals involved in covert operations, like AMTIKI-1, could expose them to harm. The revelation of financial arrangements and trust accounts managed by the CIA also presents a security risk. Specifically: \"JMWAVE plans to have AMT IKI-1 withdraw this account and purchase a cashier's check for Mrs. Molina for the total amount due ($13,125.00) and pass the balance of $780.57.to THE JMWAVE FINANCE OFFICER.\"",
+  "security_level": "SECRET",
+  "summary": "The document contains cables regarding the termination of trust accounts for Manuel (Reyes) Garcia and Angel (Pastrana) Santos, and another discussing the arrival in the U.S. of a dependent of a Brigade 2506 member from Cuba, including a plan to settle a trustee account for Mrs. Clara Molina Cabrera.",
+  "summary_one_paragraph": "This collection of secret cables from August 1968 details CIA activities related to Brigade 2506 dependents and trust accounts. One cable discusses terminating trust accounts for Manuel (Reyes) Garcia and Angel (Pastrana) Santos and transferring the balances to a MHMUTUAL account. The second cable pertains to the arrival of Clara Molina Cabrera, mother of a deceased Bay of Pigs invasion participant, Mariano Santos Molina, and proposes a payment plan to settle a trustee account, including disbursing funds to Mrs. Molina and transferring the remaining balance to the JMWAVE Finance Officer. These actions are coordinated between JMWAVE and various CIA divisions, as indicated by the routing and approval notes.",
+  "tags": [
+    "JMWAVE",
+    "AMBUD",
+    "Brigade 2506",
+    "Trust Account",
+    "Cuba",
+    "Bay of Pigs",
+    "CIA",
+    "Financial Disbursement"
+  ],
+  "title": "Cable re: Trust Accounts and Arrival of Brigade Dependent from Cuba",
+  "date": "1968-08-19",
+  "locations_mentioned": [
+    "Cuba",
+    "United States",
+    "Hackensack, N.J.",
+    "Spain"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Manuel (Reyes) Garcia",
+    "Angel (Pastrana) Santos",
+    "Martha B. Drangelis",
+    "Clara Molina Cabrera",
+    "Mariano Santos Molina",
+    "Carlos Fernandez Campos",
+    "Juan Santos",
+    "Rene Santos",
+    "J.A. Morales",
+    "Frederick J. Inghurst",
+    "William V. Broe",
+    "Elleatt Cava",
+    "David A. Phillips",
+    "Marvin Evans"
+  ],
+  "recipient": "JMWAVE",
+  "sender": "N. Gratz"
+}

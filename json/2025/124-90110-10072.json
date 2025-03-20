@@ -1,0 +1,38 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security": "Releasing information about potential recruitment operations, such as 'This office is considering contacting Subject during his visit to Vienna for the purpose of attempting recruitment to return to Yugoslavia,' could compromise intelligence activities and put individuals at risk.",
+  "security_level": "Secret",
+  "summary": "A CIA memo informs the FBI about Franc Pecar's travel plans and meetings in Miami, including one with Assistant Attorney General William Kenny, and mentions a possible recruitment attempt during Pecar's Vienna visit.",
+  "summary_one_paragraph": "This CIA memorandum, dated April 9, 1963, informs the FBI about Franc Pecar's recent activities and future plans. Pecar arrived in Miami on April 4 and stayed with Joseph Merola until April 6, planning to return to Miami from April 12-19 before traveling to Vienna. According to Merola, Pecar met with Assistant Attorney General William Kenny in Miami and seemed eager to arrange to stay in the United States, showing both Merola and Kenny documentation. The CIA is considering contacting Pecar during his Vienna visit to potentially recruit him to return to Yugoslavia and requests information from the FBI regarding Pecar's activities in the United States.",
+  "tags": [
+    "CIA",
+    "FBI",
+    "Franc Pecar",
+    "Joseph Merola",
+    "Recruitment",
+    "Yugoslavia",
+    "Vienna",
+    "Miami",
+    "William Kenny"
+  ],
+  "title": "",
+  "date": "1963-04-09",
+  "locations_mentioned": [
+    "Miami, Florida",
+    "New York",
+    "Vienna",
+    "United States",
+    "Yugoslavia"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Franc Pecar",
+    "Joseph Raymond Merola",
+    "William Kenny",
+    "S. J. Papich",
+    "James Angleton"
+  ],
+  "recipient": "HQ",
+  "sender": "CIA"
+}

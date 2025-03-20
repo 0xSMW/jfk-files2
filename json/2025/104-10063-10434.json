@@ -1,0 +1,26 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "Disclosing that the document was produced by MHCHAOS, one of the most sensitive operations conducted under DDP aegis, repeatedly sanctioned (in writing) by the DCI, could reveal sensitive intelligence operations and sources. Quoting directly: 'during its tenure MHCHAOS was one of the most sensitive operations conducted under DDP aegis, repeatedly sanctioned (in writing) by the DCI. The activity was deemed so sensitive that it was controlled by/through extremely restricted handling channels...some of the information on some of these pages was seemingly acquired from/through sensitive sources/methods.'",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A memorandum explaining the classification of document EX 3600, linking it to the sensitive Operation MHCHAOS and citing the use of sensitive sources/methods and FBI information.",
+  "summary_one_paragraph": "This memorandum from P. Haefner to J.D. Lavery, via A. Addona, addresses the classification of document EX 3600. Haefner explains that, ex post facto, the document likely originated from Operation MHCHAOS, a highly sensitive operation sanctioned by the DCI and controlled through restricted channels. The memo also asserts that the document warrants continued classification due to information possibly acquired from sensitive sources and methods, as well as references to classified FBI reports regarding Peace Movement groups. Haefner recommends FOIA exemption (b)(3).",
+  "tags": [
+    "Classification",
+    "Operation MHCHAOS",
+    "FOIA Exemption",
+    "FBI",
+    "Peace Movement"
+  ],
+  "title": "Classification of EX 3600",
+  "date": "1977-04-07",
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "J. D. Lavery",
+    "A. Addona",
+    "P. Haefner",
+    "DCI (Director of Central Intelligence)"
+  ],
+  "recipient": "J. D. Lavery",
+  "sender": "P. Haefner"
+}

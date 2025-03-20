@@ -1,0 +1,40 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "The memo discusses covert operations, CIA's encroachment on State Department functions, and potential policy conflicts. Specific examples, like the Singapore case, and discussions of paramilitary warfare tactics, reveal operational details and potential international embarrassments if disclosed. Quote: \"In short, no one knows how many potential problems for US foreign policy -- and how much potential friction with friendly states -- are being created at this moment by CIA clandestine intelligence operation.\"",
+  "security_level": "SECRET",
+  "summary": "Arthur Schlesinger Jr. sends a memorandum to the President regarding CIA reorganization, focusing on CIA operations, covert actions, paramilitary warfare, and policy control, particularly in relation to Cuba.",
+  "summary_one_paragraph": "In a memorandum to the President dated June 10, 1961, Arthur Schlesinger Jr. addresses CIA reorganization, highlighting concerns about the CIA's subordination to U.S. foreign policy and its encroachment on State Department functions through clandestine intelligence collection and covert political operations; Schlesinger uses the Singapore case as an example where CIA activities created friction with a friendly government. He suggests improved coordination between the CIA and the State Department, criticizes the increasing use of Controlled American Source (CAS) personnel, and raises concerns about the political implications of paramilitary warfare, advocating for policy control and better oversight to protect U.S. interests.",
+  "tags": [
+    "CIA",
+    "Reorganization",
+    "Covert Action",
+    "Paramilitary Warfare",
+    "Cuba",
+    "Policy Control",
+    "State Department",
+    "CAS personnel",
+    "Arthur Schlesinger Jr."
+  ],
+  "title": "CIA Reorganization",
+  "date": "1961-06-10",
+  "locations_mentioned": [
+    "Cuba",
+    "Singapore",
+    "Pakistan",
+    "Japan",
+    "Vietnam",
+    "Paris",
+    "Chile",
+    "Vienna"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Arthur Schlesinger Jr.",
+    "Allen Dulles",
+    "Tom Mann",
+    "President Kennedy"
+  ],
+  "recipient": "The President",
+  "sender": "Schlesinger, Arthur Jr."
+}

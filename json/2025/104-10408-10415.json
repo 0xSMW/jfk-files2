@@ -1,0 +1,33 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Memorandum",
+  "security": "Recommending against the declassification of CD-971 to protect intelligence sources or methods. Mention of 'investigation of anonymous telephone call to the Canberra Embassy' suggests sensitive information.",
+  "security_level": "SECRET",
+  "summary": "A memo from William H. Webster to the Director of Central Intelligence, via the Deputy Director for Plans, regarding a letter from Sir Charles Spry (ASIO) recommending against declassification of Warren Commission document CD-971.",
+  "summary_one_paragraph": "On November 20, 1968, William H. Webster, Chief of the Far East Division, sent a memorandum to the Director of Central Intelligence, routed through the Deputy Director for Plans, concerning a letter from Sir Charles Spry, Director General of the Australian Security Intelligence Organization (ASIO). Sir Charles' letter advises against declassifying Warren Commission document CD-971, which pertains to the investigation of an anonymous telephone call made to the Canberra Embassy before and after President Kennedy's assassination. Webster concurs with Spry's recommendation and suggests withholding CD-971's declassification indefinitely, a view shared by the CI Staff.",
+  "tags": [
+    "CIA",
+    "ASIO",
+    "Warren Commission",
+    "Declassification",
+    "CD-971",
+    "Canberra Embassy",
+    "Anonymous Telephone Call",
+    "FOIA"
+  ],
+  "title": "Letter for Director from Sir Charles Spry (ASIO)",
+  "date": "1968-11-20",
+  "locations_mentioned": [
+    "Canberra, Australia",
+    "Melbourne, Australia"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Sir Charles Spry",
+    "William H. Webster",
+    "President Kennedy",
+    "Amos Taylor, Jr."
+  ],
+  "recipient": "Director of Central Intelligence",
+  "sender": "William H. Webster (Chief, Far East Division)"
+}

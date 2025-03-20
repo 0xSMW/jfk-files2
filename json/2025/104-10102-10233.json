@@ -1,0 +1,47 @@
+{
+  "classification": "Personnel",
+  "document_type": "Dispatch",
+  "security": "Revealing that the CIA tracked SZULC's communications with Polish officials, his family connections, and efforts to gain citizenship could expose sources and methods of intelligence gathering. The reference to 'SMEDIFY' report and 'SMEDIFY's traces on SZULC' are classified operational details. Disclosing that the CIA maintained files on individuals and their perceived communist sympathies, as described in the attachments, could be viewed as overreach and damage the CIA's reputation.",
+  "security_level": "SECRET/NOFORN",
+  "summary": "A dispatch from the Rio de Janeiro station to the Chief of the Western Hemisphere Division (WHD) and the Chief of the Eastern Europe Division (EE) concerning Tad Szulc, a journalist, providing SMEDIFY (a CIA codename for tracing) information on Szulc and additional information regarding Ignacy Sachs.",
+  "summary_one_paragraph": "This SECRET/NOFORN dispatch, dated June 20, 1962, from the Chief of Station in Rio de Janeiro to the WHD and EE Chiefs, details information on journalist Tad Szulc, including SMEDIFY traces. It highlights Szulc's past connections with the Polish Legation, specifically his provision of information on Brazil, and his relationship with Ignacy Sachs, identified as an active propagandist. The dispatch also includes a memorandum summarizing selected entries from Szulc's card file, suggesting that he was pro-communist and collaborated with Sachs, though caution is advised against jumping to conclusions about espionage.",
+  "tags": [
+    "CIA",
+    "SMEDIFY",
+    "Tad Szulc",
+    "Ignacy Sachs",
+    "Poland",
+    "Journalist",
+    "Propaganda",
+    "Rio de Janeiro",
+    "FBI"
+  ],
+  "title": "BEDOX/Operational; SMEDIFY Information Concerning Tad SZULC",
+  "date": "1962-06-20",
+  "locations_mentioned": [
+    "Rio de Janeiro",
+    "Brazil",
+    "Montevideo",
+    "New York",
+    "United States",
+    "Washington",
+    "Panama"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Tad Szulc",
+    "Ignacy Sachs",
+    "Henryk Hrankrowski",
+    "Czeslaw Slowakiewicz",
+    "Raul Fernandez",
+    "Seweryn Szulc",
+    "Harold Horan",
+    "John Wiley",
+    "Irene Baruch",
+    "Wikinski",
+    "Drew Pearson",
+    "Shah of Persia"
+  ],
+  "recipient": "Chief, WHD; Chief, EE",
+  "sender": "Chief of Station, Rio de Janeiro"
+}

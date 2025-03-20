@@ -1,0 +1,34 @@
+{
+  "classification": "Personnel",
+  "document_type": "Personal Data Resume",
+  "security": "This document doesn't contain sensitive information that requires strict access control. The document appears to be a resume, and the information within is typical of what one might find on such a document.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a resume for Emilio A. Rodriguez, outlining his personal information, education, work experience, and skills, created in December 1959, in the context of seeking new employment due to the economic and political situation in Cuba.",
+  "summary_one_paragraph": "This is a resume from Emilio A. Rodriguez, dated December 1959, detailing his personal information such as his birthdate (January 27, 1928), nationality (American), address in Havana (Edificio FOCSA), marital status, and educational background, including degrees from Tulane University. The resume outlines his work experience in the USA (1948-1954) and Havana, Cuba (1954-1969), specifically noting his role as Assistant District Manager for a combined Havana District Sales Office representing several American companies. Rodriguez is seeking new employment due to the economic and political situation in Cuba, desiring a position with an American company at a salary of around $12,000 a year.",
+  "tags": [
+    "Resume",
+    "Employment",
+    "Emilio A. Rodriguez",
+    "Cuba",
+    "Job Application"
+  ],
+  "title": "Personal Data Resume for Emilio A. Rodriguez",
+  "date": "1959-12-01",
+  "locations_mentioned": [
+    "Havana, Cuba",
+    "New Orleans, Louisiana",
+    "Chicago, Illinois",
+    "Hartford, Connecticut",
+    "St. Louis, Missouri",
+    "Pittsburgh, Pennsylvania",
+    "Passaic, New Jersey"
+  ],
+  "persons_mentioned": [
+    "Emilio A. Rodriguez",
+    "David L. White",
+    "Perry M. Arthur",
+    "Lee T. Wolf",
+    "Clarence Zehnder",
+    "Dorothy Maness"
+  ]
+}

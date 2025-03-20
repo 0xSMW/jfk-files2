@@ -1,0 +1,34 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security": "Classified \"Secret\" since nature of information requires that handling be limited and since disclosure could seriously jeopardize a most delicate source. Information concerning a purchase of the safes was developed by Washington Field and the keys and combinations were obtained by Cincinnati from an established source at the company's factory.",
+  "security_level": "Secret",
+  "summary": "The FBI informs the CIA that a Soviet office in the United States ordered ten safes from Mosler Safe Company for shipment to the Soviet Embassy in Havana, Cuba and provides details including model and serial numbers, combinations, and keys.",
+  "summary_one_paragraph": "On November 21, 1960, FBI Director John Edgar Hoover sent a memo to the CIA, attention Mr. S.H. Morton, relaying information that a Soviet office in the U.S. had ordered ten safes from Mosler Safe Company for shipment to the Soviet Embassy in Havana, Cuba. The memo lists the model and serial numbers of the safes, along with their combinations and dial key numbers and it includes a set of dial keys and keys for the inside compartments of the safes for the CIA. The information was classified as secret due to the delicate source involved in obtaining the information, and the FBI requested that dissemination of the information be limited and that no further distribution be made without prior clearance from the Bureau.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Soviet Embassy",
+    "Havana",
+    "Cuba",
+    "Safes",
+    "Mosler Safe Company",
+    "Counterintelligence",
+    "Internal Security",
+    "Liaison Material"
+  ],
+  "title": "CIA LIAISON MATERIAL",
+  "date": "1960-11-21",
+  "locations_mentioned": [
+    "United States",
+    "Havana, Cuba"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Edgar Hoover",
+    "S. H. Morton",
+    "John W. Hanes"
+  ],
+  "recipient": "CIA",
+  "sender": "FBI"
+}

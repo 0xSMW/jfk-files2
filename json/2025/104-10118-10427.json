@@ -1,0 +1,40 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "Disclosing internal discussions and recommendations about organizational restructuring and personnel assignments could compromise the CIA's operational effectiveness and strategic planning. Specifically, details concerning the creation of new divisions, task forces, and the reallocation of responsibilities could reveal vulnerabilities in the agency's structure. For example, the document states: 'A Special Task Force is created for such operations of a magnitude that transcends the capabilities of one division,' and 'Assistant DD/P for Paramilitary and Air Support Operations created.' Sharing these details could expose the Agency's approach to handling large-scale operations and specialized capabilities, potentially aiding adversaries.",
+  "security_level": "SECRET",
+  "summary": "This memorandum outlines recommendations from a working group regarding the organization and activities of the CIA, covering topics such as the Deputy Directorates, personnel assignments, public relations, and relationships with other agencies.",
+  "summary_one_paragraph": "This secret memorandum, dated March 29, 1962, presents the final report of a working group advising on the organization and activities of the CIA. It details recommendations concerning the Office of the DCI, including the roles of the Comptroller, Inspector General, and General Counsel, as well as proposed changes to the Deputy Directorates (Plans, Intelligence, and Support). Key proposals include the creation of a Domestic Division, a Deputy Director for Research, and adjustments to personnel assignments, public relations, and relationships with other intelligence community agencies. The report also touches upon specific projects like OXCART and collaborations with entities such as the Department of State and the National Photographic Interpretation Center.",
+  "tags": [
+    "CIA",
+    "Organization",
+    "Activities",
+    "Restructuring",
+    "Personnel",
+    "DCI",
+    "DD/P",
+    "DD/I",
+    "DD/S",
+    "Intelligence Community",
+    "NPIC",
+    "OXCART",
+    "State Department",
+    "Public Relations"
+  ],
+  "title": "Final Report of Working Group on Organization and Activities",
+  "date": "1962-03-29",
+  "persons_mentioned": [
+    "Carter",
+    "Kirkpatrick",
+    "Coyne",
+    "Schuyler",
+    "McCone",
+    "Amory",
+    "Bundy",
+    "Clifton",
+    "Taylor",
+    "Lyman B. Kirkpatrick",
+    "Charyk"
+  ],
+  "sender": "Lyman B. Kirkpatrick (for Working Group) and John A. McCone (Director of Central Intelligence)"
+}

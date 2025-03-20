@@ -1,0 +1,25 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Identification Form",
+  "security": "The document itself is unclassified; however, the title is restricted, suggesting that revealing the title may compromise sensitive information. Therefore, the fact that the document is unclassified, and the title is restricted must be maintained.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This is an identification form from INSCOM/CSF regarding Robert Scheer, including aliases and cosubjects, related to the JFK assassination records collection.",
+  "summary_one_paragraph": "This identification form, dated August 19, 1998, from the INSCOM/CSF, concerns Robert Scheer and is part of the JFK Assassination Records Collection Act. It lists identifying information, including Scheer's name, social security number, date of birth, and dossier number, along with aliases and cosubjects like Samuel Hendel and Hillman M. Bishop. The document, marked as 'Released with Deletions,' indicates it has been reviewed and partially declassified.",
+  "tags": [
+    "JFK Assassination",
+    "INSCOM/CSF",
+    "Robert Scheer",
+    "Identification Form",
+    "Aliases",
+    "Cosubjects",
+    "Released with Deletions"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1998-08-19",
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Robert Scheer",
+    "Samuel Hendel",
+    "Hillman M. Bishop"
+  ]
+}

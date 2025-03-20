@@ -1,0 +1,29 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum, Provisional Operational Approval, Instruction Sheet, Request for Investigation",
+  "security": "This document details internal procedures for granting operational approval for an asset (AMICE/31, Reinaldo Pico Ramon), revealing the stages of review, investigation, and required documentation. Disclosing these processes could compromise security protocols by informing adversaries about CIA vetting procedures and timelines for agent approval. For example, the document notes 'EXPEDITE FBI' which could highlight investigative priorities to external entities.",
+  "security_level": "SECRET",
+  "summary": "This collection of documents pertains to the provisional operational approval (POA) and investigation of AMICE/31, Reinaldo Pico Ramon, including memoranda, instruction sheets, and requests for investigation, tracking the progress and requirements for full operational approval.",
+  "summary_one_paragraph": "This collection of documents outlines the process for obtaining and managing Provisional Operational Approval (POA) for AMICE/31, Reinaldo Pico Ramon, referenced across multiple memoranda, instruction sheets, and investigation requests. The documents trace the application, review, and extension of the POA, including required actions like expediting FBI checks and security office reviews. The process entails completing PRQ Parts I and II, with a final operational approval contingent upon satisfactory investigation results and division's continued use of the subject. The documents span from February 1965 to October 1969, detailing the administrative tracking and requirements for validating the subject's operational status.",
+  "tags": [
+    "CIA",
+    "Operational Approval",
+    "AMICE/31",
+    "Reinaldo Pico Ramon",
+    "PRQ",
+    "Investigation",
+    "Security",
+    "FBI",
+    "POA"
+  ],
+  "title": "AMICE/31 - Reinaldo Pico Ramon: Provisional Operational Approval and Investigation",
+  "date": "1965-02-16",
+  "persons_mentioned": [
+    "John L. Hart",
+    "W. Ullery",
+    "Edward P. Brown",
+    "J. Paterson"
+  ],
+  "recipient": "Chief, CI/OA",
+  "sender": "Deputy Chief, WH/SA; CI/Operational Approval and Support Division; Deputy Director Security, IOS"
+}

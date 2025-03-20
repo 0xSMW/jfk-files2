@@ -1,0 +1,41 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memo",
+  "security": "Disclosing the details of the subject's cover and itinerary could potentially compromise past or future operations and reveal sensitive information about intelligence gathering methods. For example, the memo states: 'Subject stated that his cover, which he had used for the period in between State Department assignments, was that he was a consultant of the AEC, particularly to the Joint Atomic Energy Intelligence Committee...' and 'Subject departed Moscow 1 September 1960...went to Tashkent and then to Delhi...' This level of detail about travel and cover could be exploited.",
+  "security_level": "RETURN TO CIA Background Use Only",
+  "summary": "A memo dated December 16, 1968, summarizes information provided by Terenge Winters (#55769) regarding individuals in Moscow, potential security risks, and his travel itinerary after leaving Moscow.",
+  "summary_one_paragraph": "This memo details information provided by Terenge Winters regarding Aline Mosby and Priscilla Johnson, both newspaperwomen in Moscow, with concerns raised about Johnson's potential recruitment by the Soviets due to her extensive interaction with Soviet nationals. Winters was also questioned about unauthorized disclosure of classified information and clarified his cover as a consultant to the AEC. He outlined his return itinerary from Moscow in September 1960, which included stops in Tashkent, Delhi, Bangkok, Saigon, Hong Kong, Tokyo, Hawaii, San Francisco, Los Angeles, Las Vegas, and Denver, before arriving in Washington on October 24, 1960.",
+  "tags": [
+    "Moscow",
+    "Aline Mosby",
+    "Priscilla Johnson",
+    "Security",
+    "Unauthorized Disclosure",
+    "Travel Itinerary",
+    "Cover Story",
+    "Soviet Union"
+  ],
+  "title": "Memo regarding informations furnished by Terenge Winters #55769",
+  "date": "1968-12-16",
+  "locations_mentioned": [
+    "Moscow",
+    "Delhi",
+    "Bangkok",
+    "Saigon",
+    "Hong Kong",
+    "Tokyo",
+    "Hawaii",
+    "San Francisco",
+    "Los Angeles",
+    "Las Vegas",
+    "Denver",
+    "Washington"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Terenge Winters",
+    "Aline Mosby",
+    "Priscilla Johnson",
+    "Ray Hay Hutchins"
+  ]
+}

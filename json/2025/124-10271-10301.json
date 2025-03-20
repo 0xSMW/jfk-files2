@@ -1,0 +1,30 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security": "Sharing details about the FBI's interactions with the CIA, particularly concerning requests to surreptitiously enter foreign embassies ('Bureau was requested to surreptitiously enter the Chilean Embassy in Washington, D. C.'), could damage international relations, expose sensitive investigative techniques, and create legal liabilities.",
+  "security_level": "SECRET",
+  "summary": "A memorandum discusses a meeting where Elliff inquired about the FBI's legal attaches, CIA's technical developments shared with the FBI, and a request from the CIA to surreptitiously enter the Chilean Embassy in Washington, D.C.",
+  "summary_one_paragraph": "This memorandum to Mr. W. R. Wannall summarizes a discussion with Elliff, who sought information on several topics, including whether FBI legal attaches were operational in counterintelligence, if the CIA provided the FBI with their latest technical developments, and if the FBI had received a request from the CIA to surreptitiously enter the Chilean Embassy in Washington, D.C. The memo recommends researching the legal authority and implications of sensitive investigative techniques, and it also suggests that Elliff submit a formal written request through the Attorney General regarding the Chilean Embassy episode.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Legal Attaches",
+    "Technical Developments",
+    "Chilean Embassy",
+    "Surreptitious Entry",
+    "SENSTUDY 75"
+  ],
+  "title": "SENSTUDY 75",
+  "date": "unknown",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Chilean Embassy"
+  ],
+  "origin_agency": "Federal Bureau of Investigation (FBI)",
+  "persons_mentioned": [
+    "W. R. Wannall",
+    "Elliff"
+  ],
+  "recipient": "Mr. W. R. Wannall",
+  "sender": "Unknown"
+}

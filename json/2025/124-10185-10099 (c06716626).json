@@ -1,0 +1,24 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "Disclosing the names, birthdates, and social security numbers of intelligence personnel, as listed in the attached document, would compromise their personal security and potentially expose them to targeting or harassment. This information falls under personal privacy protections.",
+  "security_level": "TOP SECRET",
+  "summary": "This memorandum lists staff members of the Senate Select Committee on Intelligence Activities who have received security clearances and meet the requirements for access to classified information, including their names, dates and places of birth, and social security numbers.",
+  "summary_one_paragraph": "On July 29, 1975, a memorandum was sent to members of the USIB Ad Hoc Coordinating Group from the Director of Central Intelligence, providing an updated listing of staff personnel from the Senate Select Committee on Intelligence Activities. These individuals were certified as meeting Executive Order 10450 requirements for access to classified information up to TOP SECRET and had undergone security investigations by the FBI within the past five years. The memo includes a list of names, designated compartmented clearances, briefing dates, places of birth, and social security numbers of the cleared personnel.",
+  "tags": [
+    "Security Clearances",
+    "Senate Select Committee on Intelligence Activities",
+    "USIB Ad Hoc Coordinating Group",
+    "Executive Order 10450",
+    "FBI Investigation",
+    "TOP SECRET"
+  ],
+  "title": "Security Clearances",
+  "date": "1975-07-29",
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "John M. Clarke"
+  ],
+  "recipient": "Members of the USIB Ad Hoc Coordinating Group",
+  "sender": "The Director of Central Intelligence"
+}

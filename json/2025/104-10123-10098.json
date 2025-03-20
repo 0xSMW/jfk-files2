@@ -1,0 +1,27 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "This memo details the creation of alias documentation for James Paul Olds. Providing such details could expose methods used to create false identities, compromising security protocols. Specifically, the document mentions 'alias documentation in the alias indicated which will include but not necessarily be limited to the following documents: California Driver's License, Social Security card, Reserve Officers Association identity card with the rank of Commander, and an appropriate insurance identity card.' This level of detail is sensitive.",
+  "security_level": "SECRET",
+  "summary": "A memo from the Deputy Director of Security to the Chief of Technical Services Division requests the preparation of alias documentation for James Paul Olds, including a California Driver's License, Social Security card, Reserve Officers Association identity card, and an insurance identity card.",
+  "summary_one_paragraph": "On April 6, 1962, a memorandum from the Deputy Director of Security (Investigations and Operational Support), James F. O'Connell, was sent to the Chief of the Technical Services Division, Mr. John Swedberg, requesting the preparation of alias documentation for James Paul Olds. This documentation was to include a California Driver's License, Social Security card, Reserve Officers Association identity card with the rank of Commander, and an appropriate insurance identity card. The memo specifies that the documentation should be ready by April 6, 1962, includes Olds' physical description and birthdate, and instructs the use of a non-backstopped, multiple mit address in San Francisco. The documentation would be returned to the Technical Services Division upon completion of use.",
+  "tags": [
+    "Alias Documentation",
+    "Security",
+    "James Paul Olds",
+    "Technical Services Division",
+    "CIA",
+    "Identity",
+    "Covert Operations"
+  ],
+  "title": "OLDS, James Paul (A)",
+  "date": "1962-04-09",
+  "persons_mentioned": [
+    "James Paul Olds",
+    "James F. O'Connell",
+    "John Swedberg",
+    "Victor R. White"
+  ],
+  "recipient": "Chief, Technical Services Division",
+  "sender": "Deputy Director of Security"
+}

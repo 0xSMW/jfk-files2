@@ -1,0 +1,34 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security": "Disclosing the identities of operational assets, their compensation, and specific terms of engagement (including what happens in case of capture, death, or wounds) could compromise ongoing operations, endanger the individual, and reveal sensitive operational protocols. Quoting directly: 'In case of capture, 50% salary until released or for two years, whichever is less. In case of death, four months salary to dependents. In case of wounds, medical care.'",
+  "security_level": "SECRET",
+  "summary": "A dispatch from JMWAVE to Headquarters providing an amended Memorandum of Oral Commitment (MOC) for Subject 201-332676 due to a salary raise, detailing the terms of engagement, compensation, and operational commitments.",
+  "summary_one_paragraph": "This secret dispatch, UFGA-19442 dated January 14, 1965, from the Chief of Station, JMWAVE, to the Deputy Chief, WH/SA, transmits an amended Memorandum of Oral Commitment (MOC) for Subject 201-332676, Juan F. Blanco Fernandez. The amendment reflects an increase in the subject's monthly salary to $244.67, effective January 1, 1965, under the TYPIC operational project. The memo outlines the terms of engagement, security approval, citizenship details, tax obligations, and operational expenses, as well as commitments in case of capture, death, or wounds, along with the potential for a bonus for outstanding performance, with prior approval of CCS.",
+  "tags": [
+    "JMWAVE",
+    "Operational Asset",
+    "TYPIC",
+    "AMLILAC",
+    "MOC",
+    "Memorandum of Oral Commitment",
+    "Compensation",
+    "Cuba",
+    "Miami",
+    "201-332676"
+  ],
+  "title": "TYPIC/Operational/AMLILAC Amended MOC for Subject 201-332676",
+  "date": "1965-01-14",
+  "locations_mentioned": [
+    "Pinar del Rio, Cuba",
+    "Miami, Florida"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Juan F. BLANCO Fernandez",
+    "Andrew K. Reuteman",
+    "Hilda K. Herkelman"
+  ],
+  "recipient": "Deputy Chief, WH/SA",
+  "sender": "Chief of Station, JMWAVE"
+}

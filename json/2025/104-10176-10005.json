@@ -1,0 +1,46 @@
+{
+  "classification": "Mexico",
+  "document_type": "Dispatch",
+  "security": "This dispatch reveals operational details regarding the LIRING-3 operation, including the agent's personal indiscretions, contacts with sensitive individuals like Silvia Duran (connected to Lee Harvey Oswald), and the use of aliases. It also describes technical difficulties with surveillance equipment (LIROSIN) and mentions the acquisition of false passports. Disclosing this information could compromise the operation, expose sources and methods, and damage relationships with cooperating individuals.",
+  "security_level": "SECRET/KAPOK",
+  "summary": "A dispatch from the Chief of Station in Mexico City regarding developments in the LIRING-3 operation, focusing on LIRING-3's interactions with Hoises OROZCO Leal, potential indiscretions, and related security concerns.",
+  "summary_one_paragraph": "This dispatch from the Chief of Station, Mexico City, dated 15 August 1967, details the developments of the LIRING-3 operation, particularly LIRING-3's involvement with Hoises OROZCO Leal and related issues. It covers LIRING-3's potential cover-up of personal misbehavior involving Berta WICISSER, Silvia DURAN, and a woman named Yolanda, as well as his contacts with Sergio VALDEZ and Raul MORENO. The dispatch also highlights concerns about LIRING-3's honesty regarding a trip to Tapachula, the reliability of the LIROSIN surveillance, and the potential compromise of the operation due to OROZCO's actions and statements. Furthermore, it mentions LIRING-3's acquisition of false passports and the notification of the Cubans and the FAR regarding OROZCO's conduct.",
+  "tags": [
+    "LIRING-3",
+    "OROZCO",
+    "Mexico City",
+    "Silvia Duran",
+    "Lee Harvey Oswald",
+    "FAR",
+    "Cuban Intelligence",
+    "Counterintelligence",
+    "KAPOK",
+    "Surveillance",
+    "False Passports"
+  ],
+  "title": "PBRUMEN/Developments of the LIRING-3 Operation",
+  "date": "1967-08-15",
+  "locations_mentioned": [
+    "Mexico City",
+    "Tapachula",
+    "Guatemala City",
+    "Nuevo Laredo"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Hoises OROZCO Leal",
+    "LIRING-3",
+    "ROWTON",
+    "Berta WICISSER",
+    "Silvia DURAN",
+    "Lee Harvey Oswald",
+    "Yolanda",
+    "Sergio VALDEZ",
+    "Raul MORENO",
+    "Ernesto CAPUANO Del Vecchio",
+    "GARCIA",
+    "Willard C. CURTIS"
+  ],
+  "recipient": "Chief, Western Hemisphere Division; Chief, WH/COG",
+  "sender": "Chief of Station, Mexico City"
+}

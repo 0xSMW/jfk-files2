@@ -1,0 +1,45 @@
+{
+  "classification": "Cuba",
+  "document_type": "Intelligence Information Cable",
+  "security": "This document reveals sensitive intelligence sources and methods used to gather information on Cuban exile leaders, including details obtained from a medium-level government official in Chile. Disclosing these methods and sources could compromise intelligence operations and endanger individuals providing information. The document is marked as 'SENSITIVE INTELLIGENCE SOURCES AND METHODS INVOLVED' and 'NOT RELEASABLE TO FOREIGN NATIONALS--NOT RELEASABLE TO CONTRACTORS OR CONTRACTOR/CONSULTANTS'.",
+  "security_level": "SECRET",
+  "summary": "An intelligence cable reports on Chilean government information regarding Cuban exile leaders Orlando Bosch and Rolando Otero, including Bosch's use of false Chilean identity documents and DINA's (Chilean Intelligence) actions related to both individuals.",
+  "summary_one_paragraph": "This secret intelligence cable, dated October 22, 1976, details information obtained by the CIA regarding Cuban exile leaders Orlando Bosch and Rolando Otero, based on Chilean government sources and field reports from Santiago. The report indicates that the Chilean Ministry of Foreign Affairs was monitoring Bosch's activities, particularly after his arrest in Venezuela, and had assembled a file documenting Bosch's use of a false Chilean passport under the name Ricardo Ramon Davanzo Ceruti. Additionally, the cable reveals that DINA (Chilean Intelligence) received information in April 1976 that Bosch had arrived in Chile with a contract to assassinate a high-level Chilean official, while Otero, an associate of Bosch wanted in the U.S., was arrested by DINA and turned over to the FBI.",
+  "tags": [
+    "OBA",
+    "AKA",
+    "Arrest",
+    "TRA",
+    "False Passport",
+    "Susp",
+    "ASSA",
+    "Plot",
+    "Polit",
+    "Chile",
+    "Cuban Exiles",
+    "Orlando Bosch",
+    "Rolando Otero",
+    "DINA",
+    "FBI",
+    "HVC-7328"
+  ],
+  "title": "Chilean Government Information on Cuban Exile Leaders Orlando Bosch and Rolando Otero",
+  "date": "1976-10-22",
+  "locations_mentioned": [
+    "Chile",
+    "Venezuela",
+    "San Jose, Costa Rica",
+    "Central America",
+    "Panama",
+    "United States"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Orlando Bosch",
+    "Rolando Otero",
+    "Patricio Carvajal",
+    "Ricardo Ramon Davanzo Ceruti",
+    "Andres Pascal Allende"
+  ],
+  "sender": "CIA"
+}

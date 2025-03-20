@@ -1,0 +1,46 @@
+{
+  "classification": "Operations",
+  "document_type": "Memo",
+  "security": "Revealing details of sources, methods, and locations, as well as the potential use of individuals with criminal backgrounds, could severely compromise ongoing or future operations. For instance, mentioning 'QJWIN can do more spotting in Corsican circles' exposes an asset and their operational capabilities. Similarly, referencing 'Santilli met Patorsui...good connections in Corsican underworld' exposes potential contacts and networks.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memo discussing the transfer of QJWIN to Baden-Baden, the potential use of candidates spotted in Italy, and the briefing of Hank Manfredi for spotting efforts in Rome, along with details on contact methods, funding, and emergency contacts.",
+  "summary_one_paragraph": "This memo, dated July 3, 1962, from AMS to WKH, outlines plans to transfer QJWIN to Baden-Baden, referencing proposal OLLA-1463. It discusses using candidates spotted in Italy, pending assessment by Magonetti, and the potential use of Hank Manfredi for spotting in Rome, suggesting a detailed re-briefing. The memo also addresses logistical details like contact methods, fund disbursement, and emergency contacts, while noting that QJWIN could conduct further spotting in Corsican circles, and includes descriptions of potential candidates and their backgrounds, as well as contact information.",
+  "tags": [
+    "QJWIN",
+    "Baden-Baden",
+    "Spotting",
+    "Hank Manfredi",
+    "Corsican circles",
+    "Assets",
+    "Trieste Base",
+    "Magonetti",
+    "ZRRIFLE"
+  ],
+  "title": "ZRRIFLE",
+  "date": "1962-07-03",
+  "locations_mentioned": [
+    "Baden-Baden",
+    "Italy",
+    "Trieste",
+    "Rome",
+    "Florence",
+    "Corsica",
+    "Paris",
+    "Marseille",
+    "Germany"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "QJWIN",
+    "Magonetti",
+    "Hank Manfredi",
+    "Helms",
+    "Skip",
+    "Hugo",
+    "Santilli",
+    "Patorsui",
+    "Felix Carlioni"
+  ],
+  "recipient": "WKH",
+  "sender": "AMS"
+}

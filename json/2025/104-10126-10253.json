@@ -1,0 +1,40 @@
+{
+  "classification": "Liaison",
+  "document_type": "Journal",
+  "security": "Revealing NSA's capabilities to read Korean diplomatic traffic and the identities of those aware of this could compromise intelligence gathering and diplomatic relations. Quoting directly: \"NSA does not feel that it would be appropriate to reveal the names of Congressmen and staff who are aware of NSA's capability to read Korean diplomatic traffic inasmuch as the Attorney General is investigating the leak.\"",
+  "security_level": "SECRET",
+  "summary": "This journal entry details liaison activities of the Office of Legislative Counsel, including discussions with the NSA regarding the leak of NSA's ability to read Korean diplomatic traffic and the provision of a damage assessment to the House Intelligence Committee. It also covers interactions with House and Senate Intelligence Committee staff on topics ranging from the Agency's relationship with public television to access to Church Committee transcripts.",
+  "summary_one_paragraph": "The Office of Legislative Counsel's journal entry for June 28, 1978, documents several liaison activities: Julie Wetzel of the NSA advised that NSA would provide a damage assessment related to the leak of their ability to read Korean diplomatic traffic to the House Intelligence Committee, but would withhold the names of those aware of the capability due to an ongoing investigation by the Attorney General. The journal also notes discussions with Loch Johnson of the House Intelligence Committee regarding the Agency's limited involvement with WETA and public television. Furthermore, it recounts a conversation with Ed Greissing of the Senate Intelligence Committee about House access to Church Committee testimony and a request from Earl Eisenhower, also of the Senate Intelligence Committee, for a counterintelligence briefing and a visit to NPIC to view Wrangel Island.",
+  "tags": [
+    "NSA",
+    "Korean Diplomatic Traffic",
+    "House Permanent Select Committee on Intelligence",
+    "WETA",
+    "Public Television",
+    "Church Committee",
+    "Senate Select Committee on Intelligence",
+    "Counterintelligence",
+    "Martha Peterson",
+    "Moscow Embassy",
+    "Shevchenko Case",
+    "NPIC",
+    "Wrangel Island"
+  ],
+  "title": "Journal - Office of Legislative Counsel",
+  "date": "1978-06-28",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Julie Wetzel",
+    "Lyle Miller",
+    "Loch Johnson",
+    "Suzanne Black",
+    "Ed Greissing",
+    "Ted Shackley",
+    "Sanchez",
+    "Earl Eisenhower",
+    "Martha Peterson",
+    "Shevchenko"
+  ],
+  "recipient": "Office of Legislative Counsel",
+  "sender": "Office of Legislative Counsel"
+}

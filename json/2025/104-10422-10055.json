@@ -1,0 +1,39 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memo",
+  "security": "Revealing specific individuals involved in reviewing classified documents could compromise internal processes. Quoting directly: \"In the case of the final proofing only one person review the entire ssnitzed file...This should not take long, perhaps a day and should probably done by a person with a fresht view...The second problem may take more time. It would be the reviewing of each of the documents indicating what declassification , if any was done and accurately reflecting the action on the machine run. The would be a two man job.\"",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This memo outlines the process for proofing and verifying the declassification of documents related to the JFK assassination records, specifying tasks for different personnel and addressing issues like duplicate materials and drafts.",
+  "summary_one_paragraph": "This memo, dated November 11, 1975, discusses the tasks involved in the final proofing of sterilized copies of JFK assassination-related files and ensuring the accuracy of machine-recorded declassification actions. It proposes a single-person review for consistency, duplicate removal, and error detection, and suggests a two-person team to verify declassification actions against machine runs, with one person from the Task Force and another from C/CI/EKO's office. Additional concerns addressed include identifying duplicate documents with different numbers, drafts, and research notes within the files.",
+  "tags": [
+    "JFK Assassination Records Act",
+    "Declassification",
+    "Task Force",
+    "Document Review",
+    "Administrative"
+  ],
+  "title": "Final Proofing and Verification of Declassification Actions",
+  "date": "1975-11-11",
+  "persons_mentioned": [
+    "Bob Wall",
+    "Jim Peters",
+    "Bill Wallauer",
+    "John Carroll",
+    "Dan Nieciur",
+    "Bill Perkins",
+    "Ann Ward",
+    "Ken Jasper",
+    "Bob Litviak",
+    "Len Breijo",
+    "Martha Tribby",
+    "Tony Sileo",
+    "E. J. McElfresh",
+    "Jean Mansuri",
+    "Judy Cline",
+    "Robert Wall",
+    "Eleanor Ausum",
+    "G. Bradley"
+  ],
+  "recipient": "C/CI",
+  "sender": "ERO"
+}

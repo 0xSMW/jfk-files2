@@ -1,0 +1,26 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "Revealing this information could expose intelligence sources and methods in Mexico. It identifies an individual (Jose Luis (ZALA)) and their potential involvement with a registered courier service, which could compromise ongoing or future operations related to this individual or the courier service. Quoting directly: \"JOSE LUIS (ZALA) SUBJ PARA 4 REP, RESIDENCE ULTEMAS NOVEDADES S.A., 37-219 MEXI IS PROBABLY IDENTICAL WITH JOSE LUIS (ZALA), 201-338858, SAME ADDRESS WHO CURRENTLY REGISTERED ARRIER SERVICE.\"",
+  "security_level": "SECRET",
+  "summary": "A classified message indicates that Jose Luis (ZALA), subject of a previous report, residing at Ultemas Novedades S.A., is likely the same Jose Luis (ZALA) who is currently registered with an Arrier Service.",
+  "summary_one_paragraph": "A classified message, dated September 30, 1963, from the Director to JESIAVE Mexico City, references a previous communication (WAVE 4389) concerning Jose Luis (ZALA). The message states that Jose Luis (ZALA), residing at Ultemas Novedades S.A. in Mexico City, who is the subject of paragraph 4 in the referenced report, is likely the same Jose Luis (ZALA) who is registered with an Arrier Service. The message notes that the 201 file on this individual contains no other information.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "Jose Luis (ZALA)",
+    "Arrier Service",
+    "Ultemas Novedades S.A."
+  ],
+  "title": "Identification of Jose Luis (ZALA) with Arrier Service",
+  "date": "1963-09-30",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Jose Luis (ZALA)"
+  ],
+  "recipient": "JESIAVE Mexico City",
+  "sender": "Director"
+}

@@ -1,0 +1,35 @@
+{
+  "classification": "Oswald",
+  "document_type": "Memorandum",
+  "security": "The memo details a discussion on sanitizing Lee Harvey Oswald case files to protect sources, methods, and liaison relationships. Releasing details about liaison contacts (e.g., “the Mexican Government security liaison contact on the case was the current President of Mexico”) or intelligence sources (“the Mexican Government penetration of the Cuban Embassy”) could damage relationships with foreign governments and compromise intelligence operations.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A memorandum detailing a meeting between CIA officials and the Senate Select Committee on Intelligence regarding access to Lee Harvey Oswald case files, focusing on balancing transparency with protecting sensitive sources and methods.",
+  "summary_one_paragraph": "On October 29, 1975, a meeting occurred between Chief, CI (Mr. Kalaris) and Mr. Paul Wallach, Chief Counsel of the Senate Select Committee on Intelligence, addressing concerns that the CIA was not providing complete access to files related to Lee Harvey Oswald. Kalaris emphasized the CIA's commitment to transparency while explaining the need to sanitize files to protect sources, methods, and liaison relationships; he offered a compromise where Senate reviewers could work with original files, with sensitive items sterilized or summarized and spot-checked, an offer which Wallach accepted. They agreed that the Senate reviewers could take notes but not remove them from the building, and these notes would be checked with the CIA.",
+  "tags": [
+    "CIA",
+    "Senate Select Committee on Intelligence",
+    "Lee Harvey Oswald",
+    "JFK Assassination",
+    "File Access",
+    "Sanitization",
+    "Sources and Methods",
+    "Liaison Relationships"
+  ],
+  "title": "Chief, CI Meeting with Mr. Paul Wallach, Chief Counsel of Senate Select Committee on Intelligence",
+  "date": "1975-10-30",
+  "locations_mentioned": [
+    "Mexico",
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Paul Wallach",
+    "Lee Harvey Oswald",
+    "Mr. Kalaris",
+    "Mr. Belin",
+    "Mr. Blee",
+    "Mr. Proctor"
+  ],
+  "recipient": "Record",
+  "sender": "Robert G. Wall"
+}

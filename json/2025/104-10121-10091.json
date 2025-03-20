@@ -1,0 +1,17 @@
+{
+  "classification": "Security",
+  "document_type": "Travel Briefing Data Form",
+  "security": "The form includes fields for assessing 'Risk of Capture' and discussing 'Security Regulations,' indicating potential harm to personnel or operations if disclosed. Directly quoting: 'RISK OF CAPTURE A B C D CATEGORY' and 'SECURITY REGULATIONS (operational talk, documents, indigenous employee hazards)'.",
+  "security_level": "SECRET",
+  "summary": "A template form used to collect and document travel briefing data for individuals, covering various aspects like security, personal conduct, and potential risks.",
+  "summary_one_paragraph": "This is a template form designed for collecting and documenting travel briefing data. It includes fields for personal information, travel history, destination, and security approvals. The form covers areas such as risk of capture assessment, security regulations, travel precautions, personal affairs, correspondence limitations, conduct expectations, association with foreigners, hostile audio surveillance, cover problems, and responsibilities abroad. It also notes whether the traveler was referred back for central cover review and is signed off by a security officer upon completion.",
+  "tags": [
+    "Travel Briefing",
+    "Security",
+    "Personnel",
+    "Risk Assessment",
+    "Operational Security"
+  ],
+  "title": "Travel Briefing Data",
+  "date": "1962-10-01"
+}

@@ -1,0 +1,53 @@
+{
+  "classification": "Operations",
+  "document_type": "Memorandum",
+  "security": "This document details specific individuals targeted for operational exploitation, including those linked to Cuban intelligence and communist groups. Releasing their names and potential vulnerabilities could compromise ongoing intelligence operations and endanger individuals. Quoting from the document, \"Those leads which are determined to be of no operational potential will be released to your office on a continuing basis for surfacing to appropriate agencies.\"",
+  "security_level": "SECRET",
+  "summary": "A CIA memorandum outlines target analysis and operational leads related to AMMUG/1 Operation in Central America and the Caribbean, identifying individuals of interest and those whose information is not yet ready for dissemination to the intelligence community.",
+  "summary_one_paragraph": "This memorandum, dated June 19, 1964, from the Chief of WH/2 to the Chief of WH/SA/CI, discusses the AMMUG/1 Operation, providing target analysis and identifying leads for potential operational exploitation in Central America and the Caribbean. It includes lists of nationals from various countries whose names surfaced during the debriefing of AMMUG/1, but whose information is not yet ready for general dissemination. The memo also attaches seven completed Target Analysis Summary Reports on individuals like Francisco Javier HELLA Pena, Jaime DURAN Hernando, and Noel GUERRERO Santiago, who are considered immediate targets.",
+  "tags": [
+    "CIA",
+    "AMMUG/1",
+    "Target Analysis",
+    "Operational Leads",
+    "Central America",
+    "Caribbean",
+    "Cuban Intelligence",
+    "Communism",
+    "Guerrilla Warfare"
+  ],
+  "title": "AMMUG/1.Operation Target Analysis and Non-surfacable Leads",
+  "date": "1964-06-19",
+  "locations_mentioned": [
+    "Central America",
+    "Caribbean",
+    "Dominican Republic",
+    "El Salvador",
+    "Guatemala",
+    "Haiti",
+    "Honduras",
+    "Nicaragua",
+    "Panama",
+    "Mexico",
+    "Cuba",
+    "Spain"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Francisco Javier HELLA Pena",
+    "Jaime DURAN Hernando",
+    "Socrates Isaias PEGUERO Schuorer",
+    "Jean Norbert MONTERO",
+    "Mauricio de la SELVA Venegas",
+    "Roque DALTON Garcia",
+    "Noel GUERRERO Santiago",
+    "Francisco Javier MELIA Dona",
+    "Klaasra SALADLI Decillo",
+    "Nelson BARET Disla",
+    "Silvio Mayorga",
+    "Orlando Quant",
+    "Francois DUVALIER"
+  ],
+  "recipient": "Chief, WH/SA/CI",
+  "sender": "John M. Whitten (C/WH/2)"
+}

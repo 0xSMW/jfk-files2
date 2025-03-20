@@ -1,0 +1,30 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Disclosing the details of this recruitment attempt could reveal intelligence-gathering methods and potentially compromise the safety of the volunteer and other Peace Corps personnel. Quoting the document: \"PCD SAID THE RECRU! TMENT ATTEMPT WAS MADE AROUND 29 AUGUST 1977.\"",
+  "security_level": "SECRET",
+  "summary": "A cable reports a Peace Corps volunteer in Bluefields, Nicaragua, was approached by an individual named Victor Paneque Batista, who identified himself as a 'CIA operative' and attempted to recruit her as an intelligence agent.",
+  "summary_one_paragraph": "This secret cable dated September 13, 1977, reports that a Peace Corps Director (PCD) informed the CIA that Victor Paneque Batista, claiming to be a 'CIA operative', approached a Peace Corps volunteer in Bluefields, Nicaragua, around August 29, 1977, in an attempt to recruit her as an intelligence agent. The PCD mentioned that Paneque, who rented a house to the volunteer, is known to drink heavily and, when drunk, claims to be a CIA agent and a Bay of Pigs veteran. The station has two cards on an individual with the same name; one is filed under 201-2286382 and identifies him as a Cuban citizen who serves as a source of information concerning MDC activities.",
+  "tags": [
+    "CIA",
+    "Recruitment",
+    "Peace Corps",
+    "Victor Paneque Batista",
+    "Nicaragua",
+    "Bluefields",
+    "Intelligence Agent",
+    "MDC",
+    "Cuban Citizen"
+  ],
+  "title": "Report of Alleged CIA Recruitment Attempt in Nicaragua",
+  "date": "1977-09-13",
+  "locations_mentioned": [
+    "Bluefields, Nicaragua"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Victor Paneque Batista"
+  ],
+  "recipient": "Director",
+  "sender": "Staff"
+}

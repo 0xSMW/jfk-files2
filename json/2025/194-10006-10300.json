@@ -1,0 +1,45 @@
+{
+  "classification": "Security",
+  "document_type": "Message",
+  "security": "Disclosing that the military is investigating an individual due to their knowledge of military operations and potential connections to hostile entities could compromise ongoing intelligence activities and alert the target. Mentioning the individual's knowledge of the exact departure time, location, intermediate stops, and final destination of a recent convoy whose mission was to exchange warheads could expose vulnerabilities in security protocols and put future operations at risk.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A message from the 66th MI GP in Munich, FRG, to DCSI USAREUR in Heidelberg, FRG, regarding an incident of possible CI interest involving an individual known as \"John the Dee Jay\" attempting to elicit official information from members of the 66th USA Artillery Detachment.",
+  "summary_one_paragraph": "On March 20, 1972, the 66th MI GP in Munich, FRG, sent a message to DCSI USAREUR in Heidelberg, FRG, relaying an incident reported on February 1, 1972, by the 165th MI Co in Frankfurt, FRG, concerning an individual known as \"John the Dee Jay\" who attempted to obtain official information from members of C Team, 66th USA Artillery Detachment in Dateln, FRG. This individual, described as a disc jockey at the Lord Nelson Bar, approached several members of the unit, speaking Russian, German, Spanish, and English, and demonstrated knowledge of military operations, including details about a warhead exchange convoy; he also expressed pro-Soviet sentiments and claimed connections to the German Democratic Republic (GDR) army, prompting an investigation coordinated with SASCOM Headquarters and OSI.",
+  "tags": [
+    "CI Interest",
+    "Counterintelligence",
+    "Military Intelligence",
+    "Information Elicitation",
+    "Federal Republic of Germany",
+    "Soviet Union",
+    "German Democratic Republic",
+    "Warhead Exchange",
+    "Security Breach"
+  ],
+  "title": "MESSAGE",
+  "date": "1972-03-20",
+  "locations_mentioned": [
+    "Munich, FRG",
+    "Heidelberg, FRG",
+    "Frankfurt, FRG",
+    "Soest, FRG",
+    "Dateln, FRG",
+    "Duesseldorf, FRG",
+    "Moscow, USSR",
+    "German Democratic Republic"
+  ],
+  "origin_agency": "CSF/INSCOM",
+  "persons_mentioned": [
+    "KAMINSKI, HANS D",
+    "Haygood",
+    "Kulesza",
+    "Peter D. Herps",
+    "Phillip W. May",
+    "Stephen R. Wilson",
+    "Robert M. Creed",
+    "John the Dee Jay",
+    "Alexander"
+  ],
+  "recipient": "DCSI, USAREUR",
+  "sender": "CO, 66TH MI GP"
+}

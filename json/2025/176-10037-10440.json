@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Telegram Information Report",
+  "security": "The report contains information affecting the National Defense of the United States within the meaning of the Espionage Laws, Title 18, U.S.C. Secs. 793 and 794, the transmission or revelation of which in any manner to an unauthorized person is prohibited by law.",
+  "security_level": "SECRET",
+  "summary": "A CIA information report details offers of material support, including 'volunteers', from Communist China and Cuba to Leonel Brizola, Governor of Rio Grande do Sul, during Brazil's political crisis in August 1961. Brizola declined the offers to avoid creating an international affair, fearing potential intervention from the United States.",
+  "summary_one_paragraph": "This CIA telegram information report, dated September 3, 1961, recounts that during the week of August 27, 1961, both Mao Tse Tung of Communist China and Fidel Castro of Cuba offered material support, including 'volunteers', to Leonel Brizola, the Governor of Rio Grande do Sul, who was leading efforts to ensure Joao Goulart's succession to the presidency amidst President Janio Quadros' resignation; Brizola declined these offers, primarily to avoid internationalizing Brazil's political turmoil and fearing U.S. intervention, and while Castro's offer was leaked to the press, Mao's offer remained undisclosed.",
+  "tags": [
+    "CIA",
+    "Brazil",
+    "Cuba",
+    "China",
+    "Leonel Brizola",
+    "Fidel Castro",
+    "Mao Tse Tung",
+    "Joao Goulart",
+    "Janio Quadros",
+    "Cold War",
+    "Intervention",
+    "Political Crisis"
+  ],
+  "title": "Information Report Re:",
+  "date": "1961-09-03",
+  "locations_mentioned": [
+    "Brazil",
+    "Rio de Janeiro",
+    "Rio Grande do Sul",
+    "China",
+    "Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Mao Tse Tung",
+    "Fidel Castro",
+    "Leonel Brizola",
+    "Joao Goulart",
+    "Janio Quadros"
+  ]
+}

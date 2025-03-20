@@ -1,0 +1,20 @@
+{
+  "classification": "Administrative",
+  "document_type": "Indices Search Request",
+  "security": "The document itself contains no sensitive operational details, intelligence sources, or personal information that would compromise security. It is simply a record of names checked against indices.",
+  "security_level": "SECRET",
+  "summary": "This document is an indices search request form listing names to be checked against overt and covert records.",
+  "summary_one_paragraph": "This is a filled-in indices search request form, listing names such as Martin Luther King, Philip John Noel-Baker, and Dominique George Pire, indicating a search of overt and covert records. The form includes fields for analysis symbols, search instructions, source document references, and results, but no specific derogatory information is recorded, only the presence of records. The form is marked as a 'SECRET' indices search request.",
+  "tags": [
+    "indices search",
+    "Martin Luther King",
+    "Philip John Noel-Baker",
+    "Dominique George Pire"
+  ],
+  "title": "Indices Search Request",
+  "persons_mentioned": [
+    "Martin Luther King",
+    "Philip John Noel-Baker",
+    "Dominique George Pire"
+  ]
+}

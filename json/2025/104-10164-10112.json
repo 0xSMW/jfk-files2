@@ -1,0 +1,53 @@
+{
+  "classification": "Haiti",
+  "document_type": "Report/Memorandum",
+  "security": "This document contains information affecting the National Defense of the United States within the meaning of the Espionage Laws. Releasing details of sources and methods used to gather intelligence, such as the use of a U.S. citizen as a source in Haiti, could jeopardize the source. Additionally, revealing details about internal CIA procedures, such as interagency source registration and dissemination controls, could be detrimental.",
+  "security_level": "SECRET",
+  "summary": "This document contains information about Clemard Joseph Charles, a Haitian banker and politician, detailing his plots against President Duvalier, his financial situation, and various assessments of his character and influence.",
+  "summary_one_paragraph": "This collection of documents, dated between 1963 and 1969, focuses on Clemard Joseph Charles, a Haitian banker who repeatedly claimed he would overthrow President Duvalier and become the next president. The reports detail Charles' attempts to gain US support for his conspiracies, his strained financial condition, his imprisonment and subsequent release upon payment of a ransom, and assessments of his character by US officials and other sources, including a UK Consul General. The documents also include interagency communications regarding Charles' status as a person of interest and the cancellation of previous source designations.",
+  "tags": [
+    "Clemard Joseph Charles",
+    "Haiti",
+    "Duvalier",
+    "Overthrow",
+    "CIA",
+    "Intelligence",
+    "Political Instability",
+    "Financial Condition",
+    "Source Register"
+  ],
+  "title": "Information on Clemard Joseph Charles and Political Situation in Haiti",
+  "date": "1963-12-03",
+  "locations_mentioned": [
+    "Haiti",
+    "Port-au-Prince",
+    "Cap Haitien",
+    "United States",
+    "New York",
+    "London",
+    "United Kingdom",
+    "France",
+    "Italy",
+    "West Germany"
+  ],
+  "origin_agency": "CIA / US Army",
+  "persons_mentioned": [
+    "Clemard Joseph Charles",
+    "President Duvalier",
+    "Ludovich Celestines",
+    "Clovis M. Desinor",
+    "Herve Boyer",
+    "Maxtrowe",
+    "Raymonde",
+    "La Bonte Jean",
+    "Major Toma",
+    "John Perre La Grand",
+    "Fito Metales (Fritz Belmont)",
+    "Gen. Gérard Constant",
+    "Col. Octave Cayard",
+    "Col. Kusner Blain",
+    "Col. Roger St. Albin",
+    "Col. René Prosper"
+  ],
+  "recipient": "Assistant Chief of Staff, Intelligence, Department of the Army"
+}

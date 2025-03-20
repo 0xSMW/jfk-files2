@@ -1,0 +1,48 @@
+{
+  "classification": "Cuba",
+  "document_type": "Transcript",
+  "security": "This document reveals details about covert operations against Cuba, including infiltration missions, commando raids, and relationships with Cuban exile groups. Releasing information about these activities and relationships could compromise current intelligence operations and sources. For example, the transcript details the CIA's coordination with groups like DRE and monitoring of groups like Alpha 66. Additionally, it discusses the sensitivity around maintaining security within the Cuban community due to their propensity to talk, necessitating isolating participants prior to operations.",
+  "security_level": "TOP SECRET",
+  "summary": "This is a transcript of a Senate Select Committee hearing with Robert G. Halley, former Chief of Station for CIA's JMWAVE in Miami, discussing Cuban operations, relationships with exile groups, and activities around the time of the Kennedy assassination.",
+  "summary_one_paragraph": "On May 6, 1976, the Senate Select Committee interviewed Robert G. Halley, former Chief of Station for CIA's JMWAVE in Miami, about CIA operations targeting Cuba between 1962 and 1965. Halley discussed the evolution of JMWAVE's mission, from intelligence collection and paramilitary actions aimed at removing Fidel Castro to monitoring Soviet activities and exploring internal coups, touching on Operation Mongoose and General Lansdale's involvement. He detailed relationships with Cuban exile groups like DRE and the monitoring of Alpha 66, addressing JMWAVE's capabilities and limitations regarding intelligence gathering in Cuba and among Cuban exiles in the U.S., and its activities following the Kennedy assassination, including name traces related to Lee Harvey Oswald. The hearing also covered efforts to prevent intelligence leaks, the Cuban intelligence system's effectiveness, and coordination with other U.S. agencies.",
+  "tags": [
+    "SSCIA",
+    "Hearings",
+    "Robert G. Halley",
+    "JMWAVE",
+    "Operation Mongoose",
+    "Cuban Operations",
+    "CIA",
+    "Fidel Castro",
+    "Kennedy Assassination",
+    "Cuban Exiles",
+    "DRE",
+    "Alpha 66"
+  ],
+  "title": "Senate Select Committee Hearing on Intelligence Activities",
+  "date": "1976-05-06",
+  "locations_mentioned": [
+    "Miami, Florida",
+    "Cuba",
+    "Washington, D.C."
+  ],
+  "origin_agency": "SSCIA",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Robert G. Halley",
+    "John Rigall",
+    "Seymour R. Bolten",
+    "Richard S. Schweiker",
+    "William Harvey",
+    "Fitzgerald",
+    "Hart",
+    "Bruce Cheever",
+    "General Lansdale",
+    "Robert Kennedy",
+    "Dick Helms",
+    "Lee Harvey Oswald",
+    "Carlos Bringuier"
+  ],
+  "recipient": "Senate Select Committee to Study Governmental Operations With Respect to Intelligence Activities",
+  "sender": "SSCIA"
+}

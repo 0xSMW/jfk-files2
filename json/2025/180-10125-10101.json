@@ -1,0 +1,21 @@
+{
+  "classification": "Administrative",
+  "document_type": "Report",
+  "security": "Releasing payroll information could compromise the privacy of individuals employed by the Select Committee on Assassinations, particularly regarding their compensation. The report also details the committee's expenditures and budget, which, if disclosed, might reveal the scale and scope of the committee's activities and resources. As the document states, the report includes the 'LISTED EMPLOYEES HAVE PERFORMED THEIR ASSIGNED OFFICIAL DUTIES IN THE OFFICES OF THIS COMMITTEE'.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This is a U.S. House of Representatives Financial Management System payroll certification report for the Select Committee on Assassinations, covering the period from June 1, 1977, to June 30, 1977, detailing employee names, social security numbers, positions, salaries, and any relevant remarks such as appointments or terminations.",
+  "summary_one_paragraph": "The payroll certification report from the U.S. House of Representatives Financial Management System, dated July 6, 1977, provides a detailed list of employees for the Select Committee on Assassinations for the accounting period of June 1, 1977, to June 30, 1977. It includes each employee’s name, social security number, position title, annual salary, gross pay for the period, and any relevant remarks regarding appointments, pay rate changes, or terminations. The report also summarizes the committee's payroll expenditures, allowance, and unused funds, and certifies that all listed employees have performed their assigned duties.",
+  "tags": [
+    "Payroll",
+    "US House of Representatives",
+    "Select Committee on Assassinations",
+    "Financial Management",
+    "Personnel",
+    "Budget"
+  ],
+  "title": "Payroll Certification",
+  "date": "1977-07-06",
+  "origin_agency": "U.S. House of Representatives",
+  "recipient": "Chairman, House Administration Committee",
+  "sender": "Unknown - Chairman, House Administration Committee approval"
+}

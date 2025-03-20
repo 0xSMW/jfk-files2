@@ -1,0 +1,21 @@
+{
+  "classification": "Operations",
+  "document_type": "DDO Instruction",
+  "security": "This document details sensitive criteria for operational use of individuals and groups, especially prohibitions and restrictions involving certain organizations and nationalities. Sharing this document would reveal specific intelligence-gathering limitations and operational guidelines, “Operational use is interpreted to mean the recruitment, utilization, or training of any individual or group for DDO purposes…Whenever that individual or group…provides information, performs services, provides cover, or supplies financial, material, or other support necessary for the accomplishment of DDO operational objectives either directly or indirectly…”, and could compromise ongoing or future intelligence operations by exposing methods and sources.",
+  "security_level": "SECRET",
+  "summary": "This DDO instruction outlines policies and restrictions regarding the operational use of individuals and groups by the Directorate of Operations, defining operational use, DDO elements, and operational contacts, while setting restrictions based on affiliations and nationalities.",
+  "summary_one_paragraph": "DDO Instruction No. 50-10, issued on September 4, 1973, defines the terms and restrictions surrounding the operational use of individuals and groups by the Directorate of Operations. It establishes four types of restrictions, including prohibitions (e.g., members of ACTION, Fulbright grantees), requirements for extra-agency concurrence (e.g., employees of other U.S. government agencies, citizens of Australia, Canada, the UK, and New Zealand), special DDO approval (e.g., journalists, CARE employees), and approval by the Chief of Area Division (e.g., U.S. citizens in denied areas). The instruction emphasizes careful scrutiny and specific approvals depending on an individual's status or affiliation, with the Deputy Director for Operations having the authority to interpret or modify these restrictions.",
+  "tags": [
+    "CIA",
+    "DDO Instruction",
+    "Operational Use",
+    "Restrictions",
+    "ACTION",
+    "Fulbright",
+    "Intelligence Operations"
+  ],
+  "title": "DDO Instruction No. 50-10: Restrictions on Operational Use",
+  "date": "1973-09-04",
+  "origin_agency": "Directorate of Operations (DDO)",
+  "recipient": "DDO"
+}

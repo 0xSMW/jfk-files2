@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "Revealing the specifics of audio surveillance operations, including locations (Bethesda safehouse), personnel (Agent Harold G. TITTSLER, Mr. Charles MATT), and technical details (microphone placement, tape recorders, cover story), could compromise ongoing intelligence activities. Details of the cover story, such as \"Agent TITTSLER during the installation is that he is working on the house at the request of the leasor, Washington real estate agent, Mr. R. V. Cortlandt HEREST Mr. HERBST supposedly maintains the house for a New York lawyer in order to billet the latter's transient clients,\" expose methods of maintaining secrecy and could endanger individuals involved.",
+  "security_level": "SECRET",
+  "summary": "A memo detailing the installation of audio surveillance equipment at a safehouse in Bethesda to monitor Manuel F. ARTIME Buesa and Rafael Aurelio QUINTERO Ibarbia.",
+  "summary_one_paragraph": "This secret memorandum from Ramon R. Hart, dated 18 July 1963, outlines plans for audio surveillance of Manuel F. ARTIME Buesa and Rafael Aurelio QUINTERO Ibarbia at a SAS safehouse in Bethesda, Maryland. The District Field Office, under Agent Harold G. TITTSLER, will install microphones and a telephone tap, using a cover story involving a real estate agent, Mr. R.V. Cortlandt HERBST, who manages the house for a New York lawyer’s clients. The setup includes AC-operated tape recorders serviced by a case officer, with the goal of better monitoring conversations compared to previous \"radio\" methods.",
+  "tags": [
+    "CIA",
+    "Audio Surveillance",
+    "Manuel Artime",
+    "Rafael Quintero",
+    "Bethesda",
+    "SAS Safehouse",
+    "Harold Tittsler",
+    "Cover Story"
+  ],
+  "title": "Manuel F. ARTIME Buesa",
+  "date": "1963-07-18",
+  "locations_mentioned": [
+    "Washington, D. C.",
+    "Bethesda"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Manuel F. ARTIME Buesa",
+    "Ramon R. Hart",
+    "Fred C. THOMAS, Jr.",
+    "Charles MATT",
+    "Rafael Aurelio QUINTERO Ibarbia",
+    "Harold G. TITTSLER",
+    "R. V. Cortlandt HERBST"
+  ],
+  "recipient": "Chief, Support Branch",
+  "sender": "Mr. Ramon R. Hart"
+}

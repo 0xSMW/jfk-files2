@@ -1,0 +1,38 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security": "This dispatch outlines operational details related to AMDENIM-1’s activities, including plans for establishing maritime reception points and infiltrating personnel into PBRUMEN. Exposing these operations could compromise ongoing intelligence efforts, endanger assets involved in these clandestine activities, and reveal methods used to gather information from refugees. Specifically, the dispatch mentions 'Operation Antonico I' and plans for 'Operation Antonico III', which are sensitive efforts to establish contacts and ratlines. Revealing these details could alert adversaries to the agency's tactics and sources, undermining future operations.",
+  "security_level": "SECRET",
+  "summary": "A dispatch from the Chief of Station, JMWAVE, details the operational progress of AMDENIM-1 in coordinating exile groups, gathering intelligence, and establishing contact with fishermen in PBRUMEN, including the unsuccessful Operation Antonico I and plans for future operations.",
+  "summary_one_paragraph": "This secret dispatch from the Chief of Station, JMWAVE, dated August 13, 1962, provides a progress report on AMDENIM-1’s operational activities, focusing on coordinating exile groups to select paramilitary candidates for the AMSUD-1 organization. AMDENIM-1 has been gathering background information on the PRPUNEN community and initiating Operation Antonico I to establish contact with PBRUMEN fishermen. The report highlights AMDENIM-1’s efforts to develop maritime reception points, maintain contact with AMBUD-1, and identify candidates for infiltration, while also addressing challenges in establishing a clandestine base and securing reliable personnel. The dispatch details the expenditure of funds for maintenance, passage, and operational support, and outlines plans for continuing these pursuits, including a scheduled Operation Antonico III and potential contact with a PBRUMEN government member in Jamaica.",
+  "tags": [
+    "JMWAVE",
+    "AMDENIM-1",
+    "PBRUMEN",
+    "Exile Groups",
+    "Operation Antonico",
+    "Fishermen",
+    "Infiltration",
+    "KUBARK"
+  ],
+  "title": "GYROSE/Operational AMDENIM-1 Progress Report - 13 August 1962",
+  "date": "1962-08-13",
+  "locations_mentioned": [
+    "PBRUMEN",
+    "Oriente Province",
+    "Anguila Key",
+    "Havana",
+    "Santiago de Cuba",
+    "Caibarien",
+    "Jamaica"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "AMDENIM-1",
+    "AMBUD-1",
+    "Heriberto SARDINAS Campo",
+    "AMGLAD-1"
+  ],
+  "recipient": "Chief, Task Force W",
+  "sender": "Chief of Station, JMWAVE AKR"
+}

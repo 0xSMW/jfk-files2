@@ -1,0 +1,37 @@
+{
+  "classification": "Vietnam",
+  "document_type": "CIA Information Telegram",
+  "security": "Revealing details of discussions between President Diem and Vice President Chen Cheng, including potential military support and operations against China, could compromise diplomatic relations and ongoing operations. For example, 'CHEN IS BELIEVED TO HAVE OFFERED DIEM UNRESTRICTED MILITARY TRAINING AND TECHNICAL SUPPORT, PLUS UP TO ONE DIVISION OF COMBAT TROOPS TO FIGHT IN VIETNAMESE ARMY UNIFORMS' and 'CHEN PROBABLY ASKED DIEM TO PUB-LICLY SUPPORT THE CHINAT MAINLAND COUNTERATTACK THEME AND TO GRANT AIR-FIELD AND COASTAL BASES FOR CHINAT MILITARY AND PSYCHOLOGICAL WARFARE OPERATIONS AGAINST THE SOUTHERN AND WESTERN PORTIONS OF CHINA.'",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A CIA information telegram reports on discussions between South Vietnamese President Ngo Dinh Diem and Nationalist Chinese Vice President Chen Cheng regarding increased military support and potential operations against mainland China during Chen's visit to South Vietnam in March 1963.",
+  "summary_one_paragraph": "This CIA information telegram, dated March 19, 1963, details the private discussions between South Vietnamese President Ngo Dinh Diem and Nationalist Chinese Vice President Chen Cheng from March 4-9, 1963, during Chen’s visit to Saigon and Dalat. The report, sourced from a high-level member of the Chinese Nationalist diplomatic establishment and a Chinese businessman, suggests that Chen offered Diem increased military support, including training, technical assistance, and combat troops, in exchange for Diem's public support for a counterattack against mainland China and access to airfields and coastal bases. Discussions also covered joint operations into North Vietnam and Laos, Thailand's neutrality, and efforts to unseat Cambodia's Sihanouk, with an overall assessment indicating a closer relationship between the two governments and a positive impression on the local Chinese population.",
+  "tags": [
+    "CIA",
+    "Vietnam",
+    "China",
+    "Ngo Dinh Diem",
+    "Chen Cheng",
+    "Military Support",
+    "Counterattack",
+    "Sihanouk",
+    "TDCS-3/540,863"
+  ],
+  "title": "CIA Information Telegram",
+  "date": "1963-03-19",
+  "locations_mentioned": [
+    "South Vietnam",
+    "China (Taiwan)",
+    "Saigon",
+    "Dalat",
+    "North Vietnam",
+    "Laos",
+    "Thailand",
+    "Cambodia"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ngo Dinh Diem",
+    "Chen Cheng",
+    "Sihanouk"
+  ]
+}

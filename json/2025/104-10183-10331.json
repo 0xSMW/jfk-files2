@@ -1,0 +1,38 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This document details discussions between Cubans and MAIJA representatives regarding potential threats and investigations into alleged collaborators with the CIA. Specifically, the document discusses the need to 'VIGILAR' Mella and the 'AJUSTICIAMIENTO DE VICTOR', revealing potential targeting of individuals. The reference to investigating contacts in New York could expose sensitive operations. Sharing this information could compromise ongoing investigations, endanger individuals, and damage relations with involved parties.",
+  "security_level": "SECRET",
+  "summary": "A classified message relays discussions between Cubans and MAIJA representatives, focusing on concerns about individuals possibly collaborating with French and U.S. (CIA) intelligence, including a review of those associated with PICHI Mella and potential actions against a suspected CIA agent named Victor.",
+  "summary_one_paragraph": "This SECRET classified message, originating from Santo Domingo, relays information about discussions between Cuban officials and MAIJA representatives. The discussions covered concerns about 'companeros' linked to PICHI Mella and potential actions against a suspected CIA agent, Victor. Further, the message details the Cuban's worry about a 'GRUPO FRANCES' they suspect of collaborating with the French and the CIA, tracing their contacts back to LUIS GENAD and FIDELIO DESPRADEL, with concerns about GENAD's contacts in New York with members of MAIJA (widow Minaya). The message suggests forwarding the reference to JMWAVE and provides a listing and description of documents confiscated from Dominican Communist courier FERNANDO DE LA ROSA by Venezuelan security officials.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Dominican Republic",
+    "MAIJA",
+    "PICHI MELLA",
+    "GRUPO FRANCES",
+    "LUIS GENAD",
+    "FIDELIO DESPRADEL",
+    "FERNANDO DE LA ROSA",
+    "JMWAVE",
+    "Conspiracy"
+  ],
+  "title": "Discussions Between Cubans and MAIJA Reps",
+  "locations_mentioned": [
+    "Santo Domingo",
+    "Cuba",
+    "New York",
+    "Venezuela"
+  ],
+  "persons_mentioned": [
+    "PICHI MELLA",
+    "Victor",
+    "LUIS GENAD",
+    "FIDELIO DESPRADEL",
+    "Fernando de la Rosa",
+    "Minaya"
+  ],
+  "recipient": "Director, JMWAVE, Caracas",
+  "sender": "Santo Domingo"
+}

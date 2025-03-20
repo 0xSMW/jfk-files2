@@ -1,0 +1,50 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "Revealing operational details of the AMSPELL tour, its contacts (AUSPELL/AMBARB), and the assessment of its effectiveness, could expose intelligence methods and compromise relationships with local assets. Details of the team's inexperience and difficulties encountered could also damage the agency's reputation. Citing the AMSPELL team’s difficulty in various cities, or the incident with the Cuban hostage, this reveals operational deficiencies. Quoting the document, “Reports from WH stations and the WAVE debriefing of the AMSPELL team lead us to conclude that the tour was a moderate success that could have been much better if it had been better organized and if the AMSPELL team had had more experience.”",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A report summarizing the AMSPELL team's tour of Latin America from February to June 1964, assessing the success of the exhibit in various cities and noting organizational challenges.",
+  "summary_one_paragraph": "This report, sent from the Chief of Station, JMWAVE/C, to the Deputy Chief, WH/SA, summarizes the AMSPELL team's five-month tour of six Latin American countries (Colombia, Ecuador, Chile, Bolivia, Argentina, and Uruguay) between February and June 1964, aimed at promoting anti-Castro sentiment. While the exhibit was successful in Guayaquil and La Paz, it was only moderately successful in other locations, with the report noting organizational difficulties, personality clashes with local contacts, and a lack of experience within the AMSPELL team, yet concluding that the approximate $12,000 cost was worthwhile, although a similar tour is not recommended in the near future due to the AMSPELL team's inexperience.",
+  "tags": [
+    "AMSPELL",
+    "Latin America",
+    "Anti-Communism",
+    "Propaganda",
+    "JMWAVE",
+    "Cuba",
+    "KUBARK"
+  ],
+  "title": "AMSPELL Tour of Latin America",
+  "date": "1964-07-23",
+  "locations_mentioned": [
+    "Latin America",
+    "Colombia",
+    "Bogota",
+    "Medellin",
+    "Cali",
+    "Ecuador",
+    "Quito",
+    "Guayaquil",
+    "Chile",
+    "Santiago",
+    "Bolivia",
+    "La Paz",
+    "Argentina",
+    "Buenos Aires",
+    "Rosario",
+    "Cordoba",
+    "Uruguay",
+    "Montevideo",
+    "Venezuela",
+    "Caracas",
+    "Brazil"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AMSPELL",
+    "Fernando SANHUESA",
+    "Goulart"
+  ],
+  "recipient": "Deputy Chief, WH/SA",
+  "sender": "Chief of Station, JMWAVE/C"
+}

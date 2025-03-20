@@ -1,0 +1,42 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "Revealing the true identities and covers of CIA employees, such as Mrs. TARASOFF and her husband, could jeopardize their safety and compromise ongoing operations. Discussing the process of creating and maintaining cover stories, like the U.S. Army Translation Unit cover for Mrs. TARASOFF and the Department of State backstop for her husband, exposes sensitive methods and could allow adversaries to identify and neutralize covert personnel. Specifically, 'Mr. Woodward stated that he would provide a U.S. Army Translation Unit cover for Mrs. TARASOFF retroactive to her entrance on duty.' and 'Means said that Subject's husband is in Mexico under light state cover but had previously been backstopped firmly as a contract employee of the Department of State, Escort Branch, Division of Language Services. He said he would firm up this backstop so that in the event of inquiry at that Division of State it would be confirmed that he is in Mexico on an assignment.'",
+  "security_level": "SECRET",
+  "summary": "A memorandum detailing a meeting to discuss the potential security risks associated with Anna Tarasoff's father's planned visit to the Russian Embassy to obtain a visa, including the decision not to brief him on his daughter's CIA employment and to provide her with an army cover.",
+  "summary_one_paragraph": "On October 13, 1960, Robert J. Leonard of the Office of Security convened a meeting with CI Staff, CI/Projects, CCG/DC, OCG/OCB, and Anna Tarasoff to address concerns about Tarasoff's father's intention to visit the Russian Embassy to obtain a visa for a trip to Russia. The group decided against informing the father about Tarasoff's CIA employment and agreed to provide her with a U.S. Army Translation Unit cover, retroactive to her start date. Credit checks were expedited on Tarasoff and her husband, and her husband's light state cover in Mexico was reinforced with a Department of State backstop. It was also noted that Tarasoff's father had already visited the embassy, listing his daughter under her maiden name, which mitigated immediate concerns.",
+  "tags": [
+    "CIA",
+    "Security",
+    "Cover Story",
+    "Counterintelligence",
+    "Personnel Security",
+    "Russian Embassy"
+  ],
+  "title": "TARASOFF, Anna",
+  "date": "1960-10-13",
+  "locations_mentioned": [
+    "Washington",
+    "Russian Embassy",
+    "Russia",
+    "Mexico",
+    "Ohio",
+    "Minskaya, U.S.S.R."
+  ],
+  "origin_agency": "Office of Security, CIA",
+  "persons_mentioned": [
+    "Anna Tarasoff",
+    "Robert J. Leonard",
+    "Birch O'Neal",
+    "T.K. Chalmers",
+    "Henry C. Woodward",
+    "Thornton W. Means",
+    "Anthony Adamoviez",
+    "Mariya Kalnak",
+    "Ivanu Yulyanovichu Adomovichu",
+    "Boris D. Tarasoff",
+    "Sherry Comella"
+  ],
+  "recipient": "Chief, Cover Support Desk",
+  "sender": "Mr. Robert J. Leonard"
+}

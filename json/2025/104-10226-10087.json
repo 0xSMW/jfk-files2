@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Telegram Information Report",
+  "security": "Disclosing the specific opposition groups mentioned (UR, DRE, MRP) and the French Embassy's involvement could jeopardize their operations and relationships. Quoting from the document: \"MEMBERS OF THE UNIDAD REVOLUCIONARIA (UR) REPORTED TO THE FRENCH EMBASSY IN HABANA THAT ON 10 AUGUST THEY WERE INVITED TO ATTEND A MEETING ON 14 AUGUST ORGANIZED BY THE DIRECTORIO REVOLUCIONARIO ESTUDIANTIL (DRE) AND THE MOVIMIENTO REVOLUCIONARIO DEL PUEBLO (MRP).\"",
+  "security_level": "SECRET",
+  "summary": "A CIA telegram reports a planned uprising by opposition groups in Cuba, scheduled for the last days of August 1962, based on information from a French service regarding a meeting organized by the Directorio Revolucionario Estudiantil (DRE) and the Movimiento Revolucionario del Pueblo (MRP). The Unidad Revolucionaria (UR) was advised by the French Embassy in Havana not to participate in the uprising.",
+  "summary_one_paragraph": "This SECRET CIA telegram, dated August 27, 1962, details a planned uprising by Cuban opposition groups, including the Directorio Revolucionario Estudiantil (DRE) and the Movimiento Revolucionario del Pueblo (MRP), scheduled for the end of August. The information originated from an official French service, which reported that the Unidad Revolucionaria (UR) informed the French Embassy in Havana about an invitation to a meeting on August 14 to plan the 'stage of active warfare.' The French Embassy advised the UR against participating, but the DRE and MRP proceeded with their plans for a general uprising.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Uprising",
+    "Opposition Groups",
+    "French Embassy",
+    "DRE",
+    "MRP",
+    "UR",
+    "August 1962"
+  ],
+  "title": "Planned Uprising by Opposition Groups in Cuba",
+  "date": "1962-08-27",
+  "locations_mentioned": [
+    "Cuba",
+    "France",
+    "Paris",
+    "Havana"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [],
+  "recipient": "CINCLANT, CINCARIB",
+  "sender": "Jane S. Ingle (TFW/Intel/Reports)"
+}

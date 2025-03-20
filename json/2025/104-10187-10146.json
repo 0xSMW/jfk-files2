@@ -1,0 +1,28 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This message details arrangements involving CIA officers, Salvadoran intelligence, and Cuban defectors, potentially revealing operational methods and sources. Specifically, the planned meeting between a CIA officer, a Salvadoran asset, and a Cuban target, facilitated through cutouts, could compromise the security and identities of involved individuals if exposed. Quoting directly: 'CIA OFFICER CAN SEE ALONE...MEET CUTOUT TO IF CUTOUT STORY VERIFIED, PLA HAVE...CUBAN TARGET.'",
+  "security_level": "SECRET",
+  "summary": "A CIA message discusses arrangements involving Cuban defectors, Salvadoran intelligence, and CIA officers, outlining plans for meetings and actions requested by the Chief of Salvadoran Intelligence.",
+  "summary_one_paragraph": "This SECRET classified message from the CIA details arrangements with Salvadoran intelligence (SALV) regarding Cuban defectors. The Chief of Salvadoran Intelligence desires CIA action as requested by his advisor. A CIA officer is to meet with a Salvadoran asset alone at Dalton’s house, while the station arranges for the target CIA officer to meet a cutout to verify a story involving a Cuban target. The message references previous communication (SALV 5284) and mentions 'CHIGE SALVADORAN INTEL'.",
+  "tags": [
+    "CIA",
+    "Cuban Defectors",
+    "Salvadoran Intelligence",
+    "SALV",
+    "Operations",
+    "Liaison"
+  ],
+  "title": "Cuban Defectors",
+  "date": "1962-09-25",
+  "locations_mentioned": [
+    "Cuba",
+    "El Salvador"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Dalton"
+  ],
+  "recipient": "WH DIV CUBA",
+  "sender": "Stor/Strang"
+}

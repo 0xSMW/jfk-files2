@@ -1,0 +1,29 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "Revealing the process of acquiring backstopped alias documentation and the specific details of an agent's alias (name, address, physical characteristics, legend) could compromise ongoing or future operations. Specifically, the request for a backstopped driver's license and other documentation, along with the agent's alias details, makes the agent vulnerable if this information were to be exposed. \"Please note that a backstopped driver's license has been requested for the Subject. The Office of Security will, therefore, initiate action to procure a backstopped alias New York State Driver's License.\"",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memorandum regarding alias documentation for Harold F. Swenson, including a request for a backstopped New York State Driver's License under the alias Harold Francis Safley, to support his contacts in the near future.",
+  "summary_one_paragraph": "This memorandum, dated November 6, 1962, outlines the request and procurement of alias documentation for Harold F. Swenson (#73086). The Deputy Director of Security (Investigations and Operational Support) informs the Chief of the Technical Services Division that a backstopped driver's license has been requested for Swenson under the alias Harold Francis Safley. The Office of Security will initiate action to procure a New York State Driver's License, while other requested documentation should be sent directly to TFW/Support. The request includes details such as Swenson's alias address, physical characteristics, legend as an industrial relations professional, and birth information to support the documentation.",
+  "tags": [
+    "Alias Documentation",
+    "Harold F. Swenson",
+    "Harold Francis Safley",
+    "Backstopped Driver's License",
+    "Office of Security",
+    "Technical Services Division",
+    "TFW/Support"
+  ],
+  "title": "SWENSON, Harold F. #73086",
+  "date": "1962-11-06",
+  "persons_mentioned": [
+    "Harold F. Swenson",
+    "Clayton Kallander",
+    "Victor R. White",
+    "Howard J. Preston",
+    "George A. Ladner",
+    "Harold Francis Safley"
+  ],
+  "recipient": "Chief, Technical Services Division",
+  "sender": "Deputy Director of Security (Investigations and Operational Support)"
+}

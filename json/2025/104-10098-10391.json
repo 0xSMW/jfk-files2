@@ -1,0 +1,25 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "This message identifies individuals (George Steens) and their code names or project names (KASSAY, LPSHRINK, AR). Exposing these code names could reveal covert operations or sources, jeopardizing ongoing activities and endangering individuals. Quoting directly: 'IDEN IS AR. GEORGE STEENS.'",
+  "security_level": "SECRET",
+  "summary": "A classified message from Mexico City identifies individuals and their code names, including KASSAY, LPSHRINK, and AR. It references George Steens as the identified individual.",
+  "summary_one_paragraph": "This SECRET classified message originating from Mexico City relays information regarding individuals and their associated code names or project affiliations. Specifically, it identifies 'AR' as George Steens and also mentions 'KASSAY' and 'LPSHRINK', pointing to possible covert operations or source identification. The message references MEXI 7400 (IN 85185) and cites MEXI 7479.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "KASSAY",
+    "LPSHRINK",
+    "George Steens",
+    "AR",
+    "Covert Operations"
+  ],
+  "title": "Identification of George Steens",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "George Steens"
+  ]
+}

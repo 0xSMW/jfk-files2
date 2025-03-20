@@ -1,0 +1,30 @@
+{
+  "classification": "Security",
+  "document_type": "Summary",
+  "security": "Disclosing the procedures for State Department cover for CIA employees, including the roles of the Personnel Office, Security Office, and CIA liaison officer, could compromise current or future cover operations. Specifically, the document states, 'A record of CIA certification of clearance would probably be placed in the individual's State Department security file,' revealing a potential point of compromise.",
+  "security_level": "Unclassified",
+  "summary": "This document is a summary of an interview with Dennis A. Flynn, a former FBI and State Department employee, conducted on June 16, 1978, regarding State Department cover procedures for CIA employees.",
+  "summary_one_paragraph": "On June 16, 1978, Robert Genzman and Harold Leap interviewed Dennis A. Flynn, a former FBI (1934-1946) and State Department (1947-1967) employee, at his home in Oakton, Virginia. Flynn, who was Director of Security at the State Department from 1953 to 1956, provided information on the procedures for State Department cover for CIA employees, explaining how clearances were requested, certified by a CIA liaison officer, and recorded in the individual's State Department security file. Flynn believed the State Department didn't maintain a comprehensive list of CIA employees under cover and noted that the Security Officer and head of the Bureau of Intelligence Research were generally aware of these arrangements. Flynn also stated that consular cover was not used by the CIA from 1959 to 1963 and named individuals he did not believe were CIA employees during his tenure.",
+  "tags": [
+    "CIA",
+    "Flynn, Dennis A",
+    "State Department",
+    "Covert Operations",
+    "Security Procedures",
+    "Interviews"
+  ],
+  "title": "Interview with Dennis A. Flynn regarding CIA and State Department Cover Procedures",
+  "date": "1978-06-16",
+  "origin_agency": "HSCA",
+  "persons_mentioned": [
+    "Dennis A. Flynn",
+    "Robert W. Genzman",
+    "Harold Leap",
+    "Richard E. Snyder",
+    "Jack F. Matlock",
+    "John A. McVickar",
+    "Joseph Norbury",
+    "Alexis Davison"
+  ],
+  "sender": "FLYNN, DENNIS A."
+}

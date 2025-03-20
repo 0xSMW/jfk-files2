@@ -1,0 +1,42 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "The report details personal information about Joseph Timothy White, including his date and place of birth, family details, education, financial difficulties, and his political views on Nazism and Communism. Sharing this level of personal detail could violate privacy and potentially put the individual at risk. As stated in the document, 'SUBJECT was born in St Louis, Missouri, where HIS family still maintains their residence. SUBJECT'S father worked for an automobile company in Saint Louis, Missouri, (NFI).'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report details an interview with Henry D. Glaister concerning Joseph Timothy White, focusing on White's background, associations, and political views during his time at Kemper Military School and College.",
+  "summary_one_paragraph": "On September 22, 1982, agent Raul J. Lozano submitted a report based on an interview with Henry D. Glaister, a former Military Science instructor, concerning Joseph Timothy White. The report covers White's enrollment at Kemper Military School and College (KMSC) from August 1980 to May 1981, his financial struggles, and his enrollment in the Simultaneous Membership Program (SMP). It also details White's interest in National Socialism (Nazism), a debate he had on the topic that caused issues with his peers, and his alleged attendance at a Ku Klux Klan (KKK) and NAACP debate, while also highlighting White's immaturity and White being described as being anti US by his peers and Glaister confirming parts of a message that contain comments attributable to White.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "Agent Report",
+    "Joseph Timothy White",
+    "Henry D. Glaister",
+    "Kemper Military School and College",
+    "Nazism",
+    "Communism",
+    "Military Intelligence"
+  ],
+  "title": "AGENT REPORT",
+  "date": "1982-09-22",
+  "locations_mentioned": [
+    "St Louis, Missouri",
+    "Columbia, Missouri",
+    "Boonville, Missouri",
+    "Fort Riley, Kansas",
+    "Marshall, Missouri",
+    "Fort Benning, Georgia",
+    "Berkeley, California",
+    "Oakland, California",
+    "South Korea"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Joseph Timothy White",
+    "Henry D. Glaister",
+    "Thomas McCarthy",
+    "Booker T. Washington",
+    "Raul J. Lozano",
+    "Vladimir Slovoda"
+  ],
+  "sender": "[ RESTRICTED ]"
+}

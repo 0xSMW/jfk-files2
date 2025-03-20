@@ -1,0 +1,35 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "Revealing operational details about AMLASH/1, including his Cuban asset status, contact with LNERGO, and planned debriefing, could endanger current and future intelligence operations. The cable explicitly mentions \"CUBAN ASSET 1903-1965\", which highlights his previous association and might compromise his current status. Further, disclosing internal tracking mechanisms such as \"FILE: 201-252234. CADL RV% 2 JAN 2000 DRV D9C.3\" could assist adversaries in identifying and exploiting CIA record-keeping procedures.",
+  "security_level": "SECRET",
+  "summary": "A cable regarding AMLASH/1's arrival in Madrid, his contact with LNERGO, and plans for a debriefing to determine his future plans; also, AMLASH/1 has refused to grant interviews to numerous media representatives since arriving in Madrid.",
+  "summary_one_paragraph": "This secret cable dated January 22, 1980, concerns AMLASH/1 (Cuban asset, IDEN A), who arrived in Madrid on December 11, 1979, and contacted a LNERGO source in the U.S. requesting a meeting with a REACTION representative. AMLASH/1 has been approached by numerous media representatives since his arrival but has declined to be interviewed. IDEN B is scheduled to depart on January 7, 1980, for Madrid to debrief AMLASH/1 and ascertain his future plans, and LNERGO has been asked to provide bona fides and contact instructions. The cable requests the name and telephone number IDEN B can use to contact the station upon arrival in Madrid, referencing file 201-252234.",
+  "tags": [
+    "CIA",
+    "AMLASH/1",
+    "LNERGO",
+    "Madrid",
+    "Debriefing",
+    "Cuban Asset",
+    "Media",
+    "Operations"
+  ],
+  "title": "NINTEL ANLASH",
+  "date": "1980-01-22",
+  "locations_mentioned": [
+    "Madrid",
+    "U.S."
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AMLASH/1",
+    "IDEN A",
+    "IDEN B",
+    "LNERGO",
+    "Sturbitts",
+    "Thompson"
+  ],
+  "recipient": "MADRID",
+  "sender": "DIRECTOR"
+}

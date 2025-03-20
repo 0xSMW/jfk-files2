@@ -1,0 +1,53 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch/Memorandum",
+  "security": "The memorandum details discussions and proposals for clandestine operations against the Castro regime, including potential commando raids, propaganda campaigns, and financial support for anti-Castro groups. Revealing these details could compromise ongoing or future operations, endanger individuals involved, and damage the CIA's reputation.",
+  "security_level": "SECRET",
+  "summary": "A dispatch forwarding a memo detailing a meeting between an agency representative and Dr. MIRO Cardona regarding potential anti-Castro operations, including propaganda, commando raids, and establishing a government on Cuban soil.",
+  "summary_one_paragraph": "This dispatch transmits a memorandum from October 1961, summarizing a meeting with Dr. MIRO Cardona, a key figure in the anti-Castro movement. Cardona outlines proposals for propaganda campaigns targeting Cuba and Cuban exiles, suggests commando actions to weaken the Cuban economy and bolster anti-Castro morale, and requests U.S. support in the form of weapons, funds, and equipment. He also advocates for the Revolutionary Council to establish a government on Cuban soil, requesting immediate U.S. military intervention, further discussing the composition of the Revolutionary Council, his thoughts on the judges, and lawyers and other exile groups.",
+  "tags": [
+    "CIA",
+    "JMWAVE",
+    "MIRO Cardona",
+    "Anti-Castro Operations",
+    "Cuba",
+    "Propaganda",
+    "Clandestine Operations",
+    "Revolutionary Council",
+    "Guantanamo"
+  ],
+  "title": "Meeting with Dr. MIRO Cardona on 6 October",
+  "date": "1961-10-10",
+  "locations_mentioned": [
+    "Cuba",
+    "Key West",
+    "Miami",
+    "United States",
+    "Latin America",
+    "Escambray",
+    "Guantanamo",
+    "Buenos Aires"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "MIRO Cardona",
+    "Theodore F. PASSAVOY",
+    "Manuel VARELA Castro",
+    "Enrique DESPAIGNE",
+    "Osvaldo RAMIREZ",
+    "President FRONDIZI",
+    "ALABAU",
+    "VARONA",
+    "PRIO",
+    "Julio CARCERAN",
+    "Julio AMOEDO",
+    "VILLANUEVA",
+    "Nicanor FERNANDEZ",
+    "LACERDA",
+    "CARRILO",
+    "CONTE AGUERO",
+    "MESTRE"
+  ],
+  "recipient": "Chief of Station, JMWAVE",
+  "sender": "Chief, WH Division"
+}

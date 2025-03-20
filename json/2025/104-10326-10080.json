@@ -1,0 +1,21 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Message",
+  "security": "This document outlines a request to contact former employees who may have retired covertly and whose true names could be publicly disclosed. Specifically, paragraph 3 details a plan to have a Station Officer, using NWBOLTON alias documents, meet with the former employees and discuss the potential public disclosure of their NWBOLTON affiliation. Sharing these details could reveal sensitive operational methods and compromise the identities of former covert operatives. Quoting directly: \"PLS HAVE STATION OFFICER CONTACT TWO FORMER NWBOLTON OFFICERS...IF IDENS ARE AMENABLE, PLEASE EXPLAIN IN PERSON THAT HQS IS FACED WITH THE POSSIBLE PUBLIC DISCLOSURE OF THEIR NWBOLTON AFFILIATION.\"",
+  "security_level": "SECRET",
+  "summary": "A message requesting immediate action to contact former NWBOLTON employees regarding the potential public disclosure of their covert affiliations due to the Assassination Records Review Board's document release.",
+  "summary_one_paragraph": "This secret message, dated July 3, 1995, from the LIMIT Chief/PCS to IMMEDIATE ORLANDO, requests urgent assistance in contacting two former NWBOLTON officers whose covert affiliations may be disclosed in documents released by the Assassination Records Review Board. It directs a station officer to meet with the former employees, explain the situation, and gather information on their tours, sensitive operations, and potential equities affected by the disclosure. The message expresses urgency due to the short timeframe and holiday, and details specific actions needed, including coordinating with NVTAG/Jacksonville to locate one of the individuals.",
+  "tags": [
+    "NWBOLTON",
+    "Assassination Records Review Board",
+    "JFK Assassination",
+    "Covert Operations",
+    "Document Declassification",
+    "WNINTEL"
+  ],
+  "title": "Request to Contact Former NWBOLTON Employees",
+  "date": "1995-07-03",
+  "origin_agency": "CIA",
+  "recipient": "IMMEDIATE ORLANDO",
+  "sender": "LIMIT Chief/PCS"
+}

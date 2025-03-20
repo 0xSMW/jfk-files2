@@ -1,0 +1,32 @@
+{
+  "classification": "Soviet",
+  "document_type": "Telegram Information Report",
+  "security": "Disclosing that the CIA is monitoring Soviet military activities and interpreting their actions in response to U.S. measures could compromise intelligence sources and methods. Revealing precautionary measures undertaken by the Soviet Bloc forces after the Kennedy assassination could also affect diplomatic relations. The classification and dissemination controls restrict distribution to prevent foreign dissemination, indicating sensitivity.",
+  "security_level": "SECRET",
+  "summary": "A CIA report detailing Soviet military activity and alerts in response to President Kennedy's assassination, indicating precautionary measures and a general atmosphere of caution within the Soviet Bloc during the period of November 20-26, 1963.",
+  "summary_one_paragraph": "This CIA Telegram Information Report, dated November 29, 1963, summarizes military activity in the Soviet Bloc between November 20-26, 1963, following President Kennedy's assassination. The report indicates that while there were no signs of imminent attack preparations, Soviet and satellite forces implemented precautionary measures, interpreted as a reaction to stand-by measures by U.S. forces, particularly in the Oranienburg Garrison where special alerts were ordered. The CIA's German service, utilizing informants, noted a general expectation of caution in Soviet military policy during this period, observing normal training activities, staggered control posts along the interzonal border, and submarine movements in the Great Belt.",
+  "tags": [
+    "CIA",
+    "Soviet Military",
+    "Kennedy Assassination",
+    "Military Alert",
+    "Cold War",
+    "TDCS-3/566,305"
+  ],
+  "title": "CIA TDCS-3/566,305",
+  "date": "1963-11-29",
+  "locations_mentioned": [
+    "West Germany",
+    "East Germany",
+    "USSR",
+    "Oranienburg",
+    "Berlin",
+    "Great Belt"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "President Kennedy"
+  ],
+  "recipient": "Army, Air Force, Navy, USEUCOM",
+  "sender": "German Service"
+}

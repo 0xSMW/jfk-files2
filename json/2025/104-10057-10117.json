@@ -1,0 +1,26 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security": "This cable identifies specific individuals working for Canadian press outlets and a freelance writer, without indicating the purpose or potential sensitivity of their identification. Exposing their names, employers and occupations could raise suspicions or put them at risk depending on the nature of the related operation. Quoting directly: 'IDENS: A. MR. GERARD MCNEIL CANADIAN PRESS B. MR. ROBERT MCKEOWN FREE LANCE WRITER'",
+  "security_level": "SECRET",
+  "summary": "A SECRET cable dated March 9, 1972, from Ottawa, identifying Mr. Gerard McNeil of the Canadian Press and Mr. Robert McKeown, a freelance writer.",
+  "summary_one_paragraph": "This SECRET cable, originating from Ottawa on March 9, 1972, identifies Mr. Gerard McNeil of the Canadian Press and Mr. Robert McKeown, a freelance writer, under the identifiers A and B respectively. The subject of the cable is related to 'AEKICK SMABOVE IP' with reference to a previous cable (OTTAWA 15664) and an 'IN' number (556675).",
+  "tags": [
+    "CIA",
+    "Canadian Press",
+    "Freelance Writer",
+    "Liaison",
+    "AEKICK SMABOVE",
+    "Gerard McNeil",
+    "Robert McKeown",
+    "Identification"
+  ],
+  "title": "Identification of Canadian Press and Freelance Writer",
+  "date": "1972-03-09",
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Gerard McNeil",
+    "Robert McKeown"
+  ],
+  "sender": "Ottawa"
+}

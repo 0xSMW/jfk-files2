@@ -1,0 +1,35 @@
+{
+  "classification": "LHO",
+  "document_type": "Memorandum, Cablegram",
+  "security": "This document discusses a liaison between Lee Harvey Oswald and the CIA, specifically mentioning Richard Gibson and the FPCC. The document is marked SECRET. Releasing information about contacts and associations could potentially compromise sources or methods. ",
+  "security_level": "Secret",
+  "summary": "This document concerns Lee Harvey Oswald (LHO), his post-RP activities, associations, liaison with the CIA, and contact with Richard Gibson and the FPCC, as indicated in a cablegram and memo from the FBI Legat in Paris to the FBI Director.",
+  "summary_one_paragraph": "A memorandum and cablegram from the FBI's Legat in Bern to the FBI Director, dated December 3 and 17, 1963, respectively, discuss Lee Harvey Oswald's post-return to the US activities, his associations, and alleged liaison with the CIA, specifically mentioning contacts Richard Gibson and the FPCC; John Dimmer of the covert CIA office at the Embassy in Bern has located Gibson in Paris, leading to this case being RUC'd in the Bern office.",
+  "tags": [
+    "FBI",
+    "LHO",
+    "Lee Harvey Oswald",
+    "CIA",
+    "Richard Gibson",
+    "FPCC",
+    "Liaison",
+    "Associations",
+    "RUC",
+    "Cuba"
+  ],
+  "title": "LHO, POST-RP, ASSOC, LIAISON WITH CIA, CONTACT, GIBSON, RICHARD, FPCC.",
+  "date": "1963-12-03",
+  "locations_mentioned": [
+    "Paris",
+    "Bern",
+    "Cuba"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "Richard Gibson",
+    "John Dimmer"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "LEG, PA; Legat, Bern"
+}

@@ -1,0 +1,45 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "The message contains sensitive information about individuals with connections to Fidel Castro and Che Guevara, potentially jeopardizing their safety if exposed. Details about the relationships and activities of Annie de Quendoz, including her access to Fidel Castro, could compromise her security and that of her contacts. The mention of Roselio Montegro Quasp's scheduled leave for Prague and his potential ties to Cuban intelligence, as well as Saverio Tutino's letters, could also reveal sensitive information. Quoting directly: 'D SAYS ANNIE DE QUENDOZ (2) (NO STA TRACES) WIFE COUT GETTING DIVORCED OF SWISS CHANCELLOR IN HAVANA, WAS MISTRESS OF BOTH \"CHE GUEVARA AND F, CONTINUES RELATIONS WITH F. D SAYS CAN GAIN DIRECT ACCESS F THROUGH IN ANY EMERGENCY'.",
+  "security_level": "SECRET",
+  "summary": "A classified message details observations from an agent (DELORRY) in Italy, focusing on Cuban matters such as Annie de Quendoz's connections to Fidel Castro and Che Guevara, potential intelligence links of Roselio Montegro Quasp, and concerns about religious freedoms in Cuba.",
+  "summary_one_paragraph": "This secret message, dated March 11, 1965, relays information from an agent in Italy (DELORRY) regarding Cuban affairs. Delorry reports that Annie de Quendoz, previously associated with both Che Guevara and Fidel Castro, maintains a relationship with Castro and offers a potential access point. The message also covers suspicions surrounding Roselio Montegro Quasp's travel to Prague, Saverio Tutino's opinions on AMLASH/1 and ANTRUNK/10, and concerns about religious discrimination against Protestant clerics in Cuba, noting the potential impact on GOC-Vatican relations. The message is circulated to multiple CIA units.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Fidel Castro",
+    "Che Guevara",
+    "Annie de Quendoz",
+    "Roselio Montegro Quasp",
+    "AMLASH/1",
+    "ANTRUNK/10",
+    "GOC",
+    "Vatican",
+    "Religious Freedom"
+  ],
+  "title": "Classified Message on Cuban Matters",
+  "date": "1965-03-11",
+  "locations_mentioned": [
+    "Italy",
+    "Cuba",
+    "Havana",
+    "Prague",
+    "Rome",
+    "Belgium"
+  ],
+  "persons_mentioned": [
+    "DELORRY",
+    "Fidel Castro",
+    "Che Guevara",
+    "Annie de Quendoz",
+    "Roselio Montegro Quasp",
+    "Manuel (Manolito) Perez Hernandez",
+    "Ricardo (Subirana) Y Lobo",
+    "Saverio Tutino",
+    "Cesare Lacchi",
+    "Gustavo (Arcos) Y Serones"
+  ],
+  "recipient": "FILE, VR, D/WH/C-5, C/CT, C/FI-2, C/FE-3, C/RS/SD, C/CA-28",
+  "sender": "HOME"
+}

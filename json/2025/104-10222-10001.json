@@ -1,0 +1,28 @@
+{
+  "classification": "Personnel",
+  "document_type": "Contract Information and Check List",
+  "security": "This document details the terms of a secret contract with Bruce G. Mastrocola, including compensation, travel, and operational expenses. Disclosing these terms could reveal sensitive information about CIA contracting practices and operational expenses, potentially compromising future operations. The document explicitly mentions the requirement to keep the contract secret and the potential for criminal prosecution under the Espionage Act for violations.  Specifically, paragraph 6 states: \"You will be required to keep forever secret this contract and all information which you may obtain by reason hereof (unless released in writing by the Government from such obligation), with full knowledge that violation of such secrecy may subject you to criminal prosecution under the Espionage Laws...\"",
+  "security_level": "SECRET",
+  "summary": "A contract agreement between the U.S. Government and Bruce G. Mastrocola for confidential information and related services, outlining compensation, travel, security, and operational expense terms.",
+  "summary_one_paragraph": "This document is a contract between the U.S. Government, represented by Contracting Officer T. Cobb, and Bruce G. Mastrocola, engaging Mastrocola as an independent contractor to provide confidential information and services. Effective June 5, 1959, the contract specifies a compensation of $50 per day (not exceeding $265 per week), reimbursement for operational travel and expenses, and mandates strict secrecy under penalty of prosecution, it also stipulates that Mastrocola is not an employee and is not entitled to benefits. The contract, subject to a 30-day termination notice, tasks Mastrocola with high-level contact within the Cuban government for political action and subsidiary intelligence reporting.",
+  "tags": [
+    "CIA",
+    "Contract",
+    "Personnel",
+    "Bruce G. Mastrocola",
+    "Cuba",
+    "Espionage Act",
+    "Political Action"
+  ],
+  "title": "Contract Information and Check List",
+  "date": "1959-06-01",
+  "persons_mentioned": [
+    "Bruce G. Mastrocola",
+    "T. Cobb",
+    "R. N. Dahlgren",
+    "P. E. Arneson",
+    "Leo Cherne"
+  ],
+  "recipient": "U.S. Government",
+  "sender": "T. Cobb"
+}

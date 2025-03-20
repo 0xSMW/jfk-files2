@@ -1,0 +1,30 @@
+{
+  "classification": "Operations",
+  "document_type": "Memorandum",
+  "security": "Providing cover for AMIRE/1 involves creating a false employment record and advising on how to file a tax return to conceal the true nature of his income. Quoting directly: \"It should be pointed out to AMIRE/1 that he will receive a U. S. Treasury form 1099...it is incumbent on AMIRE/1 to File an overt tax return listing himself as an independent contractor with Roberts, thereby explaining why taxes were not withheld.\" Disclosing this information could compromise the cover arrangement and reveal methods used to conceal CIA operations, potentially damaging the agency's ability to conduct covert activities.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memorandum outlining cover employment for AMIRE/1 through Roberts Electronic and Engineering Service, including tax-related instructions to maintain the cover.",
+  "summary_one_paragraph": "This memorandum, dated October 30, 1961, from John G. Southard, C/CCG/NC, to the Chief of WH/43 (attention George Hleovas), details the cover employment arrangement for AMIRE/1. AMIRE/1 will be employed by Roberts Electronic and Engineering Service as a consultant in the Southeastern United States, effective November 1, 1961. The memo outlines how the cover will function, providing AMIRE/1 with a credit and employment reference, and explains how AMIRE/1 should file his taxes as an independent contractor to maintain the legitimacy of his cover. CCG is to be advised when the cover is no longer needed to ensure proper backstopping.",
+  "tags": [
+    "CIA",
+    "Covert Operation",
+    "AMIRE/1",
+    "False Employment",
+    "Tax Evasion",
+    "Roberts Electronic and Engineering Service"
+  ],
+  "title": "Cover for AMIRE/1",
+  "date": "1961-10-30",
+  "locations_mentioned": [
+    "Baltimore, Maryland",
+    "Southeastern United States"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "AMIRE/1",
+    "George Hleovas",
+    "John G. Southard"
+  ],
+  "recipient": "Chief, WH/43",
+  "sender": "John G. Southard"
+}

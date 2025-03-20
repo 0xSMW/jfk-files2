@@ -1,0 +1,40 @@
+{
+  "classification": "Liaison",
+  "document_type": "TELEPOUCH",
+  "security": "Disclosing details of intelligence liaison relationships could harm those relationships and compromise ongoing investigations. Specifically, the document mentions a letter hand-carried by an ASIO representative and the fact that the OGC provided copies of affidavits to a foreign official. Quoting the document, \"ON NOVEMBER 1973 MR. (LESLIE V JARVIS) ASIO REP IN WASHING-TON, HAND CARRIED TO HAS A LETTER FROM AUSTRALIAN JUSTICE A. R. MOFF-. ITT...\"",
+  "security_level": "SECRET",
+  "summary": "A CIA telepatch discusses a request from Australian Justice A. R. Moffitt, delivered via ASIO representative Leslie V. Jarvis, seeking information on Herbert Itkin, described as a former CIA and FBI employee, for an inquiry into organized crime in New South Wales; the CIA's Office of General Counsel (OGC) provided Moffitt with copies of publicly available affidavits related to Itkin's affiliation with the CIA.",
+  "summary_one_paragraph": "In November 1973, Australian Justice A. R. Moffitt requested information on Herbert Itkin, a former CIA and FBI employee, for an inquiry into organized crime in New South Wales. The request, hand-carried by ASIO representative Leslie V. Jarvis, sought confirmation of Itkin's status between 1964 and 1969, and any relevant affidavits from the FBI or CIA used in US proceedings. The CIA's Office of General Counsel (OGC) responded by providing Moffitt with copies of publicly available affidavits about Itkin's affiliation with the CIA, clarifying that Itkin provided information to the CIA over many years but was not sent to England to gather information and did not furnish the CIA with information while in England.",
+  "tags": [
+    "CIA",
+    "ASIO",
+    "Herbert Itkin",
+    "A.R. Moffitt",
+    "Leslie V. Jarvis",
+    "Organized Crime",
+    "New South Wales",
+    "Office of General Counsel",
+    "Affidavits",
+    "Intelligence Liaison"
+  ],
+  "title": "MR. HERBERT ITKIN",
+  "date": "1973-11-16",
+  "locations_mentioned": [
+    "Washington",
+    "New South Wales",
+    "England",
+    "USA"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Herbert Itkin",
+    "Leslie V. Jarvis",
+    "A.R. Moffitt",
+    "William Crosey (SIC)",
+    "Theodore G. Shackley",
+    "Mr. Greany",
+    "Mr. Rocca"
+  ],
+  "recipient": "CHIEF OF BASE, MELBOURNE; CHIEF OF STATION, CANBERRA",
+  "sender": "CHIEF, EAST ASIA DIVISION"
+}

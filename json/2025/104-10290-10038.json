@@ -1,0 +1,38 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "Releasing information about identified individuals could compromise their security or reveal intelligence gathering methods.",
+  "security_level": "RIDAT TIPIC",
+  "summary": "This cable from Mexico City identifies Fernando Palkezukia Vaquet and Maria Francisca Crespo Falcon, providing their personal details such as date and place of birth, physical characteristics, passport numbers, and address in Cuba.",
+  "summary_one_paragraph": "A cable originating from Mexico City provides identifying information for Fernando Palkezukia Vaquet and Maria Francisca Crespo Falcon, both Cuban residents. The cable includes their full names, dates and places of birth (Artemisa and Guira de Melena, Cuba, respectively), physical descriptions, passport numbers, and their shared address in Marianao, Cuba. The reference line indicates it is related to DIR 86283.",
+  "tags": [
+    "Identification",
+    "Cuba",
+    "Mexico City",
+    "Fernando Palkezukia Vaquet",
+    "Maria Francisca Crespo Falcon",
+    "Personal Details"
+  ],
+  "title": "Identification of Fernando Palkezukia Vaquet and Maria Francisca Crespo Falcon",
+  "date": "Unknown",
+  "locations_mentioned": [
+    "Mexico City",
+    "Artemisa, Cuba",
+    "Pinar del Rio, Cuba",
+    "Marianao, Cuba",
+    "Guira de Melena, Cuba"
+  ],
+  "origin_agency": "Unknown",
+  "persons_mentioned": [
+    "Fernando Palkezukia Vaquet",
+    "Maria Francisca Crespo Falcon",
+    "Natzo",
+    "Josefa",
+    "Arturo",
+    "Josefina",
+    "Howard Anderson",
+    "Desmond Fitzgerald"
+  ],
+  "recipient": "Unknown",
+  "sender": "SAS/SEC: MKH or G"
+}

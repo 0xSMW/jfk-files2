@@ -1,0 +1,28 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "Disclosure of covert site locations and agent information could compromise operations and endanger individuals. The memo states, \"has requested security approval to use the above site to house a contract Agent...this site is to be terminated on 1 March 1961 and IC/FO has advised that it is leased in alias no security projection can be ascertained.\"",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memo requesting security approval for a covert site to house a contract agent, LZT/TG (172341), with details on the site's termination date and lease alias.",
+  "summary_one_paragraph": "On January 19, 1961, Robert J. Leonard sent a memorandum to the Chief of the Cover Support Desk requesting security approval to use Apartment 423 in the Warwick Apartments at 3051 Idaho Avenue, N.W., Washington, D.C., as a covert site to house LZT/TG (172341), a contract agent for the Security Research Staff, at the request of Marx Holder who obtained permission from SAC/FO; since the site's lease in alias is set to terminate on March 1, 1961, it is recommended that SB/1 be advised that there is no security objection to the contemplated use of this location.",
+  "tags": [
+    "Covert Site",
+    "Security Approval",
+    "Contract Agent",
+    "Alias Lease",
+    "Robert J. Leonard",
+    "Marx Holder",
+    "LZT/TG"
+  ],
+  "title": "COVERT SITE",
+  "date": "1961-01-19",
+  "locations_mentioned": [
+    "Washington, D.C."
+  ],
+  "persons_mentioned": [
+    "Robert J. Leonard",
+    "Marx Holder"
+  ],
+  "recipient": "Chief, Cover Support Desk",
+  "sender": "Robert J. Leonard"
+}

@@ -1,0 +1,24 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security": "Disclosing this dispatch could reveal operational methods, like using covert income tax returns and payroll mechanisms to pay agents. Specifically, the instruction to maintain existing payment arrangements through a New York funding mechanism could expose sensitive financial channels: \"It is requested that the current payment arrangements be kept in effect; to wit, that Subject continue to be paid the net amount of $350.00 monthly (in semi-monthly increments of $175.00) through the New York funding mechanism, TA'd to JMWAVE.\"",
+  "security_level": "SECRET",
+  "summary": "This dispatch transmits an amendment to the Miscellaneous Operational Clearance (MOC) for a subject, removing the requirement for a covert income tax return and placing the subject on the JMWAVE payroll with taxes deducted from their salary, while maintaining the net payment amount through a New York funding mechanism.",
+  "summary_one_paragraph": "A dispatch from the Chief of Station, JMWAVE, to the Chief of the Special Affairs Staff, dated April 15, 1964, transmits an amended Miscellaneous Operational Clearance (MOC) for subject 201-307337 (Miguel DIAZ Isalgue). The amendment removes the requirement for the subject to file a covert income tax return and instead places him on the JMWAVE payroll, deducting taxes from his salary; it stipulates that the subject will continue to receive $350.00 monthly (in semi-monthly increments of $175.00) through a New York funding mechanism, TA'd to JMWAVE.",
+  "tags": [
+    "JMWAVE",
+    "MOC Amendment",
+    "Covert Operations",
+    "Payroll",
+    "Funding Mechanism",
+    "Miguel DIAZ Isalgue"
+  ],
+  "title": "TYPIC/Operational MOC Amendment for Subject of 201-307337",
+  "date": "1964-04-15",
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Miguel DIAZ Isalgue"
+  ],
+  "recipient": "Chief, Special Affairs Staff",
+  "sender": "Chief of Station, JMWAVE"
+}

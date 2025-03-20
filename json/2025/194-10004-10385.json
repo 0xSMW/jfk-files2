@@ -1,0 +1,35 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "This report contains personal information, such as addresses and phone numbers, which are now considered sensitive and could potentially be misused or cause harm if released unredacted.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report details the unsuccessful attempts to locate Hugo Rivera, a listed character reference for Manuel Marti, including checks of addresses and postal records.",
+  "summary_one_paragraph": "This agent report, dated November 20, 1968, documents the efforts to verify the address of Hugo Rivera, a listed character reference for Manuel Marti, a Private in the U.S. Army. Attempts to locate Rivera at 201 Roebling Street, New York City, revealed that the address was in Brooklyn, not Manhattan or the Bronx. A phone listing existed for Maria Rivera at that address, but repeated calls went unanswered. A physical check confirmed that the Rivera family had moved approximately one month prior, and a postal removal notice indicated that Hugo Rivera's new address was 2020 Walton Avenue, Bronx, New York 10453.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "Manuel Marti",
+    "Hugo Rivera",
+    "Character Reference",
+    "Agent Report"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1968-11-20",
+  "locations_mentioned": [
+    "Manhattan, New York City",
+    "Bronx, New York City",
+    "Brooklyn, New York",
+    "201 Roebling Street, Brooklyn, New York",
+    "2020 Walton Avenue, Bronx, New York"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Hugo Rivera",
+    "Mrs. Kuechler",
+    "Mr. Urcinola",
+    "Maria Rivera",
+    "Alphonso E. Marshall"
+  ],
+  "sender": "[RESTRICTED]"
+}

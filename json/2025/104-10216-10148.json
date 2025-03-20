@@ -1,0 +1,38 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security": "This operational plan details a covert mission inside Cuba, including infiltration methods, agent contacts, and communication protocols, which could expose intelligence sources and methods if revealed. Quoting the document: 'The AMTRUNK Intermediate Craft will be towed by the KUBARK mother craft to the DRP at coordinates 221668, AMS Sheet 4085 IV (23° 14' 00\" N and 80° 47' 00\" W, H. O. 2624).'",
+  "security_level": "SECRET",
+  "summary": "This dispatch transmits the operational plan for ANTRUNK VII, a mission to infiltrate a five-man team into northern Matanzas Province, Cuba, on February 7, 1964, with the aim of contacting agents, recruiting dissidents, and caching equipment in Havana before exfiltration on February 17.",
+  "summary_one_paragraph": "The dispatch BFGM-13707, dated January 28, 1964, from the Chief of Station, JEWAVE, to the Chief of Special Affairs Staff, transmits the ANTRUNK VII operational plan for approval. The mission involves a five-man team infiltrating northern Matanzas Province on February 7, 1964, and exfiltrating on February 17. AMICE-14 and ANTRUNK-13 are tasked with proceeding to Havana to achieve MHAPRON objectives, including contacting AMTRUNK-10 to recruit dissidents within the Cuban military, obtaining operational information, recruiting FAR Captain Jose Alberto SEMIDEY Isalgue, and establishing a clandestine radio set. The team will use an intermediate craft towed by a KUBARK mother craft for infiltration and rely on local contacts for transportation to Havana.",
+  "tags": [
+    "CIA",
+    "ANTRUNK VII",
+    "MHAPRON",
+    "Cuba",
+    "Covert Operation",
+    "JM/WAVE",
+    "Recruitment",
+    "Infiltration",
+    "Exfiltration",
+    "KUBARK"
+  ],
+  "title": "TYPIC/Operational ABSTRACT: Transmittal of Operational Plan for ANTEUHK VII",
+  "date": "1964-01-28",
+  "locations_mentioned": [
+    "Matanzas Province, Cuba",
+    "Havana, Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AMICE-14",
+    "ANTRUNK-13",
+    "ANTRUNK-10",
+    "Jose Alberto SEMIDEY Isalgue",
+    "Fidel Castro",
+    "Raul Castro",
+    "Commandante Rene de los SANTOS Ponce"
+  ],
+  "recipient": "Chief, Special Affairs Staff",
+  "sender": "Chief of Station, JEWAVE"
+}

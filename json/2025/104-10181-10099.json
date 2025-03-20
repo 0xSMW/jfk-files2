@@ -1,0 +1,41 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security": "This document reveals operational methods for contacting and potentially recruiting individuals ('AMAUTO-1'), including elaborate scenarios designed to engineer chance encounters and manage suspicion. It also mentions using personal relationships and weaknesses (e.g., psychiatric treatment, homosexuality) for intelligence purposes. Sharing these details could compromise ongoing operations, expose intelligence-gathering techniques, and harm relationships with individuals and foreign entities. Quoting directly: 'PLS DETERMINE ASAP PHYSICAL DESCRIPTION AND OCCUPATION OF MANUEL (VIGOS) PIREZ…' and '...SAMKO WOULD GO DIRECTLY TO AMAUTO-1'S PRIVATE RESIDENCE. HIS EXCUSE WILL BE…'",
+  "security_level": "SECRET",
+  "summary": "A collection of CIA cables from May 1970 discussing attempts to approach and potentially recruit 'AMAUTO-1' through various means, including using a cousin, Manuel (Vigos) Perez, and staging a chance encounter via a tourist trip by 'SAMKO' to Madrid.",
+  "summary_one_paragraph": "These CIA cables from May 1970 detail efforts to approach 'AMAUTO-1,' an individual of interest, through multiple strategies. One approach involves gathering information on Manuel (Vigos) Perez, AMAUTO-1's cousin, who resides in Los Angeles and has received psychiatric treatment. Another plan focuses on dispatching 'SAMKO' to Madrid, staging a chance meeting, and exploiting a past relationship. The cables outline specific scenarios for SAMKO's encounter, including providing excuses for contacting AMAUTO-1 at his residence and managing potential suspicions. The overall goal appears to be establishing a rapport that could lead to AMAUTO-1's recruitment, with consideration given to his planned trip to Havana.",
+  "tags": [
+    "CIA",
+    "AMAUTO-1",
+    "Recruitment",
+    "Madrid",
+    "Manuel (Vigos) Perez",
+    "SAMKO",
+    "Operations",
+    "Contingency Plan"
+  ],
+  "title": "Cables Regarding Approach to AMAUTO-1",
+  "date": "1970-05",
+  "locations_mentioned": [
+    "Los Angeles",
+    "Miami",
+    "Madrid",
+    "Spain",
+    "Havana",
+    "Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Manuel (Vigos) Perez",
+    "AMAUTO-1",
+    "SAMKO",
+    "Mercedes (Galicia) Dobarros",
+    "Horacio Fuentes Martinez",
+    "Guillermo Ruiz",
+    "Maximo Torres",
+    "Roberto Franco Oliva"
+  ],
+  "recipient": "DIRECTOR, MADRID",
+  "sender": "WH/MIAMI"
+}

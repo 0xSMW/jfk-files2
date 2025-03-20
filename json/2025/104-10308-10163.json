@@ -1,0 +1,47 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "This document reveals the CIA's coordination with the FBI to use informants to penetrate Communist organizations and gather intelligence on Cuba. It details the briefing of an FBI informant, Victor Thomas Vicente, including his contacts, planned activities, and specific intelligence requirements related to Soviet and Cuban agreements, militia demobilization, and Communist Party dynamics. Disclosing these details could compromise ongoing intelligence operations, expose sources and methods, and damage relationships with cooperating agencies. For instance, the memorandum states: 'I referred to our memorandum to his headquarters indicating that the Agency had a world-wide program to send controlled CP and front penetrations on missions to Cuba...'",
+  "security_level": "SECRET",
+  "summary": "A memorandum detailing the briefing of an FBI informant, Victor Thomas Vicente, by a CIA officer prior to his trip to Cuba to gather intelligence on Cuban-Soviet relations, the Cuban military, and Communist activities.",
+  "summary_one_paragraph": "This secret memorandum, dated July 10, 1963, outlines a briefing conducted by CIA officer Louis De Santi for FBI informant Victor Thomas Vicente, a Puerto Rican American, before Vicente's planned trip to Cuba. Vicente, who had infiltrated pro-Castro organizations in New York City, was tasked to gather intelligence on Cuban-Soviet agreements, the demobilization of the militia, the presence of Soviet troops and missiles, and the activities of the Communist Party. The memo details Vicente's contacts, including milicianos and potential meetings with Robert Williams, as well as arrangements made through the Cuban UN delegation and the Fair Play for Cuba Committee, and the CIA's coordination with the FBI to facilitate the mission.",
+  "tags": [
+    "CIA",
+    "FBI",
+    "Informant",
+    "Cuba",
+    "Intelligence Gathering",
+    "AMSANTA Project",
+    "Victor Thomas Vicente",
+    "Fair Play for Cuba Committee",
+    "Communist Party",
+    "Soviet Union"
+  ],
+  "title": "Requirements Briefing to FBI Informant Going to Cuba",
+  "date": "1963-07-10",
+  "locations_mentioned": [
+    "Cuba",
+    "New York City",
+    "Mexico City",
+    "Havana",
+    "Santiago, Oriente Province"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Victor Thomas Vicente",
+    "Dale Schwant",
+    "Raul Primellas",
+    "Vicent Theodore Lee",
+    "Carlos Rafael Rodriguez",
+    "Robert Williams",
+    "Louis De Santi",
+    "Henry Kitchens",
+    "Antia Potocki",
+    "Rodriguez",
+    "Fidel Castro",
+    "Che Guevara",
+    "Khrushchev"
+  ],
+  "recipient": "Record",
+  "sender": "Louis De Santi"
+}

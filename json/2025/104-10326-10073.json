@@ -1,0 +1,36 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security": "Revealing the identities and roles of individuals involved in covert communication programs (COVCOM) could expose them to risk. Additionally, the cable discusses the use of an E-mail account for sensitive field asset communications, potentially compromising operational security. Quoting: \"...using his E-MAIL account and the SUB-ACCOUNT (IDEN) specifically reserved for NWBOLTON with a sensitive field asset as originally planned...\"",
+  "security_level": "SECRET",
+  "summary": "A SECRET cable discusses the use of LPAVERT's president as an E-mail cover provider, revealing concerns about his views on NWBOLTON's involvement in President Kennedy's assassination and Chile's Allende's ouster. Due to these concerns, EUR changed its plans for his use in sensitive communications.",
+  "summary_one_paragraph": "This SECRET cable, dated August 22, 1995, from LIMIT to STAMFORD and NEWARK, addresses the use of LPAVERT's president (referred to as SUBJ) in the EUR Division's E-mail COVCOM program. After an ops meeting, SUBJ expressed to MACDONALD E. ZAPPLEY his belief in NWBOLTON's involvement in President Kennedy's assassination and Allende's death. Due to these views, EUR has decided to limit SUBJ's involvement to less sensitive applications, maintaining his E-mail account for a year as stipulated in the contract, and Newark Station will handle his accountings. The cable also expresses gratitude for OCC/CRG, Stamford Station, and C/O Jenson for their support.",
+  "tags": [
+    "EUR/PLANS",
+    "LPAVERT",
+    "E-mail COVCOM",
+    "NWBOLTON",
+    "President Kennedy Assassination",
+    "Allende",
+    "Operations",
+    "RYBAT",
+    "FASTTRACK",
+    "LPAVERT"
+  ],
+  "title": "LPAVERT Principal as E-Mail Cover Provider",
+  "date": "1995-08-22",
+  "locations_mentioned": [
+    "New Jersey"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "President of LPAVERT (SUBJ)",
+    "MACDONALD E. ZAPPLEY",
+    "President Kennedy",
+    "Allende",
+    "NWBOLTON",
+    "JENSON"
+  ],
+  "recipient": "STAMFORD, NEWARK",
+  "sender": "LIMIT"
+}

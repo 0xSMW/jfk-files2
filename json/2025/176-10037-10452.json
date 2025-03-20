@@ -1,0 +1,37 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Telegram Information Report",
+  "security": "This document contains information about potential military coups, intelligence gathering methods, and informant reliability, the revelation of which could compromise sources and methods. Quoting directly: 'This material contains Information affecting the National Defense of the United States within the meaning of the Espionage Laws Title 18, U.S.C. Secs. 793 and 794, the transmission or revelation of which in any manner to an unauthorized person is prohibited by law.'",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "A CIA information report relays warnings of a possible coup d'état against President Diem of South Vietnam, along with intelligence regarding potential involvement from senior ARVN officers and communist forces.",
+  "summary_one_paragraph": "This CIA telegram, dated August 1, 1962, conveys intelligence regarding a possible coup d'état against South Vietnamese President Ngo Dinh Diem, potentially occurring on the night of August 1-2. The report cites Lieutenant Colonel Nguyen Van Chau and Major Long as sources, indicating that senior ARVN officers, potentially led by Major General Duong Van Minh, and possibly Brigadier General Mai Huu Xuan, are involved. It also mentions intercepted VC communications suggesting a planned uprising, and includes field commentary questioning the reliability of certain intercepted messages and VC intentions, while noting reinforced security measures around Diem.",
+  "tags": [
+    "CIA",
+    "Coup D'état",
+    "Ngo Dinh Diem",
+    "South Vietnam",
+    "ARVN",
+    "VC",
+    "Duong Van Minh",
+    "Mai Huu Xuan",
+    "TDCS DB-3/650,938",
+    "NOFORN",
+    "JFK Assassination Records Act"
+  ],
+  "title": "Information Report Re: Views",
+  "date": "1962-08-01",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon",
+    "Cholon",
+    "Chau Hiep"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ngo Dinh Diem",
+    "Nguyen Van Chau",
+    "Duong Van Minh",
+    "Mai Huu Xuan",
+    "Long"
+  ]
+}

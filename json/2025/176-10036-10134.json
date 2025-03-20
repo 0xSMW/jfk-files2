@@ -1,0 +1,39 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Telegram Information Report",
+  "security": "This document reveals sensitive intelligence regarding potential coup d'état planning in South Vietnam. Specifically, it mentions individuals involved in the planning, their roles, and the timing of the potential coup. Disclosing this information could compromise intelligence sources, disrupt ongoing operations, and damage relationships with individuals and governments involved. Quoting: \"THE MOVE TO OUST THE NGO FAMILY FROM POWER WAS SCHEDULED FOR THE WEEK BEGINNING 22 SEPTEMBER 1963...\"",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A CIA telegram reports on a potential coup d'état in South Vietnam scheduled for the week of September 22, 1963, involving Pham Ngoc Thao, Generals Duong Van Minh and Le Van Kim, and Brigadier General Nguyen Khanh.",
+  "summary_one_paragraph": "This confidential CIA telegram, dated September 21, 1963, reports on a potential coup d'état in South Vietnam set to begin the week of September 22, 1963. According to sources, including Nguyen Huu Duong and Nguyen Ngoc Linh, Lieutenant Colonel Pham Ngoc Thao was planning to launch a move in Saigon, while Brigadier General Nguyen Khanh would move on Hue. Generals Duong Van Minh and Le Van Kim were also reportedly involved in the plans to oust the Ngo family from power.",
+  "tags": [
+    "CIA",
+    "Telegram",
+    "Coup d'état",
+    "South Vietnam",
+    "Pham Ngoc Thao",
+    "Duong Van Minh",
+    "Le Van Kim",
+    "Nguyen Khanh",
+    "Ngo Dinh Nhu",
+    "Warren Commission",
+    "FOIA"
+  ],
+  "title": "CIA Information Telegram",
+  "date": "1963-09-21",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon",
+    "Hue"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Pham Ngoc Thao",
+    "Nguyen Huu Duong",
+    "Duong Van Minh",
+    "Le Van Kim",
+    "Ngo Dinh Nhu",
+    "Huynh Van Lang",
+    "Nguyen Khanh",
+    "Nguyen Ngoc Linh"
+  ]
+}

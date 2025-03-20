@@ -1,0 +1,37 @@
+{
+  "classification": "Liaison",
+  "document_type": "Message",
+  "security": "This message discusses the House Select Committee on Assassinations' (HSCA) investigation into the assassinations of President Kennedy and Dr. Martin Luther King. It highlights the CIA's cooperation with the committee, including allowing access to Directorate records after sanitization for sources and methods. It also expresses a preference for overt handling of certain aspects of the investigation by LEGATTS or others who can be publicly identified. Revealing these preferences could compromise ongoing relationships and methods. Quoting directly: \"RTACTION is cooperating fully with Blakey and Committee including allowing them access to Directorate records, after suitable sanitization for sources and methods. However believe Committee's efforts to interview police and witnesses and resulting useful information obtained, if any, is largely overt function which can best be handled by Legatts or others who would also be in a position to be publicly quoted or identified if necessary.\"",
+  "security_level": "SECRET",
+  "summary": "A message regarding the U.S. House of Representatives Select Committee on Assassinations' investigation into the assassinations of President Kennedy and Dr. Martin Luther King, focusing on James Earl Ray's potential leads in Portugal, the UK, and Mexico.",
+  "summary_one_paragraph": "This message relays information about the U.S. House of Representatives Select Committee on Assassinations (HSCA) investigation, led by G. Robert Blakey, into the assassinations of President Kennedy and Dr. Martin Luther King. The HSCA is pursuing leads related to James Earl Ray in Portugal, the UK, and Mexico, based on Ray's brief presence in Lisbon in May 1968. The message emphasizes the CIA's full cooperation with the committee, including access to records, while suggesting overt functions like interviewing police and witnesses should be handled by LEGATTS or publicly identifiable individuals. It advises stations to provide embassies with advice but to avoid direct involvement of station officers in negotiations unless unavoidable, in which case Headquarters should be notified.",
+  "tags": [
+    "House Select Committee on Assassinations",
+    "James Earl Ray",
+    "Martin Luther King assassination",
+    "JFK assassination",
+    "Portugal",
+    "UK",
+    "Mexico",
+    "CIA cooperation",
+    "HSCA",
+    "LEGATTS"
+  ],
+  "title": "U.S. House of Representatives Select Committee on Assassinations Investigation",
+  "date": "1977-11-04",
+  "locations_mentioned": [
+    "Portugal",
+    "UK",
+    "Mexico",
+    "Lisbon"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "James Earl Ray",
+    "G. Robert Blakey",
+    "President Kennedy",
+    "Dr. Martin Luther King"
+  ],
+  "recipient": "Lisbon, London, Mexico City",
+  "sender": "Director"
+}

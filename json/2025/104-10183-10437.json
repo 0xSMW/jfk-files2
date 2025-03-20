@@ -1,0 +1,38 @@
+{
+  "classification": "Operations",
+  "document_type": "Memorandum",
+  "security": "Revealing the identities and operational roles of AMBUNNY-1 and AMWHIP-1, along with their specific concerns about the risks of AMBUNNY-1's background being discovered by the Cubans, could compromise ongoing intelligence operations. The document mentions: \"if it were discovered that AMBUNNY-1 was a penetration of the UNSNAFU-19 office (by the Cubans) his connection with ODYOKE would then be revealed, with the result that all his 'connections' with UNSNAFU-19, and 'Habana' would be lost.\"",
+  "security_level": "SECRET",
+  "summary": "A memorandum details a meeting between AMBUNNY-1, AMWHIP-1, and DAMICONE (alias AL MARIN) regarding concerns about AMBUNNY-1's background potentially compromising a planned operation. AMWHIP-1 suggests using a cutout to introduce AMBUNNY-1 to UNSNAFU-19, and a planned Paris operation is canceled, with AMBUNNY-1 possibly being utilized in Rabat instead.",
+  "summary_one_paragraph": "This memorandum, dated June 2, 1965, documents a meeting convened on May 25, 1965, between AMBUNNY-1, AMWHIP-1, and Norris W. Damicone (using the alias AL MARIN) at AMWHIP-1's New York office. The discussion centered on AMWHIP-1's reservations about AMBUNNY-1's background, particularly her previous employment with the U.S. Ambassador in Bolivia, which he feared could expose his connections with ODYOKE and UNSNAFU-19 to Cuban intelligence. AMWHIP-1 proposed using a cutout to mitigate this risk, while a planned operation in Paris was canceled due to AMWHIP-1’s unavailability; AMBUNNY-1 may be reassigned to Rabat.",
+  "tags": [
+    "CIA",
+    "AMBUNNY-1",
+    "AMWHIP-1",
+    "DAMICONE",
+    "UNSNAFU-19",
+    "ODYOKE",
+    "Cutout",
+    "Operations",
+    "Cuba",
+    "Counterintelligence"
+  ],
+  "title": "Meeting with AMBUNNY-1 and AMWHIP-1",
+  "date": "1965-06-02",
+  "locations_mentioned": [
+    "New York, N.Y.",
+    "Bolivia",
+    "Paris",
+    "Rabat"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "AMBUNNY-1",
+    "AMWHIP-1",
+    "Norris W. Damicone",
+    "Al Marin",
+    "DI UBALDO"
+  ],
+  "recipient": "ATT/CHIF/1",
+  "sender": "Norris W. Damicone"
+}

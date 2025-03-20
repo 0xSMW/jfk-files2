@@ -1,0 +1,27 @@
+{
+  "classification": "Operations",
+  "document_type": "Cover Arrangement Memorandum",
+  "security": "Revealing the existence of Roberts Electronic and Engineering Service as a 'devised cover firm' and its methods of operation (providing consulting services, bank transfers, and tax form handling) could compromise ongoing or future intelligence operations. Quoting directly: 'Roberts Electronic and Engineering Service, a devised cover firm engaged in providing consulting services...This is a fully backstopped cover device which will list Subject as one of its employees...'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memorandum detailing a cover arrangement for an individual ('Subject') using Roberts Electronic and Engineering Service, a cover firm, to provide employment and a source of income while masking the individual's true affiliation.",
+  "summary_one_paragraph": "The memorandum outlines a cover story for 'Subject' who will be employed by Roberts Electronic and Engineering Service, a devised cover firm, as a consultant in the Southeastern United States starting November 1, 1981. The memo explains that Roberts Electronic and Engineering Service will provide employment and credit references, with payments made via bank transfer; it also instructs 'Subject' on how to handle taxes as an independent contractor to maintain the cover. Headquarters is to be notified when the cover arrangement is no longer required to ensure proper backstopping.",
+  "tags": [
+    "Covert Operation",
+    "Cover Arrangement",
+    "False Flag",
+    "Roberts Electronic and Engineering Service",
+    "Backstopping"
+  ],
+  "title": "Cover for Subject",
+  "date": "1981-02-17",
+  "locations_mentioned": [
+    "Baltimore, Maryland",
+    "Southeastern United States"
+  ],
+  "origin_agency": "Unknown",
+  "persons_mentioned": [
+    "Subject"
+  ],
+  "recipient": "Unknown",
+  "sender": "GIPN"
+}

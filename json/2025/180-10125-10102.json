@@ -1,0 +1,21 @@
+{
+  "classification": "Administrative",
+  "document_type": "Report",
+  "security": "Releasing specific salary information and employee data could potentially expose personal information about individuals working on the Select Committee, which might create security vulnerabilities.",
+  "security_level": "Unclassified",
+  "summary": "This is a U.S. House of Representatives payroll certification report for the Select Committee on Assassinations, detailing employee names, positions, social security numbers, salaries, and pay periods for May 1977.",
+  "summary_one_paragraph": "The U.S. House of Representatives Financial Management System generated a payroll certification report for the Select Committee on Assassinations, covering the accounting period from May 1, 1977, to May 31, 1977. The report (ID D01.00.00) lists employees, their positions, social security numbers, annual salaries, gross pay, and pay periods, along with any relevant remarks such as pay rate changes, appointments, or terminations. The report specifies an allowance amount of $150,000.00 under Appropriation Code H Res 1557 and sets salary limits between $1,200.00 and $47,500.00, noting a maximum authorized number of 999 employees.",
+  "tags": [
+    "Payroll",
+    "US House of Representatives",
+    "Select Committee on Assassinations",
+    "Financial Management System",
+    "HR",
+    "Personnel"
+  ],
+  "title": "Payroll Certification",
+  "date": "1977-06-02",
+  "origin_agency": "U.S. House of Representatives Financial Management System",
+  "recipient": "Select Committee on Assassinations",
+  "sender": "U.S. House of Representatives Financial Management System (Report ID D01.00.00)"
+}

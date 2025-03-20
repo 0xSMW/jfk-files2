@@ -1,0 +1,16 @@
+{
+  "classification": "Personnel",
+  "document_type": "Request for Personnel Action",
+  "security": "This is a standard personnel action form and contains no sensitive information. Therefore, there are no security concerns.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a blank Request for Personnel Action form (Form 1152) used for recording changes in personnel assignments or status.",
+  "summary_one_paragraph": "This is a blank United States government Request for Personnel Action form (FORM NO. 1152, dated 1 MAR 57). The form includes fields for recording information such as name, date of birth, previous assignment details (organizational designations, location, position title, position number, grade, and salary), present assignment details, source of the request, and clearances. It is designed to document changes in an individual's personnel record.",
+  "tags": [
+    "Personnel Action",
+    "Form 1152",
+    "Personnel Record",
+    "Administrative"
+  ],
+  "title": "Request for Personnel Action",
+  "date": "1957-03-01"
+}

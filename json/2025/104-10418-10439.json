@@ -1,0 +1,16 @@
+{
+  "classification": "Administrative",
+  "document_type": "Field Distribution",
+  "security": "This document's content is primarily administrative, consisting of distribution lists across various global divisions and stations. Disclosing this information could reveal the breadth of CIA's operational reach and specific locations of its field offices and personnel, potentially compromising security protocols and endangering staff. It also identifies specific personnel with certain divisions. \"FIELD DISTRIBUTION - BD #5847\".",
+  "security_level": "SECRET",
+  "summary": "This document is a distribution list outlining the routing of a message to various CIA field offices and headquarters divisions worldwide.",
+  "summary_one_paragraph": "This SECRET document, labeled \"FIELD DISTRIBUTION - BD #5847,\" outlines the distribution list for a message across the CIA's global network. It specifies various AF, FE, EUR, WH, and NE division offices and stations, including locations in Africa, Europe, the Far East, the Western Hemisphere, and the Near East. Additionally, it details distribution within the CIA headquarters, listing specific staff and offices within the CA, AF, FE, C/CO, SB, DO, CI/R&A, EUR, NE, and WH divisions, indicating the message's intended reach across different operational and geographic areas.",
+  "tags": [
+    "CIA",
+    "Distribution List",
+    "Field Offices",
+    "Headquarters Divisions",
+    "Administrative"
+  ],
+  "title": "Field and HQS Distribution - BD #5847"
+}

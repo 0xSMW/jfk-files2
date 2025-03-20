@@ -1,0 +1,28 @@
+{
+  "classification": "Intelligence",
+  "document_type": "Intelligence Checklist",
+  "security": "This document contains information that could compromise intelligence sources and methods. Directly quoting from the document: \"Includes INTERCEPTS\". Unauthorized disclosure of intercepted communications reveals specific intelligence gathering capabilities which would likely compromise future operations. Also, revealing the names of the countries mentioned in the president's brief and their individual situations could be dangerous to national security.",
+  "security_level": "TOP SECRET",
+  "summary": "This is a CIA intelligence checklist for the President, dated November 28, 1963, covering various global hotspots, including Venezuela, South Vietnam, Israel, USSR-India, Burma, Cambodia, Greece and Brazil. It also includes notes on USSR, Rumania-US, Turkey, Thailand, Indonesia-Philippines, Indonesia, Rwanda-Burundi, USSR-Congo.",
+  "summary_one_paragraph": "This Top Secret intelligence checklist, issued by the CIA on November 28, 1963, provides President Johnson with updates on critical global situations. It details terrorist activity in Venezuela, Viet Cong attacks in South Vietnam, Israel's missile development program, Soviet military aid to India, political unrest in Burma, Cambodia's relations with Communist China, political instability in Greece, and tensions in Brazil. Additional notes cover topics like a failed Soviet satellite launch, a US-Rumanian steel plant contract, the collapse of the coalition government in Turkey, the critical condition of Thailand's Prime Minister, diplomatic communications link between Moscow and Leopoldville shutdown, and diplomatic and political issues involving Indonesia, Philippines, and Rwanda-Burundi.",
+  "tags": [
+    "Intelligence Report",
+    "CIA",
+    "Venezuela",
+    "South Vietnam",
+    "Israel",
+    "USSR",
+    "India",
+    "Burma",
+    "Cambodia",
+    "Greece",
+    "Brazil",
+    "Cold War",
+    "National Security"
+  ],
+  "title": "The President's Intelligence Checklist",
+  "date": "1963-11-28",
+  "origin_agency": "CIA",
+  "recipient": "President Lyndon B. Johnson",
+  "sender": "Central Intelligence Agency (CIA, assumed)"
+}

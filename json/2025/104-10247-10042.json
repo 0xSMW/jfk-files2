@@ -1,0 +1,44 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Disclosing the identities of sources, such as WODISH, and revealing operational methods like using embassy cover for interviews (QUETCH) could compromise intelligence gathering and endanger individuals.  Quoting directly: \"AT HQS REQUEST WODISH CONTACTED 'BROTHER-IN-LAW'... EITHER THROUGH (QUETCH OR STATION OFFICER USING(EMBASSY COVER) ATTEMPT ARRANGE ROUTINE INTERVIEW\".",
+  "security_level": "SECRET",
+  "summary": "A CIA cable discusses information obtained from WODISH regarding Felix Suarez, who defected from Cuba with assistance from Comandante Ramon Guin, and requests Madrid station to attempt an interview with Margarita Arenal to ascertain Guin's current status and intentions.",
+  "summary_one_paragraph": "This SECRET cable, dated May 9, 1969, relays information from the WODISH source regarding Felix Suarez's defection from Cuba, assisted by Comandante Ramon Guin. Suarez, previously employed with the Ministry of Industry doing computer compilation of military and industrial figures, is reported to have a son in Denver and is seeking entry into the U.S. The cable requests the Madrid station to arrange a routine interview with Margarita Arenal, Guin’s wife, to ascertain Guin’s current status and intentions, particularly to understand how he is apparently out of jail despite a prior sentence.",
+  "tags": [
+    "CIA",
+    "WODISH",
+    "Felix Suarez",
+    "Ramon Guin Diaz",
+    "Defection",
+    "Cuba",
+    "Madrid",
+    "Mexico City",
+    "Margarita Arenal",
+    "Guin Diaz"
+  ],
+  "title": "AMCHALK",
+  "date": "1969-05-09",
+  "locations_mentioned": [
+    "Madrid",
+    "Mexico City",
+    "Cuba",
+    "Denver",
+    "Los Angeles",
+    "Spain"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John Sears",
+    "Martin Pella",
+    "Felix Suarez",
+    "Ramon Guin",
+    "Ramon Tomas Guin Diaz",
+    "Margarita Maria Emilia (Arenal) Vega",
+    "Daisy (LNU)",
+    "Vicente Arenal",
+    "Senator Dominick"
+  ],
+  "recipient": "Madrid, Mexico City, WH/Miami",
+  "sender": "Cable Secretariat"
+}

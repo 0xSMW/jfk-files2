@@ -1,0 +1,30 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "This cable contains coded agent communications, including details about ongoing operations, potential contacts, and logistics. Disclosing such information could compromise active agents, expose operational methods, and reveal sensitive information about covert activities. Specifically, mentioning names like 'Jorge Gutierrez' and details about shipments like 'BARCO KUSSO KRASNOYE ZNANYA' could endanger individuals and operations.",
+  "security_level": "SECRET",
+  "summary": "A JMWAVE cable relays agent communications regarding received materials, planned shipments of supplies, potential use of a contact named Jorge Gutierrez, and information requests related to a Russian ship arriving in Havana.",
+  "summary_one_paragraph": "This secret cable from JMWAVE to the Director relays an agent's message acknowledging receipt of items and information, mentioning future shipments of supplies via Enrique Vincente Socorras, and discussing the potential use of Jorge Gutierrez (possibly named Gutierrez Morales) as a contact. The agent seeks information on the Russian ship KRASNOYE ZNAMYA arriving in Havana, including cargo details, descriptions of disembarking Russians, and information about anyone with a boat near Bahia Honda.",
+  "tags": [
+    "JMWAVE",
+    "Agent Communication",
+    "Covert Operations",
+    "Cuba",
+    "Supply Shipment",
+    "KRASNOYE ZNAMYA",
+    "Bahia Honda"
+  ],
+  "title": "JMWAVE Cable: Agent Communication Regarding Supplies and Shipments",
+  "date": "1963-12-09",
+  "locations_mentioned": [
+    "Havana",
+    "Bahia Honda"
+  ],
+  "origin_agency": "JMWAVE",
+  "persons_mentioned": [
+    "Jorge Gutierrez",
+    "Enrique Vincente Socorras"
+  ],
+  "recipient": "Director",
+  "sender": "JMWAVE"
+}

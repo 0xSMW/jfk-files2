@@ -1,0 +1,28 @@
+{
+  "classification": "Cuba",
+  "document_type": "Message",
+  "security": "Revealing code names and intelligence priorities concerning specific individuals in Cuba could compromise ongoing or future intelligence operations and endanger the safety of those individuals. Directly quoting from the document, \"POR CRAFTED AMBARO, UIRERA VALDES, MORFFI MACHADO, ROS PEREZ, AND FERNANDEZ BETANCOURT 05-(home)\" and \"REQUEST BIOG DATA FOR POA ON JUAN ESTEVEZ RAMIROS\" indicates active intelligence interests.",
+  "security_level": "SECRET",
+  "summary": "A message from the Director to JHASH HAVARA requesting biographical data on Juan Estevez Ramiros and providing information on other individuals.",
+  "summary_one_paragraph": "This secret message, dated October 28, 1960, is from the Director to JHASH HAVARA. It relays crafted information about individuals named AMBARO, UIRERA VALDES, MORFFI MACHADO, ROS PEREZ, and FERNANDEZ BETANCOURT, specifying '05-(home)' for each. The primary purpose of the message is to request biographical data for POA (Proof of Activity) on Juan Estevez Ramiros, noting that existing data is insufficient.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "HAVARA",
+    "Biographical Data",
+    "Intelligence",
+    "Personnel"
+  ],
+  "title": "Message Regarding Individuals in Cuba",
+  "date": "1960-10-28",
+  "persons_mentioned": [
+    "AMBARO",
+    "UIRERA VALDES",
+    "MORFFI MACHADO",
+    "ROS PEREZ",
+    "FERNANDEZ BETANCOURT",
+    "Juan Estevez Ramiros"
+  ],
+  "recipient": "JHASH HAVARA",
+  "sender": "Director"
+}

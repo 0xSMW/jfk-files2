@@ -1,0 +1,34 @@
+{
+  "classification": "Security",
+  "document_type": "Cable",
+  "security": "This cable discusses potential intelligence sources and methods, including access to Cuban intelligence on CIA activities. It also mentions internal disagreements within the intelligence community regarding the publication of sensitive information, specifically criticizing John Marks for publishing \"How to Spot a Spook\". Revealing these details could compromise sources, methods, and internal assessments of security breaches. Quoting: 'SAID SHE WAS PAID SALARY AND HAD CAR AND CHAUFFEUR AT HER DISPOSAL... THEY NOW CONSIDER HIM TRAINTOR.'",
+  "security_level": "SECRET",
+  "summary": "A cable reports that Nicky Szulc, while in Madrid, claimed to have worked for the MINREX counter-intelligence section in Cuba and had access to Cuban intelligence on CIA activities, and that Szulc also worked closely with Philip Agee on his book, and that both Szulc and Agee consider John Marks a traitor.",
+  "summary_one_paragraph": "This SECRET cable, sent from Madrid on February 18, 1976, reports that Nicky Szulc is still in Madrid as of February 17. Szulc told QUCOMUMN/1 that she has been to Cuba three times, most recently during an international women's conference, where she claimed to be working as an advisor for the MINREX counter-intelligence section. Szulc said the Cubans gave her access to all information they had on CIA activities around the world, and that she was paid a salary and provided with a car and chauffeur. Szulc also stated that she worked closely with Philip Agee on the preparation of his book and that she, Weissman, and Agee are very angry with John Marks for publishing \"How to Spot a Spook,\" considering him a traitor for alerting the CIA to change its tactics.",
+  "tags": [
+    "CIA",
+    "Nicky Szulc",
+    "Philip Agee",
+    "John Marks",
+    "Cuba",
+    "MINREX",
+    "Counter-Intelligence",
+    "Compromised Sources",
+    "Security Breach"
+  ],
+  "title": "Report on Nicky Szulc's Activities and Allegations of Working with Cuban Intelligence",
+  "date": "1976-02-18",
+  "locations_mentioned": [
+    "Madrid",
+    "Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Nicky Szulc",
+    "Philip Agee",
+    "John Marks",
+    "Weissman"
+  ],
+  "recipient": "Director",
+  "sender": "MADRID"
+}

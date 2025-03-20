@@ -1,0 +1,30 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security": "Revealing operational code names and planned discussions with British intelligence could compromise ongoing operations and intelligence-sharing agreements. \"Attached hereto is a copy of a rundown of the A 7 case prepared in SR/3/FI on 18 April 1960 for discussions with the British.\"",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This memo discusses upcoming discussions with the British regarding the \"A 7 case\" and a separate incident involving an American correspondent in Brussels and Moscow.",
+  "summary_one_paragraph": "The document outlines a plan to discuss the \"A 7 case\" with British intelligence, using a rundown prepared by SR/3/FI as a basis, with discussions slated to begin after April 19, 1960. It also references an incident involving an American correspondent who had anti-Soviet sympathies and her contact with the subject in Brussels and Moscow, leading to concerns about potential compromise and prompting the CIA to advise the subject to avoid her.",
+  "tags": [
+    "CIA",
+    "British Intelligence",
+    "A 7 case",
+    "SR/3/FI",
+    "American Correspondent",
+    "Brussels",
+    "Moscow",
+    "Anti-Soviet"
+  ],
+  "title": "Discussions with the British and Incident with American Correspondent",
+  "date": "1960-04-18",
+  "locations_mentioned": [
+    "Brussels",
+    "Moscow"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Subject (unnamed American)",
+    "American Woman Correspondent"
+  ],
+  "recipient": "CIA"
+}

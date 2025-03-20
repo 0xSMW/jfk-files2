@@ -1,0 +1,18 @@
+{
+  "classification": "Administrative",
+  "document_type": "Record Material Tracking Form",
+  "security": "This document is a record material tracking form, indicating its charged status and required return to IP/Archives. Sharing this could reveal internal record-keeping procedures.",
+  "security_level": "SECRET",
+  "summary": "This is a record tracking form documenting the location and status of a classified document, specifying its return instructions and assigned control numbers.",
+  "summary_one_paragraph": "A record material tracking form indicating that a SECRET document, related to 'Unidad Revolucionario Part VI' and spanning from January 1967 through February 1968, has been charged out. The form provides instructions for its return to IP/Archives, specifies the record center job number, space number, file number, folder number, and box number, and indicates that the document should be returned immediately after use to the Records Center.",
+  "tags": [
+    "Record Tracking",
+    "Administrative",
+    "Archives",
+    "Document Control",
+    "FOIA"
+  ],
+  "title": "Record Material Tracking Form",
+  "date": "1967-01-01",
+  "origin_agency": "IP/Archives"
+}

@@ -1,0 +1,28 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Disclosing the CIA's intent to surface evidence of Castro's financing of terrorist and pro-Cuban acts, even indirectly, could compromise intelligence operations and sources, as well as damage international relations by revealing covert influence attempts.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A cable discussing a plan to publicize evidence of Castro's alleged financing of terrorist and pro-Cuban activities, with instructions to proceed discreetly and avoid direct attribution to U.S. sources.",
+  "summary_one_paragraph": "This unclassified cable outlines a plan to disseminate information regarding alleged Cuban financing of terrorist and pro-Cuban activities. The cable instructs recipients, including stations in CARA, HARA, NAVE, DODS, MAKI, LIMA, PACY, GUAT, RIOD, SAMO, LAPA and SANJ, to consider surfacing any such evidence. The directive specifies that the actions should be subtle, avoiding direct or indirect overtures to local officials or media to maintain plausible deniability.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Castro",
+    "Terrorism",
+    "Propaganda",
+    "Disinformation"
+  ],
+  "title": "Action related to surfacing evidence of Castro financing terrorist acts",
+  "date": "1964",
+  "locations_mentioned": [
+    "Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Castro",
+    "Unatthieu"
+  ],
+  "recipient": "CARA, HARA, NAVE, DODS, MAKI, LIMA, PACY, GUAT, RIOD, SAMO, LAPA, SANJ",
+  "sender": "Director"
+}

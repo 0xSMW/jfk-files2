@@ -1,0 +1,23 @@
+{
+  "classification": "Administrative",
+  "document_type": "Classified Message",
+  "security": "Releasing the details of coded communications, such as 'GYROSE' and 'RICD 8317,' could compromise intelligence operations by revealing code words or communication channels. The reference to a specific embassy contact also presents a security concern. Sharing internal message handling details could provide adversaries with insights into CIA operational procedures.",
+  "security_level": "SECRET",
+  "summary": "A brief classified message, dated August 25, 1962, concerning an individual identified as AN VIO L. NEVES, who is associated with the American Embassy in an unspecified location. The message is routed to WAVE and DIR, citing RICD 8317 and includes the codename GYROSE.",
+  "summary_one_paragraph": "This is a SECRET classified message dated August 25, 1962, indicating an action request related to an individual named AN VIO L. NEVES, who is connected to the American Embassy (APO 676) according to the message. Addressed to WAVE and DIR, citing RICD 8317, the message uses the codename GYROSE for internal tracking and operational purposes, as inferred by the reference to \"REF RICD 8316.\"",
+  "tags": [
+    "Classified Message",
+    "AN VIO L. NEVES",
+    "American Embassy",
+    "GYROSE",
+    "RICD 8317",
+    "Operational",
+    "Administrative"
+  ],
+  "title": "Classified Message Regarding AN VIO L. NEVES",
+  "date": "1962-08-25",
+  "locations_mentioned": [
+    "New York"
+  ],
+  "recipient": "WAVE, DIR"
+}

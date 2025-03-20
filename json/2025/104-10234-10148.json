@@ -1,0 +1,30 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This message discusses potential contacts and meetings with individuals in Cuba, which could compromise ongoing operations and expose intelligence-gathering methods. Specifically, the reference to AMLASH/1 ET AL could reveal sensitive information about an agent or operation. Quoting directly: 'D REPORTED THAT WHILE HE IN CUBA MANUEL (PINEIRO) LOZADA (201-238687) PHONED D'S SECRETARY...MEET FELL THROUGH BECAUSE OF AMLASH/1 ET AL.' Revealing these details could endanger individuals involved and disrupt intelligence activities.",
+  "security_level": "SECRET",
+  "summary": "A classified message indicates Manuel Pineiro Lozada contacted an individual (Delorry) in Cuba, expressing interest in meeting and potentially traveling to Italy with them, but the meeting was postponed due to AMLASH/1 ET AL.",
+  "summary_one_paragraph": "This SECRET classified message, dated 15 March, relays information from Delorry (D) reporting that Manuel Pineiro Lozada (201-238687) contacted D's secretary, Hilda Quintana, expressing a desire to meet; however, the meeting did not occur due to AMLASH/1 ET AL. Subsequently, Saverio Tutino (201-353093) informed D that Pineiro wished to travel to Italy with D. Delorry plans to leave for Cuba between 28 March and 2 April, prompting a request for Headquarters guidance.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Manuel Pineiro Lozada",
+    "Italy",
+    "AMLASH/1",
+    "Saverio Tutino",
+    "Delorry"
+  ],
+  "title": "Manuel Pineiro Lozada's Interest in Meeting and Traveling with Delorry",
+  "date": "1967-03-15",
+  "locations_mentioned": [
+    "Cuba",
+    "Italy"
+  ],
+  "persons_mentioned": [
+    "Manuel Pineiro Lozada",
+    "Hilda Quintana",
+    "Saverio Tutino",
+    "Delorry",
+    "AMLASH/1"
+  ]
+}

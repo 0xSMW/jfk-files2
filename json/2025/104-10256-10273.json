@@ -1,0 +1,41 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security": "Dissemination of the information contained in the memorandum outside the FBI is prohibited, indicating a concern for protecting sensitive sources and methods: \"The above information is for your use only and should not be disseminated outside your Bureau.\"",
+  "security_level": "WARNING NOTICE SENSITIVE INTELLIGENCE SOURCES AND METHODS INVOLVED",
+  "summary": "This memorandum from Acting Director Vernon A. Walters to the FBI summarizes information provided by the CIA regarding individuals and companies connected to the Watergate incident, including Frank Sturgis, Eugenio Martinez, Bernard Barker, Virgilio Gonzales, Robert R. Mullen Company, General Foods Corporation, James McCord, and others, detailing their past or present associations with the CIA.",
+  "summary_one_paragraph": "On July 6, 1972, Acting Director Vernon A. Walters sent a memorandum to the FBI summarizing CIA-provided information related to the Watergate incident. The memo details the Agency's past connections with individuals such as Frank Anthony Sturgis, Eugenio Rolando Martinez Careaga, Bernard L. Barker, and Virgilio Gonzales, including recruitment, employment, and association through Cuban exile activities. The memo also outlines the CIA's relationship with the Robert R. Mullen Company, its use for sensitive cover support, and its connection to General Foods Corporation, which provides cover support to Agency assets overseas. Finally, it addresses James McCord's lack of direct involvement in Cuban matters, the alias issued to E. Howard Hunt, peripheral contact with Juan Rigoberto Ruiz Villegas, and a referral of Ross Ward Lambert to McCord Associates.",
+  "tags": [
+    "Watergate",
+    "CIA",
+    "FBI",
+    "Frank Sturgis",
+    "Eugenio Martinez",
+    "Bernard Barker",
+    "Robert R. Mullen Company",
+    "E. Howard Hunt",
+    "James McCord",
+    "Cuban exiles",
+    "Covert operations"
+  ],
+  "title": "Information Provided the Federal Bureau of Investigation Regarding the Watergate Incident",
+  "date": "1972-07-06",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Frank Anthony Sturgis",
+    "Eugenio Rolando Martinez Careaga",
+    "Bernard L. Barker",
+    "Virgilio Gonzales",
+    "Robert R. Mullen",
+    "Everette Howard Hunt",
+    "James McCord",
+    "Juan Rigoberto Ruiz Villegas",
+    "Ross Ward Lambert",
+    "Manuel Ogarrio Daguerre",
+    "Kenneth Harry Dahlberg",
+    "Arnold Parham",
+    "Vernon A. Walters"
+  ],
+  "recipient": "The Acting Director, Federal Bureau of Investigation",
+  "sender": "Vernon A. Walters, Lieutenant General U.S.A., Acting Director"
+}

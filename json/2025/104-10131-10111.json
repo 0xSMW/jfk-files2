@@ -1,0 +1,19 @@
+{
+  "classification": "Personnel",
+  "document_type": "Notification",
+  "security": "Revealing the establishment of military cover backstops for employees could expose intelligence gathering methods and compromise individuals operating under such cover. Specifically, noting that a W-2 form is being issued by the Army and actions to block records could alert adversaries to the existence of covert operations.",
+  "security_level": "SECRET",
+  "summary": "This document notifies relevant divisions about the establishment of a military cover backstop for an employee, detailing actions to be taken regarding record blocking and W-2 issuance.",
+  "summary_one_paragraph": "This notification, dated June 1964, informs the Chief of the Personnel Operations Division and the relevant Operating Component about the establishment of a military cover backstop for an employee, identified by employee number 32. It outlines actions required, including blocking records, ensuring an Army W-2 is issued, and submitting forms for changes or transfers affecting the cover, emphasizing that the file should be kept on top while the cover is in effect.",
+  "tags": [
+    "Military Cover",
+    "Personnel Operations",
+    "Record Blocking",
+    "W-2",
+    "Covert Operations"
+  ],
+  "title": "Notification of Establishment of Military Cover Backstop",
+  "date": "1964-06",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "Chief, Personnel Operations Division; Chief, Operating Component"
+}

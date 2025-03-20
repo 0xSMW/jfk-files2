@@ -1,0 +1,37 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "This document details personal information, including addresses, dates of birth, and physical descriptions, related to Amos Lee Euins and Anis Lec Luins III. Releasing this information could compromise their privacy.  Additionally, the document lists law enforcement investigative details related to an auto theft case.  Disclosing such information could reveal police methods and compromise ongoing or future investigations.",
+  "security_level": "Unclassified",
+  "summary": "This document is a report from the Dallas Police Department concerning Amos Lee Euins' arrest for auto theft, along with related information about Anis Lec Luins III.",
+  "summary_one_paragraph": "This report, dated June 10, 1970, from the Dallas Police Department, details the arrest of Amos Lee Euins for theft over $50 (auto). It includes Euins' personal information, details of the crime, and the evidence against him, such as being found under the stolen vehicle removing parts. The report also contains a transcript of Euins' record, and additional information on Anis Lec Luins III, including his physical description, address, and arrest record, though it's not based on fingerprints.",
+  "tags": [
+    "Dallas Police Department",
+    "Amos Lee Euins",
+    "Anis Lec Luins III",
+    "Auto Theft",
+    "Arrest Record",
+    "Criminal Justice",
+    "Investigation"
+  ],
+  "title": "Amos Lee Euins Arrest Report",
+  "date": "1970-06-10",
+  "locations_mentioned": [
+    "Dallas, Texas",
+    "Henderson, Texas",
+    "Frisco, Texas"
+  ],
+  "origin_agency": "Dallas Police Department",
+  "persons_mentioned": [
+    "Amos Lee Euins",
+    "Anis Lec Luins III",
+    "Gross Ed",
+    "Q. Hodges",
+    "J.D. Davis",
+    "F.G. Phillips",
+    "Lurlene Jones",
+    "Whitwell",
+    "Chapmar",
+    "D.D. Dozier"
+  ]
+}

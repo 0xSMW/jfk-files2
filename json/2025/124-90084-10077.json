@@ -1,0 +1,38 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Cablegram",
+  "security": "This material contains information affecting the National Defense of the United States within the meaning of the Espionage Laws, Title 18, U.S.C. Sers. 793 and 794, the transmission or revelation of which in any manner to an unauthorized person is prohibited by law. The questionnaire was an IFEDEC ploy to obtain information concerning the situation in Central America and they dubbed the questionnaire effort \"OPERATION CAMELOT,\"",
+  "security_level": "Secret",
+  "summary": "A CIA cablegram reports on a Christian Democratic regional seminar in Costa Rica, where a questionnaire presented by IFEDEC to analyze the political situation in Central American countries was met with suspicion, particularly by Costa Rican and Nicaraguan representatives.",
+  "summary_one_paragraph": "This CIA cablegram, dated October 6, 1971, details a Christian Democratic regional seminar held in Alajuela, Costa Rica, from September 19-25, 1971. The seminar, purportedly about the strategy of social power, was primarily aimed at a detailed analysis of the political situation in El Salvador, Guatemala, Honduras, Nicaragua, Panama, and Costa Rica. The Institute for Christian Democratic Formation (IFEDEC) presented a detailed questionnaire, but Costa Rican and Nicaraguan representatives reacted negatively, viewing it as a ploy to gather information, dubbing the effort \"Operation Camelot.\" The Latin American Center for Information (CIDAL), headed by Laureano Batista, was said to require this information.",
+  "tags": [
+    "CIA",
+    "Christian Democratic Regional Seminar",
+    "Central America",
+    "IFEDEC",
+    "CIDAL",
+    "Operation Camelot",
+    "Political Analysis"
+  ],
+  "title": "CHRISTIAN DEMOCRATIC REGIONAL SEMINAR FOR CENTRAL AMERICAN C",
+  "date": "1971-10-06",
+  "locations_mentioned": [
+    "Costa Rica",
+    "Central America",
+    "El Salvador",
+    "Guatemala",
+    "Honduras",
+    "Nicaragua",
+    "Panama",
+    "Alajuela",
+    "San Salvador",
+    "Caracas"
+  ],
+  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
+  "persons_mentioned": [
+    "LAUREANO BATISTA FALLA",
+    "JORGE X MONGE"
+  ],
+  "recipient": "DIRECTORATE OF STATE/INR DIA NMCC/MC (SECDEF JCS ARMY NAVY AIR) CIA/NMCC NIC NSA SDO ONE CRS XXXBXXNXORS",
+  "sender": "CIA"
+}

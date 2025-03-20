@@ -1,0 +1,39 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security": "The document discusses a letter alleging the existence of a stolen Warren Commission document prejudicial to President Johnson, being offered for sale to a media outlet with possible involvement of a foreign embassy. Premature disclosure of such allegations and related investigations could compromise ongoing inquiries, alert involved parties, and damage the reputation of individuals or entities mentioned. Specifically, the memorandum states, '...an authentic document about the assassination in Dallas, which they say was swiped from the Warren Commission and which is certainly prejudicial for President Johnson...Someone from the Embassy of the United Kingdom in Paris is involved in the matter.'",
+  "security_level": "Secret",
+  "summary": "The FBI Legat in Paris forwards a CIA memorandum regarding a Spanish-language letter alleging the existence of a stolen Warren Commission document that is prejudicial to President Johnson and being offered for sale, with possible involvement of the British Embassy in Paris.",
+  "summary_one_paragraph": "On October 28, 1964, the FBI Legat in Paris sent a memorandum to the Director of the FBI, enclosing a CIA memorandum and a Spanish letter regarding a possible stolen Warren Commission document. The letter, signed by someone using the alias Antilin PERIS, claimed the existence of a document prejudicial to President Johnson related to the JFK assassination, which the author alleged was being offered for sale to \"Paris-Match\" with possible involvement from the British Embassy in Paris. The CIA's Madrid office was investigating the letter's origin and authenticity, while the Paris office had no leads on \"Antilin PERIS.\"",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Warren Commission",
+    "JFK Assassination",
+    "Stolen Document",
+    "President Johnson",
+    "Paris-Match",
+    "British Embassy",
+    "Spain",
+    "Antilin PERIS"
+  ],
+  "title": "WC, ASSISTANCE, NEWS MEDIA",
+  "date": "1964-10-28",
+  "locations_mentioned": [
+    "Paris",
+    "Madrid",
+    "Dallas",
+    "Spain",
+    "Barcelona"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "President Kennedy",
+    "President Johnson",
+    "Antilin PERIS",
+    "Norman Philcox",
+    "John Hanly"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "LEG, PA"
+}

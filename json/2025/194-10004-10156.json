@@ -1,0 +1,31 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Releasing personal information like the subject's SSN and DOB could violate privacy laws. Revealing the specific agencies checked and the negative results could potentially expose investigative methods.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is an agent report regarding a local agency check on David Reed Fromer, conducted in November 1966, revealing no records found across various law enforcement agencies in California.",
+  "summary_one_paragraph": "An agent report, submitted on November 30, 1966, details the findings of a local agency check on David Reed Fromer (SSN: 564 58 8137, DOB: July 21, 1942, POB: Chicago, Illinois) by Eric E. McKnight of the 115th INTC Gp (I). The check, which included variations of Fromer's name, across multiple Sheriff's Offices and Police Departments in California, including Alameda County and Oakland, disclosed no records.",
+  "tags": [
+    "David Reed Fromer",
+    "Local Agency Check",
+    "California",
+    "No Records Found",
+    "INSCOM",
+    "Personnel Investigation",
+    "JFK Assassination Records Collection Act"
+  ],
+  "title": "Local Agency Check on David Reed Fromer",
+  "date": "1966-11-03",
+  "locations_mentioned": [
+    "Chicago, Illinois",
+    "Oakland, California",
+    "Berkeley, California",
+    "Alameda County, California"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "David Reed Fromer",
+    "Eric E. McKnight"
+  ],
+  "sender": "USA"
+}

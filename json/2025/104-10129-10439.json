@@ -1,0 +1,24 @@
+{
+  "classification": "Personnel",
+  "document_type": "Reassignment Processing Record",
+  "security": "This record documents the reassignment of Joseph Piccolo Jr. to Mexico City. Releasing details of personnel assignments could reveal operational deployments or staffing levels in specific locations, potentially jeopardizing security. Mentioning specific locations would also reveal the focus or priorities of the agency in different regions, which could be valuable to adversaries. For example: 'ASSIGNMENT 03 109709 Mexico City, Mexico'.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This document records the receipt and action taken on documents related to the reassignment of Joseph Piccolo Jr. to Mexico City, Mexico.",
+  "summary_one_paragraph": "This is a reassignment processing record noting the receipt of documents, including Form 1152 travel order, YY certification request, returnee list, and overseas panel list, pertaining to the reassignment of Joseph Piccolo Jr. to Mexico City, Mexico (File No. 109709). The file review indicates no significant flags or issues regarding suitability, medical information, prior panel action, cover problems, or integration problems, with a note indicating whether a repolygraph is needed. The reassignment action is approved, with a note that the action will be recorded in another document.",
+  "tags": [
+    "Reassignment",
+    "Personnel",
+    "Mexico City",
+    "Joseph Piccolo Jr.",
+    "Travel Order",
+    "Polygraph"
+  ],
+  "title": "Reassignment Processing for Joseph Piccolo Jr.",
+  "date": "1965",
+  "locations_mentioned": [
+    "Mexico City, Mexico"
+  ],
+  "persons_mentioned": [
+    "Joseph Piccolo Jr."
+  ]
+}

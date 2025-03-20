@@ -1,0 +1,39 @@
+{
+  "classification": "Operations",
+  "document_type": "File",
+  "security": "This file discusses the KDFACTOR Project, including details of surveillance points, personnel, and finances. Disclosing the specific operational details, such as the roles of assets (KDFACTOR-2, KDFACTOR-5, etc.), the types of information collected (photos, attendance sheets), and the methods used (surveillance, cutouts), could compromise similar intelligence operations. The termination costs and agent details could also reveal sensitive financial and operational information. For example, the document states, 'The KDFACTOR Project supported two visual and photographic surveillance points (KDLITERAL and NDABSINTHE) directed against the MHIHARSH installation. Operations from the KDLITERAL surveillance point were suspended on 4 July 1972...'",
+  "security_level": "SECRET",
+  "summary": "This file contains documents related to the KDFACTOR Project, including operational reports, cable messages, and administrative details regarding photographic surveillance operations against the MHHARSH installation in Mexico City from 1958 through 1973.",
+  "summary_one_paragraph": "The KDFACTOR file documents a photographic surveillance operation conducted by the CIA's Mexico City station against the MHHARSH installation, utilizing multiple surveillance points (KDLITERAL and KDABSINTHE). The project involved salaried assets who provided photographic coverage, visitor information, and attendance sheets, with Oliver J. MANKUNAS handling administrative chores. The file includes details on the project's termination in 1972, including costs, agent handling, and security reviews, as well as cable messages discussing logistical and personnel considerations. The records span from 1958 through 1973, detailing the project's activities, personnel, and eventual termination due to developments reported in other channels.",
+  "tags": [
+    "KDFACTOR",
+    "Photographic Surveillance",
+    "MHHARSH",
+    "Mexico City",
+    "CIA",
+    "Operational Report",
+    "Security Review",
+    "Agent Handling",
+    "Termination",
+    "KDVAULT",
+    "CKPOLAR"
+  ],
+  "title": "KDFACTOR Photographic Surveillance Operation",
+  "date": "1973",
+  "locations_mentioned": [
+    "Mexico City",
+    "Holland"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Oliver J. Mankunas",
+    "Bruce H. Fernald",
+    "Raymond H. Gerende",
+    "Jesse R. Gardalphe",
+    "Theodore G. Shackley",
+    "Lawrence C. Laser",
+    "Anita Potocki"
+  ],
+  "recipient": "Chief, Western Hemisphere Division; Chief, Soviet Bloc Division",
+  "sender": "Acting Chief of Station, Mexico City"
+}

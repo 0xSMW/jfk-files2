@@ -1,0 +1,26 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Memorandum",
+  "security": "Granting access to classified records, even for background use, can expose sensitive information. Citing 'CL REASON 1.5(c)' indicates the material involves classified national security information.",
+  "security_level": "SECRET",
+  "summary": "J. Barry Harrelson requests a temporary Byeman clearance for Kathryn Michelle Combs, an Assassination Records Review Board (ARRB) staff member, to access specific U-2 project records responsive to a special search request from the JFK Board.",
+  "summary_one_paragraph": "On May 16, 1997, J. Barry Harrelson of CSI/HRG sent a memorandum to Roger Martin requesting a temporary Byeman clearance for Kathryn Michelle Combs, an employee of the Assassination Records Review Board (ARRB), to access specific records pertaining to the U-2 project. This request was made in response to a special search from the JFK Board. Marsha Hubbs from DS&T IMO reviewed the files and approved Combs' access for background use only.",
+  "tags": [
+    "ARRB",
+    "JFK Assassination Records",
+    "Byeman Clearance",
+    "U-2 Project",
+    "Kathryn Michelle Combs"
+  ],
+  "title": "Special Clearance for ARRB Staff",
+  "date": "1997-05-16",
+  "persons_mentioned": [
+    "Roger Martin",
+    "J. Barry Harrelson",
+    "Kathryn Michelle Combs",
+    "Marsha Hubbs",
+    "John Pereira"
+  ],
+  "recipient": "Roger Martin",
+  "sender": "J. Barry Harrelson (CSI/HRG)"
+}

@@ -1,0 +1,21 @@
+{
+  "classification": "Administrative",
+  "document_type": "Regulation",
+  "security": "This document outlines the procedures for managing and restricting access to sensitive information within the CIA's 201 system. Disclosing these procedures could allow unauthorized individuals to circumvent security measures and gain access to classified information. For example, the document details how to restrict access to sensitive 201 dossiers by holding the file at the desk or placing it on restricted charge in Central Files, and how to downgrade Top Secret documents for retention.",
+  "security_level": "SECRET",
+  "summary": "This document outlines the CIA's 201 system for identifying, retrieving, and filing information on persons of interest, including the assignment of unique numbers, creation of dossiers, and maintenance of records.",
+  "summary_one_paragraph": "This SECRET document, dated November 15, 1974, details the CIA's 201 system, which provides a method for identifying persons of interest, retrieving pertinent information, and creating lists of 201 personalities based on various categories. It outlines key features such as the 201 number, dossier, Master 201 Record, and OI (Operational Interest) codes, while also describing procedures for opening, maintaining, purging, and cancelling 201 files. The document specifies guidelines for restricting access to sensitive dossiers and managing information flow between field stations and Headquarters, ensuring that sensitive compilations of information are safeguarded.",
+  "tags": [
+    "CIA",
+    "201 System",
+    "Information Management",
+    "Classified Information",
+    "Records Management",
+    "OI Codes",
+    "Dossier",
+    "FOIA"
+  ],
+  "title": "The 201 System",
+  "date": "1974-11-15",
+  "origin_agency": "Central Intelligence Agency (CIA)"
+}

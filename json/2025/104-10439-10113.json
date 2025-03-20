@@ -1,0 +1,31 @@
+{
+  "classification": "Personnel",
+  "document_type": "Regulation/Instruction",
+  "security": "This document defines and sets policy for managing various types of non-staff personnel, including agents, contract employees, and independent contractors, emphasizing the need for security and covertness in specific circumstances. Releasing the detailed criteria for classifying relationships, the approval processes, and operational restrictions could allow adversaries to identify and compromise agents or exploit vulnerabilities in CIA procedures. Specifically, the definitions of 'AGENT, ASSET, SOURCE, COLLABORATOR, WITTING & UNWITTING' along with 'Hqs Regulations on Management of Nonstaff Personnel' could be exploited.",
+  "security_level": "SECRET",
+  "summary": "This document outlines CIA regulations and definitions concerning the management and operational use of non-staff personnel, including agents, assets, sources, collaborators, and contract employees, with a focus on security and operational restrictions.",
+  "summary_one_paragraph": "This collection of documents from 1973 comprises CIA Headquarters regulations and instructions related to managing non-staff personnel. It includes definitions of key terms like agent, asset, source, collaborator, and details distinctions between contract employees, independent contractors, and agents. The materials cover policies on contract personnel (HR 20-53), restrictions on the operational use of certain individuals (DOI 50-10), covert approval processes (DOI (CSI) 10-5), and guidelines for providing cover and tax benefits while maintaining operational security. The documents address responsibilities across various CIA departments—Personnel, Security, Medical Services, and Finance—to ensure compliance, security, and appropriate management of both overt and covert personnel relationships.",
+  "tags": [
+    "CIA",
+    "Personnel Management",
+    "Agents",
+    "Contract Employees",
+    "Independent Contractors",
+    "Operational Use",
+    "Security",
+    "Covert Operations",
+    "FOIA",
+    "Non-Staff Personnel"
+  ],
+  "title": "CIA Regulations on Relationships with Individuals",
+  "date": "1978-03-09",
+  "persons_mentioned": [
+    "Director of Central Intelligence",
+    "Director of Personnel",
+    "Director of Security",
+    "Director of Medical Services",
+    "Director of Training",
+    "Director of Finance"
+  ],
+  "recipient": "HCSA (House Select Committee on Assassinations)"
+}

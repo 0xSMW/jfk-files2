@@ -1,0 +1,31 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "The document is released with deletions, and the names of agents and specific operational details are likely restricted to protect sources and methods. Sharing the unredacted document might reveal intelligence gathering techniques or compromise the identities of individuals involved in investigations.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report details attempts to contact Juanita Reyes, a character reference for Manuel Marti, with negative results, as she no longer resides at the provided address and has reportedly returned to Puerto Rico.",
+  "summary_one_paragraph": "On November 19, 1968, Special Agent Alphonso E. Marshall submitted a report regarding attempts to locate Juanita Reyes, a listed character reference for Manuel Marti, born in San Juan, Puerto Rico. Attempts to contact Reyes at two different addresses in New York were unsuccessful; at the first address, she was unknown, and at the second, a relative stated that she had moved back to Puerto Rico over a year prior and had never resided at the previously listed Ogden Avenue address. A courtesy letter was left at one residence, but Reyes did not respond.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "DOD",
+    "Personnel Investigation",
+    "Character Reference",
+    "Manuel Marti",
+    "Juanita Reyes"
+  ],
+  "title": "Agent Report Regarding Manuel Marti Character Reference",
+  "date": "1968-11-19",
+  "locations_mentioned": [
+    "San Juan, Puerto Rico",
+    "Bronx, New York",
+    "New York, New York"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Juanita Reyes",
+    "Alberto Reyes",
+    "Alphonso E. Marshall"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "classification": "Liaison",
+  "document_type": "Message",
+  "security": "Revealing that CAS, London is protecting a \"highly sensitive source which must not be endangered\" and that the embassy should not intercede on behalf of American citizens until other information is available could compromise intelligence sources and operations.",
+  "security_level": "SECRET",
+  "summary": "A message from ISENSTEAD, DAD to COL. ROSS relays concerns from CAS, London about Mrs. Sloboda's departure for Moscow and the need to protect a sensitive source, advising against embassy intervention for her children until further notice.",
+  "summary_one_paragraph": "This message from ISENSTEAD, DAD to COL. ROSS concerns Mrs. Sloboda's planned departure for Moscow. CAS, London advises against any intervention by the London Embassy on behalf of the Sloboda children, who are American citizens, because doing so would risk compromising a highly sensitive intelligence source. The message suggests the embassy could potentially act on behalf of the children if it's not explicitly based on the knowledge of Mrs. Sloboda's intention to join her husband in Moscow but rather on her uncooperative behavior and the need to safeguard the rights of minor American citizens. ISENSTEAD requests an update on the present status of USAREUR and DA intentions to keep CAS, London informed.",
+  "tags": [
+    "CIA",
+    "Moscow",
+    "London",
+    "Sloboda",
+    "Sensitive Source",
+    "Embassy Intervention",
+    "American Citizens"
+  ],
+  "title": "Message Regarding Mrs. Sloboda's Departure for Moscow",
+  "date": "1963-10-27",
+  "locations_mentioned": [
+    "Moscow",
+    "London"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "COL. ROSS",
+    "ISENSTEAD, DAD",
+    "Mrs. Sloboda"
+  ],
+  "recipient": "COL. ROSS",
+  "sender": "ISENSTEAD, DAD"
+}

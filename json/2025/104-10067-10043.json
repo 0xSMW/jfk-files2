@@ -1,0 +1,28 @@
+{
+  "classification": "Commission",
+  "document_type": "Cable",
+  "security": "The cable discusses the protection of sources and identities of nonofficial cover officers (NOCs). Specifically, it mentions that HSCA staff members may interview NOCs but not in their country of residence, indicating a concern for the safety and operational security of these individuals. Quoting directly: \"We are, of course, most concerned about the protection of our sources and the identities of our nonofficial officers.\"",
+  "security_level": "SECRET",
+  "summary": "This cable outlines guidelines for Agency cooperation with the House Select Committee on Assassinations (HSCA) concerning interviews with Agency employees, NOCs, and agents, emphasizing the protection of sources and operational security.",
+  "summary_one_paragraph": "A SECRET cable from the CIA Director to WWSB and Luxembourg, dated May 27, 1978, addresses the Agency's cooperation with the House Select Committee on Assassinations (HSCA), chaired by Representative Louis Stokes. The cable details guidelines for HSCA interviews with Agency employees living abroad, individuals with pertinent information, nonofficial cover (NOC) officers, and agents. To protect sources and operational security, the guidelines specify that NOCs will be interviewed outside their country of residence, and HSCA staff are prohibited from contacting or interviewing agents directly. The cable instructs field offices to consult headquarters before committing to HSCA requests involving NOCs or agents.",
+  "tags": [
+    "HSCA",
+    "House Select Committee on Assassinations",
+    "NOC",
+    "Non-Official Cover",
+    "Source Protection",
+    "Operational Security",
+    "Louis Stokes",
+    "WWSB",
+    "Luxembourg"
+  ],
+  "title": "Guidelines for Cooperation with the House Select Committee on Assassinations (HSCA)",
+  "date": "1978-05-27",
+  "persons_mentioned": [
+    "Louis Stokes",
+    "John N. McMahon",
+    "Frank C Carlucci"
+  ],
+  "recipient": "WWSB, Luxembourg",
+  "sender": "DIRECTOR"
+}

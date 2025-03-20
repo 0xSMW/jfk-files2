@@ -1,0 +1,41 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security": "These dispatches describe operational activities related to propaganda distribution, radio broadcasts, and press releases designed to influence public opinion in Cuba, Latin America, and among Cuban exiles. Specific methods used, such as direct mailings, exploitation of the Che Guevara disappearance, and financial support to AMSPELL, are detailed. Revealing these activities could compromise ongoing operations, expose the CIA’s propaganda methods, and damage relations with other countries and entities. For example, the release details AMSPELL's campaign concerning Che Guevara's disappearance: 'AMSPELL ISSUED 28 OCTOBER PRESS RELEASE TO EXPLOIT CHE GUEVARA DISAPPARANCE AND ALLEGED HOUSE ARREST GUEVARA'S WIFE.'",
+  "security_level": "SECRET",
+  "summary": "These dispatches detail the activities, funding, and propaganda efforts of AMSPELL, a CIA-supported organization targeting students and youth in Cuba and Latin America, including radio broadcasts, press releases, and mailings to influence public opinion and exploit events like Che Guevara's disappearance.",
+  "summary_one_paragraph": "The dispatches cover AMSPELL’s operational activities, funding, and propaganda efforts during 1965 and 1966. AMSPELL, with CIA support, targeted students and youth in Cuba and Latin America through various means, including distributing monthly bulletins, conducting weekly radio broadcasts, and issuing press releases. They exploited events such as Che Guevara's disappearance to disseminate reports and influence public opinion. The reports detail financial support from JMWAVE, salaries, operational expenses, and future plans, including the reduction of financial support due to inconsistencies with WOFACT directives.",
+  "tags": [
+    "CIA",
+    "AMSPELL",
+    "Propaganda",
+    "Cuba",
+    "JMWAVE",
+    "Student Groups",
+    "Latin America",
+    "Political Prisoners",
+    "Che Guevara"
+  ],
+  "title": "AMSPELL Progress Reports and Related Dispatches",
+  "date": "1966-07-26",
+  "locations_mentioned": [
+    "Cuba",
+    "Latin America",
+    "United States",
+    "Havana",
+    "Caracas",
+    "Mexico",
+    "Miami"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Pedro Luis BOITEL",
+    "Che Guevara",
+    "Fidel Castro",
+    "Carlos Andres Perez",
+    "Alberto Muller",
+    "Ben Bella"
+  ],
+  "recipient": "Chief, Western Hemisphere Division",
+  "sender": "Chief of Station, JMWAVE"
+}

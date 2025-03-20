@@ -1,0 +1,30 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "Sharing internal routing and contact information could potentially expose intelligence channels and personnel, as well as reveal the CIA's operational structure in Mexico.",
+  "security_level": "SECRET",
+  "summary": "A classified message from Mexico City regarding KAPOK LCHARVEST, referencing a previous communication and mentioning Richard Walker, Chairman of the Department of International Relations at the University of South Carolina.",
+  "summary_one_paragraph": "This SECRET classified message originates from Mexico City and references KAPOK LCHARVEST, building upon a previous directive (DIR 75338). The message also mentions Richard Walker, the Chairman of the Department of International Relations at the University of South Carolina, and includes routing information to various CIA departments and staff, including FE 6, DEP, CI, C/FI, C/WH, D/OS, R, and VR. It also provides phone contact information for Lloyd George, Steve Kisha, and Mr. Mertz.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "KAPOK LCHARVEST",
+    "Richard Walker",
+    "University of South Carolina",
+    "International Relations"
+  ],
+  "title": "KAPOK LCHARVEST",
+  "date": "1964",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Richard Walker",
+    "Lloyd George",
+    "Steve Kisha",
+    "Mr. Mertz"
+  ],
+  "recipient": "FE 6, DEP, CI, C/FI 2, C/WH 5, D/OS 2, R, VR",
+  "sender": "MEXI"
+}

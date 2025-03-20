@@ -1,0 +1,45 @@
+{
+  "classification": "Oswald",
+  "document_type": "Letter",
+  "security": "Revealing details about Kostikov's attempts to cultivate a U.S. Government employee in Mexico City could compromise current intelligence operations or sources. Specifically, the document states: 'During this tour he attempted to cultivate a U.S. Government employee assigned to our embassy in Mexico City.' Also, confirming or denying Kostikov's membership in Department 13 and KGB's involvement in executive actions could reveal sensitive operational details, as noted: 'Although our file indicates that Kostikov may have been a member of Department 13 (Executive Action)...we have been unable to confirm this. Also, to the best of our knowledge the KGB has not engaged in such executive action since 1959.'",
+  "security_level": "SECRET",
+  "summary": "A letter from David H. Blee to Anthony C. M. DeVere detailing Valeriy Vladimirovich Kostikov's activities, including his assignment in Mexico City, his handling of Lee Harvey Oswald's visa request, and his suspected involvement with Central American communist parties.",
+  "summary_one_paragraph": "This letter, dated May 21, 1982, from David H. Blee to Anthony C. M. DeVere, provides information on Valeriy Vladimirovich Kostikov, a Soviet intelligence officer. It outlines Kostikov's assignments in Mexico City between 1959 and 1971, noting his role as a consular officer who handled Lee Harvey Oswald's visa request in 1963. The letter also mentions Kostikov's attempts to cultivate a U.S. government employee, his activities with Central American communist groups, and speculation surrounding his unexpected departure from Mexico in 1971, along with an unconfirmed suspicion about his potential affiliation with Department 13 (Executive Action) of the KGB.",
+  "tags": [
+    "Kostikov",
+    "Lee Harvey Oswald",
+    "Mexico City",
+    "KGB",
+    "Visa Request",
+    "Department 13",
+    "Executive Action",
+    "Soviet Intelligence",
+    "FOIA"
+  ],
+  "title": "Information on Valeriy Vladimirovich Kostikov",
+  "conspiracy": "The document states that Kostikov, as a consular officer, handled Lee Harvey Oswald's visa request at the Soviet Embassy in Mexico City. It explicitly says: 'We have no information which indicates any relationship between these individuals other than for the purpose of Oswald's making his visa request.'",
+  "date": "1982-05-21",
+  "locations_mentioned": [
+    "Mexico",
+    "France",
+    "Spain",
+    "United States",
+    "Cuba",
+    "Mexico City",
+    "USSR",
+    "Beirut",
+    "Havana",
+    "Moscow"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Valeriy Vladimirovich Kostikov",
+    "Lee Harvey Oswald",
+    "Anthony C. M. DeVere",
+    "Lyalin",
+    "David H. Blee",
+    "Joan Paxson"
+  ],
+  "recipient": "Anthony C. M. DeVere",
+  "sender": "David H. Blee"
+}

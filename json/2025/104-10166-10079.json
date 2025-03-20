@@ -1,0 +1,21 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security": "Revealing the desire to bypass AMCORE-2 to directly contact and exploit the source ('gradually dropping AMCORE-2 out of the picture') exposes potential operational methods that could damage relationships with existing assets. This could also compromise the security and effectiveness of ongoing intelligence gathering activities. The request to obtain the identity of AMCORE-2’s source and establish direct contact further increases risks of exposure and jeopardizes the source’s safety.",
+  "security_level": "SECRET",
+  "summary": "This dispatch from the Chief of Special Affairs Staff to the Chief of Station, JNAVE, discusses the potential for enhancing the operational relationship with AMCORE-2's source by establishing direct contact, aiming to bypass AMCORE-2.",
+  "summary_one_paragraph": "A dispatch dated 27 February 1963, from the Chief of the Special Affairs Staff to the Chief of Station, JNAVE, addresses the Operational/TIFIR letters received by AMCORE-2. Headquarters expresses appreciation for the enclosures but suggests that the usefulness of the material could be greatly improved if the source were guided on what items to divert and if direct communication with AMCORE-2's source could be established. JNAVE is requested to attempt to identify AMCORE-2's source and explore ways to establish contact, with the intention of potentially developing a profitable relationship directly with the source, phasing out AMCORE-2.",
+  "tags": [
+    "CIA",
+    "AMCORE-2",
+    "Source Handling",
+    "Operational Intelligence",
+    "TIFIR",
+    "JNAVE"
+  ],
+  "title": "Operational/TIFIR: Letters Received by AMCORE-2",
+  "date": "1963-02-27",
+  "origin_agency": "Special Affairs Staff",
+  "recipient": "Chief of Station, JNAVE",
+  "sender": "Chief, Special Affairs Staff"
+}

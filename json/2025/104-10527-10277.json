@@ -1,0 +1,38 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "The cable discusses the subject Calvin Rakebrand's cooperation with emigre channels ODENVY and KUBARK in an investigation related to KGB surfacing. It also mentions his current activities in Mexico, including a potential connection to a journalist. Disclosing these details could compromise ongoing investigations, expose intelligence-gathering methods, and reveal sources.",
+  "security_level": "SECRET",
+  "summary": "A cable identifies Calvin E. Rakebrand as cooperating with ODENVY and KUBARK in an investigation related to KGB activities, and mentions his current activities in Mexico, including a potential connection with a journalist.",
+  "summary_one_paragraph": "This secret cable discusses Calvin E. Rakebrand, identified as a PROGD who has been cooperating with IF emigre channels ODENVY and KUBARK in a continuing investigation since 1960 related to KGB activities. Rakebrand is currently in Mexico studying Spanish in connection with a plan to develop a journalist exploit in the LA area and is believed to be associated with a mistress rather than his wife. The message specifies that no station action is required and that ODENVY will have no contact in Mexico.",
+  "tags": [
+    "KUDESK",
+    "ZROCEAN",
+    "RUPEK",
+    "DUDIM",
+    "ARLETTE FRANCOISE HEZARIFEND",
+    "CARTIER",
+    "PROGD",
+    "CALVIN E RAKEBRAND",
+    "ODENVY",
+    "KUBARK",
+    "KGB",
+    "COYOKE",
+    "MEXICO"
+  ],
+  "title": "KUDESK ZROCEAN - Calvin E. Rakebrand Activities in Mexico",
+  "date": "Unknown",
+  "locations_mentioned": [
+    "Mexico",
+    "Paris, France",
+    "New York City",
+    "LA area"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Calvin E. Rakebrand",
+    "Arlette Francoise Hezarifend (alias Cartier)"
+  ],
+  "recipient": "MEXI",
+  "sender": "DIRECTOR"
+}

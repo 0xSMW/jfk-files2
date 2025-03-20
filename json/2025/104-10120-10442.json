@@ -1,0 +1,32 @@
+{
+  "classification": "Security",
+  "document_type": "Request for Approval or Investigative Action",
+  "security": "Approving the employment of an individual who may later be assigned to more responsible work requires careful security consideration. The document specifies the need for an upgrade in security clearance, indicating potential access to sensitive information. Sharing such internal processes can expose the criteria for security assessments and potential vulnerabilities in the clearance procedures. Direct quote: \"Subject subsequent to clearance and hire will be considered by the Project for possible re-assignment into more responsible work. Appropriate security clearance up-grading will be then requested.\"",
+  "security_level": "SECRET",
+  "summary": "A request for operational approval to employ Priscilla Mary Post Johnson as a news editor-writer for magazines subsidized by the Agency, with potential for reassignment to more responsible work and a corresponding security clearance upgrade.",
+  "summary_one_paragraph": "This is a request from the Security Support Division/Office of Security, dated May 25, 1962, seeking provisional operational approval to employ Priscilla Mary Post Johnson (TOKOPERA) as a news editor and writer for magazines such as China Quarterly and Encounter, which are subsidized by DILEAFAGE. Johnson has been of interest to the Agency, though not previously hired or used in any FI project. The request notes that subsequent to clearance and hiring, she will be considered for reassignment to more responsible work, necessitating an appropriate security clearance upgrade. The document includes details of the investigation, cover, Pro and Green List status, RI traces, Division traces, and field traces, with John J. Murray Jr. signing as Branch Chief.",
+  "tags": [
+    "Operational Approval",
+    "Security Clearance",
+    "Priscilla Mary Post Johnson",
+    "TOKOPERA",
+    "News Editor",
+    "DILEAFAGE",
+    "China Quarterly",
+    "Encounter",
+    "Security Support Division",
+    "Office of Security"
+  ],
+  "title": "REQUEST FOR APPROVAL OR INVESTIGATIVE ACTION",
+  "date": "1962-05-25",
+  "locations_mentioned": [
+    "London, U.K."
+  ],
+  "origin_agency": "Security Support Division/Office of Security",
+  "persons_mentioned": [
+    "Priscilla Mary Post Johnson",
+    "John J. Murray Jr."
+  ],
+  "recipient": "CI/Operational Approval and Support Division",
+  "sender": "Security Support Division/Office of Security"
+}

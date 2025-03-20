@@ -1,0 +1,31 @@
+{
+  "classification": "Personnel",
+  "document_type": "Final Determination Notification and Payroll Authorization Forms",
+  "security": "The document contains an individual's Social Security Number (SSN) which is redacted to protect personal privacy. As stated in the document: 'The text is redacted because the public disclosure of the redaction could reasonably be expected to constitute an unwarranted invasion of personal privacy, and that invasion of privacy would be so substantial that it outweighs the public interest.'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a Final Determination Notification from the Assassination Records Review Board regarding HSCA staff payroll records, specifically concerning Mark T. Flanagan, along with associated payroll authorization forms. The document postpones the release of Flanagan's Social Security number due to privacy concerns, replacing it with 'SSN'.",
+  "summary_one_paragraph": "The Assassination Records Review Board issued a Final Determination Notification on December 8, 1995, regarding HSCA staff payroll records related to Mark T. Flanagan, postponing the release of his Social Security number to protect personal privacy. This determination stems from the significant historical interest in the document and the absence of evidence suggesting harm to the United States or any individual. Included are payroll authorization forms from 1977-1979 detailing Flanagan's employment as a Researcher for the HSCA, his salary adjustments, and certifications regarding relationships to members of Congress, as well as an internal memo noting his start date and compensation.",
+  "tags": [
+    "HSCA",
+    "Payroll Records",
+    "Mark T. Flanagan",
+    "Social Security Number",
+    "Privacy",
+    "Assassination Records Review Board",
+    "Payroll Authorization",
+    "Louis Stokes"
+  ],
+  "title": "Final Determination Notification Regarding HSCA Staff Payroll Records",
+  "date": "1995-12-08",
+  "origin_agency": "HSCA",
+  "persons_mentioned": [
+    "Mark T. Flanagan",
+    "Louis Stokes",
+    "Tom Howarth",
+    "Donovan Gay",
+    "Bob Blakey",
+    "Edwin Juan Lopez",
+    "Dan L. Hardway",
+    "Leslie Wizelman"
+  ]
+}

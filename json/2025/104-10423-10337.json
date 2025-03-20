@@ -1,0 +1,34 @@
+{
+  "classification": "Commission",
+  "document_type": "Dispatch",
+  "security": "Revealing the specific criteria and instructions the FBI used to determine what information should be reported to the Secret Service regarding potential threats could allow individuals to circumvent these measures. This could jeopardize the safety of protectees and undermine security efforts. Quoting directly: 'These instructions require that any information indicating the possibility of an attempt against the person or safety of the persons mentioned by you must be referred immediately...'",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "A dispatch from the Chief of KUDOVE forwarding selected excerpts of Warren Commission testimony by U.S. intelligence and security officials, emphasizing the importance of interagency cooperation and information sharing for Presidential protection.",
+  "summary_one_paragraph": "This secret dispatch, dated February 2, 1965, from the Chief of KUDOVE, transmits selected excerpts from the Warren Commission testimony regarding Presidential protection. It underscores the responsibility of CIA personnel to support the Secret Service, particularly concerning the acquisition, dissemination, and coordination of information related to potential threats, with specific instructions for senior officers to review the provided testimony extracts.",
+  "tags": [
+    "Warren Commission",
+    "Presidential Protection",
+    "Secret Service",
+    "FBI",
+    "Interagency Cooperation",
+    "Fletcher M. Knight",
+    "Alan H. Belmont",
+    "Information Sharing"
+  ],
+  "title": "Warren Commission Testimony - Selected Excerpts",
+  "date": "1965-02-02",
+  "persons_mentioned": [
+    "President Kennedy",
+    "Fletcher M. Knight",
+    "Alan H. Belmont",
+    "J. Edgar Hoover",
+    "Mr. Stern",
+    "Mr. McCloy",
+    "Mr. Dulles",
+    "Mr. Rankin",
+    "Mr. Fain",
+    "District Attorney Wade"
+  ],
+  "recipient": "Chiefs of all Stations",
+  "sender": "Chief, KUDOVE"
+}

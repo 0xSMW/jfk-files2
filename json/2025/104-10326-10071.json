@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "The cable discusses passing information, including that from TZFRESH, to the Embassy and Consulate, suggesting it be shared with the State Department.  The mention of \"a significant anti-NWBOLTON propaganda effort on the part of the Cubans\" suggests that revealing this cable could damage diplomatic relations or expose intelligence-gathering activities related to Cuban propaganda.",
+  "security_level": "SECRET",
+  "summary": "A secret cable from the CIA station LIMIT in August 1995, directing the passing of information regarding a Rio <JFK> conference, suspected to be an anti-NWBOLTON propaganda effort by the Cubans, to the US Embassy and Consulate.",
+  "summary_one_paragraph": "This SECRET cable, dated August 31, 1995, originates from the CIA's LIMIT station and is addressed to Brasilia, with Sao Paulo for information. It concerns a Rio-based conference related to JFK, believed to be a Cuban-led effort to disseminate anti-NWBOLTON propaganda. The cable instructs that information from TZFRESH, concerning attendees and the conference schedule, should be passed to the US Embassy and Consulate for potential dissemination to the State Department. It also notes that information has been provided to FOIA regarding NWBOLTON information about the assassination.",
+  "tags": [
+    "CIA",
+    "JFK Assassination",
+    "Cuba",
+    "Propaganda",
+    "NWBOLTON",
+    "TZFRESH",
+    "Rio Conference"
+  ],
+  "title": "TZFRESH INFO ON RIO<JFK>CONFERENCE",
+  "date": "1995-08-31",
+  "locations_mentioned": [
+    "Rio de Janeiro",
+    "Brasilia",
+    "Sao Paulo"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Escalante",
+    "NWBOLTON"
+  ],
+  "recipient": "Brasilia",
+  "sender": "LIMIT CIC/LA"
+}

@@ -1,0 +1,34 @@
+{
+  "classification": "Church Committee",
+  "document_type": "Memorandum",
+  "security": "Revealing which documents the FBI deemed suitable for release to the Senate Select Committee, and under what conditions (with deletions or for review only on NSC premises), could expose internal FBI protocols for handling sensitive information. For example, specifying the deletion of certain phrases in documents related to Cuban plots or the restriction of access to documents concerning Soviet reactions to JFK's assassination outlines the FBI’s sensitivity toward these topics. Quoting: 'The words \"inside Cuba\" appearing on the second line of the first paragraph to be deleted.'",
+  "security_level": "Secret",
+  "summary": "This is a memorandum from FBI Director Clarence Kelley to Jeanne Davis at the National Security Council regarding the FBI's views on releasing specific documents to the Senate Select Committee (Church Committee) for their investigation, indicating which documents could be released, which required deletions, and which were for review only on NSC premises.",
+  "summary_one_paragraph": "On June 7, 1976, FBI Director Clarence Kelley sent a memorandum to Jeanne W. Davis at the National Security Council, responding to her request regarding the release of certain documents to the Senate Select Committee (Church Committee). The memo outlines the FBI's position on various documents, including FBI Current Intelligence Analysis, letters from John Edgar Hoover, and FBI Letterhead Memorandums (LHMs). It specifies that some documents could be released as is, others required specific deletions (e.g., references to Cuban involvement or double agents), and certain sensitive documents, such as those concerning Soviet reactions to the JFK assassination or a White House memorandum, were only to be reviewed on NSC premises and not delivered directly to the SSC.",
+  "tags": [
+    "Church Committee",
+    "Document Request",
+    "FBI",
+    "LBJ Library Documents",
+    "Senate Select Committee",
+    "National Security Council",
+    "Redaction",
+    "Classification"
+  ],
+  "title": "Senate Select Committee Request for LBJ Library Documents",
+  "date": "1976-06-07",
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Clarence Kelley",
+    "Jeanne W. Davis",
+    "Robert L. Moore",
+    "Steven L. Skancke",
+    "John Edgar Hoover",
+    "Marvin Watson",
+    "Mildred Stegall",
+    "Bill D. Moyers",
+    "Roberto Sanchez Vilella"
+  ],
+  "recipient": "Jeanne W. Davis",
+  "sender": "Clarence M. Kelley"
+}

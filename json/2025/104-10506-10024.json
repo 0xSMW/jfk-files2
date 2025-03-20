@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memo",
+  "security": "Revealing that the CIA traces individuals and investigates claims of CIA support in activities against Cuba could potentially damage ongoing or future operations. Directly quoting: 'This name was traced because FALCON claimed support of CIA in activities against Cuba. There is no indication in Headquarters traces that he worked for the CIA.'",
+  "security_level": "SECRET",
+  "summary": "A memo regarding Juan FALCON Tamar, who claimed CIA support in activities against Cuba, but Headquarters traces showed no indication he worked for the CIA. The memo includes details from a Cuban Station \"Radio Rebelde\" interview on 17 July 1962 where FALCON admitted to sabotage activities and planning assassinations, attributing the latter to the CIA.",
+  "summary_one_paragraph": "This SECRET memo from June 1977 concerns Juan FALCON Tamar, a Cuban national who claimed to have CIA support in his activities against Cuba. However, Headquarters traces reveal no evidence of any CIA affiliation. The memo references a Cuban Station \"Radio Rebelde\" interview from 17 July 1962, during which FALCON admitted to coordinating various sabotage activities as part of the Revolutionary Recovery Movement (MRR), including burning the \"Petroquimica\" of Cotorro, planning to destroy national transport, and plotting the assassination of Carlos Rafael RODRIGUEZ and Fidel CASTRO, which he attributed to the CIA.",
+  "tags": [
+    "CIA",
+    "Juan FALCON Tamar",
+    "Cuba",
+    "MRR",
+    "Sabotage",
+    "Assassination",
+    "Radio Rebelde",
+    "Revolutionary Recovery Movement"
+  ],
+  "title": "Juan FALCON Tamar",
+  "date": "1977-06",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Cotorro"
+  ],
+  "persons_mentioned": [
+    "Juan FALCON Tamar",
+    "Carlos Rafael RODRIGUEZ",
+    "Fidel CASTRO",
+    "Martin Miller"
+  ],
+  "recipient": "LAD/JFK Task Force",
+  "sender": "AMOT-2 from AMDIAL-2"
+}

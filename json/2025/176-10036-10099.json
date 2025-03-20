@@ -1,0 +1,39 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Telegram Information Report",
+  "security": "This material contains information affecting the National Defense of the United States within the meaning of the Espionage Laws, Title 18, U.S.C Secs. 793 and 794, the transmission or revelation of which in any manner to an unauthorized person is prohibited by law.",
+  "security_level": "SECRET",
+  "summary": "A CIA information report details the Vietnamese Consul General in Singapore, Tran Kim Phuong's, apprehensions regarding recent political events in South Vietnam and their potential to undermine President Ngo Dinh Diem's regime.",
+  "summary_one_paragraph": "Dated May 18, 1963, this CIA information report relays concerns from Vietnamese Consul General Tran Kim Phuong in Singapore about the stability of President Ngo Dinh Diem's regime in South Vietnam. Phuong believes that three recent political actions—the dismissal of Huynh Van Lang, the removal of Dr. Tran Kim Tuyen, and the Hue incident where Buddhist protestors were killed—have weakened support for Diem's government, despite its military gains against the Viet Cong. Phuong fears these events erode the loyalty of public servants, intellectuals, and the non-Catholic peasantry, potentially leading to a government dominated by sycophants and xenophobes.",
+  "tags": [
+    "CIA",
+    "Vietnam",
+    "Ngo Dinh Diem",
+    "Tran Kim Phuong",
+    "Political Instability",
+    "Buddhist Protests",
+    "Hue Incident",
+    "Can Lao Party"
+  ],
+  "title": "Central Intelligence Agency Information Report",
+  "date": "1963-05-18",
+  "locations_mentioned": [
+    "Vietnam",
+    "Singapore",
+    "Hue",
+    "South Vietnam",
+    "North Vietnam"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Tran Kim Phuong",
+    "Ngo Dinh Diem",
+    "Huynh Van Lang",
+    "Tran Kim Tuyen",
+    "Ngo Dinh Nhu",
+    "Ngo Dinh Can",
+    "Ngo Dinh Thuc"
+  ],
+  "recipient": "STATE/INR, DIA, ARMY/ACSI, NAVY, AIR, JCS, SECDEF, NSA, NIC, AID, USIA, OCI, ONE, OCR, ORR, STATE/DIR",
+  "sender": "CIA"
+}

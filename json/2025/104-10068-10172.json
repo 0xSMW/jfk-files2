@@ -1,0 +1,39 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "Revealing the nature of KUBARK's influence over FIOPP and the identities of covert associates (contacts in Panama and Washington) could compromise ongoing operations and relationships with individuals or organizations providing assistance to the CIA. Specifically, the message states: \"FIOPP IS A KUBARK INFLUENCED ORGANIZATION, CONTACT IS MAINTAINED WITH ITS INTERAMERICAN REP IN PANAMA AND ITS COCHAIRMAN IN WASHINGTON, BOTH OF WHOM ARE COVERT ASSOCIATES.\"",
+  "security_level": "SECRET",
+  "summary": "A request is made for traces on four members of the Colegio Nacional de Periodistas de la República de Cuba (in exile) attending a FIOPP seminar in Mexico City, with a specific interest in information related to their possible actions at the seminar.",
+  "summary_one_paragraph": "This SECRET classified message, dated November 13, 1963, from an unspecified sender (likely within the CIA) to distribution including DIR MEXI, discusses the Federación Interamericana de Organizaciones de Periodistas Profesionales (FIOPP), identified as a KUBARK influenced organization. The message indicates that FIOPP is holding a regional seminar in Mexico City from November 18-29. It requests traces on Guillermo Gener Rodriguez, Salvador Diaz Verson, Francisco Gomez Hector, and Mario Barrera, all members of the Colegio Nacional de Periodistas de la República de Cuba (in exile), who will be attending the seminar. The specific interest is on information related to their potential actions at the seminar.",
+  "tags": [
+    "FIOPP",
+    "KUBARK",
+    "Mexico City",
+    "Cuban Exiles",
+    "Journalists",
+    "Seminar",
+    "Traces",
+    "Colegio Nacional de Periodistas de la República de Cuba",
+    "Covert Associates",
+    "TPTRANSACK",
+    "DIDURIC"
+  ],
+  "title": "FIOPP Seminar in Mexico City: Request for Traces on Cuban Journalists",
+  "date": "1963-11-13",
+  "locations_mentioned": [
+    "Panama City",
+    "Mexico City",
+    "Miami, Florida",
+    "Miami Beach, Florida",
+    "Washington D.C."
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Guillermo Gener Rodriguez",
+    "Salvador Diaz Verson",
+    "Francisco Gomez Hector",
+    "Mario Barrera"
+  ],
+  "recipient": "DDP, CI/OPS, CA, CA/PEG, CA/PROP, FI, FI/INT, WH, SAS, WR",
+  "sender": "Unknown"
+}

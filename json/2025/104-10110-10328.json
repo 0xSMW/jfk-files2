@@ -1,0 +1,21 @@
+{
+  "classification": "Administrative",
+  "document_type": "Notification",
+  "security": "Revealing the existence of military cover backstops, including associated procedures and file numbers, could expose covert operations and compromise individuals operating under cover. Specifically, disclosing details such as \"Military Cover Backstop Established B165617\", \"U.S. Army Element, Joint Operations Group (8739)32\", and instructions to \"SUBMIT FORM 642 TO CHANGE LIMITATION CATEGORY\" could enable adversaries to identify and neutralize covert assets.",
+  "security_level": "SECRET",
+  "summary": "This notification establishes a military cover backstop, referencing file numbers, ID card information, and instructions for managing the cover.",
+  "summary_one_paragraph": "This document, dated August 7, 1962, is a notification for the establishment of a military cover backstop, file number 5190, for an individual associated with the U.S. Army Element, Joint Operations Group (8739)32, and assigned the ID card number B165617. The notification outlines procedures for managing the cover, including blocking records, issuing Army W-2 forms, submitting forms for changes and transfers of cover responsibility, and specifies distribution to OSD/OS and PSD/OS.",
+  "tags": [
+    "Military Cover",
+    "Covert Operations",
+    "Backstop",
+    "Records Management",
+    "Army",
+    "Joint Operations Group"
+  ],
+  "title": "Notification of Establishment of Military Cover Backstop",
+  "date": "1962-08-07",
+  "origin_agency": "Unclear, likely a division within the Department of Defense or CIA",
+  "recipient": "Chief Records and Services Division",
+  "sender": "Chief, Military Cover"
+}

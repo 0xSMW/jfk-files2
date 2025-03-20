@@ -1,0 +1,42 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This message discusses plans to recruit individuals in Cuba to work with ODYOKE, including training, providing safe houses, and potentially falsifying OVU assessments. Revealing these recruitment activities could compromise ongoing operations, endanger individuals involved, and damage relationships with other intelligence agencies. For instance, the text explicitly says: 'REQUEST OPIE PERMISSION PRIOR NEXT MEETING WITH A 29 TO INSTRUCT HIN TO RECRUIT IDEN C. TRAIN AND GIVE HER SV AND ACCOWNODATION ADDRESS PREVIOUSLY FLANHED FOR IDEN A.'",
+  "security_level": "SECRET",
+  "summary": "A classified message details efforts to recruit individuals in Cuba for intelligence operations, including discussions of potential recruits, methods of recruitment, and logistical support.",
+  "summary_one_paragraph": "This classified message from April 22, 1963, outlines ongoing efforts to recruit individuals in Cuba for intelligence work. It discusses a meeting between AFLEB 29 and others, where the planned recruitment of IDEN A was disrupted due to IDEN B's concerns about surveillance. The message also details the potential recruitment of IDEN C (Norma Flores), including plans for training, accommodation, and the request for OPIE permission to proceed. The message provides biographical details about Flores and her family, emphasizing her potential suitability for recruitment to work with ODYOKE.",
+  "tags": [
+    "CIA",
+    "Recruitment",
+    "Cuba",
+    "Intelligence Operations",
+    "ODYOKE",
+    "AFLEB 29",
+    "Norma Flores",
+    "IDEN A",
+    "IDEN C"
+  ],
+  "title": "Recruitment Efforts in Cuba",
+  "date": "1963-04-22",
+  "locations_mentioned": [
+    "Rotterdam",
+    "Havana",
+    "Matanzas",
+    "Guarabacoa, Habana",
+    "San Miguel del Padron, Guarabacoa, Habana",
+    "University of Villanova in Havana"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "AFLEB 29",
+    "VAREBOLD",
+    "ARLES",
+    "IDEN A (Antonio Concepcion)",
+    "IDEN B (Manuel Justo Huitnos)",
+    "IDEN C (Norma Flores)",
+    "Nancy Flores",
+    "Batista"
+  ],
+  "recipient": "DIR (Director)",
+  "sender": "PRETY (Possible code name)"
+}

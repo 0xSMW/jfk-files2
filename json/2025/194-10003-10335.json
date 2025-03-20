@@ -1,0 +1,32 @@
+{
+  "classification": "Personnel",
+  "document_type": "Paper, Textual Document",
+  "security": "Information about an individual's background, security clearance, and potential foreign connections is considered sensitive and could potentially compromise security protocols or reveal personal information. For example, the document asks, 'Has the subject any foreign connections, employment or military service?' and indicates the subject's parents' alien registration numbers. Revealing this information could lead to privacy violations or security breaches.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a National Agency Check Request for Edward Kaczmarczyk, completed by USAINTC on November 17, 1971. It includes details such as his birthdate, place of birth (West Germany), social security number, service number, and information about his parents' immigration status.",
+  "summary_one_paragraph": "A National Agency Check Request form for Edward Kaczmarczyk, initiated by the Commanding Officer of the 59th Ord Gp and completed by USAINTC on November 17, 1971, provides background information including Kaczmarczyk's birth details (born August 6, 1947, in Bomblitz, West Germany), social security number (143 40 1685), and service number (1272 4692). The form indicates favorable results from the check, notes that Kaczmarczyk is not an alien or naturalized citizen, and includes details about his parents' (Josef and Dorota Iwanowa Kaczmarczyk) alien registration in New York City in 1960. The purpose of the check was for a security program related to his military employment.",
+  "tags": [
+    "National Agency Check",
+    "Edward Kaczmarczyk",
+    "Security Clearance",
+    "INSCOM",
+    "USAINTC",
+    "Alien Registration"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1971-11-17",
+  "locations_mentioned": [
+    "Bomblitz, West Germany",
+    "Pirmasens, Germany",
+    "NYC, NY"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Kaczmarczyk, Edward",
+    "Kaczmarczyk, Josef",
+    "Kaczmarczyk, Dorota Iwanowa",
+    "George Tobias"
+  ],
+  "recipient": "USA Advanced Weapons Support Comd",
+  "sender": "59th Ord GP"
+}

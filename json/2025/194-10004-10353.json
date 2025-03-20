@@ -1,0 +1,25 @@
+{
+  "classification": "Personnel",
+  "document_type": "Textual Document",
+  "security": "This document concerns the favorable closure of a case under AR 604-10 regarding Manuel Marti. It states, 'Closure of SUBJECT's case under the provisions of AR 604-10 does not automatically qualify HIM for a security clearance.' Sharing this information could reveal processes and criteria used in determining security clearance eligibility, which could be exploited by individuals seeking to bypass these measures.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document details the favorable closure of Manuel Marti's case under AR 604-10, but notes that this closure does not automatically qualify him for a security clearance.",
+  "summary_one_paragraph": "On September 22, 1969, William R. Phillips, LTC, MI, Chief of the Mil & Civ Loy Div of the USAPSG, communicated to the Assistant Chief of Staff, G2, regarding Manuel Marti (with identifying numbers U9 52 773 870 and SSAN: 093 36 4601). The communication confirms the Department of the Army's concurrence with the recommendation for favorable closure of Marti's case under AR 604-10. This closure has been added to Marti's intelligence dossier and forwarded to USAIRR, with a caveat that it doesn't automatically qualify him for a security clearance, and a review of his USAIRR file should be conducted before considering him for one.",
+  "tags": [
+    "Manuel Marti",
+    "AR 604-10",
+    "Security Clearance",
+    "USAPSG",
+    "USAIRR",
+    "Case Closure"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1969-09-22",
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "William R. Phillips"
+  ],
+  "recipient": "ASST COS, G2",
+  "sender": "Phillips, William R"
+}

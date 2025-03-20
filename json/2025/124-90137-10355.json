@@ -1,0 +1,35 @@
+{
+  "classification": "CIA Liaison Material",
+  "document_type": "Memo",
+  "security": "This letter is classified \"Secret\" because it contains information so classified by CIA...CIA seeks to pass a summary of information concerning subject with the BfV in Germany and has requested permission to include the following in this summary stating it comes from our files: \"During his New York City tenure, he was known to write bank drafts to persons known to be active Communist workers. It was suggested that he was used as a means of financing Communist Party activities.",
+  "security_level": "Secret",
+  "summary": "The FBI responds to a CIA request regarding Eduardo Espinosa y Prieto, stating that information in their files does not substantiate claims that he knowingly financed communist activities, advising against including this allegation in a summary to the Bundesamt fuer Verfassungsschutz (BFV) in Germany.",
+  "summary_one_paragraph": "In an August 28, 1961 memo from J. Edgar Hoover to the CIA's Deputy Director of Plans, the FBI addresses a CIA inquiry about Eduardo Espinosa y Prieto, specifically regarding allegations that he wrote bank drafts to active communist workers during his time in New York City. The FBI indicates that their files do not support the claim that Espinosa knowingly financed Communist Party activities and that the only instance they found, involving Alicia Merino Fuentes, lacked sufficient evidence and was mitigated by their shared connection to the Mexican delegation to the United Nations. The FBI advises against including the unsubstantiated claim in a summary the CIA intends to share with the BFV in Germany.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Liaison",
+    "Eduardo Espinosa y Prieto",
+    "Communism",
+    "Mexico",
+    "Germany",
+    "Bundesamt fuer Verfassungsschutz",
+    "Alicia Merino Fuentes",
+    "Bank Drafts"
+  ],
+  "title": "EDUARDO ESPINOSA Y PRIETO",
+  "date": "1961-08-28",
+  "locations_mentioned": [
+    "Mexico City",
+    "New York City",
+    "Germany"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Eduardo Espinosa y Prieto",
+    "Alicia Merino Fuentes",
+    "John Edgar Hoover"
+  ],
+  "recipient": "CIA",
+  "sender": "FBI"
+}

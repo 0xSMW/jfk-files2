@@ -1,0 +1,35 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Releasing personal details such as Robert Scheer's date and place of birth, address, employment history, salary, social security number, and selective service number could compromise his privacy. Disclosing the names of his references, Serena Turan, Norman Bernstein, and Fred Keen, could also put them at risk of unwanted attention or harassment. Sharing these details could damage the individuals’ privacy and security.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This agent report, dated August 28, 1958, details an investigation into Robert Scheer, a pre-inductee, focusing on his employment history and personal information obtained from the U.S. Post Office and other sources in New York.",
+  "summary_one_paragraph": "On August 28, 1958, Special Agent Paul F. Rohde of the 108th CIC Group submitted a report detailing his investigation into Robert Scheer, a pre-inductee born in the Bronx, New York. The investigation involved examining Scheer's employment history at the U.S. Post Office, City College Library, Donnel Library, and Laufers Hotel, as well as verifying his personal information, including his date of birth, residence, marital status, salary, social security number, and selective service number. The report also notes discrepancies between Scheer's listed employments and the information provided on his DD Form 398.",
+  "tags": [
+    "Robert Scheer",
+    "Pre-Inductee",
+    "Employment History",
+    "Personnel Investigation",
+    "U.S. Post Office",
+    "City College",
+    "Donnel Library",
+    "Laufers Hotel"
+  ],
+  "title": "[ RESTRICTED ]",
+  "date": "1958-08-28",
+  "locations_mentioned": [
+    "Bronx, New York",
+    "New York, New York",
+    "Sylvan Lake, New York"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Robert Scheer",
+    "Selena Scheer",
+    "Serena Turan",
+    "Norman Bernstein",
+    "Fred Keen",
+    "Paul F. Rohde"
+  ],
+  "sender": "USA"
+}

@@ -1,0 +1,44 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memo",
+  "security": "Disclosing the investigative actions, sources, and methods used to identify and monitor individuals of potential counterintelligence interest could compromise ongoing and future investigations. Revealing details about the individuals being investigated, such as their alleged pro-East sentiments, knowledge of military information, and travel history, could also infringe on their privacy and potentially damage their reputations. The document should be redacted.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memo from the 165th MI CO in Frankfurt to the 66th MI Group in Munich regarding an incident involving an individual named John Dee Jay who attempted to solicit official information from members of the 66th USA Artillery Detachment in the Federal Republic of Germany.",
+  "summary_one_paragraph": "On February 10, 1972, the 165th MI CO in Frankfurt sent a memo to the 66th MI Group in Munich regarding an incident of potential counterintelligence interest. The incident involved an individual known as John Dee Jay, a disc jockey at the Lord Nelson Bar in Soest, FRG, who attempted to solicit official information from members of C Team, 66th USA Artillery Detachment, in Dahlen. John Dee Jay, who speaks Russian, German, Spanish, and English, expressed pro-East sentiments, claimed to have visited Moscow, and demonstrated knowledge of military matters, including the details of a recent convoy. The memo indicates that members of C Team were interviewed and attempts were being made through German channels to positively identify John Dee Jay, with investigative actions continuing and results to be forwarded upon receipt.",
+  "tags": [
+    "Counterintelligence",
+    "Solicitation of Information",
+    "Military Intelligence",
+    "John Dee Jay",
+    "66th USA Artillery Detachment",
+    "165th MI CO",
+    "Federal Republic of Germany",
+    "Pro-East Sentiments"
+  ],
+  "title": "Incident of Possible CI Interest",
+  "date": "1972-02-10",
+  "locations_mentioned": [
+    "Frankfurt, Germany",
+    "Munich, Germany",
+    "Soest, Federal Republic of Germany",
+    "Dahlen, Federal Republic of Germany",
+    "Duesseldorf, Federal Republic of Germany",
+    "Moscow, USSR",
+    "German Democratic Republic",
+    "Hopsten, Federal Republic of Germany"
+  ],
+  "origin_agency": "CSF/INSCOM",
+  "persons_mentioned": [
+    "Hans D. Kaminski",
+    "LT HA Good",
+    "LT Kulesza",
+    "PFC Held",
+    "Phillip May",
+    "Stephen R. Wilson",
+    "M. Creed",
+    "John Dee Jay",
+    "Alexander"
+  ],
+  "recipient": "CO 66TH MI GROUP MUNICH GER",
+  "sender": "CO 165TH MI CO FKFT GER"
+}

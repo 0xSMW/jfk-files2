@@ -1,0 +1,44 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security": "Disclosing discussions of CIA’s internal guidelines for handling Congressional and DOJ requests could expose intelligence-gathering methods and sources. Quoting directly: 'This office objected on the grounds of the sensitivity of the material, the ground rules established for the Congressional (and DOJ) review of this material by staffers and the problems which could be caused by exceptional treatment being afforded to one Committee or staffer.'",
+  "security_level": "SECRET/SENSITIVE",
+  "summary": "This memo discusses interactions between the CIA and Congressional staff, particularly regarding access to KCIA documents and China reporting, along with strategy for responding to the Assassinations Committee's inquiries related to the Mafia and possible CIA involvement with Castro.",
+  "summary_one_paragraph": "The memo outlines several interactions between the CIA and external entities: it details concerns about providing the SSCI with KCIA documents, suggesting an alternative arrangement; it mentions a planned meeting between an SSCI staffer and William Wells to discuss China reporting; it addresses Counsel G. Robert Blakey's inquiries into the CIA's alleged connections with the Mafia and Castro, focusing on Trafficante's possible double role and the Bayo-Pawley affair; and it notes the preparation of a response regarding the Horman case in Costa Rica, specifically concerning legal representation for James E. Anderson.",
+  "tags": [
+    "KCIA",
+    "SSCI",
+    "China Reporting",
+    "Assassinations Committee",
+    "Mafia",
+    "Castro",
+    "Trafficante",
+    "Bayo-Pawley Affair",
+    "Horman Case",
+    "DOJ",
+    "Congressional Liaison",
+    "JMWAVE"
+  ],
+  "title": "Meeting of SSCI Staffer and DDO; Assassinations Committee",
+  "date": "1978-10-26",
+  "locations_mentioned": [
+    "Costa Rica"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Mr. Kramer",
+    "George Cary",
+    "ESVidal",
+    "Hal Ford",
+    "William Wells",
+    "G. Robert Blakey",
+    "Trafficante",
+    "Castro",
+    "Scott Breckenridge",
+    "Bill Harvey",
+    "Rep Robertson",
+    "JDWalker",
+    "James E. Anderson"
+  ],
+  "recipient": "SSCI (Senate Select Committee on Intelligence)"
+}

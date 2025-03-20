@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing intelligence operations and sources in El Salvador could expose assets, compromise ongoing efforts, and damage relationships with local authorities. The document references a 'CIA officer' briefing the 'Intel Chief' on recruitment and security considerations, noting that only a select few are aware of the recruitment and that 'they would make no record of it.' Also, mentioning specific targets, such as 'DALTON' and their importance could jeopardize these operations.",
+  "security_level": "SECRET",
+  "summary": "A classified message details the recruitment of a Cuban target in El Salvador, emphasizing the importance of security and the cooperation of the Salvadoran Intelligence Chief. The CIA officer is instructed to not pursue other targets at this time to avoid drawing attention to the recruitment effort.",
+  "summary_one_paragraph": "This SECRET classified message outlines the recruitment of a Cuban asset (PERS A. SALV 5296) in El Salvador, with the Salvadoran Intelligence Chief briefed and fully cooperating. The CIA officer emphasizes the target's knowledge of communist parties in El Salvador and other Central American countries, ensuring utmost security by limiting knowledge of the recruitment to a small group. The message instructs the CIA officer not to pursue other targets in El Salvador, except for 'DALTON,' to avoid compromising the ongoing recruitment and interrogation efforts, and notes the Intelligence Chief's agreement to handle the situation as the CIA wishes.",
+  "tags": [
+    "CIA",
+    "El Salvador",
+    "Cuba",
+    "Cuban Defector",
+    "Recruitment",
+    "Intelligence Operation",
+    "SALU",
+    "DALTON"
+  ],
+  "title": "Cuban Defector Recruitment in El Salvador",
+  "date": "1964-09-28",
+  "locations_mentioned": [
+    "El Salvador",
+    "Central America"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "A. SALV 5296 (LN-53314)",
+    "DALTON"
+  ],
+  "recipient": "WH Division",
+  "sender": "DIR"
+}

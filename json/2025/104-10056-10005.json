@@ -1,0 +1,26 @@
+{
+  "classification": "Administrative",
+  "document_type": "Index Search and Consolidation Request",
+  "security": "This document contains internal file numbers and locator data related to individuals of interest to the CIA. Releasing this information could compromise sources and methods by revealing the existence and content of intelligence files on specific individuals. Quoting directly: 'LOCATOR DATA: ORDER FROM IP/CFS - GC-52' and the listing of file numbers and dates.",
+  "security_level": "SECRET",
+  "summary": "An index search and 201 consolidation request for information on Howard Davis, seeking any records or files pertaining to him, with instructions for consolidating information if a file is found or needs to be created.",
+  "summary_one_paragraph": "This is a request, dated September 28, 1977, initiated by FF Holmes and B Russell (HM-188) from CI/EXO to conduct an index search and potential 201 file consolidation for Howard Davis. The request includes instructions for IP/INDEX, IP/FILES, and IP/RMS on how to process the search, order documents, edit index records, and consolidate files. The search reveals multiple records related to individuals named Howard Davis, with various file numbers and locator data, including possible associations with Cuba, British intelligence, and anti-Castro groups. The request also includes a checklist of other indices to consider for tracing additional information.",
+  "tags": [
+    "Index Search",
+    "201 File",
+    "Howard Davis",
+    "File Consolidation",
+    "CIA Records"
+  ],
+  "title": "FF HOLMES RUSSELL B HM-188 INDEX SEARCH AND 201 CONSOLIDATION REQUEST",
+  "date": "1977-09-28",
+  "persons_mentioned": [
+    "Howard Davis",
+    "Frank Bartes",
+    "Laric Laborde",
+    "Hemming Jr",
+    "Mario Alfredo Silva-Jonama"
+  ],
+  "recipient": "TUBE ROOM (IP/INDEX, IP/FILES, IP/RMS)",
+  "sender": "FF Holmes, B Russell (HM-188), CI/EXO"
+}

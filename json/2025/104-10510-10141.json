@@ -1,0 +1,25 @@
+{
+  "classification": "Administrative",
+  "document_type": "Medical Bill",
+  "security": "The document contains personal medical and financial information of an individual, Rigoberto Perez, including his address, hospital details, medical services rendered, charges, and payments. Sharing this information would violate patient privacy and confidentiality. Directly quoting from the document: 'PATIENT'S NAME & PEREZ, RIGOBERTO (CRUZ) 1700 .. 21 TERRACE8 MIAMI, FLA'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A medical bill for Rigoberto Perez (Cruz) detailing charges and payments for services rendered at a hospital in Hialeah, Florida.",
+  "summary_one_paragraph": "This document is a medical bill for Rigoberto Perez (Cruz), residing in Miami, Florida, for services provided at a hospital located on 25th Street in Hialeah, Florida. The bill itemizes charges for various medical procedures and services, including a liver scan, radio isotopes, electrocard-ogram, and physical therapy, along with associated payments and balances. The document also notes the hospital's billing policies, including potential additional charges for services provided on the date of discharge and information about their business office hours.",
+  "tags": [
+    "Medical Bill",
+    "Rigoberto Perez",
+    "Hospital",
+    "Hialeah",
+    "Miami",
+    "Financial Records",
+    "Medical Services"
+  ],
+  "title": "Medical Bill for Rigoberto Perez (Cruz)",
+  "persons_mentioned": [
+    "Rigoberto Perez (Cruz)",
+    "A. Vargas",
+    "H. M. Simon, Jr., M.D.",
+    "Ralph L. Pipes, MD."
+  ],
+  "sender": "P.O. EST 1628, HIAMI, FLA (Hospital Billing Department - Inferred)"
+}

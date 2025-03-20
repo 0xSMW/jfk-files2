@@ -1,0 +1,22 @@
+{
+  "classification": "Liaison",
+  "document_type": "File",
+  "security": "The file contains extra sensitive cables that are restricted to be opened only by the Chief, WH/A/PA, suggesting that the contents are highly confidential and potentially damaging if mishandled.",
+  "security_level": "UNSPECIFIED",
+  "summary": "This is a U.K. Liaison file referencing two cables, LOND 5956 and LOND 5963, and notes that extra sensitive cables within are to be opened only by the Chief, WH/A/PA.",
+  "summary_one_paragraph": "This U.K. Liaison file references cables LOND 5956 (IN 27353) from March 29, 1961, and LOND 5963 (IN 28181) from March 31, 1961. It contains extra sensitive cables that are restricted, indicating they should only be opened by the Chief of WH/A/PA, suggesting a high level of confidentiality and sensitivity within the contents.",
+  "tags": [
+    "Liaison",
+    "United Kingdom",
+    "Cables",
+    "WH/A/PA",
+    "Sensitive Information"
+  ],
+  "title": "U. K. Liaison file",
+  "date": "1961-03-29",
+  "locations_mentioned": [
+    "United Kingdom"
+  ],
+  "origin_agency": "Unspecified",
+  "recipient": "Chief, WH/A/PA"
+}

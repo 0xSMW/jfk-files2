@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba, Liaison, Security",
+  "document_type": "Memo",
+  "security": "Releasing information about Rodriguez's role as a courier for CIA operations in Cuba could compromise ongoing operations and potentially expose sources. Quote: \"on occasion his Agency has utilized Rodriguez as a courier for transmitting material between the US. and Cuba. This material has dealt with CIA operations in Cuba.\"",
+  "security_level": "Secret",
+  "summary": "FBI memo from S.J. Papich to L'Allier regarding Ismael Rodriguez, a comptroller for Cubana Airlines who has been used by the CIA as a courier for transmitting material between the U.S. and Cuba related to CIA operations; this information is being directed to the attention of the Nationalities Intelligence Section.",
+  "summary_one_paragraph": "On August 17, 1961, S.J. Papich of the FBI sent a memo to L'Allier concerning Ismael Rodriguez, who works as a comptroller for Cubana Airlines in New York City and has been a source for the Bureau. David Hanlon from the CIA's Office of Security informed the FBI's Liaison Agent that the CIA has used Rodriguez as a courier for transporting materials between the U.S. and Cuba related to CIA operations. As a result, Papich is forwarding this information to the Nationalities Intelligence Section.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Ismael Rodriguez",
+    "Cubana Airlines",
+    "Courier",
+    "Cuba",
+    "Nationalities Intelligence Section",
+    "Liaison"
+  ],
+  "title": "ISMAEL RODRIGUEZ",
+  "date": "1961-08-17",
+  "locations_mentioned": [
+    "New York City",
+    "Cuba"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Ismael Rodriguez",
+    "S.J. Papich",
+    "L'Allier",
+    "David Hanlon"
+  ],
+  "recipient": "L'Allier",
+  "sender": "PAPICH"
+}

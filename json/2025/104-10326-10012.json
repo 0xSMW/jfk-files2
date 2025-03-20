@@ -1,0 +1,37 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security": "The cable discusses facilitating meetings with the BKGB (Belarusian KGB) regarding Lee Harvey Oswald's time in Minsk, but stipulates that the station should not participate in the meetings or any substantive discussions. Disclosing this could reveal the CIA's interest in Oswald's activities in Minsk and compromise future interactions with foreign intelligence services. Quoting directly: \"STATION MAY AGAIN *FACILITATE A MEETING BETWEEN THE (BKGB AND THE <ASSASSINATION>RECORD *REVIEW BOARD (ARRB) WHO IS LOOKING INTO THE<ASSASSINATION>OF *PRESIDENT<JOHN F. KENNEDY>, AND THE TIME<LEE HARVEY OSWALD>SPENT IN MINSK. HOWEVER, STATION SHOULD NOT PARTICIPATE IN MEETINGS OR ANY SUBSTANTIVE DISCUSSIONS.\"",
+  "security_level": "SECRET",
+  "summary": "A cable from the CIA Headquarters to Minsk station, instructing them to facilitate meetings between the ARRB and BKGB regarding Lee Harvey Oswald's time in Minsk, but explicitly forbidding CIA participation in substantive discussions.",
+  "summary_one_paragraph": "This SECRET cable, dated March 13, 1998, from CIA Headquarters to the Minsk station, outlines the parameters for facilitating meetings between the Assassination Records Review Board (ARRB) and the Belarusian KGB (BKGB). The ARRB is investigating President John F. Kennedy’s assassination, specifically Lee Harvey Oswald’s time spent in Minsk. The cable instructs the Minsk station to arrange the meeting but prohibits any CIA personnel from participating in the discussions. It also provides information on BKGB officials who met with ARRB members in October 1996, including Aleksandr Ablameika and Gennadiy Narkevich, along with possible variations of their names and positions.",
+  "tags": [
+    "ARRB",
+    "BKGB",
+    "Lee Harvey Oswald",
+    "John F. Kennedy",
+    "Assassination Records Review Board",
+    "Minsk",
+    "Belarus",
+    "CIA",
+    "RYBAT",
+    "WNINTEL",
+    "JYVAPOROUS"
+  ],
+  "title": "ARRB Meetings with BKGB",
+  "date": "1998-03-13",
+  "locations_mentioned": [
+    "Minsk, Belarus"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "John F. Kennedy",
+    "Aleksandr Ablameika",
+    "Gennadiy Narkevich",
+    "Lev Pimenau",
+    "Aleksandr Veras"
+  ],
+  "recipient": "Minsk Station",
+  "sender": "CIA Headquarters"
+}

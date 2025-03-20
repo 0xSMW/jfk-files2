@@ -1,0 +1,34 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "Discussion of OXCART project, including aircraft specifications (MACH 2.16 at 60,000 feet) and engine issues (J-58 engines), reveals classified technology. Details about the CIA budget and the dispute with the Department of Defense over NRO fiscal control expose internal disagreements and financial allocations. Description of OPERATION MONGOOSE and the decision to 'utilize all resources to unseat Castro' discloses sensitive clandestine operations. ",
+  "security_level": "Top Secret",
+  "summary": "This is a memorandum summarizing DCI McCone's presentation to the President's Foreign Intelligence Advisory Board on December 7, 1962, covering topics such as the OXCART project, intelligence budget allocations, and Operation MONGOOSE.",
+  "summary_one_paragraph": "On December 10, 1962, a memorandum was created summarizing DCI McCone's presentation to the President's Foreign Intelligence Advisory Board (PFIAB) on December 7, 1962, covering the status of the OXCART project, which included updates on aircraft development and engine challenges. The DCI discussed intelligence budget allocations, highlighting the disparity between the Department of Defense and CIA budgets, as well as internal disagreements over fiscal control of the National Reconnaissance Office (NRO). McCone also addressed Operation MONGOOSE, detailing its objectives to unseat Castro, while expressing concerns about potential confrontations and the presence of SAM sites in Cuba. The meeting included discussions with members such as Dr. Killian, Dr. Baker, and Mr. Clifford.",
+  "tags": [
+    "Anti-Castro Activities",
+    "PFIAB",
+    "Operation Mongoose",
+    "McCone, John",
+    "Clandestine Operations",
+    "Oxcart Project",
+    "Intelligence Budget",
+    "NRO"
+  ],
+  "title": "DCI Presentation to the PFIAB, 7 December 1962",
+  "date": "1962-12-10",
+  "locations_mentioned": [
+    "Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John McCone",
+    "Dr. Killian",
+    "Dr. Baker",
+    "Mr. Horner",
+    "Mr. Clifford",
+    "Dr. Langer",
+    "Castro"
+  ],
+  "sender": "CIA"
+}

@@ -1,0 +1,27 @@
+{
+  "classification": "CUBA",
+  "document_type": "REPORT",
+  "security": "Revealing that Cuban diplomatic missions were placed on alert status due to potential hostile activity following President Kennedy's assassination could expose Cuban security measures and concerns at the time. The document also mentions a 'special alert status' and exhortations to 'exercise extreme vigilance,' potentially revealing the nature of Cuban defensive protocols. Exposing this information could assist adversaries in circumventing these measures.",
+  "security_level": "SECRET",
+  "summary": "A CIA report from December 1963 details the alert status of Cuban diplomatic missions following President Kennedy's assassination due to fears of hostile activity.",
+  "summary_one_paragraph": "This CIA report, dated December 13, 1963, reveals that Cuban diplomatic missions were placed on a special alert status approximately two days after President John F. Kennedy's assassination, prompted by the Cuban government's apprehension of hostile activity directed against these missions. The alert included instructions for extreme vigilance, a 24-hour watch of mission premises, ensuring no compromising documents were present, and guarding against hostile provocations. One chief of mission experienced delays in getting permission to travel, with a request taking over a week to be approved.",
+  "tags": [
+    "CUBA",
+    "JFK Assassination",
+    "Cuban Diplomatic Missions",
+    "Alert Status",
+    "CIA",
+    "Hostile Activity"
+  ],
+  "title": "ALERT STATUS OF CUBAN DIPLOMATIC MISSIONS, AS RESULT OF THE ASSASSINATION OF PRESIDENT KENNEDY",
+  "date": "1963-12-13",
+  "locations_mentioned": [
+    "CUBA",
+    "HAVANA"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy"
+  ],
+  "recipient": "CINCLANT"
+}

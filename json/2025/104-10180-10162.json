@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This message details specific operational instructions, including evacuation plans, communication methods, and financial arrangements for agents in Cuba. It also identifies a potential security risk (Elvika Jovane de Sayas) and a possible compromised contact (Counsellor Yugoslav Emb). Directly quoting: \"BE VERY CAREFUL OF ELVIKA JOVANE DE SAYAS WE HAVE REPORT SHE VERY PRO-CASTRO...TELL (PETE) BE CAREFUL OF COUNSELLOR YUGOSLAV EMB WHO INTELLIGENCE AGENT.\"",
+  "security_level": "SECRET",
+  "summary": "A CIA message from KANOPOIHXBELL to CARACAS, relaying instructions to agents in Cuba regarding security precautions, evacuation, and communication protocols.",
+  "summary_one_paragraph": "On May 18, 1961, KANOPOIHXBELL sent a classified message to CARACAS with instructions for agents in Cuba, including warnings about Elvika Jovane de Sayas, suspected of being pro-Castro, and a Yugoslavian Embassy counselor identified as an intelligence agent. The message advises agents Henry, Clinton, Happy, and Eugenio to leave Cuba as soon as possible using Company funds for legal or illegal travel, instructing them to extract themselves from operations and focus on exfiltration. It outlines communication protocols, emphasizing the use of ink as the primary channel, and mentions financial arrangements, instructing Felipe's wife to send bank account details for monthly deposits.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Agent Evacuation",
+    "Security",
+    "Communication Protocols",
+    "Counterintelligence"
+  ],
+  "title": "Instructions to Agents in Cuba",
+  "date": "1961-05-18",
+  "locations_mentioned": [
+    "Cuba",
+    "Miami"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Ralph Seehafer",
+    "Elvika Jovane de Sayas",
+    "Henry",
+    "Clinton",
+    "Happy",
+    "Eugenio",
+    "Roberto",
+    "Pete",
+    "Felipe"
+  ],
+  "recipient": "CARACAS",
+  "sender": "KANOPOIHXBELL"
+}

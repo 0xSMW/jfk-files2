@@ -1,0 +1,38 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "CIA Information Telegram",
+  "security": "Disclosing planned intelligence activities related to a foreign government could jeopardize operations and sources. Specifically, revealing intentions to seek asylum at the U.S. embassy and planned distribution of documents to foreign press could compromise diplomatic relations and source protection. As stated, \"Just prior to the suicide, the companion planned. to deliver a copy of the letter to the U. S. Embassy for Ambassador Lodge and to seek asylum there. She belived her life would be in danger as the GVN would know that only she could have distributed the letter.\"",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A CIA information telegram reports on the planned suicide of Dieu Hue, mother of Vietnamese diplomat Buu Hoi, intended to denounce her son and highlight the persecution of Buddhists in Vietnam, timed for impact on the UN.",
+  "summary_one_paragraph": "On October 4, 1963, a CIA telegram reported that Dieu Hue, the mother of Buu Hoi, a Vietnamese diplomat and observer at the UN, was planning to commit suicide around October 5 in Saigon to protest the alleged persecution of Buddhists in Vietnam. Dieu Hue prepared a letter denouncing her son, with copies intended for distribution to the foreign press and opposition groups by a younger nun, who also planned to deliver a copy to Ambassador Lodge at the U.S. Embassy and seek asylum. Most monks and nuns at An Quang Pagoda, including Thich Thien Hoa, were reportedly unaware of the suicide plan.",
+  "tags": [
+    "CIA",
+    "Information Telegram",
+    "South Vietnam",
+    "Buddhist Crisis",
+    "Suicide Protest",
+    "Buu Hoi",
+    "Dieu Hue",
+    "U.S. Embassy",
+    "Asylum"
+  ],
+  "title": "CIA Information Telegram",
+  "date": "1963-10-04",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon",
+    "United Nations",
+    "U.S. Embassy"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Buu Hoi",
+    "Dieu Hue",
+    "Ambassador Lodge",
+    "Thich Thien Hoa",
+    "HUGHES",
+    "Mr. HILSMAN"
+  ],
+  "recipient": "STATE",
+  "sender": "CIA"
+}

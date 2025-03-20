@@ -1,0 +1,45 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security": "Revealing the identity of FCSTANDARD/32 as a human asset and the details of their contacts could expose the asset to danger. Disclosing the contact procedures, such as meeting at the Concorde Nightclub and discussing sensitive information, could compromise ongoing and future intelligence operations. Quote: 'C/O AND SUBJ HAVE BEGUN DISCUSSING SUDAN AND LIBYA, AND SUBJ HAS BEGUN VISITING C/O'S RESIDENCE'.",
+  "security_level": "SECRET",
+  "summary": "A cable summarizes recent contacts between a CIA staff member and asset FCSTANDARD/32, covering meetings, topics discussed (Sudan, Libya, Israeli and Russian delegations), and observations made by the asset.",
+  "summary_one_paragraph": "This cable, dated February 1998 from Addis Ababa, summarizes contacts between a CIA staff member (C/O) and intelligence asset FCSTANDARD/32. These contacts included meetings at the Concorde Nightclub and the U.S. Embassy, where discussions covered various topics such as a Saudi intelligence officer, a visiting Russian delegation, Israeli officials (Rami Hatan and Eliezer Yitzhaky), and the refurbishment of Ethiopian T-55 tanks. FCSTANDARD/32 provided insights into local events, including the extradition of Oromo oppositionists and the visit of Foreign Minister Moussa, and shared personal details, such as his relationship with a local girlfriend and home security measures. The report also mentions business dealings, potential intelligence connections within the local community, and gifts exchanged between the asset and C/O.",
+  "tags": [
+    "WNINTEL",
+    "RYBAT",
+    "FCSTANDARD",
+    "Human Asset",
+    "Sudan",
+    "Libya",
+    "Israeli Delegation",
+    "Russian Delegation",
+    "Addis Ababa",
+    "Intelligence Gathering"
+  ],
+  "title": "Summary of Recent Contacts with FCSTANDARD/32",
+  "date": "1998-02-25",
+  "locations_mentioned": [
+    "Addis Ababa",
+    "Sudan",
+    "Libya",
+    "Cairo",
+    "Djibouti",
+    "Saudi Arabia",
+    "Ethiopia"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "FCSTANDARD/32",
+    "Tony P. Ragl",
+    "Rami Hatan",
+    "Eliezer \"Eli\" Yitzhaky",
+    "Moussa",
+    "Salah LNU",
+    "Mahmoud LNU",
+    "Helen",
+    "Wadie A. Al-Thagafi"
+  ],
+  "recipient": "Director, Cairo",
+  "sender": "Staff"
+}

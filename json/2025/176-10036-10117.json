@@ -1,0 +1,40 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "CIA Information Telegram",
+  "security": "Disclosing General Minh's criticisms and potential disloyalty to President Diem could damage diplomatic relations and destabilize the already tense political situation in South Vietnam. The report directly states: 'THE BUDDHIST PROBLEM IS FAR FROM SETTLED. IT IS BECOMING WORSE AND UNLESS THE GOVERNMENT CHANGES ITS POLICY THERE WILL BE ADDITIONAL BUDDHIST SELF IMMODATIONS.' Revealing this could fuel unrest and undermine U.S. efforts to support the South Vietnamese government.",
+  "security_level": "SECRET",
+  "summary": "A CIA information telegram reports Major General Duong Van Minh's criticisms of President Diem, citing Diem's loss of popular support and irrational handling of the Buddhist issue, advocating for a change in government but opposing Ngo Dinh Nhu's succession.",
+  "summary_one_paragraph": "On July 18, 1963, a CIA information telegram detailed Major General Duong Van Minh's discontent with President Diem's leadership in South Vietnam; Minh criticized Diem for losing touch with the people, mishandling the Buddhist crisis, and becoming increasingly irrational, particularly highlighting his unwillingness to address the Buddhist issue reasonably. Minh expressed the necessity for governmental change, cautioned against Ngo Dinh Nhu taking control, and noted that despite military pressure against the Viet Cong, the lack of popular support undermined overall efforts. He also mentioned Nguyen Ngoc Tho's desire to resign due to the inflexibility of key individuals like Nhu and Archbishop Ngo Dinh Thuc, and indicated potential student unrest on the anniversary of the Geneva Accords, while asserting Brigadier General Do Cao Tri would maintain command despite tensions with Brigadier General Le Van Nghiem.",
+  "tags": [
+    "CIA",
+    "Duong Van Minh",
+    "Ngo Dinh Diem",
+    "South Vietnam",
+    "Buddhist Crisis",
+    "Government Change",
+    "Viet Cong",
+    "Nguyen Ngoc Tho",
+    "Geneva Accords",
+    "Military Command"
+  ],
+  "title": "CIA Information Telegram",
+  "date": "1963-07-18",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Duong Van Minh",
+    "Ngo Dinh Diem",
+    "Ngo Dinh Nhu",
+    "Do Cao Tri",
+    "Le Van Nghiem",
+    "Nguyen Ngoc Tho",
+    "Nguyen Tuong Tam",
+    "Ngo Dinh Thuc",
+    "Enolting",
+    "Harkins"
+  ],
+  "recipient": "State/INR DIA Army/ACSI Navy Air JCS SECDEF NSA NIC AID USIA OCI ONE OGR"
+}

@@ -1,0 +1,36 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security": "Disclosing the identity of DESIGNET or KAFOK (and the associated operational details, such as planned exit from Perumen and debriefing by a KUBARK operative) could expose intelligence sources and methods. Directly quoting: \"DESIGNET, FORMER LONG TERM RESIDENT PERUMEN, KILL FETUL PERUMEN ON BUSINESS TRIP FOR IDEN B. LATTER IS FIRM JE REPRESENTED ALONG...ATTEMPT EXIT PIRUMEN APFROX TWO WEEKS AFTER ARRIVAL FOR BRIEF TRIP EXI FOR DEBRIEFING BRIEFING EY KUBARKER...\"",
+  "security_level": "SECRET",
+  "summary": "A secret cable discusses an operation involving DESIGNET, a former resident of PERUMEN, who is to kill FETUL, a person on a business trip. The cable outlines DESIGNET's travel plans and mentions arrangements for his passage through Mexico, along with a debriefing by a KUBARK operative.",
+  "summary_one_paragraph": "This secret cable, dated September 30, 1963, details an operation (KAFOK KEYWAY PERUMEN) involving an individual identified as DESIGNET (IDEN A), a former long-term resident of PERUMEN. DESIGNET is tasked with killing FETUL, who is on a business trip for IDEN B. The plan includes DESIGNET departing Italy on October 6, visiting friends in Switzerland, proceeding to Madrid by October 11, and then taking an Iberia flight directly to PERUMEN. After approximately two weeks, DESIGNET will attempt to exit PERUMEN for a debriefing and briefing by a KUBARK operative before returning for two to three more months. The cable also mentions arrangements in Mexico for DESIGNET’s passage following their departure.",
+  "tags": [
+    "CIA",
+    "Operation",
+    "KAFOK KEYWAY PERUMEN",
+    "DESIGNET",
+    "FETUL",
+    "KUBARK",
+    "Mexico",
+    "Travel",
+    "Assassination"
+  ],
+  "title": "KAFOK KEYWAY PERUMEN 72346",
+  "date": "1963-09-30",
+  "locations_mentioned": [
+    "Mexico",
+    "Rome",
+    "Italy",
+    "Suisse",
+    "Madrid",
+    "PERUMEN"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "DESIGNET",
+    "FETUL"
+  ],
+  "recipient": "MEXI INFO. ROME WAVE",
+  "sender": "DIRECTOR"
+}

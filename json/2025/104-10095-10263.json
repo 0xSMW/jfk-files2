@@ -1,0 +1,38 @@
+{
+  "classification": "Administrative",
+  "document_type": "Action List",
+  "security": "This document is an action list from the Senate Select Committee. Sharing details of specific requests or briefings, such as 'Briefing on CIA covert involvement in (Jamaica) and Argentina)' or requests for information on CIA relations with certain organizations, could reveal ongoing congressional oversight activities and specific areas of interest. This information could be exploited by foreign governments or other entities to anticipate or counter U.S. intelligence activities.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a Senate Select Committee action list detailing requests and their status related to various topics concerning the CIA, including covert operations, relationships with external organizations, and briefings for senators.",
+  "summary_one_paragraph": "This Senate Select Committee action list documents various requests made to the CIA from August to October 1976 and their corresponding statuses. The list includes oral and written requests from individuals like Bill Miller, Inderfurth, and Senators Inouye, Bayh, and Hathaway, covering topics ranging from CIA covert involvement in Jamaica and Argentina, CIA relationships with organizations like the National Strategic Information Center, briefings on budget review processes, information on the assassination of former Chilean Ambassador Letelier, and the provision of materials related to Lee Harvey Oswald. Each entry notes the action requested, the responsible party, and the completion status.",
+  "tags": [
+    "Senate Select Committee",
+    "Action List",
+    "CIA",
+    "Covert Operations",
+    "Briefings",
+    "Congressional Oversight"
+  ],
+  "title": "Senate Select Committee Action List",
+  "date": "1976-10-01",
+  "persons_mentioned": [
+    "Bill Miller",
+    "Inderfurth",
+    "Connaughton",
+    "Sen. Bayh",
+    "Elmer Hoehn",
+    "Madigan",
+    "Roselli",
+    "Hart",
+    "Inouye",
+    "Stan Taylor",
+    "John McMahon",
+    "Sens Hathaway",
+    "Goldwater",
+    "Pickett",
+    "Letelier",
+    "Oswald"
+  ],
+  "recipient": "CIA",
+  "sender": "Senate Select Committee"
+}

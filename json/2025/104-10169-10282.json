@@ -1,0 +1,51 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "File Records/Dispatch",
+  "security": "The document contains information about individuals, specifically Susan and Richard Frank, and their alleged connections to Communist organizations. Releasing this information could potentially violate their privacy. Additionally, details of intelligence operations (ODENVY) and coordination with legal attachés in foreign locations (London, Paris, Tokyo) could expose sensitive methods and sources. Quoting: “ODENVY has approved the following for passage to the EKAKITONS: Susan FRANK, nee Heiligman... has for several years been active in Communist front organizations...Richard C. FRANK...is believed to have made financial contributions to the Communist Party in the U.S., and there is information to indicated Communist Party membership on his part as late as 1957.”.",
+  "security_level": "SECRET/CONFIDENTIAL",
+  "summary": "This file contains records related to Susan Heiligman Frank and Richard Cyril Frank, including their alleged connections to communist organizations and activities. It includes memos, dispatches, and file reviews spanning from the 1950s to the 1970s, with references to FBI investigations and CIA operational coordination.",
+  "summary_one_paragraph": "This collection of documents, spanning from 1955 to 1973, consists of memos, routing sheets, file content lists, and dispatches pertaining to Susan Heiligman Frank (also known as Susan Warren) and Richard Cyril Frank. The documents detail investigations into the Franks' alleged affiliations with communist organizations, including Susan Frank's activities in communist front organizations, her appearances before the House Committee on Un-American Activities, and Richard Frank's suspected membership and financial contributions to the Communist Party. The files also reference coordination between the CIA and FBI, as well as operational approvals (ODENVY) for disseminating information to other entities regarding the Franks' activities and travel plans.",
+  "tags": [
+    "Susan Heiligman Frank",
+    "Richard Cyril Frank",
+    "Communist Organizations",
+    "FBI",
+    "CIA",
+    "ODENVY",
+    "House Committee on Un-American Activities",
+    "Internal Security",
+    "KOBIRD",
+    "LCHARVEST",
+    "IMANTTIONS",
+    "File Records"
+  ],
+  "title": "Susan Heiligman Frank File",
+  "date": "1960-05-25",
+  "locations_mentioned": [
+    "New York City",
+    "London",
+    "Paris",
+    "Tokyo",
+    "Canada"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Susan Heiligman Frank",
+    "Richard Cyril Frank",
+    "I. CAIC",
+    "James Lee",
+    "Ann Lee",
+    "Tang Ming-Chao",
+    "Maud Muriel Russell",
+    "Norman Victor Shulman",
+    "Morris Robert Hills",
+    "Ruth Shulman",
+    "Ivan Gerald Shapiro",
+    "Yung Koon-Man",
+    "Leo Huberman",
+    "Frederick Vanderbilt Field",
+    "S.J. Papich"
+  ],
+  "recipient": "Chief of Station, Bern, FBI Director",
+  "sender": "Chief, Headquarters/Deputy Director for Plans, SAS/CI/LDemos"
+}

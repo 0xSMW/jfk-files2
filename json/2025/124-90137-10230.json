@@ -1,0 +1,35 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security": "This memo details the use of an informant, Petros Moutsos, by the CIA and their plan for him to travel to Cuba, potentially involving his estranged wife with a communist background. Disclosing the operational details of using informants, especially involving travel to Cuba and exploiting personal relationships, could compromise intelligence sources and methods. Quoting directly: 'In order to arrange for such travel, it will be necessary for Moutsos to jump ship in New Orleans...CIA will then hold conferences with Moutsos...Prior to leaving for Havana, Moutsos will endeavor to establish contact with his wife, Angela Boyer, who has a communist background.'",
+  "security_level": "Secret",
+  "summary": "An FBI memo discusses CIA's use of Petros Moutsos as an informant and their plan to have him jump ship in New Orleans to travel to Cuba, potentially involving his estranged wife with a communist background to establish contacts.",
+  "summary_one_paragraph": "This FBI memo, dated September 23, 1960, outlines the CIA's operational details regarding Petros Moutsos, an informant previously utilized within the communist-dominated Greek Maritime Organization (OENO). With Moutsos's usefulness in the OENO diminishing, the CIA plans to have him jump ship in New Orleans while working as a crew member on the SS \"Radnor.\" The CIA intends to arrange Moutsos's travel to Cuba, hoping that he can serve as a source of information. This plan includes Moutsos re-establishing contact with his wife, Angela Boyer, who has a communist background, with the aim of exploiting this connection to enhance Moutsos's access to communist circles in Cuba. The memo instructs that this information should not be shared outside the Bureau.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Petros Moutsos",
+    "Informant",
+    "Cuba",
+    "Angela Boyer",
+    "OENO",
+    "Greek Maritime Organization",
+    "New Orleans",
+    "SS Radnor",
+    "Liaison Material"
+  ],
+  "title": "CIA LIAISON MATERIAL",
+  "date": "1960-09-23",
+  "locations_mentioned": [
+    "New Orleans",
+    "Cuba",
+    "Havana"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Petros Moutsos",
+    "Angela Boyer"
+  ],
+  "recipient": "NO",
+  "sender": "HQ"
+}

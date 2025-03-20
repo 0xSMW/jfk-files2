@@ -1,0 +1,30 @@
+{
+  "classification": "Personnel",
+  "document_type": "Report",
+  "security": "Revealing shipment details of small arms ammunition and captured enemy weapons, including serial numbers, could compromise security protocols and potentially endanger ongoing investigations or operations involving these weapons. Disclosing the individuals and locations involved in the shipment might also expose them to risk. For example, the document reveals: \"an outgoing shipment consisting of one box of small arms ammunition weighing 55 pounds and a box of captured enemy weapons, weighing 140 pounds, was shipped from SATL (ATEL), Eglin AFB, Florida 32542 (Mr. COOLEY/882-2328) to Sicris, 1655 Peachtree Street N.E., Atlanta, Georgia 30309, ...on: Mr. FRED BROWN. The DD Form 1149 reflects serial numbc for the 11 weapons as follows: 4514, 1300273, 35285, 681-9, 12099391, 928231, 8414320, 12047120, 411564, 700867 and 930843.\"",
+  "security_level": "UNCLASSIFIED",
+  "summary": "S.F. Reeves of the 3201st Transportation Squadron, Eglin AFB, reported a review of files revealed a shipment of small arms ammunition and captured enemy weapons from Eglin AFB to Sicris in Atlanta, Georgia, detailed in a GBL and attached DD Form 1149.",
+  "summary_one_paragraph": "On July 15, 1969, S. F. Reeves, a Shipment Planner at Eglin AFB, Florida, informed Eglin AF3 that a review of his files uncovered a copy of GBL NF-0,648,922, dated March 28, 1969, along with an attached DD Form 1149, dated March 13, 1969. These documents indicated an outgoing shipment of a box of small arms ammunition (55 pounds) and a box of captured enemy weapons (140 pounds) from Eglin AFB to Sicris in Atlanta, Georgia, addressed to Mr. Fred Brown; the DD Form 1149 listed serial numbers for the 11 weapons included in the shipment.",
+  "tags": [
+    "WerBell, Mitchell L",
+    "Reeves, S F",
+    "Interview",
+    "Requisition and Invoice",
+    "Shipping Document",
+    "Small Arms Ammunition",
+    "Captured Enemy Weapons",
+    "Eglin AFB",
+    "Atlanta, Georgia"
+  ],
+  "title": "REPORT",
+  "date": "1969-07-15",
+  "origin_agency": "CSF/INSCOM",
+  "persons_mentioned": [
+    "Mitchell L WerBell",
+    "S. F. Reeves",
+    "Fred Brown",
+    "Mr. Cooley"
+  ],
+  "recipient": "Eglin AFB",
+  "sender": "USA"
+}

@@ -1,0 +1,30 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "This document contains personal information about David Reed Fromer, including his Social Security number, date of birth, and place of birth. Releasing this information could violate his privacy.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report from December 9, 1966, details the examination of FBI files in San Francisco regarding David Reed Fromer, a Selective Service registrant. The report indicates Fromer has been of continuing interest to the FBI, with reports dating back to May 3, 1960, and copies of these reports have been furnished to the Department of the Army.",
+  "summary_one_paragraph": "On December 9, 1966, an agent from the 115th MI Group (I), Eugene J. Power, submitted a report detailing the examination of San Francisco FBI files concerning David Reed Fromer (SSN: 564 58 8137, DOB: July 21, 1942, POB: Chicago, Illinois). The FBI files, under Bureau File #100-433071, indicated continuing interest in Fromer with reports from May 3, 1960, to November 23, 1966, and copies of these reports were provided to the Department of the Army. The agent also furnished the San Francisco FBI office with DD Form 398 and DD Form 98 related to Fromer.",
+  "tags": [
+    "FBI",
+    "INSCOM",
+    "CSF",
+    "David Reed Fromer",
+    "Selective Service",
+    "Agent Report",
+    "Personnel Investigation"
+  ],
+  "title": "[ RESTRICTED ]",
+  "date": "1966-12-09",
+  "locations_mentioned": [
+    "Chicago, Illinois",
+    "San Francisco, California"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "David Reed Fromer",
+    "Eugene J. Power"
+  ],
+  "recipient": "[ RESTRICTED ]",
+  "sender": "[ RESTRICTED ]"
+}

@@ -1,0 +1,35 @@
+{
+  "classification": "Personnel",
+  "document_type": "Personnel File",
+  "security": "This document contains personal information such as James McCord Jr.'s date of birth, wife's name, children's names and ages, addresses, education details, and career assignments, which should be protected from unauthorized disclosure to prevent potential privacy violations and security risks. Sharing detailed information on McCord's past could expose sensitive details about his CIA employment history, including assignments and roles within security operations. Revealing such information may compromise operational security and endanger individuals associated with his work. For example, assignments such as 'CIA, Security Off, Washington' are sensitive.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This is a personnel file for James W. McCord, Jr., a CIA employee, detailing his personal information, education, and career assignments from 1948 to 1964.",
+  "summary_one_paragraph": "This personnel file provides detailed information about James W. McCord, Jr., born on January 26, 1924. The file includes his family details (wife Ruth and children Mike, Anne, and Nancy), education history (University of Texas and Lincoln Law School), and career assignments. His assignments include roles in the FBI, Department of Defense, and the CIA, with positions held in Washington, D.C., Germany, and San Francisco. The document also lists his hobbies and permanent address in Springfield, Virginia.",
+  "tags": [
+    "Personnel File",
+    "James W. McCord, Jr.",
+    "CIA",
+    "Security Officer",
+    "FBI",
+    "Career History"
+  ],
+  "title": "Personnel File: James W. McCord, Jr.",
+  "date": "1964",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Germany",
+    "San Francisco, California",
+    "California",
+    "Texas",
+    "Oakland, California",
+    "Springfield, Virginia"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "James W. McCord, Jr.",
+    "Ruth McCord",
+    "Mike McCord",
+    "Anne McCord",
+    "Nancy McCord"
+  ]
+}

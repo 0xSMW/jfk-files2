@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message/Information Report",
+  "security": "Revealing that the US is actively monitoring Cuban commercial negotiations with Western European countries could damage international relations and compromise intelligence sources. Directly quoting: 'THE CUBAN GOVERNMENT, HAS RENEWED NEGOTIATIONS FOR THE PAYMENT OF DEBTS RESULTING FROM EXPROPRIATIONS MADE FROM CERTAIN WESTERN EUROPEAN BUSINESS INTERESTS.'",
+  "security_level": "SECRET",
+  "summary": "A classified report details the Cuban government's efforts to initiate commercial barter with West European countries to pay debts and secure essential goods like fertilizer and transportation facilities, expecting a favorable sugar crop in 1964.",
+  "summary_one_paragraph": "This secret information report, dated December 20, 1963, from Mexico City, outlines the Cuban government's attempts to negotiate commercial barter deals with West Germany, Italy, and France to settle debts resulting from expropriations and obtain necessary supplies. The Cuban Ministry of Foreign Trades is trying to foster a positive environment before the sugar crop harvest in March 1964, with offers to sell tobacco at discounted prices. Cuba is prioritizing fertilizer, transportation facilities, and chemical products in exchange for sugar, anticipating a strong crop that could generate approximately $85 million in credits if sold at average world prices.",
+  "tags": [
+    "Cuba",
+    "Commercial Barter",
+    "West Europe",
+    "Sugar",
+    "Trade Negotiations",
+    "Foreign Relations",
+    "Economic Intelligence"
+  ],
+  "title": "Efforts of Cuban Government to Initiate Commercial Barter with West European Countries",
+  "date": "1963-12-20",
+  "locations_mentioned": [
+    "Cuba",
+    "West Germany",
+    "Italy",
+    "France",
+    "Mexico City",
+    "Mexico"
+  ],
+  "origin_agency": "Unknown",
+  "persons_mentioned": [
+    "Fidel Castro (Cuban Government)"
+  ],
+  "recipient": "State ECON CINCSO",
+  "sender": "PADA MEXICO"
+}

@@ -1,0 +1,31 @@
+{
+  "classification": "Personnel, Operations, Security",
+  "document_type": "Review of a Book Manuscript",
+  "security": "This document discusses sensitive CIA operational methods and personnel, including deep cover personnel, laundering of salaries, cover training establishments (Camp Peary), and the CIA/State ground rule about informing ambassadors about deep cover officers. The document also mentions a potential source that could be endangered if a passage is not modified. The discussion of a terrorist kidnapping in the Dominican Republic reveals operational details that, if published, could endanger individuals and relationships. Specifically, 'Revelation of details of a (joint operation) by a former division chief might lead the increasingly friendly liaison contacts to wonder whether we can maintain confidence on future operations and thereby throw the new relationship into jeopardy.' Also, 'Although the bugging of the thermos was discovered and appeared in the press, the use of the Coca Cola case was not exposed and therefore continues to be an operational possibility, at least as far as the Dominican Republic is concerned.'",
+  "security_level": "SECRET",
+  "summary": "This document contains a review of a book manuscript, detailing sensitive CIA information such as deep cover personnel, financial practices, training facilities, and operational methods. It recommends modifications and deletions to protect sources, relationships, and operational capabilities.",
+  "summary_one_paragraph": "This document outlines a review of a book manuscript, highlighting several security concerns related to the exposure of sensitive CIA information. It identifies specific passages that discuss deep cover personnel income, laundering of salaries, the CIA's training establishment (Camp Peary), and the relationship between the CIA and State Department regarding deep cover officers. The review recommends modifying a passage to protect a source and deleting a section about a terrorist kidnapping in the Dominican Republic due to potential risks to individuals, relationships, and operational methods, including the continued viability of using a Coca Cola case for bugging operations.",
+  "tags": [
+    "CIA",
+    "Covert Operations",
+    "Personnel Security",
+    "Source Protection",
+    "Operational Methods",
+    "Camp Peary",
+    "Dominican Republic",
+    "Book Review",
+    "Deep Cover"
+  ],
+  "title": "Review of Book Manuscript: Sensitive CIA Information",
+  "locations_mentioned": [
+    "Mexico City",
+    "Costa Brava",
+    "Dominican Republic"
+  ],
+  "origin_agency": "Central Cover Staff",
+  "persons_mentioned": [
+    "Winston Scott",
+    "Barbara Hutchison",
+    "Agee"
+  ]
+}

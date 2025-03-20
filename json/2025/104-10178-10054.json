@@ -1,0 +1,25 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memo",
+  "security": "Providing false employment information for individuals in sensitive operations can compromise ongoing intelligence activities and the safety of involved personnel. The document states: \"Request that action and status cover of Tri-State Engineering be given to Luis POSADA Carriles and Alberto de Jesus ALMARAL Garcia.\" This reveals a method of concealing the true activities of individuals, which could be exploited if the cover is exposed.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memo requesting action and status cover for Luis POSADA Carriles and Alberto de Jesus ALMARAL Garcia, who have been assigned to the Carlise Training Base, with Posada receiving cover at Tri-State Engineering and Almaral already under cover as Radio & Electronics Equipment Company, Inc.",
+  "summary_one_paragraph": "This memo, dated September 17, 1935, from TRG/TREATIES to the Chief of the Cover Branch, Chief of the Maritime Training Section, and Chief of the Training Branch, requests action and status cover for Luis POSADA Carriles and Alberto de Jesus ALMARAL Garcia. Both subjects have been assigned to the Carlise Training Base, with POSADA Carriles receiving cover at Tri-State Engineering as a Technical Supervisor, and ALMARAL Garcia already under cover as Radio & Electronics Equipment Company, Inc. The memo includes biographic data on POSADA Carriles, including his date of birth, previous employment, and provided address and telephone number, for cover purposes.",
+  "tags": [
+    "Covert Operations",
+    "Luis Posada Carriles",
+    "Alberto de Jesus Almaral Garcia",
+    "Tri-State Engineering",
+    "Carlise Training Base",
+    "False Employment",
+    "Action and Status Cover"
+  ],
+  "title": "Action and Status Cover for Luis POSADA Carriles and Alberto de Jesus ALMARAL Garcia",
+  "date": "1935-09-17",
+  "persons_mentioned": [
+    "Luis POSADA Carriles",
+    "Alberto de Jesus ALMARAL Garcia"
+  ],
+  "recipient": "Chief, Cover Branch, Chief, Maritime Training Section, Chief, Training Branch",
+  "sender": "TRG/TREATIES"
+}

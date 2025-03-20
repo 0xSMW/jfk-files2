@@ -1,0 +1,29 @@
+{
+  "classification": "House Select Committee on Assassinations (HSCA)",
+  "document_type": "Telepouch",
+  "security": "Revealing that the CIA is seeking information from NIGALE on the VMO, specifically concerning contacts between the VMO and Americans between March 1968 and 1970, could expose intelligence-gathering methods and compromise relationships with foreign intelligence agencies. The request for a report on the VMO, even if classified, could indicate the extent of the CIA's interest in the organization, potentially jeopardizing ongoing or future operations. Quote: \"THEREFORE, REQUEST YOU DISCUSS COMMITTEE REQUEST WITH NIGALE MANAGEMENT. DOES NIGALE HAVE ANY INFORMATION WHICH INDICATES A CONTACT BETWEEN THE VMO AND AMERICANS DURING PERIOD MARCH 1968 ΤΟ 1970? WOULD THEY BE WILLING PROVIDE IT? ALSO WOULD NIGALE PREPARE REPORT ON VMO FOR PASSAGE TO COMMITTEE?\"",
+  "security_level": "SECRET",
+  "summary": "This secret telepouch from April 1978 discusses the House Select Committee on Assassinations' (HSCA) request for information on the Flemish Order of Militants (VMO) in connection with its investigation into the death of Martin Luther King, Jr., and seeks to balance honoring the committee's request with preserving the relationship with NIGALE.",
+  "summary_one_paragraph": "This secret telepouch, dated April 28, 1978, relays the House Select Committee on Assassinations' (HSCA) request for information concerning the Flemish Order of Militants (VMO) as part of their investigation into Martin Luther King, Jr.’s assassination, focusing on potential support the assassin may have received in Europe. Sent from E/BNL to Brussels, it outlines a plan to approach NIGALE, an intelligence entity, to ascertain if they have any data indicating contact between the VMO and Americans between March 1968 and 1970, and to request NIGALE's cooperation in providing a report on the VMO, while assuring that any shared information will be classified and treated with sensitivity.",
+  "tags": [
+    "HSCA",
+    "Martin Luther King Jr. Assassination",
+    "Flemish Order of Militants",
+    "VMO",
+    "NIGALE",
+    "Intelligence Request",
+    "Liaison"
+  ],
+  "title": "WNINTEL NIFLAIR NIGALE - FLEMISH ORDER OF MILITANTS HSCA",
+  "date": "1978-04-28",
+  "locations_mentioned": [
+    "Brussels",
+    "Europe"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Martin Luther King, Jr."
+  ],
+  "recipient": "Brussels",
+  "sender": "E/BNL"
+}

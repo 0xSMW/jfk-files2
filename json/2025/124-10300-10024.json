@@ -1,0 +1,45 @@
+{
+  "classification": "Cuba",
+  "document_type": "Airtel",
+  "security": "This document concerns the investigation of Jorge Raul Roblejo Lorie and his potential connections to Cuban intelligence. Disclosing details about monitoring his activities, bank accounts, and contacts could impede ongoing investigations and compromise intelligence sources. Specifically, the document mentions: \"Miami plans to locate and possibly monitor the bank account of the Committee of Relatives of the One Hundred...\" and \"Local stops have been placed with INS in order to be notified of ROBLEJO's return to the United States.\"",
+  "security_level": "Secret",
+  "summary": "FBI Airtel from Miami to the Director regarding Jorge Raul Roblejo Lorie and his activities related to the Committee for the Liberation of the One Hundred, detailing interactions with Sergio Oswaldo Betancourt Collazo and concerns about Roblejo's anti-U.S. sentiments and potential intelligence gathering.",
+  "summary_one_paragraph": "This FBI Airtel, dated July 10, 1967, from the SAC in Miami to the FBI Director, concerns Jorge Raul Roblejo Lorie and his activities connected to the Committee for the Liberation of the One Hundred (CPLLC). The report details information provided by Sergio Oswaldo Betancourt Collazo, who recounted his interactions with Roblejo, including a trip to Puerto Rico where they met with Manolo Ray and Rufo Lopez Fresquet. Betancourt expressed concerns about Roblejo's anti-U.S. views and recounted an incident where Roblejo inquired about security at the Miami Airport, specifically about photographing documents and people being investigated by the FBI. The Airtel indicates that the FBI is monitoring Roblejo's bank accounts and has placed local stops with INS to track his return to the U.S.",
+  "tags": [
+    "FBI",
+    "Jorge Raul Roblejo Lorie",
+    "Sergio Oswaldo Betancourt Collazo",
+    "Comite Pro-Liberacion de los Cien",
+    "CPLLC",
+    "Cuba",
+    "Internal Security",
+    "Counterintelligence",
+    "Miami",
+    "Puerto Rico"
+  ],
+  "title": "",
+  "date": "1967-07-10",
+  "locations_mentioned": [
+    "Miami, Florida",
+    "Hialeah, Florida",
+    "Mexico City",
+    "San Juan, Puerto Rico",
+    "Santurce, Puerto Rico",
+    "Venezuela",
+    "Panama",
+    "Ottawa, Canada",
+    "Cuba"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Jorge Raul Roblejo Lorie",
+    "Sergio Oswaldo Betancourt Collazo",
+    "Angel Estevez",
+    "Manolo Ray",
+    "Rufo Lopez Fresquet",
+    "Fidel Castro",
+    "Ermitas Ramon Arias"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, MM"
+}

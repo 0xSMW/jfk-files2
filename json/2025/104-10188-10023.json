@@ -1,0 +1,40 @@
+{
+  "classification": "Administrative, Operations, Mexico",
+  "document_type": "File Action Request, Cable, Dispatch, Message",
+  "security": "Multiple documents within this collection are classified SECRET, indicating that their disclosure could cause serious damage to national security. The project KDFACTOR, mentioned in several documents, involves covert operations. Providing specific details of project amendments, budget allocations, and operational procedures, as seen in the dispatch from the Chief of Station, Mexico City, could expose intelligence methods and compromise ongoing activities. Quoting directly: 'One of the provisos of the Project amendment is that the Station furnish Headquarters an updated security review of this operation...' and 'Station authorized dispose MV-2606 per FR 45-31 (3) and replace locally with 1969 Rambler, cost not to exceed 4000.00.'",
+  "security_level": "SECRET",
+  "summary": "This document collection pertains to Project KDFACTOR, a covert operation, and LIEMPTY project, involving budget amendments, security reviews, vehicle replacements, and operational transfers within the Mexico City station. It includes file action requests, cables, and dispatches detailing administrative and logistical aspects of these projects.",
+  "summary_one_paragraph": "This collection of documents comprises file action requests, cables, and dispatches detailing the administrative and logistical aspects of Project KDFACTOR and the LIEMPTY project within the Mexico City station. It includes project amendments for KDFACTOR related to termination bonuses and future funding, security reviews, and contingency planning. Additionally, the documents cover the transfer of responsibility for the LIEMPTY project, authorizations for vehicle replacements, and related budget estimates, providing insight into the operational support and financial management of these covert activities.",
+  "tags": [
+    "KDFACTOR",
+    "LIEMPTY",
+    "Mexico City",
+    "Covert Operations",
+    "Budget",
+    "Security Review",
+    "Vehicle Replacement",
+    "CIA",
+    "File Action",
+    "Dispatch",
+    "Cable"
+  ],
+  "title": "KDFACTOR Project and LIEMPTY Project Documentation",
+  "date": "1973-07-23",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Leslie D. CLEBANOFF",
+    "John C. Murray",
+    "Bruce H. FERNALD",
+    "Howard T. BAGAUS",
+    "Timothy M. ARCHBOLD",
+    "Raymond H. GERENDE",
+    "Damon Watters",
+    "William V. BROE",
+    "R. L. KING"
+  ],
+  "recipient": "IP/AN, WHD, Director",
+  "sender": "Chief of Station, Mexico City"
+}

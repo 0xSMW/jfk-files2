@@ -1,0 +1,29 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "Revealing the identities of individuals who have offered services to KUBARK (CIA) could potentially endanger those individuals and compromise future recruitment efforts. Quoting directly: \"REQUESTED URGENT TRACES (ALFONSO ASSELJON CONDES) FORMER LANGUAGE INSTRUCTOR OF VELDRAKE, WHD IN CONTACT WITH OAS SPAIN AND WHD HAS OFFERED SERVICES TO KUBARK.\"",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "A cable from November 22, 1963, requests WELDRAKE's comments on a subject mentioned in a previous message (MADR 9692) and provides information about Alfonso Asseljon Condes, a former language instructor of VELDRAKE who has offered services to KUBARK.",
+  "summary_one_paragraph": "This SECRET-level cable, dated November 22, 1963, sent via WE/6 and SIG CEN, acknowledges receipt by ELP, CI/SEO, CI/OA, SIS 8, and VI. It references a previous message (MADR 9692) and requests WELDRAKE’s comments on a subject related to Alfonso Asseljon Condes, a former language instructor for VELDRAKE who is in contact with OAS Spain and has offered services to KUBARK. Headquarters (HQS) indicates no other traces of the subject besides the referenced GSMA-7109 document, and the Madrid station is considering possible utilization of the subject.",
+  "tags": [
+    "CIA",
+    "KUBARK",
+    "WELDRAKE",
+    "Alfonso Asseljon Condes",
+    "OAS Spain",
+    "Recruitment",
+    "Language Instructor"
+  ],
+  "title": "Request for WELDRAKE's Comments and Information on Alfonso Asseljon Condes",
+  "date": "1963-11-22",
+  "locations_mentioned": [
+    "Spain"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Alfonso Asseljon Condes",
+    "WELDRAKE"
+  ],
+  "recipient": "ELP, CI/SEO, CI/OA, SIS 8, VI",
+  "sender": "WE/6"
+}

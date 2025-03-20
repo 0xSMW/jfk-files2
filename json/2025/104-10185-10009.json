@@ -1,0 +1,39 @@
+{
+  "classification": "Operations",
+  "document_type": "Memo",
+  "security": "Revealing details about QJWIN's operations, transfer plans, spotting efforts, and contact methods could compromise the individual, ongoing operations, and relationships with contract agents. Specifically, the memo states: 'Despite COS LUXE's viewpoint, I happen to know that QJWIN can do more spotting in Corsican circles whenever we want him to.' and 'The precise method of contact with QJWIN' are details that should remain confidential.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memo regarding the transfer of QJWIN to Baden-Baden, discussing candidates spotted by QJWIN, and outlining details yet to be worked out such as the method of contact with QJWIN and the system for drawing funds.",
+  "summary_one_paragraph": "This memo, dated July 3, 1962, addresses the planned transfer of QJWIN to Baden-Baden, referencing previous communications (OLLA-1463, LUXE/0489, DIR 18391) regarding the proposal and capital outlay. It discusses potential candidates identified by QJWIN in Italy, assessed by Trieste Base contract agent Magonetti, and mentions Hank Manfredi (TN) in Rome for spotting efforts, emphasizing the need to re-brief Manfredi if he proceeds with a contact in Florence. The memo also notes that most of the file's contents are inconsequential except for pay receipts and the ZRRIFLE authorization, before outlining pending details, including contact methods with QJWIN, fund disbursement, and an emergency contact.",
+  "tags": [
+    "QJWIN",
+    "Baden-Baden",
+    "Spotting",
+    "Recruitment",
+    "LUXE",
+    "OLLA",
+    "ZRRIFLE",
+    "Trieste Base",
+    "Magonetti",
+    "Hank Manfredi"
+  ],
+  "title": "ZRRIFLE",
+  "date": "1962-07-03",
+  "locations_mentioned": [
+    "Baden-Baden",
+    "Italy",
+    "Trieste",
+    "Rome",
+    "Florence",
+    "Corsica"
+  ],
+  "persons_mentioned": [
+    "QJWIN",
+    "Magonetti",
+    "Hank Manfredi",
+    "Heles",
+    "Skip"
+  ],
+  "recipient": "NKH",
+  "sender": "AMS"
+}

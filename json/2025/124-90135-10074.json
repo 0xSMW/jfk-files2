@@ -1,0 +1,51 @@
+{
+  "classification": "Cuba",
+  "document_type": "Paper, Textual Document (Summary)",
+  "security": "This document details the FBI's investigation into Eloy Gutierrez Menoyo, focusing on his activities, associations, and reputation among Cuban exile groups. The summary reveals informant information (MM T-1, MM 639-S), including their identities and locations. Disclosing this document risks compromising ongoing investigations, endangering informants, and potentially disrupting relationships with other agencies like the CIA. For example, the document states: \"MM T-1 is MM 639-S - INFORMANTS - 134-238 Sub A-479 and 134-238 Sub A-478.\" and \"Headquarters Comment: This probably refers to Eloy Gutierrez Menoyo, Commandant of the former anti-Batista Second National Front of the Escambray, who took exile in the U.S. in January, 1961.\"",
+  "security_level": "Secret",
+  "summary": "This FBI document, dated January 18, 1963, summarizes information on Eloy Gutierrez Menoyo, a former leader in the Cuban Revolution and later an anti-Castro exile, gathered through various sources and informants. The summary covers his activities, associations, and reputation within the Cuban exile community, including his alleged connections to Operation Alpha 66 and his strained relationships with other Cuban leaders.",
+  "summary_one_paragraph": "This FBI document is a summary of information gathered on Eloy Gutierrez Menoyo, a former commander in the Cuban Revolution who later became an anti-Castro exile. The report details his early support for the Castro government, his subsequent disillusionment, and his involvement with various exile groups and activities, including the Second National Front of the Escambray and alleged connections to Operation Alpha 66. It includes reports from informants, CIA information, and references to news articles, painting a picture of Gutierrez Menoyo's shifting allegiances and controversial reputation within the Cuban exile community in Miami. The document also notes his family's communist ties and accusations against him related to events in Cuba.",
+  "tags": [
+    "FBI",
+    "Eloy Gutierrez Menoyo",
+    "Cuba",
+    "Anti-Castro",
+    "Informant",
+    "Operation Alpha 66",
+    "Exile",
+    "Second National Front of the Escambray"
+  ],
+  "title": "",
+  "date": "1963-01-18",
+  "locations_mentioned": [
+    "Cuba",
+    "Miami, Florida",
+    "Havana",
+    "Isle of Pines",
+    "Spain",
+    "Portugal",
+    "Madrid"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Eloy Gutierrez Menoyo",
+    "Fidel Castro",
+    "Che Guevara",
+    "William Alexander Morgan",
+    "Florencio Pernas Lorenzo",
+    "Abderraman Muley More",
+    "Manuel Perez",
+    "Trujillo",
+    "Manuel Ray",
+    "Carlos Prio Socarras",
+    "Humberto Sori Marin",
+    "Max Edgardo Lesnick Menendez",
+    "Herbert Matthews",
+    "Mario Garcia Inchaustegui",
+    "Jose Miro Cardona",
+    "Manuel Ray Rivero",
+    "Generoso Campos Marquetti",
+    "Tony Cuesta"
+  ],
+  "sender": "HQ"
+}

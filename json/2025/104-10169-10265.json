@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing details about the identities and operations of agents, like Agent 2515 and Agent 2517, including their missions and planned contacts, could jeopardize their safety and compromise ongoing operations. Similarly, the mention of 'A-3' and the 'AMDIP-3' courier provides insights into specific operational codenames and structures, which could be exploited if this information fell into the wrong hands. Mentioning the proposed 'AMJAVA-4' infiltration plan could be intercepted by hostile entities. Quoting directly: 'AGENT 2515 DISPATCHED TO HABANA LEGALLY ON 12 FEB WITH ORDERS TO CONTACT GIQUEL... WAVE AND A-3 CONSIDER IT ESSENTIAL ESTABLISH SECURE COMMO BETWEEN WAVE AND A-3 GROUPS. PROPOSE DISPATCH AMJAVA-4 BY BLACK, SLA INFILTRATION TO CUBA'.",
+  "security_level": "SECRET",
+  "summary": "A CIA message details a security incident involving the agent A-3 in Havana, where their safe house was raided by G2, and discusses plans to establish secure communication with A-3 groups via AMJAVA-4 infiltration.",
+  "summary_one_paragraph": "This classified CIA message, dated February 15, 1961, reports on a security breach involving the agent codenamed A-3, whose safe house in Havana was raided by G2, resulting in the detention of Louisa Giquel. The message outlines the dispatch of agents 2515 and 2517 to manage the situation, including instructing Agent 2515 to avoid contact with the compromised A-3 group. Furthermore, it proposes dispatching AMJAVA-4 via clandestine infiltration to establish secure communication between WAVE and A-3 groups, planned between February 17-19, with JAVA/2 and 3 to accompany A-3 at the earliest secure reception.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Agent",
+    "Security Incident",
+    "Infiltration",
+    "Communication",
+    "WAVE",
+    "AMJAVA-4",
+    "G2"
+  ],
+  "title": "JNZIP/AMDIP-3/ANHAZE: Security Incident and Communication Plans",
+  "date": "1961-02-15",
+  "locations_mentioned": [
+    "Havana, Cuba",
+    "Escambray, Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "A-3",
+    "Louisa Giquel",
+    "Agent 2515",
+    "Agent 2517",
+    "Osvaldo Ramirez",
+    "ZABOTH",
+    "JAVA/2",
+    "JAVA/3",
+    "AMJAVA-4"
+  ],
+  "recipient": "BELL",
+  "sender": "WAVE"
+}

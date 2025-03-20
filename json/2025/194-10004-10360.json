@@ -1,0 +1,28 @@
+{
+  "classification": "Personnel",
+  "document_type": "Identification Form, Request for Personnel Security Action",
+  "security": "The document contains personal information about an individual, including their name, aliases, date and place of birth, security number, grade, and assignment details. Releasing this information could violate privacy and potentially compromise security protocols. For example, the document states, 'SUBJECT currently assigned to USATC, Ft Jackson, S. C.'",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This document is a request for and results of a personnel security action related to Manuel Marti, including a background investigation and fingerprint check, to determine if action under AR 604-10 is warranted.",
+  "summary_one_paragraph": "This document, dated August 21, 1968, outlines a request for a limited investigation and personnel security action concerning Manuel Marti, a Private assigned to USATC, Ft Jackson, S.C. The request, initiated by J.E. Burke, LTC, GS, seeks to determine if action under AR 604-10 is warranted, including a technical fingerprint check. Local files were checked on August 15, 1968, revealing no unfavorable information. The document details Marti's personal information, including his security number, date and place of birth, and indicates that he was later assigned to USARV, APO San Francisco, with a favorable counterintelligence investigation result.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "DOD",
+    "Personnel Security",
+    "Background Investigation",
+    "Fingerprint Check",
+    "AR 381-130",
+    "AR 604-10",
+    "Manuel Marti"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1968-08-21",
+  "origin_agency": "USA (United States Army)",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "J. E. Burke"
+  ],
+  "recipient": "ASST COF, G-2",
+  "sender": "BURKE, JE"
+}

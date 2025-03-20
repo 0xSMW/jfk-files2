@@ -1,0 +1,36 @@
+{
+  "classification": "Personnel",
+  "document_type": "FOD Agent Report",
+  "security": "Disclosing Fromer's refusal to fill out security forms and his invocation of constitutional rights could reveal investigative methods and potentially compromise future security screenings. For instance, the report explicitly states, 'It was explained to FROMER that it is the policy of the Department of the Army to interview all persons who refuse to fill out their DD Form 98, Personnel Security Questionnaire...' which unveils a specific procedure. Sharing this information could allow individuals to circumvent such processes.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report details the interview of David Reed Fromer, who refused to complete security forms citing his Fifth Amendment rights, after being contacted at the Armed Forces Entrance and Examination Station.",
+  "summary_one_paragraph": "On November 29, 1966, Special Agent Eric E. McKnight submitted a report regarding an interview with David Reed Fromer, a student at the University of Wisconsin, who declined to fill out DD Form 98 and DD Form 398 during conscription processing at the Armed Forces Entrance and Examination Station in Oakland, California. Fromer invoked his rights under the First and Fifth Amendments and Article 31 of the Uniform Code of Military Justice, refusing to be interviewed under oath, and mentioned his conscientious objector application denial and pending appeal with attorneys Peter Franck and Vincent Hallinan. Fromer declined to sign a verification statement and was noted to be unavailable for further contact in the area.",
+  "tags": [
+    "INSCOM/CSF",
+    "DOD",
+    "Personnel Investigation",
+    "David Reed Fromer",
+    "Conscientious Objection",
+    "Security Forms",
+    "Fifth Amendment",
+    "First Amendment",
+    "SSN 564 58 8137"
+  ],
+  "title": "SUBJECT INTERVIEW",
+  "date": "1966-11-29",
+  "locations_mentioned": [
+    "Chicago, Illinois",
+    "Oakland, California",
+    "Madison, Wisconsin",
+    "Mill Valley, California"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "David Reed Fromer",
+    "Peter Franck",
+    "Vincent Hallinan",
+    "Eric E. McKnight"
+  ],
+  "recipient": "[RESTRICTED]",
+  "sender": "[RESTRICTED]"
+}

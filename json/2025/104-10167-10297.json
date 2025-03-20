@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security": "This document details an operational action involving the delivery of specific materials to subjects under a specific code name. Revealing these materials, especially \"notes on communists and communist activities extracted from local publications,\" could compromise sources and methods, as well as expose individuals involved in intelligence operations. Specifically, mentioning the delivery of 'Tribuna Libre dated 13 May 1959,' 'Opinion estudiantil dated 18 May 1959,' and other listed items reveals the type of propaganda or informational materials being distributed, which could be exploited by adversaries.",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "A dispatch from the COS, San Salvador, requests the delivery of specific materials, including publications and notes on communists, to subjects of Operation AYA-2027.",
+  "summary_one_paragraph": "This secret dispatch from the Chief of Station (COS) in San Salvador, dated 16 June 1959, directs the Chief of Station in Habana to deliver a range of materials to subjects associated with Operation AYA-2027. The items include various publications such as 'Tribuna Libre,' 'Opinion estudiantil,' 'La Joierria,' as well as books including 'Las Historias de Espionaje mas asombrosos del mundo' and 'KRUSCHEV,' along with notes on communists and communist activities extracted from local publications. The request is cross-referenced to file number 201-259170, and copies of the dispatch are distributed to Headquarters, Habana, and various files.",
+  "tags": [
+    "CIA",
+    "Operation AYA-2027",
+    "Cuba",
+    "Propaganda",
+    "Communism",
+    "San Salvador",
+    "Habana",
+    "Delivery of Materials",
+    "FOIA"
+  ],
+  "title": "Operational Delivery of Material to Subjects of “AYA-2027",
+  "date": "1959-06-16",
+  "locations_mentioned": [
+    "San Salvador",
+    "Habana",
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Arthur K. Galant",
+    "Jose H. Levis",
+    "Agustin J. Elizalde",
+    "David Rosenberg",
+    "Mauricio Carlavilla",
+    "Kurt Singer"
+  ],
+  "recipient": "Chief, Habana",
+  "sender": "COS, San Salvador"
+}

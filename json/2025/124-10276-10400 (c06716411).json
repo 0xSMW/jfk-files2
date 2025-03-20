@@ -1,0 +1,35 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "Discussion of electronic exploitation including \"Orkid program and similar programs, electronic wiretaps, microphones, Telex, and electronic penetration of communications equipment\" could expose intelligence collection methods. Revealing details about informants and cooperative citizens, as well as information received from foreign sources, could compromise their safety and ongoing operations. Also the discussion of \"Anagram program, the various mail and pouch intercepts, the Karot and related cases, surreptitious entries in connection with CP, Klan and such investigations\" reveals sensitive investigative techniques.",
+  "security_level": "SECRET",
+  "summary": "A memorandum summarizing a meeting between White House officials and representatives from intelligence agencies to coordinate responses to the Senate Committee regarding access to information, with a focus on protecting sensitive sources, methods, and ongoing investigations.",
+  "summary_one_paragraph": "On March 28, 1975, J.B. Adams and Mr. Wannall met with Mr. Buchen and Mr. Hills at the White House to discuss coordinating intelligence agency responses to the Senate Committee. The meeting addressed concerns over access to raw files, protecting identities of informants and foreign sources, and the sensitivity of electronic exploitation programs like Orkid. Discussions also included past activities, such as the Anagram program, mail intercepts, Karot cases, surreptitious entries, Cointelpro, and the joint FBI-CIA microphone penetration of the Chilean Embassy, emphasizing the need to keep the White House informed of potentially damaging disclosures.",
+  "tags": [
+    "White House",
+    "Senate Committee",
+    "Intelligence Agencies",
+    "Informants",
+    "Electronic Exploitation",
+    "Orkid Program",
+    "Wiretaps",
+    "Anagram Program",
+    "Mail Intercepts",
+    "Karot Cases",
+    "Surreptitious Entries",
+    "Cointelpro",
+    "Chilean Project",
+    "Bureau Source 4",
+    "Social Security Records",
+    "FOIA"
+  ],
+  "title": "Addendum: J. B. Adams 3/31/75",
+  "date": "1975-03-31",
+  "persons_mentioned": [
+    "J. B. Adams",
+    "Mr. Wannall",
+    "Mr. Buchen",
+    "Mr. Hills"
+  ],
+  "recipient": "Unknown"
+}

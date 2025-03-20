@@ -1,0 +1,26 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Memorandum",
+  "security": "The document references 'Albanian Cryptographic Material' which could expose sensitive intelligence-gathering methods or sources if disclosed. Quoting directly: 'Albanian Cryptographic Material'.",
+  "security_level": "SECRET",
+  "summary": "A memo from Jim Harrison to Ruth Elliff, dated September 20, 1976, forwarding OSG records, specifically HH 28312 and HH 28317, containing information on Sturgis.",
+  "summary_one_paragraph": "On September 20, 1976, Jim Harrison sent a memo to Ruth Elliff attaching OSG records HH 28312 and HH 28317, which pertain to information regarding Sturgis. The memo was sent from the Domestic Collection Division, specifically the Das Group/OSB, and includes a copy sent to SE/BB/A. The memo is marked SECRET and refers to Albanian Cryptographic Material.",
+  "tags": [
+    "CIA",
+    "OSG Records",
+    "Sturgis",
+    "Albanian Cryptographic Material",
+    "FOIA"
+  ],
+  "title": "Albanian Cryptographic Material",
+  "date": "1976-09-20",
+  "origin_agency": "CIA Domestic Collection Division/Das Group/OSB",
+  "persons_mentioned": [
+    "Sturgis",
+    "Ruth Elliff",
+    "Jim Harrison",
+    "Chris Hopkins"
+  ],
+  "recipient": "Ruth Elliff",
+  "sender": "Jim Harrison"
+}

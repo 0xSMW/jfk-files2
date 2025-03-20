@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Message Form",
+  "security": "Disclosing information about AMMUG/1 and its potential reassignment could expose ongoing operations and personnel involved in sensitive activities. Specifically, 'HQS recommends AMMUG/1 defer decision until question his WOFACT future definitely settled' indicates operational considerations that could be compromised.",
+  "security_level": "SECRET",
+  "summary": "A message regarding the Inter-University Committee for Political and Social Action (ICPSA) and a decision to defer AMMUG/1’s home purchase pending a decision on his WOFACT future, with mention of a request from Langosch in Frankfurt.",
+  "summary_one_paragraph": "This SECRET message, dated December 7, 1966, from the Director to JMWAVE, references a previous message (JMWAVE 4480) and provides information about the Inter-University Committee for Political and Social Action (ICPSA) located in Baltimore, stating that it contains all the information needed for WOGAME answer credit queries. The message also addresses a decision about AMMUG/1's potential home purchase, recommending that it be deferred until a final determination is made regarding his WOFACT future, noting Langosch's request for AMMUG/1's services in Frankfurt.",
+  "tags": [
+    "CIA",
+    "JMWAVE",
+    "AMMUG/1",
+    "WOFACT",
+    "Langosch",
+    "ICPSA",
+    "Inter-University Committee for Political and Social Action",
+    "Cuba"
+  ],
+  "title": "Message regarding AMMUG/1 and ICPSA",
+  "date": "1966-12-07",
+  "locations_mentioned": [
+    "Baltimore",
+    "Frankfurt"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "AMMUG/1",
+    "Langosch",
+    "Jacob D. Esterline",
+    "Thomas Flores"
+  ],
+  "recipient": "JMWAVE",
+  "sender": "Director (John A. Castor)"
+}

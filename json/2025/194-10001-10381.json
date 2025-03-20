@@ -1,0 +1,25 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security": "The document refers to an investigation into Robert Scheer and mentions 'credible evidence' being 'insufficient...to warrant the drafting of allegations.' This indicates a potential for sensitive personal information, which, if disclosed, could violate privacy and cause reputational harm. Furthermore, the document is marked 'FOR OFFICIAL USE ONLY,' indicating that its dissemination should be controlled. Exposing this document could set a precedent for disclosing similar personnel investigations, undermining trust in internal security processes.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memo from CPT David F. Hils to the Chief, USAPSG, regarding Robert Scheer, stating that the investigation's evidence is insufficient to warrant allegations.",
+  "summary_one_paragraph": "On July 10, 1967, CPT David F. Hils sent a memorandum to the Chief, USAPSG, concerning Robert Scheer (SSN: 112-28-1134). The memo indicates that an examination of statements and a report of investigation concerning Scheer's activities, conducted pursuant to Army Regulations 604-10, found the credible evidence insufficient to warrant drafting any allegations against him. The memo was reviewed by the Office of the Judge Advocate General.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "Army Regulations",
+    "Personnel Security",
+    "Robert Scheer",
+    "JFK Assassination Records Collection Act"
+  ],
+  "title": "SCHEER, Robert - SSN: 112-28-1134 (U)",
+  "date": "1967-07-10",
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Robert Scheer",
+    "David F. Hils"
+  ],
+  "recipient": "Chief, USAPSG",
+  "sender": "CPT David F. Hils"
+}

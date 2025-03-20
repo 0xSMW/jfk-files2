@@ -1,0 +1,43 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "The letterhead memorandum is classified 'Secret' as it contains CIA information so classified.",
+  "security_level": "Secret",
+  "summary": "An FBI memorandum from May 1, 1963, details information on Luis Alberto Condom Cajigal and Alvaro Martin Fernandez Fox, both linked to Cuban activities and potentially involved in gambling and bolita rackets. It includes information provided by CIA sources and mentions connections to individuals in Mexico and Miami.",
+  "summary_one_paragraph": "This FBI memorandum, dated May 1, 1963, from the SAC in Miami to the FBI Director, concerns Luis Alberto Condom Cajigal and Alvaro Martin Fernandez Fox, both identified as \"IS CUBA.\" It includes information from CIA sources, specifically Rafael Padron Prado, and discusses Condom’s prior work with the CIA in Havana and Fernandez’s potential involvement in Miami's bolita racket. The memo also notes Fernandez’s past as an informant for U.S. Customs in Mexico City and informs that related information is disseminated to the Legat in Mexico and other agencies.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Luis Alberto Condom Cajigal",
+    "Alvaro Martin Fernandez Fox",
+    "Cuba",
+    "Cuban Activities",
+    "Gambling",
+    "Bolita Racket",
+    "Informant",
+    "Mexico",
+    "Miami"
+  ],
+  "title": "Information on Luis Alberto Condom Cajigal and Alvaro Martin Fernandez Fox",
+  "date": "1963-05-01",
+  "locations_mentioned": [
+    "Miami, Florida",
+    "Havana, Cuba",
+    "Mexico City, Mexico",
+    "Hialeah, Florida"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Luis Alberto Condom Cajigal",
+    "Alvaro Martin Fernandez Fox",
+    "Rafael Padron Prado",
+    "Tulio Prieto",
+    "Emilio Fernandez",
+    "Martin Fox",
+    "Pedro Fox",
+    "Steve Minas",
+    "Ed Fickie",
+    "Justin F. Gleichauf"
+  ],
+  "sender": "SAC, MM (Special Agent in Charge, Miami Field Office)"
+}

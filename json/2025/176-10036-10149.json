@@ -1,0 +1,42 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "CIA Information Report",
+  "security": "Disclosing the identities of potential coup members and the extent of U.S. awareness of these plans could jeopardize relationships with foreign governments and compromise intelligence-gathering capabilities in politically sensitive regions. Specifically, the document states: \"KHIEM AND OTHER GENERALS DID NOT WISH TO ATTEMPT A COUP, UNTIL IT WAS DETERMINED THAT THE UNITED STATES WOULD SUPPORT THEM IF THEIR COUP SUCCEEDED.\"",
+  "security_level": "SECRET",
+  "summary": "A CIA information report details the planning of a coup in South Vietnam, involving military figures and potential members of a shadow government, as of late September 1963.",
+  "summary_one_paragraph": "This CIA information report, dated October 2, 1963, summarizes coup planning in South Vietnam as of 26-30 September 1963. Huynh Van Lang, a professor, reports that Lieutenant General Le Van Ty reinforced demands for governmental reforms, while some generals believed a coup was necessary regardless of reforms. Brigadier General Tran Thien Khiem expressed concerns about Viet Cong activity and sought assurance of U.S. support. Colonel Do Mau attempted to influence Vietnamese Air Force officers to attack Gia Long Palace. Lang's plan for a new government had been accepted in principle, and he was selecting members of a shadow cabinet but advised postponing the coup until governmental planning was complete.",
+  "tags": [
+    "CIA",
+    "Vietnam",
+    "Coup",
+    "Lang",
+    "Diem",
+    "US Support"
+  ],
+  "title": "CIA Information Report",
+  "date": "1963-10-02",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Huynh Van Lang",
+    "Le Van Ty",
+    "Diem",
+    "Tran Thien Khiem",
+    "Do Mau",
+    "Nguyen Cao Ky",
+    "Do Khac Mai",
+    "Pham Ngoc Thao",
+    "Nhu",
+    "Vo Van Hien",
+    "Nguyen Ton Hoan",
+    "Nguyen Thai",
+    "Tran Van Minh",
+    "Nguyen Huy Nghia",
+    "Nguyen Huu Chau",
+    "Au Truong Thanh",
+    "Tran Kim Tuyen"
+  ]
+}

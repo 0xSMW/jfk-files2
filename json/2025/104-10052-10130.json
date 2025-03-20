@@ -1,0 +1,45 @@
+{
+  "classification": "Mexico",
+  "document_type": "Memorandum",
+  "security": "Revealing details of clandestine meetings and sources could compromise ongoing operations and endanger individuals involved. For example, the memo mentions specific individuals (Barker, AMSUCCIO, APUCCIO), coded meeting locations, and planned activities, which, if exposed, could allow hostile entities to identify and target assets. Quoting: 'An unexpected meeting was held with L-9 on 17 July...Barker had a coded meeting with AMSUCCIO...'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memorandum detailing a meeting with L-9 in Mexico City on July 17, 1963, covering topics from Cuban celebrations in Tampico to potential recruitment within the Cuban Embassy and observations around the French Ambassador's residence.",
+  "summary_one_paragraph": "This memorandum summarizes a meeting with L-9 on July 17, 1963, in Mexico City, where L-9 reported on several developments including plans for a large Cuban celebration in Tampico/Reynosa, observations regarding the new Cuban Counsel in Mexico, concerns about APUCCIO's transfer from Prague, potential recruitment of JOAQUIN Loyale within the Cuban Embassy, activity around the French Ambassador's residence, and the turning over of a handbill from a rural school, as well as a pornographic cartoon distributed by pro-Castro elements in Tampico.",
+  "tags": [
+    "L-9",
+    "Mexico City",
+    "Cuban celebrations",
+    "Recruitment",
+    "Cuban Embassy",
+    "French Ambassador's residence",
+    "Tampico",
+    "Castro",
+    "AMSUCCIO",
+    "APUCCIO"
+  ],
+  "title": "Meeting L-9 17 July 1963",
+  "date": "1963-07-17",
+  "locations_mentioned": [
+    "Mexico City",
+    "Tampico",
+    "Reynosa",
+    "Prague",
+    "Mexico",
+    "San Juan de Letram",
+    "French Ambassador's Residence",
+    "Santa Theroba Coahuila"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "L-9",
+    "Barker",
+    "AMSUCCIO",
+    "Thiers y Molchor Ocampo",
+    "Alan Corgan",
+    "Inu BARRIOS",
+    "APUCCIO",
+    "JOAQUIN Loyale",
+    "Dudly"
+  ],
+  "sender": "Lame"
+}

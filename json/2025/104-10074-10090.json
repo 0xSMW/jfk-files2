@@ -1,0 +1,36 @@
+{
+  "classification": "Personnel",
+  "document_type": "Routing and Record Sheet/Memorandum",
+  "security": "Revealing that the CIA initially denied contact with Stephen Van Cleave to Congress and subsequently sought to reconcile the record could damage the Agency's reputation. Specifically, \"It was imperative to determine the exact date of contact with Van Cleave as C/WH, thru Legislative Counsel, had advised Congress on 7 January 1974 that the Agency had no contact with Van Cleave.\"",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This document discusses the CIA's efforts to reconcile discrepancies regarding their contact with Stephen Van Cleave after initially advising Congress that no contact existed. It details internal communications to determine the timeline of contact and forward records, including tape recordings, to headquarters.",
+  "summary_one_paragraph": "This record details the CIA's internal handling of the Stephen Van Cleave case in March and April 1974, following a Congressional inquiry triggered by a rumor that Van Cleave was working with the CIA. The document outlines efforts to ascertain the exact date of first contact with Van Cleave after the Agency had informed Congress on January 7, 1974, that no such contact existed. It recounts communication between various CIA offices (Atlanta, Miami, Washington) and details the forwarding of tape recordings of meetings with Van Cleave to CIA headquarters for record retention, at the request of the WH Division.",
+  "tags": [
+    "CIA",
+    "Stephen Van Cleave",
+    "Congressional Inquiry",
+    "House Internal Security Committee",
+    "Record Reconciliation",
+    "Contact Tracing"
+  ],
+  "title": "Stephen Van Cleave",
+  "date": "1974-04-09",
+  "locations_mentioned": [
+    "Atlanta",
+    "Miami",
+    "Washington"
+  ],
+  "origin_agency": "Washington Field Office",
+  "persons_mentioned": [
+    "Stephen Van Cleave",
+    "William D. Pangburn",
+    "Evan Ames",
+    "Bill Cantrell",
+    "Dave Dewhurst",
+    "Charlotte",
+    "John Peterson",
+    "Lillian Grant"
+  ],
+  "recipient": "Support Branch, DCD Attn: OSS (EAmes)",
+  "sender": "William D. Pangburn, Atlanta RO"
+}

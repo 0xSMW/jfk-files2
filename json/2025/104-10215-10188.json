@@ -1,0 +1,37 @@
+{
+  "classification": "Operations",
+  "document_type": "Classified Message",
+  "security": "This message discusses the activation effort of a DRAGON agent now in PERUMEN. The reference to \"secure channels\" for communication and the overall operational context could expose intelligence methods and compromise the agent.  Quoting directly, \"LETTER IS ACTIVATION EFFORT TO RELUCTANT DRAGON AGENT NOW PERUMEN, WHO MET PARIS BY THOMPSON AND WALLACE A. GROWERY LAST SUMMER.\"",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "A classified message requesting information about a letter sent to a 'THOMPSON's friend' in PBRUMEN to activate a DRAGON agent and discussing secure channels for communication.",
+  "summary_one_paragraph": "Originating from W. Wainwright of the SAS/EOB unit on June 18, 1963, this SECRET message is directed to Rome, requesting that Smitham inquire with AMWHIP about the date of a letter sent to a 'THOMPSON's friend' in PBRUMEN. The message also reminds Smitham to secure a copy of the letter for Thompson and offers to send a copy via secure channels if AMWHIP agrees. The letter is revealed to be an activation effort for a DRAGON agent in PERUMEN, facilitated by Thompson and Wallace A. Growery, with AMWHIP playing a key role in arranging the initial contact.",
+  "tags": [
+    "CIA",
+    "DRAGON Agent",
+    "Activation Effort",
+    "Secure Channels",
+    "PBRUMEN",
+    "PERUMEN",
+    "KEYWAY",
+    "PBRUMEN",
+    "AMWHIP",
+    "SAS/EOB"
+  ],
+  "title": "KEYWAY PBRUMEN AMWHIP",
+  "date": "1963-06-18",
+  "locations_mentioned": [
+    "PBRUMEN",
+    "Paris",
+    "PERUMEN"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "W. Wainwright",
+    "Smitham",
+    "Thompson",
+    "Wallace A. Growery",
+    "AMWHIP"
+  ],
+  "recipient": "Rome",
+  "sender": "Director"
+}

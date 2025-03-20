@@ -1,0 +1,29 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "This document contains personal information about an individual, specifically Manuel Marti, including his date and place of birth, education records, and addresses. Releasing this information without proper authorization could violate privacy laws and regulations. Additionally, the document references an investigation (DOD-affiliated personnel incident investigations), and disclosing details about ongoing or past investigations could compromise investigative methods or reveal sensitive information about individuals involved.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is an agent report regarding Manuel Marti's education record at Bronx Community College (BCC) in 1967, noting incomplete records and the inability to locate instructors.",
+  "summary_one_paragraph": "An agent report submitted on November 21, 1968, details the investigation into Manuel Marti's education record at Bronx Community College (BCC). The report, filed by Harold Lehrer of the 108th MI Group, indicates that Marti attended BCC during the Summer session of 1967, but his records were incomplete, lacking transcripts of previous education and customary papers. Mildred Kraft, the assistant registrar at BCC, was interviewed but could not provide information on Marti's instructors or major course of study, stating that there was no one who might have knowledge of the subject.",
+  "tags": [
+    "Manuel Marti",
+    "Education Record",
+    "Bronx Community College",
+    "INSCOM/CSF",
+    "DOD",
+    "Investigation"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1968-11-21",
+  "locations_mentioned": [
+    "Bronx, New York",
+    "San Juan, Puerto Rico"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Mildred Kraft",
+    "Harold Lehrer"
+  ],
+  "sender": "[ RESTRICTED ]"
+}

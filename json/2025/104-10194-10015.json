@@ -1,0 +1,23 @@
+{
+  "classification": "Personnel",
+  "document_type": "Request for Personnel Action",
+  "security": "This personnel action form concerns an employee's leave of absence to accompany her husband to a new station, which could potentially reveal operational locations if coupled with other intelligence. Specifically, disclosing the reassignment linked to 'DOP/ CI STAFF/CACIAL INVESTIGATION GCP/PROJECTS ER/ INTELL CLK/WEB., D.C' might expose investigative projects. The form itself is marked SECRET, indicating the sensitivity of the information contained therein.",
+  "security_level": "SECRET",
+  "summary": "This is a request for personnel action for Anna Tarasoff, an Intelligence Clerk, for a leave without pay (LWOP) and reinstatement, effective June 17, 1963, to accompany her husband to a new station.",
+  "summary_one_paragraph": "A personnel action request, dated June 5, 1963, indicates that Anna Tarasoff, an Intelligence Clerk within the DOP/CI Staff in Washington, D.C., is being granted a leave without pay (LWOP) not exceeding 90 days, effective June 17, 1963. The LWOP is to allow her to accompany her husband to a new station. The form specifies her position as INTELL CLERK, grade GS-6, step D, with a salary of $5,545.00, and notes the routing to security and finance offices.",
+  "tags": [
+    "Personnel Action",
+    "Leave Without Pay",
+    "LWOP",
+    "Reinstatement",
+    "Intelligence Clerk",
+    "Anna Tarasoff"
+  ],
+  "title": "Request for Personnel Action for Anna Tarasoff",
+  "date": "1963-06-05",
+  "persons_mentioned": [
+    "Anna Tarasoff"
+  ],
+  "recipient": "Office of Personnel",
+  "sender": "Requesting Official (Signature)"
+}

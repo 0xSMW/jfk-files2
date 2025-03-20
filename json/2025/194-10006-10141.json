@@ -1,0 +1,27 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "This document contains personal information, specifically Robert Scheer's date and place of birth, address, employment dates, position, salary, social security number. Releasing this information could violate privacy.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is an agent report detailing Robert Scheer's employment at the City University of New York in 1960, including his position, salary, and dates of employment.",
+  "summary_one_paragraph": "On July 14, 1961, an agent report was submitted regarding Robert Scheer (SSvc 50-29-186, DOB: April 4, 1936, POB: Bronx, New York). Mildred Schoenberg, Secretary at the Payroll Office of City University of New York, provided information from the university records indicating Scheer worked as a Lecturer during the summer session from June 20, 1960, to August 12, 1960, earning $288. The report notes Scheer's address as 653 Britton Street, Bronx, New York, and his Social Security Number as 112-28-1134.",
+  "tags": [
+    "Robert Scheer",
+    "City University of New York",
+    "Employment Records",
+    "Agent Report",
+    "INSCOM"
+  ],
+  "title": "Report of Findings: Robert Scheer Employment",
+  "date": "1961-07-14",
+  "locations_mentioned": [
+    "Bronx, New York",
+    "New York City, New York"
+  ],
+  "origin_agency": "CSF/INSCOM",
+  "persons_mentioned": [
+    "Robert Scheer",
+    "Mildred Schoenberg",
+    "Earl F. Thomas"
+  ]
+}

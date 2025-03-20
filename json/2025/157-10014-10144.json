@@ -1,0 +1,31 @@
+{
+  "classification": "Administrative",
+  "document_type": "Report",
+  "security": "Disclosing details about proprietary companies, their financial arrangements, and relationships with outside agencies (like the IRS) could compromise ongoing intelligence operations and expose sensitive methods. For example, the document states: \"Close coordination is maintained with the Internal Revenue Service, which is aware of the Agency's use of proprietary commercial entities. In the event an Agency entity is singled out for IRS audit, it has been agreed that the Agency, through the Office of General Counsel, will notify IRS of Agency ownership. The IRS then cancels the audit in order to conserve auditor manpower.\" This reveals a specific agreement that could be considered preferential treatment and could damage the CIA's reputation.",
+  "security_level": "Secret",
+  "summary": "This is a report from the SSCIA (Church Committee) detailing the CIA's use of proprietary companies, their statutory authority, specific controls, descriptions, disposal, and relationships with other agencies, including financial details and internal policies up to 1976.",
+  "summary_one_paragraph": "This 1976 SSCIA report (07-M-49) provides an overview of the CIA's use of proprietary mechanisms, examining both operating and non-operating entities, their legal basis under the CIA Act of 1949, and the internal controls governing their establishment, operation, and liquidation. It outlines financial controls, treatment of profits, and disposal procedures, featuring a case study on Southern Air Transport’s sale. The report also describes various proprietaries, including Air America and MHMUTUAL, while addressing relationships with tax, regulatory, and other agencies, alongside issues, conclusions, and recommendations regarding the use and management of these entities.",
+  "tags": [
+    "SSCSGO",
+    "REPORT",
+    "CIA",
+    "Proprietary Companies",
+    "Church Committee",
+    "Air America",
+    "MHMUTUAL",
+    "Financial Controls",
+    "Covert Operations",
+    "Southern Air Transport",
+    "IRS",
+    "Liquidation",
+    "Project MHBOUND",
+    "MHMUTUAL",
+    "Air Proprietaries",
+    "Proprietaries"
+  ],
+  "title": "",
+  "date": "1976-00-00",
+  "origin_agency": "SSCIA",
+  "recipient": " ",
+  "sender": " "
+}

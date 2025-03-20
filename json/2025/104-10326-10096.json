@@ -1,0 +1,46 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "Revealing the identity of IC FORTAW (D.B.D.), a CIA contact, and the details of their meeting with Yevgeny Runge could compromise ongoing intelligence operations and endanger the individual. Additionally, the document discusses the CIA's awareness of Runge's defection and his interrogation by the KGB, information that could be sensitive if revealed to unauthorized parties.",
+  "security_level": "SECRET",
+  "summary": "A CIA cable discusses Yevgeny Runge's appearance in Dick Russell's book 'The Man Who Knew Too Much' and details a meeting between Runge and a CIA contact to provide Runge with information about the book's reference to him.",
+  "summary_one_paragraph": "On July 20, 1993, a secret cable from the CIA discusses Yevgeny Runge's appearance in Dick Russell's book 'The Man Who Knew Too Much,' which investigates the JFK assassination through the lens of Richard Case Nagell's activities. A CIA contact, IC FORTAW (alias D.B.D.), met with Runge in Costa Mesa on July 16 to inform him about the book's reference to him, specifically in connection to Nagell's interrogation by the KGB and Runge's defection to West Berlin. The cable also notes that Runge had previously requested the CIA determine the significance of his name appearing in the book.",
+  "tags": [
+    "WNINTEL",
+    "MXLETTER",
+    "GTOPPOSITE",
+    "VZOPTIC",
+    "Yevgeny Runge",
+    "Dick Russell",
+    "The Man Who Knew Too Much",
+    "Richard Case Nagell",
+    "JFK Assassination",
+    "Conspiracy Theory",
+    "KGB",
+    "Arthur Greenstein"
+  ],
+  "title": "Yevgeny Runge - Name Appears in Book",
+  "conspiracy": "The document references a book investigating the JFK assassination and mentions individuals associated with conspiracy theories, such as Richard Case Nagell, but it does not provide any new or definitive evidence about a conspiracy.",
+  "date": "1993-07-20",
+  "locations_mentioned": [
+    "Costa Mesa",
+    "USSR",
+    "West Berlin",
+    "Moscow",
+    "Mexico City",
+    "Wilmington, Delaware",
+    "Leavenworth"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Yevgeny Runge",
+    "Dick Russell",
+    "Richard Case Nagell",
+    "Lee Harvey Oswald",
+    "Arthur Greenstein",
+    "David Binder",
+    "Benjamin Welles"
+  ],
+  "recipient": "NROC, Director",
+  "sender": "Staff"
+}

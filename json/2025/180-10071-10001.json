@@ -1,0 +1,33 @@
+{
+  "classification": "Administrative",
+  "document_type": "Payroll Records",
+  "security": "The document contains social security numbers which are redacted because \"the public disclosure of the redaction could reasonably be expected to constitute an unwarranted invasion of personal privacy, and that invasion of privacy would be so substantial that it outweighs the public interest.\"",
+  "security_level": "Unclassified (U)",
+  "summary": "This document consists of payroll authorization forms and a memorandum related to staff payroll for the House Select Committee on Assassinations (HSCA), including details about Donald A. Purdy, Jr.'s employment and salary adjustments, as well as a memo regarding payroll certification and relationship disclosure.",
+  "summary_one_paragraph": "This collection of documents pertains to the payroll administration of the HSCA, featuring payroll authorization forms for Donald A. Purdy, Jr. during his time with the committee from 1976 to 1978. It details multiple appointments, salary adjustments, and ultimately his termination, authorized by figures like Louis Stokes and Henry B. Gonzalez. The collection also includes a January 3, 1977, memorandum addressed to all staff employees from the Budget Officer, concerning the certification of payroll and the disclosure of any familial relationships with current members of Congress, ensuring compliance with 5 U.S.C. 3110(b).",
+  "tags": [
+    "HSCA",
+    "Payroll Records",
+    "Donald A. Purdy, Jr.",
+    "Louis Stokes",
+    "Henry B. Gonzalez",
+    "Payroll Authorization",
+    "Social Security Numbers",
+    "Privacy",
+    "Budget Officer",
+    "Payroll Certification",
+    "U.S. House of Representatives",
+    "House Select Committee on Assassinations"
+  ],
+  "title": "Staff Payroll Records",
+  "date": "1976-12-01",
+  "persons_mentioned": [
+    "Donald A. Purdy, Jr.",
+    "Louis Stokes",
+    "Henry B. Gonzalez",
+    "Richard A. Sprague",
+    "Thomas N. Downing"
+  ],
+  "recipient": "All Staff Employees",
+  "sender": "Budget Officer"
+}

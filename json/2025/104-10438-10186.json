@@ -1,0 +1,30 @@
+{
+  "classification": "John F. Kennedy Assassination Records Act",
+  "document_type": "Memorandum",
+  "security": "Revealing the source through whom DCD Miami obtained the information about Frank Sturgis, or the mathematical matrix cryptographic material, could compromise the source's safety or future ability to provide information. Disclosing that Sturgis is under surveillance and that DCD is attempting to monitor his interactions with Senator Baker could also impede ongoing intelligence operations. Citing direct document content: 'DCD plans to ask the source to monitor the situation and advise whether the material in fact is turned over to Baker.'",
+  "security_level": "SECRET",
+  "summary": "A memorandum details a call from Jon French of DCD regarding Frank Sturgis, who is scheduled to appear on the Tomorrow Show and is reportedly in possession of cryptographic material obtained from Marita Lorenz, which he intends to turn over to Senator Baker.",
+  "summary_one_paragraph": "This secret memorandum, dated August 23, 1976, outlines a call from Jon French of DCD concerning Frank Sturgis. According to a contact of the DCD Miami office, Sturgis, who recently returned from taping the Tomorrow Show in New York, is in possession of what appears to be cryptographic material related to Albania, which he obtained from Marita Lorenz. The memorandum indicates that Sturgis plans to contact Senator Baker to hand over the material, and DCD intends to monitor the situation to see if the transfer occurs.",
+  "tags": [
+    "Frank Sturgis",
+    "Marita Lorenz",
+    "Cryptographic Material",
+    "Senator Baker",
+    "DCD",
+    "Tomorrow Show",
+    "CIA",
+    "FOIA"
+  ],
+  "title": "Call from Jon French of DCD Concerning Frank STURGIS",
+  "date": "1976-08-23",
+  "persons_mentioned": [
+    "Jon French",
+    "Frank Sturgis",
+    "Oscar Freely",
+    "Tom Schneider",
+    "Marita Lorenz",
+    "Senator Baker",
+    "Chris Hopkins"
+  ],
+  "sender": "Chris Hopkins, LA/COG/CIOS"
+}

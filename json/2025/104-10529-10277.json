@@ -1,0 +1,23 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "Suggesting that PCI give DEVISTA-1 contacts in El Salvador (if PCI does not provide contacts) could compromise the safety of those contacts. Quoting directly: 'If PCI does not give DEVISTA-1 contacts in SALV, Station should pass to DEVISTA-I only first four names of above REF.'",
+  "security_level": "SECRET",
+  "summary": "A cable instructing the station to pass the first four names of referenced contacts to DEVISTA-1 in El Salvador if PCI does not provide DEVISTA-1 contacts.",
+  "summary_one_paragraph": "This cable instructs the recipient station to provide DEVISTA-1 with the first four names of contacts referenced in SALV 4839 if PCI is unable to supply DEVISTA-1 contacts in El Salvador. The WH/COMMENT suggests possible Communist contacts for DEVISTA-1.",
+  "tags": [
+    "DEVISTA-1",
+    "PCI",
+    "El Salvador",
+    "Contacts",
+    "Communists"
+  ],
+  "title": "Instructions Regarding DEVISTA-1 Contacts in El Salvador",
+  "date": "unknown",
+  "locations_mentioned": [
+    "Mexico",
+    "El Salvador"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "MEXI, SALV"
+}

@@ -1,0 +1,27 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "Disclosing legal interpretations regarding the ARCA's impact on the DCI's authority could reveal the CIA's internal legal strategies and risk exposing intelligence sources and methods that the agency seeks to protect. As stated in the memo, ARCA allows postponement if 'the threat to ... intelligence operations ... is of such gravity that it outweighs the public interest, and such public disclosure would reveal...an intelligence source or method which is currently utilized'.",
+  "security_level": "AGENCY INTERNAL USE ONLY",
+  "summary": "A 1994 memorandum from the CIA's Office of General Counsel (OGC) analyzing the President John F. Kennedy Assassination Records Collection Act of 1992 (ARCA) and its impact on the Director of Central Intelligence's (DCI) authority to protect intelligence sources and methods. The memo interprets ARCA as superseding statutes that prohibit disclosure, except in specific areas, and outlines procedures for postponing the release of information related to intelligence operations.",
+  "summary_one_paragraph": "This memorandum, dated September 19, 1994, from Robert J. Eatinger Jr., Assistant General Counsel, to David P. Holmes, Deputy General Counsel, discusses the implications of the President John F. Kennedy Assassination Records Collection Act of 1992 (ARCA) on the DCI's authority to safeguard intelligence sources and methods. The memo concludes that ARCA supersedes other laws prohibiting disclosure, except for specific exceptions like tax records, and establishes a strict procedural scheme for reviewing information. It details the grounds for postponing information release, emphasizing that postponement is permissible only if the threat to intelligence operations outweighs public interest and disclosure would reveal protected intelligence agents, sources, or methods. The memo also outlines the roles of the originating agency, the Review Board, and the President in determining information postponement.",
+  "tags": [
+    "CIA",
+    "ARCA",
+    "JFK Assassination Records",
+    "DCI",
+    "Intelligence Sources and Methods",
+    "Legal Analysis",
+    "OGC",
+    "Assassination Records Review Board"
+  ],
+  "title": "DCI Sources and Methods Authority With Respect to JFK Assassination Records",
+  "date": "1994-09-19",
+  "persons_mentioned": [
+    "David P. Holmes",
+    "Robert J. Eatinger Jr.",
+    "John Pereira"
+  ],
+  "recipient": "David P. Holmes",
+  "sender": "Robert J. Eatinger Jr."
+}

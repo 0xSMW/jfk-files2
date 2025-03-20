@@ -1,0 +1,41 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This report is classified \"Confidential\" inasmuch as data received from the Department of the Army on July 25, 1962, and furnished to Assistant Attorney General J. WALTER YEAGLEY was so classified.",
+  "security_level": "Secret",
+  "summary": "The FBI report, dated October 19, 1962, details efforts to gather information on Santiago Alvarez Rodriguez, including attempts to locate and interview Orlando Piedra and Roberto Fernandez Miranda in Florida. It also references maintaining contact with informants and sources for additional pertinent details concerning the subject's activities.",
+  "summary_one_paragraph": "This FBI report from Miami, dated October 19, 1962, outlines investigative actions related to Santiago Alvarez Rodriguez, including efforts to locate and interview individuals like Orlando Piedra and Roberto Fernandez Miranda in Florida to gather information. The report details maintaining close contact with informants such as MM 639-S and others for additional details concerning the subject's activities, while also identifying sources contacted and their locations; the report's classification as \"Confidential\" stems from data received from the Department of the Army and shared with Assistant Attorney General J. WALTER YEAGLEY.",
+  "tags": [
+    "FBI",
+    "Santiago Alvarez Rodriguez",
+    "Informants",
+    "Miami",
+    "Florida",
+    "Orlando Piedra",
+    "Roberto Fernandez Miranda"
+  ],
+  "title": "Report regarding Santiago Alvarez Rodriguez",
+  "date": "1962-10-19",
+  "locations_mentioned": [
+    "Miami, Florida",
+    "Fort Lauderdale, Florida",
+    "Florida Keys"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Santiago Alvarez Rodriguez",
+    "Orlando Piedra",
+    "Roberto Fernandez Miranda",
+    "Rene A. Radole",
+    "Frank Hernandez",
+    "Manolo Stincer",
+    "Ralph L. Jensen",
+    "Robert James Dwyer",
+    "Felipe Catasus Pazos",
+    "Leman L. Stafford, Jr.",
+    "James D. Hayes",
+    "J. Walter Yeagley",
+    "Batista"
+  ],
+  "recipient": "HQ"
+}

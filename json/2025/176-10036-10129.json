@@ -1,0 +1,42 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "CIA Information Telegram",
+  "security": "Disclosing the details of covert operations, surveillance activities, and financial arrangements with foreign officials could compromise ongoing projects and damage the CIA's relationships. For example, the message discusses 'possible double payment by MACV and station for some of same projects' and expresses concern about transparency. Revealing these details could expose vulnerabilities in project oversight and potentially damage the reputation of both the CIA and MACV.",
+  "security_level": "SECRET",
+  "summary": "A CIA information telegram from Saigon discusses challenges in maintaining contact with a Vietnamese General due to heavy surveillance, reviews an article exposing joint US-GVN projects, and addresses concerns about potential double payments for operations by MACV and the CIA.",
+  "summary_one_paragraph": "This CIA telegram, dated September 17, 1963, reports from Saigon on difficulties in contacting General Tran Tu Oai due to surveillance, recounts a conversation addressing an article exposing joint US-GVN projects approved by Counsellor Nhu, and raises concerns about potential double payments for operations by MACV. It details that MACV's budgeting surpasses CIA's, and that MACV requires no accounting, unlike the CIA. The telegram also discusses the CIA officer's disagreement with General Oai regarding President Kennedy's statements on the GVN and Buddhist repression, plus outlines a tentative plan for MACV to support activities directed at SVN targets, while CAS focuses on projects targeted at DRV.",
+  "tags": [
+    "CIA",
+    "Vietnam",
+    "Tran Tu Oai",
+    "MACV",
+    "Double Payments",
+    "Surveillance",
+    "President Kennedy",
+    "GVN",
+    "Black Radio",
+    "DRV",
+    "SVN"
+  ],
+  "title": "CIA Information Telegram",
+  "date": "1963-09-17",
+  "locations_mentioned": [
+    "Washington",
+    "Honolulu",
+    "Saigon",
+    "Vietnam",
+    "DRV",
+    "SVN"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Gen Tran Tu Oai",
+    "Le Trung Thanh",
+    "Counsellor Nhu",
+    "President Kennedy",
+    "Diem",
+    "Major James Richardson"
+  ],
+  "recipient": "Washington, Honolulu",
+  "sender": "Saigon"
+}

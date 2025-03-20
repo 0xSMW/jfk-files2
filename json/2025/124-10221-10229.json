@@ -1,0 +1,40 @@
+{
+  "classification": "Cuba",
+  "document_type": "Airtel",
+  "security": "The document contains information from a 'usually reliable source' that the CIA wants to protect. It requests that 'the FBI take no action which might compromise our source.' Exposing this source could damage CIA's intelligence gathering capabilities.",
+  "security_level": "Secret",
+  "summary": "An FBI Airtel from San Juan to the Director, FBI, relays information from a CIA source about Pedro Luis Diaz Lanz, Reinaldo Blanco Hernandez, and Alberto Eusebio Mojena, who are suspected of operating from Ft. Lauderdale, Florida, and possibly associated with Fidel Castro.",
+  "summary_one_paragraph": "On August 27, 1958, the FBI in San Juan sent an Airtel to the Director, FBI, relaying information received from a CIA source regarding Pedro Luis Diaz Lanz, Reinaldo Blanco Hernandez, and Alberto Eusebio Mojena. These three individuals, believed to be Cubans, are suspected of operating out of Ft. Lauderdale, Florida, with Diaz Lanz identified as a pilot, courier, and possible agent for Fidel Castro. The communication, marked 'Secret,' includes a request from the CIA to avoid any actions that could compromise their source of information, which is considered usually reliable.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Pedro Luis Diaz Lanz",
+    "Reinaldo Blanco Hernandez",
+    "Alberto Eusebio Mojena",
+    "Fidel Castro",
+    "Cuba",
+    "Pilot",
+    "Courier",
+    "Agent",
+    "Ft. Lauderdale",
+    "Jamaica"
+  ],
+  "title": "Pedro Luis Diaz Lanz; Renaldo Blanco Hernandez; Alberto Eusebio Mojena IS CUBA",
+  "date": "1958-08-27",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Ft. Lauderdale, Florida",
+    "Kingston, Jamaica"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Pedro Luis Diaz Lanz",
+    "Reinaldo Blanco Hernandez",
+    "Alberto Eusebio Mojena",
+    "Fidel Castro",
+    "David R. McLean"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, SJ"
+}

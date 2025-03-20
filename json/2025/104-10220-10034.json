@@ -1,0 +1,28 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "Disclosing whether Nagell aired grievances and the related monitoring by intelligence agencies could reveal sources and methods.",
+  "security_level": "SECRET",
+  "summary": "A cable from Zurich to Bern requests advice on whether Nagell aired grievances on radio/TV as threatened, referencing file 201-746537.",
+  "summary_one_paragraph": "On March 12, 1969, a SECRET cable was sent from Zurich to Bern, inquiring whether an individual named Nagell had publicly aired grievances on radio or television, as was reportedly threatened. The cable references file number 201-746537 and requests guidance on this matter, indicating ongoing monitoring or interest in Nagell's public statements.",
+  "tags": [
+    "CIA",
+    "Nagell",
+    "Surveillance",
+    "Grievances",
+    "Media Monitoring",
+    "JFK Assassination"
+  ],
+  "title": "INK ORDER WOMUSE",
+  "date": "1969-03-12",
+  "locations_mentioned": [
+    "Zurich",
+    "Bern"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Nagell"
+  ],
+  "recipient": "Bern",
+  "sender": "Zurich"
+}

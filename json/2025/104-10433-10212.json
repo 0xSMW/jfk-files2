@@ -1,0 +1,42 @@
+{
+  "classification": "Cuba",
+  "document_type": "Telepouch & Appeals Review Form",
+  "security": "Releasing the full text of this Telepouch could reveal intelligence collection capabilities, specific sources within the Cuban media, and methods of analysis. It also contains references to individuals and organizations in Cuba and the U.S., potentially endangering those involved. For example, it includes direct quotes from Cuban radio broadcasts and newspaper articles, showing the CIA's monitoring and assessment of Cuban media responses to Martin Luther King's assassination.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This document includes an appeals review form regarding the release of a Telepouch (UFGA-29877) summarizing Cuban media coverage of Martin Luther King's assassination. The review recommends releasing additional information with some portions excised under FOIA exemptions (b)(1), (b)(3), and (b)(5).",
+  "summary_one_paragraph": "An Appeals Review Form, dated April 1968, pertains to Telepouch UFGA-29877, which contains a summary of Cuban media's reaction to the assassination of Martin Luther King Jr. The review suggests that additional information from the Telepouch can be declassified and released, although specific cryptonyms, internal organizational data, and information impacting personal privacy should remain excised under FOIA exemptions. The Telepouch itself details Cuban media outlets like Granma, Radio Liberacion, and Radio Progreso, reporting on the event and related reactions from figures like Stokely Carmichael and various Cuban and Vietnamese representatives.",
+  "tags": [
+    "Telepouch",
+    "Appeals Review",
+    "Martin Luther King Jr.",
+    "Assassination",
+    "Cuban Media",
+    "FOIA",
+    "Declassification",
+    "JMWAVE"
+  ],
+  "title": "Summary of Cuban Media Treatment of the Death of Martin Luther King",
+  "date": "1968-04-QQ",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Memphis, U.S.A.",
+    "Washington D.C.",
+    "Richmond",
+    "Japan"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Martin Luther King",
+    "Rap Brown",
+    "Juana Carrasco",
+    "Stokely Carmichael",
+    "Fidel Castro Ruz",
+    "Juan Mari Bras",
+    "Agustin Gonzalez Martinez",
+    "Rafael Pastor",
+    "Lyndon B. Johnson"
+  ],
+  "recipient": "Chief, WH Division; Chief, WH/COG; Chief, WOLIME",
+  "sender": "Chief of Station, JMWAVE"
+}

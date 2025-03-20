@@ -1,0 +1,40 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "This memo discusses the CIA's concerns regarding a manuscript by David Phillips, which \"dangerously reveals sources and methods, internal organization, missions, and functions.\" It also mentions \"public confirmation of covert Agency activities\" and the disruption caused by Philip Agee. Releasing these details could significantly compromise ongoing and future intelligence operations, endanger sources, and damage the CIA's ability to operate effectively.",
+  "security_level": "Policrount Use Only",
+  "summary": "A memorandum from Sherwood R. Bosworth to the Director of Security outlining concerns about a manuscript by David Phillips that reveals sensitive Agency information and activities; it proposes specific deletions while advising on issues better addressed directly with Phillips.",
+  "summary_one_paragraph": "Sherwood R. Bosworth, from the External Activities Branch, sends a memorandum to the Director of Security on July 1, 1976, expressing apprehension about David Phillips' manuscript, which is believed to expose CIA sources, methods, internal organization, missions, and covert activities, as well as validate information from Philip Agee's book. The memo attaches a proposed letter detailing suggested deletions for Phillips' book and discusses additional concerns, such as confirming the CIA's role in the Guatemala coup and details related to the Bay of Pigs operation and assassination planning against Castro, which were not included in the letter due to difficulties in justifying their classification, but may warrant direct discussion with Phillips.",
+  "tags": [
+    "David Phillips",
+    "manuscript review",
+    "security",
+    "CIA",
+    "sources and methods",
+    "covert activities",
+    "Philip Agee",
+    "classification",
+    "Guatemala coup",
+    "Bay of Pigs",
+    "Castro assassination"
+  ],
+  "title": "Manuscript by David Phillips",
+  "date": "1976-07-01",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "David Phillips",
+    "Sherwood R. Bosworth",
+    "John Greaney",
+    "Philip Agee",
+    "Fidel Castro",
+    "Col. Armas",
+    "Mr. Wisner",
+    "Ernest Hemmingway",
+    "Allende",
+    "Mr. Colby",
+    "Dr. Kissinger",
+    "Stembridge"
+  ],
+  "recipient": "Director of Security",
+  "sender": "Sherwood R. Bosworth (External Activities Branch)"
+}

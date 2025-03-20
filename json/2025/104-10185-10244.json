@@ -1,0 +1,34 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "The memo discusses the approval of a covert site, specifying that classified material may not be stored there and that the site cannot be loaned to other components without prior approval. Revealing these details would expose operational protocols, potentially enabling adversaries to compromise the site or its activities. Quoting directly, \"Under no circumstances may classified material be stored in the Subject Covert Site. In addition, the Subject Covert Site may not be loaned to or utilized by another component of the Agency without the prior concurrence...\"",
+  "security_level": "SECRET",
+  "summary": "A memo from the Deputy Director of Security to the Chief of WH Division regarding the security approval of a covert site in Silver Spring, Maryland, for use by a Latin American, with specific instructions to avoid security compromises.",
+  "summary_one_paragraph": "This secret memorandum, dated June 26, 1964, from the Deputy Director of Security (Investigations and Operational Support) to the Chief of WH Division, confirms security approval for a covert site located at Summit Hills Apartments in Silver Spring, Maryland. The site is intended for use by a Latin American. The memo references a security survey that identifies potential security hazards and stipulates that no classified material may be stored at the location. It also forbids lending the site to other agencies without prior approval from relevant offices, emphasizing the need to return the attached security report in a sealed envelope after use.",
+  "tags": [
+    "CIA",
+    "Covert Site",
+    "Safehouse",
+    "Security",
+    "Latin American",
+    "Operational Security",
+    "FOIA"
+  ],
+  "title": "COVERT SITE 24",
+  "date": "1964-06-26",
+  "locations_mentioned": [
+    "Silver Spring, Maryland",
+    "Bethesda, Maryland"
+  ],
+  "origin_agency": "Office of Security",
+  "persons_mentioned": [
+    "Leonard Libby",
+    "Victor R. White",
+    "Michael R. Schrier",
+    "Joan Schrier",
+    "Esther Jolles",
+    "Mildred Jolles"
+  ],
+  "recipient": "Chief, WH Division",
+  "sender": "Deputy Director of Security (Investigations and Operational Support)"
+}

@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Letter",
+  "security": "The letter mentions financial support for families and prisoners, which, if exposed, could reveal clandestine operations and compromise the safety of those involved. The reference to 'arreglar y recoger los carros' and 'traspaso' could imply illicit activities related to vehicles. Additionally, the request for funds and the mention of 'canto FUESTO' suggest a need for discretion.",
+  "security_level": "Unclassified",
+  "summary": "A letter from Havana, dated November 23, 1962, detailing financial matters, distribution of aid to families and prisoners, and challenges related to obtaining resources.",
+  "summary_one_paragraph": "This letter, written on November 23, 1962, from Havana to Ermín, provides an accounting of funds received and distributed since October 19. It explains payments made to families and prisoners, specifically mentioning Sra. de Montoya and Suil's roles, legal fees paid to M. Calás, and expenses related to car repairs and transfers handled by Mongo. The letter also addresses difficulties in acquiring food due to shortages and high prices, emphasizing the need for discretion in financial matters and expressing hope for continued communication and updates on family matters.",
+  "tags": [
+    "Financial Aid",
+    "Cuba",
+    "Prisoners",
+    "Resource Scarcity",
+    "Havana"
+  ],
+  "title": "Letter Regarding Financial Matters and Aid Distribution",
+  "date": "1962-11-23",
+  "locations_mentioned": [
+    "La Habana",
+    "Pinar del Río"
+  ],
+  "persons_mentioned": [
+    "Ermín",
+    "Sra. de Montoya",
+    "Suil",
+    "Soniato",
+    "Sami Severino",
+    "M. Calás",
+    "Rafael",
+    "Mongo",
+    "Luta",
+    "Julito",
+    "Juanese",
+    "Luis"
+  ]
+}

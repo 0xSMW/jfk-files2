@@ -1,0 +1,29 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum and Request Form",
+  "security": "The document discusses the reassignment of a career agent under AID cover, including their true name and Agency affiliation, potentially compromising their operational security. Quoting directly: \"Inclusion of Subject on the Domestic Cover list is requested as noted below: When notified that cover has been established, Subject will be specifically authorized and instructed to conceal his Agency affiliation.\"",
+  "security_level": "SECRET",
+  "summary": "A memorandum requests clearance for ZRJEWEL BACH's reassignment to Caracas under AID cover, and a form requests Lucien E. CORREN's inclusion on the Domestic Cover list to conceal his Agency affiliation.",
+  "summary_one_paragraph": "This document consists of two parts: First, a memorandum dated 4 March 1965 from Desmond FitzGerald, Chief of the Western Hemisphere Division, requests security clearance for the reassignment of career agent ZRJEWEL BACH to Caracas, Venezuela, under AID cover. Second, a form dated 23 July 1968 requests Lucien E. CORREN's inclusion on the Domestic Cover list, authorizing him to conceal his Agency affiliation; the form also notes he was temporarily scheduled for duty under military cover.",
+  "tags": [
+    "CIA",
+    "Reassignment",
+    "Covert Operations",
+    "Personnel Security",
+    "AID Cover",
+    "Domestic Cover List"
+  ],
+  "title": "Reassignment and Request for Domestic Cover",
+  "date": "1965-03-04",
+  "locations_mentioned": [
+    "Caracas, Venezuela"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "ZRJEWEL BACH",
+    "Lucien E. CORREN",
+    "Desmond FitzGerald"
+  ],
+  "recipient": "Chief, Personnel Security Division",
+  "sender": "Desmond FitzGerald, Chief, Western Hemisphere Division"
+}

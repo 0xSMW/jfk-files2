@@ -1,0 +1,25 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Agent Report",
+  "security": "Releasing the identity of the source to the subject could compromise future intelligence gathering efforts and potentially endanger the source. Additionally, revealing internal procedures for obtaining permission for releasing Agent Reports could be exploited to circumvent intelligence operations.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This agent report documents the re-contact of Henry D. Glaister to obtain written permission for the release of a previous agent report concerning Joseph T. White to White's father.",
+  "summary_one_paragraph": "On October 4, 1982, Special Agent Raul J. Lozano submitted an agent report detailing the re-contact of Henry D. Glaister, a Captain in the Field Artillery, at his residence in Columbia, Missouri, on October 3, 1982. The purpose of this contact was to obtain Glaister's written permission to release a prior agent report (DA Form 341), dated September 22, 1982, concerning Joseph T. White, a PFC. Glaister reviewed the prior AR and executed a Sworn Statement (DA Form 2823), thereby granting permission to release the AR in full to Norval White Jr., the father of Joseph Timothy White.",
+  "tags": [
+    "Agent Report",
+    "Permission for Release",
+    "Joseph Timothy White",
+    "Henry D. Glaister",
+    "902d MI Group"
+  ],
+  "title": "AGENT REPORT",
+  "date": "1982-10-04",
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Joseph Timothy White",
+    "Henry D. Glaister",
+    "Raul J. Lozano",
+    "Norval White Jr."
+  ],
+  "sender": "USA"
+}

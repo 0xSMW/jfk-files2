@@ -1,0 +1,33 @@
+{
+  "classification": "Security",
+  "document_type": "Memo",
+  "security": "Revealing specific investigation targets (Gregory, Peter Paul) and the use of DODD credentials could compromise ongoing investigations and expose operational methods. The document's instruction to conduct an investigation according to standard regulations, except as noted, suggests deviations from standard practices that could be sensitive.",
+  "security_level": "Unclear",
+  "summary": "A memo from headquarters to the Special Agent in Charge at DFO (Los Angeles Field Office) regarding an investigation into Peter Paul Gregory, instructing the use of (DODD) credentials if feasible and outlining NACs (National Agency Checks) to be conducted.",
+  "summary_one_paragraph": "This memo, dispatched from headquarters to the Special Agent in Charge at the DFO on September 16, 1965, concerns an investigation into Peter Paul Gregory. It instructs the recipient to use (DODD) credentials if feasible and to conduct investigations according to standard regulations, with unspecified exceptions. The memo outlines specific NACs (National Agency Checks) to be conducted on Gregory, including checks with the FBI, ONI, ACSI, STATE, PASSPORT, CSC, HCUA, OSI, I&N, CSIZ, and MIL. The memo also includes a note for special instructions and distribution information to various field offices.",
+  "tags": [
+    "Peter Paul Gregory",
+    "DFO",
+    "DODD credentials",
+    "NAC",
+    "Investigation",
+    "FBI",
+    "ONI",
+    "ACSI",
+    "STATE",
+    "PASSPORT",
+    "CSC",
+    "HCUA",
+    "OSI",
+    "I&N",
+    "CSIZ",
+    "MIL"
+  ],
+  "title": "Gregory, Peter Paul",
+  "date": "1965-09-16",
+  "locations_mentioned": [
+    "Los Angeles"
+  ],
+  "recipient": "Special Agent in Charge, DFO",
+  "sender": "Headquarters"
+}

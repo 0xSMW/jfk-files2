@@ -1,0 +1,27 @@
+{
+  "classification": "Security",
+  "document_type": "Travel Processing Sheet",
+  "security": "Disclosing the specific security procedures, interview topics, and file review criteria used for personnel traveling on assignments could allow adversaries to anticipate and circumvent these measures. For example, detailing the 'Travel precautions (No CIA identification)' and 'Defensive Audio-Surveillance matters' provides insights into operational security protocols that could be exploited.",
+  "security_level": "SECRET",
+  "summary": "A travel processing sheet for Todik Piccoli, a Mailclerk GS-5, documenting security briefings and file reviews prior to departure to Mexico City on July 14, 1959.",
+  "summary_one_paragraph": "This document is a travel processing sheet for Todik Piccoli, a Mailclerk GS-5 with the office H.H., who is scheduled to depart for Mexico City on July 14, 1959. The sheet indicates that Piccoli's file was reviewed and deemed 'Highly Suitable,' with a polygraph administered on February 5, 1957. On December 6, 1959, Piccoli underwent a special briefing covering security regulations, travel precautions, cover story adequacy, dependents briefing, personal affairs, correspondence, personal conduct guidelines (10-250 & 20-155), risk of capture protocols (10-800), and defensive audio-surveillance matters. A Security Officer interviewed and checked out Piccoli on the same date.",
+  "tags": [
+    "CIA",
+    "Travel Processing",
+    "Security Briefing",
+    "Mexico City",
+    "Personnel",
+    "Piccoli, Todik"
+  ],
+  "title": "Travel Processing Sheet for Todik Piccoli",
+  "date": "1959-12-06",
+  "locations_mentioned": [
+    "Nuxiz: City, Mexico"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Todik Piccoli"
+  ],
+  "recipient": "H.H. Office",
+  "sender": "Security Officer"
+}

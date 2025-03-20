@@ -1,0 +1,30 @@
+{
+  "classification": "Vietnam",
+  "document_type": "CIA Information Telegram",
+  "security": "Disclosing the identities and methods of high-level government officials providing intelligence could endanger their safety and compromise future intelligence gathering efforts. Prematurely revealing planned operations against the Diem regime could undermine those operations and damage relationships with involved parties. As stated in the document: \"American aid is essential to an overthrow of the Diem regime, according to the statements made by two representatives of a committee of nationalist anti-communist political oppositionists.\"",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A CIA information telegram details the seeking of American support for the overthrow of the Diem regime in South Vietnam by nationalist anti-communist political oppositionists in mid-March 1963.",
+  "summary_one_paragraph": "In mid-March 1963, a CIA information telegram reported that representatives of a committee of nationalist anti-communist political oppositionists in South Vietnam sought American support for the overthrow of the Diem regime, suggesting that without American aid, they would seek support from other sources. The oppositionists claimed the country had reached an impasse, asserting that Diem remained in power only due to American military support and that the Diem government was untenable, proposing the elimination of Ngo Dinh Nhu and his wife for potential re-orientation of Diem. Furthermore, they criticized the strategic hamlet program as heavily infiltrated by Vietnamese Communists and the Republican Youth Movement as superficial, warning of a renewed VC offensive.",
+  "tags": [
+    "CIA",
+    "Vietnam",
+    "Diem Regime",
+    "Overthrow",
+    "Political Opposition",
+    "Communists",
+    "Strategic Hamlets"
+  ],
+  "title": "CIA Information Telegram",
+  "date": "1963-03-20",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Diem",
+    "Tran Kim Tuyen",
+    "Ngo Dinh Nhu"
+  ]
+}

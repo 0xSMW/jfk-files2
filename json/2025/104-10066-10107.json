@@ -1,0 +1,24 @@
+{
+  "classification": "Administrative",
+  "document_type": "Cable",
+  "security": "The document's sensitivity lies in potentially revealing operational details or surveillance targets related to the specified address. Sharing location under surveillance could compromise ongoing intelligence activities.",
+  "security_level": "SECRET",
+  "summary": "A secret cable from the CIA, referencing a previous communication (LA/MIAMI 29190), identifies an address at 1400 SW 16th Street, Miami, FLA 33145, with the telephone number (305) 858-4406, and includes the designator E2 IMPDET, while also mentioning AMMUR-1 and a numeric identifier, 05645.",
+  "summary_one_paragraph": "This SECRET cable, dated November 29, 1978, originates from the CIA (referenced as STAFF) and is addressed to PRIORITY DIRECTOR, citing previous communication LA/MIAMI 29190. It identifies a specific location at 1400 SW 16th Street in Miami, Florida, including its phone number (305-858-4406), the designator E2 IMPDET, and mentions AMMUR-1 along with the numeric identifier 05645. The message concludes with 'END OF MESSAGE SECRET'.",
+  "tags": [
+    "CIA",
+    "Miami",
+    "Surveillance",
+    "AMUR-1",
+    "E2 IMPDET",
+    "LA/MIAMI 29190"
+  ],
+  "title": "Cable regarding address in Miami, FLA",
+  "date": "1978-11-29",
+  "locations_mentioned": [
+    "Miami, Florida"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "Director",
+  "sender": "CIA Staff"
+}

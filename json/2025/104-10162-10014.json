@@ -1,0 +1,31 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Dispatch",
+  "security": "Releasing the REDCAP sheet with traces could reveal intelligence-gathering methods and sources, potentially compromising future investigations. The document explicitly states 'The information on this sheet is the result of full headquarters traces,' indicating sensitive internal processes.",
+  "security_level": "SECRET",
+  "summary": "A dispatch from the Chief of the Western Hemisphere Division to the Chief of Station in Buenos Aires, forwarding a REDCAP sheet with full headquarters traces on Ivan Gavrilevich Alferov, who requested an Argentine visa for temporary duty at the Soviet Embassy.",
+  "summary_one_paragraph": "This secret dispatch, dated October 2, 1958, is from the Chief of the Western Hemisphere Division to the Chief of Station in Buenos Aires. It transmits a REDCAP sheet containing the results of full headquarters traces conducted on Ivan Gavrilevich Alferov, who is noted for requesting an Argentine visa to travel to Buenos Aires for temporary duty at the Soviet Embassy. The document instructs the Chief of Station to retain the attached sheet for their records.",
+  "tags": [
+    "CIA",
+    "REDCAP",
+    "Argentina",
+    "Soviet Embassy",
+    "Ivan Gavrilevich Alferov",
+    "Visa",
+    "Traces"
+  ],
+  "title": "Operational/REDCAP Ivan Gavrilevich ALFEROV",
+  "date": "1958-10-02",
+  "locations_mentioned": [
+    "Buenos Aires",
+    "Argentina",
+    "Soviet Embassy"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Ivan Gavrilevich Alferov",
+    "Oliver G. Galbond"
+  ],
+  "recipient": "Chief of Station, Buenos Aires",
+  "sender": "Chief, Western Hemisphere Division"
+}

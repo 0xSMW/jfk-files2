@@ -1,0 +1,35 @@
+{
+  "classification": "Vietnam",
+  "document_type": "Telegram Information Report",
+  "security": "This document contains information affecting the National Defense of the United States within the meaning of the Espionage Laws, Title 18, U.S.C Secs. 793 and 794, the transmission or revelation of which in any manner to an unauthorized person is prohibited by law.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A CIA telegram reports on Ngo Dinh Nhu's statements regarding the reduction or termination of American aid to South Vietnam, his instructions for self-sufficiency measures, and the reactions of Vietnamese Air Force officers to these directives.",
+  "summary_one_paragraph": "A CIA telegram dated April 20, 1963, relays information concerning Ngo Dinh Nhu's stance on American aid to South Vietnam, as reported by sources within the Ministry of National Defense and the Vietnamese Air Force. Nhu advocated for a policy shift towards terminating American assistance, urging self-reliance and prioritizing the means of production over consumer goods. He also instructed province chiefs to encourage local weapons production and stated that the number of American advisors should be reduced, leading to concerns among VNAF officers about the potential collapse of the regime without American support.",
+  "tags": [
+    "CIA",
+    "Ngo Dinh Nhu",
+    "South Vietnam",
+    "American Aid",
+    "Foreign Policy",
+    "Self-Sufficiency",
+    "VNAF",
+    "Strategic Hamlets"
+  ],
+  "title": "Ngo Dinh Nhu's Statement on Withdrawal of American Aid",
+  "date": "1963-04-20",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon",
+    "Phuoc Tuy Province",
+    "Binh Tuy Province"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ngo Dinh Nhu",
+    "Pham Duc Tien",
+    "Huynh Huu Hien",
+    "Dang Dinh Linh",
+    "Tran Do Cung",
+    "Ha Duong Doan"
+  ]
+}

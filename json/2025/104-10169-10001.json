@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Disclosing that Evelio Duque was granted a POA (Proof of Authorization) and then put in touch with JMNAVE could reveal sensitive operational details and compromise sources. Quoting directly: \"A POA was granted DUQUE on AUG 61 and he was contacted and debriefed. He was put in touch with JMNAVE.\"",
+  "security_level": "SECRET",
+  "summary": "A cable discusses the background of Evelio Duque Miyar, a Cuban anti-communist, and the CIA's past interactions with him, including providing assistance and later terminating their relationship due to disagreements over operational control.",
+  "summary_one_paragraph": "This cable, dated March 2, 1978, from the Director to Guayaquil, Miami, and Quito provides HQS traces on Evelio Duque Miyar, a former captain who fought against Batista and later formed an anti-communist organization against Castro. The CIA granted Duque a POA in 1961, contacted and debriefed him, and connected him with JMNAVE to assist his guerrilla fighters in Cuba. However, the POA was cancelled in May 1962 because Duque refused to allow the team to enter Cuba under CIA direction. By 1973, Duque was reportedly involved with drug trafficker Alfredo Ordonez Gonzalez, but a review of his file showed no connection to drug trafficking.",
+  "tags": [
+    "CIA",
+    "Evelio Duque Miyar",
+    "Cuban Anti-Communist",
+    "JMNAVE",
+    "Drug Trafficking",
+    "HQS Traces",
+    "Guayaquil"
+  ],
+  "title": "UNINTEL REAM TRACE",
+  "date": "1978-03-02",
+  "locations_mentioned": [
+    "Cuba",
+    "Escambray Mountains",
+    "Miami",
+    "San Jose",
+    "Las Villas Province"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Evelio Duque Miyar",
+    "Batista",
+    "Castro",
+    "Alfredo Ordonez Gonzalez"
+  ],
+  "recipient": "Guayaquil, LA FIAMI, Quito",
+  "sender": "Director"
+}

@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "Disclosing the specifics of the audio surveillance operation, including the location of the safehouse, the names of the individuals involved (agents, case officers, and the real estate agent), the technical details of the installation (microphones, wire placements, tape recorders, and VORs), and the cover story used for installation, could severely compromise current and future intelligence operations. Quoting directly: 'It is Agent TITTER plan to place microphones in the downstairs bar and the main floor living room and a tap on the telephone and string all the wires to a crawl space over the garage...The cover story to be used by Agent STER during the installation is that he is working on the house at the request of the leasor...'",
+  "security_level": "SECRET",
+  "summary": "A memo detailing plans for audio surveillance of Manuel F. ARTIME Buesa and Rafael Aurelio QUINTERO Ibarbia at a safehouse in Bethesda, Maryland, including installation of microphones and a telephone tap, along with cover stories and logistical arrangements.",
+  "summary_one_paragraph": "This SECRET memorandum, dated July 18, 1963, from Ramon R. Hart to the Chief of the Support Branch, outlines the plan for audio surveillance of Manuel F. ARTIME Buesa and Rafael Aurelio QUINTERO Ibarbia at a SAS safehouse in Bethesda. The operation involves placing microphones in the downstairs bar and living room, tapping the telephone, and running the wires to a crawl space over the garage where tape recorders will be set up. Agent STER will use a cover story involving work requested by the real estate agent, Mr. Cuando DEEREST, and the maid's schedule is flexible to accommodate Agent STER. The previous 'radio' phase had inferior results, and servicing the recorders will be the most significant complication.",
+  "tags": [
+    "CIA",
+    "Audio Surveillance",
+    "Manuel F. ARTIME Buesa",
+    "Rafael Aurelio QUINTERO Ibarbia",
+    "SAS Safehouse",
+    "Bethesda",
+    "Cover Story",
+    "Cuba"
+  ],
+  "title": "Manuel F. ARTIME Buesa",
+  "date": "1963-07-18",
+  "locations_mentioned": [
+    "Bethesda, Maryland",
+    "Washington, D. C."
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Manuel F. ARTIME Buesa",
+    "Ramon R. Hart",
+    "Fred CHROMAS",
+    "Charles MATT",
+    "Rafael Aurelio QUINTERO Ibarbia",
+    "Agent TITTER",
+    "Agent STER",
+    "Cuando DEEREST"
+  ],
+  "recipient": "Chief, Support Branch",
+  "sender": "Mr. Ramon R. Hart"
+}

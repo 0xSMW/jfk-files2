@@ -1,0 +1,30 @@
+{
+  "classification": "Cuba",
+  "document_type": "PAPER. TEXTUAL DOCUMENT",
+  "security": "Releasing information regarding coordination of United Revolutionary Organizations and details about the attack against the Cuban Embassy attache's house could damage relations between the U.S. and Cuba and reveal sensitive operational details. As mentioned in the document, 'AMERICAN EMBASSY, LIMA, PERU, CONFIRMS/ATTACK CONFIRMS/ATTACK AGAINST CUBAN EMBASSY ATTACHE'S HOUSE DID TAKE PLACE IN LIMA, HOWEVER, THE ATTACK WAS NOT PUBLICLY DISCLOSED OR WIDELY KNOWN IN LIMA.'",
+  "security_level": "Secret",
+  "summary": "The FBI document discusses an attack on a Cuban Embassy attache's house in Lima, Peru, and references coordination of United Revolutionary Organizations; it directs the Bureau to contact the CIA and DIA for more details, as the American Embassy did not submit a report.",
+  "summary_one_paragraph": "This FBI document, dated March 3, 1977, discusses an attack on the Cuban Embassy attache's house in Lima, Peru, which was not publicly disclosed, and involves the coordination of United Revolutionary Organizations (CORU). The communication relays that the American Embassy in Lima did not submit a report on the incident but that the CIA station and the Defense Attache's Office in Lima did submit detailed reports to their respective headquarters. Consequently, the FBI Bureau is advised to contact the CIA and DIA for further details about the attack and the organizations involved.",
+  "tags": [
+    "FBI",
+    "CORU",
+    "Cuba",
+    "Peru",
+    "Lima",
+    "DIA",
+    "CIA",
+    "Attack",
+    "Cuban Embassy",
+    "JFK Assassination Records Act"
+  ],
+  "title": "OBA, CORU, ATTACK, ATTACHES, LIMA, PERU",
+  "date": "1977-03-03",
+  "locations_mentioned": [
+    "Lima, Peru",
+    "Washington"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [],
+  "recipient": "DIRECTOR. FBI",
+  "sender": "LEG. BUE"
+}

@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "Disclosing details about AMLEO-3's attempted exfiltration and the individuals involved (Jose Ricardo RABEL Nunez, Gilberto Fondora, Miguel Ramos) could compromise ongoing or future operations related to Cuban intelligence or exfiltration efforts. Additionally, the information on Mitchell L. WER-BELL, including his categorization as 'unscrupulous and a promoter with grandiose schemes' and his connections to Latin American figures, could damage relationships or reveal sensitive assessments. Quoting directly: 'From JMWAVE reports it appears that AMLEO-3 was attempting to exfiltrate his family, using the VENUS, when he was caught by Cuban security forces on 3 September 1965.'",
+  "security_level": "Background Use Only",
+  "summary": "A memo regarding a call from Dick Philips (State) about the arrest of AMLEO-3, providing background information on Mitchell L. WER-BELL and the circumstances surrounding the arrest of AMLEO-3 and his associates.",
+  "summary_one_paragraph": "This memorandum to WH/C/OPS addresses a call from Mr. Dick Philips (State) regarding the arrest of AMLEO-3. It details that Mitchell L. WER-BELL contacted Philips about the arrest. The memo then provides background information on WER-BELL, noting his past involvement with the OSS, his current import/export ventures, and the CIA's assessment of him as 'unscrupulous'. Furthermore, it identifies the arrested individuals as Jose Ricardo RABEL Nunez (AMLEO-3), Gilberto Fondora, and Miguel Ramos, revealing that AMLEO-3 was caught by Cuban security forces on September 3, 1965, while attempting to exfiltrate his family using the vessel VENUS.",
+  "tags": [
+    "AMLEO-3",
+    "Mitchell L. WER-BELL",
+    "Cuba",
+    "Exfiltration",
+    "JMWAVE",
+    "Arrest",
+    "CIA",
+    "State Department",
+    "RABEL Nunez",
+    "VENUS"
+  ],
+  "title": "Call from Mr. Dick Philips (State) Regarding the Arrest of AMLEO-3",
+  "date": "1965-09-03",
+  "persons_mentioned": [
+    "Dick Philips",
+    "Mitchell L. WER-BELL",
+    "Jose Ricardo RABEL Nunez (AMLEO-3)",
+    "Gilberto Fondora",
+    "Miguel Ramos"
+  ],
+  "recipient": "WH/C/OPS",
+  "sender": "Bryan Mills, C/WH/C/MO/PM"
+}

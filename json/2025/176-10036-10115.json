@@ -1,0 +1,31 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Telegram",
+  "security": "Disclosing details about coup d'état plans could compromise ongoing intelligence operations and diplomatic relations. \"Their nationalist, anti-communist coup would occur 'soon.'\"",
+  "security_level": "SECRET",
+  "summary": "A CIA information telegram reports on the status of a coup d'état being planned by Dr. Tran Kim Tuyen's group in South Vietnam against President Diem and the Ngô Đình Nhu brothers, stating it would occur soon after July 20, 1963, due to Viet Cong activity.",
+  "summary_one_paragraph": "This CIA information telegram, dated July 16, 1963, relays information regarding the status of coup d'état plans by Dr. Tran Kim Tuyen's group in South Vietnam. According to a high-level Vietnamese official, the nationalist, anti-communist coup, aimed at President Diem and the Ngô Đình Nhu brothers, would occur 'soon.' However, due to expected Viet Cong intensification before the Geneva Accords anniversary on July 20, the coup would be postponed until after that date. The group intended to establish a constitutional regime behind Vice President Nguyen Ngoc Tho.",
+  "tags": [
+    "CIA",
+    "Vietnam",
+    "Coup d'état",
+    "Tran Kim Tuyen",
+    "Ngo Dinh Diem",
+    "Nguyen Ngoc Tho",
+    "Viet Cong",
+    "Geneva Accords"
+  ],
+  "title": "CIA Information Telegram",
+  "date": "1963-07-16",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Tran Kim Tuyen",
+    "Diem",
+    "Ngô Đình Nhu",
+    "Nguyen Ngoc Tho"
+  ]
+}

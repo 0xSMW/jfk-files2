@@ -1,0 +1,23 @@
+{
+  "classification": "Personnel",
+  "document_type": "Notification",
+  "security": "Disclosing the existence of military cover operations and the specific procedures for discontinuing them could allow adversaries to identify and compromise individuals under cover. The reference to 'Form 1322 dtd 4 June 63 removing cover' and actions like 'Return All Military Documentation To CCS' provide specific operational details.",
+  "security_level": "SECRET",
+  "summary": "A notification of the cancellation of military cover backstop for Joseph S. Piccolo, effective 11 June 1963, instructing the return of all military documentation.",
+  "summary_one_paragraph": "This document, dated 11 June 1963, is a notification of the cancellation of military cover backstop for Joseph S. Piccolo, referenced as subject PICCOLO, Joseph S., according to Form 1322 dated 4 June 1963. Addressed to either the Chief of Personnel Operations Division or the Chief of Operating Component (for action), the notification instructs the return of all military documentation to CCS, as well as other potential actions related to unblocking records or changing limitation categories.",
+  "tags": [
+    "Military Cover",
+    "Personnel",
+    "Joseph S. Piccolo",
+    "Cover Discontinuation"
+  ],
+  "title": "Notification of Cancellation of Military Cover Backstop",
+  "date": "1963-06-11",
+  "persons_mentioned": [
+    "Joseph S. Piccolo",
+    "Mr. White",
+    "James H. Franklin"
+  ],
+  "recipient": "Chief, Personnel Operations Division or Chief, Operating Component",
+  "sender": "Chief, Military Cover, CCS"
+}

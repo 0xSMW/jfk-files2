@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Letter",
+  "security": "The document discusses potential intelligence regarding a Cuban Ambassador replacement and mentions the CIA's involvement in Switzerland. Revealing the names of CIA personnel and their operational locations (Bern, Switzerland) could potentially compromise ongoing intelligence activities and sources. Quoting directly: \"During a visit to Bern, Switzerland, the captioned matter was discussed with BURTON LIFSCHULTZ, Chief of the Central Intelligence Agency (CIA), Switzerland. He advised...\"",
+  "security_level": "Secret",
+  "summary": "An FBI document, dated July 29, 1960, relays information from the CIA regarding a potential replacement for the Cuban Ambassador, mentioning a possible candidate named BAYO and his connection to General Alberto Bayo, who aided the Castro revolution.",
+  "summary_one_paragraph": "This document, originating from the FBI's Legat office in Paris and addressed to the Director of the FBI, reports on Cuban political activities. It details a discussion with Burton Lifschultz, Chief of the CIA in Switzerland, concerning the dismissal of the Cuban Ambassador, Salazar-Sanchez. Lifschultz indicated a possible replacement named BAYO, potentially linked to General Alberto Bayo, who supported the Castro revolution. The information was furnished for the Bureau's awareness, with a promise of further updates if additional details emerged.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Cuban Ambassador",
+    "Alberto Bayo",
+    "Castro Revolution",
+    "Cuban Political Activities",
+    "Switzerland"
+  ],
+  "title": "Cuban Political Activities",
+  "date": "1960-07-29",
+  "locations_mentioned": [
+    "Paris",
+    "Bern, Switzerland",
+    "Havana",
+    "Madrid"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Burton Lifschultz",
+    "Salazar-Sanchez",
+    "Bayo",
+    "Alberto Bayo",
+    "Castro"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "Legat, Paris"
+}

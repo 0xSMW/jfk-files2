@@ -1,0 +1,44 @@
+{
+  "classification": "Cuba",
+  "document_type": "Operational Report",
+  "security": "Disclosing operational details about guerrilla groups and their activities, such as requests for pistols with silencers, could compromise ongoing or future operations and endanger individuals involved. The document states, \"This group wants to engage in political assassination, and has repeatedly requested that pistols with silencers be sent from the United States.\"",
+  "security_level": "SECRET",
+  "summary": "An interview with Juan Rodriguez Jobolca reveals information about DRE members in Havana seeking weapons for political assassination and a guerrilla leader, Salvador Jomolca, operating in Las Villas Province.",
+  "summary_one_paragraph": "On July 14, 1962, Juan Rodriguez Jobolca provided information during an interview, stating that he had contacts within the DRE in Havana who are interested in engaging in political assassination and have requested weapons from the United States. He also shared details about his cousin, Salvador Jomolca, a guerrilla leader in Las Villas Province with limited resources and communication capabilities, operating between Matanzas and Corralillo, and identified Salvador's wife as the daughter of an elder known as 'Campito'.",
+  "tags": [
+    "GYROSE",
+    "Operational",
+    "DPE",
+    "Guerrillas",
+    "Havana",
+    "Las Villas",
+    "CITCUBA",
+    "DRF",
+    "DRE",
+    "Political Assassination",
+    "Weapons Request",
+    "Salvador Jomolca"
+  ],
+  "title": "GYROSE/Operational Report: DPE/Guerrillas-Havana and Las Villas",
+  "date": "1962-07-16",
+  "locations_mentioned": [
+    "Rancho Veloz, Las Villas",
+    "Havana",
+    "Maywood, Los Angeles, California",
+    "Las Villas Province",
+    "Matenzes",
+    "Corralillo"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Juan Rodriguez Jobolca",
+    "Jose Deetjen",
+    "Manuel Salvat",
+    "Diaz Lanz",
+    "Salvador Jomolca",
+    "Campito",
+    "Nelson L. Raynock"
+  ],
+  "recipient": "PM, KUTUBE",
+  "sender": "Chief, Task Force"
+}

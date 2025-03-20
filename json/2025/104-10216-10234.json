@@ -1,0 +1,29 @@
+{
+  "classification": "Operations",
+  "document_type": "Memorandum",
+  "security": "The memorandum details the testing of a modified sight for the 7.62mm Belgium (FAL) Rifle, including underloaded ammunition and a silencer. Disclosing the specifications and performance of these modifications, especially the success of the cream of wheat filler in improving ammunition consistency and the audibility of the silenced weapon at varying distances, could compromise covert operations that rely on these modifications. Quoting directly: 'At 335 paces, or roughly 275 yds., Mr. Ricker reported he could still hear the mechanism being actuated, the round being fired, and the bullet striking a concrete pillar...'",
+  "security_level": "SECRET",
+  "summary": "A memorandum detailing tests of an open sight hood and improved underloaded ammunition for the 7.62mm Belgium (FAL) Rifle, conducted on June 15 and 16, 1964, to improve shooting in poor light and reduce noise.",
+  "summary_one_paragraph": "On July 1, 1964, Daniel J. Bogan of TSD/EB wrote a memo summarizing tests conducted with Bob Ricker on June 15-16, 1964, regarding an open sight hood for the 7.62mm Belgium (FAL) Rifle and improved underloaded ammunition; the open sight hood, designed as a simpler alternative to a modified Williams peep sight, was tested under various light conditions, and the improved ammunition, which used cream of wheat filler for more consistent performance, was assessed for accuracy and noise level with a silencer; listener trials were conducted to determine the audibility range of the silenced weapon, and modifications were made to ensure the sight hood fit various FAL rifles, resulting in three modified hoods and 400 rounds of improved ammunition being turned over to C/WH/SA/MOB/PM.",
+  "tags": [
+    "AMLASH-1",
+    "FAL Rifle",
+    "Open Sight Hood",
+    "Underloaded Ammunition",
+    "Silencer",
+    "TSD",
+    "Weapon Testing"
+  ],
+  "title": "Test of Open Sight Hood for 7.62mm Belgium (FAL) Rifle",
+  "date": "1964-07-01",
+  "locations_mentioned": [
+    "Franconia"
+  ],
+  "origin_agency": "TSD/EB",
+  "persons_mentioned": [
+    "Daniel J. Bogan",
+    "Bob Ricker"
+  ],
+  "recipient": "C/TSD, C/WH/SA/MOB/PM",
+  "sender": "Daniel J. Bogan"
+}

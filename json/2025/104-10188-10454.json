@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Disclosing that the CIA is using student informants ('police agent') and their efforts to recruit assets such as 'Watsonasset' could damage ongoing operations and compromise relationships with liaison contacts.",
+  "security_level": "SECRET",
+  "summary": "A CIA message discusses an asset named Watsonasset refusing to work as an informant due to security concerns and the potential compromise of students, and then discusses a meeting regarding the Russian professors flap.",
+  "summary_one_paragraph": "This classified message relays information about 'Watsonasset' declining to serve as an informant due to security concerns, citing a previous case of a compromised student. Watsonasset suggested working for SIS because of its relationship with the Cultural Attache. The message also reports on a meeting regarding the \"Russian professors flap\", and a decision to pause further action until advised, and requests identification of a REP mentioned in a previous reference.",
+  "tags": [
+    "CIA",
+    "Informant",
+    "Asset",
+    "Cuba",
+    "Liaison",
+    "Security",
+    "Student",
+    "Russian Professors"
+  ],
+  "title": "Provide Details of Approach to WH/DV Cuba CubanDef Tapi Liaison Asset",
+  "date": "1962-08-28",
+  "locations_mentioned": [
+    "El Salvador",
+    "Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Watsonasset",
+    "Walter Gen Suman",
+    "Hardsonas",
+    "Tapis",
+    "Statim",
+    "Cuban",
+    "WH Foodw"
+  ],
+  "recipient": "Director",
+  "sender": "El Salvador"
+}

@@ -1,0 +1,53 @@
+{
+  "classification": "Oswald",
+  "document_type": "Report",
+  "security": "Revealing names of defectors, their debriefing locations, and the types of information the CIA sought from them could compromise current or future intelligence-gathering efforts. Citing direct Agency contact and interviews, such as Richard Heister's debriefing in conjunction with representatives from the CIA's Office of Operations and the Sixth Army Intelligence, poses a security risk.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document addresses allegations that the CIA interviewed Lee Harvey Oswald upon his return from the Soviet Union and details the Agency's consistent denial of any contact with Oswald. The report examines the House Select Committee on Assassinations' (HSCA) investigation into whether the CIA routinely debriefed returning American defectors and reviews files of individuals who traveled to the USSR between 1958 and 1963.",
+  "summary_one_paragraph": "The document explores allegations that the CIA interviewed Lee Harvey Oswald after his return from the Soviet Union, presenting the CIA's repeated denials and the HSCA's investigation into debriefing procedures for returning American defectors between 1958 and 1963. It reviews a computer listing of 380 individuals, examines files on those considered 'defectors', and analyzes CIA memoranda and interviews to determine if Oswald was ever contacted. The report finds no evidence that Oswald was interviewed, concluding that, while the CIA interviewed some returning defectors, there was no standard policy to do so, making Oswald's case more the rule than the exception.",
+  "tags": [
+    "CIA",
+    "Lee Harvey Oswald",
+    "Soviet Union",
+    "Defectors",
+    "HSCA",
+    "Debriefing",
+    "Warren Commission",
+    "Richard Helms",
+    "John McCone",
+    "Bernard Fensterwald",
+    "Angus M. Thuermer",
+    "Thomas B. Casasin",
+    "Walter P. Haltigan",
+    "Minsk Radio Plant",
+    "Counterintelligence"
+  ],
+  "title": "CIA Allegations Regarding Contact with Lee Harvey Oswald",
+  "date": "1978",
+  "locations_mentioned": [
+    "Soviet Union",
+    "United States",
+    "Moscow",
+    "Washington, D.C."
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "John A. McCone",
+    "Richard Helms",
+    "Bernard Fensterwald",
+    "Angus M. Thuermer",
+    "Thomas B. Casasin",
+    "Walter P. Haltigan",
+    "Richard E. Snyder",
+    "Edward A. Freers",
+    "Daniel Schorr",
+    "Hugh Tovar",
+    "Richard Heister",
+    "Harold Trurnell",
+    "Ricard E. Whistler",
+    "Ricardelli"
+  ],
+  "recipient": "House Select Committee on Assassinations (HSCA)",
+  "sender": "CIA (Hugh Tovar)"
+}

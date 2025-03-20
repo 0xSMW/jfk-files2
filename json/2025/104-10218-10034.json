@@ -1,0 +1,40 @@
+{
+  "classification": "Cuba",
+  "document_type": "Field Information Report/Classified Messages/Documents",
+  "security": "The document reveals the extent of surveillance and intelligence gathering operations targeting Soviet and Cuban officials, specifically Nikolay Sergeyevich Leonov and Fidel Castro. It details clandestine meetings, source evaluations, and operational methods, the exposure of which could compromise intelligence sources, damage relationships with foreign governments, and reveal sensitive operational techniques. For instance, the document mentions: 'LIEMBRACE SURVEILLANCE LEONOV 20 APR DROPPED DURING LATE AFTERNOON AFTER LEONOV MADE OBVIOUS EFFORTS DETERMINE IF HE UNDER SURVEILLANCE. TEAM BELIEVES LEONOV DID NOT DETECT THEIR PRESENCE.'",
+  "security_level": "SECRET",
+  "summary": "This collection of documents pertains to Soviet-Cuban relations, particularly focusing on the activities and surveillance of Nikolay Sergeyevich Leonov, a Soviet official, and his connections with Fidel Castro, with reports detailing their interactions, Leonov's movements, and related intelligence assessments.",
+  "summary_one_paragraph": "This compilation of classified messages, field reports, and documents primarily concerns the surveillance and activities of Nikolay Sergeyevich Leonov, a Soviet official, and his relationship with Fidel Castro, particularly during Castro's visits to the USSR in the early 1960s. The documents include intelligence reports on Leonov's movements, meetings, and suspected involvement in subversive activities in Latin America, as well as details of the Soviet Union's support for Cuba. The reports also mention efforts to exploit the connection between Castro and Soviet officials for propaganda purposes, with detailed descriptions of surveillance operations, source evaluations, and planned actions to gather and disseminate information.",
+  "tags": [
+    "Soviet-Cuban relations",
+    "Nikolay Sergeyevich Leonov",
+    "Fidel Castro",
+    "Surveillance",
+    "Intelligence reports",
+    "KGB",
+    "Subversion",
+    "Propaganda",
+    "Mexico City"
+  ],
+  "title": "Soviet-Cuban Activities and Surveillance of Nikolay Sergeyevich Leonov",
+  "date": "1963-05",
+  "locations_mentioned": [
+    "Moscow",
+    "Cuba",
+    "Mexico City",
+    "USSR",
+    "Guatemala"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Nikita Khrushchev",
+    "Nikolay Sergeyevich Leonov",
+    "Leonid Brezhnev",
+    "Victor Rico Galan",
+    "Lorenzo Cardenas Parajas",
+    "Victor Kolajsrich Glater"
+  ],
+  "recipient": "Various CIA stations",
+  "sender": "CIA Mexico City"
+}

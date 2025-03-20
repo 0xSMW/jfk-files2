@@ -1,0 +1,33 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "The report contains personal information about Manuel Marti and Luisa Perez, including their addresses. Releasing these details without consent could violate their privacy.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report summarizing a character reference for Manuel Marti, focusing on his background, family, and personal traits, as reported by Luisa Perez, a neighbor who knew him and his family for many years.",
+  "summary_one_paragraph": "This agent report, dated November 19, 1968, details a character reference for Manuel Marti, a Private E-1, US Army, based on an interview with Luisa Perez, a neighbor who had known Marti and his family since 1956. Perez described Marti as being raised in a respectable home, with strict parental supervision, and characterized him as loyal, honest, trustworthy, and financially responsible, with no known involvement in gang activities or with law enforcement agencies, recommending him favorably for a position of trust within the United States Government.",
+  "tags": [
+    "character reference",
+    "Manuel Marti",
+    "Luisa Perez",
+    "INSCOM",
+    "Personnel Investigation"
+  ],
+  "title": "Character Reference (Neighbor)",
+  "date": "1968-11-19",
+  "locations_mentioned": [
+    "San Juan, Puerto Rico",
+    "New York, New York",
+    "Bronx, New York",
+    "United States"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Luisa Perez",
+    "Ivan Marti",
+    "Blanca Marti",
+    "Reyes Marti",
+    "Alphonso E. Marshall"
+  ],
+  "sender": "USA"
+}

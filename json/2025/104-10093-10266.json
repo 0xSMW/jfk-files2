@@ -1,0 +1,38 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing the details of the COMNO system used for communication could compromise current and future operations by exposing the methods used to maintain contact with sources. Detailing financial incentives being offered, such as “two thousand pesos monthly payable in Mexico might do the trick”, also illuminates the agency’s methods of influencing individuals.",
+  "security_level": "SECRET",
+  "summary": "A secret message from the Mexico City station reports on developments from meetings with an asset (ANSEVER-2) concerning Jorge Antonio Abasolo Garcia, who is in contact with Che Guevara. The message details a communication system and proposes offering financial support to Abasolo's children to encourage him to stay in place and cooperate.",
+  "summary_one_paragraph": "This secret cable, dated October/November 1962 from the Mexico City station, outlines discussions with ANSEVER-2 regarding Jorge Antonio Abasolo Garcia's connections to Ernesto \"Che\" Guevara and his motivations for potentially leaving Cuba. It details a pouch communication system involving the Netherlands Embassy in Mexico and a man named Cabanes and proposes a strategy to retain Abasolo by offering approximately two thousand pesos monthly in Mexico to support his children, contingent on his continued cooperation and the possibility of clearing his name after Castro's regime falls. The message also requests a personality profile on Abasolo from Mario 10 de la Guardia.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "ANSEVER-2",
+    "Jorge Antonio Abasolo Garcia",
+    "Che Guevara",
+    "Cuba",
+    "Communication System",
+    "Financial Incentive",
+    "Asset Management"
+  ],
+  "title": "Developments from Meetings with ANSEVER-2 Regarding Jorge Antonio Abasolo Garcia",
+  "date": "1962-10-30",
+  "locations_mentioned": [
+    "Mexico City",
+    "Cuba",
+    "Netherlands Embassy, Mexico"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "ANSEVER-2",
+    "Jorge Antonio Abasolo Garcia",
+    "Ernest \"Che\" Guevara",
+    "Preslaine",
+    "Cornelis Bijpust",
+    "E. Cabanes",
+    "Mario 10 de la Guardia"
+  ],
+  "recipient": "CIRCCTOR",
+  "sender": "Mexico City"
+}

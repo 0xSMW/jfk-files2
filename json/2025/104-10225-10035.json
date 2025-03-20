@@ -1,0 +1,27 @@
+{
+  "classification": "Personnel",
+  "document_type": "Classified Message",
+  "security": "This document details the use of cover employment for an agent (AMMUG/1) and the revisions made to maintain that cover, including adjusting employment status for tax reasons. \"JMWAVE REVISED 93/1 COVER 1 JAN 66 TO MEET TAX REQUIREMENTS AND TO PROVIDE EFFECTIVE STAT US COVER. STATION NEGLECTED INFORM WOGAME RE THIS CHANGE.\" Disclosing these methods and the agent's cover employment could compromise ongoing operations, reveal sensitive techniques for maintaining agent cover, and damage relationships with entities unknowingly providing cover.",
+  "security_level": "SECRET",
+  "summary": "A classified message from JMWAVE regarding agent AMMUG/1, detailing their cover employment with the Inter-University Committee for Political and Social Action and subsequent revisions to meet tax requirements; it also addresses inquiries related to AMMUG/1's attempt to purchase a house.",
+  "summary_one_paragraph": "This SECRET classified message from JMWAVE addresses agent AMMUG/1’s cover employment as a researcher with the Inter-University Committee for Political and Social Action from late 1964 through December 1965, revealing a monthly salary of $600. It clarifies that AMMUG/1 claims no knowledge of the Baltimore Company and that a search of JMWAVE files yielded no connections. The message also notes that JMWAVE revised AMMUG/1’s cover status on January 1, 1966, to meet tax requirements and provide effective cover, neglecting to inform WOGAME of this change. The communication requests early acknowledgment of credit check inquiries, which are needed to expedite AMMUG/1’s local house purchase.",
+  "tags": [
+    "JMWAVE",
+    "AMMUG/1",
+    "Cover Employment",
+    "Inter-University Committee for Political and Social Action",
+    "Tax Requirements",
+    "Agent",
+    "Personnel",
+    "House Purchase"
+  ],
+  "title": "JMWAVE Message Regarding AMMUG/1 Cover Employment and House Purchase",
+  "date": "1965-12-25",
+  "origin_agency": "JMWAVE",
+  "persons_mentioned": [
+    "AMMUG/1",
+    "SCHEAFFER"
+  ],
+  "recipient": "Director",
+  "sender": "JMWAVE"
+}

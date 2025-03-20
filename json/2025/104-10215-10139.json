@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This message details the training of personnel involved in sensitive operations, including specific code names and training locations (ISOLATION, JMWAVE). Disclosing these details could compromise ongoing or future operations, as well as reveal the identities and roles of individuals involved, and the methods and locations used for training. For example, the message explicitly states: \"REQUEST TRAINING FOR SIX MAN LEADER GROUP SCHEDULED ARRIVE ISOLATION 11 JULY AS FOLLOWS: ISOTROPIC SAME GIVEN AMANCHORS LESS EMPHAIS UDI. ISOLATION STRESS LEADERSHIP TRAINING AND ROTATE LEADERSHIP ASSIGNMENTS IN FIELD EXERCISES ENCOMPASSING TRADECRAFT, CACHING, OBSERVATION AND REPORTING...\"",
+  "security_level": "SECRET",
+  "summary": "A classified message from JMWAVE requesting training for a six-man leader group at ISOLATION, detailing their previous training and operational assignments, and requesting airlift support.",
+  "summary_one_paragraph": "This classified message, originating from JMWAVE on June 7, 1969, requests priority training for a six-man leader group scheduled to arrive at ISOLATION on July 11. The message specifies that the training should emphasize ISOTROPIC skills, with less focus on AMANCHORS and UDI, and should cover tradecraft, caching, and observation reporting. The trainees, all of whom have completed JMWAVE training and possess OA's and recent LCFLUTTERS, are listed by their code names and training history. The message also requests an airlift for the team to ISOLATION on the night of July 11, with a return for the AMANCHOR group from ISO WAVE on the night of July 12.",
+  "tags": [
+    "JMWAVE",
+    "ISOLATION",
+    "Training",
+    "Covert Operations",
+    "Cuba",
+    "Airlift",
+    "AMANCHOR",
+    "ISOTROPIC",
+    "LCFLUTTERS"
+  ],
+  "title": "Request for Training at ISOLATION for Leader Group",
+  "date": "1969-06-07",
+  "locations_mentioned": [
+    "ISOLATION",
+    "EGLIN"
+  ],
+  "origin_agency": "JMWAVE",
+  "persons_mentioned": [
+    "ANLILAC/29 TA IGNACIO",
+    "AMLILAC/33 TA MANUEL",
+    "ANSKIRT/1 TA PABLO",
+    "AMHINT/56 TA FRANK",
+    "AMTRUNK/21 TA LUIS",
+    "ANLUNT/2 TA FILIPE",
+    "AMPOLISH/1 TA SIMON"
+  ],
+  "recipient": "DIRECTOR, EGLIN",
+  "sender": "JMWAVE"
+}

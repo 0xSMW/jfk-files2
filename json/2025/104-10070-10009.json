@@ -1,0 +1,41 @@
+{
+  "classification": "Mexico",
+  "document_type": "Report",
+  "security": "This report details ongoing operations involving the creation and distribution of propaganda materials (newspapers and magazines) to influence the PRI and student groups. Revealing the details of Project LIOGLE/LIMIX, including the use of assets and specific actions taken to penetrate political organizations, could compromise these operations and endanger the individuals involved. For example, disclosing that 'LIMIX-1 prepared and published 5,000 copies of the monthly LIMIX political newspaper' or that 'LIMIX-1 provided the Station with information from very reliable sources' could expose methods and sources.",
+  "security_level": "Unclassified",
+  "summary": "This is a status report on Project LIOGLE/LIMIX, detailing activities conducted in Mexico during February 1968 to influence the PRI and student groups through propaganda and intelligence gathering.",
+  "summary_one_paragraph": "Douglas J. Freapane's report to COS/Mexico City outlines the activities of Project LIOGLE/LIMIX for February 1968, which includes the publication and distribution of 5,000 copies of the monthly LIMIX political newspaper and a magazine supplement to influence members of the PRI and selected officials. LIMIX-1 gathered intelligence, maintained relationships with political figures like ex-Deputy Salvador PADILLA Flores, and supported youth activities in Atzcapozalco. The project also faced setbacks, such as the 'temporary loss' of TV programs for Ateneo, and continued efforts to penetrate PRI headquarters, leveraging multiple channels into the PRI's national executive staff while maintaining contacts with IPN student politicians for intelligence gathering and potential political action.",
+  "tags": [
+    "LIOGLE",
+    "LIMIX",
+    "Mexico",
+    "PRI",
+    "Political Influence",
+    "Propaganda",
+    "Student Activities",
+    "Intelligence Gathering"
+  ],
+  "title": "Status Report, Project (LIOGLE/LIMIX) Covering Period 1 February thrt 29 February 1968",
+  "date": "1968-03-09",
+  "locations_mentioned": [
+    "Mexico City",
+    "Atzcapozalco"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Douglas J. Freapane",
+    "Alfonso Martinez Dominguez",
+    "Edgar Robledo Santiago",
+    "Fluvio Vista Altamirano",
+    "Francisco Galindo Ochoa",
+    "Salvador Padilla Flores",
+    "Raul Garza Montemayor",
+    "Esteban Ruiz Ponce",
+    "Joaquim Cisneros",
+    "Rafael Minor",
+    "Jose Cebreros",
+    "Ramiro Aguirre Garin"
+  ],
+  "recipient": "COS/Mexico City",
+  "sender": "Douglas J. Freapane"
+}

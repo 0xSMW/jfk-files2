@@ -1,0 +1,49 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security": "Disclosing the identities of AMFAUNA-1 and sub-agents, their operational methods, and the communication channels used could expose them to hostile control or G-2 traps. Revealing AMFAUNA-1's alias (\"Julio ROJO\") and the details of the courier system (Spanish and Argentine Embassies) would compromise the operation.  Directly quoting: \"he has been known to take unnecessary risks. There is no reason to think that he is under hostile control nor that the operation is likely in the future to be turned against us. There is, however, the real risk that he may one day fall into a G-2 trap baited with the Escambray guerrillas.\"",
+  "security_level": "SECRET",
+  "summary": "This dispatch details the activities of AMFAUNA-1, a Cuban national recruited by JMWAVE, who established a network of sub-agents in Cuba to gather intelligence; it evaluates AMFAUNA-1's operational effectiveness, security practices, communication methods, and financial arrangements.",
+  "summary_one_paragraph": "This dispatch, dated July 11, 1962, from the Chief of Station, JMWAVE, to the Chief of Task Force W, assesses the AMFAUNA operation, focusing on AMFAUNA-1, a Cuban agent recruited and trained by JMWAVE who has built a network of over twenty sub-agents in Cuba. The dispatch outlines AMFAUNA-1's operational skills, security measures (including the use of cutouts and a false identity), communication channels (S/W messages, diplomatic couriers, and telephone conversations), and financial arrangements. It also describes the roles and activities of various sub-agents within the AMFAUNA network and requests traces on AMFAUNAS 2 through 23 and POAS on AMFAUNAS 2, 3, 4, 6, 10, 11, 12, 13, 17, 18, 19.",
+  "tags": [
+    "JMWAVE",
+    "AMFAUNA-1",
+    "Cuban Intelligence",
+    "Sub-agents",
+    "Security",
+    "Communications",
+    "KUBARK",
+    "ODIBEX",
+    "G-2",
+    "FOIA"
+  ],
+  "title": "Review and Analysis of AMFAUNA Operation",
+  "date": "1962-07-11",
+  "locations_mentioned": [
+    "Cuba",
+    "United States",
+    "Havana",
+    "Escambray",
+    "Matanzas",
+    "Sancti Spiritus",
+    "Trinidad",
+    "Manzanillo",
+    "Bayamo",
+    "Santiago de Cuba",
+    "Cienfuegos",
+    "Pinar del Rio",
+    "Guanabacoa"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "AMFAUNA-1",
+    "AMCUSP-1",
+    "AMCUTLER-1",
+    "AMJAG-4",
+    "AMRUNG-1",
+    "Fidel Castro",
+    "Oswaldo Ramirez"
+  ],
+  "recipient": "Chief, Task Force W",
+  "sender": "Chief of Station, JMWAVE"
+}

@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Teletype",
+  "security": "This report contains sensitive intelligence sources and methods that are not releasable to foreign nationals, contractors, or contractor/consultants. Specifically, it mentions a \"former Venezuelan government official who still maintains close relationships with government officials\" as a source whose information is not to be discussed with any foreign officials. Quoting directly: \"SOURCES AND METHODS INVOLVED--NOT RELEASABLE TO FOREIGN NATIONALS--T NOT RELEASABLE TO CONTRACTORS OR CONTRACTOR/CONSULTANTS.T\"",
+  "security_level": "Secret",
+  "summary": "A teletype from the FBI Director to the SAC. MM, reports on the activities of Cuban exile leader Orlando Bosch in Venezuela during late September to mid-October 1976, indicating he was under the protection of Venezuelan President Carlos Andres Perez.",
+  "summary_one_paragraph": "This secret teletype, dated October 15, 1976, from the FBI Director to SAC. MM, relays intelligence regarding Cuban exile leader Orlando Bosch's activities in Venezuela. It states that Bosch was in Venezuela under the protection of President Carlos Andres Perez, who appointed his security advisor Orlando Garcia to assist Bosch. Bosch was met at the airport by Garcia and Luis Clemente Posada, both native-born Cubans, and a fund-raising dinner was held in his honor. The report also notes conflicting information regarding Bosch's status in Venezuela and mentions discussions with Venezuelan officials about potentially turning Bosch over to U.S. authorities.",
+  "tags": [
+    "FBI",
+    "Orlando Bosch",
+    "Cuban Exile",
+    "Venezuela",
+    "Cubana Airlines Bombing",
+    "Carlos Andres Perez",
+    "Luis Clemente Posada",
+    "Hildo Folgar",
+    "Ricardo Morales Navarette"
+  ],
+  "title": "OBA, SUSP, CUBANA AIRLINES, BOMBING, TRA, ASSOC, POLIT",
+  "date": "1976-10-15",
+  "locations_mentioned": [
+    "Venezuela",
+    "Cuba",
+    "Caracas"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Orlando Bosch",
+    "Carlos Andres Perez",
+    "Orlando Garcia",
+    "Luis Clemente Posada",
+    "Hildo Folgar",
+    "Ricardo Morales Navarette"
+  ],
+  "recipient": "SAC. MM",
+  "sender": "Director, FBI"
+}

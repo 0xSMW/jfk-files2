@@ -1,0 +1,47 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security": "This memo details the Agency's assessment of Jose Ricardo RABEL Nunez, including his dual role as a possible agent for both the Agency and CASTRO. Exposing this assessment could damage the CIA's reputation and compromise intelligence sources and methods. Quoting directly: 'It is quite possible, therefore, that he not only served the Agency in a superficial way but that he did the same for CASTRO...'",
+  "security_level": "SECRET",
+  "summary": "A memorandum discussing Jose Ricardo RABEL Nunez (AMLEO-3), assessing his background, potential dual role as an agent for both the CIA and CASTRO, and his involvement in the AMTRUNK Operation.",
+  "summary_one_paragraph": "This SECRET memorandum, dated January 14, 1977, provides an assessment of Jose Ricardo RABEL Nunez (AMLEO-3), born in Havana, Cuba, and the son of a U.S. citizen. It discusses his life of frequent job changes and movements between the U.S. and Cuba, highlighting his possible dual role as an agent for both the Agency and CASTRO. The memo reviews RABEL's involvement in anti-BATISTA activities, his defection to the U.S. in 1962, his use in the AMTRUNK Operation, and his subsequent capture and imprisonment in Cuba. The analysis suggests that RABEL’s rootlessness and unreliability made him a potential double agent, questioning his loyalties and whether he betrayed the AMTRUNK Operation.",
+  "tags": [
+    "Jose Ricardo RABEL Nunez",
+    "AMLEO-3",
+    "AMTRUNK Operation",
+    "CASTRO",
+    "CIA",
+    "Dual Agent",
+    "Defection",
+    "Cuba",
+    "BATISTA",
+    "DSE",
+    "Intelligence"
+  ],
+  "title": "Jose Ricardo RABEL Nunez (AMLEO-3) (201-249386)",
+  "date": "1977-01-14",
+  "locations_mentioned": [
+    "Havana, Cuba",
+    "New Orleans, Louisiana",
+    "France",
+    "Belgium",
+    "Germany",
+    "Austria",
+    "United States",
+    "Paris",
+    "Miami"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Jose Ricardo RABEL Nunez",
+    "Fidel CASTRO",
+    "Alfonso RODRIGUEZ",
+    "Marta FRAYDE BarraueJin",
+    "Camilo Cienfuegos",
+    "Luis RABEL Nunez",
+    "Fernando REY",
+    "Marty Miller"
+  ],
+  "recipient": "LAD/JFK Task Force",
+  "sender": "Unknown"
+}

@@ -1,0 +1,42 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "Revealing the Agency's interest in Robert KORENGOLD, including tracking his interactions and media inquiries, could expose sources and methods of intelligence gathering. Quoting directly: \"Newsweek was planning to do a cover story on the Agency and KORENGOLD was looking for anecdotes favorable to the Agency. Headquarters guidance was requested in cable.\" Also, mentioning LUERS's involvement in the AMALRIK case might compromise past and current sources.",
+  "security_level": "SECRET",
+  "summary": "A memo summarizing information on Robert J. KORENGOLD, a Newsweek correspondent, including his past assignments in Moscow and interactions with individuals of interest, as well as Newsweek's planned coverage of the CIA.",
+  "summary_one_paragraph": "This SECRET memorandum, dated August 28, 1972, from Sarah K. Hall of SRS/OS to the Deputy Chief, SRS, provides background information on Robert J. KORENGOLD, a Newsweek correspondent. The memo references KORENGOLD's past assignment in Moscow as a UPI and Newsweek correspondent, his attempt to interview a Soviet painter resulting in the arrest of Andre AMALRIK, an exclusive interview with Karel VAN HET REVE, and Newsweek's planned cover story on the CIA, for which KORENGOLD was seeking favorable anecdotes. The memo compiles data from FBI replies, Foreign Service dispatches, Overseas Press Bulletins, Department of State reports, New York Times articles, and CIA cables to assess KORENGOLD's background and relevance to the Agency.",
+  "tags": [
+    "Robert J. KORENGOLD",
+    "Newsweek",
+    "Moscow",
+    "CIA",
+    "FBI",
+    "Andre Amalrik",
+    "Karel van het Reve",
+    "Media Relations",
+    "Surveillance"
+  ],
+  "title": "KORENGOLD, Robert J. #495685",
+  "date": "1972-08-28",
+  "locations_mentioned": [
+    "Moscow",
+    "London",
+    "Washington, D.C.",
+    "New York"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Robert J. KORENGOLD",
+    "William Henry LUERS",
+    "Andre AMALRIK",
+    "Malcolm TOON",
+    "Karel VAN HET REVE",
+    "Robert CHRISTOPHER",
+    "Barbara POWERS",
+    "Eugene Rosenfeld",
+    "Sarah K. Hall",
+    "E. Mendoza"
+  ],
+  "recipient": "Deputy Chief, SRS",
+  "sender": "Sarah Hall"
+}

@@ -1,0 +1,39 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Classified Message",
+  "security": "Revealing the agency’s surveillance and investigative activities involving specific individuals and vehicles could compromise ongoing intelligence operations and reveal sources and methods. Citing: \"SQUARE PRELIMINARY CHECKS ON RECORDED CONVERSATIONS REVEAL FOLL:\" and detailing license plate checks and information on individuals mentioned in the reference.",
+  "security_level": "SECRET",
+  "summary": "A CIA message reports on preliminary checks conducted by SQUARE (an Australian intelligence service) on recorded conversations, detailing investigations into a vehicle and individuals mentioned in reference to OPFLOOR. It also discusses coordination with the PMO liaison officer and embassy involvement.",
+  "summary_one_paragraph": "This classified message, originating from the CIA, details the results of SQUARE's preliminary checks on recorded conversations related to OPFLOOR. The checks include investigations into a dark blue Buick and license plate variations, none of which yielded definitive results, although some leads connected to individuals like Erian Satrapinsky, William John Sins, and Keith Bethke were explored. The message also notes that the Frasers mentioned in the reference are ALP MPs, and the Indonesian First Secretary, R. Willy Sastranegara, has a mustache and is in proximity to SOUS CNBIK, though his capabilities are unknown. The message concludes by noting coordination with PMO liaison officer Ted Young and continued contact between the embassy and SQUARE.",
+  "tags": [
+    "CIA",
+    "SQUARE",
+    "OPFLOOR",
+    "Surveillance",
+    "Intelligence",
+    "Australia",
+    "License Plate",
+    "R. Willy Sastranegara",
+    "Erian Satrapinsky",
+    "William John Sins",
+    "Keith Bethke"
+  ],
+  "title": "Report on Preliminary Checks of Recorded Conversations",
+  "date": "1963-12-12",
+  "locations_mentioned": [
+    "Sydney",
+    "Wentworthville",
+    "Binalong",
+    "Wahroonga"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Erian Satrapinsky",
+    "William John Sins",
+    "Keith Bethke",
+    "R. Willy Sastranegara",
+    "Ted Young"
+  ],
+  "recipient": "DCI, D/DCI, DSP, C/CI, C/CI/SI, VR",
+  "sender": "FELSCURNED"
+}

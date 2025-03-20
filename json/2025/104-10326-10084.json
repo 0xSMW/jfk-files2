@@ -1,0 +1,28 @@
+{
+  "classification": "Security",
+  "document_type": "Message",
+  "security": "Releasing details about security clearances, accesses, and background investigations of individuals working with classified information could compromise security protocols. Specifically, disclosing the \"INTERIM TOP SECRET\" clearance based on a National Agency Check (NAC) plus credit with \"SI/TK/GAMMA/BYEMAN\" accesses for Thomas Jeremy Gunn reveals sensitive security information.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This message certifies the security clearance and accesses of Thomas Jeremy Gunn, an FBI consultant involved in reviewing documents at the CIA, from January 20, 1995, through January 19, 1996.",
+  "summary_one_paragraph": "A confidential message from the FBI to the CIA, dated January 19, 1995, certifies that FBI consultant Thomas Jeremy Gunn, who is involved in reviewing documents at the CIA with Tim Bowers as the point of contact, holds an 'Interim Top Secret' security clearance based on a National Agency Check (NAC) plus credit with 'SI/TK/GAMMA/BYEMAN' accesses; a full-field background investigation is ongoing, and the CIA will be notified if the clearance is terminated before January 19, 1996; Janice Lambert of the FBI Personnel Security Unit can be contacted for additional information.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Security Clearance",
+    "Background Investigation",
+    "Thomas Jeremy Gunn",
+    "JFK Assassination Records Review Board",
+    "SI/TK/GAMMA/BYEMAN",
+    "Tim Bowers"
+  ],
+  "title": "Certification of Clearance and Accesses",
+  "date": "1995-01-19",
+  "origin_agency": "Federal Bureau of Investigation (FBI)",
+  "persons_mentioned": [
+    "Thomas Jeremy Gunn",
+    "Tim Bowers",
+    "Janice Lambert"
+  ],
+  "recipient": "Central Intelligence Agency (CIA)",
+  "sender": "Federal Bureau of Investigation (FBI)"
+}

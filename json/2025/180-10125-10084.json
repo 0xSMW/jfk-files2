@@ -1,0 +1,21 @@
+{
+  "classification": "Administrative",
+  "document_type": "Payroll Certification",
+  "security": "This document contains personal information, specifically Social Security Numbers, which could potentially be used for identity theft or other malicious purposes. Releasing this information could violate privacy laws and harm the individuals listed. ",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a payroll certification report for the U.S. House of Representatives Select Committee on Assassinations, detailing the names, positions, and salaries of committee staff for the period of July 1, 1978, to July 31, 1978.",
+  "summary_one_paragraph": "This payroll certification report from the U.S. House of Representatives details the compensation for employees of the Select Committee on Assassinations during July 1978. The report, generated on August 3, 1978, lists each employee's name, Social Security number, position, annual gross salary, and the amount earned during the specified period, along with any relevant remarks such as terminations or pay rate changes. The listed personnel include staff counsels, investigators, researchers, clerks, and other administrative roles, with salaries ranging from $6,240 to $47,500 annually.",
+  "tags": [
+    "Payroll",
+    "Certification",
+    "HSCA",
+    "Salaries",
+    "Personnel",
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations"
+  ],
+  "title": "Payroll Certification",
+  "date": "1978-08-03",
+  "origin_agency": "U.S. House of Representatives",
+  "recipient": "Select Committee on Assassinations"
+}

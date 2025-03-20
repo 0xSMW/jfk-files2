@@ -1,0 +1,30 @@
+{
+  "classification": "Security",
+  "document_type": "Action Request",
+  "security": "Revealing the target's real name (Sherman, Adrian F.) and alias(es), along with the operational purpose and geographic area (San Francisco - access agent to Saudi Arabian) could compromise the investigation and put the subject and potential contacts at risk. Also, mentioning the use of agents to access individuals of interest exposes intelligence-gathering methods.",
+  "security_level": "SECRET",
+  "summary": "An action request form for Adrian F. Sherman, a retired individual, including a request to access an agent to a Saudi Arabian in San Francisco. The form details checks conducted at various agencies, including the FBI, DODCI, CSC, STATE, PP, EX, and JIDENT, with positive results from the Passport agency (MPRC).",
+  "summary_one_paragraph": "This is an action request form dated November 1977, initiated by C/OPS/OSG/OC, and related to Adrian F. Sherman, a retired individual. The request involves accessing an agent related to a Saudi Arabian in San Francisco, and the form indicates checks were conducted at the FBI, DODCI, CSC, State Department, and other agencies, with positive results only coming from the Passport agency (MPRC). The action request indicates that no neighborhood checks should be conducted, and the form also confirms a domestic field investigation has been completed, with reports to follow.",
+  "tags": [
+    "Security Investigation",
+    "Adrian F. Sherman",
+    "Saudi Arabian",
+    "San Francisco",
+    "FBI Check",
+    "Passport",
+    "Agent Access"
+  ],
+  "title": "Action Request for Adrian F. Sherman",
+  "date": "1977-11-01",
+  "locations_mentioned": [
+    "San Francisco",
+    "Saudi Arabia"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Sherman, Adrian F.",
+    "Judy Doyle"
+  ],
+  "recipient": "Office of Security Action",
+  "sender": "C/OPS/OSG/OC"
+}

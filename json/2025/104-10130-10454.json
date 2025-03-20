@@ -1,0 +1,28 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "Revealing that the Agency used Wackenhut Corporation for cover support could expose past operational methods and compromise individuals who may have relied on that cover. Quoting directly: 'Agency interest in Mr. Wackenhut and his company was for the purpose of obtaining cover support for Western Hemisphere Agency employees assigned to Florida...his company provided cover backstopping to Western Hemisphere employees stationed in the Miami, Florida, area.'",
+  "security_level": "SECRET",
+  "summary": "This memorandum discusses the CIA's relationship with the Wackenhut Corporation, detailing its use for cover support in Florida, the subsequent rescission of the approval, and a later instance where the corporation provided services to a firm dealing with the Agency.",
+  "summary_one_paragraph": "A memorandum dated July 28, 1975, outlines the CIA's relationship with George R. Wackenhut and his company, Wackenhut Corporation. Initiated in May 1960, the relationship was established to provide cover support for Agency employees in Florida, leading to a Covert Security Approval in November 1961. This approval was rescinded in April 1967 due to Wackenhut's increased public notoriety. However, in November 1974, it was discovered that Wackenhut Corporation was providing guard services to Global Marine Development, Incorporated, a firm associated with the Agency's DDS&T office, although no action was taken to terminate this arrangement.",
+  "tags": [
+    "Wackenhut Corporation",
+    "Cover Support",
+    "Security Approval",
+    "Global Marine Development",
+    "DDS&T",
+    "Florida",
+    "Miami"
+  ],
+  "title": "Wackenhut Corporation",
+  "date": "1975-07-28",
+  "locations_mentioned": [
+    "Florida",
+    "Miami, Florida",
+    "Los Angeles, California"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "George R. Wackenhut"
+  ]
+}

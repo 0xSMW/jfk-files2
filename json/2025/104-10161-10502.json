@@ -1,0 +1,36 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "The memo mentions a written plan to assassinate Fidel Castro prepared by the Subject, which 'may have been stolen by someone having access to the apartment.' Sharing this detail could expose past plans and activities, potentially harming current international relations and creating diplomatic issues. Additionally, the mention of operational interest in a Saudi Arabian 'access agent' to the San Francisco Base can lead to exposure of intelligence-gathering activities.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A memorandum regarding the death of Adrian Fisher Sherman, Jr., and a subsequent security concern involving a missing plan to assassinate Fidel Castro that his son recalled seeing.",
+  "summary_one_paragraph": "This confidential memo, dated October 13, 1978, from Joseph P. Mirabile to the Chief of the Operations Support Branch, reports the death of Adrian Fisher Sherman, Jr., a former military detailee and Pan American Airlines employee who had been of interest to the CIA's DCD and FRD. Sherman, who served as an access agent to a Saudi Arabian, died of a heart attack in his Monterey, California apartment, which was discovered by an FRD case officer. A security concern arose when Sherman's son disclosed that he had seen a written plan to assassinate Fidel Castro, prepared by his father in the early 1970s, which is now missing and feared stolen, along with other personal items. The DCI has been briefed, and the Office of Security will monitor the case for 60-90 days.",
+  "tags": [
+    "Adrian Fisher Sherman",
+    "Fidel Castro",
+    "Assassination Plan",
+    "Security",
+    "CIA",
+    "FRD",
+    "San Francisco Field Office",
+    "Access Agent"
+  ],
+  "title": "SHERMAN, Adrian Fisher, Jr.",
+  "date": "1978-10-13",
+  "locations_mentioned": [
+    "Monterey, California",
+    "Clark Air Force Base, the Philippines",
+    "Miami, Florida",
+    "San Francisco, California"
+  ],
+  "origin_agency": "Office of Security",
+  "persons_mentioned": [
+    "Adrian Fisher Sherman, Jr.",
+    "James A. Sherman",
+    "Joseph P. Mirabile",
+    "Fidel Castro",
+    "Gordon Gregory"
+  ],
+  "recipient": "Chief, Operations Support Branch",
+  "sender": "Joseph P. Mirabile"
+}

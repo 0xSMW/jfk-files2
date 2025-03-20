@@ -1,0 +1,33 @@
+{
+  "classification": "Personnel",
+  "document_type": "Form",
+  "security": "This document contains personal information about Santiago Alvarez Fernandez, including his birth date, birthplace, family members, and current residence. Sharing this information could violate privacy and potentially endanger Alvarez or his family. Quoting directly: '1. SUBJECT (NAME, IN FULL, LAST) Santiago ALVAREZ Fernandez...3. BIRTH DATE 12 June 19/1...6. PRESENT ACTIVITY AND LOCATION Residing in Miami, Florida...12. OTHER MEMBERS OF IMMEDIATE FAMILY, AND ASSOCIATES Father-Santiago ALVAREZ Mother-Lucia FERRANTEZ'.",
+  "security_level": "SECRET",
+  "summary": "A classified form containing personal information about Santiago Alvarez Fernandez, a Cuban citizen residing in Miami, Florida, as part of a Green List request.",
+  "summary_one_paragraph": "This SECRET classified form, dated 30 January 1961, details personal information about Santiago Alvarez Fernandez, a Cuban citizen residing in Miami, Florida. The form includes his full name, aliases, birth date and place, citizenship, present location, family members (father Santiago Alvarez and mother Lucia Ferrantez), and other significant data. The document is a response to Green List request #108574, initiated by Margaret Mea from WE/4, with the information intended for background use only in espionage or CE activity.",
+  "tags": [
+    "CIA",
+    "Green List",
+    "Santiago Alvarez Fernandez",
+    "Cuban",
+    "Miami",
+    "Personal Information",
+    "Espionage",
+    "CE Activity"
+  ],
+  "title": "Santiago ALVAREZ Fernandez - Personal Information Form",
+  "date": "1961-01-30",
+  "locations_mentioned": [
+    "Havana, Cuba",
+    "Miami, Florida"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Santiago Alvarez Fernandez",
+    "Santiago Alvarez (father)",
+    "Lucia Ferrantez (mother)",
+    "Margaret Mea"
+  ],
+  "recipient": "FI/D",
+  "sender": "Margaret Mea (WE/4)"
+}

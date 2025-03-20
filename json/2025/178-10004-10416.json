@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This document outlines the CIA's covert operations against Cuba and the support activities in the Miami area. Disclosing these details could compromise current intelligence operations, expose methods of communication and surveillance, and reveal relationships with various government agencies and organizations. Specific examples include the radio communications with agents, the monitoring of foreign radio signals, and the liaison with law enforcement and military entities.",
+  "security_level": "Secret",
+  "summary": "This document details the history and activities of the CIA's Miami Station, from its establishment in 1961 to its downsizing and eventual focus on intelligence collection in the Caribbean. It describes the station's role in anti-Castro activities, support for Cuban exiles, and coordination with various US government agencies.",
+  "summary_one_paragraph": "This report outlines the CIA's Miami Station's activities from its inception as a Forward Operations Base (FOB) in 1960 supporting operations against Cuba, including the Bay of Pigs invasion, to its evolution into a full-fledged station in 1961. The Miami Station, peaking at about 300 personnel, engaged in classical intelligence operations, psychological warfare through Radio Americas, and maritime activities aimed at undermining the Castro government. A substantial cutback occurred in late 1966, leading to a reorganization, cover entity terminations, and a shift towards intelligence collection, resulting in the deactivation of the original Miami Station in 1968 and its replacement with a smaller, more secure station focused on the Caribbean. The station supported covert action against the Cuban government which included establishing communications with foreign police authorities, installing secure electronic circuitry between the Fountainbleu Hotel and CIA Langley Headquarters for the 1968 Republican National Convention, relocation of the CIA Latin American Communications Activity (AMCA) Headquarters from Washington, D.C., to Miami. In 1974, responsibility for Cuban operations was transferred to Headquarters, and the remaining Cuban emigre organizations were terminated.",
+  "tags": [
+    "CIA",
+    "Miami Station",
+    "Bay of Pigs",
+    "Anti-Castro Activities",
+    "Cuban Exiles",
+    "Ramparts",
+    "Radio Americas",
+    "Caribbean",
+    "Intelligence Collection",
+    "Counterintelligence"
+  ],
+  "title": "The Miami Station",
+  "date": "1975-01-13",
+  "locations_mentioned": [
+    "Miami, FL",
+    "Havana, Cuba",
+    "South Miami, Florida",
+    "Key West",
+    "Swan Island",
+    "Caribbean",
+    "Homestead, Florida",
+    "Bahamas",
+    "Lesser Antilles"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "President Eisenhower",
+    "William Colby"
+  ],
+  "recipient": "Rockefeller Commission"
+}

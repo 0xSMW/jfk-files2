@@ -1,0 +1,33 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security": "This memo details a CIA operation to create a U.S.-based notional communist organization for the purpose of penetrating Arab groups in the Middle East. Revealing this information could compromise the operation, expose CIA methods, and damage relationships with foreign entities. The CIA requests that its interest not be revealed outside of the Bureau and that this information be handled on a need-to-know basis.",
+  "security_level": "SECRET",
+  "summary": "A memo from S.J. Papich to D.J. Brennan, Jr. regarding a CIA operation to create a fake U.S.-based communist organization to penetrate revolutionary Arab groups.",
+  "summary_one_paragraph": "S.J. Papich sends a memo to D.J. Brennan, Jr. on February 13, 1970, detailing information received from Norman Garrett (CIA) about a CIA operation called \"Union for Revolution.\" The CIA established a notional U.S.-based organization with communist leanings, using P.O. boxes in Boston and Philadelphia to produce propaganda aimed at Left Wing groups in foreign countries, primarily to develop penetrations and sources in revolutionary Arab groups in the Middle East. The memo outlines the CIA's plan to use its personnel under suitable cover to contact and penetrate target groups and requests that the FBI provide any information regarding interest in this group within the U.S., while keeping the CIA's involvement confidential.",
+  "tags": [
+    "CIA",
+    "FBI",
+    "Union for Revolution",
+    "Propaganda",
+    "Penetration",
+    "Arab Groups",
+    "Middle East",
+    "Notional Organization"
+  ],
+  "title": "UNION FOR REVOLUTION",
+  "date": "1970-02-13",
+  "locations_mentioned": [
+    "Boston, Massachusetts",
+    "Philadelphia, Pennsylvania",
+    "Middle East"
+  ],
+  "origin_agency": "Federal Bureau of Investigation (FBI)",
+  "persons_mentioned": [
+    "D. J. Brennan, Jr.",
+    "S. J. Papich",
+    "Norman Garrett"
+  ],
+  "recipient": "Mr. D. J. Brennan, Jr.",
+  "sender": "S. J. Papich"
+}

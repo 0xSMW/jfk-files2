@@ -1,0 +1,38 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing details of the LITAMIL operation, including agent identities (LITAMIL-6, LITAMIL-5, LITAMIL-1), their contacts (LIOOZE-1, Enrique Collazo, Jesus Badal, Tamayo), and planned activities (establishing 'Radio Cuba Libre'), could compromise the agents' safety, jeopardize the operation, and damage relations with the LITAMIL complex in Mexico. Specifically, the message states: 'STATION REQUESTS UTMOST SECURITY RE OP CITED ABOVE AS \"LEAK\" BACK TO MEXI WOULD SERIOUSLY DAMAGE RELATIONS LITAMIL COMPLEX HERE.'",
+  "security_level": "SECRET",
+  "summary": "A message from Mexico City details the LITAMIL operation's plans to establish radio contact with a sabotage team in Cuba and set up 'Radio Cuba Libre', requesting utmost security to avoid damaging relations with the Mexican LITAMIL complex.",
+  "summary_one_paragraph": "This message from Mexico City, dated August 8, 1961, outlines the LITAMIL operation's efforts to connect with a sabotage team in Cuba through LITAMIL-6, who traveled to Havana to contact Enrique Collazo and relay instructions from LITAMIL-5 and LITAMIL-1; the communication also details plans for LITAMIL-5 to provide a code book to 'Jesus Badal' for clandestine radio communication under the name 'Radio Cuba Libre,' which aims to establish radio contact with Mexico; the message emphasizes the need for utmost security to avoid leaks that could severely damage relations with the LITAMIL complex in Mexico.",
+  "tags": [
+    "LITAMIL",
+    "Cuba",
+    "Mexico City",
+    "Radio Cuba Libre",
+    "Sabotage",
+    "Havana",
+    "KUBARK",
+    "PBPRIME"
+  ],
+  "title": "JMZIP RYBAT - BARBOSA Tomari",
+  "date": "1961-08-08",
+  "locations_mentioned": [
+    "Mexico City",
+    "Havana, Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "BARBOSA Tomari",
+    "LITAMIL-6",
+    "LIOOZE-1",
+    "LITAMIL-5",
+    "LITAMIL-1",
+    "Enrique Collazo",
+    "Die Laegenfelder",
+    "Jesus Badal",
+    "Tamayo"
+  ],
+  "recipient": "Director",
+  "sender": "Mexico City"
+}

@@ -1,0 +1,29 @@
+{
+  "classification": "Mexico",
+  "document_type": "Dispatch",
+  "security": "Revealing operational information about FRQ Part I and requesting provisional operational approval and a 201 number for Alfonso Dibildox Torres could expose ongoing intelligence activities in Mexico. The sensitivity is heightened by the 'NOFORN' caveat, indicating that the information is not releasable to foreign nationals.",
+  "security_level": "SECRET/NOFORN",
+  "summary": "A dispatch from the Chief of Station in Mexico City to the Chief of the WE Division, requesting provisional operational approval and a 201 number for Alfonso Dibildox Torres (FRQ Part I). The subject's cryptonym, assigned by the Station on 15 October 1965, is being sent under separate cover.",
+  "summary_one_paragraph": "This SECRET/NOFORN dispatch, dated November 13, 1963, comes from the Chief of Station in Mexico City addressed to the Chief of the WE Division. It concerns Alfonso Dibildox Torres (referred to as FRQ Part I) and requests provisional operational approval, along with the assignment of a 201 file number. The subject's cryptonym, assigned by the Station on October 15, 1965, is to be forwarded separately. Attached to the dispatch is FRQ Part I on the subject.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "FRQ Part I",
+    "Alfonso Dibildox Torres",
+    "Operational Approval",
+    "Cryptonym",
+    "NOFORN"
+  ],
+  "title": "FRQ Part I - (Alfonso Dibildox Torres)",
+  "date": "1963-11-13",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Alfonso Dibildox Torres",
+    "Willard C. Curtis"
+  ],
+  "recipient": "Chief, WE Division",
+  "sender": "Chief of Station, Mexico City"
+}

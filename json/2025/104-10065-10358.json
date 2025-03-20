@@ -1,0 +1,34 @@
+{
+  "classification": "Liaison",
+  "document_type": "Telepouch",
+  "security": "Withholding information about potential contacts between an American Nazi Party member and the Flemish Order of Militants (VMO) could hinder investigations into possible extremist connections. The assertion that the Freedom of Information Act (FOIA) poses a risk to liaison sources indicates a concern about transparency in intelligence sharing.",
+  "security_level": "SECRET",
+  "summary": "A secret telepouch from Brussels reports that NITRUST is unwilling to share information on potential VMO-American contacts with the House Committee on Assassinations due to concerns about information leaks and the Freedom of Information Act.",
+  "summary_one_paragraph": "This secret telepouch, originating from Brussels in May 1978, details NITRUST's refusal to provide information to the House Committee on Assassinations (HSCA) regarding potential contacts between the Vlaamse Militantenorde (VMO), a Flemish militant order, and Americans. NITRUST cites concerns that the Freedom of Information Act (FOIA) could compromise sensitive information and liaison sources, despite assurances that the material would be handled as classified. The message also mentions an early 1977 incident where the VMO briefly met with an American Nazi Party member expelled from the UK, although the traveller’s name could not be recalled.",
+  "tags": [
+    "NITRUST",
+    "VMO",
+    "Flemish Order of Militants",
+    "House Committee on Assassinations",
+    "HSCA",
+    "Freedom of Information Act",
+    "FOIA",
+    "American Nazi Party",
+    "Liaison"
+  ],
+  "title": "WNINTEL NIFLAIR NIGALE - FLEMISH ORDER OF MILITANTS",
+  "date": "1978-05-16",
+  "locations_mentioned": [
+    "Brussels",
+    "Belgium",
+    "UK",
+    "Washington"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "GOERLICH",
+    "ACOS/NIGALE-75"
+  ],
+  "recipient": "Washington",
+  "sender": "BRUS"
+}

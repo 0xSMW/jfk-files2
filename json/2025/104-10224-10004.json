@@ -1,0 +1,39 @@
+{
+  "classification": "Personnel",
+  "document_type": "Personnel Action Request",
+  "security": "The document details Herman Kimsey's employment history, performance evaluations, and salary information within the CIA. Disclosing these details could reveal internal personnel practices, pay scales, and employee evaluations, which could be exploited by adversaries. Specifically, the document indicates Kimsey was terminated in accordance with provisions of CIA Regulation 20-27, Separation of Surplus Personnel, pursuant to authority of Director of Central Intelligence contained in Section 102 (c) of the National Security Act of 1947, as amended. This could be sensitive.",
+  "security_level": "SECRET",
+  "summary": "This file contains personnel actions related to Herman E. Kimsey, covering the period from 1949 to 1965, including his employment history, promotions, and eventual termination from the CIA in 1962.",
+  "summary_one_paragraph": "This personnel file documents various actions related to Herman E. Kimsey's employment within the CIA from 1949 to 1965. It includes requests for personnel actions detailing his promotions within the Technical Services Staff (TSS), his roles in authentication and graphic arts reproduction, and his responsibilities as Chief of the Analysis and Research Section of GARD. The file also contains information regarding his salary, performance evaluations, educational background, prior military service, and his eventual termination in September 1962 due to the Separation of Surplus Personnel policy, as per CIA Regulation 20-27.",
+  "tags": [
+    "Personnel File",
+    "Herman E. Kimsey",
+    "CIA",
+    "Technical Services Staff",
+    "Promotion",
+    "Termination",
+    "Personnel Action",
+    "GARD",
+    "Analysis and Research"
+  ],
+  "title": "Kimsey, Herman E.",
+  "date": "1962-09-20",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Camp Claiborne, Louisiana",
+    "Fort Holabird, Maryland",
+    "Korea",
+    "California"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Herman E. Kimsey",
+    "James R. Shields",
+    "Emanuele Fontana",
+    "Dave Richard",
+    "Jasper L'Olestead",
+    "Joseph F. Marzen",
+    "Charles J. Ryan",
+    "Charles Yoel, Jr."
+  ]
+}

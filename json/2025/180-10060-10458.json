@@ -1,0 +1,33 @@
+{
+  "classification": "Administrative",
+  "document_type": "Payroll Records and Final Determination Notification",
+  "security": "The document includes employee Social Security numbers (SSNs), which are redacted to prevent unwarranted invasion of personal privacy. As stated in the document, 'The text is redacted because the public disclosure of the redaction could reasonably be expected to constitute an unwarranted invasion of personal privacy, and that invasion of privacy would be so substantial that it outweighs the public interest.'",
+  "security_level": "Unclassified (original status)",
+  "summary": "This document consists of payroll records and a final determination notification from the Assassination Records Review Board regarding the release status of House Select Committee on Assassinations (HSCA) staff payroll records, specifically those of Elizabeth Kilker; it includes multiple payroll authorization forms, leave records, and related memoranda, with redactions of Social Security numbers.",
+  "summary_one_paragraph": "This document contains a final determination notification from the Assassination Records Review Board concerning HSCA staff payroll records, combined with several payroll-related documents for Elizabeth Kilker. The Review Board's notification outlines a decision to postpone the release of Social Security numbers (SSNs) to protect personal privacy, while acknowledging significant historical interest in the document. Included are payroll authorization forms, memoranda, and leave records detailing Kilker's employment with the HSCA, salary adjustments, and termination, approved and signed by authorizing officials, including Louis Stokes and Henry B. Gonzalez.",
+  "tags": [
+    "HSCA",
+    "Payroll Records",
+    "Elizabeth Kilker",
+    "Social Security Number",
+    "Privacy",
+    "Assassination Records Review Board",
+    "Louis Stokes",
+    "Henry B. Gonzalez",
+    "Thomas N. Downing",
+    "Personnel Records"
+  ],
+  "title": "HSCA Staff Payroll Records: Elizabeth Kilker",
+  "date": "1995-12-08",
+  "persons_mentioned": [
+    "Elizabeth Kilker",
+    "Louis Stokes",
+    "Henry B. Gonzalez",
+    "Thomas N. Downing",
+    "Thomas Howarth",
+    "I. Charles Mathews",
+    "Richard A. Sprague"
+  ],
+  "recipient": "Clerk of the House of Representatives",
+  "sender": "Assassination Records Review Board (Final Determination Notification), Various (Payroll Authorization Forms and Memoranda)"
+}

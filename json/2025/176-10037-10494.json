@@ -1,0 +1,32 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Telegram Information Report",
+  "security": "Disclosing details of the Strategic Hamlet Program and the views of Vietnamese officials could negatively impact diplomatic relations and reveal sources and methods of intelligence gathering. Quoting directly: \"IT WAS NECESSARY TO DEVELOP A MATURITY IN THE VIETNAMESE PEOPLE SO THAT THEY WOULD TAKE THE RESPONSIBILITY FOR SOLVING THEIR OWN PROBLEMS, UTILIZING SUCH ASSISTANCE AS WAS GIVEN THEM, BUT NOT ATTEMPTING TO SHIFT RESPONSIBILITY FOR THE SOLUTION OF THE PROBLEM.\"",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A CIA information report from February 1962 details Ngo Dinh Nhu's perspective on the Strategic Hamlets program in South Vietnam, emphasizing its role in defense, development, and modernization. The report also conveys Nhu's views on government bureaucracy and dependence on external aid, alongside Minister Bui Van Luong's instructions for the program's implementation under the Interministerial Commission.",
+  "summary_one_paragraph": "This confidential CIA report, dated February 20, 1962, summarizes a conversation with Ngo Dinh Nhu, brother and advisor to President Diem, regarding the Strategic Hamlets program in South Vietnam. According to Nhu, the program is intended to serve as both a defense mechanism and a strategy for Vietnamese development, designed to modernize Vietnamese life and democratize rural governance. Nhu criticizes the existing bureaucracy for its dependence on higher authorities and external aid, advocating for self-reliance. Separately, Minister Bui Van Luong emphasizes the importance of controlled implementation under the Interministerial Commission to avoid repeating errors from the Agroville program.",
+  "tags": [
+    "CIA",
+    "Strategic Hamlets",
+    "Ngo Dinh Nhu",
+    "South Vietnam",
+    "Counterinsurgency",
+    "Modernization",
+    "Bureaucracy",
+    "American Observer",
+    "Bui Van Luong",
+    "Interministerial Commission"
+  ],
+  "title": "Information Report Re: Strategic Hamlets",
+  "date": "1962-02-20",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ngo Dinh Nhu",
+    "Ngo Dinh Diem",
+    "Bui Van Luong"
+  ]
+}

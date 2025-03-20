@@ -1,0 +1,37 @@
+{
+  "classification": "Commission",
+  "document_type": "Summary",
+  "security": "Revealing the identities and contact information of individuals interviewed or referenced in the HSCA's investigation could compromise their privacy and potentially expose them to harassment. Identifying military activities at Langley AFB, as well as DOD seeking approval prior to the interview could be considered sensitive. Document states, 'Due to the nature of the interview, DOD approval was sought and acquired prior to scheduling contact with Sgt. LEBER. The sensitive nature of the military activities at Langley AFB also required that approval be given to Sgt. Leber to participate in the interview...'",
+  "security_level": "Unclassified",
+  "summary": "This HSCA document summarizes an interview with Sgt. Lewis Wesley Leber on February 24, 1978, regarding Captain William C. Stanley, a Special Security Officer at Langley AFB. The interview sought information about Stanley's background and any potential knowledge related to the JFK assassination, Russia, Cuba, or Mexico.",
+  "summary_one_paragraph": "On February 24, 1978, the HSCA conducted an interview with Sgt. Lewis Wesley Leber at Langley AFB, Virginia, concerning Captain William C. Stanley, a former Special Security Officer for Headquarters TAC-Intelligence. Sgt. Leber provided details about Stanley, including his service history, approximate age in 1970, and potential whereabouts, such as studying law at the University of Miami in 1971. The interview, which required prior DOD approval due to the sensitive nature of activities at Langley AFB, also identified two servicemen, Larry F. Caison and Chief Master Sergeant Charles Fischer, who served under Stanley. The interview sought information about Stanley's background and his knowledge of topics related to the JFK assassination and related areas.",
+  "tags": [
+    "HSCA",
+    "Interview",
+    "William C. Stanley",
+    "Langley AFB",
+    "JFK Assassination",
+    "Military Personnel",
+    "Security Officer"
+  ],
+  "title": "Investigation Interview Schedule",
+  "date": "1978-02-24",
+  "locations_mentioned": [
+    "Langley AFB, VA",
+    "Winter Park, Florida",
+    "Hampton, Virginia",
+    "University of Miami, Florida"
+  ],
+  "origin_agency": "HSCA",
+  "persons_mentioned": [
+    "Lewis Wesley Leber",
+    "William C. Stanley",
+    "Rudolph Gobel",
+    "Larry F. Caison",
+    "Charles Fischer",
+    "Gene D. Hunter",
+    "David Herb Pelham",
+    "Clifford A. Fenton, Jr."
+  ],
+  "recipient": "HSCA"
+}

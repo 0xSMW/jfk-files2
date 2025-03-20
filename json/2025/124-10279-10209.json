@@ -1,0 +1,39 @@
+{
+  "classification": "Security",
+  "document_type": "PAPER, TEXTUAL DOCUMENT",
+  "security": "The document discusses potential Soviet recruitment of American citizens, specifically mentioning Priscilla Johnson.  It also includes gossip about Aline Mosby having an abortion, which is a privacy concern. The unauthorized disclosure of classified information and travel itinerary are also sensitive topics.",
+  "security_level": "Secret",
+  "summary": "This document from April 9, 1963, details an interview where the subject discusses individuals in Moscow, including Nina and Ed Stevens, Aline Mosby, and Priscilla Johnson, assessing their potential connections to the Soviet Union, and the subject's own handling of classified information and travel plans.",
+  "summary_one_paragraph": "This document, dated April 9, 1963, is a report from Sheffield Edwards of the CIA to the FBI, concerning an interview with a subject regarding various individuals in Moscow. The subject expresses distrust for Nina Stevens, suspecting her of being a Soviet informant, and provides information on newspaperwomen Aline Mosby and Priscilla Johnson, including Mosby's health issues and Johnson's potential recruitment by the Soviets. The subject also addresses concerns about unauthorized disclosure of classified information, explaining his cover and discussions with Ray Hutchins of the British Embassy, as well as clarifying his travel itinerary back to the United States, emphasizing his adherence to pre-approved plans.",
+  "tags": [
+    "PPJM",
+    "Recruitment",
+    "American Code Clerk",
+    "Diplomat in Moscow",
+    "KGB",
+    "Soviet informant",
+    "Classified information",
+    "Unauthorized disclosure"
+  ],
+  "title": "",
+  "date": "1963-04-09",
+  "locations_mentioned": [
+    "Moscow",
+    "Soviet Union",
+    "United States",
+    "Delhi",
+    "Far East"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Edwards, Sheffield",
+    "Nina Stevens",
+    "Ed Stevens",
+    "Aline Mosby",
+    "Schapiro",
+    "Priscilla Johnson",
+    "Ray Hutchins"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "EDWARDS, SHEFFIELD"
+}

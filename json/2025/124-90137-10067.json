@@ -1,0 +1,37 @@
+{
+  "classification": "CIA Liaison Material",
+  "document_type": "Memo",
+  "security": "This memo discusses a CIA operation involving an informant, Petros Moutsos, and his planned activities in Cuba. The memo mentions clandestine meetings, plans for Moutsos to \"jump ship\", and arrangements for him to travel to Havana under a cover. Sharing these details could expose ongoing intelligence operations, compromise sources, and reveal sensitive information about CIA methods.",
+  "security_level": "Secret",
+  "summary": "This memo details CIA's plan to utilize Petros Moutsos, a former informant from the Greek Maritime Sdala Organization, in Cuba by having him jump ship in New Orleans and travel to Havana under a cover.",
+  "summary_one_paragraph": "On September 14, 1960, S.J. Papich sent a memo to L'Allier regarding Petros Moutsos, a former CIA informant in the Greek Maritime Sdala Organization (OENO). Moutsos, currently a crew member on the SS Radnor, is scheduled to dock in New Orleans. CIA plans to have Moutsos jump ship with the approval of Immigration and Naturalization Service, then travel to Cuba to gather information. Prior to leaving, Moutsos will attempt to contact his wife, Angela Boyer, who has communist ties, hoping that a renewed relationship will improve his access to communist circles in Cuba.",
+  "tags": [
+    "CIA",
+    "FBI",
+    "Petros Moutsos",
+    "Cuba",
+    "Informant",
+    "OENO",
+    "Greek Maritime Sdala Organization",
+    "Internal Security",
+    "Liaison"
+  ],
+  "title": "CIA Liaison Material",
+  "date": "1960-09-14",
+  "locations_mentioned": [
+    "Greece",
+    "Cuba",
+    "New Orleans",
+    "Havana"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Petros Moutsos",
+    "L'Allier",
+    "S. J. Papich",
+    "Jane Roman",
+    "Angela Boyer"
+  ],
+  "recipient": "L'Allier",
+  "sender": "S. J. Papich"
+}

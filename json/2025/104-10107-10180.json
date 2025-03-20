@@ -1,0 +1,36 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "The memo discusses the purchase and testing of specialized Collins Radio Company modems, including the intention to test encrypted voice transmission. Disclosing details about secure communications technologies could jeopardize their effectiveness and potentially expose vulnerabilities in communication security. Additionally, specifying the test location as Station 'D', VTC could reveal sensitive operational information.",
+  "security_level": "Background Use Only",
+  "summary": "The Director of Communications requests a Collins Modem Field Service Engineer to assist with the installation and testing of newly purchased high-frequency data modems at Station 'D', VTC, for approximately six to eight weeks, starting around 6 March 1967, to evaluate their suitability for secure voice and high-speed data transmission.",
+  "summary_one_paragraph": "In a memorandum dated 1 FEB 1967, John W. Coffey, Director of Communications, requests the Director of Logistics to contract a Collins Modem Field Service Engineer to assist with the installation and testing of two recently purchased Collins Radio Company Model TE-216D-160 High Frequency Data Modems at Station 'D', VTC. The modems, costing $20,000 each, are intended for testing the feasibility of transmitting secure voice and high-speed data over narrow band, high-frequency radio circuits. The memorandum recommends securing the services of Mr. (Donald Warren Waycott), who has a TOP SECRET clearance, for approximately six to eight weeks, beginning around 6 March 1967, at an estimated cost of $3,000 per month plus travel expenses.",
+  "tags": [
+    "Collins Radio Company",
+    "Data Modems",
+    "Secure Communications",
+    "Encryption",
+    "High Frequency Radio",
+    "Field Service Engineer",
+    "Technical Testing",
+    "Logistics",
+    "Communications"
+  ],
+  "title": "Request for Services of Collins Modem Field Service Engineer",
+  "date": "1967-02-01",
+  "locations_mentioned": [
+    "Station \"D\", VTC",
+    "Newport Beach, California"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Donald Warren Waycott",
+    "Jack W. Andrews",
+    "John W. Coffey",
+    "Richard H. Lansdale",
+    "Harlon A. Werthel",
+    "Dow H. Lockett"
+  ],
+  "recipient": "Director of Logistics",
+  "sender": "John W. Coffey, Director of Communications"
+}

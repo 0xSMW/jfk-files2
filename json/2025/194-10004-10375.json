@@ -1,0 +1,31 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "This document contains personal information about Manuel Marti, including his date and place of birth, addresses, education record, and employment history. Releasing this information could violate his privacy. Additionally, the document is marked \"FOR OFFICIAL USE ONLY\", indicating that it is not intended for public disclosure.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report from November 21, 1968, detailing the education record of Manuel Marti, including his attendance at Evander Childs High School and interviews with school staff regarding his character and background.",
+  "summary_one_paragraph": "This agent report, submitted on November 21, 1968, by Paul P. Baillargeon of the 108th MI Gp (I-NYFO), concerns Manuel Marti. The report details Marti's education record, specifically his attendance at Evander Childs High School in the Bronx, New York, from September 1961 to June 1964, where he took general high school courses. The report includes information gathered from an interview with Mrs. Ruth Schwartz, a Student Records Clerk, and Mr. Herbert Tandlich, a former instructor. Tandlich described Marti as an excellent and mentally stable student who was loyal to the United States and recommended him for a position of trust with the government.",
+  "tags": [
+    "Manuel Marti",
+    "Education Record",
+    "Evander Childs High School",
+    "Agent Report",
+    "INSCOM",
+    "Personnel Investigation"
+  ],
+  "title": "Education Record",
+  "date": "1968-11-21",
+  "locations_mentioned": [
+    "San Juan, Puerto Rico",
+    "Bronx, New York",
+    "Yonkers, New York"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Ruth Schwartz",
+    "Herbert Tandlich",
+    "Paul P. Baillargeon"
+  ],
+  "sender": "USA"
+}

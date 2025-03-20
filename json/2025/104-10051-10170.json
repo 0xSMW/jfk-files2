@@ -1,0 +1,24 @@
+{
+  "classification": "Administrative",
+  "document_type": "Manual",
+  "security": "This document details the CIA's 201 file system, a method for tracking individuals of interest. Releasing this information could compromise the CIA's ability to monitor and collect intelligence on potential threats.  Specifically, it outlines the criteria for opening a 201 file, the types of information included, and the procedures for maintaining and restricting access to these files. Revealing these procedures could allow adversaries to evade detection or manipulate the system.  Quoting directly, \"The 201 system provides a method for identifying a person of specific interest to the Operations Directorate and for controlling and filing all pertinent information about that person.\"",
+  "security_level": "SECRET",
+  "summary": "This document outlines the CIA's \"201 system\" for tracking individuals of interest, detailing procedures for opening, maintaining, and restricting access to files.",
+  "summary_one_paragraph": "This SECRET document, dated November 15, 1974, describes the CIA’s 201 system: a method for the Operations Directorate to identify, control, and file information on individuals of interest. It details the assignment of 201 numbers, the creation of 201 dossiers, and the generation of master records for indexing. It covers the criteria for opening a 201 dossier, the use of OI codes to link individuals to organizations or activities of interest, and procedures for maintaining, purging, and restricting access to these files. The document also explains how to request information on 201 personalities and how to generate machine listings based on various criteria.",
+  "tags": [
+    "CIA",
+    "201 System",
+    "File Management",
+    "Information Management",
+    "Operations Directorate",
+    "FOIA",
+    "Administrative"
+  ],
+  "title": "The 201 System",
+  "date": "1974-11-15",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "William Pendleton Croix"
+  ],
+  "sender": "Information Services Group (ISG)"
+}

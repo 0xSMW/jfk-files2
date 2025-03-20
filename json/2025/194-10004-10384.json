@@ -1,0 +1,35 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "The document itself is unclassified and released with deletions, indicating that some information was deemed sensitive. However, without knowing the specific content of the deletions, it is difficult to assess any remaining security risks.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This agent report details an interview with Ramona Rodriguez, a character reference for Manuel Marti, providing insights into Marti's background, character, and upbringing in the Bronx, New York.",
+  "summary_one_paragraph": "On November 19, 1968, an agent report was submitted summarizing an interview with Ramona Rodriguez, a neighbor of Manuel Marti in the Bronx, New York. Rodriguez, who had known Marti since 1951, described him as a quiet, friendly, and serious-minded young man from a respectable home with strict parents. She provided details about his upbringing, education, hobbies, and lack of involvement with law enforcement or organizational affiliations, ultimately recommending him favorably for a position of trust with the United States Government.",
+  "tags": [
+    "Manuel Marti",
+    "Character Reference",
+    "Background Check",
+    "INSCOM",
+    "Personnel Investigation",
+    "Bronx, New York"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1968-11-19",
+  "locations_mentioned": [
+    "San Juan, Puerto Rico",
+    "Bronx, New York"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Ramona Rodriguez",
+    "Ivan Marti",
+    "Blanca Marti",
+    "Alphonso E. Marshall",
+    "Reyes Marti",
+    "Manuel Marti (father)",
+    "Luisa Perez",
+    "Atanacio Rodriguez"
+  ],
+  "sender": "[RESTRICTED]"
+}

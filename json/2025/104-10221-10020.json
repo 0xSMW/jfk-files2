@@ -1,0 +1,44 @@
+{
+  "classification": "Cuba",
+  "document_type": "Contact Report",
+  "security": "Disclosing details about IUSTEER/1, Roberto Cardenas, and their past associations with the Agency, as well as operational details like cover firms (Consolidated Engineering) and case officers (Chris Frederick, 'Jimmy'), could expose sources and methods. Revealing details of Cardenas's past activities, such as being arrested for smuggling cocaine and his involvement with Cuban exile activities, could damage reputations and compromise ongoing investigations. For example: 'From 1962 to 1965 Cardenas worked with the Agency under the cover firm Consolidated Engineering. (Cardonas' Case Officer during this period was Chris Frederick.)'",
+  "security_level": "SECRET",
+  "summary": "A contact report detailing a discussion between agent IUSTEER/1 and Case Officer Peter S. JASUTIS regarding Roberto Cardenas' possible involvement in narcotics and his connections to the Washington break-in scandal.",
+  "summary_one_paragraph": "On June 30, 1972, agent IUSTEER/1 met with Case Officer Peter S. JASUTIS at the Westward llo Restaurant to discuss Roberto Cardenas, an individual previously identified as having worked for the Agency in Miami and the Congo. IUSTEER/1 speculated that Cardenas, a friend of Barker from the Washington break-in scandal, may be involved in narcotics due to his sudden affluence and travel to South America. The report also notes a New York Times article about the Washington break-in, in which a 'pipe smoker' recruited the team for the break-in, fitting Cardenas' description. IUSTEER/1 provided background information on Cardenas, including his past arrest for cocaine smuggling, his time in the Castro air force, and his previous work for the Agency under the cover firm Consolidated Engineering.",
+  "tags": [
+    "IUSTEER/1",
+    "Roberto Cardenas",
+    "Washington Break-in",
+    "Narcotics",
+    "CIA",
+    "Cuban Exiles",
+    "Covert Operations",
+    "Miami",
+    "Congo"
+  ],
+  "title": "Contact Report: Discussion of Roberto Cardenas",
+  "date": "1972-06-30",
+  "locations_mentioned": [
+    "Miami",
+    "Congo",
+    "Havana",
+    "Cuba",
+    "South America",
+    "Washington, D.C."
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "IUSTEER/1",
+    "Peter S. JASUTIS",
+    "Roberto Cardenas",
+    "Barker",
+    "Fiorini",
+    "DIAZ LANZ",
+    "Artime",
+    "Jimmy",
+    "Chris Frederick",
+    "Ochoa"
+  ],
+  "recipient": "Peter S. JASUTIS",
+  "sender": "IUSTEER/1"
+}

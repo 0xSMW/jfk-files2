@@ -1,0 +1,30 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Providing accommodation addresses for agents being dispatched to Cuba could expose active agents and compromise ongoing operations. Specifically, the comment states: 'HQS URGENTLY NEEDS ACCOMMODATION ADDRESS MEXI AREA FOR USE S/W AGENTS BEING DISPATCHED CUBA PRIOR 1 FEB.' Sharing these addresses would directly endanger these agents.",
+  "security_level": "SECRET",
+  "summary": "A classified message from Mexico City to Bell requests a fifth PO Box and advises on efforts to obtain three more, as Headquarters urgently needs accommodation addresses in the Mexico area for agents being dispatched to Cuba before February 1.",
+  "summary_one_paragraph": "On January 27, 1961, a secret message was sent from Mexico City to Bell, with informational copies to COP, ADDP/A, and WH, concerning JMZIP and referencing previous communications BELL 0767, 7114, and 7186. The message states that the fifth PO Box address is Antonio Gomez Duran, Apartado 29976, Mexico 18, D.F., and informs Bell of ongoing efforts to secure three additional PO boxes by January 30, 1961, for use as accommodation addresses for S/W agents being dispatched to Cuba, as highlighted in a C/S comment.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "Cuba",
+    "PO Box",
+    "Accommodation Address",
+    "Agents",
+    "JMZIP"
+  ],
+  "title": "Request for PO Boxes for Agents Dispatched to Cuba",
+  "date": "1961-01-27",
+  "locations_mentioned": [
+    "Mexico City",
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Antonio Gomez Duran",
+    "Bell"
+  ],
+  "recipient": "Bell",
+  "sender": "Mexico City"
+}

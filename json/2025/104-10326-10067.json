@@ -1,0 +1,34 @@
+{
+  "classification": "Personnel",
+  "document_type": "Message",
+  "security": "Releasing the former employee's name could reveal their prior association with the CIA, potentially exposing them to risks and compromising sensitive activities. \"UNDER THE BOARD'S INTERPRETATION OF THE ACT, YOUR NAME CANNOT BE REDACTED FROM THE DOCUMENTS TO BE RELEASED UNLESS WE CAN PROVIDE EVIDENCE THAT THIS RELEASE WOULD POSE A CREDIBLE THREAT TO YOU PERSONALLY, YOUR FAMILY, OR ANY SENSITIVE ACTIVITY OR PERSON (S) YOU MAY HAVE BEEN ASSOCIATED WITH IN THE PAST.\"",
+  "security_level": "SECRET",
+  "summary": "A secret message from CIA headquarters to the Vienna station requesting assistance in contacting a former employee residing in Vienna. The purpose is to inform the former employee that their name appears in documents being reviewed for public release under the JFK Assassination Records Collection Act of 1992 and to offer them an opportunity to provide reasons why their name should not be released.",
+  "summary_one_paragraph": "This message, dated October 19, 1995, is from CIA headquarters to the Vienna station, requesting the station's help in contacting a retired former employee living in Vienna. The message informs the Vienna station about compliance with the President John F. Kennedy Assassination Records Collection Act of 1992, which mandates the public release of documents containing the former employee's name. The former employee is to be provided with a letter explaining that their name's release can only be prevented if it poses a threat to them, their family, or past sensitive activities, and includes contact information for Bert Mills to discuss any concerns. Headquarters requests the Vienna station forward any response from the former employee.",
+  "tags": [
+    "JFK Assassination Records Collection Act",
+    "Former Employee",
+    "Vienna Station",
+    "Privacy",
+    "Public Release",
+    "Declassification"
+  ],
+  "title": "Request for Station Assistance",
+  "date": "1995-10-19",
+  "locations_mentioned": [
+    "Vienna"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Bert Mills",
+    "Mathias",
+    "Burggraf",
+    "Comfort",
+    "Massengale",
+    "Eatinger",
+    "Crawford",
+    "Bevan"
+  ],
+  "recipient": "Vienna Station",
+  "sender": "LIMIT Chief/OCC"
+}

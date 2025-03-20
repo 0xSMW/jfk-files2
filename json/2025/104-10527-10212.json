@@ -1,0 +1,30 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Disclosing that \"KUBARK efforts have not achieved any significant results\" in recruiting Cuban technicians and identifying specific reasons for the failure (e.g., reluctance of Foreign Ministry officials, bureaucratic incompetence, fear of infiltration) reveals operational shortcomings and vulnerabilities. Also, the message identifies Cuban reliance on local CP approval for recruits, revealing intelligence-gathering methods and potential sources. Quoting directly: \"Main reason for KUBARK failure is that Cuban technician recruiting program has been miserable failure...Cuban failure to recruit in significant numbers appears due largely to reluctance Foreign Ministry...\"",
+  "security_level": "SECRET",
+  "summary": "A cable outlines the failure of the ZRPRIMA program to recruit Cuban technicians and directs stations to cease generating new leads, while remaining alert for future opportunities.",
+  "summary_one_paragraph": "This SECRET cable, dated November 21, 1963, addresses the unsuccessful ZRPRIMA program, which aimed to recruit Cuban technicians from Western Europe. The review concludes that KUBARK's efforts have failed to meet objectives, citing a low number of approved candidates due to reluctance from Cuban Foreign Ministry officials, bureaucratic issues in Havana, and concerns about hostile agent infiltration. The cable instructs stations to discontinue intensive candidate searches but encourages them to exploit any opportunities for placing resident agents in Cuba, remaining vigilant for potential selective recruitment instances, and also noting the preference of PerUMEN officials to rely on local CP approval.",
+  "tags": [
+    "ZRPRIMA",
+    "KUBARK",
+    "Cuban Technicians",
+    "Recruitment",
+    "CIA",
+    "PERUMEN",
+    "FOIA"
+  ],
+  "title": "Failure of ZRPRIMA Program",
+  "date": "1963-11-21",
+  "locations_mentioned": [
+    "Western Europe",
+    "Cuba",
+    "Havana"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Castro"
+  ],
+  "recipient": "Certain Stations and Bases",
+  "sender": "Director"
+}

@@ -1,0 +1,35 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Memo",
+  "security": "Dissemination or exhibition of the information in this memo is restricted without prior CIA approval. Specifically, the memo states: 'NOT TO BE DISSEMINATED FURTHER OR EXHIBITED TO ANYONE WITHOUT PRIOR PERMISSION OF THE CENTRAL INTELLIGENCE AGENCY.' Revealing the connections between SAUREL, DEMOHRENSCHILDT, and OSWALD could compromise ongoing investigations or operations.",
+  "security_level": "SECRET",
+  "summary": "A CIA memo provides information about Jean K. Saurel, a Haitian official, including alleged ties to the Ton Ton Macoutes and connections to George and Jeanne de Mohrenschildt, who were acquainted with Lee Harvey Oswald.",
+  "summary_one_paragraph": "This secret CIA memo, addressed to the FBI Director from the Deputy Director for Plans, details information about Jean K. Saurel, Director of the Haitian Tourist Bureau in New York, and his potential ties to President Duvalier's security force, the Ton Ton Macoutes. The memo also reports Saurel's connection to George and Jeanne de Mohrenschildt, who were known associates of Lee Harvey Oswald. The memo includes details from a cocktail party in 1963 where the Saurels provided information about George de Mohrenschildt, noting his Polish descent, a $300,000 contract with the Haitian government at the time of the Kennedy assassination, and his profession as a geologist. The CIA requests that this information not be disseminated further without their prior approval.",
+  "tags": [
+    "CIA",
+    "FBI",
+    "Jean K. Saurel",
+    "George de Mohrenschildt",
+    "Lee Harvey Oswald",
+    "Haiti",
+    "Ton Ton Macoutes",
+    "Kennedy Assassination"
+  ],
+  "title": "SAUREL, Jean K.",
+  "conspiracy": "The document connects Jean K. Saurel to both the Ton Ton Macoutes and George and Jeanne de Mohrenschildt, who were acquainted with Lee Harvey Oswald. This association, detailed in the memo, contributes to the understanding of Oswald's network and potential influences.",
+  "date": "1966-06-23",
+  "locations_mentioned": [
+    "Port au Prince, Haiti",
+    "New York, USA"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Jean K. Saurel",
+    "Lee Harvey Oswald",
+    "George de Mohrenschildt",
+    "Jeanne de Mohrenschildt",
+    "President Duvalier"
+  ],
+  "recipient": "Director, Federal Bureau of Investigation",
+  "sender": "Deputy Director for Plans"
+}

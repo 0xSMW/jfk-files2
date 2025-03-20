@@ -1,0 +1,24 @@
+{
+  "classification": "Cuba",
+  "document_type": "Outgoing Message",
+  "security": "The message details past relationships with individuals and training provided by the CIA to members of Brigade 2506 and other Cuban exiles, which could compromise current or former agents. It also reveals the agency's inability to positively identify certain individuals, potentially exposing intelligence gaps. Quoting: 'HE HAS NOT BEEN USED BY THIS AGENCY IN ANY OPERATIONAL CAPACITY SINCE THE BAY OF PIGS...AGENCY RELATIONSHIP WITH PEREZ WAS TERMINATED IN JANUARY 1962.'",
+  "security_level": "SECRET",
+  "summary": "This CIA outgoing message provides the FBI with information on individuals mentioned in a previous FIRC concerning the death of Orlando Letelier and the organization of CORU, detailing possible identities, agency contacts, and relevant background information.",
+  "summary_one_paragraph": "On November 13, 1977, the CIA sent a message to the FBI providing information related to individuals mentioned in a previous Foreign Intelligence Report Coordination (FIRC) concerning the investigation into the death of Orlando Letelier and the organization of CORU. This message includes details about Roberto Carreras, Ruben Soto, Armando Caballeros, Danilo Gonzalez, Jorge Alonso Pujols, Ernesto Hernandez, Pablo Martin, Frank Teira, Luis Ross, Jose Aguila, A. Wilfredo Blanco del Castillo, Levi Marrero, Jose Luis Prado, Andres Nazario Sargen, Jorge Mas Canosa, Juan Perez Franco, Freddy Lugo, German Lozano, Fernando Bueno, General Juan Nepomuceno Folch Perez, and Virgilio Pou, offering possible identifications, past agency relationships, and relevant background information to assist Assistant United States Attorney Eugene M. Propper.",
+  "tags": [
+    "CIA",
+    "FBI",
+    "Orlando Letelier",
+    "CORU",
+    "Cuban Exiles",
+    "Brigade 2506",
+    "Anti-Castro",
+    "Intelligence",
+    "Investigation"
+  ],
+  "title": "INVESTIGATION INTO THE DEATH OF ORLANDO LETELIERS INFORMATION ON THE ORGANIZATION OF CORU",
+  "date": "1977-11-13",
+  "origin_agency": "CIA",
+  "recipient": "FEDERAL BUREAU OF INVESTIGATION",
+  "sender": "CIA"
+}

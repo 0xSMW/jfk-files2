@@ -1,0 +1,29 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Message",
+  "security": "This document reveals operational protocols for contacting former CIA employees, including details of how the agency complies with the JFK Assassination Records Collection Act. Releasing such details could expose CIA methods for managing the release of sensitive information and contacting individuals who worked under cover, potentially jeopardizing their security. For example, the document includes a request to \"REQUEST STATION CONTACT FORMER EMPLOYEES WHO RETIRED UNDER COVER AND RESIDE IN MEXICO.\"",
+  "security_level": "SECRET",
+  "summary": "A message from the CIA requesting the Mexico City station to contact former employees who retired under cover and reside in Mexico, to inform them that their names appear in documents being reviewed for public release under the JFK Assassination Records Collection Act of 1992.",
+  "summary_one_paragraph": "This SECRET message, dated November 9, 1995, is from the CIA headquarters to its Mexico City station. It requests that the station contact former CIA employees residing in Mexico who retired under cover. The purpose of this contact is to inform these individuals that their names appear in documents being reviewed for public release, as mandated by the President John F. Kennedy Assassination Records Collection Act of 1992. The message includes a form letter to be delivered, advising the former employees of their rights and the potential for their names to be released unless they can demonstrate a credible threat to themselves or sensitive activities. The message also specifies a contact at CIA headquarters for those who have concerns.",
+  "tags": [
+    "CIA",
+    "JFK Assassination Records Collection Act",
+    "Mexico City",
+    "Former Employees",
+    "Covert Operations",
+    "Document Release",
+    "WNINTEL"
+  ],
+  "title": "Request for Station Assistance",
+  "date": "1995-11-09",
+  "locations_mentioned": [
+    "Mexico",
+    "Mexico City"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Bert Mills"
+  ],
+  "recipient": "Mexico City Station",
+  "sender": "Chief/OCC"
+}

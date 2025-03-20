@@ -1,0 +1,22 @@
+{
+  "classification": "Administrative",
+  "document_type": "Notification",
+  "security": "Disclosing the establishment of a Military Cover Backstop, particularly details about the US Air Elements and Joint Operations Group, could compromise ongoing operations. Specifically, referencing 'Form 1322 Creating Cover 14 May 1963' and procedures for changing limitation categories or transferring cover responsibility (Forms 642, 1322, 1323) could reveal sensitive operational methods. The document’s indication of creating a 'military cover backstop' signals intent to obscure real activities, which, if exposed, could damage the CIA’s reputation and hinder future operations.",
+  "security_level": "SECRET",
+  "summary": "This document notifies the establishment of a military cover backstop for US Air Elements and Joint Operations Group within the Records and Services Division, specifying the maintenance of cover through various forms and procedures.",
+  "summary_one_paragraph": "A notification is sent to the Chief of Records and Services Division (Dr. Bellas) regarding the establishment of a military cover backstop for US Air Elements, Joint Operations Group, effective EOD (End of Day). The notification references Form 1322, which created the cover on May 14, 1963, and outlines procedures for maintaining and modifying the cover, including submitting Forms 642, 1322, and 1323 for changes, confirming the issuance of Army W-2 forms, and noting that OPMEMO 20-800-11 records will be blocked; copies are distributed to CPD/OP, Chief Military Cover/CCO, Group 1, OSD/OS, PSD/OS, and ADPD/COMPT.",
+  "tags": [
+    "Military Cover",
+    "Covert Operations",
+    "US Air Elements",
+    "Joint Operations Group",
+    "Records Management",
+    "Administrative",
+    "FOIA"
+  ],
+  "title": "Notification of Establishment of Military Cover Backstop",
+  "date": "1963-05-14",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "Chief, Records and Services Division (Dr. Bellas)",
+  "sender": "CHIEF MILITARY COVER/CCO, GROUP 1"
+}

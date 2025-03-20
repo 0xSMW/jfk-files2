@@ -1,0 +1,36 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Classified Message",
+  "security": "Revealing that the CIA is using the Mexican government to track individuals traveling to the U.S. for academic conferences could damage diplomatic relations and compromise intelligence gathering methods. Specifically, acknowledging collaboration with GOBERNACION to review files could expose an existing relationship and affect the CIA’s ability to operate discreetly. Quoting: 'REVIEW GOBERNACION FILE JERZY PLEBANSKI REVEALS SUBJ GRANTED PERMISSION LEAVE MEXI TO ATTEND CONFERENCES U. S.'",
+  "security_level": "3X SECRET",
+  "summary": "Two classified messages from Mexico City, the first requesting a letter drop and the second discussing Jerzy Plebanski's travel to Dallas for a physics symposium, with a review of his file by the Mexican government.",
+  "summary_one_paragraph": "These two classified messages, both originating from Mexico City, detail separate matters. The first message refers to a 'HEYVAY PBRUMENTICRYSTAL' and requests that Mexico provide a letter drop for 'FORTI CRYSTAL-1', addressed to Angel Guadalupe Rivera in Mexico City. The second message reports that Jerzy Plebanski will be attending an international symposium on astrophysics in Dallas in December and notes that a review of Plebanski's file by GOBERNACION (Mexican government) confirms he was granted permission to leave Mexico for conferences in the U.S.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "Letter Drop",
+    "Jerzy Plebanski",
+    "Dallas",
+    "Physics Symposium",
+    "GOBERNACION",
+    "Travel",
+    "MEXI 7384",
+    "MEXI 7333",
+    "Angel Guadalupe Rivera"
+  ],
+  "title": "Classified Messages Regarding Letter Drop and Jerzy Plebanski's Travel",
+  "date": "Unknown",
+  "locations_mentioned": [
+    "Mexico City",
+    "Dallas",
+    "Mexico",
+    "U.S."
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Angel Guadalupe Rivera",
+    "Jerzy Plebanski"
+  ],
+  "recipient": "Director",
+  "sender": "Mexico City"
+}

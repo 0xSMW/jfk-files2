@@ -1,0 +1,34 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Revealing specific influence operations could lead to exposure and damage to ongoing activities and sources. For example, directly quoting the cable: \"THERE AUB INDICATIONS THAT BANT FLOITATION HOOT OAS HAVING BENEFICIAL EFFECT...SUGGEST ADDEE ACTIVITIES CONCENTRATE PRIMARILY (BUT NOT EXCLUSIVELY) THIS ASPECT...\" and \"CONSIDER HAVING LABOR, STUDENT, OTHER ORGS SEND TELEGRAMS TO LOCAL GOFTS AND OAS IN SUPPORT VENEZ POSITION: FOLLOW BEY UP BY PUBLICIZING TELEGRAMS IN PRESS.\"",
+  "security_level": "ROUTINE",
+  "summary": "This cable discusses strategies to influence Latin American governments through public opinion and media manipulation to take a firmer stance against Castro's Cuba within the OAS (Organization of American States). It outlines tactics such as encouraging public demonstrations, leveraging media speculation, and highlighting Cuba's export of crime.",
+  "summary_one_paragraph": "This routine cable outlines a plan to leverage public opinion and media tactics to pressure Latin American governments into adopting a stronger stance against Cuba within the OAS. The strategy involves highlighting the perceived benefits of anti-Castro sentiment, encouraging public demonstrations and telegrams from labor and student organizations in support of Venezuela's position, and using media speculation to suggest potential actions like breaking diplomatic relations with Cuba. Additionally, the cable suggests emphasizing Cuba's export of crime to sway governments that may be reluctant to attack Castro on political grounds.",
+  "tags": [
+    "OAS",
+    "Cuba",
+    "Castro",
+    "Public Opinion",
+    "Media Manipulation",
+    "Influence Operation",
+    "Venezuela"
+  ],
+  "title": "CABIL: Strategy to Influence Latin American Governments Against Castro",
+  "date": "Unknown",
+  "locations_mentioned": [
+    "Mexico",
+    "Lima",
+    "Guatemala",
+    "Buenos Aires",
+    "Montevideo",
+    "Dominican Republic",
+    "Venezuela"
+  ],
+  "origin_agency": "Unknown",
+  "persons_mentioned": [
+    "Castro"
+  ],
+  "recipient": "MEXI, LIMA, PACY, GUAT, BUEN, MONT, DOGO, QUIT, LAYA, RIOD, SAOP, SAGO, LAPA, SANJ, SDOM",
+  "sender": "PCA DIRECTOR"
+}

@@ -1,0 +1,32 @@
+{
+  "classification": "Personnel",
+  "document_type": "Printed Form",
+  "security": "The document contains personal information, specifically social security numbers (SSNs), which are redacted to protect individual privacy. As stated in the document, 'The text is redacted because the public disclosure of the redaction could reasonably be expected to constitute an unwarranted invasion of personal privacy, and that invasion of privacy would be so substantial that it outweighs the public interest.'",
+  "security_level": "Unclassified (U)",
+  "summary": "This document is a collection of payroll authorization forms and related documents for Louis H. Hindle, an employee of the House Select Committee on Assassinations (HSCA). It includes information about his employment history, salary, and position changes within the committee.",
+  "summary_one_paragraph": "This document consists of payroll authorization forms for Louis H. Hindle, detailing his employment with the House Select Committee on Assassinations (HSCA) from January 1977 to March 1978. The forms outline Hindle's various roles including Clerk and Secretary, his salary adjustments from $9,100 to $17,100 annually, and his social security number (redacted). Additionally, there's a memorandum requiring all staff employees to disclose any relationships to current members of Congress for payroll certification purposes.",
+  "tags": [
+    "HSCA",
+    "Staff Payroll Records",
+    "Payroll Authorization",
+    "Louis H. Hindle",
+    "Social Security Number",
+    "Employment History",
+    "House Select Committee on Assassinations"
+  ],
+  "title": "Final Determination Notification Regarding HSCA Staff Payroll Records",
+  "date": "1977-01-03",
+  "locations_mentioned": [
+    "Washington, D.C."
+  ],
+  "origin_agency": "HSCA",
+  "persons_mentioned": [
+    "Louis H. Hindle",
+    "Louis Stokes",
+    "Thomas N. Downing",
+    "Henry B. Gonzalez",
+    "Richard A. Sprague"
+  ],
+  "recipient": "Clerk of the House of Representatives",
+  "sender": "HSCA (various authorizing officials)"
+}

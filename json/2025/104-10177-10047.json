@@ -1,0 +1,42 @@
+{
+  "classification": "Cuba",
+  "document_type": "Message",
+  "security": "Suggest HQS arrange to interview Mrs. Recio after Mrs. Recio phones her. Pls cable name to be used by interviewing officer.",
+  "security_level": "SECRET",
+  "summary": "A secret message from Mexico City provides information about Joaquin Mirabal, a Cuban official, including his background, connections to the Castro regime, and personal life. It suggests interviewing Mrs. Albert Recio, Mirabal's wife's sister, to gather more information and requests further guidance on specific points to cover in a study on Mirabal.",
+  "summary_one_paragraph": "This secret message, originating from Mexico City, details intelligence gathered on Joaquin Mirabal, a high-ranking Cuban official with authority within the Ministry of Interior in Habana Province. The message outlines Mirabal's close relationship with Ramiro Valdes, his background before and after the Castro takeover, his involvement in smuggling, and his personal connections, including a fling with a popular singer. It also identifies Mrs. Albert Recio in Gary, Indiana, as a potential informant, being the sister of Mirabal's wife, and suggests arranging an interview with her, requesting the name to be used by the interviewing officer.",
+  "tags": [
+    "Joaquin Mirabal",
+    "Cuba",
+    "Cuban Official",
+    "Ministry of Interior",
+    "Ramiro Valdes",
+    "Smuggling",
+    "Informant",
+    "Mrs. Albert Recio",
+    "Licraft"
+  ],
+  "title": "Information on Joaquin Mirabal",
+  "date": "Unknown",
+  "locations_mentioned": [
+    "Mexico City",
+    "Cuba",
+    "Habana",
+    "Gary, Indiana",
+    "New York"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Joaquin Mirabal",
+    "Alfredo Mirabal D'Az",
+    "Ramiro Valdes",
+    "Fidel Castro",
+    "Gustavo",
+    "Martinez Sanchez",
+    "Mrs. Albert Recio",
+    "Nenica Garcia Pepe",
+    "Licraft"
+  ],
+  "recipient": "DIR",
+  "sender": "Mexico City Station"
+}

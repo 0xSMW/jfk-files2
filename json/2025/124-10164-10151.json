@@ -1,0 +1,39 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Memorandum",
+  "security": "The memo discusses alleged information about the assassination of President Kennedy provided by an individual with a \"confused thinking process and lively imagination\". Sharing this assessment, along with the details of the individual's claims and motivations, could potentially undermine ongoing or future investigations into the assassination. Quoting directly: \"Kovacs appears to have a confused thinking process and lively imagination and his story is contradictory. He probably came forward in the hope that his information would be worth money. We do not know whether he himself believes the story he related.\"",
+  "security_level": "SECRET",
+  "summary": "A memorandum from the CIA to the FBI and U.S. Secret Service relaying information from an unidentified individual in Rio de Janeiro claiming to have knowledge about President Kennedy's assassination.",
+  "summary_one_paragraph": "In February 1980, the CIA forwarded a memorandum to the FBI and U.S. Secret Service regarding information received from Laszlo Kovacs, an individual in Rio de Janeiro who contacted the U.S. Consulate with alleged details about President Kennedy's assassination; Kovacs claimed a Soviet agent named Vlasenco, residing in his apartment building in 1963, confessed to renting an apartment for the assassination at the behest of Brezhnev and Fidel Castro, but the CIA assesses Kovacs as having a \"confused thinking process\" and likely motivated by financial gain, advising no further contact while providing his address for follow-up.",
+  "tags": [
+    "JFK Assassination",
+    "Alleged Information",
+    "Rio de Janeiro",
+    "Laszlo Kovacs",
+    "Soviet Agent",
+    "Conspiracy Theory",
+    "FBI",
+    "U.S. Secret Service"
+  ],
+  "title": "Alleged Information on Assassination of President Kennedy",
+  "date": "1980-02-22",
+  "locations_mentioned": [
+    "Rio de Janeiro, Brazil",
+    "Sao Paulo, Brazil",
+    "Hungary",
+    "Yugoslavia",
+    "Cuba",
+    "Washington, D.C."
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Laszlo Kovacs",
+    "Vlasenco",
+    "Brezhnev",
+    "Fidel Castro",
+    "Edward Kennedy"
+  ],
+  "recipient": "Director, FBI, Director, U.S. Secret Service",
+  "sender": "Deputy Director for Operations"
+}

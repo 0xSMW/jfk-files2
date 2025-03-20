@@ -1,0 +1,27 @@
+{
+  "classification": "Personnel",
+  "document_type": "Identification Form",
+  "security": "The document pertains to an investigation and security clearance for Robert Scheer. Releasing details of security investigations, even if the subject was later cleared, could reveal investigative methods or criteria used by INSCOM/CSF and the First U.S. Army. Information on agencies checked and types of investigations conducted could expose intelligence-gathering capabilities and sources. Directly quoting: \"INVESTIGATION(S) CONDUCTED TYPES DATE BY WHOM (command or agency) NAC, NACI, MISC 28 July 1958 First U.S. Army, CTI 5 Dec 1958 First U.S. Army, AGENCIES CHECKED FBI CRIM FBI SUBV CSC I&NS HCUA PMG TAG, STATE ONI OSI AFAGO USMC BUPERS OTHER CIA.\"",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This document is an identification form summarizing the background investigation of Robert Scheer, including checks by various agencies and security clearances issued in 1958 by the First U.S. Army.",
+  "summary_one_paragraph": "An identification form dated August 19, 1998, summarizes a 1958 investigation into Robert Scheer by INSCOM/CSF. The document details background checks conducted by agencies like the FBI, CSC, and CIA; security clearances issued by the First U.S. Army, including a TS (Top Secret), SECRET, and MISC; and indicates that Scheer was deemed acceptable for induction into military service after the case was adjudicated favorably on December 23, 1958. The document was originally classified as Confidential but regraded as Unclassified on April 18, 1963.",
+  "tags": [
+    "INSCOM/CSF",
+    "Robert Scheer",
+    "Security Clearance",
+    "Background Investigation",
+    "First U.S. Army",
+    "FBI",
+    "CSC",
+    "CIA",
+    "Personnel Security"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1958-12-05",
+  "persons_mentioned": [
+    "Robert Scheer",
+    "William R. Baldwin",
+    "Ted E. Gordinier"
+  ],
+  "sender": "William R. Baldwin, 1st Lt, Complaint Section, S2, 108th CIC Group; First U.S. Army"
+}

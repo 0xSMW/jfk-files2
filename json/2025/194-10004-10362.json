@@ -1,0 +1,25 @@
+{
+  "classification": "Personnel",
+  "document_type": "Paper, Textual Document/Cover Sheet",
+  "security": "The document is marked as 'CONFIDENTIAL' and 'RELEASED WITH DELETIONS,' indicating that it contains information that the agency deems sensitive and not fully disclosable to the public. The cover sheet specifies that the record was 'Regraded FOR OFFICIAL USE ONLY when separated from CLASSIFIED inclosures,' meaning that some portions of the original document contained classified information.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This is a cover sheet for a document regarding Manuel Marti, associated with file number 8240-6019, prepared by the 108th Military Intelligence Group (I-SIB) and dated November 18, 1968, it references ten FBI reports regarding Adrian Sotomayor.",
+  "summary_one_paragraph": "This document is a cover sheet from the United States Army Intelligence Command, specifically the 108th Military Intelligence Group (I-SIB), dated November 18, 1968, regarding the subject Manuel Marti under file number 8240-6019. It references a collection of ten FBI reports from the New York office, file number 100-100474, pertaining to Adrian Sotomayor, with report dates spanning from January 1953 to June 1964. The original document was classified, but the cover sheet was regraded as 'FOR OFFICIAL USE ONLY' when separated from its classified inclosures.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "DOD-Affiliated Personnel",
+    "Incident Investigations",
+    "Manuel Marti",
+    "Adrian Sotomayor",
+    "FBI Reports",
+    "108th Military Intelligence Group"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1968-11-18",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Adrian Sotomayor"
+  ],
+  "sender": "108th MIL INTELL GRP"
+}

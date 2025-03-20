@@ -1,0 +1,47 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security": "Revealing operation details like Operation ANTRUNK X, the re-organization of the ratline to and from Havana, and the use of specific assets such as AMAGREE-1 and AMAKA-1 could compromise ongoing operations and endanger the involved personnel. The communication channel between ANTRUNK-13 and ANTRUNK-19, along with the assessment of infiltration candidates, could be exposed.",
+  "security_level": "SECRET",
+  "summary": "A progress report for ANTRUNK operations in November 1964 details preparations for various activities, including the recruitment of ANTRUNK-19, the planning of Operation ANTRUNK X, and the recruitment of radio operator and infiltration candidates, while also outlining operational expenditures.",
+  "summary_one_paragraph": "This dispatch, dated December 10, 1964, provides a progress report on ANTRUNK operations for the period of November 1-30, 1964; it describes the postponement of ANTRUNK-13's trip to Madrid, progress in recruiting ANTRUNK-19 via an open letter channel through Mexico City, preparations for Operation ANTRUNK X to reorganize the ratline to Havana, recruitment of radio operator and infiltration candidates, directions for ANTRUNK-11 regarding OWVL receivers, and lists operational expenditures totaling $1,939.37, and outlines future plans to mount Operation ANTRUNK X, dispatch ANTRUNK-13 to Madrid, and stage MHAPRON recruiters for infiltration in March 1965.",
+  "tags": [
+    "ANTRUNK",
+    "JMWAVE",
+    "MHAPRON",
+    "Ratline",
+    "Recruitment",
+    "Operation ANTRUNK X",
+    "Mexico City",
+    "Madrid",
+    "Havana",
+    "Radio Operators",
+    "Infiltration",
+    "OWVL Receivers"
+  ],
+  "title": "ANTRUNK Progress Report for Period 1-30 November 1964",
+  "date": "1964-12-10",
+  "locations_mentioned": [
+    "Madrid",
+    "Mexico City",
+    "Montreal",
+    "Havana"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "ANTRUNK-13",
+    "ANTRUNK-19",
+    "IDEN A",
+    "AMAGREE-1",
+    "AMAKA-1",
+    "AMTRU-16",
+    "AMTRU-20",
+    "ANTRUNK-10",
+    "AMLASH-1",
+    "AXICE-14",
+    "ANTRUNK-11",
+    "Francisco Borges"
+  ],
+  "recipient": "Deputy Chief, WH/SA",
+  "sender": "Andrew E. Reuteran"
+}

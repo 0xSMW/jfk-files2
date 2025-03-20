@@ -1,0 +1,30 @@
+{
+  "classification": "Operations",
+  "document_type": "DISPATCH",
+  "security": "Revealing the operational status of LIENVOY-8, including the details of his past security issues and potential renewal, could expose ongoing intelligence operations and compromise sources. Quoting directly: 'If he is still being used, please provide a current analysis of his reliability and comments on any security probelms present in light of his actions and reputation in 1960.'",
+  "security_level": "SECRET",
+  "summary": "A dispatch from the Chief of the WN Division to the Chief of Station in Mexico City regarding LIENVOY-8, an agent whose status is unclear after a project review, requesting clarification on whether he is still active and an updated reliability analysis.",
+  "summary_one_paragraph": "Dated October 31, 1963, this secret dispatch addresses concerns about LIENVOY-8, an agent associated with the LIFEAT and LIENVOY projects. After a recent review revealed uncertainty about LIENVOY-8's termination, the Chief of the WN Division requests that the Mexico City station confirm his current status. The dispatch references a 1960 security issue where LIENVOY-8 requested release and showed disapproval of ODYOKE's sharing of the LIENVOY take. Headquarters requires an Agent Service Record if LIENVOY-8 has been terminated or a current analysis of his reliability and security if he is still being used, considering his past actions.",
+  "tags": [
+    "LIENVOY-8",
+    "LIFEAT Project",
+    "LIENVOY Project",
+    "Agent Status",
+    "Security Review",
+    "WN Division",
+    "Mexico City",
+    "ODYOKE"
+  ],
+  "title": "LIENVOY-8",
+  "date": "1963-10-31",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "LIENVOY-8",
+    "ODYOKE"
+  ],
+  "recipient": "Chief of Station, Mexico City",
+  "sender": "Chief, WN Division"
+}

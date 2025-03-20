@@ -1,0 +1,28 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Releasing information about individuals who provided information to the government could expose them to harassment or retaliation. Also, the document contains personal information such as addresses and social security numbers that should be protected.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is an agent report detailing an employment check on Robert Scheer in October 1958, focusing on his summer employment as a waiter at Hilltop Lodge in 1953.",
+  "summary_one_paragraph": "An agent report from October 27, 1958, details an employment check conducted on Robert Scheer, a pre-inductee, by Paul F. Rohde of the 108th CIC Group. The investigation centered on Scheer's employment at Hilltop Lodge in Sylvan Lake, New York, during July and August 1953. Paul Wolfson, former co-owner of Hilltop Lodge, provided information about Scheer’s role as a waiter, his pay rate of $60 monthly, and his reason for leaving at the end of the summer season. Wolfson described Scheer as an honest, trustworthy, and reliable employee, noting that he was eligible for rehire and was planning to attend Queens College in September 1953. The agent's notes indicate difficulty in securing a personal interview with Wolfson, who eventually provided the information via a phone call to the 108th CIC Group after receiving a letter requesting an interview.",
+  "tags": [
+    "Robert Scheer",
+    "Employment Check",
+    "Hilltop Lodge",
+    "Pre-Inductee",
+    "108th CIC Group"
+  ],
+  "title": "Report of Findings: Scheer, Robert - Employment",
+  "date": "1958-10-27",
+  "locations_mentioned": [
+    "Bronx, New York",
+    "Brooklyn, New York",
+    "Sylvan Lake, New York"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Robert Scheer",
+    "Paul Wolfson",
+    "Paul F. Rohde"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "classification": "Personnel",
+  "document_type": "Payroll Authorization Forms and Memorandum",
+  "security": "The document contains personal information, specifically Social Security numbers, which are redacted due to privacy concerns. The document states, 'The text is redacted because the public disclosure of the redaction could reasonably be expected to constitute an unwarranted invasion of personal privacy, and that invasion of privacy would be so substantial that it outweighs the public interest.'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document consists of payroll authorization forms and a memorandum related to Lance W. Svendsen's employment with the House Select Committee on Assassinations (HSCA), detailing his salary, position, and a payroll certification requirement.",
+  "summary_one_paragraph": "This collection of documents details the payroll actions for Lance W. Svendsen during his employment with the House Select Committee on Assassinations (HSCA). It includes multiple payroll authorization forms spanning from August 1977 to January 1979, reflecting changes in his position from Xerox/Messenger to Clerical Assistant, and adjustments to his gross annual salary. The records also include a memorandum to all staff regarding payroll certification requirements, specifically concerning relationships to current Members of Congress, aiming to comply with the Regulations and Accounting Procedures for Allowances and Expenses of Committees.",
+  "tags": [
+    "HSCA",
+    "Payroll Records",
+    "Lance W. Svendsen",
+    "Payroll Authorization",
+    "Social Security Number",
+    "House Select Committee on Assassinations",
+    "Louis Stokes",
+    "Payroll Certification"
+  ],
+  "title": "Staff Payroll Records: Lance W. Svendsen Payroll Authorizations and Payroll Certification",
+  "date": "1977-08-01",
+  "origin_agency": "HSCA",
+  "persons_mentioned": [
+    "Lance W. Svendsen",
+    "Louis Stokes",
+    "Louis Zeokes"
+  ],
+  "recipient": "Clerk of the House of Representatives, All Staff",
+  "sender": "HSCA (originator)"
+}

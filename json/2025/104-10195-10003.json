@@ -1,0 +1,31 @@
+{
+  "classification": "Personnel",
+  "document_type": "Personnel Records",
+  "security": "These records contain employee information, including performance evaluations, career progression, and potential security concerns, potentially compromising individual privacy and operational security. Specific concerns are noted in the remarks sections on career action requests.",
+  "security_level": "SECRET",
+  "summary": "This file contains personnel actions and related documents for James B. Wilcott, Jr., covering his employment with the CIA from 1956 to 1966, including promotions, reassignments, and his eventual resignation.",
+  "summary_one_paragraph": "This collection of documents details the career of James B. Wilcott, Jr. within the CIA, spanning from April 1956 to April 1966. It includes applications, requests for personnel actions such as promotions and reassignments, and ultimately his resignation. The records outline his roles as a Fiscal Account Assistant, his assignments in locations like Tokyo, and his involvement with vouchered funds, compensation, and tax accounts. Various forms and notifications trace his progression, culminating in his resignation effective April 15, 1966.",
+  "tags": [
+    "CIA",
+    "Personnel Records",
+    "James B. Wilcott, Jr.",
+    "Employee Record",
+    "Career History",
+    "Resignation"
+  ],
+  "title": "WILCOTT, James B.",
+  "date": "1966-04-15",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Tokyo, Japan"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "James B. Wilcott, Jr.",
+    "Robert D. Cashman",
+    "R. Saunders",
+    "Austin"
+  ],
+  "recipient": "Office of Personnel",
+  "sender": "Robert D. Ishran"
+}

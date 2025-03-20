@@ -1,0 +1,23 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Identification Form/Cover Sheet",
+  "security": "This document, a cover sheet, indicates that the attached letter from the FBI regarding David Reed Fromer is considered sensitive. Releasing the specifics of FBI's investigation into Fromer could reveal personal details and potentially compromise investigative methods. The protective marking indicates that it is excluded from automatic termination.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This is a cover sheet for a letter from the Federal Bureau of Investigation (FBI) dated February 9, 1967, regarding David Reed Fromer. The document is from Headquarters, 113th Intelligence Corps Group, Chicago, Illinois.",
+  "summary_one_paragraph": "This document is a cover sheet from Headquarters, 113th Intelligence Corps Group, Chicago, Illinois, pertaining to David Reed Fromer, born on July 21, 1942, in Chicago, Illinois. It references a letter dated February 9, 1967, from the Federal Bureau of Investigation (FBI) concerning Fromer. The cover sheet includes file numbers and indicates the document is an exhibit within a larger investigation, bearing the exhibit number 391.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "DOD-Affiliated Personnel",
+    "Incident Investigations",
+    "David Reed Fromer",
+    "FBI",
+    "Cover Sheet"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1967-02-09",
+  "persons_mentioned": [
+    "David Reed Fromer"
+  ],
+  "sender": "HQS, 113TH INTELL CORPS GP (Headquarters, 113th Intelligence Corps Group)"
+}

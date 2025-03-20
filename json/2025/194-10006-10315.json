@@ -1,0 +1,31 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Revealing the identities of individuals who were interviewed and provided information to intelligence agencies could compromise their safety or create risks for ongoing or future investigations.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report details an interview with a soldier, Peter D. Herpst, regarding a possible counter-intelligence interest involving an individual named John Dee Jay inquiring about former unit members and mentioning a 'package' for Cristobal Pimentel-Davilla.",
+  "summary_one_paragraph": "This agent report, dated February 4, 1972, recounts an interview with Peter D. Herpst, a clerk at C Team in Datteln, Germany, who reported being approached by an individual known as John Dee Jay. Dee Jay inquired about the whereabouts of former unit members, specifically Cristobal Pimentel-Davilla, and mentioned having a 'package' for him. Herpst suspected the package contained drugs, as Pimentel-Davilla was known to use and possibly sell hashish or marijuana. The report includes a description of Dee Jay and notes that Pimentel-Davilla had recently been transferred to Fort Eustis, Virginia.",
+  "tags": [
+    "Counter-Intelligence",
+    "Drug Trafficking",
+    "Agent Report",
+    "Military Personnel",
+    "66th MI Group",
+    "Datteln",
+    "Germany"
+  ],
+  "title": "Agent Report",
+  "date": "1972-02-04",
+  "locations_mentioned": [
+    "Datteln, Federal Republic of Germany",
+    "Fort Eustis, Virginia"
+  ],
+  "origin_agency": "CSF/INSCOM",
+  "persons_mentioned": [
+    "Hans D Kaminski",
+    "Peter D. Herpst",
+    "John Dee Jay",
+    "Cristobal Pimentel-Davilla",
+    "Heinz E. Ickert"
+  ]
+}

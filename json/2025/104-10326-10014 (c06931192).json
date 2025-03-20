@@ -1,0 +1,47 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Cable",
+  "security": "This document details ongoing intelligence operations, including meetings with a source (FCSTANDARD/32) to gather information on Sudan and Libya. Disclosing details about the source’s identity, methods of contact, topics discussed, and locations visited could compromise the source's safety and the integrity of the operation. Additionally, the document references monitoring Israeli and Russian delegations and the personal details of a foreign minister, which could damage diplomatic relations if revealed. The source's statement that \"Israel was behind the JFK assassination\" being in the document could be used for propaganda purposes. Quoting directly: \"C/O AND SUBJ HAVE BEGUN DISCUSSING SUDAN AND LIBYA, AND SUBJ HAS BEGUN VISITING C/O'S RESIDENCE (REPORTED SEPARATELY)...SUBJ CHEATED ON HIS WIFE ONLY THREE TIMES (ALL IN ADDIS IN THE LAST EIGHT MONTHS HE FEELS GUILTY BUT REMAINS FOND OF HIS LOCAL GIRLFRIEND HELEN, WHOM HE DOES NOT BRING HOME FOR FEAR HIS HOUSEHOLD HELP WOULD TELL HIS SPOUSE)...ISRAEL WAS *BEHIND THE<JFK ASSASSINATION.>\"",
+  "security_level": "SECRET",
+  "summary": "A CIA cable summarizes recent contacts with intelligence source FCSTANDARD/32 in Addis Ababa, covering topics like Sudan, Libya, Israeli and Russian delegations, and personal details. The source provided information about individuals, activities, and security measures, revealing potential leads and insights for ongoing intelligence operations.",
+  "summary_one_paragraph": "A SECRET CIA cable dated February 25, 1998, summarizes recent interactions between a CIA Staff officer (C/O) and intelligence source FCSTANDARD/32 in Addis Ababa. The discussions covered topics such as Sudan, Libya, the presence of a possible Saudi intelligence officer, meetings with Israeli and Russian delegations, and information about an upcoming visit by Foreign Minister Moussa. The source provided insights into security measures, the local social scene, and personal details including suspecting Israeli involvement in the JFK assassination, his marital affairs, and his relationship with a local girlfriend. The cable requests background information on Sudan to support the development of the source and ensures proper filing of related documentation.",
+  "tags": [
+    "CIA",
+    "FCSTANDARD/32",
+    "Addis Ababa",
+    "Sudan",
+    "Libya",
+    "Israeli Delegation",
+    "Russian Delegation",
+    "Foreign Intelligence",
+    "JFK Assassination",
+    "RYBAT"
+  ],
+  "title": "Summary of Recent Contacts with FCSTANDARD/32",
+  "conspiracy": "The source is documented stating that, \"Israel was behind the JFK assassination.\"",
+  "date": "1998-02-25",
+  "locations_mentioned": [
+    "Addis Ababa",
+    "Sudan",
+    "Libya",
+    "Cairo",
+    "Djibouti",
+    "Ethiopia",
+    "Saudi Arabia"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "FCSTANDARD/32",
+    "Tony P. Ragl",
+    "Rami ((Hatan))",
+    "Eliezer \"Eli\" ((Yitzhaky))",
+    "Safah (PHONETIC)",
+    "Moussa",
+    "Helen",
+    "Salah LNU",
+    "Mahmoud LNU",
+    "Wadie A. Al-((Thagafi))"
+  ],
+  "recipient": "Director, Cairo",
+  "sender": "Staff"
+}

@@ -1,0 +1,42 @@
+{
+  "classification": "LHO",
+  "document_type": "Memorandum",
+  "security": "This document discusses potential liaison and cooperation with Mexican authorities. Discussing the intelligence-sharing activities with Mexico could damage relationships or reveal sensitive information. The document states: 'The following information is classified \"SECRET\" and not to be further disseminated without specific authority of the CIA, Mexico City Station'",
+  "security_level": "Secret",
+  "summary": "An FBI memorandum from SA Roland E. Trent to the Legat in Mexico City discusses Lee Harvey Oswald (LHO), specifically his post-return to the US, associations, background, and potential liaison with Mexican authorities, focusing on information related to Ernesto Mitrani Levy and his connections to Cuban and anti-Castro elements in Mexico.",
+  "summary_one_paragraph": "On March 13, 1964, SA Roland E. Trent sent a memorandum to the Legat in Mexico City regarding Lee Harvey Oswald, focusing on his associations and background in Mexico. The memo details information obtained from Margarita Munguia at the U.S. Embassy in Mexico concerning Ernesto Mitrani Levy, a Cuban national, including his visa application, physical description, and reported employment. The memo also includes classified CIA data indicating Mitrani's involvement with anti-Castro groups, his offers to cooperate with them while working at the Cuban Consulate, and his contact with the USIA in 1960 where he was encouraged to denounce the Cuban regime for a U.S. visa. Furthermore, it reviews MC file data referencing Mitrani's role as an Assistant Consul and his contemplation of defecting.",
+  "tags": [
+    "FBI",
+    "LHO",
+    "Lee Harvey Oswald",
+    "Mexico",
+    "Cuba",
+    "Ernesto Mitrani Levy",
+    "Anti-Castro",
+    "Visa",
+    "USIA",
+    "CIA",
+    "Liaison"
+  ],
+  "title": "LHO, POST-RP, ASSOC, BKG, LIAISON WITH MX AUTHORITIES",
+  "date": "1964-03-13",
+  "locations_mentioned": [
+    "Mexico",
+    "Mexico City",
+    "Havana, Cuba",
+    "Los Angeles, California"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "Roland E. Trent",
+    "Margarita Munguia",
+    "Ernesto Mitrani Levy",
+    "David Phillips",
+    "Jose Antonio Portuondo",
+    "Joseph T. Genco",
+    "Felix Valdes"
+  ],
+  "recipient": "Legat, Mexico",
+  "sender": "Trent, Roland E."
+}

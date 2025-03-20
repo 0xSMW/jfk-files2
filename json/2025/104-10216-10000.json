@@ -1,0 +1,34 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security": "Revealing the assessment of refugee intentions and motivations by an experienced aid professional, KHO, could compromise the CIA's vetting process and ability to gather accurate information from refugees in the future. Directly quoting the document, 'OFFICER KHO DEBRIEFED APLASH-1 IN MADRID ON 11 JANUARY IS EXPERIENCED AID SAVVY PROFESSIONAL. HE HAS BEEN INTERVIENING REFUGEES FOR THE PAST SEVERAL MONTHS AND HAS CONSISTENTLY PROVIDED ACCURATE ASSESSMENTS OF REFUGEE INTENTIONS AND MOTIVATIONS.'",
+  "security_level": "SECRET",
+  "summary": "A secret cable discusses the Department of State's authorization of visas for the AMLASH family, contingent on verifying their intentions as bona fide visitors, and relays an assessment from officer KHO, who believes AMLASH-1 intends to settle in Spain rather than the U.S.",
+  "summary_one_paragraph": "This secret cable, originating from STAFF and addressed to MADRID, discusses the Department of State's conditional authorization for visas to the AMLASH family, emphasizing the need to ensure they are genuine visitors. The cable highlights officer KHO’s debriefing of AMLASH-1 in Madrid, where KHO, described as an experienced aid professional, assessed AMLASH-1's intent to settle in Spain, establishing a medical practice with less public scrutiny than in the United States. KHO’s assessment suggests AMLASH-1 is sincere in his desire to visit the U.S. and subsequently reside in Spain.",
+  "tags": [
+    "CIA",
+    "AMLASH",
+    "Visas",
+    "Department of State",
+    "Refugee Assessment",
+    "Madrid",
+    "KHO"
+  ],
+  "title": "Granting of Visas to AMLASH Family",
+  "date": "1980-03-04",
+  "locations_mentioned": [
+    "Madrid, Spain",
+    "United States"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "AMLASH-1",
+    "Officer KHO",
+    "PALMER",
+    "CANTRELL",
+    "STOVER",
+    "BERGER"
+  ],
+  "recipient": "MADRID",
+  "sender": "STAFF"
+}

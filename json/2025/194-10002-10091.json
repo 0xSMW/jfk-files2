@@ -1,0 +1,45 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Revealing surveillance information or personal details about individuals, such as their associations, beliefs, and activities, could potentially harm those individuals or compromise ongoing investigations. The document's description of Irving Fromer's residence, employment, and political affiliations, as well as the specific details of communist party meetings he attended, could expose him to unwanted attention or repercussions. Specifically, it mentions: \"Subject resides 881 Clayton Street, San Francisco...employed as an architectural draftsman...member of Lincoln Club, SFCCP...attended public meetings sponsored by FCCP, NCCFFB, SPCCPAP, ARI, PW, FFCC, and NG.\"",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This report details an investigation into David Reed Fromer and his father, Irving Rhodes Fromer, focusing on Irving's communist activities and associations as reported by the FBI.",
+  "summary_one_paragraph": "An agent report dated May 31, 1967, submitted by Eugene J. Power of the 115th MI Group (I), summarizes information gathered on David Reed Fromer and his father, Irving Rhodes Fromer, based on FBI files. The report references several CONFIDENTIAL FBI reports from 1962 to 1967 detailing Irving Fromer's involvement in communist activities, his membership in the Lincoln Club and SFCCP, and his attendance at meetings organized by various groups including the American-Russian Institute of San Francisco, Citizens Committee for Constitutional Liberties, and San Francisco Citizens Committee to Preserve American Freedoms. The report includes information about the activities and speakers at these meetings, as well as Irving Fromer's known residence and employment.",
+  "tags": [
+    "FBI",
+    "INSCOM",
+    "Communist Activities",
+    "Surveillance",
+    "Internal Security",
+    "American-Russian Institute",
+    "Citizens Committee for Constitutional Liberties",
+    "San Francisco Citizens Committee to Preserve American Freedoms"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1967-05-31",
+  "locations_mentioned": [
+    "Chicago, Illinois",
+    "San Francisco, California",
+    "Soviet Union"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "David Reed Fromer",
+    "Irving Rhodes Fromer",
+    "Elizabeth Gurley Flynn",
+    "Gus Hall",
+    "Ben Davis",
+    "Dmitry Nurayev",
+    "Holland Roberts",
+    "M. M. Domrachev",
+    "Mickey Lima",
+    "Gus Hall",
+    "Frank Wilkinson",
+    "Walter Stack",
+    "Archie Brown",
+    "Ralph Izard",
+    "John Apt",
+    "Harry Truman"
+  ],
+  "sender": "[RESTRICTED]"
+}

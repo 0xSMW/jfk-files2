@@ -1,0 +1,32 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "The report contains personal information about individuals, specifically Henry S. Beer and Joachim F. Pehl, including dates of birth and service information, which could be considered private. Additionally, the document's classification as 'Confidential' indicates that unauthorized disclosure could reasonably be expected to cause damage to national security.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "An agent report submitted on March 4, 1971, details a local agency check on Joachim S. Beer aka Joachim F. Pehl, the step-son of Henry S. Beer, revealing derogatory information from the Provost Marshal's Office (PMO) regarding incidents involving Joachim, including a report of a fire and disturbing the peace.",
+  "summary_one_paragraph": "On March 4, 1971, Randy L. Thompson of the 66th MI Group submitted an agent report based on a local agency check conducted by the Provost Marshal's Office (PMO) of the US Army Berlin Brigade on Henry S. Beer's step-son, Joachim S. Beer, also known as Joachim F. Pehl. The check revealed derogatory information concerning Joachim, specifically a report of a fire on December 19, 1970, and a disturbing the peace complaint on January 22, 1971, under his service record with the US Army Berlin Brigade.",
+  "tags": [
+    "INSCOM/CSF",
+    "DOD-Affiliated Personnel",
+    "Incident Investigations",
+    "Agent Report",
+    "Local Agency Check",
+    "Henry Beer",
+    "Joachim Pehl",
+    "US Army Berlin Brigade"
+  ],
+  "title": "AGENT REPORT",
+  "date": "1971-03-04",
+  "locations_mentioned": [
+    "West Berlin",
+    "Berlin-Schoeneberg"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Henry Beer",
+    "Henry S. Beer",
+    "Joachim F. Pehl",
+    "Joachim S. Beer",
+    "Randy L. Thompson"
+  ]
+}

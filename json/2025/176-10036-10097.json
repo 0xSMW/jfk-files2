@@ -1,0 +1,29 @@
+{
+  "classification": "Vietnam",
+  "document_type": "Telegram Information Report",
+  "security": "Revealing specific operational targets (Americans), locations (Saigon-Cholon-Gia Dinh), and potential disruptions to counterpropaganda activities could enable adversaries to anticipate and counteract US efforts. The report states: 'AMERICANS. WERE TO BE THE PRIMARY TARGETS OF ALL OPERATIONS' and 'VC COUNTERPROPAGANDA PERSONNEL OF THE SAIGON-CHOLON-GIA DINH SPECIAL ZONE RECEIVED INSTRUCTIONS TO SUSPEND ALL ACTIVITY'.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A CIA information report details Viet Cong plans in early April 1963 to increase terrorist and military subversion activity in the Saigon-Cholon-Gia Dinh Special Zone, with Americans being primary targets.",
+  "summary_one_paragraph": "This April 25, 1963, CIA telegram outlines Viet Cong (VC) directives in early April 1963 to intensify terrorist and subversion actions within the Saigon-Cholon-Gia Dinh Special Zone of South Vietnam. According to an official Government of Vietnam intelligence source, ward-level VC officials were informed of the planned escalation, involving reorganized terrorist groups operating across districts with Americans as the main targets. Additionally, VC counterpropaganda personnel in the zone were instructed to halt activities, anticipating transfer to military subversion roles.",
+  "tags": [
+    "CIA",
+    "Vietnam",
+    "Viet Cong",
+    "Terrorism",
+    "Subversion",
+    "Saigon",
+    "Intelligence Report"
+  ],
+  "title": "Central Intelligence Agency Information Report",
+  "date": "1963-04-25",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Vietnam",
+    "Saigon",
+    "Cholon",
+    "Gia Dinh"
+  ],
+  "origin_agency": "CIA",
+  "recipient": "STATE/INR DIA ARMY/ACSI NAVY AIR JCS SECDEF NSA. NIC A.ID USIA OC I ONE OCR ORR OBI DO IDII STATE/DIR EXO",
+  "sender": "CIA"
+}

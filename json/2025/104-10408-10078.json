@@ -1,0 +1,43 @@
+{
+  "classification": "Assassinations",
+  "document_type": "Letter and Memorandum",
+  "security": "This document details the CIA's system for tracking individuals of interest and could reveal intelligence-gathering methods. Specifically, it includes details about how the CIA opens, maintains, controls, and closes 201 files, which are dossiers on individuals of interest to the Operations Directorate. It mentions the use of OI codes to record associations with organizations or activities of operational interest, which could expose the CIA's targets and methods of surveillance. For example, the document states: 'OI codes cover intelligence and security service affiliation, whether staff or agent, or known or suspect, as well as activities of DDO interest.'",
+  "security_level": "SECRET",
+  "summary": "A letter from the House Select Committee on Assassinations (HSCA) requesting the CIA to detail the criteria for opening a 201 file, followed by a CIA memorandum providing relevant documents and suggesting a review of their regulations. The documents detail the 201 system for identifying and tracking persons of interest.",
+  "summary_one_paragraph": "In February 1978, the HSCA requested from the CIA a detailed statement explaining the reasons and criteria for opening a 201 file, specifically addressing the period 1958-1964. G. Robert Blakey, Chief Counsel and Director, sent this request to Patrick Carpentier at the CIA. In response, William F. Donnelly, Chief of the Information Services Staff at the CIA, sent a memorandum to Mr. Shepanek, suggesting that the HSCA staff review the CIA's regulation governing the criteria for opening, maintaining, controlling, and closing 201 files by the Operations Directorate, providing copies of DOHB 70-1-1 (1974) and CSHB 43-1-1 (1960) for review.",
+  "tags": [
+    "HSCA",
+    "CIA",
+    "201 File",
+    "John F. Kennedy",
+    "Assassination",
+    "Information Request",
+    "Operations Directorate",
+    "Intelligence",
+    "Counterintelligence"
+  ],
+  "title": "House Select Committee on Assassinations Request for Information on 201 Criteria",
+  "date": "1978-02-21",
+  "persons_mentioned": [
+    "Louis Stokes",
+    "Richardson Preyer",
+    "Walter E. Fauntroy",
+    "Yvonne Brathwaite Burke",
+    "Samuel L. Devine",
+    "Stewart B. McKinney",
+    "Harold S. Sawyer",
+    "Charles Rose",
+    "Christopher J. Dodd",
+    "Harold E. Ford",
+    "Floyd J. Fithian",
+    "Robert W. Edgar",
+    "Patrick Carpentier",
+    "G. Robert Blakey",
+    "Shepanek",
+    "Cleffi",
+    "William F. Donnelly",
+    "William Pendleton Croix"
+  ],
+  "recipient": "Patrick Carpentier, Mr. Shepanek",
+  "sender": "G. Robert Blakey, William F. Donnelly"
+}

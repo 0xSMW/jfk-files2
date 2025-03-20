@@ -1,0 +1,32 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "This cable discusses the potential recruitment of PEDROSA BE LEIVA to gain access to a Cuban intelligence officer (XIO LETVA FUENTES) and the exploitation of PEDROSA's relationship with anti-GOC (Government of Cuba) elements. Revealing these operational intentions could compromise ongoing intelligence activities in Mexico and alert Cuban intelligence to recruitment efforts. Specifically, \"REQUEST MEXI EXPLORE POSSIBILITY UTILIZING PEDROSA AS LEAD TO LEIVA\" and \"DESCRIBES MEXI AS NON COMUNIST AND PROBABLY WILLING COOPERATE WITH ANTI GOC ELEMENTS.\"",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A cable from Mexico City requests exploration of Pedroza as a lead to Leiva who is probably the wife of Cuban intelligence officer XIO LETVA FUENTES. The cable mentions that Pedroza is a non-communist, and probably willing to cooperate with anti-GOC elements.",
+  "summary_one_paragraph": "This unclassified cable, sent from Mexico City on May 8, 1963, requests that the Mexico station explore the possibility of using Pedroza as a lead to reach Leiva, who is suspected to be the wife of Cuban intelligence officer XIO LETVA FUENTES. The cable indicates that Pedroza is believed to be non-communist and potentially willing to cooperate with anti-GOC (Government of Cuba) elements. The cable also notes that HQS traces on Pedroza are negative.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "Cuban Intelligence",
+    "Recruitment",
+    "Defection",
+    "Pedroza",
+    "Leiva",
+    "Anti-GOC"
+  ],
+  "title": "PBRUMEN Cable Regarding Pedroza and Leiva",
+  "date": "1963-05-08",
+  "locations_mentioned": [
+    "Mexico City",
+    "Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "PEDROSA BE LEIVA",
+    "LIFANIL",
+    "XIO LETVA FUENTES"
+  ],
+  "recipient": "SIO CEN",
+  "sender": "PBRUMEN"
+}

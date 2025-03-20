@@ -1,0 +1,45 @@
+{
+  "classification": "Operations",
+  "document_type": "Memorandum and Dispatch",
+  "security": "Revealing the true identities and accommodation addresses of agents and operatives, such as AEASPIC (potentially David Durvard) and Lucian W. Fabsik, along with details of their cover stories and methods of communication (mail drops, code names) could expose ongoing operations and endanger individuals involved. Additionally, disclosing the involvement of specific personnel like Fred Kirkpatrick, John Robet, Florence Nick Letion, George Boublik, and Ferry Mahoney could compromise their roles and future effectiveness. Citing direct excerpts: 'AEASPIC was documented under the name David Durvard and was so registered by Alien Affairs Staff... letters sent to Timothy K. Rancifer for insertion in the local mail system be sent instead to the following address: True name of Lucian W. Fabsik.'",
+  "security_level": "SECRET",
+  "summary": "This file contains memoranda and dispatches regarding the REDSOX operation, specifically focusing on agent AEASPIC, including arrangements for his extended stay in the U.S. under the alias David Durvard, and accommodation addresses and mail handling for Lucian W. Fabsik in Brazil.",
+  "summary_one_paragraph": "This collection of documents primarily concerns the CIA's REDSOX operation, detailing logistical and cover arrangements for agents AEASPIC and Lucian W. Fabsik. Memoranda outline AEASPIC's extended stay in the United States under the alias David Durvard, coordinated with Alien Affairs Staff, including cover employment as an engineer adapting vending machines for the French market. Dispatches provide updated accommodation addresses and mail handling procedures for Lucian W. Fabsik in Brazil, using various pseudonyms and APO addresses to maintain operational security; the documents also mention personnel involved in translation and liaison activities.",
+  "tags": [
+    "CIA",
+    "REDSOX",
+    "AEASPIC",
+    "Lucian W. Fabsik",
+    "Covert Operations",
+    "Accommodation Address",
+    "Mail Intercept",
+    "Brazil",
+    "Alien Affairs",
+    "David Durvard",
+    "ALSENTINEL"
+  ],
+  "title": "WIROGUE: REDSOX Agent AEASPIC and Lucian W. Fabsik Accommodation Addresses",
+  "date": "1960-03-07",
+  "locations_mentioned": [
+    "United States",
+    "Paris, France",
+    "Brazil",
+    "Sao Paulo, Brazil",
+    "Rio de Janeiro, Brazil"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "AEASPIC",
+    "David Durvard",
+    "Fred Kirkpatrick",
+    "Lucian W. Fabsik",
+    "Timothy K. Rancifer",
+    "John Robet",
+    "Florence Nick Letion",
+    "George Boublik",
+    "Ferry Mahoney",
+    "Colette KHOMERIKI"
+  ],
+  "recipient": "Chief, OB/Alien Affairs staff, Chief, SR, Chief, WHD, Chief of Station, Rio de Janeiro, Chief of Base, Sao Paulo",
+  "sender": "Michael Rae, Chief, SA/DOB, David C. Higby"
+}

@@ -1,0 +1,33 @@
+{
+  "classification": "JFK Assassination System",
+  "document_type": "Memo",
+  "security": "Releasing information about potential attempts to persuade a Yugoslav trade official to defect could damage diplomatic relations, compromise intelligence-gathering methods, and reveal sources and methods. Specifically, the memo states, \"If the above information is true, this Agency may wish to consider the desirability of contacting PECAR in an effort to persuade him to return to Yugoslavia at our behest.\"",
+  "security_level": "Secret",
+  "summary": "The CIA informs the FBI about a Yugoslav trade official, Franc Pecar, who may want to defect to the U.S., and requests any information the FBI has on Pecar.",
+  "summary_one_paragraph": "On March 29, 1963, the CIA sent a memo to the FBI, attention to Mr. S.J. Papich, regarding Franc Pecar, a Yugoslav trade official. Joseph Merola informed the CIA that Pecar, who is stationed in New York, is being recalled to Yugoslavia and wishes to remain in the U.S., planning to visit Miami from April 12-19, 1963. The CIA requests any information the FBI has on Pecar and states that if the information is true, the CIA may want to persuade Pecar to return to Yugoslavia.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Franc Pecar",
+    "Joseph Merola",
+    "Defection",
+    "Yugoslavia",
+    "Trade Official",
+    "Miami"
+  ],
+  "title": "Franc Pecar",
+  "date": "1963-03-29",
+  "locations_mentioned": [
+    "New York",
+    "Miami Beach, Florida",
+    "Yugoslavia"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Franc Pecar",
+    "Joseph Raymond Merola",
+    "S. J. Papich"
+  ],
+  "recipient": "HQ",
+  "sender": "CIA"
+}

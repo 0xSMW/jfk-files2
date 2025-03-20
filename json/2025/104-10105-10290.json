@@ -1,0 +1,15 @@
+{
+  "classification": "Personnel",
+  "document_type": "List",
+  "security": "Sharing a list of names, even without associated operational details, could potentially expose individuals connected to sensitive activities. Knowing someone's affiliation, even without specific details, can make them a target or compromise their security. Quoting directly: The entire document is a list of names and some associated numbers.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A list of names, potentially associated with an organization or project, with some entries including numbers.",
+  "summary_one_paragraph": "This document is a list of names, some accompanied by numbers or codes, potentially representing individuals associated with a particular organization, project, or set of activities. The list appears to be unclassified, but the context of the names and numbers is not provided. Some entries include identifiers such as 'Crypto', 'NR', and 'PK' after the names.",
+  "tags": [
+    "Personnel",
+    "List",
+    "Names",
+    "Identifiers"
+  ],
+  "title": "List of Names"
+}

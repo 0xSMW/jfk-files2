@@ -1,0 +1,37 @@
+{
+  "classification": "Oswald",
+  "document_type": "Cable",
+  "security": "Revealing this request could expose intelligence-gathering methods and sources related to Russia and Belarus, potentially disrupting ongoing operations or damaging relationships. The document also mentions the Rosenbergs and other 'notorious personalities,' suggesting sensitivity around historical espionage cases. For example, the document asks if the station can \"check with the FSB/SVR to determine whether the Russians retained a copy of the Lee Harvey Oswald's>KGB file in Moscow? Can we get access to the file and, presumably, obtain a copy for the ARRB?\"",
+  "security_level": "SECRET",
+  "summary": "This cable discusses a request from the Assassination Records Review Board (ARRB) and the Department of State for assistance in approaching the FSB/SVR to access the KGB file on Lee Harvey Oswald, weighing potential implications and benefits.",
+  "summary_one_paragraph": "A SECRET RYBAT cable from the CIA Headquarters to Priority Moscow and Info Minsk, dated May 1998, outlines a request from the Assassination Records Review Board (ARRB) and the Department of State for the CIA to approach the FSB/SVR regarding access to Lee Harvey Oswald's KGB file, which is believed to be stored in Minsk, Belarus. The cable discusses the ARRB's mandate to declassify records related to President Kennedy's assassination and the Belarusian's reluctance to fully cooperate. It seeks the Moscow station’s input on the proposal, highlighting the potential implications, such as the Russians requesting access to sensitive U.S. files, while also noting that assisting the ARRB might improve the agency's negotiating position on other declassification issues.",
+  "tags": [
+    "ARRB",
+    "Lee Harvey Oswald",
+    "FSB",
+    "SVR",
+    "KGB",
+    "Kennedy Assassination",
+    "Declassification",
+    "Russia",
+    "Belarus",
+    "State Department",
+    "RYBAT",
+    "WNINTEL"
+  ],
+  "title": "Records Review Board and Dept of State Request for Assistance in Approaching FSB/SVR for Oswald File",
+  "date": "1998-05",
+  "locations_mentioned": [
+    "Moscow",
+    "Minsk",
+    "Belarus"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "Vice President Gore",
+    "Rosenbergs"
+  ],
+  "recipient": "Moscow, Minsk",
+  "sender": "CIA Staff"
+}

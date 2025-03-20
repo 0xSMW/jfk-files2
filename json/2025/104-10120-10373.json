@@ -1,0 +1,35 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security": "This memo details the planning and logistics for assessing and training REDSKIN agents, including the use of cleared employment services and safe houses. Revealing these operational details could compromise ongoing intelligence activities and expose the methods used to vet and train agents. Specifically, it mentions: '...the Agency has a cleared (employment) service in Pittsburgh which could possibly be utilized as an initial A&E assessment' and 'all training and assessment of REDSKIN Agents who pass the initial screening be conducted outside the Washington, D. C. area.'",
+  "security_level": "SECRET",
+  "summary": "This memorandum outlines a plan to use an employment service in Pittsburgh for initial assessment of REDSKIN agent candidates, replacing Psychological Assessment Associates, and details that subsequent training and assessment will occur outside Washington, D.C., in SR safe houses.",
+  "summary_one_paragraph": "A memorandum from Ervan E. Kuhnke, Jr., Chief of the SB/2 Desk, dated February 28, 1961, details a revised plan for the assessment and training of REDSKIN agents. Following concerns from CCG about using PSYCHOLOGICAL ASSESSMENT ASSOCIATES, the Agency has decided to use a cleared employment service in Pittsburgh, the EMPLOYMENT SERVICE COMPANY managed by Margaret A. KEARNEY, for initial assessments. The memo further states that all training and subsequent assessments will occur outside of Washington, D.C., primarily in an SR safe house in New York, with a possible safe house in Baltimore for final processing, with the goal of assessing, clearing, briefing, training, and arranging grants for thirty to thirty-five REDSKIN agents before the summer season.",
+  "tags": [
+    "REDSKIN agents",
+    "Covert Operations",
+    "Agent Assessment",
+    "Training",
+    "Employment Service",
+    "Safe House"
+  ],
+  "title": "COVER, (NONOFFICIAL) - GENERAL (Proposal for A&E Assessment of Potential REDSKIN Agent Candidates)",
+  "date": "1961-02-28",
+  "locations_mentioned": [
+    "Pittsburgh, Pennsylvania",
+    "Washington, D.C.",
+    "New York",
+    "Baltimore"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Howard Osborne",
+    "Jack Southard",
+    "Margaret A. Kearney",
+    "Frank O'Malley",
+    "Bradt",
+    "McKee",
+    "Ervan E. Kuhnke, Jr."
+  ],
+  "sender": "Chief, SB/2 Desk"
+}

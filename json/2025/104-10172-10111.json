@@ -1,0 +1,29 @@
+{
+  "classification": "Administrative",
+  "document_type": "File Review",
+  "security": "This document contains information from other agencies, specifically the FBI and STATE. Releasing the details of these agency's investigations and despatches could compromise their sources and methods. For example, the document lists specific FBI file numbers and report dates related to Maurice Halperin and others. Disclosing these details could reveal the scope and focus of FBI investigations during this period.",
+  "security_level": "SECRET",
+  "summary": "This document is a record of materials reviewed at CIA headquarters by House Select Committee on Assassinations (HSCA) staff members, specifically concerning the file of Maurice Hyman Halperin (201-128561, Vol. VI). It lists FBI and State Department documents within Halperin's file, including reports and despatches related to Halperin and associated individuals.",
+  "summary_one_paragraph": "This file review, dated May 1961, details the documents pertaining to Maurice Hyman Halperin (file 201-128561) that were reviewed by HSCA staff at CIA headquarters. The documents listed include FBI reports from New York, Boston, and Washington concerning Halperin, Jane Constance Kroll Rogers, Benjamin Fastov, and David C. Halperin, as well as State Department despatches from the American Embassy in Moscow regarding Halperin's citizenship and passports. Also included is a booklet by Maurice Halperin, 'Desarrollo Economico y Crisis en la America Latina,' published by the Universidad Obrera de Mexico.",
+  "tags": [
+    "CIA",
+    "HSCA",
+    "Maurice Halperin",
+    "FBI",
+    "State Department",
+    "File Review",
+    "Assassination Records Act"
+  ],
+  "title": "HALPERIN, MAURICE HYMAN",
+  "date": "1961-11-21",
+  "persons_mentioned": [
+    "Maurice Hyman Halperin",
+    "Jane Constance Kroll Rogers",
+    "Benjamin Fastov",
+    "David C. Halperin",
+    "Albert Maltz",
+    "Vicente Lombardo Toledano",
+    "Willard C. Curtis"
+  ],
+  "sender": "Chief, WH Division (Willard Cuts/Curtis)"
+}

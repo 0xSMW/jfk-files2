@@ -1,0 +1,36 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "This document contains personal information, specifically birth records and name change details, of Manuel Marti and his family. Releasing this information without proper redaction could violate privacy laws and regulations.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report details the birth records of Manuel Marti, revealing a name change from Manuel Adrian Sotomayor-Badillo, and documents his father's name change from Adrian Sotomayor to Manuel Marti in 1963.",
+  "summary_one_paragraph": "This agent report, dated September 25, 1968, submitted by Prescott S. Williams of the 771st MI Det, details the findings of a birth record check for Manuel Marti conducted at the Bureau of Demographic Registry in Puerto Rico. The report reveals that Marti was originally registered as Manuel Adrian Sotomayor-Badillo, and his father was initially recorded as Adrian Sotomayor. A subsequent name change occurred on March 5, 1963, when Marti's father changed his name to Manuel Marti, also changing his son's surname at the same time, as indicated by correction number 249.",
+  "tags": [
+    "INSCOM/CSF",
+    "DOD",
+    "Personnel Investigation",
+    "Birth Records",
+    "Name Change",
+    "Manuel Marti",
+    "Manuel Adrian Sotomayor-Badillo"
+  ],
+  "title": "Agent Report on Manuel Marti Birth Records",
+  "date": "1968-09-25",
+  "locations_mentioned": [
+    "San Juan, Puerto Rico",
+    "Utuado, Puerto Rico",
+    "Aguadilla, Puerto Rico",
+    "Santurce, Puerto Rico"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Manuel Adrian Sotomayor-Badillo",
+    "Adrian Sotomayor",
+    "Reyes Badillo",
+    "Candita Hernandez de Buxo",
+    "Prescott S. Williams"
+  ],
+  "recipient": "RESTRICTED",
+  "sender": "USA"
+}

@@ -1,0 +1,30 @@
+{
+  "classification": "Operations",
+  "document_type": "Outgoing SW Message",
+  "security": "Revealing the specific questions and intelligence requirements related to Soviet activities in Cuba, such as inquiries about Soviet medical clinics, illness outbreaks, and food shipments, could compromise intelligence gathering efforts and alert adversaries to areas of interest. For example: 'TIENEN LOS SOVIETICOS SUS PROPIAS CLINICAS MEDICAS EN CURA? PUEDES CONFIPMAR RECIENTES INFORMES QUE GRAN NUMERO DE SOVIETICOS SE HAN ENFERMADO EN PROPORCIONES EPIDEMICAS?'",
+  "security_level": "SECRET",
+  "summary": "A message from PSD/SWB to Bill Wainwright transmitting an outgoing SW message for AMLASH/1, containing instructions and questions regarding intelligence gathering in Cuba related to Soviet activities and military recruitment.",
+  "summary_one_paragraph": "On January 21, 1963, PSD/SWB sent a message to Bill Wainwright (TFW/FI) transmitting Outgoing SW Message #1 for the agent AMLASH/1, which is included on the marked side of the paper. The message instructs Wainwright to remove the penciled 'X' before mailing and includes a cover letter placed on the reverse side at right angles. The enclosed message (written in Spanish from 'Jaime') directs AMLASH/1 to provide a secure return address, detailed information about his current position, future plans, potential return to military service, and any details regarding his hospitalization, including location, dates, and sources of information. It also seeks information on guerrilla training camps, Soviet medical clinics in Cuba, illnesses among Soviets, shipments of tainted meat, and disease outbreaks among Cuban livestock, requesting urgent responses and offering the possibility of a meeting in Mexico or another country.",
+  "tags": [
+    "AMLASH",
+    "Cuba",
+    "Soviet Activities",
+    "Intelligence Gathering",
+    "Military Recruitment",
+    "Guerrilla Training",
+    "Soviet Clinics",
+    "Epidemics",
+    "Food Shipments"
+  ],
+  "title": "Preparation of Outgoing SW Messages",
+  "date": "1963-01-21",
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Bill Wainwright",
+    "William J. Murphy",
+    "AMLASH/1",
+    "Jaime"
+  ],
+  "recipient": "Bill Wainwright",
+  "sender": "PSD/SWB (Pseudo)"
+}

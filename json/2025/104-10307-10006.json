@@ -1,0 +1,40 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "Disclosing agent summaries could jeopardize ongoing operations and endanger the safety of involved individuals. It outlines specific support from US government agencies, such as the Department of State and FBI, which could expose intelligence operations and compromise relationships.",
+  "security_level": "SECRET",
+  "summary": "This report outlines the intelligence community's efforts to gather information on the Cuban arms build-up between April and October 1962, detailing agent coverage, targeted areas (military, political, economic), and support from other agencies.",
+  "summary_one_paragraph": "A classified report from Task Force W details the intelligence gathering efforts against Cuba from April to October 1962, focusing on military, political, and economic targets. It describes the Agency's ability to cover targets using agents, the challenges in penetrating key denied areas like the Cuban Communist Party and GOC ruling circle, and the support received from other U.S. government agencies such as the Department of State, FBI, and NSA. The report also notes significant changes in the Agency's coverage capability, including establishing a Cuban Task Force, strengthening the Miami Field Station, and setting up a special facility for intercepting Cuban internal communications.",
+  "tags": [
+    "Cuban Arms Build-Up",
+    "Intelligence Gathering",
+    "Task Force W",
+    "Agent Coverage",
+    "Military Intelligence",
+    "Political Intelligence",
+    "Economic Intelligence",
+    "Liaison",
+    "Agency Operations"
+  ],
+  "title": "Contributions to the Intelligence Community's Review of Intelligence Activities Relating to the Cuban Arms Build-Up",
+  "date": "1962-10-14",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Miami",
+    "Washington, D.C.",
+    "Pinar del Rio",
+    "Santiago",
+    "Camaguey",
+    "Cardenas",
+    "Guantanamo",
+    "Mexico",
+    "Europe"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Raul Castro",
+    "Ernesto 'Che' Guevara"
+  ]
+}

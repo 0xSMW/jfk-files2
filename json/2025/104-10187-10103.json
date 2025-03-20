@@ -1,0 +1,38 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security": "The memo discusses operational briefings and intelligence sharing with Guatemalan officials, including details about the DGI's structure and operations in Guatemala. Disclosing these briefings and the extent of U.S. intelligence cooperation with Guatemala could compromise ongoing operations, reveal sensitive intelligence-gathering techniques, and potentially harm U.S. relations with other countries. Specifically, the reference to 'travel lists and watch list' and discussing 'the DALTON card' status are sensitive details.",
+  "security_level": "SECRET",
+  "summary": "A memorandum detailing a briefing given to Guatemalan officials by CIA officers in October 1964 regarding Cuban defector operations, DGI structure, and intelligence sharing, with a focus on security and compartmentation of information.",
+  "summary_one_paragraph": "This memorandum, dated October 1964, recounts a briefing conducted by CIA officers for Guatemalan officials, including Chief of State Peralta, concerning operations related to a Cuban defector. The briefing covered the structure and operational techniques of the DGI, particularly its aims and operations in Guatemala, along with the importance of security and compartmentation to protect shared information and joint operations. During the meeting, Peralta expressed strong anti-Castro sentiments, criticized Mexico's dealings with Cuba, and advocated for more aggressive action against Cuba, while the CIA officers emphasized U.S. intelligence community operations and the need for Guatemalan cooperation in exploiting the defector's information.",
+  "tags": [
+    "CIA",
+    "Guatemala",
+    "Cuban Defector",
+    "DGI",
+    "Intelligence Sharing",
+    "Peralta",
+    "Security",
+    "Operation"
+  ],
+  "title": "CUBAN DEFECTOR",
+  "date": "1964-10-15",
+  "locations_mentioned": [
+    "Guatemala",
+    "Cuba",
+    "Mexico",
+    "Central America",
+    "El Salvador"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Peralta (Chief of State)",
+    "Serrano (Minister of Government)",
+    "Porres (Intelligence Chief)",
+    "Castro",
+    "Rivera (President of El Salvador)",
+    "Medran (Colonel, Intelligence advisor)"
+  ],
+  "recipient": "WH/S",
+  "sender": "Unknown"
+}

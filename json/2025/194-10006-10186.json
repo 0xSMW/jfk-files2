@@ -1,0 +1,39 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Disclosing the identities of casual sources (A-16 and A-14) could compromise their safety and future cooperation. The document is marked \"FOR OFFICIAL USE ONLY\", indicating that its dissemination is restricted. Releasing the subject's SSN, DOB, and POB may violate privacy laws.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report details findings from a records check and informant information regarding Robert Scheer, noting his activities in demonstrations, visits to Cuba and Cambodia, and involvement with Rampart Magazine and the Vietnam Day Committee.",
+  "summary_one_paragraph": "This agent report, dated October 11, 1966, summarizes findings on Robert Scheer, born April 4, 1936, in the Bronx, New York. A records check at Casual Source A-16 in Oakland, California, revealed that Scheer was a student, teacher, and writer residing in San Francisco. The report notes his involvement in Bay Area demonstrations, a visit to Cuba in 1960 where he wrote favorably of Castro, his membership in the Vietnam Day Committee in 1965, and his role as foreign news editor for Rampart Magazine in 1966. Casual Source A-14 added that Scheer supports liberal political policies, participates in free speech movements, and attempts to alter US policy toward Vietnam, while noting there is no evidence he is associated with subversive organizations. His wife, Anne, is reportedly active in similar endeavors.",
+  "tags": [
+    "Robert Scheer",
+    "Casual Source",
+    "Agent Report",
+    "Vietnam Day Committee",
+    "Rampart Magazine",
+    "Cuba",
+    "Demonstrations",
+    "Liberal Politics",
+    "Free Speech Movement"
+  ],
+  "title": "Report of Findings: Robert Scheer",
+  "date": "1966-10-11",
+  "locations_mentioned": [
+    "Bronx, New York",
+    "Oakland, California",
+    "San Francisco, California",
+    "Bay Area, California",
+    "Berkeley, California",
+    "Cuba",
+    "Cambodia"
+  ],
+  "origin_agency": "CSF/INSCOM",
+  "persons_mentioned": [
+    "Robert Scheer",
+    "Anne Scheer",
+    "Caryl Chessman",
+    "Castro"
+  ],
+  "recipient": "[ RESTRICTED ]",
+  "sender": "[ RESTRICTED ]"
+}

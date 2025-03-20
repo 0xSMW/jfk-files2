@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing operational details regarding agent tasking, surveillance methods, and Cuban military capabilities could compromise ongoing intelligence operations and Cuban intelligence assets. For example, the explicit request for information about Cuban fishing boats carrying arms to Latin America, including names and communication capabilities, could expose existing intelligence operations and sources.",
+  "security_level": "SECRET",
+  "summary": "A classified message tasks an agent (AMT URVY-9) to gather intelligence on Cuban military capabilities, specifically Komar-class boats carrying live rockets and P-6 class boats with live depth charges and torpedoes, as well as potential modifications to fuel for increased power. The agent is also tasked with determining if Cuban fishing boats are carrying arms to Latin America and if they possess radio communications.",
+  "summary_one_paragraph": "This SECRET classified message, dated December 12, 1963, directs agent AMT URVY-9 to provide details on Cuban naval assets, focusing on the presence of live ordnance on Komar and P-6 class boats and fuel enhancements. It also seeks information regarding the involvement of Cuban fishing vessels—San Ignacio, Maria Elena, and Los Angeles—in transporting arms to Latin America, including an assessment of their radio communication capabilities. The message includes instructions for financial transactions to Jorge Gutierrez in Canada and requests background checks on Luis Gonzalez and Enrique Vicente Socorras.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Military Intelligence",
+    "Naval Assets",
+    "Agent Tasking",
+    "Latin America",
+    "Maritime Surveillance",
+    "RYBAT",
+    "URVY-L"
+  ],
+  "title": "Intelligence Gathering on Cuban Military Capabilities and Arms Shipments",
+  "date": "1963-12-12",
+  "locations_mentioned": [
+    "Cuba",
+    "Latin America",
+    "Canada"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "AMT URVY-9",
+    "Luis Gonzalez",
+    "Enrique Vicente Socorras",
+    "Jorge Gutierrez"
+  ],
+  "recipient": "Director",
+  "sender": "UMWAVE"
+}

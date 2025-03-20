@@ -1,0 +1,45 @@
+{
+  "classification": "Commission",
+  "document_type": "Testimony",
+  "security": "This document discusses sensitive intelligence operations and sources, including monitoring of embassy traffic, potential CIA involvement in breaking into embassies, and interactions with Soviet defectors. Revealing these details could compromise intelligence-gathering methods, expose sources, and damage relationships with foreign governments. For example, the document references 'monitoring of embassy traffic from Maryland and Virginia' and breaking into embassies, which, if disclosed, could harm intelligence operations.",
+  "security_level": "TOP SECRET",
+  "summary": "This document contains the testimony of Victor Marchetti to the Rockefeller Commission on April 3, 1975, discussing various topics including Jim Angleton, Soviet defectors, the Finev-Rouse case, laser listening devices, monitoring of embassy traffic (NSA), and potential CIA involvement in breaking into embassies, and domestic operations.",
+  "summary_one_paragraph": "On March 28, 1975, James N. Roethe of the Rockefeller Commission recorded Victor Marchetti's testimony concerning intelligence matters. Marchetti discussed Jim Angleton's mysterious character, the Bill Harvey's possible claims of Agency penetration, cases involving Soviet defectors like Olenevski, and the Finev-Rouse incident where the CIA was accused of framing a Soviet agent. He also addressed the use of laser listening devices, the NSA's monitoring of embassy traffic, potential CIA involvement in breaking into embassies based on the Houston Plan, CIA's desire for action against the KGB in the U.S., and training of police in New York and Chicago.",
+  "tags": [
+    "Rockefeller Commission",
+    "Victor Marchetti",
+    "Jim Angleton",
+    "Bill Harvey",
+    "Soviet defectors",
+    "Finev-Rouse case",
+    "Laser listening devices",
+    "NSA",
+    "Embassy monitoring",
+    "KGB",
+    "Police training"
+  ],
+  "title": "Marchetti, Victor",
+  "date": "1975-03-28",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Maryland",
+    "Virginia",
+    "New York",
+    "Chicago"
+  ],
+  "origin_agency": "Rockefeller Commission",
+  "persons_mentioned": [
+    "Victor Marchetti",
+    "James N. Roethe",
+    "Jim Angleton",
+    "Bill Harvey",
+    "Philby",
+    "Olenevski",
+    "Golonewski",
+    "Rouse",
+    "Minev",
+    "Helms"
+  ],
+  "recipient": "File",
+  "sender": "Roethe, James N."
+}

@@ -1,0 +1,31 @@
+{
+  "classification": "Operations",
+  "document_type": "Classified Message",
+  "security": "Revealing that AMWHIP/1 is traveling to Europe for KUBARK errands could compromise the individual's operational security and the nature of the errands being conducted. Quoting directly: \"AMWHIP/1 ARRIVING EUROPE 26 APRIL FOR THREE WEEK'S BUSINESS TRIP, INCLUDING KUBARK ERRANDS PARIS, GENEVA. WILL ARRIVE ROME CIRCA 5 MAY AND CONTACT STATION VIA USUAL CHANNEL TO ASCERTAIN ANY SERVICES ROME MAY WISH.\"",
+  "security_level": "SECRET",
+  "summary": "A CIA message indicates that AMWHIP/1 will be arriving in Europe on April 26 for a three-week business trip, including assignments in Paris and Geneva for KUBARK, and will contact the Rome station around May 5 to determine if any services are needed.",
+  "summary_one_paragraph": "This SECRET classified message, dated April 22, 1964, from Director to Rome, relays information that AMWHIP/1 will be in Europe for business, specifically mentioning errands for KUBARK in Paris and Geneva. The message states that AMWHIP/1 is expected to arrive in Europe on April 26 for a three-week trip and will contact the Rome station around May 5 through established channels to ascertain any required support from the Rome station.",
+  "tags": [
+    "CIA",
+    "KUBARK",
+    "AMWHIP/1",
+    "Europe",
+    "Operations",
+    "Business Trip",
+    "Secret Message"
+  ],
+  "title": "AMWHIP/1 Europe Trip",
+  "date": "1964-04-22",
+  "locations_mentioned": [
+    "Rome",
+    "Paris",
+    "Geneva",
+    "Europe"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AMWHIP/1"
+  ],
+  "recipient": "Rome",
+  "sender": "Director"
+}

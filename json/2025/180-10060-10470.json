@@ -1,0 +1,30 @@
+{
+  "classification": "Personnel",
+  "document_type": "Payroll Records",
+  "security": "This document contains Social Security numbers, which are redacted due to privacy concerns. Releasing this information could ‘constitute an unwarranted invasion of personal privacy.’",
+  "security_level": "Unclassified",
+  "summary": "This document pertains to the payroll records of Beth Anne Lichtenfels, a Document Control Clerk for the HSCA, including authorizations, memos, and injury reports.",
+  "summary_one_paragraph": "This collection of documents relates to Beth Anne Lichtenfels' employment with the House Select Committee on Assassinations (HSCA). It includes payroll authorization forms noting her position as Document Control Clerk, her salary adjustments from $12,000 to $14,000 annually, a memo regarding payroll certification, a report of a traumatic injury she sustained on July 17, 1978, and correspondence about filing her injury claim. The documents contain her Social Security Number, which is redacted due to privacy concerns and postponed for release until 2017, with the substitute language 'SSN'.",
+  "tags": [
+    "HSCA",
+    "Payroll Records",
+    "Beth Anne Lichtenfels",
+    "Document Control Clerk",
+    "Social Security Number",
+    "Injury Report",
+    "FOIA",
+    "Louis Stokes",
+    "Personnel Records"
+  ],
+  "title": "HSCA Staff Payroll Records Regarding Beth Anne Lichtenfels",
+  "date": "1977-10-11",
+  "origin_agency": "HSCA",
+  "persons_mentioned": [
+    "Beth Anne Lichtenfels",
+    "Louis Stokes",
+    "Tom Howarth",
+    "Charlie Mathews"
+  ],
+  "recipient": "Clerk of the House of Representatives, All Staff, Tom Howarth, Office of Workers' Compensation Programs",
+  "sender": "HSCA, Charlie Mathews, Thomas Howarth"
+}

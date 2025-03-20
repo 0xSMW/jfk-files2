@@ -1,0 +1,30 @@
+{
+  "classification": "Oswald",
+  "document_type": "Cable",
+  "security": "Referring a UPI correspondent to the Public Affairs Staff (PAS) to manage media inquiries related to Lee Harvey Oswald and the CIA in Japan reveals internal protocols for handling sensitive information.  The instruction \"SUGGEST COS HAVE EMBASSY PRESS OFFICER REFER THE UPI CORRESPONDENT TO THE PUBLIC AFFAIRS STAFF\" shows a coordinated effort to control the narrative.",
+  "security_level": "SECRET",
+  "summary": "This cable directs the Tokyo station to have its Embassy Press Officer refer a UPI correspondent to the Public Affairs Staff (PAS) regarding a new story on Lee Harvey Oswald and the CIA in Japan.",
+  "summary_one_paragraph": "A SECRET cable from the CIA's staff to Priority Tokyo, dated September 13, 1996, addresses a new story concerning Lee Harvey Oswald and the CIA in Japan. It instructs the Chief of Station (COS) to have the Embassy Press Officer refer a UPI correspondent to the Public Affairs Staff (PAS) for any comments or information. PAS recommends treating the UPI correspondent as any other reporter, directing questions to (703) 482-7677 and suggesting they speak to a media spokesperson, who may then direct them to historical records or another outside office.",
+  "tags": [
+    "Lee Harvey Oswald",
+    "CIA",
+    "Japan",
+    "Public Affairs",
+    "Media Relations",
+    "UPI",
+    "Embassy Press Officer",
+    "WNI-NTEL"
+  ],
+  "title": "New Story on Lee Harvey Oswald and CIA in Japan",
+  "date": "1996-09-13",
+  "locations_mentioned": [
+    "Japan"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "NWBOLTON"
+  ],
+  "recipient": "Priority Tokyo",
+  "sender": "Staff"
+}

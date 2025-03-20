@@ -1,0 +1,32 @@
+{
+  "classification": "Personnel",
+  "document_type": "Identification Form",
+  "security": "Disclosing details about personnel security investigations, like the reasons for initiating them ('remarks made by registrant in remarks section De Form 98 and Do Form 398') and the involvement of specific units (USAINTC), could reveal sensitive methods and criteria used in evaluating individuals. This may compromise the integrity of future security assessments and enable individuals to circumvent the screening process. Direct quote: 'Request investigation of registrant in view of remarks made by registrant in remarks section De Form 98 and Do Form 398.'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A personnel security investigation request form for David Reed Fromer, initiated due to remarks made on De Form 98 and Do Form 398, with results indicating no record or minor unfavorable information.",
+  "summary_one_paragraph": "This document is a personnel security investigation request form, dated November 25, 1966, initiated by Myron K. Hayashida from AFEES for David Reed Fromer due to remarks on his De Form 98 and Do Form 398 forms, requesting a records check and investigation to determine suitability for induction. The investigation results, completed by USAINTC on March 29, 1967, indicated either no record or minor unfavorable information, forwarding the findings for security determination by the clearing authority.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "DOD",
+    "Personnel Investigation",
+    "David Reed Fromer",
+    "Security Clearance"
+  ],
+  "title": "[ RESTRICTED ]",
+  "date": "1966-11-25",
+  "locations_mentioned": [
+    "Chicago, Illinois",
+    "Fort Holabird, Md",
+    "Hampton, Va",
+    "Oaklend, California"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "David Reed Fromer",
+    "Myron K. Hayashida",
+    "Dan H. Dietrich"
+  ],
+  "recipient": "USA Intelligence CMD",
+  "sender": "HAYASHIDA, MYRON K."
+}

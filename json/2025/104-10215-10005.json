@@ -1,0 +1,47 @@
+{
+  "classification": "Cuba",
+  "document_type": "Outgoing Message",
+  "security": "Revealing that names of sub-sources of information were passed to the FBI, “REQUEST STATION APPROVAL FOR PASSAGE OF NAMES OF PIEDRA AND ALPIZAR TO FBI, NAMING THEM AS SOURCES OF REF INFO IN ORDER TO ASSIST FBI IN ANY INVESTIGATION THAT THEY MIGHT MAKE INTO A LEGATIONS,” could compromise sources. Information passed by EMFETCH-9 RE DOMINICAN AND PUERTO RICAN EXTREMISTS TRAINING IN PUERTO RICO.",
+  "security_level": "SECRET",
+  "summary": "An outgoing message from the Director to Santo Domingo and LA/Miami regarding traces on sub-sources Col. Orlando Piedra Negueruela and Evelio Alpizar Perez, providing background information on their activities and connections.",
+  "summary_one_paragraph": "This secret outgoing message, dated January 19, 1976, from the Director to Santo Domingo and LA/Miami, disseminates headquarters' traces on sub-sources Col. Orlando Piedra Negueruela and Evelio Alpizar Perez, who are potentially connected to EMGARNET-1. The message details Piedra's involvement with Fulgencio Batista and his activities soliciting armament prices, along with Alpizar's background as a Cuban Air Force pilot possibly tied to the SIM under Batista. It highlights Alpizar’s recruitment by the Frente Revolucionario Democratico and his reports to the FBI regarding Cuban oil refinery bombings. It requests station approval to pass these names to the FBI to aid their investigation into a Legations.",
+  "tags": [
+    "CIA",
+    "Santo Domingo",
+    "Miami",
+    "Orlando Piedra Negueruela",
+    "Evelio Alpizar Perez",
+    "Fulgenico Batista",
+    "FBI",
+    "EMFETCH",
+    "Dominican Extremists",
+    "Puerto Rican Extremists",
+    "Cuba"
+  ],
+  "title": "HQS Traces on Subsources",
+  "date": "1976-01-19",
+  "locations_mentioned": [
+    "San Antonio de los Banos, Cuba",
+    "Cuba",
+    "Dominican Republic",
+    "U.S.",
+    "Nicaragua",
+    "Arroyo Arenas, Habana, Cuba",
+    "Florida",
+    "Miami",
+    "Puerto Rico"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Col. Orlando Piedra Negueruela",
+    "Fulgencio Batista",
+    "Evelio Alpizar Perez",
+    "EMGARNET-1",
+    "UFGU-371",
+    "SPRAGUE",
+    "Richard S. Sampson",
+    "Fisher Ames"
+  ],
+  "recipient": "Santo Domingo, LA/Miami",
+  "sender": "Director"
+}

@@ -1,0 +1,29 @@
+{
+  "classification": "Personnel",
+  "document_type": "Personnel Action Requests",
+  "security": "These documents contain personnel information like salary, position, and organizational assignments, which, if disclosed, could be detrimental to the CIA's operational security and individual privacy. Disclosing organizational designations and operational assignments such as 'OPS OFFICER' with assignments to 'PARIS STATION' and 'PARIS ANNEX' could reveal operational details. For example, disclosing 'AS PRA-per IHR-24e (2) for duration of present tour' hints at specific personnel practices related to assignments.",
+  "security_level": "SECRET",
+  "summary": "This file contains several 'Request for Personnel Action' forms related to Thomas B. CASASIN (also known as J. Richardson, serial number 006102) detailing his assignments, extensions, and eventual resignation from his position as an Ops Officer within the CIA's European Division, specifically the French Area of the Paris Station and Annex.",
+  "summary_one_paragraph": "The personnel file for Thomas B. CASASIN (J. Richardson) includes multiple 'Request for Personnel Action' forms spanning from 1967 to 1972. These forms document his reassignments, extensions of Provisional Reserve Appointments (PRA), and his eventual resignation. Casasins's roles included assignments as an Ops Officer within the DDP/European Division, specifically at the Paris Station and Annex, under the French Area. The documents provide details such as his position number (0668), grade and step (GS-15), salary, organizational designations, and various office codings relevant to his employment within the CIA.",
+  "tags": [
+    "Personnel File",
+    "Thomas B. CASASIN",
+    "J. Richardson",
+    "CIA",
+    "Personnel Action",
+    "Resignation",
+    "Paris Station",
+    "PRA Extension"
+  ],
+  "title": "Personnel file: Thomas B. CASASIN (J. Richardson)",
+  "persons_mentioned": [
+    "Thomas B. CASASIN",
+    "J. Richardson",
+    "Foley",
+    "Wilford C. Taylor",
+    "Westerman",
+    "Hugh H. Lusticker"
+  ],
+  "recipient": "Office of Personnel",
+  "sender": "Various requesting officers within the CIA's European Division"
+}

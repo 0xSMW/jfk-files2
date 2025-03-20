@@ -1,0 +1,23 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "The very limited content makes assessing specific security risks difficult, however, the presence of codenames and operational references could reveal sensitive methods or sources if further context were available.",
+  "security_level": "SECRET",
+  "summary": "A partially redacted cable concerning PERGREN and AMSTONE, identifying individuals Mr. (Themistocles Aposporos) and GERIDA (Garcia) ROSELL.",
+  "summary_one_paragraph": "This is a fragmented SECRET cable dated December 7, 1963, with limited decipherable content, referencing codenames PERGREN and AMSTONE, along with identified individuals Mr. (Themistocles Aposporos) and GERIDA (Garcia) ROSELL. The cable's routing includes DDP, CI, CI/CA, and SAS 8, with information directed to DIA. The citation WAVE 8542 and WAVE 8641 (45582) are also noted.",
+  "tags": [
+    "CIA",
+    "PERGREN",
+    "AMSTONE",
+    "Aposporos, Themistocles",
+    "Rosell, Gerida Garcia"
+  ],
+  "title": "PERGREN AMSTONE",
+  "date": "1963-12-07",
+  "persons_mentioned": [
+    "Themistocles Aposporos",
+    "Gerida (Garcia) Rosell"
+  ],
+  "recipient": "DIA",
+  "sender": "DDP, CI, CI/CA, SAS 8, VR"
+}

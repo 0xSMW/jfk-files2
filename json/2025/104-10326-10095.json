@@ -1,0 +1,46 @@
+{
+  "classification": "Operations",
+  "document_type": "Contact Report",
+  "security": "Revealing the identities of assets (KDDAGGER/2, KDDAGGER/11, KDHUSTLE/18, KDHUSTLE/31) and their activities, as well as operational details such as meeting locations, communication methods (cellular telephone), and security procedures, could compromise ongoing intelligence operations and endanger the individuals involved. Quoting from the document: 'CONTACT WITH D/2 AND D/11 IS MAINTAINED, WHEN NECESSARY, VIA CELLULAR TELEPHONE...C/O ADVISED DAGGERS TO BE ON THE LOOKOUT FOR POSSIBLE PRETEXT KNOCKS AT KDPEEK'S DOOR...DROVE TO TECAMACHALCO AREA VIA EJERCITO NACIONAL...NO SURVEILLANCE WAS DETECTED.'",
+  "security_level": "SECRET",
+  "summary": "A contact report from Mexico City details a meeting between a CIA Case Officer (C/O) and assets KDDAGGER/2 and KDDAGGER/11, discussing intelligence gathered, operational tasks, and security measures, including concerns related to a former Russian Embassy official and the JFK assassination report.",
+  "summary_one_paragraph": "On September 2, 1993, a CIA Case Officer (C/O) met with assets KDDAGGER/2 and KDDAGGER/11 at Macho's Restaurant in Mexico City to discuss intelligence matters, operational tasks, and security concerns. The assets reported the return of a former Russian Embassy official, ((SHULIPIN)), noting his unchanged rank and duties as strange, and confirmed ((ZHILTSOV))'s continued absence. The C/O collected photos and KDPEEK comments, issued a CD for KDPEEK, paid salaries to KDHUSTLE/18 and KDHUSTLE/31, and inquired about CISN's decision to discontinue providing KDPEEK photo negatives. The C/O also warned the assets of potential pretext knocks at KDPEEK's door due to the recently released JFK assassination report, arranging for D/11 to pose as a housewife if needed. Finally, the report details the C/O’s security measures during transit and plans to inquire about CISN’s decision.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "Contact Report",
+    "KDDAGGER",
+    "KDPEEK",
+    "KDHUSTLE",
+    "Russian Embassy",
+    "JFK Assassination",
+    "CISN",
+    "Counterintelligence",
+    "RYBAT"
+  ],
+  "title": "Contact Report with KDDAGGER/2 and KDDAGGER/11",
+  "date": "1993-09-03",
+  "locations_mentioned": [
+    "Mexico City",
+    "Russian Embassy",
+    "Macho's Restaurant",
+    "Johnny Rockets Restaurant",
+    "Polanco",
+    "Tecamachalco"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "KDDAGGER/2",
+    "KDDAGGER/11",
+    "Dennis R. Bruegge",
+    "((SHULIPIN))",
+    "((ZHILTSOV))",
+    "KDHUSTLE/18",
+    "KDHUSTLE/31",
+    "Licenciada Angelica Carbajal",
+    "Wilfredo Robledo",
+    "Ingeniero (FNU) Figueroa"
+  ],
+  "recipient": "Director",
+  "sender": "Staff"
+}

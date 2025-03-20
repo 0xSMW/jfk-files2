@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "The memo references a meeting regarding a potential operation involving contacts in Cuba, providing details of payments, code names ('Fred Horse'), and planned meetings. Exposing these details could jeopardize the safety of individuals involved and compromise ongoing or future operations. Quoting directly: 'He was given a check for $1300 and instructions to call Benjamin Avana at the Embassy and use the name Fred Horse.'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memorandum detailing a meeting with Henry P. Lopes regarding a potential operation in Cuba, including payment instructions and contact details.",
+  "summary_one_paragraph": "This memorandum, dated 4 February 1960, records a meeting between WH representatives (Robert Reynolds, Reteher, and Philip Toomey (Thompson)) and Henry P. Lopes at the Carleton Hotel on 15 January 1960. The meeting covered a PP staff report on opposition groups, a report on an Indian political action operation, and the current situation in Cuba, for which Lopes received $1300 and instructions to contact Benjamin Avana using the code name 'Fred Horse'. Lopes mentioned a connection to Regino Boti Leon in Castro's Cabinet and planned to renew contact with a mutual acquaintance in New York. He was briefed on security precautions and told to expect further instructions from Mr. Evens regarding contacts, with a planned tape recording of his remarks upon his return around February 2.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Henry P. Lopes",
+    "Operation",
+    "Payment",
+    "Security Precautions",
+    "Meeting Record"
+  ],
+  "title": "Meeting with Henry P. Lopes at Carleton Hotel",
+  "date": "1960-02-04",
+  "locations_mentioned": [
+    "Cuba",
+    "New York"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Henry P. Lopes",
+    "Robert Reynolds",
+    "Philip Toomey (Thompson)",
+    "Benjamin Avana",
+    "Regino Boti Leon",
+    "Fred Horse",
+    "Mr. Evens",
+    "Mr. Davis"
+  ],
+  "recipient": "Record"
+}

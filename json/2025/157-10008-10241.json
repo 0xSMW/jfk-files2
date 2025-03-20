@@ -1,0 +1,45 @@
+{
+  "classification": "Cuba",
+  "document_type": "Interview and Meeting Summary",
+  "security": "Information concerning Task Force W and the Mongoose operation, including the explicit requirement for SGA approval for operations, could reveal sensitive operational details. Quoting directly: 'each operation had to receive explicit SGA approval prior to getting off the drawing board.'",
+  "security_level": "TOP SECRET",
+  "summary": "This document is a summary of an interview with Bruce Cheever, former deputy director of Task Force W, conducted on July 24, 1975, by Paul Wallach and Joe DiGenova, regarding the assassination inquiry. Cheever discussed Task Force W's role in the Mongoose operation and his interactions with individuals like Harvey, Lansdale, and members of the SGA.",
+  "summary_one_paragraph": "On July 24, 1975, Paul Wallach and Joe DiGenova interviewed Bruce Cheever, former deputy director of Task Force W, at the Carroll Arms. The interview focused on Cheever's background, his role in Task Force W, and his understanding of the Mongoose operation aimed at removing the Castro regime in Cuba. Cheever stated that Task Force W was under the operational carte blanche of the White House, with explicit SGA approval required for each operation; he also described figures like Harvey as a compartmentalized operative and Lansdale as RFK's representative, ensuring the Kennedys were informed. Cheever attended meetings with designees of the SGA principals and noted that after the Cuban Missile Crisis, the urgency behind Cuban operations diminished.",
+  "tags": [
+    "SSCI",
+    "Bruce Cheever",
+    "Task Force W",
+    "Mongoose Operation",
+    "Assassination Inquiry",
+    "Cuba",
+    "SGA",
+    "Lansdale",
+    "Harvey",
+    "RFK"
+  ],
+  "title": "Interview and Meeting Summary",
+  "date": "1975-07-24",
+  "locations_mentioned": [
+    "Carroll Arms"
+  ],
+  "origin_agency": "SSCIA",
+  "persons_mentioned": [
+    "Bruce Cheever",
+    "Paul Wallach",
+    "Joe DiGenova",
+    "Harvey",
+    "Helms",
+    "Ted Shackley",
+    "Lansdale",
+    "RFK (Robert F. Kennedy)",
+    "Bundy",
+    "Califano",
+    "Haig",
+    "Hurwitch",
+    "Craig",
+    "Johnson",
+    "Max Taylor",
+    "Castro"
+  ],
+  "sender": "SSCIA"
+}

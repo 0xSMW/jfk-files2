@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing that the US government is tracking individuals who may be violating the Registration Act and that the U.S. government uses consular cover to gather information about individuals.  Quote: \"MUS TRACKS INDICATE SURJ REF HAS BEEN UNDER ODENVY INVESTIGATION POSSIBLE REGISTERTION ACT VIOLATIONS. BASS SHOULD DEAL WITH SUBJECT UNDER STRICT CONSULAR COVER AND NOT MAKE ANY COMMITMENTS WHICH MIGHT LATER BE CONSTRUED AS ODYOKE APPROVAL HIS ACTIVITIES\".",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "A classified message from the Director to Santiago de Cuba regarding Frank Fiorini, an arms buyer in Miami, who is under investigation for possible Registration Act violations; the message instructs the base to deal with the subject under consular cover without making any commitments that might be construed as approval of his activities.",
+  "summary_one_paragraph": "On January 13, 1959, a secret message was sent from the Director to the Santiago de Cuba station concerning Frank Fiorini of Norfolk, VA, who claimed to be an arms buyer in Miami and was willing to cooperate by providing information on rebels. The message indicates that Fiorini was under ODENVY investigation for possible Registration Act violations. It instructs the Santiago de Cuba base to handle Fiorini under strict consular cover, ensuring no commitments are made that could later be interpreted as U.S. government endorsement of his actions.",
+  "tags": [
+    "FBI",
+    "Registration Act",
+    "Consular Cover",
+    "Frank Fiorini",
+    "ODENVY",
+    "Arms Buyer",
+    "Miami",
+    "Rebels",
+    "Cuba"
+  ],
+  "title": "Instructions Regarding Frank Fiorini Investigation",
+  "date": "1959-01-13",
+  "locations_mentioned": [
+    "Santiago de Cuba",
+    "Miami",
+    "Norfolk, VA"
+  ],
+  "origin_agency": "Director (CIA)",
+  "persons_mentioned": [
+    "Frank Fiorini"
+  ],
+  "recipient": "Santiago de Cuba",
+  "sender": "Director (CIA)"
+}

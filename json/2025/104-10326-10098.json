@@ -1,0 +1,30 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Message",
+  "security": "Revealing that the CIA sought to tie up 'loose ends' and that DGI officers were used as doubles compromises intelligence operations and potentially exposes sources and methods. Stating: “WE NEED TO TIR UP ALL LOOSE ENDS AS WE APPROACH THE THIRTY YEAR DECLASSIFICATION TIME LIMIT…HAVING YOU ASK VZTOUCHDOWN IF HE RECOGNIZES THE NAME AND PHOTO AND WHAT HE KNOWS ABOUT SLANK/1.”",
+  "security_level": "SECRET",
+  "summary": "A message from CIC/LA to NR/MIAMI requesting that VZTOUCHDOWN be asked about SLANK/1, a former DGI officer who defected in 1964 and provided information indicating that the Cuban government was not involved in the Kennedy assassination. The purpose is to tie up loose ends as the 30-year declassification time limit approaches.",
+  "summary_one_paragraph": "This message, dated April 6, 1993, is from CIC/LA to NR/MIAMI, concerning the requirement to query VZTOUCHDOWN about SLANK/1, a DGI officer who defected in Canada in 1964. The request stems from SLANK/1's past provision of information indicating that the Cuban government had no role in the Kennedy assassination. The purpose of this inquiry is to address any remaining uncertainties related to SLANK/1's case, especially with the impending 30-year declassification deadline for related files. The message also clarifies that SLANK/1, originally encrypted as AMMUG/1, was operationally terminated in July 1967, and provides file numbers for reference.",
+  "tags": [
+    "CIA",
+    "DGI",
+    "SLANK/1",
+    "VZTOUCHDOWN",
+    "Cuban Defector",
+    "Kennedy Assassination",
+    "Declassification",
+    "Double Agent",
+    "Intelligence Operation"
+  ],
+  "title": "Requirement for VZTOUCHDOWN",
+  "conspiracy": "This document suggests an effort to confirm or deny Cuban government involvement in the Kennedy assassination, potentially indicating a search for definitive answers or an attempt to dispel lingering doubts.",
+  "date": "1993-04-06",
+  "persons_mentioned": [
+    "SLANK/1",
+    "VZTOUCHDOWN",
+    "WEBER",
+    "AUSTIN"
+  ],
+  "recipient": "NR/MIAMI",
+  "sender": "CIC/LA"
+}

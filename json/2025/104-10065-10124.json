@@ -1,0 +1,30 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Telepouch",
+  "security": "Releasing details about the VMO and its contacts could reveal sensitive sources and methods used to gather intelligence, potentially compromising ongoing or future investigations. Quoting directly: \"WE HAVE NO INFORMATION CONCERNING CONTACTS BETWEEN VMO MEMBERS AND AMERICAN CITIZENS BETWEEN 1968 AND 1970, IT APPEARS TO US INOPPORTUNE TO PREPARE A REPORT ON THE SUBJECT OF THE VMO FOR PASSING TO MEMBERS OF THE HOUSE OF REPRESENTATTIVES COMMITTEE.\"",
+  "security_level": "SECRET",
+  "summary": "A secret telepouch discusses the lack of information regarding contacts between Vlaamse Militanten Orde (VMO) members and American citizens between 1968 and 1970 and the inopportuneness of preparing a report on the VMO for the House of Representatives Committee.",
+  "summary_one_paragraph": "This secret telepouch, dated May 19, 1978, from Brussels to Washington, addresses the subject of Vlaamse Militanten Orde (VMO). It relays a note indicating that there is no information concerning contacts between VMO members and American citizens between 1968 and 1970. Due to this lack of information, it is deemed inexpedient to prepare a report on the VMO for the House of Representatives Committee.",
+  "tags": [
+    "Vlaamse Militanten Orde",
+    "VMO",
+    "House of Representatives Committee",
+    "Intelligence",
+    "Belgium",
+    "NIGALE",
+    "NITRUST"
+  ],
+  "title": "VLAAMSE MILITANTENORDE",
+  "date": "1978-05-19",
+  "locations_mentioned": [
+    "Brussels",
+    "Washington"
+  ],
+  "origin_agency": "Unspecified (Brussels originating office)",
+  "persons_mentioned": [
+    "GOERLICH",
+    "NIGALE",
+    "NITRUST"
+  ],
+  "recipient": "Washington (EUR/BNL INFO DC/EUR/NW, EUR/AS/A, SA/DO/0)"
+}

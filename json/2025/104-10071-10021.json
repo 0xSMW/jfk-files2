@@ -1,0 +1,30 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Memorandum",
+  "security": "Disclosing the CIA's monitoring of individuals like Dale Smith and their activities, especially in relation to groups like Black Power, could be considered sensitive. The document includes a request to transkit a reply via liaison, which may expose intelligence-gathering methods and relationships with foreign entities. Quoting directly: 'Attached is a newspaper interview with American Black Power advocate Dale SMITH...which gives a fair description of SMITH's views...'",
+  "security_level": "SECRET",
+  "summary": "A CIA memorandum regarding the activities of Dale Smith, a Black Power advocate, including a newspaper interview he gave in Denmark and a related television program.",
+  "summary_one_paragraph": "This SECRET CIA memorandum, dated September 20, 1968, from CI/Ober to the FBI, concerns the activities of Dale Smith, an American Black Power advocate. It includes an attached newspaper interview with Smith published in Søndags Aktuelt, Denmark, and references a Danish television program featuring a group of American Negroes criticizing white American capitalism, Russian communism, and Denmark. The memo requests a reply via liaison, Mr. S.J. Papich, and is disseminated to various CIA divisions including E/SC/CE, GIRA, CELSN, and RID, with copies sent to Dale Smith (201) and PROD COPENHAGEN.",
+  "tags": [
+    "CIA",
+    "FBI",
+    "Dale Smith",
+    "Black Power",
+    "Denmark",
+    "Surveillance",
+    "FOIA"
+  ],
+  "title": "Activities of Dale SMITH",
+  "date": "1968-09-20",
+  "locations_mentioned": [
+    "Denmark"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Dale Smith",
+    "Maria Walsh",
+    "S.J. Papich"
+  ],
+  "recipient": "FBI",
+  "sender": "CI/Ober"
+}

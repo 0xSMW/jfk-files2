@@ -1,0 +1,20 @@
+{
+  "classification": "Administrative",
+  "document_type": "Handbook Annex",
+  "security": "This document outlines procedures for managing sensitive information within the CIA's 201 system. Revealing these internal processes—such as purging protocols, maintenance procedures, access restrictions, and machine listing details—could enable adversaries to exploit vulnerabilities in the system and compromise the integrity of intelligence operations. Exposing the criteria for automatic 201 dossier openings, for example, could aid in identifying potential targets and undermining counterintelligence efforts. Quoting directly: “Purging a 201 dossier is the responsibility of the desk officer. It requires discrimination in recognizing operationally useful material…A 201 dossier should be purged of the following…Top Secret documents are not to be retained…Access to a sensitive 201 dossier may be restricted…Machine listings provide field stations and Headquarters desks with names and 201 numbers…",
+  "security_level": "SECRET",
+  "summary": "This document is Annex B of Chapter III of the CIA's 201 system handbook, detailing procedures for managing personality files, including file maintenance, access restrictions, and machine listings.",
+  "summary_one_paragraph": "Annex B of Chapter III in the CIA's 201 system handbook (dated 15 November 1974) outlines the management of personality files, covering key aspects such as the 201 numbering system, contents and maintenance of dossiers, and procedures for purging and restricting access to sensitive information. It provides guidance on filing, cross-referencing, and consolidating information about individuals of interest, emphasizing the importance of accurate record-keeping and controlled access to protect sensitive intelligence. Additionally, it details machine listings used to identify individuals by various criteria and the process for requesting information on 201 personalities.",
+  "tags": [
+    "CIA",
+    "201 System",
+    "Dossier Management",
+    "File Maintenance",
+    "Access Restrictions",
+    "Machine Listings",
+    "FOIA"
+  ],
+  "title": "The 201 System",
+  "date": "1974-11-15",
+  "origin_agency": "Central Intelligence Agency (CIA)"
+}

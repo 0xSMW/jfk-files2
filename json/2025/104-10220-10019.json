@@ -1,0 +1,31 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security": "Disclosing the existence and internal tracking of liaison activities, such as confirming the bona fides of names and coordinating information with other stations, could reveal operational methods and compromise relationships with foreign intelligence services.",
+  "security_level": "SECRET",
+  "summary": "A cable confirms the validity of names listed in a previous communication and approves the dissemination of information to assist an ongoing investigation, referencing file number 201-746537.",
+  "summary_one_paragraph": "This SECRET cable, dated June 16, 1970, addresses inquiries from Bern (Switzerland) and Frankfurt regarding the validity of names listed in a prior message (Bern 8708). The cable confirms that the names are bona fide and authorizes the passing of related information (contained in Director 80955) if it would assist Bern's INBREED investigation. It references file number 201-746537 and is disseminated to various European locations, including Bonn, Frankfurt, Berlin, Munich, and Zurich.",
+  "tags": [
+    "CIA",
+    "Liaison",
+    "INBREED Investigation",
+    "File 201-746537",
+    "Cable Dissemination",
+    "James Ludlum"
+  ],
+  "title": "Cable Secretariat Dissemination",
+  "date": "1970-06-16",
+  "locations_mentioned": [
+    "Bern",
+    "Bonn",
+    "Frankfurt",
+    "Berlin",
+    "Munich",
+    "Zurich"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "James Ludlum"
+  ],
+  "recipient": "Bern, Bonn, Frankfurt, Berlin, Munich, Zurich"
+}

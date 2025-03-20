@@ -1,0 +1,33 @@
+{
+  "classification": "Security",
+  "document_type": "Agent Report",
+  "security": "Disclosing the details of this report could compromise ongoing counter-intelligence activities by revealing the methods used to identify and assess potential threats, as well as the specific locations and personnel involved. It also highlights potential vulnerabilities in security protocols at military installations, which could be exploited by hostile actors. The report details interactions with a potential intelligence source, identified as 'John the Dee Jay', whose activities and contacts might be disrupted or placed at risk if this information were released.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report details a possible counter-intelligence interest involving Robert M. Creed, a security guard, and his interactions with an individual named John the Dee Jay, who expressed interest in military police activities and equipment in Datteln, Federal Republic of Germany, in February 1972.",
+  "summary_one_paragraph": "This agent report, submitted on February 6, 1972, by Heinz E. Ickert of the 66th MI Group, documents the interview of Robert M. Creed, a security guard at the 66th USA Artillery Detachment in Datteln, FRG, regarding potential counter-intelligence concerns. Creed reported that John the Dee Jay contacted him, inquiring about military police presence, their vehicles' markings, and radio capabilities, also referencing a 'Julius' with military photographs and requesting war stories while explicitly excluding NORAD or SANRAS. John also expressed suspicious behavior regarding a borrowed Air Force parka and abruptly ended their meeting to engage with the military police convoy.",
+  "tags": [
+    "Counter-Intelligence",
+    "Agent Report",
+    "Military Police",
+    "Security",
+    "Datteln",
+    "Germany",
+    "Possible Threat"
+  ],
+  "title": "Agent Report",
+  "date": "1972-02-06",
+  "locations_mentioned": [
+    "Datteln, Federal Republic of Germany",
+    "Westkirchen, FRG",
+    "Lord Nelson Bar, Datteln",
+    "Althoff Photo Shop, Datteln"
+  ],
+  "origin_agency": "CSF/INSCOM",
+  "persons_mentioned": [
+    "Robert M. Creed",
+    "John the Dee Jay",
+    "Hans D. Kaminski",
+    "Julius"
+  ],
+  "sender": "Heinz E. Ickert, 66th MI Group"
+}

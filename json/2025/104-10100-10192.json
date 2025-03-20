@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This message discusses the planning of sabotage operations against Cuban shipping. Revealing such information could compromise covert actions and damage international relations. Specifically, the message states: \"DISH EFFECT CORATORIUM SABOTAGE OPS UNTIL THIS FACTOR DISAPPEARS AND USE INTERVAL TO MAKE CERTAIN CHANGES IN APPROACH.\"",
+  "security_level": "SECRET/RYBAT",
+  "summary": "A classified message instructing a temporary halt to sabotage operations against Cuban shipping due to Hurricane Flora's impact on Cuba, which would concentrate food and medicine in maritime cargoes. The message advises using this pause to reassess the approach to these operations.",
+  "summary_one_paragraph": "Dated October 1, 1963, this classified message from the Director to various European stations (including DUTCH, HAMBURG, FRANKFURT, HAGUE, MADRID, and PARIS) announces a temporary cessation of sabotage operations against Cuban shipping because Hurricane Flora's devastation will likely increase the volume of food and medicine being shipped to Cuba, thereby altering the psychological impact of any sabotage. The message instructs recipients to use this moratorium to make necessary adjustments in their approach and indicates that further guidance will be provided soon. References plans for sabotaging Rio Cronso.",
+  "tags": [
+    "CIA",
+    "Sabotage",
+    "Cuba",
+    "Hurricane Flora",
+    "Maritime Cargo",
+    "Covert Operations",
+    "Rio Cronso"
+  ],
+  "title": "HURRICANE FLORA DAMAGE TO CUBA AND SABOTAGE OPS",
+  "date": "1963-10-01",
+  "locations_mentioned": [
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "W. Sullivan",
+    "Desmond Fitzgerald",
+    "Tully Jones",
+    "Jack Dolency",
+    "Waugh",
+    "Roger Risend",
+    "Thomas Thirl",
+    "Kurard A. Marelius"
+  ],
+  "recipient": "DUTCH, HAMBURG, FRANKFURT, HAGUE, MADRID, PARIS",
+  "sender": "DIRECTOR"
+}

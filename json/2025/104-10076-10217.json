@@ -1,0 +1,26 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Revealing operational details about sending items via diplomatic channels (Japanese embassy) and specifying equipment requests ('Magnum pistols but no bullets,' 'radios,' 'filters for pistols') could compromise ongoing clandestine operations and expose methods of communication and supply. Quoting directly: 'START SENDING THINGS VIA ENRIQUE (VICENTE SOCORRAS) AND THE (JAPANESE) EMBASSY...WE EXPECT YOU TO ADVISE WHEN YOU START POUCHING THINGS...TODAY RECD THE MAGNUM PISTOLS BUT NO BULLETS. ALSO RECD THE RADIOS. SEND THE FILTERS FOR PISTOLS SOON.'",
+  "security_level": "SECRET",
+  "summary": "JMWAVE dispatches instructions to the Director regarding ongoing operations, detailing the shipment of items via Enrique (Vicente Socorras) and the Japanese embassy, acknowledging receipt of magnum pistols (without bullets) and radios, and requesting additional supplies.",
+  "summary_one_paragraph": "A SECRET cable from JMWAVE to the Director instructs to start sending items through Enrique (Vicente Socorras) and the Japanese embassy, acknowledging receipt of Magnum pistols without bullets and radios, and awaiting advice on when pouching begins. The message requests immediate information on the radio's transmission range and urges the prompt dispatch of pistol filters, referencing ANTURVY-1.",
+  "tags": [
+    "JMWAVE",
+    "ANTURVY",
+    "SAGTEL",
+    "Enrique Vicente Socorras",
+    "Japanese Embassy",
+    "Magnum Pistols",
+    "Radios",
+    "Pouching",
+    "Cuba",
+    "CIA",
+    "FOIA"
+  ],
+  "title": "Dispatch Regarding Shipment of Supplies",
+  "date": "1963-12-09",
+  "origin_agency": "JMWAVE",
+  "recipient": "Director",
+  "sender": "JMWAVE"
+}

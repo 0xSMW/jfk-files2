@@ -1,0 +1,19 @@
+{
+  "classification": "Administrative",
+  "document_type": "List",
+  "security": "The document is a list of locations and divisions, and its disclosure would not directly reveal sensitive operational details or endanger individuals. Therefore, it is unlikely to cause significant harm to ongoing operations or damage the CIA's reputation.",
+  "security_level": "SECRET",
+  "summary": "This document is a list of locations associated with APROVIZION (a provisioning or supply network) across various geographic divisions, including Europe, the Americas, and the Far East. It lists cities and associated division codes, likely indicating operational areas or stations.",
+  "summary_one_paragraph": "This SECRET document, titled APROVIZION, consists of lists of cities and locations organized by geographical divisions such as ER (Europe), AMERICTVICE (Americas), and FE (Far East). Each location is paired with division codes, potentially indicating logistical or operational networks of the CIA. Locations range from major European capitals like London and Paris to cities in South America, Asia, and Africa, and include additional specifications such as 'Liaison Base,' 'Ops. Base,' and references to FEPLANT, indicating the scope of APROVIZION.",
+  "tags": [
+    "APROVIZION",
+    "Logistics",
+    "Geographic Divisions",
+    "CIA Stations",
+    "Europe",
+    "Americas",
+    "Far East",
+    "FOIA"
+  ],
+  "title": "APROVIZION"
+}

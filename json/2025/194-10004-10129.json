@@ -1,0 +1,23 @@
+{
+  "classification": "Personnel",
+  "document_type": "Identification Form",
+  "security": "This document contains personally identifiable information (PII) such as name, date of birth, place of birth, and social security number, which should be protected from unauthorized disclosure to comply with privacy regulations.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a JFK Assassination System Identification Form containing a National Agency Check History Card for David Reed Fromer, with details such as his date and place of birth, social security number, and military service number, as well as references to other agencies that may hold records on him.",
+  "summary_one_paragraph": "This unclassified JFK Assassination System Identification Form, dated March 28, 1967, provides information on David Reed Fromer, including his name, date of birth (07/21/42), place of birth, social security number (564-58-8137), and military service number. The form includes a National Agency Check History Card indicating that records may be held by various agencies, such as the Air Reserve Records Center, Secret Service, Internal Revenue Service, Bureau of Customs, Bureau of Narcotics, U.S. Information Agency, and the Agency for International Development, among others. The document was released with deletions under the John F. Kennedy Assassination Records Collection Act of 1992.",
+  "tags": [
+    "JFK Assassination",
+    "Identification Form",
+    "National Agency Check",
+    "David Reed Fromer",
+    "INSCOM/CSF",
+    "DOD Personnel Investigations",
+    "PII"
+  ],
+  "title": "[ RESTRICTED ]",
+  "date": "1967-03-28",
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "David Reed Fromer"
+  ]
+}

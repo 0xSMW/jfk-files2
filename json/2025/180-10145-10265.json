@@ -1,0 +1,48 @@
+{
+  "classification": "Personnel",
+  "document_type": "Contact Report",
+  "security": "This report details a CIA investigation into allegations that Lee Harvey Oswald was a CIA agent, based on claims made by former CIA employee James Wilcott. The report contains names, dates of birth, Social Security numbers, addresses, and phone numbers of current and former CIA employees. Releasing this information could compromise the privacy and safety of these individuals.  The report also mentions the interviewees expressing a belief that Oswald may have been recruited by the KGB: \"Subjects 2,7,8,9 and 11 all exppressed belief that LHO may have been recruited by the KGB during his tour of duty in Japan.\"",
+  "security_level": "SECRET",
+  "summary": "A contact report detailing interviews with CIA personnel in response to allegations that Lee Harvey Oswald was a CIA agent while stationed in Tokyo, Japan, based on claims made by James Wilcott.",
+  "summary_one_paragraph": "This contact report summarizes interviews conducted by HSCA Staff Investigator Nasodh Heap with eleven current and former CIA employees to investigate claims made by James Wilcott that Lee Harvey Oswald was a CIA agent. The interviews were focused on CIA personnel who held positions at the Tokyo station between 1959 and 1964, a period during which Wilcott claimed a CIA case officer told him about Oswald's alleged agency relationship. The interviewed individuals denied having any knowledge or evidence that Oswald was a CIA agent, though some speculated he might have been recruited by the KGB during his military service in Japan.",
+  "tags": [
+    "CIA",
+    "Lee Harvey Oswald",
+    "James Wilcott",
+    "HSCA",
+    "Tokyo Station",
+    "KGB Recruitment",
+    "Contact Report"
+  ],
+  "title": "Contact Report Regarding James Wilcott Allegations of Lee Harvey Oswald as CIA Agent",
+  "date": "1978-04-07",
+  "locations_mentioned": [
+    "Tokyo, Japan",
+    "Bethesda, Maryland",
+    "McLean, VA",
+    "Miami, Florida",
+    "Scituate, Mass",
+    "San Diego, CA",
+    "Sanford, da",
+    "North Myrtle Beach, South Carolina"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "James Wilcott",
+    "Lee Harvey Oswald",
+    "Nasodh Heap",
+    "F.F. Webster",
+    "Keo Korenbaum",
+    "Irene Mason",
+    "Frederick C. Randall",
+    "James S. Wood",
+    "George von Bretzel",
+    "Howard M. Ore",
+    "George A. Full",
+    "Robert N. Kehl",
+    "Jerome E. Fox",
+    "William V. Broe",
+    "William Cranford"
+  ],
+  "recipient": "House Select Committee on Assassinations (HSCA)"
+}

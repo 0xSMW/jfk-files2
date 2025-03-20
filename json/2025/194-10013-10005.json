@@ -1,0 +1,41 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Disclosing details of individuals providing information to the U.S. Army could compromise their safety and reveal intelligence-gathering methods. The report contains personal information about Cecil L. Griggs and Philip LaChapelle Jr., as well as details of their correspondence.  Revealing the names of military personnel who had contact with Griggs, such as Chaplain Camp, Hal Nelson, and John Klink, could expose them to unwanted scrutiny.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "An agent report details an interview with Cecil L. Griggs, the adopted father of Kenneth C. Griggs, a defector, concerning letters received from Philip LaChapelle Jr., a former Security and Intelligence clerk who provided information about Kenneth's experiences prior to his defection, including alleged mistreatment and emotional issues.",
+  "summary_one_paragraph": "This agent report, dated January 24, 1968, summarizes an interview with Cecil L. Griggs, the adopted father of Kenneth C. Griggs, regarding correspondence with Philip LaChapelle Jr., who claimed to be a friend of Kenneth before his defection from the U.S. Army; LaChapelle shared insights into Kenneth's experiences, including alleged mistreatment and a history of emotional disturbance, suggesting the Army may have suppressed information. Cecil Griggs provided copies of his letters to and from LaChapelle, expressing his concern about Kenneth's defection and seeking more information while also sharing his own observations about Kenneth's troubled past.",
+  "tags": [
+    "Defector",
+    "Interview",
+    "Agent Report",
+    "Kenneth C. Griggs",
+    "Philip LaChapelle Jr.",
+    "Cecil L. Griggs",
+    "Vietnam",
+    "INSCOM",
+    "Army"
+  ],
+  "title": "Agent Report",
+  "date": "1968-01-24",
+  "locations_mentioned": [
+    "Boise, Idaho",
+    "Chicago, Illinois",
+    "Vietnam",
+    "Germany",
+    "Korea",
+    "Japan",
+    "Cuba"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Kenneth C. Griggs",
+    "Cecil L. Griggs",
+    "Philip LaChapelle Jr.",
+    "Vladimir Slovoda",
+    "Chaplain Camp",
+    "Hal Nelson",
+    "John Klink"
+  ],
+  "sender": "[ RESTRICTED ]"
+}

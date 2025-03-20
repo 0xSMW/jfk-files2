@@ -1,0 +1,37 @@
+{
+  "classification": "Liaison",
+  "document_type": "Classified Message",
+  "security": "Revealing details of DGI (Directorate General of Intelligence) operations, information on specific Honduran individuals of interest to the US, and the candid assessment by Col. Oswaldo Lopez regarding security and competence within his government could compromise intelligence operations and diplomatic relations. Quoting directly: \"LOPEZ EXHIBITED KEEN INTEREST, REVIEWED ALL NAMES...SAID GOVT HAS ABOUT 25 COMMIES UNDER ARREST AND HAS HAD TO RELEASE OTHERS FOR LACK OF EV IDENCE...HE MUST KEEP MATERIAL FURNISHED IN PERSONAL POSSESSION OR OWN HOME BECAUSE OFFICE IS NOT SECURE...NOBODY IN GOVT IS TRAINED TO COPE WITH DGI OPS...\"",
+  "security_level": "SECRET",
+  "summary": "A classified message details a briefing between LANGOSCH and Col. Oswaldo Lopez of Honduras, regarding DGI operations and individuals of interest, with Lopez expressing concerns about security and competence within his government.",
+  "summary_one_paragraph": "This SECRET message outlines a meeting between PESVING CHIEF, LANGOSCH, and Honduran Chief of State Col. Oswaldo Lopez. Langosch briefed Lopez on DGI operations, including information on individuals such as Mario Sosa Molina and others, and their travel lists. Lopez showed interest, promising cooperation, but voiced concerns about security and competence within the Honduran government, citing the need to keep sensitive material at home and noting the lack of trained personnel to handle DGI operations, suggesting Felix Oyuela as a possible candidate for training.",
+  "tags": [
+    "CIA",
+    "DGI",
+    "Honduras",
+    "Oswaldo Lopez",
+    "Langosch",
+    "Intelligence",
+    "Subversion",
+    "Espionage"
+  ],
+  "title": "DYBOUR PERUMEN ANIUG",
+  "date": "1964-09-08",
+  "locations_mentioned": [
+    "Honduras"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Oswaldo Lopez",
+    "Mario Sosa Molina",
+    "Maglio Moreno Espital",
+    "Luis Banecas",
+    "Antonio Fernandez Iza (FIRLE)",
+    "Miguel Mancia Madrid",
+    "Felix Oyuela",
+    "LANGOSCH",
+    "PESVING CHIEF"
+  ],
+  "recipient": "Director",
+  "sender": "[redacted]"
+}

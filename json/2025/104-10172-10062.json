@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This message details an operation to infiltrate cargo and personnel into a specified location, potentially compromising ongoing or future covert activities. The specific details of the operation, including personnel names and aliases, could be exploited if exposed, leading to the failure of the mission and endangering the individuals involved. Specifically, the message says, \"VILL INFIL CARGO PER REF AND 4 PAX AS FOLLOWS: TRAINEES 2521 EMILIO MARTINEZ ALIAS ERNESTO GUERRA VIDAL...\"",
+  "security_level": "SECRET",
+  "summary": "A classified message details the infiltration of cargo and four personnel into an unspecified location via the TEJANA departing from Key West on February 25, 1961, as part of Operation JEAN.",
+  "summary_one_paragraph": "This SECRET classified message, dated February 24, 1961, outlines the operational details for the infiltration of cargo and four trainees into a location as part of Operation JEAN. The message specifies that the TEJANA is due to depart Key West on February 25th at 1600Z, carrying the cargo and four personnel with their real names and aliases, who are Emilio Martinez (alias Ernesto Guerra Vidal), Oliverio Toneu (alias Antonio Del Monte Caballero), Rafael Alvarez Fernandez-Garrido (alias Maximo Alonso Bermudez), and Carlos Poveda (alias Calixto Bergnes Braudet).",
+  "tags": [
+    "CIA",
+    "Operation JEAN",
+    "Infiltration",
+    "Cuba",
+    "Covert Operation",
+    "TEJANA",
+    "Key West"
+  ],
+  "title": "Operational Immediate Message Regarding OPN JEAN",
+  "date": "1961-02-24",
+  "locations_mentioned": [
+    "Key West"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Emilio Martinez (alias Ernesto Guerra Vidal)",
+    "Oliverio Toneu (alias Antonio Del Monte Caballero)",
+    "Rafael Alvarez Fernandez-Garrido (alias Maximo Alonso Bermudez)",
+    "Carlos Poveda (alias Calixto Bergnes Braudet)"
+  ],
+  "recipient": "EELL",
+  "sender": "JMJAVE"
+}

@@ -1,0 +1,28 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memo",
+  "security": "Releasing details on the specific declassification processes used by the CIA when responding to external mandates could allow adversaries to predict and potentially circumvent these processes in future disclosure requests. Knowing that “defenses based on general principles such as official cover or sources and methods were not acceptable” could enable others to more effectively target classified information for release. Similarly, the memo mentions using annuitants with expertise to assess the sensitivity of material. Revealing this practice could make these individuals targets for adversaries seeking to access or compromise classified information.",
+  "security_level": "SECRET",
+  "summary": "This memo discusses the CIA's experience with the JFK Records Review, highlighting lessons learned, challenges faced due to unrealistic deadlines and inflexible standards, and the impact on Agency resources and release programs.",
+  "summary_one_paragraph": "This memo outlines the CIA's experiences and lessons learned from the JFK Records Review, mandated by the JFK Act, which forced the Agency to review and declassify records. It points out that unrealistic deadlines and inflexible standards imposed by the Act and the Review Board created a major drain on Agency review resources, leading to flawed databases, duplicated efforts, and the need to dedicate significant resources to justify postponements. The memo emphasizes the importance of experienced reviewers, establishing clear release policies, coordinating with oversight bodies, and maintaining senior management support to efficiently manage historical review projects.",
+  "tags": [
+    "JFK Records Review",
+    "Declassification",
+    "CIA",
+    "Historical Review Program",
+    "Assassination Records Review Board",
+    "FOIA",
+    "Information Management",
+    "Lessons Learned"
+  ],
+  "title": "JFK Records Review - Lessons Learned",
+  "date": "1998-11-24",
+  "persons_mentioned": [
+    "DCI Gates",
+    "DCI Woolsey",
+    "Charles A. Briggs",
+    "Russ Holmes"
+  ],
+  "recipient": "Chief, Information Review Group, OIM",
+  "sender": "Charles A. Briggs, JFK Declassification Project, OIM"
+}

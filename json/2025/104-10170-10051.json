@@ -1,0 +1,51 @@
+{
+  "classification": "JFK",
+  "document_type": "DISPATCH",
+  "security": "Disclosing details about the AMSPELL program, AMHINT operations, and AMBARB activities could compromise ongoing covert actions and intelligence-gathering efforts. Specifically, the reference to 'increased control' of AMSPELL and establishing 'an acceptable degree of KUBARK control' suggests operational sensitivities and clandestine relationships that could be jeopardized if revealed. Additionally, exposing salary breakdowns and funding allocations for various personnel could damage relationships and expose vulnerabilities within the network. Quoting directly: 'All planning phases of AMSPELL activities supported by JMWAVE...are subject to the results of meetings with AMSPELL concerning increased control, and, the decisions of JMWAVE to continue a support relationship if an acceptable degree of KUBARK control can be established.'",
+  "security_level": "SECRET",
+  "summary": "This document is a progress report from the Chief of Station, JMWAVE, to the Chief, Task Force W, regarding the AMSPELL program for September 1962, detailing activities, intelligence production, personnel, and financial support, as well as AMHINT and AMDARB operations.",
+  "summary_one_paragraph": "The dispatch, dated October 9, 1962, reports on the AMSPELL program's activities during September 1962, including the exfiltration of AMHINT-53, propaganda efforts such as 'The Cuban Report,' and attempts to secure surfacecraft with Venezuelan support. It details intelligence production, financial support totaling $50,960.40, and challenges in establishing KUBARK control over AMSPELL. Additionally, it covers AMHINT activities like producing the 'Trinchera' newspaper and intercepting diplomatic pouches, and discusses AMBARB personnel assignments and funding disagreements, with attachments providing further details on various aspects of the program.",
+  "tags": [
+    "AMSPELL",
+    "AMHINT",
+    "AMDARB",
+    "JMWAVE",
+    "KUBARK",
+    "Psywar",
+    "Propaganda",
+    "Intelligence",
+    "Covert Operations",
+    "UFGA-6140"
+  ],
+  "title": "AMSPELL Progress Report for September 1962",
+  "date": "1962-10-09",
+  "locations_mentioned": [
+    "PBRUMEN",
+    "Havana",
+    "Caracas",
+    "Miami",
+    "Latin America",
+    "Costa Rica",
+    "Panama",
+    "Bolivia",
+    "Brazil",
+    "Chile",
+    "Colombia",
+    "Ecuador",
+    "Honduras",
+    "Mexico",
+    "Peru",
+    "Uruguay",
+    "Venezuela"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Jose Angel LOZANO y Lozano",
+    "President BETANCOURT",
+    "Jore MEDINA Bringier",
+    "Nicolas PEREZ Diez-Arguelles",
+    "Eduardo Muñiz"
+  ],
+  "recipient": "Chief, Task Force W",
+  "sender": "Chief of Station, JMWAVE"
+}

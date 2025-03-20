@@ -1,0 +1,32 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security": "This memo discusses CIA's concerns about releasing the true names of CIA employees in the JFK Collection. It mentions operational considerations such as maintaining cover for current and former employees, protecting cover providers, and the potential chilling effect on prospective assets. The memo also references the Intelligence Identities Protection Act of 1982, which criminalizes the revelation of a covert employee or the identity of a source.",
+  "security_level": "SECRET",
+  "summary": "A CIA memorandum to the Assassination Records Review Board expressing concerns about releasing the true names of CIA employees in the JFK Collection and proposing a policy of protecting employee names unless they are important to the JFK story.",
+  "summary_one_paragraph": "This secret memorandum, dated April 15, 1997, from the CIA's Acting General Counsel to David G. Marwell of the Assassination Records Review Board, addresses CIA's apprehension regarding the public release of approximately 600 CIA employee names found within the JFK Collection. Arguing that the existing guidelines for name release are unworkable due to the large number of names and their tenuous connection to the JFK story, the memo proposes a policy of protecting employee names, offering exceptions only for individuals deemed crucial to the assassination narrative. The memorandum cites legal and operational reasons for this proposed protection, including the need to safeguard ongoing intelligence operations, protect covert employees and cover providers, and comply with laws protecting intelligence sources and methods; it also conveys concerns raised by former employees, like Tom Flores, about the potential risks of revealing their past affiliations.",
+  "tags": [
+    "CIA",
+    "JFK Assassination",
+    "Assassination Records Review Board",
+    "CIA Employees",
+    "Name Protection",
+    "Covert Operations",
+    "National Security",
+    "FOIA"
+  ],
+  "title": "CIA Employees",
+  "date": "1997-04-15",
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "David G. Marwell",
+    "Tom Flores",
+    "Winston Scott",
+    "Arthur H. Stimson",
+    "Alexander Brasko",
+    "Walter McCabe",
+    "Robert Fulton"
+  ],
+  "recipient": "David G. Marwell, Executive Director, Assassination Records Review Board",
+  "sender": "Michael J. O'Neil, Acting General Counsel"
+}

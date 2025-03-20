@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing the CIA's interest in recruiting Herrero Diaz and using him for \"local public opinion research, monitoring and support local JMRAKE activities\" could expose operational methods and compromise ongoing JMRAKE activities.",
+  "security_level": "SECRET",
+  "summary": "A classified message from the Panama City station requesting a Personality and Organization Appraisal (POA) for Vicente Herrero Diaz, a Cuban national, for potential use in local public opinion research and support of JMRAKE activities.",
+  "summary_one_paragraph": "On December 16, 1961, the CIA station in Panama City sent a classified message requesting a POA for Vicente Herrero Diaz, a Cuban national born in La Habana in 1915, who has worked in radio, television, and publicity. The request notes Diaz's prior association with Conte Aguero and membership in the Frente Anticomunista in Cuba. Currently in Panama, Diaz is involved with a local Consejo Revolucionario chapter and produces a radio program. The Panama City station intends to use Diaz for local public opinion research, monitoring, and to support local JMRAKE activities.",
+  "tags": [
+    "CIA",
+    "POA",
+    "JMZIP",
+    "KUCAGE",
+    "Vicente Herrero Diaz",
+    "Cuba",
+    "Panama",
+    "Public Opinion Research",
+    "JMRAKE"
+  ],
+  "title": "Request for POA on Vicente Herrero Diaz",
+  "date": "1961-12-16",
+  "locations_mentioned": [
+    "Panama City",
+    "Cuba",
+    "La Habana"
+  ],
+  "origin_agency": "CIA Panama City Station",
+  "persons_mentioned": [
+    "Vicente Herrero Diaz",
+    "Crescencio Herrero Hernandez",
+    "Eugenia Diaz Diaz",
+    "Conte Aguero"
+  ],
+  "recipient": "Director",
+  "sender": "Panama City"
+}

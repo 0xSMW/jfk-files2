@@ -1,0 +1,38 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Memorandum",
+  "security": "Releasing specific details about CIA Mexico City Station's personnel numbers, operational projects, and relationships with other US agencies, such as the FBI and State Department, could expose intelligence-gathering methods, compromise ongoing operations, and harm relationships with liaisons. It states: *'The Cuban task force and related activities caused an increase in the Mexico City Station to 76 Americans...Indigenous agents numbered over 200.'* Also, mentioning specific projects such as *'LI-ROMANCE and LISAMPAN'* reveals sensitive audio surveillance activities.",
+  "security_level": "SECRET",
+  "summary": "This memo forwards an ARRB request for additional information and records related to the Mexico City Station, citing specific footnotes and requesting copies of source documents pertaining to personnel, operations, and investigations linked to Lee Harvey Oswald.",
+  "summary_one_paragraph": "A memorandum from J. Barry Harrelson to Fred Wickham, dated February 6, 1997, details an ARRB request for additional information and records concerning the CIA's Mexico City Station, particularly those possibly related to the JFK assassination. The memo cites specific footnotes from ARRB Staff member Jeremy Gunn's review of the station's history and seeks source documents on topics such as the station's personnel numbers, operational projects like LI-ROMANCE and LISAMPAN involving audio installations in Cuban facilities, and the investigation into Lee Harvey Oswald's alleged visits to the Soviet and Cuban embassies in Mexico City prior to the assassination.",
+  "tags": [
+    "CIA",
+    "ARRB",
+    "Mexico City Station",
+    "JFK Assassination",
+    "Lee Harvey Oswald",
+    "LIENVOY",
+    "LILINK",
+    "ISTHMUS",
+    "HMMA-17494",
+    "I&R Report",
+    "Surveillance",
+    "Mexico"
+  ],
+  "title": "ARRB Request for Additional Information and Records No. CIA-7",
+  "date": "1997-02-06",
+  "locations_mentioned": [
+    "Mexico City",
+    "Dallas, Texas"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Fred Wickham",
+    "J. Barry Harrelson",
+    "Jeremy Gunn",
+    "Lee Harvey Oswald",
+    "Diaz"
+  ],
+  "recipient": "Fred Wickham",
+  "sender": "J. Barry Harrelson"
+}

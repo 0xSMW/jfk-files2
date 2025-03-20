@@ -1,0 +1,41 @@
+{
+  "classification": "Operations",
+  "document_type": "Classified Message",
+  "security": "The message discusses ongoing operations, including recruitment and exploitation of assets, in sensitive locations. It mentions the high risk of discovery and potential damage to U.S. relations if operations are exposed. Quoting: \"IS TARGET AND, AS Mos ARE, HAVE COOPERATED IN PREVIOUS ATTEMPTS TO CONTACT HIE AND OTHERS...CISCOVERY COOLO DAMAGE AND ALL TOMOS RELATIONS.\"",
+  "security_level": "SECRET",
+  "summary": "A classified message details a meeting with a source ('MOS') in El Salvador, discussing recruitment, information gathering, and potential risks to ongoing operations. The message highlights concerns about discovery and damage to U.S. relations, proposing a change in communication strategy with the President to mitigate these risks.",
+  "summary_one_paragraph": "This SECRET classified message, dated September 27, discusses a meeting at the ADAT Hotel Safesite in El Salvador lasting several hours, involving a source ('MOS') providing considerable information about party activities and relationships with other communist parties. The source, identified as a target, has been cooperating in attempts to contact other individuals and exploit leads but expresses concerns about entrapment. The message highlights the risk of discovery and potential damage to U.S. relations, proposing to inform the President about ongoing recruitment unilaterally and to accept future reports discreetly to manage the risk. Intel from the source includes travel arrangements to Moscow, details on PCES Central Committee members, party pseudos, training information, and assessments of party organization and activities.",
+  "tags": [
+    "CIA",
+    "El Salvador",
+    "Recruitment",
+    "Operations",
+    "Communist Parties",
+    "PCES",
+    "Guerrilla Warfare",
+    "ADAT Hotel",
+    "Source",
+    "Security Risk"
+  ],
+  "title": "Meeting and Activities in El Salvador",
+  "date": "1964-09-27",
+  "locations_mentioned": [
+    "El Salvador",
+    "Moscow",
+    "Mexico"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Renan Rodas Lazo",
+    "Pedro Raul Farsan Medrano",
+    "Roberto Armijo Navarrete",
+    "Shafick Handal",
+    "Jorge Arias Gomez",
+    "Raul Castellanos Figueroa",
+    "Jose Manlio Argueta",
+    "Dalton",
+    "Fidel Castro"
+  ],
+  "recipient": "Director",
+  "sender": "ESCIATE"
+}

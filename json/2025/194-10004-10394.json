@@ -1,0 +1,26 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "This report contains personal information about Manuel Marti and Richard H. Franken, including their addresses, employment details, and character references. Releasing these details could compromise their privacy and security.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report details an interview with Richard H. Franken concerning Manuel Marti, providing a character reference and background information on Marti, who was being considered for a position of trust with the U.S. government.",
+  "summary_one_paragraph": "This agent report, dated November 20, 1968, summarizes an interview conducted by Alphonso E. Marshall of the 108th MI Group (I-SIB) with Richard H. Franken, a Control Supervisor at Mutual Insurance Advisory Association (MIAA), regarding Manuel Marti, a former utility clerk and tabulating machine operator at MIAA. Franken provides a character reference for Marti, describing him as an excellent, highly competent, and dedicated employee of high moral character, noting Marti's intelligence, ambition, hobby of stamp collecting, and lack of any expressed criticism of the U.S. government; Franken recommends Marti for a position of trust and responsibility with the United States Government.",
+  "tags": [
+    "Manuel Marti",
+    "Richard H. Franken",
+    "Character Reference",
+    "Mutual Insurance Advisory Association",
+    "Background Check",
+    "Personnel Investigation"
+  ],
+  "title": "[ RESTRICTED ]",
+  "date": "1968-11-20",
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Richard H. Franken",
+    "Alphonso E. Marshall"
+  ],
+  "recipient": "[ RESTRICTED ]",
+  "sender": "USA"
+}

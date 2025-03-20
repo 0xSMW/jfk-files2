@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Information Report",
+  "security": "Revealing that Julian NOVAS Fernandez is suspected to be the new Cuban Intelligence Service chief in Jamaica could compromise his activities and endanger sources. The document states \"the salary and allowances of the new Cuban Commercial Attache, Julian NOVAS Fernandez, suggests that he is the new Cuban Intelligence Service chief in Jamaica, succeeding Gerardo SANCHEZ Robert.\"",
+  "security_level": "SECRET",
+  "summary": "This report identifies Julian NOVAS Fernandez as a Cuban Intelligence Officer and provides details about his assignment as a Commercial Attache in Kingston, Jamaica, where he is suspected to be the new Cuban Intelligence Service chief.",
+  "summary_one_paragraph": "An intelligence report dated August 27, 1964, identifies Julian NOVAS Fernandez as a Cuban Intelligence Officer serving as a Commercial Attache at the Cuban Consulate in Kingston, Jamaica, since March 1964. The report includes information from an official Jamaican source about NOVAS's arrival, physical appearance, and personal life, including his wife's arrival and pregnancy. It suggests NOVAS may be the new Cuban Intelligence Service chief in Jamaica, succeeding Gerardo SANCHEZ Robert, based on his salary and allowances.",
+  "tags": [
+    "Cuban Intelligence",
+    "Jamaica",
+    "Commercial Attache",
+    "Counterintelligence",
+    "Julian NOVAS Fernandez",
+    "Gerardo SANCHEZ Robert"
+  ],
+  "title": "Julian NOVAS Fernandez",
+  "date": "1964-08-27",
+  "locations_mentioned": [
+    "Cuba",
+    "Washington, D.C.",
+    "Mexico City",
+    "Kingston, Jamaica",
+    "Habana, Cuba",
+    "Jiquani, Oriente, Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Julian NOVAS Fernandez",
+    "Amarilis Marta VALDES Hijuelos",
+    "Gerardo SANCHEZ Robert"
+  ],
+  "recipient": "DIA, ARMY, NAVY, AIR, NSA, OCR, FBI, REP, CINCLANT, CINCSO, I&NS"
+}

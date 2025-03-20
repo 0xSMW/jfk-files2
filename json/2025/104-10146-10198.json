@@ -1,0 +1,29 @@
+{
+  "classification": "Personnel",
+  "document_type": "List",
+  "security": "This document contains personal information about individuals, including dates of birth, physical descriptions, and employment history with the CIA. Releasing this information could violate their privacy and potentially expose them to risks. Sharing could be a breach of privacy.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A list of individuals named Bishop, including their dates of birth, physical descriptions, CIA employment history, and current status (active or retired). The document is marked for background use only and not for reproduction.",
+  "summary_one_paragraph": "This document lists nine individuals with the last name Bishop, detailing their full names, dates of birth, physical attributes such as height, weight, hair, and eye color, as well as their CIA employment history. The records include information on their roles, duty stations, dates of employment, and, where applicable, retirement or resignation dates. The list specifies that it is for background use only and not for reproduction, suggesting it is meant for internal agency reference.",
+  "tags": [
+    "CIA",
+    "Personnel Records",
+    "Background Information",
+    "Employment History",
+    "Physical Description"
+  ],
+  "title": "Bishop Personnel Records",
+  "persons_mentioned": [
+    "Whit Moore Bishop",
+    "James Clarence Bishop",
+    "Fred Margeson Bishop",
+    "Frank Patrick Bishop",
+    "Eugene Edward Bishop, Jr.",
+    "Edwin Warren Bishop",
+    "Boyd Warrington Bishop",
+    "John Carl Bishop",
+    "Henry Charles Bishop"
+  ],
+  "recipient": "CIA",
+  "sender": "CIA"
+}

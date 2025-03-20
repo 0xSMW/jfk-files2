@@ -1,0 +1,44 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Classified Message",
+  "security": "Revealing operational details such as tracking the movements of individuals connected to the Organization of Arab Students and the Communist Party USA could compromise intelligence sources and methods. Quoting from the message: 'REQUEST ANY INFO RE TRAVEL ABOVE INDIVIDUALS, THEIR CONTACTS AND ACTIVITIES WHICH MAY COME STATIONS ATTENTION.' and 'SUGGEST QUERY LIAISON RE TRAVELERS'. This could expose liaison relationships and intelligence-gathering capabilities.",
+  "security_level": "SECRET",
+  "summary": "A secret message reports on the Organization of Arab Students in the U.S. funding a Middle East tour for young Black Americans selected by a CPUSA official to promote the Arab position, requesting information on the travelers' activities and contacts.",
+  "summary_one_paragraph": "This classified message, dated September 4, 1970, relays information from a LNERGO source indicating that the Organization of Arab Students in the U.S. funded a trip for five young Black Americans to tour the Middle East, specifically Jordan and the UAR, in order to propagandize the Arab position among Black communities in the U.S. The group, selected by Ishmael Flory, a CPUSA official in Illinois, was scheduled to depart from Chicago on August 24, 1970, via Olympic Airlines Flight 420, stopping in Montreal before arriving in Athens. The message requests any available information on the travelers, their contacts, and activities from the recipient stations, suggesting that Athens query its liaison regarding the travelers without disclosing the background provided.",
+  "tags": [
+    "CIA",
+    "Organization of Arab Students",
+    "CPUSA",
+    "Middle East",
+    "Propaganda",
+    "Black Americans",
+    "Ishmael Flory",
+    "RYBAT MHCHAOS"
+  ],
+  "title": "LNERGO Source Report on Organization of Arab Students",
+  "date": "1970-09-04",
+  "locations_mentioned": [
+    "United States",
+    "Middle East",
+    "Jordan",
+    "UAR (United Arab Republic)",
+    "Chicago, Illinois",
+    "Montreal, Canada",
+    "Athens, Greece",
+    "Amman"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Ishmael Flory",
+    "Thomas Curtis",
+    "James Dillard",
+    "Christine Johnson",
+    "Mary Christine Claybourne Johnson",
+    "Joe Howard",
+    "Joe Walker",
+    "Joseph Danforth Walker",
+    "Henry Winston"
+  ],
+  "recipient": "ATHENS, AMMAN, CAIRO, BEIRUT",
+  "sender": "CI/SO"
+}

@@ -1,0 +1,33 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Information concerning active investigations and sources, as well as personal information, is redacted; The document is marked 'FOR OFFICIAL USE ONLY (AR 381-130; FM 30-17)'.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report details a local agency check regarding Post Office Box 2337, which is registered to Richard C. Nagell at 2292 Edythe Drive, Dundeon, Florida.",
+  "summary_one_paragraph": "On April 16, 1970, an agent report was submitted concerning a local agency check on Post Office Box 2337 at Grand Central Station, New York, revealing that the box is registered to Richard C. Nagell, residing at 2292 Edythe Drive, Dundeon, Florida; the report notes that while mail is addressed to Nagell, information about who picks up the mail or any forwarding instructions is unavailable, and references a previous agent report of the same date regarding Nagell's mailing address.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "DOD",
+    "Personnel",
+    "Incident Investigations",
+    "Richard C. Nagell",
+    "Victor L. Trinkala",
+    "Post Office Box"
+  ],
+  "title": "AGENT REPORT",
+  "date": "1970-04-16",
+  "locations_mentioned": [
+    "Rochester, Pennsylvania",
+    "New York, New York",
+    "Grand Central Station",
+    "Dundeon, Florida"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Richard C. Nagell",
+    "Victor L. Trinkala",
+    "Charles H. Smith",
+    "Capistrano Pabon-Trizarry"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security": "Disclosing that LOPEZ, Henry P. was an asset of Station Mexico City and traveled extensively throughout Central and Latin America for [TOWKILER] sponsored-operational activity could reveal sensitive operational details and compromise sources and methods.",
+  "security_level": "SECRET",
+  "summary": "This is a memorandum providing information about Henry P. Lopez, specifically confirming his activities as an asset for the Mexico City Station from 1961 to 1966, and his subsequent employment as a legal consultant for WUSALINE in New York City.",
+  "summary_one_paragraph": "This SECRET memorandum, dated June 27, 1968, responds to a previous CI/OA memorandum regarding Henry P. Lopez (201-253203). It confirms that field and headquarters traces, excluding operational material in Lopez's 201 files, are negative, and that a Green List trace request was submitted on June 26, 1968. From 1961 to August 1966, Lopez resided in Mexico City with his family, working as an asset for Station Mexico City and traveling extensively throughout Central and Latin America for [TOWKILER] sponsored operations. After relocating to New York City in October 1966 due to his wife's health, Lopez has been employed as a legal consultant for WUSALINE, a WOPLAY proprietary company.",
+  "tags": [
+    "CIA",
+    "Henry P. Lopez",
+    "Mexico City Station",
+    "WUSALINE",
+    "WOPLAY",
+    "Asset",
+    "TOWKILER",
+    "Green List"
+  ],
+  "title": "LOPEZ, Henry P. (201-253203)",
+  "date": "1968-06-27",
+  "locations_mentioned": [
+    "Mexico City",
+    "Central America",
+    "Latin America",
+    "New York City"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Henry P. Lopez",
+    "Richard F. Long"
+  ],
+  "recipient": "C/CI/OA",
+  "sender": "/IB/S"
+}

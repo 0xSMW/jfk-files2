@@ -1,0 +1,31 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security": "The memo discusses Angela Prince Moutsos and her activities in Cuba, including her relationship with Pedros Moutsos, a former CIA informant. Releasing this information could expose past intelligence operations and compromise individuals associated with the CIA. The document is marked as 'Secret' and contains CIA liaison material.",
+  "security_level": "Secret",
+  "summary": "The FBI requests the CIA to provide any information on Angela Prince Moutsos's continued residence and activities in Cuba, referencing prior communications on the subject.",
+  "summary_one_paragraph": "In a memo dated March 13, 1963, FBI Director John Edgar Hoover requests the CIA's assistance in gathering information about Angela Prince Moutsos, specifically regarding her continued residence and activities in Cuba. The memo references prior communications and indicates that Moutsos traveled to Cuba in December 1960 to join her husband, Pedros Moutsos, who had previously served as a CIA informant. The FBI's New York office had requested contact with the CIA for information on Moutsos's current residence and activities, prompting this formal inquiry from FBI headquarters.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Angela Prince Moutsos",
+    "Cuba",
+    "Liaison",
+    "Security Matter",
+    "Pedros Moutsos"
+  ],
+  "title": "ANGELA PRINCE MOUTSOS",
+  "date": "1963-03-13",
+  "locations_mentioned": [
+    "Cuba",
+    "New York"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Angela Prince Moutsos",
+    "John Edgar Hoover",
+    "Pedros Moutsos"
+  ],
+  "recipient": "CIA",
+  "sender": "FBI HQ"
+}

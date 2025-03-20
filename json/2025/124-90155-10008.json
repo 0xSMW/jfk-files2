@@ -1,0 +1,49 @@
+{
+  "classification": "Soviet",
+  "document_type": "Report",
+  "security": "This document contains intelligence information regarding Yuri Nosenko, a KGB defector, and his debriefing by the FBI and CIA. Releasing details of Nosenko's statements, such as his knowledge of American priests being studied by the KGB for potential blackmail or his insights into individuals like Cosmo Reiner and James McMillan, could compromise sources, methods, and ongoing investigations. Specifically, the document states, 'In view of the current status of NOSENKO he was not furnished with the facts in this case at this time,' indicating the sensitivity of information being withheld.",
+  "security_level": "Secret",
+  "summary": "This FBI report details the interview of KGB defector Yuri Ivanovich Nosenko on April 2, 1964, regarding various cases, including American tourists and priests in Moscow, potential KGB recruitments, and Soviet intelligence operations.",
+  "summary_one_paragraph": "On April 7, 1964, the FBI transmitted a report to the CIA, summarizing an interview with KGB defector Yuri Ivanovich Nosenko, conducted on April 2, 1964. During the interview, Nosenko provided information on cases involving individuals such as Van Krakov Yugov, Bernard Ferguson Mitchell, William Hamilton Martin, and a code clerk allegedly recruited by the KGB in Moscow. Nosenko also discussed the KGB's interest in American priests in Moscow, the case of KGB agent Andrey, Cosmo Reiner's connections, Sergeant James McMillan's assistance to the KGB, and Annabelle Bucar's recruitment and life in Moscow.",
+  "tags": [
+    "FBI",
+    "Yuri Nosenko",
+    "KGB",
+    "Defector",
+    "Soviet Intelligence",
+    "American Priests",
+    "Recruitment",
+    "Espionage"
+  ],
+  "title": "Yuri Ivanovich Nosenko 1964 Reportings",
+  "date": "1964-04-07",
+  "locations_mentioned": [
+    "Moscow",
+    "Russia",
+    "New York City",
+    "Mongolia"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Yuri Ivanovich Nosenko",
+    "Donald E. Walter",
+    "Alekso Popatanich",
+    "Maurice A. Taylor",
+    "Hugo Joseph Von Krakau",
+    "Lawrence Aloyan",
+    "Bernard Ferguson Mitchell",
+    "William Hamilton Martin",
+    "Charles Bryant",
+    "Gennadiy Gryaznov",
+    "Andrey",
+    "Reiner",
+    "Vladimir D. Chelnokov",
+    "James McMillan",
+    "Vadim V. Kosolapov",
+    "Vera",
+    "Annabelle Bucar",
+    "Konstantin Lapshein"
+  ],
+  "recipient": "HQ",
+  "sender": "WMFO"
+}

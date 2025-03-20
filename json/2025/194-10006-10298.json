@@ -1,0 +1,44 @@
+{
+  "classification": "Personnel",
+  "document_type": "Message",
+  "security": "Disclosing operational details, such as the locations of military personnel and the methods used to gather information, could compromise ongoing intelligence activities. The document states: 'Attempts are currently being made through German channels to obtain positive identification of John Dee Jay.' Revealing this could alert the individual in question and hinder the investigation.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A message regarding an incident of possible CI interest involving an unidentified person, \"John Dee Jay,\" attempting to elicit official information from members of the 66th USA Artillery Detachment in Soest, FRG. The message includes a description of the individual and reports on investigative actions being taken.",
+  "summary_one_paragraph": "On March 20, 1972, the CO of the 66th MI GP in Munich, FRG, forwarded a message concerning an incident reported by the 165th MI CO in Frankfurt, FRG, regarding an unidentified individual known as \"John Dee Jay\" who attempted to solicit official information from members of C Team, 66th USA Artillery Detachment in Soest, FRG. The incident occurred on January 31, 1972, and involved four members of the unit: Peter D. Merps, Phillip W. May, Stephen R. Wilson, and Robert M. Creed, all of whom were interviewed by SA's of the Dusseldorf Field Office. \"John Dee Jay\" is described as a disc jockey at the Lord Nelson Baram Kin, who speaks Russian, German, Spanish, and English, and has expressed pro-Soviet sentiments. Investigative actions are continuing through German channels to identify him.",
+  "tags": [
+    "CI Interest",
+    "Counterintelligence",
+    "66th MI GP",
+    "USAREUR",
+    "John Dee Jay",
+    "Dusseldorf Field Office",
+    "66th USA Artillery Detachment",
+    "Soest",
+    "FRG"
+  ],
+  "title": "MESSAGE",
+  "date": "1972-03-20",
+  "locations_mentioned": [
+    "Munich, FRG",
+    "Heidelberg, FRG",
+    "Frankfurt, FRG",
+    "Soest, FRG",
+    "Dusseldorf, FRG",
+    "FOSCON, USSR",
+    "German Democratic Republic"
+  ],
+  "origin_agency": "CSF/INSCOM",
+  "persons_mentioned": [
+    "Hans D. Kaminski",
+    "Lt. Haygood",
+    "Lt. Kulesza",
+    "Peter D. Merps",
+    "Phillip W. May",
+    "Stephen R. Wilson",
+    "Robert M. Creed",
+    "John Dee Jay",
+    "SSG Alexander"
+  ],
+  "recipient": "DCSI, USAREUR",
+  "sender": "CO, 66TH MI GP"
+}

@@ -1,0 +1,40 @@
+{
+  "classification": "Personnel, Operations",
+  "document_type": "Personal Record Questionnaire (PRQ)",
+  "security": "This document outlines operational details, recruitment methods, and security protocols related to a specific intelligence asset (CREBORY/1). Disclosing such information could compromise the asset's identity, ongoing operations, and the agency's methods. For example, revealing cover stories, motivations, and potential vulnerabilities could expose the agent and jeopardize future operations. Quoting relevant sections: 'Subj. explained to his wife that “Wilson” (Katzenbach), who telephoned his home was an American publisher's representative,' and 'Control exists quite strongly in the area of Subject's material welfare and need for rehabilitation.'",
+  "security_level": "SECRET",
+  "summary": "This document is a Personal Record Questionnaire (PRQ) Part II, detailing operational information about an intelligence asset (cryptonym CREBORY/1) recruited by the CIA. It covers aspects such as the asset's recruitment, motivation, cover, intelligence connections, operational use, and security considerations.",
+  "summary_one_paragraph": "This SECRET Personal Record Questionnaire (PRQ) Part II outlines operational details for the CIA asset known as CREBORY/1 (pseudonym Frederick, T. Dominic). The document details how George H. Katzenbach contacted and debriefed the subject in London, leading to a test assignment in Algiers. Joseph S. Tiffany was involved in the recruitment, and Rufus F. RODIGAST became the Paris-based Case Officer. The PRQ assesses the asset's motivation (primarily financial and rehabilitation-oriented), control mechanisms, cover stories, intelligence connections, and potential for collaboration with other foreign powers, specifically British intelligence. It also covers the asset's proposed operational use, financial arrangements, security checks, and personal habits. The document emphasizes the importance of maintaining the asset's security and cover.",
+  "tags": [
+    "CIA",
+    "Personal Record Questionnaire",
+    "PRQ",
+    "CREBORY/1",
+    "Intelligence Asset",
+    "Recruitment",
+    "Operational Information",
+    "Counterintelligence",
+    "Security"
+  ],
+  "title": "Personal Record Questionnaire, Part II: Operational Information",
+  "date": "1965-06-29",
+  "locations_mentioned": [
+    "London",
+    "Africa",
+    "Western Europe",
+    "Algiers",
+    "Paris"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "George H. Katzenbach",
+    "Joseph S. Tiffany",
+    "Rufus F. RODIGAST",
+    "Lee Harvey Oswald",
+    "Austin Goodrich",
+    "Ollie Harrington",
+    "Verges"
+  ],
+  "recipient": "Headquarters",
+  "sender": "Austin Goodrich (CI/ICG/Ops)"
+}

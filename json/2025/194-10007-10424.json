@@ -1,0 +1,34 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "The agent's notes indicate that the subject 'was reluctant to answer questions' and 'was evasive throughout the interview.' This assessment by a military intelligence agent could reflect negatively on the individual and potentially affect their reputation or future opportunities.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report details an interview conducted on February 19, 1970, with Victor Lee Trinkala concerning his character and loyalty to the United States, during which Trinkala was considered reluctant and evasive.",
+  "summary_one_paragraph": "On February 19, 1970, an agent from the 108th Military Intelligence Group interviewed Victor Lee Trinkala, an unemployed individual residing in Manhattan, New York, to assess his character, suitability, and loyalty to the United States. Trinkala, after being sworn in and acknowledging the purpose of the interview, consented to provide a Sworn Statement; however, the interviewing agent noted that Trinkala appeared reluctant and evasive throughout the process, a sentiment concurred by Special Agent James H. Raymond.",
+  "tags": [
+    "Military Intelligence",
+    "Agent Report",
+    "Character Reference",
+    "Sworn Statement",
+    "Loyalty Investigation",
+    "Victor Lee Trinkala",
+    "Evasive",
+    "108th Military Intelligence Group"
+  ],
+  "title": "Agent Report",
+  "date": "1970-02-25",
+  "locations_mentioned": [
+    "Rochester, Pennsylvania",
+    "Manhattan, New York",
+    "New York, New York"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Richard C. Nagell",
+    "Victor L. Trinkala",
+    "James H. Raymond",
+    "T. Lo Pharaoh"
+  ],
+  "recipient": "RESTRICTED",
+  "sender": "USA"
+}

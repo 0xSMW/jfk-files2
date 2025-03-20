@@ -1,0 +1,43 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Transcript",
+  "security": "The document discusses Operation ZRRIFLE, detailing the spotting, development, and use of force agent assets for clandestine operations. It outlines security protocols, including maximum security cable communications, limitations on agent selection (e.g., no American citizens), and restrictions on approaching foreign officials. Exposing these details could compromise ongoing clandestine operations and reveal sensitive operational methods.",
+  "security_level": "SECRET",
+  "summary": "This document contains the testimony of William K. Harvey on June 25, 1975, and outlines details related to Operation ZRRIFLE, focusing on the recruitment, development, and security protocols for clandestine agents, and mentions individuals and operations related to the JFK assassination.",
+  "summary_one_paragraph": "This transcript, dated June 25, 1975, from the SSCIA records contains testimony by William K. Harvey regarding Operation ZRRIFLE, a project focused on spotting, developing, and using force agent assets for clandestine operations. The document details the project's objectives, background, and operational assets, including personnel recruitment criteria, security protocols (such as avoiding American citizens for direct actions), and financial considerations. It also references individuals like Johnny Roselli, operations related to Cuba and Castro, and subjects such as assassination and the Mafia, indicating its relevance to inquiries surrounding the JFK assassination.",
+  "tags": [
+    "SSCIA",
+    "William K. Harvey",
+    "Operation Mongoose",
+    "Johnny Roselli",
+    "Castro",
+    "Assassination",
+    "Poison Pills",
+    "Cuba",
+    "John McCone",
+    "CIA",
+    "Richard Bissell",
+    "White House",
+    "Mafia",
+    "Dan Rowan",
+    "Sam Giancana",
+    "Project ZRRIFLE",
+    "Clandestine Operations",
+    "Agent Recruitment",
+    "Security Protocols"
+  ],
+  "title": "Testimony of William K. Harvey",
+  "date": "1975-06-25",
+  "origin_agency": "SSCIA",
+  "persons_mentioned": [
+    "William K. Harvey",
+    "Johnny Roselli",
+    "Castro",
+    "John McCone",
+    "Richard Bissell",
+    "Dan Rowan",
+    "Sam Giancana"
+  ],
+  "recipient": "SSCIA",
+  "sender": "SSCIA"
+}

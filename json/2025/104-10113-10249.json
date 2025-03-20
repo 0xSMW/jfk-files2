@@ -1,0 +1,38 @@
+{
+  "classification": "Operations",
+  "document_type": "Memorandum",
+  "security": "This memo details the procurement and use of a false passport for an agent, ARSTALE-1, including specific passport numbers, itinerary details, and alias information. Releasing these details could compromise the agent's identity and any related operations. Directly quoting: 'Transmitted herewith for use as outlined in Reference are the following two documents issued in alias for ARSTALE-1:(Nicaragua) Ordinary Passport No. 85701 and U.S. Immigration and Naturalization Form I-94...Also furnished herewith is a travel itinerary...' revealing methods of agent support and potential risk to sources and methods.",
+  "security_level": "SECRET",
+  "summary": "A memo transmitting an alias passport and immigration form for ARSTALE-1, outlining travel plans and precautions for obtaining an Argentine visa without compromising the operation.",
+  "summary_one_paragraph": "This memo, dated April 12, 1963, from the Chief of CI/SA/Argentina to a colleague, transmits a Nicaraguan passport and U.S. immigration form issued in alias for ARSTALE-1 for operational use. It details the travel itinerary that ARSTALE-1 should follow when applying for an Argentine visa in New York and specifies precautions to maintain the validity of the documentation, including the potential need for revalidations handled by TOD/AD. The memo emphasizes the limitations of the documentation due to its rapid procurement and the lack of BIOXYGENESIS assistance, stressing that any deviations from the planned travel require SED/AD scrutiny. Instructions are provided to report ARSTALE-1's success in obtaining the visa and any relevant travel control events to TOD/AD.",
+  "tags": [
+    "CIA",
+    "ARSTALE-1",
+    "Alias Passport",
+    "Argentina",
+    "Operational Security",
+    "Visa Procurement",
+    "Travel Itinerary",
+    "Nicaragua Passport",
+    "BIOXYGENESIS"
+  ],
+  "title": "Re: (Eshart Fauhrint) Operational/Emergency Passport in Alias for Use by ARSTALE-1 - AB Case No. 6937",
+  "date": "1963-04-12",
+  "locations_mentioned": [
+    "Argentina",
+    "New York",
+    "United States",
+    "Nicaragua"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "ARSTALE-1",
+    "Eshart Fauhrint",
+    "Mr. Martinii",
+    "KY Feabrini",
+    "Elma Baptiste",
+    "Patrick J. Pales"
+  ],
+  "recipient": "Chief, CI/SA/Argentina",
+  "sender": "Patrick J. Pales"
+}

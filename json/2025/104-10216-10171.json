@@ -1,0 +1,31 @@
+{
+  "classification": "Operations",
+  "document_type": "Memorandum",
+  "security": "The memorandum details specific modifications and tests of firearms, including ammunition performance and sight adjustments. Disclosing such details could reveal sensitive technical capabilities and testing procedures related to weaponry used by the agency. Specifically the line, “Recommend gas port be turned to off position to prevent action from opening and allowing gas leak. Also investigate soft annealing case necks” is not meant for public disclosure.",
+  "security_level": "SECRET",
+  "summary": "A memorandum detailing tests conducted on modified sights for the 7.62 Belgium (FAL) Rifle, including a Williams Peep sight and a telescopic scope, to improve accuracy and performance under various conditions.",
+  "summary_one_paragraph": "On June 2, 1964, Donald R. Dunn from TSD/EB and Daniel J. Hogan conducted tests at Isolation on modified sights for the 7.62 Belgium (FAL) Rifle, focusing on a Williams Peep sight and a 2X telescopic scope. The tests, assisted by James Harb and Glen Winstead, involved firing at a silhouette target from 100 yards in light rain, using both underloaded and full load rounds. While the Williams sight showed some promise, the telescopic scope was deemed unfeasible due to mounting issues; the memorandum recommends discarding the scope and further investigating the erratic performance of the underloaded ammunition.",
+  "tags": [
+    "FAL Rifle",
+    "Weapon Testing",
+    "Williams Peep Sight",
+    "Telescopic Sight",
+    "Ammunition",
+    "Accuracy",
+    "Isolation Testing"
+  ],
+  "title": "Tests of Modified Sights for 7.62 Belgium (FAL) Rifle",
+  "date": "1964-06-10",
+  "locations_mentioned": [
+    "Isolation (testing location)"
+  ],
+  "origin_agency": "TSD/EB (Technical Services Division/Engineering Branch)",
+  "persons_mentioned": [
+    "Donald R. Dunn",
+    "Daniel J. Hogan",
+    "James Harb",
+    "Glen Winstead",
+    "Cal Hicks"
+  ],
+  "sender": "Daniel J. Hogan"
+}

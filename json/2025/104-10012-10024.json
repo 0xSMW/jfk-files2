@@ -1,0 +1,40 @@
+{
+  "classification": "Liaison",
+  "document_type": "Letter",
+  "security": "Revealing the KGB's strong-arm tactics, reviewing records of KGB staff in the area involved in promoting violence, questioning the involvement of KGB behind the recent incidents, and requesting information on Valeriy Vladimirovich Kostikov and his activities in Mexico and Beirut could expose ongoing investigations.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A letter from A C M de Vere to David Blee concerning Valeriy Vladimirovich Kostikov, a KGB officer potentially involved in violent activities and linked to Lee Harvey Oswald in Mexico City, seeking information on his activities and the KGB's possible role in recent incidents.",
+  "summary_one_paragraph": "In a letter dated May 10, 1982, A C M de Vere contacts David Blee to discuss Valeriy Vladimirovich Kostikov, a KGB officer posted in Beirut with past service in Mexico City from 1961-1971. De Vere references BARRON's KGB, which suggests Kostikov may have been with Department V, and EPSTEIN's 'Legend,' which claims Kostikov was Lee Harvey Oswald's KGB case officer in Mexico City when Oswald sought a Soviet visa in 1963. Concerned about threats and violence against the Embassy in Beirut and potential KGB involvement, possibly through Syrian channels, De Vere requests Blee's insights on the likelihood of KGB orchestration of recent incidents, confirmation of Kostikov's Beirut presence, identification of other individuals in Beirut or Damascus with a record of Active Measures, and comments on the Oswald story.",
+  "tags": [
+    "KGB",
+    "Valeriy Vladimirovich Kostikov",
+    "Lee Harvey Oswald",
+    "Mexico City",
+    "Beirut",
+    "Active Measures",
+    "Embassy Security",
+    "Syria",
+    "Department V"
+  ],
+  "title": "VALERIY VLADIMIROVICH KOSTIKOV",
+  "date": "1982-05-10",
+  "locations_mentioned": [
+    "Moscow",
+    "Beirut",
+    "Mexico City",
+    "Damascus"
+  ],
+  "origin_agency": "Unknown (likely Intelligence)",
+  "persons_mentioned": [
+    "Valeriy Vladimirovich Kostikov",
+    "David Blee",
+    "Lee Harvey Oswald",
+    "BARRON",
+    "EPSTEIN",
+    "LYALIN",
+    "NOSENKO",
+    "A C M de Vere"
+  ],
+  "recipient": "David Blee",
+  "sender": "A C M de Vere"
+}

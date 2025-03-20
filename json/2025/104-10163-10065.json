@@ -1,0 +1,38 @@
+{
+  "classification": "Personnel",
+  "document_type": "Report",
+  "security": "Disclosing the identities and evaluations of agents like Adolfo SAN FELAYO, Ramon GUIATEGUI Lezara, and Bernard I. Barker could expose them to harm or compromise their ongoing or future operations. For example, Barker's \"puppy-dog loyalty to his case officers and to the Agency\" and his \"lack of discretion\" combined with being known as an 'American' would reveal a great deal about his suitability as an asset. Similarly, highlighting Guetegui's close relationship with PAN-2 and his dedication could endanger him.",
+  "security_level": "SECRET",
+  "summary": "The document is a report providing evaluations and details of various agents, including Adolfo SAN FELAYO, Ramon GUIATEGUI Lezara, Bernard I. Barker, and Manolo VEGA Abril, highlighting their strengths, weaknesses, recruitment information, and potential future roles.",
+  "summary_one_paragraph": "This report details the attributes and backgrounds of several agents. It praises Adolfo SAN FELAYO for his courage, security, and common sense, recommending him as an ideal Latin American agent. It assesses Ramon GUIATEGUI Lezara as similar to San Felayo, dedicated and courageous, and recommends him for a role in Nicaragua. It discusses Bernard I. Barker's recruitment, loyalty, encyclopedic knowledge of Cuban matters, and his tendency to be indiscreet, recommending maintaining contact. Finally, it introduces Manolo VEGA Abril, who is working in Miami and has significant business and family connections that make him an asset, though he has a friend with extreme left and anti-American political views.",
+  "tags": [
+    "Agent Evaluation",
+    "Adolfo SAN FELAYO",
+    "Ramon GUIATEGUI Lezara",
+    "Bernard I. Barker",
+    "Manolo VEGA Abril",
+    "Agent Recruitment",
+    "Latin American Agents",
+    "Cuban Agents"
+  ],
+  "title": "\"Former Contacte Vivana Stakon\"",
+  "locations_mentioned": [
+    "Havana",
+    "Nicaragua",
+    "Miami",
+    "Cuba"
+  ],
+  "persons_mentioned": [
+    "Vivana Stakon",
+    "Adolfo SAN FELAYO",
+    "Ramon GUIATEGUI Lezara",
+    "PAN-2",
+    "Mr. Rental",
+    "Bernard I. Barker",
+    "Clara Barker",
+    "Manolo VEGA Abril",
+    "Jorge US POL",
+    "David GALVADOR"
+  ],
+  "sender": "Unknown"
+}

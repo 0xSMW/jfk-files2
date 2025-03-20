@@ -1,0 +1,33 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security": "Disclosing the details of meetings with foreign intelligence services, even post-Soviet, could compromise current or future liaison efforts. Specifically, detailing the subjects discussed (Middle East peace process, aid to Bosnian Muslims, Somalia, environmental task force) could be exploited. Mentioning names like Leonid ((RYABCHENYA)) and Oleg ((NECHIPORENKO)) might expose individuals to unwanted scrutiny. Additionally, the request for a copy of the unclassified paper \"by the most expeditious means possible\" reveals a specific operational concern about information accessibility.",
+  "security_level": "SECRET",
+  "summary": "A cable discusses a meeting between the CIA and the SVRR (Russian Foreign Intelligence Service) on November 11, 1993, where the SVRR Deputy Director, Leonid ((RYABCHENYA)), addressed topics including Oleg ((NECHIPORENKO))'s book on the JFK assassination, the scheduling of exchange on Yugoslavia, and the release of an unclassified paper by U.S. scientists.",
+  "summary_one_paragraph": "On November 11, 1993, a meeting occurred between the CIA and Leonid ((RYABCHENYA)), Deputy Director of the SVRR, at Kolpachniy Pereulok, addressing several key topics. ((RYABCHENYA)) conveyed thoughts on the Middle East peace process, aid to Bosnian Muslims, and the situation in Somalia, all passed in a letter from Primakov to the DCI; he also raised concerns about Oleg ((NECHIPORENKO))'s book on Lee Harvey Oswald's involvement in the JFK assassination, disavowing any SVRR connection to it; he inquired about scheduling the next exchange on Yugoslavia and requested a copy of the unclassified paper by U.S. scientists on the environmental task force, promising an exchange of views between U.S. and Russian scientists.",
+  "tags": [
+    "SVRR",
+    "Russian Foreign Intelligence Service",
+    "Leonid Ryabchenya",
+    "Oleg Nechiporenko",
+    "JFK Assassination",
+    "Lee Harvey Oswald",
+    "Yugoslavia",
+    "Environmental Task Force",
+    "Middle East Peace Process",
+    "Bosnian Muslims",
+    "Somalia",
+    "GTDANCER",
+    "NQHAYWIRE",
+    "WNINTEL"
+  ],
+  "title": "11 November 1993 Meeting with the SVRR",
+  "persons_mentioned": [
+    "Leonid ((RYABCHENYA))",
+    "Oleg ((NECHIPORENKO))",
+    "Lee Harvey Oswald",
+    "Primakov"
+  ],
+  "recipient": "Director Info St Petersburg",
+  "sender": "STAFF (Moscow Station)"
+}

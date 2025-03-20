@@ -1,0 +1,34 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "Revealing the recruitment of individuals like Seymour D. Trinnich and the interest in Arturo Carrillo Esparza could expose ongoing intelligence operations and compromise potential assets. Directly quoting: \"SINCE REF STATION HAS TRIED SPOT CANDIDATES FOR PLAUSIBLE ACCESS VALENTIN VASILYEVICH BAKULIN...SOURCE SEYMOUR D. TRINNICH, POSSIBLE ACCESS ASSET IS ARTURO CARRILLO ESPARZA...REQUEST HQS TRACES AND INITIATION POA, HAVE NO LOCAL TRACES.\"",
+  "security_level": "SECRET",
+  "summary": "A classified message from Mexico City station requesting headquarters to trace Arturo Carrillo Esparza, a potential asset with access to Valentin Vasilyevich Bakulin, and his girlfriend Cynthia Chlebicki, for possible recruitment.",
+  "summary_one_paragraph": "This SECRET classified message, originating from the Mexico City station, relays information concerning the recruitment of potential assets, focusing on Arturo Carrillo Esparza, a graduate student at UNAM with access to Valentin Vasilyevich Bakulin, who supplies propaganda films to local groups; the message requests headquarters initiate traces on Carrillo and his girlfriend, Cynthia Chlebicki, a U.S. national and UNAM student, to assess their viability as intelligence assets, given that local traces are unavailable.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "Recruitment",
+    "Asset",
+    "Valentin Vasilyevich Bakulin",
+    "Arturo Carrillo Esparza",
+    "Cynthia Chlebicki",
+    "Film Propaganda",
+    "UNAM"
+  ],
+  "title": "REDWOOD LCIMPROVE",
+  "date": "1964-00-00",
+  "locations_mentioned": [
+    "Mexico City",
+    "Harvey, Illinois"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Valentin Vasilyevich Bakulin",
+    "Seymour D. Trinnich",
+    "Arturo Carrillo Esparza",
+    "Cynthia Chlebicki"
+  ],
+  "recipient": "Director",
+  "sender": "Mexico City"
+}

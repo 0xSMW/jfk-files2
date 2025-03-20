@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing details about contacts and their planned movements could compromise ongoing intelligence operations and endanger the individuals involved. The reference to a 'Ray Contact' and his brother's travel plans falls into this category. Quoting directly: 'NICOLAS MENDOZA TOLD HAVA STA 17 NOV THAT HIS BROTHER IGNACIO HAD NOT LEFT HAVA AS PLANCED. IGNACIO NOW PLANS REMAIN HAVA FEU MORE DAYS IN HOPE HE HAY OBTAIN PERMISIION CUBAN GOVT TO LEAVE LEGALLY.'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A message from HAVANA Station reports that Nicolas Mendoza informed the station on November 17th that his brother, Ignacio, a 'Ray Contact', has delayed his departure from Havana in hopes of obtaining legal permission from the Cuban government to leave.",
+  "summary_one_paragraph": "On November 18, 1960, HAVANA Station reported that Nicolas Mendoza informed them on November 17th that his brother Ignacio, identified as a 'Ray Contact' within the station, has not left Havana as originally planned; Ignacio intends to remain in Havana for a few more days, hoping to obtain legal permission from the Cuban government to depart.",
+  "tags": [
+    "CIA",
+    "HAVANA Station",
+    "Nicolas Mendoza",
+    "Ignacio Mendoza",
+    "Ray Contact",
+    "Cuba",
+    "Intelligence",
+    "Travel Plans"
+  ],
+  "title": "Message Regarding Delayed Departure of Ray Contact in Havana",
+  "date": "1960-11-18",
+  "locations_mentioned": [
+    "Havana",
+    "Miami"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Nicolas Mendoza",
+    "Ignacio Mendoza"
+  ],
+  "recipient": "Director",
+  "sender": "HAVANA"
+}

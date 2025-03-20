@@ -1,0 +1,23 @@
+{
+  "classification": "Personnel",
+  "document_type": "Letter",
+  "security": "This is a retirement letter with no sensitive information.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A letter from Stansfield Turner to James W. Moore congratulating him on his retirement from service.",
+  "summary_one_paragraph": "This is a letter from Stansfield Turner to Mr. James W. Moore, expressing appreciation for Moore's service to the Agency as he closes his active career and wishing him well in retirement, acknowledging Moore's contribution to the Agency's mission and his faithful support of the Federal service.",
+  "tags": [
+    "Retirement",
+    "Personnel",
+    "Appreciation",
+    "Federal Service"
+  ],
+  "title": "Retirement Letter to James W. Moore",
+  "date": "1977-12-05",
+  "persons_mentioned": [
+    "Stansfield Turner",
+    "James W. Moore",
+    "JLBaker"
+  ],
+  "recipient": "James W. Moore",
+  "sender": "Stansfield Turner"
+}

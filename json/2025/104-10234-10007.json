@@ -1,0 +1,49 @@
+{
+  "classification": "Cuba",
+  "document_type": "FIED MESSAGE",
+  "security": "The message details the CIA's collection of information through various sources within Cuba, including insights into Fidel Castro's inner circle and potential security vulnerabilities. Specifically, the document states \"D SAYS ANNIE DE QUENDOZ (6) (NO STA TRACES) WIFE (BUT GETTING DIVORCE) OF SWISS CHANCELLOR IN HAVANA, WAS MISTRESS OF BOTH 'CHE' GUEVARA AND F, CONTINUES RELATIONS WITH F-DIP COMMUNITY GIVING HER COLD SHOULDER BUT D HAS TAKEN PAINS SE FRIENDLY, FOR WHICH BOTH SHE AND F GRATEFUL. D SAYS CAN GAIN DIRECT ACCESS F THROUGH & IN ANY EMERGENCY.\" This quote reveals an active intelligence-gathering operation that exploits personal relationships to gain access to Castro, potentially undermining Cuban security measures. Revealing this operation would risk the safety of sources, compromise collection methods, and strain diplomatic relations.",
+  "security_level": "SECRET",
+  "summary": "A secret message details an agent's (DELORRY) activities in Cuba, including contact with individuals close to Fidel Castro and information on internal political dynamics.",
+  "summary_one_paragraph": "This message, dated March 11, 1966, reports on DELORRY’s arrival in Italy after a trip home, ahead of his scheduled return to Cuba around April 1. It highlights DELORRY's contact with Annie de Quendoz, a figure with connections to both Fidel Castro and \"Che\" Guevara, who could provide emergency access to Castro. The message also covers information received on German (Amado-Blanco) Y Fernandez, Rolio (Montenegro) Guasp, Saverio Tutino, and various political dynamics within Cuba, including rumors related to AMLASH/1 and AMLASH/10, and reactions to the drafting of Protestant clerics.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Fidel Castro",
+    "DELORRY",
+    "Annie de Quendoz",
+    "Intelligence",
+    "AMLASH",
+    "Quirinale",
+    "CUBEXB"
+  ],
+  "title": "FIED MESSAGE",
+  "date": "1966-03-11",
+  "locations_mentioned": [
+    "Rome",
+    "Italy",
+    "Cuba",
+    "Havana",
+    "Switzerland",
+    "Portugal",
+    "Lisbon",
+    "Prague",
+    "Belgium"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "DELORRY",
+    "Fidel Castro",
+    "Annie de Quendoz",
+    "Che Guevara",
+    "German (Amado-Blanco) Y Fernandez",
+    "Luis Amado-Blanco",
+    "Rolio (Montenegro) Guasp",
+    "Manuel (\"Manolito\") (Perez) Hernandez",
+    "Ricardo (Subirana) Y Lobo",
+    "Saverio Tutino",
+    "Cesare Zacchi",
+    "Gustavo Carcos Y Bergnes"
+  ],
+  "recipient": "ACA, CWE-3, RID",
+  "sender": "Rome"
+}

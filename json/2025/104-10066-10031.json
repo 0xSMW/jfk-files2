@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Revealing Oltmans' contacts and travels could expose his sources and methods, potentially jeopardizing future intelligence gathering. Sharing such information could also strain relations with individuals or organizations cooperating with the CIA. Directly quoting: \"SENSITIVE SYMPATHIZER SOURCE INDICATES THAT ON 3 OCTOBER WILLEM OLTMANS MADE APPOINTMENT MEET WITH CUBAN AMBASSADOR, THE HAGUE...OLTMANS STATED HE HAD BEEN IN SOVIET UNION THEN..\"",
+  "security_level": "SECRET",
+  "summary": "A cable reports on Willem Oltmans' meetings with Cuban and Soviet diplomats and his travel to the USSR and potential travel to Cuba, noting his connection to George de Mohrenschildt and relevance to Congressional committees.",
+  "summary_one_paragraph": "This cable, dated November 9, 1977, from the CIA station in The Hague, reports that Willem Oltmans, a sensitive sympathizer source, scheduled meetings with the Cuban and Russian ambassadors in The Hague in early October. Oltmans indicated he was planning to visit America around November 18 and had recently traveled to the Soviet Union. This information is deemed relevant because of Oltmans' past association with George de Mohrenschildt, who was of interest to both the Senate Select Committee on Intelligence and the House Assassinations Subcommittee, and the cable suggests conveying this information to Congressional authorities while protecting the source.",
+  "tags": [
+    "CIA",
+    "Willem Oltmans",
+    "Cuban Ambassador",
+    "Soviet Ambassador",
+    "George de Mohrenschildt",
+    "Senate Select Committee on Intelligence",
+    "House Assassinations Subcommittee",
+    "The Hague",
+    "Sympathizer Source"
+  ],
+  "title": "Report on Willem Oltmans' Contacts with Cuban and Soviet Diplomats",
+  "date": "1977-11-09",
+  "locations_mentioned": [
+    "The Hague",
+    "Cuba",
+    "USSR"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Willem Oltmans",
+    "Cuban Ambassador",
+    "Russian Ambassador Romanov",
+    "George de Mohrenschildt"
+  ],
+  "recipient": "Director, CIA",
+  "sender": "The Hague Station"
+}

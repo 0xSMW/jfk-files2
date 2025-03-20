@@ -1,0 +1,34 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "This document details specific military personnel and their assignments, including departure dates and forwarding addresses. Disclosing this information could potentially compromise the privacy of these individuals and expose details about military unit movements and assignments. For example, it mentions 'John C. Stelpflug, SP5, 392-48-2033, formerly of C Team...had departed the unit on 7 January 1972' and provides his forwarding address.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report from February 4, 1972, details the unsuccessful attempt to interview John C. Stelpflug and John P. Lukasik regarding a possible counter-intelligence interest at C Team, 66th USA Artillery Detachment, with information on their departures and assignments.",
+  "summary_one_paragraph": "This is an agent report submitted on February 4, 1972, by Heinz E. Ickert of the 66th MI Group, detailing an attempt to interview John C. Stelpflug and John P. Lukasik concerning a potential counter-intelligence matter at C Team, 66th USA Artillery Detachment in Datteln, Federal Republic of Germany. The report indicates that Stelpflug had left the unit on January 7, 1972, to be discharged from the US Army, providing a forwarding address in Menominee Falls, Wisconsin. Lukasik departed on January 23, 1972, for assignment at the USA Air Defense School, Fort Bliss, Texas.",
+  "tags": [
+    "Counter-Intelligence",
+    "Military Personnel",
+    "Agent Report",
+    "66th MI Group",
+    "USA Artillery Detachment",
+    "Army Discharge",
+    "Air Defense School"
+  ],
+  "title": "Agent Report",
+  "date": "1972-02-04",
+  "locations_mentioned": [
+    "Datteln, Federal Republic of Germany",
+    "New York",
+    "Menominee Falls, Wisconsin",
+    "Fort Bliss, Texas"
+  ],
+  "origin_agency": "CSF/INSCOM",
+  "persons_mentioned": [
+    "Hans D. Kaminski",
+    "John C. Stelpflug",
+    "John P. Lukasik",
+    "Heinz E. Ickert"
+  ],
+  "recipient": "[RESTRICTED]",
+  "sender": "USA"
+}

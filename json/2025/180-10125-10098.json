@@ -1,0 +1,22 @@
+{
+  "classification": "Administrative",
+  "document_type": "Report",
+  "security": "Sharing this payroll information could potentially lead to privacy concerns for the listed employees, especially regarding their salaries and social security numbers, but as a governmental document, the information contained would not cause ongoing harm.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a payroll certification report for the U.S. House of Representatives Select Committee on Assassinations, detailing employee names, social security numbers, positions, salaries, and payment periods for August 1977.",
+  "summary_one_paragraph": "The payroll certification report from the U.S. House of Representatives Financial Management System, dated September 7, 1977, provides a comprehensive overview of the Select Committee on Assassinations' payroll for the accounting period of August 1, 1977, to August 30, 1977. It lists employees by name, social security number, position, annual salary, and gross period pay, noting any appointments, terminations, or pay rate changes during the period. The report also includes a payroll summary indicating total expenditures, available allowance amounts, and projections for the following month, and it certifies that all listed employees have performed their assigned duties and have no prohibited relationships with current members of Congress.",
+  "tags": [
+    "Payroll",
+    "Certification",
+    "US House of Representatives",
+    "Select Committee on Assassinations",
+    "Financial Management System",
+    "HR 1557",
+    "Personnel"
+  ],
+  "title": "Payroll Certification",
+  "date": "1977-09-07",
+  "origin_agency": "U.S. House of Representatives Financial Management System",
+  "recipient": "Chairman, House Administration Comm.",
+  "sender": "Select Committee on Assassinations"
+}

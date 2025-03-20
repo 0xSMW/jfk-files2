@@ -1,0 +1,40 @@
+{
+  "classification": "Administrative",
+  "document_type": "Payroll Records/Determination Notification",
+  "security": "The document primarily contains personal information like names, social security numbers, and salary details of HSCA staff. Redaction and postponement were based on the public disclosure of social security numbers which would reasonably be expected to constitute an unwarranted invasion of personal privacy, and that invasion of privacy would be so substantial that it outweighs the public interest.",
+  "security_level": "Unclassified",
+  "summary": "This document is a final determination notification from the Assassination Records Review Board regarding the release status of HSCA staff payroll records, specifically addressing postponements related to Social Security numbers. It details the reasons for postponing the release of social security numbers, citing unwarranted invasion of personal privacy.",
+  "summary_one_paragraph": "The Assassination Records Review Board issued a final determination notification on December 8, 1995, concerning HSCA staff payroll records. While acknowledging the significant historical interest in the document and finding no evidence of harm to the United States or any individual from its release, the Board decided to postpone the release of Social Security numbers contained within the records. This decision was based on the determination that public disclosure of the SSNs would constitute an unwarranted invasion of personal privacy, outweighing the public interest, with a future review date set for 2017.",
+  "tags": [
+    "HSCA",
+    "Payroll Records",
+    "Assassination Records Review Board",
+    "Social Security Numbers",
+    "Privacy",
+    "FOIA",
+    "Postponement",
+    "Elizabeth L. Berning",
+    "Louis Stokes",
+    "Henry B. Gonzalez",
+    "Thomas Howarth",
+    "G. Robert Blakey",
+    "Richard A. Sprague",
+    "Rebecca Wheeler Martin"
+  ],
+  "title": "Final Determination Notification & Staff Payroll Records",
+  "date": "1995-12-08",
+  "locations_mentioned": [
+    "Washington, D.C."
+  ],
+  "origin_agency": "HSCA",
+  "persons_mentioned": [
+    "Elizabeth L. Berning",
+    "Louis Stokes",
+    "Henry B. Gonzalez",
+    "Thomas Howarth",
+    "G. Robert Blakey",
+    "Richard A. Sprague",
+    "Rebecca Wheeler Martin"
+  ],
+  "recipient": "Clerk of the House of Representatives"
+}

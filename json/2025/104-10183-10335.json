@@ -1,0 +1,24 @@
+{
+  "classification": "Personnel",
+  "document_type": "Classified Message",
+  "security": "Revealing that JMWAVE uses entities like the Inter-University Committee for Political and Social Action (IUCPSA) as cover for agents and alters employment information to meet tax requirements could expose operational methods and compromise agent status. Quote: 'JMWAVE RECORDS SHOW FROM ARRIVAL JMWAVE LATE 64 THROUGH DECEMBER 65 AMMUG/1 ULD AS STATUS COVER 9 (INTER-UNIVERSITY COMMITTEE FOR POLITICAL AND SOCIAL ACTION)...JMWAVE C3 COPY REVISED AIMUS/1 COVER 1 JAN 66 TO MEET TAX REQUIREMENTS...'",
+  "security_level": "SECRET",
+  "summary": "A classified message from JMWAVE to the Director, clarifying employment cover and addressing credit checks for AMMUG/1, who used the Inter-University Committee for Political and Social Action (IUCPSA) as a cover and is now attempting to purchase a house.",
+  "summary_one_paragraph": "This SECRET classified message, dated December 7, 1966, from JMWAVE to the Director, addresses inquiries regarding AMMUG/1's employment cover. It confirms that AMMUG/1 used the Inter-University Committee for Political and Social Action (IUCPSA) as a status cover, provided by Headquarters, from late 1964 through December 1965. The message also clarifies that JMWAVE revised AMMUG/1's cover on January 1, 1966, to meet tax requirements, and explains that credit checks are currently being conducted because AMMUG/1 is attempting to purchase a house locally; early acknowledgement of these inquiries is appreciated to expedite the purchase.",
+  "tags": [
+    "JMWAVE",
+    "AMMUG/1",
+    "Covert Operations",
+    "Employment Cover",
+    "IUCPSA",
+    "Inter-University Committee for Political and Social Action",
+    "Credit Check",
+    "Real Estate Purchase",
+    "Personnel"
+  ],
+  "title": "Clarification of AMMUG/1 Employment Cover and Credit Checks",
+  "date": "1966-12-07",
+  "origin_agency": "JMWAVE",
+  "recipient": "Director",
+  "sender": "JMWAVE"
+}

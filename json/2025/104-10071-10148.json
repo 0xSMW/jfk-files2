@@ -1,0 +1,40 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "Disseminating unverified claims from a source who \"has a lot to learn\" and is \"not just a nut like Jomo Logan\" could damage the reputation of the CIA and potentially lead to the spread of misinformation.",
+  "security_level": "SECRET",
+  "summary": "A CIA cable reports on a conversation between JEPYX/1 and Hosea Williams, a SCLC leader, during Williams' visit to Ethiopia, where Williams claimed JKLANCE was involved in the assassinations of Martin Luther King Jr. and possibly Malcolm X, and discussed his attempts to secure a visit to Peking.",
+  "summary_one_paragraph": "In August 1971, a secret CIA cable from Addis Ababa relays information from JEPYX/1 regarding Hosea Williams' visit to Ethiopia. Williams told JEPYX/1 that JKLANCE had arranged the assassination of Martin Luther King Jr. and possibly Malcolm X, although he was less certain about the latter. Williams also discussed his unsuccessful attempts to obtain a visa for Peking to advocate for a unified effort among colored peoples against racial discrimination. Furthermore, the cable notes Williams' ambivalent attitude toward King and his observations about individual freedom in Africa compared to the freedoms of Black Americans. JEPYX/1 assesses Williams as someone who is gaining new perspectives from his travels but is still naive.",
+  "tags": [
+    "CIA",
+    "Hosea Williams",
+    "Martin Luther King Jr.",
+    "Malcolm X",
+    "Assassination",
+    "Ethiopia",
+    "SCLC",
+    "Peking",
+    "Racial Discrimination",
+    "MHCURB",
+    "RYBAT",
+    "MHCHAOS"
+  ],
+  "title": "Report on Hosea Williams' statements regarding assassinations and China visit",
+  "date": "1971-08-18",
+  "locations_mentioned": [
+    "Addis Ababa, Ethiopia",
+    "Peking, China",
+    "New Delhi, India"
+  ],
+  "origin_agency": "CIA Headquarters",
+  "persons_mentioned": [
+    "Hosea Williams",
+    "Martin Luther King Jr.",
+    "Malcolm X",
+    "JEPYX/1",
+    "JKLANCE",
+    "Jomo Logan"
+  ],
+  "recipient": "Headquarters",
+  "sender": "Addis Ababa Station"
+}

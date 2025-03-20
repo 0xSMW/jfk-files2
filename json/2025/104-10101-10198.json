@@ -1,0 +1,39 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "Revealing that LIFEAT coverage (physical surveillance) may be deployed on IDEN (likely a person of interest) because the individual is a local case officer could expose sensitive operational tactics. Furthermore, suspending AMBESS/1 coverage (another surveillance operation) to cover IDEN may disclose resource allocation strategies. The telegram to Manuel Vega may contain coded information, and the request to time its sending reveals communication practices.",
+  "security_level": "SECRET",
+  "summary": "A cable from the Director instructs the Mexico station to prepare for LIFEAT coverage on IDEN, potentially suspending AMBESS/1 coverage, and requests traces on subjects from referenced cables, renewal of post boxes, and translation and dispatch of a telegram to Manuel Vega.",
+  "summary_one_paragraph": "This cable, originating from the Director, instructs the Mexico station to prepare for LIFEAT coverage on IDEN, due to a potential meeting with CTBAH, and indicates a possible suspension of AMBESS/1 coverage to facilitate this. It requests traces on subjects mentioned in prior cables (MEXI 7295 and MEXI 22410), renewal of post boxes serviced by LIKAYAK/2, and translation/dispatch of a telegram to Manuel Vega, timed for December 14 or 16, with a specific return address. The cable includes instructions to send the telegram even if MOKKY has not received a specified item.",
+  "tags": [
+    "CIA",
+    "Mexico",
+    "Surveillance",
+    "LIFEAT",
+    "AMBESS/1",
+    "CTBAH",
+    "Manuel Vega",
+    "Telegram",
+    "Post Box"
+  ],
+  "title": "Instructions Regarding Surveillance and Communications in Mexico",
+  "date": "Unknown",
+  "locations_mentioned": [
+    "Mexico",
+    "Colonia Condesa D F",
+    "LOWAS"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "IDEN",
+    "CTBAH",
+    "LIKAYAK/2",
+    "MIGNEL SHULTZ",
+    "GERENDE",
+    "SCANTLING",
+    "MANUEL VEGA",
+    "JULIO RODRIGUEZ"
+  ],
+  "recipient": "Mexico Station",
+  "sender": "Director"
+}

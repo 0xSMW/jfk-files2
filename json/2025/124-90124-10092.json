@@ -1,0 +1,40 @@
+{
+  "classification": "Liaison",
+  "document_type": "Airtel",
+  "security": "This document discusses the relationship between the FBI and the CIA and their collaboration on monitoring individuals. Releasing information about their sources, methods, and specific individuals of interest, especially where an individual is described as a \"wild man\" or is under investigation for potentially illegal activity, could be used to undermine law enforcement efforts, disrupt intelligence gathering, or endanger sources.",
+  "security_level": "Secret",
+  "summary": "An Airtel from the FBI's Santo Domingo office to FBI headquarters, regarding Antonio Hector Rivero Juarrero, detailing his background, employment, and connections, including his association with Mitchell Livingston WerBell and his past employment with Amadeo Barletta.",
+  "summary_one_paragraph": "On July 16, 1965, the FBI's Santo Domingo office sent an Airtel to FBI headquarters concerning Antonio Hector Rivero Juarrero, a Cuban exile employed by Cia. Dominicana de Seguros, a subsidiary of Amadeo Barletta's enterprises. Rivero, who had previously worked for Barletta in Havana's General Motors setup, was described as a boisterous and loud-mouthed individual. He held a permanent Dominican Resident Visa since 1962 and was reported to be living with Mitchell WerBell. Further investigation revealed Rivero's history in automobile-related businesses, his reputation as a \"wheeler dealer\", heavy drinking habits, and his wife, Evangelina Hernandez, a Cuban national with relatives in Miami. Due to Rivero's loud nature and his association with Mitchell WerBell, the FBI decided against further developing him as a PSI (Potential Source of Information).",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Antonio Hector Rivero Juarrero",
+    "Mitchell Livingston WerBell",
+    "Amadeo Barletta",
+    "Santo Domingo",
+    "Dominican Republic",
+    "Cuba",
+    "PSI",
+    "Liaison"
+  ],
+  "title": "ANTONIO HECTOR RIVERO JUARRERO - PSI REC 133 IS - DOMINICAN REPUBLIC",
+  "date": "1965-07-16",
+  "locations_mentioned": [
+    "Santo Domingo",
+    "Dominican Republic",
+    "Havana",
+    "Cuba",
+    "Miami",
+    "Florida"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Antonio Hector Rivero Juarrero",
+    "Mitchell Livingston WerBell",
+    "Amadeo Barletta",
+    "Evangelina Hernandez",
+    "John Casserly"
+  ],
+  "recipient": "HQ",
+  "sender": "DOMR"
+}

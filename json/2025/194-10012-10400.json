@@ -1,0 +1,41 @@
+{
+  "classification": "Personnel",
+  "document_type": "Message",
+  "security": "Disclosing the methods used to apprehend deserters, such as coordinating with local police and arranging for immediate air transport, could compromise future operations. The document states: \"West Berlin Police will be asked to apprehend subjects. US Military Police will accompany the West Berlin Police...Special arrangements have been coordinated for C47 aircraft...to fly subjects to Rhein Main immediately after apprehension due to possible adverse publicity and student re actions.\"",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A message from DCSI USCOB Berlin to DPSI USAREUR Heidelberg regarding two possible US Army deserters, Peter Simons and Roman Arnold, believed to be in West Berlin. The message details their background, reported activities, and planned actions for apprehension, including coordination with West Berlin police and immediate air transport to avoid publicity.",
+  "summary_one_paragraph": "On December 2, 1967, DCSI USCOB Berlin sent a confidential message to DPSI USAREUR Heidelberg concerning two possible US Army deserters, Peter Simons and Roman Arnold, suspected to be in West Berlin. The message relays information from West Berlin and Dusseldorf police indicating the deserters, who expressed a desire to avoid service in Vietnam, were registered in the French sector and associated with a student organization known for assisting military personnel in deserting to neutral countries. The message outlines planned actions for apprehending Simons and Arnold, including involving West Berlin police accompanied by US military police, and arranging immediate air transport to Rhein Main to mitigate potential adverse publicity and student demonstrations, with ongoing efforts to ascertain their citizenship and the identities of those aiding them.",
+  "tags": [
+    "US Army",
+    "Deserters",
+    "West Berlin",
+    "Military Police",
+    "Student Organization",
+    "Vietnam War",
+    "Apprehension",
+    "Coordination",
+    "Publicity",
+    "Confidential"
+  ],
+  "title": "MESSAGE",
+  "date": "1967-12-02",
+  "locations_mentioned": [
+    "West Berlin",
+    "Dusseldorf",
+    "Frankfurt",
+    "Vietnam",
+    "Chicago",
+    "Los Angeles",
+    "Ft Hood",
+    "Rhein Main"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Vladimir Slovoda",
+    "Peter Simons",
+    "Roman Arnold",
+    "Horst Mahler"
+  ],
+  "recipient": "OPSI USAREUR HEIDELBERG",
+  "sender": "DCSI USCOB BERLIN"
+}

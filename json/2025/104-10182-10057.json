@@ -1,0 +1,52 @@
+{
+  "classification": "Operations",
+  "document_type": "File",
+  "security": "This file contains operational details related to the AEASPIC project including names of contacts (Annick, Platipodis), safehouse locations (15 rue Weber), and planned movements across international borders. For example, the description of Rostedt and Friganza's meeting with Subject, their use of a safehouse, and specific instructions given to Subject like ringing '3 longs, 2 short' reveals operational tradecraft. Sharing such details could compromise similar operations. The file contains plans for issuing false identity documents and discussions on how the document could be used. Quoting directly: 'This document may be needed to bring AEASPIC from France to Germany. It would be used only after discussion with Dexter E. Rostedt...to move Subject in this fashion.' Reveals operational plans and assets.",
+  "security_level": "SECRET",
+  "summary": "This file contains documents pertaining to the WIROGUE project, specifically focusing on the AEASPIC operation. It includes memos, spotting and assessment reports, and communications related to the recruitment, examination, and handling of a subject, including details on meetings, safehouses, and operational logistics.",
+  "summary_one_paragraph": "The WIROGUE file contains documentation of the AEASPIC operation, including memos, reports, and communications detailing the recruitment, assessment, and management of a subject. These documents cover aspects such as initial meetings in Paris, the use of safehouses (e.g., 15 rue Weber), psychological examinations, and financial transactions with the subject. It contains details related to providing the subject with cover, instructions for communication, and plans for potential relocation. It also includes correspondence regarding the termination of a contract with Ernest G. Maycrink, replaced by an agreement for confidential information and related services.",
+  "tags": [
+    "CIA",
+    "WIROGUE",
+    "AEASPIC",
+    "REDSOX",
+    "Friganza",
+    "Rostedt",
+    "Operations",
+    "Recruitment",
+    "Safehouse",
+    "Psychological Assessment",
+    "Cover",
+    "France",
+    "Germany",
+    "Ernest G. Maycrink"
+  ],
+  "title": "WIROGUE",
+  "date": "1964-09-14",
+  "locations_mentioned": [
+    "Paris",
+    "France",
+    "Germany",
+    "Ambert",
+    "Gap",
+    "Georgia, USSR"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Dan Hardway",
+    "Ernest G. Maycrink",
+    "Anthony H. Friganza",
+    "Dexter E. Rostedt",
+    "Annick",
+    "Platipodis",
+    "John Sandor",
+    "Tom Brown",
+    "Martin Ludeau",
+    "Josef Dassaud",
+    "Henry C. Ladue",
+    "D. Hendryck",
+    "S. Vincent",
+    "Johan Witure",
+    "Paul"
+  ]
+}

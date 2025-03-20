@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Telegram Information Report",
+  "security": "The document contains information affecting the National Defense of the United States within the meaning of the Espionage Laws, Title 18, U.S.C. Secs. 793 and 794, the transmission or revelation of which in any manner to an unauthorized person is prohibited by law. The mention of specific sources (Audilio Herrera, Edilio Gomez) and methods (AMSUM-4 monitoring, COMINT channels) could expose intelligence operations.",
+  "security_level": "SECRET",
+  "summary": "A CIA cable reports on the movement of individuals believed to be Soviets traveling from Batabano to Isla de Pinos in Cuba, and also reports on cargo traffic between the two locations in late October and early November 1963.",
+  "summary_one_paragraph": "This SECRET Central Intelligence Agency telegram, dated December 12, 1963, relays information regarding Soviet activity in Cuba. Specifically, it details the arrival of 24 men believed to be Soviets in Batabano, Habana Province, on November 6, 1963, who then boarded a ferry to Isla de Pinos. It also notes the arrival of olive green trailer trucks hauling boxes at the port of Batabano from Isla de Pinos on October 31, and the shipping of olive green ten-wheeled trucks aboard the Isla de Pinos ferry on October 28. The information, collected from sources in Batabano, was disseminated to CINCSO, CINCLANT, and COMNAVKEYWEST.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Soviet Activity",
+    "Batabano",
+    "Isla de Pinos",
+    "Cargo Traffic",
+    "Espionage Laws",
+    "TDCS",
+    "COMINT",
+    "UMWAVE"
+  ],
+  "title": "Travel of Soviets from Batabano to Isla de Pinos and Cargo Traffic between Isla de Pinos and Batabano",
+  "date": "1963-12-12",
+  "locations_mentioned": [
+    "Batabano, Habana Province, Cuba",
+    "Isla de Pinos, Cuba",
+    "Isla de Tesoro, Cuba",
+    "Gerona, Isla de Pinos, Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Audilio Herrera",
+    "Edilio Gomez",
+    "De la Torre (FNU)"
+  ],
+  "recipient": "Director",
+  "sender": "UMWAVE"
+}

@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security": "Revealing operational details, such as the use of AMBINGO assets for identification purposes and the investigation into a possible Cubana pilot using an alias, could compromise ongoing intelligence activities and the security of involved individuals. It also reveals that AMBINGOs were used as reference in this activity. Quoting directly: “It is requested that the photograph of \"Comandante William\" be shown to the AMBINGO's for possible identification.”",
+  "security_level": "SECRET",
+  "summary": "A dispatch from the Chief of the Western Hemisphere Division to the Chief of Station in Bogota requesting the photograph of \"Comandante William\" be shown to AMBINGO assets for identification, as he claimed to have received pilot training in Cuba and may have worked as a Cubana pilot under the name Ernesto Castro Moro.",
+  "summary_one_paragraph": "This secret dispatch, dated March 15, 1967, from the Chief of the Western Hemisphere Division directs the Chief of Station in Bogota to show a photograph of an individual known as \"Comandante William\" to AMBINGO assets. The aim is to identify the subject, who claimed to have received two years of pilot training at San Antonio de los Banos Air Base in Cuba during 1965 and 1966, and potentially worked as a Cubana pilot under the alias Ernesto Castro Moro. The Bogota Station is instructed to notify JMWAVE of the identification results.",
+  "tags": [
+    "CIA",
+    "JMWAVE",
+    "Bogota",
+    "AMBINGO",
+    "Comandante William",
+    "Ernesto Castro Moro",
+    "Cuba",
+    "Pilot Training",
+    "Identification",
+    "UFGA-27105",
+    "Cubana Pilot"
+  ],
+  "title": "DYVOUR/PBRUMEN/Operational Photograph of \"Comandante William\"",
+  "date": "1967-03-15",
+  "locations_mentioned": [
+    "Cuba",
+    "San Antonio de los Banos Air Base"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Comandante William",
+    "Ernesto Castro Moro",
+    "Constance M. Quilhot"
+  ],
+  "recipient": "Chief of Station, Bogota",
+  "sender": "Chief, Western Hemisphere Division"
+}

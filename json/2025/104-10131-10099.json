@@ -1,0 +1,35 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security": "Releasing information about ongoing investigations or sources, especially informants, could jeopardize the safety and effectiveness of these operations. The instruction “DO NOT CONTACT FBI” might suggest sensitivities or concerns in inter-agency relations that could be exploited if revealed. Quoting directly: “Subject is of covert interest. Conduct investigation according to standard regulations except as hereinafter noted.”;“DO NOT CONTACT FBI.”",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memo directing an investigation into Alfonso Rudolph Michirich, designated as a 'covert interest,' with specific instructions for national agency checks and informant contacts.",
+  "summary_one_paragraph": "This memorandum, dated March 29, 1962, outlines an investigation into Alfonso Rudolph Michirich, labeled as being of 'covert interest'. It details assignments for the District Field Office and Washington Field Office, specifying National Agency checks, including FBI, ONI, ACSI, STATE, PASSPORT, CSC, HCUA, OSI, I&N, and MILITARY. The memo provides locations associated with Michirich, including Wilcox, Arizona; Washington, D.C.; Columbus, Georgia; Panama; and Mexico, with references to employment, police, and credit checks, and it instructs not to contact the FBI. William C. FRANKLIN and F. R. MANIET are listed as character references.",
+  "tags": [
+    "CIA",
+    "Alfonso Rudolph Michirich",
+    "Covert Investigation",
+    "National Agency Checks",
+    "Background Check",
+    "Informants"
+  ],
+  "title": "MICHIRICH, Alfonso Rudolph",
+  "date": "1962-03-29",
+  "locations_mentioned": [
+    "Wilcox, Arizona",
+    "Washington, D.C.",
+    "Columbus, Georgia",
+    "Panama",
+    "Mexico",
+    "Baltimore, MD"
+  ],
+  "origin_agency": "Headquarters",
+  "persons_mentioned": [
+    "Alfonso Rudolph Michirich",
+    "William C. FRANKLIN",
+    "F. R. MANIET",
+    "BYRNES"
+  ],
+  "recipient": "Special Agent in Charge, Washington Field Office",
+  "sender": "BYRNES/ps"
+}

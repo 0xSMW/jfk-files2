@@ -1,0 +1,44 @@
+{
+  "classification": "Vietnam",
+  "document_type": "Telegram Information Report",
+  "security": "Disclosing the translation of Vietnamese Communist analysis, especially regarding their assessment of U.S. military effectiveness ('US' half success is due to use of counterguerrilla tactics') and their strategies ('policies must now aim at the internal situation'), could provide adversaries with insights into U.S. strengths and vulnerabilities, affecting ongoing military efforts. The classification 'C-O-N-F-I-D-E-N-T-I-A-L NOFORN/CONTINUED CONTROL' indicates that revealing this information to foreign nationals could significantly compromise U.S. national defense.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A CIA telegram from June 1962 relays a translated Vietnamese Communist analysis of the effects of increased U.S. military aid to the government of South Vietnam, detailing their assessment of the current situation and future strategies.",
+  "summary_one_paragraph": "This CONFIDENTIAL CIA telegram, dated June 13, 1962, transmits a translation of an early May 1962 analysis by a Vietnamese Communist (VC) company commander in Ba Xuyen Province regarding the situation in South Vietnam. The analysis assesses that increased U.S. military intervention has postponed the VC's planned general offensive but acknowledges the U.S.'s partial success with counterguerrilla tactics. The VC believes indiscriminate killings by U.S. forces will ultimately drive more people to support the revolution, aiming for 90 percent support through a high-sacrifice spirit and anti-American ideals; they plan to address the internal situation while maintaining their hardship-bearing spirit, emphasizing that the resolution will involve international politics and strong military attacks.",
+  "tags": [
+    "CIA",
+    "Vietnamese Communist Analysis",
+    "South Vietnam",
+    "Military Aid",
+    "Counterguerrilla Tactics",
+    "People's Revolution",
+    "NOFORN"
+  ],
+  "title": "Vietnamese Communist Analysis of Effects of Increased US Military Aid to Government of Vietnam",
+  "date": "1962-06-13",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Vietnam",
+    "Saigon",
+    "Ba Xuyen Province"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Bundy",
+    "Smith",
+    "Buni",
+    "Dungan",
+    "Gildner",
+    "Kaysen",
+    "Petersen",
+    "Schlesinger",
+    "Taylor",
+    "Belk",
+    "Ford",
+    "Komer",
+    "Raskin",
+    "Saunders"
+  ],
+  "recipient": "State, Army/ACSI, Navy, Air, JCS, SECDEF, NSA, NIC, USIA, OCI, ONE, OCR, ORR, AID, DIA",
+  "sender": "CIA"
+}

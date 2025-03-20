@@ -1,0 +1,27 @@
+{
+  "classification": "Security",
+  "document_type": "Routing and Record Sheet with Manuscript Comments",
+  "security": "The comments discuss specific CIA facilities, programs, and techniques. Specifically, \"Though Camp Perry has received much publicity, there appears no good reason to confirm the use of this facility by the Agency. Unless we plan on officially opening Camp Perry as a CIA training facility, it should not be mentioned.\" Also, the memo states \"We're still putting audio devices in coke bottles -- these techniques and methods should not be discussed since we may very well want to use them again in the future.\"",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a routing and record sheet attached with comments on a manuscript submitted by David A. Phillips. The comments address concerns about mentioning CIA facilities, programs, and techniques, specifically Camp Perry and the use of audio devices.",
+  "summary_one_paragraph": "A routing and record sheet details the review of a manuscript by David A. Phillips, with comments from the Office of Security and the Acting Chief, SOG. H.R. Keough forwards the manuscript with attached comments to the Chief, EAB, focusing on security caveats. These caveats include avoiding confirmation of Agency use of Camp Perry and preventing discussion of current techniques, such as using audio devices in coke bottles, to protect future operations and methodologies.",
+  "tags": [
+    "CIA",
+    "David A. Phillips",
+    "Manuscript Review",
+    "Camp Perry",
+    "Phoenix Program",
+    "Audio Devices",
+    "Security Review"
+  ],
+  "title": "Manuscript Submitted by David A. Phillips",
+  "date": "1976-01-07",
+  "persons_mentioned": [
+    "David A. Phillips",
+    "William Colby",
+    "Ambassador Komer",
+    "H.R. Keough"
+  ],
+  "recipient": "Chief, EAB",
+  "sender": "C/SS/SC"
+}

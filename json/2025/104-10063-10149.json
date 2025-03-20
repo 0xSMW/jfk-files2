@@ -1,0 +1,39 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security": "Revealing details of communications with defectors and their knowledge of Black Panther Party dynamics in Algiers could expose intelligence sources. The cable mentions, 'MCNAIR MADE FOLLOWING REMARKS WHICH GENERALLY CONFIRM GLDUEL/I'S INFO REPORTED REF B' and 'Significant aspects of above interview being sent LNGOLD VIA LNFALL channel.' Sharing such information could compromise the described intelligence operations and the involved individuals.",
+  "security_level": "SECRET",
+  "summary": "A CIA cable reports on Melvin McNair, a Delta Airlines hijacker in Algiers, who provided information regarding William Holder's role in the Black Panther Party (BPP) and the strained relationship between Eldridge Cleaver and other BPP members.",
+  "summary_one_paragraph": "This SECRET cable, dated October 2, 1972, from Algiers, details information obtained from Melvin McNair, one of the hijackers of a Delta Airlines plane, concerning the activities of the Black Panther Party (BPP) in Algiers. McNair, while attempting to obtain US passports for children, revealed that William Holder heads the BPP's international section, a position given due to Eldridge Cleaver's influence. He also mentioned the growing discontent among BPP members with Cleaver and described the Algerian government's surveillance of Cleaver, and the restrictions placed on the hijackers' movements. The cable also discusses the Algerians not returning the one million dollars from the Delta hijacking, despite reports that money from a Western Airlines hijacking had been returned.",
+  "tags": [
+    "CIA",
+    "Algiers",
+    "Melvin McNair",
+    "William Holder",
+    "Black Panther Party",
+    "Eldridge Cleaver",
+    "Hijacking",
+    "Intelligence"
+  ],
+  "title": "Report on Melvin McNair and Black Panther Party in Algiers",
+  "date": "1972-10-02",
+  "locations_mentioned": [
+    "Algiers",
+    "Greensboro, North Carolina",
+    "Halifax County, Virginia",
+    "Spartanburg, South Carolina"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Melvin McNair",
+    "George Edward Wright",
+    "Joyce Tillerson",
+    "William Holder",
+    "Eldridge Cleaver",
+    "Peter O'Neal",
+    "Donald Cox",
+    "Boumediene"
+  ],
+  "recipient": "Headquarters",
+  "sender": "ALGIERS"
+}

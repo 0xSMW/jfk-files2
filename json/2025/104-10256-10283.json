@@ -1,0 +1,29 @@
+{
+  "classification": "Administrative",
+  "document_type": "Question/Proposed Reply",
+  "security": "Revealing the CIA's budget allocation for contract employees and details about their involvement in the Watergate burglary could compromise ongoing operations and expose sensitive information about the Agency's relationships. Specifically, the document states, 'With respect to the relationship to the CIA of the seven individuals involved in the Watergate burglary, one of them at the time of the break-in was a part-time contract employee (Martinez), one was a former full-time contract employee (Barker), two were retired staff employees (Hunt and McCord).'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document outlines questions and proposed replies regarding the CIA's budget for contract employees, the involvement of individuals with CIA ties in the Watergate burglary, and the extent to which CIA personnel were further involved in Watergate and its cover-up.",
+  "summary_one_paragraph": "The document presents questions and proposed answers concerning the CIA's budget allocation for contract employees and the involvement of individuals connected to the CIA in the Watergate burglary. It specifies the budget for staff and contract employees, addresses the CIA's relationship with the Watergate burglars (Martinez, Barker, Hunt, McCord, Liddy, Sturgis, and Gonzalez), and differentiates the controls placed on various types of contract employees versus regular staff. Additionally, it discusses the CIA's actions in response to requests for information related to Watergate from Senator Baker, the Senate Select Committee, the Office of the Special Prosecutor, and the Special Counsel of the Impeachment Committee, affirming that no previously unidentified CIA personnel were found to be involved.",
+  "tags": [
+    "CIA",
+    "Budget",
+    "Contract Employees",
+    "Watergate",
+    "Cover-up",
+    "Congressional Inquiries"
+  ],
+  "title": "Questions and Proposed Replies Regarding CIA Budget and Watergate Involvement",
+  "date": "1975",
+  "persons_mentioned": [
+    "Martinez",
+    "Barker",
+    "Hunt",
+    "McCord",
+    "Liddy",
+    "Sturgis",
+    "Gonzalez",
+    "Senator Baker"
+  ],
+  "recipient": "Appropriations Committee"
+}

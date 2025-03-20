@@ -1,0 +1,33 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "This document discusses the relationship between a British newsman (RETTIE), a woman (LICOOKY-1), and their connections to individuals of interest. Revealing these relationships and the fact that RETTIE is potentially 'in pay [of a] secret service' could compromise intelligence sources and methods. The mention of attempting contact with Mario Fonteforte Toledo also highlights active intelligence operations. Quoting directly: 'RETTIE, BRITISH B.B.C. NEWSMAN, WHO IN PAY SECRET SERVICE IN CONTACT LICOOKY-1...RETTIE TRYING MAKE CONTACT WITH MARIO FONTEFORTE TOLEDO.'",
+  "security_level": "SECRET",
+  "summary": "A CIA message from Mexico City reports on the relationship between a British BBC newsman, RETTIE, and a woman, LICOOKY-1, noting RETTIE's possible ties to a secret service and attempts to contact Mario Fonteforte Toledo.",
+  "summary_one_paragraph": "This SECRET-classified message, dated January 24, 1963, originates from the CIA station in Mexico City and addresses the Director concerning the relationship between RETTIE, a British BBC newsman, and LICOOKY-1. The message indicates that RETTIE may be associated with a secret service and is in contact with LICOOKY-1, who is described as intelligent, non-Communist, and close to Juan Jose Arevalo. RETTIE is also reportedly attempting to make contact with Mario Fonteforte Toledo, and the station is aware of the RETTIE-LICOOKY-1 relationship through LICOOKY-1.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "RETTIE",
+    "LICOOKY-1",
+    "Mario Fonteforte Toledo",
+    "Juan Jose Arevalo",
+    "BBC",
+    "Secret Service",
+    "British Newsman"
+  ],
+  "title": "Report on RETTIE and LICOOKY-1 Relationship",
+  "date": "1963-01-24",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "RETTIE",
+    "LICOOKY-1",
+    "Mario Fonteforte Toledo",
+    "Juan Jose Arevalo"
+  ],
+  "recipient": "Director",
+  "sender": "Mexico City Station"
+}

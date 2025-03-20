@@ -1,0 +1,17 @@
+{
+  "classification": "Administrative",
+  "document_type": "Classified Message Routing",
+  "security": "The document primarily consists of routing and distribution information, indicating the extensive network of CIA stations and personnel involved in receiving and processing the message. Disclosing this distribution list could reveal the scope and structure of CIA operations, potentially compromising intelligence activities and personnel.",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "This is a classified message routing document, indicating distribution to numerous CIA stations and personnel, with routing and file instructions.",
+  "summary_one_paragraph": "This document, marked S-E-C-R-E-T, is a routing slip for a classified message. It lists an extensive distribution to numerous CIA stations and personnel across the globe, including stations in ABIJ, ACCR, ADDI, ALGI, and YAQU. The document includes routing instructions, file designations, and authentication information, but the actual message content is not included, focusing solely on the distribution and handling of the classified communication.",
+  "tags": [
+    "CIA",
+    "Routing",
+    "Distribution",
+    "Classified Message",
+    "Administrative"
+  ],
+  "title": "Classified Message Routing",
+  "date": "YYYY-MM-DD"
+}

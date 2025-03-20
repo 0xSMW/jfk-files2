@@ -1,0 +1,29 @@
+{
+  "classification": "Administrative",
+  "document_type": "Cable",
+  "security": "This cable discusses the process of releasing information under the JFK Assassination Records Collection Act of 1992 and the potential harm to individuals whose names appear in the documents. Specifically, it states, '...the release of the relationship of your true name and the agency will have to be looked at carefully to determine the viability of continued cover protection.' This highlights the risk of exposing covert operatives.",
+  "security_level": "SECRET",
+  "summary": "A secret cable from March 1997 outlines procedures for the CIA to comply with the JFK Assassination Records Collection Act of 1992, specifically regarding the potential release of names of former employees and providing them the opportunity to argue against disclosure.",
+  "summary_one_paragraph": "This secret cable, sent on March 5, 1997, from the CIA to its Tokyo station, details the process for complying with the JFK Assassination Records Collection Act of 1992. It instructs the station to contact a former employee residing in Kashii-Dai and provide them with a letter explaining that their name may be released publicly unless the CIA can demonstrate a credible threat to them, their family, or sensitive past activities. The cable also includes answers to frequently asked questions about the implications of the Act and the grounds for postponing public disclosure, while emphasizing the difficulty in preventing the release of names.",
+  "tags": [
+    "JFK Assassination Records Collection Act",
+    "FOIA",
+    "Covert Operations",
+    "Personnel Disclosure",
+    "CIA",
+    "WNINTEL"
+  ],
+  "title": "Request for Station Assistance: JFK Assassination Records Collection Act Compliance",
+  "date": "1997-03-05",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Tokyo",
+    "Kashii-Dai"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Beth Mills"
+  ],
+  "recipient": "Tokyo Station",
+  "sender": "Chief/OCC"
+}

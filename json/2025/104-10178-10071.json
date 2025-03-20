@@ -1,0 +1,38 @@
+{
+  "classification": "Operations",
+  "document_type": "Classified Message",
+  "security": "The operational details about drug trafficking routes and the use of individuals as informants could compromise ongoing intelligence activities and endanger the safety of those involved.  For example, the message states \"TWO SICILIANS LIVING PARIS ALREADY SUCCESSFULLY ENGAGED THIS TRAFFIC, ONE OF WHOM RECEIVED 50 KILOS OPIUM HONG KONG AND DELIVERED PERSONALLY IN STATES, ENTERING VIA CANADA.\"",
+  "security_level": "SECRET",
+  "summary": "A classified message from [LUXEMBOURG] station reports on a drug trafficking operation involving Chinese opium being smuggled into the United States via Canada, with details provided by an informant, Rabney, who was questioned about an individual named Armand Delacour and his associates.",
+  "summary_one_paragraph": "On May 4, 1959, a classified message from the [LUXEMBOURG] station to the Director reports on information received from informant Rabney (under HBFINCH cover) concerning a drug trafficking operation led by Armand Delacour, who offered the subject a role in smuggling Chinese opium into the U.S. via Canada. Delacour claimed that two Sicilians in Paris were already successfully engaged in this traffic. The message includes Delacour’s physical description and aliases, noting his prior convictions for smuggling narcotics from North Africa and his recent release from jail on theft charges.",
+  "tags": [
+    "CIA",
+    "Drug Trafficking",
+    "Opium",
+    "Smuggling",
+    "Informant",
+    "Armand Delacour",
+    "HBFINCH",
+    "Chinese Opium",
+    "Canada",
+    "Narcotics"
+  ],
+  "title": "Report on Drug Trafficking Operation",
+  "date": "1959-05-04",
+  "locations_mentioned": [
+    "Luxembourg",
+    "Paris",
+    "Hong Kong",
+    "Canada",
+    "United States",
+    "North Africa"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Armand Delacour",
+    "Rabney",
+    "QUBANNER"
+  ],
+  "recipient": "Director",
+  "sender": "[LUXEMBOURG] 15-19"
+}

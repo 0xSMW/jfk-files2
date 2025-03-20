@@ -1,0 +1,29 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security": "Revealing that LIENVOY-8 was the cause of a security problem could damage current or future agent relationships. Additionally, detailing LIENVOY-8's disapproval of ODTOKE's sharing could expose internal disagreements and vulnerabilities within the LIENVOY Project.",
+  "security_level": "SECRET",
+  "summary": "A dispatch from the Chief of WE Division to the Chief of Station, Mexico City, regarding LIENVOY-8, a source involved in the LIFEAT and LIENVOY Project. It requests clarification on his current status, analysis of his reliability, and comments on security concerns due to his past actions.",
+  "summary_one_paragraph": "This dispatch, sent from the Chief of WE Division to the Chief of Station in Mexico City, addresses concerns regarding LIENVOY-8, an individual linked to both the LIFEAT and LIENVOY projects. The dispatch reveals that LIENVOY-8, whose termination was previously assumed, is still technically covered by the LIENVOY Project. The message refers to a security incident in February 1960 where LIENVOY-8, described as a 'sour' nationalist, requested release and transfer to his parent organization due to disagreements over ODTOKE’s sharing practices. Headquarters now seeks an update on LIENVOY-8's present status, requesting an Agent Service Record if terminated, or a current reliability analysis and security assessment if still active, given his past behavior.",
+  "tags": [
+    "LIENVOY",
+    "LIFEAT",
+    "Mexico City",
+    "Agent",
+    "Security",
+    "ODTOKE",
+    "WE Division"
+  ],
+  "title": "LIENVOY-8",
+  "date": "1963-10-23",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "LIENVOY-8",
+    "ODTOKE"
+  ],
+  "recipient": "Chief of Station, Mexico City",
+  "sender": "Chief, WE Division"
+}

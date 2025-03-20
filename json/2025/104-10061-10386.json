@@ -1,0 +1,27 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "Releasing full text versions would divulge classified information related to sources and methods; sanitizing them would make the documents releasable under FOIA guidelines. The following text exemplifies why sanitization is important: \"the deletions were made to protect our proposed operational use of Subject as outlined in Paragraph 5, the name of an Agency employee and internal organizational data.\"",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This memorandum outlines recommendations for responding to a FOIA appeal from John W. Donovan, suggesting the release of four Agency documents in sanitized form and referral of one Department of Army document to the Army for their action.",
+  "summary_one_paragraph": "On December 18, 1975, A. B. Swider, DDO Appeals Officer, sent a memorandum to the Chairman of the Information Review Committee concerning the FOIA appeal of John W. Donovan (75-577). The memo recommends releasing four Agency documents in sanitized form, excising portions under Title 5 U.S.C. (b)(1), (b)(3), and (b)(6) to protect classified information, Agency employees, and internal organizational data. Additionally, it suggests referring a Department of Army name check form to the Army for their action. All documents classified as SECRET have been downgraded to CONFIDENTIAL based on this review, and Mr. Strickland of OGC has concurred with these recommendations.",
+  "tags": [
+    "FOIA",
+    "Information Review Committee",
+    "DDO",
+    "Sanitization",
+    "Declassification",
+    "John W. Donovan"
+  ],
+  "title": "FOIA Appeal--John W. Donovan (75-577)",
+  "date": "1975-12-18",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "John W. Donovan",
+    "H. G. Bean",
+    "A. B. Swider",
+    "Mr. Strickland"
+  ],
+  "recipient": "Chairman, Information Review Committee",
+  "sender": "A. B. Swider (DDO Appeals Officer)"
+}

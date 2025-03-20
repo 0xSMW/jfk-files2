@@ -1,0 +1,43 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security": "This cable discusses the U.S. government's (USG) response to a misinterpretation of a New York Times story by the Venezuelan government, as well as ongoing liaison activities with Venezuelan intelligence services (DIM and DISIP). It also mentions that DISIP has been tapping the phones of CIA officers and the New York Times representative, and that the Cuban ambassador provided a list of CIA personnel to the Venezuelan president. Exposing these details could damage relationships with Venezuelan intelligence, reveal surveillance activities, and compromise CIA personnel. For example: \"WKSCARLET-9 covertly reported that DISIP has definitely tapped at least COS's home phone...CAP himself instructed DISP Director to go out and get CIA and indicated to AMBASSADOR he was having security services look into CIA contact in Venezuela, particularly those with journalists.\"",
+  "security_level": "SECRET",
+  "summary": "A cable detailing the U.S. response to a misunderstanding by the Venezuelan government regarding a New York Times article, the state of U.S.-Venezuelan relations, and ongoing liaison activities with Venezuelan intelligence services, while also noting increased surveillance of CIA personnel.",
+  "summary_one_paragraph": "This cable from March 1977 discusses the aftermath of a misinterpretation by the Venezuelan government of a New York Times article involving David Phillips, with the U.S. Charge d'Affaires attempting to clarify the situation with Venezuelan officials. Despite efforts to ease the crisis and the Venezuelan government’s attempts to divert attention, anti-CIA sentiment persists in the media. Liaison with Venezuelan intelligence (DIM and DISIP) continues, though DISIP is also surveilling CIA personnel. The cable highlights the shift from relatively easy operating conditions to a more cautious approach due to increased scrutiny.",
+  "tags": [
+    "CIA",
+    "Venezuela",
+    "Liaison",
+    "Surveillance",
+    "David Phillips",
+    "New York Times",
+    "DIM",
+    "DISIP"
+  ],
+  "title": "Cable Regarding U.S.-Venezuelan Relations and CIA Activities",
+  "date": "1977-03-04",
+  "locations_mentioned": [
+    "Venezuela",
+    "New York",
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "David Phillips",
+    "Escovar Salom",
+    "Diego Arria",
+    "Eugenio Soler",
+    "President Perez",
+    "Jose Vicente Rangel",
+    "Pompeyo Marquez",
+    "Jesus Faria",
+    "Hernandez",
+    "Labanow",
+    "Joe Mann",
+    "Catalan",
+    "Crymm"
+  ],
+  "recipient": "Director",
+  "sender": "CARACAS"
+}

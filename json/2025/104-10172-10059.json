@@ -1,0 +1,46 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Revealing the identities of individuals being infiltrated for operation JEAN III and their Cuban connections could compromise the operation, endanger the individuals, and expose intelligence-gathering methods. For instance, the cable states: 'WILL INFIL FOLI SEVER INDIVIDUALS VIA GEN III NIGHT 23 MAR: (A) ALZO VERA SERAFIT...'",
+  "security_level": "Background Use Only",
+  "summary": "A cable from WAVE to BELL details the planned infiltration of several individuals into Cuba via Operation JEAN III on March 23, 1951, listing names, dates of birth, and places of origin.",
+  "summary_one_paragraph": "On March 23, 1951, WAVE sent a routine cable to BELL, outlining Operation JEAN III, which involves the infiltration of multiple individuals into Cuba. The cable, designated IN 4648 and citing reference WAVE 4569 (3731), lists seven individuals, including Alzo Vera Serafit, Braulio Contrera, Angel Posada Gutierrez, Rinaldo Hernandez Blanco, Rafael Garcia Rubio, Zenigno Perez, and Pedro Sergio Cuellar Alonso, along with their birthdates, places of origin, and any associated trainee numbers; it also mentions José Fernandez Sadue, known as \"Lucas,\" who had returned to Cuba via commercial air on the afternoon of March 22. The CS comment notes a request for approval to run Operation JEAN III.",
+  "tags": [
+    "CIA",
+    "Operation JEAN III",
+    "Infiltration",
+    "Cuba",
+    "Alzo Vera Serafit",
+    "Braulio Contrera",
+    "Angel Posada Gutierrez",
+    "Rinaldo Hernandez Blanco",
+    "Rafael Garcia Rubio",
+    "Zenigno Perez",
+    "Pedro Sergio Cuellar Alonso",
+    "José Fernandez Sadue"
+  ],
+  "title": "Operation JEAN III Infiltration Details",
+  "date": "1951-03-23",
+  "locations_mentioned": [
+    "Havana, Cuba",
+    "Playa, Cuba",
+    "Matanzuelo, Oriente",
+    "Pinar del Rio",
+    "Santiago de Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Alzo Vera Serafit",
+    "Braulio Contrera",
+    "Angel Posada Gutierrez",
+    "Rinaldo Hernandez Blanco",
+    "Rafael Garcia Rubio",
+    "Zenigno Perez",
+    "Pedro Sergio Cuellar Alonso",
+    "José Fernandez Sadue",
+    "BELL",
+    "WAVE"
+  ],
+  "recipient": "BELL",
+  "sender": "WAVE"
+}

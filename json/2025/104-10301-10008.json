@@ -1,0 +1,22 @@
+{
+  "classification": "Administrative",
+  "document_type": "Description",
+  "security": "Disclosing JMWAVE's organizational structure and staffing details could reveal operational capabilities, potentially compromising intelligence-gathering activities. The document specifies functions of different branches, such as the FI Section (Foreign Intelligence) and Special Operations Section, detailing HUMINT collection and paramilitary operations, respectively.",
+  "security_level": "SECRET",
+  "summary": "This document describes the organizational structure of JMWAVE, detailing the functions and staffing of its various branches, including Support, Operations, Covert Action, External Operations, Reports, and Technical Services.",
+  "summary_one_paragraph": "The document outlines the structure of JMWAVE, a CIA station, breaking down its components such as the Support Branch handling administrative tasks, the Operations Branch split into FI and Special Operations Sections, the Covert Action Branch focused on propaganda, and the External Operations Branch collecting HUMINT outside the target country; further sections included Reports, Technical Services, and Communications, all with specific staffing levels; the document also presents organization charts from 1961 and 1963 detailing the Deputy Director for Plans and related divisions.",
+  "tags": [
+    "JMWAVE",
+    "Organizational Structure",
+    "CIA",
+    "Staffing",
+    "Foreign Intelligence",
+    "Covert Action",
+    "HUMINT",
+    "Paramilitary Operations"
+  ],
+  "title": "Description of JMWAVE Components",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [],
+  "sender": "Chief of Station (JMWAVE)"
+}

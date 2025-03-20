@@ -1,0 +1,38 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Report",
+  "security": "Disseminating this report to unauthorized individuals could compromise sensitive intelligence sources and methods. The report contains information about ongoing surveillance and intelligence collection activities related to the Black Panther Party's Cleaver Faction. Quoting directly: 'SENSITIVE INTELLIGENCE SOURCES AND METHODS INVOLVED,' and 'The information in this report is being provided to your Bureau with the understanding that it will receive no further dissemination...without the prior approval of this office.'",
+  "security_level": "SECRET",
+  "summary": "A report details travel document requests from the Algerian government for members of the Cleaver Faction, including Eldridge Cleaver, and notes the arrests of Melvin MCNAIR and George BROWN on handgun possession charges.",
+  "summary_one_paragraph": "On March 6, 1973, a report was generated concerning travel document requests submitted to the Algerian government by William HOLDER, Melvin MCNAIR, Jean MCNAIR, Larry BURGESS (aka George Edward WRIGHT), Joyce BURGESS, George BROWN, Jean Catherine KERKOW, and Eldridge CLEAVER. A sensitive source speculates that CLEAVER's inclusion was to mislead Algerian authorities into thinking he was still in Algiers, despite his departure in early February 1973. The report further indicates that Melvin MCNAIR and George BROWN were separately arrested by Algerian police for handgun possession, though they were not detained for long. The report was prepared in response to a request for information regarding the Cleaver Faction and requires any further dissemination to be approved by the originating office.",
+  "tags": [
+    "CIA",
+    "FBI",
+    "Black Panther Party",
+    "Eldridge Cleaver",
+    "Algeria",
+    "Travel Documents",
+    "Surveillance",
+    "GADUEL"
+  ],
+  "title": "Travel from Algiers",
+  "date": "1973-03-06",
+  "locations_mentioned": [
+    "Algiers",
+    "New York"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "William HOLDER",
+    "Melvin MCNAIR",
+    "Jean MCNAIR",
+    "Larry BURGESS",
+    "George Edward WRIGHT",
+    "Joyce BURGESS",
+    "George BROWN",
+    "Jean Catherine KERKOW",
+    "Eldridge CLEAVER"
+  ],
+  "recipient": "Federal Bureau of Investigation (FBI)",
+  "sender": "CI/SO: MMullen"
+}

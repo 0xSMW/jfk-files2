@@ -1,0 +1,27 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing agent code names and operational details, especially the recovery of a pouch containing potentially sensitive information, could compromise ongoing operations and endanger involved individuals. The explicit mention of exfiltrating 'IMIRA SILIO' highlights a specific operation that could be jeopardized. Quoting directly: 'BEGIN AGENT ASG: \"ONE SIX INREE A POUCH ARRIVED NEXT TWO DEC X WILL RETRIEVE SOONEST XX ADVISE IF TOO IMIRA SILIO IS WILLISS BE EXFILTRATED X HE ONLY LINK IN CHAIN THAT WE KNOW OF BETWEEN YOU AND TONY XX JOSE X WILL PICK UP THINGS FROM MANOLO DIEGO NEXT TRIP MEXI X GORDA\".'",
+  "security_level": "SECRET",
+  "summary": "A highly classified message from JONAVE to the Director of the CIA discusses operational details regarding agent communications and planned retrieval of materials, mentioning possible exfiltration of an agent, and identifies code names of individuals involved in the operation.",
+  "summary_one_paragraph": "This SECRET message, dispatched on December 3, 1963, from JONAVE to the Director of the CIA, outlines agent communications. It references the arrival of a pouch to be retrieved, potential exfiltration of 'IMIRA SILIO' due to exposure, and relays code names. It also mentions 'TONY' being ANCANOE-3, 'JUDE' as AMRIPE-2, and 'MANOLO DIEGO' as related to ASRAPE-1, providing key operational intelligence and highlighting the sensitivity of the information being communicated.",
+  "tags": [
+    "CIA",
+    "Agent Communication",
+    "Code Names",
+    "Exfiltration",
+    "Cuba",
+    "JFK Assassination"
+  ],
+  "title": "Classified Message Regarding Agent Communications and Operations",
+  "date": "1963-12-03",
+  "persons_mentioned": [
+    "EMILIO (EXILIO CARBO)",
+    "TONY (ANCANOE-3)",
+    "JUDE (AMRIPE-2)",
+    "MANOLO DIEGO (Relative of ASRAPE-1)",
+    "IMIRA SILIO"
+  ],
+  "recipient": "Director",
+  "sender": "JONAVE"
+}

@@ -1,0 +1,22 @@
+{
+  "classification": "Operations",
+  "document_type": "Message",
+  "security": "The document discusses active members of AXANET handling ODTOKE classified clear text. This information could compromise secure communications channels if exposed.",
+  "security_level": "SECRET",
+  "summary": "This document indicates that PETRY is an active member of AXANET authorized to handle ODTOKE classified clear text, with a dedicated routing indicator assigned. It also notes that OTTA is an active MINIMER of AXANET with a RUSION routing indicator and handles only KUBARK traffic.",
+  "summary_one_paragraph": "This message, dated 12-10 with a control number of 588, states that PETRY is an active member of AXANET authorized to handle ODTOKE classified clear text and has a routing designator, BUSIN, assigned to them. Additionally, OTTA is reported to be an active MINIMER of AXANET, using the routing indicator RUSION and is designated to handle only KUBARK traffic, indicating a specialized communication role.",
+  "tags": [
+    "AXANET",
+    "ODTOKE",
+    "KUBARK",
+    "Routing Indicator",
+    "Classified Communication"
+  ],
+  "title": "BOOK MESSAGE",
+  "date": "1968-12-10",
+  "persons_mentioned": [
+    "PETRY",
+    "OTTA"
+  ],
+  "sender": "HADHOTE"
+}

@@ -1,0 +1,28 @@
+{
+  "classification": "Liaison",
+  "document_type": "Message",
+  "security": "Releasing information about a BSS (British Security Service) interview, especially when the BSS has strong objections based on the confidential and personal nature of the information, could damage the relationship between the CIA and BSS. Quoting directly: 'THE INFORMATION GIVEN TO THE SECURITY SERVICE BY MRS. SLOBODA, AS RECORDED IN THE INTERVIEW REPORT, WAS GIVEN TO US IN CONFIDENCE AND PASSED TO THE U.S. AUTHORITIES IN CONFIDENCE ALSO. ON THE GROUNDS OF ITS AGE AND THE PERSONAL NATURE OF ITS CONTENT, WE WOULD NOT PUBLICLY RELEASE SUCH A REPORT IN THE UK AND ASK THE U.S. AUTHORITIES TO WITHHOLD IT FROM PUBLIC RELEASE IN THE USA.'",
+  "security_level": "SECRET",
+  "summary": "This message discusses the proposed declassification and release to the JFK Review Board of a BSS document concerning a 1963 interview with Mrs. Lillian Sloboda, with the BSS strongly objecting to its release due to the confidential and personal nature of the information.",
+  "summary_one_paragraph": "A secret message dated July 30, 1998, from London to the Director, addresses the proposed declassification of a BSS (British Security Service) document for release to the JFK Review Board. The document in question describes a 1963 interview by a BSS officer with Mrs. Lillian Sloboda. The BSS has strongly objected to the release, even of a sanitized version, citing that the information was given in confidence and is of a personal nature; they would not release such a report publicly in the UK. The message seeks guidance on how to proceed given BSS's objections and asks for further explanation for BSS regarding the Review Board's interest in Soviet defectors, as the connection to the JFK assassination is not apparent.",
+  "tags": [
+    "JFK",
+    "Declassification",
+    "BSS",
+    "Lillian Sloboda",
+    "JFK Review Board",
+    "Soviet Defectors",
+    "Liaison",
+    "WNINTEL",
+    "RYBAT"
+  ],
+  "title": "Proposed Declassification of BSS Document for Release to <JFK>Board",
+  "date": "1998-07-30",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Lillian Sloboda",
+    "Liz Holehouse"
+  ],
+  "recipient": "Director",
+  "sender": "STAFF"
+}

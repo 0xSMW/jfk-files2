@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "The report details source information from a British service with contacts among exiles, and statements made by Manolo Ray, an exile leader. Exposing this information could compromise the source's identity and disrupt intelligence gathering efforts. Also, detailing the MRP's organization within Cuba and the support it enjoys within various sectors could jeopardize its members and operations.",
+  "security_level": "SECRET",
+  "summary": "A classified message from London relays statements by Manolo Ray, an exile leader, regarding the People's Revolutionary Movement (MRP) in Cuba and his opposition to a U.S. invasion, favoring internal resistance instead.",
+  "summary_one_paragraph": "This SECRET message, sent from London on October 24, 1961, reports intelligence from a British source about Manolo Ray, an exile leader of the People's Revolutionary Movement (MRP) in Cuba. Ray stated his opposition to a U.S. invasion of Cuba, emphasizing that Castro's overthrow should be achieved through internal resistance, which he claimed was already underway with support from all classes and members in various sectors including trade unions and the administration. He expressed the MRP's need for funds and trained exiles for infiltration, criticizing U.S. sources focused on an invasion and predicting Castro's downfall within a year, followed by a potentially dangerous civil war.",
+  "tags": [
+    "CIA",
+    "Manolo Ray",
+    "Cuba",
+    "People's Revolutionary Movement",
+    "MRP",
+    "Exile",
+    "Internal Resistance",
+    "Castro",
+    "Invasion",
+    "British Service",
+    "Intelligence",
+    "NOFORN"
+  ],
+  "title": "Statements of Manolo Ray",
+  "date": "1961-10-24",
+  "locations_mentioned": [
+    "Cuba",
+    "England",
+    "London",
+    "Caracas"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Manolo Ray",
+    "Castro"
+  ],
+  "recipient": "Director",
+  "sender": "London"
+}

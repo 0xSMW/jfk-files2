@@ -1,0 +1,33 @@
+{
+  "classification": "HSCA Administrative Folder, LEE HARVEY OSWALD",
+  "document_type": "Memorandum, Letter, Notes, Press Releases, Testimony, News Articles, Translation",
+  "security": "This document contains information about a closed-circuit television system used for surveillance, which, if revealed, could compromise intelligence-gathering methods. Additionally, it mentions a threat against the 'Johnson gang,' disseminated to the White House and Secret Service, potentially endangering individuals. Quoting: 'Each of you who continues to partake in the actions of the Johnson gang...will shortly pay with their lives.'",
+  "security_level": "Secret",
+  "summary": "This document includes an FBI memo regarding a closed-circuit television system installation for surveillance and a CIA advisory about a letter containing threats against the 'Johnson gang,' which was disseminated to the White House and Secret Service.",
+  "summary_one_paragraph": "This FBI file from December 28, 1966, contains a collection of administrative documents including a memo, letters, notes, press releases, testimony, news articles, and translations related to the HSCA administrative folder and Lee Harvey Oswald. The file includes information regarding the installation of a closed-circuit television system for surveillance purposes, as well as a CIA advisory concerning a letter received by the Swiss Federal Police from Joachim Joesten containing threats against the 'Johnson gang,' which was subsequently disseminated to the White House and Secret Service.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Surveillance",
+    "Threats",
+    "Joachim Joesten",
+    "Lee Harvey Oswald",
+    "HSCA",
+    "Closed-Circuit Television",
+    "Soviet Military Attache"
+  ],
+  "title": "HSCA ADMINISTRATIVE FOLDER, LEE HARVEY OSWALD VOLUME XII",
+  "date": "1966-12-28",
+  "locations_mentioned": [
+    "Milan, Italy",
+    "Switzerland"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "Joachim Joesten",
+    "Johnson"
+  ],
+  "recipient": "Wick",
+  "sender": "Jones"
+}

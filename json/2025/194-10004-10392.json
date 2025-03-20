@@ -1,0 +1,37 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "This document contains personal information, specifically addresses and family relationships, which if released could violate privacy. Specifically, it details the postal removal information related to Andre Ortiz and their relationship to Angel L. Rivera. Releasing such information could create risks to the privacy and safety of the individuals mentioned.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report regarding a character reference check for Manuel Marti. The report details findings from a postal removal check and a phone contact to verify information provided by Aleanso Ortiz, a listed reference.",
+  "summary_one_paragraph": "This agent report, dated November 21, 1968, details an investigation by Alphonso E. Marshall of the 108th MI Group (I-SIB) into the character reference provided by Aleanso Ortiz for Manuel Marti. The investigation included a postal removal check at the United States Post Office in the Bronx, New York, and a telephonic contact with Angel L. Rivera, a parole officer, to verify Ortiz's listed address. The report indicates discrepancies and lack of acquaintance between Rivera and both Ortiz and Marti.",
+  "tags": [
+    "Character Reference",
+    "Postal Removal Check",
+    "Manuel Marti",
+    "Aleanso Ortiz",
+    "Angel L. Rivera",
+    "INSCOM",
+    "Personnel Investigation"
+  ],
+  "title": "Character Reference Check for Manuel Marti",
+  "date": "1968-11-21",
+  "locations_mentioned": [
+    "San Juan, Puerto Rico",
+    "Bronx, New York",
+    "United States Post Office, 558 Grand Concourse",
+    "810 Hunts Point Avenue",
+    "1749 Grand Concourse"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Aleanso Ortiz",
+    "Andre Ortiz",
+    "Angel L. Rivera",
+    "Alphonso E. Marshall",
+    "Robert A Shugger",
+    "Auteri (Postal Inspector)"
+  ],
+  "sender": "USA (RESTRICTED)"
+}

@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing the recruitment of JORGE ANTONIO ABASOLO GARCIA as an intelligence asset would endanger his life and compromise ongoing operations. Disclosing AMSEVER-2's identity as an asset would also put them at risk. Quoting directly: \"RECENTLY ASKED SUBJ IF WOULD BE WILLING FURNISH 'CERTAIN INFORMATION' FOR A-2 WHOM SUBJ KNOWS AS ANTI-CASTRO. SUBJ GAVE TENTATIVE AGREEMENT BUT ASKED HOW FAR DO YOU WANT ME TO GO?\"",
+  "security_level": "SECRET",
+  "summary": "A classified message from Mexico City requests traces and a personality assessment of Jorge Antonio Abasolo Garcia, a Cuban industrial engineer with ties to Che Guevara, to potentially recruit him as an asset. It also details information received from Abasolo's brother, Gustavo, an existing asset (AMSEVER-2), about Jorge's disillusionment with the Cuban regime and potential willingness to provide information.",
+  "summary_one_paragraph": "This SECRET-level classified message, dated October 3, 1963, originates from the Mexico City station, requesting traces and a personality assessment on Jorge Antonio Abasolo Garcia, a Cuban industrial engineer who graduated from Georgia Tech and now works closely with Che Guevara in the Ministry of Industries. The message reveals that Garcia, disillusioned with the Cuban regime, is being considered for recruitment, based on information provided by his brother Gustavo Abasolo (AMSEVER-2), who works for Compania Interamericana de Seguros in Mexico and has maintained contact with Garcia through the Netherlands Embassy diplomatic pouch. The message suggests the station believes it might be able to persuade him stay in place and provides additional information regarding Garcia's ex-wife's family.",
+  "tags": [
+    "CIA",
+    "Recruitment",
+    "Asset",
+    "Cuba",
+    "Mexico",
+    "Counterintelligence",
+    "Abasolo Garcia",
+    "Che Guevara",
+    "AMSEVER-2"
+  ],
+  "title": "PERUMEN",
+  "date": "1963-10-03",
+  "locations_mentioned": [
+    "Mexico City",
+    "Cuba",
+    "Havana",
+    "Georgia",
+    "Bermuda",
+    "Netherlands"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Jorge Antonio Abasolo Garcia",
+    "Marie Faz Someillan",
+    "Ernesto \"Che\" Guevara",
+    "Gustavo Abasolo",
+    "Joaquin Mirabal"
+  ],
+  "recipient": "WW 8",
+  "sender": "Director"
+}

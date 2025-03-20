@@ -1,0 +1,49 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security": "This memo details individuals involved in Oswald's return to the US, including Abram Chayes and Samuel Wise, linking them to potential security risks and questionable associations. Revealing these connections could undermine ongoing or past operations and damage the agency's reputation. Quoting directly: \"...WISE was granted a CSA to permit his use as a contract employee on AEACTIVE in New York City. His CSA was cancelled on 24 March 1958.\" Revealing these details could compromise sources and methods.",
+  "security_level": "SECRET",
+  "summary": "A memo detailing Abram Chayes' and Samuel Wise's involvement in Lee Harvey Oswald's return to the US from the Soviet Union, including Chayes' security clearances and Wise's potential CIA connections and associations.",
+  "summary_one_paragraph": "This memo, dated January 29, 1964, from M.D. Stevens to Files, concerns the Lee Harvey Oswald case and identifies Abram Chayes, a State Department Legal Officer, and Llewellyn Thompson, then Ambassador to Russia, as being responsible for Oswald’s return to the U.S. from the Soviet Union in June 1962. It details Chayes' security clearances and liaison contacts, as well as information on Samuel Wise, Counsel in the American Embassy in Moscow, including his past application for CIA employment, contract work on AEACTIVE, and his association with William Orville Munsell, who was security disapproved for CIA employment. The memo also mentions allegations of Communist influence in Scarsdale High School, which Wise attended.",
+  "tags": [
+    "Lee Harvey Oswald",
+    "Abram Chayes",
+    "Llewellyn Thompson",
+    "Samuel Wise",
+    "State Department",
+    "CIA",
+    "Security Clearance",
+    "AEACTIVE",
+    "Communism"
+  ],
+  "title": "THE LEE HARVEY OSWALD CASE #351.164",
+  "date": "1964-01-29",
+  "locations_mentioned": [
+    "United States",
+    "Soviet Union",
+    "Moscow",
+    "Germany",
+    "New York City",
+    "Washington, D.C.",
+    "Denver",
+    "Dhahran, Saudi Arabia",
+    "Scarsdale, New York",
+    "Chicago"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "Abram Chayes",
+    "Llewellyn Thompson",
+    "Samuel Wise",
+    "J. Foster Collins",
+    "Archibald Roosevelt, Jr.",
+    "Francis E. Walter",
+    "Chester Bowles",
+    "Bruce Frederick Davis",
+    "William Orville Munsell",
+    "Antonia (Toni) Leigh Chayes, nee: Handler"
+  ],
+  "recipient": "Files",
+  "sender": "M. D. Stevens"
+}

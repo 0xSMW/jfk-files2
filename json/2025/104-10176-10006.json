@@ -1,0 +1,38 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security": "This document discusses ongoing operations involving intelligence sources, code names, and operational details regarding the infiltration and assessment of revolutionary groups. Releasing information about LIRING-3, LIRING-9, Humberto Gonzalez Vega, and their activities could expose intelligence sources, compromise ongoing operations, and provide adversaries with sensitive information. The document also contains personal information of individuals, which could endanger them. Quoting directly: 'LIRING-3 made contact on 5 December with one Humberto GONZALEZ Vega (no Station traces), who has apparently been designated by the FAR as the latter's contact with LIRING-3 in Mexico City...The Station plans to check further the identity given by GONZALEZ. Among other things, an attempt will be made via LIKAYAK-2 to check whether a file in that name exists in the archives of the Mexican Ministry of Gobernacion.'",
+  "security_level": "SECRET",
+  "summary": "A dispatch from the Chief of Station in Guatemala City, relaying reports on the LIRING-3 operation in Mexico City, focusing on contact with Humberto GONZALEZ Vega and related intelligence activities.",
+  "summary_one_paragraph": "This secret dispatch, originating from the Chief of Station in Guatemala City, forwards reports concerning the LIRING-3 operation in Mexico City. It highlights LIRING-3's contact with Humberto GONZALEZ Vega, who is apparently designated by the FAR as their contact in Mexico City. The dispatch details GONZALEZ's background selling books and potential connection to the BARRIOS brothers, and outlines plans to verify GONZALEZ's identity. It also reports on LIRING-3's discussions with LIRING-9 regarding a potential teaching job at the University of Jalapa versus a trip to PBRUMEN, and the receipt of a letter from Gustavo COLINDRES indicating the upcoming release of the BARRIOS brothers.",
+  "tags": [
+    "CIA",
+    "Guatemala",
+    "Mexico",
+    "LIRING-3",
+    "PBRUMEN",
+    "Humberto GONZALEZ Vega",
+    "FAR",
+    "Intelligence Operation",
+    "Counterintelligence"
+  ],
+  "title": "PBRUMEN/The LIRING-3 Operation",
+  "date": "1968-12-27",
+  "locations_mentioned": [
+    "Guatemala City",
+    "Mexico City",
+    "University of Jalapa"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Wallace B. ROWTON",
+    "Humberto GONZALEZ Vega",
+    "Gustavo COLINDRES Barrios",
+    "Miguel BARRIOS",
+    "Juan Leon BARRIOS",
+    "Francisco LARA Barrios",
+    "Carlos Antonio Castro"
+  ],
+  "recipient": "Chief, WH Division",
+  "sender": "Chief of Station, Guatemala City"
+}

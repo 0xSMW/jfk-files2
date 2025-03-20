@@ -1,0 +1,40 @@
+{
+  "classification": "Operations, Mexico, Soviet, Cuba, Administrative",
+  "document_type": "Report",
+  "security": "This document discusses sensitive intelligence operations, including audio surveillance (LIKIVOY, LIFEAT), agent recruitment, and technical collection against Soviet and Cuban embassies. It also mentions double-agent operations directed into the U.S. Exposing these details could compromise ongoing operations and relationships with the Mexican government, as well as reveal technical capabilities. Specific examples include '...heavy reliance is placed upon surveillance through telephons, photo, physical, and audio operations...' and '...double agents...might be used to, identify Soviet illegals in the U.S....'. Furthermore, it mentions a joint operation with the Mexican Government (LIKIVOY), disclosing that the Mexican Army personnel involved are carefully screened and receive high incentive wages.",
+  "security_level": "SECRET",
+  "summary": "This report details the Mexico City Station's operational activities, including those against Soviet, Cuban, and satellite targets, as well as administrative challenges such as registry workload and personnel issues; it highlights successes and areas needing improvement, such as agent recruitment and inter-station support efficiency.",
+  "summary_one_paragraph": "This report comprehensively reviews the Mexico City Station's operations, covering Soviet, Cuban, and Satellite targets, and administrative functions. It highlights the station's diverse activities, including high-level liaison, unilateral and joint operations with the Mexican government, and technical collection against Soviet and Cuban embassies, which gather extensive but often low-level intelligence; the station also manages Cuban refugee screening and supports Cuban operations originating in other CIA stations. The report identifies challenges such as the heavy registry workload, personnel issues, and the need to improve agent recruitment, particularly in Cuba, and recommends concentrating Cuban case officer efforts on developing resident assets and reducing inter-station support burdens. The report also assesses Soviet operations' reliance on technical means and the station's role in thwarting disaffected Americans attempting to contact the Soviets, referencing information related to Lee Harvey Oswald.",
+  "tags": [
+    "CIA",
+    "Mexico City Station",
+    "Soviet Operations",
+    "Cuban Operations",
+    "Satellite Operations",
+    "Technical Operations",
+    "LIENVOY",
+    "LIFEAT",
+    "Double Agents",
+    "Registry",
+    "Lee Harvey Oswald",
+    "Warren Commission",
+    "Counterintelligence",
+    "LIKAYAK",
+    "LILINK",
+    "EIPESO"
+  ],
+  "title": "Mexico City Station Operations Report",
+  "locations_mentioned": [
+    "Mexico City",
+    "Cuba",
+    "United States",
+    "Havana",
+    "Philippines",
+    "Guatemala"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "Lopes Mateos (President of Mexico)"
+  ]
+}

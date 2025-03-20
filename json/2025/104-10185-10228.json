@@ -1,0 +1,26 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memo",
+  "security": "Sharing details of safehouses and agent relocation could compromise operational security and endanger individuals involved in covert activities.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memo documenting the transfer of AMMUG to a new apartment in Silver Springs, Maryland, noting the apartment's initial unreadiness and subsequent furnishing.",
+  "summary_one_paragraph": "On July 1, 1964, a memo was created by Daniel Flores to record the relocation of AMMUG from safehouse #2 to a new apartment at (@500 14th Street, Silver Springs, Maryland). The memo notes the apartment was not fully prepared upon AMMUG's arrival at 1430 hours, with furniture not yet in place. The apartment was ready by 2000 hours the same day. The memo also details that the apartment lacked a phone and kitchen utensils, which were subsequently purchased by AMMUG along with sheets and a radio. Arrangements for telephone installation were made by Miss Petrowski.",
+  "tags": [
+    "Safehouse",
+    "Relocation",
+    "AMMUG",
+    "Silver Springs",
+    "Apartment",
+    "Daniel Flores"
+  ],
+  "title": "Memo for the Record: AMMUG Transfer to New Apartment",
+  "date": "1964-07-01",
+  "locations_mentioned": [
+    "Silver Springs, Maryland"
+  ],
+  "persons_mentioned": [
+    "AMMUG",
+    "Daniel Flores",
+    "Miss Petrowski"
+  ]
+}

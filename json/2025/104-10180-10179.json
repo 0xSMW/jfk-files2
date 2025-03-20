@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Message",
+  "security": "The message involves operational details regarding contacting an individual and relaying a message concerning Cuba. Disclosing such information could compromise ongoing intelligence operations and expose sources or methods. For example, the specific instruction to 'REQUEST KUSODA REP ASAP CONTACT MR. FREE TO RODRIGUE. CONZALES' could reveal operational protocols and targets.",
+  "security_level": "SECRET",
+  "summary": "A message from PHICTOR JABELL to FRITY MOVE requests contact with Mr. Free to relay a message from a son (FILIO) to RODRIGUE. GONZALES at the Berlitz School in regards to not returning to Cuba.",
+  "summary_one_paragraph": "On March 9, 1961, J.J. MULLANE (WH/4/Security) sent a message from PHICTOR JABELL to FRITY MOVE, requesting that KUSODA representative contact Mr. Free to relay a message to RODRIGUE. CONZALES at the Berlitz School. The message from his son FILIO states, 'DO NOT RETURN CUBA. EXPLANATION WILL FOLLOW IN LETTER.' The message also notes that the son was recently arrested and released, and authorities are seeking the father.",
+  "tags": [
+    "Cuba",
+    "Message Relay",
+    "Berlitz School",
+    "KUSODA",
+    "Operational Immediate"
+  ],
+  "title": "Request to Relay Message Regarding Cuba",
+  "date": "1961-03-09",
+  "locations_mentioned": [
+    "Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "J.J. Mullane",
+    "PHICTOR JABELL",
+    "FRITY MOVE",
+    "KUSODA",
+    "Mr. Free",
+    "RODRIGUE. GONZALES",
+    "FILIO"
+  ],
+  "recipient": "FRITY MOVE",
+  "sender": "PHICTOR JABELL"
+}

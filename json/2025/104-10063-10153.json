@@ -1,0 +1,34 @@
+{
+  "classification": "Operations",
+  "document_type": "Classified Message",
+  "security": "Disclosing details of ongoing traces and monitoring of individuals' travel patterns could alert those individuals to the surveillance, allowing them to take countermeasures. It reveals operational interest in 'stolen passports' and follow-up on BPP members and Chinese advisors. For instance, quoting: 'APPRECIATE REF A. IT FIRST INDICATION THAT WRIGHT HAS TRAVELED OUTSIDE ALGIERS AND ANY ADDITIONAL DETAILS WOULD BE APPRECIATED. HQS CHECKING FURTHER AND WILL ADVISE.'",
+  "security_level": "SECRET",
+  "summary": "A classified message from CIA Headquarters to Dar es Salaam and Nairobi stations, providing updates on traces related to 'Wright' and requesting additional information on stolen passports, Black Panther Party (BPP) members, and Chinese advisors.",
+  "summary_one_paragraph": "This SECRET classified message, dated February 1, 1973, from CIA Headquarters to Dar es Salaam and Nairobi, acknowledges receipt of information regarding an individual named 'Wright' and their travel patterns outside Algiers. The message provides updates on traces indicating Wright's arrival in Orly, France, in August 1970 and seeks further details on 'stolen passports,' Black Panther Party (BPP) members residing in an apartment area allocated to unidentified Chinese advisors. The communication emphasizes the need for additional information and follow-up actions, directing Dar es Salaam to provide the dispatch number and date pouched of survey E2 IMPDET WN-SISM.",
+  "tags": [
+    "CIA",
+    "Traces",
+    "Wright",
+    "Stolen Passports",
+    "Black Panther Party",
+    "Chinese Advisors",
+    "Surveillance",
+    "Counterintelligence"
+  ],
+  "title": "Traces on Wright and Stolen Passports",
+  "date": "1973-02-01",
+  "locations_mentioned": [
+    "Algiers",
+    "Orly, France",
+    "Dar es Salaam",
+    "Nairobi"
+  ],
+  "origin_agency": "CIA Headquarters",
+  "persons_mentioned": [
+    "Wright",
+    "Kintner",
+    "Mastrome"
+  ],
+  "recipient": "Dar es Salaam (Eyes Only Kintner), Nairobi (Eyes Only Mastrome)",
+  "sender": "JLong; PG;JH; jah, CI/SO"
+}

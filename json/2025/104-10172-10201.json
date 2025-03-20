@@ -1,0 +1,32 @@
+{
+  "classification": "Operations",
+  "document_type": "Routing and Record Sheet",
+  "security": "Releasing AESTORAGE information outside of Clandestine Services without written authorization could reveal sensitive sources and methods.  The document states: \"AESTORAGE information is not to be released outside of the Clandestine Services Components of CIA unless written authorization has been granted by C/SR/CI.\"",
+  "security_level": "SECRET",
+  "summary": "This is a routing and record sheet regarding AELADLE and AE STORAGE information. It concerns a source who transited Helsinki in May 1961 and was later interrogated by the KGB in Moscow about contacts with the KGB Legal Residency in Helsinki.",
+  "summary_one_paragraph": "This document is a routing and record sheet from SR/CI/K, dated November 15, 1965, concerning AELADLE and AE STORAGE. It notes that AE STORAGE represents collated information from reliable and sensitive sources and is not to be released outside the Clandestine Services Components of the CIA without written authorization from C/SR/CI. The document details a source who transited Helsinki in May 1961, obtained a visa from one KLIMOV, and was subsequently interrogated by the KGB in Moscow about contacts with the KGB Legal Residency in Helsinki. Additionally, the source was later informed by the KGB that they were unlikely to be assigned to the United States due to a defector in Helsinki being able to identify them.",
+  "tags": [
+    "AELADLE",
+    "AE STORAGE",
+    "KGB",
+    "Helsinki",
+    "Source",
+    "Defector",
+    "Clandestine Services",
+    "Counterintelligence"
+  ],
+  "title": "AELADLE",
+  "date": "1965-11-15",
+  "locations_mentioned": [
+    "Helsinki",
+    "Soviet Embassy",
+    "Moscow",
+    "United States"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "KLIMOV"
+  ],
+  "recipient": "CI/R and A, TRHML, Ru Rocca, e/e/, 01/516 M.Sall, purs. E",
+  "sender": "SR/CI/K - [CURTS]"
+}

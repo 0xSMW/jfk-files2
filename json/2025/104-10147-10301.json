@@ -1,0 +1,34 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "Disclosing Oltmans' contacts with Cuban and Soviet diplomats, along with his travel information, could expose sources and methods used to monitor individuals of interest. Specifically, the cable's indication that Oltmans is a \"SENSITIVE SYMPATHIZER SOURCE\" reveals the nature of the intelligence source, potentially jeopardizing their safety and future intelligence gathering. Sharing: \"SENSITIVE SYMPATHIZER SOURCE INDICATES THAT ON 3 OCTOBER WILLEM OLTMANS MADE APPOINTMENT MEET WITH CUBAN AMBASSADOR, THE HAGUE...\"",
+  "security_level": "SECRET",
+  "summary": "A cable reports on Willem Oltmans' meetings and contacts with Cuban and Soviet diplomats, noting his travel to the USSR and Cuba, and suggests conveying this information to Congressional authorities due to Oltmans' connection to George de Mohrenschildt.",
+  "summary_one_paragraph": "This SECRET cable, dated November 1977, details Willem Oltmans' scheduled meetings with the Cuban and Russian ambassadors in The Hague and his recent travels to the USSR. It cites a \"SENSITIVE SYMPATHIZER SOURCE\" as the origin of this information. The cable emphasizes Oltmans' past notoriety related to the death of George de Mohrenschildt, a figure of interest to both the Senate Select Committee on Intelligence and the House Assassinations Subcommittee, and suggests that Headquarters (HQS) convey this information to appropriate congressional authorities, provided adequate source protection is ensured. The cable indicates that the information pertains to file 201-155221.",
+  "tags": [
+    "Willem Oltmans",
+    "George de Mohrenschildt",
+    "Cuban Ambassador",
+    "Soviet Ambassador",
+    "USSR",
+    "Cuba",
+    "HSCA",
+    "Senate Select Committee on Intelligence",
+    "Source Protection",
+    "Sensitive Sympathizer Source"
+  ],
+  "title": "Report on Willem Oltmans' Contacts with Cuban and Soviet Diplomats",
+  "date": "1977-11-09",
+  "locations_mentioned": [
+    "The Hague",
+    "USSR",
+    "Cuba"
+  ],
+  "persons_mentioned": [
+    "Willem Oltmans",
+    "George de Mohrenschildt",
+    "Ambassador Romanov"
+  ],
+  "recipient": "Director, R",
+  "sender": "HAGU (The Hague)"
+}

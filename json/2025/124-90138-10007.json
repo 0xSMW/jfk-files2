@@ -1,0 +1,33 @@
+{
+  "classification": "Liaison; Intelligence Matters; Cuba",
+  "document_type": "Memo",
+  "security": "This memo discusses potential intelligence and/or propaganda data related to Cuba that could be of interest to the US Government. It involves the cooperation of the CIA, possibly through the Spanish Government or Swiss Embassy in Havana, to obtain Garcia's papers from Vergara. Revealing these channels and interests could compromise intelligence gathering methods and international relations: \"If feasible, it is requested that your Agency take the necessary steps, possibly through the Spanish Government or through the Swiss Embassy in Havana, to obtain Garcia's papers since they could conceivably contain intelligence and/or propaganda data of interest to the United States Government.\"",
+  "security_level": "Secret",
+  "summary": "The FBI requests the CIA's assistance in obtaining papers from a person named Vergara, which are currently held by Garcia, and may contain intelligence and/or propaganda data of interest to the United States Government.",
+  "summary_one_paragraph": "On October 2, 1963, the FBI sent a memo to the CIA requesting assistance in retrieving papers held by Garcia from Vergara. Garcia had no contact with Vergara since leaving Cuba, and is willing to instruct Vergara to deliver the papers to a designated person, with the letter made available to the FBI for delivery. The State Department preferred that the CIA handle this matter, potentially through the Spanish Government or Swiss Embassy in Havana, due to the papers' potential intelligence and/or propaganda value. The Miami Office of the FBI would review the papers and share pertinent data with interested agencies of the U.S. Government.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "CIA Liaison",
+    "Cuba",
+    "Intelligence",
+    "Propaganda",
+    "Garcia",
+    "Vergara"
+  ],
+  "title": "CIA LIAISON MATERIAL",
+  "date": "1963-10-02",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Miami"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Vergara",
+    "Garcia",
+    "H. Bartlett",
+    "John MacDonald"
+  ],
+  "sender": "HQ (FBI Headquarters) to CIA Headquarters"
+}

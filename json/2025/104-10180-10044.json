@@ -1,0 +1,41 @@
+{
+  "classification": "Cuba",
+  "document_type": "IDCS Information Report Transmittal",
+  "security": "Revealing that AMMUG-1 reported on a Communist Party of El Salvador request for explosives and the Cuban government's policy shift to sending money instead of arms could expose intelligence sources and methods. Quoting directly: 'Following is a translation of a report submitted by AMMUG-1 concerning a shipment of explosives to Mexico...told me not to send the explosives as the orders now were to send nothing but money due to the recent exposure of the arms shipment to Venezuela.' This information could damage relations with involved countries and compromise ongoing operations.",
+  "security_level": "SECRET",
+  "summary": "A transmittal of an IDCS information report details a request from the Communist Party of El Salvador for explosives to be sent via Mexico, and Cuba's subsequent decision to send money instead due to exposure of arms shipments to Venezuela.",
+  "summary_one_paragraph": "This SECRET IDCS information report transmittal, dated July 20, 1964, from B. Browner to multiple recipients including CI/CPS and CA, relays information from AMMUG-1 concerning a request by the Communist Party of El Salvador to receive twenty-five quarter-pound packages of gelatin explosives via Mexico. The report indicates that Manuel PINEIRO initially approved the shipment but Rogelio RODRIGUEZ Lopez mentioned explosives were available in the embassy, and later, PINEIRO changed the order, instructing that only money be sent due to the recent exposure of arms shipments to Venezuela.",
+  "tags": [
+    "CIA",
+    "IDCS",
+    "Information Report",
+    "Explosives",
+    "Mexico",
+    "Cuba",
+    "El Salvador",
+    "Communist Party",
+    "Arms Shipment",
+    "AMMUG-1"
+  ],
+  "title": "PBRUMEN/AMC/Operational; Shipment of explosives to Mexico",
+  "date": "1964-07-20",
+  "locations_mentioned": [
+    "Mexico",
+    "El Salvador",
+    "Venezuela",
+    "Cuba",
+    "Mexico City",
+    "Nuevo Laredo"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "AMMUG-1",
+    "Manuel PINEIRO",
+    "Rogelio RODRIGUEZ Lopez",
+    "Esther GAVILAN Rosales",
+    "Clark D. Andersen",
+    "Winston M. Scott"
+  ],
+  "recipient": "CI/CPS, CI/IC, FI, FI/D, IT/15 ,4, CA 2, CA/PES, DD",
+  "sender": "D. Browner"
+}

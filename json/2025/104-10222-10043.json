@@ -1,0 +1,32 @@
+{
+  "classification": "Personnel",
+  "document_type": "Personnel Action Request",
+  "security": "Revealing personnel assignments could potentially expose operational details or create security risks by identifying individuals involved in sensitive activities.",
+  "security_level": "SECRET",
+  "summary": "This document contains personnel action requests for Floryan R. Karty, indicating reassignments within the CIA, specifically involving transfers between Mexico City and Bangkok.",
+  "summary_one_paragraph": "This file pertains to Floryan R. Karty and includes personnel actions dated July 1951 to September 1972. It features two 'Request for Personnel Action' forms, one documenting a reassignment for Karty within the DDP/WH branch to the Mexico, Mexico Station, and another indicating a reassignment from DDP/PE/2120/Bangkok Station/Operations Branch, both as an OPS Officer. These forms detail organizational designations, position titles, salary grades, and relevant remarks concerning the personnel changes and distribution of copies.",
+  "tags": [
+    "CIA",
+    "Personnel Action",
+    "Floryan R. Karty",
+    "Reassignment",
+    "Mexico City",
+    "Bangkok",
+    "OPS Officer"
+  ],
+  "title": "Karty, Floryan R.",
+  "date": "1951-07-10",
+  "locations_mentioned": [
+    "Mexico City, Mexico",
+    "Bangkok, Thailand"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Floryan R. Karty",
+    "Cashman",
+    "Dwight M. Collins",
+    "Spicer"
+  ],
+  "recipient": "Office of Personnel",
+  "sender": "DDP/WH/OO/MEXICO STATION and DDP/PE/2120/BANGKOK STATION/OPERATIONS BRANCH"
+}

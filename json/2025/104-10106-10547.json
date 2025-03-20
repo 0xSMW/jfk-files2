@@ -1,0 +1,24 @@
+{
+  "classification": "Security",
+  "document_type": "Letter",
+  "security": "Releasing information about an employee's credentials could potentially expose internal security procedures, which could then be exploited. The letter states, 'In the event of an inquiry, this information may be released to verify the authenticity of this credential.' This could be used to create false credentials by those who know this verification process.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This letter from the Office of Security, Federal Aviation Agency, to Mr. Charles F. Niles confirms that William K. Harvey was issued Federal Aviation Agency Credential Number 4883 on January 2, 1963, and authorizes the release of this information to verify the credential's authenticity.",
+  "summary_one_paragraph": "On April 10, 1963, Nicholas R. Zubon, Chief of the Building Security Branch within the Office of Security of the Federal Aviation Agency, sent a confidential letter to Mr. Charles F. Niles of the Security Division, Federal Aviation Agency, to confirm that William K. Harvey, an agency employee, had been issued Federal Aviation Agency Credential Number 4883 on January 2, 1963. The letter authorizes the release of this information to verify the credential's authenticity in the event of an inquiry.",
+  "tags": [
+    "Federal Aviation Agency",
+    "Security Credential",
+    "William K. Harvey",
+    "Credential Verification"
+  ],
+  "title": "HARVEY, WILLIAM K.",
+  "date": "1963-04-10",
+  "origin_agency": "Federal Aviation Agency, Office of Security",
+  "persons_mentioned": [
+    "William K. Harvey",
+    "Charles F. Niles",
+    "Nicholas R. Zubon"
+  ],
+  "recipient": "Charles F. Niles",
+  "sender": "Nicholas R. Zubon"
+}

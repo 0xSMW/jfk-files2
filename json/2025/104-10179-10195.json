@@ -1,0 +1,40 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing the identity of ODACID officer Michael H. Martuffi and his interactions with IOEN could compromise ongoing operations. The message indicates IOEN is potentially linked to KUBARK or another entity of interest. Sharing this information could expose sources and methods. Stating: 'UNDER COVER OF ODACID POLIT OFFICER MICHAEL H. MARTUFFI MET IOEN...'",
+  "security_level": "SECRET",
+  "summary": "A classified message from San Jose reports on a meeting between ODACID officer Michael H. Martuffi and IOEN, a visiting \"engineering consultant\", who inquired about Natolo Ray's training efforts in Costa Rica, prompting suspicion of IOEN's potential involvement with KUBARK or other entities.",
+  "summary_one_paragraph": "This SECRET classified message from the CIA station in San Jose details a meeting between ODACID officer Michael H. Martuffi, operating under cover, and an individual named IOEN, described as a visiting \"engineering consultant.\" During their conversation, IOEN requested information regarding Natolo Ray's training activities in Costa Rica, suggesting a possible link or interest from \"OUR GOVERNMENT\" or an employer like ODYCKE. Martuffi provided limited information, while IOEN revealed connections to Manolo Ray and a boat purchase in Puerto Rico. The message seeks information on IOEN’s background, connections in Europe, and potential affiliations with KUBARK.",
+  "tags": [
+    "CIA",
+    "ODACID",
+    "Michael H. Martuffi",
+    "IOEN",
+    "Natolo Ray",
+    "Costa Rica",
+    "Manolo Ray",
+    "KUBARK",
+    "Cuba",
+    "AMWORLD",
+    "RYBAT"
+  ],
+  "title": "Report on Meeting Between ODACID Officer and IOEN Regarding Natolo Ray's Training Efforts in Costa Rica",
+  "date": "Unknown",
+  "locations_mentioned": [
+    "San Jose",
+    "Costa Rica",
+    "Puerto Rico",
+    "Europe",
+    "Jacksonville, Florida"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Michael H. Martuffi",
+    "IOEN",
+    "Natolo Ray",
+    "Manolo Ray",
+    "Zachary De Caster"
+  ],
+  "recipient": "Director",
+  "sender": "San Jose"
+}

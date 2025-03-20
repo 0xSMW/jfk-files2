@@ -1,0 +1,20 @@
+{
+  "classification": "Administrative",
+  "document_type": "Message",
+  "security": "Releasing the identities of individuals (Joseph Montllor, John E Barber, and Goodwin Shapiro) could potentially compromise their privacy or security. Quoting directly: 'IDEN A JOSEPH MONTLLOR, IDEN B JOHN E BARBER, IDEN C GOODWIN SHAPIRO'.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This message identifies three individuals: Joseph Montllor, John E Barber, and Goodwin Shapiro.",
+  "summary_one_paragraph": "The message, labeled B180, simply identifies three individuals: Joseph Montllor (IDEN A), John E Barber (IDEN B), and Goodwin Shapiro (IDEN C). There is no additional context or information provided about these individuals or the purpose of their identification.",
+  "tags": [
+    "identification",
+    "Joseph Montllor",
+    "John E Barber",
+    "Goodwin Shapiro"
+  ],
+  "title": "Identification of Joseph Montllor, John E Barber, and Goodwin Shapiro",
+  "persons_mentioned": [
+    "Joseph Montllor",
+    "John E Barber",
+    "Goodwin Shapiro"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "Providing cover employment for Luis Posada Carriles and Alberto de Jesus Alberty Garcia involves creating false employment records and potentially misleading third parties about their actual activities. This could compromise operations if discovered and could damage the CIA's reputation if the cover is exposed. Specifically, the memo states: 'action and status cover with Tri-State Engineering Service, Inc. has been arranged for Subjects.' and acknowledges specific salaries and employment dates for each individual.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This memo outlines the arrangement of cover employment for Luis POSADA Carriles and Alberto de Jesus ALBERTY Garcia with Tri-State Engineering Service, Inc. to provide a plausible explanation for their activities.",
+  "summary_one_paragraph": "A memorandum dated October 25, 1965, details the establishment of cover employment for Luis POSADA Carriles and Alberto de Jesus ALBERTY Garcia through Tri-State Engineering Service, Inc., located in Miami, Florida. Luis POSADA is assigned the role of Technical Supervisor at $400 per month, effective September 1, 1965, while Alberto ALBERTY is designated as a Technician/Instructor at $485 per month, starting September 13, 1965, following his termination from Radio & Electronics Equipment Company on September 10, 1965. The memo requests that the Case Officer inform Alberty and Posada of the cover story, with a copy included in their individual 201 files.",
+  "tags": [
+    "Cover Employment",
+    "Luis Posada Carriles",
+    "Alberto de Jesus Alberty Garcia",
+    "Tri-State Engineering Service, Inc.",
+    "Miami",
+    "Cover Story"
+  ],
+  "title": "Cover for Luis POSADA Carriles and Alberto de Jesus ALBERTY Garcia",
+  "date": "1965-10-25",
+  "locations_mentioned": [
+    "Miami, Florida"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Luis POSADA Carriles",
+    "Alberto de Jesus ALBERTY Garcia",
+    "Peter T. Day"
+  ],
+  "recipient": "Chief, Training Br",
+  "sender": "Chief, Cover Br"
+}

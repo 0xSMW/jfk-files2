@@ -1,0 +1,36 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Dispatch",
+  "security": "Revealing details of meetings with business representatives to influence propaganda efforts could compromise future operations and damage relationships. Specifically, mentioning \"a policy decision to keep DKHERALD contact with U. S. business representatives discreet\" and discussing strategies to counter leftist propaganda could expose covert activities.",
+  "security_level": "SECRET",
+  "summary": "A CIA dispatch discusses a luncheon meeting in Mexico City with U.S. business representatives, including KDACETONE-1, to discuss countering leftist propaganda in SIEMPRE and concerns about nationalization in Mexico.",
+  "summary_one_paragraph": "This SECRET dispatch from the Chief of Station in Mexico City to the Chief of the Western Hemisphere Division details a discreet luncheon meeting with KDACETONE-1 (IDENTITY 1), David C. HIGBY, and Floyd N. AIMONET to discuss strategies for countering leftist propaganda in the Mexican magazine SIEMPRE. The meeting, held in lieu of formal briefings to maintain discretion, involved discussions about Mexican affairs, particularly concerns about the nationalization process under President ECHEVERRIA. HIGBY effectively redirected KDACETONE-1's efforts to counter the propaganda, while also laying the groundwork for future relations with members of IDENTITY 2 (American Chamber of Commerce Mexico), emphasizing compartmented use of individual members rather than the organization as a whole.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "Propaganda",
+    "KDACETONE-1",
+    "DKHERALD",
+    "SIEMPRE",
+    "American Chamber of Commerce",
+    "Nationalization",
+    "ECHEVERRIA",
+    "US Business Representatives"
+  ],
+  "title": "Operational/Meeting with KDACETONE-1",
+  "date": "1973-05-11",
+  "locations_mentioned": [
+    "Mexico City",
+    "Mexico"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "KDACETONE-1",
+    "David C. HIGBY",
+    "Floyd N. AIMONET",
+    "President ECHEVERRIA",
+    "George Blake"
+  ],
+  "recipient": "Chief, Western Hemisphere Division",
+  "sender": "Chief of Station, Mexico City"
+}

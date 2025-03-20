@@ -1,0 +1,38 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security": "This cable discusses planned meetings and movements of an individual (‘DESIGNET’) potentially involved in sensitive operations ('KUBARKER' debriefing). Disclosing these plans could compromise ongoing intelligence activities and endanger the individuals involved. For example, disclosing '...PLANS DEPART ITALY 6 OCT TO VISIT FRIENDS SUISSE TIEN PROCEEDING TED TO TAKE IBERIA FLIGHT DIRECT PERUMEN 11 OCT…' would expose DESIGNET's travel plans.",
+  "security_level": "SECRET",
+  "summary": "A cable detailing travel plans and meetings for an individual ('DESIGNET') who is a former resident of PERUMEN, traveling on business for IDEN B, with plans to visit Switzerland and return to PERUMEN before a debriefing/briefing by 'KUBARKER'. It requests contact in Mexico City for a brief exit.",
+  "summary_one_paragraph": "This September 1963 cable outlines the itinerary of 'DESIGNET,' a former long-term resident of PERUMEN traveling on behalf of IDEN B, who will depart Italy around October 6 to visit friends in Switzerland before flying directly to PERUMEN on October 11. 'DESIGNET' intends to leave PERUMEN approximately two weeks after arrival for a brief trip to an undisclosed location ('X') for debriefing and briefing by 'KUBARKER', with the hope of returning to PERUMEN for an additional two to three months. The message also mentions a contact named APBADAIN and a MISKOLCABLE ROME request, urging contact in Mexico City for a brief exit.",
+  "tags": [
+    "CIA",
+    "Travel Plans",
+    "Operations",
+    "Mexico City",
+    "KUBARKER",
+    "PERUMEN",
+    "IDEN B",
+    "DESIGNET"
+  ],
+  "title": "KAPOK KEYWAY PERUMEN 72346",
+  "date": "1963-09",
+  "locations_mentioned": [
+    "Mexico",
+    "Rome",
+    "Italy",
+    "Suisse",
+    "Switzerland",
+    "PERUMEN"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "DESIGNET",
+    "IDEN A",
+    "IDEN B",
+    "APBADAIN",
+    "KUBARKER"
+  ],
+  "recipient": "MEXI, ROME, WAVE",
+  "sender": "DIRECTOR"
+}

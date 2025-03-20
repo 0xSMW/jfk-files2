@@ -1,0 +1,27 @@
+{
+  "classification": "Oswald",
+  "document_type": "Cable",
+  "security": "Releasing the cable could potentially compromise intelligence-gathering methods or reveal sensitive information about liaison services. The cable discusses the release of a document and mentions the need to delete crypts, indicating concern over exposing classified communication methods: \"STATION CANNOT MAKE A CASE AGAINST RELEASE OF THIS MATERIAL WE WOULD INSIST, HOWEVER, THAT CRYPTS BE DELETED AS REF INDICATED WOULD BE THE CASE.\"",
+  "security_level": "SECRET",
+  "summary": "A cable from Copenhagen station to the Director, regarding the release of a classified document related to Lee Harvey Oswald, seeks guidance on whether to prevent its release due to incomplete information and insists on the deletion of crypts if the release proceeds.",
+  "summary_one_paragraph": "In February 1996, the Copenhagen station sent a SECRET cable to the Director concerning the potential release of a classified document pertaining to Lee Harvey Oswald. The station reported receiving an incomplete fax, including a cover sheet, a one-page Copenhagen cable stating \"NO TRACES,\" and the first page of a Director cable requesting traces on Oswald. The station requests clarification on whether the missing portions of the Director cable have a bearing on Denmark, which would justify preventing the release. If the release proceeds, the station insists that crypts be deleted and requests to be informed of the release date to notify the Ambassador and liaison service chiefs.",
+  "tags": [
+    "Lee Harvey Oswald",
+    "Classified Document Release",
+    "Crypts",
+    "Liaison Service",
+    "Denmark"
+  ],
+  "title": "Release of Classified Document",
+  "date": "1996-02-08",
+  "locations_mentioned": [
+    "Copenhagen",
+    "Denmark"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Lee Harvey Oswald"
+  ],
+  "recipient": "Director",
+  "sender": "Copenhagen Station"
+}

@@ -1,0 +1,48 @@
+{
+  "classification": "Mexico",
+  "document_type": "Intelligence Summary",
+  "security": "This document details intelligence activities and sources, including meetings with Soviet officials and methods for gathering information. Disclosing these details could compromise intelligence sources and methods. For example, the document states, \"MEX 87 deposited his Message No. 22 in the established [s] dead drop on January 25, 1960, and generally answered the questions posed in the prior Soviet message.\" ",
+  "security_level": "Secret",
+  "summary": "This FBI report from February 10, 1960, summarizes intelligence from Mexico, covering Lopez Mateos' South American trip, Caribbean political situations, activities of the Mexican Communist Party and Popular Party, Soviet intelligence activities, and Cuban exile activities.",
+  "summary_one_paragraph": "This secret FBI report, dispatched from the Legat in Mexico to the Director on February 10, 1960, provides a monthly intelligence summary that includes several key areas of interest. It covers President Lopez Mateos' South American trip, detailing its focus on economic collaboration and emotional impact. The report also addresses the Caribbean political climate, specifically Cuba's support meeting in Mexico City and Nicaragua's planned invasion with pro-Communist backing, in addition to the deteriorating situation in Haiti. Furthermore, it presents activities of the Mexican Communist Party (PCM) and Popular Party (PP), including reorganization efforts and events. The document also identifies Valentin Vasilevich Bakulin as a new Soviet principal and outlines his interactions with a source in Los Angeles and details about dead drop locations and communications. Lastly, the report includes information on Cuban exile groups in Mexico and the United States, and a potential invasion of Nicaragua.",
+  "tags": [
+    "FBI",
+    "Intelligence Summary",
+    "Lopez Mateos",
+    "South American Trip",
+    "Caribbean Political Situation",
+    "Cuban Exile Activities",
+    "Mexican Communist Party",
+    "Soviet Intelligence",
+    "Valentin Vasilevich Bakulin",
+    "David Alfaro Siqueiros"
+  ],
+  "title": "MONTHLY INTELLIGENCE SUMMARY",
+  "date": "1960-02-10",
+  "locations_mentioned": [
+    "Mexico",
+    "South America",
+    "Cuba",
+    "Nicaragua",
+    "Haiti",
+    "Los Angeles"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Lopez Mateos",
+    "David Alfaro Siqueiros",
+    "Fidel Castro",
+    "Ernesto \"Che\" Guevara",
+    "Valentin Vasilevich Bakulin",
+    "Emilio Nunez Portuondo",
+    "Jose Eleuterio Pedraza Cabrera",
+    "Pedro Luis Diaz Lanz",
+    "Rolando Masferrer",
+    "Roberto Fernandez Miranda",
+    "Norman Rothman",
+    "Vicente Lombardo Toledano",
+    "Eisenhower"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "LEG, MX"
+}

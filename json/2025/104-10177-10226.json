@@ -1,0 +1,36 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Outgoing Message/Intelligence Information Cable",
+  "security": "This document reveals sensitive intelligence sources and methods, including a unilateral station asset (WKDIET-2) and a penetration of liaison (CASCARLET-4). It also mentions operational details such as the recruitment, training, and termination of Ricardo Morales Navarrete, as well as his connections to individuals involved in the Cubana airliner bombing. Disclosing these details could compromise ongoing intelligence operations, endanger sources, and expose the CIA's methods of gathering information and penetrating foreign organizations. Quoting directly: “SENSITIVE INTELLIGENCE SOURCES AND METHODS INVOLVED NOT RELEASABLE TO FOREIGN NATIONALS--NOT RELEASABLE TO CONTRACTORS OR CONTRACTOR/CONSULTANTS--DISSEMINATION AND EXTRACTIBON OF INFORMATION CONTROLLED BY ORIGINATOR.”",
+  "security_level": "SECRET",
+  "summary": "The document discusses Ricardo Morales Navarrete, a Cuban exile with connections to the CIA and the bombing of a Cuban airliner, and his possible travel to the U.S., along with allegations that he and other Venezuelan security officials are U.S. intelligence agents.",
+  "summary_one_paragraph": "This series of outgoing messages and intelligence information cables from December 1976 concerns Ricardo Morales Navarrete, a Cuban exile employed by the Venezuelan Directorate for the Services of Intelligence and Prevention (DISIP), and his potential travel to the United States. The CIA is investigating Morales's possible U.S. destination, linked to telephone contact with Pilar Alfonzo in Florida, and providing background information on Morales, including his past involvement with the CIA, his connections to individuals implicated in the Cubana airliner bombing, and allegations that he and other Venezuelan officials are U.S. agents. The reports include information from various sources, including WKDIET-2, and discuss the Venezuelan government's investigation into the charges against Morales and the other officials.",
+  "tags": [
+    "CIA",
+    "Ricardo Morales Navarrete",
+    "Cuban Exile",
+    "Venezuela",
+    "DISIP",
+    "Cubana Airliner Bombing",
+    "WKDIET-2",
+    "CASCARLET-4",
+    "FBI",
+    "Miami",
+    "Counterintelligence"
+  ],
+  "title": "Possible Travel to the U.S. of Ricardo Morales Navarrete",
+  "persons_mentioned": [
+    "Ricardo Morales Navarrete",
+    "Pilar Alfonzo",
+    "Orlando Garcia Vasquez",
+    "Orlando Bosch",
+    "Manuel de Armas",
+    "Humberto Giffuni",
+    "Octavio Lepage",
+    "Carlos Andres Perez",
+    "Rafael Rivas Vasquez",
+    "Norberto Hernandez Curbelo",
+    "Luis Posada"
+  ],
+  "sender": "CIA (Harriet Weiler:LU, I. Cooley:PM, Staff D, UNINTEL, INTEL )"
+}

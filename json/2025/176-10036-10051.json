@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Information Report",
+  "security": "This material contains information affecting the National Defense of the United States within the meaning of the Espionage Laws, Title 18, U.S.C Secs. 793 and 794, the transmission or revelation of which in any manner to an unauthorized person is prohibited by law.",
+  "security_level": "SECRET",
+  "summary": "A CIA information report details a possible Cuban exile base being established in Nicaragua and the varying strategies of different exile groups regarding actions against the Castro regime.",
+  "summary_one_paragraph": "This CIA information report, dated August 10, 1963, relays information obtained from a British source regarding the potential establishment of a Cuban exile base in Nicaragua, reportedly agreed upon by President Somoza of Nicaragua and Manuel Artime of the exile group MRR. According to Salvador Romani of CULC, some Cuban exiles had already moved from Miami to Nicaragua, and exile groups were awaiting the U.S.'s reaction before deciding on their own actions, with the base potentially drawing from 3-4,000 exiles previously trained by U.S. armed forces; the report also summarizes the strategies of several exile groups, including CULC's focus on propaganda, JURE's aim to gain support within the Cuban military, the alliance of MRP, Second Front of Escambray and Alpha 66's continuation of raids, and UMC, CLC and a section of MRR's support for a general invasion.",
+  "tags": [
+    "Cuban Exiles",
+    "Nicaragua",
+    "Cuban Liberation",
+    "Anti-Castro",
+    "Military Base",
+    "Propaganda",
+    "Internal Resistance",
+    "Commando Groups"
+  ],
+  "title": "Central Intelligence Agency Information Report",
+  "date": "1963-08-10",
+  "locations_mentioned": [
+    "Cuba",
+    "Nicaragua",
+    "Miami",
+    "Venezuela",
+    "London",
+    "England"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Salvador Romani",
+    "Somoza",
+    "Manuel Artime",
+    "Castro",
+    "Manuel Ray",
+    "Aureliano Sanchez Arango"
+  ]
+}

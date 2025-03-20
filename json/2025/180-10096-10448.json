@@ -1,0 +1,29 @@
+{
+  "classification": "Administration",
+  "document_type": "Statement",
+  "security": "This document contains personal information such as social security numbers and payment amounts for individuals involved in the preparation of the Forensic Pathology Panel report. Releasing this information could violate privacy and potentially expose individuals to identity theft or financial harm.",
+  "security_level": "Unclassified",
+  "summary": "This document is a statement from the University of New Mexico, School of Medicine, detailing the costs associated with the preparation of the Report of the Forensic Pathology Panel to the Select Committee on Assassinations, including labor and expenses for James T. Weston, Laura Krug, Debbie McMath, Karen C. Schwartz, printing, and postage.",
+  "summary_one_paragraph": "A statement dated June 21, 1978, from the University of New Mexico's School of Medicine outlines the expenses incurred during the preparation of the Report of the Forensic Pathology Panel for the Select Committee on Assassinations. The statement lists the names, social security numbers, hours worked, and pay rates for James T. Weston, Laura Krug, Debbie McMath, and Karen C. Schwartz, as well as costs for printing and postage, totaling $2,432.61.",
+  "tags": [
+    "HSCA",
+    "Administration",
+    "Forensic Pathology Panel",
+    "Expenses",
+    "University of New Mexico",
+    "James T. Weston",
+    "Laura Krug",
+    "Debbie McMath",
+    "Karen C. Schwartz"
+  ],
+  "title": "Statement",
+  "date": "1978-06-21",
+  "origin_agency": "UNIV. OF NEW MEXICO, SCHOOL OF MEDICINE.",
+  "persons_mentioned": [
+    "James T. Weston",
+    "Laura Krug",
+    "Debbie McMath",
+    "Karen C. Schwartz"
+  ],
+  "recipient": "HSCA"
+}

@@ -1,0 +1,25 @@
+{
+  "classification": "Personnel",
+  "document_type": "Notification",
+  "security": "Revealing an individual's cover status and operational assignments, even with outdated information, can expose methods for maintaining cover and potentially compromise individuals formerly or currently associated with the CIA. Directly quoting: \"KEEP ON TOP OF FILE WHILE COVER IN EFFECT\", \"ESTABLISHMENT OF OFFICIAL COVER (BLOCK RECORDS)\", and various references to specific cover types (e.g., State-Nominal, State-Int).",
+  "security_level": "SECRET",
+  "summary": "This notification outlines the establishment and cancellation of official cover for Charlotte Bustos-Videla, including details about her cover assignments within the Department of State, and directs specific administrative actions related to her cover status.",
+  "summary_one_paragraph": "This is a notification form, dated February 25, 1977, detailing the establishment and subsequent maintenance of official cover for Charlotte Bustos-Videla. It documents her cover assignments, primarily within the Department of State, from August 1951 through February 1977. The notification instructs various divisions (Control Division, Contract Personnel Division, and an operating component, LA) to perform administrative actions such as blocking or unblocking records, issuing W-2 forms, and updating telephone limitation categories, all related to preserving her cover. It also outlines procedures for handling changes affecting the cover, such as transfers or hospitalizations.",
+  "tags": [
+    "Official Cover",
+    "Cover Establishment",
+    "Cover Cancellation",
+    "Department of State",
+    "Charlotte Bustos-Videla",
+    "Personnel Security",
+    "Administrative Record",
+    "FOIA"
+  ],
+  "title": "Notification of Establishment or Cancellation of Official Cover",
+  "date": "1977-02-25",
+  "persons_mentioned": [
+    "Charlotte Bustos-Videla"
+  ],
+  "recipient": "Chief, Control Division; Chief, Contract Personnel Division; Chief, LA (Operating Component)",
+  "sender": "Chief, Official Cover Branch, Cover and Commercial Staff"
+}

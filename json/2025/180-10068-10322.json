@@ -1,0 +1,39 @@
+{
+  "classification": "Personnel",
+  "document_type": "Payroll Records",
+  "security": "The document contains Social Security numbers, which are redacted to protect personal privacy. Releasing these numbers could lead to identity theft or other privacy violations.",
+  "security_level": "Unclassified",
+  "summary": "This document contains payroll records and related correspondence for Burton A. Chardak, who worked for the House Select Committee on Assassinations (HSCA) in 1977, including his appointment, salary adjustments, termination, and resume.",
+  "summary_one_paragraph": "This collection of documents details the employment history of Burton A. Chardak with the House Select Committee on Assassinations (HSCA) in 1977. It includes payroll authorization forms showing his appointments, salary adjustments (ranging from $20,910 to $47,500 annually), and eventual termination on July 31, 1977. The documents also contain a personal leave record, correspondence regarding his termination due to the abolition of the Public Information Office, his resume highlighting his journalism background, and letters expressing his interest in working for the HSCA, along with his address and other personal information.",
+  "tags": [
+    "HSCA",
+    "Payroll Records",
+    "Burton A. Chardak",
+    "Employment",
+    "Termination",
+    "Social Security Number",
+    "Personal Information",
+    "Public Information Officer"
+  ],
+  "title": "HSCA Staff Payroll Records Regarding Burton A. Chardak",
+  "date": "1976-11-29",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Philadelphia, Pennsylvania",
+    "Alexandria, Virginia"
+  ],
+  "origin_agency": "HSCA",
+  "persons_mentioned": [
+    "Burton A. Chardak",
+    "Louis Stokes",
+    "Thomas Howarth",
+    "Bob Blakey",
+    "Ty Roberts",
+    "Maurice Israel",
+    "Rebecca W. Martin",
+    "Henry B. Gonzalez",
+    "Thomas N. Downing",
+    "Richard A. Sprague"
+  ],
+  "recipient": "Clerk of the House of Representatives"
+}

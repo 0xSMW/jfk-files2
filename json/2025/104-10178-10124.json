@@ -1,0 +1,24 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "Releasing the precise code used to construct the identikit could potentially compromise CIA methods of identification and communication. Quoting from the text: 'CODE: H 50 C32 X 2 B 31 D 82 N 35 X 2 L 28 X 2'",
+  "security_level": "SECRET",
+  "summary": "This cable requests the construction of an identikit composite of James Earl Ray using a specific code, for use prior to the arrival of photographs. It notes a scar on the forehead was omitted due to unknown location, and that the left ear protrudes more than the right.",
+  "summary_one_paragraph": "Sent on April 20, 1968, this SECRET cable from Richard Obor of CIOP/DO requests addressees to construct an identikit composite of James Earl Ray before photos arrive, using a provided code. The message specifies that a scar on Ray's forehead should be omitted from the composite due to uncertain location, and highlights that Ray's left ear protrudes more than his right. The cable is directed to multiple locations including Asuncion, Bangkok, Beirut, Berlin, Bogota, Buenos Aires, Copenhagen, Frankfurt, The Hague, Hong Kong, La Paz, London, Madrid, Montevideo, New Delhi, Manila, Munich, Panama City, Paris, Rio de Janeiro, Rome, Santo Domingo, Santiago, Sao Paulo, Stockholm, Tegucigalpa, Tokyo, Vienna, and Zurich.",
+  "tags": [
+    "CIA",
+    "James Earl Ray",
+    "Identikit",
+    "Assassination",
+    "Composite",
+    "FOIA"
+  ],
+  "title": "KYBAR WOMUSE - Identikit Composite Request for James Earl Ray",
+  "date": "1968-04-20",
+  "persons_mentioned": [
+    "Richard Obor",
+    "James Earl Ray"
+  ],
+  "recipient": "Asuncion, Bangkok, Beirut, Berlin, Bogota, Buenos Aires, Copenhagen, Frankfurt, The Hague, Hong Kong, La Paz, London, Madrid, Montevideo, New Delhi, Manila, Munich, Panama City, Paris, Rio de Janeiro, Rome, Santo Domingo, Santiago, Sao Paulo, Stockholm, Tegucigalpa, Tokyo, Vienna, Zurich",
+  "sender": "CIOP/DO"
+}

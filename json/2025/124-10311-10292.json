@@ -1,0 +1,35 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "This document contains information regarding individuals considered a possible threat to the President and mentions the US Secret Service. Releasing this information could reveal law enforcement procedures and sources used for threat assessment and presidential protection, potentially compromising security protocols. The document also mentions covert CIA activities, the exposure of which could damage relationships and operations. Quoting directly: \"Office of Special Assistant (covert CIA), the Embassy, Bern; Research Branch (covert CIA) the Embassy, Vienna.\"",
+  "security_level": "Secret",
+  "summary": "The FBI Director informs the Bureau that a review of files in Legat, Bern, found no individuals residing in Switzerland and Austria considered a threat to the President. Discreet inquiries were made of various sources, including covert CIA personnel, with no relevant information found.",
+  "summary_one_paragraph": "On December 23, 1964, the FBI Director sent a memorandum regarding relations with the Secret Service and potential threats against the President, specifically addressing the review of files in Legat, Bern, for individuals residing in Switzerland and Austria. This review, prompted by a previous Bureau letter, found no individuals considered a threat. The FBI made discreet inquiries of various sources, including the Consular Section and covert CIA personnel at the American embassies in Bern and Vienna, all of whom reported no knowledge of potential threats. The memorandum also calls attention to the case of Paul George Anderson, who, while not residing in the covered territory, is of interest to the Secret Service due to his frequent transit to Hungary.",
+  "tags": [
+    "FBI",
+    "USSS",
+    "Legat, Bern",
+    "Threats Against the President",
+    "Secret Service",
+    "CIA",
+    "Switzerland",
+    "Austria",
+    "Paul George Anderson"
+  ],
+  "title": "Relations with Secret Service, Threats Against the President",
+  "date": "1964-12-23",
+  "locations_mentioned": [
+    "Switzerland",
+    "Austria",
+    "Bern",
+    "Vienna",
+    "Hungary"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Paul George Anderson",
+    "Zeckel"
+  ],
+  "recipient": "HQ",
+  "sender": "LEG, BR"
+}

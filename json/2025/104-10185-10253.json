@@ -1,0 +1,27 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "Revealing the use of aliases and the creation of false documents (driver's license and voter registration) for an asset could compromise intelligence operations and expose individuals to risk. \"KURIOT PREPARING TWO DOCUMENTS FOR REF CASE. FOR DRIVER'S LICENSE REQUIRE FULL FACE NEGATIVE, NAME AND SIGNATURE SPECIMEN IN ALIAS, DOB OF ASSET TO BE USED IN RECOVERY OF MAIL. FOR(VOTER REGISTRATION)ASSUME 'EMPLEADO' WILL SUFFICE FOR OCCUPATION.\"",
+  "security_level": "SECRET",
+  "summary": "This message directs the Mexico City station to forward documents (driver's license and voter registration) prepared by KURIOT for a reference case to a specified address in Washington, D.C. The documents involve an alias and are related to the recovery of mail.",
+  "summary_one_paragraph": "On May 11, 1964, a classified message from the Director to Mexico City instructs the station to expedite the forwarding, via air mail, of two documents prepared by KURIOT for a reference case; the documents—a driver's license requiring a full-face negative, alias name, signature, and asset date of birth, and a voter registration assuming 'empleado' for occupation—are to be sent to Travelers Advisory Service in Washington, D.C., for mail recovery purposes, as referenced in previous communications MEXI 9336 and IN 81839.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "KURIOT",
+    "Alias",
+    "Driver's License",
+    "Voter Registration",
+    "Mail Recovery",
+    "Reference Case"
+  ],
+  "title": "Directive to Forward Documents Prepared by KURIOT",
+  "date": "1964-05-11",
+  "locations_mentioned": [
+    "Mexico City",
+    "Washington, D.C."
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "Mexico City",
+  "sender": "Director"
+}

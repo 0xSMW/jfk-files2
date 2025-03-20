@@ -1,0 +1,40 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "This cable contains information about conversations intercepted through SWRACK, a signals intelligence program. Disclosing details about SWRACK, or even acknowledging its existence, could jeopardize ongoing intelligence operations and reveal sensitive methods of collecting information. It also mentions ongoing Cuban elections and the potential loss of power by Fidel Castro, which could have diplomatic repercussions. Mention of the Kennedy assassination and potential sources of information could also be considered sensitive. Citing directly: 'SWRACK TRANSCRIPTS OF 26-27 NOV 93 CONTAINED CONVERSATIONS BETWEEN...RAMIRO ((ABREU)) QUINTANA AND HONDURAN NATIONAL PARTY COMPTROLLER TEOFILO ((MARTEL))....LOPEZ CLAIMED THAT BRIGADIER GENERAL FABIAN ((ESCALANTE)) FONT OF THE MINISTRY OF INTERIOR WAS HANDLING THE MATTER AND THAT HE HAD INFORMATION THAT COULD *POSITIVELY IDENTIFY THE<KENNEDY>ASSASSINS.'",
+  "security_level": "SECRET",
+  "summary": "A cable from December 1993 relays intelligence gathered from SWRACK transcripts regarding Cuban elections, Fidel Castro's dissatisfaction, and a Cuban official's claim of having information related to the Kennedy assassination.",
+  "summary_one_paragraph": "This SECRET cable, dated December 1993, originates from an unidentified staff member and is addressed to the Director with information for LIMIT LA/CCGRR and other recipients. It details information gleaned from SWRACK transcripts of conversations between Cuban and Honduran officials. The transcripts reveal that Fidel Castro was unhappy with the prospect of Cuban elections and that there was a possibility he might lose. Additionally, a Cuban official claimed that Brigadier General Fabian Escalante Font possessed information that could positively identify the Kennedy assassins. No action is requested, and the information is provided for informational purposes.",
+  "tags": [
+    "WNINTEL",
+    "INTEL",
+    "SWANLACE",
+    "REAM",
+    "SWCONTROL",
+    "SWRACK",
+    "Cuba",
+    "Cuban Elections",
+    "Fidel Castro",
+    "Kennedy Assassination"
+  ],
+  "title": "CUBA TIDBITS FROM LATE NOVEMBER SWRACK",
+  "conspiracy": "This document mentions a Cuban official, Brigadier General Fabian Escalante Font, claiming to have information that could positively identify the Kennedy assassins. This is a direct reference to potential knowledge or evidence related to the assassination, thus relating to conspiracy theories.",
+  "date": "1993-12-02",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Managua"
+  ],
+  "persons_mentioned": [
+    "Fidel Castro Ruz",
+    "Ramiro Abreu Quintana",
+    "Teofilo Martel",
+    "Rodolfo Irias Navas",
+    "Miguel Facusse",
+    "Ruben Suarez",
+    "Maria Lopez",
+    "Fabian Escalante Font"
+  ],
+  "recipient": "Director",
+  "sender": "STAFF"
+}

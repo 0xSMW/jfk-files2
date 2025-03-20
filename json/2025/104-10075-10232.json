@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Revealing operational details, agent identities, and communication methods would compromise ongoing intelligence activities and endanger individuals. For example, the cable mentions, \"LUCY IS(ESTER ARANGO)\" which explicitly names an agent. Sharing information about communication schedules (\"Still want send twice week to you so advise second day and hours starting mid-December\") could allow adversaries to intercept messages.",
+  "security_level": "SECRET",
+  "summary": "A secret cable from JAJAVE to the Director discusses intelligence gathering, agent communications, and potential military preparations in Cuba, requesting further information on addresses in Mexico and the US, as well as a report on potential surveillance.",
+  "summary_one_paragraph": "This secret cable, dated November 28, 1963, is from JAJAVE to the Director, concerning intelligence operations related to Cuba. The cable outlines plans for agent communications, specifying a need for additional addresses in Mexico, Miami, and the US, and requesting advice on a revised communication schedule starting mid-December. It also mentions LUCY (Ester Arango), a reservation office worker, and GENDRA (Juan Cendra), a Western Union cable foreman. Further, it relays reports from network members about military preparations and potential Chinese troop landings on Cuba’s north coast, prompting a request for GENDRA to assess the likelihood of surveillance on the circuit to Key West.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Intelligence Gathering",
+    "Agent Communication",
+    "Military Preparations",
+    "Surveillance",
+    "AXKHAN-2",
+    "TAROT",
+    "Ester Arango",
+    "Juan Cendra"
+  ],
+  "title": "NYJAT TYPIC AXKHAN-2 COMMO TARROT",
+  "date": "1963-11-28",
+  "locations_mentioned": [
+    "Mexico",
+    "Miami",
+    "US",
+    "Cuba",
+    "Key West"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Ester Arango (LUCY)",
+    "Juan Cendra (GENDRA)"
+  ],
+  "recipient": "Director",
+  "sender": "JAJAVE"
+}

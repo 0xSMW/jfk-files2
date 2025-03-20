@@ -1,0 +1,21 @@
+{
+  "classification": "Administrative",
+  "document_type": "Payroll Certification",
+  "security": "This document contains personal information about individuals, including their names, Social Security numbers, job titles, and salaries, which could be used for identity theft or other malicious purposes. Directly quoting, 'SOC SEC NUM ANNUAL GROSS PAY PERIOD REMARKS SALARY EARNED FROM TO EMPLOYEE NAME POSITION NO. AND JOB TITLE' highlights the sensitive nature of the data.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a U.S. House of Representatives payroll certification for the Select Committee on Assassinations, listing employees, their positions, social security numbers, annual gross salaries, and pay period earnings for January 1978.",
+  "summary_one_paragraph": "This payroll certification from the U.S. House of Representatives details the compensation for employees of the Select Committee on Assassinations during the accounting period of January 1, 1978, to January 31, 1978. The document, dated February 10, 1978, lists each employee's name, position, Social Security number, annual gross salary, and the amount earned during the specified period. The payroll adheres to salary limits ranging from $1,200.00 to $47,500.00 annually.",
+  "tags": [
+    "Payroll",
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations",
+    "HSCA",
+    "Personnel",
+    "Salaries",
+    "1978"
+  ],
+  "title": "Payroll Certification for Select Committee on Assassinations, January 1978",
+  "date": "1978-02-10",
+  "origin_agency": "U.S. House of Representatives",
+  "recipient": "Select Committee on Assassinations"
+}

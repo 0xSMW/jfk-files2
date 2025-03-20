@@ -1,0 +1,28 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Classified Message",
+  "security": "Revealing the request for an AMMUG-1 presentation could compromise ongoing efforts to influence the Uruguayan government, specifically convincing them of the need for U.S. support for their newly created intelligence unit. The message directly states: 'Believe such briefing in near future might assist us in continuing efforts convince COU need YM support.' This shows intent to use information from AMMUG-1 to sway the Uruguayan government, which could damage diplomatic relations if exposed.",
+  "security_level": "SECRET",
+  "summary": "A classified message from the Director to various stations, including Santiago and JMWAVE, concerning a request to have AMMUG-1 visit Montevideo for a presentation, similar to one in Santiago, to influence the Uruguayan government's intelligence efforts.",
+  "summary_one_paragraph": "This SECRET classified message, dated 021952Z, originates from the Director and is addressed to multiple stations, including Montevideo, Santiago, and JMWAVE. It discusses the possibility of having AMMUG-1 visit Montevideo to give a presentation to the Minister of Interior and Chief of AVALANCHE, mirroring a similar presentation in Santiago. The purpose of this briefing is to persuade the Uruguayan government (COU) to accept U.S. support for their newly established Directorate of Intelligence Unit, especially as five AVALANCHE officers are about to complete training and begin operations.",
+  "tags": [
+    "CIA",
+    "AMMUG-1",
+    "Montevideo",
+    "Santiago",
+    "JMWAVE",
+    "Uruguay",
+    "Intelligence Unit",
+    "Avalanche",
+    "Influence Operations"
+  ],
+  "title": "Request for AMMUG-1 Presentation in Montevideo",
+  "date": "1968-11-02",
+  "locations_mentioned": [
+    "Montevideo",
+    "Santiago"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "SANTIAGO, JMWAVE, RIO DE JANEIRO",
+  "sender": "DIRECTOR"
+}

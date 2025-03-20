@@ -1,0 +1,42 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "This memo discusses a former CIA agent writing a book about his experiences, potentially revealing classified information. It mentions individuals affiliated with the Agency and their file numbers. Disclosing these details could expose covert operatives and compromise past operations. For example: \"A memorandum has been received in OS from WH Division reflecting that Subject, who had been terminated as a CIA agent in 1964, is known to be writing a book, to be entitled 'My Seven Years with CIA'.\" and \"A copy of this memorandum is being placed in the 05 files of those individuals who are known by Subject to be affiliated with the Agency.\"",
+  "security_level": "SECRET",
+  "summary": "A memorandum regarding Federico PALMIERI Guillermo, a former CIA agent, who is writing a book about his seven years with the CIA, potentially exposing classified information.",
+  "summary_one_paragraph": "A memorandum dated November 12, 1965, addresses the situation concerning Federico PALMIERI Guillermo, a former CIA agent terminated in 1964, who is writing a book titled 'My Seven Years with CIA.' The memo indicates that PALMIERI, currently exiled from Guatemala and employed by Moore Commercial Company in San Salvador, El Salvador, has stated that a publisher in Mexico City is interested in his book. The memo also notes that PALMIERI had told a Domestic Contact Service (DCS) contact in Philadelphia about working as a CIA agent for Roger RUSS. Copies of the memo are being placed in the files of individuals known to be affiliated with the Agency.",
+  "tags": [
+    "CIA",
+    "Federico PALMIERI Guillermo",
+    "Agent Disclosure",
+    "Book Publication",
+    "Security Breach",
+    "Moore Commercial Company",
+    "Domestic Contact Service"
+  ],
+  "title": "Federico PALMIERI Guillermo",
+  "date": "1965-11-12",
+  "locations_mentioned": [
+    "Guatemala",
+    "San Salvador, El Salvador",
+    "Mexico City",
+    "Philadelphia"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Federico PALMIERI Guillermo",
+    "Ramsey MOORE",
+    "Roger RUSS",
+    "E. Mendoza",
+    "Philip Snare",
+    "Wade Thomas",
+    "Cloyd Smith",
+    "Carlos Pellecer",
+    "Viola June Cobb",
+    "Julian Zambianco",
+    "Barry E. Cole",
+    "Newell Laskey",
+    "Lee Glen Norris"
+  ],
+  "recipient": "Record"
+}

@@ -1,0 +1,34 @@
+{
+  "classification": "Personnel",
+  "document_type": "Biographic Profile",
+  "security": "This biographic profile contains details of William Vincent Broe's employment history with the CIA, including positions held, locations of assignment, and performance appraisals. Disclosing such details could reveal the scope and nature of CIA operations in specific regions and the capabilities of individual officers, potentially compromising ongoing or future intelligence activities. For example, the document states Broe was \"Chief of Station\" at one point, which is highly sensitive.",
+  "security_level": "SECRET",
+  "summary": "This document is a biographic profile of William Vincent Broe, detailing his employment history with the CIA from 1948 to 1972, including positions held, locations of assignment, training, and performance appraisals.",
+  "summary_one_paragraph": "This document provides a detailed biographic profile of William Vincent Broe, a CIA employee active from 1948 to 1972. The profile includes Broe's personal information, non-CIA employment and education, foreign language abilities, agency-sponsored training, and a comprehensive employment history within the CIA. Broe's career progression, from positions such as an Ops Officer in Manila to Chief of Station and later as an Inspector General, is outlined with specific dates, occupational codes, grades, and organizational titles. The profile also references letters of appreciation, appointments to selection boards, and commendations, providing an overview of his contributions and performance within the agency.",
+  "tags": [
+    "CIA",
+    "Biographic Profile",
+    "William Vincent Broe",
+    "Personnel",
+    "Employment History",
+    "Operations",
+    "Inspector General"
+  ],
+  "title": "Biographic Profile of William Vincent Broe",
+  "date": "1942-05-05",
+  "locations_mentioned": [
+    "Quincy, Mass",
+    "Boston, Mass",
+    "Ohio",
+    "Michigan",
+    "DC",
+    "Brunswick, Me",
+    "Manila",
+    "Latin America"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "William Vincent Broe"
+  ],
+  "recipient": "OLC"
+}

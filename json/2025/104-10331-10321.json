@@ -1,0 +1,39 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "Releasing the names of stations/bases could potentially reveal sensitive operational information and compromise ongoing intelligence activities. The memo discusses the release of information regarding specific locations ('Bern and Lausanne', 'Frankfurt, Hamburg, Munich, and Stuttgart'), and prematurely disclosing this could expose current intelligence operations.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This memorandum outlines the treatment of German and Swiss locations regarding the release of JFK documents, clarifying that certain locations should be protected while others can be released in the Oswald 201 file.",
+  "summary_one_paragraph": "A memorandum dated November 13, 1995, addresses the release of JFK documents, specifically clarifying how German and Swiss locations are to be treated. Following a conversation with Bill McNair of DO/IRO, it was decided that Bern and Lausanne should be treated like Geneva (protected), while Frankfurt, Hamburg, Munich, and Stuttgart are to be handled like Berlin and Bonn ('no specific damage', released in Oswald 201). This information was conveyed to ARRB staff via a phone message to J. Gunn.",
+  "tags": [
+    "JFK Documents",
+    "Station Release",
+    "Base Release",
+    "German Locations",
+    "Swiss Locations",
+    "Oswald 201 File",
+    "ARRB"
+  ],
+  "title": "Release of Stations and Bases",
+  "date": "1995-11-13",
+  "locations_mentioned": [
+    "Bern",
+    "Lausanne",
+    "Geneva",
+    "Frankfurt",
+    "Hamburg",
+    "Munich",
+    "Stuttgart",
+    "Berlin",
+    "Bonn"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Bill McNair",
+    "J. Gunn",
+    "Barry Harrelson",
+    "Ellie Neiman"
+  ],
+  "recipient": "HRG files, Ellie Neiman, HRG Reviewers",
+  "sender": "Barry Harrelson"
+}

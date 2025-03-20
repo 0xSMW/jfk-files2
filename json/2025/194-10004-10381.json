@@ -1,0 +1,31 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "The document contains personal information about Manuel Marti and his family, including his employment history, residence, and military service. Releasing these details could compromise Marti's privacy and potentially expose him and his family to unwanted attention. As stated in the document, 'SUBJECT is of Puerto Rican decent, and was single and resided with HIS parents in Bronx, New York, exact address unknown. SUBJECT'S mother was ailing for some time after HIS employment at MIAA and she died on or about 9 January 1967. SUBJECT has a younger sister, name unknown,.. and a brother, name unknown, who is also in the United States military service.'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report providing a character reference for Manuel Marti, based on an interview with his former supervisor, George J. Ferraro, at the Mutual Insurance Advisory Association (MIAA). The report details Marti's employment history, personal characteristics, and loyalty to the United States.",
+  "summary_one_paragraph": "This agent report, dated November 19, 1968, summarizes an interview with George J. Ferraro, Production Manager at Mutual Insurance Advisory Association (MIAA), concerning Manuel Marti, a former employee. Ferraro describes Marti as a dependable, industrious, and cooperative individual who progressed from a Utility Clerk to a Tabulating Machine Operator during his employment from April 1965 to May 1968. The report highlights Marti's intelligence, work ethic, moral character, and loyalty to the United States, noting that Ferraro highly recommends Marti for a position of trust with the U.S. Government. The report also includes details about Marti's family, residence in the Bronx, and military service.",
+  "tags": [
+    "Manuel Marti",
+    "Character Reference",
+    "INSCOM",
+    "Personnel Investigation",
+    "Mutual Insurance Advisory Association"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1968-11-19",
+  "locations_mentioned": [
+    "New York, New York",
+    "Bayside, New York",
+    "Bronx, New York",
+    "San Juan, Puerto Rico"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "George J. Ferraro",
+    "Lucien Todman",
+    "Alfonso E. Marshall"
+  ],
+  "sender": "[RESTRICTED]"
+}

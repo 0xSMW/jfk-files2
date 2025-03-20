@@ -1,0 +1,36 @@
+{
+  "classification": "Operations",
+  "document_type": "Classified Message",
+  "security": "This message discusses the scheduling and availability of individuals (AMWHIP) for sensitive business in Paris, mentioning specific names (Carillo and Robreno) and locations (Geneva, Bern, Madrid, Rome, Paris). Revealing such details could potentially compromise ongoing operations and the individuals involved. \"HAS MINIMUM THREE DAY PRTY KUBARK BUSINESS PARIS. WILL TRY EXPEDITE BUT DOUBT AMWHIP AVAILABLE GNVA BEFORE 30 APRIL. WOULD HOPE THEREFORE ROME CAN ASK AMWHIP/2 BE AVAILABLE FOR ASSISTANCE, PRIOR A/1 ARRIVAL.\"",
+  "security_level": "SECRET",
+  "summary": "A classified message regarding the availability of AMWHIP for KUBARK business in Paris, requesting assistance from AMWHIP/2 in Rome and commenting on the arrival and use of AMWHIP for Paris business related to Carrillo and Robreno.",
+  "summary_one_paragraph": "This SECRET classified message, dated April 17, 1964, outlines the scheduling of AMWHIP for KUBARK-related business in Paris, noting AMWHIP's unavailability in Geneva before April 30. The message requests assistance from AMWHIP/2 in Rome prior to A/1's arrival and includes comments on the subsequent arrival and utilization of AMWHIP for tasks in Paris involving individuals named Carrillo and Robreno. The communication is directed from the Director to Geneva, Bern, Madrid, Rome, and Paris, with information copies sent to various internal CIA offices.",
+  "tags": [
+    "CIA",
+    "KUBARK",
+    "AMWHIP",
+    "Operations",
+    "Scheduling",
+    "Paris",
+    "Carrillo",
+    "Robreno"
+  ],
+  "title": "Availability of AMWHIP for KUBARK Business in Paris",
+  "date": "1964-04-17",
+  "locations_mentioned": [
+    "Geneva",
+    "Bern",
+    "Madrid",
+    "Rome",
+    "Paris",
+    "New York"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AMWHIP",
+    "Carrillo",
+    "Robreno"
+  ],
+  "recipient": "GENEVA BERN MADRID ROME PARIS",
+  "sender": "DIRECTOR"
+}

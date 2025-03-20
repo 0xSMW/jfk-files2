@@ -1,0 +1,34 @@
+{
+  "classification": "Operations",
+  "document_type": "Classified Message",
+  "security": "Revealing the specific codenames and methods used to activate and communicate with assets can compromise ongoing intelligence operations. For example, this document states: \"REQUEST SHITHAM ASIC AMWHIP FOR DATE HE SENT LETTER TO 'THOMPSON'S FRIEND' IN PBRUMEN. ALSO REMIND HIM TO SAVE COPY OF LETTER FOR THOMPSON. IF ANWHIP AGREEABLE, OFFER SEND COPY TO THOMPSON VIA 'SECURE CHANNELS'.\"",
+  "security_level": "SECRET",
+  "summary": "A classified message requesting information from SHITHAM/ASIC regarding a letter sent to \"Thompson's Friend\" in PBRUMEN to activate a RELUCTANT DRAGON agent, who was met in Paris by Thompson and Wallace A. Growery.",
+  "summary_one_paragraph": "This SECRET classified message, dated June 18, 1963, from the Director to ROME station, requests that SHITHAM/ASIC provide the date a letter was sent to \"Thompson's Friend\" in PBRUMEN, related to activating a RELUCTANT DRAGON agent. It also reminds SHITHAM/ASIC to keep a copy of the letter for Thompson and offers to send a copy via \"secure channels.\" The agent in question met with Thompson and Wallace A. Growery in Paris, and AMWHIP was instrumental in arranging contact with the agent.",
+  "tags": [
+    "CIA",
+    "PBRUMEN",
+    "RELUCTANT DRAGON",
+    "AMWHIP",
+    "ASIC",
+    "SHITHAM",
+    "Thompson",
+    "Wallace A. Growery",
+    "Asset Activation",
+    "Secure Channels"
+  ],
+  "title": "Request for Information on Letter to Activate RELUCTANT DRAGON Agent",
+  "date": "1963-06-18",
+  "locations_mentioned": [
+    "Rome",
+    "Paris"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Thompson",
+    "Wallace A. Growery",
+    "AMWHIP"
+  ],
+  "recipient": "Rome Station",
+  "sender": "Director"
+}

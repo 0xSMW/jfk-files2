@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Letterhead Memorandum",
+  "security": "The identity of ANA ROSA GUERRA as a CIA source is protected. The memo is classified confidential to protect her identity: \"This memorandum is classified confidential to protect the identity of GUERRAS who apparently is a CIA source\"",
+  "security_level": "Secret",
+  "summary": "The FBI Miami office reports an alleged plot by CARLOS HILARIO GONZALEZ to kill ESTEBAN VENTURA_NOVO, based on information from ANA ROSA GUERRA, a CIA source working undercover in Cuba. The information has been shared with local law enforcement, and VENTURA will be advised of the threat, though the FBI cannot provide protection.",
+  "summary_one_paragraph": "On October 27, 1959, the FBI's Miami office sent a letterhead memorandum to the Director of the FBI, reporting an alleged plot by CARLOS HILARIO GONZALEZ to assassinate ESTEBAN VENTURA_NOVO. The information originated from ANA ROSA GUERRA, an undercover CIA operative in Cuba working for BERNARD LABARKER and posing as ALBERTO BAYO COSGAYA, a key figure in the Cuban Air Force. GUERRA contacted the Miami FBI office on October 24, 1959, to report the plot. The FBI has informed the Miami Police Department and the Dade County Department of Public Safety about the threat, and VENTURA will be notified, though no protection will be provided by the FBI.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Plot",
+    "Assassination",
+    "Carlos Hilario Gonzalez",
+    "Esteban Ventura Novo",
+    "Ana Rosa Guerra",
+    "Cuba",
+    "Undercover Operation"
+  ],
+  "title": "Alleged Plot to Kill ESTEBAN VENTURA_NOVO",
+  "date": "1959-10-27",
+  "locations_mentioned": [
+    "Cuba",
+    "Miami"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Carlos Hilario Gonzalez",
+    "Esteban Ventura Novo",
+    "Ana Rosa Guerra",
+    "Bernard Labarker",
+    "Alberto Bayo Cosgaya",
+    "John R. Barron"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, MM"
+}

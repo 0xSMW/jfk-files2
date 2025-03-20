@@ -1,0 +1,39 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Routing Slip and Letter",
+  "security": "Releasing detailed release determinations, including postponement dates, could highlight documents considered sensitive by the CIA. Exposing the document identifiers of these postponed documents creates an indication of which specific records the CIA wishes to keep restricted, potentially revealing details about the content of those documents by inference.",
+  "security_level": "SECRET",
+  "summary": "This document is a routing slip attached to a letter from the Assassination Records Review Board (ARRB) to Director of Central Intelligence George Tenet, regarding formal determinations made on September 9 and September 14, 1998, concerning the public disclosure of CIA records related to the John F. Kennedy assassination.",
+  "summary_one_paragraph": "The document consists of a routing slip, an attached letter from the ARRB's Executive Director Laura Denk to DCI George Tenet, and a notice of formal determinations. Denk's letter informs Tenet about ARRB decisions concerning the release of CIA records under the JFK Assassination Records Collection Act, stating the decisions were based on historical interest and the lack of evidence of harm from disclosure. The letter grants Tenet seven days to appeal the ARRB's decisions to the President and invites a representative to review the documents. The notice lists records and their postponement status, including Church Committee and CIA documents, with future review dates.",
+  "tags": [
+    "ARRB",
+    "CIA",
+    "JFK Assassination Records Act",
+    "George Tenet",
+    "Laura Denk",
+    "Document Release",
+    "Postponement",
+    "FOIA"
+  ],
+  "title": "Assassination Records Review Board Formal Determinations",
+  "date": "1998-09-23",
+  "persons_mentioned": [
+    "George Tenet",
+    "Laura Denk",
+    "John F. Kennedy",
+    "Edmund Colen",
+    "John R. Tunheim",
+    "Henry F. Graff",
+    "Kermit L. Hall",
+    "William L. Joyce",
+    "Anna K. Nelson",
+    "T. Jeremy Gunn",
+    "Thomas E. Samoluk",
+    "Peter Voth",
+    "Betsy Quint-Moran",
+    "Tracie Matecka",
+    "R. Dunn"
+  ],
+  "recipient": "George Tenet",
+  "sender": "Laura Denk (Executive Director, ARRB)"
+}

@@ -1,0 +1,46 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security": "Revealing the specifics of debriefing methods and traveler information could jeopardize intelligence sources and ongoing operations in Cuba. For instance, the document states, 'JMWAVE conducted a PW debriefing of the following legal travelers,' specifying their names, dates of birth, addresses, and employment details, which if exposed, could lead to identification and potential harm to these individuals or compromise intelligence collection efforts.",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "A CIA dispatch details the debriefing of three Cuban travelers in Miami regarding their reception of radio and TV programs, their knowledge of the DRE (Directorio Revolucionario Estudiantil) internal organization, and their general impressions of anti-Castro propaganda.",
+  "summary_one_paragraph": "This SECRET-level dispatch from Chief, Task Force W to Chief of Station, JUWAVE on May 30, 1962, reports on the debriefing of Raquel LA VILLA Gonzalez, Cecilia LA VILLA Gonzalez, and Miriam BARO Esteva—three Cuban travelers recently arrived in Miami. The debriefing covered their experiences with radio reception in Cuba, particularly \"Voz de las Americas,\" as well as their opinions on anti-Castro propaganda, the DRE's activities, and rumors of militia desertions. The dispatch also details how Cuban oppositionists responded to TV intrusions announced on WRUL and the travelers’ perceptions of the effectiveness of anti-Castro messaging.",
+  "tags": [
+    "CIA",
+    "JMWAVE",
+    "PW Debriefing",
+    "Cuban Travelers",
+    "Radio Programs",
+    "Anti-Castro Propaganda",
+    "DRE",
+    "Directorio Revolucionario Estudiantil",
+    "TV Intrusion",
+    "Operation GYROSE",
+    "Operation KUCAGE",
+    "AMHINT"
+  ],
+  "title": "Debriefing of PBRUMEN Local Travelers for PW Aspects",
+  "date": "1962-05-30",
+  "locations_mentioned": [
+    "Havana, Cuba",
+    "Miami, Florida",
+    "Mexico",
+    "New York",
+    "Matanzas, Cuba",
+    "Las Villas, Cuba",
+    "Escambray Mountains"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Raquel LA VILLA Gonzalez",
+    "Cecilia LA VILLA Gonzalez",
+    "Miriam BARO Esteva",
+    "Carlos BARO",
+    "Fidel Castro",
+    "CONTE Aguero",
+    "AMHINT-53",
+    "AMHINT-2"
+  ],
+  "recipient": "Chief of Station, JUWAVE",
+  "sender": "Chief, Task Force W"
+}

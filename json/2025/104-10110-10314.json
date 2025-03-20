@@ -1,0 +1,31 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "Disclosing an individual's security clearance status could expose them to potential targeting or compromise. As the document states, 'RETURN TO CA* *Background Use Only* *• Do Not Reproduce*', indicating the sensitive nature of the information.",
+  "security_level": "SECRET",
+  "summary": "A memorandum requesting security certification for Charlotte Z. Bustos-Videla for a PCS (Permanent Change of Station) or TDY (Temporary Duty) assignment to Fort of Spain.",
+  "summary_one_paragraph": "This is a secret memorandum from James L. Franklin, Chief of the Official Cover Branch, to the Chief of the OS/Clearance Division, requesting the preparation of a security certification for Charlotte Z. Bustos-Videla, born on January 12, 1929, in Dayton, Ohio. The memo indicates that Bustos-Videla is scheduled for either a Permanent Change of Station (PCS) or a Temporary Duty (TDY) assignment to Fort of Spain from June 16-28, with the security certification to be addressed to Chief, CCS/OCB/State.",
+  "tags": [
+    "Security Clearance",
+    "Personnel",
+    "Official Cover",
+    "Charlotte Z. Bustos-Videla",
+    "Fort of Spain",
+    "PCS",
+    "TDY"
+  ],
+  "title": "Certification of Security Clearance for CHARLOTTE Z. BUSTOS-VIDELA",
+  "date": "1969-04-03",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Dayton, Ohio",
+    "Fort of Spain"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Charlotte Z. Bustos-Videla",
+    "James L. Franklin"
+  ],
+  "recipient": "Chief, OS/Clearance Division",
+  "sender": "James L. Franklin, Chief, Official Cover Branch"
+}

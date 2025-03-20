@@ -1,0 +1,34 @@
+{
+  "classification": "Administrative",
+  "document_type": "Briefing Notes",
+  "security": "This document contains information about CIA filing systems, including details on 201 files, cryptonyms, and operational procedures. Disclosing these details could compromise the CIA's ability to maintain secrecy and protect its sources and operations. For example, it discusses how sleeper agents are handled, the criteria for opening 201 files, and the process for assigning cryptonyms. Revealing this information could allow adversaries to identify and compromise CIA assets and methods. Directly quoting: 'Would a 201 de opened or sleeper?' and 'There is a central listing of Cryptonymes. From this list you get theul name, then go to 201 file if there is one'.",
+  "security_level": "SECRET",
+  "summary": "These are notes from a CIA briefing on January 26, 1978, regarding record administration, filing systems, and operational procedures, particularly focusing on 201 files and handling sensitive information.",
+  "summary_one_paragraph": "These notes from a CIA briefing on January 26, 1978, detail discussions on record administration, filing systems, and handling sensitive information. The briefing, attended by Bill Donnelly, Yuke Duffy, Hee Coyle, and Virginia Torres, covered topics such as the opening and maintenance of 201 files, the use of cryptonyms, the handling of sleeper agents, and the coordination between different CIA departments. The notes also address the 'Family Jewels Collection', 'Prescribed & Limited' distribution, and the processes for name checks and security.",
+  "tags": [
+    "CIA",
+    "Briefing",
+    "Record Administration",
+    "Filing Systems",
+    "201 Files",
+    "Cryptonyms",
+    "Sleeper Agents",
+    "Family Jewels Collection",
+    "HSCA",
+    "FOIA"
+  ],
+  "title": "Transmittal and Document Receipt - Notes of Holf and Goldsmith (HSCA request)",
+  "date": "1978-06-26",
+  "persons_mentioned": [
+    "Michael Goldsmith",
+    "Bill Donnelly",
+    "Yuke Duffy",
+    "Hee Coyle",
+    "Virginia Torres",
+    "Bruce Johnson",
+    "George Frattas",
+    "Bob Bertove"
+  ],
+  "recipient": "Mr. Michael Goldsmith, Select Committee on Assassination, House of Representatives",
+  "sender": "Office of Legislative Counsel, Central Intelligence Agency"
+}

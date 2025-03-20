@@ -1,0 +1,28 @@
+{
+  "classification": "Administrative",
+  "document_type": "Classified Message",
+  "security": "Disclosing the identity of individuals in sensitive locations, even in a limited context, could endanger them. Therefore, revealing 'Normand Poulin C/O U S EMBASSY APO 230 NEW YORK, NY' could potentially compromise security.",
+  "security_level": "SECRET",
+  "summary": "A message from Paris to the Director provides an identification, Normand Poulin, with a US Embassy address, likely for administrative or liaison purposes.",
+  "summary_one_paragraph": "On November 29, 1962, a SECRET classified message was sent from Paris to the Director, with action to TFW and information to multiple departments including DDP, CA, CI, and WE. The message's priority is 'WAVE INFO' and it cites PARI 4521 TN26114. It identifies Normand Poulin, with a c/o address at the U.S. Embassy APO 230, New York, NY. The routing information and handling codes indicate its distribution and filing within the agency.",
+  "tags": [
+    "CIA",
+    "Paris",
+    "US Embassy",
+    "Normand Poulin",
+    "Administrative",
+    "Identification"
+  ],
+  "title": "Identification of Normand Poulin",
+  "date": "1962-11-29",
+  "locations_mentioned": [
+    "Paris",
+    "New York"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Normand Poulin"
+  ],
+  "recipient": "Director",
+  "sender": "Paris"
+}

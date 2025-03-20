@@ -1,0 +1,30 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Agent Report",
+  "security": "Revealing the investigation of an individual's family members can be seen as an invasion of privacy and may expose intelligence-gathering methods.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "An agent report details derogatory information found on Joachim S. Beer aka Joachim F. Pehl, the step-son of Henry S. Beer, including reports of a fire and disturbing the peace while serving in the US Army Berlin Brigade.",
+  "summary_one_paragraph": "This agent report, dated 4 March 1971, submitted by Randy L. Thompson of the 66th MI Group, summarizes findings from a check with the Provost Marshal's Office (PMO) of the US Army Berlin Brigade regarding Joachim S. Beer, also known as Joachim F. Pehl, the step-son of Henry S. Beer. The PMO revealed derogatory information including a report of a fire on 19 December 1970, and a complaint of disturbing the peace on 22 January 1971, with no further details provided.",
+  "tags": [
+    "Henry S. Beer",
+    "Joachim F. Pehl",
+    "Joachim S. Beer",
+    "US Army Berlin Brigade",
+    "Provost Marshal's Office",
+    "Agent Report",
+    "Derogatory Information"
+  ],
+  "title": "AGENT REPORT",
+  "date": "1971-03-04",
+  "locations_mentioned": [
+    "West Berlin",
+    "Berlin-Schoeneberg"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Henry S. Beer",
+    "Joachim F. Pehl",
+    "Joachim S. Beer",
+    "Randy L. Thompson"
+  ]
+}

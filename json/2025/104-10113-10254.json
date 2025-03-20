@@ -1,0 +1,30 @@
+{
+  "classification": "Operations",
+  "document_type": "Memo",
+  "security": "This document details the creation of a forged passport and visa for operational use, specifying methods for travel and reentry into the United States under a false identity. Specifically, it requests \"an ordinary (Nicaraguan) passport be issued in the name of Juan Hidalgo ELIZONDO Romano for ANOTIN-117's use to travel from the United States to Argentina and return\" and that the passport include \"a (forged) United States multiple entry tourist visa\". Revealing these details could compromise intelligence operations, expose methods of creating false documents, and damage international relations by disclosing covert activities.",
+  "security_level": "SECRET",
+  "summary": "A memo from the Chief of the Western Hemisphere Division requesting the creation of a forged Nicaraguan passport with a forged U.S. visa for ANOTIN-117 to travel from the U.S. to Argentina and back.",
+  "summary_one_paragraph": "This secret memo, dated April 5, 1968, from William V. Bres, Chief of the Western Hemisphere Division, requests the Office of Security/Alien Affairs Staff to issue a forged Nicaraguan passport in the name of Juan Hidalgo ELIZONDO Romano for ANOTIN-117’s travel to Argentina and back. The passport is to include a forged U.S. multiple entry tourist visa with a discreet entry record via Miami, Florida, in early April 1968. The memo specifies the permanent address in Managua, Nicaragua, and a temporary address in Miami, Florida, for the I-94 form and notes that the Alien Affairs Staff will be kept informed of travel dates and flight information.",
+  "tags": [
+    "Alias",
+    "Forged Passport",
+    "ANOTIN-117",
+    "Nicaragua",
+    "Argentina",
+    "Visa",
+    "Office of Security",
+    "Alien Affairs Staff",
+    "Travel"
+  ],
+  "title": "Request for Alias Documentation for ANOTIN-117",
+  "date": "1968-04-05",
+  "persons_mentioned": [
+    "ANOTIN-117",
+    "Robert Pambrini",
+    "Nina Japiks",
+    "Patrick Phelan",
+    "Juan Hidalgo ELIZONDO Romano",
+    "William V. Bres"
+  ],
+  "sender": "William V. Bres, Chief, Western Hemisphere Division"
+}

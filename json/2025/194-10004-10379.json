@@ -1,0 +1,34 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "This document contains personal information about Manuel Marti and evaluations of his character and loyalty. Releasing such information could violate privacy and potentially harm Marti's reputation. Direct quotes: 'Source had no knowledge of SUBJECT'S personal background, education, residence or home life...' and '...Wang recommends that MARTI be favorably considered for a position of trust and responsibility with the United States Government.'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report providing character references and employment history for Manuel Marti, based on interviews with his former supervisor and co-workers at Polly Perry Stores in 1968. The report summarizes their recollections of Marti's work ethic, personality, and suitability for a position of trust with the U.S. government.",
+  "summary_one_paragraph": "This agent report, dated November 18, 1968, details interviews conducted by Alphonso E. Marshall of the 108th MI Group (I-SIB) with Bob Wang, Allen Lee, and Cora McLendon, former colleagues of Manuel Marti at Polly Perry Stores. The interviews, carried out on October 14, 1968, aimed to assess Marti's character, work performance, and loyalty to the United States; the sources generally described Marti as a quiet, intelligent, and reliable employee with no known adverse character traits or radical political views, ultimately leading to Wang and Lee recommending him favorably for a position of trust within the U.S. government, while McLendon declined to provide a recommendation due to insufficient knowledge.",
+  "tags": [
+    "Manuel Marti",
+    "Character Reference",
+    "Employment History",
+    "Polly Perry Stores",
+    "INSCOM",
+    "CSF",
+    "Agent Report"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1968-11-18",
+  "locations_mentioned": [
+    "New York, New York",
+    "Brooklyn, New York",
+    "San Juan, Puerto Rico"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Bob Wang",
+    "Allen Lee",
+    "Cora McLendon",
+    "Alphonso E. Marshall",
+    "Robert C. Alteaffer"
+  ],
+  "sender": "[RESTRICTED]"
+}

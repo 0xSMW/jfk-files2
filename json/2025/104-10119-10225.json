@@ -1,0 +1,31 @@
+{
+  "classification": "Security",
+  "document_type": "Request for Investigation and/or Name Check",
+  "security": "The document reveals internal security procedures for conducting name checks and investigations. Exposing these procedures could allow individuals to circumvent security measures or identify potential vulnerabilities. Specifically, the form details the types of agencies checked (FBI, ONI, ACSI, STATE, PP, CSC, HCUA, OSI, I & NG) and the process for domestic field investigations. Disclosing this information could compromise the effectiveness of future security efforts.",
+  "security_level": "SECRET",
+  "summary": "A request for investigation and name check was initiated on an individual with the file number 201-2203, with LICONIC as the project and area of assignment. Results from OS Indices were attached in February 1965, and checks were conducted at various agencies, with some yielding positive results.",
+  "summary_one_paragraph": "On January 29, 1965, a request for investigation and name check was submitted to the Deputy Director of Security, IOS, from the Chief of CI/Operational Approval and Support Division concerning an individual with file number 201-2203 associated with the LICONIC project. The request sought OS Indices results, CNC FBI check results, and use of subject information. Checks were conducted across multiple agencies, including the FBI, ONI, ACSI, STATE, PP, CSC, HCUA, OSI, and I & NG, with negative results from some and positive results from others, as indicated in attached reports. A domestic field investigation was also completed, with reports attached or forthcoming within 60 days; the case was closed to file on 27 April 1965.",
+  "tags": [
+    "Investigation",
+    "Name Check",
+    "Security",
+    "IOS",
+    "LICONIC",
+    "FBI",
+    "ONI",
+    "ACSI",
+    "STATE",
+    "PP",
+    "CSC",
+    "HCUA",
+    "OSI",
+    "I & NG",
+    "CI/Operational Approval and Support Division",
+    "Deputy Director Security"
+  ],
+  "title": "Request for Investigation and/or Name Check",
+  "date": "1965-01-29",
+  "origin_agency": "CI/Operational Approval and Support Division",
+  "recipient": "Deputy Director Security, IOS",
+  "sender": "Chief, CI/Operational Approval and Support Division"
+}

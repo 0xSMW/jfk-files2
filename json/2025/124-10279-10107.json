@@ -1,0 +1,46 @@
+{
+  "classification": "Cuba",
+  "document_type": "Teletype",
+  "security": "This document discusses telephone taps on calls to the Cuban Embassy in Mexico City and the potential identification of an individual making those calls, potentially revealing intelligence-gathering methods and sources.  Quoting directly: \"TELEPHONE TAPS ON CALLS INITIATED IN USA. TO CUBAN INTELLIGENCE OFFICER MEXICO CITY, Mexico...AN INDIVIDUAL WHO IDENTIFIED NR HIMSELF AS MORLANDO SERRANO MADE TELEPHONE CALLS FROM THE USA TO THE CUBAN EMBASSY IN MEXICO CITY...OUR MEXICO CITY STATION RECEIVED A TAPE RECORDING OF THE 15 NOVEMBER TELEPHONE CONVERSATION FROM THE MEXICAN SERVICE WHICH WE ARE FORWARDING TO FBI HEADQUARTERS FOR REVIEW.\"",
+  "security_level": "Secret",
+  "summary": "A teletype from the CIA to the FBI regarding telephone taps on calls initiated in the USA to the Cuban Embassy in Mexico City, specifically concerning an individual named Morlando Serrano and his possible connections to Cuban intelligence officers.",
+  "summary_one_paragraph": "On December 14, 1973, the CIA sent a teletype to the FBI's Intelligence Division concerning telephone taps on calls from the USA to the Cuban Embassy in Mexico City made by an individual identifying himself as Morlando Serrano. Serrano used double-talk, spoke Spanish with the Cuban Vice Consul Juan Ensenat Camps (a Cuban Intelligence Officer), and referred to his relationship with Manuel Rodriguez Seoane in 1964 and to \"Mickey\" (Enrique Cicardlabrada). The CIA believes Serrano may be Emilio Echarte Pedroso, who was recruited in Cuba and dispatched to the USA to assassinate Cuban exile leader Manolo Ray and who contacted DGI Officer Cicard in Mexico in 1968. The CIA forwarded a tape recording of a November 15 telephone conversation obtained from the Mexican Service to FBI Headquarters for review, hoping the FBI can identify the caller and his activities.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Telephone Taps",
+    "Cuban Embassy",
+    "Mexico City",
+    "Cuban Intelligence",
+    "Morlando Serrano",
+    "Emilio Echarte Pedroso",
+    "Juan Ensenat Camps",
+    "Manuel Rodriguez Seoane",
+    "Enrique Cicardlabrada",
+    "DGI",
+    "Double-Talk",
+    "Cuban Spanish"
+  ],
+  "title": "",
+  "date": "1973-12-14",
+  "locations_mentioned": [
+    "USA",
+    "Mexico City",
+    "Mexico",
+    "Cuba",
+    "Washington, D.C.",
+    "Havana"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Morlando Serrano",
+    "Juan Ensenat Camps",
+    "Manuel Rodriguez Seoane",
+    "Mickey (Enrique Cicardlabrada)",
+    "Emilio Echarte Pedroso",
+    "Manolo Ray",
+    "Manuely Pineiro Losada"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "CIA"
+}

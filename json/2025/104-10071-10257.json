@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security": "Revealing contacts between Cuban officials and Guatemalan rebels could strain relations between the US, Cuba, and Guatemala. The disclosure of HUMINT sources and methods used by HUGLIB case officers could also compromise intelligence gathering operations. Specifically, \"the point of getting information from suspects on their international contacts or information that might help other services was stressed\" could reveal sensitive interrogation techniques.",
+  "security_level": "SECRET",
+  "summary": "A dispatch reports possible contacts between Cuban Embassy officials in Mexico City and the Fuerzas Armadas Rebeldes (FAR), a Guatemalan rebel group, regarding the shipment of weapons and money.",
+  "summary_one_paragraph": "This SECRET dispatch, dated May 10, 1968, relays information from a HUGLIB case officer regarding possible contacts between officials at the Cuban Embassy in Mexico City and the Fuerzas Armadas Rebeldes (FAR), a Guatemalan rebel group. The information, obtained during the interrogation of Ricardo Ismael VALLECILLO Perez, a FAR member, indicated that the FAR was expecting a new type of machine-pistol from Cuba called the Red Star, and that Cuban Embassy officials Alfredo MIRAMBAL Diaz and Adelo (or Abeldo) CALOME Ibarra were in charge of shipping weapons and money to the FAR.",
+  "tags": [
+    "Cuban Embassy",
+    "Mexico City",
+    "FAR",
+    "Fuerzas Armadas Rebeldes",
+    "Guatemala",
+    "Weapons",
+    "HUGLIB",
+    "Interrogation",
+    "Red Star",
+    "Alfredo Mirambal Diaz",
+    "Adelo Calome Ibarra"
+  ],
+  "title": "Possible Contact Between Cuban Embassy, Mexico City and FAR.",
+  "date": "1968-05-10",
+  "locations_mentioned": [
+    "Mexico City",
+    "Guatemala"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Ricardo Ismael VALLECILLO Perez",
+    "Alfredo MIRAMBAL Diaz",
+    "Adelo (or Abeldo) CALOME Ibarra"
+  ],
+  "recipient": "Chief, WH Division; COS, Mexico City; COS, Guatemala City; COS, [San Jose]",
+  "sender": "Gardalphe; Nea E. Corrigan"
+}

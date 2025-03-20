@@ -1,0 +1,22 @@
+{
+  "classification": "Cuba",
+  "document_type": "Letter",
+  "security": "This document is a short, seemingly routine letter. There is no obvious information that would create a security issue if released.",
+  "security_level": "SECRET",
+  "summary": "A letter dated August 24, 1960, addressed to Juan I. Cessnova Rodriguez in Habana, Cuba from SEFLATS SVEN.",
+  "summary_one_paragraph": "This is a brief, SECRET letter, SVEN of SEFLATS writes to Juan I. Cessnova Rodriguez, whose address is Apartado 6290 in Habana, Cuba, dated August 24, 1960. There are a few handwritten annotations: 3 CUP and 2/rnj.",
+  "tags": [
+    "Cuba",
+    "Habana",
+    "SEFLATS SVEN",
+    "Juan I. Cessnova Rodriguez",
+    "August 24, 1960"
+  ],
+  "title": "Letter to Juan I. Cessnova Rodriguez",
+  "date": "1960-08-24",
+  "locations_mentioned": [
+    "Habana, Cuba"
+  ],
+  "recipient": "Juan I. Cessnova Rodriguez",
+  "sender": "SEFLATS SVEN"
+}

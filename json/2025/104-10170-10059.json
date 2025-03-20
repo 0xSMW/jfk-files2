@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Intelligence Information Cable",
+  "security": "This cable discusses support of the Dominican Air Force and Navy for Cuban exile operations, detailing specific individuals involved (Gen. Juan N. Folch Perez) and locations used for caching supplies. Exposing these operations could damage relations with the Dominican Republic and reveal sensitive information about covert support for anti-Castro activities. Directly quoting from the document: \"THE DOMINICAN AIR FORCE AND THE DOMINICAN NAVY ARE ALLOWING CRAFT MANNED BY CUBAN EXILES, TO CACHE ARMS AND OTHER SUPPLIES ON THE DOMINICAN COAST.\"",
+  "security_level": "SECRET",
+  "summary": "An intelligence cable reports that the Dominican Air Force and Navy are assisting Cuban exiles by allowing them to cache arms and supplies on the Dominican coast.",
+  "summary_one_paragraph": "This SECRET intelligence cable, originating from Santo Domingo in August 1964, reveals that the Dominican Air Force and Navy are enabling Cuban exiles to cache arms and other supplies along the Dominican coast, specifically near Las Penas and Punta Luna. Cuban exiles are using boats to transport and cache the supplies, with the Dominican Navy providing assistance during these operations. General Juan N. Folch Perez of the Dominican Air Force is reportedly in charge of the operation, with the Dominican Army not directly involved.",
+  "tags": [
+    "CIA",
+    "Dominican Republic",
+    "Cuba",
+    "Cuban Exiles",
+    "Arms Cache",
+    "Covert Operations",
+    "Santo Domingo",
+    "Juan N. Folch Perez",
+    "Atila Luna"
+  ],
+  "title": "Support of the Dominican Air Force and Navy for Cuban Exile Operations in the Dominican Republic",
+  "date": "1964-08",
+  "locations_mentioned": [
+    "Dominican Republic",
+    "Santo Domingo",
+    "Las Penas",
+    "Punta Luna",
+    "Monte Cristi",
+    "Santiago"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Juan N. Folch Perez",
+    "Atila Luna"
+  ],
+  "recipient": "DIR",
+  "sender": "Santo Domingo"
+}

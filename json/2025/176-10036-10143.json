@@ -1,0 +1,33 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "CIA Information Report",
+  "security": "This report contains information affecting the National Defense of the United States within the meaning of the Espionage Laws, Title 18, U.S.C Secs. 793 and 794, the transmission or revelation of which in any manner to an unauthorized person is prohibited by law.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A CIA information report details alleged intentions of Ngo Dinh Nhu to deal with the Viet Cong and Pham Ngoc Thao's attempts to secure Vietnamese Air Force support for a coup d'etat against the Diem regime in South Vietnam.",
+  "summary_one_paragraph": "Dated September 24, 1963, this CIA information report relays intelligence from a field grade Vietnamese Air Force officer stating that Ngo Dinh Nhu was considering dealing with the Viet Cong and that Pham Ngoc Thao was soliciting VNAF support for a coup against President Diem's regime. Thao claimed that Nhu admitted to exploring deals with the communists and planned to alter South Vietnam's economy to resemble communist nations. He also said that Ambassador Lodge was aware of Nhu's contacts with the Viet Cong and believed that support from General Huynh Van Cao was wavering.",
+  "tags": [
+    "CIA",
+    "Vietnam",
+    "Ngo Dinh Nhu",
+    "Pham Ngoc Thao",
+    "Coup d'Etat",
+    "Viet Cong",
+    "Diem Regime",
+    "Political Instability"
+  ],
+  "title": "CIA Information Report",
+  "date": "1963-09-24",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ngo Dinh Nhu",
+    "Pham Ngoc Thao",
+    "Diem",
+    "Huynh Van Cao",
+    "Huynh Huu Hien",
+    "Lodge (Ambassador Lodge)"
+  ]
+}

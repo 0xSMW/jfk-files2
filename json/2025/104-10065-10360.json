@@ -1,0 +1,26 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Teletype Message",
+  "security": "Revealing details about NIGALE/75's request involving the Third Directorate could compromise intelligence-gathering activities and sources. Quoting directly: 'N/75 asked for formal note because he will require data from Third Directorate, which he would not rely on to keep matter between him and them.' This indicates a potential lack of trust and sensitivity around information sharing.",
+  "security_level": "SECRET",
+  "summary": "A secret teletype message from Brussels discusses a request related to the 'Flemish Order of Militants' and involves a formal note to NITRUST due to data requirements from the Third Directorate.",
+  "summary_one_paragraph": "This secret teletype from Brussels, dated May 5, 1978, addresses a request (WNINTEL NIFLAIR NIGALE) pertaining to the 'Flemish Order of Militants.' The message indicates NIGALE/75 surfaced a request with the intention of avoiding a decision by NITRUST; however, due to the need for data from the Third Directorate, a formal note to NITRUST is required, and the sender is pressing for an early reply. The relevant file is noted as 008-002-009/3, E2, IMPDET.",
+  "tags": [
+    "Flemish Order of Militants",
+    "NIGALE",
+    "NITRUST",
+    "Third Directorate",
+    "Brussels",
+    "HSCA",
+    "EUR/BNL"
+  ],
+  "title": "WNINTEL NIFLAIR NIGALE - FLEMISH ORDER OF MILITANTS",
+  "date": "1978-05-05",
+  "locations_mentioned": [
+    "Brussels",
+    "Washington"
+  ],
+  "origin_agency": "Unknown (Brussels)",
+  "recipient": "Washington (EUR/BNL)",
+  "sender": "GOERLICH (Acting)"
+}

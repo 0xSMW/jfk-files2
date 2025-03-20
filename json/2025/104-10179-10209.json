@@ -1,0 +1,51 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing planned travel routes and meeting details could expose potential vulnerabilities to counterintelligence efforts. For instance, disclosing the planned departure date, boat names, and meeting locations (\"AMBANG-1 INFORMED PEPE GATILLO...THEIR DEPARTURE DATE FOR PBRUMEN WOULD BE 1 JULY...BOAT TO BE USED IS UNNAMED RYBOVITCH...AT INTERNATIONAL MARINE DOCK 26 JUNE... MEET OTHER BOAT AT 0900 SAME MORNING OFF PBPRIME COAST\") could allow hostile parties to intercept or disrupt operations.",
+  "security_level": "SECRET",
+  "summary": "A classified message detailing the travel plans of AMBANG-1 and associates, including departure dates, boats to be used, meeting points, and contacts in PBRUMEN (likely Cuba), along with information on other individuals connected to the operation.",
+  "summary_one_paragraph": "This secret message, dated June 27, 1965, from SMWAVE to the Director, outlines the intended movements of AMBANG-1 and his team as reported by AMFAST-6 and other sources. The message describes their plans to travel to PBRUMEN (Cuba) via boat, using a Rybovitch named boat supported by a Chris Craft mothership, their intended meeting with Raul Perez in Cojimar, and the anticipated 15-day coordination period with contacts tied to AMTHUG-1. It also details a related boat repair operation in West Palm Beach involving Nicolas Salado Mata, and information on AMBANG-1's visit to New York for publicity reasons, as reported by Max Lesnick and Ed Reingold of Time Magazine.",
+  "tags": [
+    "CIA",
+    "AMBANG-1",
+    "PBRUMEN",
+    "Cuba",
+    "Boat",
+    "Gatillo",
+    "AMFAST-6",
+    "AMTHUG-1",
+    "Travel Plans",
+    "Infiltration"
+  ],
+  "title": "ROBATIC YOBITE AMBANG",
+  "date": "1965-06-27",
+  "locations_mentioned": [
+    "Fort Lauderdale",
+    "International Marine Dock",
+    "Miami",
+    "Anacapri Pier",
+    "North River Drive",
+    "PBPRIME Coast",
+    "Cojimar",
+    "Habana",
+    "West Palm Beach",
+    "Puerto Rico",
+    "New York"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AMBANG-1",
+    "Pepe Gatillo (Jose Garcia Valdec)",
+    "Armando Acosta",
+    "Orlando Acosta Suarez",
+    "Bill Chus",
+    "Raul Perez",
+    "Rosa Perez",
+    "Nicolas Salado Mata",
+    "Eloy Gutierrez Menoyo",
+    "Max Lesnick",
+    "Ed Reingold",
+    "George Daniels"
+  ],
+  "sender": "SMWAVE (CIA Station Code?) - Miami, Florida, United States of America or the Caribbean. (Assumption as station codes are not consistently the same in different documents.) Station code must be verified by another document to confirm assumption is correct. In the event that the assumption is correct, the document is believed to have been sent from a CIA station in the Caribbean or Miami, Florida. The documents destination of Washington D.C. (indicated by the recipient as Director, DC, DDP), shows the document was being sent to CIA headquarters from the station in the Caribbean or Miami, Florida, USA. Given the time frame, most assumptions may conclude Miami, Florida is the location of the station as the city was known as a hub for Cuban exile and anti-Cuban operations by the CIA. SMWAVE's location must be verified by another CIA document with metadata referring to SMWAVE's geographical location to avoid misinterpretation of the station's location to maintain veracity of this document's metadata description of sender and location of CIA station responsible for the message transmission to Washington D.C., USA. Further references must be made to ensure the assumptions are accurate before marking them as verifiable and non-assumptive. No alterations to the description should be made without proper verification and should be further investigated for correctness prior to any further alterations, if corrections are determined to be necessary. Please verify."
+}

@@ -1,0 +1,22 @@
+{
+  "classification": "Administrative",
+  "document_type": "Form",
+  "security": "Revealing the existence of military cover backstops, the procedures for establishing and maintaining them, and the forms used (Form 1551, Form 642, Form 1322, Form 1323) could compromise ongoing operations. Specifically, the document states \"MILITARY COVER BACKSTOP ESTABLISHED\" and instructs to \"BLOCK RECORDS\", indicating a deliberate effort to conceal someone's true identity or activities. Disclosing these mechanisms could expose individuals operating under cover and damage the integrity of intelligence efforts.",
+  "security_level": "SECRET",
+  "summary": "This document is a notification of the establishment of a military cover backstop, outlining procedures for blocking records and managing changes or transfers related to the cover. It specifies the forms required for various actions, such as changing limitation categories or transferring cover responsibility.",
+  "summary_one_paragraph": "The document, dated 109709 (presumably a date code), is a notification form regarding the establishment of a military cover backstop. Addressed to either the Chief of Records and Services Division or the Chief of an Operating Component, the form indicates that a military cover backstop has been established and instructs personnel to block records according to OPMEMO 20-800-11. It outlines procedures for managing the cover, including submitting Form 642 to change the limitation category, ensuring an Army W-2 is issued, and submitting Forms 1322 and 1323 for any changes affecting the cover or transferring cover responsibility, respectively. Copies are to be distributed to CPD/OP, OSD/OS, PSD/OS, and ADPD/COMPT.",
+  "tags": [
+    "Military Cover",
+    "Backstop",
+    "Records Blocking",
+    "Form 1551",
+    "Form 642",
+    "Form 1322",
+    "Form 1323",
+    "Administrative Procedure"
+  ],
+  "title": "Notification of Establishment of Military Cover Backstop",
+  "date": "1969-10-09",
+  "origin_agency": "Unspecified (likely Department of Defense or Army)",
+  "recipient": "Chief, Records and Services Division or Chief, Operating Component"
+}

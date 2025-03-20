@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Disclosing this message could reveal intelligence-gathering activities related to Cuban officials and potential liaison relationships with foreign governments, which could harm ongoing operations or diplomatic relations. The request for derogatory information on Olivares to be passed to high-level liaison highlights the sensitivity of these interactions.",
+  "security_level": "SECRET",
+  "summary": "A CIA cable from Rio de Janeiro requests derogatory information on Cuban Vice Minister of Foreign Affairs Carlos Olivares, who is planning to visit Brazil to promote the Cuban revolution, and asks for advice from Mexico regarding his travel.",
+  "summary_one_paragraph": "This secret CIA cable, dated May 17, 1961, originates from Rio de Janeiro and is addressed to BELL, with information copies to DDP, COP, ADDP/A, WH, and S/C 2. The message reports that Cuban Vice Minister of Foreign Affairs Carlos Olivares intends to travel to Brazil around May 20 to promote the Cuban revolution. The CIA requests the rapid resumption of derogatory information on Olivares for dissemination to high-level liaison contacts and seeks advice from Mexico regarding Olivares's travel arrangements.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Carlos Olivares",
+    "Brazil",
+    "Mexico",
+    "Derogatory Information",
+    "Liaison"
+  ],
+  "title": "Request for Derogatory Information on Cuban Vice Minister Carlos Olivares",
+  "date": "1961-05-17",
+  "locations_mentioned": [
+    "Rio de Janeiro",
+    "Mexico",
+    "Brazil",
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Carlos Olivares"
+  ],
+  "recipient": "BELL",
+  "sender": "Rio de Janeiro Station"
+}

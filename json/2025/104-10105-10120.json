@@ -1,0 +1,39 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "This memo outlines specific concerns regarding potential security breaches, including revealing the true identity of \"Abe\" and Agency judgments regarding Congressional select committees, particularly on pages 6 and 14-18. It also flags the surfacing of Mr. Wisner's death details, laundering of money confirmation, connecting Ernest Hemmingway with the Havana Chief of Station, and the acknowledgment of a U.S. citizen's execution, noting that the chapter is \"replete with a profusion of illustrations of tradecraft and operational activities too numerous to set forth.\"",
+  "security_level": "CONFIDENTIAL",
+  "summary": "Robert R. Kierce, Chief of the Special Security Unit, DDO, sends a memorandum to the Chief of the External Activities Branch, SSD, outlining security concerns regarding a manuscript written by David Phillips.",
+  "summary_one_paragraph": "In a memorandum dated June 14, 1976, Robert R. Kierce, Chief of the Special Security Unit within the DDO, communicates to the Chief of the External Activities Branch, SSD, concerns regarding a manuscript by David Phillips; the memo details specific passages that the SSU believes could compromise the CIA's security. Kierce highlights potential disclosures of sensitive information, including the identity of individuals, operational methods, and the Agency's assessment of Congressional investigations, ultimately recommending against the publication of the manuscript due to its extensive revelation of names, details, and privileged information.",
+  "tags": [
+    "CIA",
+    "Security Review",
+    "Manuscript Review",
+    "David Phillips",
+    "External Activities Branch",
+    "Special Security Unit",
+    "Source and Methods",
+    "Compromised Information"
+  ],
+  "title": "Manuscript by David Phillips",
+  "date": "1976-06-14",
+  "persons_mentioned": [
+    "Robert R. Kierce",
+    "David Phillips",
+    "Abe",
+    "Mr. Colby",
+    "Dr. Kissinger",
+    "Mr. Wisner",
+    "Ernest Hemmingway",
+    "Colonel King",
+    "Winston Scott",
+    "William F. Buckley",
+    "Howard Hunt",
+    "Philip Agee",
+    "John McCone",
+    "Castro",
+    "Lee Harvey Oswald"
+  ],
+  "recipient": "Chief, External Activities Branch, SSD",
+  "sender": "Robert R. Kierce, Chief, Special Security Unit, DDO"
+}

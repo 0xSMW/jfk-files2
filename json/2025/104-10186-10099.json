@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Information Report",
+  "security": "Disclosing the detailed directives for Cuban intelligence operations in the Dominican Republic could compromise current intelligence activities, expose sources and methods, and damage relations with involved nations. Specifically, revealing the priorities and objectives for collecting information on political groups, armed forces, and intelligence agencies could alert these entities and allow them to counter Cuban intelligence efforts. The document explicitly tasks agents with gathering 'Functions, characteristics, and personal data on members of the foreign service, and of the accredited diplomatic corps,' potentially violating diplomatic protocols.",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "This report details policy guidance directives from the Cuban General Directorate of Intelligence (DGI) for its representatives in the Dominican Republic, outlining priorities for intelligence gathering, including monitoring leftist forces, the Dominican military, counterrevolutionary organizations, and CIA activities.",
+  "summary_one_paragraph": "Originating in June 1961 and disseminated on January 11, 1965, this Central Intelligence Agency (CIA) information report, sourced from a former Cuban intelligence officer, translates a document detailing the Cuban General Directorate of Intelligence’s (DGI) directives for intelligence operations in the Dominican Republic during Juan Bosch Gaviño's regime. The directives prioritize collective action, the status of leftist forces, the Dominican Republic Armed Forces, and the Dominican Communist Party, while also focusing on training camps, counterrevolutionary organizations, repressive corps, CIA Santo Domingo, political parties, solidarity with Cuba movements, relations with the United States, the Church, and the internal situation of the armed forces, providing specific guidelines for gathering political, military, and economic intelligence to support Cuban interests.",
+  "tags": [
+    "Cuban Intelligence",
+    "Dominican Republic",
+    "DGI",
+    "CIA",
+    "Counterintelligence",
+    "Juan Bosch Gavino",
+    "Cold War",
+    "FOIA"
+  ],
+  "title": "Policy Guidance Directives for Cuban Intelligence Representatives in the Dominican Republic",
+  "date": "1965-01-11",
+  "locations_mentioned": [
+    "Cuba",
+    "Dominican Republic",
+    "Santo Domingo",
+    "Miami",
+    "Central America",
+    "Caribbean"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Juan Bosch Gavino",
+    "Miguel Angel Quevedo",
+    "Carlos Prio",
+    "Fidel Castro"
+  ],
+  "recipient": "STATE, DIA, REPCINCLANT, I&NS, ARMY, NAVY, AIR, NSA, FBI, OCR",
+  "sender": "Former Cuban intelligence officer"
+}

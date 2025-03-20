@@ -1,0 +1,43 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing coded communications, intelligence sources, and operational details could severely compromise ongoing operations and endanger personnel involved. The translation of coded messages reveals operational plans and activities. Quoting directly: 'REF B (AURELIO MARTINEZ) FLR40) 281-283293 IS OLD CONTACT OF ANCLATTER-5. A-5 WILL BE QUERIED ON SUBJ BUT NOT TOLD FOR WHAT REASON.' Disclosing this could expose intelligence sources and methods.",
+  "security_level": "SECRET",
+  "summary": "A translated message discusses the procurement of medical supplies and provides information on individuals connected to intelligence operations, including an old contact and details about a student leaving Cuba.",
+  "summary_one_paragraph": "This SECRET classified message, sent from WAVE to the Director, translates coded communications concerning intelligence activities related to Cuba. It references the acquisition of specific medical supplies (Trinricon Intrinsic capsules), provides details about a physicist-mathematician named Aurelio Martinez (an old contact of ANCLATTER-5), and shares data on Jose Campos Perez, a student departing Cuba on Libertad 12. The message also mentions the security of Aguila’s position in Cayo Levisa and confirms readiness for an operation involving a boat hidden in the mangroves.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Coded Communication",
+    "Intelligence Operations",
+    "Medical Supplies",
+    "Libertad 12",
+    "ANCLATTER-5",
+    "Aurelio Martinez",
+    "Jose Campos Perez",
+    "Cayo Levisa",
+    "Aguila"
+  ],
+  "title": "Translated Message Regarding Cuban Intelligence Operations",
+  "date": "Unknown",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Cayo Levisa"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Otto",
+    "Aquiles",
+    "Doctor Jimenes (Aurelio Martinez)",
+    "Irene",
+    "Ada",
+    "Jose Campos Perez",
+    "Ricardo",
+    "Celina",
+    "Aguila",
+    "Tomas Bene (Inguanzo) Ortiz"
+  ],
+  "recipient": "Director",
+  "sender": "WAVE"
+}

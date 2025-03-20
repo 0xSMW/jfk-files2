@@ -1,0 +1,35 @@
+{
+  "classification": "Assassination",
+  "document_type": "PAPER, TEXTUAL DOCUMENT",
+  "security": "The information was furnished on a “highly confidential basis” from an asset operating near the Cuban Embassy. Mentioning names like Carter and Patterson can reveal sensitive sources and methods.",
+  "security_level": "Secret",
+  "summary": "An FBI Airtel message reports a conversation from May 1964 between a Cuban Embassy counselor in London and an unidentified visitor, possibly Colombian, discussing the Kennedy assassination and whether a 'FOSTER' (possibly OSWALD) had been to Cuba.",
+  "summary_one_paragraph": "This FBI Airtel, dated June 23, 1964, relays information provided by Mr. R.E. Carter of the CIA in London, concerning a conversation intercepted by British Security Service (MI-5) and British Secret Intelligence Service (MI-6) from a tisur at the Cuban Embassy in London. The conversation, which took place on May 8, 1964, involved Mariotriva Patterson, a Counselor at the Cuban Embassy, and an unidentified male visitor, possibly Colombian, discussing the assassination of President Kennedy. The visitor inquired if an individual named 'FOSTER', possibly Lee Harvey Oswald, had ever been to Cuba, to which RIVA responded in the negative, also adding statements critical of the assassination being an imperialist act.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Cuban Embassy",
+    "Lee Harvey Oswald",
+    "Kennedy Assassination",
+    "MI-5",
+    "MI-6",
+    "Mariotriva Patterson",
+    "R.E. Carter"
+  ],
+  "title": "MISCELLANEOUS INFORMATION CONCERNING",
+  "date": "1964-06-23",
+  "locations_mentioned": [
+    "London",
+    "Cuba",
+    "Tampico"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "R. E. CARTER",
+    "MARIOTRIVA PATTERSON",
+    "JOHN FITZGERALD KENNEDY"
+  ],
+  "recipient": "DIRECTOR, FBI",
+  "sender": "LEG, LO"
+}

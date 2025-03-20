@@ -1,0 +1,23 @@
+{
+  "classification": "Administrative",
+  "document_type": "Mortgage Note",
+  "security": "This document appears to be a standard legal form for a mortgage note, with details such as the date, county, and parties involved left blank. There is no apparent security risk in sharing this document as it is a template. The instruction 'Background Use Only. Do Not Reproduce' suggests it was for internal use, but does not indicate specific sensitive content.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A standard mortgage note form from New York, including acknowledgment sections for individuals and corporations, distributed by Chicago Title Insurance Company.",
+  "summary_one_paragraph": "This is a standard mortgage note form for use in the State of New York, distributed by Chicago Title Insurance Company. It includes sections for acknowledging the instrument by individuals and corporations, with blanks to be filled in with specific details such as names, dates, and county information. The form also indicates a return address for mail and includes a section marked 'Background Use Only. Do Not Reproduce.'",
+  "tags": [
+    "Mortgage Note",
+    "New York",
+    "Legal Form",
+    "Chicago Title Insurance Company",
+    "Real Estate",
+    "Administrative"
+  ],
+  "title": "Mortgage Note",
+  "date": "1978-03-02",
+  "locations_mentioned": [
+    "New York",
+    "New York County"
+  ],
+  "origin_agency": "CIA"
+}

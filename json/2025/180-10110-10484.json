@@ -1,0 +1,43 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "This report details CIA surveillance operations, including photographic and electronic methods, aimed at Cuban and Soviet diplomatic missions in Mexico City. Disclosing these methods could compromise current and future intelligence gathering operations. It also discusses the CIA's knowledge of Lee Harvey Oswald's contacts with these missions prior to the assassination, revealing the extent and limitations of their surveillance capabilities. Sharing this information could expose sensitive sources and methods, potentially jeopardizing national security.",
+  "security_level": "TOP SECRET",
+  "summary": "This is a House Select Committee on Assassinations (HSCA) report focusing on Lee Harvey Oswald's activities in Mexico City, the CIA's surveillance operations there, and the information the CIA possessed about Oswald before and after the assassination of President Kennedy.",
+  "summary_one_paragraph": "This HSCA report investigates Lee Harvey Oswald's activities in Mexico City, the CIA's surveillance of Cuban and Soviet diplomatic missions, and the information known by the CIA regarding Oswald before and after President Kennedy's assassination. The report analyzes CIA photographic and electronic surveillance operations, detailing their objectives, scope, and procedures. It examines whether the CIA knew about Oswald's contacts with the Cuban and Soviet embassies, whether that information was accurately reported, and whether a photograph of Oswald was obtained by CIA surveillance. The report also addresses discrepancies between the Warren Commission's findings and the information available to the HSCA, including allegations about Silvia Duran's possible intelligence connections.",
+  "tags": [
+    "HSCA",
+    "Lee Harvey Oswald",
+    "CIA",
+    "Mexico City",
+    "JFK Assassination",
+    "Surveillance",
+    "Soviet Embassy",
+    "Cuban Embassy",
+    "Warren Commission"
+  ],
+  "title": "LEE HARVEY OSWALD THE CIA AND MEXICO CITY",
+  "conspiracy": "The report addresses whether Lee Harvey Oswald visited the Soviet and Cuban consulates in Mexico City, what his activities were, and if he was alone. It investigates the possibility of an imposter using Oswald's name and the existence of a photograph of Oswald entering the consulates, which the CIA denies exists. The report questions whether all information about Oswald was accurately and expeditiously reported by the CIA before the assassination.",
+  "date": "1978",
+  "locations_mentioned": [
+    "Mexico City",
+    "Soviet Consulate",
+    "Cuban Consulate"
+  ],
+  "origin_agency": "HSCA",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "Silvia Duran",
+    "Eusebio Azcue Lopez",
+    "Alfredo Mirabal Diaz",
+    "Elena Garro de Paz",
+    "Oscar Contreras Lartigue",
+    "Phillip Agee",
+    "Daniel Stanley Watson",
+    "Joseph Burkholder Smith",
+    "Joseph Piccolo, Jr.",
+    "Dan Niescuir",
+    "J. Edgar Hoover"
+  ],
+  "recipient": "Unknown"
+}

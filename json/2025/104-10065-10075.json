@@ -1,0 +1,27 @@
+{
+  "classification": "Commission",
+  "document_type": "Cable",
+  "security": "This cable outlines guidelines for interacting with the House Select Committee on Assassinations (HSCA), including stipulations regarding access to nonofficial cover officers (NOCs) and agents. Specifically, it states: 'STAFF MEMBERS MAY INTERVIEW NOCS BUT NOT REPEAT NOT IN COUNTRY. NOCS WILL BE FLOWN TO OTHER AREAS FOR INTERVIEWS. ADDITIONALLY, NOCS WILL USE ALIASES AS APPROPRIATE.' and 'HSCA STAFF MEMBERS MAY NOT REPEAT NOT CONTACT OR INTERVIEW AGENTS.' Revealing these limitations could undermine the HSCA's investigation and expose sensitive operational methods.",
+  "security_level": "SECRET",
+  "summary": "A cable outlining guidelines for CIA interaction with the House Select Committee on Assassinations (HSCA), specifically concerning interviews with nonofficial cover officers (NOCs) and agents.",
+  "summary_one_paragraph": "This SECRET cable, dated May 27, 1978, addresses CIA protocol for engaging with the House Select Committee on Assassinations (HSCA), chaired by Representative Louis Stokes. With the HSCA interviewing retirees and examining Agency-provided material, the CIA aims to protect sources and NOC identities while assisting the HSCA's work. Guidelines include informing the committee of former employees' whereabouts (if known), checking individuals provided by the HSCA to avoid exposing Agency assets, allowing interviews with NOCs outside their country of operation using aliases, and prohibiting HSCA contact with agents. Field offices are instructed to consult headquarters before fulfilling any requests from HSCA staff members.",
+  "tags": [
+    "HSCA",
+    "House Select Committee on Assassinations",
+    "NOC",
+    "Non Official Cover",
+    "Agents",
+    "Source Protection",
+    "JFK Assassination",
+    "Interview Guidelines"
+  ],
+  "title": "Guidelines for Interaction with House Select Committee on Assassinations (HSCA)",
+  "date": "1978-05-27",
+  "persons_mentioned": [
+    "Louis Stokes",
+    "John N. McMahon",
+    "Frank C. Carlucci"
+  ],
+  "recipient": "WWSB, Luxembourg",
+  "sender": "STAFF, DIRECTOR"
+}

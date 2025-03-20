@@ -1,0 +1,27 @@
+{
+  "classification": "Personnel",
+  "document_type": "Personnel Security Action Request",
+  "security": "Releasing details of personnel security investigations, even with redactions, could reveal investigative techniques and sources, potentially compromising future investigations. The document includes references to FBI file checks and security clearance determinations. Excerpt: \"Request that Headquarters and Local FBI (S) file checks be conducted on SUBJECT's parents...request this investigation be expedited as determination under AR 604-10 is being delayed at Department of the Army pending results.\"",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This document is a request for and results of a personnel security action concerning David Reed Fromer, including requests for FBI file checks on his parents to expedite a security clearance determination.",
+  "summary_one_paragraph": "This document, dated May 5, 1967, details a request from the USAPSG to DCS-OPS USAINTC for a personnel security action concerning David Reed Fromer. The request includes an investigation validation and records check, with a request for Headquarters and Local FBI file checks on Fromer's parents. The purpose is to expedite a determination under AR 604-10, which is being delayed at the Department of the Army pending the results. The document also tracks the action taken, noting whether information was considered a bar to clearance and the final determination.",
+  "tags": [
+    "Personnel Security",
+    "FBI File Check",
+    "Security Clearance",
+    "AR 604-10",
+    "USAPSG",
+    "USAINTC",
+    "David Reed Fromer"
+  ],
+  "title": "[ RESTRICTED ] Request for and Results of Personnel Security Action",
+  "date": "1967-05-05",
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "David Reed Fromer",
+    "Mr. Burwasser",
+    "JB Finnegan"
+  ],
+  "recipient": "DCS-OPS USAINTC",
+  "sender": "USAPSG"
+}

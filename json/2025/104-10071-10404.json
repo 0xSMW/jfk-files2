@@ -1,0 +1,33 @@
+{
+  "classification": "Liaison",
+  "document_type": "Message Form",
+  "security": "Disclosing the positive identification of James Earl Ray as the accused assassin and his personal characteristics (height, weight, eye color, hair color, scars), aliases used, military service details, history of mental health confinement, and criminal record for burglary, armed robbery, and forgery could compromise ongoing investigations into the assassination and provide information that could be misused. Quoting directly: 'LNERGO HAS POSITIVELY IDENTIFIED ACCUSED ASSASSIN AS JAMES EARL RAY... CONSIDERED ARMED AND EXTREMELY DANGEROUS. CURRENT WHEREABOUTS UNKNOWN.'",
+  "security_level": "SECRET",
+  "summary": "This message relays the positive identification of James Earl Ray as the accused assassin, providing physical characteristics, aliases, and criminal history, and is being shared for liaison purposes.",
+  "summary_one_paragraph": "A CIA message, dated April 19, 1968, confirms the positive identification of James Earl Ray as the accused assassin. The communication details Ray's physical attributes, including height, weight, eye and hair color, and notable scars. It also lists his known aliases—James McBride, James Walton, W.C. Herron, and James O'Connor—and his military service record, which ended with a discharge for ineptitude. Ray's history of confinement in a mental hospital, his various occupations (baker, laborer), and a long criminal record involving burglary, armed robbery, and forgery are also highlighted. The message notes that Ray is considered armed and extremely dangerous and had been missing from the Missouri State Penitentiary since April 23, 1967. Photos of Ray, previously labeled Galt, are being pouched for liaison.",
+  "tags": [
+    "CIA",
+    "James Earl Ray",
+    "Assassination",
+    "LNERGO",
+    "Identification",
+    "Criminal History"
+  ],
+  "title": "LNERGO Identification of Accused Assassin James Earl Ray",
+  "date": "1968-04-19",
+  "locations_mentioned": [
+    "Illinois",
+    "Missouri"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Richard Ober",
+    "James Earl Ray",
+    "James McBride",
+    "James Walton",
+    "W.C. Herron",
+    "James O'Connor"
+  ],
+  "recipient": "ASUNCION, BANGKOK, BARCELONA, BEIRUT, BERLIN, BERN, BOGOTA, BRASILLA, BRUSSELS, BUENOS AIRES, CARACAS, COPENHAGEN, FRANKFURT, GENEVA, GEORGETOWN, GUATEMALA CITY, GUAYAQUIL, THE HAGUE, HAMBURG, HELSINKI, HONG KONG, KINGSTON, LA PAZ, LIMA, LONDON, MADRID, MANAGUA, MONTEVIDEO, NEW DELHI, LISBON, MANILA, MUNICH, OSLO, PANAMA CITY, PARIS, PORT AU PRINCE, PORT OF SPAIN, PORTO ALEGRE, QUITO, RECIFE, RAWALPINDI, RIO DE JANEIRO, ROME, SAN JOSE, SANTO DOMINGO, SAN SALVADOR, SANTIAGO, SANTIAGO DE LOS CABALLEROS, SAO PAULO, STOCKHOLM, TEGUCIGALPA, TOKYO, VIENNA, ZURICH",
+  "sender": "Richie Ober (by direction), CI/OP/DO"
+}

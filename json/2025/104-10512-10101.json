@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing that AMTOAD-1 persuaded AMLACE-1's wife (AMlACE-2) to send reports from Havana and act as a courier could compromise AMLACE-1's security and expose their relationship with the agency. If AMLACE-2 is not aware of her husband's ties, exploiting her could create a security risk for AMLACE-1 and his operations. Quoting directly: “AMTOAD-1 SAYS HE PERSUADED AMLACE-1'S WIFE (HEREAFTER AMLACE-2) TO SEND HIM REPORTS FROM HAVANA. BELIEVES SHE WOULD BE WILLING ACT AS COURIER FOR ANTI CASTRO REFUGEES…AMTOAD OF COURSE UNAWARE OUR TIE TO AMLACE-1…WE FEEL THIS DEVELOPMENT NO THREAT TO AMLACE-1 SECURITY.”",
+  "security_level": "SECRET",
+  "summary": "A classified message details AMTOAD-1's attempt to use AMLACE-1's wife as a courier for anti-Castro reports from Havana, unaware of AMLACE-1's existing ties to the agency, and assesses the security implications.",
+  "summary_one_paragraph": "This classified message, dated August 26, 1962, outlines a situation where AMTOAD-1 has persuaded AMLACE-1’s wife, AMLACE-2, to provide reports from Havana and potentially act as a courier for anti-Castro refugees, sending information via Maria C. Niemeyer at the Brazilian Consulate in Miami. AMTOAD-1 is unaware of AMLACE-1’s relationship with the agency. Renard and Harry V. Witherby showed little interest in this development. Despite AMSTRUT-1’s assessment that AMLACE is anti-Castro and willing to work, the agency views this as a minor informal agreement with minimal threat to AMLACE-1’s security, and no corrective action will be taken unless instructed otherwise.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "AMtoad-1",
+    "Amlace-1",
+    "Amlace-2",
+    "Anti-Castro",
+    "Courier",
+    "Security"
+  ],
+  "title": "GYROSE AMLACE",
+  "date": "1962-08-26",
+  "locations_mentioned": [
+    "Havana",
+    "Miami",
+    "Brazil"
+  ],
+  "persons_mentioned": [
+    "Maria C. Niemeyer",
+    "Renard",
+    "Harry V. Witherby",
+    "Andriette",
+    "AMTOAD-1",
+    "AMLACE-1",
+    "AMLACE-2",
+    "AMSTRUT-1"
+  ],
+  "recipient": "DIR WAVE",
+  "sender": "C"
+}

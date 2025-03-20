@@ -1,0 +1,37 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "Revealing the process of creating false U.S. Army investigator credentials for SAS employees in Latin America exposes sensitive operational methods and personnel. Specifically, the memo states, \"It is requested that a U. S. Army Investigator Credential and Civilian Identification Card be issued in alias to the SAS employee identified hereunder...The credential will be utilized generally in the Southeastern part of the United States and possibly in Latin American in pursuit of the mission of SAS.\" This could compromise ongoing missions and endanger personnel by revealing cover identities and operational locations.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memorandum from the Chief of SAS/Support to the Chief of Technical Services Division requesting the issuance of U.S. Army Investigator credentials and a Civilian Identification Card in an alias for a SAS employee for use in the Southeastern United States and possibly Latin America.",
+  "summary_one_paragraph": "On May 8, 1963, Vincent J. Heyman, Chief of SAS/Support, sent a memorandum to the Chief of Technical Services Division requesting the creation of official documentation, including a U.S. Army Investigator Credential and a Civilian Identification Card, under the alias Bernard Forman Hillary for SAS employee Balmes N. Hidalgo, Jr. These credentials, intended for use primarily in the Southeastern United States and potentially in Latin America, would identify the employee as an Investigator with the U.S. Army, Joint Operations Group, and would be utilized on a controlled basis directed by the Chief of Station, JMWAVE. The memo references WAVE 8138 (IN 32980) and includes pertinent biographic data for Hidalgo, Jr., whose social security number is 055-18-4137, and specifies that the signed credential should be forwarded to P. Lewrence, SAS/Security Officer.",
+  "tags": [
+    "SAS",
+    "Technical Services Division",
+    "U.S. Army Investigator Credential",
+    "Civilian Identification Card",
+    "Alias",
+    "Latin America",
+    "JMWAVE",
+    "Security",
+    "Covert Operations"
+  ],
+  "title": "Request for Official Documentation",
+  "date": "1963-05-08",
+  "locations_mentioned": [
+    "Southeastern United States",
+    "Latin America"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Clay Kallander",
+    "Gikas",
+    "James Franklin",
+    "Balmes N. Hidalgo, Jr.",
+    "Bernard Forman Hillary",
+    "P. Lewrence",
+    "Vincent J. Heyman"
+  ],
+  "recipient": "Chief, Technical Services Division",
+  "sender": "Vincent J. Heyman, Chief, SAS/Support"
+}

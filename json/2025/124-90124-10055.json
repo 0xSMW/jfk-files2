@@ -1,0 +1,52 @@
+{
+  "classification": "Mexico",
+  "document_type": "Memo",
+  "security": "The memo contains information received from officials of foreign governments (Guatemala and Nicaragua) who requested confidentiality. Exposing this information could damage relations with these countries and compromise intelligence sources. The document is classified 'Confidential' as it contains information from an official of a foreign government and from an individual who has close connections with a second foreign government. Both requested the information be regarded as confidential.",
+  "security_level": "Secret",
+  "summary": "An FBI memo details investigations into Manuel Fuego and Mitchell Livingston WerBell, including their activities in Central America and contacts with individuals in Nicaragua and Guatemala. The CIA is also investigating this matter and has provided information about Noel Pallais's ties to General Anastasio Somoza and WerBell's claim of CIA clearance.",
+  "summary_one_paragraph": "This FBI memo, dated October 11, 1962, reports on the investigations into Manuel Fuego and Mitchell Livingston WerBell, focusing on their activities in Guatemala and Nicaragua. The CIA is also involved in the investigation and has provided information regarding Noel Pallais, who manages General Anastasio Somoza's finances, and WerBell's purported CIA clearance. The memo reveals that WerBell and his associate Arthur L. Smith were under surveillance by the Judicial Police in Guatemala, who monitored their phone calls and identified contacts in Washington, D.C., and Miami, Florida. The memo emphasizes that the enclosed report is classified 'Confidential' due to the sensitive nature of the information from foreign government officials and sources.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Manuel Fuego",
+    "Mitchell Livingston WerBell",
+    "Guatemala",
+    "Nicaragua",
+    "Surveillance",
+    "Arms Sales",
+    "Mercenaries"
+  ],
+  "title": "",
+  "date": "1962-10-11",
+  "locations_mentioned": [
+    "Managua, Nicaragua",
+    "Guatemala City, Guatemala",
+    "Washington, D.C.",
+    "Miami, Florida",
+    "San Salvador, El Salvador",
+    "Costa Rica"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Manuel Fuego",
+    "Mitchell Livingston WerBell",
+    "Scott Holloway",
+    "Noel Pallais",
+    "General Anastasio Somoza",
+    "Arthur L. Smith",
+    "Lucy Luchien",
+    "Michael F. Taylor",
+    "Miguelito Ydigoras",
+    "Mario Garcia Kohly",
+    "Diggs or Briggs",
+    "Handy",
+    "Arnold",
+    "Frank Austin",
+    "Frank Marshall",
+    "Colonel Jose Pineiro Paez",
+    "Jose Luiz Aguilar Leon",
+    "Luis Somoza"
+  ],
+  "recipient": "HQ",
+  "sender": "MX"
+}

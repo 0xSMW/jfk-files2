@@ -1,0 +1,33 @@
+{
+  "classification": "Administrative",
+  "document_type": "Briefing",
+  "security": "Revealing details about how the CIA manages and protects sensitive information could compromise ongoing operations and reveal intelligence-gathering methods. For instance, the discussion about ‘sleeper agents’ in Communist China and the handling of defectors exposes potential vulnerabilities. Additionally, disclosing the criteria for opening 201 files and the existence of the ‘Green List check’ and ‘R. list check’ could allow adversaries to circumvent intelligence efforts. Quoting directly: 'True name & cryptonyms are not maintained on the same sheet' and 'Each communication may, in twice, be downgraded; may never be destroyed.'",
+  "security_level": "SECRET",
+  "summary": "A briefing discussing CIA's information management practices, including the opening and maintenance of 201 files, handling of sensitive information, and coordination with other government agencies.",
+  "summary_one_paragraph": "This document summarizes a CIA briefing from February 14, 1978, covering various aspects of information management, including the criteria for opening 201 files, the handling of sensitive information related to sources, operations, and personnel, and coordination with other government agencies like the State Department. The briefing addresses procedures for managing cryptonyms, the integration of CIA employees within other agencies under cover, and the handling of defectors and sleeper agents, emphasizing the need for compartmentalization and limited access to protect sensitive intelligence.",
+  "tags": [
+    "CIA",
+    "201 Files",
+    "Information Management",
+    "Covert Operations",
+    "Cryptonyms",
+    "Defectors",
+    "Sleeper Agents",
+    "State Department",
+    "SIGINT",
+    "COMINT"
+  ],
+  "title": "Briefing on 201 Files and Information Management",
+  "date": "1978-02-14",
+  "persons_mentioned": [
+    "Bill Donnelly",
+    "Mike Duffy",
+    "Hen. Coyle",
+    "Virginia Tores",
+    "Bruce Johnson",
+    "George Frattas",
+    "Bub Bartow"
+  ],
+  "recipient": "Unknown",
+  "sender": "Unknown"
+}

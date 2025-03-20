@@ -1,0 +1,32 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "TELEGRAM INFORMATION REPORT TELEGRAM",
+  "security": "The information within pertains to intelligence regarding communist activities and potential attacks on U.S. and South Vietnamese personnel, which could compromise sources and methods if revealed. \"Forty VC GUERRILLAS between 14 and 16 years of age had come TO SAIGON TO CONDUCT SABOTAGE AND KIDNAPPINGS of GOVERNMENT OF VIETNAM AND U.S. PERSONNEL.\"",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A CIA telegram reports on Vietnamese Communist (VC) activities in the Saigon area, including the infiltration of VC members, the deployment of special operations cells, and plans for sabotage and kidnappings targeting government and U.S. personnel.",
+  "summary_one_paragraph": "This CIA telegram, dated August 23, 1962, details reported Vietnamese Communist (VC) activities in the Saigon area during June and July 1962. The report indicates that over 500 unarmed VC members infiltrated Saigon, residing in the homes of fellow VC members within the city's fourth and eighth districts. A VC district committee sent an armed platoon to operate as special operations cells, and a VC cadre, trained in Loc Thuan, was dispatched to establish a base among laborers for future operations. Additionally, forty VC guerrillas between the ages of 14 and 16 were reportedly sent to Saigon to conduct sabotage and kidnappings of Government of Vietnam and U.S. personnel. An unconfirmed report suggests that Brigadier General Nguyen Trong Dinh was appointed commander to launch a large-scale attack during the VC fall and winter campaign.",
+  "tags": [
+    "CIA",
+    "Vietnam",
+    "Vietnamese Communist Activities",
+    "Saigon",
+    "Infiltration",
+    "Sabotage",
+    "Kidnapping",
+    "Military Intelligence"
+  ],
+  "title": "Vietnam Communist Activities",
+  "date": "1962-08-23",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon",
+    "Go Vap",
+    "Loc Thuan",
+    "Tay Ninh Province"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Nguyen Trong Dinh",
+    "Nguyen Trong Vinh"
+  ]
+}

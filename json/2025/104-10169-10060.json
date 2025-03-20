@@ -1,0 +1,37 @@
+{
+  "classification": "Operations",
+  "document_type": "DISPATCH",
+  "security": "Sharing details about past or proposed operational activities, like the approval for utilizing LLERAS in a special operation, could reveal sensitive intelligence methods and compromise ongoing or future operations. Quoting: 'On 24 February 1958 an Operational Approval was granted for the utilization of LLERAS in supporting a special operation. However, before the operation was implemented, LLERAS was elected President of Colombia. There has been no operational interest in him since.'",
+  "security_level": "SECRET",
+  "summary": "A dispatch providing headquarters traces on Alberto LLERAS Camargo and the Hudson Institute, including background information and past operational interest in LLERAS.",
+  "summary_one_paragraph": "This secret dispatch from the Chief of WHD to the Chief of Station, JEBAVE, dated August 22, 1966, provides headquarters traces on Alberto LLERAS Camargo, former President of Colombia, and the Hudson Institute, in response to UFGA-24799. The dispatch details LLERAS's background, including his political career, travels, and past operational approval for his utilization in a special operation, which was not implemented due to his election as President of Colombia. It also notes the availability of derogatory information on several members of the Hudson Institute, contingent on JMWAVE's specified interests, and confirms no identifiable traces on other subjects mentioned in paragraph 5 of the reference.",
+  "tags": [
+    "Alberto LLERAS Camargo",
+    "Hudson Institute",
+    "Headquarters Traces",
+    "Special Operation",
+    "Colombia",
+    "Political Background"
+  ],
+  "title": "TYPIC/OPERATIONAL Headquarters traces",
+  "date": "1966-08-22",
+  "locations_mentioned": [
+    "Bogota",
+    "Argentina",
+    "Buenos Aires",
+    "Colombia",
+    "Spain",
+    "Hungary",
+    "United States"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Alberto LLERAS Camargo",
+    "Alfonso LOPEZ",
+    "Laureano GOMEZ",
+    "Berta PUGA",
+    "AMRAZZ/l"
+  ],
+  "recipient": "Chief of Station, JEBAVE",
+  "sender": "Chief, WHD"
+}

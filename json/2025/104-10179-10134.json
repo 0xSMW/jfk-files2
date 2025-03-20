@@ -1,0 +1,45 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This message details ongoing surveillance and operational planning related to Cuban personnel and potential defectors. Specific details about contacts, operational codes, and the solicitation of information about Cuban embassies could compromise active intelligence operations. Quoting: \"RAY asked for FOLLI A. UP TO DATE LIST OF PERSONNEL AND ADDRESS OF ALL CUBAN. EMBASSIES IN EUROPE...He wants begin mailing propaganda and letters to stimulate further disaffection personnel.\"",
+  "security_level": "SECRET",
+  "summary": "A message from the Paris station to the Director concerning interactions with a contact named RAY, discussing efforts to engage Cuban officials, potential defectors like FRANQUI, and plans to gather information and disseminate propaganda.",
+  "summary_one_paragraph": "Originating from the Paris station and addressed to the Director, this classified message relays information about interactions with the individual known as RAY, focusing on his contacts with individuals named JERVAY, UNRUMBLE 6, UNPAPIST, and AMSPORT 1, as well as his activities related to potential Cuban defectors like FRANQUI and CABRERA. It details RAY's efforts to gather information on Cuban embassies in Europe for propaganda distribution, his request for training, and his belief in the possibility of overthrowing Castro. The message also highlights the re-establishment of a working relationship with BAY, with the Paris station evaluating that RAY's trip to Europe was productive.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Defection",
+    "Propaganda",
+    "Surveillance",
+    "KUBARK",
+    "FRANQUI",
+    "CASTRO"
+  ],
+  "title": "RAY Contact and Cuban Defection Efforts",
+  "date": "1963-06-19",
+  "locations_mentioned": [
+    "Paris",
+    "Cuba",
+    "Europe",
+    "Brussels",
+    "Puerto Rico"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "RAY",
+    "JERVAY",
+    "UNRUMBLE 6",
+    "UNPAPIST",
+    "AMSPORT 1",
+    "FRANQUI",
+    "CABRERA",
+    "ARCOS",
+    "GUILLON DE MOULINS",
+    "NAUMAN",
+    "Alberto Bree Zito",
+    "GRAMATGES",
+    "MARIO GRACIA VARELA"
+  ],
+  "recipient": "Director",
+  "sender": "Paris Station"
+}

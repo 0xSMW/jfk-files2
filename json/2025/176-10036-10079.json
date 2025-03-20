@@ -1,0 +1,30 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Telegram",
+  "security": "Revealing the planned severance of diplomatic relations between South Vietnam and Cambodia, especially the timing and source of information, could damage relations between the countries or compromise the source. The document is marked CONFIDENTIAL and includes dissemination controls.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A CIA telegram reports that the Royal Cambodian Government is planning to sever diplomatic relations with South Vietnam, with a formal decision expected at a cabinet meeting on September 19 or 20, 1962.",
+  "summary_one_paragraph": "On September 17, 1962, a CIA telegram was disseminated reporting a potential severance of diplomatic relations between South Vietnam and Cambodia. According to Le Van Dong, a former Minister of Agriculture, a reliable source in Cambodia indicated that the Royal Cambodian Government (RKG) was planning to formalize this decision at a cabinet meeting on either September 19 or 20, where the RKG Minister of National Defense would request the severance. This unevaluated information was distributed to various field offices, including State, Army, Navy, Air Force, USMACV, MAAG, USOM, CINCPAC, PACFLT, ARPAC, PACAF, and the 9th Field Station.",
+  "tags": [
+    "CIA",
+    "Cambodia",
+    "South Vietnam",
+    "Diplomatic Relations",
+    "Telegram",
+    "CONFIDENTIAL",
+    "TDCS-3/522,837"
+  ],
+  "title": "Possible severance of Cambodian",
+  "date": "1962-09-17",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Cambodia",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Le Van Dong"
+  ],
+  "recipient": "STATE/INR, DIA, ARMY/ACSI, NAVY, AIR, JCS, SECDEF, NSA, NIC, AID, USIA, OCI, ONE, OCR, ORR, 081, 00, EXO, STATE/DIR",
+  "sender": "CIA"
+}

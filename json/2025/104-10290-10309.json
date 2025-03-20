@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This message discusses ongoing intelligence operations related to Cuban nationals and their potential recruitment. Revealing details about A-2’s interactions, including questions posed to the subject about furnishing 'certain information,' could compromise those operations and expose A-2’s identity. The specific details of Gustavo Abasolo's communications with his brother and their methods (e.g., using the Netherlands Embassy diplomatic pouch) could be exploited by hostile intelligence services.",
+  "security_level": "SECRET",
+  "summary": "A classified message from Mexico City requests traces and a personality and associations (POA) check on Jorge Antonio Abasolo Garcia, a Cuban industrial engineer, and discusses his brother Gustavo Abasolo's potential to provide information to the CIA (referred to as A-2). The message indicates that Jorge is disillusioned with the Cuban regime and might be persuaded to remain in place.",
+  "summary_one_paragraph": "This secret cable, originating from Mexico City, requests a thorough background check on Jorge Antonio Abasolo Garcia, a Cuban industrial engineer with ties to Ernesto “Che” Guevara, while also assessing the potential of his brother, Gustavo Abasolo, to serve as an intelligence source (A-2). The message details Jorge’s background, including his education at Georgia Tech, his position in the Ministry of Industries, his connections to Soviet cement procurement, and his recent trip to Mexico to see his children. It also notes Gustavo's anti-Castro sentiments, his employment in Mexico, and his correspondence with Jorge through the Netherlands Embassy diplomatic pouch, suggesting a possible opportunity to exploit Jorge's disillusionment with the Cuban regime.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "Cuba",
+    "Jorge Antonio Abasolo Garcia",
+    "Gustavo Abasolo",
+    "Ernesto \"Che\" Guevara",
+    "A-2",
+    "Intelligence Operations",
+    "Recruitment"
+  ],
+  "title": "Request for Traces and POA on Jorge Antonio Abasolo Garcia",
+  "date": "1963-08-02",
+  "locations_mentioned": [
+    "Mexico City",
+    "Cuba",
+    "Havana",
+    "Georgia",
+    "Bermuda",
+    "Netherlands"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Jorge Antonio Abasolo Garcia",
+    "Gustavo Abasolo",
+    "Arie Paz Someillan",
+    "Ernesto “Che” Guevara",
+    "Joaquin Mirabal"
+  ],
+  "recipient": "Director",
+  "sender": "Mexico City"
+}

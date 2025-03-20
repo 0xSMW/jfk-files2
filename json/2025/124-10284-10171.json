@@ -1,0 +1,46 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This report contains information about intelligence sources and methods, specifically the use of informants in Cuba and their connections to the CIA. Disclosing these details could compromise the safety of the informants and reveal sensitive intelligence gathering techniques. For example, the report mentions 'MM T-1, a United States government agency which conducts intelligence investigations,' and details their information about Maria Josefa Mendizabal. Releasing this could expose ongoing intelligence operations.",
+  "security_level": "Secret",
+  "summary": "FBI report on Maria Josefa Mendizabal Arvier, a Cuban national suspected of being a plant for Cuban intelligence while working as a secretary for ex-Venezuelan president Marcos Perez Jimenez in Miami Beach, Florida.",
+  "summary_one_paragraph": "This FBI report, dated December 31, 1959, details the investigation into Maria Josefa Mendizabal Arvier, also known as \"Nene\" Mendizabal, a Cuban national working as a secretary for ex-Venezuelan president Marcos Perez Jimenez in Miami Beach, Florida. The investigation was initiated based on information from MM T-1, a U.S. government intelligence agency, that Mendizabal was a plant providing information to Alberto Bayo, Jr., who was reportedly involved in intelligence activities for the Cuban government. The report outlines Mendizabal's immigration status, her past employment, and her association with individuals linked to Cuban intelligence, including details provided by CIA informants and telephone company records.",
+  "tags": [
+    "FBI",
+    "Maria Josefa Mendizabal Arvier",
+    "Marcos Perez Jimenez",
+    "Alberto Bayo Jr.",
+    "Cuban Intelligence",
+    "Internal Security",
+    "Registration Act",
+    "CIA Informant"
+  ],
+  "title": "",
+  "date": "1959-12-31",
+  "locations_mentioned": [
+    "Miami Beach, Florida",
+    "Havana, Cuba",
+    "New York City",
+    "Venezuela"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John R. Barron",
+    "Maria Josefa Mendizabal Arvier",
+    "Marcos Perez Jimenez",
+    "Alberto Bayo, Jr.",
+    "Carlos Siso",
+    "Ines Davila",
+    "Carlos Pulido",
+    "Alberto Revuelta",
+    "William D. Meehan",
+    "Eduardo MX Gonzalez",
+    "Janet Summers",
+    "William B. Holloman",
+    "Ana Rosa Guerra",
+    "Pedro Fernandez Vendizabal",
+    "Nelson Joset Fernandez Y Mendizabal"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "Barron, John R."
+}

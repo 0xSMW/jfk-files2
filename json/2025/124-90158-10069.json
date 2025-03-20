@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Airtel",
+  "security": "This document reveals FBI and CIA cooperation and intelligence sharing related to anti-Castro activities, which could compromise sources and methods if disclosed. It also discusses specific plans and operations of Cuban exile groups, potentially endangering individuals involved and disrupting ongoing activities. For example, 'POSADA is possibly CIA source in Caracas as his characterization by the CIA source and CIA are similar and information reported DIA and CIA are similar.'",
+  "security_level": "Secret",
+  "summary": "An FBI Airtel from San Juan to the Director, FBI, concerning anti-Fidel Castro activities by Cuban exiles, specifically the Ejercito De Liberacion Cubano (ELC) planning to use Mona Island as a storage and training base.",
+  "summary_one_paragraph": "This is a Secret FBI Airtel from the SAC in San Juan to the Director, FBI, dated September 5, 1968, regarding anti-Fidel Castro activities, particularly the Cuban exile group Ejercito De Liberacion Cubano (ELC). The Airtel discusses the ELC's plan to use Mona Island as a storage and training base, with possible assistance from the Venezuelan government. It also mentions Luis Posada as a potential CIA source in Caracas. The document includes enclosures like a Defense Intelligence Agency (DIA) Information Report and a CIA Information Cable, with dissemination instructions to various agencies, including U.S. Customs and the Coast Guard in San Juan and Miami.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Anti-Fidel Castro Activities",
+    "Cuban Exiles",
+    "Ejercito De Liberacion Cubano",
+    "Mona Island",
+    "Luis Posada",
+    "DIA",
+    "Venezuela",
+    "Intelligence Sharing"
+  ],
+  "title": "Anti-Fidel Castro Activities",
+  "date": "1968-09-05",
+  "locations_mentioned": [
+    "San Juan, Puerto Rico",
+    "Mona Island",
+    "Miami, Florida",
+    "Caracas, Venezuela",
+    "Venezuela"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Luis Posada",
+    "Jorge Marcano"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, San Juan"
+}

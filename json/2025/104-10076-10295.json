@@ -1,0 +1,38 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Disclosing the identities of individuals like Carlos Roman and Mariano Ramirez, along with their personal details and affiliations (e.g., employment, family relations, previous military service) could endanger them or compromise related intelligence operations. The cable explicitly states: 'IDEN A CARLOS (EVANS) ROMAN...RESIDES (CALLE ALFREDO DE ZAYAS 54) CAIMANERA WITH FATHER (EDUARDO (EVANS))...IDEN B MARIANO (VIRGILIO DE LA CARIDAD (RAMIREZ) ALARCON...RESIDES (SAN LUIS BELTRAN 66) CAMAGUEY...SON MARIANO (RAMIREZ) HERNANDEZ) LIVES 347 N.E. 36TH ST, MIAMI.'",
+  "security_level": "SECRET",
+  "summary": "A cable from JWAVE requests priority Personal Opinion and Attitude Surveys (POAS) on Carlos Roman and Mariano Ramirez, providing their personal details and residences in Cuba, and mentions a Miami connection for Ramirez.",
+  "summary_one_paragraph": "A SECRET cable, dated December 11, 1963, originating from JWAVE and addressed to the Director, requests priority POAS (Personal Opinion and Attitude Surveys) on two individuals: Carlos (Evans) Roman, an office assistant in Guantanamo, Cuba, and Mariano (Virgilio de la Caridad Ramirez) Alarcon, a former army officer and public proctor in Camaguey, Cuba. The cable includes specific details such as their dates of birth, residences, family members, and employment history, sourced from ANTAUP-10, and notes that local ODENVY traces found no prior information on these subjects.",
+  "tags": [
+    "JWAVE",
+    "POAS",
+    "Carlos Roman",
+    "Mariano Ramirez",
+    "Cuba",
+    "Guantanamo",
+    "Camaguey",
+    "ANTAUP-10",
+    "ODENVY",
+    "Personal Opinion and Attitude Surveys"
+  ],
+  "title": "Request for Priority POAS on Carlos Roman and Mariano Ramirez",
+  "date": "1963-12-11",
+  "locations_mentioned": [
+    "Guantanamo, Cuba",
+    "Caimanera, Cuba",
+    "Camaguey, Cuba",
+    "Miami, Florida"
+  ],
+  "origin_agency": "JWAVE",
+  "persons_mentioned": [
+    "Carlos (Evans) Roman",
+    "Mariano (Virgilio de la Caridad Ramirez) Alarcon",
+    "Eduardo (Evans)",
+    "Delfia (Molina) Gonzalez",
+    "Mariano (Ramirez) Hernandez"
+  ],
+  "recipient": "Director",
+  "sender": "JWAVE"
+}

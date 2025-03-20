@@ -1,0 +1,26 @@
+{
+  "classification": "Personnel",
+  "document_type": "Identification Form/Personnel Security Action Request",
+  "security": "The document contains personal information, such as Robert Scheer's social security number and date of birth, which could potentially be misused if released without redactions. Additionally, the details of security investigations and their outcomes, even if deemed 'no bar to clearance,' could be sensitive. The document states, 'If unfavorable information entered, transmit in sealed envelope thru intelligence channels.'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a request for and result of personnel security action concerning Robert Scheer, initiated due to remarks made in his DD Form 98 and DD Form 398; it details a security investigation and subsequent reassignment to non-sensitive duties.",
+  "summary_one_paragraph": "Dated August 24, 1998, this JFK Assassination System Identification Form details a personnel security action related to Robert Scheer, requested by the US Army Recruiting Command in Hampton, Virginia, on October 5, 1966. The action was prompted by remarks Scheer made on his DD Form 98 and DD Form 398. The investigation, conducted by USAINTC, resulted in Scheer being reassigned to non-sensitive duties, with the information considered no bar to clearance, and a recommendation to cancel the investigation; the form documents various control office actions and security determinations.",
+  "tags": [
+    "Personnel Security",
+    "Robert Scheer",
+    "Security Investigation",
+    "USAINTC",
+    "US Army Recruiting Command",
+    "DD Form 98",
+    "DD Form 398"
+  ],
+  "title": "[RESTRICTED] Request for and Result of Personnel Security Action",
+  "date": "1966-10-05",
+  "persons_mentioned": [
+    "Robert Scheer",
+    "Myron K. Hayashida",
+    "Dan H. Dietrich, Jr"
+  ],
+  "recipient": "CG, USA INTEL CMD; CG, USAREC; CO, AFEES; CHIEF, USAPSG",
+  "sender": "DIETRICH, DAN H JR"
+}

@@ -1,0 +1,51 @@
+{
+  "classification": "JFK Assassination/Soviet Relations",
+  "document_type": "Message",
+  "security": "Disclosing details about ongoing intelligence operations and sources, such as LWOPUS and related file numbers, could compromise these activities. Referencing \"INTELLIGENCE RELATED SNIPPETS REGARDING IN-PLACE AGENTS\" explicitly shows the nature of information being gathered, which poses a risk. The association between LWOPUS and the FIVA group being considered also highlights ongoing analytic efforts, which would be unwise to share.",
+  "security_level": "SECRET",
+  "summary": "A message regarding a Washington Times article about a KGB offer to Hollywood and its possible connection to the LWOPUS case, with analysis of potential links between the two and instructions to check the backgrounds of FIVA officers.",
+  "summary_one_paragraph": "This message, dated April 17, 1992, from the CIA to Vilnius, discusses a Washington Times article about former KGB agents (FIVA) offering Cold War stories to Hollywood for cash, and analyzes potential connections to the LWOPUS case, involving a person offering intelligence snippets. The message notes overlaps in timing, volume of material, and financial motivations between the FIVA group's offer and LWOPUS's manuscript. It directs Vilnius to provide comments, and includes plans to check the backgrounds of the FIVA officers for connections to information provided by LWOPUS.",
+  "tags": [
+    "KGB",
+    "Hollywood",
+    "LWOPUS",
+    "FIVA",
+    "Washington Times",
+    "Oleg Nechiperenko",
+    "Lee Harvey Oswald",
+    "James Garrison",
+    "Anatoly Yazkov",
+    "Julius and Ethel Rosenberg",
+    "Glenn Michael Souther",
+    "Leon Trotsky",
+    "Robert Lee Johnson"
+  ],
+  "title": "Washington Times Article re KGB Offer to Hollywood",
+  "date": "1992-04-17",
+  "locations_mentioned": [
+    "Moscow",
+    "Mexico City",
+    "Dallas",
+    "New Orleans",
+    "New York City",
+    "Vilnius",
+    "Lithuania"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "Kim Philby",
+    "Anatoly Privalov",
+    "Oleg Nechiperenko",
+    "James Garrison",
+    "Anatoly Yazkov",
+    "Julius Rosenberg",
+    "Ethel Rosenberg",
+    "Glenn Michael Souther",
+    "Leon Trotsky",
+    "Robert Lee Johnson",
+    "Oliver Stone"
+  ],
+  "recipient": "Vilnius",
+  "sender": "Staff"
+}

@@ -1,0 +1,30 @@
+{
+  "classification": "Security Matter",
+  "document_type": "Memo",
+  "security": "Releasing information about intelligence sharing with foreign agencies could compromise those relationships and reveal the scope of investigations into individuals of interest. The memo states: \"The following agencies were furnished a summary of the New York information on the subject and were requested to provide any information which might come to their attention regarding the subject's travels or activities...None of these agencies, except the British have furnished any information to date.\"",
+  "security_level": "Secret",
+  "summary": "A memo from the FBI's Bonn office to the Director regarding Martin Greendlinger, summarizing information shared with various agencies and their responses concerning Greendlinger's travels and activities.",
+  "summary_one_paragraph": "This secret memo, dated January 29, 1959, from the FBI's Bonn office to the Director, references a New York letterhead memorandum from November 17, 1958, concerning Martin Greendlinger. It details that several agencies, including G-2, U.S. Army Europe; Office of Special Investigations, U.S. Air Forces, Europe; CIA's American Embassy, Bonn; British Services Security Organization; Austrian Ministry of the Interior; West German Federal Office for the Protection of the Constitution; and the Security Office, American Embassy, Vienna, were provided with a summary of information on Greendlinger and asked to furnish any relevant details; only the British Services Security Organization responded with no trace of Greendlinger or his family.",
+  "tags": [
+    "FBI",
+    "Martin Greendlinger",
+    "Security Matter",
+    "Intelligence Sharing",
+    "Bonn"
+  ],
+  "title": "MARTIN GREENDLINGER",
+  "date": "1959-01-29",
+  "locations_mentioned": [
+    "New York",
+    "Bonn, Germany",
+    "Vienna, Austria"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Martin Greendlinger",
+    "David Greendlinger",
+    "Elena Ivanovna Greendlinger"
+  ],
+  "recipient": "HQ",
+  "sender": "BN"
+}

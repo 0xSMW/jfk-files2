@@ -1,0 +1,30 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Memorandum",
+  "security": "Recommending against declassification due to valid points made by Sir Charles Spry regarding the investigation of anonymous telephone calls could reveal intelligence gathering methods. Quoting directly: 'Sir Charles' letter to you recommends against declassification of the Warren Commission document CD-971 which refers to our investigation of anonymous telephone calls to the Canberra Embassy before and after the assassination of President Kennedy.'",
+  "security_level": "SECRET",
+  "summary": "A memorandum to the Director of Central Intelligence recommends against declassifying Warren Commission document CD-971 based on concerns raised by Sir Charles Spry of the Australian Security Intelligence Organization (ASIO) regarding the investigation of anonymous telephone calls to the Canberra Embassy.",
+  "summary_one_paragraph": "This SECRET memorandum, dated November 20, 1968, from William H. Nelson, Chief of the Far East Division, to the Director of Central Intelligence, via the Deputy Director for Plans, addresses a letter from Sir Charles Spry, Director General of ASIO. Sir Charles advises against the declassification of Warren Commission document CD-971, which details the investigation into anonymous telephone calls made to the Canberra Embassy before and after President Kennedy's assassination. Nelson concurs with Spry's assessment and recommends that CD-971 remain classified.",
+  "tags": [
+    "CIA",
+    "ASIO",
+    "Warren Commission",
+    "Declassification",
+    "Canberra Embassy",
+    "Anonymous Telephone Calls"
+  ],
+  "title": "Letter for Director from Sir Charles Spry (ASIO)",
+  "date": "1968-11-20",
+  "locations_mentioned": [
+    "Canberra, Australia"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Sir Charles Spry",
+    "William H. Nelson",
+    "President Kennedy",
+    "Amos Taylor, Jr."
+  ],
+  "recipient": "Director of Central Intelligence",
+  "sender": "William H. Nelson, Chief, Far East Division"
+}

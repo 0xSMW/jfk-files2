@@ -1,0 +1,43 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Memo",
+  "security": "The memo instructs the CIA to conceal the FBI's involvement when checking Thai records, stating, 'you must ensure that the Thai officials clearly understand that it is your Agency which is making the record checks and that such checks are not in any way being made for this Bureau.' This is to hide FBI methods from foreign governments and to obfuscate the relationship.",
+  "security_level": "Secret",
+  "summary": "The FBI provides the CIA with fingerprint cards for George Hoover Pratt and James Warren Smedley, in response to the CIA's request, for use in checking official Thai sources, while concealing FBI involvement; the CIA suspects Pratt is involved in recruiting people from Vietnam to be trained in Laos and then sent to assist the 'Black Movement' in the US.",
+  "summary_one_paragraph": "This memo, dated March 23, 1970, from FBI Director J. Edgar Hoover to the CIA, concerns George Hoover Pratt, suspected of recruiting individuals from Vietnam to be trained in Laos for involvement in the 'Black Movement' within the United States. In response to a CIA request, the FBI furnishes fingerprint cards for Pratt and James Warren Smedley (possibly identical to King Smedley), to assist the CIA in checking Thai records. The memo emphasizes the need to conceal the FBI's role in these checks from Thai officials. The memo also clarifies that no identification record was found for William Herman Jackson, also known as Jack Karl Lawborn, who was also mentioned in the CIA's request.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "George Hoover Pratt",
+    "James Warren Smedley",
+    "William Herman Jackson",
+    "Jack Karl Lawborn",
+    "Fingerprint Records",
+    "Thai Records",
+    "Black Movement",
+    "Laos",
+    "Vietnam",
+    "Internal Security"
+  ],
+  "title": "",
+  "date": "1970-03-23",
+  "locations_mentioned": [
+    "Laos",
+    "Vietnam",
+    "Thailand",
+    "United States",
+    "Dothan, Alabama",
+    "Roanoke, Virginia",
+    "Bangkok, Thailand"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "George Hoover Pratt",
+    "James Warren Smedley",
+    "William Herman Jackson",
+    "Jack Karl Lawborn",
+    "J. Edgar Hoover"
+  ],
+  "recipient": "Director, CIA",
+  "sender": "Director, FBI"
+}

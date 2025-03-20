@@ -1,0 +1,32 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "The agent reports contain personal information about Manuel Marti, including his address, family members, and details from interviews with his neighbors. Releasing this information without redaction could violate privacy and potentially put Marti or his family at risk.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "Agent reports from November 1968 detailing neighborhood checks conducted on Manuel Marti, providing character references and background information gathered from interviews with his neighbors in the Bronx, New York.",
+  "summary_one_paragraph": "These agent reports, dated November 18, 1968, summarize neighborhood checks conducted on Manuel Marti in the Bronx, New York. Alphonso E. Marshall, a special agent from the 108th MI Group, interviewed Alexander Castillo, Dominga Ortiz, and Hortense Mosko, who provided details about Marti's character, family life, and conduct in the neighborhood. The neighbors generally described Marti as a respectable, quiet, and trustworthy individual with no known involvement in questionable activities, recommending him for a position of trust within the U.S. Government.",
+  "tags": [
+    "Manuel Marti",
+    "Neighborhood Check",
+    "Character Reference",
+    "INSCOM",
+    "Personnel Investigation",
+    "Bronx, New York"
+  ],
+  "title": "Neighborhood Check on Manuel Marti",
+  "date": "1968-11-18",
+  "locations_mentioned": [
+    "Bronx, New York",
+    "San Juan, Puerto Rico"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Alexander Castillo",
+    "Dominga Ortiz",
+    "Hortense Mosko",
+    "Alphonso E. Marshall",
+    "Ivan Marti",
+    "Blanca Marti"
+  ]
+}

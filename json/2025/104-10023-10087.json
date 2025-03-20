@@ -1,0 +1,21 @@
+{
+  "classification": "Administrative",
+  "document_type": "Manual",
+  "security": "Disclosing details about the 201 system, including its processes for identifying individuals of interest and managing related files, could expose CIA intelligence-gathering methodologies. It specifies, for example, “The 201 system provides a method for identifying a person of specific interest to the Operations Directorate and for controlling and filing all pertinent information about that person.” Sharing this information could enable adversaries to anticipate and counter CIA operations more effectively.",
+  "security_level": "SECRET",
+  "summary": "This document describes the 201 system used by the Operations Directorate for identifying, tracking, and managing information on individuals of interest, including procedures for opening dossiers, assigning OI codes, and generating machine listings.",
+  "summary_one_paragraph": "Annex B of Chapter III, CSHB 70-1-1, details the CIA's 201 system, a method for identifying individuals of operational interest, maintaining files on them, and generating listings based on various criteria. It outlines the assignment of unique 201 numbers, creation of dossiers, management of master records, and the use of OI codes to categorize individuals by intelligence or security service affiliation. The manual covers procedures for opening and maintaining 201 dossiers, including what information to include, how to purge and maintain the files, and how to handle restricted dossiers, providing guidance for both Headquarters and field stations.",
+  "tags": [
+    "CIA",
+    "201 System",
+    "Dossiers",
+    "OI Codes",
+    "Information Management",
+    "Records Management",
+    "Operations Directorate",
+    "FOIA"
+  ],
+  "title": "The 201 System",
+  "date": "1974-11-15",
+  "origin_agency": "Central Intelligence Agency (CIA)"
+}

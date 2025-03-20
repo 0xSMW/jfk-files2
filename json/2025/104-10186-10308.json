@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This report contains Cuban intelligence directives focused on gathering information on Haiti. Sharing specific targets and methods, such as prioritizing 'Plans of aggression against Cuba,' 'Progressive political forces,' and the 'Communist Party of Haiti,' could expose Cuban intelligence-gathering operations. Disclosing details about 'Operative data' regarding illegal penetration into Haiti and exploitation of journalists could also compromise their capabilities and sources.",
+  "security_level": "SECRET",
+  "summary": "This report outlines policy guidance directives from the Cuban General Directorate of Intelligence (DGI) for Cuban intelligence representatives in Haiti, detailing priority intelligence targets and areas of interest.",
+  "summary_one_paragraph": "A 1965 report translates a 1963 document outlining the Cuban DGI’s policy guidance for intelligence gathering in Haiti. Prepared by the MA Department (later divided into Illegal and National Liberation Departments), the directives prioritize information on potential aggression against Cuba, progressive political forces, the attitude of Haitian political parties toward the Cuban Revolution, movements for solidarity with Cuba, and strategic information. Important areas of focus included relations with the U.S., internal Haitian politics, the social situation, the armed forces, and the Church, as well as intelligence on foreign service members and the diplomatic corps in Haiti.",
+  "tags": [
+    "Cuban Intelligence",
+    "DGI",
+    "Haiti",
+    "Intelligence Gathering",
+    "Policy Directives",
+    "Communist Party",
+    "Cuban Revolution",
+    "United States",
+    "Espionage"
+  ],
+  "title": "Policy Guidance Directives for Cuban Intelligence Representatives in Haiti",
+  "date": "1965-02-04",
+  "locations_mentioned": [
+    "Cuba",
+    "Haiti"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Trujillo"
+  ],
+  "recipient": "AFOSI, ACSI, OSI SY, FBI, DIA",
+  "sender": "A former Cuban intelligence officer"
+}

@@ -1,0 +1,49 @@
+{
+  "classification": "Cuba",
+  "document_type": "Intelligence Report",
+  "security": "This report details suspected Cuban security penetrations of the Cuban human rights/dissident movement. Revealing the identities of sources (CUB-04298) and methods used to identify potential infiltrators (e.g., tracking information provided to Gonzalez) could compromise ongoing intelligence operations and endanger individuals. The report is classified SECRET-WNINTEL--NOFORN, indicating it contains intelligence sources or methods not releasable to foreign nationals.",
+  "security_level": "SECRET",
+  "summary": "An intelligence report details suspected Cuban security penetrations of the Cuban human rights/dissident movement, identifying individuals suspected of being Cuban security sources or provocateurs within dissident groups like the Cuban Civic Current (CCC). The report outlines specific incidents and behaviors that led the CCC leadership to suspect individuals such as Jorge Gonzalez, Vladimiro Roca, Guillermo Fernandez Donates, and Rafael Alcides of being associated with the Ministry of Interior (MININT).",
+  "summary_one_paragraph": "This SECRET-WNINTEL intelligence report, dated January 18, 1996, from the CIA, details suspected Cuban security penetrations of the Cuban human rights/dissident movement in Cuba, based on information gathered between mid-August 1992 and mid-August 1995. The report, sourced from CUB-04298, a mid-level technician with extensive contact with dissident groups, highlights suspicions within the Cuban Civic Current (CCC) regarding four individuals: Jorge Gonzalez, Vladimiro Roca, Guillermo Fernandez Donates, and Rafael Alcides. Specific incidents, such as the surfacing of bogus information provided to Gonzalez during MININT interviews and anomalies in communications involving Roca, raised concerns about their potential affiliations with the Ministry of Interior (MININT).",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Human Rights",
+    "Dissidents",
+    "Counterintelligence",
+    "MININT",
+    "Security Penetration",
+    "Cuban Civic Current",
+    "CUB-04298"
+  ],
+  "title": "Suspected Cuban Security Penetrations of the Cuban Human Rights/Dissident Movement in Cuba",
+  "date": "1996-01-19",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Miami",
+    "Madrid"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Escalante Font",
+    "Jorge Gonzalez",
+    "Vladimiro Roca",
+    "Guillermo Fernandez Donates",
+    "Rafael Alcides",
+    "Osvaldo Paya Sardinas",
+    "Elizardo Sanchez Santacruz",
+    "Vladimir Martinez-Amores",
+    "Felix Diaz",
+    "Felix Bonne Carcasses",
+    "Mariana Badell",
+    "Fidel Castro",
+    "Carlos Alberto Montaner",
+    "Piotr Mikiska",
+    "Georgina de las Mercedes Gonzalez Corbo",
+    "Reinaldo Roque",
+    "Raul Castro Ruz"
+  ],
+  "recipient": "HOSDISSEM, NPIC WASHDC, DIRNSA, SECSTATE WASHDC, DIA WASHINGTON DC, DA WASHINGTON DC, CNO WASHINGTON DC, CMC WASHINGTON DC, CSAF WASHINGTON DC, TREASURY DEPT, FEDERAL BUREAU OF INVESTIGATION, WHITE HOUSE SITUATION ROOM, DOEHQ, DEPT OF JUSTICE COMMAND CENTER WASH DC, DIRNACIC, SECRET SERVICE, ONI WASHINGTON DC, COGARD INTELCOORDCEN WASHINGTON DC, DEPT OF TRANSPORTATION, COMCOGARD GRU KEY WEST FL, COMLANTAREA COGARD NEW YORK NY, USCINCSO QUARRY HEIGHTS PM, USCINCACOM NORFOLK VA, AIC NORFOLK VA, COMJSOC FT BRAGG NC, USCINCTRANS INTEL CEN SCOTT AFB IL, USCINCSOC INTEL OPS CEN MACDILL AFB",
+  "sender": "Director"
+}

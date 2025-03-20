@@ -1,0 +1,36 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Memorandum",
+  "security": "This document reveals sensitive information regarding the Warrenton Training Center (WTC), a clandestine CIA facility, and the potential damage that could result from its public disclosure. The memo explicitly states, \"significant damage to mission, people, and the very existence of the Warrenton Training Center (WTC) would occur as a result of the second- and third-order effects of any confirmed affiliation with the Agency.\" It details that revealing WTC's connection to the CIA could jeopardize lives, disrupt the Agency's mission, compromise classified communications, and harm national security. Furthermore, the memo mentions the potential compromise of covert employees in overseas assignments and the loss of a secure Emergency Relocation Site for the Director of Central Intelligence.",
+  "security_level": "SECRET",
+  "summary": "This document discusses the CIA's request to the Assassination Records Review Board (ARRB) to reconsider the release of information that would identify Warrenton Training Center (WTC) as a CIA facility, citing potential damage to national security.",
+  "summary_one_paragraph": "This series of memoranda from September and November 1996 and October 1997 pertains to the Central Intelligence Agency's efforts to prevent the Assassination Records Review Board (ARRB) from releasing information that would reveal the Warrenton Training Center (WTC) as a CIA facility. The memos outline the potential damage to national security, including jeopardizing lives, disrupting agency missions, and compromising covert communications. The CIA argues that revealing WTC's affiliation with the Agency would expose covert employees, compromise emergency relocation sites, and make the facility a target for hostile entities, requesting that the ARRB defer the release of such information.",
+  "tags": [
+    "CIA",
+    "Warrenton Training Center",
+    "Assassination Records Review Board",
+    "National Security",
+    "Covert Operations",
+    "Emergency Relocation Site",
+    "FOIA"
+  ],
+  "title": "Reconsideration of Release of \"Warrenton\" in the Lopez Report",
+  "date": "1996-09-26",
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "John F. Pereira",
+    "David Lopez",
+    "John Tunheim",
+    "Henry Graff",
+    "Kermit Hall",
+    "William Joyce",
+    "Anna Nelson",
+    "Brian S. Latell",
+    "Rebecca V. Strode",
+    "Warren Christopher",
+    "Lee Strickland",
+    "Richard D. Calder"
+  ],
+  "recipient": "Executive Director, Assassination Records Review Board",
+  "sender": "John F. Pereira"
+}

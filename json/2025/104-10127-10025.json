@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Revealing the identities of individuals the agency is tracking and the methods used to confirm their location, like checking telephone directories, could endanger ongoing operations and expose intelligence sources. The cable states: 'IDENTITIES TO REFERENCE ARE AS FOLLOWS: IDENTITY A - ALBERTO CESAR RODRIGUEZ GALLEGO...IDENTITY B - VICTORIA GALLEGO HERNANDEZ...THE CURRENT MADRID TELEPHONE DIRECTORY HAS THREE INDIVIDUALS LISTED UNDER A. RODRIGUEZ GALLEGO...VICTORIA GALLEGO HERNANDEZ IS NOT LISTED.'",
+  "security_level": "SECRET",
+  "summary": "A cable from the CIA's STAFF to MADRID and INFO to MEXICO CITY, providing identifying information for Alberto Cesar Rodriguez Gallego and Victoria Gallego Hernandez, noting telephone directory listings in Madrid.",
+  "summary_one_paragraph": "This SECRET cable, dated July 29, 1978, originates from CIA STAFF and is addressed to MADRID with information for MEXICO CITY. The subject is the identities of Alberto Cesar Rodriguez Gallego (born November 6, 1926, in Havana, Cuba) and Victoria Gallego Hernandez (born March 22, 1900, in Matanzas, Cuba), both Cuban citizens. The message notes three individuals listed under A. Rodriguez Gallego in the current Madrid telephone directory and confirms that Victoria Gallego Hernandez is not listed, alongside stating that no file exists.",
+  "tags": [
+    "CIA",
+    "Madrid",
+    "Mexico City",
+    "Alberto Cesar Rodriguez Gallego",
+    "Victoria Gallego Hernandez",
+    "Telephone Directory",
+    "Cuba",
+    "Surveillance"
+  ],
+  "title": "Identification Information and Telephone Directory Listings in Madrid",
+  "date": "1978-07-29",
+  "locations_mentioned": [
+    "Madrid",
+    "Mexico City",
+    "Havana, Cuba",
+    "Matanzas, Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Alberto Cesar Rodriguez Gallego",
+    "Victoria Gallego Hernandez"
+  ],
+  "recipient": "Madrid, Mexico City",
+  "sender": "STAFF"
+}

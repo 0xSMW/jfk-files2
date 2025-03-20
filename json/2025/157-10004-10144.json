@@ -1,0 +1,34 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security": "Mr. Helms specified that the information he had given Mr. Rankin was extremely sensitive and that the very existence of these telephone intercepts had to be very carefully protected.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A CIA memorandum summarizes a meeting with the Warren Commission on March 12, 1964, discussing the CIA's involvement and information related to Lee Harvey Oswald and Jack Ruby.",
+  "summary_one_paragraph": "This CIA memorandum, dated March 12, 1964, details a meeting with the Warren Commission where Richard Helms and Raymond Rocca discussed the CIA's knowledge and actions concerning Lee Harvey Oswald's activities in Mexico City, particularly his visits to the Soviet and Cuban embassies. The Commission inquired about the extent of the CIA's file on Oswald and expressed concerns about the dissemination of information to other agencies, while Helms explained the CIA's procedures for handling such information and offered access to the original messages at Langley. The meeting also addressed the Commission's interest in any CIA information on Jack Ruby, including a potential trip to Havana, and the CIA's limited ability to verify this information.",
+  "tags": [
+    "CIA",
+    "Warren Commission",
+    "Lee Harvey Oswald",
+    "Jack Ruby",
+    "Mexico City",
+    "Soviet Embassy",
+    "Cuban Embassy",
+    "Telephone Intercepts"
+  ],
+  "title": "MEETING WITH THE WARREN COMMISSION ON 12 MARCH 1964",
+  "conspiracy": "The Commission has received information from an unspecified source that Ruby was in Havana again in 1963 under a Czech passport. Mr. Rankin asked whether CIA could provide any assistance in verifying this story.",
+  "date": "1964-03-12",
+  "locations_mentioned": [
+    "Mexico City",
+    "Havana",
+    "Langley"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Richard Helms",
+    "Raymond Rocca",
+    "Lee Harvey Oswald",
+    "Jack Ruby",
+    "Mr. Rankin"
+  ]
+}

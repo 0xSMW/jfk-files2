@@ -1,0 +1,34 @@
+{
+  "classification": "Liaison",
+  "document_type": "Classified Message",
+  "security": "Releasing information about liaison checks, even if no operational interest is shown, could expose the CIA's methods for gathering information and potentially compromise relationships with liaison services. Quoting: 'NO OBJECTION LIAISON CHECKS PROVIDE NO OPERATIONAL INTEREST SHOWN.'",
+  "security_level": "SECRET",
+  "summary": "A message requesting liaison checks on Hersey Yamada, a photographer who traveled extensively in Asia and Mexico, specifying that there is no objection to the checks if no operational interest is shown.",
+  "summary_one_paragraph": "This secret classified message, dated December 15, 1963, requests liaison checks from MEXI (Mexico City), MANILA, and HONG KONG on Hersey Yamada, a California-born photographer who worked for Agence France Presse and traveled in Japan, Manila, and the Bosphorus between 1956-62, specifying that the checks are permissible if no operational interest is revealed.",
+  "tags": [
+    "CIA",
+    "Liaison Checks",
+    "Hersey Yamada",
+    "Photographer",
+    "Mexico City",
+    "Manila",
+    "Hong Kong",
+    "JFK Assassination"
+  ],
+  "title": "Request for Liaison Checks on Hersey Yamada",
+  "date": "1963-12-15",
+  "locations_mentioned": [
+    "Mexico City",
+    "Manila",
+    "Hong Kong",
+    "California",
+    "Japan",
+    "Bosphorus"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Hersey Yamada"
+  ],
+  "recipient": "MEXI, MANILA, HONG KONG",
+  "sender": "Margaret Naylor (KRAA/AP)"
+}

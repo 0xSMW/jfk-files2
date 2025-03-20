@@ -1,0 +1,40 @@
+{
+  "classification": "Personnel",
+  "document_type": "Message",
+  "security": "Disclosing details about military personnel files and ROTC programs could reveal sensitive information about individuals, training procedures, and security clearance processes. Directly quoting: 'WHITE WAS GRANTED A SECRET CLEARANCE, ON 10 SEP 81, BASED UPON A NATIONAL AGENCY CHECK' and information regarding White's apprehension for violating orders. Such exposure may compromise security protocols or reveal vulnerabilities in the screening process.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A message from SSO LVNWORTH to SSO MEADE regarding Joseph Timothy White, detailing his ROTC enrollment, military police apprehension, enlistment in the US Army National Guard, academic record, and secret clearance. The message summarizes White's military history and attempts to contact relevant personnel for further information.",
+  "summary_one_paragraph": "This confidential message, dated September 7, 1982, from SSO LVNWORTH to SSO MEADE, relays information about Joseph Timothy White, a PFC with ROTC experience. It includes details of White's enrollment at Kemper Military College, his apprehension by military police at Fort Knox for a uniform violation and disobeying a lawful order, his enlistment in the Army National Guard, his academic performance, attendance at advanced camp, granting of a secret clearance, disenrollment from the ROTC program, and subsequent active duty assignment for basic training at Fort Jackson. The message also details unsuccessful attempts to contact individuals who may have known White, such as CPT Carl J. David and BG (Retired) Loyd P. Rhiddlehoover, recommending they not be contacted due to lack of contact with White, and concludes with contact information for the action officer, S/A John Hardy.",
+  "tags": [
+    "Military Personnel",
+    "ROTC",
+    "Security Clearance",
+    "INSCOM",
+    "Military Police",
+    "National Guard"
+  ],
+  "title": "Message",
+  "date": "1982-09-07",
+  "locations_mentioned": [
+    "St Louis, MO",
+    "Kemper Military College, Boonville, MO",
+    "FT Knox, KY",
+    "Marshall, MO",
+    "FT Riley, KS",
+    "FORT JACKSON, SC",
+    "FT LEAVENWORTH, KS",
+    "APO NY, NY"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Joseph Timothy White",
+    "John E Parker",
+    "Carl J. David",
+    "Eugene C. Murkinson",
+    "Loyd P. Rhiddlehoover",
+    "John Hardy",
+    "Vladimir Slovoda"
+  ],
+  "recipient": "SSO MEADE",
+  "sender": "SSO LVNWORTH"
+}

@@ -1,0 +1,37 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum and Security Check Responses",
+  "security": "Releasing information about CISNEROS Diaz, Rogelio Wenceslav and his interactions with the Domestic Contact Service (DCS) could expose ongoing or past intelligence operations or relationships. The instruction in one memo states, 'It is not to be disseminated outside of CIA,' highlighting the sensitivity of the information. Providing CISNEROS's personal details, such as his aliases, date and place of birth, citizenship details, residences, and employment history, could compromise his security and that of any related operations.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This collection of documents pertains to security checks and Domestic Contact Service (DCS) interactions regarding Rogelio Wenceslao Cisneros Diaz, including passport information, FBI clearances, and restrictions on disseminating information outside the CIA.",
+  "summary_one_paragraph": "The documents detail security checks conducted on Rogelio Wenceslao Cisneros Diaz, a naturalized U.S. citizen, by the CIA's Clearance Support Branch and Domestic Contact Service (DCS) from 1967 to 1973. These checks include passport data, FBI clearances, and other background information. The memos outline the conditions for contacting and interrogating Cisneros, with specific instructions against disseminating certain information outside of the CIA, indicating the sensitive nature of his involvement with the agency.",
+  "tags": [
+    "Security Check",
+    "Domestic Contact Service",
+    "Rogelio Cisneros Diaz",
+    "FBI",
+    "Passport",
+    "Clearance",
+    "Confidential"
+  ],
+  "title": "Response to Domestic Contact Service Request for Security Checks",
+  "date": "1973-05-27",
+  "locations_mentioned": [
+    "Camaguey, Cuba",
+    "Homestead, Florida",
+    "Miami, Florida",
+    "Klomai Springs, Florida",
+    "Suitland, MD",
+    "Colombia"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Rogelio Vencosiso Cisneros",
+    "Rogelio Wenceslav Ciskeros",
+    "Rogelio 1 Wenceslao Cisneros",
+    "Rogelio Wenceslav CISNEROS Diaz",
+    "Max Ciskeros"
+  ],
+  "recipient": "Domestic Contact Service, FO: MILANI (MOCabria)",
+  "sender": "Clearance Support Branch, Personnel Security Division"
+}

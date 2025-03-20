@@ -1,0 +1,28 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Information about individuals, specifically their Social Security Number (SSN) and Date of Birth (DOB), is considered personal information. Disclosing this data could violate privacy laws.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A local agency check report on David Reed Fromer, conducted on December 2, 1966, reveals no records in various Sheriff's Offices and Police Departments.",
+  "summary_one_paragraph": "This document is an agent report, dated December 2, 1966, concerning David Reed Fromer, with SSN 564-58-8137 and DOB July 21, 1942, born in Chicago, Illinois. The report indicates that local agency checks, including Sheriff's Offices and Police Departments, disclosed no records for Fromer or any variations of his name. The report was submitted by Special Agent David C. Peters of the 115th MI Group (I).",
+  "tags": [
+    "Local Agency Check",
+    "David Reed Fromer",
+    "INSCOM",
+    "Personnel Investigation",
+    "No Records",
+    "Chicago",
+    "San Francisco"
+  ],
+  "title": "Local Agency Check on David Reed Fromer",
+  "date": "1966-12-02",
+  "locations_mentioned": [
+    "Chicago, Illinois",
+    "San Francisco, California"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "David Reed Fromer",
+    "David C. Peters"
+  ]
+}

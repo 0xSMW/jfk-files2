@@ -1,0 +1,35 @@
+{
+  "classification": "Liaison/Cuba",
+  "document_type": "Memo",
+  "security": "Classified \"Top Secret\" because unauthorized disclosure would reveal a high-level intelligence operation involving CPRIME, our extremely sensitive source at the Polish UN Delegation. PROPERTY OF THE FBI This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and is loaned to your agency; it and its contents are not to be distributed outside your agency.",
+  "security_level": "Secret",
+  "summary": "An FBI memo from May 1963 relays information from a highly confidential source regarding Cuban Foreign Minister Raul Roa's pessimistic evaluation of Cuba's situation and his comments on the Sino-Indian conflict and the United Nations' handling of the Cuban situation.",
+  "summary_one_paragraph": "This May 10, 1965, FBI memo, originating from HQ and classified as Secret, details information received from a highly confidential source (CPRIME) regarding Cuban Foreign Minister Raul Roa's views on Cuba's deteriorating situation as of February 1963. Roa expressed concerns about the Sino-Indian conflict benefiting the United States, the failure of UN talks, and conditions resembling the 1962 Cuban Missile Crisis; he also critiqued the Organization of American States' handling of the Cuban situation, noting Mexico's reservations and the expected actions of Bolivia, Chile, Uruguay, and Brazil. Roa felt it would have been better if the UN Security Council had addressed the Cuban issue. He acknowledged that time allowed Cuba to consolidate internally but also highlighted differences within NATO and hopes for relaxed international relations, while appearing to disagree with the Soviet Union's 1962 missile placement in Cuba.",
+  "tags": [
+    "CIA Liaison",
+    "Foreign Political Matters",
+    "Cuba",
+    "Raul Roa",
+    "Sino-Indian Conflict",
+    "United Nations",
+    "OAS",
+    "CPRIME",
+    "High-Level Intelligence",
+    "FBI"
+  ],
+  "title": "CIA LIAISON MATERIAL",
+  "date": "1965-05-10",
+  "locations_mentioned": [
+    "Cuba",
+    "United Nations",
+    "New York",
+    "United States"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Raul Roa",
+    "President Kennedy",
+    "President Romulo Betancourt"
+  ],
+  "sender": "HQ"
+}

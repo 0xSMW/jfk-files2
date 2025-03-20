@@ -1,0 +1,34 @@
+{
+  "classification": "Operations",
+  "document_type": "Memorandum",
+  "security": "The memo discusses CIA efforts to procure Soviet Bloc ammunition and the potential risks associated with using I. Irving Davidson, given his \"unsavory reputation and his close connection with columnist Jack Anderson.\" Revealing this information could compromise the CIA's procurement methods and relationships with sensitive sources.",
+  "security_level": "SECRET",
+  "summary": "A memorandum detailing a discussion among CIA officials regarding the potential procurement of 7.62 Soviet ammunition from I. Irving Davidson, weighing the logistical advantages against the security risks associated with his reputation and connections.",
+  "summary_one_paragraph": "On July 31, 1974, William D. Mather documented a meeting with Niel Ainsley, Billy Morgan, Michael Kalanick, and James McDonald to discuss the possible acquisition of 25 million rounds of 7.62 Soviet ammunition from I. Irving Davidson. The officials weighed the logistical benefits of securing a five-year supply against the security concerns arising from Davidson's \"unsavory reputation\" and ties to columnist Jack Anderson. Alternatives were considered, including approaching Davidson through legitimate arms dealers or identifying Davidson's source to bypass him, with instructions given to the Washington Field Office to disclaim CIA interest to Davidson.",
+  "tags": [
+    "CIA",
+    "Ammunition Procurement",
+    "I. Irving Davidson",
+    "Jack Anderson",
+    "Logistics",
+    "Security Risks",
+    "Paramilitary Operations",
+    "DoD Collaboration"
+  ],
+  "title": "I. Irving Davidson",
+  "date": "1974-07-31",
+  "persons_mentioned": [
+    "I. Irving Davidson",
+    "Niel Ainsley",
+    "Billy Morgan",
+    "Halpern",
+    "Colby",
+    "James Clerum",
+    "Michael Kalanick",
+    "James McDonald",
+    "Jack Anderson",
+    "William D. Mather"
+  ],
+  "recipient": "Record",
+  "sender": "William D. Mather"
+}

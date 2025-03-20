@@ -1,0 +1,30 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "This message details the operational failure of the ZRPRIMA program, intended to recruit Cuban technicians. It provides internal assessment of the factors that contributed to its failure, including bureaucratic incompetence in Havana, reluctance of Cuban officials to pursue tech recruiting aggressively, and loss of interest from Castro himself. Disclosing such operational missteps and internal criticisms could damage the CIA's reputation and compromise future intelligence efforts. Quoting directly: \"RECENTLY CONCLUDED EOS REVIEW OF ZEPRIMA PROGRAM, SHOWS EFFORTS HAVE NOT ACHIEVED ANY SIGNIFICANT RESULTS AND CONTINUATION OF PROGRAM AS SUCH NO LONGE WARRANTED...MAIN REASON POR KUBARK FAILURE IS THAT CUEAN TECNICIAN RECRUITING PROGRAM HAS BEEN MISERABLE FAILURE\"",
+  "security_level": "SECRET",
+  "summary": "This cable discusses the termination of the ZRPRIMA program due to its failure to recruit Cuban technicians, citing bureaucratic issues and lack of Cuban interest, and instructs stations to discontinue active recruitment while remaining alert for opportunities to place resident agents in Cuba.",
+  "summary_one_paragraph": "In a cable dated November 22, 1963, the Director informs various stations and bases of the termination of the ZRPRIMA program, intended to recruit Cuban technicians, after a review showed minimal success. The failure is attributed to reluctance from the Cuban Foreign Ministry and Foreign Service officers to aggressively pursue recruitment, bureaucratic incompetence in Havana, and a loss of interest on Castro’s part. The message instructs stations to cease generating new leads but to remain alert for opportunities to exploit the hiring of non-Bloc technicians on a limited basis, and to continue seeking opportunities to place resident agents in Cuba.",
+  "tags": [
+    "CIA",
+    "ZRPRIMA Program",
+    "Cuba",
+    "Recruitment",
+    "KUBARK",
+    "Technicians",
+    "Espionage"
+  ],
+  "title": "EULEN ZRPRIMA: Termination of Cuban Technician Recruitment Program",
+  "date": "1963-11-22",
+  "locations_mentioned": [
+    "Cuba",
+    "Western Europe",
+    "Havana"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Castro"
+  ],
+  "recipient": "Caber, Srobertartat, Clothing Stations and Bases",
+  "sender": "Director"
+}

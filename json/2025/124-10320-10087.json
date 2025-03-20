@@ -1,0 +1,26 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "Disseminating security information from the FBI to foreign law enforcement and intelligence agencies, specifically in Austria and Switzerland, could jeopardize intelligence-sharing agreements if the information is mishandled or if the agencies are compromised. It states, \"Security information furnished by referenced communication was disseminated to the indicated sources of this office on 5/4/64...Material furnished to the foreign sources will be handled as Confidential under existing security agreements.\"",
+  "security_level": "Secret",
+  "summary": "The FBI's Legat in Bern, Switzerland, reports the dissemination of security information regarding Mark Lane to various U.S. and foreign law enforcement and intelligence agencies in Austria and Switzerland.",
+  "summary_one_paragraph": "On May 13, 1964, the FBI Legat in Bern, Switzerland, sent a memorandum to the Director of the FBI (100-409763) reporting the dissemination of security information concerning Mark Lane (SM-C) to several entities. These included Austrian (Abteibung II - Gruppe Staatspolizei) and Swiss (Schweizerisches Bundespolizei) law enforcement agencies, as well as U.S. entities such as the Security Branch and U.S. Consulate General in Vienna, and the Other Research Branch (covert CIA) American Embassy, Vienna. The disseminated material was classified as Confidential, handled under existing security agreements, and notations were maintained to ensure notification if the subject came to their attention.",
+  "tags": [
+    "FBI",
+    "Mark Lane",
+    "Security Information",
+    "Dissemination",
+    "Austria",
+    "Switzerland",
+    "CIA",
+    "Liaison"
+  ],
+  "title": "MARK LANE",
+  "date": "1964-05-13",
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Mark Lane"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "Legat, Bern (FBI)"
+}

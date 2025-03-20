@@ -1,0 +1,28 @@
+{
+  "classification": "Administrative",
+  "document_type": "Routing Slip",
+  "security": "N/A - The document itself is an internal routing slip with minimal content. Sharing it poses little to no risk.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This is an internal CIA routing slip indicating the distribution and handling of a document, likely related to WerBell, among various offices and personnel within the CIA.",
+  "summary_one_paragraph": "This document is an unclassified CIA routing slip used to track the movement of a document for background purposes. The slip indicates that the document was routed to OGC (Walter Lloyd), file (Werbell), and other individuals for action, approval, comment, or information. It includes initials and dates of routing, and references to subjects like WerBell, Lou Comen, Kemmerly, and Sheet-Print AG, as well as notations such as 'Listing WWII - OSS. 13/94' and '1969 - CCA', suggesting the document relates to historical records and individuals associated with the CIA.",
+  "tags": [
+    "CIA",
+    "Routing Slip",
+    "Internal Use",
+    "WerBell",
+    "Background Check",
+    "OSS",
+    "CCA"
+  ],
+  "title": "Official Routing Slip",
+  "date": "1968-08-06",
+  "persons_mentioned": [
+    "Walter Lloyd",
+    "WerBell",
+    "Lou Comen",
+    "Kemmerly",
+    "A.F. Addona",
+    "John Muldoon"
+  ],
+  "sender": "A.F. Addona (C/DDO/PIC/AL)"
+}

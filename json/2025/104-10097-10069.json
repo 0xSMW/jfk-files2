@@ -1,0 +1,29 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "Revealing that the CIA is tracking the travel of individuals could compromise intelligence operations and sources. For example, the message states 'MISS NORMA VALVERDE VARIG FLT CANCELLED AT MEXICO CITY' which highlights the agency's surveillance capabilities and could lead to countermeasures by those being monitored.",
+  "security_level": "SECRET",
+  "summary": "A message from Mexico City reports that Miss Norma Valverde's VARIG flight was cancelled, and she will travel via Aerolineas Panama Flight 203, arriving in BOGO at 0820 on December 8.",
+  "summary_one_paragraph": "A secret, priority message from the Mexico City station to the Director, dated December 7, 1963, relays information regarding Miss Norma Valverde's travel arrangements. Her VARIG flight was cancelled, and she is now scheduled to arrive in BOGO via Aerolineas Panama Flight 203, with an estimated arrival time of 0820 on December 8.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "Norma Valverde",
+    "Travel",
+    "Surveillance",
+    "BOGO"
+  ],
+  "title": "Miss Norma Valverde Travel Update",
+  "date": "1963-12-07",
+  "locations_mentioned": [
+    "Mexico City",
+    "Panama",
+    "BOGO"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Norma Valverde"
+  ],
+  "recipient": "Director",
+  "sender": "Mexico City"
+}

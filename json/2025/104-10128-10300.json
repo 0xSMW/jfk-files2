@@ -1,0 +1,28 @@
+{
+  "classification": "Operations",
+  "document_type": "Memo",
+  "security": "Disclosing the operational use of individuals within the US for propaganda purposes and the coordination process with other agencies could reveal sensitive methods and compromise ongoing or future operations. The mention of potential FBI involvement also adds to the sensitivity. Quoting directly: 'The implications of a CI operation with the States by this Agency and the possibility Subject might come to the attention of the FBI...were discussed.'",
+  "security_level": "SECRET",
+  "summary": "A memo documenting the coordination between Kammer (likely CIA) and Mr. McCORD of SRS regarding the operational use of Michael Weimer Stratton within the US for propaganda, discussing potential FBI involvement.",
+  "summary_one_paragraph": "This memo, dated February 1, 1961, outlines a discussion between Kammer and Mr. McCORD of SRS concerning the operational use of Michael Weimer Stratton within the US by WH/4/Propaganda. The memo addresses the implications of the CIA conducting operations within the US and the possibility of Stratton coming to the attention of the FBI through his association with Court WOOK. Mr. McCORD advised that notifying the FBI was not necessary at the time but requested a review of the case in a month, with Stratton's file and that of supervising WH man David Atlee PHILLIPS to be reviewed on March 1, 1961.",
+  "tags": [
+    "CIA",
+    "Propaganda",
+    "Domestic Operations",
+    "FBI",
+    "Coordination",
+    "SRS",
+    "Michael Weimer Stratton",
+    "David Atlee Phillips",
+    "WH/4"
+  ],
+  "title": "STRATTON, Michael Weimer",
+  "date": "1961-02-01",
+  "persons_mentioned": [
+    "Michael Weimer Stratton",
+    "McCord",
+    "Court WOOK",
+    "David Atlee PHILLIPS"
+  ],
+  "sender": "Kammer"
+}

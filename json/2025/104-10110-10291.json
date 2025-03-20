@@ -1,0 +1,21 @@
+{
+  "classification": "Personnel",
+  "document_type": "Notification",
+  "security": "Revealing official cover relationships could expose covert operations and endanger individuals operating under such cover. The document explicitly states 'SUBJECT WILL BE DENIED FOR ENTIRE PERIOD OF EMPLOYMENT EXCEPT FOR US GOVERNMENT APPLICATIONS'.",
+  "security_level": "SECRET",
+  "summary": "Notification of the establishment of official cover for Charlotte Bustos-Videla, assigned to the Department of State, effective for the duration of employment, with restrictions on employment verification.",
+  "summary_one_paragraph": "This document notifies relevant divisions within the CIA of the establishment of official cover for Charlotte Bustos-Videla, whose Social Security number is 069-26-3138, with the Department of State providing the cover. It instructs the involved parties to block records, issue necessary forms (3254, W-2), and submit forms (642, 1322, 1323, 2688) as needed to maintain the cover. The notification specifies that Bustos-Videla's employment will be denied except for U.S. Government applications, with distribution copies sent to various control and operating divisions.",
+  "tags": [
+    "Official Cover",
+    "Charlotte Bustos-Videla",
+    "Department of State",
+    "Cover Establishment",
+    "Personnel Security"
+  ],
+  "title": "Notification of Establishment or Cancellation of Official Cover Backstop",
+  "date": "1977-12-28",
+  "persons_mentioned": [
+    "Charlotte Bustos-Videla"
+  ],
+  "recipient": "Chief, Control Division, OP; Chief, Contract Personnel Division, OP; Chief, (Operating Component for Action)"
+}

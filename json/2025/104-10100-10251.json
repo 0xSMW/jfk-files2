@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing the CIA's \"no comment and complete denial\" policy regarding Castro's accusations could damage the Agency's reputation and compromise future operations. Quoting directly: \"KUBARK DEX policy is no comment and complete denial if specifically asked.\"",
+  "security_level": "SECRET",
+  "summary": "A CIA message relays Fidel Castro's accusation that the CIA attempted to sabotage a Cuban merchant ship in Genoa, Italy, and instructs personnel to maintain a 'no comment' policy.",
+  "summary_one_paragraph": "This classified CIA message, dated October 22, 1963, from Madrid relays a report from the FBIS ticker citing Fidel Castro's claim that Cuban security forces discovered a failed CIA attempt to sabotage the Cuban merchant ship Las Villas in Genoa, Italy. Castro alleged that a defective bomb was placed on board the ship, but it did not detonate. The message instructs recipients to adhere to a 'no comment and complete denial' policy if questioned about the incident.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Castro",
+    "Sabotage",
+    "Las Villas",
+    "FBIS",
+    "Denial Policy",
+    "Genoa"
+  ],
+  "title": "Report of Alleged CIA Sabotage Attempt on Cuban Ship",
+  "date": "1963-10-22",
+  "locations_mentioned": [
+    "Madrid",
+    "Genoa, Italy",
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Desmond FitzGerald",
+    "Pickard P. Banes"
+  ],
+  "recipient": "Director, Mexico City",
+  "sender": "C/SAS"
+}

@@ -1,0 +1,20 @@
+{
+  "classification": "Administrative",
+  "document_type": "Payroll Certification Report",
+  "security": "This document contains the names, social security numbers, positions, and salaries of individuals employed by the House Select Committee on Assassinations. This information could be used for identity theft or to create a profile of the committee's staffing and expenditures.",
+  "security_level": "Unclassified",
+  "summary": "This document is a payroll certification report for the U.S. House of Representatives Select Committee on Assassinations, covering the accounting period from October 1, 1977, to October 31, 1977. It lists committee employees, their social security numbers, job titles, annual salaries, and pay for the specified period, along with any relevant remarks, and a payroll summary",
+  "summary_one_paragraph": "This is a U.S. House of Representatives payroll certification report (ID D01.00.00) for the Select Committee on Assassinations (office 83000), dated November 8, 1977, and covering the accounting period from October 1 to October 31, 1977. The report details individual employee information, including social security numbers, names, positions, annual gross salaries, period earnings, and any remarks related to pay changes or appointments. The report also includes a payroll summary of employees and salary projections, showing total expenditures of $188,754.19 against a projected $197,500.00, certified by the Chairman of the House Administration Committee.",
+  "tags": [
+    "Payroll",
+    "US House of Representatives",
+    "Select Committee on Assassinations",
+    "Personnel",
+    "Financial Records"
+  ],
+  "title": "Payroll Certification",
+  "date": "1977-11-08",
+  "origin_agency": "U. S. House of Representatives",
+  "recipient": "House Administration Committee",
+  "sender": "Select Committee on Assassinations"
+}

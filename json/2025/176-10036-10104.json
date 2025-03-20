@@ -1,0 +1,33 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Telegram Information Report",
+  "security": "This report discusses sensitive political issues in South Vietnam during the early 1960s and mentions U.S. policy. Premature disclosure of the details of the white paper and its comparison of South Vietnam to the United States (regarding gangsterism and race riots) could potentially damage diplomatic relations. Specifically, the report states: 'NHU SUGGESTED BE INCLUDED IN THE PAPER WAS A COMPARISON OF SOUTH VIETNAM WITH THE UNITED STATES WHERE GANGSTERISM AND RACE RIOTS EXISTED, THE CONCLUSION BEING THAT THE DIEM REGIME WAS NOT REALLY TOO BAD AFTER ALL.'",
+  "security_level": "CONFIDENTIAL",
+  "summary": "Gene Gregory of the Times of Vietnam is preparing a white paper at the request of Madame Ngo Dinh Nhu to address the Buddhist issue and American policy in South Vietnam, intending it for international distribution.",
+  "summary_one_paragraph": "On June 19, 1963, a CIA information report detailed that Gene Gregory of the Times of Vietnam was composing a white paper at Madame Ngo Dinh Nhu's request. This document was designed to present the Government of Vietnam's perspective on the Buddhist issue and American presence in South Vietnam. Gregory, residing at the Nhu villa in Dalat, mentioned that the paper, intended for international distribution (primarily in the United States but potentially also in France and England), would compare South Vietnam favorably against the United States by highlighting issues such as gangsterism and race riots. The paper consisted of over twenty pages.",
+  "tags": [
+    "CIA",
+    "Information Report",
+    "Vietnam",
+    "Ngo Dinh Nhu",
+    "Buddhist Issue",
+    "American Policy",
+    "Gene Gregory",
+    "White Paper"
+  ],
+  "title": "CIA Information Report",
+  "date": "1963-06-19",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Dalat",
+    "Saigon",
+    "United States",
+    "France",
+    "England"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Gene Gregory",
+    "Madame Ngo Dinh Nhu"
+  ]
+}

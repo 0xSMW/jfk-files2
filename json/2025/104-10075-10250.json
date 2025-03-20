@@ -1,0 +1,33 @@
+{
+  "classification": "Mexico",
+  "document_type": "Message",
+  "security": "Revealing AMSTASH-1's request for funds transfer, the identities of individuals involved in the network (Ricardo, Angel, Vincente), and the details of communication channels through the French Embassy could jeopardize their safety and compromise ongoing intelligence operations.",
+  "security_level": "SECRET",
+  "summary": "A message discusses AMSTASH-1's request for funds and instructions, reveals potential communication channels through the French embassy, and notes the station's decision not to send personal funds.",
+  "summary_one_paragraph": "This SECRET message, dated May 24, 1963, from WAVE to Director, outlines a situation involving AMSTASH-1, who requested funds and instructions via AT-3 on a cypher pad, suggesting Juan Bautista (Gonzalez) Francisco as a contact. AMSTASH-1 also requested conversion of his escrow salary to cover his father's eye operation and family needs. The message also indicates that intelligence reports were sent through the embassy during AMSTASH-1's absence, with Ricardo and Angel believed to be cutouts to Vincente in the French Embassy, who then mails materials from Mexico. The station decided not to send AI's personal funds.",
+  "tags": [
+    "AMSTASH-1",
+    "WAVE",
+    "Exfiltration",
+    "Funds Request",
+    "French Embassy",
+    "Mexico",
+    "Intelligence Reports"
+  ],
+  "title": "OM SITE WAVE 8250",
+  "date": "1963-05-24",
+  "locations_mentioned": [
+    "Mexico",
+    "Cuba"
+  ],
+  "origin_agency": "CIA (WAVE)",
+  "persons_mentioned": [
+    "AMSTASH-1",
+    "Juan Bautista (Gonzalez) Francisco",
+    "Ricardo",
+    "Angel",
+    "Vincente"
+  ],
+  "recipient": "Director",
+  "sender": "WAVE"
+}

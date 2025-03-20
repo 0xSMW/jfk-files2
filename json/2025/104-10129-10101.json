@@ -1,0 +1,51 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "This memo details the exposure of CIA personnel by Philip Agee, including their roles and assignments. Revealing this information could compromise ongoing operations, endanger individuals, and damage the CIA's ability to conduct intelligence activities. Listing the individuals, their assignments, and their exposure in various publications, like 'Who's Who in CIA' and Agee's book, poses a significant risk. For example, the memo states: 'BUSTOS, Charlotte BUSTOS-VIDELA, Charlotte B., SF#56 840; appears to be Chief of Station at Trinidad since June 1974, integrated State cover. Well known to AGEE through assignment to Mexico City, July 1967-August 1972.'",
+  "security_level": "SECRET",
+  "summary": "A memo from Michael E. Schneeberger to the Chief of the Security Analysis Group discusses Philip Agee's exposure of CIA personnel to a Washington Post correspondent, Ron CASPER (possibly Ronald KESSLER), including information about their assignments in Mexico City in 1963 and their potential involvement in the Kennedy assassination.",
+  "summary_one_paragraph": "On October 8, 1976, Michael E. Schneeberger sent a memo to the Chief of the Security Analysis Group detailing how Philip Agee shared information with Ron CASPER (possibly Ronald KESSLER) of The Washington Post. The information included details regarding the Kennedy assassination, specifically involving Oswald and Cubans, as well as the identities and functions of CIA personnel assigned to the Mexico City Station in 1963, such as Charlotte BUSTOS-VIDELA, William Fulton FREDERICK, and Winston SCOTT. The memo summarizes pertinent information about these individuals, including their assignments, file numbers, and previous exposure in publications like 'Who's Who in CIA' and Agee's book, noting that no further action is necessary beyond dissemination of the information to interested Agency officials.",
+  "tags": [
+    "Philip Agee",
+    "CIA personnel",
+    "Exposure",
+    "Mexico City Station",
+    "Kennedy Assassination",
+    "Ron CASPER",
+    "Ronald KESSLER",
+    "Security Analysis"
+  ],
+  "title": "Philip B. F. AGEE Exposure of CIA Personnel",
+  "date": "1976-10-08",
+  "locations_mentioned": [
+    "London",
+    "Mexico City",
+    "Trinidad",
+    "New Delhi",
+    "Islamabad",
+    "Pakistan",
+    "Bridgeport, Connecticut"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Philip B. F. Agee",
+    "Ron CASPER",
+    "Ronald KESSLER",
+    "Charlotte BUSTOS-VIDELA",
+    "William Fulton FREDERICK",
+    "Jack STEWART",
+    "Winston SCOTT",
+    "Alan Perine WHITE",
+    "Daniel Stanley WATSON",
+    "Paul Leo DILLON",
+    "Donald Frederic VOGEL",
+    "Cynthia Joy HAUSMANN",
+    "Robert Hampton STEELE",
+    "Benjamin Adrian RAMIREZ",
+    "Ezekiel Stanley RAMIREZ",
+    "Frank Wallace HUGHES",
+    "Lee Harvey Oswald"
+  ],
+  "recipient": "Chief, Security Analysis Group",
+  "sender": "Michael E. Schneeberger"
+}

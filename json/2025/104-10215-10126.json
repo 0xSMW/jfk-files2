@@ -1,0 +1,33 @@
+{
+  "classification": "Soviet",
+  "document_type": "Report, Bill of Lading, Dock Receipt, Process Sheet",
+  "security": "Disclosing the tracking of shipments to Soviet officials, especially the serial numbers and details of the vehicle, could compromise intelligence-gathering methods and alert adversaries to surveillance activities. Quoting: 'The vehicle shipped aboard the MORMACPRIDE on 4 AUGUST and CONSIGNED to IVAN GABRILOVICH ALFERIEV is manifested as a 1968- CHEVELLE SEDAN, SERIAL 1363981129849 PPT 1363981125849. ALFERIEV IS REFLECTED AS THE SECOND SECRETARY OF THE USSR EMBASSY, BUENOS AIRES.'",
+  "security_level": "SECRET",
+  "summary": "This document details the tracking of a 1968 Chevrolet Chevelle sedan being shipped to Ivan Gavrilovich Alferiev, Second Secretary of the USSR Embassy in Buenos Aires, Argentina, aboard the Moore-McCormack Lines' ship Mormacpride in August 1968, including serial numbers and shipping details.",
+  "summary_one_paragraph": "A series of documents from August 1968 reveal the CIA's monitoring of a vehicle shipment to a Soviet official. The documents include communications between the DCS/Operational Support Staff and CONTACTS/NEW YORK, concerning a request to identify a vehicle consigned to the Soviet Embassy in Buenos Aires, Argentina. Mr. Buser from Moore McCormack Lines provided information identifying the vehicle as a 1968 Chevrolet Chevelle sedan, serial number 1363981129849 (possibly a typographical error with 1363981125849), consigned to Ivan Gavrilovich Alferiev, Second Secretary of the USSR Embassy in Buenos Aires, with additional shipping details provided in the Bill of Lading and Dock Receipt.",
+  "tags": [
+    "CIA",
+    "Soviet Embassy",
+    "Vehicle Tracking",
+    "Ivan Gavrilovich Alferiev",
+    "Moore-McCormack Lines",
+    "Buenos Aires",
+    "Argentina",
+    "Shipment Monitoring"
+  ],
+  "title": "Information on Vehicle Consigned to Soviet National",
+  "date": "1968-08-19",
+  "locations_mentioned": [
+    "New York City",
+    "Buenos Aires, Argentina",
+    "USSR"
+  ],
+  "origin_agency": "DCS/Operational Support Staff",
+  "persons_mentioned": [
+    "Ivan Gavrilovich Alferiev",
+    "Mr. Buser",
+    "Mike Evans"
+  ],
+  "recipient": "CONTACTS/NEW YORK",
+  "sender": "G&Musulin/om"
+}

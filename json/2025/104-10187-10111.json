@@ -1,0 +1,28 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "The message discusses a potential operation (BS CUT IN PRESITANT) and mentions \"SLUBAN DETECTOR\", suggesting sensitive methods or technology. Revealing these details could compromise ongoing or future operations and expose intelligence-gathering capabilities.",
+  "security_level": "SECRET",
+  "summary": "This classified message discusses a situation requiring an immediate (SALF) alternative action, potentially involving a \"BS CUT IN PRESITANT\" operation, in relation to UN DIP CUBA SLUBAN DETECTOR.",
+  "summary_one_paragraph": "A SECRET classified message, dated September 20, likely in 1964, addresses an urgent situation requiring an alternative course of action referred to as \"BS CUT IN PRESITANT.\" The message references \"UN DIP CUBA SLUBAN DETECTOR,\" implying a connection to Cuban diplomatic activities at the United Nations and possibly involving surveillance or detection technology. The routing includes WHI (Western Hemisphere Division), and various CIA components (CI, SI/O, CIEN, FI, VR), indicating broad interest within the agency.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "UN",
+    "Diplomacy",
+    "Surveillance",
+    "Detection",
+    "Operations",
+    "SALF",
+    "IMMEDIATE"
+  ],
+  "title": "Immediate Action Regarding UN DIP CUBA SLUBAN DETECTOR",
+  "date": "1964-09-20",
+  "locations_mentioned": [
+    "Cuba",
+    "United Nations"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "SALF (IMMEDIATE)",
+  "sender": "Director"
+}

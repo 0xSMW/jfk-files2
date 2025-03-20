@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing the use of a KUBARK proprietary as a front, and the planned cover stories, could compromise ongoing operations and damage relationships with airlines. For example, disclosing that the contact \"would tell supplier that AMCORE-2 head of EROWP travelling newsmen stranded SDOM thru plane failure\" could expose the deceptive practices used in procuring resources.",
+  "security_level": "SECRET",
+  "summary": "A message details the efforts to procure a DC-3 aircraft charter to transport stranded newsmen from SDOM, using AMCORE-2 and a KUBARK proprietary as a front, including cover stories and funding arrangements.",
+  "summary_one_paragraph": "This classified message outlines the logistical challenges and solutions involved in arranging a DC-3 aircraft charter for stranded newsmen in SDOM. Due to deadline difficulties, efforts were made to secure a charter in the name of AMCORE-2, utilizing a cleared contact with a KUBARK proprietary to approach airlines such as Mackey Airlines. The contact was instructed to use a cover story about the newsmen being stranded due to plane failure and vouch for AMCORE-2's financial responsibility. To further support the cover, the message suggests having AMCORE-2 indicate that IMBERT is providing funds for the charter, with the possibility of [SDOM] inserting funds to backstop this narrative.",
+  "tags": [
+    "Aircraft Procurement",
+    "Covert Operations",
+    "KUBARK",
+    "AMCORE-2",
+    "DC-3",
+    "SDOM",
+    "Proprietary",
+    "Charter Flight",
+    "Newsmen"
+  ],
+  "title": "Plane Procurement for Stranded Newsmen in SDOM",
+  "date": "1962-12-04",
+  "locations_mentioned": [
+    "SDOM",
+    "Miami"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "MR. NAPOLI",
+    "IMBERT",
+    "AMCORE-2"
+  ],
+  "recipient": "DIR SDOMCITE",
+  "sender": "IMWAVE"
+}

@@ -1,0 +1,27 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security": "Releasing information about alleged contacts with the mentioned subject could potentially compromise intelligence sources and methods, as it reveals the agency's awareness and interest in the individual's activities. Citing the line: 'ONS MARCH SUBJ AGAIN CONTACTED ZURICH CG AND IN 5 MAR 69 IN EVEN MORE THREATENING FASHION CLAIMED HE HAS RADIO TV TIME EVENING 6 MARCH AND WILL TELL ALL ABOUT HIS ALLEGED W OF IRM CONTACTS UNLESS HE RECEIVES ASSURANCE THAT PROMISES MADE BY US OFFICIALS WILL BE HONORED.' indicates concern about unauthorized disclosure and potential damage to relationships with sources.",
+  "security_level": "SECRET",
+  "summary": "A cable from BERN to DIRECTOR and ZURICH concerning a subject threatening to reveal alleged contacts unless certain promises are honored, requesting confirmation about any ties to specific programs.",
+  "summary_one_paragraph": "On March 5, 1969, a subject contacted Zurich CG in a threatening manner, claiming to disclose alleged contacts on radio and TV unless promises from US officials are met. The cable from BERN requests urgent confirmation from headquarters (HQS) whether the subject had ties to programs WOF IRM or other LN HARP. The document indicates concern regarding the subject's potential exposure of sensitive contacts and requests priority confirmation on any connections to specific programs.",
+  "tags": [
+    "CIA",
+    "Zurich",
+    "Threat",
+    "Contacts",
+    "IRM",
+    "HARP",
+    "Liaison",
+    "Bern",
+    "FOIA"
+  ],
+  "title": "Cable Regarding Subject Threatening to Reveal Contacts",
+  "date": "1969-03-05",
+  "locations_mentioned": [
+    "Zurich"
+  ],
+  "origin_agency": "CIA",
+  "recipient": "Director, Zurich",
+  "sender": "Bern"
+}

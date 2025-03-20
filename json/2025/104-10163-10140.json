@@ -1,0 +1,53 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "Identifying individuals as being against or for the Castro regime could endanger them or their families. For example, the document states, 'Source says he believes Subject was never a communist and is sincerely against the present GCC.' Sharing this information could expose the subject to potential repercussions.",
+  "security_level": "SECRET",
+  "summary": "This document contains a series of reports providing background information on various individuals, primarily Cubans, including their physical descriptions, known associates, and political affiliations as perceived by sources, often in relation to their stance on the Batista and Castro regimes.",
+  "summary_one_paragraph": "This secret report, dated January 1965, compiles information on multiple individuals (Carlos Aleman, Delfin Alejo Iniguez, Fou Aulet, Inu Aulet, Jorge Baez, Obdulio Barrena Barrena, Gregorio Bello San Pedro, Luis Bonito, Pedro Calderin, Imuran Calzadilla, Orlando de Cardenas, Alba Carrasco, Roberto Casal, Jose Antonio Concepcion Morales), providing details such as physical descriptions, known associates, and political leanings based on source testimonies. These individuals are connected to Cuba and are assessed regarding their relationships with the Batista and Castro regimes, their travel history, and potential ties to communist activities. The reports include JMWAVE traces and are likely intended for intelligence purposes.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Background Check",
+    "Personnel",
+    "Political Affiliations",
+    "Batista Regime",
+    "Castro Regime",
+    "JMWAVE"
+  ],
+  "title": "UFGA-21693: Background Information on Various Individuals",
+  "date": "1965-01-01",
+  "locations_mentioned": [
+    "Havana, Cuba",
+    "Lawton, Havana City",
+    "Principe Prison",
+    "Presidential Palace",
+    "Mexico City, Mexico",
+    "Madrid, Spain",
+    "Hialeah, Florida",
+    "Newark, New Jersey",
+    "Miami, Florida"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Carlos Aleman",
+    "Agustine Aldama Acosta",
+    "Cusy Aulet",
+    "Delfin Alejo Iniguez",
+    "Fou Aulet",
+    "Inu Aulet",
+    "Jorge Baez",
+    "Obdulio Barrena Barrena",
+    "Gregorio Bello San Pedro",
+    "Luis Bonito",
+    "Pedro Calderin",
+    "Imuran Calzadilla",
+    "Orlando de Cardenas",
+    "Alba Carrasco",
+    "Roberto Casal",
+    "Jose Antonio Concepcion Morales",
+    "Batista",
+    "Castro",
+    "Kallio Fors"
+  ]
+}

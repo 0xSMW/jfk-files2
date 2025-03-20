@@ -1,0 +1,36 @@
+{
+  "classification": "Oswald",
+  "document_type": "Report",
+  "security": "The document includes personal information about Lee Harvey Oswald and Marina Oswald, including social security numbers, birth dates, and marital status. Disclosing this information could violate their privacy. Additionally, the document references Internal Revenue Service tax return information, the redisclosure of which is prohibited under 26 U.S.C. 6103.",
+  "security_level": "Unclassified",
+  "summary": "A letter from the Social Security Administration to the House Select Committee on Assassinations, enclosing documents related to Lee Harvey and Marina Oswald, including social security applications, death certificates, marriage and birth certificates, military records, and employment information, while withholding tax return information due to legal restrictions.",
+  "summary_one_paragraph": "On July 31, 1978, the Social Security Administration (SSA) responded to a request from the House Select Committee on Assassinations (HSCA) by providing a compilation of documents pertaining to Lee Harvey Oswald and Marina Oswald. This collection included applications for social security numbers, death certificates, marriage and birth certificates, military service records, claimant reports, earnings reports, and employer statements from Jaggars-Chiles-Stovall, the Texas School Book Depository, and William B. Reily Company, Inc. However, the SSA withheld records of wage and self-employment income protected under 42 U.S.C. 405(c)(2) and 26 U.S.C. 6103, advising the HSCA to request that information directly from the Internal Revenue Service.",
+  "tags": [
+    "Lee Harvey Oswald",
+    "Marina Oswald",
+    "Social Security Administration",
+    "HSCA",
+    "Assassination Records",
+    "Personal Information",
+    "Employment Records",
+    "Military Records"
+  ],
+  "title": "JFK Assassination System Identification Form",
+  "date": "1978-07-31",
+  "locations_mentioned": [
+    "Dallas, Texas",
+    "New Orleans, LA",
+    "Russia"
+  ],
+  "origin_agency": "Social Security Administration",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "Marina Oswald",
+    "Jacqueline Hess",
+    "Blakey",
+    "Robert P. Dynum",
+    "James H. Martin"
+  ],
+  "recipient": "Jacqueline Hess",
+  "sender": "Robert P. Dynum"
+}

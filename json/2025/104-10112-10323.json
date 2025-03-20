@@ -1,0 +1,35 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security": "Revealing details about individuals who have come to the attention of the CIA, their reputations, and connections to specific geographic areas (Far East and Caribbean) could compromise ongoing or future intelligence operations. The memo also discusses providing information to the FBI, potentially exposing intelligence-sharing relationships and methods. For instance, it mentions an individual '...with a reputation as a \"wheeler dealer, con-man, arms peddler, and soldier of fortune.\"'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This memorandum details information from the Office of Security records provided to the FBI regarding individuals and organizations of interest, including Mitchell Livingston Werbell III and John Patrick Muldoon, as well as a report of an individual falsely claiming CIA affiliation.",
+  "summary_one_paragraph": "A memorandum from Charles S. Phalen, Chief of the Security Support Division, to Mr. F. I. G. Coleman, responding to a request for information from Office of Security records regarding individuals and organizations potentially connected to CIA activities, including Security Defense System, Intelligence Services, Ltd., Advance Security Corporation, Howard Gibson, Mitchell Livingston Werbell III, John Patrick Muldoon, and Steve Van Cleave; it confirms that no prior information was found on some entities while providing details on others, such as Werbell's background and Muldoon's Agency career and post-retirement employment, and also notes an incident where Van Cleave falsely claimed CIA affiliation to the State Department.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Office of Security",
+    "Mitchell Livingston Werbell III",
+    "John Patrick Muldoon",
+    "Steve Van Cleave",
+    "Security Defense System",
+    "Intelligence Services, Ltd.",
+    "Advance Security Corporation",
+    "Howard Gibson",
+    "Liaison"
+  ],
+  "title": "FBI Investigation of Allegations Regarding CIA Activities",
+  "date": "1974-08-21",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "F. I. G. Coleman",
+    "Howard Gibson",
+    "Mitchell Livingston Werbell III",
+    "John Patrick Muldoon",
+    "Frank Schwartz",
+    "Steve Van Cleave",
+    "Charles S. Phalen"
+  ],
+  "recipient": "Mr. F. I. G. Coleman",
+  "sender": "Charles S. Phalen"
+}

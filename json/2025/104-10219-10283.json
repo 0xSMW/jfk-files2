@@ -1,0 +1,44 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security": "Revealing that the CIA is requesting information from the FBI about individuals connected to the NSA defectors (MITCHELL and MARTIN) and their contacts with Soviet officials and agents in the US and elsewhere could compromise intelligence-gathering efforts, sources, and methods. The memo explicitly requests any further information reflecting upon the relationship of Nicolas Georges DAMASCUS aka DAMASCOU and his sister Anastasia Georges DAMASCUS aka DAMASCOU with Justo SIERRA Casasús, on the latter's contacts with representatives or agents of the CASTRO government in Cuba, or on SIERRA's continued contacts with KAZANTSEV or other suspect Soviet officials or agents in this country or elsewhere...",
+  "security_level": "SECRET",
+  "summary": "The CIA requests the FBI's assistance in gathering information on Nicolas Ferguson MITCHELL, William Hamilton MARTIN, Justo SIERRA Casasús, Nicolas Georges DAMASCUS, Anastasia Georges DAMASCUS, and their connections to Soviet and Cuban officials following the defection of two NSA employees.",
+  "summary_one_paragraph": "This memorandum, dated July 17, 1961, from the CIA to the FBI, pertains to the espionage case involving Nicolas Ferguson MITCHELL and William Hamilton MARTIN, two NSA defectors. The CIA requests the FBI to provide any information regarding the relationship between Nicolas Georges DAMASCUS (and his sister Anastasia) with Justo SIERRA Casasús, as well as SIERRA’s contacts with Cuban government representatives or Soviet officials like Boris A. KAZANTSEV. This request is prompted by the fact that the NSA defectors transited through Mexico and possibly Cuba on their way to the USSR, emphasizing the need to investigate SIERRA's contacts due to his past association with Soviet officials and potential links to Cuban intelligence.",
+  "tags": [
+    "Espionage",
+    "Defection",
+    "NSA",
+    "FBI",
+    "Liaison",
+    "Soviet Intelligence",
+    "Cuban Intelligence",
+    "Justo SIERRA",
+    "Nicolas DAMASCUS",
+    "Boris KAZANTSEV"
+  ],
+  "title": "Nicolas Ferguson MITCHELL, William Hamilton MARTIN, Espionage - R",
+  "date": "1961-07-17",
+  "locations_mentioned": [
+    "Mexico",
+    "Cuba",
+    "USSR",
+    "United States",
+    "Alexandria, Egypt",
+    "Sydney, Australia",
+    "London, England"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Nicolas Ferguson MITCHELL",
+    "William Hamilton MARTIN",
+    "Justo SIERRA Casasús",
+    "Nicolas Georges DAMASCUS",
+    "Anastasia Georges DAMASCUS",
+    "Boris A. KAZANTSEV",
+    "Fidel CASTRO Ruz",
+    "Lázaro CÁRDENAS"
+  ],
+  "recipient": "Federal Bureau of Investigation",
+  "sender": "William K. Harvey"
+}

@@ -1,0 +1,23 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Disclosing the identities of potential recruits and the operational tradecraft described within the message could compromise ongoing intelligence activities and expose individuals to potential harm. For example, the message states: \"REMEMBER TO BE EXTREMELY CAUTIOUS IN MAKING CONTACT WITH ANYONE YOU HAVE RECOMMENDED FOR RECRUITMENT AND WE HAVE INVESTIGATED. BECAUSE WE HAVE CHECKED THEY DOES NOT NECESSARILY MEAN THEY ARE ALL RIGHT TO USE IN YOUR NETS. EACH RPT EACH AGENT YOU USE SHOULD BE FULLY TRAINED BEFORE YOU GIVE HIM AN OPERATIONAL ASSIGNMENT.\"",
+  "security_level": "SECRET",
+  "summary": "This message relays instructions regarding the recruitment and training of agents, emphasizing caution and thoroughness in the process, and seeks clarification on contacts and network expansion.",
+  "summary_one_paragraph": "This classified message, dated May 27, 1963, is directed to JAMWAVE from the Director, concerning agent recruitment and training, specifically mentioning individuals such as Oreste Tamayo, Rolando Reyes, Medara Silva, and Roberto Legon. It stresses the need for extreme caution when contacting potential recruits, even after they have been investigated, and insists that each agent must be fully trained before being assigned operational duties. The message also seeks further details regarding a contact named Rene in Victoria, including his previous connections, occupation, and education, while cautioning against expanding networks until consolidation is achieved.",
+  "tags": [
+    "CIA",
+    "Agent Recruitment",
+    "Training",
+    "JAMWAVE",
+    "Cuba Operations",
+    "RYPAT",
+    "AMATHENA",
+    "PETGOS"
+  ],
+  "title": "Instructions Regarding Agent Recruitment and Training",
+  "date": "1963-05-27",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "JAMWAVE",
+  "sender": "Director"
+}

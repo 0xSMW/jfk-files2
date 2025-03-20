@@ -1,0 +1,26 @@
+{
+  "classification": "Personnel",
+  "document_type": "Message",
+  "security": "Revealing internal clearance processes for personnel operating in sensitive areas could expose intelligence operations. Specifically, detailing that 'Mr. Greer P. Hanvey cleared per REF request' and the proposed use of a 'WAVE area as Maritime c/0' indicates operational planning and personnel deployment.",
+  "security_level": "SECRET",
+  "summary": "A message indicating Greer P. Hanvey has been cleared per reference request and a request for priority amendment to permit use of subject WAVE area as Maritime c/0.",
+  "summary_one_paragraph": "This SECRET message, dated December 5, 1963, from SAS to DIRECTOR and others, indicates that Mr. Greer P. Hanvey has been cleared according to a reference request. Additionally, it includes a C/S comment from SAS requesting a priority amendment to allow the use of a WAVE area as a Maritime c/0, indicating potential operational use of the designated area.",
+  "tags": [
+    "CIA",
+    "Personnel Clearance",
+    "WAVE Area",
+    "Maritime c/0",
+    "Greer P. Hanvey"
+  ],
+  "title": "Greer P. Hanvey Clearance and WAVE Area Usage",
+  "date": "1963-12-05",
+  "origin_agency": "SAS/PERSONNEL",
+  "persons_mentioned": [
+    "Roy W. Forslund",
+    "Greer P. Hanvey",
+    "Bruce B. Chester",
+    "Orville C. Dawson"
+  ],
+  "recipient": "DIRECTOR, SAS 8, DDP, OF 2,05 2, R",
+  "sender": "SAS/PERSONNEL"
+}

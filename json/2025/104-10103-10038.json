@@ -1,0 +1,43 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security": "Revealing that the CIA conducted a search for unaccounted payments to Howard Hunt, including accessing his bank records and questioning accounting procedures, could expose internal financial and operational practices. Specifically, the memo details opening a special bank account for Hunt at Chase Manhattan Bank and notes an unusual $1,600 write-off approved by Desmond Fitzgerald without further accounting. Sharing this could compromise sensitive operational methods and relationships with banking institutions. Quoting directly, \"It was an expenditure of $1,600 for a sensitive operation which was approved for write-off by Mr. Desmond Fitzgerald on 1 June 1966 without further accounting.\"",
+  "security_level": "SECRET",
+  "summary": "The Director of Finance reports to the Inspector General on a search for unaccounted payments to Howard Hunt, finding no large unrecorded payments but noting unusual financial procedures.",
+  "summary_one_paragraph": "On February 27, 1974, Thomas B. Yale, the Director of Finance, sent a memorandum to the Inspector General detailing a search for unaccounted payments to Howard Hunt, prompted by a request from the Deputy Director for Management and Services. The search covered expense runs, station accountings (Madrid, JMWAVE, FR/Washington), and travel claims but found no undocumented $30,000 payment. A bank account was opened at Chase Manhattan Bank for Hunt for non-salary payments, all of which were accounted for, although an unusual $1,600 expenditure for a sensitive operation was written off without detailed accounting by Desmond Fitzgerald. The memo suggests questioning Mr. Karamessines and potentially requesting a full transcript of Hunt's Chase Manhattan account to uncover any unaccounted operational expenditures.",
+  "tags": [
+    "CIA",
+    "Howard Hunt",
+    "Inspector General",
+    "Office of Finance",
+    "Desmond Fitzgerald",
+    "JMWAVE",
+    "FR/Washington",
+    "Madrid Station",
+    "Non-official cover",
+    "Financial Records",
+    "Chase Manhattan Bank",
+    "Accounting",
+    "Sensitive Operations",
+    "EZ IMPDET"
+  ],
+  "title": "Howard Hunt",
+  "date": "1974-02-27",
+  "locations_mentioned": [
+    "Madrid",
+    "Paris",
+    "Washington",
+    "Chase Manhattan Bank",
+    "Riggs National Bank"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Howard Hunt",
+    "Desmond Fitzgerald",
+    "Mr. Karamessines",
+    "Thomas B. Yale",
+    "Yvonne Watt"
+  ],
+  "recipient": "Inspector General",
+  "sender": "Director of Finance"
+}

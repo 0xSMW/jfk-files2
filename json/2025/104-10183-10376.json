@@ -1,0 +1,41 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Disclosure of training details for individuals involved in clandestine operations against Cuba could expose methods, compromise current or future operations, and endanger individuals involved. Revealing the specific plans to initiate a campaign to prevent execution would also damage operational security.",
+  "security_level": "SECRET",
+  "summary": "A classified message from UMWAVE (likely a CIA station) to the Director concerning the planned training of ALICE INFILS for future operations, including details on individuals such as Danilo Pozo Castro and Miguel A. Diaz Isalque, and requesting POAs (Personnel Assessment) for some subjects.",
+  "summary_one_paragraph": "This SECRET-level classified message, dated September 26, 1961, is from UMWAVE to the Director, detailing plans to initiate 'across the board' training for ALICE INFILS related to JEZIP KUCAGE AMICE. The message provides biographical details on several individuals including Danilo Pozo Castro, Eustiquiano Garcia Lezcano, and Miguel A. Diaz Isalque, and notes local ODENVY traces are underway for some. It also requests POAs (Personnel Assessment) for subjects A, B, and C upon completion of their training and mentions Jesus Riera Ferro as a candidate for AT training. The cable references a plan to initiate a campaign to prevent execution, and it instructs the inclusion of RIMM as an information addressee, authorizing ting.",
+  "tags": [
+    "CIA",
+    "UMWAVE",
+    "Cuba",
+    "ALICE INFILS",
+    "Training",
+    "Clandestine Operations",
+    "POAs",
+    "JEZIP KUCAGE AMICE",
+    "ODENVY",
+    "Personnel Assessment",
+    "Execution Prevention"
+  ],
+  "title": "Training Plans for ALICE INFILS; POA Requests",
+  "date": "1961-09-26",
+  "locations_mentioned": [
+    "Santiago de las Vegas, Cuba",
+    "Matanzas, Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Danilo Pozo Castro",
+    "Eustiquiano Garcia Lezcano",
+    "Miguel A. Diaz Isalque",
+    "Oscar Oliva Cantud",
+    "Juan Espinosa Gocalez",
+    "Francisco Dominguez Elejalde",
+    "Jesus Riera Ferro",
+    "Jesus (father)",
+    "Flura (mother)"
+  ],
+  "recipient": "Director",
+  "sender": "UMWAVE"
+}

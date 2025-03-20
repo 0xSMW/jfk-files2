@@ -1,0 +1,31 @@
+{
+  "classification": "Personnel",
+  "document_type": "Paper, Textual Document",
+  "security": "This document contains information about CIA personnel and their assignments. Specifically, it mentions individuals involved in DCS/OSS, CT programs, and local offices. Sharing these details could potentially expose the identities and roles of covert operatives or sources, jeopardizing their safety and the integrity of ongoing operations. The document also includes opinions of an officer on other employees within the agency, which can cause morale issues within the agency.",
+  "security_level": "U",
+  "summary": "A memo regarding a meeting with DCS Headquarters' officers Shirley Stetson and John Wilson, discussing their roles, assignments, and other personnel matters within the CIA.",
+  "summary_one_paragraph": "On July 9, 1970, a meeting was held with Shirley Stetson and John Wilson from DCS Headquarters and covered their new assignments. Stetson, a long-time member of DCS/OSS who was reassigned to DCS/Washington, and Wilson, Jim Durbin's replacement in the Raleigh-Durham-Chapel Hill Office, met with a CI/SO officer for briefings and discussions. Topics included reports from \"Chico\" concerning B'Nai Brith in NYC, Peter Houck's assumption of responsibility for Case 52722, and observations about John Wilson's background and potential future role in Salt Lake City.",
+  "tags": [
+    "CIA",
+    "DCS",
+    "OSS",
+    "Personnel",
+    "Shirley Stetson",
+    "John Wilson",
+    "Peter Houck",
+    "B'Nai Brith",
+    "Raleigh-Durham-Chapel Hill Office",
+    "CT Program",
+    "Mormon Church"
+  ],
+  "title": "Meeting with DCS Headquarters' Officers",
+  "date": "1970-07-09",
+  "persons_mentioned": [
+    "Shirley Stetson",
+    "John Wilson",
+    "Jim Durbin",
+    "Peter Houck",
+    "Sterling Rysor"
+  ],
+  "recipient": "CI/SO"
+}

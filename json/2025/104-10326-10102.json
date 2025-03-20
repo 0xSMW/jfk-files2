@@ -1,0 +1,35 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security": "Releasing information about the collaborative document review process between the CIA and SIS, and the specific objections raised by SIS (MI6) regarding certain documents (E, F, and G) could expose intelligence-sharing agreements and ongoing liaison relationships. The blanket requests to prevent release, without specific justifications in this summary, could also raise concerns about transparency and accountability in intelligence operations. For example, \"WE REQUEST THAT THIS SHOULD NOT BE RELEASED.\"",
+  "security_level": "SECRET",
+  "summary": "This is a memo relaying information from the British Secret Intelligence Service (SIS) regarding their position on the release of eleven documents related to the British government and the Warren Commission; SIS objects to the release of three letters from the SIS station in Washington to the CIA.",
+  "summary_one_paragraph": "A message from EUR/BNBCI to London relays a memo from SIS (MI6) regarding the release of eleven documents, including correspondence between the British Embassy in Moscow, the Warren Commission, and the CIA. SIS stated it had no objections to the release of most documents, but requested that three letters (E, F, and G) from the SIS station in Washington to the CIA not be released. The Foreign and Commonwealth Office (FCO) requested a delay in releasing one document until January 1, 1995, to comply with the British 30-year rule.",
+  "tags": [
+    "CIA",
+    "SIS",
+    "MI6",
+    "Document Release",
+    "Warren Commission",
+    "British Government",
+    "Liaison",
+    "Intelligence Sharing"
+  ],
+  "title": "Document Release",
+  "date": "1994-03-02",
+  "locations_mentioned": [
+    "Moscow",
+    "Washington"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Angleton",
+    "Lewis",
+    "Brown",
+    "Ince",
+    "Rahm",
+    "Sergievsky"
+  ],
+  "recipient": "London",
+  "sender": "EUR/BNBCI"
+}

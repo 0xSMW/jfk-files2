@@ -1,0 +1,29 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "Revealing that the CIA is tracking members of the House Select Committee on Assassinations could damage the agency's relationship with Congress and raise questions about its oversight activities. Quoting directly: 'WOULD LIKE TO KNOW IF HOS AWARE OF ABOVE AND SHOULD [BASE] EXPECT CONTACT FROM SUBJECTS.'",
+  "security_level": "SECRET",
+  "summary": "A secret cable from the CIA station in Guayaquil reports the upcoming visit of House Select Committee on Assassinations (HSCA) staff members Gaeton Fonzi and Albert Gonzales and requests guidance on whether to expect contact from them.",
+  "summary_one_paragraph": "On May 23, 1978, the CIA station in Guayaquil sent a secret cable to the Director, with information copies to Quito and Caracas, reporting that Gaeton Fonzi and Albert Gonzales, staff members of the House Select Committee on Assassinations (HSCA), are scheduled to visit Guayaquil on May 29 and Caracas on June 1. The cable seeks to confirm whether Headquarters is aware of the visit and asks whether the station should anticipate contact from Fonzi and Gonzales.",
+  "tags": [
+    "CIA",
+    "HSCA",
+    "Gaeton Fonzi",
+    "Albert Gonzales",
+    "Guayaquil",
+    "Surveillance"
+  ],
+  "title": "Report on Visit of HSCA Staff Members",
+  "date": "1978-05-23",
+  "locations_mentioned": [
+    "Guayaquil",
+    "Caracas"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Gaeton Fonzi",
+    "Albert Gonzales"
+  ],
+  "recipient": "Director, Quito, Caracas",
+  "sender": "CIA Station in Guayaquil"
+}

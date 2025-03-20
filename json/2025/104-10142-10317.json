@@ -1,0 +1,37 @@
+{
+  "classification": "HSCA",
+  "document_type": "Journal",
+  "security": "Disclosing internal administrative details like employment inquiries, liaison activities, and security badge issuance could compromise internal processes and relationships with external entities.",
+  "security_level": "INTERNAL USE ONLY",
+  "summary": "This journal entry from the Office of Legislative Counsel details various activities including employment requests, liaison with congressional offices, and security matters related to the House Select Committee on Assassinations and the Senate Select Committee on Intelligence.",
+  "summary_one_paragraph": "A journal entry dated November 10, 1977, from the Office of Legislative Counsel logs internal activities: responding to an employment inquiry from Representative Applegate's office, forwarding a press release about CIA tours to Representative Biaggi's office, arranging to send a publication on Soviet commercial operations to Representative Schulze's office, scheduling a meeting between DD/OS personnel and Professor G. Robert Blakey (Chief Counsel of the House Select Committee on Assassinations), informing Blakey about Privacy Act requests from committee staff, and documenting the issuance of a Headquarters badge to Keith Raffel from the Senate Select Committee on Intelligence and his review of NIS extracts regarding security services.",
+  "tags": [
+    "Legislative Counsel",
+    "HSCA",
+    "Liaison",
+    "Employment Requests",
+    "Security",
+    "Privacy Act",
+    "Senate Select Committee on Intelligence"
+  ],
+  "title": "Journal",
+  "date": "1977-11-10",
+  "origin_agency": "Office of Legislative Counsel",
+  "persons_mentioned": [
+    "Debbie",
+    "Representative Douglas Applegate",
+    "Robert Sensibaugh",
+    "Karen",
+    "Representative Mario Biaggi",
+    "Ted Winicov",
+    "Representative Richard T. Schulze",
+    "Dawn",
+    "Professor G. Robert Blakey",
+    "Sidney Stembridge",
+    "Cummins",
+    "Keith Raffel",
+    "Evvy Vidal"
+  ],
+  "recipient": "HSCA",
+  "sender": "Office of Legislative Counsel"
+}

@@ -1,0 +1,31 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security": "This cable discusses the sensitivity of the CIA's liaison relationship with Australian intelligence services and the agency's efforts to prevent the declassification of documents that could reveal this relationship. The cable mentions instances where the Australians were hesitant to disclose information due to source protection issues, and the CIA's concerns about maintaining trust with the Australian services. Quoting from the document: 'even approaching the Australians on the issue of declassification of an Australian document will strain our relationship with them' and 'We want to avoid raising the specter with the Aussies that the agency may have trouble protecting their secrets.' Revealing these concerns and actions could damage the CIA's relationship with Australian intelligence.",
+  "security_level": "SECRET",
+  "summary": "The cable discusses the CIA's efforts to prevent the declassification of documents related to the John F. Kennedy assassination that could reveal the existence of an agency-Australian liaison relationship, and requests a copy of the 1995 Australian demarche to the USG regarding declassification legislation.",
+  "summary_one_paragraph": "This SECRET cable from the CIA to its Canberra station, dated September 27, 1996, concerns the potential declassification of documents related to the JFK assassination that could reveal a sensitive liaison relationship between the CIA and Australian intelligence services. The John F. Kennedy Review Board has identified two Australian and four CIA documents for declassification, but the CIA is attempting to prevent the release of the Australian documents by arguing that even approaching the Australians about declassification could strain relations. To bolster their case, the CIA requests a copy of the 1995 Australian demarche to the USG regarding declassification legislation, which expresses concerns about the disclosure of information passed to the U.S. by foreign services. The cable details the CIA's fallback position and emphasizes the importance of avoiding any appearance that the agency cannot protect Australian secrets.",
+  "tags": [
+    "CIA",
+    "Australian Intelligence",
+    "JFK Assassination Records Act",
+    "Declassification",
+    "Liaison Relationship",
+    "Duty to Warn",
+    "Source Protection"
+  ],
+  "title": "Australian Demarche to USG Regarding US Legislation on Declassification",
+  "allies": "The document discusses the CIA's concern that even approaching the Australians on the issue of declassification of an Australian document will strain our relationship with them. It also references a recent approach by the Australians asking for our okay in their declassifying some of our documents, and our strongly-worded response denying permission and arguing that such disclosure would be a breach of trust.",
+  "date": "1996-09-27",
+  "locations_mentioned": [
+    "Australia",
+    "Canberra",
+    "US"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "John F. Kennedy"
+  ],
+  "recipient": "Immediate Canberra",
+  "sender": "STAFF"
+}

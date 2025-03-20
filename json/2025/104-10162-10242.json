@@ -1,0 +1,45 @@
+{
+  "classification": "Soviet",
+  "document_type": "Cable/Dispatch",
+  "security": "These documents outline intelligence gathering operations and the exchange of sensitive information with foreign liaison services regarding suspected KGB officers. Disclosing these methods could alert foreign intelligence agencies to specific surveillance techniques (audio operations, surveillance, tracing) and compromise intelligence sharing relationships. For instance, the messages detail sharing specific paragraphs from intelligence reports with liaison services, which is said: “YEMELIN: PARAGRAPHS 1, 2, AND 3 ONLY OF DIRECTOR 0566177 MAY BE PASSED TO LIAISON.”",
+  "security_level": "SECRET",
+  "summary": "These documents consist of cables and dispatches from 1972 to 1978 primarily concerning Ivan Gavrilovich Alferyev, a suspected KGB officer, and actions related to him, including tracing his movements, monitoring his activities, and sharing information with liaison services.",
+  "summary_one_paragraph": "The collection of cables and dispatches from 1972 to 1978 centers on Ivan Gavrilovich Alferyev, identified as a suspected KGB officer. The documents detail efforts to trace Alferyev's movements, monitor his activities (including joint audio operations and surveillance while in Buenos Aires), and control the dissemination of intelligence to liaison services. Additionally, the communications discuss Alferyev’s replacements in various posts, such as Vasiliy Mikhailovich Muravyev, and request headquarters to provide traces and further guidance on Alferyev.",
+  "tags": [
+    "KGB",
+    "Ivan Gavrilovich Alferyev",
+    "Counterintelligence",
+    "Surveillance",
+    "Liaison",
+    "Tracing",
+    "REDTOP",
+    "PDQUICK",
+    "NTTIGER"
+  ],
+  "title": "Traces and Information on Ivan Gavrilovich Alferyev, Suspected KGB Officer",
+  "date": "1972-1978",
+  "locations_mentioned": [
+    "Lima, Peru",
+    "Moscow",
+    "Mexico City, Mexico",
+    "Buenos Aires, Argentina",
+    "USSR"
+  ],
+  "persons_mentioned": [
+    "Ivan Gavrilovich Alferyev",
+    "Roza Alekseyevna",
+    "Vadim",
+    "Arseniy Fedorovich Orlov",
+    "Vasiliy Mikhailovich Muravyev",
+    "Stepan Pavlovich Pajausis",
+    "Anver Ismaylovich Yakubov",
+    "Lyudmila Nikolayevna",
+    "Olga",
+    "Viktor Grig",
+    "Vasiliy Mikhaylovich Chichkov",
+    "Vladimir Agafonovich Dolgov",
+    "Viktor Mikhaylovich Filippov"
+  ],
+  "recipient": "Director, Buenos Aires, Lima",
+  "sender": "Chief of Station, Buenos Aires; Staff"
+}
