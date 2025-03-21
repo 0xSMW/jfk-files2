@@ -1,0 +1,61 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "definitions": {
+    "document": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "title": { "type": "string" },
+        "date": { "type": "string" },
+        "summary": { "type": "string" },
+        "document_type": { "type": "string" },
+        "persons_mentioned": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "sender": { "type": "string" },
+        "recipient": { "type": "string" },
+        "tags": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "documentSummary": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "title": { "type": "string" },
+        "date": { "type": "string" },
+        "summary": { "type": "string" },
+        "document_type": { "type": "string" }
+      }
+    },
+    "entitySummary": {
+      "type": "object",
+      "properties": {
+        "entity_name": { "type": "string" },
+        "entity_type": {
+          "type": "string",
+          "enum": ["person-mentioned", "sender", "recipient", "tag"]
+        },
+        "document_count": { "type": "integer" },
+        "summary": { "type": "string" },
+        "key_connections": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "significance": { "type": "string" },
+        "document_ids": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "required": ["entity_name", "entity_type", "document_count", "summary"]
+    }
+  },
+  "oneOf": [
+    { "$ref": "#/definitions/document" },
+    { "$ref": "#/definitions/entitySummary" }
+  ]
+} 
