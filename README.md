@@ -1,6 +1,6 @@
 # JFK Files 2025 LLM Analysis
 
-This repository contains a comprehensive LLM-powered analysis of the 2025 JFK files that were released by the CIA under the Trump administration. The files include a variety of documents, memos, and reports that provide insights into the events surrounding the assassination of President John F. Kennedy. The original source files can be found in the `.stash` directory.
+This repository contains a comprehensive LLM-powered analysis of the 2025 JFK files that were released by the CIA under the Trump administration. The files include a variety of documents, memos, and reports that provide insights into the events surrounding the assassination of President John F. Kennedy. 
 
 ## Table of Contents
 
@@ -22,15 +22,14 @@ The JFK files have been a subject of public interest and speculation for decades
 
 ## Project Structure
 
-- `jfk_documents/`: Original document files
-- `jfk_text_new/`: Extracted text from documents
-- `jfk_llm_txt/`: Processed text files for LLM analysis
+
 - `json/2025/`: JSON output files containing structured analysis results of individual documents
-- `json/entity_summaries/`: JSON files containing entity-based analysis and summaries
+- `json/entity_summaries/`: JSON files containing entity-based analysis and summaries across all documents
 - `md/2025/`: Markdown versions of the documents
-- `md/2025_jfk_llm_txt/`: Processed text files in markdown format
+- `md/2025_jfk_llm_txt/`: Processed text files in markdown format for llm
 - `scripts/`: Utility scripts for data processing
 - `schema.json`: JSON schema definition for structured data extraction
+- `schema_entity.json`: JSON schema definition for entity-based data analysis
 
 ## Analysis Methodology
 
