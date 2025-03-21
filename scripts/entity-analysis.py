@@ -107,7 +107,7 @@ def generate_entity_summaries(entity_dict, entity_type):
                 result = future.result()
                 if result:
                     # Save the result to a file
-                    entity_filename = f"entity_summaries/{entity.replace('/', '_')}-{entity_type}.json"
+                    entity_filename = f"entity_summaries/{entity_type}-{entity.replace('/', '_')}.json"
                     with open(entity_filename, 'w', encoding='utf-8') as f:
                         json.dump(result, f, indent=2, ensure_ascii=False)
             except Exception as e:
