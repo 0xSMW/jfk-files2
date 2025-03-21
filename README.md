@@ -9,7 +9,9 @@ This repository contains a comprehensive LLM-powered analysis of the 2025 JFK fi
   - [Introduction](#introduction)
   - [Project Structure](#project-structure)
   - [Analysis Methodology](#analysis-methodology)
-  - [Files Included](#files-included)
+  - [Schema and Data Structure](#schema-and-data-structure)
+  - [Entity Summaries](#entity-summaries)
+  - [Scripts Overview](#scripts-overview)
   - [Usage](#usage)
   - [Contributing](#contributing)
   - [License](#license)
@@ -23,11 +25,11 @@ The JFK files have been a subject of public interest and speculation for decades
 - `jfk_documents/`: Original document files
 - `jfk_text_new/`: Extracted text from documents
 - `jfk_llm_txt/`: Processed text files for LLM analysis
-- `jfk_json/`: JSON output files containing structured analysis results
-- `2023/` and `2025/`: Organized files by release year
-- `summary_jfk/`: Summary documents and analysis results
+- `json/2025/`: JSON output files containing structured analysis results of individual documents
+- `json/entity_summaries/`: JSON files containing entity-based analysis and summaries
+- `md/2025/`: Markdown versions of the documents
+- `md/2025_jfk_llm_txt/`: Processed text files in markdown format
 - `scripts/`: Utility scripts for data processing
-- `summarize.py`: Main script for LLM analysis using Gemini API
 - `schema.json`: JSON schema definition for structured data extraction
 
 ## Analysis Methodology
@@ -43,20 +45,60 @@ This project uses Google's Gemini 2.0 LLM to analyze declassified JFK assassinat
 
 The analysis is structured according to a predefined schema to ensure consistent data extraction across all documents.
 
-## Files Included
+## Schema and Data Structure
 
-The repository includes analysis of numerous declassified documents related to the JFK assassination investigation:
-// ... existing code ...
-- Document 3: [Title of Document 3](link-to-document-3)
+The project uses a detailed JSON schema (found in `scripts/schema.json`) to structure the extracted information from each document. Key fields include:
+
+- `title`: Document title or subject line
+- `document_type`: Type of document (Memo, Dispatch, Cable, Report, etc.)
+- `classification`: Category the document belongs to (Oswald, Commission, Soviet, etc.)
+- `security_level`: Original security classification (SECRET, CONFIDENTIAL, UNCLASSIFIED)
+- `date`: Document creation date in YYYY-MM-DD format
+- `origin_agency`: Agency that originated the document
+- `sender` and `recipient`: Author and intended recipient
+- `persons_mentioned`: Key individuals referenced
+- `locations_mentioned`: Geographic locations referenced
+- `tags`: Additional searchable terms
+- `summary`: Brief 1-2 sentence summary
+- `summary_one_paragraph`: Detailed paragraph covering who, what, when, where, why, and how
+- `security`: Assessment of sensitive content
+- `conspiracy`: Optional field for details clarifying JFK assassination understanding
+- `allies`: Optional field for information on US allies treatment
+
+## Entity Summaries
+
+The `json/entity_summaries/` directory contains AI-generated summaries of key entities (people, organizations, locations, concepts) mentioned across multiple documents. Each entity summary provides:
+
+- `entity_name`: Name of the person, organization, location, or concept
+- `entity_type`: Classification of the entity (person, sender, recipient, or tag)
+- `document_count`: Number of documents mentioning this entity
+- `summary`: Comprehensive summary of the entity's role and significance across documents
+- `key_connections`: Related entities or connections
+- `significance`: Analysis of why this entity matters in the context of the JFK files
+- `document_ids`: List of documents where this entity appears
+
+These entity summaries enable researchers to quickly understand key players, organizations, and concepts without needing to read all individual documents.
+
+## Scripts Overview
+
+The `scripts/` directory contains various utilities for processing and analyzing the JFK files:
+
+- `download_archives.py` and `download_2025.py`: Tools for acquiring the source documents
+- `pdf-2-md.py`: Converts PDF documents to markdown format for easier processing
+- `find_dupes.py`: Identifies duplicate documents to ensure data integrity
+- `process_jfk_files.sh`: Main processing pipeline for handling the documents
+- `generate_json_summary.py`: Generates structured JSON summaries of documents using Gemini AI
+- `analysis.py`: Creates entity-based summaries by extracting people, organizations, and concepts across documents
+- `remove_1992_files.py`: Filters out previously released documents to focus on new information
 
 ## Usage
 
-To view the analyzed documents, you can browse the JSON files in the `jfk_json` directory. For a more human-readable format, explore the summary documents in the `summary_jfk` directory.
+To view the analyzed documents, you can browse the JSON files in the `json/2025` directory. For entity-based analysis, explore the entity summaries in the `json/entity_summaries` directory.
 
 If you want to run the analysis on additional documents:
 1. Ensure you have the necessary API keys set up in your environment
 2. Place new documents in the appropriate directory
-3. Run the analysis script: `python summarize.py`
+3. Run the processing pipeline: `./scripts/process_jfk_files.sh`
 
 ## Contributing
 
