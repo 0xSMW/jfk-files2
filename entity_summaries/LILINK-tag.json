@@ -1,0 +1,20 @@
+{
+  "entity_name": "LILINK",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents mentioning LILINK primarily relate to the Mexico City Station and its operations. The documents include an ARRB request for information related to the Mexico City Station, a memo detailing the relationship between Elsie Scaletti and Philip Agee, and a report on the Mexico City Station's operational activities. These documents suggest LILINK is a tag used to categorize documents related to the Mexico City Station, its personnel, and operations, particularly those potentially relevant to investigations into Lee Harvey Oswald's activities in Mexico City. The documents highlight the station's focus on Soviet, Cuban, and satellite targets, as well as internal administrative and operational challenges.",
+  "key_connections": [
+    "Mexico City Station",
+    "Lee Harvey Oswald",
+    "Philip Agee",
+    "Elsie Scaletti",
+    "Soviet targets",
+    "Cuban targets"
+  ],
+  "significance": "LILINK's significance in the JFK context lies in its association with documents pertaining to the CIA's Mexico City Station, which was an area of interest in investigations related to Lee Harvey Oswald's activities prior to the assassination. The tag helps identify and categorize documents that might shed light on Oswald's contacts, activities, and any potential connections to intelligence operations in Mexico City.",
+  "document_ids": [
+    "104-10331-10139",
+    "104-10110-10306",
+    "104-10301-10010"
+  ]
+}

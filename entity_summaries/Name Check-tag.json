@@ -1,0 +1,32 @@
+{
+  "entity_name": "Name Check",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "The documents indicate that \"Name Check\" refers to a process of investigation and information consolidation conducted by agencies like the CIA and FBI. This process involves querying various databases and sources to gather information on individuals of interest, often for security, operational suitability, or counterintelligence purposes. The requests for name checks are triggered by various factors, including potential collaboration, travel plans, or connections to specific projects or events. The documents highlight the use of name checks to assess individuals like Gordon Barton McLendon for potential collaboration, Roman Fedorovich DEDKOV and his wife before their arrival in New Delhi, Irving Davidson for his international business activities, and Lamberto Besta for alleged contraband and intelligence connections. The process involves checking OS Indices and other agency records, and the results can lead to further investigation or operational decisions.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Gordon Barton McLendon",
+    "Roman Fedorovich DEDKOV",
+    "Vilasa Nikolayevna DEDKOV",
+    "Irving Davidson",
+    "Lamberto Besta",
+    "Santiago ALVAREZ Fernandes",
+    "Adolph Jay ALBRECHT",
+    "Karl-Erik RIDDERSTRALE",
+    "Jorge Beliard",
+    "Daniel Reed Fromer"
+  ],
+  "significance": "While the documents do not directly link \"Name Check\" to the JFK assassination, they illustrate the intelligence community's methods for gathering information on individuals, some of whom may have tangential connections to events or persons of interest related to the assassination. For example, the document mentioning Adolph Jay ALBRECHT, who reported a statement predicting Kennedy's assassination, demonstrates how name checks were used to investigate individuals who came forward with information related to the event, even if indirectly.",
+  "document_ids": [
+    "104-10119-10225",
+    "104-10162-10121",
+    "104-10177-10220",
+    "124-10163-10134",
+    "104-10006-10247",
+    "104-10216-10075",
+    "124-90137-10467",
+    "194-10004-10158",
+    "104-10185-10024"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "entity_name": "Walter F. Mondale",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Walter F. Mondale is mentioned in three documents. One document discusses his planned trip to inspect CIA covert intelligence sites in Europe in 1975, and the concerns this raised with the White House. Another document is a transcript of a SSCIA hearing regarding CIA activities in the Congo and the potential assassination of Patrice Lumumba. The third document focuses on providing information to the U.S. Senate Select Committee (SSC) concerning Martin Luther King, Jr., and Stanley Levison's alleged ties to the Communist Party USA (CPUSA).",
+  "key_connections": [
+    "CIA",
+    "Patrice Lumumba",
+    "Martin Luther King, Jr.",
+    "Stanley Levison",
+    "Communist Party USA (CPUSA)",
+    "SSCIA",
+    "U.S. Senate Select Committee (SSC)"
+  ],
+  "significance": "Based on the provided documents, Walter F. Mondale's significance in the JFK assassination context is indirect. He was a Senator involved in oversight of intelligence activities, including the CIA, during the 1970s, as evidenced by his planned trip to inspect CIA sites and the SSC's investigation into intelligence matters. The documents do not directly link him to the JFK assassination, but rather to broader intelligence oversight and investigations into related matters.",
+  "document_ids": [
+    "157-10014-10067",
+    "124-10238-10329_multirif",
+    "124-10273-10053"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "entity_name": "Tom Mann",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, there is no mention of Tom Mann. The documents primarily focus on CIA reorganization efforts during the Kennedy administration, particularly concerning covert actions, policy control, and the relationship between intelligence operations and foreign policy. Arthur Schlesinger Jr.'s memoranda to President Kennedy are central to these discussions, highlighting concerns about the CIA's autonomy and suggesting increased oversight and a more balanced approach to intelligence operations. The documents also reference US policy and actions toward Cuba, including covert actions and assassination plots, as discussed within the Johnson administration.",
+  "key_connections": [],
+  "significance": "Based on the provided documents, Tom Mann has no significance in the JFK context.",
+  "document_ids": [
+    "157-10002-10056",
+    "176-10033-10145",
+    "157-10008-10150",
+    "176-10030-10422"
+  ]
+}

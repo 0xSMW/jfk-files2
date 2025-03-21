@@ -1,0 +1,24 @@
+{
+  "entity_name": "JFK",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The documents mention \"JFK\" primarily in the context of the JFK Assassination Records Review Board. One document discusses the proposed declassification of a BSS document for release to the JFK Review Board. Other documents do not directly relate to JFK himself, but rather involve CIA activities, investigations, and communications during the period surrounding his presidency and assassination. These include investigations into individuals, CIA relations with other organizations, and internal communications regarding operations and potential sources in Cuba and South America. The documents span from 1963 to 1998, with the later document specifically referencing the Review Board established to examine records related to the assassination.",
+  "key_connections": [
+    "JFK Review Board",
+    "CIA",
+    "FBI",
+    "House Select Committee on Assassinations (HSCA)",
+    "Enrique Garcia Armenteros",
+    "Alexander Shatton",
+    "Lillian Sloboda"
+  ],
+  "significance": "In these documents, \"JFK\" primarily represents the JFK Assassination Records Review Board, which was responsible for the declassification and release of documents related to the assassination. The documents also indirectly relate to the period of JFK's presidency and the immediate aftermath of his assassination, providing context to CIA and FBI activities during that time.",
+  "document_ids": [
+    "104-10326-10001",
+    "124-10273-10104",
+    "124-90138-10004",
+    "104-10065-10105",
+    "104-10077-10296",
+    "104-10078-10014"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "entity_name": "HQ",
+  "entity_type": "sender",
+  "document_count": 8,
+  "summary": "The documents primarily involve the FBI communicating with the CIA (referred to as HQ in the context of CIA liaison material) on various matters. These communications span from 1960 to 1970 and cover a range of topics, including information sharing on individuals of interest, requests for assistance in contacting potential assets, and coordination on sensitive intelligence matters. The FBI provides information to the CIA on individuals like Eloy Gutierrez Menoyo, Herbert Levy, Franc Pecar, and Jorge Beliard, as well as relaying information from sources regarding Cuban affairs and intelligence activities. The documents also reveal the FBI's concerns about certain CIA operations and their potential impact on FBI investigations or informant relationships. The pattern across the documents indicates a consistent exchange of information and coordination between the FBI and CIA on matters related to Cuban affairs, intelligence gathering, and counterintelligence during the Cold War era.",
+  "key_connections": [
+    "CIA",
+    "Eloy Gutierrez Menoyo",
+    "Raul Roa",
+    "Lucien Conein",
+    "Herbert Levy",
+    "James Angleton",
+    "Franc Pecar",
+    "Jorge Beliard",
+    "Petros Moutsos",
+    "Cubana Airlines",
+    "St. Regis Paper Company"
+  ],
+  "significance": "In the context of the JFK assassination, the significance of 'HQ' (CIA) lies in its intelligence activities related to Cuba and individuals involved in anti-Castro movements. The documents highlight the CIA's interest in gathering information on Cuban exiles, Cuban officials, and potential assets within Cuba. While the documents do not directly mention the JFK assassination, they provide insight into the CIA's operations and relationships with individuals and organizations that may have been relevant to the events surrounding the assassination. The documents also reveal the close working relationship between the FBI and CIA, particularly in sharing information and coordinating on matters of national security.",
+  "document_ids": [
+    "124-90135-10074",
+    "124-90139-10138",
+    "124-90060-10015",
+    "124-90139-10070",
+    "124-10326-10105",
+    "124-90110-10070",
+    "124-90137-10468",
+    "124-90137-10230"
+  ]
+}

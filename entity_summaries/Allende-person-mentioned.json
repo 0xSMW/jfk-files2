@@ -1,0 +1,20 @@
+{
+  "entity_name": "Allende",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Salvador Allende was the President of Chile whose overthrow is referenced in the documents. The documents primarily discuss the aftermath of his overthrow, including psychological operations aimed at managing the narrative surrounding the Chilean Junta and refugees. One document mentions concerns about an individual's views on NWBOLTON's involvement in Allende's ouster, leading to changes in communication plans. While Allende himself is not directly involved in the JFK assassination context, his ouster is mentioned in connection to concerns about an individual's views on the matter.",
+  "key_connections": [
+    "Chilean Junta",
+    "NWBOLTON",
+    "Orlando Bosch Avila",
+    "David Phillips"
+  ],
+  "significance": "Allende's significance in the JFK context is indirect. His ouster is mentioned as a point of concern regarding an individual's views on NWBOLTON's potential involvement in both Allende's ouster and the JFK assassination. This suggests that the events in Chile were sometimes considered alongside the JFK assassination in internal discussions, although the documents do not establish any direct link.",
+  "document_ids": [
+    "104-10225-10030",
+    "104-10326-10073",
+    "104-10105-10102",
+    "124-10221-10245",
+    "180-10144-10130"
+  ]
+}

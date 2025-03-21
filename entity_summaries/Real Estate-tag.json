@@ -1,0 +1,21 @@
+{
+  "entity_name": "Real Estate",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents primarily relate to real estate in the context of mortgage agreements. Specifically, two mortgage notes and a mortgage document dated March 2, 1978, involve a husband and wife residing in New York and Croush-Walker Company (or ROUSH-WALKER Company) of Atlanta, Georgia. These documents secure a debt of $167,429.88 against a property located at 163 East 71st Street, New York, NY. One document is a standard mortgage note form from New York distributed by Chicago Title Insurance Company. Separately, one memo details actions related to securing an INS card for AMMUG-1 and preparing a safe apartment at Summit Hill for AMMUG-1 to move into on July 1st, including purchasing linens out of operational expenses. The connection to the JFK assassination context is not explicitly stated in these documents, but the real estate may be related to safe houses or properties used by individuals or organizations involved.",
+  "key_connections": [
+    "Croush-Walker Company",
+    "ROUSH-WALKER Company",
+    "AMMUG-1",
+    "Chicago Title Insurance Company",
+    "163 East 71st Street, New York, NY",
+    "Summit Hill"
+  ],
+  "significance": "The significance in the JFK context is not explicitly stated, but the real estate may be related to safe houses or properties used by individuals or organizations involved in the JFK assassination.",
+  "document_ids": [
+    "104-10106-10217",
+    "104-10185-10243",
+    "104-10106-10218",
+    "104-10106-10215"
+  ]
+}

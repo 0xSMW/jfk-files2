@@ -1,0 +1,33 @@
+{
+  "entity_name": "Johnson",
+  "entity_type": "person-mentioned",
+  "document_count": 14,
+  "summary": "The documents mention \"Johnson\" in various contexts, primarily related to Operation Mongoose, activities against Cuba, and discussions within the Vietnam Task Force. Johnson appears in meeting summaries, memoranda, and index cards detailing covert operations, intelligence briefings, and policy discussions. There are references to the 'Johnson gang' in a threat letter disseminated to the White House and Secret Service. The documents suggest Johnson was involved in high-level discussions and decision-making processes related to covert operations and foreign policy during the early 1960s. The specific role and identity of \"Johnson\" varies across the documents, sometimes referring to President Lyndon B. Johnson, particularly in the context of Vietnam Task Force meetings and security threats.",
+  "key_connections": [
+    "Lansdale",
+    "Harvey",
+    "Cheever",
+    "Rostow",
+    "Diem",
+    "Castro",
+    "Lumumba",
+    "Penkovsky"
+  ],
+  "significance": "The significance of \"Johnson\" in the JFK context is multifaceted. Some documents suggest involvement in covert operations against Cuba, potentially linking to motives or actors involved in the assassination. References to the 'Johnson gang' and security threats indicate a level of political tension and potential opposition. The documents highlight Johnson's role in decision-making processes related to foreign policy and covert actions during the period leading up to and following the JFK assassination.",
+  "document_ids": [
+    "157-10005-10236",
+    "157-10011-10000",
+    "157-10008-10241",
+    "176-10036-10073",
+    "104-10306-10003",
+    "124-10369-10022",
+    "157-10011-10010",
+    "157-10011-10006",
+    "180-10145-10280",
+    "157-10011-10007",
+    "104-10324-10002",
+    "157-10011-10009",
+    "157-10011-10003",
+    "157-10014-10151"
+  ]
+}

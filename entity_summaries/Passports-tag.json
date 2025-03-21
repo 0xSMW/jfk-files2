@@ -1,0 +1,21 @@
+{
+  "entity_name": "Passports",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents highlight the use of passports in various contexts related to CIA activities and individuals of interest. One document mentions ANUPAS-1, who was arrested in Guatemala for attempting to enter the country with multiple U.S. passports and possessing Coxie propaganda. Another document refers to passport renewals for KDAFGHAN-1 and KDAFGHAN-2 as part of the CIA's AQUATIC and KDAFGHAN projects in Mexico City. The third document involves the transfer of authentication materials, including passports, for Ernesto Jesus GARCIA Guzman, and the return of his Cuban documents. These instances suggest passports were used for clandestine operations, identity management, and international travel by individuals associated with or of interest to the CIA.",
+  "key_connections": [
+    "ANUPAS-1",
+    "Coxie",
+    "KDAFGHAN-1",
+    "KDAFGHAN-2",
+    "AQUATIC project",
+    "KDAFGHAN project",
+    "Ernesto Jesus GARCIA Guzman"
+  ],
+  "significance": "Passports, in the context of these documents, appear to be tools utilized in covert operations and identity management by individuals connected to the CIA. The documents suggest that passports were used to facilitate travel and maintain cover for individuals involved in sensitive activities. The presence of multiple passports on an individual like ANUPAS-1 raises questions about potential espionage or clandestine operations. The authentication materials for Ernesto Jesus GARCIA Guzman also suggest a level of interest in verifying or potentially falsifying identities.",
+  "document_ids": [
+    "104-10218-10097",
+    "104-10188-10015",
+    "104-10185-10209"
+  ]
+}

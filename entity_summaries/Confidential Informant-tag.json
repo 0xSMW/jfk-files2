@@ -1,0 +1,21 @@
+{
+  "entity_name": "Confidential Informant",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents reference 'Confidential Informants' in the context of FBI investigations and intelligence gathering. These informants provide information on various subjects, including Cuban revolutionary matters, anti-Fidel Castro activities, and potential connections between individuals and organizations. The informants are used by the FBI and potentially the CIA to gather intelligence and monitor activities related to national security concerns. The information they provide is used to inform investigations and assess potential threats.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "Santiago Alvarez Rodriguez",
+    "Carlos Alejos",
+    "Miguel Ydigoras-Fuentes",
+    "Jose Miro Cardona",
+    "James Angleton"
+  ],
+  "significance": "In the JFK context, confidential informants represent a crucial element of intelligence gathering related to potential threats and subversive activities. While the documents provided do not directly link confidential informants to the JFK assassination, they highlight the use of informants in monitoring individuals and groups of interest, particularly those involved in anti-Castro activities, which is a relevant area of inquiry in the broader context of the assassination.",
+  "document_ids": [
+    "124-10326-10098",
+    "124-10332-10018",
+    "104-10227-10271"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "entity_name": "Journalists",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents reference journalists in several contexts. One document mentions American journalists in Moscow in 1966, with speculation about their activities and potential intelligence affiliations. Another document contains briefing questions for the ARRB regarding CIA's relationships with journalists, specifically in the context of Mexico City operations related to the JFK assassination. A classified message requests traces on Cuban journalists attending a FIOPP seminar in Mexico City in 1963. Overall, the documents suggest an interest in journalists' activities and potential connections to intelligence operations, particularly in Moscow and Mexico City, and their possible relevance to the JFK assassination investigation.",
+  "key_connections": [
+    "CIA",
+    "ARRB (Assassination Records Review Board)",
+    "Mexico City",
+    "Moscow",
+    "FIOPP",
+    "Cuban Journalists",
+    "QKENCHANT project",
+    "HTLINGUAL project",
+    "Clay Shaw"
+  ],
+  "significance": "The significance of journalists in the JFK assassination context lies in their potential connections to intelligence agencies and their possible role in gathering or disseminating information related to the assassination. The documents suggest that the CIA was interested in monitoring journalists' activities, particularly in Mexico City, and that these relationships are relevant to the ARRB's investigation into the assassination.",
+  "document_ids": [
+    "104-10218-10033",
+    "104-10330-10081",
+    "104-10068-10172",
+    "104-10333-10006"
+  ]
+}

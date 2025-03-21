@@ -1,0 +1,21 @@
+{
+  "entity_name": "Security Matter",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents tagged as 'Security Matter' encompass a range of FBI investigations and intelligence gathering activities. These activities include monitoring individuals like Robert Scheer for potential threats and affiliations with political organizations, tracking the travels and activities of individuals such as Martin Greendlinger, and requesting information from the CIA regarding individuals like Angela Prince Moutsos and their activities in Cuba. The documents suggest a focus on potential security risks, political affiliations, and international connections that were of interest to the FBI during the Cold War era.",
+  "key_connections": [
+    "Robert Scheer",
+    "Fair Play For Cuba Committee",
+    "Students for a Democratic Society",
+    "Martin Greendlinger",
+    "Angela Prince Moutsos",
+    "CIA",
+    "FBI"
+  ],
+  "significance": "While the documents do not explicitly link these security matters to the JFK assassination, they reflect the broader security and intelligence context of the time, highlighting the FBI's surveillance of individuals and organizations deemed potentially subversive or threatening to national security. The connection to the JFK assassination is indirect, representing the security climate and investigative practices prevalent during that period.",
+  "document_ids": [
+    "194-10002-10203_redacted",
+    "124-90037-10081",
+    "124-90140-10004"
+  ]
+}

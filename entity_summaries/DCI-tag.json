@@ -1,0 +1,31 @@
+{
+  "entity_name": "DCI",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "The DCI, or Director of Central Intelligence, is a recurring figure in these documents, primarily in the context of briefings, meetings, and directives related to CIA operations and intelligence matters. The documents span from 1962 to 1994, showcasing the DCI's involvement in various significant events, including anti-Castro activities (Operation MONGOOSE), the Cuban Missile Crisis, and early stages of the Vietnam War. The DCI's role involves overseeing intelligence activities, resource allocation, and coordination with other agencies. The documents also highlight the DCI's authority in protecting intelligence sources and methods, particularly in relation to the JFK Assassination Records Collection Act of 1992. Meetings with entities like the PFIAB and HPSCI are documented, indicating the DCI's interaction with oversight bodies. The DCI is also shown to be involved in internal matters such as personnel assignments and public relations.",
+  "key_connections": [
+    "PFIAB",
+    "HPSCI",
+    "William Harvey",
+    "John A. McCone",
+    "Operation MONGOOSE",
+    "Operation MHCHAOS",
+    "President John F. Kennedy",
+    "CIA",
+    "FBI"
+  ],
+  "significance": "In the JFK assassination context, the DCI's significance lies in the office's authority over intelligence operations and the protection of sources and methods, as highlighted by the 1994 memorandum analyzing the JFK Assassination Records Collection Act. The DCI's role in overseeing CIA activities during the period leading up to and following the assassination makes the office a key point of interest for understanding potential intelligence-related aspects of the event. The documents suggest a concern for protecting intelligence sources and methods even in the face of mandated disclosures related to the assassination records.",
+  "document_ids": [
+    "178-10004-10054",
+    "104-10074-10347",
+    "104-10063-10430",
+    "157-10002-10105",
+    "104-10118-10427",
+    "157-10014-10121",
+    "104-10322-10104",
+    "104-10074-10349",
+    "104-10301-10000",
+    "104-10103-10079",
+    "104-10333-10011"
+  ]
+}

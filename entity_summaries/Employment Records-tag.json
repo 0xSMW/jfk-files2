@@ -1,0 +1,33 @@
+{
+  "entity_name": "Employment Records",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "The documents primarily consist of payroll records and related forms from the House Select Committee on Assassinations (HSCA) staff. These records include payroll authorization forms, memoranda regarding appointments, resignations, and notifications concerning the postponement of Social Security numbers for privacy reasons. The records detail employment history, salary adjustments, position titles, and personal information of HSCA employees. A recurring pattern is the redaction of Social Security numbers to protect personal privacy. The documents span from 1960 to 1978, with a concentration during the HSCA's active period (1976-1978). One document also contains employment information related to Lee Harvey and Marina Oswald.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Miriam Rudder",
+    "Robert Scheer",
+    "Nancy S. Jenkins",
+    "Lee Harvey Oswald",
+    "Marina Oswald",
+    "Howard Louis Shapiro",
+    "Margo E. Jackson",
+    "Belford L. Lawson III",
+    "Gene R. Johnson",
+    "Claire L. Brown",
+    "Social Security Administration",
+    "Assassination Records Review Board"
+  ],
+  "significance": "Employment records are significant in the JFK assassination context as they provide insight into the staffing and operations of the HSCA, the committee tasked with reinvestigating the assassination. They also offer potential leads and information related to individuals connected to Lee Harvey Oswald, as seen in the document referencing his and Marina Oswald's employment information. These records can help researchers understand the scope and nature of the HSCA's investigation and the backgrounds of individuals involved.",
+  "document_ids": [
+    "180-10070-10150",
+    "194-10006-10141",
+    "180-10060-10450",
+    "180-10072-10186",
+    "180-10070-10155",
+    "180-10060-10449",
+    "180-10060-10464",
+    "180-10060-10452",
+    "180-10068-10317"
+  ]
+}

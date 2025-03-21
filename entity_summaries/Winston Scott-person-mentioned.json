@@ -1,0 +1,25 @@
+{
+  "entity_name": "Winston Scott",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Winston Scott was the Chief of Station for the CIA in Mexico during a period relevant to the JFK assassination. A memorandum details a conversation between President Lopez Mateos of Mexico and Mr. Winston Scott, Chief of Station, Mexico, where Lopez Mateos conveyed his friendship to the United States, his invitation to President Dorticos of Cuba, and his decision not to invite Fidel Castro to Mexico. Other documents mention him in the context of CIA activities in Mexico City in 1963 related to Lee Harvey Oswald and Cuban operations. He is also mentioned in a list of individuals connected with the CIA station in Mexico City during Lee Harvey Oswald's visit.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "President Lopez Mateos",
+    "President Dorticos",
+    "Fidel Castro",
+    "David Phillips",
+    "Boris Tarasoff",
+    "Robert T. Shaw"
+  ],
+  "significance": "Winston Scott's significance in the JFK context stems from his role as the CIA Chief of Station in Mexico City during the time Lee Harvey Oswald visited. His position makes him a key figure in understanding any potential CIA involvement or knowledge related to Oswald's activities and connections in Mexico.",
+  "document_ids": [
+    "180-10113-10119",
+    "104-10105-10120",
+    "104-10330-10083",
+    "104-10095-10161",
+    "104-10171-10220",
+    "104-10105-10103",
+    "180-10131-10329"
+  ]
+}

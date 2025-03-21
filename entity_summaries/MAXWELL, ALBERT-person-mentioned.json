@@ -1,0 +1,15 @@
+{
+  "entity_name": "MAXWELL, ALBERT",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Albert Maxwell was an employee of the Select Committee on Assassinations (SCA). He is listed in payroll and certification reports from April, August, and December of 1978. These documents provide his name and salary information during his employment with the committee. The documents do not provide any specific details about his role or responsibilities within the SCA.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Albert Maxwell's significance lies in his employment with the Select Committee on Assassinations. While the documents do not specify his role, his presence on the payroll indicates he was involved in the committee's work related to investigating the JFK assassination.",
+  "document_ids": [
+    "180-10125-10078",
+    "180-10125-10087",
+    "180-10125-10083"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "entity_name": "Information Management",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "The documents highlight Information Management within the CIA, particularly focusing on the '201 system.' This system was used by the Operations Directorate to identify, track, and manage information on individuals of interest. The documents detail procedures for opening, maintaining, restricting, and cancelling 201 dossiers. The 201 system involved assigning unique numbers, creating dossiers, and maintaining records. Several documents are manuals or handbooks explaining the 201 system, all dated November 15, 1974, suggesting a formalization or standardization of these information management practices around that time. The documents also reveal the CIA's efforts to comply with the JFK Assassination Records Collection Act of 1992, including the search, review, and release of assassination records. Lessons learned from the JFK Records Review are also discussed, highlighting challenges and impacts on Agency resources.",
+  "key_connections": [
+    "CIA",
+    "Operations Directorate",
+    "JFK Assassination Records Review Board (ARRB)",
+    "JFK Assassination Records Collection Act of 1992",
+    "201 System"
+  ],
+  "significance": "In the context of the JFK assassination, Information Management is significant due to the CIA's responsibility to preserve and release relevant records under the JFK Assassination Records Collection Act. The documents reveal the processes and systems in place for managing information, which are critical for understanding how the CIA handled and potentially withheld information related to the assassination. The 201 system, as a key component of information management, is particularly relevant as it outlines how the CIA tracked individuals of interest, potentially including those connected to the assassination.",
+  "document_ids": [
+    "180-10143-10070",
+    "104-10333-10002",
+    "104-10023-10087",
+    "104-10213-10202",
+    "104-10408-10316",
+    "104-10051-10170",
+    "104-10406-10139",
+    "104-10332-10023",
+    "104-10143-10088",
+    "104-10337-10014",
+    "104-10087-10054"
+  ]
+}

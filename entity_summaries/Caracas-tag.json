@@ -1,0 +1,22 @@
+{
+  "entity_name": "Caracas",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "Caracas is mentioned in the documents primarily in the context of CIA stations and investigations related to the House Select Committee on Assassinations (HSCA) and the assassination of Orlando Letelier. CIA cables instructed personnel in Caracas, along with those in Guayaquil and Quito, on how to interact with HSCA investigators, emphasizing the need to limit comments to their cover roles. Additionally, Caracas is mentioned as a location where reporters traveled to investigate potential connections between the Letelier assassination and various groups, including Cuban exiles and Venezuelan secret police. The documents suggest that Caracas served as a location of interest for investigations into politically sensitive assassinations and CIA activities.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Guayaquil",
+    "Quito",
+    "Orlando Letelier",
+    "Cuban exiles",
+    "Venezuelan secret police",
+    "CIA"
+  ],
+  "significance": "Caracas's significance in the JFK assassination context is indirect. It appears as a location where CIA stations were operating and where investigations into other assassinations, such as that of Orlando Letelier, led reporters to explore potential connections. The documents highlight the presence of CIA activity in Caracas and its potential relevance to broader investigations into political assassinations during the Cold War era.",
+  "document_ids": [
+    "104-10067-10044",
+    "104-10177-10217",
+    "104-10065-10105",
+    "104-10179-10122"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "entity_name": "Double Agent",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "The documents reference several instances of individuals acting as double agents, primarily in the context of Cuban intelligence and counterintelligence operations. These agents are used to gather information, infiltrate anti-Castro groups, and potentially influence political actions. The documents span from the 1950s to the 1990s, indicating a sustained interest and utilization of double agents by various intelligence agencies. Specific examples include DOLPHIN, a Cuban double agent used by the FBI to gather information on anti-Castro activities in Miami in 1967, and the recruitment of IDENTITY by Cuban Intelligence (CUIS) to infiltrate anti-Castro groups. The potential use of individuals like JUMAVE 1 and Jose Ricardo RABEL Nunez (AMLEO-3) as double agents is also explored. The documents suggest a pattern of using double agents to gather intelligence, disrupt opposition groups, and potentially manipulate political situations.",
+  "key_connections": [
+    "DOLPHIN",
+    "IDENTITY",
+    "JUMAVE 1",
+    "Jose Ricardo RABEL Nunez (AMLEO-3)",
+    "Cuban Intelligence (CUIS)",
+    "Anti-Castro activities",
+    "FBI",
+    "AMTRUNK Operation",
+    "SLANK/1",
+    "VZTOUCHDOWN"
+  ],
+  "significance": "While not directly linked to the JFK assassination in most documents, the presence of double agents in Cuban intelligence and counterintelligence operations is relevant. One document mentions a request to question VZTOUCHDOWN about SLANK/1, a former DGI officer who defected and provided information indicating the Cuban government was not involved in the Kennedy assassination. This suggests an attempt to tie up loose ends related to potential Cuban involvement as the declassification deadline approached. Additionally, E. Howard Hunt's testimony mentions inquiries into the potential liquidation of a suspected double agent, indicating the high stakes and potential consequences associated with these individuals.",
+  "document_ids": [
+    "104-10326-10098",
+    "180-10144-10133",
+    "124-10285-10254",
+    "124-10276-10400",
+    "104-10322-10101",
+    "157-10005-10228",
+    "104-10183-10261",
+    "104-10103-10350",
+    "104-10103-10097",
+    "104-10166-10120",
+    "104-10185-10024"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "entity_name": "Office of Legislative Counsel",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The Office of Legislative Counsel (OLC) is a CIA office responsible for liaising with congressional offices and committees. The documents indicate that the OLC handles a variety of tasks, including responding to employment requests, providing information to congressional offices, arranging meetings, and managing access to sensitive materials. The OLC also deals with requests for information related to the Kennedy assassination, as evidenced by communications with congressional offices regarding such requests. The office maintains journals documenting its daily activities and interactions with various congressional entities.",
+  "key_connections": [
+    "Congressional offices",
+    "Congressional committees",
+    "House Select Committee on Assassinations",
+    "Senate Select Committee on Intelligence"
+  ],
+  "significance": "The Office of Legislative Counsel's significance in the JFK context lies in its role as a point of contact between the CIA and Congress regarding information requests and oversight related to the assassination. The documents suggest that the OLC was involved in managing the flow of information and access to materials related to the JFK assassination to congressional committees.",
+  "document_ids": [
+    "104-10145-10047",
+    "104-10142-10029",
+    "104-10140-10101"
+  ]
+}

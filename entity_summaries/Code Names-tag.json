@@ -1,0 +1,24 @@
+{
+  "entity_name": "Code Names",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents reveal the use of code names within CIA operations, particularly those related to Cuban operations and agent communications. These code names served to protect the identities of individuals involved in sensitive activities. The documents include lists of names with associated code names, cables discussing individuals identified by code names (ICEN A, IDER B, LDEN C, LUEN D, and IDEN E), and classified messages detailing agent communications and operations where code names are used to refer to individuals. The use of code names appears to be a standard practice for maintaining secrecy and operational security within the CIA, especially in the context of covert activities and agent networks. The documents span at least from November 29, 1963, to December 3, 1963, indicating ongoing operations during that period. A notable pattern is the consistent use of code names in communications related to agents and operations, suggesting a systematic approach to maintaining confidentiality.",
+  "key_connections": [
+    "CIA",
+    "JMWAVE (Miami)",
+    "Cuban operations",
+    "Agents",
+    "ICEN A",
+    "IDER B",
+    "LDEN C",
+    "LUEN D",
+    "IDEN E"
+  ],
+  "significance": "In the context of the JFK assassination, the use of code names highlights the clandestine nature of operations potentially relevant to the assassination. While the documents do not directly link the code names to the assassination, they underscore the environment of secrecy and covert activities within which the assassination occurred. The individuals and operations concealed by these code names could potentially be relevant to understanding the broader context of the assassination and any possible involvement of intelligence agencies or related actors.",
+  "document_ids": [
+    "104-10079-10391",
+    "104-10234-10105",
+    "104-10075-10042",
+    "104-10076-10000"
+  ]
+}

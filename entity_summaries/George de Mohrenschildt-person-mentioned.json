@@ -1,0 +1,24 @@
+{
+  "entity_name": "George de Mohrenschildt",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "George de Mohrenschildt is mentioned in several CIA documents, primarily in connection to Lee Harvey Oswald and Dutch journalist Willem Oltmans. The documents suggest that Oltmans had connections to both de Mohrenschildt and Cuban/Soviet diplomats, raising concerns and prompting the CIA to share information with Congressional committees. De Mohrenschildt is also linked to Jean K. Saurel, a Haitian official, and is mentioned in connection to observations at the National Airport in Washington. The documents span from 1963 to 1996, with a concentration in the 1970s related to Oltmans' activities and Congressional inquiries. A consistent pattern is de Mohrenschildt's association with individuals of interest to the CIA and Congressional committees investigating the JFK assassination.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Willem Oltmans",
+    "Jean K. Saurel",
+    "Cuban diplomats",
+    "Soviet diplomats",
+    "H. Charles"
+  ],
+  "significance": "George de Mohrenschildt's significance in the JFK context stems from his association with Lee Harvey Oswald and his connections to individuals and entities of interest to the CIA, including those with potential ties to Cuba and the Soviet Union. His connections prompted Congressional interest and investigations, suggesting a potential link, however indirect, to the events surrounding the assassination.",
+  "document_ids": [
+    "104-10326-10057",
+    "104-10066-10031",
+    "104-10164-10088",
+    "104-10147-10301",
+    "104-10166-10262",
+    "104-10418-10230",
+    "180-10145-10285"
+  ]
+}

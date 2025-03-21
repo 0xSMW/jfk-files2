@@ -1,0 +1,20 @@
+{
+  "entity_name": "Information Request",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents highlight various instances of information requests related to the JFK assassination records. These requests come from different entities such as the Assassination Records Review Board (ARRB), the House Select Committee on Assassinations (HSCA), and the CIA itself. The ARRB sought additional information from the CIA's Historical Review Group (HRG) on specific files, crypts, individuals, and operations. The HSCA requested details from the CIA regarding the criteria for opening a 201 file, a system used for tracking persons of interest. Additionally, there's a CIA cable discussing whether Headquarters will provide further information in compliance with the President John F. Kennedy Assassination Records Collection Act. These requests underscore the ongoing efforts to gather and review information pertinent to the JFK assassination.",
+  "key_connections": [
+    "Assassination Records Review Board (ARRB)",
+    "CIA Historical Review Group (HRG)",
+    "House Select Committee on Assassinations (HSCA)",
+    "President John F. Kennedy Assassination Records Collection Act",
+    "CIA",
+    "201 file system"
+  ],
+  "significance": "Information requests are central to the investigation and transparency efforts surrounding the JFK assassination. They represent the formal processes by which various organizations sought to uncover and understand the details, individuals, and operations connected to the assassination. These requests highlight the complexities of accessing and managing sensitive information within government agencies like the CIA and the importance of compliance with legislation aimed at declassifying assassination-related records.",
+  "document_ids": [
+    "104-10335-10001",
+    "104-10326-10065",
+    "104-10408-10078"
+  ]
+}

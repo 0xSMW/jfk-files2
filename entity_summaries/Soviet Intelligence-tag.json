@@ -1,0 +1,38 @@
+{
+  "entity_name": "Soviet Intelligence",
+  "entity_type": "tag",
+  "document_count": 17,
+  "summary": "The documents reveal Soviet Intelligence (primarily the KGB and GRU) as a significant focus of US intelligence efforts during the Cold War. The documents detail various aspects of Soviet intelligence activities, including espionage, recruitment attempts, and support for revolutionary movements. Key figures like Nikolay Sergeyevich Leonov (KGB officer supporting Latin American revolutionaries) and defectors like Yuri Ivanovich Nosenko are mentioned. The documents also highlight concerns about potential penetrations of sensitive US institutions, such as Bell Telephone Laboratories, and the monitoring of Soviet officials and their contacts. The timeline spans from the early 1960s to the 1980s, reflecting ongoing counterintelligence efforts. A notable pattern is the consistent focus on identifying and tracking Soviet intelligence officers and their operations, as well as assessing the reliability and motivations of defectors.",
+  "key_connections": [
+    "KGB",
+    "GRU",
+    "Nikolay Sergeyevich Leonov",
+    "Yuri Ivanovich Nosenko",
+    "William Hamilton Martin",
+    "Valentin Sergeyevich Loganov",
+    "Lee Harvey Oswald",
+    "Bell Telephone Laboratories",
+    "Cuban Intelligence",
+    "Latin American revolutionary movements"
+  ],
+  "significance": "While the documents do not directly link Soviet Intelligence to the JFK assassination, they reveal that Valeriy Vladimirovich Kostikov, a Soviet intelligence officer, handled Lee Harvey Oswald's visa request in Mexico City. The documents also highlight the broader context of Cold War espionage and counterintelligence, suggesting a potential interest in Oswald's activities. The documents also reveal the monitoring of Soviet officials and their contacts in Mexico, which could be relevant to understanding Oswald's activities in Mexico City.",
+  "document_ids": [
+    "104-10219-10283",
+    "124-90092-10002",
+    "104-10173-10078",
+    "104-10218-10008",
+    "104-10176-10015",
+    "124-90155-10008",
+    "104-10412-10005",
+    "104-10219-10143",
+    "104-10209-10018",
+    "104-10431-10091",
+    "104-10226-10117",
+    "104-10173-10135",
+    "104-10210-10037",
+    "104-10210-10021",
+    "104-10172-10248",
+    "124-10279-10258",
+    "124-90092-10001"
+  ]
+}

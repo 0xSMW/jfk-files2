@@ -1,0 +1,24 @@
+{
+  "entity_name": "Ted Shackley",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "summary": "Based on the provided documents, Ted Shackley is mentioned in the context of CIA activities related to Cuban operations and potential assassination attempts against Fidel Castro. While the documents do not explicitly detail Shackley's direct involvement in the JFK assassination, they place him within the sphere of individuals and operations scrutinized during investigations into the assassination, particularly concerning Operation Mongoose and other anti-Castro efforts. The documents suggest Shackley's potential connection to individuals involved in these operations, such as William Harvey, Lansdale, and members of the SGA. The timeline of his involvement is implied through references to Cuban operations and related activities during the period under investigation by the Rockefeller Commission and other inquiries.",
+  "key_connections": [
+    "William Harvey",
+    "Lansdale",
+    "Frank Sturgis",
+    "Bruce Cheever"
+  ],
+  "significance": "Ted Shackley's significance in the JFK context stems from his association with CIA activities related to Cuba and potential assassination plots against Fidel Castro. His name appears in documents related to Operation Mongoose and other covert operations that were scrutinized during investigations into the JFK assassination. While the documents do not directly link him to the assassination, his involvement in these operations raises questions about the extent of CIA involvement in anti-Castro activities and their potential connection to the events surrounding JFK's death.",
+  "document_ids": [
+    "157-10008-10241",
+    "157-10014-10109",
+    "157-10011-10083",
+    "104-10324-10000",
+    "104-10126-10253",
+    "178-10002-10091",
+    "157-10011-10005",
+    "178-10002-10279",
+    "178-10002-10215"
+  ]
+}

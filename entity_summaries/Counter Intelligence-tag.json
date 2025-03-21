@@ -1,0 +1,24 @@
+{
+  "entity_name": "Counter Intelligence",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents highlight Counter Intelligence (CI) as a crucial function within the CIA and other intelligence agencies. CI's role involves protecting classified information, investigating leaks, managing sensitive security operations, and overseeing covert activities. The documents reveal CI's involvement in various operations, including support to the Secret Service, investigations into information leaks, the MHCHAOS program, corporate cover operations, surveillance of journalists, mail intercepts, and Cuban operations. CI also plays a role in granting operational and security approvals within the Clandestine Services. The timeline spans from 1958 to 1973, indicating sustained involvement in various intelligence activities. A notable pattern is CI's consistent focus on safeguarding information and managing covert operations, reflecting its core function in maintaining security and operational integrity.",
+  "key_connections": [
+    "CIA",
+    "Secret Service",
+    "MHCHAOS program",
+    "Clandestine Services",
+    "Office of Security",
+    "United Revolutionary Movement (URM)",
+    "JMWAVE",
+    "ACSI (Army Counter Intelligence)"
+  ],
+  "significance": "In the context of the JFK assassination, the documents suggest that Counter Intelligence was involved in reviewing Warren Commission documents for declassification, specifically withholding information about an agent under cover and dealings with defectors. This indicates CI's role in managing the release of information related to the assassination investigation and potentially protecting sensitive sources or operations. The connection to Cuban operations and defectors may also be relevant, given the various theories linking the assassination to Cuban exiles or intelligence activities.",
+  "document_ids": [
+    "124-10185-10099",
+    "104-10088-10070",
+    "104-10226-10011",
+    "104-10425-10008",
+    "104-10069-10185"
+  ]
+}

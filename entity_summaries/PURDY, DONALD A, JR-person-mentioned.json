@@ -1,0 +1,15 @@
+{
+  "entity_name": "PURDY, DONALD A, JR",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Donald A. Purdy, Jr. was an employee of the Select Committee on Assassinations (SCA). The documents provided are payroll and certification reports that list Purdy's name, salary, and employment dates. He appears in payroll certifications for April 1978 and August 1978, as well as a certification report for December 1978. These documents indicate that Purdy was employed by the SCA during these periods.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Donald A. Purdy, Jr.'s significance lies in his employment with the Select Committee on Assassinations. While the specific nature of his role is not detailed in these documents, his presence on the payroll indicates he contributed to the committee's investigation into the JFK assassination.",
+  "document_ids": [
+    "180-10125-10078",
+    "180-10125-10087",
+    "180-10125-10083"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "entity_name": "Johanna Lynn Smith",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Johanna Lynn Smith was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA). The documents available consist primarily of payroll certifications and related records spanning from January 1977 to December 1978. These documents detail her employment history, salary, and position within the committee. The payroll certifications list her name, position, annual salary, and gross pay for specific accounting periods. One document specifically contains her staff payroll records, including authorization forms and memoranda, providing a more detailed view of her employment with the HSCA.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Johanna Lynn Smith's significance lies in her employment within the HSCA, contributing to the committee's investigation into the JFK assassination. While the documents do not specify her exact role in the investigation, her payroll records indicate her involvement as a staff member during a crucial period of the committee's work.",
+  "document_ids": [
+    "180-10125-10081",
+    "180-10125-10107",
+    "180-10125-10096",
+    "180-10125-10079",
+    "180-10125-10086",
+    "180-10070-10159",
+    "180-10125-10094"
+  ]
+}

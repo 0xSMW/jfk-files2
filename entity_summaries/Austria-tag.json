@@ -1,0 +1,22 @@
+{
+  "entity_name": "Austria",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Austria appears in the JFK assassination documents primarily in the context of intelligence operations and security concerns. The FBI's Legat in Bern, Switzerland, disseminated security information to Austrian law enforcement and intelligence agencies regarding Mark Lane. Additionally, individuals residing in Austria were investigated as potential threats to President Kennedy, though no relevant information was found. A CIA cable from Vienna details an operation involving Franz Olah and the establishment of weapons caches in Austria, raising concerns about the potential exposure of individuals involved. One individual, referred to as Noblehorse, objects to the revelation of his name due to safety concerns and potential legal repercussions related to past actions in Vienna. The documents suggest Austria served as a location for intelligence activities and a potential base for individuals of interest to U.S. agencies.",
+  "key_connections": [
+    "Mark Lane",
+    "FBI (Legat, Bern)",
+    "CIA",
+    "Franz Olah",
+    "Noblehorse",
+    "Switzerland"
+  ],
+  "significance": "Austria's significance in the JFK context lies in its role as a location for intelligence operations, a potential base for individuals of interest, and a point of contact for disseminating security information. The documents suggest that U.S. agencies were actively monitoring individuals and activities in Austria, and that Austria was involved in covert operations during the period.",
+  "document_ids": [
+    "124-10311-10292",
+    "124-10320-10087",
+    "104-10209-10018",
+    "104-10326-10053",
+    "104-10326-10063"
+  ]
+}

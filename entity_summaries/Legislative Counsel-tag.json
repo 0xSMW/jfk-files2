@@ -1,0 +1,24 @@
+{
+  "entity_name": "Legislative Counsel",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The Office of Legislative Counsel was a part of the CIA responsible for liaising with Congress. The documents indicate their involvement in administrative tasks, budget discussions, and acting as a point of contact between the CIA and various congressional committees, particularly the House Select Committee on Assassinations (HSCA) and the Senate Select Committee on Intelligence. They handled employment requests, security matters, and the review of intelligence materials. The timeline spans from February 1977 to December 1978, with consistent engagement with the HSCA. A notable pattern is their role in facilitating communication and information flow between the CIA and congressional bodies investigating the JFK assassination, handling sensitive materials, and addressing security concerns related to these investigations.",
+  "key_connections": [
+    "House Select Committee on Assassinations",
+    "Senate Select Committee on Intelligence",
+    "Senate Appropriations Committee",
+    "Senate Foreign Relations Committee",
+    "FBI",
+    "House Permanent Select Committee on Intelligence",
+    "Chairman Boland"
+  ],
+  "significance": "The Office of Legislative Counsel played a crucial role in managing the CIA's relationship with Congress during the period when the House Select Committee on Assassinations was actively investigating the JFK assassination. Their activities included facilitating access to information, addressing security concerns, and ensuring that the CIA's interests were represented during the investigation. Their involvement highlights the CIA's engagement with the congressional inquiry into the assassination.",
+  "document_ids": [
+    "104-10140-10420",
+    "104-10322-10104",
+    "104-10142-10317",
+    "104-10151-10188",
+    "104-10142-10279",
+    "104-10142-10055"
+  ]
+}

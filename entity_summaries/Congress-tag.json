@@ -1,0 +1,21 @@
+{
+  "entity_name": "Congress",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents indicate that Congress played a role in oversight and awareness of CIA activities during the period surrounding the JFK assassination. They were briefed on the fallout from the failed Cuban operation (Bay of Pigs), suggesting a need for Congressional awareness of significant CIA actions. Later, Congress, specifically the Senate Select Committee (Church Committee), asserted its authority to declassify and release classified information, indicating a potential adversarial or investigatory role relative to the CIA. Additionally, the CIA sought to improve its standing in Congress, suggesting a need for Congressional support or approval for its activities. The documents span from the aftermath of the Bay of Pigs to 1975, indicating a sustained, if sometimes tense, relationship between the CIA and Congress.",
+  "key_connections": [
+    "CIA (KUBARK)",
+    "General Maxwell Taylor",
+    "Senate Select Committee (Church Committee)",
+    "Senator Frank Church",
+    "Chiang Ching-kuo",
+    "Joint Chiefs",
+    "Bureau of Budget"
+  ],
+  "significance": "Congress's significance in the JFK context lies in its oversight role of the CIA and its potential access to classified information related to the assassination. The documents suggest that Congress was kept informed of certain CIA activities, and later, actively sought to declassify information, indicating a potential role in uncovering information related to the assassination, though the documents do not explicitly mention the assassination itself.",
+  "document_ids": [
+    "104-10227-10121",
+    "124-10273-10007_multirif",
+    "104-10306-10007"
+  ]
+}

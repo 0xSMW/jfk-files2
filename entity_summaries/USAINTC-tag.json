@@ -1,0 +1,20 @@
+{
+  "entity_name": "USAINTC",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "USAINTC (U.S. Army Intelligence Center) appears in the documents primarily in the context of personnel security actions and background checks. The documents indicate that USAINTC was involved in requesting National Agency Checks (NAC) and personnel security actions for individuals like Edward Kaczmarczyk, Robert Scheer, and David Reed Fromer. These checks involved gathering personal information, employment history, and educational background, as well as requesting FBI file checks on family members to expedite security clearance determinations. The documents span from 1966 to 1971, suggesting a period of active involvement in personnel security matters during this time.",
+  "key_connections": [
+    "Edward Kaczmarczyk",
+    "Robert Scheer",
+    "David Reed Fromer",
+    "FBI",
+    "U.S. Army"
+  ],
+  "significance": "Based on the provided documents, USAINTC's role appears to be related to conducting background checks and personnel security actions for individuals, potentially those connected to or working with the U.S. Army. The documents do not directly link USAINTC to the JFK assassination. However, the security checks and investigations conducted by USAINTC may be relevant in understanding the broader security landscape and personnel vetting processes during the time period surrounding the assassination.",
+  "document_ids": [
+    "194-10003-10335",
+    "194-10006-10178",
+    "194-10004-10135",
+    "194-10004-10143"
+  ]
+}

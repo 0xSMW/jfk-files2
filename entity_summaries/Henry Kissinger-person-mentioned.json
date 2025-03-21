@@ -1,0 +1,21 @@
+{
+  "entity_name": "Henry Kissinger",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Henry Kissinger is mentioned in the provided documents in the context of investigations and reports related to anti-Cuba operations and the assassination of Orlando Letelier. While the documents do not directly implicate Kissinger in the JFK assassination, his name appears in connection with investigations involving Cuban exiles, the CIA, and other figures potentially linked to political violence. Specifically, one document mentions investigations related to the Cuban ambassador and Henry Kissinger, suggesting his involvement or knowledge was of interest in certain inquiries. The documents span from 1978 to 1998, indicating a period of interest or investigation surrounding Kissinger's potential connections to these events.",
+  "key_connections": [
+    "Orlando Bosch Avila",
+    "Cuban exiles",
+    "CIA",
+    "Cuban ambassador",
+    "Orlando Letelier"
+  ],
+  "significance": "The significance of Henry Kissinger in the JFK context, based on these documents, is indirect. He is mentioned in connection with investigations into anti-Cuba operations and the assassination of Orlando Letelier, which involved individuals and organizations that have been subjects of inquiry related to the JFK assassination. His name appears in investigations, suggesting a potential, though not explicitly stated, connection or knowledge of events relevant to the broader context of political violence and intelligence operations.",
+  "document_ids": [
+    "180-10145-10301",
+    "104-10177-10217",
+    "104-10324-10002",
+    "180-10144-10130",
+    "104-10301-10011"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "entity_name": "Knoche",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Knoche is mentioned in the context of CIA activities and information sharing with other government entities. The documents do not provide specific details about Knoche's role or involvement in the JFK assassination. Instead, Knoche appears in documents related to broader CIA operations, intelligence sharing protocols with the FBI, and guidelines for providing information to congressional oversight committees. The documents suggest Knoche was likely involved in the administrative or operational aspects of the CIA during the relevant time periods.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "House Appropriations Committee",
+    "Foreign Resources Division (FRD)"
+  ],
+  "significance": "The provided documents do not establish a direct significance of Knoche in the JFK assassination context. Knoche's significance appears to be related to CIA operations, intelligence sharing, and interactions with oversight bodies.",
+  "document_ids": [
+    "104-10213-10314",
+    "104-10400-10316",
+    "157-10008-10234"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "entity_name": "Raymond Rocca",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Raymond Rocca is mentioned in several documents related to investigations into the JFK assassination, particularly in the context of requests from the House Select Committee on Assassinations (HSCA). He is named in memoranda providing information on individuals and entities of interest to the HSCA, indicating his potential involvement or knowledge relevant to the investigation. The documents suggest that files related to Rocca were held by the Central Cover Staff (CCS). He is also mentioned in an inventory of Rockefeller Commission files.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Central Cover Staff (CCS)",
+    "Rockefeller Commission",
+    "George DeMohrenschildt",
+    "Leo Cherne",
+    "William Harvey",
+    "International Rescue Committee",
+    "Richard Helms",
+    "James Angleton",
+    "Wackenhut Corporation"
+  ],
+  "significance": "Raymond Rocca's significance in the JFK assassination context lies in his potential role as someone with information or involvement relevant to the HSCA's investigation. The fact that the CCS held files on him suggests he may have had connections to intelligence operations or individuals of interest to the investigation.",
+  "document_ids": [
+    "104-10059-10057",
+    "104-10061-10320",
+    "157-10011-10024",
+    "178-10004-10420",
+    "157-10004-10144",
+    "104-10061-10214",
+    "104-10224-10012"
+  ]
+}

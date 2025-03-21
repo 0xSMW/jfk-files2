@@ -1,0 +1,18 @@
+{
+  "entity_name": "Addis Ababa",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Addis Ababa is mentioned as the location of contacts between a CIA Case Officer (C/O) and intelligence source FCSTANDARD/32. These contacts involved discussions on various topics, including Sudan, Libya, and observations about individuals and security practices. The source, FCSTANDARD/32, provided information about individuals, activities, and security measures in Addis Ababa, potentially offering leads and insights for ongoing intelligence operations. The documents suggest that Addis Ababa served as a base of operations or a location of interest for CIA activities and intelligence gathering.",
+  "key_connections": [
+    "FCSTANDARD/32",
+    "Sudan",
+    "Libya",
+    "CIA"
+  ],
+  "significance": "In the context of these documents, Addis Ababa's significance lies in its role as a location where intelligence operations were conducted and information was gathered by the CIA through sources like FCSTANDARD/32. The information gathered pertained to regional issues like Sudan and Libya, suggesting Addis Ababa was a point of interest for monitoring activities in the region. The documents do not directly relate to the JFK assassination.",
+  "document_ids": [
+    "104-10326-10014",
+    "104-10326-10014 (c06931192)",
+    "104-10326-10015"
+  ]
+}

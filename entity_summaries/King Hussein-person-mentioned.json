@@ -1,0 +1,19 @@
+{
+  "entity_name": "King Hussein",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "King Hussein is mentioned in the context of CIA projects and Robert A. Maheu's activities. Specifically, Project NORFOLK provided female companionship and support services to King Hussein during his visits to the U.S. Robert A. Maheu, a CIA asset, was involved in providing these services. The documents suggest that the CIA provided support to King Hussein through Maheu and Project NORFOLK.",
+  "key_connections": [
+    "Robert A. Maheu",
+    "CIA",
+    "Project NORFOLK"
+  ],
+  "significance": "King Hussein's significance in the JFK context, based on these documents, is limited to his connection with CIA support services provided through Robert A. Maheu. The documents do not directly link him to the JFK assassination, but rather highlight his relationship with the CIA and Maheu.",
+  "document_ids": [
+    "104-10121-10341",
+    "104-10122-10279",
+    "104-10122-10346",
+    "104-10121-10342",
+    "104-10122-10141"
+  ]
+}

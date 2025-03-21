@@ -1,0 +1,14 @@
+{
+  "entity_name": "Mr. Johnson",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, there is insufficient information to determine who Mr. Johnson is or his role in the JFK assassination context. The documents primarily focus on Operation Mongoose, Special Group meetings, and covert operations related to Cuba, Laos, Chile, Dominican Republic, Panama, and North Vietnam. While the documents mention various activities such as intelligence gathering, economic pressure, propaganda efforts, reconnaissance flights, resupply operations, and policy discussions, they do not provide specific details about Mr. Johnson's involvement or significance. Therefore, it is impossible to provide a comprehensive summary about Mr. Johnson based solely on these documents.",
+  "key_connections": [],
+  "significance": "Insufficient information to determine significance in the JFK context.",
+  "document_ids": [
+    "202-10001-10219",
+    "104-10306-10024",
+    "178-10003-10016",
+    "104-10306-10021"
+  ]
+}

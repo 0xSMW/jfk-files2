@@ -1,0 +1,20 @@
+{
+  "entity_name": "FBIS",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The Foreign Broadcast Information Service (FBIS) is mentioned in the documents primarily in the context of intelligence handling and dissemination. Several cables from Hong Kong to the Director discuss the handling of information related to the House Select Committee on Assassinations (HSCA). One cable clarifies that certain information was intended for station use only and not for FBIS dissemination. Another cable recommends recalling a document that was inadvertently passed to FBIS due to its sensitive nature, suggesting concerns about compromising intelligence operations. The documents indicate that FBIS was a recipient of intelligence information, and there were concerns about the potential compromise of sensitive information if it were disseminated through FBIS.",
+  "key_connections": [
+    "HSCA (House Select Committee on Assassinations)",
+    "CIA",
+    "Hong Kong Station"
+  ],
+  "significance": "In the context of the JFK assassination, FBIS appears as a recipient of intelligence information. The documents suggest concerns about the potential compromise of sensitive intelligence operations if certain information were disseminated through FBIS, particularly concerning the HSCA's interest in nonofficial cover officers and agent assets. The documents do not directly link FBIS to the assassination itself, but rather to the handling of information related to investigations into the assassination.",
+  "document_ids": [
+    "104-10065-10069",
+    "104-10527-10424",
+    "104-10100-10251",
+    "104-10101-10239",
+    "104-10065-10050",
+    "104-10066-10245"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "entity_name": "TDY",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "TDY stands for Temporary Duty. The documents indicate that TDY is used in the context of travel assignments. One document mentions MXWINDFALL/1 going on a TDY trip to Russia, which includes attending a JFK assassination conference. Another document references security clearance for Charlotte Z. Bustos-Videla for a PCS (Permanent Change of Station) or TDY assignment to Fort of Spain. The third document discusses Miguel Angel DIAZ Isalgué's TDY travel to Argentina under an alias.",
+  "key_connections": [
+    "MXWINDFALL/1",
+    "Russia",
+    "Charlotte Z. Bustos-Videla",
+    "Fort of Spain",
+    "Miguel Angel DIAZ Isalgué",
+    "Argentina"
+  ],
+  "significance": "TDY itself does not have a direct significance to the JFK assassination. However, one document mentions MXWINDFALL/1 attending a JFK assassination conference during a TDY trip to Russia, suggesting a possible indirect connection through the conference and the individual's activities.",
+  "document_ids": [
+    "104-10326-10082",
+    "104-10110-10314",
+    "104-10113-10258"
+  ]
+}

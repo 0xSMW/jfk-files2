@@ -1,0 +1,25 @@
+{
+  "entity_name": "Tolson",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Based on the provided documents, there is no mention of an entity named \"Tolson.\" The documents primarily concern FBI procedures for handling sensitive information received from the CIA, particularly from James Angleton, often related to Israeli intelligence activities (SCOPE material) and potential courier routes involving individuals like Jorge Beliard. The documents outline methods to protect Angleton's identity as a source and the CIA's involvement, referring to him as \"Bureau Informant 100.\" The timeline spans from 1954 to 1975, focusing on intelligence liaison and mail interception programs. The documents do not provide any information about an individual named Tolson or their role in the JFK assassination context.",
+  "key_connections": [
+    "James Angleton",
+    "CIA",
+    "Israeli Intelligence Service",
+    "Jorge Beliard",
+    "D.J. Brennan",
+    "W.C. Sullivan",
+    "James P. Kehoe",
+    "S.J. Papich",
+    "Mr. L'Allier"
+  ],
+  "significance": "Based on the provided documents, Tolson has no significance in the JFK context.",
+  "document_ids": [
+    "124-10326-10103",
+    "124-10274-10029_multirif_redacted",
+    "124-10326-10105",
+    "124-90137-10467",
+    "124-10326-10100"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "entity_name": "National Security",
+  "entity_type": "tag",
+  "document_count": 21,
+  "summary": "The documents reveal that \"National Security\" is a primary concern for the CIA and other government agencies in the context of the JFK assassination records release. The CIA consistently argues against the release of certain information, such as the identities of CIA employees, the locations of CIA stations (particularly in sensitive regions), and details of ongoing operations, citing potential damage to national security. This concern is evident in memoranda to the Assassination Records Review Board (ARRB) where the CIA proposes redactions, regional designations in place of specific station names, and the protection of employee names unless directly relevant to the JFK story. The documents also show that national security interests were considered in other contexts, such as military personnel decisions and covert operations planning. The CIA's stance reflects a broader pattern of balancing transparency with the perceived need to protect sensitive information and maintain operational effectiveness.",
+  "key_connections": [
+    "CIA",
+    "Assassination Records Review Board (ARRB)",
+    "JFK Assassination Records",
+    "Covert Operations",
+    "CIA Employees",
+    "Foreign Relations",
+    "Warrenton Training Center (WTC)",
+    "Cuba",
+    "South Vietnam"
+  ],
+  "significance": "In the JFK context, \"National Security\" serves as the justification for withholding or redacting information from the public record. It represents the tension between the public's right to know and the government's perceived need to protect sensitive intelligence operations, personnel, and relationships with foreign governments. The invocation of national security concerns raises questions about the extent to which these concerns are legitimate and whether they are used to shield potentially embarrassing or incriminating information related to the assassination.",
+  "document_ids": [
+    "104-10332-10021",
+    "176-10037-10493",
+    "104-10330-10026",
+    "176-10036-10086",
+    "194-10004-10356",
+    "104-10332-10020",
+    "104-10438-10237",
+    "104-10330-10083",
+    "104-10302-10000",
+    "176-10036-10131",
+    "198-10004-10076",
+    "194-10006-10197",
+    "104-10331-10154",
+    "104-10331-10338",
+    "104-10310-10020",
+    "177-10002-10101",
+    "176-10038-10032",
+    "104-10330-10044",
+    "194-10004-10355",
+    "104-10107-10178",
+    "104-10332-10002"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "entity_name": "Military Cover",
+  "entity_type": "tag",
+  "document_count": 13,
+  "summary": "Military cover, as evidenced by the documents, refers to a system of creating and maintaining false military identities and records for CIA agents and operations. This cover served to conceal the true affiliation of individuals, allowing them to operate under the guise of military personnel. The establishment and cancellation of military cover backstops involved notifications to various divisions, instructing them to block or unblock records, manage documentation, and handle related administrative tasks. The documents highlight the procedures for managing these covers, including the use of specific forms, record management protocols, and instructions for handling changes or transfers. The timeline spans from the early 1960s to the mid-1970s, indicating a sustained practice of using military cover during this period. A notable pattern is the frequent issuance of notifications for the establishment or cancellation of these covers, suggesting a dynamic system adapting to operational needs.",
+  "key_connections": [
+    "Rene L. Rodriguez",
+    "Ross Crozier",
+    "Joseph S. Piccolo",
+    "David F. Christ",
+    "Joint Operations Group",
+    "US Air Elements",
+    "U.S. Army Records Analysis",
+    "Special Affairs Staff (SAS)"
+  ],
+  "significance": "In the context of the JFK assassination, military cover is significant as it reveals the CIA's practice of concealing the identities and activities of its agents. While the documents do not directly link military cover to the assassination, they illustrate the agency's capacity for deception and its use of false identities, which could be relevant in understanding the broader context of covert operations and potential connections to the event.",
+  "document_ids": [
+    "104-10112-10186",
+    "104-10161-10001",
+    "104-10215-10004",
+    "104-10161-10115",
+    "104-10110-10328",
+    "104-10161-10154",
+    "104-10111-10086",
+    "104-10120-10290",
+    "104-10215-10099",
+    "104-10112-10204",
+    "104-10131-10028",
+    "104-10131-10111",
+    "104-10110-10340"
+  ]
+}

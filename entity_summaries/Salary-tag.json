@@ -1,0 +1,32 @@
+{
+  "entity_name": "Salary",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "The documents provided focus on salary information related to staff members of the House Select Committee on Assassinations (HSCA) and, in one instance, an individual connected to operational advances. The documents consist primarily of payroll records, authorization forms, and certification reports detailing employees' positions, salary adjustments, and employment dates. These records provide insight into the financial administration and staffing of the HSCA, including specific individuals like Patricia M. Orr, Vivian L. McPherson, Robin David Lindley, Richard A. Sprague, Thomas Howarth, Gene R. Johnson, Kenneth D. Klein, and Helen Whitney Watriss. The documents span from 1960 to 1979, with the bulk concentrated during the HSCA's active period in the late 1970s. A notable pattern is the redaction of Social Security Numbers for privacy.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Patricia M. Orr",
+    "Vivian L. McPherson",
+    "Robin David Lindley",
+    "Richard A. Sprague",
+    "Thomas Howarth",
+    "Gene R. Johnson",
+    "Kenneth D. Klein",
+    "Helen Whitney Watriss",
+    "Edward G. Tichborn"
+  ],
+  "significance": "In the context of the JFK assassination, salary information primarily serves to document the personnel and financial operations of the HSCA, which was tasked with investigating the assassination. While the salaries themselves do not directly relate to the assassination events, the records provide a detailed view of the committee's resources and staffing during its investigation. The salary records help establish a timeline of involvement for various individuals connected to the HSCA.",
+  "document_ids": [
+    "180-10125-10078",
+    "180-10060-10494",
+    "180-10060-10483",
+    "180-10060-10471",
+    "180-10070-10160",
+    "180-10060-10445",
+    "104-10174-10041",
+    "180-10060-10452",
+    "180-10070-10169",
+    "180-10060-10459",
+    "180-10125-10082"
+  ]
+}

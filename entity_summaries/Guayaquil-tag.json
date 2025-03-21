@@ -1,0 +1,27 @@
+{
+  "entity_name": "Guayaquil",
+  "entity_type": "tag",
+  "document_count": 10,
+  "summary": "Guayaquil is a city in Ecuador where the CIA maintained a station. The documents reveal that the Guayaquil station was involved in monitoring individuals of interest, such as Evelio Duque Miyar, a Cuban anti-communist and potential drug trafficker, and Alfredo Ordonez Gonzalez. The station also played a role in coordinating with the House Select Committee on Assassinations (HSCA) during their investigation, including managing the visit of HSCA staff members to Guayaquil and providing guidance to CIA personnel on how to interact with them. The documents span from 1960 to 1978, indicating a sustained CIA presence and operational activity in Guayaquil during this period. The station's activities included intelligence gathering, monitoring potential threats, and liaising with investigative bodies.",
+  "key_connections": [
+    "Evelio Duque Miyar",
+    "Alfredo Ordonez Gonzalez",
+    "House Select Committee on Assassinations (HSCA)",
+    "Quito",
+    "Caracas",
+    "Cuba"
+  ],
+  "significance": "Guayaquil's significance in the JFK context stems from its role as a CIA station that was involved in monitoring individuals and coordinating with the HSCA during their investigation into the assassination. While the documents do not directly link Guayaquil to the assassination itself, they highlight the CIA's presence and activities in the region, and its interactions with individuals who may have been of interest to the investigation. The station's coordination with the HSCA suggests that it was considered a relevant source of information for the committee's inquiries.",
+  "document_ids": [
+    "104-10169-10001",
+    "104-10169-10000",
+    "104-10067-10044",
+    "104-10067-10046",
+    "104-10065-10113",
+    "104-10065-10105",
+    "104-10169-10004",
+    "104-10169-10003",
+    "104-10216-10073",
+    "104-10169-10002"
+  ]
+}
