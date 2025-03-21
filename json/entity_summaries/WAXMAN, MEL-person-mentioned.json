@@ -1,0 +1,15 @@
+{
+  "entity_name": "WAXMAN, MEL",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Mel Waxman was an employee of the Select Committee on Assassinations (SCA). He appears in payroll and certification reports from April to December 1978. These documents list his name, salary, and employment dates within the committee. The documents do not specify his role within the SCA, but his presence on the payroll indicates he was a staff member during the committee's investigation.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Mel Waxman's significance lies in his employment with the Select Committee on Assassinations, indicating his involvement in the investigation into the JFK assassination, although the specific nature and extent of his role are not detailed in the provided documents.",
+  "document_ids": [
+    "180-10125-10078",
+    "180-10125-10087",
+    "180-10125-10083"
+  ]
+}

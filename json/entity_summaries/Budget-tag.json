@@ -1,0 +1,37 @@
+{
+  "entity_name": "Budget",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "The documents highlight various aspects of budget management, allocation, and oversight within different contexts, including covert operations, intelligence activities, and committee operations. Several documents refer to specific project budgets, such as Project LIFEAT with a budget of $99,000 and an analysis of deposits for expenses out of an $81,500 budget related to activities concerning Cuba. The Senate Select Committee's hearings discuss budgetary matters and fund reprogramming. The House Select Committee on Assassinations' payroll certifications detail employee salaries and financial management. The CIA's budget is also scrutinized in relation to contract employees and potential involvement in Watergate. Strategic budget planning is mentioned in the context of DO meetings. Overall, the documents illustrate the importance of budget considerations in the execution, oversight, and investigation of various activities.",
+  "key_connections": [
+    "Project LIFEAT",
+    "Cuba",
+    "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities",
+    "House Select Committee on Assassinations",
+    "CIA",
+    "Watergate",
+    "Project KDFACTOR",
+    "LIEMPTY project",
+    "Mexico City station",
+    "Bureau of Budget",
+    "Senate Appropriations Committee",
+    "Senate Foreign Relations Committee",
+    "FBI",
+    "Joint Chiefs",
+    "Chiang Ching-kuo"
+  ],
+  "significance": "In the context of the JFK assassination, budget information is relevant to understanding the financial resources allocated to various intelligence operations, investigations, and committee activities. The documents reveal how funds were managed and allocated for projects, personnel, and investigations related to intelligence gathering and potential connections to events surrounding the assassination. The scrutiny of the CIA's budget in relation to Watergate also highlights potential misuse of funds and attempts to conceal information.",
+  "document_ids": [
+    "104-10140-10420",
+    "104-10230-10153",
+    "180-10125-10101",
+    "104-10188-10000",
+    "157-10014-10121",
+    "104-10188-10023",
+    "104-10306-10007",
+    "104-10256-10283",
+    "180-10125-10105",
+    "104-10187-10014",
+    "104-10326-10081"
+  ]
+}

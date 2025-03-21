@@ -1,0 +1,17 @@
+{
+  "entity_name": "Sheila Jackson Lee",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Sheila Jackson Lee was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) in 1977. The documents primarily consist of payroll records and certifications that detail her employment, salary, and leave during that year. Specifically, one document is a collection of her staff payroll records from the HSCA, detailing her employment, salary adjustments, and leave records. While the documents confirm her employment with the HSCA, they do not provide specific details about her role or responsibilities within the committee's investigation into the JFK assassination. The redaction of social security numbers in the documents indicates an effort to protect personal privacy.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Sheila Jackson Lee's significance in the JFK assassination context is limited to her employment with the HSCA. The available documents do not specify her direct involvement in the investigation itself, but rather document her employment and compensation as a staff member.",
+  "document_ids": [
+    "180-10125-10107",
+    "180-10125-10096",
+    "180-10060-10467",
+    "180-10125-10094",
+    "180-10060-10442"
+  ]
+}

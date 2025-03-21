@@ -1,0 +1,25 @@
+{
+  "entity_name": "Compromise",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents highlight instances of potential or actual compromise involving CIA personnel and operations. David E. Murphy faced potential compromise to the North Vietnamese Intelligence Service. Peter J. DiGervino's potential exposure to foreign intelligence services was investigated before a mission in Madrid. Operation AMFAUNA-26 in Cuba suffered communication failures and the arrest of the agent, indicating a compromise. William K. Harvey was compromised when Robert Glenn Thompson provided information about him to the Soviets. These instances suggest concerns about security and potential vulnerabilities within CIA operations during the Cold War era.",
+  "key_connections": [
+    "David E. Murphy",
+    "North Vietnamese Intelligence Service",
+    "Peter J. DiGervino",
+    "Thomas K. Strange",
+    "Marvin Wehking",
+    "AMFAUNA-26",
+    "Cuba",
+    "Robert Glenn Thompson",
+    "William K. Harvey",
+    "Soviets"
+  ],
+  "significance": "While not directly linked to the JFK assassination in these documents, the theme of 'Compromise' underscores the security challenges and vulnerabilities faced by the CIA during the Cold War. These vulnerabilities could potentially have indirect relevance to the JFK assassination context if they reveal broader patterns of security lapses or counterintelligence failures within the agency.",
+  "document_ids": [
+    "104-10224-10002",
+    "104-10161-10331",
+    "104-10308-10127",
+    "124-90092-10001"
+  ]
+}

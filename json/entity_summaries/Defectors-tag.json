@@ -1,0 +1,40 @@
+{
+  "entity_name": "Defectors",
+  "entity_type": "tag",
+  "document_count": 15,
+  "summary": "The documents refer to \"defectors\" primarily in the context of individuals who have defected from the Soviet Union or Cuba to the United States, or vice versa. These individuals are of interest to the CIA and FBI for intelligence gathering, counterintelligence, and security purposes. The documents reveal that the CIA routinely debriefed returning American defectors and maintained files on individuals who traveled to the USSR. The handling of defectors involved coordination between different government agencies, including the FBI and the Secret Service. Some documents discuss the potential for defectors to cause security breaches or create trouble, leading to the creation of watch lists. The documents also touch upon the CIA's efforts to identify potential defectors from Cuba and the review of Warren Commission documents related to dealings with defectors.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "CIA",
+    "FBI",
+    "Soviet Union",
+    "Cuba",
+    "House Select Committee on Assassinations (HSCA)",
+    "Warren Commission",
+    "Secret Service",
+    "James Angleton",
+    "J. Edgar Hoover",
+    "William Hamilton Martin",
+    "Bernon Ferguson Mitchell",
+    "Manuel Ray",
+    "Brezhnev"
+  ],
+  "significance": "In the context of the JFK assassination, the documents suggest that defectors are relevant due to the investigation into whether Lee Harvey Oswald, who lived in the Soviet Union, was debriefed by the CIA upon his return. The HSCA investigated the CIA's practices regarding returning defectors to determine if Oswald was among those debriefed. The documents also highlight the CIA's interest in defectors as potential sources of information about Soviet activities and intentions, which could have implications for understanding Oswald's time in the USSR and his possible connections to foreign intelligence agencies.",
+  "document_ids": [
+    "180-10143-10070",
+    "180-10143-10152",
+    "104-10187-10142",
+    "180-10147-10176",
+    "157-10014-10006",
+    "157-10011-10093",
+    "104-10219-10154",
+    "104-10422-10054",
+    "104-10425-10008",
+    "104-10106-10143",
+    "104-10179-10104",
+    "178-10004-10396",
+    "180-10144-10068",
+    "124-10185-10100",
+    "104-10172-10264"
+  ]
+}

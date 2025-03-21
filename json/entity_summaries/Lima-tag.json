@@ -1,0 +1,20 @@
+{
+  "entity_name": "Lima",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Lima is mentioned in the documents primarily as a location where CIA stations received information or where events related to Cuban interests occurred. In one instance, a classified message regarding Grace Holmes and a P.O. box in Coral Gables, Florida, was sent to CIA stations in Mexico City, Bogota, Lima, and Guatemala. Another document discusses an attack on a Cuban Embassy attache's house in Lima, Peru, and references coordination of United Revolutionary Organizations. The American Embassy did not submit a report. The documents suggest Lima's relevance lies in its role as a point of communication for CIA activities and as a site of anti-Cuban activity.",
+  "key_connections": [
+    "Grace Holmes",
+    "Mexico City",
+    "Bogota",
+    "Guatemala",
+    "Cuban Embassy",
+    "United Revolutionary Organizations"
+  ],
+  "significance": "Lima's significance in the JFK context is indirect, primarily serving as a location where CIA stations received information related to individuals or events of interest, such as Grace Holmes and anti-Cuban activities. The documents suggest that Lima was a node in the network of CIA communications and a site of potential conflict related to Cuban interests during the period.",
+  "document_ids": [
+    "104-10101-10124",
+    "124-10280-10057",
+    "104-10290-10055"
+  ]
+}

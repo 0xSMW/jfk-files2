@@ -1,0 +1,25 @@
+{
+  "entity_name": "Logistics",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The documents highlight various logistical aspects of CIA operations, including the shipment of goods, maintenance of safehouses, provisioning networks, and communication infrastructure. These logistical operations span across different geographical locations, including Frankfurt, Silver Spring (MD), various European, American, and Far Eastern cities, and Corpus Christi. The documents reveal the importance of secure and efficient supply chains, secure communications, and the maintenance of operational infrastructure. Specific examples include tracing missing shipments, managing safehouses, maintaining communication equipment, and coordinating the delivery of cartridges. The documents also touch upon the procurement of ammunition, highlighting the need to balance logistical advantages with security risks. The timeline spans from 1963 to 1974, indicating ongoing logistical activities during this period. A notable pattern is the emphasis on secure and discreet operations, as evidenced by the use of code names (APROVIZION), classified messages, and concerns about security risks associated with certain individuals.",
+  "key_connections": [
+    "Frankfurt",
+    "Safehouse #405",
+    "APROVIZION",
+    "Corpus Christi",
+    "I. Irving Davidson",
+    "Collins Modem Field Service Engineer",
+    "MIDW (Mexico City)"
+  ],
+  "significance": "In the context of the JFK assassination, the logistical aspects are important for understanding the operational capabilities and activities of the CIA during the relevant period. While the documents do not directly mention the assassination, they provide insights into the infrastructure, resources, and methods used by the agency, which could be relevant for investigating potential connections or activities related to the event. The documents highlight the CIA's global reach and its reliance on complex logistical networks to support its operations.",
+  "document_ids": [
+    "104-10077-10076",
+    "104-10185-10202",
+    "104-10209-10164",
+    "104-10529-10367",
+    "104-10216-10100",
+    "104-10107-10180",
+    "104-10100-10237"
+  ]
+}

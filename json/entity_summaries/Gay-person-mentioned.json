@@ -1,0 +1,13 @@
+{
+  "entity_name": "Gay",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, there is no mention of an entity named \"Gay.\" The documents primarily concern the payroll records of staff members of the House Select Committee on Assassinations (HSCA). The documents include payroll authorization forms, memoranda, and notifications from the Assassination Records Review Board regarding the postponement of the release of certain information, such as Social Security numbers, from these records. The names mentioned in the documents are Patricia M. Orr, Jacqueline Hess, and S. Jonathan Blackmer.",
+  "key_connections": [],
+  "significance": "Based on the provided documents, the entity \"Gay\" has no significance in the JFK context.",
+  "document_ids": [
+    "180-10060-10494",
+    "180-10060-10440",
+    "180-10068-10310"
+  ]
+}

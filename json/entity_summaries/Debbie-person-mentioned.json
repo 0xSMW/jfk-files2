@@ -1,0 +1,17 @@
+{
+  "entity_name": "Debbie",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, the only information available about \"Debbie\" is that she is mentioned in journal entries from the Office of Legislative Counsel dated November 10, 1977. The journal entries detail various activities, including employment requests, liaison with congressional offices, and security matters related to the House Select Committee on Assassinations and the Senate Select Committee on Intelligence. However, the specific role or context of \"Debbie\" within these activities is not specified in the summaries. Without further information, it is impossible to determine her significance or involvement in the JFK assassination context.",
+  "key_connections": [
+    "House Select Committee on Assassinations",
+    "Senate Select Committee on Intelligence",
+    "Office of Legislative Counsel"
+  ],
+  "significance": "Insufficient information to determine significance in the JFK context.",
+  "document_ids": [
+    "104-10142-10317",
+    "104-10142-10279",
+    "104-10140-10101"
+  ]
+}

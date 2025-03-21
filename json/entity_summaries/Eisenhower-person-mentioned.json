@@ -1,0 +1,24 @@
+{
+  "entity_name": "Eisenhower",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "summary": "Dwight D. Eisenhower is mentioned in the documents primarily in the context of discussions and investigations related to potential assassinations of foreign leaders during his presidency. Specifically, his role as president during the planning stages of potential assassinations of leaders like Trujillo, Castro, and Lumumba is examined. The documents raise questions about the extent of his knowledge and authorization of these plans, as well as the command and control system for covert actions during his administration. While not directly linked to the JFK assassination, the documents suggest an examination of the historical context of covert operations and potential assassination plots during the Eisenhower era, which could indirectly inform the understanding of similar activities during the Kennedy administration.",
+  "key_connections": [
+    "Gordon Gray",
+    "Trujillo",
+    "Castro",
+    "Lumumba"
+  ],
+  "significance": "Eisenhower's significance lies in the historical context of covert operations and potential assassination plots during his presidency. The documents suggest an examination of the historical context of covert operations and potential assassination plots during the Eisenhower era, which could indirectly inform the understanding of similar activities during the Kennedy administration.",
+  "document_ids": [
+    "176-10033-10151",
+    "104-10308-10208",
+    "104-10306-10011",
+    "157-10014-10100",
+    "104-10164-10032",
+    "180-10143-10072",
+    "104-10306-10016",
+    "124-10279-10258",
+    "157-10014-10151"
+  ]
+}

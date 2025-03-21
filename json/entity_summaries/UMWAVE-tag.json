@@ -1,0 +1,20 @@
+{
+  "entity_name": "UMWAVE",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "UMWAVE appears to be a CIA station involved in Cuban operations during the early 1960s. One document indicates UMWAVE was involved in planning the training of ALICE INFILS for future operations and requested Personnel Assessments (POAs) for individuals like Danilo Pozo Castro and Miguel A. Diaz Isalque. While the other documents do not directly mention UMWAVE, they describe activities in Cuba, such as the movement of Soviets and cargo between Batabano and Isla de Pinos, and observations of truck traffic and tube-like objects entering the Torrens base. These activities suggest UMWAVE was likely monitoring and involved in intelligence gathering related to Cuban activities during this period.",
+  "key_connections": [
+    "ALICE INFILS",
+    "Danilo Pozo Castro",
+    "Miguel A. Diaz Isalque",
+    "Batabano",
+    "Isla de Pinos",
+    "Torrens Base"
+  ],
+  "significance": "UMWAVE's significance in the JFK context lies in its potential involvement in covert operations and intelligence gathering related to Cuba during the period leading up to the assassination. The documents suggest UMWAVE was actively monitoring Cuban activities, including Soviet presence and military developments. Its role in training ALICE INFILS and requesting POAs indicates involvement in more direct actions. The extent to which these activities are directly related to the JFK assassination is not explicitly stated in these documents, but the context suggests a connection to the broader US-Cuban relations and covert operations of the time.",
+  "document_ids": [
+    "104-10076-10371",
+    "104-10183-10376",
+    "104-10076-10372"
+  ]
+}

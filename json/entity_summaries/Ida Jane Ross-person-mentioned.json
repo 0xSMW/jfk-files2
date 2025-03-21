@@ -1,0 +1,20 @@
+{
+  "entity_name": "Ida Jane Ross",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Ida Jane Ross is identified as an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA). Her name appears in several payroll certifications and certification reports spanning from 1977 to 1978. These documents detail her inclusion in the committee's staff, indicating her role during the HSCA's investigation into the JFK assassination. The documents list her name alongside other committee employees, their positions, salaries, and pay period earnings. The consistent appearance of her name across multiple payroll documents suggests continuous employment with the HSCA during the specified period.",
+  "key_connections": [
+    "Louis Parisi",
+    "Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Ida Jane Ross's significance lies in her employment with the HSCA, contributing to the investigation into the JFK assassination. While the specific nature of her role isn't detailed in these documents, her presence on the payroll indicates her involvement in the committee's operations during a crucial period of investigation.",
+  "document_ids": [
+    "180-10060-10498",
+    "180-10125-10081",
+    "180-10125-10107",
+    "180-10125-10096",
+    "180-10125-10079",
+    "180-10125-10086",
+    "180-10125-10094"
+  ]
+}

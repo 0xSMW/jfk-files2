@@ -1,0 +1,20 @@
+{
+  "entity_name": "Vance",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, \"Vance\" is mentioned in the context of Operation MONGOOSE, Cuban subversion in Latin America, and covert operations against Cuba and North Vietnam. The documents suggest involvement in discussions by the Special Group Augmented regarding reconnaissance of Cuba and potential actions against Castro. The documents also mention Cuban support for revolutionary movements through training, propaganda, and funding, as well as analysis of rival forces and Soviet interests in the region. Additionally, Vance is mentioned in connection with covert operations against Cuba and North Vietnam, including sabotage plans, psychological warfare tactics, and reconnaissance activities. The timeline of involvement spans from 1963 to 1975, indicating a sustained interest or role in these activities.",
+  "key_connections": [
+    "Operation MONGOOSE",
+    "Special Group Augmented",
+    "Castro",
+    "Cuba",
+    "North Vietnam",
+    "Soviet Union"
+  ],
+  "significance": "The significance of \"Vance\" in the JFK context lies in their potential involvement in covert operations against Cuba, particularly those related to Operation MONGOOSE and the broader efforts to counter Cuban subversion and Soviet influence in the region. These activities were relevant to the political climate and tensions surrounding the JFK administration.",
+  "document_ids": [
+    "157-10011-10007",
+    "198-10009-10099",
+    "104-10306-10010"
+  ]
+}

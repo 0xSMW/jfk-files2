@@ -1,0 +1,20 @@
+{
+  "entity_name": "Inspector General",
+  "entity_type": "recipient",
+  "document_count": 4,
+  "summary": "The Inspector General (IG) of the CIA is the recipient of reports and memoranda related to internal investigations, particularly concerning E. Howard Hunt's activities and potential financial improprieties. The documents reveal the IG's role in overseeing investigations into Hunt's assignment in Madrid, financial transactions, and connections to Watergate-related events. The IG also received reports on questionable activities, such as a proposed assassination plot against Raul Castro. The timeline spans from the mid-1960s (Hunt's assignment) to the early 1970s, with investigations occurring in 1973 and 1974. A notable pattern is the focus on financial accountability and potential misuse of funds, as well as the IG's role in ensuring internal oversight and addressing concerns related to domestic operations and Watergate.",
+  "key_connections": [
+    "E. Howard Hunt",
+    "Director of Finance",
+    "Raul Castro",
+    "Cubana Airline",
+    "Watergate"
+  ],
+  "significance": "In the context of the JFK assassination and related investigations, the Inspector General's office is significant as an internal oversight body within the CIA. The documents highlight the IG's role in investigating potential wrongdoing and ensuring accountability within the agency, particularly concerning individuals like E. Howard Hunt who were later implicated in controversial events. While the documents do not directly relate to the JFK assassination, they illustrate the IG's function in addressing concerns about financial irregularities, operational conduct, and potential connections to other sensitive matters.",
+  "document_ids": [
+    "104-10173-10130",
+    "178-10002-10185",
+    "104-10103-10038",
+    "104-10173-10132"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "entity_name": "Salaries",
+  "entity_type": "tag",
+  "document_count": 18,
+  "summary": "The documents primarily consist of payroll and certification reports from the U.S. House of Representatives Select Committee on Assassinations (HSCA). These reports detail the salaries of the committee's employees, including their positions, annual salaries, and pay period earnings. The reports cover various periods, mainly from 1977 to 1979, and provide a record of the financial aspects of the committee's operations. The documents list employee names, social security numbers, positions, salaries, and employment dates for specific accounting periods. A notable pattern is the consistent reporting of employee compensation details, reflecting the HSCA's administrative functions.",
+  "key_connections": [
+    "Select Committee on Assassinations",
+    "U.S. House of Representatives",
+    "Employees of the Select Committee on Assassinations"
+  ],
+  "significance": "In the context of the JFK assassination, the salaries represent the financial resources allocated to the Select Committee on Assassinations, which was responsible for investigating the assassination. These records provide insight into the operational costs and staffing of the committee, though they do not directly reveal information about the assassination itself. They are significant for understanding the scope and resources dedicated to the investigation.",
+  "document_ids": [
+    "180-10125-10080",
+    "180-10125-10079",
+    "180-10125-10075",
+    "180-10125-10091",
+    "180-10125-10087",
+    "180-10125-10100",
+    "180-10125-10086",
+    "180-10125-10090",
+    "180-10125-10103",
+    "180-10125-10085",
+    "180-10125-10093",
+    "180-10125-10089",
+    "180-10125-10088",
+    "180-10125-10092",
+    "180-10125-10084",
+    "180-10125-10076",
+    "180-10125-10083",
+    "180-10125-10077"
+  ]
+}

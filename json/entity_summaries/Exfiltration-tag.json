@@ -1,0 +1,28 @@
+{
+  "entity_name": "Exfiltration",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The documents highlight 'Exfiltration' primarily in the context of CIA operations related to Cuban assets and agents. These operations involve the extraction of agents and their families from Cuba, often under challenging circumstances. The documents detail specific instances, such as the exfiltration of AMFAUMA-25, the unsuccessful attempt to exfiltrate the family of AMLEO-3, and the planned exfiltration of a team from Matanzas Province as part of ANTRUNK VII. These operations were fraught with risks, including potential exposure and communication difficulties. The documents also reveal the use of various methods and resources for exfiltration, including boats (M/V ADA) and potential communication channels through embassies. The timeline spans from 1963 to 1967, indicating sustained efforts to manage and extract assets from Cuba during this period.",
+  "key_connections": [
+    "AMFAUMA-25",
+    "AMLEO-3",
+    "Project AMTRUNK",
+    "ANTEUHK VII",
+    "M/V ADA",
+    "Cuba",
+    "JMWAVE",
+    "Mitchell L. WER-BELL",
+    "Emilio SANTANA Galindo"
+  ],
+  "significance": "In the context of the JFK assassination, 'Exfiltration' is significant as it underscores the CIA's active involvement in covert operations against Cuba during the early 1960s. These operations, aimed at gathering intelligence, recruiting dissidents, and potentially destabilizing the Cuban government, reflect the intense geopolitical tensions of the Cold War era. While the documents do not directly link exfiltration operations to the assassination, they provide insight into the clandestine activities and the operational environment in which individuals and groups potentially connected to the assassination plot may have operated. The connections to individuals like AMLEO-3 and the mention of potential exposure due to the Garrison investigation suggest a complex web of relationships and activities that warrant further scrutiny in the context of the JFK assassination.",
+  "document_ids": [
+    "104-10103-10112",
+    "104-10075-10365",
+    "104-10075-10250",
+    "104-10216-10148",
+    "104-10182-10137",
+    "104-10308-10062",
+    "104-10170-10146",
+    "104-10076-10000"
+  ]
+}

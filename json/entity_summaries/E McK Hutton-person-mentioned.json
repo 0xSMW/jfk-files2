@@ -1,0 +1,19 @@
+{
+  "entity_name": "E McK Hutton",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "E McK Hutton was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA). Hutton's name appears on several payroll and certification reports spanning from 1977 to 1978. These documents detail Hutton's position, annual salary, and gross pay for various accounting periods. The consistent appearance of Hutton's name across multiple payroll certifications indicates continuous employment with the HSCA during the specified timeframe.",
+  "key_connections": [
+    "Select Committee on Assassinations",
+    "U.S. House of Representatives"
+  ],
+  "significance": "E McK Hutton's significance lies in their employment with the HSCA, contributing to the committee's investigation into the JFK assassination. While the specific role is not detailed in these documents, their presence on payroll and certification reports confirms their involvement in the committee's operations.",
+  "document_ids": [
+    "180-10125-10081",
+    "180-10125-10107",
+    "180-10125-10096",
+    "180-10125-10079",
+    "180-10125-10086",
+    "180-10125-10094"
+  ]
+}

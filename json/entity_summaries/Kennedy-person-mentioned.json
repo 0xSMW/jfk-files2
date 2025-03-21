@@ -1,0 +1,25 @@
+{
+  "entity_name": "Kennedy",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "The documents mention \"Kennedy\" in the context of discussions and investigations into potential U.S. involvement in assassination plots against foreign leaders and covert operations, particularly those related to Cuba and the Dominican Republic. The documents suggest that during Kennedy's administration, covert actions, including potential assassination plots and sabotage operations, were discussed and considered by high-level authorities within the U.S. government. The documents also refer to investigations into these activities, including the Select Committee on Assassinations (SSCIA) report, which examined allegations of U.S. involvement in assassination plots against foreign political leaders.",
+  "key_connections": [
+    "General Lansdale",
+    "Richard Bissell",
+    "McGeorge Bundy",
+    "Trujillo",
+    "Cuba",
+    "Dominican Republic",
+    "Special Group",
+    "Select Committee on Assassinations (SSCIA)"
+  ],
+  "significance": "The significance of \"Kennedy\" in the JFK context, based on these documents, lies in the fact that these covert operations and discussions occurred during his presidency. The documents suggest that the Kennedy administration considered and possibly authorized actions that could be interpreted as violations of international law and U.S. policy. The investigations into these activities, including the SSCIA report, were aimed at determining the extent of U.S. involvement in assassination plots and other covert actions during this period.",
+  "document_ids": [
+    "157-10005-10236",
+    "104-10435-10071",
+    "176-10033-10151",
+    "104-10114-10162",
+    "157-10008-10238",
+    "157-10014-10151"
+  ]
+}

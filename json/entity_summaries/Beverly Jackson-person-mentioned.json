@@ -1,0 +1,15 @@
+{
+  "entity_name": "Beverly Jackson",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Beverly Jackson is identified as an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) based on payroll and certification reports from 1978. The documents list her position and salary during the specified periods. The reports cover the months of May, October, and November of 1978, indicating her employment with the committee during that time.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Beverly Jackson's significance lies in her role as an employee of the HSCA, contributing to the committee's investigation into the JFK assassination. The payroll and certification documents provide a record of her employment and compensation during the period of the investigation.",
+  "document_ids": [
+    "180-10125-10081",
+    "180-10125-10079",
+    "180-10125-10086"
+  ]
+}

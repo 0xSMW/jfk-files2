@@ -1,0 +1,34 @@
+{
+  "entity_name": "All Staff Employees",
+  "entity_type": "recipient",
+  "document_count": 13,
+  "summary": "The \"All Staff Employees\" entity refers to the personnel employed by the House Select Committee on Assassinations (HSCA). The documents primarily concern the release status of HSCA staff payroll records, with a focus on the postponement of Social Security numbers to protect personal privacy. The Assassination Records Review Board (ARRB) issued multiple Final Determination Notifications regarding these records, citing privacy concerns as the reason for postponing the release of Social Security numbers. These records include payroll authorization forms, resumes, leave records, and related correspondence for individual employees such as Antoinette M. Roberts, Donald A. Purdy, Jr., Sari Mordana, Ann Furnald Taylor, Elizabeth Ann Wolf, Denise L. McCray, Kevin Sean Doyle, and Jane E. Godfrey. The documents span from 1976 to 1995, reflecting the period of HSCA's operation and the subsequent review of its records. A recurring pattern is the ARRB's consistent decision to postpone the release of Social Security numbers to prevent unwarranted invasions of privacy.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board (ARRB)",
+    "Antoinette M. Roberts",
+    "Donald A. Purdy, Jr.",
+    "Sari Mordana",
+    "Ann Furnald Taylor",
+    "Elizabeth Ann Wolf",
+    "Denise L. McCray",
+    "Kevin Sean Doyle",
+    "Jane E. Godfrey"
+  ],
+  "significance": "The significance of HSCA staff employees in the JFK assassination context lies in their involvement in the investigation conducted by the HSCA. Their payroll records, while not directly revealing investigative findings, are subject to review and potential release as part of the broader effort to make assassination-related documents publicly available. The ARRB's decisions regarding the release of these records reflect the balance between transparency and the protection of personal privacy.",
+  "document_ids": [
+    "180-10060-10499",
+    "180-10070-10146",
+    "180-10071-10001",
+    "180-10071-10000",
+    "180-10068-10312",
+    "180-10068-10345",
+    "180-10060-10486",
+    "180-10070-10163",
+    "180-10060-10465",
+    "180-10070-10174",
+    "180-10060-10480",
+    "180-10068-10337",
+    "180-10068-10357"
+  ]
+}

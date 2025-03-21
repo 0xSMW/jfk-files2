@@ -1,0 +1,20 @@
+{
+  "entity_name": "Richard Nixon",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Richard Nixon is mentioned in several documents related to U.S. actions in Cuba, the Watergate break-in, and CIA activities. One document includes Nixon's summary of his meeting with Fidel Castro in 1959. Another document references the Watergate break-in, which eventually led to Nixon's resignation. While these documents do not directly implicate Nixon in the JFK assassination, they place him within the broader context of U.S. political history during the Cold War and the period surrounding the assassination. The documents highlight Nixon's involvement in key events and decisions during his political career.",
+  "key_connections": [
+    "Fidel Castro",
+    "CIA",
+    "Watergate"
+  ],
+  "significance": "While the documents provided do not directly link Richard Nixon to the JFK assassination, they highlight his involvement in significant historical events and political contexts relevant to the era. His meeting with Fidel Castro and the Watergate scandal are key events that shape the political landscape during the time of the JFK assassination.",
+  "document_ids": [
+    "104-10301-10004",
+    "124-10183-10277_multirif_redacted",
+    "104-10256-10268",
+    "180-10111-10051",
+    "104-10119-10182",
+    "124-10183-10279_multirif_redacted"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "entity_name": "Jack Ruby",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Jack Ruby is mentioned in the context of the JFK assassination investigation. The documents indicate that the CIA was questioned by the Warren Commission about Ruby's connection to Lee Harvey Oswald. He is a key figure because he assassinated Lee Harvey Oswald, the accused assassin of President Kennedy. The documents suggest the Warren Commission and later the House Select Committee on Assassinations (HSCA) investigated possible connections between Ruby, Oswald, and other individuals or organizations, including anti-Castro Cuban groups. The CIA provided information and participated in meetings with these investigative bodies regarding Ruby.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Warren Commission",
+    "House Select Committee on Assassinations (HSCA)",
+    "Anti-Castro Cuban groups"
+  ],
+  "significance": "Jack Ruby's significance lies in his role as the assassin of Lee Harvey Oswald, the accused assassin of President John F. Kennedy. His actions and potential connections to Oswald and other groups were investigated by the Warren Commission and the HSCA to determine if there was a broader conspiracy behind Kennedy's assassination.",
+  "document_ids": [
+    "180-10145-10269",
+    "157-10002-10165",
+    "104-10305-10005",
+    "104-10302-10022",
+    "180-10145-10295",
+    "104-10079-10016",
+    "157-10004-10144"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "entity_name": "Bureau Informant 100",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "\"Bureau Informant 100\" refers to a procedure established by the FBI in 1954 for handling information received from James Angleton of the CIA. This information was largely sourced from a liaison arrangement with the Israeli Intelligence Service. The FBI memos discuss the handling of this sensitive information and the eventual recommendation to discontinue a separate control file for it, as the information was already recorded in separate case files and deemed obsolete. The procedure involved the CIA forwarding information by courier in sealed envelopes.",
+  "key_connections": [
+    "James Angleton",
+    "CIA",
+    "Israeli Intelligence Service",
+    "D.J. Brennan",
+    "W.C. Sullivan",
+    "SCOPE material"
+  ],
+  "significance": "The significance of \"Bureau Informant 100\" in the JFK context is related to the handling of sensitive information received from the CIA, particularly concerning Israeli intelligence activities. While the documents do not directly link this informant to the JFK assassination, the connection to James Angleton and the handling of sensitive intelligence information may be of interest to researchers investigating potential connections or intelligence failures related to the assassination.",
+  "document_ids": [
+    "124-10326-10103",
+    "124-10326-10104",
+    "124-10326-10105"
+  ]
+}

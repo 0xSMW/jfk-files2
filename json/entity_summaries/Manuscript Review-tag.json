@@ -1,0 +1,21 @@
+{
+  "entity_name": "Manuscript Review",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The manuscript review process pertains to a manuscript written by David Phillips, a former CIA employee, titled \"The Night Watch.\" The CIA initiated a review to identify any classified information, material not yet in the public domain, or information learned during Phillips' employment that could potentially compromise security, operations, or the Agency's reputation. Multiple CIA divisions were involved in this review, with concerns raised about specific content, including the identification of Camp Perry as a CIA training site and the mention of CIA facilities, programs, and techniques, such as the use of audio devices. The review process involved routing the manuscript through various departments and documenting comments and concerns.",
+  "key_connections": [
+    "David Phillips",
+    "CIA",
+    "Camp Perry",
+    "Robert R. Kierce",
+    "John H. Stein"
+  ],
+  "significance": "While the documents don't explicitly link the manuscript review to the JFK assassination, David Phillips' involvement with the CIA and his subsequent writing about his experiences could be of interest to researchers investigating potential CIA connections to the assassination. The review process itself highlights the CIA's concern about protecting classified information and its reputation, which could be relevant in understanding the agency's actions and potential involvement in events surrounding the assassination.",
+  "document_ids": [
+    "104-10105-10126",
+    "104-10105-10130",
+    "104-10105-10120",
+    "104-10105-10137",
+    "104-10105-10133"
+  ]
+}

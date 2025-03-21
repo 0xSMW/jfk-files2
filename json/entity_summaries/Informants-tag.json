@@ -1,0 +1,27 @@
+{
+  "entity_name": "Informants",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The documents highlight the use of informants by various agencies, including the FBI and CIA, in gathering information related to individuals and organizations of interest. Informants were utilized to collect details on subjects like Alfonso Rudolph Michirich, Santiago Alvarez Rodriguez, Francisco Rodriguez Tamayo, and Cuban exiles potentially involved with the DEA. The information obtained from informants was used for investigations, background checks, and to assess potential threats or involvement in illegal activities. The documents span from 1958 to 1976, indicating a sustained reliance on informants for intelligence gathering during this period. A notable pattern is the protection of sensitive sources and methods, as seen in the context of Congressional inquiries and the need to safeguard ongoing investigations.",
+  "key_connections": [
+    "Alfonso Rudolph Michirich",
+    "Santiago Alvarez Rodriguez",
+    "Francisco Rodriguez Tamayo",
+    "Cuban exiles",
+    "FBI",
+    "CIA",
+    "DEA",
+    "Senate Select Committee on Intelligence Activities",
+    "United States Customs Office"
+  ],
+  "significance": "In the context of the JFK assassination, the use of informants is significant because it reflects the intelligence community's broader efforts to monitor and gather information on individuals and groups, including those potentially involved in anti-Castro activities or other areas of interest. While these documents do not directly link informants to the assassination, they illustrate the operational landscape in which such information gathering took place, and the potential for informants to provide leads or insights into related events and individuals.",
+  "document_ids": [
+    "104-10131-10099",
+    "124-10332-10047",
+    "124-10221-10231",
+    "124-90130-10005",
+    "104-10177-10239",
+    "124-10271-10299_multirif",
+    "124-10276-10400 (c06716411)"
+  ]
+}

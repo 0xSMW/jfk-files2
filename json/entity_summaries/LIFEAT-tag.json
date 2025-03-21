@@ -1,0 +1,26 @@
+{
+  "entity_name": "LIFEAT",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "Project LIFEAT was a CIA unilateral telephone tap operation conducted in Mexico City, primarily targeting Soviet, Satellite, and Cuban agents, as well as official foreign installations. The operation involved intercepting telephone communications from embassies and key individuals. It required significant financial investment, with a budget of $99,000 for the period of July 1962 to June 1963. The operation involved phone tapping, technical support, security measures, and personnel recruitment. LIFEAT is connected to other projects such as LIENVOY and LINOG, and involved personnel in Mexico City. The documents span from 1957 to 1968, with a concentration in the early 1960s, indicating the period of intense activity. The documents reveal operational details, personnel management, and security concerns related to the project.",
+  "key_connections": [
+    "LIENVOY",
+    "LINOG",
+    "Soviet agents",
+    "Cuban agents",
+    "Satellite agents",
+    "Mexico City Station",
+    "KDMANGO"
+  ],
+  "significance": "LIFEAT's significance in the JFK assassination context lies in its potential to have gathered intelligence on individuals or groups who may have been involved in the assassination. The surveillance of Soviet, Cuban, and satellite targets in Mexico City could have yielded information relevant to understanding potential foreign involvement or knowledge of the assassination plot. The connections to other projects like LIENVOY and LINOG suggest a broader intelligence network operating in Mexico, which may have intersected with individuals or events related to the assassination.",
+  "document_ids": [
+    "104-10187-10030",
+    "104-10188-10000",
+    "104-10188-10003",
+    "104-10188-10002",
+    "104-10211-10326",
+    "104-10101-10198",
+    "104-10413-10053",
+    "104-10301-10010"
+  ]
+}

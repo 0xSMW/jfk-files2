@@ -1,0 +1,23 @@
+{
+  "entity_name": "Emigration",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents discuss emigration in the context of American defectors in the USSR and the departure of Lee Harvey Oswald and his wife from the USSR. Specifically, the documents mention William Hamilton Martin and Bernon Ferguson Mitchell, two American defectors seeking to leave the USSR in 1975. One cable discusses Vernon Mitchell's potential emigration to Canada. Additionally, a memorandum from 1964 details a discussion regarding inconsistencies between CIA and State Department information concerning the OSWALDs' departure from the USSR, which was relevant to the Warren Commission's investigation into the JFK assassination. The documents highlight the interest of US agencies in the movements and potential emigration plans of individuals who had connections to the USSR, either through defection or prior residence.",
+  "key_connections": [
+    "William Hamilton Martin",
+    "Bernon Ferguson Mitchell",
+    "Vernon Mitchell",
+    "Lee Harvey Oswald",
+    "USSR",
+    "Canada",
+    "Warren Commission",
+    "CIA",
+    "Department of State"
+  ],
+  "significance": "In the JFK context, emigration is significant because it relates to the movements and background of Lee Harvey Oswald, particularly his time spent in the USSR and his subsequent return to the United States. The inconsistencies in the information provided by the CIA and the State Department regarding the OSWALDs' departure from the USSR raised questions during the Warren Commission's investigation.",
+  "document_ids": [
+    "104-10219-10154",
+    "104-10219-10064",
+    "104-10004-10213"
+  ]
+}

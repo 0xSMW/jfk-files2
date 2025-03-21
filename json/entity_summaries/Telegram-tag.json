@@ -1,0 +1,28 @@
+{
+  "entity_name": "Telegram",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The documents mention 'Telegram' primarily as a medium of communication used by various entities, including the CIA, anti-Castro groups, and individuals. Telegrams are used to transmit information, instructions, and confirmations. In the context of these documents, telegrams serve as a means of relaying intelligence, coordinating operations, and confirming financial transactions. They highlight the importance of timely communication in intelligence gathering, covert operations, and administrative processes during the period covered by the documents. The content of the telegrams ranges from reporting on potential coups and diplomatic relations to providing instructions for surveillance and confirming payments.",
+  "key_connections": [
+    "CIA",
+    "Orlando Bosch Avila",
+    "Associated Press",
+    "Nguyen Khanh",
+    "Royal Cambodian Government",
+    "Manuel Vega",
+    "Edvard G. Tichborn",
+    "Pham Ngoc Thao",
+    "Duong Van Minh",
+    "Le Van Kim",
+    "Nguyen Khanh"
+  ],
+  "significance": "While 'Telegram' itself isn't directly linked to the JFK assassination in these documents, the use of telegrams as a communication method underscores the operational environment and information flow within intelligence agencies and related organizations during the period leading up to and following the assassination. The documents highlight the types of information being transmitted and the entities involved in these communications, providing context for understanding the broader intelligence landscape of the time.",
+  "document_ids": [
+    "104-10164-10050",
+    "176-10036-10131",
+    "176-10036-10079",
+    "104-10101-10198",
+    "104-10174-10030",
+    "176-10036-10134"
+  ]
+}

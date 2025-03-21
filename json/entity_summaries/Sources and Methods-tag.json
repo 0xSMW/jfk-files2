@@ -1,0 +1,23 @@
+{
+  "entity_name": "Sources and Methods",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The term 'Sources and Methods' refers to the confidential means and resources used by intelligence agencies, particularly the CIA, to gather information and conduct operations. Protecting these sources and methods is crucial for maintaining the effectiveness and security of intelligence activities. The documents highlight concerns about the potential compromise of sensitive information related to CIA operations, particularly in the context of investigations into the JFK assassination and related matters. The documents reveal a consistent effort to balance transparency and cooperation with oversight bodies like the Senate Select Committee on Intelligence (SSCI) with the need to safeguard classified information that could jeopardize ongoing operations, damage relationships with foreign intelligence services, or expose individuals involved in intelligence gathering. The documents also show the CIA's concern about protecting sources and methods from being revealed in publications, such as E. Howard Hunt's memoir.",
+  "key_connections": [
+    "CIA",
+    "Senate Select Committee on Intelligence (SSCI)",
+    "Lee Harvey Oswald",
+    "Mexico City",
+    "E. Howard Hunt",
+    "Office of Security (OS)",
+    "Mexican liaison service"
+  ],
+  "significance": "In the JFK assassination context, 'Sources and Methods' is significant because investigations into the assassination and related events, such as Lee Harvey Oswald's activities in Mexico City, often required access to classified CIA information. The CIA's concern about protecting its sources and methods created tension between the need for transparency and the imperative to safeguard intelligence capabilities. This tension is evident in the documents, which detail efforts to carefully review and sanitize files before releasing them to investigators, ensuring that sensitive information was not compromised.",
+  "document_ids": [
+    "104-10330-10010",
+    "104-10422-10057",
+    "104-10096-10048",
+    "104-10105-10271",
+    "104-10310-10118"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "entity_name": "Clerk of the House of Representatives, All Staff Employees",
+  "entity_type": "recipient",
+  "document_count": 5,
+  "summary": "The documents provided primarily concern the payroll records of staff employed by the House Select Committee on Assassinations (HSCA). These records, spanning from 1976 to 1979, detail the employment history, salary adjustments, and position changes of various HSCA staff members, including Sheila Jackson Lee, Thomas Howarth, James Lerer Wolf, and Belford L. Lawson III. The documents include payroll authorization forms and related memoranda, indicating the administrative processes involved in managing HSCA personnel. A notable pattern is the consistent tracking of staff appointments, salary changes, and title adjustments, reflecting the organizational structure and personnel management practices of the HSCA. One memorandum requests staff to disclose any relationships to current members of Congress.",
+  "key_connections": [
+    "Sheila Jackson Lee",
+    "Thomas Howarth",
+    "James Lerer Wolf",
+    "Belford L. Lawson III",
+    "Richard A. Sprague",
+    "House Select Committee on Assassinations (HSCA)",
+    "Louis Stokes",
+    "Henry B. Gonzalez"
+  ],
+  "significance": "The Clerk of the House of Representatives and all staff employees are indirectly significant in the JFK assassination context as the administrative body responsible for managing the payroll and personnel records of the House Select Committee on Assassinations (HSCA). The documents provide insight into the staffing and operational aspects of the HSCA during its investigation into the assassination.",
+  "document_ids": [
+    "180-10060-10467",
+    "180-10070-10160",
+    "180-10060-10445",
+    "180-10070-10175",
+    "180-10060-10464"
+  ]
+}

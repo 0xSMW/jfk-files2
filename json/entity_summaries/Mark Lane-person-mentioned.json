@@ -1,0 +1,21 @@
+{
+  "entity_name": "Mark Lane",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Mark Lane was an individual of interest to the FBI and CIA, particularly in the context of the JFK assassination. He was actively disseminating information, including claims about Oswald's innocence, which drew the attention of U.S. and foreign intelligence agencies. The FBI's Legat in Bern, Switzerland, reported on Lane's activities and shared security information with various law enforcement and intelligence agencies. Lane's planned speaking engagements, such as the one in Zurich, were monitored, and covert CIA sources, like John Dimmer, were used to gather background information on him. The documents span from 1964 to 1965, focusing on the monitoring and dissemination of information related to Lane's activities and views on the JFK assassination.",
+  "key_connections": [
+    "John Dimmer",
+    "Oswald",
+    "FBI",
+    "CIA"
+  ],
+  "significance": "Mark Lane is significant in the JFK assassination context as an individual who publicly questioned the official narrative and promoted theories about Oswald's innocence, leading to scrutiny and monitoring by U.S. intelligence agencies.",
+  "document_ids": [
+    "104-10331-10166",
+    "104-10332-10000",
+    "124-10320-10087",
+    "104-10433-10167",
+    "124-10158-10061",
+    "124-10062-10456"
+  ]
+}

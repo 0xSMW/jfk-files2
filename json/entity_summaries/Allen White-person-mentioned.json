@@ -1,0 +1,19 @@
+{
+  "entity_name": "Allen White",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Allen White is identified as an individual connected to the CIA station in Mexico City during Lee Harvey Oswald's visit in 1963. The documents mention him in the context of CIA personnel information and interviews conducted by the House Select Committee on Assassinations (HSCA). He is listed among other CIA personnel, and his name appears in connection with CIA activities in Mexico City related to Lee Harvey Oswald and Cuban operations. The documents suggest that Allen White was part of the CIA's network in Mexico City during a critical period related to the JFK assassination, though the specific nature and extent of his involvement are not detailed in these documents.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "David Phillips",
+    "Boris Tarasoff",
+    "CIA station in Mexico City",
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Allen White's significance lies in his connection to the CIA's activities in Mexico City during the time Lee Harvey Oswald visited, potentially linking him to intelligence operations or information gathering related to Oswald and Cuban operations. His name appearing in HSCA interview contexts suggests he may have been questioned about his knowledge or involvement.",
+  "document_ids": [
+    "180-10113-10119",
+    "104-10062-10005",
+    "180-10131-10329"
+  ]
+}

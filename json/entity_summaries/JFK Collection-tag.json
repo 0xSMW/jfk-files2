@@ -1,0 +1,20 @@
+{
+  "entity_name": "JFK Collection",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The JFK Collection, as evidenced by these documents, is a collection of records related to the assassination of President John F. Kennedy. The documents primarily concern the review and potential declassification of sensitive information within the collection by the CIA and the Assassination Records Review Board (ARRB). A key concern is the protection of human intelligence sources and foreign government information, particularly Australian liaison documents. The CIA is shown to be actively involved in proposing redactions or substitutions to protect these sources and sensitive information while complying with the JFK Act. The documents highlight the balancing act between transparency and the need to safeguard individuals and intelligence operations.",
+  "key_connections": [
+    "CIA",
+    "Assassination Records Review Board (ARRB)",
+    "Human Intelligence Sources",
+    "Australian Government",
+    "Lee Harvey Oswald",
+    "JFK Act"
+  ],
+  "significance": "The JFK Collection is significant as it represents the body of evidence and information related to the assassination of President John F. Kennedy. The documents within the collection are subject to review and declassification, aiming to provide transparency while also protecting sensitive sources and ongoing intelligence operations. The documents reveal the complexities and challenges in balancing these competing interests.",
+  "document_ids": [
+    "104-10330-10070",
+    "104-10332-10016",
+    "104-10330-10060"
+  ]
+}

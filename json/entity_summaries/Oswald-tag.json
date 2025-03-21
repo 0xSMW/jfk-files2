@@ -1,0 +1,43 @@
+{
+  "entity_name": "Oswald",
+  "entity_type": "tag",
+  "document_count": 18,
+  "summary": "The documents primarily concern Lee Harvey Oswald's activities and connections leading up to and following the assassination of President John F. Kennedy. They cover his stay in Helsinki, his contact with the Soviet Consulate, and his time in Minsk, including discussions about accessing files related to him. The documents also mention investigations into his potential connections with the KGB, the DRE (Directorate of Revolutionary Activities), and his visits to the Cuban and Soviet embassies in Mexico City. Concerns are raised about the handling of Oswald's files, potential security breaches, and the possible involvement of various individuals and organizations in the assassination. The documents also include information about investigations into individuals connected to Oswald, such as Richard Thomas Gibson and Mark Lane. Yuri Nosenko's testimony regarding the KGB's lack of interest in Oswald is also referenced.",
+  "key_connections": [
+    "Warren Commission",
+    "FBI",
+    "KGB",
+    "DRE (Directorate of Revolutionary Activities)",
+    "President John F. Kennedy",
+    "Cuba",
+    "Soviet Union",
+    "Richard Thomas Gibson",
+    "Mark Lane",
+    "Yuri Nosenko",
+    "HSCA (House Select Committee on Assassinations)",
+    "ARRB (Assassination Records Review Board)",
+    "TELTAP",
+    "LITAMIL-9"
+  ],
+  "significance": "Lee Harvey Oswald is central to the JFK assassination as the alleged assassin. The documents reflect the extensive investigation into his background, motives, and potential connections to foreign entities and domestic groups. The documents highlight the efforts to understand his activities in the Soviet Union, his contacts with Cuban and Soviet embassies, and any possible conspiracies related to the assassination.",
+  "document_ids": [
+    "104-10004-10143 (C06932208)",
+    "104-10326-10077",
+    "104-10306-10018",
+    "104-10332-10000",
+    "104-10065-10028",
+    "104-10014-10064",
+    "124-90146-10072",
+    "104-10181-10117",
+    "104-10326-10087",
+    "180-10144-10068",
+    "104-10331-10318",
+    "124-10062-10456",
+    "177-10002-10096",
+    "104-10326-10075",
+    "104-10331-10149",
+    "104-10326-10074",
+    "180-10131-10324",
+    "180-10143-10233"
+  ]
+}

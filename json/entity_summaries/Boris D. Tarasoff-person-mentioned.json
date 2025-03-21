@@ -1,0 +1,20 @@
+{
+  "entity_name": "Boris D. Tarasoff",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Boris D. Tarasoff was a CIA employee, specifically working in the Foreign Documents Division (FDD/00). Documents indicate his involvement in travel to Mexico City in 1960, where he was sent to replace a station employee on home leave. A travel briefing sheet outlined security precautions and his cover status for this trip. His personnel file contains information about his employment, including retirement, reassignments, and a request for early home leave due to his wife's parents' poor health. He is also connected to Anna Tarasoff, potentially his daughter, whose father's visit to the Russian Embassy raised security concerns for the CIA due to her employment. A memo also directs the removal of credit blocks for several individuals, including Tarasoff.",
+  "key_connections": [
+    "Anna Tarasoff",
+    "CIA",
+    "Russian Embassy",
+    "Mexico City"
+  ],
+  "significance": "Based on the provided documents, Boris D. Tarasoff's significance in the JFK assassination context is not explicitly stated. The documents primarily detail his employment with the CIA, travel to Mexico City, and a potential family connection that raised security concerns. Without further information, it's difficult to establish a direct link to the JFK assassination.",
+  "document_ids": [
+    "104-10131-10037",
+    "104-10130-10215",
+    "104-10194-10001",
+    "104-10130-10344",
+    "104-10130-10343"
+  ]
+}

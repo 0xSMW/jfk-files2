@@ -1,0 +1,20 @@
+{
+  "entity_name": "Zurich",
+  "entity_type": "sender",
+  "document_count": 5,
+  "summary": "Zurich is identified as the origin point for several cables related to Richard Case Nagell's threats to expose the US government in 1969. These cables indicate that Nagell, or someone believed to be him, threatened to reveal information about his contacts with an organization referred to as WOFIRM and to expose the US government if his demands were not met. The cables originate from Zurich and report Nagell's activities, including his appearances at the US Consulate in Zurich and his subsequent disappearance before reappearing at the US Consulate in Barcelona, where he continued to make similar threats. The Zurich consulate sought advice from Bern regarding whether Nagell had aired his grievances on radio or TV.",
+  "key_connections": [
+    "Richard Case Nagell",
+    "Bern",
+    "WOFIRM",
+    "US Consulate in Barcelona"
+  ],
+  "significance": "Zurich's significance in the JFK assassination context lies in its role as the location from which cables were sent concerning Richard Case Nagell's threats to expose the US government. These threats and Nagell's connections to WOFIRM may be relevant to understanding potential motives or individuals involved in events related to the assassination, although the exact nature of these connections and the information Nagell possessed remains unclear from these documents alone.",
+  "document_ids": [
+    "104-10220-10034",
+    "104-10220-10038",
+    "104-10220-10033",
+    "104-10310-10142",
+    "104-10123-10017"
+  ]
+}

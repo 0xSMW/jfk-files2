@@ -1,0 +1,20 @@
+{
+  "entity_name": "Deryabin",
+  "entity_type": "person-mentioned",
+  "document_count": 1,
+  "summary": "Based on the provided documents, Deryabin is mentioned in a transmittal form for documents forwarded from the CIA's Office of Legislative Counsel to Mr. Robert Morrison of the House Select Committee on Assassinations (HSCA). The document references sanitized notes on a Deryabin file, suggesting that Deryabin was of interest to the CIA and potentially relevant to the HSCA's investigation.",
+  "key_connections": [
+    "Robert Morrison",
+    "House Select Committee on Assassinations (HSCA)",
+    "William Alexander Morgan",
+    "George de Mohrenschildt",
+    "David Ferrie"
+  ],
+  "significance": "The significance of Deryabin lies in the fact that a file on him was considered relevant enough to be included in documents provided to the HSCA during its investigation into the JFK assassination. The exact nature of Deryabin's connection to the assassination is not detailed in the provided documents, but the existence of a file suggests potential involvement or relevance to the events surrounding the assassination.",
+  "document_ids": [
+    "104-10210-10020",
+    "104-10534-10173",
+    "104-10177-10224",
+    "180-10145-10285"
+  ]
+}

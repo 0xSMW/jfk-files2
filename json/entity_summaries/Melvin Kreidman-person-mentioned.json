@@ -1,0 +1,16 @@
+{
+  "entity_name": "Melvin Kreidman",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Melvin Kreidman was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA). The documents available primarily relate to his employment and payroll records. These records include payroll authorizations, leave records, and internal memoranda. The documents span from 1977 to 1995, with the 1995 document being a Final Determination Notification from the Assassination Records Review Board regarding the release of his HSCA payroll records. Social Security numbers are postponed from release due to privacy concerns.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board"
+  ],
+  "significance": "Melvin Kreidman's significance lies in his employment with the HSCA, which investigated the JFK assassination. While the documents do not detail his specific role within the committee, his payroll records are considered relevant enough to be included in the assassination records collection. The fact that his records were reviewed by the Assassination Records Review Board suggests that his employment was deemed potentially relevant to the JFK assassination investigation.",
+  "document_ids": [
+    "180-10060-10460",
+    "180-10125-10086",
+    "180-10125-10094"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "entity_name": "Norman Mailer",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Norman Mailer is mentioned in the context of the JFK assassination records. Specifically, a 1995 cable from Minsk requests guidance on whether to question JYVAPOROUS about sharing Lee Harvey Oswald files with Norman Mailer, noting the US government's displeasure. This suggests Mailer was researching or writing about the JFK assassination and sought access to Belorussian archives related to Lee Harvey Oswald. The documents do not provide further details about Mailer's specific role or findings, but his interest in Oswald's files is evident.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "JYVAPOROUS",
+    "BKGB (Belarusian KGB)",
+    "US Government",
+    "Assassination Records Review Board (ARRB)"
+  ],
+  "significance": "Norman Mailer's significance in the JFK context lies in his attempt to access Belorussian archives related to Lee Harvey Oswald, indicating his research or writing interest in the assassination. The US government's apparent displeasure suggests sensitivity around the sharing of these files with him.",
+  "document_ids": [
+    "104-10073-10279",
+    "104-10071-10043",
+    "104-10433-10167",
+    "104-10064-10012",
+    "104-10326-10013",
+    "104-10326-10078",
+    "104-10326-10042"
+  ]
+}

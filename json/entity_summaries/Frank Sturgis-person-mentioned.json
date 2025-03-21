@@ -1,0 +1,40 @@
+{
+  "entity_name": "Frank Sturgis",
+  "entity_type": "person-mentioned",
+  "document_count": 14,
+  "summary": "Frank Sturgis is identified as a person of interest in connection to CIA activities, particularly those related to Cuban operations and potential assassination attempts against Fidel Castro. Documents suggest his involvement with Cuban exile groups and possible plots against Castro and the Angolan government. He is also linked to the Watergate scandal through Bernard Barker. Sturgis's name appears in depositions and transcripts related to investigations into CIA activities, including those by the Rockefeller Commission and the House Select Committee on Assassinations (HSCA). He is mentioned in the context of possessing cryptographic material obtained from Marita Lorenz, which he intended to turn over to Senator Baker. The documents highlight Sturgis's connections to individuals involved in CIA operations and his alleged involvement in various covert activities.",
+  "key_connections": [
+    "Joseph R. Merola",
+    "Bernard Barker",
+    "William C. Sturbitts",
+    "Fidel Castro",
+    "Marita Lorenz",
+    "Senator Baker",
+    "Alfred J. Sarno",
+    "Alexis Davison",
+    "Daniel Carswell",
+    "Luis Posada",
+    "Cesar Diosdado",
+    "David A. Phillips",
+    "Mitchell L. WerBell III",
+    "E. Howard Hunt",
+    "David Lamar Christ"
+  ],
+  "significance": "Frank Sturgis's significance in the JFK context stems from his alleged involvement in CIA-related activities, including potential plots against Fidel Castro, which were investigated by the HSCA. His connections to individuals involved in anti-Castro activities and his alleged possession of sensitive information make him a figure of interest in understanding the broader context of the JFK assassination, particularly regarding potential links between the CIA, Cuban exiles, and organized crime.",
+  "document_ids": [
+    "104-10177-10206",
+    "104-10164-10000",
+    "157-10011-10083",
+    "104-10438-10186",
+    "157-10005-10250",
+    "178-10002-10091",
+    "180-10145-10446",
+    "104-10221-10039",
+    "104-10079-10016",
+    "180-10143-10072",
+    "178-10002-10279",
+    "157-10008-10234",
+    "157-10014-10242",
+    "178-10002-10215"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "entity_name": "Resume",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents reference resumes in the context of employment records for staff members of the House Select Committee on Assassinations (HSCA). These resumes provide information about the individuals' backgrounds, qualifications, and work experience. Specifically, the resumes mentioned belong to Joseph Kiel, Sheryl Lynn Bonifer, and Claire L. Brown, who were all employed by the HSCA. Additionally, a resume for Emilio A. Rodriguez is included, detailing his personal information, education, work experience, and skills in the context of seeking employment due to the situation in Cuba. The inclusion of resumes within HSCA staff payroll records suggests their importance in the hiring and employment processes of the committee. The documents also highlight privacy concerns related to the release of personal information, such as Social Security numbers, found within these resumes and payroll records.",
+  "key_connections": [
+    "Joseph Kiel",
+    "Sheryl Lynn Bonifer",
+    "Claire L. Brown",
+    "Emilio A. Rodriguez",
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board",
+    "Payroll Records"
+  ],
+  "significance": "Resumes are significant as they provide background information on individuals employed by the HSCA, which investigated the JFK assassination. They offer insights into the qualifications and experience of the staff involved in the investigation, potentially shedding light on the expertise and perspectives brought to the committee's work. The inclusion of resumes in payroll records highlights the administrative processes and personnel management within the HSCA.",
+  "document_ids": [
+    "180-10060-10457",
+    "180-10068-10313",
+    "180-10068-10317",
+    "104-10180-10156"
+  ]
+}

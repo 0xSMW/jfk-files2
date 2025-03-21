@@ -1,0 +1,24 @@
+{
+  "entity_name": "Sensitive Information",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents highlight the CIA's concern with protecting sensitive information, operations, and sources, particularly in the context of investigations into the JFK assassination and related matters. This sensitivity arises from the potential compromise of intelligence operations, exposure of sources, and the need to maintain confidentiality in liaison activities with other agencies and foreign governments. The documents reveal instances where information was inadvertently disseminated (e.g., to FBIS) and the subsequent efforts to recall it, as well as procedures for handling particularly sensitive cables. The protection of sensitive information was a key consideration in interactions with the JFK Assassination Records Review Board (ARRB) and during Congressional inquiries, such as those by the House Select Committee on Assassinations (HSCA).",
+  "key_connections": [
+    "CIA",
+    "JFK Assassination Records Review Board (ARRB)",
+    "House Select Committee on Assassinations (HSCA)",
+    "FBIS",
+    "U.K. Liaison",
+    "Special Counterintelligence Operation",
+    "Rockefeller Commission",
+    "Office of Legislative Counsel"
+  ],
+  "significance": "In the JFK context, the protection of sensitive information is significant because it directly impacts the transparency and completeness of the historical record. The CIA's efforts to safeguard sensitive information, while potentially legitimate for national security reasons, also raise questions about potential concealment or obstruction of investigations into the assassination. The documents suggest a tension between the need for transparency and the perceived need to protect intelligence operations and sources, a tension that continues to fuel debate and speculation about the full truth of the JFK assassination.",
+  "document_ids": [
+    "104-10059-10218",
+    "104-10331-10118",
+    "104-10145-10262",
+    "104-10066-10245",
+    "104-10228-10076"
+  ]
+}

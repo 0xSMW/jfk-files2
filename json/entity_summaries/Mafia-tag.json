@@ -1,0 +1,28 @@
+{
+  "entity_name": "Mafia",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The documents suggest the Mafia's involvement in potential assassination plots and clandestine operations, particularly concerning Fidel Castro and, tangentially, the JFK assassination. The Mafia is referenced in the context of potential CIA involvement with Castro, connections to Cuban exiles, and possible assassination plots against Cuban leaders. Herbert Itkin, a person of interest with alleged Mafia connections, is mentioned in several cables. Samuel M. Giancana's deportation from Mexico is also documented. William Harvey's testimony mentions ZRRIFLE and potential assassination plots. The AMCANOE project reveals connections between Cuban exiles, the Mafia, and potential assassination plots against Cuban leaders. Samuel Halpern's testimony discusses Operation Mongoose and instructions to 'get rid of Castro' without limitations.",
+  "key_connections": [
+    "Herbert Itkin",
+    "Samuel M. Giancana",
+    "CIA",
+    "Cuban exiles",
+    "Fidel Castro",
+    "Operation ZRRIFLE",
+    "Operation Mongoose",
+    "William Harvey",
+    "AMCANOE project"
+  ],
+  "significance": "The Mafia's significance in the JFK context lies in the potential for their involvement in assassination plots, particularly against Fidel Castro, which could have indirectly influenced events leading to the JFK assassination. The documents suggest a complex web of connections between the CIA, Cuban exiles, and the Mafia, raising questions about possible collaboration or exploitation of these groups in covert operations.",
+  "document_ids": [
+    "104-10218-10013",
+    "124-10210-10096",
+    "104-10106-10325",
+    "157-10002-10105",
+    "104-10066-10060",
+    "157-10002-10106",
+    "104-10308-10029",
+    "157-10002-10087"
+  ]
+}
