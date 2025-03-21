@@ -17,7 +17,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 
 # Initialize Google Gemini API client
-client = genai.Client(api_key='AIzaSyBhCf8Jno8ql4p_kOli43zKtyb6rYDiCdc')
+client = genai.Client(api_key=os.getenv('GEMINI_API_KEY'))
 model = "gemini-2.0-flash"
 
 def process_json_files():
