@@ -5,6 +5,7 @@ import { useSearchParams } from 'next/navigation';
 import RelationshipGraph from '@/app/components/graph/RelationshipGraph';
 import RelationshipDetailPanel from '@/app/components/graph/RelationshipDetailPanel';
 import { generateGraphData, generateDocumentCentricGraph, generateEntityCentricGraph } from '@/app/lib/utils/graph-transformer';
+import { getDataStatistics } from '@/app/lib/utils/data-loader';
 import { GraphData, GraphFilterOptions, GraphConfig, GraphNode } from '@/app/lib/models/graph';
 import Spinner from '@/app/components/Spinner';
 
@@ -19,6 +20,13 @@ export default function VisualizationPage() {
   const [maxNodes, setMaxNodes] = useState<number>(100);
   const [is3D, setIs3D] = useState<boolean>(false);
   const [is3DLoading, setIs3DLoading] = useState<boolean>(false);
+  const [statistics, setStatistics] = useState<{
+    totalDocuments: number;
+    documentsWithTags: number;
+    uniqueTags: number;
+    totalEntities: number;
+    matchingTags: number;
+  } | null>(null);
   
   // Detail panel state
   const [selectedNode, setSelectedNode] = useState<GraphNode | null>(null);
@@ -46,6 +54,19 @@ export default function VisualizationPage() {
     entityTypes: [],
     searchQuery: ''
   });
+  
+  // Load statistics for debugging
+  useEffect(() => {
+    async function loadStatistics() {
+      try {
+        const stats = await getDataStatistics();
+        setStatistics(stats);
+      } catch (err) {
+        console.error('Error loading statistics:', err);
+      }
+    }
+    loadStatistics();
+  }, []);
   
   // Load graph data based on URL params or default to full graph
   useEffect(() => {
@@ -196,6 +217,19 @@ export default function VisualizationPage() {
               )}
             </div>
             
+            {statistics && (
+              <div className="mb-6 p-4 bg-gray-50 rounded-lg">
+                <h3 className="text-sm font-medium text-gray-700 mb-2">Data Statistics</h3>
+                <div className="space-y-1 text-sm text-gray-600">
+                  <p>Total Documents: {statistics.totalDocuments}</p>
+                  <p>Documents with Tags: {statistics.documentsWithTags}</p>
+                  <p>Unique Tags: {statistics.uniqueTags}</p>
+                  <p>Total Entities: {statistics.totalEntities}</p>
+                  <p>Matching Tags: {statistics.matchingTags}</p>
+                </div>
+              </div>
+            )}
+            
             <div className="mb-6">
               <label className="block mb-2 font-medium text-gray-700">Network Statistics</label>
               <div className="text-sm text-gray-600 space-y-1">
@@ -242,18 +276,47 @@ export default function VisualizationPage() {
                   </button>
                 </div>
               </div>
+            ) : graphData.nodes.length <= 1 ? (
+              <div className="flex-1 flex items-center justify-center bg-gray-50 h-full">
+                <div className="text-center p-8">
+                  <p className="text-red-600 mb-4">No data found. Please try again.</p>
+                  <button 
+                    onClick={() => window.location.reload()} 
+                    className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
+                  >
+                    Try Again
+                  </button>
+                </div>
+              </div>
             ) : (
-              <RelationshipGraph 
-                graphData={graphData}
-                config={{
-                  ...graphConfig,
-                  // Override 3D setting if we have too many nodes
-                  is3D: is3D && !shouldUseSimpleView
-                }}
-                onNodeClick={handleNodeClick}
-                height={window.innerHeight - 120} // Adjust for header
-                width={window.innerWidth - (showControls ? 288 : 0) - (showDetailPanel ? window.innerWidth / 3 : 0)} // Adjust for sidebar and detail panel
-              />
+              <div className="relative">
+                <RelationshipGraph 
+                  graphData={graphData}
+                  config={{
+                    ...graphConfig,
+                    // Override 3D setting if we have too many nodes
+                    is3D: is3D && !shouldUseSimpleView
+                  }}
+                  onNodeClick={handleNodeClick}
+                  height={window.innerHeight - 120} // Adjust for header
+                  width={window.innerWidth - (showControls ? 288 : 0) - (showDetailPanel ? window.innerWidth / 3 : 0)} // Adjust for sidebar and detail panel
+                />
+                
+                {graphData.nodes.length > 0 && graphData.links.length === 0 && (
+                  <div className="absolute top-4 left-4 bg-yellow-50 p-4 rounded-lg shadow-md max-w-sm">
+                    <h3 className="text-yellow-800 font-medium mb-2">No connections found</h3>
+                    <p className="text-yellow-700 text-sm">
+                      This could be because:
+                      <ul className="list-disc pl-4 mt-1">
+                        <li>Documents do not have tags</li>
+                        <li>Tags do not match any entity names</li>
+                        <li>No entity files were found</li>
+                      </ul>
+                      Please check the Data Statistics in the controls panel for more information.
+                    </p>
+                  </div>
+                )}
+              </div>
             )}
             
             {/* Toggle controls button */}

@@ -111,7 +111,7 @@ export default function RelationshipDetailPanel({
                   <span className="font-medium">Type:</span> {(metadata as Document).document_type || 'Unknown'}
                 </div>
                 <div>
-                  <span className="font-medium">Pages:</span> {(metadata as Document).page_count || 'Unknown'}
+                  <span className="font-medium">Pages:</span> {((metadata as Document) as any).page_count || 'Unknown'}
                 </div>
               </div>
             </div>
@@ -127,7 +127,7 @@ export default function RelationshipDetailPanel({
               <div className="mb-6">
                 <h4 className="text-sm font-medium text-gray-900 mb-2">Tags</h4>
                 <div className="flex flex-wrap gap-1">
-                  {(metadata as Document).tags.map(tag => (
+                  {(metadata as Document).tags && (metadata as Document).tags.map(tag => (
                     <Link 
                       key={tag} 
                       href={`/visualization?entity=${encodeURIComponent(tag)}`}
