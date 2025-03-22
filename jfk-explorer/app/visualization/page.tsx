@@ -3,8 +3,9 @@
 import { useState, useEffect, useMemo } from 'react';
 import { useSearchParams } from 'next/navigation';
 import RelationshipGraph from '@/app/components/graph/RelationshipGraph';
+import RelationshipDetailPanel from '@/app/components/graph/RelationshipDetailPanel';
 import { generateGraphData, generateDocumentCentricGraph, generateEntityCentricGraph } from '@/app/lib/utils/graph-transformer';
-import { GraphData, GraphFilterOptions, GraphConfig } from '@/app/lib/models/graph';
+import { GraphData, GraphFilterOptions, GraphConfig, GraphNode } from '@/app/lib/models/graph';
 import Spinner from '@/app/components/Spinner';
 
 export default function VisualizationPage() {
@@ -18,6 +19,10 @@ export default function VisualizationPage() {
   const [maxNodes, setMaxNodes] = useState<number>(100);
   const [is3D, setIs3D] = useState<boolean>(false);
   const [is3DLoading, setIs3DLoading] = useState<boolean>(false);
+  
+  // Detail panel state
+  const [selectedNode, setSelectedNode] = useState<GraphNode | null>(null);
+  const [showDetailPanel, setShowDetailPanel] = useState<boolean>(false);
   
   // Get parameters from URL
   const docId = searchParams.get('document');
@@ -82,6 +87,18 @@ export default function VisualizationPage() {
     
     loadGraphData();
   }, [docId, entityName, maxNodes, filterOptions]);
+  
+  // Handle node click to show detail panel
+  const handleNodeClick = (node: GraphNode) => {
+    setSelectedNode(node);
+    setShowDetailPanel(true);
+  };
+  
+  // Close detail panel
+  const handleCloseDetailPanel = () => {
+    setShowDetailPanel(false);
+    setSelectedNode(null);
+  };
   
   // Update max nodes and reload graph
   const handleMaxNodesChange = (value: number) => {
@@ -204,54 +221,70 @@ export default function VisualizationPage() {
           </div>
         )}
         
-        {/* Graph visualization */}
-        <div className="flex-1 relative flex overflow-hidden">
-          {loading ? (
-            <div className="flex-1 flex items-center justify-center bg-gray-50">
-              <Spinner size="large" />
-              <span className="ml-3 text-gray-600">Loading visualization...</span>
-            </div>
-          ) : error ? (
-            <div className="flex-1 flex items-center justify-center bg-gray-50">
-              <div className="text-center p-8">
-                <p className="text-red-600 mb-4">{error}</p>
-                <button 
-                  onClick={() => window.location.reload()} 
-                  className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
-                >
-                  Try Again
-                </button>
+        {/* Graph visualization and detail panel container */}
+        <div className={`flex-1 flex ${showDetailPanel ? 'overflow-hidden' : 'overflow-auto'}`}>
+          {/* Graph area */}
+          <div className={`relative ${showDetailPanel ? 'w-2/3' : 'w-full'} h-full`}>
+            {loading ? (
+              <div className="flex-1 flex items-center justify-center bg-gray-50 h-full">
+                <Spinner size="large" />
+                <span className="ml-3 text-gray-600">Loading visualization...</span>
               </div>
-            </div>
-          ) : (
-            <RelationshipGraph 
-              graphData={graphData}
-              config={{
-                ...graphConfig,
-                // Override 3D setting if we have too many nodes
-                is3D: is3D && !shouldUseSimpleView
-              }}
-              height={window.innerHeight - 120} // Adjust for header
-              width={window.innerWidth - (showControls ? 288 : 0)} // Adjust for sidebar
-            />
-          )}
-          
-          {/* Toggle controls button */}
-          <button
-            onClick={() => setShowControls(!showControls)}
-            className="absolute top-4 right-4 p-2 bg-white rounded-full shadow hover:shadow-md z-10"
-            aria-label={showControls ? "Hide controls" : "Show controls"}
-          >
-            {showControls ? (
-              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <path d="M15 18l-6-6 6-6"/>
-              </svg>
+            ) : error ? (
+              <div className="flex-1 flex items-center justify-center bg-gray-50 h-full">
+                <div className="text-center p-8">
+                  <p className="text-red-600 mb-4">{error}</p>
+                  <button 
+                    onClick={() => window.location.reload()} 
+                    className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
+                  >
+                    Try Again
+                  </button>
+                </div>
+              </div>
             ) : (
-              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <path d="M9 18l6-6-6-6"/>
-              </svg>
+              <RelationshipGraph 
+                graphData={graphData}
+                config={{
+                  ...graphConfig,
+                  // Override 3D setting if we have too many nodes
+                  is3D: is3D && !shouldUseSimpleView
+                }}
+                onNodeClick={handleNodeClick}
+                height={window.innerHeight - 120} // Adjust for header
+                width={window.innerWidth - (showControls ? 288 : 0) - (showDetailPanel ? window.innerWidth / 3 : 0)} // Adjust for sidebar and detail panel
+              />
             )}
-          </button>
+            
+            {/* Toggle controls button */}
+            <button
+              onClick={() => setShowControls(!showControls)}
+              className="absolute top-4 left-4 p-2 bg-white rounded-full shadow hover:shadow-md z-10"
+              aria-label={showControls ? "Hide controls" : "Show controls"}
+            >
+              {showControls ? (
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M15 18l-6-6 6-6"/>
+                </svg>
+              ) : (
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M9 18l6-6-6-6"/>
+                </svg>
+              )}
+            </button>
+          </div>
+          
+          {/* Detail panel */}
+          {showDetailPanel && (
+            <div className="w-1/3 border-l border-gray-200 h-full bg-white">
+              <RelationshipDetailPanel 
+                selectedNode={selectedNode}
+                graphData={graphData}
+                onClose={handleCloseDetailPanel}
+                onNodeSelect={handleNodeClick}
+              />
+            </div>
+          )}
         </div>
       </div>
     </div>

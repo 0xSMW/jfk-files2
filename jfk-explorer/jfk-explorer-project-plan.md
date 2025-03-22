@@ -62,10 +62,10 @@ if you generate something that is sample data then you will be fired
   - [x] Create node representation for documents
   - [x] Implement interactive connections between documents
   - [x] Add zooming and panning functionality
-- [ ] Build relationship detail view
-  - [ ] Show connected documents
-  - [ ] Display relationship type and metadata
-  - [ ] Allow navigation to related documents
+- [x] Build relationship detail view
+  - [x] Show connected documents
+  - [x] Display relationship type and metadata
+  - [x] Allow navigation to related documents
 
 ## 5. Entity Browser
 - [ ] Create entities list page
