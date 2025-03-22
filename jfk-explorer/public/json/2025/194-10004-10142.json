@@ -1,0 +1,38 @@
+{
+  "classification": "Personnel",
+  "document_type": "Paper, Textual Document",
+  "security": "Releasing personal information like addresses, birthdates, and family names without authorization violates privacy and could expose individuals to harm. Mentioning legal counsel (Peter Franck, Vincent Hallinan) and FBI investigations could also create reputational harm.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a U.S. Army request for a tallage check and FBI-SA-BI on David Rood Fromer, including his personal details, residences, employment history, and legal advice, related to potential government employment or military service.",
+  "summary_one_paragraph": "A U.S. Army intelligence document dated February 1, 1967, initiates a background check on David Rood Fromer, born in Chicago on July 21, 1942. The request, originating from Myron K. Hayashida, includes Fromer’s residences from 1950 onwards, his employment history from 1955, and educational background at the University of Wisconsin. It also notes Fromer's reluctance to sign a form without consulting his attorneys, Peter Franck and Vincent Hallinan, and mentions existing FBI reports dating from 1960 to 1966, requesting any subsequent information.",
+  "tags": [
+    "INSCOM/CSF",
+    "DOD-Affiliated Personnel Incident Investigations",
+    "Tallage Check",
+    "FBI-SA-BI",
+    "David Rood Fromer",
+    "Background Check"
+  ],
+  "title": "[ RESTRICTED ]",
+  "date": "1967-02-21",
+  "locations_mentioned": [
+    "Chicago, Illinois",
+    "Cincinnati, Ohio",
+    "Estherville, Iowa",
+    "Mill Valley, California",
+    "San Francisco, California",
+    "Berkeley, California",
+    "Madison, Wisconsin",
+    "Fort Holabird, Maryland"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "David R. Fromer",
+    "Myron K. Hayashida",
+    "Irving Fromer",
+    "Katherine Rhodes",
+    "Peter Franck",
+    "Vincent Hallinan"
+  ],
+  "sender": "Hayashida, Myron K."
+}

@@ -1,0 +1,32 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Memorandum",
+  "security": "Disclosing that Arthur V. Cox used PRAEGER as cover while on project 7PEVADF (5.03.24) reveals details of clandestine operations and cover identities, which could jeopardize ongoing or future intelligence activities and compromise individuals involved.",
+  "security_level": "SECRET",
+  "summary": "A memorandum regarding a name trace on Henry L. Bretton and PRAEGER Publishing Corporation, revealing Bretton's past as an OSS agent (using the name Henry BISMARK) and Agency contacts with PRAEGER, including its use as cover by Arthur V. Cox.",
+  "summary_one_paragraph": "This SECRET memorandum, dated January 14, 1975, from Lee F. Patton, Chief, OSC/OC, to Ed Pechous (SA/ADDO), details the results of a name trace on Henry L. Bretton and PRAEGER Publishing Corporation, initiated per request OGC 75-0,088. The trace revealed that Bretton, also known as Henry BISMARK, was a former OSS agent approached by the Contact Division in 1964 regarding a position in Ghana, but he declined involvement with the Agency. The trace also indicated various Agency contacts with PRAEGER, including its use as a cover by Arthur V. Cox (retired 1962) during project 7PEVADF (5.03.24).",
+  "tags": [
+    "Name Trace",
+    "Henry L. Bretton",
+    "Henry Bismark",
+    "PRAEGER Publishing Corporation",
+    "OSS",
+    "Contact Division",
+    "Arthur V. Cox",
+    "Cover Identity",
+    "Project 7PEVADF",
+    "FOIA"
+  ],
+  "title": "Name Trace : Henry L. BRETTON and PRAEGER Publishing Corporation",
+  "date": "1975-01-14",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Henry L. Bretton",
+    "Henry BISMARK",
+    "Arthur V. Cox",
+    "Ed Pechous",
+    "Lee F. Patton"
+  ],
+  "recipient": "Ed Pechous",
+  "sender": "Lee F. Patton"
+}

@@ -1,0 +1,44 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Revealing operational details about AMLASH, AMTRUNK, and their contacts could compromise these operations. Specifically, the cable discusses efforts to locate AMLASH-9 and instructs AMTRUNK-10 not to contact certain individuals who may be associated with the Cuban regime or DGI. Disclosing these contacts and methods could expose ongoing intelligence activities and endanger individuals involved: “PLS ASK AMLASH-1 TELL AMTRUNK-10 NOT TRY LOCATE A-9 VIA ANY OF FOLLOWING WEOM A-10 MAY KNOW...”.",
+  "security_level": "SECRET",
+  "summary": "A cable discussing concerns about the possible capture of AMTRUNK-9 in Cuba and instructs on how to proceed with locating AMLASH-9 without alerting Cuban authorities.",
+  "summary_one_paragraph": "This secret cable, dated 4 February 1965, addresses concerns regarding the potential capture of AMTRUNK-9 in the Cardenas-Matanzas area of Cuba. It instructs JMWAVE and PARIS to reassure Mrs. A-9 (likely the wife of AMLASH-9) by showing her a Miami Herald article about a separate landing attempt. The cable advises WAVE to discourage Mrs. A-9 from seeking information via GPIDEAL or the Mexican President until AMLASH-1 can locate A-9 through AMTRUNK-10 after his return to Cuba on February 10. Additionally, PARIS is instructed to advise AMLASH-1 to tell AMTRUNK-10 to avoid contacting specific individuals in Cardenas and Havana who might be compromised or associated with the Cuban regime.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "AMLASH",
+    "AMTRUNK",
+    "JMWAVE",
+    "Counterintelligence",
+    "Covert Operations"
+  ],
+  "title": "Regarding AMLASH and AMTRUNK Operations",
+  "date": "1965-02-04",
+  "locations_mentioned": [
+    "Cuba",
+    "Cardenas",
+    "Matanzas",
+    "Miami",
+    "Havana",
+    "Mexico"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "AMLASH-9",
+    "AMTRUNK-9",
+    "Castro",
+    "Eloy Gutierrez Menoyo",
+    "AMTRUNK-10",
+    "Candido Diaz",
+    "Pedro Barbi (or Balbi) Febles",
+    "Mario Gil Gonzalez",
+    "Jose Vazquez Nerey",
+    "Gloria Cabrera",
+    "Thomas F. Thiele",
+    "Desmond FitzGerald"
+  ],
+  "recipient": "PARIS, JMWAVE",
+  "sender": "DIRECTOR"
+}

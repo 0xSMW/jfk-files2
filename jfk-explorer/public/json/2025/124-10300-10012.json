@@ -1,0 +1,42 @@
+{
+  "classification": "Cuba",
+  "document_type": "Airtel (Letter)",
+  "security": "The document is classified SECRET to protect the identity of a potential informant of continuing value. Dissemination is limited due to the sensitivity of the information concerning intelligence activities. Citing from the document: “The enclosed LHM is classified SECRET to protect the identity of a potential informant of continuing value.”",
+  "security_level": "Secret",
+  "summary": "An FBI Airtel discusses the Comite Pro-Liberacion de los Cien (CPLLC) and Jorge Raul Roblejo Lorie's possible involvement in intelligence activities, along with his connections to Cuban officials like Reinaldo Abreu and Luis Ricardo Alonso.",
+  "summary_one_paragraph": "This FBI Airtel, dated July 14, 1967, from the SAC in Miami to the FBI Director, concerns the Comite Pro-Liberacion de los Cien (CPLLC) and Jorge Raul Roblejo Lorie's potential involvement in intelligence activities related to Cuba. It discusses Roblejo's connections to Cuban officials, including Reinaldo Abreu in Mexico City and Luis Ricardo Alonso, a former Cuban Ambassador to London. The document also mentions that the CIA, under the guise of the U.S. Immigration and Naturalization Service, interviews Cuban refugees at Building T90 or T94. The Airtel includes a Letterhead Memorandum (LHM) and limits dissemination due to the sensitivity of the information and the need to protect a potential informant.",
+  "tags": [
+    "FBI",
+    "CPLLC",
+    "Comite Pro-Liberacion de los Cien",
+    "Jorge Raul Roblejo Lorie",
+    "Reinaldo Abreu",
+    "Luis Ricardo Alonso",
+    "Cuban Intelligence",
+    "Political Prisoners",
+    "Mexico City",
+    "CIA",
+    "Cuban Refugees",
+    "Informant"
+  ],
+  "title": "Comite Pro-Liberacion de los Cien (CPLLC - Committee for the Liberation of the One Hundred)",
+  "date": "1967-07-14",
+  "locations_mentioned": [
+    "Cuba",
+    "Mexico City",
+    "London",
+    "Miami",
+    "New York City"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Jorge Raul Roblejo Lorie",
+    "Sergio Oswaldo Betancourt Collazo",
+    "Reinaldo Abreu",
+    "Luis Ricardo Alonso",
+    "Raul Roa",
+    "Nicolas Rodriguez Azterain"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, MM (Special Agent in Charge, Miami)"
+}

@@ -1,0 +1,23 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Message Form",
+  "security": "Dissemination controls and destruction notice indicate need to protect the information.  The reference to 'RYBATWOMUSE' suggests the content relates to sensitive intelligence operations or sources.",
+  "security_level": "SECRET",
+  "summary": "A message indicates that two copies of a photograph were sent to POSSON via APO on April 19. The message includes routing information and dissemination controls.",
+  "summary_one_paragraph": "This SECRET message, dated April 19, 1968, indicates that two copies of a photograph were sent to POSSON via APO. The message includes routing and initial information for James P. Burke and NESA/COPS, specifies 'RYBATWOMUSE', cites Director: 92897, references Director: 92664 para 2, and notes dissemination controls, including destruction of the document.",
+  "tags": [
+    "CIA",
+    "Photographs",
+    "POSSON",
+    "RYBATWOMUSE",
+    "Dissemination Control",
+    "APO"
+  ],
+  "title": "Message regarding photograph sent to POSSON",
+  "date": "1968-04-19",
+  "persons_mentioned": [
+    "James P. Burke",
+    "POSSON"
+  ],
+  "recipient": "POSSON"
+}

@@ -1,0 +1,24 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security": "Disclosing the rationale behind denying military service based on national security concerns could reveal intelligence-gathering methods or specific criteria used to assess individual risks. Identifying personnel records annotated to preclude access to classified information exposes security protocols and vulnerabilities. The document is marked \"FOR OFFICIAL USE ONLY\" and states, \"recommend that appropriate personnel records be annotated to preclude HIS receiving access to classified information.\"",
+  "security_level": "SECRET",
+  "summary": "A memo from the Assistant Chief of Staff for Intelligence regarding Robert Scheer, stating his induction into military service is inconsistent with national security interests, but legal reasons preclude his rejection based on security at this time; it recommends annotating personnel records to prevent Scheer from accessing classified information should he be inducted.",
+  "summary_one_paragraph": "This memorandum, dated July 28, 1967, addresses the case of Robert Scheer, whose induction into military service is deemed by the Assistant Chief of Staff for Intelligence to be against the interests of national security. However, due to a determination by The Judge Advocate General, Scheer cannot be rejected for security reasons under current policy. The memo recommends that if Scheer is inducted, his personnel records should be marked to prevent him from accessing classified information, and requests the file be returned through channels upon completion of the action.",
+  "tags": [
+    "Robert Scheer",
+    "Military Induction",
+    "National Security",
+    "Personnel Security",
+    "Classified Information"
+  ],
+  "title": "SCHEER, Robert, SSN: 112-28-1134",
+  "date": "1967-07-28",
+  "persons_mentioned": [
+    "Robert Scheer",
+    "Dmitri J. Tadich",
+    "M. C. Sneeringer"
+  ],
+  "recipient": "Chief, OPO",
+  "sender": "ACSI (Assistant Chief of Staff for Intelligence)"
+}

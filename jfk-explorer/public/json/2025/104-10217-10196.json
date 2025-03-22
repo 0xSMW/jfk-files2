@@ -1,0 +1,34 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This message discusses the use of PSYCH OP (psychological operations) to distribute material (“STA buying up copies for stuffer PSYCH OP”) which could be seen as interfering in foreign affairs. Revealing this activity would damage international relations.",
+  "security_level": "SECRET",
+  "summary": "A CIA message reports on the magazine 'Revolution' in Paris and its denouncement of Richard Gibson, a former secretary of the 'Fair Play for Cuba Committee,' for allegedly infiltrating the international revolutionary movement; the CIA is buying up copies for a PSYCH OP.",
+  "summary_one_paragraph": "This secret message from the CIA's Paris station, dated August 1964, reports that the magazine 'Revolution' has denounced Richard Gibson for misusing his former position with the 'Fair Play for Cuba Committee' to penetrate international revolutionary circles. The CIA is acquiring copies of the magazine for psychological operations. Previously, when considering Gibson for a VIRK JERVAY task, local ODENVY (a code name, possibly for an intelligence contact or asset) denied Gibson was their agent.",
+  "tags": [
+    "CIA",
+    "Richard Gibson",
+    "Fair Play for Cuba Committee",
+    "Revolution Magazine",
+    "PSYCH OP",
+    "Psychological Operations",
+    "ODENVY",
+    "VIRK JERVAY"
+  ],
+  "title": "LCHARVEST - 'Revolution' Magazine and Richard Gibson",
+  "date": "1964-08",
+  "locations_mentioned": [
+    "Paris",
+    "New York",
+    "London",
+    "Accra"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Richard Gibson",
+    "Verges",
+    "PADBAYON/1"
+  ],
+  "recipient": "Director",
+  "sender": "PARIS"
+}

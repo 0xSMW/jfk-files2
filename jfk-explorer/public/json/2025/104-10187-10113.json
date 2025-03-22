@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Sharing details about recruiting defectors and targeting them against Cuban intelligence ('IF RELEASED WOULD BE DEFINITE OBSTACLE TO FURTHER OPS AGAINST TARGETS') or guerrilla groups ('SOME OF THOSE DETAINED MIGHT BE DOUBLED AND TARGETTED AGAINST GUERRILLA GROUPS OR PCES') could compromise ongoing operations and reveal sensitive intelligence methods.",
+  "security_level": "SECRET",
+  "summary": "A classified message discusses the handling of a Cuban defector, referred to as DALTON, including his denial of knowledge, potential for recruitment, and impact on ongoing operations against Cuban intelligence and guerrilla groups; also discusses the recruitment of others, after DALTON is producing, and the possible arrest of guerrillas trained in Cuba",
+  "summary_one_paragraph": "This SECRET classified message from San Salvate discusses the case of a Cuban defector, DALTON, who denies knowing anything despite a case officer relationship. The message evaluates DALTON's potential for recruitment against Cuban intelligence or PCES, noting that his release would obstruct further operations. It suggests using political pressure to convince him to cooperate, and considers the possibility of 'doubling' him, indicating he could be used to feed disinformation. The message also addresses the recruitment of others trained in Cuba, recommending a cautious approach to protect existing operations and proposing the arrest of guerrillas for potential recruitment or targeting against guerrilla groups.",
+  "tags": [
+    "CIA",
+    "Cuban Defector",
+    "Recruitment",
+    "Counterintelligence",
+    "Guerrilla Groups",
+    "SALV",
+    "Cuba"
+  ],
+  "title": "Handling of Cuban Defector DALTON and Recruitment Operations",
+  "date": "1964-09-30",
+  "locations_mentioned": [
+    "Cuba",
+    "MEXI",
+    "CUSA",
+    "SALV"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "DALTON"
+  ],
+  "recipient": "WHDIV, CUBA, CUBAN DETECTOR",
+  "sender": "SAN SALVATE"
+}

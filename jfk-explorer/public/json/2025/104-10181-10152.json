@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security": "Distributing information from KUBARK sources to friendly liaison services could reveal sensitive intelligence-gathering methods and compromise sources. Specifically, the dispatch states: 'As the list includes a considerable amount of information from KUBARK sources, SHOTH would be grateful if Headquarters would consider giving clearance to distribute copies of this study to friendly Latin American and Western European liaison services.'",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "A dispatch from the Chief of Station in London to the Chief of WE, forwarding a list of identified and suspected Cuban intelligence officers compiled from records. The dispatch requests authorization to share this information with friendly Latin American and Western European liaison services, including ODENVY, and seeks a cabled reply regarding further distribution.",
+  "summary_one_paragraph": "This secret dispatch, dated December 28, 1962, from the Chief of Station, London, to the Chief of WE, pertains to KEYWAY/PBRUHEX/SMOTE 01, focusing on identified and suspected Cuban intelligence officers. The dispatch includes a list compiled from records (excluding Special Intelligence sources) and requests permission from Headquarters to distribute copies of this study to friendly Latin American and Western European liaison services, as well as ODENVY. The communication emphasizes a need for a brief cabled reply regarding the request for further distribution of the information.",
+  "tags": [
+    "Cuban Intelligence",
+    "Intelligence Officers",
+    "KUBARK",
+    "Liaison Services",
+    "ODENVY",
+    "KEYWAY",
+    "PBRUHEX",
+    "SMOTE"
+  ],
+  "title": "KEYWAY/PBRUHEX/SMOTE 01 Cuban Identified and suspect Intelligence of",
+  "date": "1962-12-28",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Mexico"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "DORTICOS",
+    "VEGA Perez",
+    "VALDES VALDES, Ramon",
+    "VAZQUEZ MONTENEGRO, Ramon",
+    "VEGA PEREZ, Manuel",
+    "VELAZ (VELOZ), Lt. Anibal"
+  ],
+  "recipient": "Chief, WE",
+  "sender": "Chief of Station, London"
+}

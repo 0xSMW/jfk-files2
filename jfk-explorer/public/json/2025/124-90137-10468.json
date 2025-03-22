@@ -1,0 +1,34 @@
+{
+  "classification": "Liaison",
+  "document_type": "Airtel",
+  "security": "Disclosing that the CIA seeks to use an individual, Jorge Beliard, to establish courier routes between the U.S. and Cuba could compromise ongoing or future operations, potentially endangering Beliard. The document states, 'CIA, by liaison, advised Bureau of desire to contact captioned [PSI] in connection with its Cuban operations.'",
+  "security_level": "Confidential",
+  "summary": "The FBI discusses a CIA request to contact Jorge Beliard (PSI), a Cubana Airlines employee, to establish courier routes between the U.S. and Cuba, and outlines options for the FBI's involvement.",
+  "summary_one_paragraph": "This Airtel from the FBI Director to the SAC in New York, dated June 30, 1961, concerns a CIA request to contact Jorge Beliard, identified as PSI and a station manager for Cubana Airlines in New York City, for assistance in establishing courier routes between the U.S. and Cuba. The CIA believes Beliard's position and contacts with individuals regularly traveling to Cuba make him suitable for this purpose. The FBI outlines three options: refusing CIA authority, allowing CIA to operate PSI independently, or serving as an intermediary, and instructs the SAC to discreetly ascertain Beliard's willingness to assist without revealing CIA's involvement, ultimately to determine the best course of action.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Cuban Operations",
+    "Courier Routes",
+    "Jorge Beliard",
+    "Cubana Airlines",
+    "Liaison",
+    "PSI"
+  ],
+  "title": "CIA LIAISON MATERIAL",
+  "date": "1961-06-30",
+  "locations_mentioned": [
+    "U.S.",
+    "Cuba",
+    "New York City",
+    "Idlewild Airport",
+    "Havana"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Jorge Beliard",
+    "Papich"
+  ],
+  "recipient": "NY",
+  "sender": "HQ"
+}

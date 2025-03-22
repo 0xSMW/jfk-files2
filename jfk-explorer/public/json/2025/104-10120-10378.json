@@ -1,0 +1,33 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security": "Revealing the process of assessing and recruiting potential REDSKIN agents, especially the use of psychological assessments under nonofficial cover, could compromise ongoing intelligence operations and expose the identities of individuals involved. Specifically, mentioning 'TSD's Psychological Assessment Associates firm now used by Dr. GITTINGER' and the plan to contact agents under alias CIA credentials reveals sensitive methods. Disclosure of overt and covert employee details, such as those listed in the attachment (e.g., BRADY, GOLDER, LAU) including their cover assignments, would endanger these individuals and damage the agency's ability to operate covertly.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memo outlining a proposal to change the policy for processing potential REDSKIN agents, including using a nonofficial cover for A&E assessments and credit checks on staff members.",
+  "summary_one_paragraph": "This memorandum, dated February 20, 1961, from the Chief of SB/2 Desk, details a proposal to modify the processing of potential REDSKIN agents by incorporating A&E assessments conducted by CTR under nonofficial cover before disclosing Agency interest or classified information; it mentions the use of TSD's Psychological Assessment Associates for these assessments and subsequent security investigations, agent contact under alias CIA credentials, and assignment of missions. Credit checks were conducted on A&E staff members, excluding Jacob GOLDER, and CCG is considering establishing another notional cover for the program.",
+  "tags": [
+    "REDSKIN Agent",
+    "A&E Assessment",
+    "Nonofficial Cover",
+    "Credit Check",
+    "Psychological Assessment",
+    "CTR",
+    "CCG",
+    "Agency Policy"
+  ],
+  "title": "COVER, NONOFFICIAL - GENERAL (Proposal for A&E Assessment of Potential REDSKIN Agent Candidates)",
+  "date": "1961-02-20",
+  "persons_mentioned": [
+    "Dr. GITTINGER",
+    "Thomas STRANGE",
+    "Jacob GOLDER",
+    "Ervan E. Kuhnke, Jr.",
+    "Roger O. Brady",
+    "David C. Goodrich",
+    "Alice F. Komerl",
+    "James B. Lau",
+    "Michael G. McKer"
+  ],
+  "recipient": "Record",
+  "sender": "Chief, SB/2 Desk"
+}

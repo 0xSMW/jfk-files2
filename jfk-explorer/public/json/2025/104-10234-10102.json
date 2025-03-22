@@ -1,0 +1,49 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security": "Disclosing the identities and roles of CAS sources and sub-sources (like AMICE-14) could jeopardize their safety and compromise intelligence operations. The document also details operational methods such as using a Flexowriter for secure transmissions and the use of coded telegrams. Revealing these methods can aid adversaries in circumventing intelligence efforts.",
+  "security_level": "SECRET",
+  "summary": "A dispatch from the Chief of Station, JMHAVE, to the Deputy Chief, WH/SA, regarding the AMTRUNK/MHAPRON operation involving the infiltration of Modesto Orlando Orozco Basulto into Cuba, relaying information passed to ACSI on 19 January 1965, and subsequent developments including the identification of 'Jorge' and 'Torres' as the same person.",
+  "summary_one_paragraph": "This dispatch, dated January 22, 1965, from the Chief of Station, JMHAVE, to the Deputy Chief, WH/SA, concerns the AMTRUNK/MHAPRON operation focused on Modesto Orlando Orozco Basulto's infiltration into Cuba. The dispatch transmits a copy of the WAVE memo presented to ACSI on January 19, 1965, identifying the CAS source as AMICE-14 and detailing the events leading up to Orozco's mission, including his contact with 'Jorge' and Hortensia Orizondo Meneses. Subsequent developments reveal that Orozco's wife and AMICE-14 have identified 'Jorge' and 'Torres' as the same individual and that Orozco's wife, believing her husband to be a prisoner, is pressuring ACSI for diplomatic negotiations for his release.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Infiltration",
+    "AMTRUNK",
+    "MHAPRON",
+    "ACSI",
+    "CAS Source",
+    "Modesto Orlando Orozco Basulto",
+    "Jorge",
+    "Torres",
+    "Hortensia Orizondo Meneses"
+  ],
+  "title": "Operational Transmittal of Copy of Memo Regarding AMTRUNK-9 Infil Which Passed to ACSI 19 January 1965",
+  "date": "1965-01-22",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Vedado",
+    "Matanzas Province",
+    "Marti Area",
+    "Cardenas",
+    "Miami",
+    "Keys",
+    "Marathon Area",
+    "Mexico"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Modesto Orlando Orozco Basulto",
+    "Jose Vasquez Nerey",
+    "Gloria Cabrera",
+    "Hortensia Orizondo Meneses",
+    "Jorge",
+    "Torres",
+    "Aldo",
+    "Lewis Burns",
+    "Laureano Batista Falla"
+  ],
+  "recipient": "Deputy Chief, WH/SA",
+  "sender": "Chief of Station, JMHAVE"
+}

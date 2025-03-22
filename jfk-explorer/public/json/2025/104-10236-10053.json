@@ -1,0 +1,29 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing that “any attempt involve Jamaican govt against its will at this time would result in net loss of cooperation now and in future” could damage relations and operations with the Jamaican government. The document also reveals sensitivity about plausible deniability with RUABBE.",
+  "security_level": "SECRET",
+  "summary": "A CIA message discusses the political climate in Jamaica regarding the potential establishment of an AMBUD delegation, advising against overt involvement due to concerns about Jamaican neutrality and Cuban influence.",
+  "summary_one_paragraph": "This secret CIA message, dated October 11, 1962, addresses the establishment of an AMBUD delegation in Jamaica. It relays the COS's assessment that the Jamaican government wishes to remain neutral in the Cold War due to its Cuban community and concerns for safety. The message advises against any overt pressure that could jeopardize future cooperation with the Jamaican government. It also mentions the possibility of leveraging Frank (Diaz) Silveira during the Caribbean Games but insists on no public announcements before Jamaican governmental approval. The document suggests that pushing the AMBUD presence against the government's wishes could strengthen pro-Cuban elements within Jamaica.",
+  "tags": [
+    "CIA",
+    "AMBUD",
+    "Jamaica",
+    "Cuba",
+    "Cold War",
+    "RUABBE",
+    "Political Climate"
+  ],
+  "title": "Jamaican Political Climate Regarding AMBUD Delegation",
+  "date": "1962-10-11",
+  "locations_mentioned": [
+    "Jamaica",
+    "Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Frank (Diaz) Silveira"
+  ],
+  "recipient": "DIR",
+  "sender": "GYROSE AMBUD"
+}

@@ -1,0 +1,49 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "Disclosing the identities of individuals who have worked with or provided information to intelligence agencies can jeopardize their safety and compromise ongoing or future operations. For example, the document mentions \"Mr Roberts has been a Staff Agent of CIA since 28 August 1961\". Revealing that Roberts was a CIA agent, or that Delson was considered for Projects DTPILLAR and WUBRINY, could have negative consequences.",
+  "security_level": "Background Use Only",
+  "summary": "A memorandum discussing Herbert Itkin and the ramifications of a confrontation with the New York FBI office, focusing on additional information required on individuals Roberts and Delson, including Roberts' affiliation with the FBI, CIA, and Itkin.",
+  "summary_one_paragraph": "This memorandum, dated 31 January 1969, details a meeting concerning Herbert Itkin and the need for additional information on Roberts and Delson following a confrontation with the New York FBI office. It includes a chronological rundown of Roberts' affiliations with the FBI, CIA (since August 1961), and Itkin, questioning whether Roberts reported his activities with Itkin in Geneva, Switzerland. The memo also raises concerns about Roberts' financial contributions to the law firm of Itkin, Roberts & Greenbaum, possible criminal prosecution against Roberts, and an investigation into Delson's potential use in Projects DTPILLAR and WUBRINY.",
+  "tags": [
+    "Herbert Itkin",
+    "FBI",
+    "CIA",
+    "Security Files",
+    "LPGLOBE",
+    "DTPILLAR",
+    "WUBRINY",
+    "Robert Delson",
+    "Thomas L. Roberts"
+  ],
+  "title": "Herbert Itkin",
+  "date": "1969-01-31",
+  "locations_mentioned": [
+    "New York",
+    "West Africa",
+    "Dakar",
+    "Geneva, Switzerland",
+    "Austria",
+    "England"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Herbert Itkin",
+    "Rocca",
+    "Houston",
+    "Warner",
+    "Roberts",
+    "Robert Delson",
+    "Ward Greene",
+    "Eugene Milligan",
+    "Robert Amory",
+    "Sam Papich",
+    "Hogan",
+    "Jim Marcus",
+    "Littman",
+    "Mario Brod",
+    "Senator Lodge"
+  ],
+  "recipient": "The Record",
+  "sender": "John K. Greaney, Assistant General Counsel"
+}

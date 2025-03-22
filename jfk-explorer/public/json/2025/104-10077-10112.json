@@ -1,0 +1,37 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "Revealing that CIA assets are used to 'handle' leads and make contact in Mexico could compromise ongoing operations and the safety of those assets. Quoting directly: 'LEAD SHOULD BE HANDLED BY MEXI PRINCIPAL AGENT ASSET OR MEXI FROMBEN OPS OFFICER' and 'Suggested WAVE CO make contact in Haxi with (Martha Valdes.)'",
+  "security_level": "SECRET",
+  "summary": "A CIA cable regarding leads related to AMCONCERT, specifically mentioning Garcia and Valdes, instructing that a principal agent asset or FROMBEN ops officer in Mexico should handle the lead and suggesting contact with Martha Valdes.",
+  "summary_one_paragraph": "This SECRET cable, dated November 23, 1963, from the CIA's SIG CEN, addresses leads related to AMCONCERT in Mexico City. It reports that there are no additional traces for Garcia and no identifiable traces for Valdes. The cable instructs that the lead should be handled by a principal agent asset or a FROMBEN operations officer in Mexico, suggesting that WAVE CO make contact with Martha Valdes, who is studying in Mexico on a World Health Organization scholarship.",
+  "tags": [
+    "CIA",
+    "AMCONCERT",
+    "Mexico City",
+    "Garcia",
+    "Valdes",
+    "Asset",
+    "FROMBEN",
+    "Martha Valdes",
+    "JKWAVE"
+  ],
+  "title": "Follow-up on Garcia and Valdes Leads in Mexico City",
+  "date": "1963-11-23",
+  "locations_mentioned": [
+    "Mexico City",
+    "Mexico"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Garcia",
+    "Valdes",
+    "Martha Valdes",
+    "D. FITZGERALD",
+    "W. Wood",
+    "G. WITTEN",
+    "J.C. KING"
+  ],
+  "recipient": "JKWAVE",
+  "sender": "SIG CEN"
+}

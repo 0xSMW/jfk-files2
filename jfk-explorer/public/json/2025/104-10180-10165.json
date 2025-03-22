@@ -1,0 +1,34 @@
+{
+  "classification": "AMIRE-1",
+  "document_type": "Classified Message",
+  "security": "Revealing the existence of operations involving 'PETE and PACO', potential communications methods involving 'CLINTON', specific targets ('TIGER, PACHANA AND ITALIAN AMBASSADORES') could compromise ongoing operations and personnel. The instruction to employ 'ALL REPEAT ALL SECURITY MEASURES' highlights the sensitive nature of the information. Further, the mention that an 'ENELOPE POSSICLY OPENED AND RESEALED' and the details of its cover letter are related could expose communications vulnerabilities.",
+  "security_level": "SECRET",
+  "summary": "A classified message relays information from AMERE-1 concerning potential operations involving individuals named CLINTON, PETE, and PACO, as well as concerns about security and potential counter-revolutionary activities involving individuals referred to as TIGER, PACHANA, and Italian ambassadors.",
+  "summary_one_paragraph": "A SECRET classified message originating from CARACUS relays information from AMERE-1 dated April 29, mentioning the release of CLINTON, his wife, and EUGENIO, while indicating potential transmissions from CLINTON, as well as organized operations around PETE and PACO. These individuals purportedly have contacts with TIGER, PACHANA, and Italian ambassadors who are active in counter-revolutionary efforts. The message requests an address for deliveries and emphasizes strict security measures, suggesting that an AMERICAN operation is unlikely. It also reports a potentially opened and resealed envelope and notes that the cover letter was written by OAN, along with a re-examination of a previous message, MSC 7.",
+  "tags": [
+    "AMIRE-1",
+    "Counter-Revolution",
+    "Security",
+    "Venezuela",
+    "CIA",
+    "Operations"
+  ],
+  "title": "AMIRE-1 Cover Letter and Potential Operations",
+  "date": "1961-05-09",
+  "locations_mentioned": [
+    "Caracas"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Clinton",
+    "Eugenio",
+    "Pete",
+    "Paco",
+    "Tiger",
+    "Pachana",
+    "Henry06 99",
+    "OAN"
+  ],
+  "recipient": "BELL",
+  "sender": "CARACUS"
+}

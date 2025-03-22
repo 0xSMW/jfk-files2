@@ -1,0 +1,39 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security": "Disclosing the identities of local contacts or assets could jeopardize their safety and compromise ongoing operations.",
+  "security_level": "SECRET/RYBAT",
+  "summary": "A CIA dispatch from Oslo transmitting untranslated Norwegian newspaper clippings about Bobby Seale's visit to Norway and his views on the Black Panther Party.",
+  "summary_one_paragraph": "This secret dispatch from the Chief of Station in Oslo, dated March 19, 1969, transmits three untranslated newspaper clippings from Norwegian newspapers to the Chief of WOMUSE and the Chief of the European Division. The clippings detail Bobby Seale's visit to Oslo, Norway, during which he discussed the Black Panther Party's socialist views, the racial struggle in the United States, and his criticism of President Nixon's policies. The dispatch notes Seale's expressions about US Police and the Black Panther's activities, including organizing armed patrols and breakfast programs, along with his comments on Stokely Carmichael.",
+  "tags": [
+    "CIA",
+    "RYBAT",
+    "MHCHAOS",
+    "Black Panther Party",
+    "Bobby Seale",
+    "Norway",
+    "Newspaper Clippings",
+    "Civil Rights",
+    "Socialism",
+    "WOMUSE",
+    "European Division"
+  ],
+  "title": "RYBAT/MHCHAOS Transmittal of Clippings",
+  "date": "1969-03-19",
+  "locations_mentioned": [
+    "Oslo, Norway",
+    "United States",
+    "Scandinavia"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Bobby Seale",
+    "Huey P. Newton",
+    "President Johnson",
+    "President Nixon",
+    "Martin Luther King",
+    "Stokely Carmichael"
+  ],
+  "recipient": "Chief, WOMUSE; Chief, European Division",
+  "sender": "Chief of Station, Oslo"
+}

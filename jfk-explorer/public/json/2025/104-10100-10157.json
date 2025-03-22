@@ -1,0 +1,26 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "Revealing that AMLONG is typical could compromise code and sources. Quoting directly: 'TYPIC AMLONG'",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "A classified message identifies Alfredo Davins as typical AMLONG. It requests that he be returned to CIA headquarters.",
+  "summary_one_paragraph": "On October 8, 1963, a SECRET classified message was sent from the Director to Mexico City, identifying Alfredo Davins as typical AMLONG and requesting his return to CIA headquarters. The message's routing included FE/W, with informational copies to DDP, CI, CI/OPS, CI/OA, FI, FI/INT. 2, WH 7, RF, and VR.",
+  "tags": [
+    "CIA",
+    "Alfredo Davins",
+    "AMLONG",
+    "Mexico City",
+    "Classified Message"
+  ],
+  "title": "Identify: Alfredo Davins",
+  "date": "1963-10-08",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Alfredo Davins"
+  ],
+  "recipient": "Mexico City",
+  "sender": "Director"
+}

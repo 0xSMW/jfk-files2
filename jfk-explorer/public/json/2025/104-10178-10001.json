@@ -1,0 +1,41 @@
+{
+  "classification": "Operations",
+  "document_type": "Outgoing Message / Report",
+  "security": "The report, specifically referenced as 'Operational Lead Luis Posada Carriles', contains information of operational interest and may not be disclosed.  Also, it includes evaluations that 'Posada needs no assistance: he is amicably terminated asset LWHO knows several means of contacting GRAUSPIES directly with practically no effort' and that there is suspicion that the operation may be a ploy to discredit Posada, sharing this information could compromise CIA sources and methods.",
+  "security_level": "SECRET",
+  "summary": "This file contains an outgoing message from the CIA regarding Luis Posada Carriles, a Venezuelan citizen of Cuban origin and alleged former agency asset, and a report detailing his attempt to offer his services to BKHERALD through Sergio Dieguez, a U.S. citizen.",
+  "summary_one_paragraph": "The document contains a CIA outgoing message and a report discussing Luis Posada Carriles, a Venezuelan citizen of Cuban origin described as a former agency asset. Sergio Dieguez, a U.S. citizen, contacted the Miami Field Office to report that Posada was offering his services to BKHERALD, claiming he had valuable information due to his high-ranking connections within the Venezuelan government. The report details Posada's background as a former DISIP officer known as 'Comisario Basilio' and suggests that Posada's offer might be a government operation to discredit him. The CIA also discusses Posada's visa status and ability to travel to the U.S., and evaluates WKSCARLET-3's request for assistance in obtaining a visa.",
+  "tags": [
+    "CIA",
+    "Luis Posada Carriles",
+    "Sergio Dieguez",
+    "Venezuela",
+    "BKHERALD",
+    "DISIP",
+    "Asset",
+    "Operational Lead",
+    "WKSCARLET-3"
+  ],
+  "title": "POSADA, LUIS CLEMENTE",
+  "date": "1976-09-27",
+  "locations_mentioned": [
+    "Venezuela",
+    "Caracas",
+    "Miami",
+    "Cuba",
+    "US"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Luis Posada Carriles",
+    "Sergio Dieguez",
+    "Rafael Caldera",
+    "Carlos Andres Perez",
+    "Ernesto Dieguez",
+    "Robert W. Andrews",
+    "Fred Bucci",
+    "Cathy Lee Wardow"
+  ],
+  "recipient": "CARACAS",
+  "sender": "LAPNC/V"
+}

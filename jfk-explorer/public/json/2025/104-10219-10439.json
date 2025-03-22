@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Biographical Data",
+  "security": "Revealing that Machado is a CIA agent (LITAMIL-1) could compromise his safety and any operations he is involved in. The document explicitly states, 'Machado is a CIA Agent (LITAMIL-1...CA granted 6 June 1960).' Additionally, disclosing that the Mexico City Station planned to use him could damage ongoing intelligence activities.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document contains biographical and political information on Manuel Machado Llosas, a Cuban exile living in Mexico who is also a CIA agent. It details his background, political activities within the 26th of July group, and his planned use by the Mexico City Station as an intelligence and political action asset.",
+  "summary_one_paragraph": "This June 1960 document provides biographical data on Manuel Machado Llosas, born in Cuba in 1913 and currently residing in Mexico City as the owner of a printing business. It notes Machado's past involvement with the 26th of July movement, his friendship with Fidel Castro, and his disillusionment with the Castro government, which led him to become a CIA agent (LITAMIL-1). The Mexico City Station intended to use Machado for reporting on Cuban revolutionaries and potentially for political action, leveraging his connections within Cuban circles. The document also mentions his friendship with Ambassador Arcos y Bergnes and emphasizes the Mexican Desk's interest in his activities.",
+  "tags": [
+    "Manuel Machado Llosas",
+    "LITAMIL-1",
+    "CIA Agent",
+    "Cuban Exile",
+    "Mexico City Station",
+    "26th of July Movement",
+    "Fidel Castro",
+    "Political Action",
+    "Intelligence Asset"
+  ],
+  "title": "MACHADO Llosas, Manuel 201-267298 (Mucida-K) (Carrillo)",
+  "date": "1960-06",
+  "locations_mentioned": [
+    "Auras, Oriente, Cuba",
+    "Mexico City, Mexico"
+  ],
+  "persons_mentioned": [
+    "Manuel Machado Llosas",
+    "Fidel Castro",
+    "Arcos y Bergnes"
+  ],
+  "recipient": "Mexican Desk",
+  "sender": "POA/CA"
+}

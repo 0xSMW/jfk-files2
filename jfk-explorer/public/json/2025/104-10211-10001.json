@@ -1,0 +1,40 @@
+{
+  "classification": "Personnel",
+  "document_type": "File Study",
+  "security": "Revealing the CIA's methods for psychological assessment and interrogation, as well as their reliance on expert opinions from defectors like Deryabin, could enable adversaries to develop countermeasures. Specifically, the document details: \"Three pages of penciled notes and jottings in Russian made by NOSENKO during an early debriefing session were submitted on 25 March 1964 to CIA handwriting analysts...\" and \"For fourteen days between 3 and 21 May 1965, the same CIA psychologist interviewed NOSENKO on his entire early history...\"",
+  "security_level": "TOP SECRET",
+  "summary": "This document contains specialists' assessments of Yuriy Nosenko, including graphological analysis, psychological testing results, and psychiatric evaluations, along with views of intelligence personnel like Peter Deryabin regarding Nosenko's KGB background and truthfulness.",
+  "summary_one_paragraph": "This file study on Yuriy Nosenko comprises reports and assessments conducted by the CIA to evaluate his intelligence and personality. It includes a graphological analysis of Nosenko's handwriting, psychological testing results from a CIA psychologist examining his emotional balance, social relations, and ideological makeup, and a psychiatric report detailing his medical care and behavior post-defection. Furthermore, the document features opinions from former KGB officer Peter Deryabin, who questions the veracity of Nosenko's claims about his entry into the KGB and Communist Party affiliation, highlighting inconsistencies and improbabilities in Nosenko's narrative.",
+  "tags": [
+    "Yuriy Nosenko",
+    "CIA",
+    "KGB",
+    "Defector",
+    "Graphology",
+    "Psychological Assessment",
+    "Psychiatric Evaluation",
+    "Peter Deryabin",
+    "Interrogation",
+    "Intelligence Assessment",
+    "FOIA"
+  ],
+  "title": "CASE OF YURIY NANOVICH NESENKO (835 FILE STUDY)",
+  "date": "1978-05-11",
+  "persons_mentioned": [
+    "Yuriy Nanovich Nosenko",
+    "Peter Sergeyevich Deryabin",
+    "Stalin",
+    "Kobulov",
+    "Kruglov",
+    "Sakharovskiy",
+    "Panyushkin",
+    "Romashkov",
+    "Serov",
+    "Lunev",
+    "Shatalin",
+    "Gorbatenko",
+    "Telegin",
+    "Rozhenko"
+  ],
+  "sender": "LEIN"
+}

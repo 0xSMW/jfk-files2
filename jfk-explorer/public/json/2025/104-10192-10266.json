@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This document discusses CIA efforts to manage public perception regarding U.S. involvement in Cuban exile activities, particularly concerning leadership changes within the exile community. It reveals plans to discredit a news story and reassure a key figure (Miro Cardona). Disclosing these actions could compromise the CIA's ability to influence events and maintain deniability in sensitive operations. Specifically, the intention to \"initiate action [to] discredit Buchanan story as well as reassure Miro\" demonstrates active management of media and key figures.",
+  "security_level": "SECRET",
+  "summary": "A CIA message discusses a Miami Herald article alleging Manuel Ray replaced Miro Cardona as exile leader with U.S. backing, causing furor in the Cuban community, and outlines plans to discredit the story and reassure Miro.",
+  "summary_one_paragraph": "This SECRET classified message from JMWAVE to the Director, dated May 27, 1962, addresses a front-page Miami Herald article by James Buchanan claiming Manuel Ray replaced Miro Cardona as the leader of Cuban exiles with the blessing of the United States. The article implicates Con Mooz Marin, President Rómulo Betancourt, and former President that Ray has taken over with the blessing of the U.S.. The CIA assesses the fallout from this article, reporting widespread consternation within the local Cuban community, and details efforts to discreetly trace Buchanan's source and discredit the story while reassuring Miro. The message also notes Buchanan's previous attacks on Miro and suggests the article may reflect attempts to influence U.S. policy toward Cuba.",
+  "tags": [
+    "CIA",
+    "JMWAVE",
+    "Cuba",
+    "Exiles",
+    "Miro Cardona",
+    "Manuel Ray",
+    "Miami Herald",
+    "James Buchanan",
+    "Disinformation",
+    "Propaganda"
+  ],
+  "title": "Miami Herald Article on Miro Cardona and Manuel Ray",
+  "date": "1962-05-27",
+  "locations_mentioned": [
+    "Miami",
+    "Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Miro Cardona",
+    "Manuel Ray",
+    "James Buchanan",
+    "Con Mooz Marin",
+    "Rómulo Betancourt",
+    "Joasi Godoy",
+    "Adolf Berle",
+    "William S. Wiralda"
+  ],
+  "recipient": "Director",
+  "sender": "JMWAVE"
+}

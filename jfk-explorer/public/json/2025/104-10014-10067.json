@@ -1,0 +1,45 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Revealing the details of this cable would disclose sources and methods for gathering intelligence. Specifically, it details the use of an asset (FGFORK/86) to collect information on SLLARCENY/1 (L/1) and his family. Quoting from the document, 'THIS CABLE CONTAINS ASSESSMENT DATA FROM FGFORK/86 (F/86) ON SLLARCENY/1 (L/1), BASED ON F/86'S OBSERVATIONS OF, AND DISCUSSIONS WITH, L/1 AND FAMILY.' Such disclosure would likely compromise the asset, and harm ongoing intelligence operations.",
+  "security_level": "SECRET",
+  "summary": "A cable assesses SLLARCENY/1 (L/1) through observations by FGFORK/86 (F/86) during a trip to Chuy, Uruguay, in early January 1994, focusing on L/1's personality, family dynamics, political views, and reported claims about Fidel Castro's perspective on the JFK assassination.",
+  "summary_one_paragraph": "This SECRET cable, dated February 4, 1994, from Montevideo assesses SLLARCENY/1 (L/1) based on information provided by FGFORK/86 (F/86) who observed L/1 and his family during a trip to Chuy. The assessment covers L/1's driving habits, marital issues (including compulsive shopping and infidelity suspicions), family relationships (including tension between his wife and older daughter), philosophical and political views (influenced by Marx, Hegel, and Kant), and thoughts on Cuban economic reforms. The cable also relays L/1's claim that Fidel Castro doubted the single assassin theory in the JFK assassination, citing a reenactment ordered by Castro which suggested it was impossible for one person to have acted alone and that three groups were involved.",
+  "tags": [
+    "WNINTEL",
+    "PLSLINGSHOT",
+    "SLLARCENY",
+    "FGFORK/86",
+    "Assessment",
+    "Family Dynamics",
+    "Political Views",
+    "JFK Assassination",
+    "Fidel Castro"
+  ],
+  "title": "Assessment of SLLARCENY/1 by FGFORK/86",
+  "conspiracy": "According to L/1, in 1969, L/1 personally saw Fidel Castro receive a group of U.S. radicals. Castro talked to them for two hours about why just one assassin could not possibly have killed Kennedy. Castro ordered a reenactment of the crime, using his best marksmen, and they could not duplicate what Lee Harvey Oswald supposedly did by himself. L/1 said that three groups were involved in killing the President: one group of Cubans, one group o \"Mafiosos\" and a third group of mercenaries.",
+  "date": "1994-02-04",
+  "locations_mentioned": [
+    "Montevideo, Uruguay",
+    "Chuy, Uruguay",
+    "Cuba",
+    "Guanabo, Cuba",
+    "USSR",
+    "Bulgaria"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "SLLARCENY/1",
+    "FGFORK/86",
+    "Sidney B. Callicrate",
+    "Marx",
+    "Hegel",
+    "Kant",
+    "Lenin",
+    "Fidel Castro",
+    "Lee Harvey Oswald",
+    "John F. Kennedy"
+  ],
+  "recipient": "Immediate Director",
+  "sender": "STAFF"
+}

@@ -1,0 +1,39 @@
+{
+  "classification": "Personnel",
+  "document_type": "File",
+  "security": "Disclosing the potential compromise of CIA employees to hostile intelligence services and the subsequent documentation of their records could reveal vulnerabilities in security protocols, potentially impacting current or former personnel.  As stated in the document: \"...we have established that the former Staff personnel listed on the attachment should be presumed to have been compromised as CIA employees to the North Vietnam Intelligence Service as of April 1975.  We presume also that the identifications of these individuals as CIA employees were passed by the North Vietnamese to the Soviets.\"",
+  "security_level": "SECRET",
+  "summary": "This file contains documents related to Lucien Conein, Arthur R. Schwickrath, and other CIA personnel, including employment history, performance reviews, and concerns regarding compromised cover. It also includes correspondence with the Drug Enforcement Agency (DEA) regarding Conein's employment verification and potential re-employment of Schwickrath.",
+  "summary_one_paragraph": "This collection of documents, spanning from 1953 to 1976, primarily concerns Lucien E. Conein and Arthur R. Schwickrath, detailing their CIA employment, performance evaluations, and administrative actions. The file includes memoranda, personnel action notifications, employment transcripts sent to the Drug Enforcement Agency (DEA), and discussions about potential security compromises and re-employment considerations. Notably, there are concerns raised about Conein's controversial history related to the overthrow of Ngo Dinh Diem and Schwickrath's potential re-employment being rejected due to security and medical concerns.",
+  "tags": [
+    "Lucien Conein",
+    "Arthur R. Schwickrath",
+    "Personnel Records",
+    "Employment History",
+    "Security Compromise",
+    "DEA",
+    "Covert Operations",
+    "Vietnam"
+  ],
+  "title": "Conein Lucien",
+  "date": "1976-01-13",
+  "locations_mentioned": [
+    "Vietnam",
+    "Washington, D.C.",
+    "Saigon"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Lucien E. Conein",
+    "Arthur R. Schwickrath",
+    "George T. Kalaris",
+    "Mary Elliott",
+    "John F. Blake",
+    "James Ballard",
+    "Howard Osborn",
+    "Ngo Dinh Diem",
+    "Howard Hunt"
+  ],
+  "recipient": "Director of Personnel",
+  "sender": "Various (e.g., George T. Kalaris, Seymour Russell, Frank C. Jarema)"
+}

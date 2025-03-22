@@ -1,0 +1,29 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security": "The dispatch concerns identifying an individual and requests a photograph to be shown to a source for potential identification. If the existence of the source or the methods used to identify individuals were compromised, it could hinder future operations.",
+  "security_level": "SECRET",
+  "summary": "A dispatch regarding the identification of Manuel ESTEVEZ Perez, where AMMUG/1 was queried but unable to identify the name, and a photograph is suggested for possible identification by AMMUG/1 in Barcelona.",
+  "summary_one_paragraph": "This dispatch, dated August 16, 1965, from Chief, WH 152 to Chief of Station, Madrid; Chief of Base, Barcelona; Chief, NE; and Chief of Station, JWAVE, concerns an operational matter—specifically, the identification of Manuel ESTEVEZ Perez. AMMUG/1 was queried for information but could not identify the name. It is suggested that a photograph of the subject be sent to Barcelona to show AMMUG/1 for possible identification. The dispatch is for information and files.",
+  "tags": [
+    "CIA",
+    "Identification",
+    "Manuel ESTEVEZ Perez",
+    "AMMUG/1",
+    "Barcelona",
+    "Photograph"
+  ],
+  "title": "AMMUG/1 Identification of Manuel ESTEVEZ Perez",
+  "date": "1965-08-16",
+  "locations_mentioned": [
+    "Barcelona",
+    "Madrid"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Manuel ESTEVEZ Perez",
+    "AMMUG/1"
+  ],
+  "recipient": "Chief of Station, Madrid; Chief of Base, Barcelona; Chief, NE; Chief of Station, JWAVE",
+  "sender": "Chief, WH 152"
+}

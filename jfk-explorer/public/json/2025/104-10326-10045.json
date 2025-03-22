@@ -1,0 +1,30 @@
+{
+  "classification": "Oswald",
+  "document_type": "Cable",
+  "security": "Releasing the name and phone number of a project office responsible for declassification of Kennedy assassination papers, as requested in the cable, could potentially overwhelm the office with inquiries and hinder their work. Additionally, the mention of a local UPI reporter filing a story based on research and an interview with a retired Marine officer who claimed Oswald was recruited by the CIA in Japan could prompt further media scrutiny and speculation. Directly quoting: \"PLEASE PROVIDE NAME AND PHONE NUMBER OF *PROJECT OFFICE RESPONSIBLE FOR DECLASSIFICATION OF KENNEDY>*<ASSASSINATION>PAPERS.\"",
+  "security_level": "SECRET",
+  "summary": "A cable from Tokyo requests the name and phone number of the project office responsible for declassifying Kennedy assassination papers in response to a UPI reporter preparing a story about Lee Harvey Oswald's alleged CIA recruitment in Japan.",
+  "summary_one_paragraph": "In September 1996, a SECRET cable from Tokyo (30260) requests the Director to provide contact information for the project office handling the declassification of Kennedy assassination papers. This request stems from a local UPI reporter's impending story, based on research and an interview with a retired Marine officer, alleging that Lee Harvey Oswald was recruited by the CIA while stationed in Japan during the 1950s. The Embassy Press Officer was advised of the story and offered a chance to comment but declined. The cable's author hopes to provide the UPI reporter with the historical office's contact information, suggesting that the story might be old news to dissuade the reporter from pursuing it further and prompting Japanese journalists to investigate.",
+  "tags": [
+    "Lee Harvey Oswald",
+    "CIA",
+    "Japan",
+    "Kennedy Assassination",
+    "Declassification",
+    "UPI",
+    "Media",
+    "WNINTEL"
+  ],
+  "title": "News Story on Lee Harvey Oswald and CIA in Japan",
+  "date": "1996-09-12",
+  "locations_mentioned": [
+    "Japan",
+    "Tokyo"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Lee Harvey Oswald"
+  ],
+  "recipient": "Director",
+  "sender": "Staff"
+}

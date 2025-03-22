@@ -1,0 +1,30 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Revealing details about informant contacts, such as the method and timing of information receipt, could compromise future intelligence gathering efforts and potentially expose sources. For instance, the document states, \"At 2105 hours the call was received and the unidentified male stated...\" This level of detail, if exposed, could be used to identify or infer the identity of the anonymous caller and potentially deter others from providing similar information in the future.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "An agent report details information received from an anonymous caller regarding PVT Victor L. TRINKALA, a soldier en route to Vietnam, who was allegedly contacted by a \"Soviet Agent\" due to his status as a Conscientious Objector, potentially to be used in anti-U.S. propaganda.",
+  "summary_one_paragraph": "This agent report, dated November 14, 1969, outlines information received by Duty Agent Mario J. Maltese of the 108th Military Intelligence Group from an anonymous male caller. The caller, claiming to be a former Counterintelligence Corp Special Agent, reported that PVT Victor L. TRINKALA, a soldier identified as a Conscientious Objector en route to Vietnam via Oakland Army Terminal, was unknowingly contacted by a \"Soviet Agent.\" The \"Soviet Agent\" allegedly intended to exploit TRINKALA's CO status for anti-U.S. propaganda, suggesting the Army was forcing a known objector to serve in a combat zone against his will. The caller requested that TRINKALA's orders be cancelled or that he be detained to prevent potential embarrassment to the U.S., claiming he would inform \"proper\" authorities in Washington, DC, about the incident and citing his release from East Germany approximately one year prior.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "DOD",
+    "Richard C. Nagell",
+    "Victor L. Trinkala",
+    "Military Service",
+    "Hostile Intelligence",
+    "Conscientious Objector",
+    "Cancellation of Orders",
+    "Soviet Agent",
+    "Propaganda"
+  ],
+  "title": "AGENT REPORT",
+  "date": "1969-11-14",
+  "persons_mentioned": [
+    "Richard C. Nagell",
+    "Victor L. Trinkala",
+    "James Kraft",
+    "Mario J. Maltese"
+  ],
+  "sender": "[RESTRICTED]"
+}

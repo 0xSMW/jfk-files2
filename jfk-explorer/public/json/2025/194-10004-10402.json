@@ -1,0 +1,35 @@
+{
+  "classification": "Personnel",
+  "document_type": "Request for Information",
+  "security": "Disclosing the specific agencies and their internal record-checking processes, as detailed in this document, could potentially expose internal procedures. Quoting directly: 'Above information was furnished to the undersigned by the agency indicated'. Sharing this detail could provide adversaries with insights into how information is tracked and shared within US law enforcement and intelligence communities, potentially making it easier to circumvent these checks or exploit vulnerabilities.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a request for information concerning Manuel Marti, including file checks with the FBI and the New York City Police Department, submitted on September 16, 1968, by Harold Bloom of the 108th MI Gp (I-NYFO). The results show 'no record' or 'nothing derogatory' based on information provided by the NYPD.",
+  "summary_one_paragraph": "On September 16, 1968, Harold Bloom of the 108th MI Gp (I-NYFO) submitted a request for information on Manuel Marti, a Private E-1 born on May 17, 1946, in San Juan, Puerto Rico, to various agencies. The request included checks with the Federal Bureau of Investigation and the New York City Police Department, including the Bureau of Special Services, Old Records Unit, and Information Unit. The New York City Police Department's Old Records Unit reported 'no record under name and address given', the Bureau of Special Services reported 'nothing derogatory based on information furnished', and other units provided agent reports, with Harold Bloom noting the jurisdiction of the NYPD over New York counties.",
+  "tags": [
+    "Manuel Marti",
+    "File Check",
+    "NYPD",
+    "FBI",
+    "Military Intelligence",
+    "108th MI Gp",
+    "Request for Information"
+  ],
+  "title": "Request for Information on Manuel Marti",
+  "date": "1968-09-16",
+  "locations_mentioned": [
+    "San Juan, Puerto Rico",
+    "New York, NY",
+    "New York County (Manhattan)",
+    "Kings County (Brooklyn)",
+    "Richmond County (Staten Island)",
+    "Queens County",
+    "Bronx County"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Harold Bloom"
+  ],
+  "recipient": "[ RESTRICTED ]",
+  "sender": "[ RESTRICTED ]"
+}

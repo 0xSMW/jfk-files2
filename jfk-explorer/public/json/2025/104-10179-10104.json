@@ -1,0 +1,49 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch/Report",
+  "security": "The dispatch includes lists of potential defectors and trained personnel within Cuba, some of whom are trusted by Ray. This information could endanger those individuals if exposed. The message should not be reproduced. The dispatch includes several individual's home addresses and phone numbers, this personal information would need to be protected.",
+  "security_level": "SECRET",
+  "summary": "A dispatch from JMWAVE to Task Force W regarding Cira MARTINEZ, a confidante of Manuel RAY, including a report on her and lists provided by RAY of potential defectors and trained personnel in Cuba.",
+  "summary_one_paragraph": "This secret dispatch from the Chief of JMWAVE to the Chief of Task Force W encloses a report on Cira MARTINEZ, a close associate of Manuel RAY, and includes lists compiled by Ray. The report, dated October 5, 1962, contains information from Marta DIEZ Rivas regarding MARTINEZ's dissatisfaction with RAY's political actions and her role in the organization J.U.R.E. Additionally, it provides MARTINEZ's address and phone number in Miami. Also included, dated October 30, 1962, is a list of Cubans, either inside or outside the island, who could be available, in case of an emergency, to help in setting up some kind of provisional government.",
+  "tags": [
+    "JMWAVE",
+    "Task Force W",
+    "GYROSE",
+    "AMCONCERT-1",
+    "Cira MARTINEZ",
+    "Manuel RAY",
+    "Cuba",
+    "Defectors",
+    "J.U.R.E.",
+    "Osorio DAVILA",
+    "Ignacio LIDON",
+    "Castro regime"
+  ],
+  "title": "GYROSE/AMCONCERT-1 Report on Cira MARTINEZ",
+  "date": "1962-11-06",
+  "locations_mentioned": [
+    "Miami",
+    "Havana",
+    "Cuba",
+    "San Juan, Puerto Rico",
+    "Washington"
+  ],
+  "origin_agency": "JMWAVE",
+  "persons_mentioned": [
+    "Cira MARTINEZ",
+    "Manuel RAY",
+    "Marta DIEZ Rivas",
+    "Ricardo KACHIN",
+    "Frank MARTINEZ",
+    "Osorio DAVILA",
+    "Haydee SANTEGARIA",
+    "Ignacio LIDON",
+    "Jose LLANUSA",
+    "Jose A. NARANJO",
+    "Lucy ICHEVERRIA",
+    "Ramon PADILLA",
+    "Jorge Sori"
+  ],
+  "recipient": "Chief, Task Force W",
+  "sender": "Chief, JMWAVE"
+}

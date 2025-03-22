@@ -1,0 +1,25 @@
+{
+  "classification": "Training",
+  "document_type": "Training Report",
+  "security": "This document reveals specific training methods and performance evaluations of a paramilitary operative, including details about weapons qualifications, ambush tactics, and psychological assessments. Exposing these details could compromise training programs and expose sensitive operational capabilities.  For example, detailing Frank's nervousness with detonators (“When Frank crimped detonators or threw improvised grenades, he was very shaky.”) could undermine future operations involving that individual.",
+  "security_level": "SECRET",
+  "summary": "This is a training report for 'FRANK' from the PBRUMEN II team, detailing his performance in paramilitary skills and intelligence collection. The report includes ratings for various skills and overall performance, along with narrative comments from instructors.",
+  "summary_one_paragraph": "A SECRET training report for student FRANK from the PBRUMEN II team, covering the period of July 11 to August 13, 1966. The report assesses FRANK’s performance in paramilitary resistance activities and intelligence collection within denied areas. It includes ratings for skills such as map reading, weaponry, ambush tactics (where he received a 'Strong' rating), observation techniques, and air reception activities. Overall, FRANK’s performance was rated as 'Proficient,' with instructors noting his conscientiousness, hard work, and leadership during an ambush exercise, though he showed some nervousness with detonators.",
+  "tags": [
+    "Paramilitary Training",
+    "Intelligence Collection",
+    "PBRUMEN II",
+    "Performance Evaluation",
+    "JMWAVE",
+    "Frank"
+  ],
+  "title": "Training Report - FRANK (PBRUMEN II)",
+  "date": "1966-08-30",
+  "persons_mentioned": [
+    "FRANK",
+    "Jerome M. Greiner",
+    "Joseph M. Hudacek"
+  ],
+  "recipient": "Director of Training",
+  "sender": "Jerome W. Greiner (Project Officer); Joseph M. Hudacek (Chief Instructor)"
+}

@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security": "Revealing investigations into anti-Castro groups and their activities, like bombings and communications, could compromise sources and methods, as well as ongoing operations. Specifically, the dispatch mentions a request to initiate inquiries in Panama City to determine the sender of a telegram and whether Orlando Bosch Avila was involved, cautioning that the source of the information should not be revealed.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This dispatch discusses the Boviatcato Insurreccional de Recuperacia Revolus caeris (MIRR), an anti-Fidel Castro organization led by Orlando Bosch Avila, and requests investigations into their activities, including a telegram sent to the Associated Press claiming responsibility for sabotage in Havana.",
+  "summary_one_paragraph": "This dispatch from the Chief of Station to Panama City concerns the anti-Fidel Castro organization MIRR, led by Orlando Bosch Avila, and their alleged involvement in sabotage activities in Havana, as claimed in a telegram sent to the Associated Press. The dispatch requests investigations in Panama City to identify the sender of the telegram and determine if Bosch or his associates were responsible, while also tasking JUCOBRA to check its sources for information connecting Bosch with the transmission. The dispatch includes references to other communications and FBI files related to MIRR and its activities.",
+  "tags": [
+    "MIRR",
+    "Cuban Power",
+    "Orlando Bosch Avila",
+    "Anti-Castro",
+    "Sabotage",
+    "FBI Investigation",
+    "Panama City",
+    "Telegram",
+    "Associated Press"
+  ],
+  "title": "MIRR (Group of Orlando Bosch Avila)",
+  "date": "1968-08-12",
+  "locations_mentioned": [
+    "Miami, Florida",
+    "Havana, Cuba",
+    "Panama City, Panama",
+    "New York"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Orlando Bosch Avila",
+    "Fidel Castro",
+    "Ted Ediger",
+    "Ernesto"
+  ],
+  "recipient": "Chief of Station, Panama City",
+  "sender": "Edwin M. Farrell"
+}

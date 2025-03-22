@@ -1,0 +1,43 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security": "Releasing information about Espinosa's contacts and activities, particularly his ties to Soviet entities, could compromise intelligence sources and methods. The memo states, \"He appears to be a Soviet contact, and that his wife...was reported to have been an agent of the Soviet security services.\" Sharing this may expose ongoing intelligence operations and sources involved in monitoring Soviet activities.",
+  "security_level": "Secret",
+  "summary": "A memo from the CIA to the FBI requesting permission to share information with German authorities regarding Eduardo Espinosa y Prieto, a Mexican diplomat suspected of Soviet ties and involvement in financing Communist activities.",
+  "summary_one_paragraph": "In a memo dated July 27, 1961, the CIA's Deputy Director of Plans requests permission from the FBI to share information with the German BfV regarding Eduardo Espinosa y Prieto, a Mexican Ambassador to Warsaw. The information includes Espinosa's past as an Alternate Permanent Delegate to the UN in New York, where he allegedly financed Communist Party activities, and his suspected ties to the Soviet Union, including his wife Tamara Espinosa, nee Pechkurova, who was reportedly an agent of the Soviet security services. The memo also notes conflicting opinions on Espinosa's allegiance, ranging from pro-U.S. to pro-Communist.",
+  "tags": [
+    "CIA",
+    "FBI",
+    "Eduardo Espinosa y Prieto",
+    "Soviet Union",
+    "Communist Activities",
+    "BfV",
+    "German Intelligence",
+    "Mexico",
+    "Tamara Espinosa",
+    "Kapustin"
+  ],
+  "title": "[Restricted]",
+  "date": "1961-07-27",
+  "locations_mentioned": [
+    "Mexico City, Mexico",
+    "Warsaw, Poland",
+    "United Nations Headquarters, New York City",
+    "Bremen, Germany",
+    "USSR",
+    "Shanghai",
+    "Bogota",
+    "Caracas",
+    "Togoland"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Eduardo Espinosa y Prieto",
+    "Tamara Espinosa, nee Pechkurova",
+    "Kapustin",
+    "Petrov",
+    "S. J. Papich"
+  ],
+  "recipient": "HQ",
+  "sender": "CIA"
+}

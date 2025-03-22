@@ -1,0 +1,35 @@
+{
+  "classification": "Personnel",
+  "document_type": "Paper, Textual Document",
+  "security": "This document reveals information about the investigation of an individual (MARTI, Manuel) and his family's potential communist affiliations. Releasing this information could potentially violate privacy and reveal intelligence-gathering methods related to assessing loyalty and security risks. According to the document, the investigation involved gathering information on SUBJECT'S father's association with the Puerto Rican Communist Party (PCP) and the American Labor Party (ALP). Sharing the information regarding SUBJECT or HIS sister being checked by local agencies could damage reputations and relationships, too.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A 1969 Department of the Army document regarding Manuel Marti, recommending that his retention in the Army is consistent with national security interests, based on a background investigation into his father's alleged communist affiliations.",
+  "summary_one_paragraph": "This document, dated April 8, 1969, from the Department of the Army, concerns PFC Manuel Marti and recommends his retention in the Army. The recommendation is based on a review prompted by SUBJECT'S father's reported associations with the Puerto Rican Communist Party (PCP) and American Labor Party (ALP). Despite the father's alleged communist activities, the investigation, including interviews, education checks, and employment checks, found no derogatory information about Marti himself; character references recommended him favorably, and he professed anti-communist views and loyalty to the U.S. Constitution. Therefore, headquarters considers that SUBJECT'S retention in the Army is clearly consistent with the interests of national security.",
+  "tags": [
+    "INSCOM/CSF",
+    "DOD",
+    "Personnel Investigation",
+    "Background Investigation",
+    "Puerto Rican Communist Party",
+    "American Labor Party",
+    "Character References",
+    "Loyalty",
+    "National Security"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1969-04-08",
+  "locations_mentioned": [
+    "San Juan, Puerto Rico",
+    "Mayaguez, Puerto Rico",
+    "New York City",
+    "Bronx County, NYC",
+    "Cuba"
+  ],
+  "origin_agency": "INSCOM/CSF (US Army)",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Donald A. Loos"
+  ],
+  "recipient": "CDR in Chief, USA, Pacific",
+  "sender": "Donald A. Loos"
+}

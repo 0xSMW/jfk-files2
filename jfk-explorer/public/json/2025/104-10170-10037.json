@@ -1,0 +1,29 @@
+{
+  "classification": "Liaison",
+  "document_type": "Classified Message",
+  "security": "The message identifies individuals in liaison roles (USIA Representative and Netherlands Consul) and their locations. Disclosing these identities and affiliations could potentially expose them to unwanted attention or pressure, particularly if their activities are related to sensitive intelligence matters. Sharing could undermine the relationships with foreign government officials and intelligence services.",
+  "security_level": "SECRET",
+  "summary": "A routine message identifies Collin E. Ostrander, a USIA representative, and Waldemar F. Lee, the Netherlands Consul, both located in San Juan.",
+  "summary_one_paragraph": "This classified message, dated November 8, 1962, originates from San Juan and is addressed to the Director. It identifies Collin E. Ostrander as a USIA representative and Waldemar F. Lee as the Netherlands Consul, both stationed in San Juan. The message is marked routine and includes routing information for various CIA divisions. It references a previous message (SJAN 0835) and concludes with the identifiers of the named individuals.",
+  "tags": [
+    "CIA",
+    "USIA",
+    "Netherlands Consul",
+    "Liaison",
+    "San Juan",
+    "Collin E. Ostrander",
+    "Waldemar F. Lee"
+  ],
+  "title": "Identification of Collin E. Ostrander and Waldemar F. Lee",
+  "date": "1962-11-08",
+  "locations_mentioned": [
+    "San Juan"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Collin E. Ostrander",
+    "Waldemar F. Lee"
+  ],
+  "recipient": "Director",
+  "sender": "San Juan"
+}

@@ -1,0 +1,30 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Memorandum",
+  "security": "This memo contains information about covert Agency employees and their affiliations, which is classified and requires protection. Specifically, it mentions that 'Subject's Agency affiliation remains classified information requiring protection' in reference to Robert Butler Moore, who retired in covert status. Releasing this information could compromise individuals and methods, damaging ongoing or future operations.",
+  "security_level": "SECRET",
+  "summary": "This memorandum from the Central Cover Staff (CCS) to the DDO/ISS/IF/EIS provides information on individuals listed in a request from the House Select Committee on Assassinations (HSCA), detailing Agency affiliations, cover establishment, and forwarding addresses.",
+  "summary_one_paragraph": "The memorandum, dated March 24, 1978, from the Central Cover Staff's Plans and Review Group to the DDO/ISS/IF/EIS, addresses a request from the House Select Committee on Assassinations (HSCA) by detailing information found in CCS files on five of nineteen listed individuals: Mrs. G. Stanley Brown (Verna Deane Stebbens Brown), David E. Murphy, Grayson (Grayston) Lynch, Robert Moore (Robert Butler Moore and Robert T. Moore, Jr.), and Bill Logay (William Join Logay); the information includes Agency affiliations, cover establishment, forwarding addresses, and a warning that Robert Butler Moore's Agency affiliation remains classified, while the remaining individuals listed in the HSCA request yielded no information in CCS files.",
+  "tags": [
+    "HSCA",
+    "Central Cover Staff",
+    "Agency Employees",
+    "Covert Status",
+    "Classification",
+    "FOIA"
+  ],
+  "title": "House Select Committee on Assassinations (HSCA) Request",
+  "date": "1978-03-24",
+  "persons_mentioned": [
+    "G. Stanley Brown",
+    "Verna Deane Stebbens Brown",
+    "David E. Murphy",
+    "Grayson Lynch",
+    "Robert Moore",
+    "Robert Butler Moore",
+    "Robert T. Moore, Jr.",
+    "Bill Logay",
+    "William Join Logay"
+  ],
+  "sender": "Plans and Review Group, Central Cover Staff"
+}

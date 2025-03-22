@@ -1,0 +1,26 @@
+{
+  "classification": "Commission",
+  "document_type": "Letter",
+  "security": "Releasing information about intelligence sharing and document handling between the CIA and ASIO could damage trust and cooperation, as it exposes internal decision-making processes and sensitivities around declassification. It confirms that the CIA sought the advice of a foreign intelligence agency regarding the release of Warren Commission documents and took their recommendation into account. Directly quoting: \"Should the question be raised at some future time, the points made by you in your letter provide every reason to keep the document out of the public domain.\"",
+  "security_level": "SECRET",
+  "summary": "Richard Helms acknowledges Sir Charles Spry's recommendation against declassifying Warren Commission document CO-971 and confirms there is no current intention to release it.",
+  "summary_one_paragraph": "In a letter dated November 26, 1968, CIA Director Richard Helms responds to Sir Charles C. F. Spry, Director General of the Australian Security Intelligence Organization (ASIO), regarding the declassification of Warren Commission document CO-971. Helms thanks Spry for his recommendation against declassification, stating that ASIO's points provide sufficient reason to keep the document private and confirms that there is no current intention to release CO-971 due to a lack of public pressure.",
+  "tags": [
+    "Warren Commission",
+    "Declassification",
+    "CO-971",
+    "ASIO",
+    "Richard Helms",
+    "Sir Charles Spry",
+    "Liaison"
+  ],
+  "title": "Letter Regarding Warren Commission Document CO-971 Declassification",
+  "date": "1968-11-26",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Richard Helms",
+    "Sir Charles C. F. Spry"
+  ],
+  "recipient": "Sir Charles C. F. Spry",
+  "sender": "Richard Helms"
+}

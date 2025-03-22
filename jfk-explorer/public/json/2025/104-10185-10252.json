@@ -1,0 +1,32 @@
+{
+  "classification": "Operations",
+  "document_type": "Memorandum",
+  "security": "Using an apartment that is \"too well known\" as a safehouse could compromise the operation and endanger AMMUG-1. Directly quoting: \"this address is too well known.\"",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This memorandum outlines the decision to use a specific apartment as a safehouse for AMMUG-1, despite concerns about the address being too well-known.",
+  "summary_one_paragraph": "On May 14, 1964, a memorandum records the verbal agreement with Mr. (Ray Scofield) to utilize apartment #731-West at HUNTING TOWERS, MT. VERNON BLVD., ALEXANDRIA, as a safehouse for AMMUG-1. The apartment, viewed by C/WH/SA/CI, was considered adequate. Libby (WH/SA/CI) and Mr. (Scofield) will inventory the household equipment around May 19, 1964, with plans to move AMMUG-1 in shortly after WED staffers finish debriefing. Mr. (Scofield) will notify Mr. (John Ryan) of the Safehouse Branch to cease searching for other apartments in the N.W. section of Washington.",
+  "tags": [
+    "Safehouse",
+    "AMMUG-1",
+    "Ray Scofield",
+    "John Ryan",
+    "Libby",
+    "Counterintelligence",
+    "Operations"
+  ],
+  "title": "Safehouse for AMMUG-1",
+  "date": "1964-05-14",
+  "locations_mentioned": [
+    "Alexandria",
+    "Washington, D.C."
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ray Scofield",
+    "John Ryan",
+    "Libby",
+    "AMMUG-1"
+  ],
+  "recipient": "Record",
+  "sender": "Libby (WH/SA/CI)"
+}

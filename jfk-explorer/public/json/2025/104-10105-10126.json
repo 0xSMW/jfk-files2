@@ -1,0 +1,26 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "This memo identifies potential security breaches and operational compromises within Phillips' manuscript. It mentions the potential exposure of female operatives in hostile regions, stating, \"the use of women provides us an operational flexibility which we would not otherwise have...statements from Mr. Phillips...will rather quickly bring the women we do use under increased scrutiny of hostile intelligence services.\" The memo also highlights the risk of compromising the cover of an officer by revealing a specific incident, noting that \"By citing the incident, Mr. Phillips removes that cover.\" Additionally, it points out a detail identifying the author himself, stating, \"To avoid damaging further what cover I have left, I would appreciate Mr. Phillips simply citing 'dog' or calling it a 'poodle.'\"",
+  "security_level": "SECRET",
+  "summary": "John H. Stein expresses concerns about David Phillips' manuscript, citing potential security breaches, operational compromises, and damage to the Agency's reputation, recommending it not be published.",
+  "summary_one_paragraph": "John H. Stein, Deputy Chief of the Soviet/East European Division, conveys his and colleagues' strong opposition to the publication of David Phillips' manuscript, arguing that it is superficial, based on classified knowledge, and potentially damaging to ongoing operations. Stein identifies specific passages that could compromise the Agency's use of women in sensitive regions, expose the cover of officers, and draw unwarranted criticism regarding the employment of minorities. He requests modifications to personal anecdotes to protect his own cover, emphasizing the need to prevent the book's publication to safeguard Agency interests and personnel.",
+  "tags": [
+    "David Phillips",
+    "Manuscript Review",
+    "Security Breach",
+    "Operational Compromise",
+    "Covert Operations",
+    "Personnel Security",
+    "Soviet/East European Division"
+  ],
+  "title": "Manuscript by David Phillips",
+  "date": "1976-06-03",
+  "origin_agency": "Office of Security",
+  "persons_mentioned": [
+    "David Phillips",
+    "John H. Stein"
+  ],
+  "recipient": "Chief, External Activities Branch",
+  "sender": "John H. Stein"
+}

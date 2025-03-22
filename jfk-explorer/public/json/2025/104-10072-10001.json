@@ -1,0 +1,48 @@
+{
+  "classification": "Guatemalan Exile Activities",
+  "document_type": "Field Information Report",
+  "security": "Revealing the identity of a high-level Central American exile source (identified as 'HUSSY') and the operational data collected could expose the source to danger. The use of accommodation addresses, cryptonyms, and distribution lists for sensitive information indicates established methods for protecting intelligence operations; disclosing these could compromise future operations. The report contains explicit commentary on the planned revolt in Guatemala: \"reference to the planned revolt which was discovered and destroyed by the Guatemalan Government in December 1955.\"",
+  "security_level": "SECRET",
+  "summary": "A field information report from San Jose, Costa Rica, dated 1 February 1956, details Guatemalan exile activities based on a letter intercepted from Col. Carlos PAZ Tejada, discussing a failed revolt and ongoing efforts against 'Maria Dolores' (likely a code for Guatemalan President Carlos CASTILLO Armas). The report identifies various individuals involved and their connections, providing insights into the political dynamics and planned actions of the exile group.",
+  "summary_one_paragraph": "This secret field information report, originating from San Jose, Costa Rica, on 1 February 1956, concerns Guatemalan exile activities as reported by Stefan R. Lebanos/s1, based on information from a high-level Central American exile source (HUSSY). The report focuses on an intercepted letter written by Col. Carlos PAZ Tejada (under the alias Col. Francisco COSENZA Galvez) to an accommodation address, discussing a failed revolt attempt in Guatemala during December 1955 and ongoing plans against 'Maria Dolores'. The report identifies key figures involved, including Ernesto WIEDERHEITMANN, Augusto CHARNAUD MadDonald, and Marco Antonio FRANCO Chacon, detailing their roles and disagreements within the exile group, while also commenting on the Communists and other contacts in El Salvador and Mexico.",
+  "tags": [
+    "CIA",
+    "Guatemala",
+    "Exile Activities",
+    "Carlos PAZ Tejada",
+    "Carlos CASTILLO Armas",
+    "Costa Rica",
+    "HUSSY",
+    "Intelligence Report",
+    "WIEDERHEITMANN",
+    "CHARNAUD",
+    "FRANCO",
+    "Communists"
+  ],
+  "title": "Guatemalan Exile Activities",
+  "date": "1956-02-01",
+  "locations_mentioned": [
+    "San Jose, Costa Rica",
+    "Guatemala",
+    "San Salvador",
+    "Washington",
+    "Mexico",
+    "Santiago",
+    "Panama"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Stefan R. Lebanos",
+    "Carlos PAZ Tejada",
+    "Francisco COSENZA Galvez",
+    "Ernesto WIEDERHEITMANN",
+    "Carlos CASTILLO Armas",
+    "Augusto CHARNAUD MadDonald",
+    "Marco Antonio FRANCO Chacon",
+    "Humberto GONZALEZ Juares",
+    "Adolfo GARCIA Montenegro",
+    "Juan Jose AREVALO"
+  ],
+  "recipient": "Guatemala, Washington, Mexico, El Salvador, Santiago, Panama",
+  "sender": "Stefan R. Lebanos"
+}

@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Revealing the details of covert operations, such as airdrops to anti-Castro forces, could jeopardize those operations and endanger the individuals involved. Specifically, the mention of quantities of weapons (pistols, submachine guns, bazookas) picked up by the GOC and anti-Castro forces, and the division of recovered arms among different groups like UNIDEN, could expose sources and methods. Quoting directly: \"AMYUMS REPORTED GOC PICKED UP-FOLL: 23 PISTOLS, 6 SUBMACHINE GUNS AND ONE BAZOOKA...REMAINDER CARGO BELIEVED IN HANDS ANTI CASTRO FORCES...SALE (FNU) PACHECO, LEADER UNIDEN GROUP, RECOVERED SIZABLE QUANTITY WHICH HE DIVIDED WITH (FNU) MESA.\"",
+  "security_level": "Priority",
+  "summary": "A priority cable reports on the aftermath of a failed airdrop to anti-Castro forces in the Escambray region of Cuba, detailing the recovery of weapons by both the Government of Cuba (GOC) and various anti-Castro groups.",
+  "summary_one_paragraph": "This priority cable, dated November 15, 1950, discusses the results of an airdrop intended to supply anti-Castro forces in the Escambray mountains of Cuba. The cable indicates that some of the dropped weapons, including pistols, submachine guns, and a bazooka, were recovered by the Government of Cuba (GOC), while the remaining cargo is believed to be in the hands of anti-Castro groups, including Sale Pacheco's UNIDEN group and FNU Mesa. Despite the failed drop, AMYUMS reports a positive morale effect on the Escambray fighters and notes successful drops by AKHAWK to Evelio Duque's forces.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Airdrop",
+    "Anti-Castro Forces",
+    "Escambray",
+    "Weapons",
+    "Covert Operation",
+    "AMYUMS",
+    "AKHAWK",
+    "Evelio Duque"
+  ],
+  "title": "Report on Airdrop to Anti-Castro Forces",
+  "date": "1950-11-15",
+  "locations_mentioned": [
+    "Cuba",
+    "Escambray",
+    "Trinidad Highway"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Evelio Duque",
+    "Sale Pacheco",
+    "FNU Mesa",
+    "NYINGO Mesa"
+  ],
+  "recipient": "DIR, MASH",
+  "sender": "AMYUMS"
+}

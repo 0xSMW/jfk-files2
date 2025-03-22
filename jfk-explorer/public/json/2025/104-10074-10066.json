@@ -1,0 +1,26 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security": "Revealing a request for derogatory information on a company, even for liaison purposes, could damage the CIA's relationship with that company or with the liaison service if the request becomes public. Quoting from the text: \"REQUEST ANY AVAILABLE DEROGATORY INFO, FOR PASSAGE TO LIAISON ON MILITARY ARMAMENT CORPORATION (MAC), MARIETTA, GEORGIA.\"",
+  "security_level": "SECRET",
+  "summary": "A cable from Brussels requests any derogatory information on the Military Armament Corporation (MAC) of Marietta, Georgia, for passage to a liaison. MAC recently shipped machine gun and pistol ammo to a local firm named U.S. Army Surplus Guns and Ammunition.",
+  "summary_one_paragraph": "This SECRET cable, originating from Brussels on October 22, 1974, requests any available derogatory information on the Military Armament Corporation (MAC) located in Marietta, Georgia. The information is intended for a liaison, and the request is prompted by MAC's recent shipment of machine gun and pistol ammunition to U.S. Army Surplus Guns and Ammunition. The cable indicates that there is no file currently available on MAC.",
+  "tags": [
+    "CIA",
+    "Military Armament Corporation",
+    "MAC",
+    "Liaison",
+    "Derogatory Information",
+    "Ammunition",
+    "Georgia"
+  ],
+  "title": "Request for Derogatory Information on Military Armament Corporation (MAC)",
+  "date": "1974-10-22",
+  "locations_mentioned": [
+    "Marietta, Georgia",
+    "Brussels"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "Director",
+  "sender": "Staff (Brussels)"
+}

@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Vital Documents File",
+  "security": "The document contains information about the agent Rolando CUBELA Secades, his position, location, communication methods, addresses, and emergency contact procedures. Disclosing this information could compromise the agent's identity, operations, and potentially endanger the agent and contacts.",
+  "security_level": "SECRET",
+  "summary": "A document detailing contact and communication information for agent Rolando CUBELA Secades (AM/LASH), including addresses in Madrid, New York, and Paris, plus emergency contact Carlos TEPEDINO and code names for communication.",
+  "summary_one_paragraph": "This SECRET document outlines contact information for agent Rolando CUBELA Secades, also known as AM/LASH, detailing his position as a radical Post&Departure Agent/Cmdte. Fajardo Hospital in Havana. It includes various addresses for correspondence: a Madrid address (Srta. Maria Dolores, GOMEZ), a New York P.O. Box (Mr. Humphrey R. Boncavil) for rapid communication, and a Paris address (UNSNAFU/9) for letter delivery, with 'Ramon' as the agent's signature. Additionally, the document lists local Havana addresses for agent receiving, Ernestina ACOSTA Gonzalez and Virginia Secades (Subject's mother), specifying code names 'Pepe' and 'Luis' for S/W messages and resupply indications respectively, as well as emergency contact information through Carlos TEPEDINO in N.Y.C.",
+  "tags": [
+    "Rolando CUBELA Secades",
+    "AM/LASH",
+    "Contact Information",
+    "Agent Communication",
+    "Havana",
+    "S/W system",
+    "Emergency Contact",
+    "Vital Documents"
+  ],
+  "title": "Rolando CUBELA Secades Contact Information",
+  "locations_mentioned": [
+    "Havana",
+    "Madrid",
+    "New York",
+    "Paris"
+  ],
+  "persons_mentioned": [
+    "Rolando CUBELA Secades",
+    "Maria Dolores GOMEZ",
+    "Humphrey R. Boncavil",
+    "Carlos TEPEDINO",
+    "Ernestina ACOSTA Gonzalez",
+    "Virginia Secades"
+  ],
+  "recipient": "Vital Documents File",
+  "sender": "Original"
+}

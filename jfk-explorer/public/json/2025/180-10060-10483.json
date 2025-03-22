@@ -1,0 +1,35 @@
+{
+  "classification": "Personnel",
+  "document_type": "Payroll Records",
+  "security": "The document contains employee Social Security Numbers (SSNs), which are redacted to prevent unwarranted invasion of personal privacy. The Review Board determined that public disclosure of these SSNs would outweigh the public interest.",
+  "security_level": "Unclassified (originally restricted)",
+  "summary": "This document comprises payroll records from the House Select Committee on Assassinations (HSCA) pertaining to Vivian L. McPherson, including payroll authorization forms, salary adjustments, and leave records. Social Security Numbers have been redacted to protect personal privacy, and the next review is scheduled for 2017.",
+  "summary_one_paragraph": "This collection of documents relates to the payroll records of Vivian L. McPherson, an employee of the House Select Committee on Assassinations (HSCA), covering the period from 1976 to 1978. Included are payroll authorization forms detailing McPherson's appointment, salary adjustments, title changes, and leave records. These documents, initially restricted, have been partially released with Social Security numbers redacted to prevent unwarranted invasion of personal privacy, as determined by the Assassination Records Review Board in 1995, with a subsequent review slated for 2017.",
+  "tags": [
+    "HSCA",
+    "Payroll Records",
+    "Vivian L. McPherson",
+    "Social Security Number",
+    "Personnel Records",
+    "Salary",
+    "Leave",
+    "House Select Committee on Assassinations",
+    "FOIA"
+  ],
+  "title": "HSCA Staff Payroll Records Regarding Vivian L. McPherson",
+  "date": "1976-10-01",
+  "locations_mentioned": [
+    "Washington, D.C."
+  ],
+  "origin_agency": "HSCA",
+  "persons_mentioned": [
+    "Vivian L. McPherson",
+    "Louis Stokes",
+    "Thomas Howarth",
+    "G. Robert Blakey",
+    "Henry B. Gonzalez",
+    "Thomas N. Downing",
+    "Richard A. Sprague"
+  ],
+  "recipient": "Clerk of the House of Representatives, House Finance Office, All Staff Employees"
+}

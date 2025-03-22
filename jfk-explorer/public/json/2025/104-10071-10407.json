@@ -1,0 +1,25 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security": "Revealing fingerprint formulas, even desensitized, could compromise identification methods used in law enforcement and intelligence. Disclosing positive identification of James Earl Ray as the accused assassin could potentially interfere with ongoing investigations or legal proceedings. The phrase \"Please pass to liaison\" indicates communication with external agencies; exposing such routine contact reveals operational relationships and compromises confidentiality.",
+  "security_level": "SECRET",
+  "summary": "A cable from Richard Ober to multiple stations relays the LNERGO fingerprint formula for James Earl Ray, instructing recipients to pass it to their liaison.",
+  "summary_one_paragraph": "On April 22, 1968, Richard Ober sent a SECRET cable to various CIA stations including Asuncion, Bangkok, Barcelona, and others, concerning James Earl Ray. The message, citing DIRECTOR 93538 and referencing DIRECTOR 93162, provides the LNERGO fingerprint formula for Ray (16, M over M, 9 over 4, U over W, O over 1, O over O, O over L, 12) and instructs the recipients to pass this information to their respective liaisons, indicating that LNERGO positively identified Ray as the accused assassin.",
+  "tags": [
+    "CIA",
+    "James Earl Ray",
+    "LNERGO",
+    "Fingerprint Formula",
+    "Liaison",
+    "Identification",
+    "WOMUSE"
+  ],
+  "title": "LNERGO Fingerprint Formula for James Earl Ray",
+  "date": "1968-04-22",
+  "persons_mentioned": [
+    "Richard Ober",
+    "James Earl Ray"
+  ],
+  "recipient": "32 ALL (Multiple Stations)",
+  "sender": "Richard Ober"
+}

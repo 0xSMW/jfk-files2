@@ -1,0 +1,51 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "Revealing that the CIA checked the backgrounds of potential DEA informants and liaison contacts, especially due to concerns of a \"provocation operation by another government,\" exposes sensitive investigative protocols. Directly quoting: \"DEA, concerned that it may be the target of a provocation operation by another government, requested this Agency's assessment of the situation.\" This disclosure could be exploited by foreign entities to compromise DEA operations or to manipulate potential sources and contacts.",
+  "security_level": "SECRET",
+  "summary": "A CIA memorandum, dated March 17, 1976, provides background checks on five Cuban exiles for the Drug Enforcement Administration (DEA), assessing their potential involvement in a provocation operation and finding no evidence to support such concerns.",
+  "summary_one_paragraph": "This SECRET memorandum from the CIA to the DEA, dated March 17, 1976, relays background checks on five Cuban exiles—Mario Eloy JIMENEZ-Rojo, Orlando GARCIA Vasquez, Ricardo MORALES Navarette, Justo LAZARO Alfonso, and Manuel De ARMAS—who came to the DEA's attention as potential informants or contacts. The DEA requested the CIA's assessment fearing a provocation operation, as the individuals had past records of \"political and revolutionary intrigue\"; the CIA found that while some had past connections and questionable backgrounds (such as membership in anti-Castro groups or former intelligence roles), there was no conclusive evidence to suggest they were part of an organized effort to discredit the U.S. Government or the DEA, concluding any collusion among them was likely for personal gain.",
+  "tags": [
+    "CIA",
+    "DEA",
+    "Cuban Exiles",
+    "Background Check",
+    "Informants",
+    "Provocation Operation",
+    "Narcotics",
+    "UIR",
+    "Cuban Intelligence",
+    "Counterintelligence"
+  ],
+  "title": "Cuban Exiles Involved with DEA",
+  "date": "1976-03-17",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Cuba",
+    "Miami, Florida",
+    "Caracas, Venezuela",
+    "Mexico"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "John Warner",
+    "Robert Goe",
+    "Mario Eloy JIMENEZ-Rojo",
+    "Fidel Castro",
+    "Alfredo Duncan",
+    "Dyalma Balasquide",
+    "Orlando GARCIA Vasquez",
+    "Fidel Castro",
+    "Romulo BETANCOURT",
+    "Michael D. Brom",
+    "Ricardo MORALES Navarette",
+    "Justo LARAZO Alfonso",
+    "Manuel De ARMAS",
+    "Raul BETANCOURT",
+    "Antonieta BETANCOURT",
+    "Mariela BETANCOURT",
+    "John P. Kennedy"
+  ],
+  "recipient": "Mr. John Warner, Chief, International Intelligence Division, Office of Intelligence, Drug Enforcement Administration",
+  "sender": "John P. Kennedy, Special Assistant for Coordination of Foreign Narcotics Information"
+}

@@ -1,0 +1,49 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Disclosing details of the agent's contact procedures and re-contact plans, including telephone numbers and meeting locations, could expose the agent to hostile actors. Specificity in how agents communicate in emergencies presents a significant risk, as does detailing surveillance methods and associated individuals. Quoting the document directly: \"Agent contacts the C/O by phone either at the office or at the C/O's home...The agent will recontact the C/O...\" and \"The agent will call the Embassy and request 'Stuardo', the new C/O will state that he is a friend of Gataric...\"",
+  "security_level": "SECRET",
+  "summary": "A collection of cables from March-May 1973 concerning Luis Clemente Posada Carriles (WKSCARLET-3), his suspected narcotics trafficking activities, and associated surveillance efforts in multiple locations, including Madrid and Rome; also includes agent contact procedures and identifying information.",
+  "summary_one_paragraph": "This collection of cables, dated from March to May 1973, focuses on Luis Clemente Posada Carriles (codenamed WKSCARLET-3) and the surveillance of his activities, particularly regarding suspected narcotics trafficking. The cables detail Posada's movements with Camilo Vicente Cusati, including their travels from Madrid to Rome, and express concern over BNDD’s lapses in surveillance. The messages also include background checks on individuals possibly connected to Posada, such as Ronald Condon and Syla Cuervo. Furthermore, the documents outline contact and re-contact procedures for WKSCARLET-3, including emergency protocols and aliases, as well as physical descriptors and addresses.",
+  "tags": [
+    "CIA",
+    "Luis Clemente Posada Carriles",
+    "WKSCARLET-3",
+    "Narcotics Trafficking",
+    "Surveillance",
+    "BNDD",
+    "Counterintelligence",
+    "Miami",
+    "Rome",
+    "Madrid"
+  ],
+  "title": "POSADA, LUIS CLEMENTE",
+  "date": "1973-03-15",
+  "locations_mentioned": [
+    "Caracas",
+    "Madrid",
+    "Rome",
+    "Miami",
+    "Buenos Aires",
+    "Bogota",
+    "Cuba",
+    "Havana",
+    "Altamira",
+    "La Castellana"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Luis Clemente Posada Carriles",
+    "Camilo Vicente Cusati Cusati",
+    "Humberto Trueva",
+    "Jose Gomez",
+    "Panella",
+    "Stemerman",
+    "Ronald Condon",
+    "Syla Cuervo",
+    "Francisco Con Dongil",
+    "Frank Condon"
+  ],
+  "recipient": "DIRECTOR, ROME, CARACAS",
+  "sender": "Chief of Station, Caracas"
+}

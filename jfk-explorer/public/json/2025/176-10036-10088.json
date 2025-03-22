@@ -1,0 +1,31 @@
+{
+  "classification": "Vietnam",
+  "document_type": "Telegram Information Report",
+  "security": "Revealing plans for the reoccupation of North Vietnam, including details of intelligence gathering through questionnaires and statements related to expanding military action into Laos and Cambodia. It could also expose sources, methods, and intelligence-gathering capabilities in Vietnam. Specifically, the document states: \"ON 20 OCTOBER 1962 MINISTER FOR CIVIC ACTION NGO TRONG HIEU TOLD THREE OF HIS ASSISTANTS THAT HE HAD BEEN DIRECTED TO ASSIST IN PLANNING FOR THE REOCCUPATION OF NORTH VIETNAM...PEOPLE WHO FORMERLY LIVED IN NORTH VIETNAM WOULD BE REQUIRED TO COMPLETE A SECOND QUESTIONNAIRE...\"",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A CIA telegram reports on planning for the reoccupation of North Vietnam, detailing the involvement of South Vietnamese officials in creating questionnaires to gather information from people in South Vietnam and former North Vietnamese residents.",
+  "summary_one_paragraph": "This confidential CIA telegram, dated November 20, 1962, relays information about South Vietnam's Minister for Civic Action, Ngo Trong Hieu, directing his assistants to assist in planning for the reoccupation of North Vietnam. The plan involves drafting questionnaires for selected individuals in South Vietnam and former residents of North Vietnam to gather information on acquaintances still in the North. The telegram also references statements by Ngo Dinh Nhu regarding the Self-Defense Corps and a potential march to the North, as well as a historical narrative linking strategic hamlets to the return of Vietnamese people towards the North.",
+  "tags": [
+    "CIA",
+    "Vietnam",
+    "North Vietnam",
+    "Reoccupation",
+    "Ngo Trong Hieu",
+    "Ngo Dinh Nhu",
+    "Strategic Hamlets",
+    "Intelligence Gathering"
+  ],
+  "title": "Indication of Planning",
+  "date": "1962-11-20",
+  "locations_mentioned": [
+    "South Vietnam",
+    "North Vietnam",
+    "Laos",
+    "Cambodia"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ngo Trong Hieu",
+    "Ngo Dinh Nhu"
+  ]
+}

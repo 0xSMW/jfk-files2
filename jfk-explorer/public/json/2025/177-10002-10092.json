@@ -1,0 +1,38 @@
+{
+  "classification": "Administrative",
+  "document_type": "Paper, Textual Document",
+  "security": "This document contains classified information affecting the national security of the United States within the meaning of the espionage laws, US Code, Title 18, Sections 793, 794, and 798. The law prohibits its transmission or the revelation of its contents in any manner to an unauthorized person, as well as its use in any manner prejudicial to the safety or interest of the United States or for the benefit of any foreign government to the detriment of the United States.",
+  "security_level": "Top Secret",
+  "summary": "A CIA document, dated November 26, 1963, contains an assessment by the Brazilian Ambassador regarding the likely foreign and domestic policies of the Johnson Administration following President Kennedy's assassination.",
+  "summary_one_paragraph": "This Top Secret CIA document from November 26, 1963, reveals the Brazilian Ambassador's assessment of President Lyndon B. Johnson's administration. The ambassador predicts continuity in foreign policy in the short term but anticipates a shift towards a less rigid stance with Western Europe (especially France) and a more conservative approach to domestic policy, characterized by compromise with Congress on major bills. The ambassador also suggests Johnson's close ties with Congress and his Southern background could aid in legislative approval, though he expects pressure from the Democratic Party's liberal wing to prevent radical change.",
+  "tags": [
+    "Lyndon B. Johnson",
+    "JFK Assassination",
+    "Brazilian Ambassador",
+    "Foreign Policy",
+    "Domestic Policy",
+    "CIA",
+    "Top Secret",
+    "Intelligence Assessment"
+  ],
+  "title": "Brazilian Ambassador Assesses Johnson Administration",
+  "date": "1963-11-26",
+  "locations_mentioned": [
+    "Washington",
+    "Rio de Janeiro",
+    "Brazil",
+    "Soviet Union",
+    "Western Europe",
+    "France",
+    "Kremlin",
+    "Latin America"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Lyndon B. Johnson",
+    "John F. Kennedy",
+    "Roberto Campos"
+  ],
+  "recipient": "Foreign Ministry",
+  "sender": "Brazilian Embassy"
+}

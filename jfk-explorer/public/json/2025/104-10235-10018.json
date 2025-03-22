@@ -1,0 +1,44 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Classified Message",
+  "security": "Revealing the specifics of AMBUD-1's visit, including planned meetings with key political figures, could compromise the security and effectiveness of the operation. The financing of the operation by STATION KXMXMEE for 'VOCAL PROP VALUE' also reveals intelligence methods.",
+  "security_level": "SECRET",
+  "summary": "Two classified messages detail arrangements for AMBUD-1's visit to PACY (Panama City), including meetings with political figures, and the financing of the operation for propaganda purposes.",
+  "summary_one_paragraph": "These secret messages, dated June 8, 1962, outline the logistical arrangements for 'AMBUD-1's' visit to PACY (Panama City). The visit includes a reception at Tocumen International Airport, meetings with influential figures such as Narcisco Caray (Rector of the University of Panama), Carlos Arosemena, and Luis Alfaro, as well as a supper with HYHULA-1 and Dulcido Gonzalez. Scheduled interviews are planned with HYJULA-1, President Chiari, Formin Galileo Solis, and other cabinet ministers. The operation is partly financed by STATION KXMXMEE for its vocal propaganda value, with intentions to disseminate related media in multiple locations. The second message identifies Marco Robles as Minister of Government and Justice.",
+  "tags": [
+    "CIA",
+    "AMBUD-1",
+    "PACY",
+    "Panama",
+    "Propaganda",
+    "HYHULA-1",
+    "Chiari",
+    "Marco Robles",
+    "Political Figures",
+    "KXMXMEE"
+  ],
+  "title": "Arrangements for AMBUD-1 Visit to Panama",
+  "date": "1962-06-08",
+  "locations_mentioned": [
+    "Panama City, Panama",
+    "Tocumen International Airport",
+    "Guatemala",
+    "El Salvador",
+    "San Jose",
+    "Tegucigalpa"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AMBUD-1",
+    "Narcisco Caray",
+    "Carlos Arosemena",
+    "Luis Alfaro",
+    "HYHULA-1",
+    "Dulcido Gonzalez",
+    "President Chiari",
+    "Formin Galileo Solis",
+    "Marco Robles"
+  ],
+  "recipient": "WAVE, DIR, MANA, GUAT, SALV, CITEPACY, TEGU, SANJ",
+  "sender": "Unknown"
+}

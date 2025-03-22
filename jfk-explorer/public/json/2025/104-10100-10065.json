@@ -1,0 +1,33 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "This message contains information that, if disclosed, could reveal active intelligence sources (KUDESK, ZROCKAN) and their connection to specific individuals (A RUPEK DUDIM, ARLETTE FRANCOISE REZARIFEND). Sharing these code names and associations could jeopardize ongoing intelligence operations and the safety of involved individuals.",
+  "security_level": "SECRET",
+  "summary": "A classified message from the Director to Mexico City identifies A RUPEK DUDIM and ARLETTE FRANCOISE REZARIFEND, also known as CARTIER, born on March 2, 1936, in Paris, France, and references KUDESK ZROCKAN.",
+  "summary_one_paragraph": "This SECRET classified message from the Director to the Mexico City station identifies two individuals: A RUPEK DUDIM, associated with the number 201-83827, and ARLETTE FRANCOISE REZARIFEND, who is also known as CARTIER and was born in Paris, France, on March 2, 1936. The message references the codes KUDESK and ZROCKAN and notes that dissemination is applicable to RYBAT ZROCEAN cables.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "KUDESK",
+    "ZROCKAN",
+    "A RUPEK DUDIM",
+    "ARLETTE FRANCOISE REZARIFEND",
+    "CARTIER",
+    "RYBAT ZROCEAN",
+    "Identification"
+  ],
+  "title": "Identification of A RUPEK DUDIM and ARLETTE FRANCOISE REZARIFEND",
+  "date": "unknown",
+  "locations_mentioned": [
+    "Mexico City",
+    "Paris, France"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "A RUPEK DUDIM",
+    "ARLETTE FRANCOISE REZARIFEND",
+    "CARTIER"
+  ],
+  "recipient": "MEXI",
+  "sender": "Director"
+}

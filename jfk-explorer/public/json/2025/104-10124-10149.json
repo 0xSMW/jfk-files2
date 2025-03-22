@@ -1,0 +1,33 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "The memo discusses the Agency's relationship with Chief Hugh C. McDonald and Courtney Owens. Disclosing that Hugh C. McDonald is a 'cleared TSD consultant' and that Courtney Owens is a 'TSD/B cleared source' reveals sensitive operational details. The memo also mentions Townsend Corporation 'will advise the Agency of those sold to foreign powers'. This exposes potential CIA involvement in monitoring foreign sales, which could damage the Agency's relationship with these entities and the foreign powers involved.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memo from the Chief of TSD/Security to the Security Staff, Office of Logistics, regarding an Identi-kit project and a magazine article that incorrectly stated the U.S. Intelligence underwrote the development, prompting an investigation into potential disclosure of classified information.",
+  "summary_one_paragraph": "The memorandum, dated March 21, 1960, from the Chief of TSD/Security to the Security Staff, Office of Logistics, addresses an article in \"Science and Mechanics\" magazine that inaccurately reported U.S. Intelligence funding for the Identi-kit's development. The memo clarifies that TSD has invested $82,531 in the project under the EAPWORT Program and that Chief Hugh C. McDonald, a cleared TSD consultant, was involved, having been briefed by Mr. Anderson of TSD/EB and sponsored by the Agency for travel. Courtney Owens, sales manager of Townsend Engineering Corporation, is identified as a cleared TSD/B source who understands the Agency's interest in the Kit. The memo suggests interviewing Mr. McDonald to investigate the source of the misinformation in the article and to re-brief him, while also determining if other Agency components have used McDonald as a contact.",
+  "tags": [
+    "Identi-kit",
+    "TSD",
+    "Security",
+    "Hugh C. McDonald",
+    "Courtney Owens",
+    "Townsend Corporation",
+    "EAPWORT Program",
+    "Source",
+    "Consultant",
+    "Publicity"
+  ],
+  "title": "Identi-kit SO 9-527",
+  "date": "1960-03-21",
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Hugh C. McDonald",
+    "Anderson",
+    "Courtney Owens",
+    "Robert Swendiman",
+    "James P. O'Connor",
+    "Jones"
+  ],
+  "recipient": "Security Staff, Office of Logistics",
+  "sender": "Chief, TSD/Security"
+}

@@ -1,0 +1,33 @@
+{
+  "classification": "Liaison",
+  "document_type": "Message",
+  "security": "Stations are requested to avoid involving station officers in negotiations even in their cover capacities. If circumstances such that this unavoidable, please advise HQS by cable so that the matter can be appropriately handled with Blakey and Department.",
+  "security_level": "SECRET",
+  "summary": "A message regarding the House Select Committee on Assassinations' (HSCA) investigation into the assassinations of President Kennedy and Martin Luther King, Jr., specifically concerning James Earl Ray's potential leads in Portugal, the UK, and Mexico.",
+  "summary_one_paragraph": "This message relays information about the U.S. House of Representatives Select Committee on Assassinations' (HSCA) investigation into the assassinations of President Kennedy and Dr. Martin Luther King, focusing on James Earl Ray. The committee, led by G. Robert Blakey, intends to pursue leads in Portugal, the UK, and Mexico related to Ray's movements before his apprehension. The message instructs stations to advise embassies but to avoid direct involvement of station officers in negotiations, unless unavoidable, in which case Headquarters should be informed.",
+  "tags": [
+    "HSCA",
+    "James Earl Ray",
+    "Martin Luther King assassination",
+    "Kennedy assassination",
+    "Investigation",
+    "Liaison"
+  ],
+  "title": "King assassination",
+  "date": "1977-11-14",
+  "locations_mentioned": [
+    "Portugal",
+    "UK",
+    "Mexico",
+    "Lisbon",
+    "London"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "James Earl Ray",
+    "G. Robert Blakey",
+    "President Kennedy",
+    "Martin Luther King"
+  ],
+  "recipient": "LISBON, LONDON, MEXICO CITY"
+}

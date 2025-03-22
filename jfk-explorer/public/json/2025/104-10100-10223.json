@@ -1,0 +1,38 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "Revealing the approach and assessment activities toward the Chinese delegation members, including names and code names, could compromise ongoing or future intelligence operations and damage relationships with individuals involved. Quoting directly: '...UNILATERAL APPROACHES MADE TO YANG TING-PAO AND LIANG SZU-CHENG FOR PURPOSES OF ASSESSMENT AND POSSIBLE DEBRIEFING, DEFECTION OR RECHUITMENT IN PLACE...COVER RESEARCH SCHOLAR CHINA.' Also, mentioning \"long range COAL of future follow up these CONTACTS\" reveals long-term strategy.",
+  "security_level": "SECRET",
+  "summary": "A CIA cable from Rio de Janeiro and Mexico City to the Director reports on a Chinese delegation attending architectural events in Havana and Mexico City, detailing unilateral approaches made to delegation members for assessment and possible recruitment, and requesting further investigation in Brazil.",
+  "summary_one_paragraph": "This classified message, sent from Rio de Janeiro and Mexico City to the Director on October 16, 1963, concerns a Chinese delegation attending architectural events in Havana and Mexico City. The message details unilateral approaches made to Yang Ting-Pao and Liang Szu-Cheng, two members of the delegation, for assessment and possible recruitment, with one contact using the cover of a 'research scholar China' and another being a former student of one of the delegates. The cable also mentions that Wu Ching-Hsiang's brother, a U.S. citizen, will be arriving in Mexico to discuss Wu's potential defection and requests that the Rio de Janeiro station attempt to develop further bio and assessment data on the group, while also identifying other members of the Mexican group en route to Rio.",
+  "tags": [
+    "CIA",
+    "Chinese Delegation",
+    "Architects",
+    "Havana",
+    "Mexico City",
+    "Recruitment",
+    "Assessment",
+    "KAPOK",
+    "LCHARVEST",
+    "Counterintelligence"
+  ],
+  "title": "Chinese Delegation to Architectural Events in Havana and Mexico City",
+  "date": "1963-10-16",
+  "locations_mentioned": [
+    "Rio de Janeiro",
+    "Mexico City",
+    "Havana",
+    "China",
+    "Shanghai",
+    "United States"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Yang Ting-Pao",
+    "Liang Szu-Cheng",
+    "Wu Ching-Hsiang"
+  ],
+  "recipient": "Director",
+  "sender": "Rio de Janeiro, Mexico City"
+}

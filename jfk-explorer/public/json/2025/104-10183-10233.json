@@ -1,0 +1,37 @@
+{
+  "classification": "Operations",
+  "document_type": "Classified Message",
+  "security": "Suggest Station consider using non-attributable batteries made FRAN if ROME cannot provide.” This suggests an effort to conceal the origin of equipment used in covert operations, which could damage relationships with allies if exposed. The document also discusses the risk of \"unretrievable equipment\" and potential compromise of \"liaison equity.\" Further, the reference to 'limited life battery installation plus which militate' suggests use of surveillance equipment, and exposing technical specifications of such could compromise future operations.",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "A classified message discussing the risks and alternatives for a proposed operation involving surveillance equipment, focusing on the security of liaison relationships and the potential compromise of equipment.",
+  "summary_one_paragraph": "This SECRET classified message from the Director to Paris, Rome, and Frankfurt concerns the logistics and security of a proposed operation (referenced in PARI 3867). The message addresses the risk of unretrievable equipment and the impact on liaison equity, suggesting the use of limited-life batteries and caution due to UNION’s contact with HEFAIRY. Alternatives such as inductive taps on UNSOX wires are considered, and the possibility of a similar operation in mid-May using non-attributable equipment is raised. The message also requests information from Rome about available equipment and batteries, and suggests using French-made non-attributable batteries if needed.",
+  "tags": [
+    "CIA",
+    "Surveillance",
+    "Liaison",
+    "Security",
+    "Equipment",
+    "Operations",
+    "Audio Target"
+  ],
+  "title": "Proposed Operation Logistics and Security",
+  "date": "1964-04-04",
+  "locations_mentioned": [
+    "Paris",
+    "Rome",
+    "Frankfurt"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "HEFAIRY",
+    "AMWEIF",
+    "E. Brennan",
+    "R. Walsh",
+    "J. Mertz",
+    "R. Craven",
+    "R. Loetss",
+    "Thomas F. Thele"
+  ],
+  "recipient": "Paris, Rome, Frankfurt",
+  "sender": "Director"
+}

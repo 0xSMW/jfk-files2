@@ -1,0 +1,36 @@
+{
+  "classification": "Personnel",
+  "document_type": "Dispatch",
+  "security": "Revealing the subject’s salary and bonus structure, operational expenses, and potential death benefit could expose the financial arrangements and operational support provided to agents, potentially compromising their security and the nature of their activities. For example, “Subject will be paid compensation at the rate of $ 448.14 per month. Such payments to be nade following completion of satisfactory service… In the event of Subject's death in the line of duty, an amount not to exceed $5,000.00 will bo paid to Subject's estate.” Revealing the real name and personal information, such as Social Security Number, associated with a project compromises security.",
+  "security_level": "SECRET",
+  "summary": "A dispatch from the Chief of Station, JMWAVE, to the Deputy Chief, WH/SA, regarding an amendment to the Memorandum of Oral Commitment (MOC) for subject 201-307337, which includes a salary raise and a change in the funding mechanism. The amendment details the subject's compensation, citizenship, tax obligations, and other operational commitments.",
+  "summary_one_paragraph": "This dispatch, dated 25 June 1964, addresses an amendment to the Memorandum of Oral Commitment for subject 201-307337, a Cuban citizen born on February 14, 1937, residing in Miami, Florida, and engaged under an oral contract for use under TYPIC charged against FI Boat center. The primary action is to record the amendment, which raises the subject's net salary from $350.00 to $400.00 per month, paid directly by JMWAVE after the New York funding mechanism was discontinued on June 15, 1964. The dispatch also includes details about the subject's compensation at $448.14 per month, tax obligations, potential bonus of up to $100.00, and a $5,000.00 death benefit, along with an IDEN sheet providing the subject's real name and Social Security number.",
+  "tags": [
+    "JMWAVE",
+    "TYPIC",
+    "MOC Amendment",
+    "Salary Increase",
+    "Operational Expenses",
+    "Cuban Agent",
+    "FI Boat Center"
+  ],
+  "title": "CMOC Amendment for Subject of 201-307337",
+  "date": "1964-06-25",
+  "locations_mentioned": [
+    "Miami, Florida",
+    "Matanzas, Cuba",
+    "Cuba",
+    "United States",
+    "Canada",
+    "Mexico",
+    "Canal Zone",
+    "Republic of Panama"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Andrew K. REUTEMAN",
+    "Miguel DIAZ Isalgue"
+  ],
+  "recipient": "Deputy Chief, WH/SA",
+  "sender": "Chief of Station, JMWAVE"
+}

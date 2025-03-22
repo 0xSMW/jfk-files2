@@ -1,0 +1,47 @@
+{
+  "classification": "Operations",
+  "document_type": "Classified Message",
+  "security": "The message discusses contacts and potential recruitment of individuals associated with Cuban embassies and organizations, which could compromise ongoing operations and relationships. The document discusses plans to \"stimulate further disaffection\" among Cuban personnel through propaganda, which could be viewed as interference in Cuban affairs. \"He wants begin mailing propaganda and letters to stimulate further disaffection personnel.\"",
+  "security_level": "SECRET",
+  "summary": "A secret message from the Paris station reports on the activities of \"RAY,\" who is cultivating contacts within Cuban circles in Europe to gather intelligence and potentially recruit individuals for anti-Castro activities. The message details RAY's interactions with various individuals and organizations, as well as requests for support from headquarters.",
+  "summary_one_paragraph": "This classified message from the Paris station details the European activities of an agent, \"RAY,\" who is attempting to establish contacts within Cuban embassies and organizations to gather intelligence and recruit individuals for anti-Castro operations. RAY has been in contact with various individuals, including \"JERVAY\" and contacts associated with UNRUMBLE 6 and AMSPORT 1, and is attempting to secure the cooperation of individuals like CABRERA and FRANQUI. RAY requests support from headquarters, including an updated list of Cuban embassy personnel in Europe for propaganda purposes, training in a secure communication system, and assistance in finding a job for CABRERA.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Anti-Castro",
+    "Recruitment",
+    "Intelligence Gathering",
+    "Propaganda",
+    "KUBARK"
+  ],
+  "title": "Report on RAY's Activities in Europe",
+  "date": "1963-06-19",
+  "locations_mentioned": [
+    "Paris",
+    "Madrid",
+    "Brussels",
+    "Europe",
+    "Cuba",
+    "Puerto Rico"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "RAY",
+    "JERVAY",
+    "UNRUMBLE 6",
+    "UNPAPIST",
+    "AMSPORT 1",
+    "Alberto Baez",
+    "CABRERA",
+    "ARCOS",
+    "GUILLON DE MOULINS",
+    "FRANQUI",
+    "NAUMAN",
+    "GROVERY",
+    "GRAMATGES",
+    "SINOBAS",
+    "Mario Garcia Varela"
+  ],
+  "recipient": "Director",
+  "sender": "Paris"
+}

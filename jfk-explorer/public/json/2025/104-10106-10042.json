@@ -1,0 +1,28 @@
+{
+  "classification": "Operations",
+  "document_type": "Agreement",
+  "security": "This document details an agreement between the CIA and International Art Associates, Ltd. to place Richard T. Gibson on retainer through the company while concealing the CIA's involvement. Revealing this agreement would expose a covert relationship between the CIA and a private company, potentially compromising the agency's operational methods and damaging its reputation. Quoting directly: 'All information relating to this Agreement is classified secret. Both CIA and the Company agree that the most stringent safeguards will be taken to protect this information, including the existence of the agreement.'",
+  "security_level": "SECRET",
+  "summary": "The CIA entered into an agreement with International Art Associates, Ltd. to place Richard T. Gibson on retainer, with the company serving as a front to conceal the CIA's involvement and providing $10,000 per year in support.",
+  "summary_one_paragraph": "This document outlines an agreement between the Central Intelligence Agency (CIA) and International Art Associates, Ltd., effective October 1, 1976, in which the company agrees to place Richard T. Gibson on retainer for $9,000 per year, paid in monthly increments. In return for this arrangement, the CIA will pay International Art Associates, Ltd. $10,000 annually to cover any expenses incurred. The agreement stipulates that the company must not offer Gibson direct employment or accept employment proposals from him without CIA consent for two years after the agreement's termination and emphasizes the classified nature of the arrangement, requiring strict safeguards to protect its confidentiality.",
+  "tags": [
+    "CIA",
+    "Covert Operation",
+    "Richard T. Gibson",
+    "International Art Associates",
+    "Agreement",
+    "Retainer",
+    "Secrecy",
+    "E2IMPDET"
+  ],
+  "title": "Agreement between CIA and International Art Associates, Ltd.",
+  "date": "1976-10-20",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Emmett M. Steele",
+    "John J. Murray, Jr.",
+    "Richard T. Gibson"
+  ],
+  "recipient": "Mr. Emmett M. Steele",
+  "sender": "Special Contracting Officer"
+}

@@ -1,0 +1,38 @@
+{
+  "classification": "Vietnam",
+  "document_type": "Telegram",
+  "security": "This document details proposed CIA and USOM activities in Vietnam, including the development of a national communist party penetration service and consolidation of civil police functions. It outlines specific operational details, such as the deployment of CAS officers at regional directorates and financial assistance for agent networks in provinces. Exposing these plans could compromise ongoing intelligence operations, reveal sensitive methods of internal security management, and damage relationships with Vietnamese counterparts.",
+  "security_level": "SECRET",
+  "summary": "A telegram from Saigon discusses opportunities to exploit new management within Vietnamese national police and security service, proposing increased assistance, training, and US personnel for liaison and project management.",
+  "summary_one_paragraph": "This telegram, dated November 16, 1961, from the U.S. Embassy in Saigon, addresses the Task Force on Vietnam and outlines opportunities for the U.S. to exploit changes in the management of the Vietnamese national police and security services. It suggests developing a National Communist Party Penetration Service, managed by the CAS with officers at regional directorates, and increased collaboration between USOM and Vietnamese authorities to consolidate civil police functions and improve internal security. The message emphasizes the need for additional U.S. personnel, financial support, and training programs to maximize the potential of these initiatives, urging the Task Force to fully support the proposed activities by CAS and USOM.",
+  "tags": [
+    "Vietnam",
+    "National Security",
+    "CIA",
+    "USOM",
+    "Intelligence",
+    "Police",
+    "Security",
+    "Communist Party Penetration",
+    "Task Force"
+  ],
+  "title": "Embtel 660 (Saigon) Re: Task Force on Vietnam",
+  "date": "1961-11-16",
+  "locations_mentioned": [
+    "Saigon",
+    "Hue",
+    "Nha Trang",
+    "Ban Me Thuot",
+    "Bien Hoa",
+    "Saigon/Cholon",
+    "Can Tho"
+  ],
+  "origin_agency": "DOS",
+  "persons_mentioned": [
+    "Nguyen Van Y",
+    "Nguyen Vanela",
+    "Nolting"
+  ],
+  "recipient": "Secretary of State",
+  "sender": "From: SAIGON"
+}

@@ -1,0 +1,44 @@
+{
+  "classification": "Operations",
+  "document_type": "File Documents/Dispatches",
+  "security": "This document reveals details about CIA operational methods and equipment used in Mexico City. It also contains codenames and file numbers associated with specific projects and individuals. Releasing this information could compromise ongoing intelligence activities and expose assets. For example, it notes, 'Two of the Station photographic operations, KDAFACTOR and...have been active...' and mentions specific equipment requirements.",
+  "security_level": "SECRET",
+  "summary": "This collection of documents relates to the CIA's AQUATIC and KDAFGHAN projects in Mexico City, including equipment requests, passport renewals for KDAFGHAN-1 and KDAFGHAN-2, and file management actions.",
+  "summary_one_paragraph": "This compilation of documents outlines various aspects of CIA operations in Mexico City related to the AQUATIC and KDAFGHAN projects. Included are requests for specialized photographic equipment such as catadioptric lenses for Balskope lens systems used in ID photography at KDACOUSTIC, and renewal requests for Cuban passports for KDAFGHAN-1 and KDAFGHAN-2. File actions, cryptonym changes, and equipment used in projects LILYRIC, BICAL, and LIONION are also mentioned, along with administrative matters like file maintenance and routing instructions.",
+  "tags": [
+    "CIA",
+    "AQUATIC",
+    "KDAFGHAN",
+    "Mexico City",
+    "Surveillance",
+    "Photography",
+    "Equipment",
+    "Passports",
+    "File Management",
+    "LILYRIC",
+    "BICAL",
+    "LIONION",
+    "KDACOUSTIC",
+    "KGSPICE",
+    "WOACRE"
+  ],
+  "title": "UTIL OF ASSAS TEATIONS STAFE SALUCES",
+  "date": "1972-01-13",
+  "locations_mentioned": [
+    "Mexico City",
+    "Minneapolis, Minnesota"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Armstrong",
+    "Charles F. Dien",
+    "Elsie I. Scaletti",
+    "Horace E. Prallett",
+    "R. Conner",
+    "D.A. Hardaway",
+    "KDAFGHAN-1",
+    "KDAFGHAN-2"
+  ],
+  "recipient": "Chief, WOARE",
+  "sender": "Chief of Station, Mexico City"
+}

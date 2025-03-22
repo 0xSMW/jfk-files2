@@ -1,0 +1,22 @@
+{
+  "classification": "Cryptographic",
+  "document_type": "Memo",
+  "security": "The document is marked \"Background Use Only. Do Not Reproduce,\" suggesting the information contained within is sensitive and not intended for wider distribution. Unauthorized reproduction could reveal intelligence-gathering methods or compromise sources. The document could reveal intelligence-gathering methods or compromise sources.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memo from Chris Hopkins to SE/BB/A, attaching a copy of Maami TWX 13477 concerning Albanian cryptographic material for information.",
+  "summary_one_paragraph": "On August 25, 1976, Chris Hopkins sent a memo from 17 Hq. to SE/BB/A, forwarding a copy of Maami TWX 13477 related to Albanian cryptographic material. The memo, marked for background use only and not to be reproduced, was sent via LA/COG and includes the reference number HH-28312, with an E-2 IMPDET CL by 006875.",
+  "tags": [
+    "CIA",
+    "Albania",
+    "Cryptographic Material",
+    "TWX 13477",
+    "Information Copy"
+  ],
+  "title": "Albanian Cryptographic Material",
+  "date": "1976-08-25",
+  "persons_mentioned": [
+    "Chris Hopkins"
+  ],
+  "recipient": "SE/BB/A",
+  "sender": "Chris Hopkins"
+}

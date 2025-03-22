@@ -1,0 +1,30 @@
+{
+  "classification": "Administrative",
+  "document_type": "Message",
+  "security": "This message discusses the potential impact of ARRB releases on CIA operations in France, particularly the risk of exposing undeclared officers and activities. It states that \"official acknowledgement of this cover could well provide to politicians or journalists the ammunition with which to compell an investigation of our activities here\" and that \"ARRB disclosures would serve as a possible catalyst for forcing this issue between us and the French.\" This suggests that revealing certain information could compromise ongoing intelligence operations and damage relations with the French government.",
+  "security_level": "SECRET",
+  "summary": "This message from the Paris station to the Director discusses the potential impact of ARRB releases on CIA operations in France, focusing on the risk to undeclared officers and activities, and requests guidance. The station is concerned about increased scrutiny from the French government and hostile exploitation by other countries.",
+  "summary_one_paragraph": "A secret message from the CIA's Paris station, dated February 9, 1998, addresses concerns regarding the JFK Assassination Records Review Board (ARRB) releases and their potential impact on ongoing CIA operations in France. The station seeks guidance on managing the risk of disclosing undeclared officers and activities, which could lead to increased scrutiny from the French government, hostile exploitation by other countries, and the resurfacing of past incidents. The message details specific risks, including the compromise of unilateral activities, potential damage to joint counterterrorism initiatives with French services, and the possibility of hostile press coverage. It requests advice on whether the station can provide additional background information.",
+  "tags": [
+    "JFK Assassination",
+    "ARRB",
+    "Covert Operations",
+    "France",
+    "CIA",
+    "Counterterrorism",
+    "Intelligence Gathering",
+    "Paris Station",
+    "Foreign Relations",
+    "Declassification",
+    "WNINTEL"
+  ],
+  "title": "<JFK ASSASSINATION>RECORDS REVIEW BOARD (ARRB): CONTINUED PROTECTION OF COVER",
+  "date": "1998-02-09",
+  "locations_mentioned": [
+    "Paris",
+    "France"
+  ],
+  "origin_agency": "CIA",
+  "recipient": "Director",
+  "sender": "Paris Station Staff"
+}

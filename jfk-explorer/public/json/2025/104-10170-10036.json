@@ -1,0 +1,38 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This message discusses potential covert operations, including supplying arms to PBRUMEN through a channel established with IDEN B, who is using a \"diplomatic pouch.\" Exposing such clandestine activities could compromise ongoing operations, endanger individuals involved, and damage international relations. Quoting directly: \"ARTECONA HAD SOUGHT IDEN A'S ASSISTANCE OBTAINING MINIATURE CAMERAS WHICH SAID HE WISHED TRANSMIT TO PBRUMEN THROUGH CHANNEL WHICH HIS ORGANIZATION HAS NOW ESTABLISHED WITH IDEN B. ACCORDING TO ARTECONA IDEN B COOPERATING AS COMMUNICATIONS CHANNEL USING 'DIPLOMATIC POUCH' AND HAS NOT ONLY TRANSMITTED MESSAGES BUT ON ONE OCCASION TRANSMITTED ONE UNIT SMALL ARMS.\"",
+  "security_level": "SECRET",
+  "summary": "A message from San Juan relays information from IDEN A regarding Jose Artecona seeking miniature cameras for transmission to PBRUMEN through a channel involving IDEN B and a \"diplomatic pouch,\" which has allegedly been used to transmit small arms.",
+  "summary_one_paragraph": "On November 8, 1962, a message was sent from San Juan to the Director concerning information provided by IDEN A. IDEN A informed KARNLEY that he is in contact with Jose Artecona, brother of Carlos \"Tripa\" Artecona, who sought assistance in obtaining miniature cameras to transmit to PBRUMEN via a channel established with IDEN B. Artecona claims IDEN B is cooperating as a communications channel using a \"diplomatic pouch\" and has transmitted both messages and small arms. KARNLEY declined to speak directly with Artecona, suggesting IDEN A advise Artecona to present his request to his KUBARK contact to avoid crossing WAVE channels. The message advises on handling the matter to avoid compromising WAVE channels and requests guidance.",
+  "tags": [
+    "CIA",
+    "PBRUMEN",
+    "KUBARK",
+    "DRE",
+    "Directorate of Revolutionary Students",
+    "Covert Operations",
+    "San Juan",
+    "Jose Artecona",
+    "IDEN A",
+    "IDEN B",
+    "Arms Trafficking",
+    "Diplomatic Pouch"
+  ],
+  "title": "GYROSE: Artecona's Request for Assistance",
+  "date": "1962-11-08",
+  "locations_mentioned": [
+    "San Juan",
+    "Miami"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Jose Artecona",
+    "Carlos \"Tripa\" Artecona",
+    "IDEN A",
+    "IDEN B",
+    "KARNLEY"
+  ],
+  "recipient": "Director",
+  "sender": "San Juan"
+}

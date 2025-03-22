@@ -1,0 +1,34 @@
+{
+  "classification": "Liaison",
+  "document_type": "TELEPOUCH",
+  "security": "Disclosing that Itkin provided information to the CIA over a period of years could expose his past associations, potentially endangering him or compromising ongoing operations. Similarly, revealing the correspondence with Australian officials (Jarvis and Moffitt) exposes intelligence-sharing channels and could strain diplomatic relations if the details of these exchanges become public. Quoting directly: 'HERBERT ITKIN FURNISHED INFORMATION TO THE CIA OVER A PERIOD OF MANY YEARS, BUT THAT HE WAS NOT SENT TO ENGLAND TO COLLECT ANY INFORMATION FOR CIA AND HE DID NOT FURNISH THE CIA WITH ANY INFORMATION WHILE HE WAS IN ENGLAND' and 'MR-(LESLIE V. JARVIS, (ASIO REP IN WASHINGTON, HAND CARRIED TO HAS A LETTER FROM AUSTRALIAN JUSTICE A. R. MOFF- ITT REQUESTING INFORMATION'.",
+  "security_level": "SECRET",
+  "summary": "This document is a telecommunication between the CIA and its station in Melbourne (Canberra) regarding a request from Australian Justice A.R. Moffitt for information on Herbert Itkin, a former CIA and FBI employee, specifically his reliability and status between 1964 and 1969.",
+  "summary_one_paragraph": "In November 1973, a telecommunication was sent from the CIA's East Asia Division to its stations in Melbourne and Canberra, addressing a request from Australian Justice A.R. Moffitt, who sought information on Herbert Itkin’s reliability, particularly his claimed affiliations with the CIA and FBI. Moffitt, investigating organized crime infiltration in New South Wales, referenced Itkin's testimony in an English court case. The CIA’s Office of General Council provided Moffitt with publicly available affidavits about Itkin, clarifying that while Itkin had provided information to the CIA for many years, he was not tasked with collecting information in England for the CIA and did not provide information to the CIA during his time in England. The response was sent back to Moffitt through diplomatic channels.",
+  "tags": [
+    "Herbert Itkin",
+    "ASIO",
+    "Leslie V. Jarvis",
+    "A. R. Moffitt",
+    "CIA",
+    "FBI",
+    "Organized Crime",
+    "Australia",
+    "Melbourne",
+    "Canberra",
+    "E 2 IMPDET"
+  ],
+  "title": "ITKIN, HERBERT",
+  "date": "1973-11-16",
+  "persons_mentioned": [
+    "Herbert Itkin",
+    "Leslie V. Jarvis",
+    "A. R. Moffitt",
+    "William Crosby",
+    "Theodore G. Shackley",
+    "Mr. Greany",
+    "Mr. Rocca"
+  ],
+  "recipient": "MELBOURNE (CANBERRA)",
+  "sender": "CHIEF, EAST ASIA DIVISION"
+}

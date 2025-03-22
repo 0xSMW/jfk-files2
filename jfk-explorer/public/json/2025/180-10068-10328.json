@@ -1,0 +1,29 @@
+{
+  "classification": "Personnel",
+  "document_type": "Payroll Authorization Forms and Memorandum",
+  "security": "The document contains sensitive personal information, specifically social security numbers, which are redacted to prevent unwarranted invasion of personal privacy. The Review Board's action reflects this concern: \"The text is redacted because the public disclosure of the redaction could reasonably be expected to constitute an unwarranted invasion of personal privacy...\"",
+  "security_level": "Unclassified (Initially Postponed in Part)",
+  "summary": "This document includes payroll authorization forms for Gary T. Cornwell, an employee of the House Select Committee on Assassinations (HSCA), and a memorandum regarding payroll certification and relationships to members of Congress; it also includes a final determination notification from the Assassination Records Review Board regarding the postponement of certain information (Social Security numbers) due to privacy concerns.",
+  "summary_one_paragraph": "The document consists of several payroll authorization forms for Gary T. Cornwell, who served as Deputy Chief Counsel and other positions within the House Select Committee on Assassinations (HSCA) from September 1977 to January 1979, detailing his salary adjustments and appointments as authorized by Chairman Louis Stokes. It also contains a memorandum to all staff regarding payroll certification requirements concerning relationships with members of Congress. Additionally, it features a Final Determination Notification from the Assassination Records Review Board explaining the postponement of certain data (Social Security numbers) within the document to protect personal privacy, with a next review date set for 2017.",
+  "tags": [
+    "HSCA",
+    "Payroll Records",
+    "Gary T. Cornwell",
+    "Louis Stokes",
+    "Social Security Numbers",
+    "Privacy",
+    "Assassination Records Review Board"
+  ],
+  "title": "HSCA Staff Payroll Records: Gary T. Cornwell Payroll Authorizations and Payroll Certification Memorandum",
+  "date": "1977-09-01",
+  "locations_mentioned": [
+    "Washington, D.C."
+  ],
+  "origin_agency": "HSCA (House Select Committee on Assassinations)",
+  "persons_mentioned": [
+    "Gary T. Cornwell",
+    "Louis Stokes"
+  ],
+  "recipient": "Clerk of the House of Representatives, HSCA Staff",
+  "sender": "Louis Stokes (Chairman)"
+}

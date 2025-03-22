@@ -1,0 +1,44 @@
+{
+  "classification": "Personnel",
+  "document_type": "Message",
+  "security": "This message contains information about an individual, Joseph Timothy White, including his personal background, associations, and reported defection to North Korea. Releasing these details could violate his privacy and potentially endanger individuals named as sources. The message also mentions that the source had no objection to the release of his identity to the subject. Quoting directly: 'SOURCE HAD NO OBJECTION TO THE RELEASE OF HIS IDENTITY TO SUBJECT.' Exposing this information would damage CIA’s relationship with sources and put them at risk.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A message concerning Joseph Timothy White, a PFC who reportedly defected to North Korea, including details about his background, personality, and interactions with others at Kemper Military School & College. It relays information obtained from an interview with Joseph C. Merlino, who knew White at KMSC.",
+  "summary_one_paragraph": "This confidential message, dated September 11, 1982, discusses PFC Joseph Timothy White's defection to North Korea and includes information from an interview with Joseph C. Merlino, a former acquaintance of White's from Kemper Military School & College (KMSC). Merlino provided insights into White's personality, academic performance, and interactions at KMSC, noting White's serious and idealistic nature, his interest in Marxist philosophy, and his admiration for Adolf Hitler. The message also details White's struggles with peer acceptance, his near failure at ROTC advanced camp, and an incident where he set fire to another cadet's door. Merlino expressed that White's defection was not entirely surprising, given his disappointments and disillusionment with U.S. society.",
+  "tags": [
+    "Defection",
+    "North Korea",
+    "Joseph Timothy White",
+    "Kemper Military School & College",
+    "Joseph C. Merlino",
+    "ROTC",
+    "Personality Assessment"
+  ],
+  "title": "Message Regarding Joseph Timothy White",
+  "date": "1982-09-11",
+  "locations_mentioned": [
+    "St. Louis, MO",
+    "Boston, MA",
+    "Amherst, MA",
+    "Boonville, Missouri",
+    "Ft Benning, Georgia",
+    "Fort Riley, Kansas",
+    "North Korea"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Joseph Timothy White",
+    "Joseph C. Merlino",
+    "Adolf Hitler",
+    "Johnny Parker",
+    "Captain David",
+    "Richard J. Hatch",
+    "Michael R. Basista",
+    "James McKane",
+    "Stephen G. Hink",
+    "Alfred M. Memole",
+    "Vladimir Slovoda"
+  ],
+  "recipient": "HQDA WASH DC",
+  "sender": "SICRRO CI/SIGSEC SPT BN"
+}

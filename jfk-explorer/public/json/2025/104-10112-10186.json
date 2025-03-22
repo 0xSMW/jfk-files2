@@ -1,0 +1,24 @@
+{
+  "classification": "Personnel",
+  "document_type": "Notification",
+  "security": "Revealing the details of a military cover backstop could compromise ongoing operations and the safety of the individual under cover. Specifically, the 'Cover History' section details past assignments and locations, which, if exposed, could unravel the cover.",
+  "security_level": "SECRET",
+  "summary": "This notification establishes a military cover backstop for Rene L. Rodriguez, outlining procedures for record management and changes affecting the cover.",
+  "summary_one_paragraph": "This SECRET notification, dated 2 October 1963, documents the establishment of a military cover backstop for Rene L. Rodriguez, identified by ID card number 806-06-17. It outlines the procedures for managing Rodriguez's records, including blocking records, noting redesignation rates, and submitting forms for changes affecting his cover. The document includes a brief cover history detailing Rodriguez's assignments from 1954 to 1962 and specifies that should Rodriguez apply for a governmental position, he is to contact this office in Bee dia.",
+  "tags": [
+    "Military Cover",
+    "Rene L. Rodriguez",
+    "Cover History",
+    "Records Management",
+    "Security",
+    "FOIA"
+  ],
+  "title": "Notification of Establishment of Military Cover Backstop",
+  "date": "1963-10-02",
+  "persons_mentioned": [
+    "Rene L. Rodriguez",
+    "James Franklin"
+  ],
+  "recipient": "Chief, Records and Services Division",
+  "sender": "Chief, Military Cover (James Franklin)"
+}

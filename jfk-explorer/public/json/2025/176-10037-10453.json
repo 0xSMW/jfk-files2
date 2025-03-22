@@ -1,0 +1,37 @@
+{
+  "classification": "Vietnam",
+  "document_type": "Telegram Information Report",
+  "security": "Revealing the assessment of the British Ambassador's views on a neutralist solution for South Vietnam could strain diplomatic relations between the US and Great Britain. Citing 'it may represent a deliberate attempt to create mistrust between the United States and Great Britain' indicates concerns about the sensitivity of the information and the potential for diplomatic fallout.",
+  "security_level": "SECRET",
+  "summary": "A CIA information report details the alleged views of the British Ambassador to South Vietnam, H.A.F. Hohler, on a neutralist solution for South Vietnam, while also conveying skepticism about the accuracy of those views.",
+  "summary_one_paragraph": "This CIA telegram, dated August 14, 1962, reports on the purported views of British Ambassador H.A.F. Hohler regarding a neutralist coalition as the only solution for South Vietnam, similar to the situation in Laos; Hohler allegedly expressed pessimism about the U.S.'s ability to win the war against the Vietnamese Communists. The report includes a source appraisal that doubts the accuracy of the attributed views, field comments indicating Hohler has never expressed such opinions and suggests the information may be an attempt to create mistrust between the US and Great Britain, and references conversations among British Embassy staff, including Peter Roberts and Corita Burrows, regarding the political situation and the Diem government.",
+  "tags": [
+    "CIA",
+    "South Vietnam",
+    "Neutralism",
+    "British Ambassador",
+    "H.A.F. Hohler",
+    "Vietnam War",
+    "Ngo Dinh Diem",
+    "US-British Relations",
+    "Propaganda"
+  ],
+  "title": "Information Report Re: Views",
+  "allies": "This document contains information that could damage relations with a key ally, Great Britain. Specifically, it suggests a possible attempt to sow discord between the US and UK: '...it may represent a deliberate attempt to create mistrust between the United States and Great Britain'. Additionally, criticisms of the Diem government could be seen as indirectly critical of the US support for that regime.",
+  "date": "1962-08-14",
+  "locations_mentioned": [
+    "South Vietnam",
+    "North Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "H.A.F. Hohler",
+    "Peter Roberts",
+    "Ngo Dinh Diem",
+    "Duong Văn Minh",
+    "Corita Burrows",
+    "Ngo Dinh Nhu",
+    "Frederick August Nolting"
+  ]
+}

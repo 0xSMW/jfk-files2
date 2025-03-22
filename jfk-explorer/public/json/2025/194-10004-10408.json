@@ -1,0 +1,31 @@
+{
+  "classification": "Personnel",
+  "document_type": "Paper, Textual Document",
+  "security": "The document is marked 'FOR OFFICIAL USE ONLY' and notes that this protective marking is excluded from automatic termination. Disclosing the personal information of Manuel Marti (DOB, SSN) could violate privacy regulations.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a National Agency Check (NAC) request and response concerning Manuel Marti, forwarded to the Third United States Army for their information; it includes Marti's personal information.",
+  "summary_one_paragraph": "On July 11, 1968, Chad B. White, Acting Assistant Adjutant General, sent a memo from the U.S. Army Intelligence Command at Fort Holabird, Maryland, to the Commanding General of the Third United States Army at Fort McPherson, Georgia, forwarding the results of a National Agency Check (NAC) on Manuel Marti (US 52 773 870, SSN: 093-36-4601, DPOB: May 17, 1946, San Juan, P.R.). The memo referenced AR 604-10 and DD Form 1584, and indicated that the enclosed information might fall within the purview of reference la, suggesting a need for further investigation if desired, pending a DD Form 398.",
+  "tags": [
+    "National Agency Check",
+    "Personnel Investigation",
+    "Manuel Marti",
+    "US Army",
+    "INSCOM",
+    "FOIA"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1968-07-11",
+  "locations_mentioned": [
+    "San Juan, P.R.",
+    "Fort Holabird, Maryland",
+    "Fort McPherson, Georgia",
+    "Ft Jackson, S.C."
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Chad B. White"
+  ],
+  "recipient": "CG, Third US Army",
+  "sender": "WHITE, CHAD B"
+}

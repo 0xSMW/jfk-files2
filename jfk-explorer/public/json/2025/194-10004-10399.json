@@ -1,0 +1,30 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "The document contains personal information about Manuel Marti, including his full name, military service number, date and place of birth. Sharing this information could violate privacy regulations.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report documents a search for credit records of Manuel Marti with negative results from two credit agencies in New York City.",
+  "summary_one_paragraph": "This agent report, dated October 3, 1968, details a search conducted by Basil C. Hackett of the 108th MI Group (I-NYFO) into the credit history of Manuel Marti, a Private E-1 in the U.S. Army, born in San Juan, Puerto Rico on May 17, 1946. The search involved consulting records at the Credit Bureau of Greater New York and the Daily Litigation Bulletin, both located in New York City. Both agencies reported finding no records pertaining to Manuel Marti or any similar name.",
+  "tags": [
+    "Manuel Marti",
+    "Credit Check",
+    "Agent Report",
+    "INSCOM",
+    "DOD",
+    "Personnel Investigation"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1968-10-03",
+  "locations_mentioned": [
+    "San Juan, Puerto Rico",
+    "New York, New York"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Pauline DiFiore",
+    "Freda Larsen",
+    "Basil C. Hackett"
+  ],
+  "sender": "[RESTRICTED]"
+}

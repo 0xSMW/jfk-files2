@@ -1,0 +1,45 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "Disclosing details about agent activities, such as \"There was a total of eighteen agents within Cuba at the beginning of the reporting period and twenty-four by the period's close,\" and specific operations like \"YEABAC\" and \"STRIKE,\" could endanger agents and compromise ongoing or future operations. Additionally, revealing financial figures, like \"Total FY 1962 obligations through 15 September for Cuban operations are $4,675,935.00,\" could expose the scale and scope of covert activities, leading to unwanted scrutiny and potentially jeopardizing funding.",
+  "security_level": "SECRET",
+  "summary": "This memorandum summarizes Cuban operations from September 1-15, 1961, detailing FI-CI activity, propaganda efforts, political action, paramilitary activities, training, communications, and support, including financial obligations and personnel actions.",
+  "summary_one_paragraph": "This secret memorandum, dated September 26, 1961, reports on Cuban operations for the period of September 1-15, 1961, and is addressed to the Deputy Director (Plans). It breaks down activities into FI-CI operations, propaganda, political action, paramilitary actions, training, and support. The report includes information on agent deployment within Cuba, propaganda efforts such as Operation Bolivar and Virgen del Cobre, political action through the CRC with Dr. Miro Cardona, maritime and agent paramilitary activity, agent training statistics, and financial support, including total FY 1962 obligations. It also details the transfer of responsibilities within the Office of Logistics and the status of various support facilities and equipment.",
+  "tags": [
+    "Cuban Operations",
+    "FI-CI Activity",
+    "Propaganda",
+    "Political Action",
+    "Paramilitary Activity",
+    "Training",
+    "CRC",
+    "Covert Operations",
+    "Agent Activity"
+  ],
+  "title": "Report on Cuban Operations for Period 1-15 September 61",
+  "date": "1961-09-26",
+  "locations_mentioned": [
+    "Cuba",
+    "Miami",
+    "Geneva",
+    "Switzerland",
+    "Madrid",
+    "Montevideo",
+    "Western Hemisphere",
+    "Latin America",
+    "Caribbean"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Raul CASTRO Bonilla",
+    "Jesus LOPEZ Guerrero",
+    "Dr. Miro Cardona",
+    "Col. Wendell Johnson",
+    "Rojas Santamarina",
+    "Luis CONTE Aguero",
+    "Glen Laney",
+    "J.C. King"
+  ],
+  "recipient": "Deputy Director (Plans)",
+  "sender": "J. C. King, Chief, Western Hemisphere Division"
+}

@@ -1,0 +1,23 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Cable",
+  "security": "Revealing contact with foreign individuals regarding JFK assassination records could damage ongoing or future intelligence-gathering activities. The cable discusses handling the situation 'officially VIA MFA' and extracting the station from the question.",
+  "security_level": "SECRET",
+  "summary": "A cable from Minsk relays information regarding the Records Review Board's access to JYVAPOROUS, an individual in connection to the JFK assassination; the individual has responded positively to an embassy note, and the matter is being handled through diplomatic channels.",
+  "summary_one_paragraph": "This secret cable, originating from Minsk on October 25, 1996, informs the Director (specifically C/CE/W/MB) that JYVAPOROUS, identified as V/3 in connection to the JFK assassination review board access, has responded positively via diplomatic channels through the MFA to the embassy's note. The COS (Chief of Station) contacted JYVAPOROUS/3 after receiving a referenced director cable and confirmed that the matter is being handled officially through the MFA, leading the station to extract itself from the question. The station expresses appreciation for headquarters' support.",
+  "tags": [
+    "WNINTEL",
+    "RYBAT",
+    "GTDANCER",
+    "Records Review Board",
+    "JYVAPOROUS",
+    "JFK Assassination",
+    "Diplomatic Channels",
+    "MFA"
+  ],
+  "title": "RECORDS REVIEW BOARD MEETING WITH JYVAPOROUS",
+  "date": "1996-10-25",
+  "origin_agency": "CIA",
+  "recipient": "Director",
+  "sender": "MINSK"
+}

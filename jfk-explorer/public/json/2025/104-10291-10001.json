@@ -1,0 +1,21 @@
+{
+  "classification": "Administrative",
+  "document_type": "File",
+  "security": "Sharing file details could reveal CIA's internal record-keeping practices and potentially expose sensitive information if the file contains classified material. It could also reveal information on individuals connected to Joseph B. Smith, which could compromise them or ongoing operations related to them.",
+  "security_level": "SECRET",
+  "summary": "This record details a file pertaining to Joseph B. Smith, covering the inclusive dates of 28 May 1954 to 18 May 1978, custodially located in unit AP, Room 5E13.",
+  "summary_one_paragraph": "This document describes a SECRET file pertaining to Joseph B. Smith, with inclusive dates from May 28, 1954, to May 18, 1978. The file is located within custodial unit AP in Room 5E13. The document includes a section for recording deletions, reviewer names, signatures, and prohibits students from copying or removing the file contents.",
+  "tags": [
+    "CIA Headquarters",
+    "Joseph B. Smith",
+    "File Record",
+    "Administrative",
+    "Selective Committee on Assassinations"
+  ],
+  "title": "Smith, Joseph B.",
+  "persons_mentioned": [
+    "Joseph B. Smith"
+  ],
+  "recipient": "BOUGE SELECT COMMITTEE ON ASSASSINATIONS STAFF MEMBERS",
+  "sender": "CIA HEADQUARTERS"
+}

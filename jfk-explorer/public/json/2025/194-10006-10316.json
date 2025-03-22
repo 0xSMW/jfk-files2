@@ -1,0 +1,32 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "The report contains personal information about individuals (Stephen R. Wilson, Cristobal Pimentel-Davilla), which could potentially violate their privacy if released without redaction. Additionally, the report mentions ongoing investigations by the Dortmund Police regarding drug activities, potentially compromising their operations if disclosed. Mentioning the specific details of the agent notes could highlight intelligence operations and techniques used. Finally, it identifies members of the US military, their unit, and specific duties.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report details an interview with SP4 Stephen R. Wilson concerning a potential counter-intelligence interest involving an individual known as 'John' who was seeking information about a Security Sergeant and made contact through a local bar in Datteln, Germany, possibly related to drug activity.",
+  "summary_one_paragraph": "On February 4, 1972, Special Agent Heinz E. Ickert submitted a report detailing an interview with SP4 Stephen R. Wilson at Datteln, Germany, regarding a possible counter-intelligence interest. Wilson reported being approached by an individual known only as 'John,' a disc jockey at local bars, who inquired about the Security Sergeant of Wilson's unit, C Team, 66th USA Artillery Detachment. 'John' asked Wilson to tell 'Pimentel' that he was back in town. Wilson speculated that 'John's' interest in 'Pimentel,' Cristobal Pimentel-Davilla, stemmed from Pimentel's suspected involvement with drugs, an issue already under investigation by the Dortmund Police, who suspected Pimentel of drug dealing.",
+  "tags": [
+    "Counter-Intelligence",
+    "Drug Activity",
+    "Military Personnel",
+    "Germany",
+    "Datteln",
+    "Dortmund Police",
+    "Agent Report"
+  ],
+  "title": "Agent Report",
+  "date": "1972-02-04",
+  "locations_mentioned": [
+    "Datteln, Federal Republic of Germany",
+    "Fort Eustis, Virginia",
+    "Dortmund, FRG"
+  ],
+  "origin_agency": "CSF/INSCOM",
+  "persons_mentioned": [
+    "Hans D Kaminski",
+    "Stephen R. Wilson",
+    "John",
+    "Cristobal Pimentel-Davilla",
+    "Heinz E. Ickert"
+  ]
+}

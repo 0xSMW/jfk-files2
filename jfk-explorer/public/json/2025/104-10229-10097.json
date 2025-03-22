@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This message discusses assessing potential assets within a Cuban exile group (PBRUMEN) and discouraging further planning that may \"complicate orderly development and burn assets\". Disclosing these operational details could expose intelligence-gathering methods, compromise ongoing covert operations, and endanger the security of human assets involved with U.S. intelligence efforts.",
+  "security_level": "SECRET",
+  "summary": "A message from the Director to San Jose and JMWAVE regarding PBRUMEN exiles' unrealistic police proposals and assessing potential assets within the group for intelligence collection.",
+  "summary_one_paragraph": "On January 14, 1963, a message was sent from the Director to San Jose and JMWAVE concerning PBRUMEN exiles in Miami. The message states that their proposed police plans are unrealistic and not officially discussed with KUBARK. While discouraging further planning that could complicate development and burn assets, Headquarters is interested in assessing potential assets within PBRUMEN for information collection, requesting details on access to people or data, security, communication, and contact plans for Manuel Perez Borroto, an ex-Batista police captain.",
+  "tags": [
+    "CIA",
+    "PBRUMEN",
+    "Cuban Exiles",
+    "JMWAVE",
+    "Intelligence Collection",
+    "Assets",
+    "KUBARK",
+    "Manuel Perez Borroto"
+  ],
+  "title": "GYROSE: PBRUMEN Exile Police Proposals and Asset Assessment",
+  "date": "1963-01-14",
+  "locations_mentioned": [
+    "San Jose",
+    "Miami",
+    "Cuba",
+    "Cienfuegos"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Manuel Perez Borroto"
+  ],
+  "recipient": "San Jose, JMWAVE",
+  "sender": "Director (H.F. Swenson)"
+}

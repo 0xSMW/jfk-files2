@@ -1,0 +1,40 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "Disclosing the specific changes requested by the CIA to Hunt's manuscript, particularly those concerning the fabrication of the Shanghai post, entry into the Guatemalan Embassy, and the joint CIA-Uruguayan telephone monitoring operation, could reveal sensitive operational techniques and compromise intelligence sources. As stated, 'Essentially, these changes disguise the identity of the fabricated newspaper and remove a reference to journalists as agents; delete the word 'Guatemalan' to make the entered embassy non-specific; and delete the reference to listening posts and telephone monitoring to make that paragraph refer in more general terms to our ability to cover targets without referring to the use of electronic surveillance.'",
+  "security_level": "SECRET",
+  "summary": "A memorandum detailing a meeting between CIA officials and E. Howard Hunt, along with his legal team, to review Hunt's memoirs and request deletions of classified information.",
+  "summary_one_paragraph": "On September 28, 1974, John D. Morrison, Jr. and Ray Rocca met with E. Howard Hunt and his attorneys to review Hunt's memoirs, \"Undercover,\" and request deletions of classified information. The meeting resulted in agreed-upon changes to items concerning the fabrication of a Shanghai post for a Mexican operation, the entry into an unspecified embassy in Mexico City, and a joint CIA-Uruguayan telephone monitoring operation, as well as the removal of names of undercover agents and alterations to references of CIA alias documentation used by the Watergate burglars. Hunt expressed concerns about publisher pushback and the appearance of collusion with the CIA, leading to discussions regarding a press release to manage public perception.",
+  "tags": [
+    "E. Howard Hunt",
+    "Memoirs",
+    "Censorship",
+    "CIA",
+    "Classified Information",
+    "Undercover",
+    "Ray Rocca",
+    "John D. Morrison, Jr.",
+    "William A. Snyder, Jr.",
+    "Thomas W. Coons",
+    "Shanghai Post",
+    "Guatemalan Embassy",
+    "Uruguayan telephone monitoring",
+    "Watergate",
+    "Alias documentation"
+  ],
+  "title": "Meeting with E. Howard Hunt Re His Memoirs, \"Undercover\"",
+  "date": "1974-09-30",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "E. Howard Hunt",
+    "Ray Rocca",
+    "William A. Snyder, Jr.",
+    "Thomas W. Coons",
+    "Henry Pleasants",
+    "Frank Holcomb",
+    "John D. Morrison, Jr.",
+    "Walter Pforzheimer"
+  ],
+  "recipient": "Acting DDO, SAB/DDO, DC/CI Staff, O/Security, Asst. to DCI, Mr. Walter Pforzheimer, C/CCS",
+  "sender": "John D. Morrison, Jr."
+}

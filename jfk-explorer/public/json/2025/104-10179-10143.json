@@ -1,0 +1,32 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "Revealing details about the LITEMPO visa channel, including the involvement of high-level Mexican officials and its use for \"personal interest cases,\" could compromise ongoing operations and relationships with foreign governments. It also exposes the station's policy of not discouraging certain uses of the channel to maintain its secrecy and effectiveness. Quoting directly: 'HIGH LEVEL GOBERNACION OFFICIALS SOMETIMES KNOWINGLY USE LITEMPO VISA CHANNEL THEMSELVES FOR 'PERSONAL INTEREST CASES'...STATION HAS NOT DISCOURAGED SUCH USE OF THE CHANNEL BECAUSE IT TENDS TO HELP EVERYONE WHO [IN ACT] TO KEEP MOUTHS SHUT AND TO KEEP CHANNEL FROM BEING BRANDED AS EXCLUSIVELY [ODYOKE].'",
+  "security_level": "SECRET",
+  "summary": "A CIA message discusses the difficulties in obtaining a Mexican visa through regular channels and suggests using high-level Mexican contacts or the LITEMPO visa channel for AMBANG-1, while emphasizing the importance of coordinated action between AMBANG-1 and the station.",
+  "summary_one_paragraph": "This secret CIA message, dated August 19, 1962, from Mexico City, addresses challenges in securing a Mexican visa for AMBANG-1 (likely a code name for an individual or operation). It indicates that obtaining a visa through traditional means (Mexican consulates in Miami or San Juan) is problematic due to bureaucratic delays and concerns about Cubans becoming public charges. The message suggests leveraging high-level Mexican officials or Cuban contacts with such access, potentially utilizing the CIA's LITEMPO visa channel. The station wants AMBANG/1 to try on his own first, and then the station will assist. The message stresses the need for either AMBANG-1 or the station to take the lead, not both simultaneously, to avoid complications. It also touches on the possibility of AMBANG-1 using CINODACID as cover and consulting with the station's ODACID contact in Mexico if needed.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "Visa",
+    "LITEMPO",
+    "GOBERNACION",
+    "AMBANG-1",
+    "ODYOKE",
+    "CINODACID"
+  ],
+  "title": "Obtaining Mexican Visa for AMBANG-1",
+  "date": "1962-08-19",
+  "locations_mentioned": [
+    "Mexico City",
+    "Miami",
+    "San Juan",
+    "Mexico"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Jeremy X Benadum"
+  ],
+  "recipient": "Director",
+  "sender": "Mexico City Station"
+}

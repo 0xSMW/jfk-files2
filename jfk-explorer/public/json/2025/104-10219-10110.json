@@ -1,0 +1,36 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security": "Disclosing the information about William Martin's potential desire to return and the coordination between the CIA, NSA, FBI, and Canadian authorities could reveal intelligence-sharing agreements and methods. \"we could be provided informally with an indication of MARTIN's status in law in the United States.\"",
+  "security_level": "SECRET",
+  "summary": "The CIA informs the NSA about William Martin, an ex-NSA employee who defected to the Soviet Union in 1960, expressing interest in visiting his parents in Canada, and requests information on his legal status in the U.S.",
+  "summary_one_paragraph": "On January 25, 1968, James Angleton at the CIA sent a memo to the Director of the National Security Agency regarding William H. Martin, a defector to the Soviet Union. Martin, through Canadian Press Correspondent William Buckley, inquired about visiting his parents in Vancouver, Canada, without facing extradition to the U.S. The CIA informed the FBI and Department of State and sought informal guidance from the NSA on Martin's legal status to advise the Canadian government, as Buckley's knowledge raised concerns about potential press coverage.",
+  "tags": [
+    "CIA",
+    "NSA",
+    "FBI",
+    "William Martin",
+    "Defector",
+    "Soviet Union",
+    "Canada",
+    "Extradition"
+  ],
+  "title": "William H. MARTIN",
+  "date": "1968-01-25",
+  "locations_mentioned": [
+    "Moscow",
+    "Canada",
+    "Vancouver",
+    "Soviet Union",
+    "United States"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "William H. Martin",
+    "William Buckley",
+    "Howard Rausch",
+    "James Angleton"
+  ],
+  "recipient": "Director, National Security Agency",
+  "sender": "James Angleton"
+}

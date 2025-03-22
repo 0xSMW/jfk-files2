@@ -1,0 +1,22 @@
+{
+  "classification": "Administrative",
+  "document_type": "Payroll Certification",
+  "security": "Releasing detailed salary information for employees could compromise their personal security. Publishing individual salaries along with their positions could allow for external entities to target specific employees. The report also includes social security numbers, which could lead to identity theft or fraud. Directly quoting from the document: 'EMPLOYEE NAME SOCIAL SECURITY PAY ANNUAL GROSS PERIOD REMARKS POSITION NO. AND TITLE NUMBER SCHEDULE SALARY PAY FROM TO' demonstrates the range of personal information within the document.",
+  "security_level": "Unclassified",
+  "summary": "This document is a payroll certification report for the U.S. House of Representatives Select Committee on Assassinations, detailing employee names, social security numbers, positions, salaries, and pay periods for February 1977.",
+  "summary_one_paragraph": "This payroll certification report from March 24, 1977, details the payroll for the U.S. House of Representatives Select Committee on Assassinations for the accounting period of February 1, 1977, to February 28, 1977. It lists employees’ names, social security numbers, positions, annual salaries, and period pay, along with the total expenditures and projections for the committee. The report certifies that all listed employees performed official duties and have no prohibited relationships with members of Congress.",
+  "tags": [
+    "Payroll",
+    "Financial Management",
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations",
+    "HSCA",
+    "Personnel",
+    "Budget"
+  ],
+  "title": "Payroll Certification",
+  "date": "1977-03-24",
+  "origin_agency": "U.S. House of Representatives",
+  "recipient": "Select Committee on Assassinations",
+  "sender": "U.S. House of Representatives Financial Management System"
+}

@@ -1,0 +1,32 @@
+{
+  "classification": "Operations",
+  "document_type": "Classified Message",
+  "security": "Revealing details of covert operations, agent identities, and the use of code names could compromise ongoing intelligence activities. The message discusses the involvement of ACSI (Assistant Chief of Staff for Intelligence) and KUBARK, referencing specific code names such as AMTRUNK-9, AMICE-14, and AMFAUNA-3. This information could be used to identify and target individuals or expose clandestine operations.",
+  "security_level": "SECRET",
+  "summary": "A classified message details an investigation into the sponsorship of AMTRUNK-9's trip, revealing circumstantial evidence of ACSI involvement despite official denials, and describes the efforts of AMFAUNA-3 and 'Torres' to conceal the funding source from AMTRUNK-9's wife.",
+  "summary_one_paragraph": "This SECRET classified message, dated January 19, 1965, outlines an investigation into the funding and sponsorship of 'AMTRUNK-9's' trip, focusing on conflicting statements and circumstantial evidence pointing to involvement by ACSI (Assistant Chief of Staff for Intelligence). The message details interactions between AMTRUNK-9’s wife, 'AMFAUNA-3,' and an agent handler known as 'Torres,' who is also identified as the agent handler for former ACSI source Jose Vasquez Nerey; it highlights inconsistencies in their accounts of funding sources, with 'Torres' suspected of providing funds through a parent organization and AMFAUNA-3 acting as a paymaster, despite their denials to Mrs. A-9, and further states that a license plate number from 'Torres' vehicle identified it as belonging to ODYOKE.",
+  "tags": [
+    "ACSI",
+    "AMTRUNK-9",
+    "AMFAUNA-3",
+    "Torres",
+    "ODYOKE",
+    "Covert Operation",
+    "KUBARK",
+    "Agent Handler",
+    "Infiltration"
+  ],
+  "title": "Investigation into Sponsorship of AMTRUNK-9 Trip",
+  "date": "1965-01-19",
+  "persons_mentioned": [
+    "AMTRUNK-9",
+    "AMICE-14",
+    "AMFAUNA-3",
+    "Torres",
+    "Jose Vasquez Nerey",
+    "IDENT A",
+    "IDENT B"
+  ],
+  "recipient": "DIR",
+  "sender": "ACIWHIKAS"
+}

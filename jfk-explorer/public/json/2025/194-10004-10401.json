@@ -1,0 +1,30 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Information concerning Manuel Marti's father, Adrian Sotomayor, was furnished by the FBI, including reports dating back to 1953. Disclosing these reports and the inquiry itself could reveal the extent of surveillance on individuals and their families, potentially damaging reputations and exposing investigative methods.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report regarding Manuel Marti, focusing on information obtained from the FBI concerning his father, Adrian Sotomayor, including multiple FBI reports dating back to 1953.",
+  "summary_one_paragraph": "On November 18, 1968, an agent report was submitted concerning Private E-1 Manuel Marti, born in San Juan, Puerto Rico. The New York Office of the FBI furnished information relating to Marti's father, Adrian Sotomayor, and his various aliases. The report includes references to ten FBI reports on Sotomayor dated between 1953 and 1964, which are additional to those already in the possession of Military Intelligence, and a note is made of discrepancies in Sotomayor's birth date.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "DOD",
+    "FBI",
+    "Manuel Marti",
+    "Adrian Sotomayor",
+    "Local Agency Check",
+    "Surveillance"
+  ],
+  "title": "[ RESTRICTED ]",
+  "date": "1968-11-18",
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Adrian Martes",
+    "Adrian Martes Aponte",
+    "Adrian Marti Apontes",
+    "Adrian Sotomayor",
+    "Harold Bloom"
+  ],
+  "recipient": "[ RESTRICTED ]"
+}

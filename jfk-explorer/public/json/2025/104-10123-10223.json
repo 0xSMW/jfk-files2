@@ -1,0 +1,29 @@
+{
+  "classification": "Personnel",
+  "document_type": "Classified Message",
+  "security": "Revealing Mr. O'Connell's travel itinerary could expose the purpose of his visits and potentially compromise any sensitive operations he may be involved in. Quoting directly: 'HE VISITING (HONG) (SING) (KUAL) (BANG) (SAIG) (PENH) AND (MANI)'.",
+  "security_level": "SECRET",
+  "summary": "A classified message regarding the clearance status of Mr. O'Connell for his visits to various locations in Asia.",
+  "summary_one_paragraph": "This SECRET classified message, dated April 25, 1963, concerns the clearance status of Mr. O'Connell, indicating that his clearance has been forwarded through special channels to the appropriate stations. The message notes that Mr. O'Connell will be visiting Hong Kong (HONG), Singapore (SING), Kuala Lumpur (KUAL), Bangkok (BANG), Saigon (SAIG), Phnom Penh (PENH), and Manila (MANI). A comment from C/S notes that there was no record in the cable secretariat as of 0205 on April 25, 1963.",
+  "tags": [
+    "CIA",
+    "Personnel Clearance",
+    "Travel",
+    "Asia",
+    "O'Connell"
+  ],
+  "title": "Clearance Status for Mr. O'Connell's Visits in Asia",
+  "date": "1963-04-25",
+  "locations_mentioned": [
+    "Hong Kong",
+    "Singapore",
+    "Kuala Lumpur",
+    "Bangkok",
+    "Saigon",
+    "Phnom Penh",
+    "Manila"
+  ],
+  "persons_mentioned": [
+    "Mr. O'Connell"
+  ]
+}

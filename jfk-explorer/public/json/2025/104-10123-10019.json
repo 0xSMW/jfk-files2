@@ -1,0 +1,32 @@
+{
+  "classification": "Security",
+  "document_type": "Message Form",
+  "security": "Revealing that the subject served with the 441st CIC Detachment and was relieved of duties due to 'mental instability' and had clearances revoked could be damaging to the individual. Mentioning past connections to LNHARP relationships is also highly sensitive. Directly quoting: 'SUBJECT HAS NEVER HAD ANY WOFIRM CONNECTIONS. NO EVIDENCE ANY CURRENT LNHARP RELATIONSHIPS (ISR HAS NO RECORD). PAST HISTORY INDICATES HE FABRICATOR AND MENTALLY DISTURBED INDIVIDUAL' and 'WAS RELIEVED CIC DUTIES IN APRIL 1958 DUE MENTAL INSTABILITY AND CLEARANCES REVOKED.'",
+  "security_level": "SECRET",
+  "summary": "A message concerning an individual who was previously reported to LNERGO, and found to have no WOFIRM connections or current LNHARP relationships, but served with the 441st CIC Detachment before being relieved due to mental instability.",
+  "summary_one_paragraph": "This secret message, dated March 5, 1969, addresses an individual previously reported in LNERGO and clarifies that the subject has no WOFIRM connections or current LNHARP relationships based on ISR records. Past history suggests the individual is a fabricator with mental disturbances. It is noted that the subject served with the 441st CIC Detachment in Japan in early 1958 but was relieved of CIC duties in April 1958 due to mental instability, leading to the revocation of clearances. The message also mentions a previous request from LNGOLD for WOFIRM traces and the Consulate's awareness of detailed information.",
+  "tags": [
+    "LNERGO",
+    "WOFIRM",
+    "LNHARP",
+    "CIC",
+    "Mental Instability",
+    "Security Clearance",
+    "Fabricator",
+    "Counterintelligence",
+    "EUR",
+    "Japan"
+  ],
+  "title": "Message Regarding Individual with Past Mental Instability",
+  "date": "1969-03-05",
+  "locations_mentioned": [
+    "Japan",
+    "Zurich"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "JERRY SEIGEL"
+  ],
+  "recipient": "BERN",
+  "sender": "E/AS/S"
+}

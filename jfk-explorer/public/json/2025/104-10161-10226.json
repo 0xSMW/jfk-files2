@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "Revealing the existence and location of a CIA safehouse and the methods used to maintain it (ostensible lessee, attorney involvement) could compromise the facility and endanger related operations. Investigating phone calls made by a CIA asset might expose surveillance capabilities and methods. Quoting directly: 'a safehouse procured by the Safehouse Branch, Office of Logistics... Roger MCK. SHEA, Esq,, who has acquired the place for the ostensible purpose of providing quarters for out of town clients'.",
+  "security_level": "SECRET",
+  "summary": "A memo requesting a trace on a phone call made by WHD asset Vladimir Rodriguez Lahera from a CIA safehouse in Silver Spring, MD, to a number in New York, to verify the call and identify the subscriber.",
+  "summary_one_paragraph": "This secret memorandum, dated August 10, 1964, from Desmond FitzGerald, Chief of the Western Hemisphere Division, to the Chief of OSD/OS, requests a trace on a phone call made by WHD asset Vladimir Rodriguez Lahera from a safehouse in Silver Spring, Maryland, on August 7, 1964. The phone call was supposedly made to a cousin, Pablo Rodriguez, in New York City, but the provided address appears to be incorrect. The memo also asks the OSD/OS to identify the subscriber to the New York number and to ascertain if any long-distance calls were made from the safehouse on August 6. Results were requested by August 17, 1964.",
+  "tags": [
+    "CIA",
+    "Safehouse",
+    "Phone Trace",
+    "WHD Asset",
+    "Vladimir Rodriguez Lahera",
+    "Surveillance",
+    "Counterintelligence"
+  ],
+  "title": "Vladimir RODRIGUEZ Lahera",
+  "date": "1964-08-10",
+  "locations_mentioned": [
+    "Silver Spring, Maryland",
+    "Arlington",
+    "New York, New York",
+    "Manhattan"
+  ],
+  "origin_agency": "Western Hemisphere Division (WHD)",
+  "persons_mentioned": [
+    "Vladimir Rodriguez Lahera",
+    "Michael Shortley",
+    "Roger McK. Shea, Esq.",
+    "Pablo Rodriguez",
+    "Desmond FitzGerald"
+  ],
+  "recipient": "Chief, OSD/OS",
+  "sender": "Desmond FitzGerald"
+}

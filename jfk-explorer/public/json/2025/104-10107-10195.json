@@ -1,0 +1,34 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum and Letter",
+  "security": "Releasing the details of this request for jury duty exemption could reveal that the CIA has a method of preventing certain employees from serving on juries. From the memo: “An employee of this Agency who falls within that special category of employees that members of my office have previously discussed with you has been summoned for jury duty...It is my understanding that you believe such employees should not serve on a jury.”",
+  "security_level": "UNCLASSIFIED",
+  "summary": "The CIA's General Counsel requests a Fairfax County judge to excuse a CIA employee, Daniel Flores, from jury duty due to the employee belonging to a special category previously discussed with the judge. Flores' jury summons and the General Counsel's letter are to be kept separate to maintain confidentiality.",
+  "summary_one_paragraph": "In November 1975, the Central Intelligence Agency's General Counsel, John S. Warner, sent a personal and confidential letter to Judge Barnard F. Jennings of Fairfax County Circuit Court, requesting that a CIA employee, Daniel Flores, be excused from jury duty scheduled to begin on November 17, 1975. The request was made because Flores fell into a pre-defined 'special category' of CIA employees that the General Counsel's office had discussed with Judge Jennings, who believed such employees should not serve on juries; a separate internal memo details that Flores was working under State Department cover and sought guidance regarding his jury summons, with a note indicating Flores was ultimately excused following a phone call.",
+  "tags": [
+    "CIA",
+    "Jury Duty",
+    "Daniel Flores",
+    "Barnard F. Jennings",
+    "OGC",
+    "Personnel",
+    "State Department Cover"
+  ],
+  "title": "Daniel Flores - Jury Summons",
+  "date": "1975-11-13",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Fairfax County, Virginia"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Daniel Flores",
+    "Barnard F. Jennings",
+    "John S. Warner",
+    "Edmund Cohen",
+    "GMBreneman",
+    "Frank Stewart"
+  ],
+  "recipient": "Barnard F. Jennings",
+  "sender": "John S. Warner"
+}

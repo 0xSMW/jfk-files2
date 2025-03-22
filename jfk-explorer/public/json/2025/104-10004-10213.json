@@ -1,0 +1,36 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security": "Revealing details about how the CIA interacted with the Warren Commission staff could compromise the CIA's methods of providing information and managing perceptions during the investigation. For instance, the memo states, 'Mr. Slawson indicated that he would be sending parts of his report dealing with the Soviet intelligence services to CIA for checking as to their accuracy.' This type of interaction could raise questions about the independence of the Commission’s findings and the CIA’s influence.",
+  "security_level": "SECRET",
+  "summary": "A CIA memorandum details a discussion between a CIA representative and W. David Slawson, a staff member of the President's Commission on the Assassination of President Kennedy, regarding inconsistencies between information provided by the CIA and the Department of State concerning the OSWALDs' departure from the USSR.",
+  "summary_one_paragraph": "On July 9, 1964, a CIA representative met with W. David Slawson of the Warren Commission to address discrepancies in information provided by the CIA and the Department of State regarding the OSWALDs' departure from the USSR. The discussion focused on Soviet emigration policies for citizens married to foreign nationals, the timing of their departures, and the visa application process. The CIA clarified its data, based on 26 cases, and addressed the uniqueness of the OSWALD case involving a defector marrying before repatriation; Slawson expressed satisfaction with the explanations and requested a written summary. Slawson also mentioned sending parts of his report on Soviet intelligence services to the CIA for accuracy checks.",
+  "tags": [
+    "CIA",
+    "Warren Commission",
+    "Lee Harvey Oswald",
+    "Marina Oswald",
+    "Soviet Union",
+    "Emigration",
+    "Visa Procedures",
+    "State Department",
+    "Inconsistencies"
+  ],
+  "title": "Discussion with Warren Commission Staff Member",
+  "date": "1964-07-09",
+  "locations_mentioned": [
+    "USSR",
+    "Washington, D.C."
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "J. Lee Rankin",
+    "Richard Helms",
+    "W. David Slawson",
+    "Lee H. Wigren",
+    "Marina OSWALD",
+    "Mr. Meeker"
+  ],
+  "recipient": "Record",
+  "sender": "Lee H. Wigren"
+}

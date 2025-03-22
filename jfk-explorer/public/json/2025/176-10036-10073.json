@@ -1,0 +1,50 @@
+{
+  "classification": "Vietnam",
+  "document_type": "Memorandum",
+  "security": "Discussion of military intervention in Laos, potentially merging the war in Laos with the war in Vietnam, which is considered not a good idea. Also, it discusses contingency planning for Laos and the possibility of the Pathet Lao taking over Southern Laos, bit by bit. \"The Cottrell proposals, however, raise very directly the question of U. S. military intervention in Laos. It seems to me inconceivable that his objective could be achieved without such intervention. The proposals also would have the effect, it seems to me, of merging the war in Laos with the war in Viet Nam. I do not think that this would be a good idea.\"",
+  "security_level": "SECRET",
+  "summary": "A memorandum from Johnson to Rostow summarizes a meeting of the Task Force on Viet Nam, discussing intelligence briefings, local currency costs, the situation in Laos in relation to South Viet Nam, and other matters like Diem's proposal for a 100,000 man increase in GVN forces.",
+  "summary_one_paragraph": "This secret memorandum, dated June 20, 1961, from Johnson to Rostow, details the discussions at a Task Force meeting on Viet Nam, where intelligence briefings included updates on the Cambodian border problem and ICC activity. The memo addresses the local currency costs issue for the 20,000 man increase in forces, with potential solutions proposed to Saigon. A significant portion of the meeting was dedicated to Cottrell's ideas regarding Laos, including a proposal to break off the Geneva Conference and introduce Thai special forces to combat the Pathet Lao, potentially requiring U.S. military intervention, a point Johnson finds concerning; other issues raised included Diem’s proposal for a 100,000 man increase in GVN forces and the possibility of Viet Cong interference with food supplies.",
+  "tags": [
+    "Vietnam",
+    "Laos",
+    "Task Force Meeting",
+    "Intelligence Briefing",
+    "Local Currency Costs",
+    "Military Intervention",
+    "Geneva Conference",
+    "Pathet Lao",
+    "GVN Forces",
+    "Diem",
+    "Food Supplies",
+    "Border Problem"
+  ],
+  "title": "Meeting of Vietnam Task Force June 19 1961",
+  "date": "1961-06-20",
+  "locations_mentioned": [
+    "Viet Nam",
+    "Cambodia",
+    "Laos",
+    "Saigon",
+    "Phnom Penh",
+    "Thailand",
+    "Southeast Asia"
+  ],
+  "origin_agency": "NARA",
+  "persons_mentioned": [
+    "Johnson",
+    "Rostow",
+    "Sihanouk",
+    "Cottrell",
+    "Ben Wood",
+    "Thuan",
+    "Diem",
+    "Alexis Johnson",
+    "Jack Bell",
+    "General Taylor",
+    "Bob Cleveland",
+    "Jack King"
+  ],
+  "recipient": "Rostow",
+  "sender": "Johnson"
+}

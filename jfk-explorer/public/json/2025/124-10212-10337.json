@@ -1,0 +1,41 @@
+{
+  "classification": "Security",
+  "document_type": "Memo",
+  "security": "This memo discusses intelligence sharing between the CIA and FBI, including information that could identify sources. Disclosing this would reveal intelligence-gathering methods and potentially compromise sources and relationships with foreign intelligence services. Specifically, the memo states: 'In referenced memorandum CIA did not identify its (official Swiss) source. This identification subsequently given to Bureau via Liaison. The Bureau approved CIA's furnishing this information to the Swiss Federal Police inasmuch as CIA had conducted active investigation regarding subjects in Switzerland.'",
+  "security_level": "Secret",
+  "summary": "The CIA and FBI discuss sharing information about Susan Heilig and Richard Cyril Frank, including their possible travel to Communist China and contacts with the Chinese Communist Embassy in Bern. The FBI approves the CIA sharing information with Swiss authorities, provided the CIA does not reveal the FBI as the source.",
+  "summary_one_paragraph": "This memo, dated February 2, 1960, details the exchange of information between the CIA and FBI concerning Susan Heilig and Richard Cyril Frank, who are suspected of possible travel to Communist China. The CIA received information from an official Swiss source indicating that the Franks stayed at a hotel in Bern and contacted the Chinese Communist Embassy. The FBI approved the CIA sharing information with the Swiss Federal Police, provided the CIA does not reveal the FBI as the source. The memo also instructs Legal Attaches in London, Paris, and Tokyo to alert appropriate security services regarding possible travel of the Franks in England, France, and Japan, given the subjects are on the Security Index.",
+  "tags": [
+    "CIA",
+    "FBI",
+    "Susan Heilig",
+    "Richard Cyril Frank",
+    "Communist China",
+    "Switzerland",
+    "Security Index",
+    "Intelligence Sharing",
+    "Swiss Federal Police",
+    "Legal Attaches"
+  ],
+  "title": "",
+  "date": "1960-02-02",
+  "locations_mentioned": [
+    "Bern, Switzerland",
+    "Zurich, Switzerland",
+    "Prague",
+    "United States",
+    "England",
+    "France",
+    "Japan",
+    "Communist China"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Susan Heilig",
+    "Richard Cyril Frank",
+    "John Edgar Hoover",
+    "S. J. Papich"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "CIA"
+}

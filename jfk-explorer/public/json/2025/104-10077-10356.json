@@ -1,0 +1,24 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Revealing operational details, such as AMWEE-1 caching and making dead drops while under DSE surveillance, could compromise ongoing intelligence activities and expose sources. Quoting directly: \"PLEASE BRIEF DAIBOLD ON WAVE'S VIEWS RE (AMWEE-1) CACHING AND MAKING DEAD DROPS AT THIS TIME IN LIGHT 7. ASSUME (AMWEE-1) UNDER DSE SURVEILLANCE, PARTICULARLY SINCE EXFILTRATION AMWEE-2 AND ANTAURA-147 KEYWAY DEEPLY CONCERNED (CONTINUE) for caching AND MAKING HERS rose ENT CIRCUMS\"",
+  "security_level": "SECRET",
+  "summary": "A JMWAVE cable discusses the feasibility of AMWEE-1 caching and making dead drops, considering AMWEE-1's potential surveillance and the concerns of AMWEE-2 and ANTAURA-147.",
+  "summary_one_paragraph": "This SECRET cable from JMWAVE, dated December 10, requests an immediate briefing for DAIBOLD on WAVE's perspective regarding AMWEE-1's caching and dead drop activities. It expresses concern about AMWEE-1 potentially being under DSE surveillance, particularly given the unease of AMWEE-2 and ANTAURA-147 regarding these actions. The cable references previous communications (WAVE 8316, WAVE 8346, DIR 87628, DIR 97290, DIR 87508, WAVE 8762) and ends with a brief sign-off from HALOVEY of C/SAS/MOB.",
+  "tags": [
+    "JMWAVE",
+    "AMWEE-1",
+    "AMWEE-2",
+    "ANTAURA-147",
+    "Caching",
+    "Dead Drops",
+    "DSE Surveillance",
+    "Cuba",
+    "Intelligence Operations"
+  ],
+  "title": "RYBAT TYPIC AMWER AMPAUNA",
+  "date": "196X-12-10",
+  "origin_agency": "JMWAVE",
+  "recipient": "FRA Director",
+  "sender": "P.A.MAGGIO"
+}

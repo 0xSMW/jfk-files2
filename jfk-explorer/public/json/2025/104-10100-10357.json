@@ -1,0 +1,33 @@
+{
+  "classification": "Mexico",
+  "document_type": "Message",
+  "security": "Revealing that ANQUAR-1 is being directed to postpone contacting Davies until further coordination and is being offered a leave of absence could compromise ANQUAR-1 and disrupt ongoing operations. Furthermore, detailing the plan to establish a contact with Luis Casas Campa for a personal meeting reveals operational methods and could endanger the individuals involved. Quoting: \"BE ASSURED NOTHING VILL BE DONE IN REGARD CONTACTING DAVIES UNTIL CLEARITH YOU. REQUEST YOU ALSO DO NOTHING UNTIL COORDINATED WITH US. BEST SOLUTION WOULD BE FOR YOU TRY ARDANGE THREK TO SIX MONTHS LEAVE OF ABSENCE WEICH YOU SAN EXTEND IP MECES-SARY.\" and \"HAVE ESTABLISHED CONTACT WITH LUIS CASAS CAMPA WRO SAILING ON CUBAN SHIP...DESIRE YOU BE PREPARED TRAVEL TO THAT LOCATION FOR PUSOHAL CONTACT FIX.\"",
+  "security_level": "RYBAT TYPIC",
+  "summary": "A message instructing the relay of information to ANQUAR 1, concerning contact with Matthew E. Ontrich (aka \"David Baas\") and Luis Casas Campa, including instructions on coordinating actions and arranging a meeting.",
+  "summary_one_paragraph": "This message relays instructions for ANQUAR 1 at a specified address, guiding them to postpone contacting Davies until cleared by the sender. A solution for ANQUAR 1 is to arrange a three to six-month leave of absence which they can extend if needed. It also informs ANQUAR 1 of a contact established with Luis Casas Campa, sailing on a Cuban ship, and requests ANQUAR 1 to prepare for travel to Cuba for a personal contact fix. A secure communication channel to Mr. Edward A. Harel will also be provided by the person delivering the message.",
+  "tags": [
+    "CIA",
+    "ANQUAR",
+    "Matthew E. Ontrich",
+    "David Baas",
+    "Luis Casas Campa",
+    "Cuba",
+    "Edward A. Harel",
+    "RYBAT"
+  ],
+  "title": "Message to ANQUAR 1 Regarding Contacts and Coordination",
+  "locations_mentioned": [
+    "Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Matthew E. Ontrich",
+    "David Baas",
+    "Luis Casas Campa",
+    "Edward A. Harel",
+    "ANQUAR 1",
+    "Davies"
+  ],
+  "recipient": "ANQUAR 1",
+  "sender": "SAB/EOD"
+}

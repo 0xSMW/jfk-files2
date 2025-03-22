@@ -1,0 +1,28 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Message",
+  "security": "This document pertains to notifying a former employee about the potential public release of their name under the JFK Assassination Records Collection Act of 1992. The message indicates that the agency must present a compelling case to prevent the release if it poses a credible threat to the individual, their family, or sensitive activities. Quoting directly: 'YOUR NAME CANNOT BE REDACTED FROM THE DOCUMENTS TO BE RELEASED UNLESS WE CAN PROVIDE EVIDENCE THAT THIS RELEASE WOULD POSE A CREDIBLE THREAT TO YOU PERSONALLY, YOUR FAMILY, OR ANY SENSITIVE ACTIVITY'. Revealing this internal process might expose methods for managing personnel information and compliance with legal mandates, potentially leading to public scrutiny or legal challenges.",
+  "security_level": "SECRET",
+  "summary": "A message from CIA Headquarters (HQS) to the Bangkok Station requesting assistance in contacting a former employee who retired under cover and now resides in Bangkok, to inform them about the potential release of their name in JFK assassination-related documents under the JFK Records Collection Act of 1992.",
+  "summary_one_paragraph": "This secret message, dated November 20, 1995, directs the CIA's Bangkok Station to contact a former employee living in Bangkok who retired under cover. The purpose is to inform the individual that their name appears in documents being reviewed for public release under the President John F. Kennedy Assassination Records Collection Act of 1992. The message includes a template letter from Bert Mills, urging the former employee to contact the agency if they believe the release of their name could pose a threat to them or sensitive activities, so that the CIA can argue against the release before a Presidentially-appointed board.",
+  "tags": [
+    "CIA",
+    "JFK Assassination Records Collection Act",
+    "Former Employee Notification",
+    "Bangkok Station",
+    "Covert Operations",
+    "FOIA",
+    "WNINTEL"
+  ],
+  "title": "Request for Station Assistance",
+  "date": "1995-11-20",
+  "locations_mentioned": [
+    "Bangkok"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Bert Mills"
+  ],
+  "recipient": "Bangkok Station",
+  "sender": "Staff"
+}

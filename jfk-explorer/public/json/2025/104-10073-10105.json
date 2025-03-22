@@ -1,0 +1,38 @@
+{
+  "classification": "Operations",
+  "document_type": "Classified Message",
+  "security": "Revealing that the CIA is monitoring the travel plans and activities of U.S. trade union leaders could compromise intelligence sources and methods. Also, the involvement of MHCHAOS, a controversial CIA program, should be kept secret. 'DESIRE NO SPECIAL COVERAGE TRADE UNION GROUP AND NO WARNING NOTICE SENSITIVE INTELLIGENCE SOURCES AND METHODS INVOLVED.'",
+  "security_level": "SECRET",
+  "summary": "A CIA cable reports that trade union representatives James Hoffa, Harold Gibbons, and William Taub are planning a trip to the Democratic Republic of Vietnam (DRV) and requests any pertinent MHCHAOS-related information.",
+  "summary_one_paragraph": "On July 7, 1972, a SECRET CIA cable originating from CI/SO reports that James Hoffa, Harold Gibbons, and William Taub, prominent trade union representatives, have been invited to visit the DRV. The message requests no special coverage of the trade union group and seeks MHCHAOS-related information from the station, indicating a potential intelligence interest in the group's activities. The cable references Gibbons' previous travel to the DRV in March 1972 and notes that visas may be picked up in Vientiane or Paris.",
+  "tags": [
+    "CIA",
+    "MHCHAOS",
+    "Trade Unions",
+    "James Hoffa",
+    "Harold Gibbons",
+    "William Taub",
+    "DRV",
+    "Vietnam",
+    "Surveillance",
+    "Intelligence"
+  ],
+  "title": "Trade Union Representatives Visit to DRV",
+  "date": "1972-07-07",
+  "locations_mentioned": [
+    "Vientiane",
+    "Paris",
+    "DRV",
+    "U.S."
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "James Hoffa",
+    "Harold Gibbons",
+    "William Taub",
+    "Slaght",
+    "Demolat"
+  ],
+  "recipient": "Headquarters 9888, Vientiane, Paris",
+  "sender": "BWellsl"
+}

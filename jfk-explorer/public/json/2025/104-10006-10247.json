@@ -1,0 +1,32 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Check and Consolidation Request",
+  "security": "Disclosing that individuals are being checked by the CIA, especially those associated with foreign embassies (Soviet in this case) and potentially linked to intelligence activities, could compromise ongoing or future investigations. Quoting directly: 'Subj scheduled to arrive New Delhi for two years as an English teacher at the Soviet Embassy...Subj is presumed to have arr sometime after sept 60'.",
+  "security_level": "SECRET",
+  "summary": "A request for a name check and consolidation of information on Roman Fedorovich DEDKOV and his wife Vilasa Nikolayevna DEDKOV, who were scheduled to arrive in New Delhi as an English teacher at the Soviet Embassy, to determine if any pertinent identifiable information exists.",
+  "summary_one_paragraph": "This document outlines a request for a check and consolidation of information related to Roman Fedorovich DEDKOV, born in Ariansk, USSR, on March 28, 1927, and his wife, Vilasa Nikolayevna DEDKOV, born in Minsk, USSR, on December 31, 1930. They were listed as applicants for entry visas to India, and DEDKOV was scheduled to arrive in New Delhi as an English language teacher at the Soviet Embassy with Soviet passport number 207461 issued on September 17, 1960. The purpose is to determine if any pertinent identifiable information exists within the RID/INDEX files regarding them.",
+  "tags": [
+    "CIA",
+    "Name Check",
+    "Consolidation Request",
+    "Soviet Embassy",
+    "New Delhi",
+    "Roman Fedorovich Dedkov",
+    "Vilasa Nikolayevna Dedkov",
+    "RID/INDEX"
+  ],
+  "title": "Check and Consolidation Request",
+  "date": "1964-08-10",
+  "locations_mentioned": [
+    "New Delhi, India",
+    "Minsk, USSR",
+    "Ariansk, USSR"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Roman Fedorovich DEDKOV",
+    "Vilasa Nikolayevna DEDKOV"
+  ],
+  "recipient": "TUBE ROOM",
+  "sender": "RID/INDEX"
+}

@@ -1,0 +1,44 @@
+{
+  "classification": "Operations",
+  "document_type": "Message",
+  "security": "Revealing details about AMWEST/1's reluctance to cooperate after a trip to Paris and AMWEST/2's willingness could compromise their safety and the operation. Additionally, discussing the planned summer trip of AMWHIP/2's wife to PBRUMEN and potential contact with a high-level military friend reveals sensitive operational details. Mentioning Carrillo's guarantee and potential provocation further exposes covert intentions. Quoting from the document: \"M HAS BEEN REQUESTED OBTAIN CURRENT ASSESSMENT AMWEST/1 FROM ANWEST/2...\", \"...SURFACE POSSIBILITY OF DANGER TO AMWHIP/2'S WIFE DURING TRIP...\", \"...CARRILLO GUARANTEED AMWHIP/2'S WIFE'S SAFETY...\", and \"...QUESTION OF A POSSIBLE PROVOCATION ATTEMPT.\"",
+  "security_level": "SECRET",
+  "summary": "This message discusses the recruitment status of AMWEST/1 and the potential use of AMWEST/2, AMWHIP-2 and her trip to PBRUMEN to contact a military friend, while also raising concerns about a possible provocation attempt involving Antonio Carrillo and AMLASH/1 associations.",
+  "summary_one_paragraph": "This message, dated March 20, 1966, outlines the status of AMWEST/1's recruitment, who initially agreed to cooperate with KUBARK but later refused, and the ongoing contact with his wife, AMWEST/2, through a Bonn C/O Manganello (M). It discusses M's request to assess AMWEST/1 and potentially proceed with recruitment or defection. Concerns are raised about a meeting between AMWEST/1 and Antonio Carrillo in Geneva, possible reassignment of AMWEST/1, and a potential provocation attempt due to past associations with AMLASH/1. Also outlines AMWHIP-2 who's wife during a trip to PBRUMEN may be able to contact high-level PBRUMEN military friend.",
+  "tags": [
+    "Recruitment",
+    "AMWEST/1",
+    "AMWEST/2",
+    "AMWHIP/2",
+    "PBRUMEN",
+    "Antonio Carrillo",
+    "AMLASH/1",
+    "Provocation",
+    "KUBARK",
+    "Manganello",
+    "Geneva"
+  ],
+  "title": "TYPICO APRON AUWHIP AMWEST",
+  "allies": "This message discusses using AMWHIP/2's wife to contact a high-level PBRUMEN military friend, potentially without the knowledge or consent of the PBRUMEN government, which could be seen as undermining their sovereignty and trust.",
+  "date": "1966-03-29",
+  "locations_mentioned": [
+    "Rome",
+    "Bonn",
+    "Paris",
+    "Germany",
+    "Frankfurt",
+    "Bern",
+    "Geneva",
+    "PBRUMEN"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Marvin Francis",
+    "Manganello",
+    "Antonio Carrillo",
+    "Juan Ventura Valner",
+    "William V. Broe"
+  ],
+  "recipient": "Bonn",
+  "sender": "Director"
+}

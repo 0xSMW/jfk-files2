@@ -1,0 +1,28 @@
+{
+  "classification": "Security",
+  "document_type": "Cable",
+  "security": "Revealing that subject EMMA HARRIS was granted PCSA (potentially related to covert actions or protection) and is now known as EXMA HARRIS JOHNSON. It includes internal reference numbers and action requests, indicating operational activities. Quoting directly: \"SUBJ WAS GRANTED PCSA PER REF A UNDER NASE (EMMA HARRIS) WE (LORA ERGUM REF B ADVISED SUBJ NOW KNOWN AS (EXMA HARRIS JOHNSON) PLS ADVISE IF ORIGINAL PCSA STILL VALID.\"",
+  "security_level": "SECRET",
+  "summary": "A cable from JAMIVE to the Director, inquiring about the validity of a previously granted PCSA (Protective Security Approval) for a subject named EMMA HARRIS, now known as EXMA HARRIS JOHNSON, and indicating negative traces on the new name.",
+  "summary_one_paragraph": "This SECRET cable, dated December 13, 1963, is sent from JAMIVE to the Director with action to SAS 8, concerning subject EMMA HARRIS, who was previously granted a PCSA under the NASE program as per reference A. The cable notes that WE (LORA ERGUM, Ref B) has advised that the subject is now known as EXMA HARRIS JOHNSON, and requests advice on whether the original PCSA remains valid. Traces on the new name have been negative, according to the cable.",
+  "tags": [
+    "PCSA",
+    "Protective Security Approval",
+    "Name Change",
+    "Security Check",
+    "JAMIVE",
+    "EMMA HARRIS",
+    "EXMA HARRIS JOHNSON",
+    "NASE Program"
+  ],
+  "title": "Inquiry Regarding PCSA Validity for Subject EMMA HARRIS/EXMA HARRIS JOHNSON",
+  "date": "1963-12-13",
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "EMMA HARRIS",
+    "EXMA HARRIS JOHNSON",
+    "LORA ERGUM"
+  ],
+  "recipient": "Director",
+  "sender": "JAMIVE"
+}

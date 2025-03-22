@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "The message details the failure of the Bay of Pigs invasion, including the inability to resupply due to enemy air superiority, the inability to withstand tank assaults, and overwhelming enemy manpower. Disclosing these details could reveal operational weaknesses and intelligence failures.",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "A classified message reports the failed Bay of Pigs invasion in Cuba on April 17, 1961, detailing the Cuban revolutionaries' defeat due to the GOC's air superiority, heavy tank action, and overwhelming manpower.",
+  "summary_one_paragraph": "This top-secret message, dated April 19, 1961, relays information regarding the Bay of Pigs invasion in Cuba, where a strike force of Cuban revolutionaries, HUGERINI 1200, landed at Cochinos Bay on April 17. The message indicates that while the rebels initially secured beachheads, the GOC (Government of Cuba) established air superiority using T-33 jet trainers and MiG-8s, and by April 18, up to 12 Soviet-built tanks were deployed. The rebel forces lost a beachhead on April 17 and their remaining foothold by April 19, primarily due to an inability to resupply, withstand tank assaults, and overwhelming enemy manpower; police action also prevented civilian support. Full details were not available, but psychological guidance was to follow.",
+  "tags": [
+    "Bay of Pigs",
+    "Invasion",
+    "Cuba",
+    "Revolutionaries",
+    "GOC",
+    "Air Superiority",
+    "Tanks",
+    "Failure",
+    "Classified Message"
+  ],
+  "title": "Bay of Pigs Invasion Report",
+  "date": "1961-04-19",
+  "locations_mentioned": [
+    "Cuba",
+    "Cochinos Bay",
+    "Las Villas Province"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Richard M. Bissell"
+  ],
+  "recipient": "All Stations and Bases",
+  "sender": "Director"
+}

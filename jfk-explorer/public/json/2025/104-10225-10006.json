@@ -1,0 +1,25 @@
+{
+  "classification": "Personnel",
+  "document_type": "Appointment Affidavits",
+  "security": "The document contains personal information about an individual, including their name and signature, which could potentially be misused if disclosed.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "Daniel Flores swears to support the Constitution, denies subversive activity and striking against the government, affirms no purchase or sale of office, and confirms the truthfulness of his Declaration of Appointee.",
+  "summary_one_paragraph": "On March 12, 1962, Daniel Flores signed appointment affidavits for the Central Intelligence Agency in Washington, D.C., affirming his support for the U.S. Constitution, denying any subversive affiliations or activities, and stating that he is not participating in any strike against the Federal Government. He also attested that he did not offer any consideration for his appointment and that his answers in the Declaration of Appointee are true and correct, with the oath administered by Shirley Lewis.",
+  "tags": [
+    "CIA",
+    "Appointment",
+    "Affidavit",
+    "Subversive Activity",
+    "Strike",
+    "Constitution",
+    "Daniel Flores"
+  ],
+  "title": "Appointment Affidavits",
+  "date": "1962-03-12",
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Daniel Flores",
+    "Shirley Lewis"
+  ],
+  "recipient": "Central Intelligence Agency"
+}

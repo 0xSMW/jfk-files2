@@ -1,0 +1,34 @@
+{
+  "classification": "Administrative",
+  "document_type": "Index Search and 201 Consolidation Request",
+  "security": "Revealing search parameters (names, identifying data) and file numbers could expose targets of intelligence operations and sources. Listing specific names and file data poses risk. Quote: \"SURNAME SUBJECT OF INDEX SEARCH BANNISTER GIVEN NAMES Guy\", \"ESPINOSA HERNANDEZ, VICTOR DOMINADOR 204-0285147*\"",
+  "security_level": "SECRET",
+  "summary": "This document consists of index searches and consolidation requests for James Earl Ray, cryptonyms, INS reports, State Department telexes, and individuals including Guy Bannister, Victor Dominado Espinosa-Hernandez, and Ed Butler. It outlines requests for information from various files and record centers.",
+  "summary_one_paragraph": "The document is comprised of multiple index search and 201 consolidation requests dated between 1968 and 1977, submitted by R.B. Holmes (HM788) of the CI/EXO branch, concerning various subjects including James Earl Ray, cryptonyms (SMABOVE, SMABLE), INS reports related to CHANG, Fang Nang, and individuals such as Guy Bannister, Victor Dominado Espinosa-Hernandez, and Ed Butler. The requests detail specific search instructions to IP/IN, IP/MI, and IP/CFS, as well as directives to various TUBE ROOM locations, with the aim of gathering and consolidating existing records and locator data.",
+  "tags": [
+    "James Earl Ray",
+    "Cryptonyms",
+    "INS Reports",
+    "State Department Telexes",
+    "Index Search",
+    "201 Consolidation",
+    "Guy Bannister",
+    "Victor Dominado Espinosa-Hernandez",
+    "Ed Butler",
+    "CI/EXO",
+    "FOIA",
+    "MLK"
+  ],
+  "title": "Index Search and 201 Consolidation Request",
+  "persons_mentioned": [
+    "James Earl Ray",
+    "Guy Bannister",
+    "Victor Dominado Espinosa-Hernandez",
+    "Ed Butler",
+    "CHANG, Fang Nang",
+    "KULAKOV,FNU",
+    "MAXIM EGOROFF",
+    "IGOR GUZENKO"
+  ],
+  "sender": "R.B. Holmes (HM788) CI/EXO 204921"
+}

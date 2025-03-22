@@ -1,0 +1,43 @@
+{
+  "classification": "John F. Kennedy Assassination Records Act of 1992",
+  "document_type": "Cable",
+  "security": "Disclosing the identities of sources like JAGUAR could compromise their safety and disrupt intelligence gathering efforts. Revealing that the CIA is actively monitoring individuals like Philip Agee and Stephen M. Weissman, and tracking their contacts, could expose intelligence methods and create diplomatic issues. Specifically, the cable states, \"JAGUAR was source of above info\" and requests traces on Oltmans, indicating active monitoring and source involvement.",
+  "security_level": "SECRET",
+  "summary": "A secret cable discusses Philip Agee's contact with Stephen M. Weissman, who claimed to have found an archive of agency material, and Agee's offer to introduce Weissman to Dewi Sukarno. The cable also investigates William L. Oltmans' connections with Dewi Sukarno and their interest in Senate investigations related to Indonesia.",
+  "summary_one_paragraph": "This secret cable, sent in April 1976, details a contact between Philip Agee and Stephen M. Weissman, where Weissman claimed to have discovered an archive of agency materials and mentioned that Sukarno was identified as a \"UUR\" man by the CIA. Agee offered to introduce Weissman to Dewi Sukarno and a journalist familiar with Sukarno. The cable identifies William L. Oltmans as a possible journalist, based on letters exchanged between Oltmans and Dewi Sukarno expressing interest in Senate investigations and Sukarno's concerns about CIA activities. The cable requests that addressees trace Oltmans and questions how Agee obtained copies of letters written to Senator Frank Church.",
+  "tags": [
+    "Philip Agee",
+    "Stephen M. Weissman",
+    "Dewi Sukarno",
+    "William L. Oltmans",
+    "Indonesia",
+    "Senate Investigations",
+    "CIA",
+    "JAGUAR",
+    "UUR",
+    "Frank Church"
+  ],
+  "title": "Cable Regarding Philip Agee, Stephen M. Weissman, Dewi Sukarno, and William L. Oltmans",
+  "date": "1976-04-30",
+  "locations_mentioned": [
+    "Jakarta",
+    "The Hague",
+    "Paris",
+    "California",
+    "Amsterdam",
+    "Netherlands",
+    "United Kingdom",
+    "Cambridge"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Philip Agee",
+    "Stephen M. Weissman",
+    "Dewi Sukarno",
+    "William L. Oltmans",
+    "Sukarno",
+    "Frank Church"
+  ],
+  "recipient": "Director, Jakarta Info (The Hague) (Paris)",
+  "sender": "Staff"
+}

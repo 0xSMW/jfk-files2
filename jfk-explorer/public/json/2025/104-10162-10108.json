@@ -1,0 +1,24 @@
+{
+  "classification": "Cuba",
+  "document_type": "Receipt",
+  "security": "This document details the receipt of authentication materials, including a Cuban passport with a U.S. non-immigrant visa, an exit permit, and a vaccination certificate. It specifies that the materials are for \"Background Use Only\" and should not be reproduced, and that they must be returned to TSD/IB after use. The level of security comes from the classification of these authentication materials and the fact that those materials could be used to conduct clandestine activities.  \"Authentication Materials must be returned to TSD/IB as soon as the intended operational use has been fulfilled; unused documents, whether filled in or blank, must be returned to TSD/IB when no longer needed.\"",
+  "security_level": "SECRET",
+  "summary": "A receipt acknowledging the transfer of authentication materials, including a Cuban passport with a U.S. visa, to TSD/IB for background use, with instructions for the return of the materials after use.",
+  "summary_one_paragraph": "On January 9, 1961, a receipt was issued to TSD/IB acknowledging the transfer of several authentication materials related to Javier Alvares de la Torre, including a Cuban passport (#17130) with a U.S. Non-Immigrant Visa (B-2) valid until May 17, 1964, a Cuban Vigencia (Exit Permit) (JL-11041-E), and a Cuban International Certificate of Vaccination; the passport contained a Miami admission cachet and arrival departure record I-94 provided by INS; the I-94 form showed that the subject was admitted to the U.S. on June 16, 1960, with a valid extension of stay until March 15, 1961 and these materials were to be used for background purposes only and returned to TSD/IB after their intended operational use.",
+  "tags": [
+    "Authentication Materials",
+    "Cuban Passport",
+    "U.S. Visa",
+    "TSD/IB",
+    "Javier Alvares de la Torre",
+    "Immigration",
+    "Miami",
+    "Background Check"
+  ],
+  "title": "Receipt for Authentication Materials",
+  "date": "1961-01-09",
+  "persons_mentioned": [
+    "Javier Alvares de la Torre"
+  ],
+  "recipient": "TSD/IB"
+}

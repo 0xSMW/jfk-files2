@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "The document itself doesn't reveal any overt operations or methods but referencing specific file numbers, passport details and internal station procedures could compromise sources or methods if exposed. “STATION FILES SHOW EVELIO DUQUE CUBAN CITIZEN ARRIVED DOC. MICRO. SER. QUITO 24 OCT 1966 VIA ECUATORIANA AIRLINES FROM PANAMA. PASSPORT TT-13173. NO ADDITIONAL INFO.”",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A confidential cable concerning Evelio Duque, a Cuban citizen who arrived in Quito, Ecuador, in 1966. The cable references station files, passport information, and internal file numbers related to Duque.",
+  "summary_one_paragraph": "This confidential cable, dated August 2, 1973, originates from an unknown source (possibly a Staff member) and is addressed to multiple locations, including Guayaquil, Miami, San Jose, Guatemala City, and Mexico City. It references station files regarding Evelio Duque, a Cuban citizen who arrived in Quito on October 24, 1966, via Ecuatoriana Airlines from Panama, holding passport TT-13173. The cable provides file numbers (208-11-11/3 and 24-120-25) for further reference and notes that this information has been microfilmed.",
+  "tags": [
+    "Evelio Duque",
+    "Cuban Citizen",
+    "Quito",
+    "Ecuador",
+    "Station Files",
+    "Microfilmed",
+    "CIA",
+    "CONFIDENTIAL"
+  ],
+  "title": "Cable Regarding Evelio Duque",
+  "date": "1973-08-02",
+  "locations_mentioned": [
+    "Quito, Ecuador",
+    "Panama",
+    "Guayaquil",
+    "Miami",
+    "San Jose",
+    "Guatemala City",
+    "Mexico City"
+  ],
+  "persons_mentioned": [
+    "Evelio Duque"
+  ]
+}

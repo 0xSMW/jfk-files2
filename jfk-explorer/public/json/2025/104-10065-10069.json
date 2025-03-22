@@ -1,0 +1,20 @@
+{
+  "classification": "Commission",
+  "document_type": "Cable",
+  "security": "Disclosing specific staff actions, such as C/EA-8 (933), C/CA-3, C/CCS, C/CI-4, C/CMS, C/EPS/COMP, C/EPS/EG-2, C/OED/NOC-2, C/OG/DMS, C/PCS, C/PCS/LSN, C/PM, and C/SIA/FL, could compromise internal organizational structures and operational responsibilities.",
+  "security_level": "SECRET",
+  "summary": "A cable from Hong Kong to the Director concerning a reference received for passage to the FBIS (Foreign Broadcast Information Service) related to the House Select Committee on Assassinations' (HSCA) interest in nonofficial cover officers and agent assets, requesting clarification.",
+  "summary_one_paragraph": "This SECRET cable, originating from Hong Kong on May 27, 1978, is addressed to the Director and references a previous communication (DIRECTOR 230113). The message indicates that a reference was received in Hong Kong for forwarding to the FBIS regarding the House Select Committee on Assassinations' (HSCA) interest in nonofficial cover officers and agent assets. The cable notes that the subject matter does not appear to concern FBIS field units and requests clarification on the matter (E2, IMPDET).",
+  "tags": [
+    "HSCA",
+    "Nonofficial Cover",
+    "Agent Assets",
+    "FBIS",
+    "House Select Committee on Assassinations"
+  ],
+  "title": "Cable regarding HSCA Interest in Nonofficial Cover Officers and Agent Assets",
+  "date": "1978-05-27",
+  "origin_agency": "CIA",
+  "recipient": "Director",
+  "sender": "Hong Kong Station"
+}

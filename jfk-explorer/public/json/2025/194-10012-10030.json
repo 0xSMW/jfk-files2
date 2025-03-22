@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Telegram Information Report",
+  "security": "Disclosing the intelligence sources and methods used to gather information on Fidel Castro's prestige and communist activities could jeopardize ongoing intelligence operations and endanger sources. The document explicitly mentions 'A REGULAR SOURCE, QUOTING A YUGOSLAV JOURNALIST WHO RECENTLY TOURED LATIN AMERICA,' and reveals field dissemination to specific entities like STATE, CINCLANT, and CINCARIB. Sharing these details could compromise intelligence collection efforts and harm relationships with sources and allies.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A CIA information report, dated January 4, 1963, discusses Fidel Castro's undiminished prestige in Latin America despite the recent crisis, noting that Latin American communist parties are becoming increasingly divided and independent.",
+  "summary_one_paragraph": "This unclassified CIA telegram information report, distributed on January 4, 1963, relays information from a British service quoting a Yugoslav journalist, asserting that Fidel Castro's prestige among his Latin American supporters remains largely intact due to the United States' perceived failure to remove him from power during a recent crisis; it also highlights the increasing division within Latin American communist parties between violent and non-violent factions, leading to more independent policy-making, with British comments adding that Cuban exiles in Venezuela, though disillusioned, intend to continue small-scale attacks on Cuba through groups like the Directorio Revolucionario Estudiantil (DRE) and Alpha 66; the report was disseminated to State, CINCLANT, and CINCARIB.",
+  "tags": [
+    "Fidel Castro",
+    "Latin America",
+    "Communism",
+    "Cuban Crisis",
+    "CIA",
+    "Intelligence Report",
+    "DRE",
+    "Alpha 66",
+    "Cuba"
+  ],
+  "title": "CIA Information Report: Undiminished Prestige of Fidel Castro in Latin America",
+  "date": "1963-01-04",
+  "locations_mentioned": [
+    "Cuba",
+    "Latin America",
+    "England",
+    "London",
+    "Venezuela"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Jordan J. Pfuntner",
+    "Fidel Castro"
+  ],
+  "recipient": "STATE, CINCLANT, CINCARIB",
+  "sender": "USA"
+}

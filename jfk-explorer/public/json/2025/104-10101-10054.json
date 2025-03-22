@@ -1,0 +1,24 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "Sharing the names of possible contacts given to/DEVISTA-1 might endanger those individuals.",
+  "security_level": "PRIORITY",
+  "summary": "This cable directs the station to provide only the first four names from reference SALY 4839 to /DEVISTA-1 if PCI does not give /DEVISTA-1 contacts in El Salvador.",
+  "summary_one_paragraph": "This priority cable, dated 130022 45z, instructs the recipient that if PCI (likely a person or department) doesn't provide /DEVISTA-1 with contacts in El Salvador, the station should only pass the first four names listed in reference SALY 4839 (detailed in IN 63096) to /DEVISTA-1. A WH/COMMENT suggests Communists as possible contacts for /DEVISTA-1.",
+  "tags": [
+    "CIA",
+    "DEVISTA-1",
+    "El Salvador",
+    "Contacts",
+    "Communists",
+    "PCI"
+  ],
+  "title": "Cable regarding contacts for /DEVISTA-1 in El Salvador",
+  "locations_mentioned": [
+    "Mexico",
+    "El Salvador"
+  ],
+  "origin_agency": "CIA",
+  "recipient": "HOME: MEXI, SALV",
+  "sender": "SIB CEN"
+}

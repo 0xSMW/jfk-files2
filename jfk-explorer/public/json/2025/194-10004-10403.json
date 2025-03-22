@@ -1,0 +1,25 @@
+{
+  "classification": "Personnel",
+  "document_type": "Identification Form",
+  "security": "This document contains personal information such as name, aliases, social security number, date and place of birth, service number, residences, employment history, and family information. Releasing this unredacted information could violate privacy laws and regulations.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a National Agency Check Request form for Manuel Marti, providing identifying information, residences, and employment history for a background check by the U.S. Army.",
+  "summary_one_paragraph": "A National Agency Check Request form dated September 9, 1968, initiated by INSCOM/CSF, pertains to Manuel Marti, born May 17, 1946, in San Juan, Puerto Rico, with service number US52773870 and SSN 093-36-4601. The document lists Marti's residences in New York and Fort Jackson, South Carolina, his employment history including Polly Perry, Mutual Ins. Adv. Association, and the U.S. Army, and requests a security clearance check. The form includes details about Marti's parents and indicates a basic trainee status in the Army with a single agency check at the FBI.",
+  "tags": [
+    "National Agency Check",
+    "Background Check",
+    "Manuel Marti",
+    "INSCOM/CSF",
+    "US Army",
+    "Personnel Investigation"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1968-09-09",
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Manuel Marti (father)",
+    "Reyes Badillo (mother)"
+  ],
+  "recipient": "DCS, OPERS HQS, USAINTC"
+}

@@ -1,0 +1,33 @@
+{
+  "classification": "Soviet",
+  "document_type": "Extract from Archives files",
+  "security": "Revealing the extent and methods of U.S. intelligence gathering on Soviet radar and air defense systems could compromise future intelligence operations. Sharing the specific intercepted radar frequencies (3000 mc/s band) and project names (TOKEN, WHIFF, GAGE, PATTY CAKE) could assist adversaries in developing countermeasures. Quoting: 'Some 1461 intercepts of Soviet Bloc radars operating in the 3000 mc/s band were obtained by project ELINT as follows: TOKEN-1331, WHIFF-37, GAGE-26, PATTY CAKE-37, Other 30.'",
+  "security_level": "TOP SECRET",
+  "summary": "This document is an extract from COMIREX archives analyzing Soviet air defense system performance based on data from unprecedented aerial penetrations in June-July 1956. It assesses radar coverage, Soviet response strategies, and the effectiveness of the Soviet warning system.",
+  "summary_one_paragraph": "From June 20 to July 10, 1956, eight unprecedented aerial penetrations of the Soviet Bloc air defense system were conducted, providing data to assess its effectiveness. Despite the surprise nature of the missions, Soviet radar detected all intrusions above 72,000 feet, prompting countermeasures such as grounding civil flights and relocating MIG-19 aircraft. The analysis suggests that by July 5, the USSR recognized the reconnaissance purpose and capabilities of the missions, leading to improved tracking and altitude reporting by July 9 and 10, respectively. ELINT data revealed a deep deployment of the air defense warning system, intercepting 1461 Soviet Bloc radars operating in the 3000 mc/s band, with project ELINT identifying 618 TOKEN sites, including 213 new ones, suggesting a catalyst effect for the introduction of ROCK CAKES.",
+  "tags": [
+    "COMIREX",
+    "Soviet Air Defense",
+    "ELINT",
+    "Radar",
+    "Reconnaissance",
+    "Cold War",
+    "EIDER",
+    "CHESS",
+    "TOKEN",
+    "WHIFF",
+    "GAGE",
+    "PATTY CAKE",
+    "ROCK CAKES"
+  ],
+  "title": "Summ of Initial Missions",
+  "date": "1956-07-10",
+  "locations_mentioned": [
+    "USSR",
+    "East Germany",
+    "Poland",
+    "Hungary",
+    "Moscow"
+  ],
+  "origin_agency": "COMIREX (Committee on Imagery Requirements and Exploitation)"
+}

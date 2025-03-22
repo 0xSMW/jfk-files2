@@ -1,0 +1,27 @@
+{
+  "classification": "Mexico",
+  "document_type": "Message",
+  "security": "Revealing the identity of individuals being tracked, as well as specific units involved in operations, could jeopardize ongoing investigations and compromise intelligence sources. The document explicitly states the need for secrecy, indicating potential risks associated with disclosure.",
+  "security_level": "SECRET",
+  "summary": "A message from Mexico City identifies Carlos Cruz Morales, Presidente Federacion Universitario de Sociedades Estudiantiles (FUSA), with a reference to previous messages and instructions for action and information dissemination.",
+  "summary_one_paragraph": "This SECRET message from the Mexico City station to the Director, dated November 2, 1963, identifies Carlos Cruz Morales, the Presidente of Federacion Universitario de Sociedades Estudiantiles (FUSA), and references previous communications (MEXI 6771 CIN 5207). The message includes routing information and instructions for action by WA 8 and information dissemination to various departments including CA, CI, and FI.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "Carlos Cruz Morales",
+    "FUSA",
+    "Student Federation",
+    "Surveillance"
+  ],
+  "title": "KUWOLF LICOAX: Identification of Carlos Cruz Morales",
+  "date": "1963-11-02",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Carlos Cruz Morales"
+  ],
+  "recipient": "Director",
+  "sender": "Mexico City"
+}

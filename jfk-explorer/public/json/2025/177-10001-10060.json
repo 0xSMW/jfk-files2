@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "The document is classified as SECRET with NO FOREIGN DISSEM/CONTROLLED DISSEM/NO DISSEM ABROAD/BACKGROUND USE ONLY. Sharing information about Cuban government policies obtained through diplomatic sources could jeopardize intelligence gathering operations and compromise the source, a high-level Cuban diplomat in Western Europe. Such exposure could disrupt ongoing intelligence operations and damage international relations.",
+  "security_level": "SECRET",
+  "summary": "A CIA report from December 1963 indicates that Fidel Castro was upset by President Kennedy's assassination and that the Cuban government's current policy is to avoid irritating President Johnson, waiting to see if relations between the two countries can improve.",
+  "summary_one_paragraph": "This CIA report, dated December 18, 1963, relays information from a high-level Cuban diplomat in Western Europe stating that Fidel Castro was disturbed by President Kennedy's assassination. The Cuban leadership believed Kennedy would not invade Cuba and felt confident that his administration's policies of economic blockade and internal subversion would not succeed in overthrowing the regime. The report further indicates that Castro has ordered the Cuban government not to publicly attack or irritate President Johnson, preferring to observe Johnson's actions and assess the potential for improved relations between Cuba and the United States.",
+  "tags": [
+    "Cuba",
+    "Fidel Castro",
+    "President Johnson",
+    "President Kennedy",
+    "CIA",
+    "Diplomatic Relations",
+    "TDCSDB-3/658",
+    "TDCSDB-3/582"
+  ],
+  "title": "Cuban Government Policy Towards President Johnson's Administration",
+  "date": "1963-12-18",
+  "locations_mentioned": [
+    "Cuba",
+    "United States",
+    "Western Europe"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "President John F. Kennedy",
+    "President Johnson"
+  ]
+}

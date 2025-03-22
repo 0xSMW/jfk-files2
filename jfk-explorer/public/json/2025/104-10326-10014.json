@@ -1,0 +1,48 @@
+{
+  "classification": "Operations",
+  "document_type": "Message",
+  "security": "Revealing details about FCSTANDARD/32 and the C/O's interactions, including meeting locations, topics of discussion (Sudan, Libya), and personal information could compromise the operation and endanger the individuals involved. Mention of surveillance and security practices, like phone tapping and bug detection, could expose methods and compromise future operations. For example: \"SUBJ HAS BEGUN VISITING C/O'S RESIDENCE (REPORTED SEPARATELY).\", \"ETHIOPIANS TAP DIPLOMATS' OFFICE AND HOME PHONES.\", \"SUBJ TURNED ON TAPE PLAYER FOR SOUND MASKING AND EXPLAINED HIS HOME HAD NOT YET BEEN TESTED FOR BUGS\".",
+  "security_level": "SECRET",
+  "summary": "This message summarizes recent contacts between a CIA Case Officer (C/O) and FCSTANDARD/32, detailing meetings, discussions on Sudan and Libya, and observations about individuals and security practices in Addis Ababa.",
+  "summary_one_paragraph": "A secret RYBAT message from STAFF to the Director and CAIRO station summarizes recent interactions between a CIA Case Officer (C/O) and FCSTANDARD/32 in Addis Ababa during February 1998. The C/O requests background information on Sudan and talking points to support the development of FCSTANDARD/32. The message details meetings at the Concorde Nightclub, a U.S. Embassy reception, and private residences, discussing topics ranging from Sudanese and Libyan affairs to the presence of Israeli and Russian delegations, and security concerns such as phone tapping and bug detection. FCSTANDARD/32 also shares personal details, including encounters with local businessmen, suspicions about a Saudi intelligence officer, and insights into the local political landscape.",
+  "tags": [
+    "WNINTEL",
+    "RYBAT",
+    "FCSTANDARD",
+    "FCSTANDARD/32",
+    "Addis Ababa",
+    "Sudan",
+    "Libya",
+    "Intelligence",
+    "Case Officer",
+    "Concorde Nightclub",
+    "Surveillance",
+    "Counterintelligence"
+  ],
+  "title": "Summary of Recent Contacts with FCSTANDARD/32",
+  "date": "1998-02-25",
+  "locations_mentioned": [
+    "Addis Ababa",
+    "Sudan",
+    "Libya",
+    "Cairo",
+    "Djibouti",
+    "Ethiopia",
+    "Saudi Arabia"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "FCSTANDARD/32",
+    "Tony P. Ragl",
+    "Rami Hatan",
+    "Eliezer \"Eli\" Yitzhaky",
+    "Safah",
+    "Moussa",
+    "Helen",
+    "Salah LNU",
+    "Mahmoud LNU",
+    "Wadie A. Al-((Thagafi"
+  ],
+  "recipient": "Director, CAIRO",
+  "sender": "STAFF"
+}

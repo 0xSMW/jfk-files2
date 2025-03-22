@@ -1,0 +1,30 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Disclosing the methods used to verify an individual’s age and military service eligibility, such as contacting Sixth Army Headquarters and requesting documentation, could compromise future investigations. For instance, the report states: 'Source was instructed to find out who Nagell was by talking to SUBJECT,' revealing a direct investigative approach. Sharing such methods could allow subjects to anticipate and evade similar inquiries.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This agent report details an investigation into Victor L. Trinkala's underage enlistment in the U.S. Army and the intervention of R. C. Nagell to prevent Trinkala's deployment to Vietnam.",
+  "summary_one_paragraph": "An agent report, dated April 22, 1970, documents the investigation into Private Victor L. Trinkala's underage enlistment in the U.S. Army, initiated after Trinkala expressed reluctance to serve in Vietnam. The report outlines interviews conducted by Sergeant James Hutchinson, revealing that Trinkala lied about his age with the assistance of a recruiter. The investigation also notes the intervention of R. C. Nagell, a former Captain, who requested the cancellation of Trinkala's deployment orders, prompting further inquiry into Nagell's connection to Trinkala and verification of Trinkala's birthdate through his mother, Mrs. Dorothy Trinkala.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "Agent Report",
+    "Victor L. Trinkala",
+    "Richard C. Nagell",
+    "Underage Enlistment",
+    "Military Service",
+    "Vietnam War"
+  ],
+  "title": "AGENT REPORT",
+  "date": "1970-04-22",
+  "persons_mentioned": [
+    "Victor L. Trinkala",
+    "Richard C. Nagell",
+    "James Hutchinson",
+    "Dorothy Trinkala",
+    "Walter Girvin",
+    "Parker"
+  ],
+  "recipient": "TO:",
+  "sender": "[RESTRICTED ] (USA)"
+}

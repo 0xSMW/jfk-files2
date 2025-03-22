@@ -1,0 +1,51 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Collection of Documents (FBI docs, Dispatch, Classified Message, Memorandum)",
+  "security": "Several documents within the collection are classified as SECRET.  These documents contain details regarding intelligence operations and sources.  Disclosure could reveal sensitive intelligence-gathering methods, compromise sources, and damage relationships with liaison services. For example, details of the COME test for secret writing are described and should not be disclosed. This is supported by quoting directly from one of the memos included: “Representatives of the FBI Laboratory have been verbally briefed on the COME TEST which we believed had been used when working on the POHORIL letter and which established the presence of S/W on the letter.”",
+  "security_level": "CONFIDENTIAL/SECRET",
+  "summary": "This file contains documents relating to Semen Spiridon Pohorilyj, aka Pohoriliw, including FBI documents, CIA dispatches, and memos. The documents primarily concern investigations into Pohorilyj, his connections, and his potential involvement in sending a letter containing secret writing to Antin Nyczporuk in Paris.",
+  "summary_one_paragraph": "This collection of documents, dated between 1961 and 1975, pertains to Semen Spiridon Pohorilyj (aka Pohoriliw) and includes a review of his 201 file, FBI reports, and CIA communications. The documents detail efforts to identify and investigate Pohorilyj, a Ukrainian émigré in the United States, and his possible connection to Antin Nyczporuk in Paris, who received a letter from Pohorilyj containing traces of secret writing. The documents include requests for traces, photograph identifications, and checks of various files, as well as analysis of the secret writing and related communications protocols.",
+  "tags": [
+    "Semen Spiridon Pohorilyj",
+    "Antin Nyczporuk",
+    "Secret Writing",
+    "FBI",
+    "CIA",
+    "REDWOOD",
+    "LCIMPROVE",
+    "AEDOGMA",
+    "Internal Security",
+    "Warren Commission"
+  ],
+  "title": "201 File on U.S. Citizen: Semen Spiridon Pohorilyj",
+  "conspiracy": "The documents reference a letter from Pohorilyj to Nyczporuk containing secret writing, investigated by the CIA and FBI. Though the exact contents of the letter are not revealed, the focus on secret communication could suggest a link to covert activities relevant to the JFK investigation.",
+  "date": "1975-01-22",
+  "locations_mentioned": [
+    "United States",
+    "Philadelphia",
+    "Paris",
+    "France",
+    "USSR",
+    "Poland",
+    "Czechoslovakia",
+    "Salzburg",
+    "Austria",
+    "Germany",
+    "Munich",
+    "Ukraine"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA) and Federal Bureau of Investigation (FBI)",
+  "persons_mentioned": [
+    "Semen Spiridon Pohorilyj",
+    "Antin Nyczporuk",
+    "Dymtro Wasylaszuk",
+    "James Angleton",
+    "Rita Perkins",
+    "Colin Reid",
+    "Feino Kayhanen",
+    "Wallace H. Haverdon",
+    "Pamela D. Chalifoux"
+  ],
+  "recipient": "Chief of Station, Austria; Chief of Base, Salzburg; Director, FBI; Chief, WE; Chief, SR; Chief of Station, Paris",
+  "sender": "Deputy Director (Plans); Chief of Station, Austria; Chief of Station, Paris; Chief, Munich Operations Group; Director"
+}

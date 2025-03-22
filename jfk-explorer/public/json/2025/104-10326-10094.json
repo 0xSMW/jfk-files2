@@ -1,0 +1,31 @@
+{
+  "classification": "Kennedy Assassination",
+  "document_type": "Memo",
+  "security": "This memo discusses the sharing of British and CIA documents related to the JFK assassination. Revealing that information furnished to the agency by BSS (British Security Services?) was included in these documents could potentially strain relations or expose intelligence-sharing practices. Furthermore, the file number and internal routing information, if exposed, could reveal internal organizational structure and filing systems, aiding adversaries in understanding CIA operations.",
+  "security_level": "SECRET",
+  "summary": "A memo indicating that HOS passed a reference memo to SISON with attached copies of British documents and a CIA document containing reporting pertaining to the assassination of former President John F. Kennedy.",
+  "summary_one_paragraph": "On September 14, 1993, HOS provided SISON with a reference memo and attached copies of British documents along with a CIA document from EUR/BNBCI files, which included information pertaining to the assassination of President John F. Kennedy; no action is requested in this memo.",
+  "tags": [
+    "WNINTEL",
+    "Kennedy Papers",
+    "HOS",
+    "SISON",
+    "British Documents",
+    "CIA Document",
+    "JFK Assassination",
+    "BSS"
+  ],
+  "title": "<KENNEDY>PAPERS",
+  "date": "1993-09-16",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "HOS",
+    "SISON",
+    "LEWIS",
+    "BROWN",
+    "DILLON",
+    "RAHM"
+  ],
+  "recipient": "London",
+  "sender": "Staff (EUR/BNBCI)"
+}

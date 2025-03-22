@@ -1,0 +1,24 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Agent Report",
+  "security": "This document concerns a local agency check request from the FBI regarding David Reed Fromer. Releasing the name of individuals associated with investigations, especially if the investigation is ongoing, could potentially compromise intelligence-gathering operations.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report details a file check request made to the FBI in Chicago concerning David Reed Fromer, with results attached as an exhibit.",
+  "summary_one_paragraph": "On February 14, 1967, Special Agent Gordon R. Tyler of the 113th MI GP (I) submitted a report stating that on January 30, 1967, his office requested a file check from the FBI in Chicago regarding David Reed Fromer (born July 21, 1942). The results were received on January 10, 1967, and are contained in an attached letter (EXHIBIT //).",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "DOD",
+    "Personnel Investigation",
+    "David Reed Fromer",
+    "FBI",
+    "Local Agency Check"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1967-02-14",
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "David Reed Fromer",
+    "Gordon R. Tyler"
+  ]
+}

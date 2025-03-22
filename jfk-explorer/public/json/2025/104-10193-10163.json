@@ -1,0 +1,35 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum, Report",
+  "security": "The document mentions the Front National, described as the Communist Party's resistance organization in France, and discusses civilian attitudes and labor organizations in Normandy after the German occupation. While the information itself may not be inherently sensitive, disclosing details about resistance movements and political affiliations could potentially impact current geopolitical relations and reveal historical intelligence gathering methods. The document contains third-party information and should be reviewed accordingly.",
+  "security_level": "SECRET",
+  "summary": "This file contains documents reviewed by the House Select Committee on Assassinations (HSCA) staff members at CIA Headquarters related to the Front National (National Front) in France, including a Department of State memorandum from 1948 and a London Office of Strategic Services report from 1944 detailing resistance and labor organizations in Normandy and civilian attitudes.",
+  "summary_one_paragraph": "The file, reviewed at CIA Headquarters by HSCA staff, contains documents pertaining to the Front National in France. These include a Department of State memorandum dated December 20, 1948, and a SECRET report from the London Office of Strategic Services, dated August 9, 1944. The OSS report, originating from the 3rd Army and concerning resistance and labor organizations in Normandy, describes the Front National as the Communist Party's resistance organization and discusses civilian attitudes towards the Allies and labor issues in Cherbourg following the German occupation.",
+  "tags": [
+    "Front National",
+    "France",
+    "House Select Committee on Assassinations",
+    "CIA",
+    "Resistance",
+    "Labor Organizations",
+    "Normandy",
+    "Office of Strategic Services",
+    "Communist Party",
+    "FOIA"
+  ],
+  "title": "Front Nationale (National Front) File",
+  "date": "1944-07-24",
+  "locations_mentioned": [
+    "France",
+    "Normandy",
+    "Cherbourg",
+    "London"
+  ],
+  "origin_agency": "Office of Strategic Services (OSS)",
+  "persons_mentioned": [
+    "M. Crealin",
+    "M. Bocher Beauchet"
+  ],
+  "recipient": "Mr. Phillips, Cmdr. Kittredge, G-2 SHADH, G-2 12TH AG, GIN",
+  "sender": "London Office of Strategic Services"
+}

@@ -1,0 +1,32 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Airtel",
+  "security": "This document discusses an interview with ANGHEL DRAGOMIR and references a covert CIA Research Branch in Vienna, Austria. Releasing information about the covert CIA branch could potentially compromise intelligence operations. As stated: 'The other Government agency referred to in the insert is the Research Branch (Covert CIA the Embassy, Vienna, Austria.'",
+  "security_level": "Secret",
+  "summary": "This Airtel from the FBI Legat in Bern to the Director of the FBI concerns the assassination of President John F. Kennedy and provides enclosures related to an interview with ANGHEL DRAGOMIR. It notes that a covert CIA Research Branch in Vienna is the \"other Government agency\" mentioned in the insert.",
+  "summary_one_paragraph": "On August 21, 1964, the FBI Legat in Bern sent an Airtel to the Director of the FBI concerning the assassination of President John F. Kennedy. The Airtel, referencing a previous communication, encloses 25 copies each of insert pages 1 and 2, which contain the results of an interview with ANGHEL DRAGOMIR, incorporating a translated letter and comments. The Airtel also mentions that the \"other Government agency\" referred to in the insert is a covert CIA Research Branch in Vienna, Austria. Information on ANGHEL DRAGOMIR from Bureau files was excluded from the insert as his identity had not been proven and the information was not deemed pertinent.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "JFK Assassination",
+    "ANGHEL DRAGOMIR",
+    "Bern",
+    "Vienna",
+    "Research Branch",
+    "Covert Operation"
+  ],
+  "title": "MISC. INFO CONCERNING Assassination of President John Fitzgerald Kennedy",
+  "date": "1964-08-21",
+  "locations_mentioned": [
+    "Dallas, Texas",
+    "Bern",
+    "Vienna, Austria"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Fitzgerald Kennedy",
+    "ANGHEL DRAGOMIR"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "Legat, Bern"
+}

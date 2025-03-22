@@ -1,0 +1,38 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Cable",
+  "security": "This cable provides specific instructions to Ambassador Lodge regarding potential US involvement in a coup in Vietnam. Disclosing the details of these instructions, such as authorizing clandestine disbursements and outlining conditions for providing asylum, could harm US foreign relations and compromise ongoing operations. Specifically, the cable states: 'With respect to money for coup-group you are authorized to make such clandestine disbursements as you consider secure and effective' and 'U. S. authorities may afford asylum in their discretion to those to whom there is any express or implied obligation of this sort.' Sharing these directives reveals covert actions and internal decision-making processes, which could be exploited by adversaries or negatively impact international perceptions of US involvement in foreign affairs.",
+  "security_level": "TOP SECRET",
+  "summary": "A top-secret cable from McGeorge Bundy (White House) to Ambassador Lodge (Saigon) on October 30, 1963, addressing the U.S. position regarding a potential coup in South Vietnam, emphasizing controlled intervention and authorized clandestine disbursements to coup groups.",
+  "summary_one_paragraph": "On October 30, 1963, McGeorge Bundy sent a top-secret cable to Ambassador Lodge outlining the White House's stance on a potential coup in South Vietnam. The cable clarifies that the U.S. does not accept having no power to influence a coup and instructs Lodge to dissuade coup leaders if success seems unlikely, while assuring them of continued U.S. friendship. Lodge is authorized to make clandestine disbursements to coup groups and is instructed on the chain of command within the country team, with Harkins taking charge in Lodge's absence and in the event of a coup. The cable dictates that the U.S. will reject direct intervention appeals from either side but may perform mutually agreeable actions and offer asylum under certain conditions, ultimately favoring a successful coup under responsible leadership.",
+  "tags": [
+    "Vietnam",
+    "Coup",
+    "McGeorge Bundy",
+    "Ambassador Lodge",
+    "Clandestine Operations",
+    "Asylum",
+    "National Security Files",
+    "JFK Assassination",
+    "US Foreign Policy"
+  ],
+  "title": "Cable Regarding U.S. Policy on Potential Coup in Vietnam",
+  "date": "1963-10-30",
+  "locations_mentioned": [
+    "Saigon",
+    "Vietnam",
+    "Washington"
+  ],
+  "origin_agency": "WH",
+  "persons_mentioned": [
+    "Bundy",
+    "Lodge",
+    "Harkins",
+    "Smith",
+    "Conein",
+    "Diem",
+    "Truehart"
+  ],
+  "recipient": "Lodge",
+  "sender": "Bundy"
+}

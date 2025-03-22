@@ -1,0 +1,38 @@
+{
+  "classification": "Mexico",
+  "document_type": "Message",
+  "security": "This message reveals the use of a source ('SUBJ') to gather information on Soviet contacts, particularly Sergey Sergeyevich Konstantinov. It also outlines plans for potential future operations without requiring funding. Releasing such details could jeopardize the source, compromise ongoing operations, and expose intelligence-gathering methods. Quoting directly: \"MEXI told SUBJ take no initiative with SOUS but for present accept invites, furtner interest COLOCITY SOV REALITIES...C. TOO EARLY SPECIFICALLY DEUIL OBJECTIVE SUBJ UTILIZATION BUT IF POSSIBLE WILL REPORT SOUS CONTACTS...\"",
+  "security_level": "SECRET",
+  "summary": "A message from Mexico City reports on Hector Rafael Lapa Vazquez, who had contact with Soviet officials and expressed concerns about jeopardizing his U.S. travel privileges and his daughters' positions; it discusses potential operational development utilizing Lapa.",
+  "summary_one_paragraph": "This secret message from the Mexico City station details interactions between Hector Rafael Lapa Vazquez, a Mexican resident with U.S. connections, and Soviet officials including Sergey Sergeyevich Konstantinov. Lapa, concerned about maintaining his U.S. travel privileges and protecting his daughters, reported these contacts to an EME Security Officer. The CIA is considering utilizing Lapa to gather information on Soviet activities, instructing him to accept invitations but take no initiative. Additionally, the message notes a meeting between Lapa and EDOTON at a journalist association, suggesting future operational planning but specifies no funding is immediately necessary.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "Hector Rafael Lapa Vazquez",
+    "Soviet Contacts",
+    "KGB",
+    "Sergey Sergeyevich Konstantinov",
+    "Intelligence Gathering",
+    "Source Operation"
+  ],
+  "title": "LOIMOD OVE",
+  "date": "Unknown",
+  "locations_mentioned": [
+    "Mexico City",
+    "Chicago",
+    "United States"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Hector Rafael Lapa Vazquez",
+    "Sergey Sergeyevich Konstantinov",
+    "Piotr Fedotov",
+    "Virginia Gomez Nieto",
+    "Ricardo Poery Cervantes",
+    "Mrs. Grauelle Ponzio",
+    "Priscilla Lawocki",
+    "EDOTON"
+  ],
+  "recipient": "Director",
+  "sender": "Mexico City"
+}

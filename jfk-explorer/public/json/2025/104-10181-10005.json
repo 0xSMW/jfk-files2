@@ -1,0 +1,44 @@
+{
+  "classification": "Cuba",
+  "document_type": "Intelligence Information Report",
+  "security": "Multiple messages discuss ongoing intelligence operations (AMAUTO-1, AMEDIA, ABEATNIK) and potential recruitment targets (AMAUTO-1), and reveal code names (e.g., PERSKAVLNIT). Directly quoting from the text: \"EQS STILL INTERESTED AMAUTO-1 AS POTENTIAL RECRUITMENT TARGET... Meanwhile, would appreciate Station views new approach to subject; also potential station assets which we could use as avenue for approach AMAUTO-1.\" Disclosing such operational details and target information could jeopardize ongoing operations and the safety of assets.",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "This collection of documents primarily concerns intelligence operations related to Cuban officials and activities in Spain, including efforts to recruit a potential asset (AMAUTO-1), monitoring of Cuban diplomats, and investigation into Air Spain's potential sale of aircraft to Cuba.",
+  "summary_one_paragraph": "This series of SECRET intelligence reports and cables from 1969 details CIA activities focused on Cuba's presence and operations in Spain. It includes reports on Guillermo Ruiz Perez, a Cuban official, and covers topics such as Air Spain's offer to sell Britannia aircraft to Cubana Airlines, efforts to recruit AMAUTO-1 as a potential intelligence asset, surveillance of Cuban diplomats like Luis O. Rodriguez Rodriguez and Juan Antonio Curbelo Lemus, and investigations into potential intelligence officers. The documents also reveal internal communications about operational methods, asset management, and concerns regarding the monitoring of individuals like AMEDIA.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Spain",
+    "Intelligence Operations",
+    "AMAUTO-1",
+    "Guillermo Ruiz Perez",
+    "Air Spain",
+    "Cubana Airlines",
+    "Counterintelligence"
+  ],
+  "title": "Intelligence Activities Related to Cuban Officials in Spain",
+  "date": "1969-10-08",
+  "locations_mentioned": [
+    "Cuba",
+    "Spain",
+    "Madrid",
+    "Havana",
+    "Zaragoza",
+    "Switzerland",
+    "Chile",
+    "Rome"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Carlos Guillermo Ruiz Perez",
+    "Guillermo Ruiz",
+    "Osvaldo Garcia",
+    "Luis O. Rodriguez Rodriguez",
+    "Juan Antonio Curbelo Lemus",
+    "Aristides Diaz Invirons",
+    "Foss Diaz Puga",
+    "Hector Gallo Portiles"
+  ],
+  "recipient": "State Department, DIA, Army, Navy, Air Force, NSA, CRS, DCS, BIC, Treasury",
+  "sender": "Olejarz (and various station chiefs)"
+}

@@ -1,0 +1,20 @@
+{
+  "classification": "Administrative",
+  "document_type": "Notification",
+  "security": "Revealing details about military cover backstops, even without specific individual identities, could expose methods used to conceal covert operations. Specifically, the details regarding establishing and maintaining military cover, such as 'ASCERTAIN THAT ARMY W-2 BEING ISSUED,' and 'SUBMIT FORM 1322 FOR ANY CHANGE AFFECTING THIS COVER,' reveal administrative procedures to ensure the authenticity of the cover.",
+  "security_level": "SECRET",
+  "summary": "Notification of the establishment of a military cover backstop for the U.S. Army Joint Operations Group (8739), outlining procedures for record management and cover maintenance.",
+  "summary_one_paragraph": "This document, dated August 1, 1962, is a notification regarding the establishment of a military cover backstop for the U.S. Army Joint Operations Group (8739). It details administrative procedures for maintaining the cover, including blocking records, ascertaining the issuance of Army W-2 forms, and submitting specific forms (1322 and 1323) for changes or transfers affecting the cover responsibility. The notification specifies that the cover is continuing, effective August 7, 192, and includes distribution instructions to OSD/OS and PSD/OS.",
+  "tags": [
+    "Military Cover",
+    "Backstop",
+    "U.S. Army Joint Operations Group",
+    "Records Management",
+    "Administrative Procedures"
+  ],
+  "title": "Notification of Establishment of Military Cover Backstop",
+  "date": "1962-08-01",
+  "origin_agency": "Unspecified (likely CIA)",
+  "recipient": "Chief, Records and Services Division; Chief Operating Component",
+  "sender": "X"
+}

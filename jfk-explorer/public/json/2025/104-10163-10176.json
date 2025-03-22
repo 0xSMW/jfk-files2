@@ -1,0 +1,21 @@
+{
+  "classification": "Assassination",
+  "document_type": "File",
+  "security": "This is an administrative document that does not contain sensitive information.",
+  "security_level": "Unclassified",
+  "summary": "This document is a file cover sheet indicating material provided at CIA headquarters for the House Select Committee on Assassinations (HSCA) staff review.",
+  "summary_one_paragraph": "A file cover sheet documents the provision of materials at CIA Headquarters for review by the House Select Committee on Assassinations (HSCA) staff. The file pertains to 'ARTIME-Buese, Manuel,' with file number 201-0267437, Volume XIV. It notes that third agency documents are present, and Leslie Wujelman reviewed the file in August 1978. The sheet specifies that no documents may be copied or removed from the file.",
+  "tags": [
+    "HSCA",
+    "CIA",
+    "Manuel Artime-Buese",
+    "File Management",
+    "Administrative"
+  ],
+  "title": "ARTIME-Buese, Manuel",
+  "persons_mentioned": [
+    "Manuel Artime-Buese",
+    "Leslie Wujelman"
+  ],
+  "recipient": "House Select Committee on Assassinations (HSCA)"
+}

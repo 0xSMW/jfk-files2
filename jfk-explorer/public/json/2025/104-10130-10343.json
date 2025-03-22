@@ -1,0 +1,30 @@
+{
+  "classification": "Personnel",
+  "document_type": "Travel Order",
+  "security": "The document is marked \"Background Use Only. Do Not Reproduce\", indicating that wider dissemination could compromise internal administrative processes or reveal sensitive personnel matters.",
+  "security_level": "SECRET",
+  "summary": "A travel order authorizes Boris D. Tarasoff to travel from Washington, D.C. to Mexico City and return for 90 days to replace a station employee on home leave, with an estimated travel cost of $1400.",
+  "summary_one_paragraph": "This travel order, dated July 5, 1960, authorizes Boris D. Tarasoff of the FDD to travel from Washington, D.C., to Mexico City for a 90-day temporary duty assignment (TDY). Tarasoff's purpose is to serve as a replacement for a station employee who is on home leave. The mode of travel is by air, and the estimated cost for transportation is $1400.00. The document specifies light state cover and includes a note that it is for background use only and should not be reproduced, further classifying the area under Category A.",
+  "tags": [
+    "Travel Order",
+    "Mexico City",
+    "Personnel Replacement",
+    "Temporary Duty",
+    "Boris D. Tarasoff",
+    "Home Leave"
+  ],
+  "title": "Travel Order for Boris D. Tarasoff to Mexico City",
+  "date": "1960-07-05",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Mexico City"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Boris D. Tarasoff",
+    "J. C. King",
+    "Charles A. Hoore",
+    "Heller J"
+  ],
+  "recipient": "Boris D. Tarasoff"
+}

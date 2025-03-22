@@ -1,0 +1,44 @@
+{
+  "classification": "Mexico",
+  "document_type": "File",
+  "security": "Several messages concern sensitive operations like the LIENVOY tap center, including requests for equipment and personnel replacements. For example, a memo discusses providing a TDY replacement for Arnold F. AREHART: \"WIH Division requests your cooperation in providing a TDY replacement for Arnold F. ARCHART as Case Officer and technician for the IIENVOY tap center in Mexico City.\" Revealing this could compromise ongoing intelligence activities, expose sources, and damage relationships with foreign governments.",
+  "security_level": "SECRET/CONFIDENTIAL",
+  "summary": "This file contains documents related to KDBADGER support activities, including communications about LIENVOY operations in Mexico City, personnel replacements, and equipment requests. It also references discussions about Cuba and Venezuela within the context of OAS policies.",
+  "summary_one_paragraph": "This file, titled KDBADGER Vol III, contains records spanning from January 1962 to November 1964 and covers support operations, particularly focusing on the LIENVOY project in Mexico City. The documents include internal communications between the Director and Mexico City station regarding personnel replacements for Arnold F. Arehart, equipment requisitions, and operational updates. Additionally, there are references to discussions on Cuba and Venezuela within the Organization of American States (OAS), including concerns about Cuban influence and potential interventions. The file also contains reports and summaries related to various political situations in Latin America, reflecting the U.S. government's interest in regional stability and counter-subversion efforts.",
+  "tags": [
+    "KDBADGER",
+    "LIENVOY",
+    "Mexico City",
+    "Cuba",
+    "Venezuela",
+    "OAS",
+    "Personnel Replacement",
+    "Equipment Requisition",
+    "Espionage",
+    "Counter-Subversion"
+  ],
+  "title": "KDBADGER Vol Ⅲ Support",
+  "date": "1964-11-13",
+  "locations_mentioned": [
+    "Mexico City",
+    "Havana, Cuba",
+    "Caracas",
+    "Rio de Janeiro",
+    "Washington"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Arnold F. Arehart",
+    "Newton T. Rutsay",
+    "Charles Deck",
+    "Desmond FitzGerald",
+    "Manuel Tello",
+    "Arturo Jauregui",
+    "Fernand Bernoulli",
+    "Vicente Sanchez Gavito",
+    "Samuel K. Castelon",
+    "Fidel Castro"
+  ],
+  "recipient": "Mexico City",
+  "sender": "Director"
+}

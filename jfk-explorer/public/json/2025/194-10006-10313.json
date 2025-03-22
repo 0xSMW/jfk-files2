@@ -1,0 +1,35 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Sharing details about counter-intelligence interviews, especially the specific questions asked about security and personnel, could expose intelligence-gathering methods and potentially compromise ongoing security measures at military sites. The report reveals questions such as: “John asked Source who the Security Sergeant of the unit was. He also asked about persons who had been formerly assigned to the unit. Source was not familiar with any of the names mentioned as Source has been at the unit only a short time. John talked about how, if he was a spy, he would get information from people.”",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report details an incident involving \"John the Dee Jay\" making a nuisance of himself at a bar and asking about security information, leading to a counter-intelligence interview with a custodial agent, Phillip W. May.",
+  "summary_one_paragraph": "On February 4, 1972, Heinz E. Ickert filed an agent report detailing an incident on February 1, 1972, where Phillip W. May, a custodial agent at the 66th USA Artillery Detachment in Datteln, FRG, was interviewed regarding potential counter-intelligence interest. May reported that \"John the Dee Jay\" approached him at Stadtschaenke Bar, identified himself as a Disc Jockey from Lord Nelson bar, and made a nuisance of himself by discussing site security, verbally listing phone numbers he claimed were security information in Heidleberg and other FRG cities, asking about the unit's Security Sergeant, and discussing how he, as a spy, would gather information, making May and others nervous; May described \"John the Dee Jay\" as tall, solid, and wearing a furry coat.",
+  "tags": [
+    "Counter-Intelligence",
+    "Agent Report",
+    "Security Information",
+    "General Nuisance",
+    "Phillip W. May",
+    "John the Dee Jay",
+    "Heidleberg",
+    "Datteln"
+  ],
+  "title": "Agent Report",
+  "date": "1972-02-04",
+  "locations_mentioned": [
+    "Datteln, Federal Republic of Germany",
+    "Heidleberg, Federal Republic of Germany"
+  ],
+  "origin_agency": "CSF/INSCOM",
+  "persons_mentioned": [
+    "Hans D. Kaminski",
+    "John the Dee Jay",
+    "Phillip W. May",
+    "John Stelpflug",
+    "John Lukasik",
+    "Terry Drivis",
+    "Heinz E. Ickert"
+  ],
+  "sender": "USA"
+}

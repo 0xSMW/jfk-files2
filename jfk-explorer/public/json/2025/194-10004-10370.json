@@ -1,0 +1,34 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Sharing birth records and personal details, even with redactions, could potentially infringe on privacy. The document also references law enforcement procedures (AR 381-130; FM 30-17), the exposure of which could impact the efficacy of similar operations.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report detailing a check of birth records for Manuel Marti's father, Adrian Martir (later Manuel Marti), in Puerto Rico, noting discrepancies and name changes.",
+  "summary_one_paragraph": "This agent report, dated September 25, 1968, details an investigation into the birth records of Manuel Marti's father, Adrian Martir (later Manuel Marti), conducted at the Bureau of Demographic Registry in Puerto Rico. The investigation, initiated by Prescott S. Williams of the 771st MI Det, uncovered a Certificate of Birth Registration with the name Adrian Martir born on August 11, 1910, in Utuado, Puerto Rico, to mother Juana Martir-Aponte. Discrepancies in the spelling of the surname and the father's information were noted, alongside a court order from 1963 legally changing the father's name to Manuel Marti. The report also highlights the significance of registering a child's birth outside of the parents with the term, ‘natural child.’",
+  "tags": [
+    "Manuel Marti",
+    "Adrian Martir",
+    "Birth Records",
+    "Puerto Rico",
+    "INSCOM",
+    "CSF",
+    "DOD",
+    "Personnel Investigation"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1968-09-25",
+  "locations_mentioned": [
+    "San Juan, Puerto Rico",
+    "Santurce, Puerto Rico",
+    "Utuado, Puerto Rico"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Adrian Martir",
+    "Candita Hernandez de Buxo",
+    "Tomas Beauchamp",
+    "Juana Martir-Aponte",
+    "Prescott S. Williams"
+  ]
+}

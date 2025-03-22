@@ -1,0 +1,31 @@
+{
+  "classification": "Warren Commission",
+  "document_type": "Memo",
+  "security": "Releasing information about the internal discussions concerning the Warren Commission inquiry, including the specific points the CIA considered important to cable to the Helsinki Station, could reveal the agency's information gathering priorities and methods at the time. Quoting directly: 'Mr. Friberg agreed that it would be worthwhile to cable the Station concerning points not covered by State in their inquiry. He suggested changes incorporated into the cable sent to Helsinki.' Sharing these suggested changes and internal assessments could potentially expose sensitive intelligence interests.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memo summarizing a conversation with Frank Friberg, recently returned COS Helsinki, regarding the Warren Commission's inquiry into Lee Harvey Oswald's stay in Finland in October 1959, including his contact with the Soviet Consulate.",
+  "summary_one_paragraph": "On June 1, 1964, a memo was created detailing a conversation with Frank Friberg, the recently returned COS Helsinki, concerning the Warren Commission's inquiry into Lee Harvey Oswald's time in Finland in October 1959. Friberg provided information about the travel time from the Helsinki airport to downtown and the Soviet consulate, the consulate's Saturday closing time in 1959, and the U.S. Consulate's policy of destroying passenger lists after six months, noting Robert Fulton was the U.S. consular official at the time. The memo also indicates that Friberg suggested changes to the cable sent to the Helsinki Station to cover points not addressed by the State Department's inquiry.",
+  "tags": [
+    "CIA",
+    "Warren Commission",
+    "Lee Harvey Oswald",
+    "Finland",
+    "Helsinki",
+    "Soviet Consulate",
+    "Frank Friberg",
+    "Robert Fulton"
+  ],
+  "title": "MEMO FOR THE RECORD",
+  "date": "1964-06-01",
+  "locations_mentioned": [
+    "Helsinki, Finland"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Frank Friberg",
+    "Lee Harvey Oswald",
+    "Robert Fulton"
+  ],
+  "recipient": "Record",
+  "sender": "Lee H. Wigren (C/SR/CI/R)"
+}

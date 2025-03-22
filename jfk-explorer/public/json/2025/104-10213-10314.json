@@ -1,0 +1,33 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum and Telepouch",
+  "security": "Releasing details about the FRD's relations with the FBI could jeopardize intelligence-gathering operations and expose sensitive agreements on handling foreign intelligence sources within the U.S. Specifically, detailing what constitutes ‘presumed interest’ to the Bureau or describing the process by which the Agency seeks concurrence could reveal operational methods. Quoting: '...WE WERE ESPECIALLY GRATIFIED WITH THE OPENING PARAGRAPHS OF THE LETTER WHICH EMPHASIZE THE FACT THAT FR IS CARRYING OUT A U.S. GOVERNMENT REQUIREMENT IN ITS RECRUITMENT OF FOREIGN INTELLIGENCE SOURCES AND THAT THIS ACTIVITY IS BEING CONDUCTED IN THE USA WITH FULL BUREAU CONCURRENCE.'",
+  "security_level": "SECRET",
+  "summary": "A memorandum discusses an HSCA request regarding agreements between the CIA and FBI on reporting U.S. citizens abroad who contact Communist embassies, stating there are no such formal agreements but interpretations of NSCID and DCID provisions may have led to routine reporting. A telepouch outlines the substance of a letter from the FBI to its field offices clarifying relations with the CIA's Foreign Resources Division (FRD), emphasizing FRD's recruitment of foreign intelligence sources within the U.S. with full FBI concurrence and outlining interpretations of the 1966 agreement.",
+  "summary_one_paragraph": "This collection includes a memorandum from S.D. Breckinridge to the General Counsel and Director of Security concerning an HSCA request (OLC-78-2728) about CIA-FBI agreements on reporting U.S. citizens' contacts with Communist entities abroad, indicating no formal agreements exist but past practices may have been influenced by interpretations of NSCID and DCID provisions, also included is a telepouch (BD 9335) from the Chief of the Foreign Resources Division (FRD) detailing an FBI letter to its field offices clarifying the CIA's FRD activities in the U.S., emphasizing the CIA's government-sanctioned role in recruiting foreign intelligence sources with FBI approval, and interpreting aspects of the 1966 agreement to protect U.S. interests.",
+  "tags": [
+    "CIA",
+    "FBI",
+    "HSCA",
+    "Foreign Resources Division",
+    "FRD",
+    "1966 Agreement",
+    "NSCID",
+    "DCID",
+    "Foreign Intelligence",
+    "Counterintelligence",
+    "U.S. Citizens Abroad",
+    "Communist Embassies"
+  ],
+  "title": "HSCA Request of 20 July 1978 - OLC-78-2728 and Relations with the FBI",
+  "date": "1978-08-02",
+  "persons_mentioned": [
+    "S.D. Breckinridge",
+    "Mr. Gregg",
+    "Mr. Shepanek",
+    "Walter F. Little",
+    "Knoche"
+  ],
+  "recipient": "General Counsel, Director of Security",
+  "sender": "S.D. Breckinridge, Chief, Foreign Resources Division"
+}

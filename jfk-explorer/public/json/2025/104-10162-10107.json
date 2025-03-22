@@ -1,0 +1,30 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "The memo details the transmittal of a Cuban passport and exit permit for Manuel Artime y Buesa, along with a U.S. Non-Immigrant Visa. The passport includes a U.S. visa issued in Santiago de Cuba. The memo confirms that Artime will leave the U.S. 'black' using the provided documents. Because the memo describes operational use of documentation and clandestine travel ('black'), revealing these details could expose intelligence methods.",
+  "security_level": "SECRET",
+  "summary": "A memo confirms the hand-delivery of Cuban documentation for Manuel Artime y Buesa, including a passport, exit permit, and vaccination certificate, to be used for operational purposes. The documents include a U.S. non-immigrant visa and are to be returned to TSD/IB when no longer needed.",
+  "summary_one_paragraph": "This SECRET memorandum, dated January 10, 1961, from Charles Yech, Jr., Chief of TSD/IB, confirms the transmittal of Cuban documentation to Chief, WH/4, for Manuel Artime y Buesa's use. The documentation, hand-carried by Mr. Stanley Shultz on January 9, 1961, includes a Cuban passport with a U.S. Non-Immigrant Visa valid until May 1964, a Vigencia (Exit Permit), and an International Certificate of Vaccination. It is noted that Artime will depart the U.S. 'black' using these documents, which are to be returned to TSD/IB after use.",
+  "tags": [
+    "Manuel Artime y Buesa",
+    "Cuban Documentation",
+    "Passport",
+    "Exit Permit",
+    "U.S. Visa",
+    "TSD/IB",
+    "WH/4",
+    "Operation",
+    "Black Operation",
+    "FOIA"
+  ],
+  "title": "Transmittal of Documentation for use of Manuel Artime y Buesa",
+  "date": "1961-01-10",
+  "persons_mentioned": [
+    "Manuel Artime y Buesa",
+    "Stanley Shultz",
+    "Charles Yech, Jr.",
+    "Lou Napoli"
+  ],
+  "recipient": "Chief, WH/4",
+  "sender": "Charles Yech, Jr., Chief, TSD/IB"
+}

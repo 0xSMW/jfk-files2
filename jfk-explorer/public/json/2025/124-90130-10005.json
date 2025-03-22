@@ -1,0 +1,34 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "Information regarding identities of telephone numbers and sources is concealed to protect intelligence gathering methods and sources. As stated: 'Careful consideration has been given to each source concealed in this report and \"T\" symbols were utilized only in those instances where identities must be concealed.'",
+  "security_level": "Secret",
+  "summary": "This FBI report, dated July 9, 1960, from the Miami office (MM) to headquarters (HQ), concerns Francisco Rodriguez Tamayo and the Pan America Confederation. It includes information obtained from informants and Southern Bell Telephone and Telegraph Company.",
+  "summary_one_paragraph": "This is a Secret FBI report from the Miami (MM) office to FBI Headquarters (HQ), dated July 9, 1960. It concerns Francisco Rodriguez Tamayo and the Pan America Confederation. The report includes a FD-302 form reflecting Cypress telephone numbers in Key West, Florida, which was furnished by Mrs. Polly Andrew from Southern Bell Telephone and Telegraph Company to SA Leman L. Stafford, Jr. The report also identifies informants MM T-1 as Gilbert Barreras and MM T-2 as Ray O'Mera from the CIA, Miami.",
+  "tags": [
+    "FBI",
+    "Francisco Rodriguez Tamayo",
+    "Pan America Confederation",
+    "Informants",
+    "Telephone Numbers",
+    "Key West",
+    "Cuba"
+  ],
+  "title": "",
+  "date": "1960-07-09",
+  "locations_mentioned": [
+    "Key West, Florida",
+    "Coral Gables, Florida",
+    "Miami area"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Francisco Rodriguez Tamayo",
+    "Polly Andrew",
+    "Leman L. Stafford, Jr.",
+    "Gilbert Barreras",
+    "Ray O'Mera"
+  ],
+  "recipient": "HQ",
+  "sender": "MM"
+}

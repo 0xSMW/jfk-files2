@@ -1,0 +1,32 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Paper, Textual Document",
+  "security": "This document contains classified FBI information and refers to a CIA memorandum. Releasing details of ongoing investigations or sources (CAS) could compromise operations and endanger individuals. Citing the classification note: 'CIA HAS NO OBJECTION TO DECLASSIFICATION AND/OR, RELEASE OF CIA INFORMATION...Except Brackets (K 3/10/97).'",
+  "security_level": "Secret",
+  "summary": "The FBI's Legat office in Paris forwards a self-explanatory CIA memorandum and a letter in Spanish related to the President's Commission on the Assassination of President Kennedy; the Paris office has requested the High General Staff (HGS) in Madrid, Spain, to investigate and interview the sender of the letter.",
+  "summary_one_paragraph": "On October 28, 1964, the FBI's Legat office in Paris sent a communication to the Director of the FBI, forwarding a CIA memorandum along with a letter in Spanish pertinent to the President's Commission on the Assassination of President Kennedy. The Paris Office has requested that the High General Staff (HGS) in Madrid, Spain, investigate the matter in an effort to locate and identify the sender of the letter. The communication indicates that results of the Paris request to the HGS will be promptly reported when available.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "JFK Assassination",
+    "Legat Paris",
+    "High General Staff",
+    "HGS",
+    "Madrid",
+    "Spain",
+    "CAS",
+    "Controlled American Source",
+    "President's Commission on the Assassination of President Kennedy",
+    "Antilin"
+  ],
+  "title": "SEE FBI 62-109090-356",
+  "date": "1964-10-28",
+  "locations_mentioned": [
+    "Paris",
+    "Madrid",
+    "Spain"
+  ],
+  "origin_agency": "FBI",
+  "recipient": "Director, FBI",
+  "sender": "Leg, PA"
+}

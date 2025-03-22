@@ -1,0 +1,29 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "CIA Information Report",
+  "security": "Disclosing the specific sources of intelligence (e.g., 'LATIN AMERICAN OFFICIAL /F/') could compromise their safety and future ability to provide information. Sharing the predicted withdrawal of UN troops despite Congolese requests could strain diplomatic relations or reveal a behind-the-scenes U.S. strategy.",
+  "security_level": "SECRET",
+  "summary": "A CIA information report from August 1963 indicates plans for the withdrawal of United Nations troops from the Congo by the end of 1963, despite Congolese Premier Cyrille Adoula's requests to the contrary, and discusses potential methods of financing to maintain a reduced troop presence.",
+  "summary_one_paragraph": "This CIA information report, dated August 1963, reveals that definite plans are underway to withdraw United Nations troops from the Congo by the end of 1963, despite Congolese Premier Cyrille Adoula's opposition. According to a Latin American official with contacts in the UN Secretariat, the only way to counteract this withdrawal would be to find a new method of financing the Congo operation, ideally maintaining 40-50 percent troop strength. The report notes that while funding methods are being discussed within the UN Secretariat, the Secretary General's ability to accept outside funds is debatable.",
+  "tags": [
+    "CIA",
+    "United Nations",
+    "Congo",
+    "Troop Withdrawal",
+    "Cyrille Adoula",
+    "Financing",
+    "FOIA"
+  ],
+  "title": "Withdrawal of United Nations Troops",
+  "date": "1963-08-00",
+  "locations_mentioned": [
+    "United Nations",
+    "Congo",
+    "New York"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Cyrille Adoula"
+  ],
+  "recipient": "State (Hughes), AD/NE (Matthias), AD/CI, DD/I EXO"
+}

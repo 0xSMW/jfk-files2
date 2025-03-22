@@ -1,0 +1,48 @@
+{
+  "classification": "Liaison",
+  "document_type": "Letter/Memorandum",
+  "security": "Disclosing the specific relationships between the CIA’s JMWAVE station and various state, county, and local law enforcement agencies in Florida, including the provision of blank driver’s licenses, courtesy cards, access to communication systems, and 'blocked' license plates, could compromise past and present operational methods and relationships. The document states: 'The Department of Public Safety provided the Station with blank Florida drivers licenses when needed for operational purposes by Station officers,' and 'The Commissioner of Motor Vehicles in Tallahassee, Florida, furnished the Station with 'blocked' automobile license plates for use on Station vehicles.'",
+  "security_level": "SECRET",
+  "summary": "This document is a letter with an attached memorandum detailing the liaison contacts between CIA's JMWAVE station and various state, county, and local police organizations and individuals in the Miami area from 1960 to 1973, including the provision of resources and information.",
+  "summary_one_paragraph": "A letter from Walter Elder to William G. Miller, dated September 9, 1975, encloses a memorandum that reports on the contacts between the CIA’s JMWAVE station and state, county, and local police organizations and individuals in the Miami area from 1960 to 1973. The memorandum details the assistance provided by these law enforcement agencies, including the Florida Department of Public Safety providing blank driver's licenses, the Florida Highway Patrol offering courtesy cards and access to their communication system, and the Commissioner of Motor Vehicles furnishing 'blocked' automobile license plates. The memo also outlines the relationships with the Dade, Broward, Collier, and Monroe County Sheriff's Offices, as well as the City of Miami Police Department, which provided access to records and information relevant to CIA operations.",
+  "tags": [
+    "CIA",
+    "JMWAVE",
+    "Liaison",
+    "Law Enforcement",
+    "Miami",
+    "Florida",
+    "Cuban Exiles",
+    "Operational Support"
+  ],
+  "title": "Letter/Attachment",
+  "date": "1975-09-09",
+  "locations_mentioned": [
+    "Miami, Florida",
+    "Tallahassee, Florida",
+    "Dade County",
+    "Broward County",
+    "Collier County",
+    "Monroe County",
+    "Naples, Florida",
+    "Florida Keys",
+    "South Miami",
+    "Coral Gables",
+    "Miami Beach"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Walter Elder",
+    "William G. Miller",
+    "John H. Waller",
+    "H.N. Kirkman",
+    "Lee Simmons",
+    "Arch Livingstone",
+    "Leslie J. VanBuskirk",
+    "Douglas Hendry",
+    "Reace Thompson",
+    "Harvard Swilley"
+  ],
+  "recipient": "William G. Miller",
+  "sender": "Walter Elder"
+}

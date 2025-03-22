@@ -1,0 +1,40 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Revealing details about HUFABRIC-5 as a 'unilateral penetration of liaison' and KUGLIB-8 as a 'penetration of Ministry of Public Security' could compromise intelligence-gathering methods and sources. Disclosing the identities of individuals like Col. Manuel Antonio Quiros Nunez (a former asset) and Everardo Chaves also poses risks. The cable's file numbers and indexing information could expose internal record-keeping systems.",
+  "security_level": "SECRET",
+  "summary": "A SECRET cable from San Jose, Costa Rica, provides traces on EVELIO DUQUE MIVAR, including his personal details, family information, and connections, obtained through HUFABRIC-5 and KUGLIB-8, unilateral and bilateral penetration sources.",
+  "summary_one_paragraph": "This SECRET cable, originating from San Jose on August 9, 1973, transmits traces on EVELIO DUQUE MIVAR (DPOB January 13, 1927), gathered through HUFABRIC-5 (a unilateral penetration of a liaison service) and KUGLIB-8 (a penetration of the Ministry of Public Security). The cable details Duque’s personal information, including his parents, wife Marie Baracat, and son Evilio Carlos Duque Estever (a U.S. citizen), along with his address, occupation as an investor, and passport details. The information also notes his physical description, references from 1972 (including Col. Manuel Antonio Quiros Nunez, a former station asset), and the existence of a finca near the Atlantic coast port of Limon. The cable instructs the indexing of Duque and specifies file numbers.",
+  "tags": [
+    "Evelio Duque Mivar",
+    "HUFABRIC-5",
+    "KUGLIB-8",
+    "Penetration",
+    "Liaison",
+    "Ministry of Public Security",
+    "Traces",
+    "CIA",
+    "Counterintelligence"
+  ],
+  "title": "Traces on Evelio Duque Mivar",
+  "date": "1973-08-09",
+  "locations_mentioned": [
+    "Las Villas, Cuba",
+    "Ecuador",
+    "United States",
+    "Atlantic Coast Port of Limon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Evelio Duque Mivar",
+    "Benito Duque Hernandez",
+    "Elisa Mivar Morales",
+    "Marie Baracat",
+    "Evilio Carlos Duque Estever",
+    "Manuel Antonio Quiros Nunez",
+    "Rodolfo Leitón",
+    "Everardo Chaves"
+  ],
+  "recipient": "Guayaquil, Director, Quito, WH/Miami",
+  "sender": "San Jose Station"
+}

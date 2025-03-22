@@ -1,0 +1,40 @@
+{
+  "classification": "Oswald, Mexico, Liaison, Operations",
+  "document_type": "Memo",
+  "security": "This memo contains notes on summaries of intercepted communications related to Lee Harvey Oswald and Silvia Duran in Mexico City. It references potential counterintelligence concerns. Sharing details about surveillance operations, sources, and methods could harm intelligence operations and personnel. The memo discusses internal handling of information related to Oswald, including the creation and dissemination of 201 files. Revealing these internal procedures could allow adversaries to circumvent intelligence-gathering efforts. Specifically, the memo notes that 'previously translated materials are not in the materials that Hardway examined' and 'Spanish transcripts are of poor quality,' indicating issues with translation and potentially compromising the integrity of intelligence gathering.",
+  "security_level": "SECRET",
+  "summary": "This memo summarizes a review of tapes, transcripts, and cables related to Lee Harvey Oswald's activities in Mexico City prior to the Kennedy assassination, highlighting issues with translation quality, missing transcripts, and the handling of information within the CIA.",
+  "summary_one_paragraph": "A memo dated March 2, 1983, by Goldsmith, contains notes on Hardway's summary of AM/CLOSET tapes, transcripts, and cables related to Lee Harvey Oswald's pre-assassination activities in Mexico City. It indicates that transcriptions are summaries rather than verbatim, previously translated materials were not included in the examination, and Spanish transcripts are of poor quality. Missing transcripts for September 10 and 16, 1963, are noted. The memo also references Oswald's communications with Silvia Duran at the Soviet embassy, requests for information on Oswald from various agencies, and internal CIA procedures for opening and managing 201 files, emphasizing the need for counterintelligence measures.",
+  "tags": [
+    "Lee Harvey Oswald",
+    "Silvia Duran",
+    "Mexico City",
+    "AM/CLOSET",
+    "Transcripts",
+    "Cables",
+    "201 Files",
+    "Counterintelligence",
+    "CIA",
+    "Kennedy Assassination",
+    "Intercepts"
+  ],
+  "title": "Notes on Hardway summary of AM/CLOSET tapes, transcripts, & cables. - preassessination",
+  "date": "1983-03-02",
+  "locations_mentioned": [
+    "Mexico City",
+    "Odessa"
+  ],
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "Silvia Duran",
+    "Hardway",
+    "Goldsmith",
+    "Holmer",
+    "Phillips",
+    "Scott Mann",
+    "Bill Donley",
+    "Lee Coul",
+    "Virginia Jones"
+  ],
+  "recipient": "Legat"
+}

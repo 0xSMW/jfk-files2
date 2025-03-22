@@ -1,0 +1,30 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "Disclosing that the CIA uses P.O. boxes under aliases (Diego S. Mardones) to receive materials reveals a method of concealing the Agency's involvement, which could compromise ongoing or future intelligence operations. The document explicitly mentions, \"a P. O. Box be established in Washington, D. C., in the alias Diego S. Mardones. The true name of the Officer receiving material through this facility is Mr. (Gilbert Richmond.)\"",
+  "security_level": "SECRET",
+  "summary": "This memo from John T. Daly, Chief of FR Security, confirms the establishment of P. O. Box 4433 at Brookland Station in Washington, D. C., under the alias Diego S. Mardones for Officer Gilbert Richmond.",
+  "summary_one_paragraph": "A memorandum dated April 13, 1972, from John T. Daly, Chief of FR Security, to C/OS/SD/3, confirms the receipt of P. O. Box 4433 at Brookland Station in Washington, D. C., for use by Officer Gilbert Richmond under the alias Diego S. Mardones. The memo acknowledges the cooperation in setting up this facility, indicating it is for receiving materials related to security operations.",
+  "tags": [
+    "CIA",
+    "P.O. Box",
+    "Alias",
+    "Security",
+    "Covert Operations",
+    "Washington D.C.",
+    "FR Security"
+  ],
+  "title": "P. O. Box (Washington, D. C.)",
+  "date": "1972-04-13",
+  "locations_mentioned": [
+    "Washington, D. C."
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Diego S. Mardones",
+    "Gilbert Richmond",
+    "John T. Daly"
+  ],
+  "recipient": "C/OS/SD/3",
+  "sender": "John T. Daly, Chief, FR Security"
+}

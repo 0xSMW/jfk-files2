@@ -1,0 +1,38 @@
+{
+  "classification": "Administrative",
+  "document_type": "Index",
+  "security": "The document is an index of names and related topics, referencing internal agency files and operations. Revealing these names could expose individuals connected to sensitive operations. Quoting directly, the classification is 'SECRET' with a statement 'Excluded from automatic Downgrading and Declassification'.",
+  "security_level": "SECRET",
+  "summary": "This is a document index listing names and associated references within a classified collection, likely pertaining to CIA operations or personnel.",
+  "summary_one_paragraph": "This SECRET document serves as an index, referencing individuals such as John Abidian, Dayle Wallis Smith (aka \"ANDREY\"), Nikolay Artamonov, and others, along with corresponding alphanumeric codes (e.g., IV, E, 5, 7-15, 19, 20, 52). These references likely point to specific files or operations within the CIA's archives. Due to its classification and the inclusion of real names associated with internal records, it is excluded from automatic downgrading and declassification.",
+  "tags": [
+    "CIA",
+    "Index",
+    "Personnel",
+    "Operations",
+    "Classified",
+    "Names",
+    "References"
+  ],
+  "title": "Index of Names",
+  "persons_mentioned": [
+    "John Abidian",
+    "Dayle Wallis Smith (ANDREY)",
+    "Nikolay Artamonov",
+    "Vladimir Lvovich Artemov",
+    "Mikhail Bakhvalov",
+    "Boris Andreyevich Baldin",
+    "Robert Barrett",
+    "Frank Beggs",
+    "Boris Belitskiy",
+    "Lavrentiy Ivanovich Beriya",
+    "Natalie Bienstock",
+    "Arthur Birse",
+    "George Blake",
+    "Filip Denisovich Bobkov",
+    "Ambassador Bohlen",
+    "Lewis Bowden",
+    "Horst Brauns",
+    "G. Stanley Brown"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Classified Message",
+  "security": "Releasing this information could reveal operational procedures related to communications and tracking individuals of interest, specifically the use of identifiers such as P.O. boxes. This could compromise similar ongoing or future operations. Disclosing 'IDEN: GRACE HOLMES, P.O.BOX 1767, CORAL GABLES, FLORIDA' could expose methods of identifying individuals and locations, jeopardizing intelligence-gathering efforts.",
+  "security_level": "SECRET",
+  "summary": "A secret classified message relays information regarding GRACE HOLMES and a P.O. box in Coral Gables, Florida, to CIA stations in Mexico City, Bogota, Lima, and Guatemala.",
+  "summary_one_paragraph": "This classified message, dated December 2, 1963, is addressed from the Director to CIA stations in Mexico City, Bogota, Lima, and Guatemala. Referencing DIR 816693 and 86694, it provides the identification of GRACE HOLMES along with a P.O. Box address (P.O. Box 1767, Coral Gables, Florida). The message is marked as SECRET and for information to UDP, CA 2, CA/PEG, CA/PROP, WH 7, and VR.",
+  "tags": [
+    "CIA",
+    "GRACE HOLMES",
+    "P.O. Box",
+    "Mexico City",
+    "Bogota",
+    "Lima",
+    "Guatemala",
+    "Secret Message",
+    "Coral Gables",
+    "Identification"
+  ],
+  "title": "Classified Message Regarding Grace Holmes",
+  "date": "1963-12-02",
+  "locations_mentioned": [
+    "Mexico City",
+    "Bogota",
+    "Lima",
+    "Guatemala",
+    "Coral Gables, Florida"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Grace Holmes"
+  ],
+  "recipient": "MEXI, BOGO, LIMA, GUAT (CIA Stations)"
+}

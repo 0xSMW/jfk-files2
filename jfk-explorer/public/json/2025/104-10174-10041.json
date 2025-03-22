@@ -1,0 +1,26 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security": "Disclosing the bank account details of an individual involved in covert operations could expose the individual to risk and compromise ongoing or future operations. Quoting directly: \"The check for the $2,000 operational advance was drawn on a check of the cover company...should be deposited to his Commercial Account.\"",
+  "security_level": "Background Use Only",
+  "summary": "This memo details the bank account information for Edward G. Tichborn, including the Bank of America branch and instructions for depositing operational advances and salary payments to his Commercial Account.",
+  "summary_one_paragraph": "This memorandum, dated January 19, 1960, outlines the banking details for Edward G. Tichborn, instructing that checks for operational advances, such as the $2,000 advance drawn on a cover company check and mailed from Washington on January 15, 1960, along with salary payments (specifically, a $650 check representing ¼ of his total salary), should be mailed to his Bank of America account at the Wilshire-Sweetzer Branch in Los Angeles, California, and credited to his Commercial Account.",
+  "tags": [
+    "Edward G. Tichborn",
+    "Bank Account",
+    "Operational Advance",
+    "Salary",
+    "Cover Company",
+    "CIA"
+  ],
+  "title": "Edward G. Tichborn's Bank Account Details",
+  "date": "1960-01-19",
+  "locations_mentioned": [
+    "Washington",
+    "Los Angeles, California"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Edward G. Tichborn"
+  ]
+}

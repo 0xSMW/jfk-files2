@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "Source information could potentially compromise sources and methods. The report contains information received through diplomatic pouches, including addresses and categorizations of individuals as 'A-AP-Communist, B-Neutraland C- Communist'.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "The report summarizes information from various sources, including a former Panamanian Charge d'Affaires, regarding medical aid to Cuba, Cuban medical personnel, and related matters, with attachments providing supporting details.",
+  "summary_one_paragraph": "This confidential report, dated October 23, 1963, compiles information from various sources, including a former Panamanian Charge in Habana regarding medicine shipments to Cuba and data obtained by ASSET. It includes a bulletin from the Frente Interna Anti-Comunista, a letter concerning the purchase of film from Czechoslovakia for Cuban scientific institutions, a debriefing of a medical student, a commentary by a Cuban medical leader, and a listing of medical personnel in Habana with possible communist affiliations, received via diplomatic pouch.",
+  "tags": [
+    "Cuba",
+    "Medical Aid",
+    "Diplomatic Pouch",
+    "Frente Interna Anti-Comunista",
+    "Medical Personnel",
+    "Communist Affiliations",
+    "Panama",
+    "ASSET"
+  ],
+  "title": "MRSAVE Report",
+  "date": "1963-10-23",
+  "locations_mentioned": [
+    "Habana",
+    "Cuba",
+    "Miami",
+    "Czechoslovakia"
+  ],
+  "persons_mentioned": [
+    "Cmdte Rene",
+    "Regino BOTTI",
+    "Antonio TOLEDO Zetacia",
+    "Virgilio FERAJO Nunez",
+    "Eduardo ROCO"
+  ],
+  "recipient": "Field",
+  "sender": "MRSAVE"
+}

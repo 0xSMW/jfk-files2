@@ -1,0 +1,20 @@
+{
+  "classification": "Administrative",
+  "document_type": "Transmittal Slip/Seminar Room Roster",
+  "security": "Listing individuals participating in an operations familiarization course, including badge numbers, could reveal sensitive personnel information. \"OPERATIONS FAMILIARIZATION COURSE #24 SEMINAR ROOM ROSTER\" and personnel roster.",
+  "security_level": "SECRET",
+  "summary": "A transmittal slip attached to an operations familiarization course roster. The roster lists names and badge numbers of individuals participating in Seminar Room D and Seminar Room F, with a note mentioning 'Sarande' as a cover practice.",
+  "summary_one_paragraph": "This document combines a transmittal slip with a SECRET operations familiarization course roster, specifically Course #24. The roster provides a list of participants, their badge numbers, and assigned seminar rooms (D and F). Participants listed are Thomas J. Affinito, John A. Banick, Robert L. Butenhoff, Robert B. Cantwell, Tacy A. Cardstrom, Ross E. Cowey, Mary S. Greene, Don L. Isenberg, Harry E. Mason, Richard D. Newell, Peter Zrowka, M. David Boston, Austin G. Chambers, Pamela W. Chase, Mary A. Donaldson, Cleo L. Gephart, Margaret G. Goertz, George T. Kolarik, Bobby E. Layton, Neil R. Linsenmayer, Thomas M. Lutz, Elizabeth J. McElfresh, Lawrence E. Rogers, Edwin G. Weimer, Donald M. Kidwell, George L. Marling, Davis W. Moore, Richard K. Mow, Charlotte L. Plasan, Jerry L. Shinn, and Daniel D. Webb. Additionally, a note mentions 'Sarande' and refers to it as a cover practice.",
+  "tags": [
+    "Operations Familiarization Course",
+    "Personnel Roster",
+    "Sarande",
+    "Cover Practice",
+    "Training"
+  ],
+  "title": "Operations Familiarization Course #24: Seminar Room Roster",
+  "date": "1968-09-04",
+  "origin_agency": "CIA",
+  "recipient": "ODTR",
+  "sender": "COS/ISO"
+}

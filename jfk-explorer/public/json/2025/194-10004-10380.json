@@ -1,0 +1,32 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "The document contains personal information about an individual, including their name, aliases, addresses, date and place of birth, social security number, employment history, and educational background. Releasing this information without authorization could violate privacy laws and regulations.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report details the employment history of Manuel Marti at Mutual Insurance Advisory Association from April 1965 to May 1968, including his position, supervisor, and reason for termination to enter military service.",
+  "summary_one_paragraph": "This agent report, dated September 25, 1968, provides information on Manuel Marti's employment history obtained from Albert B. Cassidy Jr., Personnel Manager at Mutual Insurance Advisory Association, located at 733 3rd Avenue, New York. The report indicates that Marti worked there from April 5, 1965, to May 20, 1968, starting as a Utility Clerk and ending as a Tabulating Machine Operator under the supervision of George Ferraro, with satisfactory efficiency, before leaving for military service; he is also eligible for rehire and graduated from Evander Childs High School in the Bronx, New York.",
+  "tags": [
+    "Manuel Marti",
+    "Employment History",
+    "Military Service",
+    "Mutual Insurance Advisory Association",
+    "Agent Report",
+    "INSCOM/CSF",
+    "DOD-Affiliated Personnel Incident Investigations"
+  ],
+  "title": "(RESTRICTED)",
+  "date": "1968-09-25",
+  "locations_mentioned": [
+    "New York, New York",
+    "Bronx, New York",
+    "San Juan, PR"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Albert B. Cassidy Jr.",
+    "George Ferraro",
+    "Alphonso E. Marshall"
+  ],
+  "sender": "USA"
+}

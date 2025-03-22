@@ -1,0 +1,30 @@
+{
+  "classification": "Cuba",
+  "document_type": "Information Report",
+  "security": "The report mentions the identification of individuals suspected of being Castro agents in the US attempting to determine the location and operation of military training camps. Disclosing these names and the nature of their activities could compromise ongoing counterintelligence operations and endanger the individuals involved. Quoting the document: 'Castro agents in the US are attempting to determine whether there are any military tranining camps...determine cooperation with further suspects...'",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A report from June 1961 details information from a Cuban national residing in the U.S. regarding suspected Castro agents attempting to locate military training camps.",
+  "summary_one_paragraph": "This confidential information report, dated June 1961, sourced from a Cuban national residing in the US, relays intelligence concerning pro-Castro agents in the United States actively seeking to identify the location and operational details of military training camps. The source, described as a personal and political friend of former President Carlos Prio Socarras and a former cabinet member during Prio's administration, identifies several individuals suspected of being Castro agents, including Mowerco Nunez, Danilo Banos, Gutierrez Menoyor, Jesus Dieguez, and Eva Gutierrez.",
+  "tags": [
+    "Castro Agents",
+    "Military Training Camps",
+    "Cuban National",
+    "Counterintelligence"
+  ],
+  "title": "Information Report on Suspected Castro Agents in the U.S.",
+  "date": "1961-06",
+  "locations_mentioned": [
+    "US"
+  ],
+  "persons_mentioned": [
+    "Carlos Prio Socarras",
+    "Fidel Castro",
+    "Mowerco Nunez",
+    "Danilo Banos",
+    "Angel Banos",
+    "Gutierrez Menoyor",
+    "Jesus Dieguez",
+    "Eva Gutierrez"
+  ],
+  "sender": "Army representative assigned to the office of preparation"
+}

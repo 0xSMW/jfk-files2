@@ -1,0 +1,24 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security": "This document lists names, social security numbers, and internal file numbers of contract employees, information that could be misused or lead to identity theft. Disclosing the organizational affiliations (ORG) of these individuals also reveals internal CIA structures and the types of expertise being contracted. As noted on the document itself: 'SECRET'",
+  "security_level": "SECRET",
+  "summary": "A memorandum listing contract terminations received during June 1977, including names, social security numbers, security file numbers, termination dates, type employee codes, and organizational affiliations.",
+  "summary_one_paragraph": "This memorandum, dated July 7, 1977, from the OP/Contract Personnel Division to the Office of Security, Clearance Division (specifically Mr. Joe Murphy), lists contract terminations processed in June 1977. The memo details the names, social security numbers, security file numbers (SFN), type of employment (TE), organizational affiliations (ORG), and termination dates for a number of individuals, including contract employees, independent contractors, career associates, and FBIS foreign nationals, spanning across various departments such as EA, OSIG, OGCR, EUR, ICS, ISS, OSI, FBIS, IG, NE, LOG, AF, NPIC, OMS, Commo, FRD, Fin, Sec, OTR, Pers, OTS, SE, and OSR.",
+  "tags": [
+    "contract terminations",
+    "personnel records",
+    "social security numbers",
+    "security file numbers",
+    "employee data",
+    "CIA personnel",
+    "OP/Contract Personnel Division",
+    "Office of Security",
+    "Clearance Division"
+  ],
+  "title": "Notification of Contract Terminations",
+  "date": "1977-07-07",
+  "origin_agency": "OP/Contract Personnel Division",
+  "recipient": "Office of Security, Clearance Division (Mr. Joe Murphy)",
+  "sender": "Sara Tarchie"
+}

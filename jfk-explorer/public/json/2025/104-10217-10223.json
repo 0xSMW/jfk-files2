@@ -1,0 +1,38 @@
+{
+  "classification": "Personnel",
+  "document_type": "File",
+  "security": "Several documents discuss subsidizing life insurance and health matters for an agent. Specifically, the statement of earnings reveals tax liability changes and additional compensation. Quoting directly: 'LCPIPIT requests authority to subsidize up to 1/2 of the cost of a life insurance program for QRPHONE/1' and 'Changing tax code for the quarter and reducing tax to $80.00 per memo.' Disclosing such benefits and financial details could expose operational assets and methods of compensation.",
+  "security_level": "SECRET",
+  "summary": "This is a 201 file primarily concerning the health and financial matters of an individual, potentially an agent (referred to as QRPHONE/1), including discussions of medical evaluations, hepatitis recovery, and subsidizing life insurance.",
+  "summary_one_paragraph": "This file contains various documents from 1968 related to an individual referred to as QRPHONE/1, including medical reports and evaluations following a bout of hepatitis, as well as discussions regarding life insurance and financial compensation. It includes correspondence between CIA stations and headquarters concerning QRPHONE/1's health status, his ability to travel, and proposals to subsidize his life insurance. Also included are bank transfer documents and financial statements showing earnings, deductions, and tax liabilities related to QRPHONE/1’s compensation.",
+  "tags": [
+    "CIA",
+    "201 File",
+    "QRPHONE/1",
+    "Hepatitis",
+    "Life Insurance",
+    "Financial Compensation",
+    "Medical Evaluation",
+    "Personnel File",
+    "LCPIPIT",
+    "RYBAT",
+    "DTDORIC"
+  ],
+  "title": "BLACK TAPE 201 FILE",
+  "date": "1968-12-31",
+  "persons_mentioned": [
+    "Dr. Daly",
+    "Dr. Hodes",
+    "Aaron C. LAGINESTRA",
+    "J. Spencer Langford",
+    "Diane L. Chatelan",
+    "Dr. Patrick",
+    "Fred W. Valtin",
+    "PARFORTH",
+    "RODIGAST",
+    "Dr. Juraj FILIPOVIC",
+    "Derek WHITTAKER"
+  ],
+  "recipient": "IP/Files, GC-52",
+  "sender": "EUR/RMO"
+}

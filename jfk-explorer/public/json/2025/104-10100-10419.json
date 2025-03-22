@@ -1,0 +1,20 @@
+{
+  "classification": "Administrative",
+  "document_type": "Message",
+  "security": "Disclosing operational office hours and communication frequencies could potentially compromise ongoing missions and monitoring activities. The directive to 'observe same office hours as cover mission' and monitor specific frequencies (YOGU CQ/GRA at 232) are details that, if exposed, could allow adversaries to anticipate operational patterns and intercept communications.",
+  "security_level": "SECRET",
+  "summary": "A message instructing specific stations to observe the same office hours as their cover mission and monitor certain frequencies.",
+  "summary_one_paragraph": "This message, dated October 24, 1963, directs addressees (including stations in Bogota, Guatemala, Caracas, La Paz, Lima, Managua, Mexico City, Madrid, Port-au-Prince, Recife, Rio de Janeiro, Bagota, San Salvador, etc.) to align their office hours with their cover missions, with Chief of Mission and COS concurrence. It specifies the use of SEICAL and monitoring of YOGU CQ/GRA at frequency 232. Stations without SEICAL are instructed to monitor frequency 23002 CQ, with all stations expected to maintain residence within their capabilities during closure periods.",
+  "tags": [
+    "Operational Procedures",
+    "Office Hours",
+    "Frequency Monitoring",
+    "SEICAL",
+    "YOGU CQ/GRA",
+    "Cover Mission"
+  ],
+  "title": "Operational Instructions Regarding Office Hours and Frequency Monitoring",
+  "date": "1963-10-24",
+  "origin_agency": "Unclear",
+  "recipient": "Stations in Bogota, Guatemala, Caracas, La Paz, Lima, Managua, Mexico City, Madrid, Port-au-Prince, Recife, Rio de Janeiro, Bagota, San Salvador, etc."
+}

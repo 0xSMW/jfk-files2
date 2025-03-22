@@ -1,0 +1,37 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Transcript",
+  "security": "This document reveals a Senate Select Committee hearing regarding the CIA's involvement in a plot to assassinate Patrice Lumumba. It includes the testimony of Bronson Tweedy, who discusses the authority he believed he had from higher-ups to explore such actions. Quoting directly, 'I was quite clear in my mind that the policy levels of Washington were agreed that Lumumba must go,' and 'It is perfectly obvious that the Agency felt that it had the support of the Executive in efforts to eliminate Lumumba.' This information could damage the CIA's reputation and reveal past operations.",
+  "security_level": "TOP SECRET",
+  "summary": "A transcript of a Senate Select Committee hearing featuring Bronson Tweedy's testimony about the CIA's involvement in exploring the assassination of Patrice Lumumba.",
+  "summary_one_paragraph": "This document is a transcript from a Senate Select Committee hearing held on October 9, 1975, featuring the testimony of Bronson Tweedy regarding the CIA's potential involvement in the assassination of Patrice Lumumba. Tweedy discusses his conversations with Richard Bissell and the directives he received, including a cable from Allen Dulles, which indicated that the elimination of Lumumba was a policy-level decision. The hearing explores the extent of the CIA's actions, including dispatching Sidney Gottlieb to the Congo with lethal materials, and the degree to which these actions were authorized by the highest levels of the U.S. government.",
+  "tags": [
+    "CIA",
+    "SSCIA",
+    "Bronson Tweedy",
+    "Richard Bissell",
+    "Patrice Lumumba",
+    "Assassination",
+    "Senate Select Committee",
+    "Hearings",
+    "Sidney Gottlieb",
+    "Congo",
+    "FOIA"
+  ],
+  "title": "Hearing before Senate Select Committee to Study Governmental Operations With Respect to Intelligence Activities",
+  "date": "1975-10-09",
+  "persons_mentioned": [
+    "Bronson Tweedy",
+    "Patrice Lumumba",
+    "Richard Schweiker",
+    "Frederick Baron",
+    "Rhett Dawson",
+    "Allen Dulles",
+    "Robert Guthman",
+    "Richard Bissell",
+    "Sidney Gottlieb",
+    "Glen Fields",
+    "Justin O'Donnell"
+  ],
+  "sender": "SSCIA (Senate Select Committee on Intelligence Activities) - Bronson Tweedy (Originator of the information contained within the hearing transcript). TWEEDY, BRONSON listed as FROM in IDENTIFICATION FORM, though he is a witness, not sender of physical doc per se, SSCIA would be sender of the document/transcript itself. Also note sender info is incongruous with document content where SSCIA hearings as whole seem to be source, not Tweedy himself being sender of such hearings. Best to consider SSCIA as sender due to format of document being official hearing transcript . This note added to provide rationale in absence of more precise data point. Best practice is to provide explanation if sender info ambiguous or dualistic per context . -NW- 10/28/23 13:35"
+}

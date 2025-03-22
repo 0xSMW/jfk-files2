@@ -1,0 +1,38 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "Revealing the operational contact between the CIA and individuals like William Gaudet can expose past intelligence gathering methods and compromise current or potential sources. For instance, disclosing that 'GAUDET WAS A CONTACT OF DCD FROM 1948 UNTIL NOVEMBER 1961 IN NEW ORLEANS AREA' details a specific period of engagement and type of relationship, which could reveal operational patterns. Furthermore, stating that Gaudet 'HAS EXAGGERATED HIS ROLE WITH THE AGENCY' indicates internal awareness of potential misinformation, which could be sensitive in public disclosures.",
+  "security_level": "SECRET",
+  "summary": "A CIA cable provides headquarters traces on William Gaudet and Antonio Veciana, who were mentioned in a previous London dispatch, including Gaudet's past contact with DCD and Veciana's biographical information.",
+  "summary_one_paragraph": "This SECRET cable, dated March 1978, provides background information on William George Gaudet and Antonio Carlos Veciana Blanch in response to a request from London. It notes that Gaudet, a U.S. citizen from Louisiana, was a contact of DCD from 1948 to 1961, providing debriefings on Latin American travels. It also mentions Gaudet's claim of being an operative and his exaggerated role with the agency. The cable details that Veciana was born in Cuba in 1928.",
+  "tags": [
+    "CIA",
+    "William Gaudet",
+    "Antonio Veciana",
+    "Background Check",
+    "DCD",
+    "Latin America",
+    "MH/SPLASH",
+    "CKLEG",
+    "SGCHART",
+    "RTWINNER",
+    "Assassinations",
+    "Senate Select Committee on Assassinations"
+  ],
+  "title": "Headquarters Traces on William Gaudet and Antonio Veciana",
+  "date": "1978-03",
+  "locations_mentioned": [
+    "St. James, Louisiana, USA",
+    "New Orleans, Louisiana, USA",
+    "Latin America",
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "William George Gaudet",
+    "Antonio Carlos Veciana Blanch",
+    "Lee Harvey Oswald"
+  ],
+  "recipient": "[LONDON], 15-1",
+  "sender": "DIRECTOR"
+}

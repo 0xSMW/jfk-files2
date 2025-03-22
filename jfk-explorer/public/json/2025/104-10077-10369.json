@@ -1,0 +1,25 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This message lists individuals and could reveal sources or methods if their identities or involvement were compromised. Maintaining secrecy around the persons involved ensures their safety and the integrity of any associated operations.",
+  "security_level": "SECRET",
+  "summary": "A cable listing identities, possibly related to Cuban matters.",
+  "summary_one_paragraph": "This SECRET cable, dated December 10, 1963, originates from RECTOR and is addressed to multiple recipients with information copies to various departments including CT, CI/CPS, and FI. It lists several identities: Odon Alvarez Delala Campa, Jose Luis Gonzalez Gallarretta, Gilberto Liway Rodrigues, and Rogelio Iglesias Patino. The cable requests that the attached cable be referenced to this cable, indicating a connected or follow-up communication.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Identities",
+    "Cable",
+    "FOIA"
+  ],
+  "title": "Listing of Identities",
+  "date": "1963-12-10",
+  "persons_mentioned": [
+    "Odon Alvarez Delala Campa",
+    "Jose Luis Gonzalez Gallarretta",
+    "Gilberto Liway Rodrigues",
+    "Rogelio Iglesias Patino"
+  ],
+  "recipient": "DEPERCEN",
+  "sender": "RECTOR"
+}

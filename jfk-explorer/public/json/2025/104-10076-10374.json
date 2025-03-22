@@ -1,0 +1,45 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Revealing AMWORLD and TYPIC, which appear to be code words or programs. Could also reveal information about Cuban agents.",
+  "security_level": "SECRET",
+  "summary": "JMWAVE reports that CUERTLER will instruct AMYU assets in Cuba to prepare for receiving SW messages, referencing Maria Teresa (SACRE) ABIRAFHED, Carlos (UPANCA) CARCIA, Dr. Francisco(RENE DE LA MUERTA) AQUIAR and Dr Mario (Enrique (CAPTIVEZ) DELGADO.",
+  "summary_one_paragraph": "This SECRET cable from JMWAVE to the Director relays that AMYUM/19 informed CUERTLER that CUANTUM/51 will task all AMYU assets in Cuba with receiving SW messages. It mentions Maria Teresa (SACRE) ABIRAFHED and Carlos (UPANCA) CARCIA, referencing a previous communication (UFGA 12673). It also names Dr. Francisco (RENE DE LA MUERTA) AQUIAR who heads ANYUM Intel in Havana and will act as a cut-out for Dr. Mario (Enrique (CAPTIVEZ) DELGADO, working at the Hospital de Dementes de Mazorra, based on a 1962 contact report.",
+  "tags": [
+    "JMWAVE",
+    "AMWORLD",
+    "TYPIC",
+    "YOBITE",
+    "CUERTLER",
+    "CUANTUM/51",
+    "AMYU",
+    "Cuba",
+    "SACRE",
+    "ABIRAFHED",
+    "UPANCA",
+    "GARCIA",
+    "RENE DE LA MUERTA",
+    "AQUIAR",
+    "CAPTIVEZ",
+    "DELGADO",
+    "AMHINT/27"
+  ],
+  "title": "ZAVE 9926 RYSST TYPIC YOBITE AMWORLD",
+  "date": "1967-10-20",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Santo Domingo, Las Villas Province"
+  ],
+  "origin_agency": "JMWAVE",
+  "persons_mentioned": [
+    "CUERTLER",
+    "CUANTUM/51",
+    "Maria Teresa (SACRE) ABIRAFHED",
+    "Carlos (UPANCA) CARCIA",
+    "Dr. Francisco(RENE DE LA MUERTA) AQUIAR",
+    "Dr Mario (Enrique (CAPTIVEZ) DELGADO)"
+  ],
+  "recipient": "Director",
+  "sender": "JMWAVE"
+}

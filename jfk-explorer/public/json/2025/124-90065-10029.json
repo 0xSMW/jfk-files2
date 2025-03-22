@@ -1,0 +1,44 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memo",
+  "security": "Disclosing the identities of Cuban emigres trained in information collection techniques, as mentioned in paragraph 3, could endanger these individuals and compromise ongoing intelligence operations. Additionally, the memo references sensitive and restricted information regarding Gonzalo ABELEND’s potential sub-source role and assistance to a former CIA asset through his diplomatic position. Disclosing this could damage relations with Brazil, expose intelligence assets, and reveal sensitive operational details.",
+  "security_level": "Secret",
+  "summary": "This memo from the CIA to the FBI provides information on Libertad ANTIGUA Arrencibia, a suspected Cuban intelligence agent, and details the backgrounds of several individuals connected to her, including Manuel and Gonzalo ABELEND Martin.",
+  "summary_one_paragraph": "The CIA sent a memo to the FBI on October 18, 1968, concerning Libertad ANTIGUA Arrencibia, a suspected Cuban intelligence agent, and provided a debriefing from September 9, 1968. The memo also includes background information on Manuel ABELEND Martin, a former Cuban Vice Consul in the Brazilian Embassy, his brother Gonzalo ABELEND Martin, an attaché in the Brazilian Embassy in Miami, and Ana Maria ABELEND, a singer, as well as noting that files contained no identifiable information on individuals named Juvenal and Mario. The information was compiled from CIA files and a group of Cuban émigrés trained in information collection.",
+  "tags": [
+    "CIA",
+    "FBI",
+    "Libertad ANTIGUA Arrencibia",
+    "Cuban Intelligence Agent",
+    "Manuel ABELEND Martin",
+    "Gonzalo ABELEND Martin",
+    "Cuban Emigres",
+    "Information Collection"
+  ],
+  "title": "",
+  "date": "1968-10-18",
+  "locations_mentioned": [
+    "Havana, Cuba",
+    "Lisbon, Portugal",
+    "Miami, Florida",
+    "Paris, France",
+    "Europe",
+    "Latin America"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Ricardo Morales Navarette",
+    "Libertad ANTIGUA Arrencibia",
+    "S. J. Papich",
+    "Manuel ABELEND Martin",
+    "Elena RODRIGUEZ Regulez",
+    "Juan ABELEND",
+    "Concepcion MARTIN",
+    "Gonzalo ABELEND Martin",
+    "Ana Maria ABELEND",
+    "Juvenal",
+    "Mario"
+  ],
+  "recipient": "HQ",
+  "sender": "CIA"
+}

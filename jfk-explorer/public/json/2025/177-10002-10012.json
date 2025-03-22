@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Draft Briefing Notes",
+  "security": "Disclosing details of Cuban subversion efforts, including training, funding, and communications support to Latin American revolutionaries, could compromise intelligence sources and methods. The document states, 'Castro tells would-be revolutionaries...Come to Cuba; we will pay your way, we will train you...we will keep in touch with you, give you propaganda support, send you propaganda materials...' Sharing such information could undermine ongoing counter-subversion operations and expose intelligence assets.",
+  "security_level": "SECRET",
+  "summary": "A CIA draft briefing note from February 1963 discusses Cuban subversion in Latin America, focusing on Cuba's support for revolutionary movements through training, guidance, and resources, with Venezuela identified as a top priority for revolution.",
+  "summary_one_paragraph": "This SECRET CIA briefing note, dated February 18, 1963, details Cuba's efforts to incite and support communist revolutions throughout Latin America, primarily by providing training, guidance, and technical assistance to revolutionary groups. While direct Cuban involvement and material support are limited, Cuba acts as a Comintern-like entity, inspiring and sustaining revolutionary movements, particularly in Venezuela, where they provide guerrilla training to more nationals than any other country. The briefing highlights the Communist Party's efforts and the coordination between militant extremist groups in Venezuela to destabilize the government, though it assesses that these activities do not currently pose a significant threat to government control.",
+  "tags": [
+    "CIA",
+    "Cuban Subversion",
+    "Latin America",
+    "Revolution",
+    "Venezuela",
+    "Fidel Castro",
+    "Guerrilla Warfare",
+    "Terrorism"
+  ],
+  "title": "Cuban Subversion in Latin America",
+  "date": "1963-02-18",
+  "locations_mentioned": [
+    "Cuba",
+    "Latin America",
+    "Mexico",
+    "Uruguay",
+    "Peru",
+    "Venezuela"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Che Guevara",
+    "Blas Roca",
+    "President Betancourt"
+  ]
+}

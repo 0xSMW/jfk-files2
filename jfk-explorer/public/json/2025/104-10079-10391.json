@@ -1,0 +1,27 @@
+{
+  "classification": "JFK",
+  "document_type": "Paper",
+  "security": "Disclosure of assets and operations could compromise intelligence sources and methods. The handwritten list detailing assets and operations, if exposed, might reveal sensitive information about individuals working with the CIA and specific intelligence activities, potentially endangering individuals or compromising ongoing operations. ",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a handwritten list entitled 'ASSETS KNOWN', likely created by the CIA, detailing various assets and operations with code names and brief descriptions.",
+  "summary_one_paragraph": "This document, originating from the CIA, consists of a two-page handwritten list from 1900 titled 'ASSETS KNOWN,' which details various assets, operations, and individuals connected to the agency. The list includes code names such as 'HEMUTU', 'LIMOUSINE', 'HEMBRACE', and 'LIFEAT,' along with associated activities and persons like Raymond L. BANCENAS, David M. WILSTED, and George Wadsworth; the document also provides general comments about an individual named 'seule' and their extensive knowledge of agency activities and assets; it was reviewed in December 1997 and released in part with deletions.",
+  "tags": [
+    "Handwritten",
+    "List",
+    "Assets",
+    "CIA",
+    "Operations",
+    "Code Names"
+  ],
+  "title": "HANDWRITTEN LIST ENTITLED \"ASSETS KNOWN\".",
+  "date": "1900-01-01",
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Raymond L. BANCENAS",
+    "David M. WILSTED",
+    "George Wadsworth",
+    "Vincent P. RiZZUTO",
+    "Andrew E. PELLEMENT",
+    "Daniel M. WILSTED"
+  ]
+}

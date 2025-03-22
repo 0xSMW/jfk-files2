@@ -1,0 +1,24 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing that AMDENIM-1 is providing RADOP candidates for infiltration into PBRUMEN could compromise intelligence sources and methods. Mentioning GYROSE COMMO and ANDENIM may expose sensitive communication channels or operational code names. Directly quoting: “SUBJ REFA IS RADOP CANDIDATE PROVIDED BY AMDENIM-1 FOR INFILTRATION INTO PBRUMEN.”",
+  "security_level": "SECRET",
+  "summary": "A message from JMWAVE to the Director regarding a RADOP candidate provided by AMDENIM-1 for infiltration into PBRUMEN, to replace a subject who failed a COMMO assessment test.",
+  "summary_one_paragraph": "On January 16, 1963, JMWAVE sent a classified message to the Director concerning a RADOP candidate supplied by AMDENIM-1 intended for infiltration into PBRUMEN. This candidate is meant to substitute the subject of reference B, who was unsuccessful in a COMMO assessment test. The message references previous communications (WAVE 3348 and WAVE 2246) and includes a comment requesting a POA (Power of Attorney) on Benicia (Gonzalez) Gomez.",
+  "tags": [
+    "CIA",
+    "JMWAVE",
+    "PBRUMEN",
+    "AMDENIM",
+    "RADOP",
+    "Infiltration",
+    "GYROSE COMMO",
+    "ANDENIM",
+    "Benicia Gonzalez Gomez"
+  ],
+  "title": "GYROSE COMMO ANDENIM",
+  "date": "1963-01-16",
+  "origin_agency": "JMWAVE",
+  "recipient": "Director",
+  "sender": "JMWAVE"
+}

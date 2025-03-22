@@ -1,0 +1,30 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "Disclosing the process for alias documentation and security approvals, including specific details like the type of documentation (driver's license, Social Security Card, AAA Insurance Card) and its intended use ('flash purposes'), could compromise operational security. Additionally, revealing that the documentation 'will not be backstopped' and that the alias has been registered with RIN/OR provides insights into internal security procedures that could be exploited. Specifically, the memo states: 'It is understood that the documentation to be issued will include a D. C. driver's license, a Social Security Card and a AAA Insurance Card...the requested documentation will not be backstopped and will be used only for flash purposes'.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memorandum confirming security approval for the issuance of alias documentation for Cal William Hitch, to be used for an operational assignment in Florida.",
+  "summary_one_paragraph": "This memorandum, dated 18 May 1961, confirms the Deputy Director of Security's approval for the issuance of alias documentation for Cal William Hitch, as requested by Mr. Calvin W. Hicks of the WH Division. The documentation, including a D.C. driver's license, Social Security Card, and AAA Insurance Card, is intended for flash purposes in connection with an operational assignment in Florida and will not be backstopped. The alias has been registered with RIN/OR, and upon completion of the assignment, the documentation is to be returned to TSD/IB.",
+  "tags": [
+    "Alias",
+    "Documentation",
+    "Security Approval",
+    "Operational Assignment",
+    "RIN/OR",
+    "TSD/IB",
+    "WH Division",
+    "Cal William Hitch",
+    "Florida"
+  ],
+  "title": "HITCH, Cal William (A)",
+  "date": "1961-05-18",
+  "origin_agency": "Deputy Director of Security",
+  "persons_mentioned": [
+    "Cal William Hitch",
+    "Calvin W. Hicks",
+    "Richard Major",
+    "Victor White"
+  ],
+  "recipient": "Chief, WH Division",
+  "sender": "Deputy Director of Security (Investigations and Operational Support)"
+}

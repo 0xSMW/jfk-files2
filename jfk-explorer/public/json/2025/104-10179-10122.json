@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "The document discusses statements of Manolo Ray, a potential source of information, received from the British Service with 'good contacts among exiles in Caracas'. Sharing this information could compromise source relationships and intelligence-gathering methods. Directly quoting, 'SOURCE OFFICIAL BRITISH SERVICE FROM 'SOURCE WITH GOOD CONTACTS AMONG EXILES IN CARACAS''.'",
+  "security_level": "SECRET",
+  "summary": "A classified message from the London station to the Director, relaying statements of Manolo Ray, sourced from the British Service, regarding Cuban exiles.",
+  "summary_one_paragraph": "On October 24, 1961, the London station (15-1) sent a SECRET classified message to the Director, concerning the statements of Manolo Ray; the information was derived from an official British Service source who possesses reliable contacts within the exile community in Caracas. The message, referenced as LOND 8769, stipulates NOFORN (Not for Foreign Nationals) restrictions and outlines distribution to various CIA departments, including WH (Western Hemisphere Division) and WE (presumably Western Europe Division). It indicates that no separate cable distribution of the TDCS (Target Data Collection System) is being made.",
+  "tags": [
+    "CIA",
+    "Manolo Ray",
+    "Cuba",
+    "British Service",
+    "Exiles",
+    "Caracas",
+    "NOFORN",
+    "TDCS"
+  ],
+  "title": "Statements of Manolo Ray",
+  "date": "1961-10-24",
+  "locations_mentioned": [
+    "England",
+    "London",
+    "Caracas",
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Manolo Ray"
+  ],
+  "recipient": "Director",
+  "sender": "London Station (15-1)"
+}

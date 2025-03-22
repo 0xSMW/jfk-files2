@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "Revealing details of intelligence collection on potential Cuban military activities, the identity of the source ('US citizen, a pathologist'), and the method of gathering information ('talked with a Vice President of one of Cuba's larger railroads') could compromise intelligence operations and endanger the source. Specifically, the report states, 'He occasionally goes on Inspection tours of the railroad's facilities...accompanied at all times by a Cuban Army officer.' Sharing such information could alert Cuban authorities to the compromised position of the railroad official and the intelligence value of his inspection tours.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A report from late May 1960 describes a possible rocket launching site under construction in Oriente Province, Cuba, based on information from a U.S. citizen who spoke with a railroad vice president who observed the site.",
+  "summary_one_paragraph": "This Confidential report, dated late May 1960, details the potential construction of a rocket launching site in the Sierra Maestra region of Oriente Province, Cuba. The information comes from a U.S. citizen, a pathologist formerly in charge of rice production near the Camaguey/Oriente border, who learned of the site from a railroad vice president. The vice president, while on an inspection tour escorted by a Cuban Army officer, observed large concrete slabs and tall metal framework towers resembling rocket launching facilities and was warned not to ask questions about the construction, which was supervised by Mexican technicians. The report also speculates that large storage tanks being built on Cayo Largo are not for water but to serve as a refueling base for submarines.",
+  "tags": [
+    "Cuba",
+    "Rocket Launching Site",
+    "Oriente Province",
+    "Sierra Maestra",
+    "Cayo Largo",
+    "Intelligence Report",
+    "Railroad",
+    "Mexican Technicians"
+  ],
+  "title": "Possible Rocket Launching Site in Oriente Province",
+  "date": "1960-05",
+  "locations_mentioned": [
+    "Cuba",
+    "Oriente Province",
+    "Sierra Maestra",
+    "Camaguey",
+    "Cayo Largo"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "US citizen (pathologist)",
+    "Vice President (Cuban Railroad)"
+  ]
+}

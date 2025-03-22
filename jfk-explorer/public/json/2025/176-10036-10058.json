@@ -1,0 +1,47 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "The information in this memorandum comes from an extremely sensitive source who is currently a member of a group of Cuban-trained Peruvian guerrillas. No other dissemination has been made of the reports he has provided, in order to protect him and to insure that a channel is kept open to him.",
+  "security_level": "SECRET",
+  "summary": "A CIA memorandum discusses the activities of Cuban-trained Peruvian guerrillas, detailing their training in Cuba, their plans to return to Peru to initiate a coup, and the logistical support they receive from various international locations.",
+  "summary_one_paragraph": "This secret CIA memorandum, dated April 11, 1963, outlines the activities of Cuban-trained Peruvian guerrillas based on information from a sensitive source within the group. The report details the guerrillas' training in Cuba, their plans to overthrow the Peruvian government, the routes they use to return to Peru (often via Mexico and Europe), and the financial and logistical support they receive from Cuban, Chinese, and other international sources. The memo also notes internal disputes within the Movimiento Izquierda Revolucionario (MIR) and their planned strategies for establishing revolutionary fronts across Peru.",
+  "tags": [
+    "CIA",
+    "Cuban-trained guerrillas",
+    "Peru",
+    "Revolution",
+    "MIR",
+    "Subversion",
+    "Mexico",
+    "Paris",
+    "Chinese Communists",
+    "Trotskyites"
+  ],
+  "title": "Activities of Cuban Trained Peruvian Guerrillas",
+  "date": "1963-04-11",
+  "locations_mentioned": [
+    "Cuba",
+    "Peru",
+    "Mexico",
+    "Habana",
+    "Latin America",
+    "Europe",
+    "Colombia",
+    "Paris",
+    "Prague",
+    "Ecuador",
+    "Brazil",
+    "Switzerland",
+    "Algeria",
+    "North Vietnam",
+    "Laos",
+    "China",
+    "Cusco",
+    "Lima"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Fidel Castro"
+  ],
+  "recipient": "Director, CIA"
+}

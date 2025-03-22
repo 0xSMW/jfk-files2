@@ -1,0 +1,28 @@
+{
+  "classification": "Administrative",
+  "document_type": "Name Check Request",
+  "security": "Revealing the existence of a file on Besta and the CIA's interest in his activities, along with details about his alleged involvement in contraband and connections to French intelligence, could compromise ongoing or future intelligence operations. The document indicates, 'Resident of Milan et Via Teodosio 23, collaborated for brief period with kemijud regarding clandestine traffic in strategic materials. Lives by trafficking in cigarettes and other things not excluding done. Also maintains contact with head of French intelligence in Italy in political field. Person of doubtful honesty, braggart and capable of carrying out any kindof activity for money.'",
+  "security_level": "SECRET",
+  "summary": "This is a name check request form for Lamberto Besta, an Italian citizen residing in Milan, with details on his alleged activities, including contraband, connections with French intelligence, and potential involvement as an agent.",
+  "summary_one_paragraph": "A SECRET name check request form, dated April 20, 1955, initiated by McHale to gather information on Lamberto Besta, an Italian citizen living in Milan. The form includes details such as Besta's date and place of birth (May 5, 1918), his residence (23 Via Teodosto, Milan), and his ownership of an export-import firm (LABE or LABEX). Additional attached files reference Besta's alleged collaboration in clandestine traffic, involvement in contraband, connections to French intelligence, and a failed attempt by Italian service to use him as a double agent.",
+  "tags": [
+    "Name Check",
+    "Lamberto Besta",
+    "Italy",
+    "Milan",
+    "Contraband",
+    "French Intelligence",
+    "Double Agent"
+  ],
+  "title": "Name Check, Document Service, and Partial Consolidation Request for Lamberto Besta",
+  "date": "1955-04-20",
+  "locations_mentioned": [
+    "Milan, Italy"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Lamberto Besta"
+  ],
+  "recipient": "RID/INDEX, RID/FILES, RID/DRS, RID/201, RID/ANALYSIS, RID/MIS",
+  "sender": "McHale"
+}

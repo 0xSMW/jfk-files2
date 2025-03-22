@@ -1,0 +1,40 @@
+{
+  "classification": "Cuba",
+  "document_type": "Teletype",
+  "security": "The document discusses potential CIA involvement with Joseph Raymond Merola and mentions specific boats used in anti-Castro operations. Disclosing these details could reveal covert operational methods, compromise CIA assets, and expose ongoing clandestine activities. Direct quote: \"MEROLA RECENTLY TOLD CI HE IS CONNECTED WITH CIA IN SOME CAPACITY...CLAIMED CIA SENDS THIS EQUIPMENT TO MEROLAS HOME...INFORMANT CLAIMS MEROLA IS ARMING THE OUTFIT\".",
+  "security_level": "Secret",
+  "summary": "An FBI teletype from Miami to the Director reports on Joseph Raymond Merola, a suspect in an armed robbery who claims to be connected with the CIA and involved in supplying arms to anti-Castro groups; the CIA denies any operational interest in Merola, though his boat is linked to anti-Castro operations.",
+  "summary_one_paragraph": "On April 13, 1961, the FBI in Miami sent a teletype to the Director regarding Joseph Raymond Merola, a former CI (Criminal Informant) suspected of armed robbery. Merola claimed to be associated with the CIA, alleging he supplied firearms and equipment to anti-Castro groups from his home. The CIA's John Noble initially expressed doubt but confirmed the agency had no operational interest in Merola. However, it was later discovered that the boat 'Terry Knott,' linked to Merola, was used by the Frente Revolucionario Democratico, an anti-Castro organization utilized by the CIA. Despite this connection, a CIA representative, GleicHauf, stated Merola was not working for the CIA or Frente.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Joseph Raymond Merola",
+    "Anti-Castro",
+    "Cuba",
+    "Armed Robbery",
+    "Frente Revolucionario Democratico",
+    "Terry Knott",
+    "Internal Security"
+  ],
+  "title": "Report on Joseph Raymond Merola",
+  "date": "1961-04-13",
+  "locations_mentioned": [
+    "Hallandale, Florida",
+    "Miami"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Joseph Raymond Merola",
+    "Edith Dorigo",
+    "Fritz Dorigo",
+    "John Noble",
+    "Justin GleicHauf",
+    "David Glass",
+    "Manuel Antonio de Varona Loredo",
+    "Jorge Moran",
+    "Santiagov Babum",
+    "Jose \"Pepe\" Varriola"
+  ],
+  "recipient": "HQ",
+  "sender": "MM"
+}

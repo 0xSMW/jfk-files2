@@ -1,0 +1,49 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Message Form/Memorandum",
+  "security": "Disclosing the budget and operational details, including agent salaries, basehouse costs, and clandestine funding methods, could compromise ongoing and future surveillance operations. The document’s reference to JKLANCE regulations and operational support to Soviet operations (as in 'Whenever the Soviets change all their license numbers the Station is able to compile a new, complete roster within a matter of weeks') reveal specific methods used to gather intelligence, which could be exploited by adversaries.",
+  "security_level": "SECRET",
+  "summary": "This document details the approval, amendment, and termination of Project KDFACTOR, a visual and photographic surveillance operation against the Soviet Embassy in Mexico City. It outlines budget allocations, operational changes, and the reasons for project termination due to security breaches, including the revelation that the VWBLANKET principal knew key details of the operation.",
+  "summary_one_paragraph": "Project KDFACTOR, initially the LIEMPTY Project, was a clandestine operation providing visual and photographic surveillance of the Soviet Embassy in Mexico City, utilizing five agents and two basehouse surveillance sites. Due to a security breach where the VWBLANKET principal knew critical operational details, the project was terminated effective June 30, 1972. This document details the financial aspects of the termination, including an overrun of $7,246 for agent terminations, and seeks approval for this additional funding. The project involved continuous daily surveillance and photographic coverage, contributing significantly to the Station’s Soviet operations by tracking personnel, vehicles, and license plate changes.",
+  "tags": [
+    "CIA",
+    "Project KDFACTOR",
+    "LIEMPTY Project",
+    "Mexico City",
+    "Soviet Embassy",
+    "Surveillance",
+    "Agent Termination",
+    "Budget",
+    "VWBLANKET",
+    "Security Breach",
+    "Financial Overrun"
+  ],
+  "title": "KDFACTOR Project Amendment and Termination",
+  "date": "1973-04-26",
+  "locations_mentioned": [
+    "Mexico City, Mexico",
+    "Soviet Embassy"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Henry E. Mulloy",
+    "Fred Kravcov",
+    "John C. Murray",
+    "John T. Boeck",
+    "Richard B. Wright",
+    "Robert D. Wiecha",
+    "John H. Wilson",
+    "James E. Flannery",
+    "Frank W. Hughes",
+    "Gale W. Allen",
+    "Eileen",
+    "Howard T. BAGAUS",
+    "Timothy H. ARCHBOLD",
+    "Bruce R. FERNALD",
+    "Oliver J. MANKUNAS",
+    "Theodore G. Shackley",
+    "Stephen Roll"
+  ],
+  "recipient": "Various officers within the Western Hemisphere Division",
+  "sender": "H.E. Mull"
+}

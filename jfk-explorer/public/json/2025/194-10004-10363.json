@@ -1,0 +1,40 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "This report contains personal information about an individual (Manuel Marti and his aliases) and the results of a local agency check, which includes examination of FBI files. Releasing such information could violate privacy.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report documents a local agency check conducted on Manuel Marti, the father of a subject, revealing no additional information in FBI files subsequent to June 21, 1967.",
+  "summary_one_paragraph": "This is an agent report, dated October 1, 1968, from Robert C. Petersen of the 771st MI Det, detailing a local agency check on Manuel Marti, the father of a subject, conducted on September 30, 1968. The check of the San Juan Field Office, Federal Bureau of Investigation files, with the assistance of Mrs. Carmen Orraça, Records Supervisor, failed to reveal any additional information subsequent to June 21, 1967. The report references a previous agent report dated September 25, 1968, noting a change in the subject's father's name on March 5, 1963.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "DOD",
+    "Personnel Investigation",
+    "Local Agency Check",
+    "FBI",
+    "Puerto Rico",
+    "Manuel Marti",
+    "Adrian Sotomayor",
+    "Agent Report"
+  ],
+  "title": "[ RESTRICTED ]",
+  "date": "1968-10-01",
+  "locations_mentioned": [
+    "San Juan, PR",
+    "Hato Rey, Puerto Rico"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Adrian Sotomayor",
+    "Adrian Marti",
+    "Adrian Marti-Aponte",
+    "Adrian Martes - Aponte",
+    "Adrian Martes",
+    "Adrian Sotomayor-Marti",
+    "Adrian Sotomayor-Martes",
+    "Carmen Orraça",
+    "Robert C. Petersen"
+  ],
+  "sender": "[ RESTRICTED ]"
+}

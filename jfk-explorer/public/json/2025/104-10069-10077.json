@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memo",
+  "security": "The memo describes an unsolicited tip regarding a vessel potentially being used by Alpha 66 for foreign activity, and shares the informant's identity who is working as an Asst. US Attorney. If released this might compromise the confidentiality of informants.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A memo reports an unsolicited tip about the yacht Potomac possibly being used by Alpha 66 to transport weapons to Seattle, with details provided by an informant later identified as Asst. US Attorney Bill Spivaky.",
+  "summary_one_paragraph": "This confidential memo, dated November 27, 1962, relays an unsolicited report received by LAFO concerning the yacht Potomac, formerly used by President Franklin D. Roosevelt, allegedly being used by the anti-Castro group Alpha 66. The tipster claimed the vessel, docked in Long Beach, was loading weapons disguised as Argentine beef destined for Seattle and mentioned individuals named Wes Davis and Cliff Roberts as being on board. Further investigation revealed that the Potomac was owned by Hydra-Capital, Inc., and had been subject to a failed attempt to convert her into a floating museum; the informant was later identified as Assistant U.S. Attorney Bill Spivaky, though the memo notes the information's sketchiness and lacks immediate follow-up plans.",
+  "tags": [
+    "Alpha 66",
+    "Yacht Potomac",
+    "Weapons Trafficking",
+    "Cuba",
+    "Informant",
+    "Bill Spivaky"
+  ],
+  "title": "Reported Use of Yacht Potomac by Alpha 66",
+  "date": "1962-11-27",
+  "locations_mentioned": [
+    "Long Beach, California",
+    "Seattle, Washington",
+    "Argentina",
+    "Newport Beach, California",
+    "Barbados",
+    "San Diego, California",
+    "Cerritos Channel",
+    "Los Angeles harbor area"
+  ],
+  "origin_agency": "LAFO",
+  "persons_mentioned": [
+    "Theodore Roosevelt",
+    "Wes Davis",
+    "Cliff Roberts",
+    "F. D. Roosevelt",
+    "D. L. Wheeler",
+    "Bill Spivaky"
+  ],
+  "recipient": "Unknown",
+  "sender": "TFW"
+}

@@ -1,0 +1,28 @@
+{
+  "classification": "Soviet",
+  "document_type": "Classified Message",
+  "security": "Revealing that the CIA is running traces on individuals (Stoliakov and Alfiriev) could compromise ongoing intelligence operations and alert the individuals to the agency's interest in them. Quoting: \"NO PRELIM TRACES STOLIAKOV AND ALFIRIEV. ADDITIONAL HAS TRACES WILL BE RUN AND RESULTS FORWARDED.\"",
+  "security_level": "*SECRET*",
+  "summary": "A classified message indicating that preliminary traces on Stoliakov and Alfiriev have been initiated, with additional traces to be run and results forwarded.",
+  "summary_one_paragraph": "This *SECRET* classified message, dated September 26, 1958, from the Director to Buenos Aires [BURN] [6-29], indicates that preliminary traces on individuals named Stoliakov and Alfiriev have been initiated but yielded no results yet; additional traces are scheduled to be run, and the results are to be forwarded, referencing the earlier communication RB (BUEN) 3501 (IN 44771) and citing DIR OUT77287 77887 43097.",
+  "tags": [
+    "CIA",
+    "Traces",
+    "Stoliakov",
+    "Alfiriev",
+    "Counterintelligence",
+    "Buenos Aires"
+  ],
+  "title": "Traces on Stoliakov and Alfiriev",
+  "date": "1958-09-26",
+  "locations_mentioned": [
+    "Buenos Aires"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Stoliakov",
+    "Alfiriev"
+  ],
+  "recipient": "Buenos Aires [6-29] [BURN]",
+  "sender": "Director"
+}

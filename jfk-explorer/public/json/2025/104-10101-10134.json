@@ -1,0 +1,35 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "The message discusses coordination with local unions and potentially counteracting extremist activities to promote democratic views. Directly quoting: “Enough coordination with UFUCH to avoid their active mobility LABS and COSEC and prevent PORCING them into CLOSER ALLIANCE with EXTREMISTS...Likelihood that LASS can be USKYL FUNUN EXPRESSION DEMOCRATIC VIEWS on social economic questions...Event does not conflict with MEXI station operations…Early EXTEENCE WELL ORGANIZED EXIREMIET COUNTERACTION”. These details reveal ongoing operational efforts to influence political expression, which could damage international relations if exposed.",
+  "security_level": "SECRET",
+  "summary": "A classified message from the Director to Mexico City and PALP (likely a station code), discussing the Latin American Study Seminar (LASS) and conditions for its potential hosting by Mexico, focusing on ensuring democratic union participation and avoiding extremist influence.",
+  "summary_one_paragraph": "This SECRET classified message, dated December 5, 1963, outlines conditions under which Mexico might host the Latin American Study Seminar (LASS). It emphasizes the need for participation from at least seven democratic unions, coordination with UFUCH to prevent alliances with extremists, and ensuring the seminar fosters democratic expressions on socio-economic issues. The message details directives for managing the invitation and potential withdrawal scenarios, especially if extremist counteractions arise or the event becomes counterproductive to other programs. The message also instructs that Cordero should be briefed with all contingencies in mind.",
+  "tags": [
+    "CIA",
+    "LASS",
+    "Latin American Study Seminar",
+    "Mexico",
+    "UFUCH",
+    "Democratic Unions",
+    "Extremists",
+    "Cordero",
+    "COSEC",
+    "Political Influence"
+  ],
+  "title": "Discussion of Latin American Study Seminar (LASS) Hosting in Mexico",
+  "date": "1963-12-05",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Cordero",
+    "Kornelos",
+    "Spateny",
+    "Cair",
+    "Scott Soloman"
+  ],
+  "recipient": "Mexico City, PALP",
+  "sender": "Director"
+}

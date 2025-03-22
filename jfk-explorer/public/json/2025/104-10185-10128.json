@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This material contains information affecting the National Defense of the United States within the meaning of the Espionage Laws, Title 18, U.S.C. Sees. 793 and 794, the transmission or revelation of which in any manner to an unauthorized person is prohibited by law.",
+  "security_level": "SECRET",
+  "summary": "A report provides personality information on Guillermo ARASTAGUIA, a chief in the Cuban Intelligence Service (DGI), including his background, physical description, and alleged homosexuality, with a request for recipients to check with the Agency before taking any action on individuals mentioned.",
+  "summary_one_paragraph": "This SECRET report, dated August 11, 1964, details personality information on Guillermo ARASTAGUIA, also known as \"Rene,\" who serves as the chief of the Department of Technical Operational Support in the Cuban Intelligence Service (DGI). Sourced from a former Cuban intelligence officer, the report outlines ARASTAGUIA's previous role as secretary to Ramiro VALDES in the Department of State Security (DSE), his transfer due to his association with Anibal ESCALANTE and alleged homosexuality, his travels to Moscow, and his physical description, which includes being about five feet seven inches in height, overweight, blond hair, green eyes, and an effeminate demeanor. Headquarters instructs addressees to consult with the Agency before acting on any individuals mentioned in the personality reports.",
+  "tags": [
+    "Cuban Intelligence",
+    "DGI",
+    "Guillermo ARASTAGUIA",
+    "Ramiro VALDES",
+    "Anibal ESCALANTE",
+    "Homosexuality",
+    "Personnel Report"
+  ],
+  "title": "Guillermo ARASTAGUIA",
+  "date": "1964-08-11",
+  "locations_mentioned": [
+    "Cuba",
+    "Washington, D. C.",
+    "Helsinki",
+    "Moscow"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Guillermo ARASTAGUIA",
+    "Ramiro VALDES",
+    "Anibal ESCALANTE",
+    "Guillermo ARRASTIA",
+    "Raul CASTRO",
+    "Guillermo ARRASTIA Fundora"
+  ],
+  "recipient": "DIA, ARMY, NAVY, AIR, OCR, FBI, REP, CINCLANT, CINCSO"
+}

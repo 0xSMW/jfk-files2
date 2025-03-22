@@ -1,0 +1,23 @@
+{
+  "classification": "Cuba",
+  "document_type": "Message Form",
+  "security": "Revealing that the CIA is trying to obtain information, even if openly, about the Cuban transport system could reveal intelligence gaps and priorities, potentially allowing the Cuban government to take countermeasures. Requesting clandestine means only as a last resort acknowledges a preference for overt methods, which could be exploited.",
+  "security_level": "SECRET",
+  "summary": "The Director instructs PARIS station to acquire a two-volume study on the Cuban transport system, prioritizing open methods but advising HQS before undertaking clandestine approaches.",
+  "summary_one_paragraph": "On November 5, 1964, a secret message was sent from the Director to the PARIS station, identified as 15-4, instructing them to obtain a two-volume study on the Cuban transport system. The Director emphasizes attempting to acquire the study through open means first. Should open methods prove unsuccessful, the message requires the PARIS station to advise Headquarters (HQS) of the intended clandestine approach before proceeding. The message also includes routing information and mentions various individuals and units involved in its coordination.",
+  "tags": [
+    "CIA",
+    "Cuban Transport System",
+    "Intelligence Gathering",
+    "Paris Station",
+    "Clandestine Operations"
+  ],
+  "title": "Acquisition of Study on Cuban Transport System",
+  "date": "1964-11-05",
+  "locations_mentioned": [
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "(PARIS) 15-4",
+  "sender": "DIRECTOR"
+}

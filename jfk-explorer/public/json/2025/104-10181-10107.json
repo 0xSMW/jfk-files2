@@ -1,0 +1,36 @@
+{
+  "classification": "Personnel",
+  "document_type": "Record",
+  "security": "The document details contact and planned interviews with an individual (UZLOV, Sergey) and includes his address and phone number, potentially exposing him to unwanted attention or compromising his privacy. Additionally, mentioning coordination with DCD (likely a sensitive component) reveals internal procedures.",
+  "security_level": "SECRET",
+  "summary": "This record details the CIA's interest in Sergey Uzlov, including reasons for interest (PI for DCD, SE/USSR, SE/X/FR), FBI approval for investigation, name tracing results (no traces found initially), address acquisition, and planned contact/interview details in New York during April 1977.",
+  "summary_one_paragraph": "This document summarizes the CIA's investigation into Sergey Uzlov (201-0948382), outlining reasons for their interest related to DCD, SE/USSR, and SE/X/FR. It includes records of FBI approval, negative name trace results as of March 31, 1977, and the opening of a soft file on March 21, 1977. The document notes the acquisition of Uzlov's address (c/o Anama/Zeldovich in Brooklyn, NY) and telephone number, and details that Fred. Il Stevens planned to contact and interview Uzlov in New York between April 16-18, 1977. Special requirements from SL/YIPF (FF) and SE/CI/1 were received, and UCD coordination regarding the release of information to DCD is indicated.",
+  "tags": [
+    "CIA",
+    "Sergey Uzlov",
+    "DCD",
+    "SE/USSR",
+    "SE/X/FR",
+    "Investigation",
+    "Personnel Record",
+    "Name Trace",
+    "Interview",
+    "Surveillance"
+  ],
+  "title": "UZLOV, Sergey - Record of Interest and Investigation",
+  "date": "1977-03-20",
+  "locations_mentioned": [
+    "Geneva",
+    "Rome",
+    "Brooklyn, N.Y.",
+    "New York"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "UZLOV, Sergey",
+    "FRED. Il Stevens",
+    "Anama/Zeldovich"
+  ],
+  "recipient": "SE/USSR, SE/CI/I, SE/RE",
+  "sender": "WES- or WASH-"
+}

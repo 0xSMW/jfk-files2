@@ -1,0 +1,37 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "Revealing that the CIA is gathering information on individuals like [Giulio Mondello] and [Neriolo] could compromise intelligence-gathering operations and potentially damage relationships with individuals or entities in Italy and Cuba.",
+  "security_level": "SECRET",
+  "summary": "A secret cable from the Director to Mexico, Rome, and WAVE providing information on individuals [Giulio Mondello] and [Neriolo], including [Mondello]'s former role as an agent in Cuba for [FIAT] and owner of a TV tube factory, and [Neriolo]'s connection to the (LINOTYPE) firm in Turin.",
+  "summary_one_paragraph": "This secret cable, dated September 30, 1963, is addressed from the Director to Mexico, Rome, and WAVE, relaying information regarding individuals [Giulio Mondello] and [Neriolo]. It identifies [Giulio Mondello] as born on February 26, 1917, an Italian citizen, and formerly an agent in Cuba for [FIAT] and the owner of a TV tube factory. It also identifies [Neriolo] as connected to a (LINOTYPE) firm in Turin. The cable requests that this information be perused, referencing previous directives 72347 and 72346.",
+  "tags": [
+    "CIA",
+    "Mexico",
+    "Rome",
+    "WAVE",
+    "Giulio Mondello",
+    "Neriolo",
+    "FIAT",
+    "Cuba",
+    "TV Tube Factory",
+    "Turin",
+    "LINOTYPE"
+  ],
+  "title": "Information on [Giulio Mondello] and [Neriolo]",
+  "date": "1963-09-30",
+  "locations_mentioned": [
+    "Mexico",
+    "Rome",
+    "Cuba",
+    "Italy",
+    "Turin"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Giulio Mondello",
+    "Neriolo"
+  ],
+  "recipient": "Mexico, Rome, WAVE",
+  "sender": "Director"
+}

@@ -1,0 +1,37 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security": "Disclosing the British Intelligence Service (MI-6) as the source of information on Levi Laub's travel to Cuba could jeopardize intelligence-sharing relationships.",
+  "security_level": "Secret",
+  "summary": "An FBI memo details information from the CIA regarding Levi Laub's unauthorized travel to Cuba, as reported by British Intelligence (MI-6) based on information from a British newspaperman, Gavin Young; the information is being directed to the Subversive Control Section.",
+  "summary_one_paragraph": "This FBI memo, dated July 5, 1963, from S. J. Papich to D. J. Brennan, relays CIA-provided information concerning Levi Laub's unauthorized travel to Cuba between February 22 and March 11, 1963; this information was initially sourced from the British Intelligence Service (MI-6), which obtained it from Gavin Young, a British newspaperman who was in Cuba during the same period; MI-6 plans to make Young available for an interview with the Bureau; the information is directed to the Subversive Control Section for further action.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Levi Laub",
+    "Cuba",
+    "British Intelligence",
+    "MI-6",
+    "Gavin Young",
+    "Unauthorized Travel",
+    "Subversive Control Section",
+    "Liaison"
+  ],
+  "title": "CIA LIAISON MATERIAL",
+  "date": "1963-07-05",
+  "locations_mentioned": [
+    "Cuba",
+    "San Francisco",
+    "Washington, D.C."
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "D.J. Brennan",
+    "S.J. Papich",
+    "Levi Laub",
+    "A.P. Flynn",
+    "Gavin Young"
+  ],
+  "recipient": "D. J. Brennan",
+  "sender": "S. J. Papich"
+}

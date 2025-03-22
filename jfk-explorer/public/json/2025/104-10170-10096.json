@@ -1,0 +1,30 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Classified Message",
+  "security": "Disclosing the identities of individuals listed in the message could compromise their safety or expose ongoing intelligence operations. The message's reference to specific operations and individuals involved could reveal sensitive information about intelligence-gathering methods and sources. Revealing these operations could alert adversaries and potentially hinder future intelligence efforts.",
+  "security_level": "SECRET",
+  "summary": "This classified message lists names, possibly related to ongoing operations, and includes routing and handling instructions.",
+  "summary_one_paragraph": "A SECRET classified message, dated June 12, 1963, originating from the Director, provides a list of names—Luis Fernandez Rocha Sodriguez, Hanuel Salvat-Coque, Felix Guillermo Othon Pacho, and Fernando Garcia-Chalon Chacon. The message includes routing instructions to specific departments and individuals within the CIA, indicating its handling and dissemination. The message instructs 'Destroy' after use and references related documents (DIP DIVOUR/AMBARH) and priorities (ACCU EJOS PASY INFO WAVE).",
+  "tags": [
+    "Classified Message",
+    "Personnel",
+    "Routing",
+    "CIA",
+    "Operations",
+    "SAS/UCC/PA-PROP",
+    "ACCU EJOS PASY INFO WAVE",
+    "DIP DIVOUR/AMBARH"
+  ],
+  "title": "Classified Message Listing Names and Routing Instructions",
+  "date": "1963-06-12",
+  "persons_mentioned": [
+    "Luis Fernandez Rocha Sodriguez",
+    "Hanuel Salvat-Coque",
+    "Felix Guillermo Othon Pacho",
+    "Fernando Garcia-Chalon Chacon",
+    "Desmond Fitzgerald",
+    "C. King"
+  ],
+  "recipient": "SAS 8, DOP, CA 2, CA/PEG, CA/PROP, CI, CI/OPS, CI/OA, FI, WH 7, S/C",
+  "sender": "Director"
+}

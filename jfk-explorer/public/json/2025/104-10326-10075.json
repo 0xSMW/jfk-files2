@@ -1,0 +1,26 @@
+{
+  "classification": "Oswald",
+  "document_type": "Message",
+  "security": "Discussing unilateral operations and sources with the Senator is discouraged due to concerns over revealing sensitive information. As stated, 'DO NOT DISCUSS ANY UNILATERAL OPERATIONS WITH THE SENATOR. WE ARE CONCERNED WITH ANY DISCUSSION OF SOURCES; IN THIS INSTANCE THE CASE IS INACTIVE AND WOULD NOT ADD TO YOUR DISCUSSION.' Sharing details about security vulnerabilities could also compromise embassy safety.",
+  "security_level": "SECRET",
+  "summary": "This message relays instructions regarding a draft briefing paper and Oswald files, primarily focusing on revisions needed before presenting the information to a senator and addressing concerns about embassy security in Minsk.",
+  "summary_one_paragraph": "A SECRET message from the CIA's LIMIT C/CE/W/MB to IMMEDIATE MINSK outlines required corrections to a draft briefing paper concerning Lee Harvey Oswald files and embassy security. It instructs Minsk station not to discuss unilateral operations or sources with the senator, soften language about embassy security vulnerabilities, and delete personnel requirements. The message also clarifies that the offer to provide the Oswald files was turned over to the FBI due to the sensitivity of the Kennedy assassination and advises passing this information to the ambassador.",
+  "tags": [
+    "Oswald",
+    "Briefing Paper",
+    "Embassy Security",
+    "Minsk",
+    "FBI",
+    "Kennedy Assassination",
+    "WNINTEL",
+    "RYBAT",
+    "CODEL"
+  ],
+  "title": "Draft Briefing Paper and Oswald Files",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "NWBOLTON (assumed to be John Bolton)"
+  ],
+  "recipient": "IMMEDIATE MINSK",
+  "sender": "LIMIT C/CE/W/MB (DOWDON, WEBER)"
+}

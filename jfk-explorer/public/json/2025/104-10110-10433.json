@@ -1,0 +1,37 @@
+{
+  "classification": "Operations",
+  "document_type": "Report",
+  "security": "Disclosing the tactics used to create 'live addresses' could compromise similar operations. Also, providing specific personal information about individuals cooperating with the CIA (like Dr. and Mrs. Salloom, their address, and their children's names and schools) could endanger them or their families and would be a breach of operational security.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A CIA report detailing the establishment of a 'live address' at a residence in Cheverly, Maryland, to monitor communications intended for Gladys G. DAMBRUNT, with the cooperation of the householders, Dr. and Mrs. Edward A. Salloom.",
+  "summary_one_paragraph": "On May 17, 1961, a CIA report documents the creation of a 'live address' for Gladys G. DAMBRUNT at the Cheverly, Maryland home of Dr. Edward A. Salloom and his family, who were briefed to accept communications for DAMBRUNT. The Salloom family was instructed on how to handle inquiries, intercept telegrams, and notify the Reporting Agent of any unusual calls. They were informed that DAMBRUNT was the mother of Eustace H. DAMBRUNT, a prisoner held by a foreign government, and was awaiting a response to a cable she sent. Subsequent actions included notifying the local post offices in Cheverly and Hyattsville, and sending a Western Union telegram to Eustace DAMBRUNT in Cuba.",
+  "tags": [
+    "CIA",
+    "Live Address",
+    "Gladys G. Dambrunt",
+    "Eustace H. Dambrunt",
+    "Cheverly, Maryland",
+    "Communications Interception",
+    "Postal Notification"
+  ],
+  "title": "Live address established at 5611 Jason Street, Cheverly, Maryland, on 17 May 1961",
+  "date": "1961-05-23",
+  "locations_mentioned": [
+    "Cheverly, Maryland",
+    "Hyattsville, Maryland",
+    "Nueva Gerona, Isla de Pinos, Cuba",
+    "Washington, D.C."
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Gladys G. Dambrunt",
+    "Edward A. Salloom",
+    "Anne B. Salloom",
+    "Patricia Salloom",
+    "George Salloom",
+    "Eustace H. Dambrunt",
+    "Anthony (possible reference to Mrs. Dambrunt)"
+  ],
+  "recipient": "CIA",
+  "sender": "JDS: mhm"
+}

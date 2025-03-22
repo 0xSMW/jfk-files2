@@ -1,0 +1,43 @@
+{
+  "classification": "Personnel",
+  "document_type": "Transmittal Slip, Overseas Processing Sheet, Travel Order, Request for Personnel Action",
+  "security": "These documents detail the travel and security clearances of Lucien E. Conein, a key intelligence officer, and include specific operational details and justifications for his assignments. Disclosing such details—operational cover, destinations, travel itineraries, and security certifications (CRYPTO, SI, Q)—could reveal ongoing operational areas, intelligence collection methods, and Conein’s specific role, potentially compromising ongoing or future operations and endangering involved personnel. The documents also mention potential contacts with French Intelligence, an authorized $250 advance, and specific operational expense tagging. Mention of these details falls into the “methods” category. Specifically, these details could reveal the U.S. counterintelligence posture regarding the French Intelligence community. For example, one document notes: “French Intelligence sources in Indo-China sought his service twice in 1948 when he was stationed there.”",
+  "security_level": "SECRET",
+  "summary": "This collection of documents pertains to Lucien E. Conein's travel orders, security clearances, and reassignment within the CIA, indicating his movements between Washington D.C., Europe, and Southeast Asia in support of operational matters.",
+  "summary_one_paragraph": "These documents, spanning from 1953 to 1954, detail the logistical and administrative aspects of Lucien E. Conein's CIA career, including travel orders to locations such as Saigon, Athens, and Frankfurt for operational matters. They outline his security clearances (CRYPTO, SI, Q), polygraph results, and financial arrangements, such as travel advances and expense authorizations. The documents also reflect a reassignment from an unvouchered to a vouchered fund source and mentions French Intelligence interest in Conein's services during his time in Indo-China.",
+  "tags": [
+    "Lucien E. Conein",
+    "Travel Orders",
+    "Security Clearances",
+    "Reassignment",
+    "Operational Matters",
+    "Polygraph",
+    "Indo-China",
+    "France",
+    "CIA",
+    "FOIA"
+  ],
+  "title": "Lucien Emile Conein Travel and Personnel Actions",
+  "date": "1954-04-13",
+  "locations_mentioned": [
+    "Saigon",
+    "Washington, D.C.",
+    "Athens, Greece",
+    "Frankfurt",
+    "Germany",
+    "Nurnberg",
+    "Indo-China"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Lucien Emile Conein",
+    "Mr. Swendiman",
+    "Major Vullim",
+    "Vince",
+    "Luddy",
+    "Gordon H. Steuert",
+    "Fred M. Stowell",
+    "Joseph Burk",
+    "Robert Lurns"
+  ]
+}

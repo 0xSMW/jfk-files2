@@ -1,0 +1,39 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "Identifying individuals by name, passport number, and residence could compromise their privacy. Sharing specific operational codenames like 'RYBAT' and 'TYPIC' may reveal intelligence-gathering methods. Quoting directly: 'IDEN A: FERNANDO PALENZUKIA VAQUET...PASSPORT No. 45809...RESIDENT OF AVENIDA 35 No. 9809, MARIANAO, CUBA'.",
+  "security_level": "Unspecified",
+  "summary": "A cable identifies three individuals: Fernando Palenzukia Vaquet, Maria Francisca Crespo Falcon, and Howard Anderson.",
+  "summary_one_paragraph": "This cable from Mexico City identifies three individuals: Fernando Palenzukia Vaquet, born in Cuba on November 9, 1903, residing at Avenida 35 No. 9809, Mariano, Cuba, and possessing passport No. 45809; Maria Francisca Crespo Falcon, born in Cuba on November 28, 1914, also residing at the same address with passport No. 28149; and Howard Anderson. The cable references previous communication DIR 86283 and uses codenames RYBAT and TYPIC.",
+  "tags": [
+    "Identification",
+    "Mexico City",
+    "Cuba",
+    "RYBAT",
+    "TYPIC",
+    "Fernando Palenzukia Vaquet",
+    "Maria Francisca Crespo Falcon",
+    "Howard Anderson",
+    "FOIA"
+  ],
+  "title": "Identification of Individuals in Mexico City",
+  "date": "Unspecified",
+  "locations_mentioned": [
+    "Mexico City",
+    "Artemisa, Pinar del Rio, Cuba",
+    "Guira de Melena, Habana, Cuba",
+    "Marianao, Cuba"
+  ],
+  "origin_agency": "Unspecified",
+  "persons_mentioned": [
+    "Fernando Palenzukia Vaquet",
+    "Maria Francisca Crespo Falcon",
+    "Howard Anderson",
+    "Mateo (father of Fernando)",
+    "Josefa (mother of Fernando)",
+    "Arturo (father of Maria)",
+    "Josefina (mother of Maria)"
+  ],
+  "recipient": "SUB CEN",
+  "sender": "Unspecified"
+}

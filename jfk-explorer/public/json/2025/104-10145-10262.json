@@ -1,0 +1,33 @@
+{
+  "classification": "Liaison",
+  "document_type": "Addendum to Journal",
+  "security": "The document discusses sensitive information related to Nosenko and/or Mexico operations, which the HSCA might expose in open fora. This could compromise ongoing operations or reveal classified methods. The document states, 'Mr. Latimer immediately understood that the crux of the problem lay in the House Select Committee on Assassinations possible exposure of sensitive information (Nosenko and/or Mexico operations) in open fora.' Additionally, the Agency's position on retired employees like [Raymond Close] is discussed, potentially revealing the scope and limitations of Agency control over former personnel.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This document is an addendum to a journal from the Office of Legislative Counsel, dated July 6, 1978, detailing liaison activities between the CIA and House and Senate committees regarding the House Select Committee on Assassinations' (HSCA) investigation. It discusses concerns about potential exposure of sensitive CIA operations and inquiries related to former Agency employees.",
+  "summary_one_paragraph": "On July 6, 1978, the Office of Legislative Counsel documented liaison activities concerning the House Select Committee on Assassinations (HSCA). The journal addendum details a briefing with Thomas K. Latimer of the House Permanent Select Committee on Intelligence regarding concerns that the HSCA might expose sensitive CIA operations, specifically Nosenko and/or Mexico operations, in open forums. Latimer suggested a course of action involving the DCI, the President, and the Speaker of the House to address these concerns. Separately, the document notes a request from Spencer Davis of the Senate Select Committee on Intelligence for contact information of former Agency employee Newton S. Miler and clarifies the Agency’s stance on its retired employees, such as [Raymond Close], who are now consultants to foreign governments, emphasizing the limitations of control post-retirement beyond existing secrecy agreements.",
+  "tags": [
+    "HSCA",
+    "Legislative Liaison",
+    "Nosenko",
+    "Mexico Operations",
+    "Sensitive Information",
+    "Secrecy Agreement",
+    "Intelligence Committees"
+  ],
+  "title": "Addendum to Journal",
+  "date": "1978-07-06",
+  "origin_agency": "Office of Legislative Counsel",
+  "persons_mentioned": [
+    "Scott Breckinridge",
+    "Rodger Gabrielson",
+    "Thomas K. Latimer",
+    "Edward P. Boland",
+    "Louis Stokes",
+    "Thomas P. O'Neill",
+    "Spencer Davis",
+    "Newton S. Miler",
+    "Raymond Close"
+  ],
+  "recipient": "INTERNAL USE ONLY",
+  "sender": "Office of Legislative Counsel"
+}

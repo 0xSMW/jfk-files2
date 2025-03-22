@@ -1,0 +1,31 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "The memo itself doesn't reveal sensitive information but references confidential work done by oil companies in the Spanish Sahara which could expose the companies' interests or methods.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A House Select Committee on Assassinations staff member reviewed a file titled 'DE GOLYER CO.' at CIA Headquarters. The file contains information related to photogeological mapping in the Spanish Sahara, involving several oil companies.",
+  "summary_one_paragraph": "On December 18, 1979, Sorrell Brady, a staff member from the House Select Committee on Assassinations, reviewed a file titled 'DE GOLYER CO.' at CIA Headquarters. The reviewed material included information concerning photogeological mapping work done in the Spanish Sahara by several oil companies, including CECPHOTO SERVICES, INC., PAN AMERICAN ISO, DE GOLYER & MAC NAUGHTEN, and KHOY-BERGIKAN-SHEARER. The memo cites STCO 8443 and mentions CYP staff.",
+  "tags": [
+    "HSCA",
+    "De Golyer Co.",
+    "Photogeological Mapping",
+    "Spanish Sahara",
+    "Oil Companies",
+    "CECPHOTO SERVICES",
+    "PAN AMERICAN ISO",
+    "DE GOLYER & MAC NAUGHTEN",
+    "KHOY-BERGIKAN-SHEARER"
+  ],
+  "title": "DE GOLYER CO.",
+  "date": "1979-12-18",
+  "locations_mentioned": [
+    "Spanish Sahara",
+    "Fort Worth, Texas",
+    "New York"
+  ],
+  "origin_agency": "CIA (Central Intelligence Agency)",
+  "persons_mentioned": [
+    "Sorrell Brady",
+    "Young (CYP Staff)"
+  ]
+}

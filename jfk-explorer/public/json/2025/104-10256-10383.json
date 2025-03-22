@@ -1,0 +1,37 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "The memo details internal operational procedures and contact information within the agency, which, if exposed, could potentially compromise internal communications or security protocols. Providing pageboy numbers (Line 5) or home telephone numbers (Lines 3, 4, 8, 10) could create opportunities for unauthorized access or exploitation. Also the document refers to OSDO instructions, which are likely classified and should not be shared.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A tour of duty report from the Building Security Branch outlining activities and communications, including relaying messages, providing contact information, and addressing a malfunctioning bay door.",
+  "summary_one_paragraph": "This memorandum, dated June 2, 1973, from Joseph K. Moore and Joe C. Liggett of the Building Security Branch, details their tour of duty from 0900 to 1700 hours. The report includes actions such as transferring a call from Newsweek Magazine to Mr. Thuermer, providing home telephone numbers to agency personnel like Gordon Woll and Dr. Cameron, and addressing a malfunctioning bay door at the South Loading Dock. The memo also notes communications regarding personnel whereabouts, such as Mike Lander's availability via unit number or home phone and assistance in contacting Donna Bennett working overtime.",
+  "tags": [
+    "Building Security",
+    "Tour of Duty",
+    "Internal Communications",
+    "Contact Information",
+    "Facility Maintenance"
+  ],
+  "title": "Tour of Duty Report 0900 - 1700 Hours",
+  "date": "1973-06-02",
+  "origin_agency": "Building Security Branch",
+  "persons_mentioned": [
+    "Joseph K. Moore",
+    "Joe C. Liggett",
+    "Nick Horrack",
+    "Mr. Thuermer",
+    "Gordon Woll",
+    "Hugh Ennis",
+    "Dr. Cameron",
+    "Marvin N. Flaherty",
+    "Mr. Carter",
+    "Mr. Harrington",
+    "Mike Lander",
+    "James Bennett",
+    "Donna Bennett",
+    "Bert Griffen",
+    "Jim Londergan"
+  ],
+  "recipient": "Chief, Building Security Branch",
+  "sender": "Joseph K. Moore & Joe C. Liggett"
+}

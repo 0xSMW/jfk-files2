@@ -1,0 +1,29 @@
+{
+  "classification": "Personnel",
+  "document_type": "Paper, Textual Document",
+  "security": "Information on individuals is being collected, specifically their names, dates and places of birth, addresses, employment history, and school records. This could compromise the privacy of the individuals. The document also references arrest or court records. Sharing that may violate privacy.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A request for a National Agency Check on John Joseph Dowling, including family history, residences, employment, and civilian school records, initiated on July 28, 1966.",
+  "summary_one_paragraph": "This document is a Request for National Agency Check (AR 381-130) dated July 28, 1966, concerning John Joseph Dowling, born on October 25, 1948, in Oakland, California. The request, initiated by Ac of S, G2 Al from Ft Ord, California, seeks information on Dowling's family, including his parents John J. and Frances T. Collins Dowling, his residences in San Diego, California from 1952 to 1966, his employment history at Bill Burgers Drive-in and a car wash, his attendance at Kearny school, and any potential foreign connections, arrests, or court records. The form indicates some issues with Dowling, referencing \"Failure to Identafy rep 66 FAD\", \"Drunk in Bubbi Dor 66 FAD\", and \"Disturbing Feac 66 FAL\".",
+  "tags": [
+    "National Agency Check",
+    "John Joseph Dowling",
+    "Background Check",
+    "Personnel Investigation",
+    "INSCOM/CSF"
+  ],
+  "title": "REQUEST FOR NATIONAL AGENCY CHECK",
+  "date": "1966-07-00",
+  "locations_mentioned": [
+    "Oakland, California",
+    "Waterbury, Connecticut",
+    "San Diego, California"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Vladimir Slovoda",
+    "John Joseph Dowling",
+    "John J. Dowling",
+    "Frances T. Collins"
+  ]
+}

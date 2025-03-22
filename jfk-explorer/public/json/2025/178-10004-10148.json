@@ -1,0 +1,29 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "This document reveals specific CIA covert operations involving mail techniques, including forging letters to appear as if they originated from denied areas like China and North Vietnam. It also mentions potential mail intercepts to gather information for covert operations. Quoting the document: 'Some covert operations using the mail may have been designed to represent that the item was originally mailed in a denied area...you want the recipient to believe that his letter came from the Chinese Communists...Operational information was probably gleaned from a mail intercept operation which would enable one to fabricate the paper, envelopes, writing and addressing styles, even counterfeit postage stamps and cachets...' Disclosing these methods and activities could compromise intelligence sources and methods, damage international relations, and expose potentially illegal activities.",
+  "security_level": "Secret",
+  "summary": "Rob Roy Ratliff informs Brent Scowcroft about a Justice Department request to survey files related to mail operations, detailing various CIA activities such as propaganda mailings, test mailings, and covert operations involving forged letters and potential mail intercepts.",
+  "summary_one_paragraph": "In an October 14, 1975, memorandum to Brent Scowcroft, Rob Roy Ratliff summarizes the findings of a review conducted in response to a Justice Department request for information on mail-related activities within the 40 Committee and its predecessor groups. The review, initiated by Jeanne Davis, covered items ranging from general propaganda mailings and test letters to covert operations involving forged correspondence from denied areas and possible mail intercepts. Ratliff notes that while the Committee records don't show any discussion or consideration of 'illegal' mail operations, they do contain evidence that the Committee was informed of mail intercept operations. The memo also touches on Operation MONGOOSE and Walt Rostow's recollection of a survey of intelligence programs.",
+  "tags": [
+    "CIA",
+    "Justice Department",
+    "Mail Intercept",
+    "Covert Operations",
+    "Operation MONGOOSE",
+    "Propaganda",
+    "40 Committee",
+    "FOIA"
+  ],
+  "title": "Justice Department Request for Mail Information",
+  "date": "1975-10-14",
+  "origin_agency": "WH (White House)",
+  "persons_mentioned": [
+    "Rob Roy Ratliff",
+    "Brent Scowcroft",
+    "Jeanne Davis",
+    "Walt Rostow"
+  ],
+  "recipient": "Brent Scowcroft",
+  "sender": "Rob Roy Ratliff"
+}

@@ -1,0 +1,39 @@
+{
+  "classification": "Vietnam",
+  "document_type": "Telegram Information Report",
+  "security": "The report details the planning of a potential coup, specifying the neutralization of military units and control of air bases. Disclosing these plans could compromise ongoing operations, endanger individuals, and destabilize the region.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A CIA information report details a plan for a coup d'etat in Central Vietnam by the reformed VNQDD, involving neutralizing military units, controlling the Da Nang air base, and taking key figures into custody, but an oppositionist sympathizer advises against it due to the risk of Viet Cong exploitation.",
+  "summary_one_paragraph": "This CIA information report, dated May 18, 1963, outlines a plan devised by the reformed VNQDD (referred to as TXPT) for a coup d'etat in Central Vietnam following the May 8th incident in Hue. The plan, received by Nguyen Van Luc, involves neutralizing non-controlled military units, seizing the air base at Da Nang, and detaining Ngo Dinh Can and Archbishop Ngo Dinh Thuc to gain control over Thua Thien and Quang Nam provinces. The TXPT would then use these holdings to negotiate with President Diem while simultaneously launching a coup in Saigon. However, an opposition sympathizer advised against the plan, warning that a coup without simultaneous action in Saigon could lead to a power vacuum exploited by the Viet Cong, who could then partition Central Vietnam and form a revolutionary government.",
+  "tags": [
+    "CIA",
+    "Vietnam",
+    "Coup d'etat",
+    "VNQDD",
+    "TXPT",
+    "Nguyen Van Luc",
+    "Ngo Dinh Can",
+    "Archbishop Ngo Dinh Thuc",
+    "Viet Cong",
+    "Da Nang"
+  ],
+  "title": "Central Intelligence Agency Information Report",
+  "date": "1963-05-18",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Central Vietnam",
+    "Hue",
+    "Saigon",
+    "Da Nang",
+    "Thua Thien Province",
+    "Quang Nam Province"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Nguyen Van Luc",
+    "Ngo Dinh Can",
+    "Archbishop Ngo Dinh Thuc",
+    "President Diem",
+    "Nguyen Van Cu"
+  ]
+}

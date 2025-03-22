@@ -1,0 +1,34 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "Information pertaining to ongoing intelligence operations and sources is included, specifically, 'The initial report on Fidel Castro's forthcoming visit to Moscow came from a usually reliable source with excellent contacts in Cuban government circles...' revealing specifics about source reliability, contacts within the Cuban government, and the timeline of intelligence dissemination.",
+  "security_level": "SECRET",
+  "summary": "This document reports on Fidel Castro's planned visits to Moscow and Algiers in April 1963, based on intelligence from a reliable source within Cuban government circles. It details Castro's intention to assert Cuba's independence from the Soviet Union despite needing their assistance, and his planned meetings with Ben Bella and Boumedienne in Algeria.",
+  "summary_one_paragraph": "Dated April 23, 1963, this report outlines Fidel Castro's upcoming visits to Moscow and Algiers, based on intelligence obtained from a reliable source with high-level contacts within the Cuban government. The report indicates that Castro planned to attend the May Day celebrations in Moscow but intended to convey to Khrushchev that Cuba, while needing Soviet assistance, would not be a 'docile satellite.' Additionally, Castro's visit to Algeria was planned due to a 'special relationship' with Ben Bella and Algerian Defense Minister Boumedienne.",
+  "tags": [
+    "Fidel Castro",
+    "Moscow",
+    "Algiers",
+    "Khrushchev",
+    "Ben Bella",
+    "Boumedienne",
+    "Cuba",
+    "Soviet Union",
+    "Intelligence Report"
+  ],
+  "title": "Fidel Castro's Coming Visit to Moscow and Algiers",
+  "date": "1963-04-23",
+  "locations_mentioned": [
+    "Moscow",
+    "Algiers",
+    "Cuba",
+    "Soviet Union"
+  ],
+  "origin_agency": "NARA",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Khrushchev",
+    "Ben Bella",
+    "Boumedienne"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "classification": "Operations",
+  "document_type": "Message",
+  "security": "Disclosing the details of MXWINDFALL/1's briefing, travel schedule, and debriefing arrangements could expose operational methods and compromise the individual's security. The document states, 'W/1 WAS GIVEN AN OVERVIEW OF CI AND SECURITY CONCERNS FOR U.S. TRAVELERS TO RUSSIA INVOLVED IN DEFENSE RELATED AND SCIENTIFIC AREAS' and 'W/1 was advised to contact NOC CORDLE on 5 June upon return'. Revealing these details could alert hostile intelligence services to counterintelligence measures and the identities of individuals involved.",
+  "security_level": "SECRET",
+  "summary": "Boston Station reports on the briefing and turnover of MXWINDFALL/1 (W/1) for a temporary duty (TDY) trip to Russia, including attendance at a nuclear physics conference and a JFK assassination conference, and discusses future travel plans and interests of W/1.",
+  "summary_one_paragraph": "Boston Station reports on the briefing and turnover of MXWINDFALL/1 from NOC JAGGER to NOC CORDLE in preparation for W/1's TDY to Russia in May-June 1995. The briefing covered counterintelligence and security concerns for travel to Russia, W/1's itinerary included the NPPE-95 conference, a visit to St. Petersburg, and attendance at a JFK assassination conference. W/1 was advanced funds for expenses and is scheduled for debriefing upon return. Future travel plans include Germany for teaching, Russia for an aerosol symposium, and potentially Brazil. W/1's interest in the JFK assassination is noted as a significant aspect of his personality.",
+  "tags": [
+    "RYBAT",
+    "WNINTEL",
+    "MXBLAZE",
+    "GTRUFF",
+    "MXWINDFALL",
+    "Nuclear Physics",
+    "Russia",
+    "JFK Assassination",
+    "Counterintelligence",
+    "TDY",
+    "NOC",
+    "LNLEVY"
+  ],
+  "title": "Briefing of MXWINDFALL/1 for TDY to Russia; Turnover from NOC JAGGER to NOC CORDLE",
+  "conspiracy": "The document mentions W/1 attending a 'small *CONFERENCE ON THE <JFK ASSASSINATION> IN EARLY JUNE' and giving a 'credited (SIC) course this fall semester at the *UNIVERSITY OF RHODE ISLAND ON THE SCIENTIFIC ASPECTS OF THE <JFK> INVESTIGATION'. It also notes 'W/1 BELIEVES FIRMLY IN THE SOLE GUNMAN THEORY *CONSISTENT WITH RESULTS OF THE WARREN COMMISSION.'",
+  "date": "1995-05-24",
+  "locations_mentioned": [
+    "Russia",
+    "Dubna, Russia",
+    "St. Petersburg",
+    "United States",
+    "Rhode Island",
+    "Boston",
+    "Germany",
+    "Moscow",
+    "Brazil"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "MXWINDFALL/1",
+    "JAGGER",
+    "CORDLE",
+    "LNLEVY"
+  ],
+  "recipient": "Director",
+  "sender": "Staff"
+}

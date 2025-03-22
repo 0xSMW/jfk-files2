@@ -1,0 +1,52 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Intelligence Information Cable",
+  "security": "These documents contain sensitive intelligence sources and methods, including coded communications and information from individuals with access to security officials. Disclosing these details could compromise intelligence operations, reveal sources, and expose methods of gathering information.",
+  "security_level": "SECRET",
+  "summary": "This collection of intelligence cables from 1977-1978 concerns Cuban exile leader Orlando Bosch, including his deteriorating health during a hunger strike, fears of exile reprisals, and intercepted communications revealing potential threats and planned actions.",
+  "summary_one_paragraph": "This collection of SECRET intelligence cables from 1977 and 1978 details information surrounding Cuban exile leader Orlando Bosch, who was imprisoned in Venezuela for his involvement in the 1976 bombing of a Cubana airliner. The cables cover multiple facets of Bosch's situation, including his declining health during a hunger strike and the Venezuelan government's concerns that his death could provoke terrorist attacks by Cuban exiles. Also included are reports of intercepted coded messages to and from Bosch, indicating potential plots and threats. Station agents also investigate an alleged interview given by Bosch, and assess legal prospects for convicting Bosch in Venezuela.",
+  "tags": [
+    "Orlando Bosch",
+    "Cuban Exiles",
+    "Venezuela",
+    "Terrorism",
+    "Intercepted Communications",
+    "Hunger Strike",
+    "CIA",
+    "FBI",
+    "Intelligence Gathering",
+    "WKDIET",
+    "WNINTEL",
+    "KMSTONE"
+  ],
+  "title": "Intelligence Information on Orlando Bosch",
+  "date": "1977-06-28",
+  "locations_mentioned": [
+    "Venezuela",
+    "Cuba",
+    "San Carlos Prison",
+    "United Nations",
+    "Miami",
+    "New York",
+    "Georgetown",
+    "Jamaica"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Orlando Bosch",
+    "Romulo Betancourt",
+    "Arnaldo Martin Cang",
+    "Carlos Andres Perez",
+    "Octavio Lepage",
+    "Hernan",
+    "Lugo",
+    "Posada",
+    "Orlando Garcia",
+    "Ralph W. Stavins",
+    "Brindley Benn",
+    "Anita",
+    "Marcos"
+  ],
+  "recipient": "Director, LA/Miami, FR/New York, Washington",
+  "sender": "Caracas Station"
+}

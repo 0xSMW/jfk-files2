@@ -1,0 +1,35 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security": "This document discusses a sensitive in-place KGB source (KITTY HAWK) and mentions the Director’s statutory obligation to protect his identity. Revealing details of the conversation could compromise KITTY HAWK and jeopardize future intelligence operations. Quoting directly: “KITTY HAWK is not a defector but is a very sensitive in-place KGB source...we continue to abide by the Director's statutory obligation to protect his identity.”",
+  "security_level": "SECRET SENSITIVE",
+  "summary": "A memo from Donald F. Vogel to the Deputy Director of Central Intelligence regarding a talking paper for briefing Chairman Stokes of the HSCA on the operation code-named KITTY HAWK. The memo addresses the HSCA's request for information on KITTY HAWK and suggests responses to potential questions.",
+  "summary_one_paragraph": "This memorandum, dated November 29, 1978, from Donald F. Vogel to the Deputy Director of Central Intelligence (DDCI), outlines a strategy for briefing Chairman Stokes of the House Select Committee on Assassinations (HSCA) regarding the KITTY HAWK operation. It clarifies that KITTY HAWK is a sensitive in-place KGB source, not a defector, and notes the HSCA's interest in any KGB analysis of the Kennedy assassination. The memo advises on how to address questions about KITTY HAWK's limited knowledge of the assassination, his support for Nosenko’s bona fides, and the importance of protecting KITTY HAWK’s identity.",
+  "tags": [
+    "KITTY HAWK",
+    "HSCA",
+    "KGB",
+    "Soviet",
+    "Nosenko",
+    "Kennedy Assassination",
+    "Defector",
+    "CIA",
+    "Double Agent"
+  ],
+  "title": "Talking Paper for Briefing Chairman Stokes, HSCA, on KITTY HAWK",
+  "conspiracy": "This document contains information related to the Kennedy assassination through the lens of a KGB source, KITTY HAWK. According to the document, in 1966, KITTY HAWK volunteered the impression that Kennedy's assassination \"was planned and carried out by VIP's, possibly due to Kennedy's opposition to Texas oil interests.\" He added that he believed that the KGB was embarking on a disinformation campaign to have the assassination blamed on President Johnson, but he had no specific details of this campaign. KITTY HAWK also said that he was personally well acquainted with Lee Harvey Oswald's background because he had helped prepare the file on Oswald which was turned over to the United States Government by the Soviet Government.",
+  "date": "1978-11-29",
+  "persons_mentioned": [
+    "Mr. Breckinridge",
+    "Don Vogel",
+    "Chairman Stokes",
+    "G. Robert Blakey",
+    "Nicholas Shadrin",
+    "President Kennedy",
+    "President Johnson",
+    "Lee Harvey Oswald",
+    "Nosenko",
+    "Golitsyn"
+  ],
+  "sender": "Donald F. Vogel (DCSE/ORP)"
+}

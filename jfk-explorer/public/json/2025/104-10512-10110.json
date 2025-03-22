@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "The report details specific intelligence concerning Soviet vessel activity in Cuban ports, including the types and quantities of cargo delivered. Exposing this intelligence could provide adversaries with insight into the intelligence-gathering capabilities and methods of the reporting agency, potentially allowing them to take countermeasures to protect sensitive shipments and communications. It also could compromise the sources of this intelligence, identified as a 'leading official in an anti-Castro group' and a 'Cuban businessman'.",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "This report details the arrival of Soviet merchant vessels at Cuban ports, listing ship names, tonnage, and cargo types, including war materiel, petroleum, and general cargo, between September and October 1962.",
+  "summary_one_paragraph": "This SECRET field information report, dated October 25, 1962, summarizes Soviet maritime activity in Cuban ports from September 1 to October 19, 1962. It identifies vessels like the KHIFUG VISHNEYSKY and BELOR ETSK delivering war materiel to Isabela de Sagua, and lists various other ships arriving at Habana, Santiago, and Nuevitas with cargos ranging from petroleum and crude oil to general goods, cattle, and potatoes. The report distinguishes the date of acquisition and location of the information sources, which included a 'leading official' in an anti-Castro group and a 'Cuban businessman'.",
+  "tags": [
+    "Soviet Merchant Vessels",
+    "Cuba",
+    "Shipping",
+    "Cargo",
+    "War Materiel",
+    "Petroleum",
+    "Anti-Castro",
+    "Intelligence",
+    "UFG-1759"
+  ],
+  "title": "Soviet Merchant Vessels in Cuban Ports",
+  "date": "1962-10-25",
+  "locations_mentioned": [
+    "Cuba",
+    "Isabela de Sagua",
+    "Habana",
+    "Santiago",
+    "Nuevitas"
+  ],
+  "origin_agency": "JUVAVE",
+  "persons_mentioned": [
+    "Alice B. CAPONONG",
+    "Douglas C. MISLEY",
+    "Vilma MARKWALTER",
+    "Andrew K. REUTENAN",
+    "Melquia"
+  ]
+}

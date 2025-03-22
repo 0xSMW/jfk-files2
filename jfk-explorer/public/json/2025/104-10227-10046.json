@@ -1,0 +1,38 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security": "This dispatch discusses potential political instability and anti-American sentiment in Panama and Guatemala, including reported conversations with government officials. Revealing these discussions could strain diplomatic relations and expose sources. It could also reveal methods of obtaining and reporting information. The information about Hurwitch could reveal intelligence gathering operations.",
+  "security_level": "SECRET/AIR",
+  "summary": "A dispatch reports on a conversation with Dr. Aureliano Arango, who discussed his efforts to create GITAN in Panama and his conversations with President Ydigoras in Guatemala, as well as his interactions with State Department official Mr. Hurwitch regarding SEZ and Julio Galecano.",
+  "summary_one_paragraph": "This dispatch details a report from APOT subsource Ricardo Nunez Garcia regarding his conversation with Dr. Aureliano Arango, who discussed his trip to Panama and Guatemala. In Panama, Arango attempted to create GITAN but found no support. In Guatemala, President Ydigoras expressed strong opposition to Castro. Arango also mentioned a conversation with Mr. Hurwitch from the State Department, who advised him against working with SEZ or Julio Galecano. A contact known as A-1 TEINA offered assistance to Arango despite reservations. Arango resides in Washington, D.C.",
+  "tags": [
+    "CIA",
+    "GITAN",
+    "Aureliano Arango",
+    "Ydigoras",
+    "Hurwitch",
+    "SEZ",
+    "Julio Galecano",
+    "Panama",
+    "Guatemala",
+    "Anti-Castro"
+  ],
+  "title": "Report on Conversation with Dr. Aureliano Arango",
+  "date": "1961-12-19",
+  "locations_mentioned": [
+    "Panama",
+    "Guatemala",
+    "Washington, D.C."
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Ricardo Nunez Garcia",
+    "Aureliano Arango",
+    "Ydigoras",
+    "Mr. Hurwitch",
+    "Julio Galecano",
+    "A-1 TEINA"
+  ],
+  "recipient": "Headquarters",
+  "sender": "RD-1 of State Department Interest"
+}

@@ -1,0 +1,45 @@
+{
+  "classification": "Liaison",
+  "document_type": "Report",
+  "security": "This document outlines the transfer of information regarding Antonio RODRIGUES Echazabal between the CIA and UNION, a foreign intelligence service. Revealing this liaison could expose intelligence-sharing arrangements, potentially damaging relationships with foreign partners and compromising the security of shared information and sources.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A report is being forwarded to UNION with information on Antonio RODRIGUES Echazabal, a Cuban defector, and a request is made for the results of his debriefing by French authorities.",
+  "summary_one_paragraph": "This document details the CIA's efforts to gather intelligence on Antonio RODRIGUES Echazabal, a Cuban defector who formerly served as an ambassador in multiple countries. The Chief of MB is sending a report to the Chief of Station in Paris for passage to UNION (a liaison contact) containing biographical details about Echazabal, his family, and his diplomatic postings, as well as his eventual defection and travel to Martinique. The document requests that UNION provide the results of any debriefing conducted by French authorities, specifically regarding the reasons for Echazabal's resignation and his future plans.",
+  "tags": [
+    "CIA",
+    "UNION",
+    "Antonio RODRIGUES Echazabal",
+    "Defector",
+    "Cuba",
+    "Intelligence Sharing",
+    "Liaison"
+  ],
+  "title": "Liaison/UNION Report on Antonio RODRIGUES Echanabal",
+  "date": "1962-02-05",
+  "locations_mentioned": [
+    "Cuba",
+    "Haiti",
+    "Belgium",
+    "Washington, D.C.",
+    "Antwerp",
+    "Guatemala",
+    "Karachi, Pakistan",
+    "Germany",
+    "Dominican Republic",
+    "France",
+    "Martinique"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Antonio RODRIGUES Echazabal",
+    "Edith Jones",
+    "Antonio RODRIGUEZ Jones",
+    "Yvonne Jones",
+    "Fidel Castro",
+    "Batista",
+    "Trujillo",
+    "Duvalier"
+  ],
+  "recipient": "Chief of Station, Paris",
+  "sender": "Chief, MB"
+}

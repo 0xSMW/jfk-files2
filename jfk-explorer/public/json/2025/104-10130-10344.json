@@ -1,0 +1,28 @@
+{
+  "classification": "Personnel",
+  "document_type": "Travel Briefing Sheet",
+  "security": "Revealing an agent’s name (Boris D Tarasoff) and the cover used for travel ('LT/STATE') could expose their operational role and potentially compromise ongoing or future operations.",
+  "security_level": "SECRET",
+  "summary": "A travel briefing sheet for Boris D. Tarasoff, an FDD/00 employee, for a trip to Mexico City in August 1960, outlining security precautions and cover status.",
+  "summary_one_paragraph": "This document is a travel briefing sheet dated July 20, 1960, for Boris D. Tarasoff, an employee of FDD/00 with a GS-11 grade, who is scheduled to travel to Mexico City on August 13, 1960. The briefing includes his status as TDY (Temporary Duty), use of 'LT/STATE' as a cover, and the briefing covers emergency contacts, security regulations, travel precautions, personal affairs, correspondence, conduct, association with foreign nationals, defensive audio surveillance, cover, and responsibilities as an American abroad. Thomas L. Caff, a security officer, conducted the briefing.",
+  "tags": [
+    "CIA",
+    "Travel Briefing",
+    "Mexico City",
+    "Cover",
+    "Security",
+    "Boris D. Tarasoff"
+  ],
+  "title": "Travel Briefing Sheet for Boris D. Tarasoff",
+  "date": "1960-07-20",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Boris D. Tarasoff",
+    "Thomas L. Caff"
+  ],
+  "recipient": "Boris D. Tarasoff",
+  "sender": "Thomas L. Caff (Security Officer)"
+}

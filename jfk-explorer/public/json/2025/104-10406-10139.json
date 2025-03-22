@@ -1,0 +1,22 @@
+{
+  "classification": "Administrative",
+  "document_type": "Manual",
+  "security": "This document details the CIA's 201 system for managing information on individuals of interest, including the creation, maintenance, and access restrictions for 201 dossiers. Disclosing these procedures could expose the CIA's methods for tracking individuals, potentially compromising sources, operations, and intelligence-gathering activities. Quoting directly: 'Access to a sensitive 201 dossier may be restricted by holding the file at the desk or placing it on restriction in Central Files' and 'The Automated Index Section (IP/AIS) will provide the identity of the subject of a 201 number unless the 201 file is restricted, in which case the requester will be referred to the restricting desk.'",
+  "security_level": "SECRET",
+  "summary": "This document describes the 201 system used by the CIA's Operations Directorate for identifying, controlling, and filing information on individuals of interest, including procedures for opening, maintaining, restricting, and cancelling 201 dossiers.",
+  "summary_one_paragraph": "This manual, dated November 15, 1974, details the CIA's 201 system, a method for managing information on individuals of operational interest. It outlines the creation of 201 dossiers with unique identifying numbers, the machine-generated Master 201 Record, and the Main Index Master 201 Reference. The document specifies the types of individuals warranting a 201 dossier, such as subjects of extensive reporting, prospective agents, and members of target organizations. It also covers OI codes for associating individuals with specific activities, procedures for opening and maintaining dossiers, rules for purging and restricting access, and processes for requesting information and generating machine listings, all designed to support the Operations Directorate's intelligence activities.",
+  "tags": [
+    "CIA",
+    "201 System",
+    "Dossier",
+    "Information Management",
+    "Operations Directorate",
+    "FOIA",
+    "Personnel Records",
+    "OI Codes",
+    "Records Management"
+  ],
+  "title": "The 201 System",
+  "date": "1974-11-15",
+  "origin_agency": "Central Intelligence Agency (CIA)"
+}

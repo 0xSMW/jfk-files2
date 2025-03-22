@@ -1,0 +1,47 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "The paper details CIA plots to assassinate Fidel Castro involving the use of the U.S. criminal syndicate. For example, the document states: \"[Deputy Director of Plans Richard] Bissell and the Chief of the Office of Security, Colonel Sheffield Edwards assigned the specific task of locating the right person to recruit to the Mafia to eliminate or neutralize Castro, to James 'Big Jim' O'Connell.\" Revealing details of assassination attempts, especially those involving criminal elements, could be highly damaging to the reputation of the CIA and the U.S. government.",
+  "security_level": "SECRET",
+  "summary": "This document analyzes the Senate Select Committee's criticism of the CIA's omission of information regarding plots against Fidel Castro during the Warren Commission and presents a detailed account of organized crime's involvement in CIA-sponsored activities against Cuba between 1960 and 1963.",
+  "summary_one_paragraph": "The document, marked SECRET, is a comprehensive analysis of the conflicting viewpoints between the Senate Select Committee (SSC) and the CIA regarding the significance of CIA-led assassination attempts on Fidel Castro. It reviews a 1977 report prepared by the CIA in response to the SSC's criticisms and delves into the utilization of the United States criminal syndicate in CIA-sponsored plots against Castro from 1960-1963. The analysis explores the roles and motivations of key figures like James O'Connell, Robert Maheu, John Roselli, and Santos Trafficante, addressing discrepancies and conflicts in testimony while examining the Agency's simplification of assassination plans, including the potential use of poison.",
+  "tags": [
+    "CIA",
+    "Senate Select Committee",
+    "Fidel Castro",
+    "Assassination Plots",
+    "Organized Crime",
+    "John Roselli",
+    "Santos Trafficante",
+    "Robert Maheu",
+    "Cuba",
+    "Warren Commission"
+  ],
+  "title": "Involvement of Organized Crime in CIA Plots Against Castro",
+  "date": "1986-04",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Miami",
+    "New York",
+    "Las Vegas"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Richard Bissell",
+    "Sheffield Edwards",
+    "James \"Big Jim\" O'Connell",
+    "Robert Maheu",
+    "John Roselli",
+    "Santo Trafficante",
+    "Joe Shimon",
+    "Frank Sturgis",
+    "Eugenio de Montilla",
+    "Juan Orta",
+    "Lee Harvey Oswald",
+    "Sam Giancana"
+  ],
+  "recipient": "Senate Select Committee",
+  "sender": "Unknown"
+}

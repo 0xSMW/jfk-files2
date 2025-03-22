@@ -1,0 +1,23 @@
+{
+  "classification": "Administrative",
+  "document_type": "Note",
+  "security": "Revealing the specific stations and liaison activities, especially concerning the LICRYPT issue and discussions with the State Department, could expose intelligence sources and methods. The document explicitly mentions concerns about the impact on cover and foreign relations if certain stations are acknowledged. Specifically, it states: \"We are concerned that the State Department has not been part of the discussion--the impact on cover and foreign relations of acknowledging stations.\"",
+  "security_level": "SECRET",
+  "summary": "A memo regarding the JFK appeal process, specifically addressing concerns about appealing ARRB decisions related to the LICRYPT issue and the release of information about certain CIA stations.",
+  "summary_one_paragraph": "This internal memo, dated January 3, 1996, from an unknown sender within CSI to the D/CSI, concerns the JFK appeal process related to ARRB decisions. It discusses a memorandum being prepared by DO/IMS (with OGC support) requesting an appeal of certain ARRB decisions, focusing on the LICRYPT issue (liaison with Mexicans) and the release of information about four CIA stations. HRG reviewers express reservations about appealing the LICRYPT issue due to previously released information, support the appeal in Attachment B, and suggest opening a Nov/Dec 1963 window for Oswald-related documents instead of appealing the release of the four stations, while also raising concerns about the State Department's involvement due to potential impacts on cover and foreign relations.",
+  "tags": [
+    "JFK Appeal",
+    "ARRB",
+    "LICRYPT",
+    "CIA Stations",
+    "State Department",
+    "DO/IMS",
+    "OGC",
+    "HRG"
+  ],
+  "title": "JFK Appeal",
+  "date": "1996-01-03",
+  "origin_agency": "CSI",
+  "recipient": "D/CSI",
+  "sender": "Barry"
+}

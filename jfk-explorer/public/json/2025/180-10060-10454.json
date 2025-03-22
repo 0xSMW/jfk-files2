@@ -1,0 +1,35 @@
+{
+  "classification": "Personnel",
+  "document_type": "Final Determination Notification and Payroll Records",
+  "security": "This document contains Personally Identifiable Information (PII) in the form of a Social Security Number (SSN).  Releasing this information would \"constitute an unwarranted invasion of personal privacy, and that invasion of privacy would be so substantial that it outweighs the public interest.\"",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a notification from the Assassination Records Review Board regarding the postponed release of Diana Jones' payroll records from the HSCA due to privacy concerns related to her Social Security number. The document outlines the reasons for postponement, the number of postponements, and the substitute language to be used.",
+  "summary_one_paragraph": "The Assassination Records Review Board issued a Final Determination Notification on December 8, 1995, regarding HSCA staff payroll records, specifically pertaining to Diana Jones. Record Number 180-10060-10454 was marked \"Postponed in Part\" due to privacy concerns, primarily regarding Jones' Social Security Number. The board decided that releasing this information would constitute an unwarranted invasion of personal privacy outweighing public interest, leading to the redaction of the SSN and its substitution with the term \"SSN\". The document includes a review completion date of 10/24/95, and sets the date for the next review in 2017.",
+  "tags": [
+    "Assassination Records Review Board",
+    "HSCA",
+    "Staff Payroll Records",
+    "Diana Jones",
+    "Privacy",
+    "Social Security Number",
+    "Postponement",
+    "PII"
+  ],
+  "title": "Final Determination Notification: HSCA Staff Payroll Records",
+  "date": "1995-12-08",
+  "locations_mentioned": [
+    "Washington, D.C."
+  ],
+  "origin_agency": "Assassination Records Review Board",
+  "persons_mentioned": [
+    "Diana Jones",
+    "Louis Stokes",
+    "Tom Howarth",
+    "Elizabeth Berning",
+    "I. Charles Mathews",
+    "Tom Lambeth",
+    "Robert J. Lehner"
+  ],
+  "recipient": "Tom Howarth, Elizabeth Berning",
+  "sender": "I. Charles Mathews, Tom Lambeth, Robert J. Lehner"
+}

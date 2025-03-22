@@ -1,0 +1,39 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security": "This cable discusses the handling of GIDARK/56, a source with access to sensitive information from high-ranking Colombian military officials. Upgrading her access status and acknowledging her access to private remarks by General Bonett could compromise her position and expose the CIA's intelligence-gathering methods. Quoting directly: \"REF IS ORCON BECAUSE IT HAS_REMARKS MADE PRIVATELY BY BONETT HIMSELF, AND ACCESS TO SENIOR OFFICERS WHO ARE CLOSE TO BOTH BONETT AND BEDOYA.\"",
+  "security_level": "SECRET",
+  "summary": "A cable from January 1997 requests an upgrade in the access description of intelligence source GIDARK/56 (D/56) who is the personal assistant to the Director of Colombian Army Intelligence. D/56 collected information, including remarks about the DEA and the Kennedy assassination, from Colombian Army officials.",
+  "summary_one_paragraph": "This secret cable, dated January 10, 1997, sent from BOGOTA 72820, requests an upgrade to the source description for GIDARK/56 (D/56), a personal assistant to the Director of Colombian Army Intelligence Jairo Duran ((PINEDA)) NINO, from 'indirect' to 'good' due to her continued access to Colombian Army officials after Pineda leaves for Moscow. D/56 gathered information, including comments made by General Manuel ((BONETT)) regarding the DEA's involvement in the Kennedy assassination, during conversations with high-ranking officials in late December, which she passed to C/O Stockmier on January 8th during a scheduled ops meeting.",
+  "tags": [
+    "WNINTEL",
+    "INTEL",
+    "ZRWAHOO",
+    "LWDISSEM",
+    "GIDARK/56",
+    "Colombian Army Intelligence",
+    "DEA",
+    "Kennedy Assassination",
+    "Source Upgrade",
+    "RYBAT"
+  ],
+  "title": "Accompanying OPS Cable for HLB-15257",
+  "conspiracy": "The cable mentions a comment from General Manuel ((BONETT)) about the DEA's involvement in the Kennedy assassination. This is notable in that it reflects a belief held by at least one foreign official and represents a possible detail, however vague, related to a conspiracy surrounding the assassination.",
+  "date": "1997-01-10",
+  "locations_mentioned": [
+    "Colombia",
+    "Moscow"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "GIDARK/56",
+    "Jairo Duran ((PINEDA)) NINO",
+    "Reynaldo ((CASTELLANOS))",
+    "Manuel ((BONETT))",
+    "Monica ((HARA))",
+    "Harold ((BEDOYA))",
+    "Stockmier"
+  ],
+  "recipient": "Director",
+  "sender": "Staff"
+}

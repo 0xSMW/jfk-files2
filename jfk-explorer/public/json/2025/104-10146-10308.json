@@ -1,0 +1,41 @@
+{
+  "classification": "Liaison",
+  "document_type": "Journal",
+  "security": "Revealing that the Agency provided examples of leaks to Senator Stevenson to illustrate the seriousness of leaks in a closed Senate session. Quoting directly: 'Senator Adlai Stevenson's (D., Ill.) request of last week for the Agency to provide him examples of leaks that he might use to illustrate seriousness of leaks in a closed Senate session.' Sharing details could expose the Agency's efforts to influence congressional understanding and management of classified information.",
+  "security_level": "INTERNAL USE ONLY",
+  "summary": "A journal entry detailing the Office of Legislative Counsel's interactions with various House and Senate committees, including discussions on hearings, information requests, and budget briefings.",
+  "summary_one_paragraph": "This journal entry from the Office of Legislative Counsel on March 9, 1978, outlines several liaison activities, including a visit from House Select Committee on Assassinations (HSCA) staffers to review files, advising Tom Latimer of the House Permanent Select Committee on Intelligence about upcoming hearings related to FBI/CIA dealings with KCIA, and coordinating with Mike Hershman of the House International Relations Subcommittee to postpone hearings. It also mentions providing acceptable supplementary paragraph information for public release to Beverly Lumpkin, providing Audrey Hatry with Senate Select Committee on Intelligence meeting details, and discussing Senator Adlai Stevenson's request for leak examples with Doug McCullough, Don Sanders, and Ken deGraffenreid.",
+  "tags": [
+    "Legislative Liaison",
+    "House Select Committee on Assassinations",
+    "House Permanent Select Committee on Intelligence",
+    "House International Relations Subcommittee",
+    "Senate Select Committee on Intelligence",
+    "Senate Select Committee on Ethics",
+    "FBI",
+    "CIA",
+    "KCIA",
+    "Leaks",
+    "Budget Briefings"
+  ],
+  "title": "Journal - Office of Legislative Counsel",
+  "date": "1978-03-09",
+  "locations_mentioned": [
+    "Australia"
+  ],
+  "origin_agency": "Office of Legislative Counsel",
+  "persons_mentioned": [
+    "Tom Latimer",
+    "Edward Boland",
+    "Mike Hershman",
+    "McDonnell (FBI agent)",
+    "Beverly Lumpkin",
+    "Audrey Hatry",
+    "Doug McCullough",
+    "Don Sanders",
+    "Ken deGraffenreid",
+    "Adlai Stevenson"
+  ],
+  "recipient": "Internal",
+  "sender": "JMS, LLM, GC, DFM"
+}

@@ -1,0 +1,33 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "Providing backstopped residence addresses for an individual could compromise operations if the true nature of the individual's activities were to be exposed. Quoting, \"It was explained to Mr. Lavery that this residence and cover was necessary to backstop Subject in the event of inquiry arising out of some private business ventures in which he is currently engaged in the Phoenix, Arizona areas.\"",
+  "security_level": "SECRET",
+  "summary": "A memo confirming a request for backstopped residence addresses for David S. KOR'LES, one in Washington, D.C., and another in Los Angeles, to provide cover for private business ventures.",
+  "summary_one_paragraph": "This secret memorandum, dated October 24, 1960, confirms a request from J.J. Mullane, Jr. to John Lavery within the Office of Security to provide two backstopped residence addresses for David S. KOR'LES. The first address, in the Washington, D.C. area, was to identify KOR'LES as a recently returned State Department employee now working for the Department of the Army, with his family temporarily in New England. The second address, in Los Angeles, was to identify KOR'LES as a local representative for Bartlett and Rogers, a New York City concern, involved in economic research on Latin American trade, who moved to Miami on October 14, 1960. These addresses were intended to provide cover for KOR'LES's private business ventures in Phoenix, Arizona.",
+  "tags": [
+    "Backstopping",
+    "Cover Identity",
+    "Office of Security",
+    "Residence Address",
+    "David S. KOR'LES"
+  ],
+  "title": "KOR'LES, David S.",
+  "date": "1960-10-24",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Los Angeles",
+    "Phoenix, Arizona",
+    "New England",
+    "Miami"
+  ],
+  "origin_agency": "Office of Security",
+  "persons_mentioned": [
+    "David S. KOR'LES",
+    "John Lavery",
+    "J. J. Mullane, Jr.",
+    "Joseph F. Langan"
+  ],
+  "recipient": "Office of Security, Support Branch",
+  "sender": "Joseph F. Langan, Chief, WH/4/SO"
+}

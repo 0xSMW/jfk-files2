@@ -1,0 +1,37 @@
+{
+  "classification": "Security",
+  "document_type": "Agent Report",
+  "security": "Revealing details of intelligence gathering methods and specific personnel involved in counter-intelligence activities in Germany could compromise ongoing operations and endanger individuals. Quoting: 'Source was approached by a man who identified himself as John the Dee Jay...began a normal conversation. The conversation soon turned to military subjects...John constantly mentioned Security Sergeants, phone numbers and personnel that were formerly at the unit.' This highlights the potential risk of exposing sources and methods.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report details a security guard's encounter with an individual known as 'John the Dee Jay' in Datteln, Germany, who displayed unusual interest and knowledge of military personnel, installations, and equipment, prompting a counter-intelligence investigation.",
+  "summary_one_paragraph": "On February 5, 1972, Heinz E. Ickert of the 66th MI Group submitted an agent report detailing an incident where Robert M. Creed, a security guard at the 66th USA Artillery Detachment in Datteln, Germany, was approached by an individual known as 'John the Dee Jay' in a local bar. John exhibited a concerning level of familiarity with military personnel, radar systems, and security protocols, and had previously been caught wearing U.S. military fatigues. The report documents John's attempts to gather information about the XR-71, and a possible connection to photography of military installations, suggesting potential counter-intelligence implications.",
+  "tags": [
+    "Counter-Intelligence",
+    "Germany",
+    "Military Intelligence",
+    "Security Breach",
+    "Datteln",
+    "John the Dee Jay",
+    "XR-71"
+  ],
+  "title": "Agent Report",
+  "date": "1972-02-05",
+  "locations_mentioned": [
+    "Datteln, Federal Republic of Germany",
+    "Lord Nelson Bar",
+    "Western Bar",
+    "Kessin Bar",
+    "Haard Kaserne"
+  ],
+  "origin_agency": "CSF/INSCOM",
+  "persons_mentioned": [
+    "Robert M. Creed",
+    "John the Dee Jay",
+    "CPT FNU Myers",
+    "CPT FNU Jackson",
+    "Julius",
+    "Cristobal Pimentel-Davilla",
+    "Heinz E. Ickert"
+  ],
+  "sender": "USA"
+}

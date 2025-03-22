@@ -1,0 +1,24 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Message",
+  "security": "Disclosing the specific code used to construct the Identikit composite, and the details about James Earl Ray's appearance (scar, ears), reveals sensitive operational techniques and intelligence gathering methods. Quote: \"CODE: H 50 C 32 X 2 E 31 D 82 N 35 X 2 L 28 X 2. NOTE: SCAR ON FOREHEAD MENTIONED REF OMITTED FROM COMPOSITE AS EXACT LOCATION NOT KNOWN. LEFT EAR PROTRUDES MORE THAN RIGHT.\"",
+  "security_level": "SECRET",
+  "summary": "This message from Richard Ober of CI/OP/DO requests addresses to construct an Identikit composite of James Earl Ray using a specific code prior to receiving photos. It notes the omission of a forehead scar's location and the protrusion of Ray's left ear.",
+  "summary_one_paragraph": "On April 20, 1968, Richard Ober from the CI/OP/DO division sent a message to multiple addresses including Asuncion, Bangkok, and Berlin requesting the construction of an Identikit composite of James Earl Ray. The message provides a specific code (H 50 C 32 X 2 E 31 D 82 N 35 X 2 L 28 X 2) for creating the composite before photos of Ray arrive. It highlights that a scar on Ray's forehead was omitted due to an unknown exact location and points out that Ray's left ear protrudes more than his right.",
+  "tags": [
+    "CIA",
+    "James Earl Ray",
+    "Identikit",
+    "Composite",
+    "Assassination",
+    "Richard Ober"
+  ],
+  "title": "Request for Identikit Composite of James Earl Ray",
+  "date": "1968-04-20",
+  "persons_mentioned": [
+    "Richard Ober",
+    "James Earl Ray"
+  ],
+  "recipient": "*ASUNCION, BANGKOK, BEIRUT, BERLIN, BOGOTA, BUENOS AIRES, COPENHAGEN, FRANKFURT, THE HAGUE, HONG KONG, LA PAZ, LONDON, MADRID, MONTEVIDEO, NEW DELHI, MANILA, MUNICH, PANAMA CITY, PARIS, RIO DE JANERIO, ROME, SANTO DOMINGO, SANTIAGO, SAO PAULO STOCKHOLM, TEGUCIGALPA, TOKYO, VIENNA, ZURICH",
+  "sender": "Richard Ober (CI/OP/DO)"
+}

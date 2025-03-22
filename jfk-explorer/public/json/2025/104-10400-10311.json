@@ -1,0 +1,49 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security": "These cables discuss briefings to Congressional delegations (CODELS) on sensitive intelligence matters, the nature of liaison relationships with foreign services, and specific operational details like 'PDWHIZ case' and 'Special SANDT Subject'. Exposing these details could compromise ongoing operations, damage relationships with foreign intelligence services, and reveal sensitive methods of intelligence gathering. Specific details include: 'OUR PRIMARY OBJECTIVES IN AUSTRALIA, THE OVERALL MANAGEMENT SCHEME USED BY HOS IN MANAGEMENT OF STATION AND ITS ACTIVITIES, OUR USE OF LIA ISON...THE INTELLIGENCE CYCLE FROM VALIDATION OF REQUIREMENTS TO PRODUCTION OF INTELLIGENCE, SPECIFIC DETAIRS OF HOW WE ACCOMPL- LISH OUR OPS TASKING- SPOTTING ASSESSMENT, DI RECT CONTACT WITH TARGETS AND USE OF LIAISON - STATION BUDGET, ETC.', The way senior agency officers interface within embassies.",
+  "security_level": "SECRET",
+  "summary": "A collection of cables from January 1976 detailing interactions between CIA stations and visiting Congressional delegations (CODELS) in London, Canberra, and Jakarta. The cables cover topics such as briefings provided to senators and congressmen, discussions on intelligence operations, liaison with foreign services, and Congressional feedback on CIA activities.",
+  "summary_one_paragraph": "These SECRET cables from January 1976 document interactions between CIA stations and visiting Congressional delegations (CODELS). One cable discusses Senator Hart's upcoming visit to London and his request for briefings on intelligence matters, to be arranged with Derek Tonkin of British Intelligence. Other cables detail briefings given to congressmen Addabbo, Robinson, and Edwards in Canberra, Australia, covering station objectives, management, liaison practices, and operational details, including the 'PDWHIZ case' to illustrate targeting. The cables also note Congressional feedback in Jakarta, where Representative Addabbo and Mr. Snodgrass expressed satisfaction with the briefing and appreciated the direct answers provided, and another cable from Canberra arranging a meeting for Congressman Milford with heads of liaison services to discuss the impact of current investigations on foreign intelligence relations.",
+  "tags": [
+    "CIA",
+    "Congressional Briefings",
+    "CODEL",
+    "Liaison",
+    "Intelligence Operations",
+    "Foreign Intelligence Relations",
+    "Australia",
+    "Jakarta",
+    "London",
+    "Official Secrets Act"
+  ],
+  "title": "Cables Regarding Congressional Delegations (CODELS) Visits and Briefings",
+  "locations_mentioned": [
+    "London",
+    "Ditchley",
+    "Canberra",
+    "Australia",
+    "Jakarta"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Senator Hart",
+    "Derek Tonkin",
+    "Leonard Hooper",
+    "Richard Sykes",
+    "Robert Armstrong",
+    "George Cary",
+    "Addabbo",
+    "Robinson",
+    "Edwards",
+    "Snodgrass",
+    "Preston",
+    "Cunneely",
+    "Milford",
+    "Wilson",
+    "Dickinson",
+    "Jack Maury"
+  ],
+  "recipient": "Director, Immediate Wellington, Jakarta Stations",
+  "sender": "CIA Stations in London, Canberra, Jakarta, Staff"
+}

@@ -1,0 +1,28 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing that the CIA is actively supporting the overthrow of Castro. Quoting directly: MRA VERY ACTIVE AT PRESENT AND SUPPORTED BY AND COOPERATI WITH KUBARK. OVERTIMON OF CASTRO WOULD TAKE PLACE ANY TIME AFTER JA. 55. MANY IMPORTANT PEOPLE WITHIN COC ARE ENGAGED THIS CONSPIRACY. CUDANS BEING INFILIRATED WITH HELP CASTRO'S OWN PEOPLE.",
+  "security_level": "SECRET",
+  "summary": "A classified message indicates that the MRA (unspecified organization) is actively supported by KUBARK (CIA) to overthrow Castro, with plans for an uprising after January 1965 involving Cuban exiles and Castro's own people.",
+  "summary_one_paragraph": "This secret message, dated January 15, 1965, relays information acquired on November 30, 1964, from an individual named Armand (Cartinez) Y Virelles about the MRA, which is actively supported by KUBARK (CIA) in a plot to overthrow Castro. The message indicates that this operation involves infiltrating Cubans, including members of Castro's inner circle, and planning an internal revolt set to commence after January 1965. Contacts have suggested that a high-ranking official within Castro’s government might lead the uprising, with Fienio Caliejeiras y Delgado cited as a potential example.",
+  "tags": [
+    "CIA",
+    "KUBARK",
+    "Castro",
+    "Overthrow",
+    "Cuba",
+    "MRA",
+    "Cuban Exiles",
+    "Internal Revolt"
+  ],
+  "title": "Info on MRA activities related to overthrow of Castro",
+  "date": "1965-01-15",
+  "persons_mentioned": [
+    "Armand (Cartinez) Y Virelles",
+    "Fidel Castro",
+    "Fienio Caliejeiras y Delgado",
+    "Erpenesto (Aloma) Sabas"
+  ],
+  "recipient": "DIR",
+  "sender": "Imwave"
+}

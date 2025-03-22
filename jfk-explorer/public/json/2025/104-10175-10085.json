@@ -1,0 +1,41 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security": "Multiple documents reference the use of individuals for covert operations, intelligence gathering, and establishing cover. Specific references include setting up \"front offices as well as other 'cover' projects\" and using individuals to \"ferret out and operate with a minimum number of skilled American resident agents.\" Disclosing these details could compromise ongoing operations, expose sources, and reveal methods used for intelligence gathering.",
+  "security_level": "SECRET",
+  "summary": "This collection of dispatches and memoranda details the CIA's operational activities and assessments related to an agent (Alfonso Rudolph Wichtrich, code named HYDROL) in Panama and Mexico, focusing on his recruitment, capabilities, and the management of his intelligence network.",
+  "summary_one_paragraph": "This collection of documents, spanning from 1947 to 1955, provides a comprehensive overview of the CIA's interactions with Alfonso Rudolph Wichtrich (HYDROL), an agent operating in Panama and Mexico. It includes initial recruitment details, assessments of his capabilities in organizing intelligence networks, his contacts, and his suitability for covert operations. The documents cover financial authorizations, project reviews, and eventual termination of his services due to business commitments and operational concerns, while also discussing his potential use in penetrating communist activities. Several communications address the administrative and logistical aspects of managing HYDROL and his network, including payment, security, and coordination with other agencies.",
+  "tags": [
+    "CIA",
+    "HYDROL",
+    "Alfonso Rudolph Wichtrich",
+    "Panama",
+    "Mexico",
+    "Covert Operations",
+    "Intelligence Gathering",
+    "Agents",
+    "Communism"
+  ],
+  "title": "Operational Data on HYDROL (Alfonso Rudolph Wichtrich)",
+  "date": "1954-06-29",
+  "locations_mentioned": [
+    "Panama",
+    "Mexico",
+    "China",
+    "United States",
+    "South America"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Alfonso Rudolph Wichtrich (HYDROL)",
+    "HYDRACID",
+    "HYDRAVANIC",
+    "Bruce O. Sturgess",
+    "Harry A. Real",
+    "Paul P. Paxton",
+    "Robert H. Cunningham",
+    "Grover J. Karing"
+  ],
+  "recipient": "Chief, WIDE",
+  "sender": "Chief of Mission, Mexico City"
+}

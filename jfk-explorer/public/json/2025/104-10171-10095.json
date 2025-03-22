@@ -1,0 +1,31 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "Revealing accommodation addresses could expose the identities and activities of S/ agents operating in the MEXI area, potentially compromising their safety and effectiveness. This could also hinder ongoing intelligence operations and damage the CIA's ability to gather information in the region.",
+  "security_level": "SECRET",
+  "summary": "A classified message from Mexico City provides three accommodation addresses for use by S/ agents in the MEXI area, with a request to advise on remaining addresses soonest.",
+  "summary_one_paragraph": "This SECRET classified message, dated January 26, 1961, originates from the CIA station in Mexico City (MEXI) and is addressed to BELL, with informational copies to COP, ADDP/A, WH, and BELL S/c. The message provides three accommodation addresses (Armando B. Sanchez, Berta A. Martinez, and Antonio Busto) to be used by S/ agents operating in the MEXI area, referencing a previous communication (BELL 6767) and indicating that further addresses will be advised soon. A comment indicates that Headquarters (HQS) needed accommodation addresses in the MEXI area for S/ agents.",
+  "tags": [
+    "CIA",
+    "Accommodation Address",
+    "S/ Agents",
+    "Mexico City",
+    "MEXI",
+    "BELL",
+    "Undercover Operations"
+  ],
+  "title": "Accommodation Addresses for S/ Agents in Mexico City",
+  "date": "1961-01-26",
+  "locations_mentioned": [
+    "Mexico City",
+    "Mexico"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Armando B. Sanchez",
+    "Berta A. Martinez",
+    "Antonio Busto"
+  ],
+  "recipient": "BELL",
+  "sender": "Mexico City"
+}

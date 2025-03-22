@@ -1,0 +1,38 @@
+{
+  "classification": "Liaison",
+  "document_type": "Paper, Textual Document",
+  "security": "This document discusses potential surveillance and intelligence gathering on Mark Lane, including information shared with a covert CIA official. Disclosing these activities could reveal intelligence methods, sources, and cooperation between the FBI and CIA, potentially damaging relationships and compromising ongoing investigations. Specific references include: \"LANE was to speak in Zurich, Switzerland, some time in the next two weeks on the subject of OSWALD's innocence...DIMMER stated that he would keep this office informed of further developments in this matter.\"",
+  "security_level": "Secret",
+  "summary": "The FBI's Bern office reports that Mark Lane is scheduled to speak in Zurich about Oswald's innocence in the Kennedy assassination, based on information from a covert CIA official, John Dimmer, who was provided with background material on Lane.",
+  "summary_one_paragraph": "On January 8, 1965, the FBI's Legat in Bern reported to the Director that Mark Lane was scheduled to speak in Zurich, Switzerland, about Lee Harvey Oswald's innocence in the assassination of President Kennedy. John Dimmer, a covert CIA official at the US Embassy in Bern, provided this information and was furnished with background material on Lane at his request. Dimmer promised to keep the FBI informed of further developments. The report notes that Lane’s talk is allegedly sponsored by Heinrich Buchbinder, a Swiss Trotskyite prominent in the Swiss Movement Against Atomic Armament.",
+  "tags": [
+    "FBI",
+    "Mark Lane",
+    "Surveillance",
+    "Lee Harvey Oswald",
+    "John Dimmer",
+    "CIA",
+    "Heinrich Buchbinder",
+    "Switzerland",
+    "Zurich",
+    "JFK Assassination",
+    "Legat Bern"
+  ],
+  "title": "",
+  "conspiracy": "The document is related to Mark Lane's views on the Kennedy assassination and his public appearances to discuss Oswald's innocence, which may fuel conspiracy theories.",
+  "date": "1965-01-08",
+  "locations_mentioned": [
+    "Bern",
+    "Zurich",
+    "Switzerland"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Mark Lane",
+    "John Dimmer",
+    "Lee Harvey Oswald",
+    "Heinrich Buchbinder"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "LEG, BR"
+}

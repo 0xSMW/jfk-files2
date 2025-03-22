@@ -1,0 +1,31 @@
+{
+  "classification": "Administrative",
+  "document_type": "Index Search and Consolidation Request",
+  "security": "This document contains internal file numbers, locator data, and cross-references to other files within the CIA's indexing system. Disclosing this information could reveal the CIA's internal organizational structure for information management and retrieval, potentially allowing adversaries to identify and exploit vulnerabilities in their information security practices. The document itself is marked SECRET. Example: \"LOCATOR DATA: ORDER FROM IP/CFS - GC-52\"",
+  "security_level": "SECRET",
+  "summary": "This is a request for an index search and 201 file consolidation related to the surname Vanderbilt. The search reveals multiple individuals with the Vanderbilt surname and their corresponding file data within the CIA's indexing system.",
+  "summary_one_paragraph": "Barbara Soderquist from the C/CI branch initiated a SECRET index search and file consolidation request (KC-660) for the surname Vanderbilt, which returned multiple entries with associated file numbers, locator data, and references to OSS records. The search identified individuals such as William, Neil, Gladys, and Cornelius Vanderbilt, along with others like Feliza Padlos Vanderbilt (ex-wife of Cornelius), and Alfred Gwynne Vanderbilt. The search results provide instructions on how to order documents from IP/CFS and IP/EFS, as well as detailing the procedures for editing index records and forwarding them via the records officer.",
+  "tags": [
+    "Index Search",
+    "File Consolidation",
+    "Vanderbilt",
+    "CIA",
+    "OSS Records",
+    "IP/CFS",
+    "IP/EFS"
+  ],
+  "title": "Index Search and 201 Consolidation Request for Vanderbilt Surname",
+  "date": "1976-10-02",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Barbara Soderquist",
+    "William Vanderbilt",
+    "Neil Vanderbilt",
+    "Gladys Vanderbilt",
+    "Cornelius Vanderbilt",
+    "Feliza Padlos Vanderbilt",
+    "Alfred Gwynne Vanderbilt",
+    "Jane Vanderbilt"
+  ],
+  "sender": "Barbara Soderquist (KC-660, C/CI Branch)"
+}

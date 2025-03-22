@@ -1,0 +1,33 @@
+{
+  "classification": "Operations",
+  "document_type": "Memorandum",
+  "security": "Recommending specific companies that have \"experience, under classified contracts with TSD, in producing reliable equipment for special purposes of this sort\" could reveal sensitive information about the CIA's methods and suppliers, potentially compromising operational security.",
+  "security_level": "Background Use Only",
+  "summary": "This memorandum discusses radio switch equipment options for demolition firing purposes, recommending specific companies (Motorola and Kell) with experience in producing reliable equipment under classified TSD contracts, while also considering less secure alternatives.",
+  "summary_one_paragraph": "On January 3, 1963, Austin M. Jones from C/TSD/CAB/SD, sent a memorandum to the Chief of Special Affairs Staff, attention Mr. A. Rodriquez, regarding radio switch equipment for demolition firing purposes, following a discussion on December 30. The memo recommends Motorola and Kell as reliable sources, based on their experience with classified contracts, but also suggests the possibility of using less secure, inexpensive equipment from Japanese or American manufacturers for quicker production, while noting concerns about reliability and the importance of a conference with audio technicians to clarify operational needs and camouflage considerations.",
+  "tags": [
+    "CIA",
+    "TSD",
+    "demolition",
+    "radio switch",
+    "Motorola",
+    "Kell",
+    "Alpern",
+    "Poole",
+    "VHF",
+    "UHF",
+    "QRF",
+    "Special Affairs Staff"
+  ],
+  "title": "Radio Switch Equipment for Demolition Firing Purposes",
+  "date": "1963-01-03",
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "A. Rodriquez",
+    "Jay Alpern",
+    "Lee Poole",
+    "Austin M. Jones"
+  ],
+  "recipient": "Chief, Special Affairs Staff",
+  "sender": "Austin M. Jones (C/TSD/CAB/SD)"
+}

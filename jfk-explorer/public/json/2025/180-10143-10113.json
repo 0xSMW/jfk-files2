@@ -1,0 +1,42 @@
+{
+  "classification": "Operations",
+  "document_type": "Summary of Review",
+  "security": "This document details CIA operations related to the LIENVOY project, including phone taps and surveillance of individuals in contact with the Cuban and Soviet embassies. Specific operational details, such as the number of reels recorded monthly and the liaison procedures with other projects like ODENVY, could compromise intelligence gathering methods. For example, the memo states, \"This center records an average of 525 reels per month, from which...\" Revealing these details could provide adversaries with insights into CIA capabilities and operational tactics.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a summary of a review of BADGER files, specifically focusing on the LIENVOY project, which involved surveillance operations against Cuban and Soviet embassies in Mexico City, including monitoring contacts made by Lee Harvey Oswald before the assassination of President Kennedy.",
+  "summary_one_paragraph": "This is a summary of the CIA's review of BADGER files, focusing on the LIENVOY project from 1958 to 1967. The review covers four volumes: Production, Developmental Plans, Support, and Operations. It highlights the project's focus on telephone taps and surveillance of the Cuban and Soviet embassies in Mexico City, and includes details regarding the monitoring of Lee Harvey Oswald's contacts with these embassies prior to President Kennedy's assassination. It also mentions the routine transmission of Cuban embassy traffic to CIA Headquarters and the involvement of various individuals and projects in the surveillance efforts.",
+  "tags": [
+    "BADGER",
+    "LIENVOY",
+    "CIA",
+    "Mexico City",
+    "Cuban Embassy",
+    "Soviet Embassy",
+    "Surveillance",
+    "Lee Harvey Oswald",
+    "JFK Assassination",
+    "Phone Taps",
+    "ODENVY"
+  ],
+  "title": "Summary of Review of BADGER files",
+  "date": "1978-06-27",
+  "locations_mentioned": [
+    "Mexico City",
+    "USA"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "D. Hardway",
+    "Barbara",
+    "J.C. King",
+    "R.W. Herbert",
+    "Paul V. LeVister",
+    "Scott",
+    "Witten",
+    "HORSFALL",
+    "Tarasoff",
+    "Arehart"
+  ],
+  "recipient": "DD Pre"
+}

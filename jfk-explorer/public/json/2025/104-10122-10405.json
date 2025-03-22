@@ -1,0 +1,42 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Revealing informant (SECEN)'s activities and contacts could jeopardize his safety and compromise ongoing operations. Quoting the cable, '(SECEN)...is partner of PARA 7 REF A company which we understand is legitimate enterprise to exploit his extensive contacts in Dominican Military for business purposes.' Exposing the assessment of SECEN as 'highly competent tough professional soldier' could also negatively impact his effectiveness.",
+  "security_level": "SECRET",
+  "summary": "A cable discusses SECEN's activities, including his partnership in a legitimate enterprise exploiting contacts in the Dominican military, and his past contact with Father Georges; it assesses his capabilities and denies his current involvement with Masferrer, while also identifying Sy Mandel as a possible smuggler.",
+  "summary_one_paragraph": "This SECRET cable, dated July 24, 1968, from JMCOBRA 0382 to the Director in Santo Domingo, discusses the activities of SECEN, formerly EM SHAM-1, who is reported to be a partner in a legitimate company using his Dominican military connections for business purposes. The cable notes that SECEN had some contact with Father Georges prior to August 1966 but is not known to have any contact with Father Bajeux. JMCOBRA reports having no information that SECEN is currently in contact with Masferrer or that Masferrer's trip to New York is connected with SECEN's trip to Santo Domingo. The cable also identifies Sy Mandel as likely Seymour Mandel, a former bar owner in Havana, now a ship captain possibly engaged in smuggling.",
+  "tags": [
+    "SECEN",
+    "Masferrer",
+    "Sy Mandel",
+    "JMWAVE",
+    "Dominican Military",
+    "Smuggling",
+    "Father Georges",
+    "Father Bajeux",
+    "JMCOBRA"
+  ],
+  "title": "JMCOBRA 0382: Information on SECEN and Other Individuals",
+  "date": "1968-07-24",
+  "locations_mentioned": [
+    "Santo Domingo",
+    "Port Au Prince",
+    "Dominican Republic",
+    "New York",
+    "Havana",
+    "Caribbean"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "SECEN",
+    "Father Georges",
+    "Father Bajeux",
+    "Masferrer",
+    "Sy Mandel",
+    "Seymour Mandel",
+    "Mac Donald",
+    "Cartus"
+  ],
+  "recipient": "Director, Santo Domingo",
+  "sender": "JMCOBRA"
+}

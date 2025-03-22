@@ -1,0 +1,50 @@
+{
+  "classification": "Commission",
+  "document_type": "Deposition",
+  "security": "This deposition contains details of CIA clandestine operations, anti-Castro activities, and involvement with Cuban exiles. Revealing specifics about these activities, such as the operations being run out of Europe and Miami or details about CIA personnel like Ted Shackley, Paul Henze and Jake Esterline, could expose sensitive methods and compromise intelligence sources. Clandestine nature requires redaction.",
+  "security_level": "Secret",
+  "summary": "The document is a deposition of William C. Sturbitts, a CIA Special Assistant for Latin America, taken on April 16, 1975, regarding his involvement in Cuban operations and economic warfare from 1964 to 1973.",
+  "summary_one_paragraph": "This document comprises the deposition of William C. Sturbitts, a CIA Special Assistant, Latin America, taken on April 16, 1975, as part of the Rockefeller Commission's inquiry into CIA activities. Sturbitts details his nine-year involvement in Cuban operations and economic warfare within the Directorate of Operations, including his frequent commutes to Miami and his familiarity with the Miami Station's operations. He identifies Ted Shackley, Paul Henze, and Jake Esterline as chiefs of the Miami Station during his tenure. His responsibilities were worldwide, predominately in Europe and then Miami. The deposition was conducted by George Manfredi and Robert B. Olsen, representing the Commission, at the Central Intelligence Agency in Langley, Virginia.",
+  "tags": [
+    "Anti-Castro Activities",
+    "Assassinations",
+    "Foreign Leaders",
+    "CIA",
+    "Clandestine Operations",
+    "Cuban Exiles",
+    "David Ferrie",
+    "Frank Sturgis",
+    "E. Howard Hunt",
+    "Miami",
+    "New Orleans",
+    "Clay Shaw",
+    "William C. Sturbitts",
+    "Jim Garrison",
+    "Rockefeller Commission",
+    "Deposition"
+  ],
+  "title": "Deposition of William C. Sturbitts",
+  "date": "1975-04-16",
+  "locations_mentioned": [
+    "Miami",
+    "New Orleans",
+    "Langley, Virginia",
+    "Europe"
+  ],
+  "origin_agency": "Rockefeller Commission",
+  "persons_mentioned": [
+    "William C. Sturbitts",
+    "Ted Shackley",
+    "Paul Henze",
+    "Jake Esterline",
+    "George Manfredi",
+    "Robert B. Olsen",
+    "David Ferrie",
+    "Frank Sturgis",
+    "E. Howard Hunt",
+    "Clay Shaw",
+    "Jim Garrison"
+  ],
+  "recipient": "Rockefeller Commission",
+  "sender": "Rockefeller Commission"
+}

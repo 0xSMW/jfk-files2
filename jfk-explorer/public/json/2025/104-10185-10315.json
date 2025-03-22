@@ -1,0 +1,31 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "This message discusses preparations for a plan involving 'MNTY' and suggests providing him with Mexican identity documents. Specifically, it mentions, 'MEXI OFFICER CAN CARRY LETTER AND INSTRUCTIONS TO MNTY' and 'BELIEVE BEST HOS PREPARE MEXI (IDENTITY DOCUMENTS)'. Revealing these details could expose covert operations and compromise individuals involved in sensitive activities.",
+  "security_level": "SECRET",
+  "summary": "A classified message from Mexico City to the Director, dated May 7, 1964, discusses preparations for a plan involving an individual referred to as 'MNTY,' including the possibility of providing him with Mexican identity documents.",
+  "summary_one_paragraph": "This secret message, sent from Mexico City to the Director on May 7, 1964, references a plan and mentions that a Mexico City officer can carry a letter and instructions to 'MNTY'. It suggests preparing Mexican identity documents for 'MNTY,' preferably a voter's registration and driver's license showing a Mexico City address for mail recovery from general delivery, noting that the station in Mexico City lacks reproduction facilities available at headquarters. A comment from C/S indicates that AMMUG-1 is anxious to write his wife in Cuba and tell her he is okay.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "Covert Operations",
+    "Identity Documents",
+    "AMMUG-1",
+    "Cuba",
+    "MNTY",
+    "RYBAT"
+  ],
+  "title": "Classified Message Regarding Plan Involving 'MNTY'",
+  "date": "1964-05-07",
+  "locations_mentioned": [
+    "Mexico City",
+    "Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AMMUG-1",
+    "MNTY"
+  ],
+  "recipient": "Director",
+  "sender": "Mexico City"
+}

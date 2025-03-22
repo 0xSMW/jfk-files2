@@ -1,0 +1,22 @@
+{
+  "classification": "Liaison",
+  "document_type": "Outgoing Message",
+  "security": "Releasing information about PDLADLE and Nosenko could reveal ongoing intelligence operations or sources, as it indicates individuals of interest to the agency. \"PER OUR RECORDS, PDLADLE AND NOSENKO HAVE NOT BEEN QUERIED RE WALLENBERG. THIS CAN BE DONE, IF YOU WISH.\" This reveals intelligence-gathering activities and potentially compromises the identity or status of individuals involved.",
+  "security_level": "SECRET",
+  "summary": "This message confirms that there are no current books in production regarding the Wallenberg case and indicates that PDLADLE and Nosenko have not been questioned about it but could be, if desired.",
+  "summary_one_paragraph": "An outgoing message dated October 7, 1976, from Barbara Bryan, SE/X/EU unit, to Stockholm (993) concerning the Wallenberg case. It states that, as far as can be determined, there are no books currently being written on the Wallenberg case, and that PDLADLE and Nosenko have not been queried about Wallenberg, but could be if requested. The message references file 201-005925 and provides distribution information.",
+  "tags": [
+    "Wallenberg",
+    "PDLADLE",
+    "Nosenko",
+    "Intelligence",
+    "Liaison",
+    "Stockholm",
+    "FOIA"
+  ],
+  "title": "Response Regarding Wallenberg Case and Potential Interrogation of PDLADLE and Nosenko",
+  "date": "1976-10-07",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "Stockholm (993)",
+  "sender": "Barbara Bryan"
+}

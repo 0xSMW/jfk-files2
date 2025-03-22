@@ -1,0 +1,29 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "The message describes a failed attempt to move a doctor's case and other items through Mexican customs, detailing the involvement of a Station Officer whose 'KUBARK face was growing less and less Finnish.' This level of operational detail, combined with the mention of a specific asset (VASLOUCH-2) and potential compromise of the operation due to increased scrutiny, would create an unacceptable security risk if disclosed. Quoting directly: '...every card and customs official airport aware of situation and of assistance being given VASLOUCH-2 by Station Officer whose KUBARK face was growing less and less Finnish.'",
+  "security_level": "SECRET",
+  "summary": "A classified message from Mexico City details a failed attempt to move items, including a 'doctor's case', through Mexican customs, resulting in increased scrutiny and potential compromise of involved personnel and assets.",
+  "summary_one_paragraph": "This message, dated December 13, describes a failed attempt by a Station Officer and asset VASLOUCH-2 to transport items, including a 'doctor's case', through Mexican customs. The attempt was thwarted by strict inspections and the refusal of customs officials to grant free entry, even after contacting the local embassy. The situation escalated, raising awareness among airport personnel and compromising the station officer’s cover. As a result, the parcels were returned to air cargo storage, and the local embassy will attempt to secure their release. VASLOUCH-2, concerned about tardiness and the tampering of the 'doctor’s bag', insisted on leaving, potentially disrupting planned activities.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "Customs",
+    "Asset Compromise",
+    "VASLOUCH-2",
+    "KUBARK",
+    "Doctor's Case",
+    "Security Risk"
+  ],
+  "title": "Failed Attempt to Move Items Through Mexican Customs",
+  "date": "1963-12-13",
+  "locations_mentioned": [
+    "Mexico City",
+    "Mexico"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "VASLOUCH-2"
+  ],
+  "sender": "Mexico C!"
+}

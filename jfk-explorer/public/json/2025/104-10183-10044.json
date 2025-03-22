@@ -1,0 +1,37 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Classified Message",
+  "security": "Disclosing the identities of the individuals (Carlos Tepedino Gonzales, Juan Ventura Valker, Dr. A. Romano) associated with the KEYWAY and PERUNCH operations could compromise ongoing or future intelligence activities and endanger the safety of these individuals.",
+  "security_level": "SECRET",
+  "summary": "A classified message identifies individuals and entities related to KEYWAY and PERUNCH operations, including names, birthdates, and locations, and requests routing and indexing.",
+  "summary_one_paragraph": "This SECRET classified message, dated June 4, 1963, from the Director to HONE, identifies several individuals and entities connected to the KEYWAY and PERUNCH operations. It lists Carlos Tepedino Gonzales (born October 11, 1924, in Cuba, residing in New York City), Juan Ventura Valker (born April 10, 1914, in Costa Rica, naturalized Cuban, residing in Geneva), and Dr. A. Romano (Via Ciccerone 44, Rome), along with TISIMAN and LIPP Inc., and Carletto Inc., both jewelry manufacturers. The message cites DIR 44488 as a reference and requests routing and indexing with file number 201-7671567.",
+  "tags": [
+    "KEYWAY",
+    "PERUNCH",
+    "Carlos Tepedino Gonzales",
+    "Juan Ventura Valker",
+    "Dr. A. Romano",
+    "TISIMAN and LIPP Inc.",
+    "Carletto Inc.",
+    "CIA",
+    "FOIA",
+    "SECRET"
+  ],
+  "title": "Identities of FEP (KEYWAY PERUNCH AMETP)",
+  "date": "1963-06-04",
+  "locations_mentioned": [
+    "Cuba",
+    "New York City",
+    "Costa Rica",
+    "Geneva, Suisse",
+    "Rome"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Carlos Tepedino Gonzales",
+    "Juan Ventura Valker",
+    "Dr. A. Romano"
+  ],
+  "recipient": "HONE",
+  "sender": "Director"
+}

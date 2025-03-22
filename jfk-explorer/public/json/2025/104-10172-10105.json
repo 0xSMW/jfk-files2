@@ -1,0 +1,38 @@
+{
+  "classification": "Cuba",
+  "document_type": "File",
+  "security": "This file contains information about CIA's operational interest in Dr. Agustin Guitart Campuzano, including his intended use as a cut-out in an FI operation targeting his uncle in Cuba. It details the process for operational approval, security checks, and coordination with the FBI, plus his personal information. Releasing details could compromise sources and methods. Quoting directly: 'The file on GUITART Campuzano, Agustin, Dr is cancelled and closed in CI/OA for the following reason: Failure to submit PRQ-II as required under CSI No. 10-5 or to indicate any further interest in obtaining approval for the operational use of Subject.' and 'CCS concurs in your proposal to use the above individual for the purpose indicated. In keeping with the requirement placed upon Central Cover Staff to maintain an accurate register of current nonofficial cover activity, you are specifically requested to advise Central Cover Staff Non-Official Cover promptly by memorandum when subject has been activated.'",
+  "security_level": "SECRET",
+  "summary": "This file pertains to Dr. Agustin Guitart Campuzano, a Cuban residing in New Orleans, who was considered for use as a CIA asset in an operation related to his uncle in Cuba, but the operational approval was cancelled due to lack of follow-up.",
+  "summary_one_paragraph": "The document is a collection of memos, requests, and approval forms related to the CIA's consideration of Dr. Agustin Guitart Campuzano, a Cuban mathematics and physics professor living in New Orleans, as a potential asset. The file outlines the process of obtaining provisional operational approval, including security checks, coordination with the FBI, and the intention to use him as a cut-out in an FI operation involving his uncle, Rene Guitart Rodriguez, residing in Cuba. Ultimately, the operational approval was cancelled in January 1964 because the required paperwork (PRQ-II) was not submitted, indicating a lack of continued interest in using Dr. Guitart Campuzano.",
+  "tags": [
+    "CIA",
+    "Guitart Campuzano",
+    "Operational Approval",
+    "Cuba",
+    "FI Operation",
+    "Asset",
+    "New Orleans"
+  ],
+  "title": "GUITART CAMPIZANO, AGUSTIN, DR.",
+  "date": "1963-06-18",
+  "locations_mentioned": [
+    "Cardenas, Cuba",
+    "New Orleans, La.",
+    "Havana, Cuba",
+    "Ope Locka, Fla."
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Agustin Guitart Campuzano",
+    "Rene Guitart Rodriguez",
+    "Carlos Prio",
+    "Helena Toro",
+    "Edward P. Brown",
+    "Carl Trettin",
+    "Thomas Carroll, Jr.",
+    "Wendell Ullery"
+  ],
+  "recipient": "SAS/OS",
+  "sender": "CI/Operational Approval and Support Division"
+}

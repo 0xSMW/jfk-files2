@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Field Information Report",
+  "security": "Revealing operational details such as source names ([ ], Juri Sinches), planned activities, and organizational contacts of the Directorio Revolucionario in Cuba could endanger individuals, compromise intelligence gathering methods, and disrupt ongoing clandestine operations. The CIA's interest in and monitoring of Cuban revolutionary groups, and the operational methods to obtain information are classified.",
+  "security_level": "SECRET",
+  "summary": "A field information report details the plans and activities of the Directorio Revolucionario in Cuba, including their organization, contacts, and planned uprising against the Batista regime, based on information acquired in Havana in March 1957.",
+  "summary_one_paragraph": "This SECRET field information report, dated March 11, 1957, outlines the plans and activities of the Directorio Revolucionario in Cuba, based on information obtained from a member of the Directorio in Havana during meetings on March 9 and 10, 1957. The report details the Directorio's organization, including its lector Juri Sinches, its connections to other student groups like the Apolitical Student Directory and TICA, and its coordination with delegates such as Diante Carlo. It describes their planned uprising against the Batista regime, an invasion to Oriente, and coordination with Col. Talio Lalico Rico. The report also mentions the Directorio's frustrations with the F2D group's lack of action and their contact with other groups in exile, while expressing concern over potential desertions from students before fighting begins.",
+  "tags": [
+    "Directorio Revolucionario",
+    "Cuba",
+    "Batista regime",
+    "Student groups",
+    "Uprising",
+    "Havana",
+    "Field Information Report",
+    "Juri Sinches",
+    "CIA"
+  ],
+  "title": "Plans and Activities of the Directorio Revolucionario, Cuba",
+  "date": "1957-03-11",
+  "locations_mentioned": [
+    "Cuba",
+    "Habana",
+    "Oriente",
+    "Pinar del Rio",
+    "Mexico"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Juri Sinches",
+    "Diante Carlo",
+    "Batista",
+    "Col. Talio Lalico Rico",
+    "Carlos Prío"
+  ],
+  "recipient": "Washington, Santiago de Cuba, US Embassy"
+}

@@ -1,0 +1,42 @@
+{
+  "classification": "Administrative",
+  "document_type": "Message",
+  "security": "This document contains internal agency information, including personnel matters (retirements, promotions, job assignments), budget planning, and details about high-level meetings. It also discusses the declassification of JFK assassination documents, but withholds information that could reveal third-country liaison relationships or agent assets. \"Released documents will not include any info dealing with third country liaison relationships or about agent assets. However, all else will be released.\"",
+  "security_level": "SECRET",
+  "summary": "This message summarizes the main highlights of the 28 JUN DO meeting, covering topics such as nursery registration, press conferences, meetings with government officials, human resources oversight, strategic budget planning, President Bush's visit, covert action hearings, personnel changes, the Honduran Task Force, JFK document declassification, upcoming IG semi-annuals, connectivity discussions, dining room closures, and retirements.",
+  "summary_one_paragraph": "This SECRET message, dated June 29, 1995, from LIMIT C/EA/TIB to Bangkok, Rangoon, Phnom Penh, and Chiang Mai, summarizes key points from the Directorate of Operations (DO) meeting on June 28. Highlights include announcements regarding agency nursery registration, successful ADDO press conferences, meetings with Secretary of State's Chief of Staff, the formation of a Human Resources Oversight Counsel and a Strategic Budget Planning Group, positive feedback on President Bush's visit to headquarters, updates on upcoming covert action hearings and personnel changes (George Tenet's confirmation as DDCI, Admiral Studeman's temporary overlap), the creation of a Honduran Task Force, plans to declassify JFK assassination documents (excluding certain sensitive information), upcoming IG semi-annuals, discussions on improving communication between headquarters and field stations, dining room closures, the retirement of Frank Rocco and Bill Devine, and a farewell to an outstanding division secretary. The message concludes with the sender's own upcoming retirement.",
+  "tags": [
+    "CIA",
+    "DO Meeting",
+    "Personnel",
+    "Budget",
+    "JFK Assassination",
+    "Declassification",
+    "Honduras Task Force",
+    "Retirement"
+  ],
+  "title": "COS Weekly Highlights",
+  "date": "1995-06-29",
+  "locations_mentioned": [
+    "Bangkok",
+    "Rangoon",
+    "Phnom Penh",
+    "Chiang Mai",
+    "HQS"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "George Tenet",
+    "Admiral Studeman",
+    "President Bush",
+    "Tom Donilan",
+    "Betsy Graves",
+    "Eric Quackenbush",
+    "Joe Detrani",
+    "Frank Rocco",
+    "Bill Devine",
+    "Emerson"
+  ],
+  "recipient": "Bangkok, Rangoon, Phnom Penh, Chiang Mai",
+  "sender": "LIMIT C/EA/TIB"
+}

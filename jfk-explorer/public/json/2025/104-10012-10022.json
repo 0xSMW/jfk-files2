@@ -1,0 +1,46 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Letter",
+  "security": "Disclosing that Kostikov \"attempted to cultivate a U.S. Government employee\" could compromise intelligence operations by revealing methods and targets. Stating that Kostikov was \"the most effective and dangerous of intelligence officers in Mexico\" and describing him as \"without morals, education, and manners\" is potentially defamatory and could damage international relations. Mentioning that the KGB hasn't engaged in \"executive action since 1959\" exposes intelligence assessments and timelines, which could be exploited by adversaries. Revealing the Agency has knowledge about Lyalin could compromise that source.",
+  "security_level": "SECRET",
+  "summary": "A letter from David H. Blee to Anthony C. M. DeVere providing information on Valeriy Vladimirovich Kostikov's activities in Mexico, his contact with Lee Harvey Oswald regarding a visa request, and his intelligence work, including attempts to cultivate a U.S. government employee and possible connections to Department 13.",
+  "summary_one_paragraph": "This letter, dated May 21, 1982, from David H. Blee to Anthony C. M. DeVere, details the activities of Valeriy Vladimirovich Kostikov, a Soviet consular officer. It indicates Kostikov traveled extensively between 1959 and 1961 and was stationed in Mexico City from 1961 to 1965, where he attempted to cultivate a U.S. government employee and processed Lee Harvey Oswald's visa request in 1963. The letter also notes Kostikov's second tour in Mexico City in 1968, during which he allegedly supported Central American communist parties and made trips to Moscow and Havana. The letter mentions his sudden departure from Mexico in 1971 possibly due to connections with Lyalin, his reputation as a dangerous intelligence officer, an arrest for a fist fight, and his possible affiliation with Department 13, though unconfirmed.",
+  "tags": [
+    "Valeriy Vladimirovich Kostikov",
+    "Lee Harvey Oswald",
+    "Mexico City",
+    "KGB",
+    "Department 13",
+    "Executive Action",
+    "Visa",
+    "Consular Officer",
+    "Intelligence",
+    "Lyalin",
+    "FOIA"
+  ],
+  "title": "Information on Valeriy Vladimirovich Kostikov",
+  "date": "1982-05-21",
+  "locations_mentioned": [
+    "Mexico",
+    "France",
+    "Spain",
+    "United States",
+    "Cuba",
+    "Mexico City",
+    "USSR",
+    "Moscow",
+    "Havana",
+    "Beirut"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Valeriy Vladimirovich Kostikov",
+    "Lee Harvey Oswald",
+    "Anthony C. M. DeVere",
+    "David H. Blee",
+    "Joan Paxson",
+    "Lyalin"
+  ],
+  "recipient": "Anthony C. M. DeVere",
+  "sender": "David H. Blee"
+}

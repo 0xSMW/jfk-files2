@@ -1,0 +1,40 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Classified Message",
+  "security": "Revealing details of the LIRING-3 operation and the efforts to manipulate the perception of the Guatemalan insurgency, as well as the identities and methods, could be detrimental to ongoing intelligence activities. The document mentions, 'Objective of above is to paint as dismal a picture as possible for Cubans, and to suggest that latter impose conditions which will be unacceptable to present insurgent leadership.' This exposes a deliberate disinformation campaign.",
+  "security_level": "SECRET",
+  "summary": "This document contains a series of classified messages primarily concerning LIRING-3, an individual providing information on the insurgency movement in Guatemala, and efforts to manage the perception of the Guatemalan insurgency among Cuban entities.",
+  "summary_one_paragraph": "This series of classified messages, dated November 1968, relays information regarding 'LIRING-3' and discussions surrounding his report on the Guatemalan insurgency. CIA officers in Mexico City and Guatemala City coordinate to guide LIRING-3 in preparing a report that emphasizes the fragmentation and disorganization of insurgent forces to present a negative image to Cuban backers. The documents also detail arrangements for a meeting in Mexico City to discuss LIRING-3’s report and suggest attributing information to a deceased contact to lend credibility. It also reveals efforts to undermine the Cuban support for the insurgency by painting a negative picture of the revolutionary movement and its leadership.",
+  "tags": [
+    "CIA",
+    "LIRING-3",
+    "Guatemala",
+    "Insurgency",
+    "Mexico City",
+    "RYBAT",
+    "PBRUMEN",
+    "Disinformation",
+    "Cuban Relations",
+    "JMCOBRA",
+    "FAR"
+  ],
+  "title": "LIRING-3 Activities and Guatemalan Insurgency",
+  "date": "1968-11",
+  "locations_mentioned": [
+    "Guatemala",
+    "Mexico City",
+    "Canada",
+    "New York"
+  ],
+  "persons_mentioned": [
+    "LIRING-3",
+    "LIRING-9",
+    "Leonard S. Tornei",
+    "Rolando Cebollita",
+    "Jose Ignacio Rolando Lopez Ruiz",
+    "Francis Sherry",
+    "Jeanette Firk"
+  ],
+  "recipient": "Guatemala City, Director, JMCOBRA",
+  "sender": "Mexico City"
+}

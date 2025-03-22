@@ -1,0 +1,37 @@
+{
+  "classification": "Soviet",
+  "document_type": "Summary",
+  "security": "The document discusses sensitive intelligence collection methods (COMINT, ELINT) and the analysis of Soviet air defense capabilities. Disclosing details about these missions and the specific radar systems (TOKEN, WHIFT, GAGE, PATTY CAKE) could compromise intelligence sources and methods, and provide adversaries with information to counter U.S. surveillance efforts. For example: “This was evident from both the continuity of track and most forcefully from the ELINT data collected. Some 1461 intercepts of Soviet Bloc radars operating in the 3000 mc/s band were obtained by project ELINT as follows: TOKEN-1331, WHIFT-37, GAGE-26, PATTY CAKE-37, Other 30.”",
+  "security_level": "TOP SECRET",
+  "summary": "This document summarizes initial missions penetrating the Soviet Bloc air defense system in June-July 1956, revealing insights into Soviet radar coverage, counteractions, and the effectiveness of their warning system based on COMINT and ELINT data.",
+  "summary_one_paragraph": "This Top Secret document summarizes eight penetrations into the Soviet Bloc air defense system between June 20 and July 10, 1956, highlighting the system's performance based on COMINT and ELINT data. The analysis indicates that the Soviet Union detected all missions despite their surprise nature, demonstrating radar coverage above 72,000 feet. By July 5, the USSR recognized the missions' reconnaissance purpose and implemented countermeasures, such as grounding civil flights and relocating MIG-19 aircraft. The report also notes improvements in Soviet tracking capabilities and identifies the deployment in depth of their air defense warning system, evidenced by 1461 intercepts of Soviet Bloc radars operating in the 3000 mc/s band, including the location of 618 TOKEN sites.",
+  "tags": [
+    "Soviet Air Defense",
+    "COMINT",
+    "ELINT",
+    "EIDER",
+    "CHESS",
+    "Radar",
+    "MIG-19",
+    "TOKEN",
+    "WHIFT",
+    "GAGE",
+    "PATTY CAKE",
+    "Reconnaissance Missions",
+    "Cold War",
+    "Air Defense System",
+    "Intelligence Gathering"
+  ],
+  "title": "Summary of Initial Missions",
+  "date": "1956-07-10",
+  "locations_mentioned": [
+    "Soviet Bloc",
+    "USSR",
+    "East Germany",
+    "Poland",
+    "Hungary",
+    "Moscow"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "CIA"
+}

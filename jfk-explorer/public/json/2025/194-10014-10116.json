@@ -1,0 +1,33 @@
+{
+  "classification": "Personnel",
+  "document_type": "Information Report",
+  "security": "This report contains sensitive information about financial transactions, political connections, and reorganization plans that, if disclosed, could harm individuals, disrupt government operations, and undermine intelligence gathering efforts. The document is marked as 'CONFIDENTIAL/CIA INTERNAL USE ONLY' and explicitly prohibits dissemination to contractors or organizations under a contractual relationship with the U.S. Government without written permission from the originator.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "An information report details the release of Clemard Joseph-Charles from prison in Haiti after a ransom payment and discusses his plans to reorganize Banque Commerciale d'Haiti, as well as President Duvalier's interest in improving Haiti's image to attract foreign capital.",
+  "summary_one_paragraph": "This CIA information report, dated May 1968, discusses Clemard Joseph-Charles's release from prison in Port-au-Prince, Haiti, after paying a ransom of US $605 thousand. It details that Charles, under house arrest, must provide an irrevocable letter of credit to the National Bank of the Republic of Haiti and outlines his financial resources and plans to reorganize the Banque Commerciale d'Haiti into a corporate entity, with potential U.S. citizen directors. The report also mentions President Duvalier's interest in this venture to improve Haiti's economic situation and attract foreign investments and includes a note on a possible reorganization in the Haitian Government.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "DOD",
+    "Clemard Joseph-Charles",
+    "Haiti",
+    "Banque Commerciale d'Haiti",
+    "Duvalier",
+    "Ransom",
+    "Economic Reorganization",
+    "Foreign Investment"
+  ],
+  "title": "Information Report",
+  "date": "1968-05-00",
+  "locations_mentioned": [
+    "Haiti",
+    "Port-au-Prince",
+    "US"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Clemard Joseph-Charles",
+    "President Duvalier",
+    "Luc-Albert Foucard"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "classification": "CUBA",
+  "document_type": "Memorandum",
+  "security": "This memo references CIA activities and sources in Cuba, and their capabilities to gather information. Revealing these details could compromise ongoing intelligence operations and endanger sources.",
+  "security_level": "Secret",
+  "summary": "An FBI memo discusses the CIA's placement of a source in Cuba to develop information, particularly regarding Enrique Garcia Armenteros. The CIA source's productivity is dependent on his access to appropriate areas within Cuba.",
+  "summary_one_paragraph": "On October 15, 1963, S.J. Papich of the FBI sent a memorandum to D.J. Brennan concerning Enrique Garcia Armenteros and internal security matters related to Cuba. The memo relays information from Jane Roman of the CIA, indicating that the CIA has managed to place a source in Cuba to gather intelligence relevant to a Bureau lead. However, the effectiveness of this source is contingent upon his ability to access key locations within Cuba, and the information is directed to the attention of the Nationalities Intelligence Section.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Cuba",
+    "Enrique Garcia Armenteros",
+    "Internal Security",
+    "Liaison",
+    "JFK"
+  ],
+  "title": "ENRIQUE GARCIA ARMENTEROS",
+  "date": "1963-10-15",
+  "locations_mentioned": [
+    "Cuba"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "D. J. Brennan",
+    "S. J. Papich",
+    "Enrique Garcia Armenteros",
+    "Jane Roman"
+  ],
+  "recipient": "Mr. D. J. Brennan",
+  "sender": "Mr. S. J. Papich"
+}

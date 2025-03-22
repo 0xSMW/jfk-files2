@@ -1,0 +1,43 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Transcript",
+  "security": "This transcript reveals sensitive discussions regarding potential assassinations of foreign leaders, including Patrice Lumumba and Rafael Trujillo. It also touches on the CIA's involvement in supplying arms to dissident groups in various countries. Mr. Bissell admits that while there was no explicit intention of assassination in operations like Guatemala and Iran, those involved in the planning and approval process of the Trujillo operation would likely have given a higher probability to such use being made of the weapons.  Quoting directly: 'I didn't seek to assassinate him. I told a member of the clandestine service to make plans and develop the capability so to do if it were approved and ordered.' and 'There are occasions when I would go a long way to protect the President of the United States from certain kinds of embarrassment.' Sharing this information could compromise covert operations, damage international relations, and reveal potentially illegal activities.",
+  "security_level": "TOP SECRET",
+  "summary": "This document is a transcript of the SSCIA testimony of Richard M. Bissell, dated June 11, 1975, regarding potential assassinations of foreign leaders and CIA operations.",
+  "summary_one_paragraph": "The document is a transcript of Richard M. Bissell's testimony before the SSCIA on June 11, 1975, where he discusses potential assassinations of foreign leaders such as Patrice Lumumba and Rafael Trujillo, as well as CIA involvement in paramilitary operations in Guatemala, Iran, and the Bay of Pigs. Bissell addresses questions about seeking approval for assassinations, informing the White House, and the extent to which the U.S. government supplied arms to dissident groups in other countries, including Indonesia and Iron Curtain countries. The testimony also covers the possibility of lying to protect the President and the understanding that weapons supplied to dissident groups might be used for assassinations.",
+  "tags": [
+    "SSCI",
+    "Richard M. Bissell",
+    "Assassination",
+    "Patrice Lumumba",
+    "Rafael Trujillo",
+    "CIA",
+    "Covert Operations",
+    "SRRIFLE",
+    "Sukarno",
+    "Bay of Pigs",
+    "Guatemala",
+    "Iran",
+    "Project EMDEED",
+    "Project EMSLEW"
+  ],
+  "title": "SSCI Transcript Dated June 11, 1975, Testimony of Richard M. Bissell",
+  "date": "1975-06-11",
+  "persons_mentioned": [
+    "Richard M. Bissell",
+    "Senator Mondale",
+    "Bundy",
+    "Rostow",
+    "Helms",
+    "Justin O'Donnell",
+    "Gottlieb",
+    "Senator Goldwater",
+    "Senator Baker",
+    "Senator Tower",
+    "Sukarno",
+    "Trujillo",
+    "Mossedegwand"
+  ],
+  "recipient": "SSCIA",
+  "sender": "SSCIA"
+}

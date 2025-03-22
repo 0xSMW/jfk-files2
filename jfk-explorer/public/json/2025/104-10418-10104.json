@@ -1,0 +1,36 @@
+{
+  "classification": "Security",
+  "document_type": "Routing Slip/Cable",
+  "security": "Disclosing the intelligence sources, methods, and the existence of a sympathizer network could compromise ongoing intelligence operations and endanger individuals.  Specifically, mentioning 'SENSITIVITY OF SOURCE OF INFO, WE PREFERRED NOT PROVIDE IT AFTER THE FACT TO ROTTERDAM CONSULATE' highlights concerns about protecting intelligence assets and methods.",
+  "security_level": "SECRET",
+  "summary": "A cable from The Hague station reports on actions taken regarding Oltmans' visit, noting the decision not to share information with the Rotterdam consulate due to source sensitivity and consulate's lack of secure communication. It also expresses interest in monitoring congressional reactions and domestic coverage of Oltmans' visit.",
+  "summary_one_paragraph": "This secret cable, dated November 17, 1977, from The Hague station to Washington, addresses the subject of 'WNINTEL RNMUM RYBAT REAM (SYMPATHIZER) MHCOLOR' in relation to Oltmans' visit. The cable clarifies that information from sympathizers was intentionally withheld from the Rotterdam consulate due to the timing of the information and concerns about the consulate's secure communication capabilities. The station also indicates an interest in tracking any congressional or domestic media reactions to Oltmans' visit, while referencing file number 201-0155221.",
+  "tags": [
+    "CIA",
+    "Oltmans",
+    "The Hague",
+    "Sympathizer",
+    "Intelligence",
+    "Security",
+    "RNMUM",
+    "RYBAT",
+    "REAM",
+    "MHCOLOR",
+    "FOIA"
+  ],
+  "title": "WNINTEL RNMUM RYBAT REAM (SYMPATHIZER) MHCOLOR",
+  "date": "1977-11-17",
+  "locations_mentioned": [
+    "The Hague",
+    "Rotterdam",
+    "Washington"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Oltmans",
+    "Russ Holmes",
+    "Carol Saunders"
+  ],
+  "recipient": "Washington",
+  "sender": "EIBOLIN (Carol Saunders)"
+}

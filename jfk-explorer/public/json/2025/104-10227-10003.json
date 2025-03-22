@@ -1,0 +1,25 @@
+{
+  "classification": "Soviet",
+  "document_type": "Report",
+  "security": "The document describes a methodology for transcribing a sensitive intelligence tape involving Nosenko. Revealing the details of how the CIA verifies and corrects translations of foreign language tapes could allow adversaries to develop countermeasures. Specifically, the document states: \"WARNING NOTICE - SENSITIVE INTELLIGENCE SOURCES AND METHODS INVOLVED\"",
+  "security_level": "SECRET",
+  "summary": "This document outlines the methodology used to verify and correct previous transcriptions of a 1962 tape involving Nosenko, specifically focusing on whether Nosenko stated he had been in the United States or used the alias Nikolayev there.",
+  "summary_one_paragraph": "The report describes the process of re-transcribing a portion of a June 11, 1962 tape to clarify discrepancies in previous transcriptions regarding statements attributed to Nosenko. Professional transcribers and native Russian speakers were tasked with independently transcribing the tape, focusing on whether Nosenko claimed to have been in the United States or used the alias Nikolayev there. The results of the independent transcriptions indicated that Nosenko did not state he had been in the United States and unequivocally stated that he used the alias Nikolayev \"in the Soviet Union.\"",
+  "tags": [
+    "Nosenko",
+    "Transcription",
+    "Soviet Union",
+    "Methodology",
+    "Tape Analysis",
+    "Russian Language"
+  ],
+  "title": "Methodology for Tape Transcription Verification",
+  "persons_mentioned": [
+    "Nosenko",
+    "Mr. Kozlov",
+    "Mr. Berest",
+    "Nikolayev"
+  ],
+  "recipient": "Unknown",
+  "sender": "Unknown"
+}

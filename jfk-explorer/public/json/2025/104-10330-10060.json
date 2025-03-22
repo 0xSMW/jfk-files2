@@ -1,0 +1,33 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security": "The memo discusses the importance of coordinating with foreign governments, specifically Australia, prior to the release of their information. It states that failure to coordinate would violate Executive Orders and Directives, \"chill relationships it has developed with foreign services over the years,\" and cause foreign services to \"hesitate to share crucial intelligence information with CIA if they believed it would be released... without their consent.\" It also mentions specific incidents, like Australian concerns over U.S. declassification legislation and a book by a USG official alluding to a CIA-Australian service relationship, highlighting the sensitivity of the information.",
+  "security_level": "SECRET",
+  "summary": "This memorandum outlines CIA's position on the review and declassification of foreign government information, specifically focusing on Australian liaison documents and the legal obligations of USG agencies in disseminating such information, recommending either postponing release or substituting the Australian documents due to current sensitivities.",
+  "summary_one_paragraph": "This secret memorandum, dated October 15, 1996, from John F. Pereira of the CIA's Historical Review Group to the Assassination Records Review Board, addresses the issue of declassifying foreign government information, particularly concerning Australian liaison documents within the JFK collection. It emphasizes the CIA's legal obligations under Executive Order 12958 and DCIDs to protect such information and to seek consent from the originating government before release. Given recent demarches and incidents indicating heightened Australian sensitivity to the protection of their classified information, the CIA proposes either postponing the release of the Australian documents or substituting them with summaries, in order to avoid damaging the intelligence relationship between the US and Australia, which is crucial for both finished intelligence and joint collection activities.",
+  "tags": [
+    "CIA",
+    "Assassination Records Review Board",
+    "Foreign Government Information",
+    "Australia",
+    "Declassification",
+    "Executive Order 12958",
+    "DCID",
+    "Liaison",
+    "Intelligence Sharing",
+    "JFK Collection"
+  ],
+  "title": "Foreign Government Information (Australia)",
+  "allies": "The memorandum details how the U.S. must handle its relationship with its ally Australia. According to the document: \"According to its legal obligations described herein, CIA coordinates the dissemination and/or release of foreign government information. Its obligation to do so is similar to its obligation to coordinate declassification efforts with another USG agency should the CIA possess any of that agency's documents...Similarly, CIA has no authority to unilaterally declassify foreign government documents or information in its files.\"",
+  "date": "1996-10-15",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "John F. Pereira",
+    "Philip Flood",
+    "Don Russell",
+    "Sandy Berger",
+    "Ambassador Perkins"
+  ],
+  "recipient": "Assassination Records Review Board",
+  "sender": "John F. Pereira, Chief, Historical Review Group"
+}

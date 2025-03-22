@@ -1,0 +1,34 @@
+{
+  "classification": "Cuba",
+  "document_type": "Message Form",
+  "security": "Revealing the codenames (KEYWAY, MHVIPER, AMWHIP-1, PACETTE) and the specific operational details (contacting PACETTE rather than travel to Havana) could compromise ongoing or future operations by exposing methods and personnel. For instance, mentioning \"contact with PACETTE only\" or \"HS will defer involving ANAHIP-1 with PACETTE pending outcome station attempts at contact\" highlights the specific nature of the operation.",
+  "security_level": "SECRET",
+  "summary": "A message indicating a candidate was considered for contact with PACETTE but not for travel to Havana, and that involvement with ANAHIP-1 will be deferred pending station attempts at contact.",
+  "summary_one_paragraph": "This message from the Director to PARIS, BRUSSELS, and MADRID indicates that the candidate mentioned in reference A is not for travel to Havana as per reference B, but rather for contact with PACETTE only. It also states that AMWHIP-1 was unable to provide a candidate in time for the Havana trip mentioned in reference B, and that HS will defer involving ANAHIP-1 with PACETTE until the station attempts contact. The message cites references A and B, as well as PARD 1448 and PARI 0299.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Operations",
+    "KEYWAY",
+    "MHVIPER",
+    "AMWHIP-1",
+    "PACETTE",
+    "ANAHIP-1",
+    "Havana",
+    "Contact Operation"
+  ],
+  "title": "JNAWAVE",
+  "date": "1965-06-02",
+  "locations_mentioned": [
+    "Havana"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "PACETTE",
+    "AMWHIP-1",
+    "ANAHIP-1",
+    "Desmond Fitzgerald"
+  ],
+  "recipient": "Paris, Brussels, Madrid",
+  "sender": "Director"
+}

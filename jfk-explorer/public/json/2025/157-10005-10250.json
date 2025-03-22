@@ -1,0 +1,44 @@
+{
+  "classification": "Cuba",
+  "document_type": "Transcript",
+  "security": "This document contains sensitive information about CIA operations, including details about the AMUTS program, its personnel, training, and activities. Disclosing this information could expose methods and sources, potentially endangering individuals and compromising ongoing intelligence efforts. The transcript also reveals cover operations and relationships with other agencies, which could damage the CIA's reputation. For example: \"They were a group of Cuban exiles who were being funded to collect information, intelligence information, on Cuba.\" and \"They were paid agents.\"",
+  "security_level": "TOP SECRET",
+  "summary": "This document is a transcript of a hearing with Alfred J. Sarno regarding the CIA's AMUTS program, which involved Cuban exiles collecting intelligence on Cuba, debriefing refugees, and providing personnel for operations; the transcript details the structure, activities, and personnel of the AMUTS program, including its relationship with the Miami station and the FBI.",
+  "summary_one_paragraph": "This transcript documents the testimony of Alfred J. Sarno concerning the CIA's AMUTS program in Miami, Florida, during the 1960s. Sarno details how the program employed approximately 150 Cuban exiles to gather intelligence on Cuba, debrief refugees arriving from Cuba, and provide personnel for various CIA operations. The AMUTS program was structured with specialized groups, including those focused on debriefing, records management, and report writing. Sarno also describes the relationships between AMUTS and other entities, such as the Miami CIA station, the FBI, and various cover companies used to manage the program and its activities, including penetrating exile groups and conducting counterintelligence.",
+  "tags": [
+    "JFK Assassination",
+    "SSCIA",
+    "Alfred J. Sarno",
+    "AMUTS",
+    "Cuba",
+    "Cuban Exiles",
+    "CIA",
+    "Miami Station",
+    "Counterintelligence",
+    "Refugee Debriefing"
+  ],
+  "title": "TRANSCRIPT/RECORD OF PROCEEDINGS/EXHIBITS",
+  "date": "1975-06-25",
+  "locations_mentioned": [
+    "Cuba",
+    "Miami, Florida",
+    "Havana",
+    "Opa-Locka",
+    "Coral Gables"
+  ],
+  "origin_agency": "SSCIA",
+  "persons_mentioned": [
+    "Alfred J. Sarno",
+    "Jim Noel",
+    "Shackley",
+    "Dimmer",
+    "Paul Hines",
+    "Esterline",
+    "Seymour Bolton",
+    "Frank Sturgis",
+    "Frank Fiorini",
+    "Diaz Brothers"
+  ],
+  "recipient": "SSCIA",
+  "sender": "SSCIA"
+}

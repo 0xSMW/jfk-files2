@@ -1,0 +1,34 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security": "Release of a sanitized version of this document would not publicly acknowledge our liaison relationship or compromise sensitive sources/methods.",
+  "security_level": "SECRET",
+  "summary": "This cable concerns the proposed declassification of a British Security Service (BSS) document for release to the JFK Assassination Review Board. It requests that the London station consult with BSS regarding any objections to the release of the document, which pertains to an interview with Lillian Sloboda, wife of a defector to the USSR.",
+  "summary_one_paragraph": "A secret cable from CIA headquarters (EUR/NG) to the Immediate London station, dated July 27, 1998, addresses the potential declassification of a British Security Service (BSS) document related to a 1963 interview with Lillian Sloboda, wife of a Soviet defector, Vladimir O. Sloboda. The JFK Assassination Review Board is interested in this document (CSCI-3/778,353) because it concerns defectors to the USSR around the time of Oswald and the Kennedy assassination. The CIA is seeking BSS input on proposed redactions of references to BSS, CIA, and FBI before the document is released to the Review Board by the end of the week, emphasizing the need for a response by July 30 to allow time for discussions.",
+  "tags": [
+    "JFK Assassination Review Board",
+    "Declassification",
+    "British Security Service",
+    "BSS",
+    "Liaison",
+    "Defector",
+    "Lillian Sloboda",
+    "Vladimir O. Sloboda",
+    "Redaction"
+  ],
+  "title": "Proposed Declassification of BSS Document for Release to *<JFK>BOARD",
+  "date": "1998-07-27",
+  "locations_mentioned": [
+    "London",
+    "Halifax",
+    "USSR"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Lillian Sloboda",
+    "Vladimir O. Sloboda",
+    "Oswald"
+  ],
+  "recipient": "Immediate London",
+  "sender": "EUR/NG"
+}

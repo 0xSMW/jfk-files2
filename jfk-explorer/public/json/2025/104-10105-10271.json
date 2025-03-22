@@ -1,0 +1,43 @@
+{
+  "classification": "Security",
+  "document_type": "Routing and Record Sheet",
+  "security": "The document details specific CIA operations, sources, and methods that the Agency wants removed from E. Howard Hunt's manuscript. This includes details about cover arrangements, sensitive operations involving code materials, and joint operations with liaison services. For example, it mentions, 'This passage describes specific CIA operations in Tokyo targetted against China and as such are not only damaging to current detente efforts but are also disruptive to liaison relationships with the Japanese.' Sharing these details could compromise current operations, damage relationships with foreign intelligence services, and reveal classified techniques.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This document outlines proposed security deletions and revisions to E. Howard Hunt's manuscript, 'Undercover: Memoirs of an American Agent,' highlighting passages that reveal sensitive CIA operations, sources, and methods.",
+  "summary_one_paragraph": "Seymour R. Bolten forwards an advance copy of proposed security deletions and revisions for E. Howard Hunt's manuscript to Mr. John Morrison, noting that the list is subject to change pending review. The document identifies specific items, designated as \"hard core\" by the DDO panel, which the Agency insists be deleted or revised to protect classified CIA operations, sources, and methods. These include details about retired undercover agents, CIA involvement in publishing anti-communist books, specific operations in various countries, and sensitive technical activities, with the Agency prepared to litigate if Hunt refuses to cooperate.",
+  "tags": [
+    "CIA",
+    "E. Howard Hunt",
+    "Security Review",
+    "Manuscript Deletions",
+    "Classified Information",
+    "Operations",
+    "Sources and Methods",
+    "DDO Panel",
+    "Litigation",
+    "Liaison Relationships"
+  ],
+  "title": "Manuscript and Galley Proof of Undercover: Memoirs of an American Agent by E. Howard Hunt",
+  "date": "1974-09-19",
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Seymour R. Bolten",
+    "John Morrison",
+    "E. Howard Hunt",
+    "Henry Pleasants",
+    "John Richardson",
+    "Rutherford T. \"Pinky\" Walsh",
+    "Frank Holcomb",
+    "George Orwell",
+    "John F. Rittenhouse",
+    "El Campesino",
+    "Eudocio Ravines",
+    "William Buckley",
+    "Diego Rivera",
+    "Roger Goiran",
+    "Marieda Bourgin",
+    "Barney Malloy",
+    "Djilas"
+  ],
+  "sender": "Seymour R. Bolten, SAB/DDO"
+}

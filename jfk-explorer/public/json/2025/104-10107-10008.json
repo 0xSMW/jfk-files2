@@ -1,0 +1,44 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security": "The memorandum discusses Thomas Briggs' prior employment with the Drug Enforcement Administration (DEA) and his subsequent employment with the CIA. It details how he was requested to appear as a witness in a case involving Gerald P. Hemming. The memo also mentions Edmund Cohen's advice to Briggs on disclosing his CIA employment if asked under oath. Quoting directly: “...being in an overt cover status I should state, if asked under oath, that I am currently a CIA employee.” Revealing the agency's approach to managing employee disclosures, especially when they involve sensitive legal proceedings, could expose operational vulnerabilities or undermine the agency's credibility.",
+  "security_level": "SECRET",
+  "summary": "This memorandum discusses Thomas L. Briggs' potential appearance as a witness in the case of USA v. Gerald P. Hemming, detailing his interactions with the DEA, the Office of the General Counsel, and the Office of Security regarding his status as a CIA employee and how to handle questions about his employment.",
+  "summary_one_paragraph": "Thomas L. Briggs, a CIA employee, prepared a memorandum detailing his potential role as a witness in the case of USA v. Gerald P. Hemming, referencing his prior interview with Hemming while employed as a Special Agent at the Drug Enforcement Administration (DEA). Upon joining the CIA, Briggs informed the Division Security Officer of the situation, leading to consultations with the Office of the General Counsel and the Office of Security regarding how to handle his CIA status if questioned. After conferring with legal counsel and traveling to Miami, it was determined that Briggs would be called as a rebuttal witness only if Hemming claimed to be working under DEA direction, and he was instructed to disclose his CIA employment if directly asked under oath.",
+  "tags": [
+    "CIA",
+    "DEA",
+    "Gerald P. Hemming",
+    "Witness",
+    "Legal Proceedings",
+    "Cover Status",
+    "Disclosure"
+  ],
+  "title": "Appearance As Witness In Behalf of the United States Government",
+  "date": "1977-01-11",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Miami, Florida",
+    "Southern District of Florida"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Thomas L. Briggs",
+    "Gerald Patrick Hemming",
+    "Billy Hix",
+    "Robert Fredericks",
+    "Hope Mason",
+    "Karen L. Atkinson",
+    "Edmund Cohen",
+    "John Stein",
+    "Blandford",
+    "Gary Mattocks",
+    "Robert Barteaux",
+    "Judge Hoeveler",
+    "Thomas M. Sherouse",
+    "Roger Howard",
+    "Ted Sakowitz"
+  ],
+  "recipient": "Chief, SE Division",
+  "sender": "Thomas L. Briggs"
+}

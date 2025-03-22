@@ -1,0 +1,23 @@
+{
+  "classification": "Administrative",
+  "document_type": "Cable",
+  "security": "The cable contains an address and telephone number that, if exposed, could potentially compromise the security or privacy of the individuals or entities associated with that location.",
+  "security_level": "SECRET",
+  "summary": "A SECRET cable from 1978 references an address and phone number in Miami, Florida, possibly related to staff actions or information files.",
+  "summary_one_paragraph": "This SECRET cable, dated November 29, 1978, originates from an ADV C/LA staff member and is addressed to PRIORITY DIRECTOR, citing LA/MIAMI 29191. The message includes the identifier 1400 SW 16th Street, Miami, FLA. 33145, with the telephone number (305) 858-4406, and concludes with the end-of-message marker, indicating a communication likely related to staff actions and information files.",
+  "tags": [
+    "CIA",
+    "Miami",
+    "Staff Actions",
+    "Information Files",
+    "Cable"
+  ],
+  "title": "Cable Regarding Miami Address and Phone Number",
+  "date": "1978-11-29",
+  "locations_mentioned": [
+    "Miami, Florida"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "Director",
+  "sender": "ADV C/LA"
+}

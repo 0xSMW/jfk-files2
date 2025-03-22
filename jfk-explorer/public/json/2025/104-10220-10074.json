@@ -1,0 +1,40 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security": "Disclosing the names and positions of Cuban officials, as well as their travel details, could jeopardize ongoing intelligence operations and compromise the security of individuals involved. The mention of 'passage liaison' indicates potential clandestine activities, which could be exposed. Disclosing this information could lead to diplomatic tensions and compromise intelligence-gathering capabilities.",
+  "security_level": "SECRET",
+  "summary": "A CIA dispatch reports the arrival and departure of Cuban officials in Sweden, including Ambassador Quintin PINO NACHADO and Miguel Robaina PEREZ, and requests traces and indexing for passage liaison purposes.",
+  "summary_one_paragraph": "This SECRET dispatch, dated February 21, 1979, from the Chief of FR Division and Chief of Station, Stockholm, to the Chief of the Latin America Division, concerns the arrival and departure of Cuban officials in Sweden. It notes the PCS arrival of Ambassador Quintin PINO NACHADO and Miguel Robaina PEREZ, both employees of the Cuban Embassy, along with their wives, and requests that the individuals be indexed and traced for passage liaison purposes. The dispatch also mentions the departure of Eliecer BARROSO-CERVANTES and Jose GONZALEZ-QUEVEDO. The document instructs the Latin America and European Divisions to distribute the information.",
+  "tags": [
+    "ANINTEL",
+    "REAM",
+    "PCS",
+    "Arrivals",
+    "Departures",
+    "Cuban Officials",
+    "Passage Liaison",
+    "Intelligence",
+    "Cuba",
+    "Sweden"
+  ],
+  "title": "ANINTEL REAM - PCS Arrivals/Departures Cuban Officials",
+  "date": "1979-02-21",
+  "locations_mentioned": [
+    "Sweden",
+    "Stockholm",
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Quintin PINO NACHADO",
+    "Selma DIAZ LLERA",
+    "Miguel Robaina PEREZ",
+    "Caridad Martinez Espinosa",
+    "Abelardo CRESPO-ARIAS",
+    "Oscar Enilio ALCALDE-VALLS",
+    "Eliecer BARROSO-CERVANTES",
+    "Jose GONZALEZ-QUEVEDO"
+  ],
+  "recipient": "Chief, Latin America Division",
+  "sender": "Chief, FR Division; Chief of Station, Stockholm"
+}

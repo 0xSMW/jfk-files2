@@ -1,0 +1,37 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Classified Message",
+  "security": "Revealing the code names and planned movements of individuals like AMWHIP could compromise ongoing operations or expose sensitive intelligence activities. For example, the message states, 'AMWHIP UNABLE LEAVE NEW YORK PRIOR 24-25 APRIL...WILL TRY EXPEDITE BUT DOUBT ANWHIP AVAILABLE GNVA BEFORE 30 APRIL.' and references the use of AMWHIP for 'PARIS BUSINESS RE CARRILLO AND ROBRENO.'",
+  "security_level": "SECRET",
+  "summary": "A classified message discussing the travel plans of 'AMWHIP' and requesting assistance from ROME due to delays in AMWHIP's arrival in Geneva (GNVA). It also mentions future commentary regarding AMWHIP's use in Paris for matters concerning Carrillo and Robreno.",
+  "summary_one_paragraph": "This SECRET classified message, dated April 17, 1964, details logistical arrangements for an individual code-named 'AMWHIP.' Due to AMWHIP's unavailability to leave New York until April 24-25, and potential unavailability in Geneva (GNVA) before April 30, a request is made for ROME to provide assistance prior to AMWHIP's arrival. The message also notes that subsequent traffic will comment on AMWHIP's arrival and utilization for Paris business related to Carrillo and Robreno, with information disseminated to various CIA stations, including GENEVA, BERN, MADRID, ROME, and PARIS.",
+  "tags": [
+    "CIA",
+    "AMWHIP",
+    "Travel Arrangements",
+    "Geneva",
+    "Paris",
+    "Carrillo",
+    "Robreno",
+    "FOIA",
+    "Classified Message"
+  ],
+  "title": "SILCEN: AMWHIP Travel Arrangements and Assistance Request",
+  "date": "1964-04-17",
+  "locations_mentioned": [
+    "Geneva",
+    "Bern",
+    "Madrid",
+    "Rome",
+    "Paris",
+    "New York"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Carrillo",
+    "Robreno",
+    "AMWHIP"
+  ],
+  "recipient": "GENEVA, BERN, MADRID, ROME, PARIS",
+  "sender": "Director"
+}

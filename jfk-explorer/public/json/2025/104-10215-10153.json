@@ -1,0 +1,35 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security": "This dispatch outlines the terms of an operational agreement with an individual, including compensation, operational expenses, and commitments in case of capture, death, or wounds. Revealing these details could compromise operational security by exposing the financial and support mechanisms used to manage assets. For instance, detailing the payment structure ($163.01 per month), the bonus system (up to $100), and the commitments in case of capture (50% salary) could provide adversaries with insights into asset management practices. It could also compromise operational security through the information being shared to a third party. Quoting from the document, \"In case of capture, 50% salary until released or for two years, whichever is less.\"",
+  "security_level": "SECRET",
+  "summary": "A dispatch from the Chief of Station, JMWAVE, to the Deputy Chief, WH/SA, transmitting a Memorandum of Oral Commitment (MOC) for Subject 201-332676, outlining the terms of engagement under TIPEC, including compensation, security approval, citizenship, and contingent obligations.",
+  "summary_one_paragraph": "This SECRET dispatch, dated September 2, 1964, from the Chief of Station at JMWAVE to the Deputy Chief of WH/SA, transmits three copies of a Memorandum of Oral Commitment (MOC) for Subject 201-332676, also known as Juan F. Blanco Hernandez. The MOC details the terms of his engagement under TIPEC, including an effective date of August 1, 1964, a monthly compensation of $163.01, security approval obtained on June 26, 1964, and contingent obligations in case of capture, death, or wounds. Subject is identified as a Cuban foreign national born on May 6, 1939, residing in Miami, Florida; the document specifies that subject has one dependent and is eligible for social security and is not furnished quarters and/or subsistence.",
+  "tags": [
+    "CIA",
+    "JMWAVE",
+    "Operational Agreement",
+    "AMLILAC",
+    "TIPEC",
+    "Oral Commitment",
+    "Asset Management",
+    "201-332676"
+  ],
+  "title": "TYPIC/Operational/AMLILAC - Transmittal of Memorandum of Oral Commitment",
+  "date": "1964-08-25",
+  "locations_mentioned": [
+    "Pinar del Rio, Cuba",
+    "Miami, Florida",
+    "Canal Zone",
+    "Republic of Panama",
+    "United States",
+    "Canada",
+    "Mexico"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Juan F. BLANCO Hernandez"
+  ],
+  "recipient": "Deputy Chief, WH/SA",
+  "sender": "Chief of Station, JMWAVE"
+}

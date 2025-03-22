@@ -1,0 +1,18 @@
+{
+  "classification": "Administrative",
+  "document_type": "Personality File Action Request Form",
+  "security": "The form itself, being a template, does not contain sensitive information. However, the instructions on the form mention consulting the '201 Control Book' and the 'Syntee Reference Manual,' which likely contain classified information or procedures. The form also deals with potentially sensitive personal information that, if revealed, could harm individuals. Sharing how personal information is recorded and transmitted could expose internal record-keeping practices.",
+  "security_level": "SECRET",
+  "summary": "This is a blank 'Personality File Action Request' form used for managing individual records within a classified system, referencing internal control books and coding instructions.",
+  "summary_one_paragraph": "This is a template of a 'Personality File Action Request' form. The form is classified as SECRET and is designed to manage individual records, as indicated by fields for name, location, date of death, citizenship, organizational affiliation, occupation, cryptonyms, and pseudonyms. The form instructs users to consult the '201 Control Book' and 'Syntee Reference Manual' for specific coding instructions, suggesting a structured and classified record-keeping system.",
+  "tags": [
+    "Personnel Records",
+    "Administrative Form",
+    "201 File",
+    "Record Management",
+    "Classification",
+    "Control Book",
+    "Syntee Reference Manual"
+  ],
+  "title": "PERSONALITY FILE ACTION REQUEST"
+}

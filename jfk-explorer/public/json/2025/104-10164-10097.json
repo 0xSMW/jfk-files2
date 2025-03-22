@@ -1,0 +1,42 @@
+{
+  "classification": "Cuba",
+  "document_type": "Outgoing Message",
+  "security": "Disclosing contact between Bosch and the Novo brothers could reveal sources of information, especially the Venezuelan government employee. The message contains a warning: “SECRET-WARNING NOTICE-SENSITIVE INTELLIGENCE SOURCES AND METHODS INVOLVED--NOT RELEASABLE TO FOREIGN NATIONALS--NOT RELEASABLE TO CONTRACTORS OR CONTRACTOR/CONSULTANTS.” Exposing this information would risk compromising intelligence operations.",
+  "security_level": "SECRET",
+  "summary": "A series of messages from October 1976 concern the immigration status of Orlando Bosch Avila and his alleged contact with the Novo brothers shortly before the assassination of Orlando Letelier.",
+  "summary_one_paragraph": "These documents, dated in October 1976, consist of a series of outgoing messages and related cables focusing on Orlando Bosch Avila, a Cuban exile, and his immigration status. They include requests for clarification on Bosch's status from the Immigration and Naturalization Service, updates on his passport information, and a report on his alleged contact with the Novo brothers in Miami prior to the assassination of Orlando Letelier. One message also relays that Costa Rican President Daniel Oduber Quirós seemingly fabricated Bosch's involvement in an arms movement story, as stated between Costa Rican Foreign Minister Gonzalo Facio and Chilean Ambassador to Costa Rica Jorge Aranda Parra.",
+  "tags": [
+    "Orlando Bosch Avila",
+    "Orlando Letelier",
+    "Novo Brothers",
+    "Immigration Status",
+    "Cuban Exile",
+    "CIA",
+    "FBI",
+    "Venezuela",
+    "Chile",
+    "Costa Rica"
+  ],
+  "title": "Orlando Bosch Avila",
+  "date": "1976-10-28",
+  "locations_mentioned": [
+    "Santa Clara, Cuba",
+    "Miami, Florida",
+    "Santiago, Chile",
+    "San Jose, Costa Rica",
+    "Venezuela"
+  ],
+  "persons_mentioned": [
+    "Orlando Bosch Avila",
+    "Lee Beauchamp",
+    "Orlando Letelier",
+    "Ignacio Novo",
+    "Guillermo Novo",
+    "R.K. McHargue",
+    "Daniel Oduber Quirós",
+    "Gonzalo Facio",
+    "Jorge Aranda Parra"
+  ],
+  "recipient": "Immigration and Naturalization Service, Federal Bureau of Investigation, Santiago, Caracas, San Jose",
+  "sender": "CIA"
+}

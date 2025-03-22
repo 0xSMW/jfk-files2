@@ -1,0 +1,30 @@
+{
+  "classification": "Personnel",
+  "document_type": "Paper, Textual Document",
+  "security": "Sharing details about personnel investigations, even with deletions, could compromise investigative methods or reveal sensitive information about individuals. The document notes it was 'RELEASED WITH DELETIONS'.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This document is an exhibit cover sheet for a letter from the Federal Bureau of Investigation (FBI) regarding David Reed Fromer, born on July 21, 1942, in Chicago, Illinois. The exhibit is part of a file maintained by the 113th Intelligence Corps Group, with the letter itself dated February 1, 1967, from the FBI in Milwaukee, Wisconsin.",
+  "summary_one_paragraph": "An exhibit cover sheet from the Headquarters of the 113th Intelligence Corps Group in Chicago, Illinois, pertaining to David Reed Fromer (born July 21, 1942). The document references a letter dated February 1, 1967, from the Federal Bureau of Investigation (FBI) in Milwaukee, Wisconsin. The cover sheet, part of file number 6353-6004 564-58-8137, indicates the document was regraded UNCLASSIFIED on September 2, 1994, with some deletions made upon release.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "DOD-Affiliated Personnel",
+    "Incident Investigations",
+    "David Reed Fromer",
+    "FBI",
+    "Milwaukee",
+    "Chicago",
+    "Exhibit Cover Sheet"
+  ],
+  "title": "EXHIBIT COVER SHEET",
+  "date": "1996-05-21",
+  "locations_mentioned": [
+    "Chicago, Illinois",
+    "Milwaukee, Wisconsin"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "David Reed Fromer"
+  ],
+  "sender": "HQS, 113TH INTELL CORPS GRP"
+}

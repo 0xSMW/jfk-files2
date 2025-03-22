@@ -1,0 +1,36 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "The memorandum mentions a written plan to assassinate Fidel Castro created by the subject. \"The only aspect of this incident, which may be of continuing security concern, is that the son recalls that in May 1978, while assisting his father in moving some personal effects, he remembers seeing a written plan to assassinate Fidel Castro.\"",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A memorandum reports the death of Adrian Fisher Sherman, Jr., a former military detailee and access agent, and notes a potential security concern regarding a missing plan to assassinate Fidel Castro that Sherman's son remembers seeing.",
+  "summary_one_paragraph": "This confidential memorandum, dated October 13, 1978, from Joseph P. Mirabile of the Operations Support Branch, reports the death of Adrian Fisher Sherman, Jr., a former military detailee and later an access agent for the CIA's Foreign Resources Division (FRD). Sherman died of a heart attack on September 23, 1978, in Monterey, California. The primary security concern arises from Sherman's son's recollection of a written plan to assassinate Fidel Castro, allegedly created by his father in the early 1970s when he worked in Florida; this document is now missing, raising concerns about potential theft or recent destruction. The DCI has been briefed, and the Office of Security will monitor the case for 60-90 days for new developments.",
+  "tags": [
+    "CIA",
+    "Adrian Fisher Sherman Jr.",
+    "Death Report",
+    "Security Concern",
+    "Fidel Castro Assassination Plan",
+    "FRD",
+    "Foreign Resources Division",
+    "Access Agent"
+  ],
+  "title": "SHERMAN, Adrian Fisher, Jr.",
+  "date": "1978-10-13",
+  "locations_mentioned": [
+    "Monterey, California",
+    "Clark Air Force Base, Philippines",
+    "Miami, Florida",
+    "San Francisco, California"
+  ],
+  "origin_agency": "Office of Security",
+  "persons_mentioned": [
+    "Adrian Fisher Sherman, Jr.",
+    "James A. Sherman",
+    "Fidel Castro",
+    "Gordon Gregory",
+    "Joseph P. Mirabile"
+  ],
+  "recipient": "Chief, Operations Support Branch",
+  "sender": "Joseph P. Mirabile"
+}

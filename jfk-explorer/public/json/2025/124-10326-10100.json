@@ -1,0 +1,43 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security": "The memo discusses a highly confidential liaison relationship with James Angleton of the CIA, including the practice of providing information to the FBI outside regular CIA channels. Specifically, it mentions Angleton's concern that attributing information to \"Confidential Informant T-2, an Agency of the Government which conducts personnel and intelligence investigations\" could reveal CIA involvement to outside agencies, particularly in cases related to individuals residing in Israel. The memo suggests a procedure to refer to Angleton as a Bureau informant with a temporary symbol number to protect the source.",
+  "security_level": "Secret",
+  "summary": "This memo outlines a procedure for handling information received from James Angleton of the CIA, who provides the FBI with intelligence outside regular CIA channels, particularly concerning Israeli matters. It addresses Angleton's concerns about revealing CIA involvement and suggests referring to him as a Bureau informant with a temporary symbol to protect his identity and the source of the information.",
+  "summary_one_paragraph": "In this memo dated April 30, 1954, W. A. Branigan informs A. H. Belmont about James Angleton of the CIA, who frequently provides the FBI with highly confidential information, often bypassing standard CIA procedures. Angleton objects to the FBI's method of attributing the information, particularly when it could reveal CIA's involvement in matters related to individuals in Israel. Branigan suggests a new procedure whereby Angleton is referred to as a Bureau informant with a temporary symbol to conceal the true source of the information and ensure its proper handling within the FBI.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "James Angleton",
+    "Bureau Source 100",
+    "Liaison",
+    "Confidential Informant T-2",
+    "Israeli Chatters",
+    "Intelligence",
+    "Source Protection"
+  ],
+  "title": "",
+  "date": "1954-04-30",
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "James Angleton",
+    "A. H. Belmont",
+    "W. A. Branigan",
+    "Tolson",
+    "Ladd",
+    "Nichols",
+    "Clegg",
+    "Glavin",
+    "Harbo",
+    "Rosen",
+    "Tracy",
+    "Gearty",
+    "Mohr",
+    "Winterrowd",
+    "Holloman",
+    "Sizoo",
+    "Miss Gandy"
+  ],
+  "recipient": "A. H. Belmont",
+  "sender": "W. A. Branigan"
+}

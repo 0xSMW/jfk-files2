@@ -1,0 +1,35 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "Disclosing details about safehouses, cover stories, and financial cutouts could compromise ongoing or future operations and endanger individuals involved. Quoting directly: 'Mr. Shea has leased the apartment for his client Mr. V. Rodriguez who is in the Washington Metropolitan area and is associated with the Inter-University Committee for Political and Social Action.' This reveals operational methods.",
+  "security_level": "SECRET",
+  "summary": "A memo from the Chief of the Safehouse Branch to the Chief of WH Division, confirming a safehouse (Apt. G-32 at 24 Summit Hills Apartments, Silver Spring, MD) requisition has been met and detailing the lease agreement, cover story, designated case officer, and financial arrangements.",
+  "summary_one_paragraph": "This secret memorandum, dated August 21, 1964, from the Chief of the Safehouse Branch, Edward U. Denison, to the Chief of WH Division, Barney Hildago, acknowledges the fulfillment of requisition 64-9 for a domestic safehouse. It specifies the property as Apt. G-32 at 24 Summit Hills Apartments in Silver Spring, MD, leased by attorney Roger McK. Shea as a cutout, with the cover story that it is for his client, V. Rodriguez, associated with the Inter-University Committee for Political and Social Action. The memo also designates Barney Hidalgo as the case officer and outlines financial procedures wherein Shea handles payments, with bills forwarded to the Safehouse Branch.",
+  "tags": [
+    "Safehouse",
+    "Domestic Operation",
+    "Cover Story",
+    "Logistics",
+    "ANIME/1",
+    "Barney Hildago",
+    "Roger McK. Shea",
+    "V. Rodriguez",
+    "Silver Spring, MD"
+  ],
+  "title": "Safehouse #405",
+  "date": "1964-08-21",
+  "locations_mentioned": [
+    "Silver Spring, MD",
+    "Arlington, Virginia",
+    "Washington Metropolitan Area"
+  ],
+  "origin_agency": "Safehouse Branch, Office of Logistics",
+  "persons_mentioned": [
+    "Barney Hildago",
+    "Roger McK. Shea",
+    "V. Rodriguez",
+    "Edward U. Denison"
+  ],
+  "recipient": "Chief, WH Division",
+  "sender": "Chief, Safehouse Branch"
+}

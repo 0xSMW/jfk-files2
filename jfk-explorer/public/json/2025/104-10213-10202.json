@@ -1,0 +1,20 @@
+{
+  "classification": "Administrative",
+  "document_type": "Handbook Excerpt/Directive",
+  "security": "This document details the CIA's 201 system for tracking individuals of interest. Disclosing the mechanics of the 201 system could enable adversaries to evade detection and obscure their activities. The specifics detailed that demonstrate this risk are: \"The 201 system provides a method for identifying a person of specific interest to the Operations Directorate and for controlling and filing all pertinent information about that person...The system also provides a means for identifying subjects of 201 files from various categories of information about them and for producing lists of 201 personalities according to those categories.\"",
+  "security_level": "SECRET",
+  "summary": "This document outlines the CIA's '201 system' for tracking individuals of interest, detailing file creation, maintenance, and information retrieval procedures.",
+  "summary_one_paragraph": "This document, dated November 15, 1974, outlines the CIA's 201 system, a method for identifying and tracking individuals of interest to the Operations Directorate. It describes the assignment of 201 numbers, the creation and maintenance of 201 dossiers containing biographic information, and the use of a Master 201 Record for indexing and retrieving data. The directive covers procedures for opening, purging, and restricting access to 201 files, as well as the generation of machine listings based on various criteria, such as OI codes, citizenship, and occupation. The document also specifies categories of individuals for whom 201 files are automatically opened, including diplomats, intelligence officers, and members of certain organizations.",
+  "tags": [
+    "CIA",
+    "201 System",
+    "Record Keeping",
+    "Information Management",
+    "Operations Directorate",
+    "Intelligence",
+    "Security"
+  ],
+  "title": "The 201 System",
+  "date": "1974-11-15",
+  "origin_agency": "Central Intelligence Agency (CIA)"
+}

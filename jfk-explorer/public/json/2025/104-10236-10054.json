@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "The message discusses covert support through RUABBE for CI efforts against Cubans and emphasizes maintaining the covert nature of activities. It also mentions liaison activities and developing unilateral actions. Revealing these operational details and the methods for maintaining secrecy could compromise ongoing intelligence operations and relationships.",
+  "security_level": "SECRET",
+  "summary": "A CIA message details concerns about overt Cuban coverage from Jamaica and suggests alternative covert strategies, including assigning staff under non-official or official cover, while emphasizing the need for secrecy.",
+  "summary_one_paragraph": "This SECRET message, dated October 3, 1962, from an unspecified CIA station (likely Kingston, Jamaica) addresses concerns regarding Cuban coverage from Jamaica. It responds to WAVE 9150 and KNGS Ø167, indicating the station chief (COS) questions the feasibility of an overt delegation led by AMBUD due to Jamaican government sensitivities about being used for counter-revolutionary activities against Cuba. Instead, the station suggests covert support through RUABBE and proposes assigning personnel under either non-official or official cover to manage Cuban, Haitian, and Dominican problems. The message also requests an additional secretary trained in communications and administration to handle increased reporting and productive liaison activities.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Jamaica",
+    "Covert Operations",
+    "RUABBE",
+    "KUBARK",
+    "ODYOKE"
+  ],
+  "title": "Concerns Regarding Cuban Coverage from Jamaica",
+  "date": "1962-10-03",
+  "locations_mentioned": [
+    "Jamaica",
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "AMBUD",
+    "Bustamante",
+    "Dr. Frank Diaz Silveira"
+  ],
+  "recipient": "DIR WAVE",
+  "sender": "COS"
+}

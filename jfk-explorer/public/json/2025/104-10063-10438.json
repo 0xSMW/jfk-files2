@@ -1,0 +1,46 @@
+{
+  "classification": "Operations",
+  "document_type": "Memorandum",
+  "security": "This document reveals operational details of a covert program, including the recruitment, training, and deployment of an agent (MPTROIKA-7) to infiltrate specific groups and gather intelligence. It mentions techniques such as using a cover identity ('Miss Julie'), attending study groups, and potentially joining a tour group to meet with representatives of the Democratic Republic of Vietnam (DRV). Specifically, the document states: 'Acting on a suggestion proposed by Mr. Jason Horn, CI/SO...instructed her to attempt to determine the interest in, and likely composition of, the New York group and explore the possibility of joining such a group...meeting the DRV delegation.' Disclosing such details could compromise ongoing operations, endanger individuals involved, and damage international relations.",
+  "security_level": "SECRET",
+  "summary": "A CI/SO memorandum summarizing contact reports with MPTROIKA-7, detailing her activities including infiltrating a USCFA study group, enrolling in courses at the New School, exploring participation in a women's tour, contributing to a newsletter, and undergoing JBMINIMUM testing and training.",
+  "summary_one_paragraph": "This secret memorandum, dated March 1, 1972, from W.E. Gavaghen (C/CI/SO) to CI/SO, summarizes meetings with the agent MPTROIKA-7 in New York City and Virginia in February 1972. MPTROIKA-7 successfully infiltrated a United States - China Friendship Association (USCFA) study group led by Mrs. Susan Warren, enrolled in courses at the New School for Social Research, and explored joining the Ramparts' Tours - New York Media Workshop's Women's Tour to potentially meet with the DRV peace delegation. She also contributed to South East Asia Reports (SEAR) and underwent JBMINIMUM testing and training conducted by the Psychological Assessment Branch, TSD. The memo also covers administrative matters, including salary advances and tax adjustments, and outlines plans to assign MPTROIKA-7 to Bangkok Station for housekeeping purposes with a regional mission.",
+  "tags": [
+    "CI/SO",
+    "MPTROIKA-7",
+    "USCFA",
+    "Susan Warren",
+    "New School for Social Research",
+    "Ramparts' Tours",
+    "SEAR",
+    "JBMINIMUM",
+    "Covert Operations",
+    "Bangkok Station",
+    "Intelligence Gathering",
+    "DRV Delegation",
+    "TSD"
+  ],
+  "title": "CI/SO Summary on: Contact Report with MPTROIKA-7",
+  "date": "1972-03-01",
+  "locations_mentioned": [
+    "New York City",
+    "Northern Virginia",
+    "London",
+    "Paris",
+    "Rome",
+    "Bangkok"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "MPTROIKA-7",
+    "Susan Warren",
+    "Jason Horn",
+    "DeMarco",
+    "Saunders",
+    "Andy Ness",
+    "Flitcroft",
+    "Cornish"
+  ],
+  "recipient": "CI/SO",
+  "sender": "W. E. Gavaghen"
+}

@@ -1,0 +1,49 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "The cable details operational activities, including planned airdrops of supplies to specific individuals and groups in Cuba. Disclosing these plans could compromise ongoing operations, endanger involved individuals, and reveal intelligence-gathering methods. Specifically, mentioning names like \"Robert M. Geddes,\" \"Ralph Diaz Hanscom,\" \"VILLALON,\" \"LIMAS,\" \"RAMIREZ,\" \"MONTIEL,\" and \"DUQUE\" and details about drop signals such as \"ONE RED LIGHT, ONE WHITE LIGHT\" could jeopardize the safety of these individuals and the success of the mission.",
+  "security_level": "SECRET",
+  "summary": "A secret cable from Havana details a request to deliver a special airdrop map to Miami for 'Clarence', specifying the contents and signals for the airdrop intended for individuals including Limas, Ramirez, Montiel, and Duque.",
+  "summary_one_paragraph": "On December 23, a cable from Havana reports that Robert M. Geddes, working with AMPAN-22, contacted the CIA after failing to meet Ralph Diaz Hanscom, requesting the delivery of a special airdrop map to Miami for 'Clarence.' Geddes explained that an earlier map brought by Villalon was unsuitable, and the new map, prepared by engineer Crespo in Cienfuegos, had been passed to Geddes via Mario Bolang. The airdrop is specified for Limas, Ramirez, Montiel, and Duque, and is intended to deliver arms and ammunition for 423 men plus 100 pistols, with preliminary drop signals consisting of one red light, one white light, and one red light about 15 feet apart, with a clockwise movement indicating readiness to receive.",
+  "tags": [
+    "CIA",
+    "Airdrop",
+    "Cuba",
+    "Geddes",
+    "Diaz Hanscom",
+    "Clarence",
+    "Crespo",
+    "Bolang",
+    "Limas",
+    "Ramirez",
+    "Montiel",
+    "Duque",
+    "Arms",
+    "Ammunition"
+  ],
+  "title": "Delivery of Special Airdrop Map",
+  "date": "1960-12-23",
+  "locations_mentioned": [
+    "Havana",
+    "Miami",
+    "Cienfuegos",
+    "Cuba",
+    "India"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Robert M. Geddes",
+    "Ralph Diaz Hanscom",
+    "Clarence",
+    "Villalon",
+    "Crespo",
+    "Mario Bolang",
+    "Limas",
+    "Ramirez",
+    "Montiel",
+    "Duque",
+    "Hector Febles"
+  ],
+  "recipient": "Director",
+  "sender": "C/BELL 13"
+}

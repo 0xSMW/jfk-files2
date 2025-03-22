@@ -1,0 +1,37 @@
+{
+  "classification": "Administrative",
+  "document_type": "Meeting Agenda and Briefing Materials",
+  "security": "The document includes information about CIA's records management processes, information handling procedures, and internal organization, such as the roles of the DA/IMO and DA/IRO. Disclosing this information could expose vulnerabilities in CIA's information security practices and compromise its ability to protect sensitive data.  For example, it lists the strategic plan and information management goals.",
+  "security_level": "SECRET",
+  "summary": "This document contains the agenda, briefing materials, and notes from a CIA meeting with the JFK Assassination Records Review Board (ARRB) staff, focusing on records management, cable processes, and related questions. It details CIA's information services strategic plan, records management organization, and the roles of key personnel involved in information review and release.",
+  "summary_one_paragraph": "On March 17, 1997, the CIA held a meeting with the JFK Assassination Records Review Board (ARRB) staff to provide briefings on records management and cable processes. The meeting covered topics such as the CIA's Information Services Strategic Plan, organization of records management, and the roles of the DA Information Management Officer (IMO) and DA Information Review Officer (IRO). Meeting materials included a presentation outlining the lifecycle of records, data on the volume of records managed, and discussions on the handling of cables, including encryption and dissemination methods used during the 1960-1964 period. Notes also reflect questions from the ARRB regarding financial accounting, personnel records, and security procedures.",
+  "tags": [
+    "JFK Assassination Records Review Board",
+    "ARRB",
+    "Records Management",
+    "Cable Process",
+    "CIA",
+    "FOIA",
+    "Information Management",
+    "Directorate of Administration"
+  ],
+  "title": "Meeting with JFK ARRB Staff",
+  "date": "1997-03-17",
+  "persons_mentioned": [
+    "Becky Rant",
+    "Carol Johnson",
+    "John Rovito",
+    "Andréa E. Boyce",
+    "Don Perma",
+    "Angleton",
+    "Clay Shaw",
+    "Marguerite D. Stevens",
+    "Robert Edward Webster",
+    "Lee Harvey Oswald",
+    "Libero Ricciardelli",
+    "Vladimir Sloboda",
+    "Joseph Dutkanicz"
+  ],
+  "recipient": "JFK ARRB Staff",
+  "sender": "Don Perma"
+}

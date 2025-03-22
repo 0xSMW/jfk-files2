@@ -1,0 +1,42 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security": "This dispatch transmits operational reports and indices related to GYROSE, a sensitive project. Revealing details about sources (e.g., \"Ignacio Pla Martinez, A-12903419\") and their affiliations with anti-communist groups (DRE, FOAC) could expose individuals to reprisal and compromise ongoing intelligence-gathering efforts. Additionally, referencing specific CIA reports and their subjects (e.g., \"Beauty of Calabazar/Contact to Isle of Pines\") risks divulging operational interests and methods.",
+  "security_level": "SECRET",
+  "summary": "A dispatch from Chief of Station, JMWAVE to Chief, Task Force W, transmitting fourteen CIA reports and an index related to GYROSE operations, including information obtained from sources about anti-communist groups and activities in Cuba.",
+  "summary_one_paragraph": "This secret dispatch, dated May 1, 1962, from the Chief of Station at JMWAVE to the Chief of Task Force W, transmits fourteen CIA reports and an index concerning 'GYROSE/Operational'. The reports detail various intelligence matters, including information gathered from sources such as Ignacio Pla Martinez regarding anti-communist groups like the DRE and FOAC in Cuba. The dispatch includes specifics about individuals, locations, and activities related to Cuban resistance and intelligence operations, with instructions for handling and distributing the enclosed reports.",
+  "tags": [
+    "CIA",
+    "JMWAVE",
+    "Task Force W",
+    "GYROSE",
+    "DRE",
+    "FOAC",
+    "Cuba",
+    "Intelligence",
+    "Operational",
+    "Anti-Communism"
+  ],
+  "title": "GYROSE/Operational-Transmittal of CAC Reports",
+  "date": "1962-05-01",
+  "locations_mentioned": [
+    "Habana",
+    "Miami",
+    "Cuba",
+    "Matanzas",
+    "Guantanamo Navy Base",
+    "Sagua la Grande",
+    "Isle of Pines"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Ignacio Pla Martinez",
+    "Manuel Somoza, Jr.",
+    "Lazero Hernandez",
+    "Nelson L. Raymock",
+    "Jesus Gregorio PEREZ",
+    "Eduardo Tomas TORRES Ramos"
+  ],
+  "recipient": "Chief, Task Force W",
+  "sender": "Chief of Station, JMWAVE"
+}

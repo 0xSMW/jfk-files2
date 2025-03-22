@@ -1,0 +1,25 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Revealing the intention to hold off travel by a CIA officer pending developments could alert hostile parties to ongoing operations or personnel movements. Quoting directly: 'PENDING DEVELOPMENTS, CIA OFFICER PLANS RETURN HOS AFTER STOP. THEREFORE BEST HOLD OFF TRAVEL.'",
+  "security_level": "SECRET",
+  "summary": "A cable discusses matters related to a Cuban defector and a Salvadoran asset, including arrangements made with \"NIGHT\" (possibly a code name) and a decision to postpone travel plans for a CIA officer.",
+  "summary_one_paragraph": "This SECRET cable references discussions with an individual referred to as \"NIGHT\" on September 8, regarding a Cuban defector and a Salvadoran asset. \"NIGHT\" concurred with arrangements made, including those involving \"DALTON\" and the solitary confinement of the Cuban defector. The cable also indicates that a CIA officer's planned return should be postponed pending further developments.",
+  "tags": [
+    "CIA",
+    "Cuban Defector",
+    "Salvadoran Asset",
+    "Operations",
+    "SALY",
+    "DALTON",
+    "NIGHT"
+  ],
+  "title": "Cuban Defector and Salvadoran Asset Matters",
+  "date": "YYYY-MM-DD",
+  "persons_mentioned": [
+    "DALTON",
+    "NIGHT"
+  ],
+  "recipient": "WH DIV CUBA",
+  "sender": "DIR CITS SALY 5329"
+}

@@ -1,0 +1,30 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "Releasing details about sources and methods in Mexico City Station could compromise ongoing operations and put individuals at risk. Disclosing specific source codenames (e.g., DTDORIC, HBEPITOME) and project references (e.g., PALP) would reveal sensitive intelligence activities. Providing unauthorized access to this information could jeopardize sources and methods and damage the CIA's ability to gather intelligence.",
+  "security_level": "SECRET",
+  "summary": "A cable from Mexico City to the Director regarding DTDORIC and HBEPITOME, referencing MEXI 6384 and identifying individuals and projects: A, [ALFONSO DIBILDOX], B, CNE, C, FUSA.",
+  "summary_one_paragraph": "This SECRET cable, sent from Mexico City to the Director on October 3, 1963, concerns individuals and projects identified as A, [ALFONSO DIBILDOX], B, CNE, and C, FUSA, and references DTDORIC and HBEPITOME, building upon information provided in MEXI 6384. The cable was routed to CA/04, with copies distributed to CA 2, CA/PEG, CA/PROP, CI/IC 2, FI, FI/INT, WE 4, WH 7, RF, and VR, indicating a wide range of CIA components with an interest in the subject matter.",
+  "tags": [
+    "DTDORIC",
+    "HBEPITOME",
+    "MEXI 6384",
+    "ALFONSO DIBILDOX",
+    "CNE",
+    "FUSA",
+    "Mexico City Station",
+    "CIA",
+    "Cable"
+  ],
+  "title": "DIR INFO PALP CITE MEXI 6385",
+  "date": "1963-10-03",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "ALFONSO DIBILDOX"
+  ],
+  "recipient": "Director",
+  "sender": "Mexico City"
+}

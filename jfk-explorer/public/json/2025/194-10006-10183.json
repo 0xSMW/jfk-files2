@@ -1,0 +1,39 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "This document contains personal information about an individual, including their Social Security number, date of birth, and place of birth. Releasing this information could violate privacy laws and endanger the individual.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report from October 13, 1966, details the findings of local agency checks conducted on Robert Scheer, a Selective Service registrant, revealing no records in various law enforcement agencies in California.",
+  "summary_one_paragraph": "This unclassified agent report, dated October 13, 1966, summarizes the findings of a check on Robert Scheer, a Selective Service registrant with SSN 112-28-1134 and DOB April 4, 1936, across multiple local law enforcement agencies in California, including sheriff's offices and police departments in Marin County, Sonoma County, South San Francisco, Pacifica, Daly City, San Francisco, Brisbane, San Bruno, Burlingame, Millbrae, and the Office of the Provost Marshal at the Presidio of San Francisco, none of which disclosed any records pertaining to him.",
+  "tags": [
+    "Robert Scheer",
+    "Local Agencies Check",
+    "Agent Report",
+    "California",
+    "Selective Service",
+    "INSCOM",
+    "FOIA"
+  ],
+  "title": "10/13/66",
+  "date": "1966-10-13",
+  "locations_mentioned": [
+    "Bronx, N.Y.",
+    "Marin County, San Rafael, Calif",
+    "Sonoma County, Santa Rosa, Calif",
+    "South San Francisco, California",
+    "Pacifica, California",
+    "Daly City, California",
+    "San Francisco, California",
+    "Brisbane, California",
+    "San Bruno, California",
+    "Burlingame, California",
+    "Millbrae, California",
+    "Presidio of San Francisco, California"
+  ],
+  "origin_agency": "CSF/INSCOM",
+  "persons_mentioned": [
+    "Robert Scheer",
+    "Larry C. Vogt"
+  ],
+  "sender": "Larry C. Vogt, 115th INTC Group (I)"
+}

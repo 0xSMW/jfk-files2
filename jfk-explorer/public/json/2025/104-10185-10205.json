@@ -1,0 +1,26 @@
+{
+  "classification": "Administrative",
+  "document_type": "Reminder",
+  "security": "This document does not contain information that would be considered sensitive from a security perspective. It is a routine business letter regarding unpaid rent.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A rent reminder sent by Sumit Hill Properties, Inc. to Roger Shea for an overdue payment of $210.00 for August 1964.",
+  "summary_one_paragraph": "On August 17, 1964, Sumit Hill Properties, Inc. issued a reminder to Roger Shea, residing at 6500 16th St., #G-32, Silver Spring, MD, regarding an unpaid rent of $210.00 due since August 1, 1964. The letter advises Mr. Shea that rents are payable in full within ten days of the due date and requests prompt payment.",
+  "tags": [
+    "Rent",
+    "Overdue Payment",
+    "Sumit Hill Properties",
+    "Roger Shea",
+    "Silver Spring, MD"
+  ],
+  "title": "Rent Reminder",
+  "date": "1964-08-17",
+  "locations_mentioned": [
+    "Silver Spring, MD"
+  ],
+  "origin_agency": "Sumit Hill Properties, Inc.",
+  "persons_mentioned": [
+    "Roger Shea"
+  ],
+  "recipient": "Roger Shea",
+  "sender": "Bank Lifland (Managing Agents)"
+}

@@ -1,0 +1,53 @@
+{
+  "classification": "Operations",
+  "document_type": "Report",
+  "security": "Revealing details about intelligence sources (P. AHELY/TOFU, VERALL N. ANDRAE) and methods (WARM trap, Atlantis Operation), as well as relationships with foreign officials (Col. Dang Duc Khue), could compromise ongoing operations and endanger individuals. The document states: 'In answer to request of Gregory O. SAMBAS, the following is a composite of information from [illegible] P. AHELY (TOFU) (LIMT 1) and VERALL N. ANDRAE (LIMT 11) concerning Lam A.'",
+  "security_level": "SECRET",
+  "summary": "A report providing specific information on Lam A, a person of interest, compiled from multiple intelligence sources in Viet Nam, detailing his background, activities, and associations.",
+  "summary_one_paragraph": "This SECRET report, dated 25 June 1965, from the Chief of Station in Viet Nam to the Chief of Station in Phnom Penh, provides a composite of information concerning Lam A, gathered from intelligence sources P. AHELY (TOFU) and VERALL N. ANDRAE, in response to a request by Gregory O. SAMBAS. The report describes Lam A's physical appearance, multilingual abilities, past deportation as a Jew to a concentration camp, alleged involvement in intelligence activities in Indonesia since 1949, and participation in Operation Atlas. Additionally, it mentions Lam A's relationship with Col. (Gen) Dang Duc Khue, his proposal for military support in the Hoa Huong area, his mission to Poland and East Germany in 1958, and his current status as admitted to the French High Commission in Phnom Penh.",
+  "tags": [
+    "Lam A",
+    "Viet Nam",
+    "Phnom Penh",
+    "Intelligence",
+    "Operation Atlas",
+    "Gregory O. Sambas",
+    "P. AHELY (TOFU)",
+    "VERALL N. ANDRAE",
+    "Col. Dang Duc Khue",
+    "USAID",
+    "SDECE"
+  ],
+  "title": "Specific Information concerning Lam A",
+  "date": "1965-06-25",
+  "locations_mentioned": [
+    "Phnom Penh",
+    "Viet Nam",
+    "Raw Kett",
+    "German Concentration Camp",
+    "Indonesia",
+    "Central Viet Nam",
+    "Annam",
+    "Hoa Huong",
+    "Poland",
+    "East Germany",
+    "Hanoi",
+    "Saigon",
+    "Brussels"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Lam A",
+    "Gregory O. Sambas",
+    "P. AHELY (TOFU)",
+    "VERALL N. ANDRAE",
+    "Col. (Gen) Dang Duc Khue",
+    "Lieu D.",
+    "MARKEN (LAB)",
+    "Edmond T. Guerriere",
+    "Francois Nguyen",
+    "Edmond A. Dufresne"
+  ],
+  "recipient": "Chief of Station, Phnom Penh",
+  "sender": "Chief of Station, Viet Nam"
+}

@@ -1,0 +1,36 @@
+{
+  "classification": "Personnel",
+  "document_type": "Identification Form",
+  "security": "This document contains personal information, such as addresses, birthdates, and family names, which are protected under privacy regulations.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A US Army Request for Information form concerning David Reed Fromer, providing details such as his birth date, places of residence, employment history, and familial information, dated February 20, 1967.",
+  "summary_one_paragraph": "This document is a US Army Request for Information form dated February 20, 1967, pertaining to David Reed Fromer. The form includes personal details such as his date and place of birth (July 21, 194, Chicago, Illinois), present address (13 Rhonda Way, Mill Valley, California), service number (564-53-8137), citizenship (U.S.), and residences from 1950 to 1967 in California and Wisconsin. It also lists his parents (Irving Fromer and Katherine Rhodes) and employment history, along with responses to inquiries regarding foreign connections and previous government employment. DCII reflects information about Fromer's sister, Ann Rhodes Spake, and father, Irving Fromer.",
+  "tags": [
+    "US Army",
+    "Request for Information",
+    "David Reed Fromer",
+    "Personnel Investigation",
+    "INSCOM/CSF",
+    "DOD-Affiliated Personnel"
+  ],
+  "title": "[ RESTRICTED ]",
+  "date": "1967-02-20",
+  "locations_mentioned": [
+    "Chicago, Illinois",
+    "Cincinnati, Ohio",
+    "Estunville, Iowa",
+    "Mill Valley, California",
+    "San Francisco, California",
+    "Berkeley, California",
+    "Madison, Wisconsin",
+    "Ft Holabird, Maryland"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "David R. Fromer",
+    "Irving Fromer",
+    "Katherine Rhodes",
+    "Ann Rhodes Spake"
+  ],
+  "sender": "DCOFS, OPERS HQS USAINTC"
+}

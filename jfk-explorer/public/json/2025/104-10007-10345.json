@@ -1,0 +1,26 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Dispatch",
+  "security": "This document highlights the CIA's role in supporting the Secret Service and the distribution of sensitive testimony. Revealing such internal collaboration and operational considerations could potentially expose security vulnerabilities or interagency dynamics, impacting the effectiveness of protective measures and relationships. The distribution list itself, if made public, could highlight specific areas of interest for CIA activities at that time.",
+  "security_level": "SECRET",
+  "summary": "A dispatch from the Chief of CI/R&A to Chiefs of all Stations regarding Warren Commission testimony excerpts related to Presidential protection, emphasizing the importance of supporting the Secret Service.",
+  "summary_one_paragraph": "This secret dispatch, dated December 23, 1964, and originating from the Chief of CI/R&A, is addressed to Chiefs of all Stations, informing them about the Warren Commission's focus on Presidential protection. It highlights the CIA's responsibility, both overseas and at headquarters, to support the Secret Service, especially when the President travels abroad. The dispatch includes extracts of testimony given before the Warren Commission by U.S. intelligence and security officials, related to interagency operational cooperation, information acquisition, and dissemination. These materials are recommended for reading by senior responsibility officers.",
+  "tags": [
+    "Warren Commission",
+    "Presidential Protection",
+    "Secret Service",
+    "Interagency Cooperation",
+    "CI/R&A",
+    "FOIA"
+  ],
+  "title": "Warren Commission Testimony - Selected Excerpts",
+  "date": "1964-12-23",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "President Kennedy",
+    "Fletcher M. Knight",
+    "Raymond G. Rocca"
+  ],
+  "recipient": "Chiefs of all Stations",
+  "sender": "Chief, KUDOVE"
+}

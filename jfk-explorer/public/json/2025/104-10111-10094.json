@@ -1,0 +1,31 @@
+{
+  "classification": "Personnel",
+  "document_type": "Report",
+  "security": "This report details allegations of an employee's \"immoral\" behavior, potential affairs, and dating of an FBI \"wanted\" individual. Disclosing these details could reveal sensitive information about the Agency's personnel security practices and the types of behavior that are considered security risks, potentially damaging the Agency's reputation and compromising its ability to manage personnel effectively.",
+  "security_level": "SECRET",
+  "summary": "The document is a personnel report detailing the employment history and security concerns related to a female employee, including allegations of affairs in Cuba and a relationship with an FBI-wanted individual in Guatemala.",
+  "summary_one_paragraph": "This report outlines the employment history of a female employee, starting with her part-time employment and reinstatement as a regular staff member before transferring to Washington, D.C. It details her assignment to DDP/WH and her subsequent certification for TDY in Havana, Cuba, where allegations arose about her having affairs with individuals incarcerated in a Cuban jail, potentially contributing to the arrest of Agency personnel. Later, in Guatemala, she dated Ronald Stanley Davic, who was wanted by the FBI for car theft and mail fraud, a relationship she continued with after reporting it to her superiors.",
+  "tags": [
+    "Personnel Security",
+    "Employee Conduct",
+    "Affairs",
+    "FBI Wanted Individual",
+    "Cuba",
+    "Guatemala",
+    "JMARC"
+  ],
+  "title": "Personnel Report Excerpt",
+  "date": "1958-1961",
+  "locations_mentioned": [
+    "Panama",
+    "Washington, D.C.",
+    "Havana, Cuba",
+    "Guatemala",
+    "Guatemala City"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Dave CHRIST",
+    "Ronald Stanley Davic"
+  ]
+}

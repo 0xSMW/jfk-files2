@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Broadcasting a warning that advises against a popular uprising in Cuba, stating that Castroforces are prepared to crush any such action, and that provocations should be expected, may reveal methods of influencing Cuban nationals. \"...CASTROFORCES HAVE BEEN ON A WAR FOOTING UNDER CONSTANT ALERT EVER SINCE THE DRE ATTACK OF 24 AUG. THEY ARE PREPARED TO CRUSH ANY SIGN OF UPRISING, RESISTANCE OR CUBAN INVASION FROM OUTSIDE. ALL TRUE CUBAN PATRIOTS ARE URGENTLY WARNED NOT TO UNDERTAKE AT THIS TIME AN UPRISING AS THIS IS DESIRED AND EXPECTED BY THE CASTRO COMMUNIST FORCES...\"",
+  "security_level": "SECRET",
+  "summary": "A CIA cable discusses intelligence regarding a potential uprising in Cuba, assesses the reliability of the information, and outlines a plan to broadcast a warning to Cuban patriots advising against action due to the high risk of being crushed by Castro's forces.",
+  "summary_one_paragraph": "This SECRET CIA cable, dated August 31, 1962, from JIAWAVE to UFICO, addresses intelligence concerning a potential general uprising in Cuba. Referencing previous communications (WAVE 7983 and WAVE 7986), it evaluates information from various sources indicating an imminent revolt, with the ultimate origin being UR channels. While initially considering the intel accurate, further investigation suggests it may be a deception or provocation operation. The cable details inquiries with various Cuban exile groups (DHE, MRP, 30 NOV, Juventud Anti-comunista Catolica, MRR, ELN, FND, FAL, and Secundo Frente Escambray) revealing mixed awareness of the revolt. The cable concludes that a bona fide popular uprising is unlikely at this time and outlines a plan to broadcast a warning via ANCORE-2 and other Spanish-language programs, cautioning Cuban patriots against undertaking a revolt, as it is expected by Castro's forces.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Uprising",
+    "Castro",
+    "Deception",
+    "Provocation",
+    "Propaganda",
+    "Cuban exiles"
+  ],
+  "title": "GYROSE INTEL",
+  "date": "1962-08-31",
+  "locations_mentioned": [
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Pedro Interian Garcia",
+    "AMRAZZ-1",
+    "AMICE-8",
+    "AMPAN-4",
+    "Cesar Baro"
+  ],
+  "recipient": "UFICO",
+  "sender": "JIAWAVE"
+}

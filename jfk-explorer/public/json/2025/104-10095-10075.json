@@ -1,0 +1,19 @@
+{
+  "classification": "Mexico",
+  "document_type": "List",
+  "security": "Sharing this information could expose intelligence-gathering methods and reveal the identities of individuals of interest to the CIA.",
+  "security_level": "SECRET",
+  "summary": "This document is a list of individuals with associated data points such as dates, categories, and locations related to Mexico, likely for background use within the CIA.",
+  "summary_one_paragraph": "This document, marked SECRET and intended for background use only, is a list of individuals associated with Mexico. The list includes various data points such as dates (both initial and secondary), categories (indicated by codes like XX, VV, SE, etc.), areas (all coded as 450), and time-related codes. The 'YRMODA' column provides year-month-day information, with the location consistently marked as 'MEXICO'. This list appears to be an internal CIA record for tracking or identifying individuals of interest in Mexico.",
+  "tags": [
+    "CIA",
+    "Mexico",
+    "Individuals",
+    "Tracking",
+    "Background Use"
+  ],
+  "title": "List of Individuals Associated with Mexico",
+  "locations_mentioned": [
+    "Mexico"
+  ]
+}

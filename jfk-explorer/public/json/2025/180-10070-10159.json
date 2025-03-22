@@ -1,0 +1,31 @@
+{
+  "classification": "Administrative",
+  "document_type": "Payroll Records",
+  "security": "This document contains personally identifiable information (PII), specifically Social Security numbers, the public disclosure of which could reasonably be expected to constitute an unwarranted invasion of personal privacy. As stated in the document: 'The text is redacted because the public disclosure of the redaction could reasonably be expected to constitute an unwarranted invasion of personal privacy, and that invasion of privacy would be so substantial that it outweighs the public interest.'",
+  "security_level": "Unclassified",
+  "summary": "This document is a collection of payroll authorization forms and related memoranda for Johanna Lynn Smith, an employee of the House Select Committee on Assassinations (HSCA), detailing her employment history, salary, and personal information. Social Security numbers within the document have been postponed from release due to privacy concerns.",
+  "summary_one_paragraph": "This collection of documents primarily contains payroll authorization forms for Johanna Lynn Smith, who worked as a Document Clerk for the House Select Committee on Assassinations (HSCA) from November 1976 to December 1978. The forms outline her various appointments, salary adjustments, and termination, as authorized by committee members such as Thomas N. Downing, Henry B. Gonzalez, and Louis Stokes. Additionally, there is a memo from January 1977 requesting all staff employees to disclose any familial relationships with current members of Congress for payroll certification purposes. The Social Security numbers in these documents have been redacted due to privacy concerns, as determined by the Assassination Records Review Board.",
+  "tags": [
+    "HSCA",
+    "Payroll Records",
+    "Johanna Lynn Smith",
+    "Social Security Number",
+    "Privacy",
+    "Louis Stokes",
+    "Thomas N. Downing",
+    "Henry B. Gonzalez",
+    "Personnel Records",
+    "Administration"
+  ],
+  "title": "Staff Payroll Records related to Johanna Lynn Smith",
+  "date": "1977-01-03",
+  "persons_mentioned": [
+    "Johanna Lynn Smith",
+    "Louis Stokes",
+    "Thomas N. Downing",
+    "Henry B. Gonzalez",
+    "Richard A. Sprague"
+  ],
+  "recipient": "Clerk of the House of Representatives",
+  "sender": "Budget Officer (HSCA)"
+}

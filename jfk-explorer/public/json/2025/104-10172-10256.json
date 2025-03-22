@@ -1,0 +1,26 @@
+{
+  "classification": "Personnel",
+  "document_type": "Outgoing Message",
+  "security": "Sharing the internal tracking of individuals (PDIPPERS, PDLADLE, Wallenberg) and file numbers (201-5925, 201-099788) could expose sources and methods, and the operational interests of SE/X/EU.",
+  "security_level": "SECRET",
+  "summary": "An outgoing message from CIA headquarters to Stockholm reports negative results from queries about PDIPPERS 19 and 20, PDLADLE, and Wallenberg.",
+  "summary_one_paragraph": "This secret outgoing message, dated October 16, 1962, from CIA headquarters to Stockholm, reports that queries directed at PDIPPERS 19 and 20, PDLADLE, and Wallenberg yielded negative results, referencing file 201-5925 and detailing routing and staff information.",
+  "tags": [
+    "CIA",
+    "Stockholm",
+    "PDIPPERS",
+    "PDLADLE",
+    "Wallenberg",
+    "File 201-5925",
+    "Personnel",
+    "SE/X/EU"
+  ],
+  "title": "Negative Results from Queries",
+  "date": "1962-10-16",
+  "locations_mentioned": [
+    "Stockholm"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "Stockholm",
+  "sender": "CIA Headquarters"
+}

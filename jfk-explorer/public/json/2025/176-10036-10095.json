@@ -1,0 +1,33 @@
+{
+  "classification": "Vietnam",
+  "document_type": "Telegram Information Report",
+  "security": "This material contains information affecting the National Defense of the United States within the meaning of the Espionage Laws, Title 18, U.S.C. Sees. 793 and 794, the transmission or revelation of which in any manner to an unauthorized person is prohibiled by law.",
+  "security_level": "SECRET",
+  "summary": "A CIA report indicates growing tension between the U.S. and South Vietnam in April 1963, with President Diem and Ngo Dinh Nhu considering requesting a reduction of American personnel due to perceived infringements on Vietnamese sovereignty, particularly by U.S. Special Forces.",
+  "summary_one_paragraph": "This CIA information report, dated April 22, 1963, details escalating tensions between the U.S. and South Vietnam, where President Diem and Ngo Dinh Nhu are reportedly upset over American activities, specifically infringements on Vietnamese sovereignty. The report suggests Diem plans to confront Ambassador Nolting and General Harkins with evidence of U.S. responsibility, demanding a reduction in U.S. personnel, as he believes the force is too large and unmanageable; this is in addition to the report noting that Presidency staff members had questioned individuals in close working relationships with Americans regarding U.S. activities, especially those of the U.S. Special Forces.",
+  "tags": [
+    "CIA",
+    "Vietnam",
+    "Diem",
+    "Ngo Dinh Nhu",
+    "US Special Forces",
+    "Tension",
+    "Personnel Reduction",
+    "Sovereignty"
+  ],
+  "title": "Central Intelligence Agency Information Report",
+  "date": "1963-04-22",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Diem",
+    "Ngo Dinh Nhu",
+    "Ambassador Nolting",
+    "General Harkins",
+    "General Timmes"
+  ]
+}

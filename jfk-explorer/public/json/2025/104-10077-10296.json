@@ -1,0 +1,30 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "Revealing specific WAVE codenames and operational details, such as ongoing operations related to 'drug dips' (likely drug use investigations), could compromise active sources, investigations, and intelligence gathering methods.  Specifically, the cable mentions 'CONTIKED OPE IFEFEST (DRUG DIPS)' and requests WAVE replies for processing POA requests. Sharing this information could tip off targets and disrupt ongoing intelligence efforts.",
+  "security_level": "SECRET",
+  "summary": "A routine cable from the Montevideo station (WAVE) to the Director (likely of the CIA) requests key codes for processing POA (Power of Attorney or Proof of Activity) requests related to ongoing operations. It also references WSFS (likely a department within the CIA) requesting a review of the scope and purpose of recruiting 'dips' assigned to Hava and PGA (permission for guidance and assistance) on two potential operatives.",
+  "summary_one_paragraph": "This routine cable, originating from the CIA's WAVE station in Montevideo on December 6, 1963, is addressed to the Director and references ongoing operations identified as 'CONTIKED OPE IFEFEST' which involve 'drug dips.' The cable requests WAVE reply key codes A and C to process POA requests and mentions WSFS's request for a review of the scope related to the recruitment of 'dips' associated with Hava. Furthermore, WSFS has requested PGA for the wives of one 'dip' and another 'dip,' both identified as representing operational potential. The message cites CAR 87291 and references Rosa DIR 78231 and WAVA UZUN (II 52216) and WAVE 8439 (II 72764).",
+  "tags": [
+    "CIA",
+    "WAVE",
+    "Montevideo",
+    "Operations",
+    "Drug Dips",
+    "POA",
+    "WSFS",
+    "PGA",
+    "Hava",
+    "Cryptonym",
+    "FOIA",
+    "JFK"
+  ],
+  "title": "WAVE (MONTEVIDEO) 16-24",
+  "date": "1963-12-06",
+  "locations_mentioned": [
+    "Montevideo"
+  ],
+  "origin_agency": "CIA",
+  "recipient": "Director",
+  "sender": "WAVE (MONTEVIDEO)"
+}

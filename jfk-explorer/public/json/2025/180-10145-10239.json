@@ -1,0 +1,38 @@
+{
+  "classification": "Soviet/Mexico",
+  "document_type": "Collection of Documents (Intercepts, Messages, Dispatch)",
+  "security": "Revealing communications intercepts, even redacted, could reveal collection capabilities and sources, potentially compromising ongoing and future intelligence operations. The mention of specific individuals involved in these communications also presents a risk of exposing their identities and activities. Directly quoting the messages: \"NEF told MO to fold tre lure\", \"Did you recover the suitcase?\", \"I'm sorry but d've just made plass for arorrer trip and dim leaving His very day.\" These examples, though vague, highlight the potential compromise if interception methods or individual connections were revealed.",
+  "security_level": "SECRET",
+  "summary": "This collection of documents pertains to Valeriy Vladimirovich Kostikov, a Soviet employee in Mexico City, and includes intercepts, messages, and a dispatch related to his activities and contacts.",
+  "summary_one_paragraph": "This compilation focuses on Valeriy Vladimirovich Kostikov, a Soviet Embassy employee in Mexico City (DOI June 1961). It comprises intercepts from October 1962 revealing conversations involving Kostikov, Nefyedov, and others about meetings, money, and travel arrangements, as well as exchanges about retrieving a 'suitcase.' The file also contains a 1964 FBI statement indicating a lack of full support for claims about Kostikov's affiliations with certain Soviet departments, and classified messages from 1963 detailing coverage of Kostikov and interactions with Cuban officials. Additionally, a 1963 dispatch from Mexico City concerns 'TOPFLOOR' [BER].",
+  "tags": [
+    "Kostikov",
+    "Valeriy Vladimirovich Kostikov",
+    "Soviet Embassy",
+    "Mexico City",
+    "Intercepts",
+    "KGB",
+    "FBI",
+    "TOPFLOOR",
+    "FOIA",
+    "JFK Assassination Records Act"
+  ],
+  "title": "KOSTIKOV, VALERIY VLADIMIROVICH File",
+  "date": "1962-10-15",
+  "locations_mentioned": [
+    "Mexico City",
+    "Moscow"
+  ],
+  "origin_agency": "FBI/CIA",
+  "persons_mentioned": [
+    "Valeriy Vladimirovich Kostikov",
+    "Nefyedov",
+    "Sarmasher",
+    "Vsemochkin",
+    "Pavel Antorovice Yatskov",
+    "Alfredo Mirabel Diaz",
+    "Nechiporenkos"
+  ],
+  "recipient": "Chief, WH Division",
+  "sender": "Chief of Station, Mexico City"
+}

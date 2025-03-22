@@ -1,0 +1,38 @@
+{
+  "classification": "Liaison",
+  "document_type": "Dispatch",
+  "security": "This dispatch discusses the dealings of Michael WYNNE-ELLIS with AELADLE, a defector, and raises questions about a KGB document provided by AELADLE, including concerns about potential forgeries and the identities of R.I.S. officers involved. \"We do not wish to suggest by these comments that we suspect that this document might be a forgery, but we would be grateful for your confirmation that you do not consider this a possibility.\"",
+  "security_level": "SECRET/RYBAT",
+  "summary": "A dispatch from the Chief of Station in London to various recipients, concerning questions and comments on a KGB document related to Michael WYNNE-ELLIS's interactions with AELADLE, a Soviet defector, and requesting further investigation into the document's authenticity and details.",
+  "summary_one_paragraph": "This secret dispatch, originating from the Chief of Station in London on March 14, 1962, addresses several questions and comments regarding a KGB document involving Michael WYNNE-ELLIS's dealings with AELADLE, an identified R.I.S. officer who defected; the communication includes a detailed account of WYNNE-ELLIS's contacts with AELADLE in Helsinki during June and October 1961, specifically regarding visa applications and potential recruitment by the R.I.S., and raises concerns about the document's authenticity, requesting confirmation that it is not a forgery; the dispatch also seeks clarification on specific elements within the document, such as unexplained dates, the identity of the signing individual, and discrepancies in the transliteration of WYNNE-ELLIS's name.",
+  "tags": [
+    "Michael Wynne-Ellis",
+    "AELADLE",
+    "KGB",
+    "RIS",
+    "Defector",
+    "Forgery",
+    "Helsinki",
+    "Soviet",
+    "Recruitment",
+    "Counterintelligence"
+  ],
+  "title": "ESPERO CS: Operational/REDWOOD/LCIMPROVE/AELADLE - Michael WYNKE-ELLIS JOG",
+  "date": "1962-03-14",
+  "locations_mentioned": [
+    "London",
+    "Helsinki",
+    "USSR",
+    "Stalingrad (Volgograd)"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Michael Wynne-Ellis",
+    "AELADLE",
+    "Ivan Efimovich Sergeev",
+    "Stanislav Galkin",
+    "James L. Griffiths"
+  ],
+  "recipient": "Chief, WE",
+  "sender": "Chief of Station, London"
+}

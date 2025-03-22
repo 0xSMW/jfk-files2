@@ -1,0 +1,22 @@
+{
+  "classification": "Security",
+  "document_type": "Secrecy Agreement",
+  "security": "Revealing the specific sections of Title 18, U.S. Code and Public Law 831 related to security violations within the BYEMAN Control System could allow individuals to better understand the legal ramifications and potential penalties, potentially undermining the deterrent effect. Quoting directly: 'Security restrictions and penalties for violations of the BYEMAN Control System, to which I am subject, are covered under Title 18, Sections 792, 793, 794, 795 and 797, U. S. Code and Section 19 of Public Law 831, Internal Security Act of 1950.'",
+  "security_level": "SECRET",
+  "summary": "This document outlines the security indoctrination and secrecy agreement for the BYEMAN Control System, requiring individuals with BYECOM approval to acknowledge security restrictions and swear to protect classified BYEMAN information.",
+  "summary_one_paragraph": "This is a security indoctrination and secrecy agreement related to the BYEMAN Control System, a special system established by the Director of Central Intelligence to protect sensitive intelligence collection projects; it outlines the security restrictions, penalties for violations, and responsibilities of individuals granted BYECOM approval. Ernest M. Kropff signed the agreement on June 19, 1943, acknowledging his understanding of the provisions and swearing to protect classified BYEMAN information, under the witness of J.C. Connell.",
+  "tags": [
+    "BYEMAN",
+    "Security Indoctrination",
+    "Secrecy Agreement",
+    "BYECOM",
+    "Security Clearance"
+  ],
+  "title": "Security Indoctrination and Secrecy Agreement",
+  "date": "1943-06-19",
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Ernest M. Kropff",
+    "J.C. Connell"
+  ]
+}

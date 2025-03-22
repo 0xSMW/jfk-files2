@@ -1,0 +1,22 @@
+{
+  "classification": "Security",
+  "document_type": "Receipt",
+  "security": "Revealing the specific types of authentication materials used (Ecuadorean PP, Vacc Cert, INS Form) and the process for handling them (return procedures, notification for loss/destruction) could allow adversaries to create convincing forgeries or exploit vulnerabilities in authentication methods. \"Authentication Materials must be returned to TSD/IB as soon as the intended operational use has been fulfilled; unused documents, whether filled in or blank, must be returned to TSD/IB when no longer needed.\"",
+  "security_level": "SECRET",
+  "summary": "A receipt acknowledging the transfer of authentication materials, including passports and vaccination certificates, for Ernesto Jesus GARCIA Guzman, and noting the return of his Cuban documents.",
+  "summary_one_paragraph": "This document is a receipt acknowledging the transfer of authentication materials to TSD/IB, including Ecuadorean and Cuban passports, vaccination certificates, and an INS Form I-94, pertaining to Ernesto Jesus GARCIA Guzman. It details the specific document numbers and notes the return of subject's Cuban documents, including a Cuban Diplomatic Passport, a Cuban Ordinary Passport, a Cuban International Vaccination Certificate, and a negative of the subject. The receipt emphasizes the need to return the authentication materials to TSD/IB after use and to notify TSD/IB if any materials are lost or destroyed.",
+  "tags": [
+    "Authentication Materials",
+    "TSD/IB",
+    "Passports",
+    "Vaccination Certificates",
+    "Ernesto Jesus GARCIA Guzman",
+    "Cuban Documents"
+  ],
+  "title": "Receipt for Authentication Materials",
+  "date": "1963",
+  "persons_mentioned": [
+    "Ernesto Jesus GARCIA Guzman"
+  ],
+  "recipient": "TSD/IB"
+}

@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "The message relays information about alleged CIA sabotage operations in Cuba, specifically regarding a failed attempt to bomb a Cuban merchant ship. Disclosing this information could acknowledge covert operations, potentially leading to diplomatic repercussions and damaging the CIA's reputation. Quoting directly: 'CASTRO CLAIMS THAT THE CIA PLACED A BOMB ALOANE VESSEL IN GANDA, ITALY, BUT THAT IT AS DEFECTIVE AND GO OFF.'",
+  "security_level": "SECRET",
+  "summary": "A classified message relays Fidel Castro's claim that the CIA attempted to sabotage a Cuban merchant ship with a bomb placed in Ganda, Italy, but the device was defective and found unloaded; KUBARK policy is to offer no comment.",
+  "summary_one_paragraph": "This classified message, dated October 22, transmits a report of Fidel Castro's public accusation that the CIA attempted to sabotage the Cuban merchant ship Las Villas by planting a defective bomb in Ganda, Italy. The message indicates that the bomb was discovered unloaded and emphasizes the CIA's policy of non-comment on the matter, addressing the dissemination of this information among various bureaus and stations, including HALD, JAV, HOME, CASABLANCA, EDDAT, FL, FUIT, HAMBURG, BRUSSEL, HAGUL, LONDON, MILAN, OTT, and MEXICO CITY.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Castro",
+    "Sabotage",
+    "Bombing",
+    "Covert Operation",
+    "KUBARK",
+    "FBIS"
+  ],
+  "title": "Janet Nixon: Report on Castro's Sabotage Claims",
+  "date": "1962-10-22",
+  "locations_mentioned": [
+    "Cuba",
+    "Italy",
+    "Ganda"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Janet Nixon"
+  ],
+  "recipient": "HALD, JAV, HOME, CASABLANCA, EDDAT, FL, FUIT, HAMBURG, BRUSSEL, HAGUL, LONDON, MILAN, OTT, MEXICO CITY",
+  "sender": "C/SAS 5"
+}

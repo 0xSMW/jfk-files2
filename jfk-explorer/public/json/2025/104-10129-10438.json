@@ -1,0 +1,30 @@
+{
+  "classification": "Personnel",
+  "document_type": "Travel Briefing Data",
+  "security": "This document contains personal information about an individual, including their name, office, phone number, file number, rank, destination, and travel history. Sharing these details could compromise the individual's security and privacy.",
+  "security_level": "SECRET",
+  "summary": "This document is a travel briefing form for Joseph Piccolo Jr., a GS-9 employee of DDP/WH, who is traveling to Mexico City, Mexico, on May 9, 1915, for a PCS assignment, and outlines security regulations, travel precautions, and personal conduct guidelines.",
+  "summary_one_paragraph": "This is a travel briefing data form for Joseph Piccolo Jr., a GS-9 employee from DDP/WH, preparing for a Permanent Change of Station (PCS) assignment to Mexico City, Mexico, departing on May 9, 1915. The form includes his file number, 109709, and confirms that he has been briefed on security regulations, travel precautions, personal affairs, correspondence limitations, personal conduct, association with foreigners, hostile audio surveillance, cover problems, and responsibility abroad. The form indicates previous travel experience to Belgium-Brussels in 1964 and Mexico City in 1959, and notes that he was referred back to central cover, with the briefing conducted by a Security Officer on 5/9/15.",
+  "tags": [
+    "Travel Briefing",
+    "Personnel Security",
+    "Mexico City",
+    "DDP/WH",
+    "Joseph Piccolo Jr.",
+    "PCS Assignment",
+    "Cover",
+    "Security Regulations"
+  ],
+  "title": "Travel Briefing Data",
+  "date": "1915-05-09",
+  "locations_mentioned": [
+    "Mexico City, Mexico",
+    "Belgium-Brussels"
+  ],
+  "origin_agency": "DDP/WH",
+  "persons_mentioned": [
+    "Joseph Piccolo Jr."
+  ],
+  "recipient": "Joseph Piccolo Jr.",
+  "sender": "Security Officer"
+}

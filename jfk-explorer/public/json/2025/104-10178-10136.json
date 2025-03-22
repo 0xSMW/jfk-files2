@@ -1,0 +1,34 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security": "Disseminating information about a suspect to liaison contacts could jeopardize ongoing investigations if the suspect is connected to broader operations. Quoting the request to \"PASS TO LEGAL ATTACHE IF ANY IN YOUR COUNTRY\" directly indicates coordination with foreign legal entities, which, if revealed, may affect international relationships, and active cases.",
+  "security_level": "SECRET",
+  "summary": "A cable disseminating information provided by LNERGO concerning Eric Starvo Galt, an alias of Harvey Lowmyer and John Willard, who is suspected of assassinating Martin Luther King, Jr., to multiple locations worldwide.",
+  "summary_one_paragraph": "This secret cable, dated April 18, 1968, originates from Richard Ober of CIOP/DO and disseminates information from LNERGO regarding Eric Starvo Galt (aliases Harvey Lowmyer and John Willard), the suspected assassin of Martin Luther King, Jr. The cable provides Galt's physical description, notes his potential employment as a seaman, and describes him as a \"lone wolf\" who is \"armed and extremely dangerous.\" Addressees are requested to determine if Galt has been in their area, to share the information with liaison contacts and other sources, and to evaluate the reliability of any reported information. The cable also mentions a forthcoming photo of Galt and requests that any positive replies be cabled to HQS and passed to the legal attaché in the respective country.",
+  "tags": [
+    "CIA",
+    "Martin Luther King Jr.",
+    "Assassination",
+    "Eric Starvo Galt",
+    "Harvey Lowmyer",
+    "John Willard",
+    "LNERGO",
+    "Suspect",
+    "Law Enforcement",
+    "Legal Attache"
+  ],
+  "title": "Information Concerning Suspected Assassin of Martin Luther King, Jr.",
+  "date": "1968-04-18",
+  "persons_mentioned": [
+    "Richard Ober",
+    "Eric Starvo Galt",
+    "Harvey Lowmyer",
+    "John Willard",
+    "Martin Luther King Jr.",
+    "Mr. Hunt",
+    "Mr. Smyth",
+    "Mr. Smith"
+  ],
+  "recipient": "ASUNCION, BANGKOK, BARCELONA, BEIRUT, BERLIN, BERN, BOGOTA, CARACAS, BRASILIA, BRUSSELS, BUENOS AIRES, COPENHAGEN, FRANKFURT, GENEVA, GEORGETOWN, GUATEMALA CITY, GUAYAQUIL, THE HAGUE, HAMBURG, HELSINKI, HONG KONG, KINGSTON, LA PAZ, LIMA, LONDON, MADRID, MANAGUA, MONTEVIDEO, NEW DELHI, LISBON, MANILA, MUNICH, OSLO, PANAMA CITY, PARIS, PORT AU PRINCE, PORT OF SPAIN, PORTO ALEGRE, QUITO, RECIFE, RAWALFINDI, RIO DE JANERIO, ROME, SAN JOSE, SANTO DOMINGO, SAN SALVADOR, SANTIAGO, SANTIAGO DE LOS CABALLEROS, SAO PAULO, STOCKHOLM, TEGUCIGALPA, TOKYO, VIENNA, ZURICH",
+  "sender": "Richard Oberf, CIOP/DO, DDP"
+}

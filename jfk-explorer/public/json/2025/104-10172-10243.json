@@ -1,0 +1,32 @@
+{
+  "classification": "Liaison",
+  "document_type": "Classified Message",
+  "security": "This message discusses intelligence sharing between KUBARK (CIA) and German services regarding AELADLE. The Bonn station suggests the CIA should not act as a \"MIDDLEMAN\" in the exchange of information between German services \"IN CASE AFFECTING GERMAN SECURITY\" and involving information obtained by BFV (German intelligence) from AELADLE. It implies concerns about compromising German security interests or sources.",
+  "security_level": "SECRET",
+  "summary": "The Bonn station advises the CIA Director against acting as an intermediary in the exchange of information between German intelligence services concerning the AELADLE case, suggesting direct communication between UPHILL and CAVATA/ASBV is more appropriate due to German security concerns.",
+  "summary_one_paragraph": "In a classified message from Bonn to the Director on June 25, 1963, the Bonn station (citing reference A, DIR 48717 and B EGOW 3194) advises against the CIA (KUBARK) acting as a middleman for information exchange between German intelligence services (specifically UPHILL and CAVATA/ASBV) regarding the AELADLE case. The Bonn station suggests that direct communication between UPHILL and CAVATA/ASBV is more appropriate because the case affects German security and involves information obtained by the BFV (German intelligence) from AELADLE.",
+  "tags": [
+    "CIA",
+    "KUBARK",
+    "AELADLE",
+    "UPHILL",
+    "CAVATA",
+    "ASBV",
+    "BFV",
+    "German Intelligence",
+    "Intelligence Sharing",
+    "Liaison",
+    "Security Concerns"
+  ],
+  "title": "RYBAT UPHILL JURANDON AELADLE",
+  "date": "1963-06-25",
+  "locations_mentioned": [
+    "Germany"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "AELADLE"
+  ],
+  "recipient": "Director",
+  "sender": "Bonn"
+}

@@ -1,0 +1,25 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "This cable concerns tracing subjects with 'LNERGO', which could involve covert or sensitive operations. Disclosing such operations could compromise ongoing intelligence efforts or reveal sources and methods. Additionally, mentioning specific company names (MUSGAQUE or WILDER OIL COMPANY) in connection to intelligence activities might harm business reputations or reveal connections that should remain secret. Quoting: 'CONCUR REF PROPOSAL. PLEASE ADVISE RESULT AND INCLUDE FULL IDENTIFYING DATA FOR FURTHER TRACES SUBJECT WITH LNERGO.' and 'LNERGO TRACES MUSGAQUE OR WILDER OIL COMPANY NEGATIVE.'",
+  "security_level": "SECRET",
+  "summary": "A cable concerning a proposal, requesting results and identifying data for tracing a subject using LNERGO, with negative results from LNERGO traces on MUSGAQUE or WILDER OIL Company.",
+  "summary_one_paragraph": "Dated April 25, 1968, this SECRET cable from Sylvester Farroll of AF/4/N at the CIA acknowledges a proposal and requests feedback, including full identifying details to further trace a subject using LNERGO. The cable reports that LNERGO traces regarding MUSGAQUE or WILDER OIL Company have yielded negative results, indicating no connection or information found. The cable's dissemination was through the Cable Secretariat.",
+  "tags": [
+    "CIA",
+    "LNERGO",
+    "Tracing",
+    "Musgaque",
+    "Wilder Oil Company",
+    "AF/4/N",
+    "Sylvester Farroll",
+    "Director 95087",
+    "Cable Secretariat",
+    "FOIA",
+    "JFK Assassination"
+  ],
+  "title": "Cable Regarding Proposal and Tracing Subject with LNERGO",
+  "date": "1968-04-25",
+  "origin_agency": "CIA",
+  "sender": "Sylvester Farroll (AF/4/N, CIA)"
+}

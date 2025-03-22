@@ -1,0 +1,33 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security": "Disclosing the methods by which the CIA is attempting to gather intelligence via seemingly benign questionnaires could compromise the agency's efforts. Specifically, the memo states: 'We suggested questions designed to elicit technical information about the station and its equipment...We stressed of course that none of these topics should be introduced into the questionnaire unless Mr. Butler was convinced of their suitability for his immediate purpose as well as for the long-term propaganda aim of his organization.' and 'We pointed out to Mr. Butler that, while information about key personnel and their political orientation, about the station's administrative policies, etc., was of prime importance to us, these subjects obviously could not be introduced into the questionnaire.'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This memo discusses the CIA's collaboration with the Information Council of the Americas (INCA) to gather intelligence on radio broadcasting in Latin America by suggesting topics for INCA's questionnaires and leveraging INCA's anti-Communist propaganda efforts.",
+  "summary_one_paragraph": "This memo, dated May 5, 1965, details collaboration between the CIA and the Information Council of the Americas (INCA), based in New Orleans. The CIA aims to leverage INCA's program of disseminating anti-Communist 'Truth Tapes' to Latin American radio stations. The CIA suggested additional topics for INCA’s questionnaires, designed to gather technical information about radio stations under the guise of benign inquiries. The memo highlights a plan to extract relevant information from INCA's correspondence and present it in a series of reports and requests suggestions for further refining the questionnaires.",
+  "tags": [
+    "CIA",
+    "INCA",
+    "Information Council of the Americas",
+    "Edward Scannell Butler",
+    "Radio Broadcasting",
+    "Latin America",
+    "Anti-Communism",
+    "Questionnaire",
+    "Foreign Intelligence"
+  ],
+  "title": "The Information Council of the Americas",
+  "date": "1965-05-05",
+  "locations_mentioned": [
+    "New Orleans, Louisiana",
+    "Latin America",
+    "Montevideo, Uruguay"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Edward Scannell Butler",
+    "Dr. Martin Migueo-Narancio"
+  ],
+  "recipient": "Chief, Contact Division, Nonsav Bloc Area",
+  "sender": "Lloyd A. Ray"
+}

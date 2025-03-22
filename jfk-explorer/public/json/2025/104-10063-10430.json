@@ -1,0 +1,23 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "The memo discusses Operation MHCHAOS, which was a sensitive operation controlled through extremely restricted handling channels. The author states that information on some pages was acquired from sensitive sources/methods and contains frequent mentions of FBI information concerning many of the Peace Movement groups/organizations cited; FBI reports received by MHCHAOS were invariably classified, for the most part CONFIDENTIAL. Therefore, revealing the document could expose sensitive intelligence-gathering methods and sources.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This memorandum discusses the classification of document EX 3600 related to Operation MHCHAOS, arguing that its contents warrant CONFIDENTIAL classification due to sensitive sources and methods used to acquire the information and the inclusion of classified FBI reports.",
+  "summary_one_paragraph": "A memorandum from C/SCB/IP to FJD-Lavery (OGC), via A. Addona (DDO/P), addresses the classification of document EX 3600, which pertains to Operation MHCHAOS. The author explains that MHCHAOS was a highly sensitive operation sanctioned by the DCI and controlled through restricted channels, justifying at least a SECRET classification. The memo further argues for the current CONFIDENTIAL classification, citing that the information was acquired through sensitive sources and methods, and includes classified FBI reports on Peace Movement groups and organizations. The memo recommends FOIA exemption (b)(3) for EX 3600.",
+  "tags": [
+    "MHCHAOS",
+    "Classification",
+    "FOIA",
+    "FBI",
+    "Peace Movement",
+    "Sensitive Sources",
+    "DCI",
+    "DDO/P",
+    "OGC"
+  ],
+  "title": "Classification of EX 3600",
+  "date": "1977-04-07",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "sender": "C/SCB/IP (likely an office within CIA)"
+}

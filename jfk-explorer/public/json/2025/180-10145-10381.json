@@ -1,0 +1,32 @@
+{
+  "classification": "Soviet",
+  "document_type": "Memo",
+  "security": "Disclosing details about surveillance and assessment of individuals, particularly regarding KGB connections and reliability assessments, could compromise ongoing intelligence operations and sources. For example, the memo states: 'PG ON KGB WATCH LIST - YOW,' and 'SU BONA FIDES REP. ELIABILITY NOTES PABUNDED.' Revealing these internal evaluations could alert individuals and foreign agencies to CIA scrutiny.",
+  "security_level": "SECRET",
+  "summary": "This memo details information on Pavel Golovachev (PG), his background, possible connections to the KGB, and assessments of individuals associated with Radio Free Europe/Radio Liberty. It also includes information on Soviet interpreters traveling abroad and KGB offices in Minsk.",
+  "summary_one_paragraph": "This CIA memo, dated January 19, 1977, summarizes information pertaining to Pavel Golovachev (PG), noting his potential KGB connections and his status on a KGB watch list. The memo includes details from a cable dated 3/77, describing PG as aggressive and outgoing but unable to hold a steady job, along with his DOB (11/19/49) and details about knowing someone in Germany. It also provides insight on Jan Zaprudnik, a Belorussian correspondent for Radio Free Europe/Radio Liberty, and offers observations on Soviet interpreters traveling abroad, as well as KGB offices located in Minsk, including their associates at the 'Yobileynaya' Hotel.",
+  "tags": [
+    "Pavel Golovachev",
+    "KGB",
+    "Radio Free Europe",
+    "Radio Liberty",
+    "Soviet Interpreters",
+    "Minsk",
+    "Jan Zaprudnik",
+    "Surveillance",
+    "Counterintelligence"
+  ],
+  "title": "Appendix to Memo - REMOVE PRIS provisions, Report By S. 11200V",
+  "date": "1977-01-19",
+  "locations_mentioned": [
+    "Minsk",
+    "Germany",
+    "US",
+    "Soviet Union"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Pavel Golovachev",
+    "Jan Zaprudnik"
+  ]
+}

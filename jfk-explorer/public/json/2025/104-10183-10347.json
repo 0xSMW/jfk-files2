@@ -1,0 +1,37 @@
+{
+  "classification": "Operations",
+  "document_type": "Report",
+  "security": "Disclosing operational details, agent names (Fernando MONTERREY, Cecilio PEREZ, Angie PERNIA, Franco DURAN, Lina), and training specifics (guerilla warfare) could compromise ongoing or future operations and endanger individuals involved. The mention of 'Claudication Comm. & manpower for (if in trouble?)' along with 'Identities' and 'Alternate meeting site' directly reveals operational methods, which if exposed, would increase risks for agents. Mentioning \"Reynaldo Dalton Larios 06\", \"Hernandez ( alias: Domingo) 06\", and \"For Gilberto Calderon Carallo 06\" will risk their safety.",
+  "security_level": "SECRET",
+  "summary": "This document details information on individuals trained in guerilla warfare, a case file named \"ZAPOTE\" that contains data on agents, instructions, legalities, communication methods, retreat plans, training information, and document translations, along with references to DGI organization involvement and English suites.",
+  "summary_one_paragraph": "This secret report, dated 15 March 1965, outlines information related to \"Operation ZAPOTE,\" which includes data on agents Reynaldo Dalton Larios, Hernandez (Domingo), and Gilberto Calderon Carallo. It details guerilla warfare training for individuals such as Fernando MONTERREY, Cecilio PEREZ, Angie PERNIA, Franco DURAN, and Lina in late 1963. The report also covers SW instructions, legal support, communications, retreat plans for MONTANO, division in Baltin, training for Dorado and LERMA, and claudication communications, referencing documents, message handling, and Miami-based tabulations, with connections to DGI organization activity and the availability of an English suite.",
+  "tags": [
+    "Guerilla Warfare",
+    "Agents",
+    "ZAPOTE",
+    "DGI",
+    "Communications",
+    "Training",
+    "Operations",
+    "Case File"
+  ],
+  "title": "Background Use Only",
+  "date": "1965-03-15",
+  "persons_mentioned": [
+    "Fernando MONTERREY",
+    "Cecilio PEREZ",
+    "Antonio GORGIL Rivera",
+    "Cala MIRILLOS",
+    "Angie PERNIA Ortiz",
+    "Reynaldo LOPEZ Ringo",
+    "Franco DURAN Carane",
+    "Lina",
+    "Reynaldo Dalton Larios",
+    "Hernandez",
+    "Domingo",
+    "Gilberto Calderon Carallo",
+    "MONTANO",
+    "Dorado",
+    "LERMA"
+  ]
+}

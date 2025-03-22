@@ -1,0 +1,37 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security": "Revealing the identities and operational details of agents (ANTRE 1, AMPANIC-1, AMIPE 1, AMELEN-1, APTOX-1, AMIRD-1, AMFOX-1) and their activities, including recruitment methods, safehouse locations, and training procedures, could compromise ongoing or future operations and endanger individuals. Directly quoting: “Subject was trained for a week or so by AMELEN-1 in a safehouse located at 39 San Rafael Street… Training included the clandestine operation of a RS-1, the use of signal plans, the use of pads in coding and decoding, and personal security.”",
+  "security_level": "SECRET",
+  "summary": "A dispatch from JMWAVE requesting Headquarters assistance in identifying and locating a WT operator candidate recruited in 1960 for potential operational use inside the target area. The candidate had experience operating a clandestine WT set for the Organizacion Autentica (OA) against the Batista regime and received training from AMELEN-1.",
+  "summary_one_paragraph": "This secret dispatch from the Chief of Station at JMWAVE to the Chief of Special Affairs Staff details the recruitment and training of a WT operator candidate in 1960, who was recruited by ANTRE 1 (Peter J. DI CERVENO) after being initially spotted by AMPANIC-1. The candidate, who had prior experience with the Organizacion Autentica (OA), received training at a safehouse located at 39 San Rafael Street by AMELEN-1, focusing on the clandestine operation of a RS-1 and personal security; this was approved by CO George D. SCOPCORY (AMIRD-1's CO at the time). Despite establishing bona fides, the candidate was never activated and was last contacted in early 1961; JMWAVE requests Headquarters' assistance in identifying and locating the candidate for possible operational use, while noting AMPANIC-1's termination due to security weaknesses.",
+  "tags": [
+    "JMWAVE",
+    "WT Operator",
+    "Recruitment",
+    "Training",
+    "Clandestine Operations",
+    "Organizacion Autentica (OA)",
+    "Cuba",
+    "Operational Candidate"
+  ],
+  "title": "Operational/CYPOCE/AIREALEN/FOX WT Operator Candidate Inside Target Area.",
+  "date": "1963-01-25",
+  "locations_mentioned": [
+    "Palecon and Principe Streets",
+    "Penocal Avenue (Infanta)",
+    "San Rafael Street"
+  ],
+  "origin_agency": "CIA JMWAVE",
+  "persons_mentioned": [
+    "Peter J. DI CERVENO (ANTRE 1)",
+    "AMPANIC-1",
+    "AMIPE 1",
+    "AMELEN-1",
+    "APTOX-1",
+    "George D. SCOPCORY (AMIRD-1)",
+    "AMFOX-1"
+  ],
+  "recipient": "Chief, Special Affairs Staff",
+  "sender": "Chief of Station, JMWAVE"
+}

@@ -1,0 +1,34 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch",
+  "security": "This dispatch involves operational leads related to Soviet intelligence officers in West Germany. It mentions the potential for AELADLE to identify a KGB officer. Releasing this information could compromise AELADLE, the identified KGB officer (if Akhluyev or someone else), and any ongoing intelligence operations related to these individuals. Quoting: \"WE WONDER IF IT WOULD BE POSSIBLE TO QUERY AELADDE SOME MANNER... IT MAY, HOWEVER, PROVE PROFITABLE TO REVIEW WITH AELADLE AGAIN SOME OF THE SOVIETS ASSIGNED IN WEST GERMANY...\"",
+  "security_level": "SECRET",
+  "summary": "A dispatch from the Chief of Base, Bonn, discusses a potential lead regarding a KGB officer in Germany mentioned by AELADLE during a meeting with WEYDE, requesting advice on how to proceed with querying AELADLE further.",
+  "summary_one_paragraph": "This SECRET dispatch, sent by the Chief of Base in Bonn, discusses a potential intelligence lead stemming from a meeting between WEYDE and AELADLE. During this meeting, AELADLE mentioned knowing a KGB officer in Germany with similar political views, suggesting Western intelligence should leave him alone as he might defect. WEYDE could not recall the name but believed it started with 'A,' possibly AKHLUYEV. The dispatch requests guidance on whether to query AELADLE further to confirm the identity of the KGB officer without jeopardizing AELADLE's safety, proposing to review a list of Soviets in West Germany with 'A' names with AELADLE.",
+  "tags": [
+    "REDCAP",
+    "LUIMPROVE",
+    "AELADLE",
+    "WEYDE",
+    "KGB",
+    "AKHLUYEV",
+    "Soviet Intelligence",
+    "Germany",
+    "Counterintelligence"
+  ],
+  "title": "REDCAP LUIMPROVE AELADLE LEAD",
+  "date": "1963-05-24",
+  "locations_mentioned": [
+    "Washington",
+    "Germany"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AELADLE",
+    "WEYDE",
+    "Dr. Meier",
+    "AKHLUYEV"
+  ],
+  "recipient": "All Addressees",
+  "sender": "Chief of Base, Bonn"
+}

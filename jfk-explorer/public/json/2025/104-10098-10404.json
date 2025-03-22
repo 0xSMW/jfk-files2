@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing the movement of Soviet technicians and military equipment in Cuba could compromise intelligence sources (such as REGISTO REMIGIO NE DOI and FRUITA ROCA) and collection methods. Sharing the negative assessments of Cuban military capabilities might also strain diplomatic relations. Quoting: \"DAY BEFORE HURRICANE CYNTHIA HIT CUBA, BETWEEN 300 AND 500 SOVIET TECKS LEFT BY SHIP FROM SANTIAGO DE CUBA...SOVS APPEAR TO BE TECHS, ALTINO YOUNG, MOST OBSERVED RUSSIANET HAD NO MILITARY BEARING, IN SLOPPY PHYSICAL SHAPE, HIS ASSUMPTION THEY CIVILIANS.\"",
+  "security_level": "SECRET",
+  "summary": "A secret classified message details the movement of Soviet technicians and military equipment in Cuba, reporting on their departure and arrival, as well as observations on the training and organization of the Cuban army and militia.",
+  "summary_one_paragraph": "This classified message, dated approximately November 1963 (based on Hurricane Cynthia reference), reports on Soviet activity in Cuba, including the departure of Soviet technicians from Santiago de Cuba and the arrival of others in Madruga. Sources note that the Soviets appeared to be civilian technicians, not military personnel. The message also assesses the Cuban military, indicating improved training and organization of the army, and describes an incident where Cuban troops searched a cane field near Soroa. The report includes the sentiment that Soviet presence in Cuba is perceived as permanent by locals, and touches on Cubans returning from Katanga.",
+  "tags": [
+    "Soviet Technicians",
+    "Cuba",
+    "Military Equipment",
+    "Cuban Army",
+    "CIA",
+    "Hurricane Cynthia"
+  ],
+  "title": "Soviet and Cuban Military Activities",
+  "date": "1963-11-01",
+  "locations_mentioned": [
+    "Cuba",
+    "Santiago de Cuba",
+    "Madruga",
+    "Pinar del Rio",
+    "Soroa"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Fidel Castro"
+  ],
+  "recipient": "NICO CITY",
+  "sender": "DIRECTOR"
+}

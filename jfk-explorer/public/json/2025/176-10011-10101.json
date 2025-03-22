@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Paper",
+  "security": "This document details a clandestine operation to contaminate sugar being shipped from Cuba to the Soviet Union, which could compromise intelligence sources and methods. The document states: \"Through a clandestine operation which was not detected and is not traceable, we were able to contaminate 800 of these bags of sugar with a chemical used in the process of denaturing alcohol...This successful contamination will spoil the entire cargo...\"",
+  "security_level": "Secret",
+  "summary": "A CIA paper describes a clandestine operation in San Juan, Puerto Rico, to contaminate Cuban sugar being shipped to the Soviet Union with a chemical that would make it unfit for consumption, estimating a loss of $350,000 to $400,000 for the USSR.",
+  "summary_one_paragraph": "Dated August 29, 1962, this document details a covert CIA operation where 800 bags of Cuban raw sugar, part of a shipment destined for the USSR, were contaminated with a chemical during a temporary off-load in San Juan, Puerto Rico. The operation, conducted without detection, involved a British merchant ship, the STREATHAM HILL, and aimed to render the entire cargo of 80,000 bags unfit for human or animal consumption. The contaminated sugar, valued at $350,000 to $400,000, would have an ineradicable bitter taste due to the chemical used in denaturing alcohol.",
+  "tags": [
+    "CIA",
+    "Anti-Castro Activities",
+    "Clandestine Operation",
+    "Sugar Contamination",
+    "Soviet Union",
+    "San Juan",
+    "Puerto Rico",
+    "Streatham Hill"
+  ],
+  "title": "EXTRACT FROM PAPER SENT GEN. LANSDALE 29 AUGUST '62",
+  "date": "1962-08-29",
+  "locations_mentioned": [
+    "Havana, Cuba",
+    "Odessa, USSR",
+    "Caribbean",
+    "San Juan, Puerto Rico",
+    "Soviet Union"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Gen. Lansdale"
+  ]
+}

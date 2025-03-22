@@ -1,0 +1,41 @@
+{
+  "classification": "Personnel",
+  "document_type": "Dispatch",
+  "security": "Several documents refer to \"cover ventures\", \"operational expenses\", and maintaining the \"security of this arrangement\", including a clause stating that all information related to the agreement is secret and shall not be divulged. Revealing these details could compromise ongoing operations and expose methods used to maintain secrecy.",
+  "security_level": "SECRET",
+  "summary": "This file contains documents related to the employment and termination of Ernest G. Maycrink (WIROGUE/1), including contracts, agreements, and memorandums regarding his work on Project AESENTINEL, his compensation, and associated benefits. It covers the period from 1959 to 1961, detailing his engagement as an independent contractor, his transition from SR/DOB to the African Division, and the terms of his relocation and termination.",
+  "summary_one_paragraph": "This collection of documents pertains to Ernest G. Maycrink's (WIROGUE/1) employment history with the CIA, specifically his involvement in Project AESENTINEL and subsequent transfer to the African Division. The documents span from July 1959 to July 1961 and include various contracts, memorandums, and financial records outlining his initial engagement terms ($500/month), benefits (medical, insurance, resettlement), and the transition in his assignment leading to his termination and relocation to Europe with a $2000 payment. These records detail the shifting project affiliations, compensation adjustments, and the implementation of secrecy clauses to protect the operational details of his work.",
+  "tags": [
+    "Ernest G. Maycrink",
+    "WIROGUE/1",
+    "Project AESENTINEL",
+    "Independent Contractor",
+    "Africa Division",
+    "Contract Termination",
+    "Resettlement",
+    "Secrecy Agreement"
+  ],
+  "title": "WIROGUE",
+  "date": "1961-07-27",
+  "locations_mentioned": [
+    "Dressaville",
+    "Payoville",
+    "Coquilhatville",
+    "Europe",
+    "United States"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Ernest G. Maycrink",
+    "Angela B. Derricote",
+    "Juthisen",
+    "William R. Ember",
+    "Glenn D. Fields",
+    "Daniel R. Niesciur",
+    "Madge Hobb",
+    "J. Keith Reid",
+    "Michael Rae"
+  ],
+  "recipient": "Contract Personnel Division, Chief of Atlas, Chief of Finance Division",
+  "sender": "Michael Rae, Glenn D. Fields"
+}

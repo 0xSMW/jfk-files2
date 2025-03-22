@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "The message reveals operational code names (KEYWAY, PERUMEN, AMWHIP) and discusses ongoing investigations related to Cuban exiles. Exposing these details could compromise current or future operations and endanger individuals associated with the investigation. Specifically, the reference to AMWHIP offering a new business as cover reveals operational methods and could lead to the identification of intelligence assets. Quoting the document, 'Latter offered use of new business as cover and said had hired Karin ESPINOSA'.",
+  "security_level": "SECRET",
+  "summary": "A classified message from the Director to Rome station concerning Karin Espinosa and her husband Miguel Angel Espinosa Bravo, a former Cuban ambassador, including background information on the husband's defection from the Castro government and involvement with anti-Castro groups.",
+  "summary_one_paragraph": "Dated June 13, 1963, this secret message from the Director to the Rome station provides background information on Karin Espinosa and her husband, Miguel Angel Espinosa Bravo, a former Cuban ambassador to Norway. It details Bravo's diplomatic career, his disaffection with the Castro government as of January 1960, his arrival in Buenos Aires as a Cuban exile in May 1961, and his membership in an anti-Castro group. The message also notes that AMWHIP offered Espinosa the use of a new business as cover, having hired Karin Espinosa.",
+  "tags": [
+    "CIA",
+    "Cuban Exile",
+    "Anti-Castro",
+    "Operational Security",
+    "Counterintelligence",
+    "Defector"
+  ],
+  "title": "No Tracks Karin Espinosa",
+  "date": "1963-06-13",
+  "locations_mentioned": [
+    "Rome",
+    "Norway",
+    "Madrid",
+    "Berlin",
+    "Mexico",
+    "Buenos Aires",
+    "Havana"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Karin Espinosa",
+    "Miguel Angel Espinosa Bravo",
+    "Fidel Castro",
+    "Mr. Armstrong",
+    "Mr. Sherman"
+  ],
+  "recipient": "Rome Station",
+  "sender": "Director (Stephen I. Mungerra)"
+}

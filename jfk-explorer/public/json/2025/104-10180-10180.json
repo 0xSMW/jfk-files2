@@ -1,0 +1,53 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "Revealing the names of agents and their connections could expose them to danger and disrupt operations. \"Following is a list of the agents known or probably known to ANETE-1...ANETE-1 was also aware of the persons with whom the staybehind funds are cached or stashed.\"",
+  "security_level": "SECRET",
+  "summary": "A memo details the potential damage to CIA operations in Cuba following the arrest of ANETE-1, a principal agent, including exposure of agent networks and cached funds.",
+  "summary_one_paragraph": "This secret memorandum, dated March 4, 1961, from Robert E. Gamberini (C/WH/L/FI) to the Chief of WH/4, assesses the damage to CIA operations resulting from the arrest of ANETE-1, a key agent in Cuba's stay-behind networks. The memo indicates that ANETE-1 had detailed knowledge of agent networks (including AMRIPE-1, AMARCH-1, and others), their contact methods, and cached funds, as well as connections to counter-revolutionaries, potentially compromising these assets and operations. The memo highlights the critical nature of ANETE-1's position and the breadth of sensitive information he possessed, necessitating a realistic appraisal of the operational fallout.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Agent Network",
+    "ANETE-1",
+    "Stay-behind Operations",
+    "Compromised Agents",
+    "Counter-revolutionaries",
+    "Arrest",
+    "Robert E. Gamberini"
+  ],
+  "title": "ARREST of ANETE-1 on 3 March 1961",
+  "date": "1961-03-04",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Santiago",
+    "Marianao"
+  ],
+  "origin_agency": "CIA (WH/4)",
+  "persons_mentioned": [
+    "ANETE-1",
+    "CUR",
+    "Francisco (ARTISAN)",
+    "AMRIPE-1",
+    "OPNE-1",
+    "AMARCH-1",
+    "ANJEST-1",
+    "AMFOX-1",
+    "APCONCERT-2",
+    "AMLOW-1",
+    "AMICON-1",
+    "AMIDDY-1",
+    "APCONCERT-1",
+    "AMWHIG-1",
+    "AMLOUT-1",
+    "AMFAIR-2",
+    "APRONUNCH-11",
+    "AMLASH-2",
+    "AMG5-2",
+    "ANWILT-2",
+    "AMJEST-2"
+  ],
+  "recipient": "Chief, WH/4",
+  "sender": "Robert E. Gamberini (C/WH/L/FI)"
+}

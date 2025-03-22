@@ -1,0 +1,53 @@
+{
+  "classification": "Operations",
+  "document_type": "Agency Message",
+  "security": "Disclosing details about the investigations of Maria Paula Souza Freitas and Miquel Russo could compromise ongoing operations and put sources like Amaury Da De Souza and Dona Fides Moreira at risk. The message details investigative methods, such as monitoring telephone tolls and using collaborators. Also, the message contains the details of contact Jose “Chepe” “Duarte, HR and the fact that President Arana gave ESLOGIC-27 green light to investigate and “take necessary action”.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agency message reports on the activities of Maria Paula Souza Freitas and Miquel Russo, suspected of contraband and narcotics trafficking, detailing their movements and contacts, including a Honduran immigration chief and an American resident of Miami, and discusses the investigation being conducted by ESLOGIC-27.",
+  "summary_one_paragraph": "This agency message, dated April 1973, details the investigation into Maria Paula Souza Freitas and Miquel Russo, who are suspected of contraband and narcotics trafficking. It reports their travel between Brazil, El Salvador, and Guatemala, the assistance Russo received from Amaury Da De Souza, the involvement of Honduran immigration chief Jose \"Chepe\" Duarte, and Russo's connections to Miami resident John Martin. The message also discusses the reluctance of a potential collaborator, Moreira, and the limitations of the available ESMETRIC team for conducting the investigation, while noting that President Arana has authorized ESLOGIC-27 to take necessary action.",
+  "tags": [
+    "ESLOGIC-27",
+    "Maria Paula Souza Freitas",
+    "Miquel Russo",
+    "Contraband",
+    "Narcotics Trafficking",
+    "Guatemala",
+    "El Salvador",
+    "Honduras",
+    "Miami",
+    "Interpol",
+    "ESMETRIC",
+    "Arana"
+  ],
+  "title": "Report on Activities of Maria Paula Souza Freitas and Miquel Russo",
+  "locations_mentioned": [
+    "Guatemala City",
+    "Miami",
+    "Mexico City",
+    "Brasilia",
+    "Rio de Janeiro",
+    "San Salvador",
+    "Tegucigalpa",
+    "El Salvador",
+    "Valle Nuevo",
+    "Ciudad Pedro de Alvarado",
+    "Belize",
+    "British Honduras",
+    "Spain",
+    "Honduras",
+    "Aquascalientes"
+  ],
+  "persons_mentioned": [
+    "Maria Paula Souza Freitas",
+    "Miquel Russo",
+    "Amaury Da De Souza",
+    "Moreira",
+    "Jose \"Chepe\" Duarte",
+    "President Arana",
+    "John Martin",
+    "Arturo Arana",
+    "Dona Fides Moreira"
+  ],
+  "recipient": "Director, UN/Miami, Mexico City, Brasilia, Rio de Janeiro, San Salvador, Tegucigalpa",
+  "sender": "Guatemala City"
+}

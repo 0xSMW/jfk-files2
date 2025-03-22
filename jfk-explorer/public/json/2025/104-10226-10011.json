@@ -1,0 +1,40 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "Disclosing the names of members of a clandestine organization and its connection to religious figures could compromise their safety and the organization's operations. The memo also reveals specific methods used to transport information and equipment to anti-Castro guerrillas, which could be exploited by counterintelligence efforts.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memo details an interview with Julio Pablo Rodriguez Navas, a Cuban exile and member of the United Revolutionary Movement (URM), regarding his activities as a courier and his knowledge of URM's leadership and operations.",
+  "summary_one_paragraph": "On April 4, 1961, Luis M. Rodriguez interviewed Cuban exile Julio Pablo Rodriguez Navas in Miami, Florida, about his involvement with the United Revolutionary Movement (URM). Navas, who arrived in the U.S. on March 21, 1961, revealed that he served as a courier for URM, transporting communications between the organization and a Catholic Chaplain at the Cabana fortress via Pray Fabian. He also transported a radio transmitter to anti-Castro guerrillas in the Escambray. Navas mentioned key URM leaders, including Major Humberto 2001 Perin and Rogelio Gonzalez ('Trestleiro'), all of whom had been recently arrested, disrupting the organization. He intends to remain in the U.S. and contact 'Barosto', the URM representative in Miami, but no further contacts are anticipated by this office.",
+  "tags": [
+    "Cuban Exile",
+    "United Revolutionary Movement",
+    "URM",
+    "Julio Pablo Rodriguez Navas",
+    "Counter Intelligence",
+    "Anti-Castro Guerrillas"
+  ],
+  "title": "Memorandum of Visit to: Julio Pablo RODRIGUEZ NAVAS",
+  "date": "1961-04-06",
+  "locations_mentioned": [
+    "Miami, Florida",
+    "Havana, Cuba",
+    "Miramar, Cuba",
+    "Sancti Spiritus, Cuba",
+    "Las Villas, Cuba",
+    "Escambray, Cuba",
+    "Cabana fortress, Cuba"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Julio Pablo RODRIGUEZ NAVAS",
+    "Frank Watermann",
+    "Luis M. Rodriguez",
+    "Humberto 2001 Perin",
+    "Rogelio GONZALEZ",
+    "Rafael DIAZ",
+    "Pray Fabian",
+    "Barosto"
+  ],
+  "recipient": "Chief, Counter Division",
+  "sender": "Chief, Miami Office"
+}

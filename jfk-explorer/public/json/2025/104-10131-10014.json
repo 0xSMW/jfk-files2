@@ -1,0 +1,33 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security": "This memo details the process for issuing a CIA identification card under an alias to an employee of Task Force W (TFW), Harold F. Safley. It specifies the procedures for handling inquiries about the alias, involving multiple security personnel, and notes an exception to the general rule against issuing CIA IDs to State Department 'integrees' due to Safley's position and experience. Disclosing these processes could reveal operational methods for maintaining cover identities and compromise security protocols.",
+  "security_level": "SECRET",
+  "summary": "A memo detailing the issuance of a CIA identification card under the alias 'SAFLEY, Harold F.' to an employee of Task Force W, outlining procedures for handling inquiries and noting an exception to standard policy.",
+  "summary_one_paragraph": "This memorandum, dated November 6, 1962, addresses the Director of Personnel regarding the issuance of a CIA identification card under the alias Harold F. Safley to an employee of Task Force W. The memo outlines that an indices card is to be established in this alias so the Office of Personnel can acknowledge any inquiries. Upon receiving inquiries, the Chief of Cover Support Section (or George Ladner) should be promptly advised. An exception was made to the general rule against issuing CIA identification in alias to State Department integrees due to the Subject's position and experience, with control strictly limited to assignments directly by Mr. Harvey.",
+  "tags": [
+    "CIA",
+    "Alias",
+    "Identification Card",
+    "Cover Support",
+    "Task Force W",
+    "State Department",
+    "Personnel Security"
+  ],
+  "title": "Issuance of CIA Identification Card under Alias for Harold F. Safley",
+  "date": "1962-11-06",
+  "persons_mentioned": [
+    "Harold F. Safley",
+    "Dorothy Turner",
+    "Victor White",
+    "Ervan E. Kuhnke, Jr.",
+    "George Ladner",
+    "Moorhouse",
+    "Bannerman",
+    "Harvey",
+    "Louis W. Armstrong",
+    "Harold F. Swenson"
+  ],
+  "recipient": "Director of Personnel",
+  "sender": "Deputy Director of Security (Investigations and Operational Support)"
+}

@@ -1,0 +1,29 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "Disclosing the physical description of Carlos (TEPEDINO) GONZALEZ could jeopardize ongoing surveillance efforts. Quoting directly: 'IDEN IS CARLOS (TEPEDINO) GONZALEZ, AGE 38 (LOOKS 45), 5'8\", 170 LBS. MOUSTACHE, ROUND, FULL, KIND-LOOKING FACE, THINNING, GRAYING BLACK HAIR COMBED STRAIGHTE BACK, BOW-LEGGED.'",
+  "security_level": "SECRET",
+  "summary": "A classified message identifies Carlos (TEPEDINO) GONZALEZ, providing a detailed physical description for stations in Geneva, Bern, Madrid, Rome, and Paris.",
+  "summary_one_paragraph": "This SECRET classified message, dated April 17, 1964, from the Director to stations in Geneva, Bern, Madrid, Rome, and Paris, provides the identification of Carlos (TEPEDINO) GONZALEZ. Referencing DIR 15094, the message includes Gonzalez's physical characteristics: age 38 (appearing 45), height 5'8\", weight 170 lbs, moustache, round face, thinning graying black hair, and bow-legged posture.",
+  "tags": [
+    "CIA",
+    "Identification",
+    "Carlos (TEPEDINO) GONZALEZ",
+    "Surveillance"
+  ],
+  "title": "Identification of Carlos (TEPEDINO) GONZALEZ",
+  "date": "1964-04-17",
+  "locations_mentioned": [
+    "Geneva",
+    "Bern",
+    "Madrid",
+    "Rome",
+    "Paris"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Carlos (TEPEDINO) GONZALEZ"
+  ],
+  "recipient": "GENEVA BERN MADRID ROME PARIS",
+  "sender": "DIRECTOR"
+}

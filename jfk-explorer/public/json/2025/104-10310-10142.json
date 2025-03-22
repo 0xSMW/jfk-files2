@@ -1,0 +1,29 @@
+{
+  "classification": "Security",
+  "document_type": "Cable",
+  "security": "Disclosing that Nagell threatened to expose the U.S. government on radio, television, and in the press if his demands were not met could damage the reputation of the U.S. government and reveal sensitive information about Nagell's knowledge.",
+  "security_level": "SECRET",
+  "summary": "A cable reports that Nagell threatened to expose the U.S. government if his demands were unmet, last appearing at the Zurich Consulate on March 7 and later making similar threats at the U.S. Consulate in Barcelona.",
+  "summary_one_paragraph": "This cable, dated March 15, 1969, reports that Nagell visited the Zurich Consulate on March 7, threatening to expose the U.S. government through radio, television, and the press if his demands were not satisfied by that afternoon; after disappearing without further contact or publicity, Nagell made similar threats at the U.S. Consulate in Barcelona on March 10, prompting the cable's dispatch and reference to file 201-746537.",
+  "tags": [
+    "Nagell",
+    "Zurich",
+    "Barcelona",
+    "Threat",
+    "Exposure",
+    "U.S. Government",
+    "Consulate"
+  ],
+  "title": "Nagell's Threats to Expose U.S. Government",
+  "date": "1969-03-15",
+  "locations_mentioned": [
+    "Zurich",
+    "Barcelona"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Nagell"
+  ],
+  "recipient": "Director, Bern",
+  "sender": "Zurich"
+}

@@ -1,0 +1,51 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum; Personal Record Questionnaire",
+  "security": "This document contains personal information, operational information, and potentially sensitive intelligence connections.  Disclosing the details of the agent's past activities, associations, and proposed use, as well as the security checks performed, could compromise ongoing or future operations. The unilateral penetration use of the agent and that information is destined for circuit could be compromised.",
+  "security_level": "SECRET",
+  "summary": "This is a SECRET memorandum with attachments related to a Personal Record Questionnaire (PRQ) for an individual, including biographical and operational information, potential motivations, intelligence connections, and proposed use. It details the subject's history, skills, family, and security checks conducted by the agency.",
+  "summary_one_paragraph": "This memorandum and its attachments detail the personal and operational background of an individual, as documented in a Personal Record Questionnaire (PRQ). The documents cover a wide range of information, including the subject's biographical data, citizenship, travel history, employment history, marital status, family details, education, special skills (such as being a good marksman), and military service. The document also delves into operational aspects such as the subject's motivation, control mechanisms, cover used, intelligence connections, training, collaboration potential, and proposed use, including unilateral penetration, and security.  Checks are listed, highlighting agency relationship, qualifications for other operations, commitments, and security evaluations.",
+  "tags": [
+    "Personal Record Questionnaire",
+    "PRQ",
+    "Biographical Information",
+    "Operational Information",
+    "Intelligence Connections",
+    "Agent",
+    "Security Checks",
+    "Unilateral Penetration"
+  ],
+  "title": "Personal Record Questionnaire",
+  "date": "Unknown",
+  "locations_mentioned": [
+    "Miami, Florida",
+    "Mexico",
+    "Guatemala",
+    "Dominican Republic",
+    "Puerto Rico",
+    "Venezuela",
+    "Trinidad, Tobago",
+    "Bogota",
+    "Aruba",
+    "Lima, Peru",
+    "Argentina",
+    "Brazil",
+    "Portugal",
+    "Rome",
+    "Vienna",
+    "Cuba",
+    "USA",
+    "Fort Benning, Ga"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Roberto Rom",
+    "Nieves Elina",
+    "Jorge Lola Posada",
+    "Luto Posada",
+    "Dolores Carriles",
+    "Augusto Val Des Miranda"
+  ],
+  "recipient": "Deputy Director of Security (Investigations and Support)",
+  "sender": "Chief, CI/OA"
+}

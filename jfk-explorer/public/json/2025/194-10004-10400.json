@@ -1,0 +1,33 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Information pertains to an individual, Manuel Marti, and his background check. Sharing Marti's personal data, such as his date of birth and alias, could potentially compromise his privacy.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is an agent report detailing a local agency check on Manuel Marti conducted by the FBI in San Juan, Puerto Rico, which found no records under his name or his alias, Manuel Adrian Sotomayor-Badillo. The report references a previous agent report noting that Marti's name was changed in 1963.",
+  "summary_one_paragraph": "On October 1, 1968, Special Agent Robert C. Petersen of the 771st MI Det submitted a report detailing a local agency check on Manuel Marti (also known as Manuel Adrian Sotomayor-Badillo). The check, conducted on September 30, 1968, at the San Juan Field Office of the FBI with the assistance of Mrs. Carmen Orraca, Records Supervisor, revealed no records for Marti under either name. The report also references a prior agent report from September 25, 1968, indicating that Marti's name was changed on March 5, 1963.",
+  "tags": [
+    "INSCOM/CSF",
+    "DOD-Affiliated Personnel",
+    "Incident Investigations",
+    "Local Agency Check",
+    "FBI",
+    "Puerto Rico",
+    "Manuel Marti",
+    "Manuel Adrian Sotomayor-Badillo",
+    "Name Change"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1968-10-01",
+  "locations_mentioned": [
+    "San Juan, Puerto Rico",
+    "Hato Rey, Puerto Rico"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Manuel Adrian Sotomayor-Badillo",
+    "Carmen Orraca",
+    "Robert C. Petersen"
+  ],
+  "sender": "[RESTRICTED]"
+}

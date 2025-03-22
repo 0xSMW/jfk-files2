@@ -1,0 +1,25 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "Disclosing the identities of potential assets or companies being investigated could jeopardize ongoing intelligence operations and compromise the safety of individuals involved. Therefore this cable requires careful handling to prevent unauthorized access.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A cable from Mexico City identifies two entities, ANH & Company and Overseas Realty Survey Associates, potentially linked to LILANK.",
+  "summary_one_paragraph": "This is a priority MEGA cable originating from Mexico City on October 21, 1963, identifying ANH & Company of New York and Overseas Realty Survey Associates of Seattle, Washington, as entities potentially related to LILANK. The cable references DIR 77179, suggesting this message is in response to a previous directive.",
+  "tags": [
+    "LILANK",
+    "ANH & Company",
+    "Overseas Realty Survey Associates",
+    "Mexico City",
+    "Potential Assets"
+  ],
+  "title": "Identification of ANH & Company and Overseas Realty Survey Associates",
+  "date": "1963-10-21",
+  "locations_mentioned": [
+    "Mexico City",
+    "New York, N.Y.",
+    "Seattle, Washington"
+  ],
+  "origin_agency": "CIA Mexico City Station",
+  "recipient": "Unknown",
+  "sender": "L.G. BORE19:15 WH/3/Mexico"
+}

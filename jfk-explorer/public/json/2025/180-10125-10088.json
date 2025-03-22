@@ -1,0 +1,21 @@
+{
+  "classification": "Administrative",
+  "document_type": "Payroll Certification",
+  "security": "This document contains personal information such as social security numbers and salaries, which should be protected from unauthorized disclosure.",
+  "security_level": "Unclassified",
+  "summary": "This document is a payroll certification report for the U.S. House of Representatives Select Committee on Assassinations, listing employees, their positions, annual salaries, and pay period earnings for March 1978.",
+  "summary_one_paragraph": "This payroll certification report, dated April 5, 1978, details the payroll for the U.S. House of Representatives Select Committee on Assassinations for the accounting period of March 1, 1978, to March 31, 1978. The report lists employees along with their Social Security numbers, job titles, annual gross salaries, and the amount earned during the specified period, noting any pay rate changes, appointments, or terminations. The document indicates the committee's allowance type, lump sum salary limits, and provides a comprehensive overview of the committee's personnel expenses for that month.",
+  "tags": [
+    "Payroll",
+    "US House of Representatives",
+    "Select Committee on Assassinations",
+    "Personnel",
+    "Salaries",
+    "Expenses"
+  ],
+  "title": "Payroll Certification",
+  "date": "1978-04-05",
+  "origin_agency": "U.S. House of Representatives",
+  "recipient": "Select Committee on Assassinations",
+  "sender": "U.S. House of Representatives"
+}

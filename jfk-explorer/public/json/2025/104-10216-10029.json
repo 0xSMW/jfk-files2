@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Information Report",
+  "security": "Revealing the report could expose intelligence sources in Cuba and Canada, potentially endangering those individuals. The report explicitly states, 'This material contains information affecting the National Defense of the United States within the meaning of the Espionage Laws...the transmission or revelation of which in any manner to an unauthorized person is prohibited by law.'",
+  "security_level": "SECRET",
+  "summary": "An information report details a successful prison break at El Principe Prison in Havana during late April 1968, where prisoners escaped through a tunnel to a neighboring hospital's courtyard; following the escape, ex-Major Rolando Cubela Secades was moved to a prison in Oriente Province.",
+  "summary_one_paragraph": "This SECRET information report, dated 28 June 1968, recounts a prison break at El Principe Prison in Havana in late April 1968, where a group of prisoners escaped via a tunnel to a nearby hospital courtyard. The report also mentions that ex-Major Rolando Cubela Secades, convicted for plotting to assassinate Fidel Castro, was transferred to a prison in Oriente Province following the escape. A rumor suggested that Huber Matos was among the escapees; however, the wife of a prisoner in La Cabana Prison indicated that Matos and twenty other political prisoners remained in Gallery 23 of that prison.",
+  "tags": [
+    "CIA",
+    "Prison Break",
+    "Cuba",
+    "El Principe Prison",
+    "Rolando Cubela Secades",
+    "Huber Matos",
+    "Havana",
+    "Intelligence Report"
+  ],
+  "title": "Prison Break at El Principe Prison in Havana",
+  "date": "1968-06-28",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "El Principe Prison",
+    "Oriente Province",
+    "La Cabana Prison"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Rolando Cubela Secades",
+    "Fidel Castro",
+    "Huber Matos"
+  ],
+  "recipient": "STATE, DIA, ARMY, NAVY, AIR, NSA, CRS, DCS, FBI",
+  "sender": "Canadian service from officials in Havana"
+}

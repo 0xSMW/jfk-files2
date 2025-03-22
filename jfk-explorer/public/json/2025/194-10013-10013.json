@@ -1,0 +1,33 @@
+{
+  "classification": "Personnel",
+  "document_type": "Paper, Textual Document",
+  "security": "The document itself is unclassified, but it contains personal information such as names, addresses, and dates of birth, which could raise privacy concerns if broadly disseminated.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is an exhibit cover sheet for a copy of a letter written by Cecil L. Griggs, the adopted father of Kenneth C. Griggs, to Philip LaChapelle Jr., dated November 24, 1967.",
+  "summary_one_paragraph": "This is an exhibit cover sheet dated January 24, 1968, prepared by the 115th MI Group (IV) regarding Kenneth C. Griggs, a PFC born on December 25, 1946, in Korea. It describes an attached copy of a letter written by Griggs' adopted father, Cecil L. Griggs, from Boise, Idaho, to Philip LaChapelle Jr. in Chicago, Illinois. The document is unclassified and includes file numbers and identifiers for tracking purposes.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "DOD-Affiliated Personnel",
+    "Incident Investigations",
+    "Kenneth C. Griggs",
+    "Cecil L. Griggs",
+    "Philip LaChapelle Jr.",
+    "Letter",
+    "Exhibit Cover Sheet"
+  ],
+  "title": "EXHIBIT COVER SHEET",
+  "date": "1968-01-24",
+  "locations_mentioned": [
+    "Korea",
+    "Boise, Idaho",
+    "Chicago, Illinois"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Vladimir Slovoda",
+    "Cecil L. Griggs",
+    "Kenneth C. Griggs",
+    "Philip LaChapelle Jr."
+  ]
+}

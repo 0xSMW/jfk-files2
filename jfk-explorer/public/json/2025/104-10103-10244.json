@@ -1,0 +1,44 @@
+{
+  "classification": "Commission",
+  "document_type": "Memo",
+  "security": "Revealing the specifics of the audio operation against the Cuban Embassy in Paris, including its code name UNSIERRA and file location, compromises sensitive intelligence gathering methods and sources. Disclosing Marta FRAYDE as an unwitting FI source (UNSNAFU-12) puts her at risk and potentially disrupts future intelligence operations. Quoting: \"The sensitive source cited in paragraph 4, page 29, of Book V - Final Report of SSC to Study Governmental Operations - was an audio operation against the Cuban Embassy in Paris, France encrypted UNSIERRA...UNSNAFU-12, cited in paragraph 3 of that cable, is Marta FRAYDE, a Cuban alternate delegate to UNESCO and an unwitting FI source at that time.\"",
+  "security_level": "SECRET",
+  "summary": "A memo identifies a sensitive source cited in a report as an audio operation (UNSIERRA) against the Cuban Embassy in Paris and names Marta FRAYDE as an unwitting source (UNSNAFU-12) in a related cable.",
+  "summary_one_paragraph": "This memo, dated April 20, 1977, from Chris Hopkins (LAD/Task Force (JFK)), clarifies that the sensitive source referenced in the SSC's Final Report was an audio operation against the Cuban Embassy in Paris, code-named UNSIERRA, and it identifies Marta FRAYDE, a Cuban alternate delegate to UNESCO, as the unwitting source (UNSNAFU-12) mentioned in cable PARI 1664 (IN 69266). The memo notes that a copy of this cable was previously provided to Mr. Breckinridge for a meeting with Senators Hart and Schweiker in June 1976.",
+  "tags": [
+    "JFK Assassination",
+    "Sensitive Source",
+    "Cuban Embassy",
+    "Audio Operation",
+    "UNSIERRA",
+    "Marta FRAYDE",
+    "UNSNAFU-12",
+    "UNESCO",
+    "Paris",
+    "France",
+    "SSC Final Report",
+    "Breckinridge",
+    "Senators Hart",
+    "Senator Schweiker",
+    "Rolando CUBELA",
+    "PARI 1664",
+    "IN 69266"
+  ],
+  "title": "Identification of Sensitive Source",
+  "date": "1977-04-20",
+  "locations_mentioned": [
+    "Paris, France",
+    "Warrenton"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Chris Hopkins",
+    "Marta FRAYDE",
+    "Rolando CUBELA",
+    "Mr. Breckinridge",
+    "Senator Hart",
+    "Senator Schweiker"
+  ],
+  "recipient": "LAD/Task Force (JFK)",
+  "sender": "Chris Hopkins"
+}

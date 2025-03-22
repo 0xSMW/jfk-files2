@@ -1,0 +1,32 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "The request for alias documentation and address change could reveal methods for concealing identities or creating false affiliations, potentially compromising operations or personnel involved in sensitive activities. For example, the memo requests alias documentation for 'HILLARY, Bernard N. #65-077' and asks that 'the same type documentation, including a Virginia drivers license, be prepared for Subject by you with the ostensible residence of the Subject changed to an Arlington, Virginia address.'",
+  "security_level": "SECRET",
+  "summary": "A memorandum from Jeremiah J. Mullane Jr., Chief of WH Security, requests the preparation of alias documentation, including a Virginia driver's license, for Bernard N. HILLARY with a changed address in Arlington, Virginia.",
+  "summary_one_paragraph": "On August 15, 1962, Jeremiah J. Mullane Jr., Chief of WH Security, sent a memorandum to the Chief of TSD, via Mr. Ervan Kuhnke, requesting the issuance of alias documentation for Bernard N. HILLARY (#65-077). The memo requests that new documentation, including a Virginia driver's license, be prepared with an updated ostensible residence of the subject in Arlington, Virginia; the original New York State driver's license, the National Rifle Association of America card, and the USF&d card are returned, while the Social Security card is retained.",
+  "tags": [
+    "Alias Documentation",
+    "WH Security",
+    "Arlington, Virginia",
+    "TSD",
+    "Jeremiah J. Mullane Jr.",
+    "Bernard N. Hillary",
+    "FOIA"
+  ],
+  "title": "HILLARY, Bernard N. #65-077",
+  "date": "1962-08-15",
+  "locations_mentioned": [
+    "New York",
+    "Arlington, Virginia"
+  ],
+  "origin_agency": "WH Security",
+  "persons_mentioned": [
+    "Bernard N. HILLARY",
+    "Clay Kallender",
+    "Ervan Kuhnke",
+    "Jeremiah J. Mullane Jr."
+  ],
+  "recipient": "Chief, TSD",
+  "sender": "Jeremiah J. Mullane Jr."
+}

@@ -1,0 +1,31 @@
+{
+  "classification": "Security",
+  "document_type": "Cable",
+  "security": "This cable relays the contents of a postcard accusing the CIA of assassinating President Kennedy on behalf of the 'military-industrial complex'. Disclosing this communication would reveal the sensitivity of such accusations to the CIA and could potentially fuel conspiracy theories and damage the agency's reputation. The text on the postcard is explicit: '* THE CIA <ASSASSINATED PRESIDENT> * <KENNEDY> ON ORDERS FROM THE * MILITARY-INDUSTRIAL COMPLEX'.",
+  "security_level": "SECRET",
+  "summary": "A cable reports that Ambassador Harriman received a postcard accusing the CIA of assassinating President Kennedy on behalf of the military-industrial complex.",
+  "summary_one_paragraph": "A SECRET cable, dated March 12, 1996, from a staff member in Paris to the Director, reports that Ambassador Harriman received a postcard postmarked February 22, 1996, from an individual in Minnesota; the stamped message on the postcard accuses the CIA of assassinating President Kennedy on behalf of the military-industrial complex, allegedly headquartered in New York City and led by David Rockefeller of Chase-Manhattan Bank; the postcard, which was not signed, included a printed address label for H.H.D. in W. St. Paul, Minnesota.",
+  "tags": [
+    "CIA",
+    "Ambassador Harriman",
+    "JFK Assassination",
+    "Conspiracy Theory",
+    "Military-Industrial Complex",
+    "David Rockefeller"
+  ],
+  "title": "Postcard Received by Ambassador Harriman",
+  "date": "1996-03-12",
+  "locations_mentioned": [
+    "Paris",
+    "Minnesota",
+    "New York City"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Ambassador Harriman",
+    "President Kennedy",
+    "David Rockefeller"
+  ],
+  "recipient": "Director",
+  "sender": "Staff"
+}

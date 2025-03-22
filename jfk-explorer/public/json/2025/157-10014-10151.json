@@ -1,0 +1,47 @@
+{
+  "classification": "Commission",
+  "document_type": "Report",
+  "security": "The report discusses covert actions and assassination plots involving foreign leaders. Disclosing such information, especially details on specific operations and the doctrine of 'plausible deniability,' could compromise ongoing intelligence activities and damage the reputation of the United States. The report states that “assassination activity could have been undertaken by an agency of the United States Government without it having been uncontrovertibly clear that there was explicit authorization from the highest level.”",
+  "security_level": "TOP SECRET",
+  "summary": "This is a report from the Select Committee on Assassinations (SSCIA) dated September 1, 1975, which covers allegations of United States involvement in assassination plots against foreign political leaders. It includes findings, conclusions, and recommendations related to covert actions and the roles of various government agencies.",
+  "summary_one_paragraph": "This TOP SECRET report, dated September 1, 1975, from the SSCIA, investigates U.S. involvement in assassination plots targeting foreign leaders, examining cases in Cuba, Congo, Dominican Republic, Chile, and South Vietnam. The report covers the historical context of the Cold War, covert action as a foreign policy tool, and the concept of 'plausible deniability.' It includes findings on the extent of U.S. involvement in these plots, the authorization process, and the communication and control mechanisms in place, concluding that the system allowed assassination activities without clear explicit authorization from the highest levels.",
+  "tags": [
+    "SSCIA",
+    "Church Committee",
+    "Assassination Plots",
+    "Covert Action",
+    "Fidel Castro",
+    "Patrice Lumumba",
+    "Rafael Trujillo",
+    "Rene Schneider",
+    "Ngo Dinh Diem",
+    "Plausible Deniability",
+    "Cold War",
+    "Intelligence Activities",
+    "Foreign Policy",
+    "TOP SECRET",
+    "FOIA"
+  ],
+  "title": "Select Committee Assassination Report",
+  "date": "1975-09-01",
+  "locations_mentioned": [
+    "Cuba",
+    "Congo (Zaire)",
+    "Dominican Republic",
+    "Chile",
+    "South Vietnam"
+  ],
+  "origin_agency": "SSCIA",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Patrice Lumumba",
+    "Rafael Trujillo",
+    "Rene Schneider",
+    "Ngo Dinh Diem",
+    "Salvador Allende",
+    "Richard Helms",
+    "Eisenhower",
+    "Kennedy",
+    "Johnson"
+  ]
+}

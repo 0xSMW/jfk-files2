@@ -1,0 +1,33 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security": "This memo discusses the process of sanitizing CIA files related to Lee Harvey Oswald for the Senate Select Committee on Intelligence. Releasing details about the sanitization process, specifically how source, method, and liaison information is removed from cables taken directly from the 201 file, could expose intelligence-gathering techniques and compromise ongoing operations.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A memorandum discussing a meeting between the Chief of CI and Mr. Paul Wallach, Chief Counsel of the Senate Select Committee on Intelligence, regarding the release of file material related to the Lee Harvey Oswald case and the assassination of President Kennedy.",
+  "summary_one_paragraph": "This memorandum, dated October 30, 1975, details a meeting between the Chief of CI, Mr. Kalaris, and Mr. Paul Wallach, Chief Counsel of the Senate Select Committee on Intelligence, regarding the Senate's access to CIA files related to Lee Harvey Oswald and the Kennedy assassination. The meeting addressed the Senate Committee's concerns that the Agency was withholding information, with Kalaris explaining the Agency's need to sanitize material to protect sources, methods, and liaison relationships. An agreement was reached allowing Senate reviewers to work with the original files, with sensitive items sterilized or summarized and spot-checked for accuracy, while reviewers' notes would remain within the building and be checked by the Agency.",
+  "tags": [
+    "CIA",
+    "Senate Select Committee on Intelligence",
+    "Lee Harvey Oswald",
+    "Kennedy Assassination",
+    "File Release",
+    "Sanitization",
+    "Sources and Methods",
+    "Paul Wallach",
+    "Mr. Kalaris"
+  ],
+  "title": "Chief, CI Meeting with Mr. Paul Wallach, Chief Counsel of Senate Select Committee on Intelligence",
+  "date": "1975-10-30",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Paul Wallach",
+    "Lee Harvey Oswald",
+    "President Kennedy",
+    "Mr. Kalaris",
+    "Belin",
+    "Mr. Blee",
+    "Mr. Proctor"
+  ],
+  "recipient": "Chief, CI",
+  "sender": "Robert G. Wall, Deputy Chief, CI/OG"
+}

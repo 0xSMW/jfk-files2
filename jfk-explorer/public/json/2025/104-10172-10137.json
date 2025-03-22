@@ -1,0 +1,41 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing the identities and potential operational interest in these individuals could compromise ongoing intelligence activities and endanger the individuals themselves. Quoting directly: \"REQUEST PRITY POAS ON FOLLOWING...\" indicates a sensitive inquiry that could have significant consequences if exposed.",
+  "security_level": "SECRET",
+  "summary": "A classified message from JMMAVE to the Director requests Priority Personal History and Asset (POA) checks on Edda (Hernandez) Gonzalez and Benicia (Gonzalez) Gomez, both Cuban-born women, and confirms POA for Adelaida (Martinez) Andreades. The message provides identifying information such as birth dates, places of residence, and family details for the Gonzalez women, while referencing a previous directive for Andreades.",
+  "summary_one_paragraph": "On December 10, 1962, JMMAVE sent a classified message to the Director requesting immediate POA checks on two Cuban-born women: Edda (Hernandez) Gonzalez, residing in Patterson, New Jersey, and Benicia (Gonzalez) Gomez, living in Miami, Florida. The message includes their dates and places of birth, parents' names, and residence information. Additionally, it acknowledges that a POA was already in place for Adelaida (Martinez) Andreades, referencing a prior directive. WAVE and ODENVY traces were reportedly negative for the Gonzalez women.",
+  "tags": [
+    "CIA",
+    "POA",
+    "Personal History and Asset Check",
+    "Edda (Hernandez) Gonzalez",
+    "Benicia (Gonzalez) Gomez",
+    "Adelaida (Martinez) Andreades",
+    "Cuba",
+    "JMMAVE",
+    "WAVE",
+    "ODENVY"
+  ],
+  "title": "Request for Priority POA Checks on Cuban Nationals",
+  "date": "1962-12-10",
+  "locations_mentioned": [
+    "La Villas, Cuba",
+    "Patterson, New Jersey",
+    "San Fernando de los Camarones, Cuba",
+    "Miami, Florida",
+    "Enfuegos, Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Edda (Hernandez) Gonzalez",
+    "Miguel (Hernandez) Perez",
+    "Estelvina (Gonzalez) Zayas",
+    "Benicia (Gonzalez) Gomez",
+    "Dumaso (Gonzalez) Fernandez",
+    "Susana (CXIEZ) AQUAIC",
+    "Adelaida (Martinez) Andreades"
+  ],
+  "recipient": "Director",
+  "sender": "JMMAVE"
+}

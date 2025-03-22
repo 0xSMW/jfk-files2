@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "DISPATCH",
+  "security": "Information concerning specific individuals is included in this dispatch, which could compromise the privacy and safety of those individuals if disclosed. Mention of 'safe conduct agreement' and potential defection could create diplomatic sensitivities.",
+  "security_level": "SECRET",
+  "summary": "This dispatch details a meeting in October 1961 between Identity 2 and Jose Maria Lasa Irruti, along with Identity 1, arranged by Lasa's uncle to discuss Lasa's father potentially defecting from Cuba and seeking support in the United States.",
+  "summary_one_paragraph": "A CIA dispatch, dated 2 Feb 1962, from an unidentified sender to the Chief of Station, JHAVE and Chief, MF Division, concerning Jose Maria Lasa Irruti. The dispatch reports on a meeting held on 2 October 1961 between Identity 2, Jose Maria Lasa Irruti, and Identity 1, at the request of Lasa's uncle, a Cuban official in Switzerland. The meeting explored the possibility of Lasa's father, a minor Cuban government official also stationed in Switzerland, defecting to the United States with assurances of support, although no direct commitments were made. Lasa provided Identity 2 with papers on the organization and purpose of the MIK and expressed interest in informing the International Red Cross about the treatment of Cuban political prisoners.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Defection",
+    "Jose Maria Lasa Irruti",
+    "MIK",
+    "International Red Cross",
+    "Switzerland",
+    "JHWAVE"
+  ],
+  "title": "Jose Maria Lasa Irruti",
+  "date": "1962-02-02",
+  "locations_mentioned": [
+    "Cuba",
+    "Switzerland",
+    "Miami"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Jose Maria Lasa Irruti",
+    "Identity 1",
+    "Identity 2",
+    "Identity 3",
+    "Fidel Castro"
+  ],
+  "recipient": "Chief of Station, JHAVE; Chief, MF Division",
+  "sender": "DRE"
+}

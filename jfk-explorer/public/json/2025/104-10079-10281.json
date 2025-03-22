@@ -1,0 +1,36 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Outgoing Message",
+  "security": "The message discusses maintaining contact with representatives of the ANC and PAC, potentially leading to the recruitment of European-based representatives from ANC, PAC, SASM, or SASO. Exposing these intelligence operations could compromise ongoing relationships, endanger individuals, and damage the CIA's ability to gather intelligence.",
+  "security_level": "SECRET",
+  "summary": "An outgoing message from the CIA headquarters (HQS) to Brussels, Pretoria, and Dar es Salaam, instructing TOPHONE/1 to maintain contact with South African ANC and PAC representatives to gather information on their plans and activities, and to identify potential recruits among European-based representatives of ANC, PAC, SASM, or SASO.",
+  "summary_one_paragraph": "This SECRET outgoing message, dated 26 October 1976, instructs TOPHONE/1 in Brussels, Pretoria, and Dar es Salaam to continue contact with individuals like K. Leballos, David Sibeko, Vuz Make, and Mzimkulu Ambrose Makiwane from the ANC and PAC to obtain intelligence on their organizations' activities and to identify potential leads or recruits within European-based representations of ANC, PAC, SASM, or SASO. HQ is interested in gathering assessment data and intelligence on these personalities for possible recruitment in connection with REF B program.",
+  "tags": [
+    "CIA",
+    "ANC",
+    "PAC",
+    "SASM",
+    "SASO",
+    "TOPHONE",
+    "Recruitment",
+    "Intelligence Gathering",
+    "South Africa"
+  ],
+  "title": "Outgoing Message Regarding Contacts with South African ANC and PAC Representatives",
+  "date": "1976-10-26",
+  "locations_mentioned": [
+    "Brussels",
+    "Pretoria",
+    "Dar es Salaam",
+    "Europe"
+  ],
+  "origin_agency": "CIA Headquarters (HQS)",
+  "persons_mentioned": [
+    "K. Leballos",
+    "David Sibeko",
+    "Vuz Make",
+    "Mzimkulu Ambrose Makiwane"
+  ],
+  "recipient": "Brussels, Pretoria, Dar es Salaam",
+  "sender": "L. Sands:RG"
+}

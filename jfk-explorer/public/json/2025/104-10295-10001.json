@@ -1,0 +1,35 @@
+{
+  "classification": "Operations",
+  "document_type": "Memorandum",
+  "security": "Revealing S/W techniques and materials issued to agents, along with communication protocols, could compromise ongoing operations. The document details specific carbon writing systems (No. 15136), liquid developer systems (No. 56638), accommodation addresses, and indicators used for communication. Quoting directly: 'Agent writes to Madrid, letter with no S/W' indicating lost carbon sheets. 'Any word, mark, phrase, etc., after the Spanish word 'FIN' at the end of the S/W message indicates agent is under control.' Disclosing these indicators and methods would endanger agents and undermine secure communications.",
+  "security_level": "SECRET",
+  "summary": "This memorandum summarizes S/W (secret writing) training provided to agent AMLASH/1 in Paris, France, including instruction on techniques, issuance of materials, and communication protocols.",
+  "summary_one_paragraph": "On August 29, 1962, Richard M. Fallucci prepared a memorandum detailing S/W training conducted for agent AMLASH/1 in Paris between August 17-22. The memo outlines the S/W techniques taught, including use of carbon writing system No. 15136 and liquid developer system No. 56638, and reviews AMLASH/1's understanding of these methods and clandestine communications. It also notes the materials issued to AMLASH/1, such as carbon paper, developer pills, compatible writing paper, pencils, a ball-point pen, accommodation addresses in Madrid and New York City, and associated indicators, along with the agent's obligation to provide a secure address in PBRUMEN.",
+  "tags": [
+    "CIA",
+    "AMLASH/1",
+    "S/W Training",
+    "Secret Writing",
+    "Clandestine Communication",
+    "Operations",
+    "Paris",
+    "Carbon Paper",
+    "Liquid Developer"
+  ],
+  "title": "Summary of S/W Training and Issuance of Materials",
+  "date": "1962-08-29",
+  "locations_mentioned": [
+    "Paris, France",
+    "Madrid, Spain",
+    "New York City",
+    "PBRUMEN"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "AMLASH/1",
+    "Richard M. Fallucci",
+    "Wallace A. Growery"
+  ],
+  "recipient": "Record",
+  "sender": "Richard M. Fallucci"
+}

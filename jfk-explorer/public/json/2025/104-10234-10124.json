@@ -1,0 +1,21 @@
+{
+  "classification": "Liaison",
+  "document_type": "Message Form",
+  "security": "Request to involve Canadian intelligence (SMABOVES) in a joint debriefing with KUBARK, showing operational coordination. Mentioning the asset's willingness to participate in KUBARK debriefings over the past two years highlights ongoing intelligence activities.",
+  "security_level": "SECRET",
+  "summary": "A message from the Director to Ottawa requests the assistance of Canadian intelligence (SMABOVES) in arranging a joint debriefing of CASUGAR/1, who has high-level access to PBRUMEN target personalities, to obtain their views on the current PBRUMEN political shakeup.",
+  "summary_one_paragraph": "This message, dated March 23, 1966, is from the Director to Ottawa, regarding CASUGAR/1, who has high-level access to PBRUMEN target personalities; the message requests that Ottawa intercede with SMABOVES to arrange a joint debriefing with KUBARK in Canada to get CASUGAR/1's views on the current PBRUMEN political situation. Headquarters is prepared to send a TYPIC officer and notes that CASUGAR/1 is a willing participant who has been debriefed by KUBARK in the past two years.",
+  "tags": [
+    "CASUGAR/1",
+    "PBRUMEN",
+    "SMABOVES",
+    "KUBARK",
+    "Joint Debriefing",
+    "Canadian Intelligence",
+    "Liaison"
+  ],
+  "title": "CASUGAR Debriefing Request",
+  "date": "1966-03-23",
+  "recipient": "Ottawa",
+  "sender": "Director"
+}

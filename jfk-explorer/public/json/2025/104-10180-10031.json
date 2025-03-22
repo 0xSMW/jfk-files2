@@ -1,0 +1,32 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security": "Revealing that a \"liaison service in Venezuela has informed our representatives in Caracas\" could compromise the relationship between the U.S. and the Venezuelan intelligence service, potentially jeopardizing future cooperation. Furthermore, disclosing details about the arrest and intended actions of Francisco RODRIGUEZ Tamayo could jeopardize ongoing or future investigations. Specifically, “liaison service intentions are to escort Subject to Miami if there is FBI or INS Interest. Otherwise they will release Subject on condition if leaves Venezuela”",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memo regarding the arrest of Francisco RODRIGUEZ Tamayo in Venezuela, who was allegedly planning to assassinate an unknown target for $15,000.",
+  "summary_one_paragraph": "This memo, sent from the Deputy Director for Plans to the Director with a copy to the FBI, reports that Francisco RODRIGUEZ Tamayo, also known as Nicolo DIAZ, was arrested in Caracas, Venezuela, upon arrival from Miami, Florida. Venezuelan authorities, through a liaison service, informed U.S. representatives that RODRIGUEZ Tamayo was allegedly hired to assassinate an unknown target for $15,000. The liaison service is considering releasing RODRIGUEZ Tamayo if neither the FBI nor the INS has an interest in him, but is willing to escort him to Miami if there is interest.",
+  "tags": [
+    "Francisco RODRIGUEZ Tamayo",
+    "Nicolo DIAZ",
+    "Venezuela",
+    "Assassination Plot",
+    "Liaison Service",
+    "FBI",
+    "INS"
+  ],
+  "title": "Francisco RODRIGUEZ Tamayo a/k Nicolo DIAZ",
+  "date": "1965-12-16",
+  "locations_mentioned": [
+    "Venezuela",
+    "Caracas",
+    "Miami, Florida"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Francisco RODRIGUEZ Tamayo",
+    "Nicolo DIAZ",
+    "Mr. R. J. Quick"
+  ],
+  "recipient": "Director with cc to IUS, Federal Bureau of Investigation",
+  "sender": "Deputy Director for Plans"
+}

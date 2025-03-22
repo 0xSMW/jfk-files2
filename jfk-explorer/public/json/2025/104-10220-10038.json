@@ -1,0 +1,31 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "Revealing that Richard Case Nagell threatened to expose his contacts with 'WOFIRM' and individuals within the organization could jeopardize ongoing intelligence operations and expose individuals involved in sensitive activities. Additionally, the request to leave the matter strictly to the consulate and to advise LNER GO highlights a need for operational secrecy.",
+  "security_level": "SECRET",
+  "summary": "A cable from Zurich reports that Richard Case Nagell threatened to reveal his contacts with WOFIRM and individuals within the organization unless promises made by US officials were honored, and the base will leave the matter strictly to the consulate unless advised otherwise.",
+  "summary_one_paragraph": "On February 28, 1969, a SECRET cable from Zurich reports that Richard Case Nagell, also known as Joe Craier, Joe Crane, and Robert C. Nolan, visited the consulate on February 27. During the visit, Nagell threatened to reveal his contacts with WOFIRM and expose individuals within the organization if certain promises made to him by US officials were not honored. The cable indicates that the base will defer to the consulate's handling of the matter unless otherwise instructed, and it references previous communications regarding Nagell, including a State Department message from October 1968.",
+  "tags": [
+    "Richard Case Nagell",
+    "WOFIRM",
+    "Consulate",
+    "Blackmail",
+    "CIA",
+    "FOIA"
+  ],
+  "title": "Cable Regarding Richard Case Nagell's Threat to Expose Contacts with WOFIRM",
+  "date": "1969-02-28",
+  "locations_mentioned": [
+    "Zurich",
+    "Berlin"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Richard Case Nagell",
+    "Joe Craier",
+    "Joe Crane",
+    "Robert C. Nolan"
+  ],
+  "recipient": "Director, Bern",
+  "sender": "Zurich"
+}

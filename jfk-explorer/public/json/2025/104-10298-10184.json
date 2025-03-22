@@ -1,0 +1,38 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This message discusses the CIA's involvement in Cuban exile affairs and attempts to discredit a news article. The mention of \"ONE OPS AGENT DESTINED FOR ISOLATIONS TRAINING HAS ASKED TO BE RELIEVED\" is a specific reference to operational training, which if revealed could be harmful.",
+  "security_level": "SECRET",
+  "summary": "A classified message regarding a Miami Herald article that reports on the replacement of Miro Cardona by Manuel Ray as the leader of Cuban exiles, allegedly with the blessing of the United States, and the potential involvement of Adolf A. Berle Jr.",
+  "summary_one_paragraph": "This SECRET-classified message, dated May 27, discusses a Miami Herald article by James Buchanan reporting that Miro Cardona has been replaced by Manuel Ray as the leader of Cuban exiles, supposedly with the support of the United States. The article implicates Adolf A. Berle Jr. as being involved in a new U.S.-sponsored Cuban effort, causing furor within the local Cuban colony and leading at least one operations agent to request reassignment. The message indicates that the CIA is attempting to trace Buchanan's source for the claim of \"U.S. blessing\" and is considering initiating actions to discredit Buchanan's story and reassure Miro Cardona.",
+  "tags": [
+    "CIA",
+    "Cuban Exiles",
+    "Miro Cardona",
+    "Manuel Ray",
+    "Adolf A. Berle Jr.",
+    "Miami Herald",
+    "James Buchanan",
+    "Propaganda",
+    "Disinformation"
+  ],
+  "title": "Miami Herald Article on Cuban Exile Leadership",
+  "date": "1962-05-27",
+  "locations_mentioned": [
+    "Miami",
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Miro Cardona",
+    "Manuel Ray",
+    "James Buchanan",
+    "Adolf A. Berle Jr.",
+    "Joaquin Godoy",
+    "Muñoz Marin",
+    "Rómulo Betancourt",
+    "José Figueres"
+  ],
+  "recipient": "Director",
+  "sender": "JWAVE"
+}

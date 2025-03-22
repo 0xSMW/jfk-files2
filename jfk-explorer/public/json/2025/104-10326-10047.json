@@ -1,0 +1,32 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Message",
+  "security": "This message discusses the potential renewal of a COMPUSERVE account used in connection with NWBOLTON, who C/LPAVERT believed was involved in the assassination of President Kennedy. Continuing payments to someone with such beliefs, especially if the account is used for sensitive purposes, could raise concerns. Also, revealing that EUR decided not to use the account for a “sensitive field asset” due to LPAVERT's beliefs could expose internal decision-making criteria. \"In LIGHT of that remark, EUR DECIDED NOT TO USE the ACCOUNT for a SENSITIVE FIELD ASSET but rather for an APPLICATION OF LESS SENSITIVITY.\"",
+  "security_level": "SECRET",
+  "summary": "This message discusses whether to continue payments to C/LPAVERT for a COMPUSERVE account linked to NWBOLTON, whom LPAVERT suspected was involved in President Kennedy's assassination.",
+  "summary_one_paragraph": "A SECRET message from the CIA's Newark station, dated July 3, 1996, seeks guidance on whether to renew C/LPAVERT's COMPUSERVE account. C/LPAVERT received US$1,700 to open the account on behalf of NWBOLTON. However, C/LPAVERT had previously told IC MacDonald E. Zappley that he believed NWBOLTON was involved in the assassination of President Kennedy, leading EUR to decide against using the account for sensitive field operations. The message requests instructions, as C/LPAVERT's account is set to expire in August, and the station has had no contact with him since September 20, 1995.",
+  "tags": [
+    "CIA",
+    "C/LPAVERT",
+    "NWBOLTON",
+    "COMPUSERVE",
+    "EUR/PLANS",
+    "Kennedy Assassination",
+    "Payment",
+    "Account Renewal",
+    "RYBAT",
+    "FASTTRACK",
+    "MXLETTER"
+  ],
+  "title": "Continuation of Payment to C/LPAVERT for E-mail Account",
+  "date": "1996-07-03",
+  "persons_mentioned": [
+    "C/LPAVERT",
+    "Gerald K. Hauselman",
+    "NWBOLTON",
+    "MacDonald E. Zappley",
+    "President John F. Kennedy"
+  ],
+  "recipient": "Director",
+  "sender": "Newark Station (NEWA)"
+}

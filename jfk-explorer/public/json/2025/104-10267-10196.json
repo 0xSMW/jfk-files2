@@ -1,0 +1,48 @@
+{
+  "classification": "Operations",
+  "document_type": "Classified Message",
+  "security": "The message details a training request for a six-man leader group, including specific tradecraft exercises, caching, observation, and reporting. Revealing these details could compromise training methods, field exercises, and agent identities. Quoting directly: 'REQUEST TRAINING FOR SIX MAN LEADER GROUP SCHEDULED 11 JULY AS FOLLOWS: ISOTROPIC SAME GIVEN...STRESS LEADERSHIP TRAINING AND ROTATE LEADERSHIP ASSIGNMENTS IN FIELD EXERCISES ENCOMPASSING TRADECRAFT, CACHING, OBSERVATION AND REPORTING.'",
+  "security_level": "SECRET",
+  "summary": "A classified message from JMWAVE requests priority training for a six-man leader group, emphasizing leadership, tradecraft, caching, observation, and reporting, and requests airlift support.",
+  "summary_one_paragraph": "This classified message from JMWAVE, dated July 7, 1966, urgently requests training for a six-man leader group scheduled to begin on July 11. The training is to emphasize leadership skills, rotating leadership assignments during field exercises, tradecraft, caching techniques, observation, and reporting. The message specifies that all trainees have completed JMWAVE training, have Operational Approvals (OA's), and recent LCFLUTTERS. Additionally, the message requests airlift support for the team to arrive on the night of July 11 and for the return of the AMANCHOR group on the night of July 12.",
+  "tags": [
+    "JMWAVE",
+    "Training",
+    "Leadership",
+    "Tradecraft",
+    "Caching",
+    "Observation",
+    "Reporting",
+    "Airlift",
+    "Operational Approval",
+    "LCFLUTTERS",
+    "AMANCHOR"
+  ],
+  "title": "JMWAVE Training Request for Six-Man Leader Group",
+  "date": "1966-07-07",
+  "locations_mentioned": [
+    "EGLIN",
+    "ISOTROPIC",
+    "ISOLATION"
+  ],
+  "origin_agency": "JMWAVE",
+  "persons_mentioned": [
+    "ANLILAC/29",
+    "TA IGNACIO",
+    "AMLILAC/33",
+    "TA MANUEL",
+    "ANSKIRT/I",
+    "TA PABLO",
+    "AMHINT/56",
+    "IA FRANK",
+    "ANTRUNK/21",
+    "TA LUIS",
+    "AXLUNT/2",
+    "TA FILIPE",
+    "AMPOLISH/1",
+    "TA SIMON",
+    "SLOKLI"
+  ],
+  "recipient": "Director, EGLIN",
+  "sender": "JMWAVE"
+}

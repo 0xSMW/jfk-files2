@@ -1,0 +1,30 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security": "Disclosing the cover status and arrangements for Luis Posada Carriles, including his employment with RECE and payments from LACT, could compromise his operational security and expose CIA methods. Quoting directly: 'For security reasons, POSADA can no longer claim Gri-State Engineering Service as his place of employment.'",
+  "security_level": "SECRET",
+  "summary": "A memo regarding the cover status of Luis Posada Carriles, specifically his employment with RECE and the need to change his listed employer for security reasons.",
+  "summary_one_paragraph": "This secret memorandum, dated September 7, 1966, addresses the cover status of Luis Posada Carriles (201-300985), who is employed by RECE, a Cuban exile organization in Miami. As Posada is also being paid by LACT to report on RECE activities, the memo requests that his previous employment with Gri-State Engineering Service be terminated effective July 31, 1966, to maintain Posada's security and conceal his true affiliations.",
+  "tags": [
+    "CIA",
+    "Luis Posada Carriles",
+    "Cover Status",
+    "RECE",
+    "LACT",
+    "Cuban Exile",
+    "Miami",
+    "FLUSTIKCEFF"
+  ],
+  "title": "Cover Status of Luis POSADA Carriles (201-300985)",
+  "date": "1966-09-07",
+  "locations_mentioned": [
+    "Miami",
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Luis Posada Carriles"
+  ],
+  "recipient": "C/Cover",
+  "sender": "CI/FLUSTIKCEFF"
+}

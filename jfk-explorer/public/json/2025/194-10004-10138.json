@@ -1,0 +1,27 @@
+{
+  "classification": "Personnel",
+  "document_type": "Paper, Textual Document",
+  "security": "Releasing details about personnel security investigations, particularly the types of checks conducted (FBI file checks, record validations, etc.) and the reasons for investigation ('determination under AR 604-10 is being delayed at Department of the Army pending results'), could reveal sensitive internal procedures and compromise future investigations. Mentioning the re-grading of the record to unclassified when separated from classified enclosures, and marked 'FOR OFFICIAL USE ONLY - This Protective Marking is Excluded From Automatic Termination', could potentially expose information deemed sensitive, specifically concerning handling classified information.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This document pertains to a personnel security action involving David Reed Fromer, including requests for FBI file checks and records validation to determine suitability for clearance, with a focus on expediting the investigation due to delays at the Department of the Army.",
+  "summary_one_paragraph": "This document, dated June 13, 1967, details a personnel security action related to David Reed Fromer, a registrant, involving requests for local FBI file checks on Fromer’s parents and validation of records to determine suitability for security clearance. The request, initiated by the USA Personnel Security Group, cites delays at the Department of the Army as justification for expediting the investigation under AR 604-10, and references a review of files which may have revealed unfavorable information. The document includes remarks regarding forwarding information for security determination and notes the downgrading of the record classification upon separation from classified enclosures, indicating some sensitive information was initially associated with Fromer.",
+  "tags": [
+    "Personnel Security",
+    "Investigation",
+    "David Reed Fromer",
+    "FBI File Check",
+    "Records Validation",
+    "Security Clearance"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1967-06-13",
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "David Reed Fromer",
+    "Dan H. Dietrich Jr.",
+    "Mr. Burwasser",
+    "JB Finnegan"
+  ],
+  "recipient": "USA Personnel Security Group",
+  "sender": "USA, Dan H. Dietrich Jr."
+}

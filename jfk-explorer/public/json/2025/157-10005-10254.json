@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "Sharing details of assassination attempts and CIA training of foreign nationals could severely damage the agency's reputation and strain international relations. Directly quoting: '...told to give parachutes and weapons to individuals who were to be parachuted into Cuba to attempt to assassinate Castro...This gun, Mr. Stephens said, was a 9 mm'.",
+  "security_level": "S",
+  "summary": "A memorandum detailing an interview with John H. Stephens, discussing CIA covert action operations related to training Cuban exiles and alleged assassination attempts against Fidel Castro.",
+  "summary_one_paragraph": "This memorandum, dated May 30, 1975, summarizes an interview with John H. Stephens regarding his involvement in CIA covert action operations. Stephens recounts his role in training a Cuban airborne brigade in Guatemala prior to the Bay of Pigs invasion and mentions two instances where he and his team provided parachutes and weapons, including a specialized 'assassination gun', to individuals purportedly tasked with assassinating Fidel Castro in Cuba. Stephens does not definitively confirm direct orders to assassinate Castro but implies that the nature of the missions was clear.",
+  "tags": [
+    "CIA",
+    "Covert Action",
+    "John H. Stephens",
+    "Fidel Castro",
+    "Assassination Attempts",
+    "Bay of Pigs",
+    "Guatemala",
+    "Cuban Exiles"
+  ],
+  "title": "MEMORANDUM",
+  "conspiracy": "The document contains details about alleged CIA involvement in assassination attempts against Fidel Castro, which relates to broader conspiracy theories regarding U.S. government actions and potential involvement in political assassinations.",
+  "date": "1975-05-30",
+  "locations_mentioned": [
+    "Guatemala",
+    "Cuba"
+  ],
+  "origin_agency": "SSCIA",
+  "persons_mentioned": [
+    "John Henry Stephens",
+    "Fidel Castro",
+    "Bob Kelley"
+  ],
+  "sender": "KELLEY, BOB"
+}

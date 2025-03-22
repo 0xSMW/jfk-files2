@@ -1,0 +1,45 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "Revealing the technical details of the audio surveillance operation—the specific frequencies used, the types of equipment, and the method of installation—could allow adversaries to develop countermeasures against similar operations in the future. Directly quoting: 'The AC-powered FM transmitter is crystal controlled to operate at a frequency of 157.4 megacycles in the VHF Band.' Additionally, the memo outlines the roles and knowledge of specific personnel, such as Fred C. Thomas, who is identified as a staff employee and willing participant in the operation, which could expose him.",
+  "security_level": "SECRET",
+  "summary": "A memo details a CIA operation to conduct audio surveillance on Manuel Artime, a Cuban exile leader, at a covert site in Bethesda, Maryland, using a staff employee's home as a listening post.",
+  "summary_one_paragraph": "On July 1, 1963, Ramon R. Hart sent a memorandum detailing an operation to conduct audio surveillance on Manuel F. Artime, a Cuban exile leader, who was scheduled to meet with CIA and U.S. government officials at a covert site in Bethesda, Maryland. The CIA sought to monitor Artime's conversations after these meetings by installing microphones in the covert site and using the home of a staff employee, Fred C. Thomas, as a listening post. The memo outlines the procurement and installation of equipment, the challenges faced in establishing a reliable connection, and the involvement of various CIA personnel and resources.",
+  "tags": [
+    "CIA",
+    "Audio Surveillance",
+    "Manuel Artime",
+    "Cuban Exile",
+    "Covert Operation",
+    "Bethesda",
+    "Maryland",
+    "Fred C. Thomas",
+    "Technical Surveillance"
+  ],
+  "title": "Manuel F. ARTIME Buesa",
+  "date": "1963-07-01",
+  "locations_mentioned": [
+    "Washington, D. C.",
+    "Bethesda, Maryland",
+    "Karachi, Pakistan"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Manuel F. Artime Buesa",
+    "Charles Matt",
+    "George Ladner",
+    "Robert F. Kennedy",
+    "Joseph Langan",
+    "John Cryer",
+    "Fred C. Thomas, Jr.",
+    "Sam Halpern",
+    "H. T. Bent",
+    "John W. McBee",
+    "Stan Lach",
+    "Bob Woods",
+    "Charlie Beall",
+    "Dayton S. (\"Doc\") Barrows"
+  ],
+  "recipient": "Chief, Support Branch",
+  "sender": "Mr. Ramon R. Hart"
+}

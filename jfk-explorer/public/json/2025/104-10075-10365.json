@@ -1,0 +1,41 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This message discusses the exfiltration of assets from Cuba, which, if exposed, could lead to the identification and compromise of said assets, creating potential for serious harm or even death. Specifically, the message states, \"WAVE ACTION RESULTED EXFILTRATION AMFAUNA-14 AND THUS DIRECT THREAT SECURITY AMFAUNA-35, AMFAUNA-39...OUR REMEDIAL ACTION HAS NOT ONLY AVERTED POSSIBLE FLAP BUT HAS KEPT VIABLE ASSETS IN PLACE.\" Disclosing this information would reveal ongoing operations and active agents, endangering their lives and the success of the operations.",
+  "security_level": "SECRET",
+  "summary": "A secret message from JWAVE to the Director concerning the exfiltration of AMFAUMA-25 from Cuba, reviewing the situation in light of recent developments including the exfiltration of AMFAUNA-14 and the threat to other assets.",
+  "summary_one_paragraph": "This classified message, dated December 1, 1963, from JWAVE to the Director, addresses the situation regarding the exfiltration of AMFAUMA-25 from Cuba. It reviews the context of recent events, including the successful exfiltration of AMFAUNA-14, which posed a direct security threat to AMFAUNA-35 and AMFAUNA-39. The message also discusses the unsuccessful attempts to exfiltrate ANCUTLER-2, whose arrest would compromise other assets. It proposes arranging a paid invitation for AMFAUMA-25 to visit London to discuss Cuban insurance problems, requiring (SMOTH)'s concurrence, and suggests expediting a POA for (Peter Minet) to facilitate these discussions.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Exfiltration",
+    "Assets",
+    "AMFAUMA-25",
+    "AMFAUMA-14",
+    "ANCUTLER-2",
+    "RYPAT",
+    "AMFAUNA-35",
+    "AMFAUNA-39",
+    "WAVE"
+  ],
+  "title": "RYPAT TYPIC AMFAUMA-25 C/S COMMENT: RE EXFILTRATION OF AMFAUMA-25 FROM CUBA",
+  "date": "1963-12-01",
+  "locations_mentioned": [
+    "Cuba",
+    "London"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AMFAUMA-25",
+    "AMFAUMA-14",
+    "AMFAUMA-35",
+    "AMFAUMA-39",
+    "Bernardo (Alvarez)",
+    "Eduardo Vega",
+    "ANCUTLER-2",
+    "Peter Minet",
+    "Che Guevara"
+  ],
+  "recipient": "Director",
+  "sender": "JWAVE"
+}

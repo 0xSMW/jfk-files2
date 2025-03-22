@@ -1,0 +1,24 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security": "Disclosing the methods of obtaining information from agents through the mails (as mentioned in paragraph 1) could compromise intelligence gathering techniques and endanger the agents involved. Specifically, revealing that AMCORE-2 obtained a document through the mails from Agent 1995 could expose both AMCORE-2 and Agent 1995 to increased scrutiny. ",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A dispatch from the Chief of Station, JMWAVE, reports that AMCORE-2 delivered a sketch of battalion defensive positions obtained via mail from Agent 1995, also known as Modesto VENTOSO Mendes.",
+  "summary_one_paragraph": "On August 2, 1963, the Chief of Station at JMWAVE sent a confidential dispatch to the Chief of the Special Affairs Staff (SAS) regarding AMCORE-2's delivery of a sketch depicting battalion defensive positions. The sketch, obtained through the mails from Agent 1995, also identified as Modesto VENTOSO Mendes, was received by AMCORE-2's Case Officer on August 16, 1963, and the letter containing it was postmarked April 15, 1963. The dispatch indicates that the sketch shows the defensive arrangement of a battalion-sized force, with three companies positioned on the line and a fourth held in reserve.",
+  "tags": [
+    "AMCORE-2",
+    "JMWAVE",
+    "Modesto VENTOSO Mendes",
+    "Agent 1995",
+    "Battalion Defensive Positions",
+    "Cuba",
+    "Intelligence Gathering"
+  ],
+  "title": "INTEL/TYPIC - AMCORE 2 Production Deployment Sketch of Battalion Defensive Positions",
+  "date": "1963-08-02",
+  "persons_mentioned": [
+    "Modesto VENTOSO Mendes"
+  ],
+  "recipient": "Chief, Special Affairs Staff",
+  "sender": "Chief of Station, JMWAVE"
+}

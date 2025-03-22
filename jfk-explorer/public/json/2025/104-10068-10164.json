@@ -1,0 +1,34 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Classified Message",
+  "security": "Disclosing the specific code names and systems (GRAFEND, TRAIN, LENROUP-1, ISSUE SYSTEM, FP066707, IX 97957) could reveal sensitive operational methods and technological capabilities. Revealing the request to “train LENROUP-1 SW Match” could expose technological or operational assets. Quoting directly: “Request permission train/ LENROUP-1 SW Match”.",
+  "security_level": "SECRET",
+  "summary": "A classified message requesting permission to train and use the LENROUP-1 system, with coordination details and approval notes.",
+  "summary_one_paragraph": "This classified message, dated with illegible characters but filed under the JFK Assassination Records Act, requests authorization to train personnel on and utilize the LENROUP-1 system. The request, involving GRAFEND TRAIN, includes reference to system match #23209 and developer #22669. The message indicates coordination with R. Chin (FE/JKO) and Mr. John Kemedy (FR/TRLB), and approval is implied. The memo is routed through DESPOCEN RI/AN and FE, signed by Seymour Fussell (Chief, TSD) and Charles J. Ryan (/AC/ISD/DA, Chief).",
+  "tags": [
+    "CIA",
+    "LENROUP-1",
+    "GRAFEND",
+    "TRAIN",
+    "FP066707",
+    "IX 97957",
+    "Technical Services Division",
+    "TSD",
+    "Seymour Fussell",
+    "Charles J. Ryan",
+    "FE/JKO",
+    "FR/TRLB",
+    "John Kemedy",
+    "R. Chin",
+    "FOIA"
+  ],
+  "title": "Request for Training and Usage of LENROUP-1 System",
+  "persons_mentioned": [
+    "Seymour Fussell",
+    "Charles J. Ryan",
+    "R. Chin",
+    "John Kemedy"
+  ],
+  "recipient": "DESPOCEN",
+  "sender": "Seymour Fussell (CHIEF, TSD), Charles J. Ryan (/AC/ISD/DA CHIEF)"
+}

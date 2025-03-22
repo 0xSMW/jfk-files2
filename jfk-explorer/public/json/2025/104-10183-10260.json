@@ -1,0 +1,43 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security": "Disclosing the specifics of intelligence briefings, such as the discussion of \"DCI operational techniques and specifically on [Finances] and operations in Guatemala,\" could reveal sensitive operational methods and compromise ongoing activities. Additionally, mentioning details like \"travel lists and watch list\" could endanger individuals and reveal surveillance capabilities. Directly quoting: \"the information we provide and the [Bytact operations] we undertake are compartmented...within the Guatemalan government\" shows a desire to restrict knowledge, and revealing this desire could strain relations or expose covert agreements.",
+  "security_level": "SECRET",
+  "summary": "A memorandum detailing a briefing given to Guatemalan officials, including Chief of State Peralta, on CIA operational techniques and intelligence matters, focusing on Guatemala and El Salvador, and discussing security protocols and potential exploitation of information.",
+  "summary_one_paragraph": "This memorandum, dated October 13, 1964, outlines a briefing conducted in Guatemala for Chief of State Peralta and other Guatemalan officials by Harold E. Swenson, Chief of WH/SA/CI, regarding CIA operational techniques and intelligence matters. The briefing covered the DCI structure, operational methods, financial aspects, and specific operations in Guatemala, along with the Salvadoran \"Case Zapote\" file. Discussions also included the exploitation of information, recruitment aspects, potential transfer of individuals like DALTON to Guatemala, and Peralta's strong views on Cuba, Mexico, and the need for aggressive action against communist influences. The briefing emphasized security precautions and the importance of compartmentalization within the Guatemalan government.",
+  "tags": [
+    "CIA",
+    "Guatemala",
+    "Briefing",
+    "AMIMUG-1",
+    "Intelligence",
+    "Peralta",
+    "Security",
+    "El Salvador",
+    "Cuba"
+  ],
+  "title": "AMIMUG-1 operation: Briefing in Guatemala of Chief of State Peralta",
+  "date": "1964-10-13",
+  "locations_mentioned": [
+    "Guatemala",
+    "Cuba",
+    "Central America",
+    "Mexico",
+    "El Salvador"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Peralta",
+    "Colonel Serrano",
+    "Colonel Porres",
+    "Raul Loeb",
+    "Andy Rogers",
+    "Castro",
+    "Colonel DAN Iassed",
+    "President IVERA",
+    "DALTON",
+    "Harold E. Swenson"
+  ],
+  "recipient": "CIA",
+  "sender": "Harold E. Swenson"
+}

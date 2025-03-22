@@ -1,0 +1,44 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "This document discusses potential assistance to a subject who desires travel in the WAVE area, which could reveal operational methods and locations. Specifically, offering AMOTS assistance could expose sensitive resources and compromise future operations. Quoting directly: 'WAVE suggests if SUBJ desires travel WAVE area JOIN AMIRON NIL ING program will have AMOTS assist him.'",
+  "security_level": "SECRET",
+  "summary": "A message from WAVE to BELL confirms the accuracy of statements made by Luis Alberto de Jesus Condo: Cajisal in NEXI, identifies individuals handled by OLIEN, and offers assistance to the subject if he desires to travel to the WAVE area.",
+  "summary_one_paragraph": "This classified message dated March 9, 1961, from WAVE to BELL, addresses information related to the JMZIP project, referencing MEXI 7544. It confirms that statements made by Luis Alberto de Jesus Condo: Cajisal in NEXI are accurate. The message also states OLIEN handled Bobby Maduro and Juan Mendez, who identified A. Rivero as a possible B, and named Emilio Fernandez (AKA Eugenio) as C, and Plinio Prieto as D, all known to have contacted each other. WAVE expresses no interest in the subject (SUSJ), but suggests offering assistance via the AMIRON NIL ING program should the subject wish to travel in the WAVE area, with AMOTS to assist him.",
+  "tags": [
+    "CIA",
+    "JMZIP",
+    "AMIRON",
+    "NIL ING",
+    "WAVE",
+    "MEXI",
+    "Luis Alberto de Jesus Condo: Cajisal",
+    "Olien",
+    "Bobby Maduro",
+    "Juan Mendez",
+    "A. Rivero",
+    "Emilio Fernandez",
+    "Eugenio",
+    "Plinio Prieto"
+  ],
+  "title": "Statements by Luis Alberto de Jesus Condo: Cajisal",
+  "date": "1961-03-09",
+  "locations_mentioned": [
+    "MEXI",
+    "WAVE Area"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Luis Alberto de Jesus Condo: Cajisal",
+    "Olien",
+    "Bobby Maduro",
+    "Juan Mendez",
+    "A. Rivero",
+    "Emilio Fernandez",
+    "Eugenio",
+    "Plinio Prieto",
+    "AMOTS"
+  ],
+  "recipient": "BELL",
+  "sender": "WAVE"
+}

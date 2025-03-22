@@ -1,0 +1,36 @@
+{
+  "classification": "Vietnam",
+  "document_type": "CIA Information Report TELEGRAM",
+  "security": "The report discusses ongoing coup plotting and potential government changes in South Vietnam. Releasing specific details about individuals involved in these activities or revealing the CIA's sources and methods for gathering this information could compromise ongoing operations and endanger individuals. Quoting directly: \"Still lacking, however, is solid information as to the cohesiveness of various groups reported ready to launch a coup...\", suggesting that exposure of names or roles of involved parties could have grave ramifications.",
+  "security_level": "C-O-N-F-I-D-E-N-T-I-A-L",
+  "summary": "A CIA information report from October 8, 1963, assesses the political situation in South Vietnam, focusing on coup plotting against President Ngo Dinh Diem and the potential for government changes.",
+  "summary_one_paragraph": "This confidential CIA information report, dated October 8, 1963, provides a field appraisal of the political climate in South Vietnam. It emphasizes increased reporting on coup plotting against President Ngo Dinh Diem, detailing the personalities involved and their roles, while noting a lack of solid information about the cohesiveness of the coup groups. The report suggests that negotiations between Diem, Ngo Dinh Nhu, and military generals will be crucial to the future of South Vietnam, amid an atmosphere of fear and uncertainty in Saigon. The report also touches on the government's plans for the National Day celebrations, the uneventful elections, student unrest, and possible GVN-DRV rapprochement.",
+  "tags": [
+    "CIA",
+    "Vietnam",
+    "Ngo Dinh Diem",
+    "Coup Plot",
+    "Political Situation",
+    "National Day Celebrations",
+    "Viet Cong",
+    "Student Unrest",
+    "GVN-DRV Rapprochement"
+  ],
+  "title": "CIA Information Report",
+  "date": "1963-10-08",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ngo Dinh Diem",
+    "Ngo Dinh Nhu",
+    "Tran Van Don",
+    "Ho Chi Minh",
+    "Lalouette",
+    "Joseph Alsop",
+    "Colonel Tung",
+    "Maneli"
+  ]
+}

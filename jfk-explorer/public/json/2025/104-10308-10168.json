@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Message",
+  "security": "This message discusses intelligence sources (A-27, A-35, A-24) and their reporting on Cuban military activities, including tank movements and ship arrivals. Revealing this could expose sources to Cuban intelligence and compromise future reporting. It also mentions intentions to instruct A-35 in SW (likely sensitive operations). Mention of specific source details, as 'we are awaiting your authorization to INSTRUCT A-35 in SW. '",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A message detailing the planned separation and replacement of an agent within the JAGUAR group, Cuban military activities including tracked tank movements and ship arrivals from the USSR, and the confirmed fleeing of a commander and officers from Cuban naval bases.",
+  "summary_one_paragraph": "This message, dated October 11, 1964, discusses agent Juan Manuel Fernandez (A-27)'s desire to leave Cuba due to his pessimism about the country's communist future and requests permission to replace him with Luis Rodriguez (assigning him the A-27 designation). It also reports on the movement of tracked tanks to a camp between Santa Maria del Rosario and El Cotorro, the arrival of the Soviet ship \"Sirhote Alin\" carrying chemical fertilizer, and the confirmed desertion of Commandant \"Contreras\" and other officers from Cuban naval bases, who are suspected to be in U.S. territory.",
+  "tags": [
+    "Cuba",
+    "JAGUAR Group",
+    "Agent",
+    "Military Activity",
+    "Soviet Ship",
+    "Defection",
+    "Cuban Military",
+    "Tank Movement"
+  ],
+  "title": "MGE 27",
+  "date": "1964-10-11",
+  "locations_mentioned": [
+    "Cuba",
+    "USSR",
+    "Santa Maria del Rosario",
+    "El Cotorro",
+    "Mariel Pier",
+    "United States"
+  ],
+  "persons_mentioned": [
+    "Juan Manuel Fernandez",
+    "Luis Rodriguez",
+    "Julio Cambas",
+    "Fidel Castro",
+    "Contreras"
+  ],
+  "sender": "Juan"
+}

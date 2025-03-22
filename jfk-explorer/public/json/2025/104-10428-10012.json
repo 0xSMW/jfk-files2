@@ -1,0 +1,40 @@
+{
+  "classification": "Mexico",
+  "document_type": "Memorandum",
+  "security": "Revealing the identity of Yuri (LNU) as a KGB officer operating as a trouble-shooter for the Cuban group exposes intelligence operations and personnel, potentially compromising ongoing intelligence activities. Citing 'A FORMER MEMBER OF THE CUBAN GENERAL DIRECTORATE OF INTELLIGENCE (DGI) WAS REQUESTED TO IDENTIFY AND PROVIDE INFORMATION ON AN UNIDENTIFIED MAN. THE FORMER DGI MEMBER IDENTIFIED THE MAN AS YURI (LNU), A KGB OFFICER'.",
+  "security_level": "SECRET",
+  "summary": "A 1977 CIA memorandum details an effort to identify a man photographed at the Cuban and Soviet Embassies in Mexico City in 1963, who was later identified as Yuri (LNU), a KGB officer, by a former member of the Cuban General Directorate of Intelligence (DGI). The memo discusses Yuri's role in assisting a Cuban group attending an intelligence course in Moscow and his connection to another KGB officer who claimed to have worked in Mexico and the US.",
+  "summary_one_paragraph": "In March 1977, a CIA memorandum from the Chief of the Domestic Collection Division to the Chief of the Miami Field Office, details an effort to identify an unknown man pictured in the Warren Commission report, who had visited the Cuban and Soviet Embassies in Mexico City in October 1963. A former member of the Cuban DGI identified the man as Yuri (LNU), a KGB officer who assisted a Cuban intelligence group in Moscow in 1964 and was connected to another KGB officer, Juan, who claimed long-term clandestine service in Mexico and the United States. The memorandum requests Miami to show photographs to a subject for identification and notes that any OIR reports should use the referent CPLA-006877.",
+  "tags": [
+    "CIA",
+    "KGB",
+    "DGI",
+    "Mexico City",
+    "Warren Commission",
+    "Yuri (LNU)",
+    "Juan (Pseudo)",
+    "Identification",
+    "Intelligence",
+    "Soviet Embassy",
+    "Cuban Embassy"
+  ],
+  "title": "Case 57845",
+  "conspiracy": "This document references an unidentified man who visited the Cuban and Soviet Embassies in Mexico City in 1963 and was later identified as a KGB officer. While this doesn't directly explain who killed JFK, why, or how, it connects Soviet intelligence to individuals who may have had contact with Lee Harvey Oswald before the assassination, adding a layer to the potential involvement of foreign entities.",
+  "date": "1977-03-11",
+  "locations_mentioned": [
+    "Mexico City",
+    "Moscow",
+    "United States",
+    "West Germany"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Yuri (LNU)",
+    "Juan (Pseudo)",
+    "Ramiro Perez Rodriguez",
+    "President Kennedy",
+    "Lee Harvey Oswald"
+  ],
+  "recipient": "Chief, Miami Field Office",
+  "sender": "Chief, Domestic Collection Division, Operations Services Group, Alien Branch (Jackson R. Horton)"
+}

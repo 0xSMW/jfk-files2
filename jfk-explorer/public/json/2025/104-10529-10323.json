@@ -1,0 +1,24 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This message discusses the potential disruption of maritime sabotage operations against Cuba due to Hurricane Flora. Specifically, it mentions the implementation of 'TISH effect horarium sabotage ops' and the need to make 'certain changes in approach'. Sharing this information could expose ongoing or planned covert actions against Cuba and reveal specific operational codewords or procedures.",
+  "security_level": "SECRET/LIMDIS",
+  "summary": "A message regarding the impact of Hurricane Flora on Cuban shipping, specifically on sabotage operations. It orders a temporary halt to sabotage activities and indicates adjustments will be made.",
+  "summary_one_paragraph": "On October 1, 1963, a classified message was sent to multiple CIA stations from the Director, concerning the impact of Hurricane Flora on Cuba. The message states that the hurricane damage will likely lead to a heavy concentration of food and medicine in maritime cargo to Cuba, which will alter sabotage operations against Cuban shipping. The message puts a temporary stop to the TISH effect horarium sabotage operations and indicates that further guidance is forthcoming regarding changes in approach. Several officers were notified, including those in TSD/CAD, WE/2, DESMOND FITZGERALD WE/, C/SND WE/, THOMAS THIRLE EIL/G, and CA/L/INT.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Sabotage",
+    "Hurricane Flora",
+    "Maritime Cargo",
+    "Covert Operations"
+  ],
+  "title": "Hurricane Flora Impact on Cuban Shipping",
+  "date": "1963-10-01",
+  "locations_mentioned": [
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "Hamburg, Frankfurt, Hague, Madrid, Paris, LOMI",
+  "sender": "Director"
+}

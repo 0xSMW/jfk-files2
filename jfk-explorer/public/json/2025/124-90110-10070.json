@@ -1,0 +1,31 @@
+{
+  "classification": "JFK Assassination System",
+  "document_type": "Memo",
+  "security": "Releasing information about the attempt to persuade a Yugoslavian citizen to return to his country under CIA control could damage ongoing operations or reveal intelligence-gathering methods. As the memo states, 'CIA may wish to consider contacting subject in an effort to persuade him to return to Yugoslavia under control of CIA.' This reveals a potential method of intelligence asset recruitment and control.",
+  "security_level": "Secret",
+  "summary": "The FBI informs the CIA that Franc Pecar, a Yugoslavian commercial representative, is being recalled to Yugoslavia and expresses a CIA interest in contacting him to persuade him to return under their control. The FBI advises against approaching Pecar, citing concerns from New York informants and a recent denial of clearance in a similar case.",
+  "summary_one_paragraph": "On April 10, 1963, the FBI sent a memo to the CIA regarding Franc Pecar, a Yugoslavian commercial representative believed to be returning to Yugoslavia at the end of April. The CIA expressed interest in contacting Pecar to persuade him to return under CIA control, due to conflicting information about whether he was a member of the Yugoslav Intelligence Service (YIS). However, the FBI advised against approaching Pecar based on information from New York informants indicating he was not engaged in intelligence activities and a recent denial by the State Department for a similar approach.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Franc Pecar",
+    "Joseph Raymond Merola",
+    "Yugoslavia",
+    "Intelligence",
+    "Recruitment",
+    "Asset Control"
+  ],
+  "title": "",
+  "date": "1963-04-10",
+  "locations_mentioned": [
+    "Yugoslavia",
+    "U. S."
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Franc Pecar",
+    "Joseph Raymond Merola"
+  ],
+  "recipient": "CIA",
+  "sender": "HQ"
+}

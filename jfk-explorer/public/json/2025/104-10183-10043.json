@@ -1,0 +1,38 @@
+{
+  "classification": "Operations",
+  "document_type": "Classified Message",
+  "security": "Disclosing the identities of assets (AMWHIP/1, IDEN C) and their roles in supporting PERUMEN operations, as well as AMWHIP/1's access to official Perumen installations and diplomats, could compromise their safety and the effectiveness of ongoing intelligence operations. Further, the document details potential cover arrangements and operational support possibilities, revealing sensitive operational methods and potentially exposing vulnerabilities in existing intelligence networks. Excerpt: \"AMWHIP/1 (IDEN A), long time KUBARK asset for PERUMEN ops, will visit ROME 5 to 15 JUNE to open JEWELRY STORE in IDEN B. Has offered he of SERVICE to STA in any way possible including furnishing cover in new store.\"",
+  "security_level": "SECRET",
+  "summary": "A classified message outlines the potential use of AMWHIP/1, a long-time CIA asset with close ties to the Perumen regime, to support operations in Rome, including providing cover and access to Perumen officials.",
+  "summary_one_paragraph": "This SECRET classified message, dated June 3, 1963, from the Director to Rome station, details the upcoming visit of AMWHIP/1 (IDEN A), a valuable KUBARK asset, to Rome for the purpose of opening a jewelry store. AMWHIP/1 offers his services to the station, including using the store as cover and leveraging his continued good standing with the Perumen regime to access official installations and diplomats. The message recommends the station establish contact with AMWHIP/1 to explore various operational possibilities, including providing cover for a subject of DIR 38810 and gathering assessments on target personalities within Perumen officialdom, while emphasizing the need to respect AMWHIP/1's judgment and recognizing his role as an informant and operational support asset rather than a principal agent recruiter.",
+  "tags": [
+    "CIA",
+    "Asset",
+    "AMWHIP/1",
+    "PERUMEN Operations",
+    "Rome",
+    "Covert Operations",
+    "KUBARK",
+    "Intelligence Gathering"
+  ],
+  "title": "KEYWAY PERUMEN AMWHIP",
+  "date": "1963-06-03",
+  "locations_mentioned": [
+    "Rome",
+    "New York",
+    "Milan",
+    "Paris"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "AMWHIP/1 (IDEN A)",
+    "IDEN B",
+    "IDEN C",
+    "IDEN D",
+    "IDEN E",
+    "IDEN F",
+    "Fill Thompson"
+  ],
+  "recipient": "Rome",
+  "sender": "Director (STEPHEN I. MUNGE AVE)"
+}

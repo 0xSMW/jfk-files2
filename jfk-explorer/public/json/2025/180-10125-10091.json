@@ -1,0 +1,22 @@
+{
+  "classification": "Administrative",
+  "document_type": "Payroll Certification",
+  "security": "Disclosing payroll information could potentially compromise personal privacy and security, as it contains sensitive details such as social security numbers, annual salaries, and gross pay earned. This information, if exposed, could be exploited for identity theft or other malicious purposes.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a payroll certification for the U.S. House of Representatives Select Committee on Assassinations, listing employees, their positions, salaries, and gross pay for the period of December 1-31, 1977.",
+  "summary_one_paragraph": "This payroll certification, dated January 6, 1978, details the compensation for employees of the U.S. House of Representatives Select Committee on Assassinations for the period spanning December 1 to December 31, 1977. It includes each employee's social security number, name, position, annual salary, gross pay earned during the specified period, and any relevant remarks such as pay rate changes or termination dates; the payroll encompasses a range of positions, from staff counsel and investigators to researchers and clerical staff, with annual salaries ranging from $11,000 to $47,500.",
+  "tags": [
+    "Payroll",
+    "US House of Representatives",
+    "Select Committee on Assassinations",
+    "Personnel",
+    "Salaries",
+    "Compensation",
+    "1977"
+  ],
+  "title": "Payroll Certification - Select Committee on Assassinations, December 1977",
+  "date": "1978-01-06",
+  "origin_agency": "U.S. House of Representatives",
+  "recipient": "Select Committee on Assassinations",
+  "sender": "U.S. House of Representatives"
+}

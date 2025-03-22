@@ -1,0 +1,35 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Releasing details about casual sources (I-U-10 and San Francisco A-14) could potentially compromise their identities and future intelligence gathering operations.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This is a local agency check report on David Reed Fromer, providing information gathered from casual sources regarding his residence, family, association with student organizations, and attendance at events.",
+  "summary_one_paragraph": "On December 9, 1966, a local agency check report was submitted regarding David Reed Fromer, born on July 21, 1942, in Chicago, Illinois. The report, compiled by Eugene J. Power of the 115th MI Group (I), summarizes findings from Casual Source I-U-10 and San Francisco A-14. It details Fromer's residences in San Francisco and Berkeley, his inclusion on the mailing list of SLATE at the University of California, Berkeley, attendance at events organized by the American Russian Institute and the Continuations Committee of World Congress and General Disarmament & Peace, and his conscientious objector status reported in the San Francisco Chronicle.",
+  "tags": [
+    "David Reed Fromer",
+    "Local Agency Check",
+    "Student Rights",
+    "Conscientious Objector",
+    "American Russian Institute",
+    "SLATE",
+    "INSCOM/CSF",
+    "DOD"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1966-12-09",
+  "locations_mentioned": [
+    "Chicago, Illinois",
+    "San Francisco, California",
+    "Berkeley, California",
+    "Mill Valley, California",
+    "University of Wisconsin"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "David Reed Fromer",
+    "Irving Rhodes",
+    "Katherine Fromer",
+    "Eugene J. Power",
+    "Arnautoff"
+  ]
+}

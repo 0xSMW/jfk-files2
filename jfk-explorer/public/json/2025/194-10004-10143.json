@@ -1,0 +1,38 @@
+{
+  "classification": "Personnel",
+  "document_type": "Identification Form/Request for National Agency Check",
+  "security": "Sharing the subject's personal information, including his date and place of birth, social security number, addresses, employment history, educational institutions attended, and family details, could compromise his privacy. Additionally, the document indicates that the subject refused to complete certain forms and answer questions, as well as his attorney's advice against self-incrimination, which reveals his interactions with legal counsel. Sharing the details of these interactions and refusals could potentially prejudice the subject.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a U.S. Army request for a National Agency Check (NAC) on David Reed Fromer, including his personal information, residences, employment history, and educational background, as well as details regarding his refusal to complete certain forms.",
+  "summary_one_paragraph": "On January 18, 1967, Headquarters, USAINTC requested a National Agency Check on David Reed Fromer, born on July 21, 1942, in Chicago, Illinois. The request includes Fromer’s social security number, residences and employment history from 1959 to 1966, and his educational institution as of 1966. The form indicates Fromer refused to execute DD Form 98, answer Item 17, and be fingerprinted, citing legal advice from attorneys Peter Franck and Vincent Hallinan against self-incrimination; the request also notes the existence of FBI reports on Fromer from 1960 to 1966 and seeks any additional information.",
+  "tags": [
+    "National Agency Check",
+    "David Reed Fromer",
+    "INSCOM",
+    "USAINTC",
+    "FBI",
+    "Legal Advice",
+    "Refusal to Answer"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1967-01-18",
+  "locations_mentioned": [
+    "Chicago, Illinois",
+    "Cincinnati, Ohio",
+    "Estherville, Iowa",
+    "San Francisco, California",
+    "Berkeley, California",
+    "Madison, Wisconsin",
+    "Mill Valley, California",
+    "Fort Holabird, Maryland"
+  ],
+  "origin_agency": "INSCOM/CSF, Headquarters, USAINTC",
+  "persons_mentioned": [
+    "David Reed Fromer",
+    "Irving Fromer",
+    "Katherine Rhodes",
+    "Peter Franck",
+    "Vincent Hallinan"
+  ],
+  "recipient": "DOD NAC Center"
+}

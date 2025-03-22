@@ -1,0 +1,44 @@
+{
+  "classification": "Administrative",
+  "document_type": "Final Determination Notification & Payroll Records",
+  "security": "The document contains personal information, specifically Social Security Numbers (SSNs), which are redacted to prevent unwarranted invasion of personal privacy. The Review Board determined that public disclosure of SSNs would outweigh the public interest. Quoting: 'The text is redacted because the public disclosure of the redaction could reasonably be expected to constitute an unwarranted invasion of personal privacy, and that invasion of privacy would be so substantial that it outweighs the public interest.'",
+  "security_level": "Unclassified",
+  "summary": "This document is a Final Determination Notification from the Assassination Records Review Board regarding the release status of HSCA staff payroll records. It details the postponement of Social Security numbers (SSNs) to protect personal privacy, citing that their release would constitute an unwarranted invasion of privacy.",
+  "summary_one_paragraph": "This document encompasses the Assassination Records Review Board's final determination concerning HSCA staff payroll records, specifically regarding the redaction and postponement of Social Security Numbers (SSNs). The Board decided to postpone the release of SSNs, citing that their disclosure would result in an unwarranted invasion of personal privacy that outweighs the public interest. The document also includes associated payroll authorization forms, memoranda regarding staff employment, and related administrative information for Colleen T. Boland, an employee of the Select Committee on Assassinations.",
+  "tags": [
+    "Assassination Records Review Board",
+    "HSCA",
+    "Staff Payroll Records",
+    "Social Security Numbers",
+    "Personal Privacy",
+    "Colleen T. Boland",
+    "Administrative Leave",
+    "Payroll Authorization",
+    "Termination"
+  ],
+  "title": "Final Determination Notification: HSCA Staff Payroll Records",
+  "date": "1995-12-08",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Saudi Arabia",
+    "St. Louis, Missouri",
+    "Bethesda, Maryland",
+    "Chevy Chase, MD"
+  ],
+  "origin_agency": "HSCA",
+  "persons_mentioned": [
+    "Colleen T. Boland",
+    "Louis Stokes",
+    "G. Robert Blakey",
+    "Kevin Walsh",
+    "Tom Howarth",
+    "Richard A. Sprague",
+    "Henry B. Gonzalez",
+    "Thomas N. Dowing",
+    "Ambassador Alireza",
+    "John Dellenback",
+    "James Shaper"
+  ],
+  "recipient": "All Staff Employees",
+  "sender": "Budget Officer"
+}

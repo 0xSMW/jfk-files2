@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Message",
+  "security": "Revealing the identification of a Cuban CI officer who played a 'significant role' in the Cuban Missile Crisis conferences and the potential identification of a 'Cuban active measures asset' as the author of the article, could jeopardize ongoing or future intelligence operations and compromise the safety of individuals involved.",
+  "security_level": "SECRET",
+  "summary": "A CIA message reports a possible Cuban active measures campaign to promote the idea of CIA involvement in the JFK assassination, following a conference attended by a Cuban CI officer and US citizen 'investigators'. It requests the text and author of an article, suspecting the author may be a Cuban asset.",
+  "summary_one_paragraph": "This SECRET CIA message, dated September 5, 1995, addresses a potential Cuban active measures campaign aimed at promoting the theory of CIA involvement in the JFK assassination. Triggered by a referenced article (LIMA 36844), the message indicates that a conference, attended by Cuban CI officer Escalante and others significant in the Cuban Missile Crisis conferences of 1992-93, also included US citizen 'investigators' promoting conjectures about the CIA's role in Kennedy's assassination. The CIA requests the article text and author's byline to assess whether the author is a Cuban asset, adding Havana to the distribution list for related communications.",
+  "tags": [
+    "CIA",
+    "Cuban Intelligence",
+    "Active Measures",
+    "JFK Assassination",
+    "Conspiracy Theory",
+    "Escalante"
+  ],
+  "title": "Cuban 'Affirmation' of CIA Plot Against JFK",
+  "conspiracy": "This message references Cuban 'affirmation' of CIA involvement in the JFK assassination, so it seems to lend credence to the conspiracy that the CIA had something to do with it.",
+  "date": "1995-09-05",
+  "locations_mentioned": [
+    "Lima",
+    "Havana",
+    "Sao Paulo",
+    "Brasilia"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "JFK",
+    "Escalante"
+  ],
+  "recipient": "LIMA",
+  "sender": "STAFF"
+}

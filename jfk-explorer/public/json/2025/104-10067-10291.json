@@ -1,0 +1,41 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "The cable reveals specific operational tradecraft and methods (teltaps) that are still in practice at the station. It also highlights the potential exposure of instances of co-operation with the Mexican government, which could curtail existing or potential operations. Further, the cable mentions the risk of revealing sources, stating that the NBC program could set off a full-scale investigation by the KGB. Quoting directly: \"THE OPERATIONAL TRADECRAFT AND METHODS (TELTAPS) REVEALED BY BACH ARE STILL IN PRACTICE AT THIS STATION...THE MEXICAN GOVERNMENT IS EXTREMELY SENSITIVE TO THE POSSIBILITY OF EXPOSURE OF INSTANCES OF CO-OPERATION...THE SOVIETS HAVE THE RESOURCES AND DETERMINATION TO EVENTUALLY IDENTIFY THE SPY.\"",
+  "security_level": "SECRET",
+  "summary": "A cable from the Mexico City station expressing concern about the potential damage to U.S. security interests and the agency due to an upcoming NBC program, citing possible revelations of sources, methods, and damage to liaison relationships.",
+  "summary_one_paragraph": "This secret cable, dated March 21, 1978, originates from the CIA's Mexico City station and is addressed to the Director, expressing urgent concerns about the imminent broadcast of an NBC program. The station fears the program will compromise U.S. security interests by revealing sources, operational methods such as telephone taps, and sensitive liaison cooperation with the Mexican government, all of which could jeopardize future recruitments, damage relationships with existing sources, and embarrass President López Portillo during his upcoming state visit to Moscow. Additionally, the cable highlights the program's potential to fuel local propaganda against the CIA and erode station security, while questioning the extent of information already disclosed by Bach, the program's source, and requesting precise identification of compromised locations for a comprehensive damage assessment.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "NBC",
+    "Security Breach",
+    "Soviet Target",
+    "Liaison",
+    "Teltaps",
+    "Bach",
+    "Lopez Portillo",
+    "KGB",
+    "Operations",
+    "Sources",
+    "Methods"
+  ],
+  "title": "Concerns Regarding NBC Program Revelations in Mexico City",
+  "allies": "The document expresses concern over damage to liaison relationships and potential curtailment of operations due to exposure of instances of cooperation with the Mexican government.",
+  "date": "1978-03-21",
+  "locations_mentioned": [
+    "Mexico City",
+    "La Paz",
+    "Montevideo",
+    "Moscow"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Bach",
+    "Roger T. Kingman",
+    "President López Portillo",
+    "Aldo Moro"
+  ],
+  "recipient": "Director",
+  "sender": "Staff"
+}

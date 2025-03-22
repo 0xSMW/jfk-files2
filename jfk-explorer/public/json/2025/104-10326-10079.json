@@ -1,0 +1,34 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Revealing the upcoming presence of a purported CIA agent, especially a Cuban counter-espionage chief like Fabian Escalante, at a public conference could expose the agent's identity and potentially compromise ongoing or future intelligence operations. The cable's mention of \"CIA AGENT CUBAN COUNTER-ESPIONAGE CHIEF, FABIAN ((ESCALANTE)), JOHN NEWMAN\" makes this risk very explicit.",
+  "security_level": "SECRET",
+  "summary": "A cable reports on a Rio de Janeiro newspaper article about an upcoming conference on the JFK assassination, noting the anticipated presence of a purported CIA agent (Cuban counter-espionage chief, Fabian Escalante) and John Newman, among others.",
+  "summary_one_paragraph": "This SECRET cable, originating from SAO PAULO on July 27, 1995, alerts the DIRECTOR, HAVANA, and BRASILIA to a Rio de Janeiro newspaper article advertising a forthcoming seminar on the JFK assassination sponsored by the Rio de Janeiro Regional Court. The article highlights that a U.S. person, the director of a research and documentation center on assassinations, as well as a purported CIA agent, Cuban counter-espionage chief Fabian Escalante, and John Newman are expected to attend.",
+  "tags": [
+    "JFK Assassination",
+    "Rio Conference",
+    "CIA Agent",
+    "Fabian Escalante",
+    "John Newman",
+    "Cuban Counter-Espionage",
+    "WNINTEL",
+    "REAM"
+  ],
+  "title": "Rio Conference on JFK Assassination to be Attended by CIA Agent Per Press Report",
+  "date": "1995-07-27",
+  "locations_mentioned": [
+    "Rio de Janeiro, Brazil",
+    "Havana",
+    "Brasilia",
+    "U.S."
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Fabian Escalante",
+    "John Newman",
+    "President Kennedy"
+  ],
+  "recipient": "Director, Havana, Brasilia",
+  "sender": "STAFF"
+}

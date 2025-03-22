@@ -1,0 +1,35 @@
+{
+  "classification": "Personnel",
+  "document_type": "Personnel File",
+  "security": "The personnel file contains information about Boris D. Tarasoff's employment with the CIA, including his retirement, reassignments, and medical claims. The file also mentions security restrictions related to an Honor and Merit Award presented to Tarasoff. Specifically, the document states, 'Because of security restrictions, the Honor and Merit Awards Board is acting as custodian of the subject's Honor Award and related papers listed below.' Sharing details about an employee’s medical issues, retirement details, or reassignments could potentially violate privacy, especially if the nature of their work is classified.",
+  "security_level": "SECRET",
+  "summary": "This personnel file contains memos, personnel action requests, and notices related to Boris D. Tarasoff's employment with the CIA, including his retirement, reassignments, and a request for early home leave due to his wife's parents' poor health.",
+  "summary_one_paragraph": "The personnel file of Boris D. Tarasoff includes documents such as a memorandum regarding the custody of his Honor and Merit Award due to security restrictions, a request for early home leave in August 1967 due to the poor health of his wife's parents, personnel action requests for reassignments in Mexico City, and notifications of official disability claim files for both Tarasoff and his wife. The file also notes Tarasoff's mandatory retirement in November 1970, after which he was to be converted to contract employee status to continue his services as a Russian and Spanish translator.",
+  "tags": [
+    "CIA",
+    "Personnel File",
+    "Boris D. Tarasoff",
+    "Retirement",
+    "Reassignment",
+    "Medical Claims",
+    "Honor and Merit Award",
+    "Home Leave"
+  ],
+  "title": "TARASOFF, BORIS D. OFFICIAL PERSONNEL FILE",
+  "date": "1971-04-27",
+  "locations_mentioned": [
+    "Mexico City, Mexico"
+  ],
+  "persons_mentioned": [
+    "Boris D. Tarasoff",
+    "Ellin B. Glenn",
+    "Robert M. Gaynor",
+    "Henry L. Berthold",
+    "Dow H. Justice",
+    "Anna Tarasoff",
+    "William V. Broe",
+    "Patricia P. MacDougall"
+  ],
+  "recipient": "Chief, Transactions & Records Branch, Control Division, Office of Personnel",
+  "sender": "Ellin B. Glenn, Executive Secretary, Honor and Merit Awards Board"
+}

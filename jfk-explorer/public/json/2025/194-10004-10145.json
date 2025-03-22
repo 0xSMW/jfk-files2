@@ -1,0 +1,26 @@
+{
+  "classification": "Personnel",
+  "document_type": "Identification Form",
+  "security": "This document contains personal information about David R. Fromer, including his social security number, date and place of birth, relatives' names and birthdates, residences, and employment history. Releasing this information could violate Fromer's privacy.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a US Army request for a National Agency Check (NAC) on David Reed Fromer, providing personal information for the background investigation.",
+  "summary_one_paragraph": "On March 15, 1967, the DCOFS, OPER HQS USAINTC requested a National Agency Check (NAC) on David Reed Fromer, born on July 21, 1942, in Chicago, Illinois. The document includes Fromer's social security number, details about his parents (Irving Fromer and Katherine Rhodes) including their birthdates and residences, a list of residences since his 16th birthday, and a request for a copy of the investigation results. The NAC request also notes a connection to Ann Spake, NEE: Fromer, his sister.",
+  "tags": [
+    "INSCOM/CSF",
+    "DOD-affiliated personnel",
+    "Incident investigations",
+    "National Agency Check",
+    "David R. Fromer",
+    "Background Investigation"
+  ],
+  "title": "[ RESTRICTED ]",
+  "date": "1967-03-15",
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "David Reed Fromer",
+    "Irving Fromer",
+    "Katherine Rhodes",
+    "Ann Spake"
+  ],
+  "sender": "DCOFS, OPER HQS USAINTC"
+}

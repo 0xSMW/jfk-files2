@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "Disclosing the specific TDCS report number (TDCS-3/565,829) and dissemination controls (NO FOREIGN DISSEM) could reveal intelligence collection methods and sources, potentially compromising ongoing or future operations. Detailing the CIA's monitoring of Cuban Embassy activities immediately following President Kennedy's assassination could expose sources and methods used to gather intelligence in Uruguay.",
+  "security_level": "Secret",
+  "summary": "A CIA report details Cuban Embassy precautions in Montevideo, Uruguay, following the assassination of President Kennedy, including a request for extra police protection due to feared mob violence.",
+  "summary_one_paragraph": "This CIA report, dated November 24, 1963, describes the reaction of the Cuban Embassy in Montevideo, Uruguay, to President Kennedy's assassination. Ricardo Guttierez Torrens, a high-ranking official at the embassy, requested additional police protection on November 22, citing reports of an impending mob attack. Uruguayan police provided extra security to both the Cuban Embassy and the Soviet Legation, despite the latter not requesting it. The report notes the shock and grief expressed by the Montevideo populace, with approximately 3000 people marching to the American Embassy to express their condolences.",
+  "tags": [
+    "JFK Assassination",
+    "Cuba",
+    "CIA",
+    "Uruguay",
+    "Montevideo",
+    "Cuban Embassy",
+    "Soviet Legation",
+    "TDCS-3/565,829"
+  ],
+  "title": "Cuban Precautions Following Assassination of President Kennedy",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Uruguay",
+    "Montevideo"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ricardo Guttierez Torrens",
+    "President Kennedy"
+  ],
+  "recipient": "STATE/INR DIA ARMY/ACSI NAVY AIR JCS SECDEF NSA NIC AID USIA OC I ONE OCR ORR XXX 00 EXO STATE/DIR",
+  "sender": "CIA"
+}

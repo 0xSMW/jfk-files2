@@ -1,0 +1,30 @@
+{
+  "classification": "Personnel",
+  "document_type": "Cable",
+  "security": "Releasing names of covert retirees would reveal identities of those individuals, potentially exposing them and their families to harm. It also discusses the cover mechanism the agency utilizes. Quoting: 'IMPACT OF THE RELEASE OF THE RELATIONSHIP OF YOUR TRUE NAME AND THE AGENCY WILL HAVE TO BE LOOKED AT CAREFULLY TO DETERMINE THE VIABILITY OF CONTINUED COVER PROTECTION.'",
+  "security_level": "SECRET",
+  "summary": "A cable from the CIA requesting assistance from the San Jose station in contacting a former employee residing in Costa Rica to inform them that their name appears in JFK Assassination Records and provide them with information on how to potentially prevent its public release.",
+  "summary_one_paragraph": "This cable, dated March 5, 1997, is from the CIA to its station in San Jose, Costa Rica. It requests the station to contact a former employee who retired under cover and now resides in Costa Rica. The purpose is to inform the former employee that their name appears in documents being reviewed for public release under the President John F. Kennedy Assassination Records Collection Act of 1992. The cable includes a form letter explaining the implications of the Act, the potential for redaction based on specific criteria, and contact information for Beth Mills, along with answers to frequently asked questions, plus outlining the grounds for postponement of public disclosure of records.",
+  "tags": [
+    "CIA",
+    "JFK Assassination Records Collection Act",
+    "Covert Employee",
+    "Costa Rica",
+    "Beth Mills",
+    "Public Release",
+    "Redaction"
+  ],
+  "title": "Request for Station Assistance Regarding JFK Assassination Records Act",
+  "date": "1997-03-05",
+  "locations_mentioned": [
+    "Costa Rica",
+    "Washington, D.C."
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Beth Mills",
+    "President John F. Kennedy"
+  ],
+  "recipient": "San Jose Station",
+  "sender": "Chief/OCC"
+}

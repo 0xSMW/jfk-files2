@@ -1,0 +1,31 @@
+{
+  "classification": "Security",
+  "document_type": "File Review",
+  "security": "Revealing details of security agreements, project codes (MATADOR, AZORIAN), and internal security procedures could compromise ongoing or future operations. The document also lists personal information such as addresses, employment history, and family details. Quoting directly: \"SPECIAL INSTRUCTIONS: COVERT CASE: NO GOVT. INTEREST TO BE SHOWN.\"",
+  "security_level": "SECRET",
+  "summary": "A file review documents security agreements and background information for Claude Barives Capelart, including his employment at Global Marine, involvement in projects MATADOR and AZORIAN, and various personal details spanning from 1963 to 1975.",
+  "summary_one_paragraph": "This file review, dated between 1963 and 1975, pertains to Claude Barives Capelart and includes details regarding his security agreements, employment at Global Marine (Los Angeles), and involvement in projects MATADOR and AZORIAN. The document outlines Capelart’s termination agreement, special project security arrangements, employment history (including positions at Monolith Portland Cement Co. and Wheeler Trucking), residences, military service, and personal information like his spouse's name and children's details. It also contains memos about record destruction and special instructions for a covert case where no government interest is to be shown.",
+  "tags": [
+    "File Review",
+    "Security Agreement",
+    "MATADOR",
+    "AZORIAN",
+    "Global Marine",
+    "Background Check",
+    "Personnel Security"
+  ],
+  "title": "File Review: Claude Barives Capelart",
+  "persons_mentioned": [
+    "Claude Barives Capelart",
+    "John F. McNamara",
+    "B Savage",
+    "Roberta Mart Capenart",
+    "Neal Henry Capenart",
+    "Tom Williams",
+    "Francis Noffsinger",
+    "Everett L. Young",
+    "Oscar Slayton",
+    "Vim Stiver"
+  ],
+  "sender": "Office of Security"
+}

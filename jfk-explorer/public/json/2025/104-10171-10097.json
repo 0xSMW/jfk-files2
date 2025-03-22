@@ -1,0 +1,28 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing accommodation addresses used by S/M agents could compromise ongoing or future operations in Cuba and endanger the agents involved. The message states: '*S NEEDED ACCOMMODATION ADDRESSES MEXI AREA FOR USE S/M AGENTS BEING DISPATCHED CUBA PRIOR 1.FEB.'",
+  "security_level": "SECRET",
+  "summary": "A message from POCO CITY to SELL requesting accommodation addresses in the Mexico area for use by S/M agents being dispatched to Cuba before February 1st.",
+  "summary_one_paragraph": "This SECRET message, dated January 26, originates from POCO CITY addressed to SELL, concerning a request for accommodation addresses in the Mexico City area. These addresses are needed to house S/M agents who are scheduled to be dispatched to Cuba before February 1st. References are made to ADELL 2767 and MEXI 7184. The fourth address listed is Faurelio A. Martinez, Calle Edison, Numbero 11, Mexico 1, D.F.",
+  "tags": [
+    "CIA",
+    "Mexico",
+    "Cuba",
+    "S/M Agents",
+    "Accommodation Addresses",
+    "Covert Operations"
+  ],
+  "title": "Request for Accommodation Addresses in Mexico for Agents Dispatched to Cuba",
+  "date": "1961-01-26",
+  "locations_mentioned": [
+    "Mexico City",
+    "Cuba"
+  ],
+  "origin_agency": "CIA (POCO CITY)",
+  "persons_mentioned": [
+    "Faurelio A. Martinez"
+  ],
+  "recipient": "SELL",
+  "sender": "POCO CITY"
+}

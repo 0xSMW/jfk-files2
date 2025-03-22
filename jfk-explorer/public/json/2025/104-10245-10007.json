@@ -1,0 +1,34 @@
+{
+  "classification": "Cuba",
+  "document_type": "Radio Program & Leaflet",
+  "security": "The leaflet contains anti-communist sentiments and criticisms of the Cuban government, revealing potential sources of dissent within Cuba. The medical radio program listings themselves don't present a security risk.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document consists of listings from a medical radio program in Cuba called \"El Medico y Usted\" from March to July 1965, along with a leaflet containing anti-communist sentiments and criticisms of the Cuban government.",
+  "summary_one_paragraph": "The document comprises two distinct parts: a schedule of topics for the Cuban radio program \"El Medico y Usted\" from March to July 1965, which covered various health-related subjects; and a leaflet, purportedly written by a Cuban worker under the pseudonym Maria Perez, expressing strong anti-communist views and criticizing Fidel Castro's government. The leaflet discusses the perceived manipulation of public events like the May Day parade and accuses Castro of betraying the Cuban people's aspirations for freedom and democracy. It also references censorship and the suppression of dissent under the communist regime.",
+  "tags": [
+    "Cuba",
+    "Radio Program",
+    "Medical",
+    "Anti-Communism",
+    "Leaflet",
+    "Maria Perez",
+    "Fidel Castro",
+    "Propaganda",
+    "Censorship"
+  ],
+  "title": "Medical Radio Program Vol II",
+  "date": "1965",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Rio de Janeiro",
+    "Brazil",
+    "New York"
+  ],
+  "persons_mentioned": [
+    "Dr. Antonio Maceo",
+    "Fidel Castro",
+    "Maria Perez"
+  ],
+  "sender": "Chief, Cover (possible sender for the memo regarding the radio show termination)"
+}

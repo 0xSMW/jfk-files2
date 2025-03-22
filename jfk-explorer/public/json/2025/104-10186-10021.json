@@ -1,0 +1,32 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Classified Message",
+  "security": "The document outlines planned operations including the potential arrest, interrogation, and recruitment of individuals (José Rehberto Carrillo Calderón and Alejandro Gonez Montano). Disclosing these planned actions could compromise ongoing intelligence operations and reveal sensitive operational methods such as using the National Guard for detentions and recruitment efforts. Specifically, the text says: '...PLAN IS TO HAVE CARRILLO BROUGHT TO ISOLATED NATIONAL GUARD HEADQUARTERS IN SAN SALVADOR WHERE HE WILL BE INTERROGATED AND RE-CRUITMENT ATTEMPTED...' and mentions the agent JUMUD-13's offer to arrest GOMEZ again to allow for a 'RECRUITMENT PITCH.'",
+  "security_level": "SECRET",
+  "summary": "A classified message from San Salvador details plans to arrest and attempt recruitment of José Rehberto Carrillo Calderón and Alejandro Gonez Montano for joint operations against POEs, involving the National Guard and unilateral agents.",
+  "summary_one_paragraph": "This classified message, originating from San Salvador, outlines the planned apprehension and recruitment attempts of José Rehberto Carrillo Calderón and Alejandro Gonez Montano. Carrillo is slated for arrest and interrogation at a National Guard headquarters, with recruitment efforts to follow. For Gonez Montano, the message discusses potential re-arrest scenarios, leveraging agent JUMUD-13 to detain him for a recruitment opportunity, or otherwise seeking AMMUG-1's assistance for a unilateral recruitment pitch upon his release. The overarching goal is to involve these individuals in joint operations against Persons of Espionage Interest (POEs).",
+  "tags": [
+    "CIA",
+    "Recruitment",
+    "Arrest",
+    "Interrogation",
+    "San Salvador",
+    "National Guard",
+    "POEs"
+  ],
+  "title": "Classified Message Detailing Recruitment Plans in San Salvador",
+  "date": "1967-04-19",
+  "locations_mentioned": [
+    "San Salvador",
+    "Ahuachapan"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "José Rehberto Carrillo Calderón",
+    "Alejandro Gonez Montano",
+    "JUMUD-13",
+    "AMMUG-1"
+  ],
+  "recipient": "Director",
+  "sender": "San Salvador Station"
+}

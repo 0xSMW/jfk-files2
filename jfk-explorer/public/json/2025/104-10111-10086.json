@@ -1,0 +1,24 @@
+{
+  "classification": "Administrative",
+  "document_type": "Notification",
+  "security": "Revealing details about military cover backstops, including the procedures for establishing and maintaining them (e.g., 'BLOCK RECORDS', 'SUBMIT FORM 642 TO CHANGE LIMITATION CATEGORY TO 3', 'ASCERTAIN THAT ARMY W-2 BEING ISSUED', 'SUBMIT FORM 1322 FOR ANY CHANGE AFFECTING THIS COVER') could allow adversaries to identify and compromise such covers.",
+  "security_level": "SECRET",
+  "summary": "A notification of the establishment of a military cover backstop for David F. Christ, effective immediately, for operational purposes only, with instructions to block records and ensure proper forms are submitted for any changes.",
+  "summary_one_paragraph": "This document, dated January 9, 1964, is a notification regarding the establishment of a military cover backstop for David F. Christ, intended for operational purposes by the Upstream Joint Operations Group. Addressed to the Chief of Records and Services Division, it instructs the operating component (ORD DD/SET) to block records as per OPMEMO 20-800-11, indicates that the cover is continuing and effective EOD, and directs the submission of Form 642 to adjust the limitation category. Furthermore, it mandates verification of Army W-2 issuance and the submission of Forms 1322 and 1323 for any cover changes or transfers of responsibility, respectively.",
+  "tags": [
+    "Military Cover",
+    "Covert Operations",
+    "Records Management",
+    "David F. Christ",
+    "Upstream Joint Operations Group",
+    "FOIA",
+    "John F. Kennedy Assassination"
+  ],
+  "title": "Notification of Establishment of Military Cover Backstop",
+  "date": "1964-01-09",
+  "persons_mentioned": [
+    "David F. Christ"
+  ],
+  "recipient": "Chief, Records and Services Division",
+  "sender": "Chief, Operating Component: ORD DD/SET"
+}

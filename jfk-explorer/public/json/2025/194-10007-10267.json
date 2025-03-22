@@ -1,0 +1,38 @@
+{
+  "classification": "Personnel",
+  "document_type": "Cable",
+  "security": "This cable contains personal information, specifically the SSAN (Social Security Account Number) of Joachim Raf. Beer. Releasing this information could violate privacy regulations and potentially expose him to identity theft.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A confidential cable from BLN STA 66th MI GP to CO 66th MI GP CI DIV, dated March 10, 1971, regarding Henry S. Beer and his step-son Joachim S. Beer AKA Joachim F. Pehl. The cable reports that LAC's and MAC's checks on Joachim were negative or non-derogatory, except for a disturbing the peace incident, and details Joachim Raf. Beer's background as a former labor service employee and his immigration processing.",
+  "summary_one_paragraph": "This confidential cable, sent from BLN STA 66th MI GP to CO 66th MI GP CI DIV on March 10, 1971, concerns an investigation into Henry S. Beer and his step-son, Joachim S. Beer, also known as Joachim F. Pehl. The report indicates that checks on Joachim S. Beer were largely negative, with a minor incident involving disturbing the peace. Furthermore, the cable provides details on Joachim Raf. Beer, including his date of birth, social security number, employment history as a labor service employee and electronic apprentice, and his immigration processing to the United States, where he is currently serving in the US Army in Berlin.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "DOD",
+    "Henry Beer",
+    "Joachim Beer",
+    "Joachim Pehl",
+    "Investigation",
+    "Berlin",
+    "Military Intelligence",
+    "Immigration",
+    "Labor Service"
+  ],
+  "title": "Cable",
+  "date": "1971-03-10",
+  "locations_mentioned": [
+    "Berlin-Schoeneberg",
+    "Hannover",
+    "United States",
+    "Berlin, Germany"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Henry S. Beer",
+    "Joachim S. Beer",
+    "Joachim F. Pehl",
+    "Joachim Raf. Beer"
+  ],
+  "recipient": "CO 66TH MI GP CI DIV MUNICH GER",
+  "sender": "BLN STA 66TH MI GP BLN GER"
+}

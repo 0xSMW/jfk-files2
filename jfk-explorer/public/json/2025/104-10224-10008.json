@@ -1,0 +1,43 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memo/Personnel Action",
+  "security": "Disclosing specific employment dates, positions held, and financial details (like insurance refunds and annuity estimates) reveals sensitive personnel information. For instance, disclosing refund amounts like the \"sterile check in the amount of $18.00\" could invite fraud. Also, the references to active military duty verification and retirement deductions reveal aspects of an individual's career history that are generally considered private. Specifically, “HIS ACTIVE MILITARY DUTY VERIFIED AS 1 JULY 1937 THROUGH…",
+  "security_level": "SECRET",
+  "summary": "This collection of documents relates to the personnel actions, service verification, and retirement details of Jeremy K. Benadum, a former CIA Career Agent, including military service verification, insurance refunds, and annuity estimations.",
+  "summary_one_paragraph": "This compilation of memos, personnel action notifications, and related correspondence details various aspects of Jeremy K. Benadum’s employment and post-employment status with the CIA. The documents include notifications of personnel actions concerning his career agent status, verification of his military and civilian service records, adjustments to his annuity estimates based on service time, and administrative actions related to a refund on a cancelled life insurance policy. Additionally, there are notes on forwarding necessary retirement paperwork and coordinating payments.",
+  "tags": [
+    "Personnel File",
+    "Contract Personnel",
+    "Personnel Action",
+    "Military Service",
+    "Retirement",
+    "Annuity",
+    "Insurance Refund",
+    "Jeremy K. Benadum"
+  ],
+  "title": "Jeremy K. Benadum Personnel Actions and Service Details",
+  "date": "1971-03-15",
+  "locations_mentioned": [
+    "Mexico City",
+    "San Francisco",
+    "Washington, D.C."
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Munro, Searge Frederick",
+    "Shep",
+    "Jeremy K. Benadum",
+    "Thomason",
+    "George Frederick Munro",
+    "Paul Sidel",
+    "Miss Harrison",
+    "William S. Renehan",
+    "H. O. Frunkhorst",
+    "Paul Wilson",
+    "Norman R. Patersill",
+    "Ralph Shaling",
+    "Richard D. Weight"
+  ],
+  "recipient": "COS, Mexico City, OP/Retirement Office, Administrative Officer/WH",
+  "sender": "Jorcmy K. Bonadum, Chief, Insurance Branch, BSD/Pers, C/WH/Contracts"
+}

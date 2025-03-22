@@ -1,0 +1,32 @@
+{
+  "classification": "Oswald",
+  "document_type": "Cable",
+  "security": "The cable discusses sharing a briefing paper with CODEL Shelby and reveals concerns about files on Lee Harvey Oswald being made available to an author, potentially compromising intelligence sources or methods.  For example, \"THERE IS BELIEF HERE THAT THE FILES WERE MADE AVAILABLE TO THE AUTHOR OF A RECENT BOOK ON THE KENNEDY ASSASSINATION.\"",
+  "security_level": "SECRET",
+  "summary": "A CIA station in Minsk is preparing a briefing paper for CODEL Shelby regarding files on Lee Harvey Oswald, and it confirms a historical conversation about these files with a local service, while expressing concern that the files may have been accessed by an author researching the Kennedy assassination.",
+  "summary_one_paragraph": "This secret RYBAT cable from the CIA station in Minsk, dated August 16, 1995, addresses preparations for CODEL Shelby’s visit concerning files on Lee Harvey Oswald. The station is faxing a revised briefing paper to headquarters, based on suggestions from a previous communication. Additionally, the station confirms a past conversation with a local service regarding Oswald's files and notes that the U.S. Ambassador has formally requested these files from the Deputy Foreign Minister, suggesting FBI involvement. The station expresses concern that these files may have been accessed by an author writing a book on the Kennedy assassination, prompting potential security implications.",
+  "tags": [
+    "CIA",
+    "Oswald",
+    "CODEL Shelby",
+    "Minsk",
+    "Kennedy Assassination",
+    "Files",
+    "Briefing Paper",
+    "RYBAT"
+  ],
+  "title": "Briefing Paper and Oswald Files",
+  "conspiracy": "The cable mentions that files on Lee Harvey Oswald might have been made available to an author of a book about the Kennedy assassination, but it doesn't provide any details about who killed JFK, or why.",
+  "date": "1995-08-16",
+  "locations_mentioned": [
+    "Minsk"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "Shelby",
+    "Andrei Sanikov"
+  ],
+  "recipient": "Director",
+  "sender": "STAFF"
+}

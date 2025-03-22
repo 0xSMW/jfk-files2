@@ -1,0 +1,46 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security": "This dispatch discusses specific operational activities and coordination between different intelligence units, including procedures for agent referrals, infiltration operations, and the use of communication channels. Revealing these activities could compromise ongoing operations, expose intelligence sources and methods, and damage relationships with third countries. Quoting: '...ACSI was interested in having JIWAVE infiltrate two of his agents into PBRUMEN...JIWAVE would not undertake to infiltrate any of his agents into Havana... ACSI was interested in pursuing the third country diplomatic channel as a means of establishing communications with inside assets...' These details could be exploited by hostile actors.",
+  "security_level": "SECRET",
+  "summary": "A dispatch from the Chief of Station, JMWAVE, to the Chief of Task Force W, summarizing agreed-upon activities and discussions between JMWAVE and ACSI (Army Counter Intelligence) representatives regarding Cuban operations, agent referrals, and infiltration tactics.",
+  "summary_one_paragraph": "This dispatch outlines a meeting between JMWAVE (CIA) and ACSI representatives in Miami on June 7, 1962, to discuss operational coordination concerning Cuban intelligence activities. The discussion covered procedures for ACSI to obtain refugee referrals from Opa Locka for OB (Order of Battle) collection, the status of specific individuals like Antonio CUESTA Valle and Laureano BATISTA Falla for potential infiltration operations, the use of third-country diplomatic pouches for communication, and JMWAVE's role in maritime infiltration of ACSI agents into PBRUMEN (Cuba). The dispatch also details disagreements and concerns regarding operational control and security, particularly concerning the use of diplomatic channels and the coordination of W/T (Wireless Telegraphy) assets.",
+  "tags": [
+    "CIA",
+    "ACSI",
+    "JMWAVE",
+    "Task Force W",
+    "Cuba",
+    "Opa Locka",
+    "Refugee Referral",
+    "Infiltration",
+    "PBRUMEN",
+    "GYROSE",
+    "Operational Activities",
+    "Counter Intelligence"
+  ],
+  "title": "Operational/GYROSE Agreed Activities",
+  "date": "1962-07-03",
+  "locations_mentioned": [
+    "Miami",
+    "Opa Locka",
+    "Havana",
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Maj. Watlington",
+    "Lt. Col. Carlos Causes",
+    "Dudley R. JENTONS",
+    "Charles B. WIESINGER",
+    "Andrew K. REUTEMAN",
+    "Col. Kail",
+    "Antonio CUESTA Valle",
+    "Laureano BATISTA Falla",
+    "Antonio ORDONEZ Hernandez",
+    "Col. Trudencio Ulibarri",
+    "Francasi"
+  ],
+  "recipient": "Chief, Task Force W",
+  "sender": "Chief of Station, JMWAVE"
+}

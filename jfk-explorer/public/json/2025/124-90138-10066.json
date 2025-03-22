@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba, Liaison",
+  "document_type": "Memo",
+  "security": "This memo contains information shared between the FBI and CIA regarding Paul Hickman's activities, specifically his alleged dealings with the Castro government and contact with Soviet representatives. Disclosing such liaison activities and intelligence sharing agreements could potentially compromise intelligence sources and methods, and damage relationships between agencies. As stated in the memo, 'Mrs. Roman stated that CIA does not plan to cover subject's activities in the absence of a specific request from the Bureau.'",
+  "security_level": "Unclassified",
+  "summary": "An FBI memo details information provided by the CIA regarding Paul Hickman's alleged involvement in arms sales to Cuba and his contact with Soviet representatives in Switzerland.",
+  "summary_one_paragraph": "On December 2, 1959, S.J. Papich sent a memo to F.A. Frohboese at the FBI relaying information received from CIA's Jane Roman concerning Paul Hickman. According to Swiss police, Hickman was allegedly involved in business dealings related to arms sales to the Castro government and was interviewed by the CIA in Switzerland in late November 1959. Hickman claimed to have volunteered information to \"friends of Senator Smathers\" and to have been in contact with a Soviet Embassy representative regarding a Cuban sugar sale to Russia, which ultimately fell through. The CIA does not plan to monitor Hickman's activities unless specifically requested by the FBI.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Paul Hickman",
+    "Cuba",
+    "Arms Sales",
+    "Soviet Union",
+    "Liaison",
+    "Zurich",
+    "Switzerland"
+  ],
+  "title": "PAUL HICKMAN",
+  "date": "1959-12-02",
+  "locations_mentioned": [
+    "Zurich, Switzerland",
+    "Cuba"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Paul Hickman",
+    "Jane Roman",
+    "F. A. Frohboese",
+    "S. J. Papich",
+    "Senator Smathers",
+    "Castro"
+  ],
+  "recipient": "F. A. Frohboese",
+  "sender": "S. J. Papich"
+}

@@ -1,0 +1,26 @@
+{
+  "classification": "Personnel",
+  "document_type": "Dispatch",
+  "security": "Disclosing contract details, even in general terms, could expose operational staffing and resource allocation, making it easier for adversaries to understand and potentially compromise CIA activities. Moreover, revealing internal routing procedures and coordination between different departments could create vulnerabilities in operational security.",
+  "security_level": "SECRET",
+  "summary": "These dispatches concern the extension of Raymond H. CEREDE's contract with the CIA, including administrative details and routing information for the contract extension documents.",
+  "summary_one_paragraph": "These are two dispatches from December 1957 concerning the extension of Raymond H. CEREDE's contract with the CIA. The first dispatch, sent from the Chief of WD to the Chief of Station in Mexico City, includes the original and copies of CEREDE's contract extension for signing and witnessing. The second dispatch, from the Chief of AHD to the Chief of Station in Mexico City, confirms the two-year extension of CEREDE's contract, effective October 1, 1957, and specifies that all other contract terms remain in effect. Both dispatches outline distribution lists and administrative routing within the CIA.",
+  "tags": [
+    "CIA",
+    "Contract Extension",
+    "Personnel",
+    "Mexico City",
+    "Operational"
+  ],
+  "title": "Contract Extension for Raymond H. CEREDE",
+  "date": "1957-12-24",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Raymond H. CEREDE"
+  ],
+  "recipient": "Chief of Station, Mexico City",
+  "sender": "Chief, WD and Chief, AHD"
+}

@@ -1,0 +1,46 @@
+{
+  "classification": "Operations",
+  "document_type": "Classified Message",
+  "security": "Revealing the identities of LNERGO sources and specific operational details could compromise ongoing intelligence efforts and endanger individuals. Quoting the document: \"FYI LNERGO source reported that Organization of Arab Students in U.S. requested Ishmael Flory...to select 5 young Black Americans to go on tour of Middle East especially Jordan and UAR.\" Also, sharing information about specific individuals and their potential connections to CPUSA or Nation of Islam could lead to privacy violations and potentially harm their reputations.",
+  "security_level": "SECRET",
+  "summary": "A classified message reports on the Organization of Arab Students in the U.S. requesting Ishmael Flory to select young Black Americans for a propaganda tour of the Middle East and requests information on their travel, contacts, and activities.",
+  "summary_one_paragraph": "This classified message, dated September 4, 1970, reports that an LNERGO source indicated the Organization of Arab Students in the U.S. requested Ishmael Flory, a CPUSA official, to select five young Black Americans for a propaganda tour of the Middle East, particularly Jordan and the UAR. The group was scheduled to depart from Chicago on August 24, 1970, via Olympic Airlines, stopping in Montreal before Athens. The message identifies Thomas Curtis, James Dillard, Christine Johnson (possibly Mary Christine Claybourne Johnson), Joe Howard, and Joe Walker (possibly Joseph Danforth Walker), and requests any information regarding their travels, contacts, and activities that might come to the attention of various stations.",
+  "tags": [
+    "CIA",
+    "MHCHAOS",
+    "Ishmael Flory",
+    "Organization of Arab Students",
+    "CPUSA",
+    "Black Americans",
+    "Middle East",
+    "Propaganda",
+    "LNERGO"
+  ],
+  "title": "LNERGO Source Report on Organization of Arab Students Propaganda Tour",
+  "date": "1970-09-04",
+  "locations_mentioned": [
+    "United States",
+    "Middle East",
+    "Jordan",
+    "UAR",
+    "Chicago, Illinois",
+    "Montreal, Canada",
+    "Athens, Greece",
+    "Versailles, Kentucky",
+    "Buffalo, New York"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Ishmael Flory",
+    "Thomas Curtis",
+    "James Dillard",
+    "Christine Johnson",
+    "Mary Christine Claybourne Johnson",
+    "Joe Howard",
+    "Joe Walker",
+    "Joseph Danforth Walker",
+    "Henry Winston"
+  ],
+  "recipient": "Headquarters, Athens (PLOTKA), Amman (CERATO), Cairo (RINAKER), Beirut (CROWEN)",
+  "sender": "FR:JH:js"
+}

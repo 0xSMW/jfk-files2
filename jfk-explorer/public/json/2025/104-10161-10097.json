@@ -1,0 +1,32 @@
+{
+  "classification": "Security",
+  "document_type": "Cable",
+  "security": "Revealing the details of this cable could compromise the security protocols implemented to protect CIA personnel and operations. The cable explicitly mentions a breach in security protocol at the embassy (\"Marine Guard furnished the number, although recent Embassy instruction is not to give out such numbers\") and the potential identification of CIA personnel by unauthorized individuals. This exposure could assist adversaries in identifying and targeting CIA assets.",
+  "security_level": "SECRET",
+  "summary": "A secret cable from Madrid to the Director and Lisbon station reports a suspicious phone call received by KALBING from a person claiming to be Chris Phillips, son of Dave Phillips, and requests confirmation of Chris Phillips' travel and potential contacts.",
+  "summary_one_paragraph": "On January 26, 1976, a secret cable was sent from Madrid to the CIA Director and Lisbon station, detailing a potentially suspicious phone call that KALBING received at his home from an individual identifying himself as Chris Phillips, son of Dave Phillips; the caller inquired about tourist information and the political climate in Portugal, prompting KALBING to become suspicious, especially after learning that a Marine guard had violated protocol by providing KALBING's home number to the caller; the cable requests confirmation from Headquarters regarding Chris Phillips' travel in Iberia and any known contacts provided by Dave Phillips, while also alerting the Lisbon station that Phillips may attempt to contact their personnel.",
+  "tags": [
+    "CIA",
+    "Security Breach",
+    "Suspicious Call",
+    "Dave Phillips",
+    "KALBING",
+    "Counterintelligence"
+  ],
+  "title": "Suspicious Phone Call to KALBING; Possible Security Breach",
+  "date": "1976-01-26",
+  "locations_mentioned": [
+    "Madrid",
+    "Portugal",
+    "Lisbon",
+    "Iberia"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "KalbING",
+    "Chris Phillips",
+    "Dave Phillips"
+  ],
+  "recipient": "Director, Lisbon",
+  "sender": "Staff"
+}

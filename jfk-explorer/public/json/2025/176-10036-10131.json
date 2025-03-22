@@ -1,0 +1,33 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Telegram",
+  "security": "Disclosing ongoing assessments of foreign leaders' potential actions (General Nguyen Khanh) and internal deliberations about supporting coups could damage diplomatic relations and intelligence-gathering efforts. Specifically, mentioning that support from the United States would be required to trigger anti-government action, saying “APPR KHANH MAY STILL BE THINKING ABOUT ANTI-GOVERNMENT ACTION, BUT WITHOUT ASSURANCES\nFROM THE UNITED STATES OF SUPPORT, HE WILL PROBABLY NOT INITIATE ANY ACTION,” directly reveals the United States' involvement in potentially destabilizing foreign governments.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A CIA information telegram reports on South Vietnamese General Nguyen Khanh's deliberations about initiating action against the Diem regime in September 1963, noting that his decision may hinge on assurances of support from the United States.",
+  "summary_one_paragraph": "This CONFIDENTIAL CIA information telegram, dated September 19, 1963, details General Nguyen Khanh's planning regarding potential action against the Diem regime in South Vietnam. According to a company-grade officer on Khanh's staff, Khanh was considering whether to proceed with his plans but indicated he would likely not act without assurances of U.S. support. Although a connection to the Tran Kim Tuyen coup group suggested Khanh might take action, the report indicates Khanh would mull over the situation for another week before making a final decision, potentially ceasing all planning if his decision were negative. The information was disseminated to Ambassador Lodge, USMACV, CINCPAC, ARPAC, PACAF, and PACFLT.",
+  "tags": [
+    "CIA",
+    "Vietnam",
+    "Nguyen Khanh",
+    "Diem Regime",
+    "Coup d'état",
+    "Telegram",
+    "National Security",
+    "FOIA"
+  ],
+  "title": "CIA Information Telegram",
+  "date": "1963-09-19",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Nguyen Khanh",
+    "Diem",
+    "Tran Kim Tuyen",
+    "Ambassador Lodge",
+    "General Harkins"
+  ],
+  "recipient": "State (AMBASSADOR LODGE) USMACV (GENERAL HARKINS) CINCPAC ARPAC PACAF PACFLT"
+}

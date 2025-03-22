@@ -1,0 +1,38 @@
+{
+  "classification": "CIA Liaison",
+  "document_type": "Memorandum",
+  "security": "Revealing the CIA's methods of identifying and tracking Cuban agents, as well as their communication channels, could compromise ongoing intelligence operations. For example, the memo states, 'CIA developed a suspect and instituted coverage. Recently, this individual transmitted a letter to Havana which communication was intercepted by CIA.'",
+  "security_level": "Secret",
+  "summary": "An FBI memorandum details information received from a CIA analyst regarding the possible identification of a high-ranking Cuban G-2 official, Manuel Pineiro, as the agent 'Petronio' who communicated with a Cuban agent in Panama referred to as 'Roberto'. The memo outlines how CIA deduced Pineiro's identity through intercepted communications between Havana and an agent in Colombia.",
+  "summary_one_paragraph": "This FBI memorandum, dated October 10, 1963, from S.J. Papich to D.J. Brennan, Jr., relays information from a CIA analyst, Mrs. Anita Potocki, concerning the potential identification of Manuel Pineiro, a high-ranking official in Cuban G-2, with 'Petronio,' who signed messages to 'Roberto,' a Cuban agent in Panama. The CIA deduced this connection by tracing communications between Havana and an agent in Colombia, who inadvertently included sensitive data in a letter that was intercepted, leading the CIA to believe 'Petronio' and Pineiro are the same person. The information is directed to the Nationalities Intelligence Section, and the CIA has no objection to declassification and release of the information, except for bracketed sections.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Cuban Intelligence",
+    "Manuel Pineiro",
+    "Petronio",
+    "Roberto",
+    "G-2",
+    "Cuban Agents",
+    "Communications Intelligence"
+  ],
+  "title": "[Restricted]",
+  "date": "1963-10-10",
+  "locations_mentioned": [
+    "Havana, Cuba",
+    "Panama",
+    "Colombia",
+    "Venezuela"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "S.J. Papich",
+    "D.J. Brennan, Jr.",
+    "Manuel Pineiro",
+    "Anita Potocki",
+    "Roberto",
+    "Petronio"
+  ],
+  "recipient": "D. J. Brennan, Jr.",
+  "sender": "S. J. Papich"
+}

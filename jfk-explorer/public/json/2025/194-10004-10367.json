@@ -1,0 +1,31 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "This report contains personal information about individuals, specifically their names and dates of birth. Releasing this information could violate their privacy.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report detailing local agency checks on Ivan and Blanca Marti, siblings of Manuel Marti, conducted by the FBI in San Juan, Puerto Rico.",
+  "summary_one_paragraph": "On October 1, 1968, Special Agent Robert C. Petersen submitted a report detailing the findings of local agency checks conducted on September 30, 1968, at the San Juan Field Office of the Federal Bureau of Investigation in Hato Rey, Puerto Rico. The checks, performed with the assistance of Mrs. Carmen Orraca, Records Supervisor, concerned Ivan Marti and Blanca Marti, siblings of Manuel Marti. The checks failed to reveal any records for either Ivan or Blanca Marti in the FBI files.",
+  "tags": [
+    "FBI",
+    "Local Agency Check",
+    "Puerto Rico",
+    "Manuel Marti",
+    "Ivan Marti",
+    "Blanca Marti"
+  ],
+  "title": "Local Agency Check",
+  "date": "1968-10-01",
+  "locations_mentioned": [
+    "San Juan, Puerto Rico",
+    "Hato Rey, Puerto Rico"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Ivan Marti",
+    "Blanca Marti",
+    "Carmen Orraca",
+    "Robert C. Petersen"
+  ],
+  "sender": "USA"
+}

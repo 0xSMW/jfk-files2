@@ -1,0 +1,24 @@
+{
+  "classification": "Oswald",
+  "document_type": "Message Form",
+  "security": "This message pertains to the monitoring of an individual, likely for intelligence purposes. Releasing information about such surveillance activities could compromise ongoing or future intelligence operations. Specifically, the request for information on whether 'RACEEL aired grievances on radio/TV' indicates active monitoring of communications, potentially affecting individuals' privacy and security.",
+  "security_level": "SECRET",
+  "summary": "A message from the CIA requesting information on whether RACEEL (likely a code name for an individual, possibly Henryk Nagell) aired grievances on radio/TV and instructs Bern to dispose of FILE: 201-746537.",
+  "summary_one_paragraph": "This SECRET message, dated March 12, 1969, originating from an unknown source (RIG: MARY KOUREMBIS) within the CIA (NIT: E/AS/S) to Bern and Zurich, seeks confirmation on whether an individual, referred to as RACEEL, publicly aired grievances via radio or television, as previously threatened. Referencing previous communications (BERN 4908 and DIRECTOR 80955), the message directs Bern to dispose of FILE: 201-746537 upon completion of the task. The message is disseminated through the Cable Secretariat, indexed as number 24, and distributed to various departments including EUR-6, VR, DDP, ACHP, CE, CAS, CI/IC-2, CRA, SecuR-4, CE, RITAN, CS/DO, and CA/PROP.",
+  "tags": [
+    "CIA",
+    "Surveillance",
+    "Henryk Nagell",
+    "RACEEL",
+    "Radio",
+    "Television",
+    "Grievances"
+  ],
+  "title": "Request for Information on RACEEL Airing Grievances",
+  "date": "1969-03-12",
+  "persons_mentioned": [
+    "Henryk Nagell"
+  ],
+  "recipient": "Bern, Zurich",
+  "sender": "MARY KOUREMBIS"
+}

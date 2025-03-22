@@ -1,0 +1,39 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Memorandum",
+  "security": "Disclosing information about foundations used as funding conduits, proprietary projects, and unwitting organizations that received grants or cooperated with project organizations could compromise these operations and damage relationships with witting and unwitting participants.  Quoting directly: \"Foundations and other organizations used as witting funding conduits for covert subsidies to project organizations and other operational activities...Proprietary or subsidy project organizations...unwitting organizations which received grants from project organizations for operational or cover reasons or which cooperated with project organizations.\"",
+  "security_level": "SECRET",
+  "summary": "This memorandum discusses the potential damage from Ramparts Magazine's new allegations concerning CIA ties to various organizations. It identifies organizations listed by Ramparts that had past or present connections with the CIA, as well as those with no known ties, and assesses the basis for Ramparts' interest in these organizations.",
+  "summary_one_paragraph": "This SECRET memorandum, dated November 25, 1968, addresses the implications of new allegations by Ramparts Magazine regarding the CIA's involvement with numerous organizations. The document, routed through the Deputy Director for Plans and Assistant Deputy Director for Plans, reviews a list of 145 tax-exempt organizations scrutinized by Ramparts, revealing that 89 of them had some association with the CIA, while 55 showed no known connection. The memo details the types of organizations involved, including funding conduits, proprietary projects, and unwitting recipients of grants, and concludes that Ramparts' investigation is primarily based on overtly available information and interviews, rather than internal leaks. The headquarters elements responsible for the implicated projects have been notified, but no further action is deemed necessary at this time.",
+  "tags": [
+    "CIA",
+    "Ramparts Magazine",
+    "Jon Frappier",
+    "Covert Operations",
+    "Funding Conduits",
+    "Tax-Exempt Organizations",
+    "MHDOWEL",
+    "Central Cover Staff"
+  ],
+  "title": "Indications of the Scope and Possible Damage of New Allegations by Ramparts Magazine",
+  "date": "1968-11-25",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Jon Frappier",
+    "Richard Ober",
+    "Paul Heffner",
+    "Charles Katek",
+    "Charles Batch",
+    "W. Bedell Smith",
+    "Leo Cherne",
+    "Eamons Brown",
+    "William H. Poissant",
+    "Travis L. Fletcher",
+    "Jean Picker",
+    "Harvey Picker",
+    "Kirkpatrick",
+    "Gulick"
+  ],
+  "recipient": "Deputy Director for Plans",
+  "sender": "C/CCS (Charles Katek)"
+}

@@ -1,0 +1,25 @@
+{
+  "classification": "Commission",
+  "document_type": "Working Paper",
+  "security": "Releasing information about covert actions could reveal sensitive operational details and potentially compromise ongoing or future operations. Specifically, the document references 'Agency (covert financial support in Peruvian, Greek, Finnish, Italian and Brazilian elections) and support to labor union in France and Italy.' This falls under the protection of intelligence sources and methods.",
+  "security_level": "SECRET",
+  "summary": "This document summarizes a meeting regarding JFK assassination records, focusing on the release of documents related to covert actions and alias documentation. It outlines the ARRB's concerns about protecting sensitive information and proposes a compromise for handling alias documentation and accommodation addresses.",
+  "summary_one_paragraph": "This JFK Working Paper, dated March 23, 1998, summarizes a meeting with ARRB staff concerning the release of JFK assassination-related documents. The primary discussion points included the potential release of a document detailing Agency covert actions in several countries' elections and support for labor unions, with the Board leaning towards release despite staff concerns. Additionally, the meeting addressed a proposed compromise regarding alias documentation and accommodation addresses, suggesting a release policy based on whether documentation is publicly accessible or requires external agreement, and advocating for redacting specific location details from accommodation addresses.",
+  "tags": [
+    "JFK Assassination Records Review Board (ARRB)",
+    "Covert Actions",
+    "Alias Documentation",
+    "Accommodation Addresses",
+    "Compromise Guidelines",
+    "Declassification"
+  ],
+  "title": "Notes from meeting with ARRB staff, 20 March 1998",
+  "date": "1998-03-23",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Gunn",
+    "Skwirot",
+    "Combs",
+    "Ed"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "This cable discusses a potential security breach by NAGELL who threatens to expose the US government. Disclosing details about NAGELL's threats and the handling of the situation could compromise security protocols and expose intelligence operations. Directly quoting: 'NAGELL LAST APPEARED AT ZURICH CONSULATE...HE WOULD CARRY OUR HIS THREATS AND EXPOSE US GOVERNMENT...HE THEN DISAPPEARED.'",
+  "security_level": "SECRET",
+  "summary": "A cable reports that NAGELL threatened to expose the US government and then disappeared; he later made similar threats at the US Consulate in Barcelona.",
+  "summary_one_paragraph": "This secret cable, dated March 15, 1969, reports that NAGELL visited the Zurich Consulate on March 7 and threatened to expose the U.S. government on radio, television, and in the press if his demands were not met by 5 PM that day, after which he disappeared. Subsequently, on March 10, the U.S. Consulate in Barcelona reported that NAGELL had approached them with similar threats. The cable references file 201-746537 related to this matter.",
+  "tags": [
+    "CIA",
+    "NAGELL",
+    "Threat",
+    "Exposure",
+    "Zurich",
+    "Barcelona",
+    "Security Breach",
+    "FOIA"
+  ],
+  "title": "NAGELL Threat to Expose US Government",
+  "date": "1969-03-15",
+  "locations_mentioned": [
+    "Zurich",
+    "Barcelona"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "NAGELL",
+    "Mrs Hall"
+  ],
+  "recipient": "Director, Bern",
+  "sender": "Zurich"
+}

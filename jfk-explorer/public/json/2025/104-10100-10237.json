@@ -1,0 +1,27 @@
+{
+  "classification": "Mexico",
+  "document_type": "Message",
+  "security": "This message discusses the delivery of cartridges and references specific cargo numbers and requests for actions on requisitions. Premature disclosure of such details could reveal operational logistics, potentially compromising ongoing or future activities. Quoting the document: \"(MIDW) ADVISES CARTRIDGES DELIVERED CORPUS CHRISTI 1 OCTOBER ONE BOX FIFTY POUNDS CARGO 64-M51104 DIF.\" Sharing this information would make these logistical details public.",
+  "security_level": "Unclassified",
+  "summary": "A message relaying information from MIDW (likely a CIA station in Mexico City) regarding the delivery of cartridges to Corpus Christi on October 1, 1963, and requests action on Requisition 559-5-64.",
+  "summary_one_paragraph": "On October 16, 1963, a message from Mexico City relays information from MIDW concerning the delivery of cartridges to Corpus Christi, Texas, on October 1, 1963, with details including “ONE BOX FIFTY POUNDS CARGO 64-M51104 DIF.” The message, addressed to the Director, includes a WH/COMMENT requesting headquarters' advice on action taken regarding Requisition 559-5-64. The message was reviewed and noted by several individuals within the WH/LOG division, including William E. Brooks and Charles F. Reiner.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "Logistics",
+    "Ammunition",
+    "Cartridges",
+    "Corpus Christi",
+    "MIDW",
+    "Requisition"
+  ],
+  "title": "Delivery of Cartridges to Corpus Christi",
+  "date": "1963-10-16",
+  "locations_mentioned": [
+    "Mexico City",
+    "Corpus Christi, Texas"
+  ],
+  "origin_agency": "CIA (Mexico City Station - MIDW)",
+  "recipient": "Director",
+  "sender": "WH/LOG"
+}

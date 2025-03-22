@@ -1,0 +1,26 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "The cable pertains to secure communications and handling of materials, specifically mentioning 'FLS SKIPREF ENVELOPES DIRECTLY TO WAVE COMMERCIALLY' which indicates specific communication protocols and addresses that could be compromised if revealed. Additionally, the reference to 'DYVOUR PERUEN ANFASE' may refer to a specific operation or code that is sensitive.",
+  "security_level": "SECRET",
+  "summary": "This cable from JMWAVE directs the forwarding of envelopes to a specific address in Coral Gables, Florida. It also notes a delay until December 13th for shipping envelopes through classified channels.",
+  "summary_one_paragraph": "A SECRET cable originating from JMWAVE instructs the forwarding of envelopes directly to a specified commercial address: LISS GRACE HOMES, P. O. BOX 1787, COPAL CAPLES, FLA. The cable, referenced under RIFTY SEXI INFO DIR CITE WAVE 8671 75337 and DYVOUR PERUEN ANFASE, also includes a comment from C/S indicating that it is not possible to ship the envelopes through the classified pouch until December 13th.",
+  "tags": [
+    "CIA",
+    "JMWAVE",
+    "Secure Communications",
+    "Envelopes",
+    "Coral Gables",
+    "FLS SKIPREF",
+    "DYVOUR PERUEN ANFASE",
+    "FOIA"
+  ],
+  "title": "Cable regarding envelope forwarding to Coral Gables",
+  "date": "Unknown",
+  "locations_mentioned": [
+    "Coral Gables, Florida"
+  ],
+  "origin_agency": "JMWAVE",
+  "recipient": "Director",
+  "sender": "JMWAVE"
+}

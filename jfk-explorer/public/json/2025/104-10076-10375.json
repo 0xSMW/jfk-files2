@@ -1,0 +1,41 @@
+{
+  "classification": "Cuba",
+  "document_type": "Telegram Information Report",
+  "security": "The report contains intelligence regarding arrests and militia vigilance along the northern coast of Cuba, specifically in Matanzas Province. Disclosing this information could compromise the sources providing this intelligence (AMICE-14 and Irene (Milian)) and reveal the CIA's interest in and knowledge of Cuban coastal security measures.",
+  "security_level": "SECRET",
+  "summary": "A CIA telegram reports on arrests and increased militia surveillance in the northern coastal area of Matanzas Province, Cuba, as of early December 1963.",
+  "summary_one_paragraph": "This SECRET telegram, dated December 12, 1963, from JMWAVE to the Director, relays intelligence regarding increased militia vigilance and arrests in the northern coastal region of Matanzas Province, Cuba. The information, sourced from AMICE-14 (via AMTRUNK-7) and Irene (Milian), indicates heightened security measures in areas like Rio Palma, Marti, Itabo, and Maximo Gomez. The report specifies that as of December 5th and 9th, the northern coastline of Matanzas Province was under heavy militia surveillance, and numerous arrests had occurred in the specified towns. The report is disseminated to CINCLANT, CINCSO, COMNAVKEYWEST, and USCG (Miami).",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "JMWAVE",
+    "Matanzas Province",
+    "Militia Surveillance",
+    "Arrests",
+    "Coastal Security",
+    "AMICE-14",
+    "AMTRUNK-7",
+    "Irene Milian",
+    "Intelligence Report"
+  ],
+  "title": "Arrests and Militia Vigilance in the Northern Coastal Area of Matanzas Province",
+  "date": "1963-12-12",
+  "locations_mentioned": [
+    "Cuba",
+    "Matanzas Province",
+    "Rio Palma",
+    "Marti",
+    "Itabo",
+    "Maximo Gomez"
+  ],
+  "origin_agency": "JMWAVE",
+  "persons_mentioned": [
+    "Humberto Bergara",
+    "Irene (Milian)",
+    "Juan Manuel (Milian)",
+    "Magdalena (Montesino)",
+    "Lazaro Coralio (Alejandro) Montesino"
+  ],
+  "recipient": "Director",
+  "sender": "JMWAVE"
+}

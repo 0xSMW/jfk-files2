@@ -1,0 +1,30 @@
+{
+  "classification": "John F. Kennedy Assassination Records Act",
+  "document_type": "Cable",
+  "security": "Revealing the operational details of contacting Cuban exiles and suggesting defection could compromise sources and methods. Quoting, \"While in New York 7 OCTOPER contacting Cuban exiles with possible links MEXI, LITAMIL-3 had chance ENCOUNTED and CHATTED OPIFFLY with ANTONIO DE SOUZA CARBAJAL...L-3 SUGGESTED DEFECTION to which DE SOUZA PEPLIED HE MERELY PERFOPPING HIS DUTY and VERY FRIGHTENED.\"",
+  "security_level": "SECRET",
+  "summary": "A cable from Mexico City reports that LITAMIL-3, while in New York, contacted Antonio de Souza Carbajal, a member of CIRAN, and suggested he defect, to which de Souza responded he was frightened but would talk again under secure circumstances.",
+  "summary_one_paragraph": "A SECRET cable originating from Mexico City on October 15, 1963, reports an encounter in New York between agent LITAMIL-3 and Antonio de Souza Carbajal, a member of CIRAN. LITAMIL-3 contacted Cuban exiles with possible links to MEXI and LITAMIL-3 in New York and suggested de Souza defect. De Souza stated he was frightened but open to future discussions under secure conditions, leading to a request for traces, comments, and advice on a potential follow-up trip by LITAMIL-3 to further engage de Souza.",
+  "tags": [
+    "Cuban exiles",
+    "defection",
+    "CIRAN",
+    "LITAMIL-3",
+    "MEXI",
+    "Mexico City",
+    "Antonio de Souza Carbajal"
+  ],
+  "title": "PORIUMEN HIBASTE",
+  "date": "1963-10-15",
+  "locations_mentioned": [
+    "Mexico City",
+    "New York"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Antonio de Souza Carbajal",
+    "LITAMIL-3"
+  ],
+  "recipient": "Director",
+  "sender": "Mexico City"
+}

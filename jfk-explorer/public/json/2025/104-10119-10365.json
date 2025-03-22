@@ -1,0 +1,27 @@
+{
+  "classification": "Liaison",
+  "document_type": "Message Form",
+  "security": "Discussing intelligence relations or covert action operations, revealing personnel figures, discussing inadequacies, and naming JKLANCE personnel could be a security risk. The document states: 'DO NOT DISCUSS INTELLIGENCE RELATIONS OR OTHER WITH FOREIGN GOVERNMENTS OR COVERT ACTION OPERATIONS...THERE IS A VERY REAL CONCERN FOR PERSONNEL IDENTIFIED AS JKLANCE BECOMING TARGETS FOR PHYSICAL HARM BY EXTREMISTS'.",
+  "security_level": "SECRET",
+  "summary": "This is a message from the CIA headquarters providing guidance to field offices on how to respond if approached by Newsweek reporters preparing a story on the U.S. intelligence community, including JKLANCE (CIA). It advises against revealing sensitive operational details, intelligence relations, covert actions, or personnel information, while authorizing the denial of false allegations.",
+  "summary_one_paragraph": "This secret message, dated July 30, 1971, outlines instructions for CIA field offices regarding potential interactions with Newsweek reporters working on a story about the U.S. intelligence community. It directs personnel to avoid discussing sensitive operational matters, intelligence relationships with foreign governments, and covert action operations, and it cautions against divulging information about other agencies or personnel figures. The message encourages the denial of false allegations against JKLANCE, such as involvement in narcotics or the murder of Malcolm X, and emphasizes that any conversations with Newsweek should be for background use only, without attribution or quotation, to protect CIA personnel from potential harm.",
+  "tags": [
+    "CIA",
+    "Newsweek",
+    "Intelligence Community",
+    "JKLANCE",
+    "Liaison",
+    "Security",
+    "Covert Action",
+    "Media Relations"
+  ],
+  "title": "Guidance on Newsweek Story on U.S. Intelligence Community",
+  "date": "1971-07-30",
+  "origin_agency": "CIA Headquarters",
+  "persons_mentioned": [
+    "Thomas H. Karamessines",
+    "Malcolm X"
+  ],
+  "recipient": "All Algiers, EGU, Kinshasa, Addis Ababa, Asmara, Nairobi, Monrovia, Tripoli, Benghazi, Tananarive, Rabat, Casablanca, Lagos, Pretoria, Dakar, Tunis, Khartoum, Bahrain, DO/BASE/Washington, DO BASE/Los Angeles, DO BASE/San Francisco, DO BASE/Chicago, DO BASE/Boston, DO BASE/New York, Vienna, Brussels, Ottawa, Copenhagen, London, LCPIPIT, Helsinki, Paris, Bonn, Berlin, Frankfurt, Hamburg, Munich, Rome, The Hague, Oslo, Lisbon, Madrid, Stockholm, Bern, Geneva, Zurich, Canberra, Rangoon, Phnom Penh, Hong Kong, Taipei, Honolulu, Djakarta, Tokyo, Korea, Seoul, Vientiane, Kuala Lumpur, Wellington, Okinawa, Manila, Singapore, Bangkok, Saigon Colombo, Nicosia, Athens, New Delhi, Calcutta, Morocco, Tehran, Amman, Jerusalem, Kuwait, Beirut, Katherine, Islamabad, Dacca, Karachi, Jidda, Ankara, Istanbul, Cairo, South Africa Buenos Aires, La Paz, Rio de Janeiro, Brasilia, Santiago, Bogota, Santo Domingo, Quito, Guatemala WH/Miami, Mexico City, Kingston, Panama City, Ascas Lima, Sao Paulo, Montevideo, Caracas Stations and Bases",
+  "sender": "DDP (Thomas H. Karamessines)"
+}

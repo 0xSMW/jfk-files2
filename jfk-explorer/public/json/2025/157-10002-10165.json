@@ -1,0 +1,50 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Transcript",
+  "security": "This document reveals sensitive details about CIA operations, particularly those involving \"false flag\" activities and covert actions against foreign governments. It details the use of foreign nationals to carry out operations to obscure U.S. involvement. Quoting directly: \"Each member of base will enter and leave Chile with falst documents and operate as a representative of his country rather than as anAmerican\". It also discusses providing financial and material support to groups involved in attempted coups and assassinations, which could be damaging if exposed. Quoting directly: \"And you offered through Colonel Wimert, whom we will come to in a moment, $50,000 if they could accomplish it, didn't you?\"",
+  "security_level": "TOP SECRET",
+  "summary": "This is a transcript of the testimony of David Atlee Phillips before the SSCIA, discussing CIA activities related to Cuba, Chile, and the JFK assassination, including Operation Mongoose, the Bay of Pigs, and covert actions against Allende's government.",
+  "summary_one_paragraph": "In a 1975 SSCIA hearing, David Atlee Phillips provides testimony regarding CIA operations related to the JFK assassination, Cuba, and Chile. The discussion encompasses topics such as Operation Mongoose, the Bay of Pigs invasion, CIA involvement with figures like Meyer Lansky and Santos Trafficante, and covert actions in Chile, including attempts to influence the Allende government using 'false flag' operations. Phillips addresses allegations of CIA involvement in assassinations, interactions with Chilean military officers, and the provision of support to groups plotting coups.",
+  "tags": [
+    "CIA",
+    "SSCIA",
+    "David Atlee Phillips",
+    "Cuba",
+    "Chile",
+    "JFK Assassination",
+    "Operation Mongoose",
+    "Bay of Pigs",
+    "Allende",
+    "False Flag Operations",
+    "Assassination",
+    "Covert Operations"
+  ],
+  "title": "Testimony of David Atlee Phillips",
+  "date": "1975-07-31",
+  "locations_mentioned": [
+    "Cuba",
+    "Mexico",
+    "Dominican Republic",
+    "Rio de Janiero",
+    "Brasilia",
+    "Venezuela",
+    "Chile"
+  ],
+  "origin_agency": "SSCIA",
+  "persons_mentioned": [
+    "David Atlee Phillips",
+    "Jack Ruby",
+    "Fidel Castro",
+    "Meyer Lansky",
+    "Santos Trafficante",
+    "Salvador Allende",
+    "Major Marshall",
+    "Colonel Wimert",
+    "General Schneider",
+    "Valenzuela",
+    "Viaux",
+    "President Johnson",
+    "Dino Poinzio"
+  ],
+  "recipient": "SSCIA"
+}

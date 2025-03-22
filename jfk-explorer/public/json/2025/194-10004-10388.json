@@ -1,0 +1,38 @@
+{
+  "classification": "Personnel",
+  "document_type": "Paper, Textual Document",
+  "security": "Information concerning individuals is restricted. The document is released with deletions, and contains information about a subject and character reference, including addresses and phone numbers.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document details an investigation into Manuel Marti, including attempts to verify information about his listed character reference, Juanita Reyes, by checking telephone directories and contacting her residences.",
+  "summary_one_paragraph": "An investigation conducted on November 21, 1968, by Alphonso E. Marshall of the 108th MI Gp (I-SIB) focuses on Manuel Marti, a Private E-1, to verify information related to his character reference, Juanita Reyes. The investigation involves checking New York telephone directories for Reyes' listing in Manhattan and the Bronx, attempts to locate and interview her at a previous address (1435 Ogden Avenue), and contacting her possible residence at 170 West 89th Street, where the phone number had been changed to an unlisted number, which was subsequently obtained through the New York Telephone Company's Security Office.",
+  "tags": [
+    "INSCOM/CSF",
+    "DOD-Affiliated Personnel",
+    "Incident Investigations",
+    "Manuel Marti",
+    "Juanita Reyes",
+    "Character Reference",
+    "Telephone Directory",
+    "Investigation"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1968-11-21",
+  "locations_mentioned": [
+    "San Juan, Puerto Rico",
+    "New York, New York",
+    "Manhattan, New York",
+    "Bronx, New York",
+    "Nassau County",
+    "Suffolk County",
+    "Westchester County",
+    "Putnam County"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Juanita Reyes",
+    "Alphonso E. Marshall",
+    "Robert C. Sheaffer"
+  ],
+  "sender": "[RESTRICTED]"
+}

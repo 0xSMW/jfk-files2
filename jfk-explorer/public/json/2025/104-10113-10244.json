@@ -1,0 +1,36 @@
+{
+  "classification": "Security",
+  "document_type": "Letter",
+  "security": "The letter details the use of a false identity and passport for a CIA employee traveling abroad. Disclosing this could compromise ongoing operations and reveal methods used for clandestine travel, endangering the employee and disrupting intelligence activities. Quoting directly: 'For operational reasons, subject will be documented with a Republic of Nicaragua Passport Number 86781 and I-94, Arrival/Departure Record Card, in the name of Juan Hidalgo ELIZONDO Romano. The Form I-94 will be sur- rendered at the time of his departure from the United States.'",
+  "security_level": "SECRET",
+  "summary": "A letter from the CIA to the Immigration and Naturalization Service requesting a reentry document for a contract employee traveling to South America under a false identity.",
+  "summary_one_paragraph": "This SECRET letter, dated April 16, 1968, from Edmund G. Klipa (acting for Victor R. White, Deputy Director of Security) at the CIA, is addressed to Raymond P. Farrell, Commissioner of Immigration and Naturalization, concerning Miguel Angel DIAZ Isalgue. It requests the issuance of Form I-512, Reentry Document, under the alias Juan Hidalgo ELIZONDO Romano, to facilitate DIAZ Isalgue’s return to the United States after traveling to Argentina and other South American countries for Agency activities, using a Republic of Nicaragua passport under the false name.",
+  "tags": [
+    "CIA",
+    "Immigration and Naturalization Service",
+    "False Identity",
+    "Reentry Document",
+    "Covert Operations",
+    "South America"
+  ],
+  "title": "Request for Reentry Document for Miguel Angel DIAZ Isalgue under Alias",
+  "date": "1968-04-16",
+  "locations_mentioned": [
+    "Argentina",
+    "South America",
+    "United States",
+    "Cuba",
+    "Matanzas, Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Miguel Angel DIAZ Isalgue",
+    "Raymond P. Farrell",
+    "Frank E. Bartos",
+    "Juan Hidalgo ELIZONDO Romano",
+    "Edmund G. Klipa",
+    "Victor R. White"
+  ],
+  "recipient": "Raymond P. Farrell, Commissioner of Immigration and Naturalization",
+  "sender": "Edmund G. Klipa (for Victor R. White)"
+}

@@ -1,0 +1,29 @@
+{
+  "classification": "Administrative",
+  "document_type": "Cable",
+  "security": "Revealing internal tracking procedures for shipments could compromise security protocols.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A cable from the Director to Frankfurt requests a trace on a missing shipment packed on August 28 for Joan Grassie, sent via Washington; details the lack of information at HQ and requests Frankfurt's assistance.",
+  "summary_one_paragraph": "On November 21, 1963, C.A. Heine of KK/Logistics sent a cable from the Director to Frankfurt regarding a missing shipment packed on August 28 for Joan Grassie, intended to be sent via Washington. The cable references WAVE 7824 and cites Alpha Transport Frankfurt receipt 30890, but notes that GBL number is unknown. Headquarters has no information on the shipment, and the cable requests Frankfurt to trace the shipment and advise the Director.",
+  "tags": [
+    "Missing Shipment",
+    "Logistics",
+    "Trace Request",
+    "Joan Grassie"
+  ],
+  "title": "Missing Shipment to Frankfurt",
+  "date": "1963-11-21",
+  "locations_mentioned": [
+    "Frankfurt",
+    "Washington"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "C. A. Heine",
+    "Joan Grassie",
+    "Austin J. Thomas",
+    "Mr. Brown"
+  ],
+  "recipient": "Frankfurt",
+  "sender": "Director"
+}

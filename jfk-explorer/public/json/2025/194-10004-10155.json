@@ -1,0 +1,30 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Releasing information about individuals, even if the document is unclassified, could reveal personal details and compromise privacy.  The document contains a Social Security number, which is considered PII (Personally Identifiable Information).",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a local agency check report on David Reed Fromer, dated December 16, 1966, indicating no record found in the files of a Casual Source in Berkeley, California.",
+  "summary_one_paragraph": "On January 20, 1998, a document was released with deletions under the John F. Kennedy Assassination Records Collection Act. The document is an agent report from INSCOM/CSF, dated December 16, 1966, concerning David Reed Fromer. A local agency check conducted on December 15, 1966, by Eric E. McKnight of the 115th MI Gp (I), revealed no record of Fromer in the files of a Casual Source in Berkeley, California.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "DOD",
+    "Personnel Investigation",
+    "David Reed Fromer",
+    "Local Agency Check",
+    "Berkeley",
+    "Eric E. McKnight",
+    "JFK Assassination Records Collection Act"
+  ],
+  "title": "Local Agency Check on David Reed Fromer",
+  "date": "1966-12-16",
+  "locations_mentioned": [
+    "Chicago, Illinois",
+    "Berkeley, California"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "David Reed Fromer",
+    "Eric E. McKnight"
+  ]
+}

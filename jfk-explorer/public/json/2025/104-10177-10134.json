@@ -1,0 +1,21 @@
+{
+  "classification": "Administrative",
+  "document_type": "Document Transfer and Cross Reference",
+  "security": "This record pertains to internal file management and cross-referencing, making specific content unknown but suggesting need-to-know access based on file locations. The reference to projects FURIOSC and FULMINATOR-1 indicates covert operations or programs, where revealing associations and file details could jeopardize operational security and disclose project scope and objectives.",
+  "security_level": "SECRET",
+  "summary": "This document outlines the transfer and cross-referencing of a document related to projects FURIOSC and FULMINATOR-1, indicating a shift of the project portion to RI/AR and providing a new RI file number for review.",
+  "summary_one_paragraph": "This is a document transfer and cross-reference form for a SECRET document associated with projects FURIOSC and FULMINATOR-1, dated November 28, 1961, and processed by C. McNew. The project portion of the document has been removed and sent to RI/AR (presumably a records or archives division), and the form provides a new RI file number (461-1013/80) for future review, directing inquiries to RI/AR at extension x-2471 using the indicated RI file number, while filing the form itself in file number 201-88764.",
+  "tags": [
+    "Document Transfer",
+    "Cross Reference",
+    "FURIOSC",
+    "FULMINATOR-1",
+    "RI/AR",
+    "File Management",
+    "Internal Record"
+  ],
+  "title": "Document Transfer and Cross Reference for Projects FURIOSC and FULMINATOR-1",
+  "date": "1961-11-28",
+  "origin_agency": "Unknown (likely CIA based on context)",
+  "sender": "C. McNew"
+}

@@ -1,0 +1,33 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "Revealing specific logistics related to MIDW operations, such as the delivery of cartridges and cargo details, could expose operational methods and compromise ongoing or future activities. Quoting directly: 'MIDW ADVISES CARTRIDGES DELIVERED CORPUS CHRISTI 1 OCTOBER ONE BOX FIFTY POUNDS CARGO 64-M51104 DIF'.",
+  "security_level": "SECRET",
+  "summary": "A classified message relays information about cartridges delivered to Corpus Christi on October 1, with details about the cargo. The message also includes a request for Ildos to advise on action taken regarding Regn 559-5-64.",
+  "summary_one_paragraph": "On October 18, 1963, Polly Pike from WH/LOG sent a classified message from Mexico City, indicating that MIDW advised cartridges had been delivered to Corpus Christi on October 1. The message specifies that it was one box weighing fifty pounds, with cargo number 64-M51104 DIF. A comment from WH requests that Ildos provide advice on the action taken regarding Regn 559-5-64, with distribution to SIC GEN.",
+  "tags": [
+    "CIA",
+    "MIDW",
+    "Cartridges",
+    "Corpus Christi",
+    "Logistics",
+    "Mexico City",
+    "WH/LOG",
+    "Regn 559-5-64"
+  ],
+  "title": "Delivery of Cartridges to Corpus Christi",
+  "date": "1963-10-16",
+  "locations_mentioned": [
+    "Mexico City",
+    "Corpus Christi"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Polly Pike",
+    "William E. Brooks",
+    "Charles Reimer",
+    "Ildos"
+  ],
+  "recipient": "SIC GEN",
+  "sender": "Polly Pike (WH/LOG)"
+}

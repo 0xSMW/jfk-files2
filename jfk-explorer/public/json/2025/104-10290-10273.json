@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "The content suggests potential compromise of sources assisting anti-Castro persons by forging visas. This could expose those individuals to risk from the Cuban government. Mentioning 'Claims has assisted anti-Castro persons by forging visas' indicates a covert activity that, if exposed, could endanger the involved parties and damage diplomatic relations.",
+  "security_level": "SECRET",
+  "summary": "A cable from Mexico City requests traces and a POA (Proof of Authority) on Benito Ruiz Suarez, a Cuban national with ties to the American Legion, the hotel industry, and potentially subversive activities, as he is scheduled to attend an ASTA convention in California.",
+  "summary_one_paragraph": "This SECRET cable, originating from Mexico City, requests traces and Proof of Authority (POA) concerning Benito Ruiz Suarez, born in 1894 in Cuba, married to Patrocinio Perez, affiliated with the Hotel Nacional, and a founder of the American Legion. He acquired and relinquished American citizenship, has connections to multiple descendants, and is a 33rd-degree Mason. As the sole Cuban delegate to an ASTA convention in California, allegedly financed by the President of the Caribbean area, Ruiz Suarez claims access to internal and external travel information. He also admits to assisting anti-Castro individuals by forging visas and mentions trouble at the Hotel Nacional.",
+  "tags": [
+    "Benito Ruiz Suarez",
+    "American Legion",
+    "ASTA Convention",
+    "Visa Forgery",
+    "Anti-Castro",
+    "Cuba",
+    "Mexico City",
+    "POA Request"
+  ],
+  "title": "Request for Traces and POA on Benito Ruiz Suarez",
+  "date": "Unknown",
+  "locations_mentioned": [
+    "Mexico City",
+    "Los Afados, Habanzas, Cuba",
+    "Habana City, Cuba",
+    "Santa Cruz del Sur, Havana Province, Cuba",
+    "Santiago de las Vegas, Cuba",
+    "California, USA"
+  ],
+  "origin_agency": "CIA (Mexico City Station)",
+  "persons_mentioned": [
+    "Benito Ruiz Suarez",
+    "Patrocinio Perez",
+    "Gilbert Simon Lines",
+    "Joan Lavin",
+    "John P. Ruiz Lavin",
+    "Fidel Castro"
+  ],
+  "recipient": "Director",
+  "sender": "Mexico City"
+}

@@ -1,0 +1,30 @@
+{
+  "classification": "Personnel",
+  "document_type": "Payroll Records",
+  "security": "The document contains social security numbers which are redacted because \"the public disclosure of the redaction could reasonably be expected to constitute an unwarranted invasion of personal privacy, and that invasion of privacy would be so substantial that it outweighs the public interest.\"",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document pertains to the payroll records of Ann Lyon Strickland, an employee of the House Select Committee on Assassinations (HSCA), including payroll authorization forms and leave records.",
+  "summary_one_paragraph": "The document consists of payroll records for Ann Lyon Strickland, an employee of the HSCA, covering the period from December 1976 to June 1978. It includes payroll authorization forms detailing her appointments, salary adjustments, and termination, as well as her personal leave record, showing annual and sick leave usage. The documents are signed by authorizing officials such as Thomas N. Downing, Henry B. Gonzalez, and Louis Stokes, and include a memo regarding payroll certification and relationships to members of Congress.",
+  "tags": [
+    "HSCA",
+    "Payroll Records",
+    "Ann Lyon Strickland",
+    "Louis Stokes",
+    "Thomas N. Downing",
+    "Henry B. Gonzalez",
+    "Social Security Number",
+    "Leave Record"
+  ],
+  "title": "Staff Payroll Records for Ann Lyon Strickland",
+  "date": "1976-12-28",
+  "origin_agency": "HSCA",
+  "persons_mentioned": [
+    "Ann Lyon Strickland",
+    "Louis Stokes",
+    "Thomas N. Downing",
+    "Henry B. Gonzalez",
+    "Richard A. Sprague"
+  ],
+  "recipient": "Clerk of the House of Representatives",
+  "sender": "Budget Officer"
+}

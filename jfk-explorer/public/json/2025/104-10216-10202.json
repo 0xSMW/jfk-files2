@@ -1,0 +1,20 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Message Form",
+  "security": "Releasing information about specific operations (AMLASH) and individuals involved could compromise ongoing intelligence activities and endanger sources. Revealing code names and operational details exposes methods and targets of intelligence gathering, which could be exploited by adversaries. Quoting directly: “TYPIC YOBITE AMLASH UNSNAFU”.",
+  "security_level": "SECRET",
+  "summary": "A message indicating no HQ traces of CANTO and refers to AMLASH. It mentions typical YOBITE AMLASH UNSNAFU and references a previous message.",
+  "summary_one_paragraph": "This SECRET message, dated August 25, 1964, from the Director to Paris, discusses the AMLASH operation, specifically stating 'TYPIC YOBITE AMLASH UNSNAFU' and indicating that there are no identified HQ traces of CANTO. It references a previous message (PARI 5922) and includes routing and file information, with distribution notes for WH/SA/COMMENT, WH/SA/EOB, WH/SA/INT, and WZ/3.",
+  "tags": [
+    "CIA",
+    "AMLASH",
+    "CANTO",
+    "Operations",
+    "Secret"
+  ],
+  "title": "TYPIC YOBITE AMLASH UNSNAFU",
+  "date": "1964-08-25",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "Paris",
+  "sender": "Director"
+}

@@ -1,0 +1,23 @@
+{
+  "classification": "Security",
+  "document_type": "Instruction",
+  "security": "This document outlines internal CIA security procedures related to covert operations and approvals, including restrictions on the use of certain individuals. Revealing these procedures could compromise the CIA’s ability to conduct clandestine operations and protect sensitive information. Specifically, the document states that \"sensitive operational data shall remain within the custody and knowledge of the Clandestine Services, and that sensitive security investigative data shall remain in the custody and knowledge of the Office of Security.\"",
+  "security_level": "SECRET",
+  "summary": "This document, CSI No. 10-5, revised on 17 July 1958, outlines the procedures for covert approvals and related security matters within the Clandestine Services, detailing the roles of the Counter Intelligence Staff and the Office of Security in granting operational and security approvals.",
+  "summary_one_paragraph": "CSI No. 10-5, titled 'Covert Approvals and Related Matters', establishes guidelines for the CIA's Clandestine Services regarding operational and security approvals. It defines the responsibilities of the Chief of the Counter Intelligence Staff and the Director of Security in granting approvals. The instruction emphasizes maintaining the confidentiality of sensitive operational and investigative data within their respective components, while allowing necessary data sharing. It also outlines investigative procedures, including the assembly and analysis of file material, the handling of biographical data, and the coordination between different divisions to ensure comprehensive security checks and approvals.",
+  "tags": [
+    "CIA",
+    "Clandestine Services",
+    "Security Procedures",
+    "Covert Approvals",
+    "Counter Intelligence",
+    "Office of Security",
+    "Operational Approvals",
+    "Proprietary Approvals",
+    "Investigations"
+  ],
+  "title": "Covert Approvals and Related Matters",
+  "date": "1958-07-17",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "Clandestine Services"
+}

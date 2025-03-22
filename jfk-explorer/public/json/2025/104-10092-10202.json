@@ -1,0 +1,29 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "Revealing the request for priority visa processing and the mention of a specific individual, '[SILVIA ANNA ONE OCT]' could potentially compromise ongoing operations or reveal sensitive sources and methods related to visa processing. The document states, 'PRIORITY VISA PROCESSING REQUIRES MINIMUM SEVENTY TWO HOURS BEFORE TELEGRAM SENT. IT UNLIKELY THAT CABLE WILL REACH HAVANA REPOSE 7 OCT.'",
+  "security_level": "SECRET",
+  "summary": "Mexico City requests a visa for Silvia Anna for October 1st, but notes that the processing time may make it unlikely the cable will reach Havana in time.",
+  "summary_one_paragraph": "A classified message from Mexico City to the Director requests a priority visa for Silvia Anna, set to be processed by October 1st. The message acknowledges that due to the required 72-hour processing time, it's unlikely the cable will reach Havana by October 7th. The message is marked SECRET with action directed to SAD S* and information copies to DDP, CI, CI/CPS, WH 7, and RF VR.",
+  "tags": [
+    "CIA",
+    "Visa Request",
+    "Mexico City",
+    "Havana",
+    "Silvia Anna",
+    "Priority Visa",
+    "Cable"
+  ],
+  "title": "Visa Request for Silvia Anna",
+  "date": "1963-09-30",
+  "locations_mentioned": [
+    "Mexico City",
+    "Havana"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Silvia Anna"
+  ],
+  "recipient": "Director",
+  "sender": "Mexico City"
+}

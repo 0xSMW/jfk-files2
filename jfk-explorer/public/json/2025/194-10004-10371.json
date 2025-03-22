@@ -1,0 +1,28 @@
+{
+  "classification": "Personnel",
+  "document_type": "Identification Form / Agent Report",
+  "security": "The document contains personal information such as name, date of birth, and military service number which, if disclosed, could violate privacy.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is an identification form and exhibit cover sheet related to Manuel Marti, including his birthdate and father's birth certificate. It's a report from the 771st MI Detachment in Puerto Rico dated September 24, 1968.",
+  "summary_one_paragraph": "This is a document from the JFK Assassination System, released under the John F. Kennedy Assassination Records Collection Act. It's an Identification Form and Exhibit Cover Sheet concerning Manuel Marti, a Private E-1 in the U.S. Army, born on May 17, 1946, in San Juan, Puerto Rico. The document includes a report from the 771st MI Detachment, Fort Brooke, Puerto Rico, dated September 24, 1968, and concerns the birth certificate of Marti's father, filed under file number 8240-6019, 093-36-4601.",
+  "tags": [
+    "JFK Assassination",
+    "Identification Form",
+    "Personnel Records",
+    "Manuel Marti",
+    "771st MI Detachment",
+    "Puerto Rico",
+    "Birth Certificate"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1968-09-24",
+  "locations_mentioned": [
+    "San Juan, Puerto Rico",
+    "Fort Brooke, Puerto Rico"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti"
+  ],
+  "sender": "771st MI Det"
+}

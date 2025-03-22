@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Telegram Information Report",
+  "security": "Disclosing the specific details of Cuban trade negotiations, as well as the sources of this information (Italian and French ambassadors, Cuban merchants, and sugar experts), could jeopardize future intelligence gathering efforts. It could also strain diplomatic relations with Italy and France. The document includes a directive that states 'NO DISSEMINATION OF THE ATTACHED FORTION OF MADE CU', suggesting extreme caution with the distribution of its content. Furthermore, specifying the source evaluations could compromise the integrity and safety of those sources.",
+  "security_level": "SECRET",
+  "summary": "A secret report from Mexico City details the Cuban government's efforts to initiate commercial barter with Western European countries in December 1963, focusing on negotiating debt payments and securing fertilizer, transportation, and chemical products in exchange for sugar.",
+  "summary_one_paragraph": "This secret Central Intelligence Agency telegram, originating from Mexico City on December 20, 1963, reports on the Cuban government's attempts to establish commercial barter arrangements with Western European nations, specifically West Germany, Italy, and France. These negotiations aim to address debt payments for expropriations and secure essential goods like fertilizer, transportation facilities, and chemical products. The report, based on information from Italian and French ambassadors to Cuba, Cuban merchants, and sugar experts, indicates that Cuba anticipates a successful sugar crop in 1964, potentially yielding $8 million in credits if sold at average world prices.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Trade Negotiations",
+    "Sugar",
+    "Barter",
+    "Western Europe",
+    "Mexico City",
+    "Intelligence Report"
+  ],
+  "title": "Efforts of Cuban Government to Initiate Commercial Barter with West European Countries",
+  "date": "1963-12-20",
+  "locations_mentioned": [
+    "Cuba",
+    "Mexico",
+    "Mexico City",
+    "West Germany",
+    "Italy",
+    "France"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "recipient": "Director",
+  "sender": "Mexico City"
+}

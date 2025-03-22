@@ -1,0 +1,32 @@
+{
+  "classification": "Personnel",
+  "document_type": "Final Determination Notification and Payroll Authorization Forms",
+  "security": "The redaction of Social Security numbers (SSN) is explicitly justified due to the potential for unwarranted invasion of personal privacy, stating \"the public disclosure of the redaction could reasonably be expected to constitute an unwarranted invasion of personal privacy, and that invasion of privacy would be so substantial that it outweighs the public interest.\"",
+  "security_level": "Unclassified (Initially Postponed in Part)",
+  "summary": "This document consists of a Final Determination Notification from the Assassination Records Review Board regarding the postponed release of information, specifically Social Security numbers, from HSCA staff payroll records, along with associated payroll authorization forms for Dawne C. Miller.",
+  "summary_one_paragraph": "The Assassination Records Review Board issued a Final Determination Notification on December 8, 1995, regarding HSCA staff payroll records, specifically postponing the release of Social Security numbers due to privacy concerns; the Board cited significant historical interest in the document and the absence of evidence of harm to the United States or any individual as factors in its decision to partially postpone the release. Included are payroll authorization forms for Dawne C. Miller, detailing her employment as an Administrative Assistant/Personal Secretary with the Select Committee on Assassinations, along with memoranda relating to payroll certification and her appointment, indicating her salary and position within the committee.",
+  "tags": [
+    "HSCA",
+    "Payroll Records",
+    "Social Security Numbers",
+    "Dawne C. Miller",
+    "Louis Stokes",
+    "Assassination Records Review Board",
+    "Privacy",
+    "Personnel Records"
+  ],
+  "title": "Final Determination Notification Regarding HSCA Staff Payroll Records",
+  "date": "1995-12-08",
+  "locations_mentioned": [
+    "Washington, D.C."
+  ],
+  "origin_agency": "HSCA",
+  "persons_mentioned": [
+    "Dawne C. Miller",
+    "Louis Stokes",
+    "Thomas Howarth",
+    "Charlie Mathews",
+    "G. Robert Blakey"
+  ],
+  "recipient": "Clerk of the House of Representatives, All Staff"
+}

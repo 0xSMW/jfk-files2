@@ -1,0 +1,53 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "These documents detail CIA's financial investigations into Carlos Prio Socarras, which included monitoring his bank accounts and safety deposit box. Releasing information about these financial surveillance methods could jeopardize intelligence sources within financial institutions, reveal techniques for tracking financial transactions, and expose specific operations related to monitoring individuals of interest. Also revealing the bank details may result in privacy violations for the people involved. As stated, 'Because of the identity of the depositor and the manner in which the above information was necessarily obtained, our contact has asked that the data be treated in the strictest confidence. Accordingly this information must be restricted to CIA internal use only...'",
+  "security_level": "SECRET",
+  "summary": "These documents consist of reports and memoranda detailing the CIA's financial investigation into Carlos Prio Socarras, focusing on his bank accounts, currency exchanges, and suspected foreign investments, with concerns about potential political activities against the Batista regime in Cuba.",
+  "summary_one_paragraph": "The documents consist of a series of CIA reports and memoranda from 1953 and 1954 detailing the agency's investigation into the financial activities of Carlos Prio Socarras, a former Cuban president. The investigation centered on monitoring his bank accounts at Guaranty Trust in New York, tracking currency exchanges, and investigating potential investments in Swiss hotels. The CIA was interested in Prio due to suspicions that he was either funding a potential invasion of Cuba to oust Batista or transferring funds for unspecified non-revolutionary purposes. The documents include details of specific transactions, such as deposits, withdrawals, and currency conversions, as well as information from a contact within Guaranty Trust, with instructions to maintain strict confidentiality due to the sensitive nature of the investigation.",
+  "tags": [
+    "CIA",
+    "Carlos Prio Socarras",
+    "Financial Investigation",
+    "Cuba",
+    "Batista",
+    "Guaranty Trust",
+    "Bank Accounts",
+    "Currency Exchange",
+    "Foreign Investments",
+    "CO-B-67546",
+    "ARIS-3589",
+    "CO-A-20309",
+    "80-3094",
+    "NY-9115"
+  ],
+  "title": "Investigation of Carlos Prio Socarras",
+  "date": "1953-09-22",
+  "locations_mentioned": [
+    "Havana",
+    "Cuba",
+    "Miami, Florida",
+    "Washington",
+    "New Orleans",
+    "New York",
+    "Switzerland"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Carlos Prio Socarras",
+    "Francisco Prio",
+    "Batista",
+    "Frank Jackson",
+    "Sherman Adams",
+    "Henry Thomas",
+    "Carlos Novia",
+    "Captain Verson",
+    "Pedro Martinez Fraga",
+    "Miss Soon K. Fatna",
+    "Harry A. McCrea",
+    "Ortega",
+    "Maria Soledad Alba"
+  ],
+  "recipient": "Chiefs, All Field Offices",
+  "sender": "Chief, Contact Division (L/A)"
+}

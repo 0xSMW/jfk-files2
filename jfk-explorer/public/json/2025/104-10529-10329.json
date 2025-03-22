@@ -1,0 +1,33 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "Revealing the operational details such as the codenames (KAPOK LCHARVEST, OTPLATE 1), methods for identifying contacts (red, white, and blue tie), and planned procedures for engaging with individuals of interest (contact Marine Guard, ask for SAESEED) could compromise current and future intelligence operations in Mexico and potentially endanger personnel. The message states: 'OTPLATE 1 ARRIVING MEXI 12 OCTOBER 2165 VIA EASTER AIR LINES FLITE 305...WILL WEAR RED WHITE BLUE TIE IF CONTACT MISSED...CONTACT MARINE GUARD AT EMBASSY ASKED FOR SAESEED.'",
+  "security_level": "SECRET",
+  "summary": "A classified message concerning KAPOK LCHARVEST operation and the arrival of OTPLATE 1 in Mexico City on October 12, 1963, providing details for contact procedures and potential contingencies.",
+  "summary_one_paragraph": "A classified message dated October 12, 1963, from the Director to Mexico City, concerning the KAPOK LCHARVEST operation, specifically detailing the arrival of OTPLATE 1 via Eastern Air Lines flight 305 and contingency plans involving a red, white, and blue tie for identification if the initial contact is missed. It outlines procedures to contact the Marine Guard at the embassy, asking for 'SAESEED', indicating a planned operational protocol. The message refers to previous communication (MEXI 6488) and includes background information on Liaro Szu Chen, potentially related to the operation, and discusses his academic and political affiliations.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "KAPOK LCHARVEST",
+    "Liaro Szu Chen",
+    "OTPLATE 1",
+    "Contact Procedures",
+    "Marine Guard",
+    "SAESEED",
+    "Eastern Air Lines"
+  ],
+  "title": "KAPOK LCHARVEST",
+  "date": "1963-10-12",
+  "locations_mentioned": [
+    "Mexico City",
+    "Yale University",
+    "China"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Liaro Szu Chen",
+    "Chiang Kai-shek"
+  ],
+  "recipient": "Mexico City",
+  "sender": "Director"
+}

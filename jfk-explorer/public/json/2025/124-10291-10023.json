@@ -1,0 +1,49 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Situation Report",
+  "security": "This report contains sensitive intelligence regarding sources and methods, and is not releasable to foreign nationals, contractors, or contractor/consultants.",
+  "security_level": "Secret",
+  "summary": "A CIA situation report from March 1978 details potential security concerns in Venezuela during President Jimmy Carter's upcoming visit, including leftist groups, Cuban exiles, and international terrorists.",
+  "summary_one_paragraph": "This secret CIA report, dated March 3, 1978, assesses the security situation in Venezuela prior to President Jimmy Carter's visit. It highlights potential threats from Venezuelan leftist groups operating in eastern states, the volatile Cuban exile community distrustful of both the US and Venezuelan governments, and the presence of international terrorists like Carlos the Jackal and PFLP's Johny Khouri. The report also discusses internal issues within Venezuelan security services, including personal rivalries, funding problems, and a lack of planning for Carter's visit, while concluding that the services are still capable of providing necessary protection.",
+  "tags": [
+    "OBA",
+    "Venezuela",
+    "Terrorism",
+    "Cuban Exiles",
+    "Jimmy Carter",
+    "Security",
+    "DISIP",
+    "DIM",
+    "PFLP",
+    "Carlos the Jackal"
+  ],
+  "title": "Situation Report: Venezuela, Terrorism, Cuban Exiles, Carter Visit",
+  "date": "1978-03-03",
+  "locations_mentioned": [
+    "Venezuela",
+    "Caracas",
+    "Monagas",
+    "Anzoategui",
+    "Sucre",
+    "Bolivar",
+    "San Cristobal",
+    "Tachira State",
+    "La Guaira"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Jimmy Carter",
+    "Gabriel Puerta Aponte",
+    "William F. Niehous",
+    "Raul Gimenez Gainza",
+    "Orlando O Garcia",
+    "Ricardo Morales",
+    "Diego Arria",
+    "Ilich Ramirez Sanchez (Carlos the Jackal)",
+    "Johny Khouri",
+    "President Perez",
+    "Bosch"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "CIA"
+}

@@ -1,0 +1,35 @@
+{
+  "classification": "Liaison",
+  "document_type": "TELEPOUCH",
+  "security": "Disclosing that the CIA is seeking to influence NITRUST and counter their position on sharing VMO information with Congress could harm the CIA's relationship with NITRUST. Specifically, the message states, \"QUESTION OF CONGRESS ASIDE, IF HEADQUARTERS CAN PROVIDE SPECIFICS ON FOIA MECHANICS WHICH WE CAN USE TO COUNTER (NITRUST'S ASSERTION THAT RTACTION CANNOT PROTECT LIAISON SOURCES PROVIDING INFORMATION ON AMERICANS, WE WOULD BE HAPPY TO MAKE SUCH POINTS WITH NITRUST.\" This reveals an intent to persuade NITRUST against their better judgment and could damage the relationship if discovered.",
+  "security_level": "SECRET",
+  "summary": "A secret tele-pouch discusses the reluctance of NITRUST (likely a liaison contact) to share information on the Vlaamse Militanten Orde (VMO), a Flemish militant order, with the House Committee on Assassinations due to Freedom of Information Act (FOIA) concerns and potential leaks.",
+  "summary_one_paragraph": "This secret tele-pouch, dated May 16, 1978, from Brussels to Washington, discusses NITRUST's refusal to provide information on the Vlaamse Militanten Orde (VMO) to the House Committee on Assassinations. NITRUST fears that the Freedom of Information Act (FOIA) would expose the information and that the material would leak, despite assurances of classified handling. The message indicates that while there may be some posturing on NITRUST's side regarding American contacts, the CIA Brussels station is seeking guidance from headquarters on FOIA mechanics to counter NITRUST's position and persuade them to share the information, while acknowledging that NITRUST is aware of the CIA's \"sources and methods\" position.",
+  "tags": [
+    "CIA",
+    "Vlaamse Militanten Orde",
+    "VMO",
+    "House Committee on Assassinations",
+    "NITRUST",
+    "Freedom of Information Act",
+    "FOIA",
+    "Liaison",
+    "Flemish Order of Militants"
+  ],
+  "title": "WNINTEL NIFLAIR (NIGALE) - FLEMISH ORDER OF MILITANTS",
+  "allies": "The document contains damaging information regarding how America treats its allies.  Specifically, this document reveals the CIA is attempting to influence a liaison contact, NITRUST, regarding information sharing, suggesting a lack of trust in their ability to protect sensitive information.",
+  "date": "1978-05-16",
+  "locations_mentioned": [
+    "Brussels",
+    "Belgium",
+    "UK"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Goerlich (acting)",
+    "NIGALE",
+    "ACOS/NIGALE-75"
+  ],
+  "recipient": "Washington (EUR/BNL)",
+  "sender": "Brussels Station"
+}

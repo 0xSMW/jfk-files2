@@ -1,0 +1,39 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security": "Revealing the details of contact between the CIA and foreign government officials, specifically Murtada Ali Muhammad Lashin, including the nature of the engagement and the topics discussed, could damage international relations and compromise intelligence-gathering operations. Quoting: 'C/O BAECHLER SOUGHT TO DRAW OUT EGYPTIAN FIRST SECRETARY MURTADA ALI MUHAMMAD ((LASHIN)) ON HIS FAMILY SITUATION AND CAREER ASPIRATIONS...C/O RAISED THE TERRORIST KILLING OF U.S. DIPLOMATIC PERSONNEL IN KARACHI ON 8 MARCH TO GAUGE LASHIN'S RESPONSE...'",
+  "security_level": "SECRET",
+  "summary": "A secret cable discusses a contact between a CIA operative and Egyptian First Secretary Murtada Ali Muhammad Lashin, covering topics from his family and career aspirations to his views on the terrorist killing of U.S. diplomatic personnel and conspiracy theories.",
+  "summary_one_paragraph": "This secret cable, sent on March 9, 1995, from Kathmandu to Cairo and the Director, details a contact between a CIA operative (C/O BAECHLER) and Egyptian First Secretary Murtada Ali Muhammad Lashin. The conversation covered Lashin's family situation, career aspirations, and his reaction to the terrorist killing of U.S. diplomatic personnel in Karachi. Lashin expressed conspiracy theories, including the suggestion that Israelis were behind the assassinations of JFK and Anwar Sadat. The cable also notes Lashin's lifestyle, which seems beyond that of a typical civil servant, and outlines future objectives for sessions with Lashin, including determining potential manipulable disgruntlement and contacts within the diplomatic community.",
+  "tags": [
+    "WNINTEL",
+    "RYBAT",
+    "FCWAFER",
+    "Egyptian First Secretary",
+    "Murtada Ali Muhammad Lashin",
+    "Contact Report",
+    "Conspiracy Theories",
+    "Kathmandu",
+    "Cairo"
+  ],
+  "title": "CONTACT WITH EGYPTIAN FIRST SECRETARY MURTADA ALI MUHAMMAD LASHIN",
+  "date": "1995-03-09",
+  "locations_mentioned": [
+    "Kathmandu",
+    "Cairo",
+    "Texas",
+    "Bangkok",
+    "Karachi",
+    "Ecuador",
+    "U.S."
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Murtada Ali Muhammad Lashin",
+    "BAECHLER",
+    "Anwar Sadat",
+    "JFK"
+  ],
+  "recipient": "CAIRO, DIRECTOR",
+  "sender": "STAFF"
+}

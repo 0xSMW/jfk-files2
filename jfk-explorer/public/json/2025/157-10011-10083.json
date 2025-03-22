@@ -1,0 +1,49 @@
+{
+  "classification": "Commission",
+  "document_type": "Deposition/Transcript",
+  "security": "This deposition reveals details about CIA activities, including Cuban operations, paramilitary training, and potential discussions of assassination attempts against Fidel Castro. Specifically, the document mentions the existence of a \"Domestic Training Station\" in Virginia and discusses potential CIA involvement in raids and other operations, with many conducted by contract employees. Revealing the existence and details of such operations and training sites could compromise current methods and sources, thereby damaging national security. Quoting directly: \"Cuban operations...paramilitary activities, covert action, economic activities...We trained them at these places we had in the Keys...some of them were brought up here and trained at the Domestic Training Station.\"",
+  "security_level": "SECRET",
+  "summary": "This document is the deposition of William C. Sturbitts, taken on April 16, 1975, regarding his knowledge of CIA activities, specifically concerning Cuban operations, possible assassination attempts against Fidel Castro, and the agency's relationship with individuals like Frank Sturgis.",
+  "summary_one_paragraph": "The deposition of William C. Sturbitts, taken on April 16, 1975, focuses on his involvement with CIA's Cuban operations, paramilitary activities, and possible assassination discussions related to Fidel Castro. Sturbitts, a Special Assistant for Latin America at the time, recounts his time on special detail to the Deputy Director of Plans starting in 1964, discussing economic warfare and Cuban operations, including the Miami Station's role. He provides insights into Task Force W, the Special Activities Staff, and the Cuban Operations Group, along with key figures like Desmond Fitzgerald and William Harvey. The deposition also delves into CIA's relationship with Frank Sturgis and Eugenio Martinez, clarifying Sturgis's lack of official connection with the Agency while confirming Martinez's involvement in maritime activities and operations against Cuba.",
+  "tags": [
+    "SSCIA",
+    "Rockefeller Commission",
+    "William C. Sturbitts",
+    "CIA",
+    "Cuban Operations",
+    "Assassination",
+    "Fidel Castro",
+    "Frank Sturgis",
+    "Miami Station",
+    "Task Force W",
+    "Paramilitary Training",
+    "Domestic Training Station",
+    "Economic Intelligence"
+  ],
+  "title": "Deposition/Transcript of Sturbitts, William C.",
+  "conspiracy": "The deposition includes discussion of overheard conversations regarding discussions on the potential assassination of Fidel Castro and the Agency's activities.",
+  "date": "1975-04-16",
+  "locations_mentioned": [
+    "Langley, Virginia",
+    "Miami, Florida",
+    "Cuba",
+    "Paris",
+    "Key West",
+    "Virginia"
+  ],
+  "origin_agency": "Rockefeller Commission",
+  "persons_mentioned": [
+    "William C. Sturbitts",
+    "Fidel Castro",
+    "Frank Sturgis",
+    "Desmond Fitzgerald",
+    "William Harvey",
+    "Robert Kennedy",
+    "Nestor Sanchez",
+    "Eugenio Martinez",
+    "Ted Shackley",
+    "Paul Henze",
+    "Jake Esterling",
+    "John Dimmer"
+  ]
+}

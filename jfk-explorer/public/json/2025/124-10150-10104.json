@@ -1,0 +1,33 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Airtel",
+  "security": "Disclosing that the FBI shares interview results with other government agencies (specifically, the 'Research Branch (Covert CIA) the Embassy, Vienna, Austria') could expose intelligence-sharing relationships and compromise the confidentiality of sources and methods. The document's classification as SECRET indicates that its unauthorized disclosure could cause serious damage to national security.",
+  "security_level": "Secret",
+  "summary": "The FBI Legat in Bern forwards copies of insert pages with the results of an interview with ANGHEL DRAGOMIR to the Director of the FBI and the Dallas field office concerning the assassination of President John F. Kennedy.",
+  "summary_one_paragraph": "On August 21, 1964, the FBI Legat in Bern sent an Airtel to the Director of the FBI and the Dallas field office, enclosing 25 copies each of insert pages 1 and 2 containing the results of an interview with ANGHEL DRAGOMIR related to the assassination of President John F. Kennedy. The insert included a translated letter from DRAGOMIR with comments and noted that the matter had been referred to the Bureau for investigation. The communication also mentions that information on ANGHEL DRAGOMIR from Bureau files was excluded due to unproven identity and lack of pertinence, and it identifies the 'other Government agency' referenced in the insert as the Research Branch (Covert CIA) at the Embassy in Vienna, Austria.",
+  "tags": [
+    "FBI",
+    "JFK Assassination",
+    "ANGHEL DRAGOMIR",
+    "Interview",
+    "CIA",
+    "Vienna",
+    "Bern",
+    "Liaison",
+    "Dallas"
+  ],
+  "title": "MISC. INFO CONCERNING",
+  "date": "1964-08-21",
+  "locations_mentioned": [
+    "Dallas, Texas",
+    "Bern",
+    "Vienna, Austria"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Fitzgerald Kennedy",
+    "ANGHEL DRAGOMIR"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "LEG, BR"
+}

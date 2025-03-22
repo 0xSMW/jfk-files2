@@ -1,0 +1,43 @@
+{
+  "classification": "Soviet",
+  "document_type": "Reports",
+  "security": "Identifying individuals as employees or students, especially in connection with specific organizations like 'TRADE REPRESENTATION (BRUSSELS)' or 'UNIVERSITY OF BRUSSEL' could expose their affiliations and potentially put them at risk. Additionally, the document includes file numbers which could lead to unauthorized access to sensitive information.",
+  "security_level": "SECRET/NOFORN",
+  "summary": "This document contains multiple reports related to individuals possibly associated with the USSR, including Vladimir Kuznetsov, Anatolevich Belokon, Andrey Gerasimovich Trubetsky, and Erik Kassinov, detailing their affiliations with trade representations, universities, and industrial equipment companies.",
+  "summary_one_paragraph": "This document, marked SECRET/NOFORN, comprises several reports from 1976 concerning individuals with possible connections to the USSR. It includes details on Vladimir Kuznetsov, associated with the Trade Representation in Brussels, Anatolevich Belokon, a student at the University of Brussel, Andrey Gerasimovich Trubetsky, linked to Stanko-Canada Ltd, and Erik Kassinov, an employee of Sorice Industrial Equipment connected to Stanko-France. The reports include information on their wives, places of employment or study, and associated file numbers.",
+  "tags": [
+    "Trade Representation",
+    "USSR",
+    "Soviet",
+    "Kuznetsov",
+    "Belokon",
+    "Trubetsky",
+    "Kassinov",
+    "Stanko-Canada",
+    "University of Brussel",
+    "SORICE",
+    "PCS Reports",
+    "Presence Reports"
+  ],
+  "title": "Trade Representation and PCS Reports",
+  "date": "1976-09-14",
+  "locations_mentioned": [
+    "USSR",
+    "Moscow",
+    "Brussels",
+    "Belgium",
+    "Toronto",
+    "Canada",
+    "Paris",
+    "France"
+  ],
+  "persons_mentioned": [
+    "Vladimir Kuznetsov",
+    "Galina Guliyutkina",
+    "Anatolevich Belokon",
+    "Olga",
+    "Andrey Gerasimovich Trubetsky",
+    "Faina Grigoryevna",
+    "Erik Kassinov"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Classified Message",
+  "security": "Revealing the CIA’s inability to identify a subject of interest and acknowledging intelligence requests could compromise ongoing investigations. Quoting directly: “REGRET UNABLE IDENTIFY SUBJ. HEZD MORE BI.” This admission of limited intelligence could be exploited by adversaries.",
+  "security_level": "SECRET",
+  "summary": "A message from the Director to Paris and Madrid stations indicating an inability to identify a subject related to a request for traces on Jorge XA. FERALDEZ, referencing previous communication PARI 1548.",
+  "summary_one_paragraph": "This SECRET classified message, dated June 22, 1962, from the Director to the Paris and Madrid CIA stations, indicates a failure to identify a subject related to a previous request (PARI 1548) for traces on Jorge XA. FERALDEZ, with the message noting, \"REGRET UNABLE IDENTIFY SUBJ. HEZD MORE BI.\"",
+  "tags": [
+    "CIA",
+    "Identification Failure",
+    "Jorge XA. FERALDEZ",
+    "PARI 1548",
+    "Traces Request",
+    "FOIA"
+  ],
+  "title": "KEYWAY PURUBEN UNRUMBLE Regarding PARI 1548",
+  "date": "1962-06-22",
+  "locations_mentioned": [
+    "Paris",
+    "Madrid"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Jorge XA. FERALDEZ"
+  ],
+  "recipient": "Paris Station, Madrid Station",
+  "sender": "Director"
+}

@@ -1,0 +1,34 @@
+{
+  "classification": "Cuba",
+  "document_type": "Paper, Textual Document",
+  "security": "This report is classified confidential since data reported from MM T-1, who is MM 726-S reasonably result in the identification of a confidential informant of continuing value and compromise the future effectiveness thereof.",
+  "security_level": "Secret",
+  "summary": "The FBI Miami office closed its case on Santiago Alvarez Rodriguez due to his inactivity in Cuban revolutionary matters but noted CIA's past and continuing operational interest in his son and yacht. The report also mentions Alvarez Rodriguez's alleged involvement with the 'Esbirros' scandal sheet and identifies confidential informants used in the investigation.",
+  "summary_one_paragraph": "This FBI report from August 4, 1961, details the decision by the Miami office to close the case on Santiago Alvarez Rodriguez due to his lack of current involvement in Cuban revolutionary activities, while acknowledging the CIA's previous and ongoing interest in Alvarez Rodriguez's son, Santiago Alvarez, and his yacht, 'Alisan.' The report also references information from a CIA representative, Justin F. Gleichauf, regarding Alvarez Rodriguez's prior collaboration with the 'Esbirros' scandal sheet, and indicates that the sheet targeted both pro- and anti-Castro groups. The document identifies several confidential informants (MM T-1, MM T-2, MM T-3) and their contacts within the Miami area, whose identities are protected to maintain their value as sources.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Santiago Alvarez Rodriguez",
+    "Cuban Revolution",
+    "Esbirros",
+    "Confidential Informant",
+    "Anti-Castro Activities"
+  ],
+  "title": "",
+  "date": "1961-08-04",
+  "locations_mentioned": [
+    "Miami, Florida",
+    "Cuba"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Santiago Alvarez Rodriguez",
+    "William Herrington",
+    "Justin F. Gleichauf",
+    "Fidel Castro",
+    "Leman L. Stafford, Jr.",
+    "James D. Hayes"
+  ],
+  "recipient": "HQ",
+  "sender": "MM"
+}

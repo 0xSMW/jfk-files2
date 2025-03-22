@@ -1,0 +1,32 @@
+{
+  "classification": "Personnel",
+  "document_type": "Paper, Textual Document",
+  "security": "The document primarily contains personal information about Manuel Marti and his family, including birth dates, names, and legal proceedings related to a name change. Releasing this information without proper redaction could violate privacy and potentially cause harm to the individuals involved.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a translation of a court order from Puerto Rico, dated February 12, 1963, legally changing Adrian Sotomayor's name to Manuel Marti and correcting the birth certificates of his sons, Ivan and Manuel, to reflect the Marti surname.",
+  "summary_one_paragraph": "This document consists of a translation of a court order issued by the Superior Court of Puerto Rico on February 12, 1963, concerning Civil Case Num. CS-62-6720. The court order addresses the petition of Adrian Sotomayor to legally change his name to Manuel Marti and to correct the birth certificates of his two sons, Ivan and Manuel, from the surname Sotomayor to Marti. The order mandates that the Bureau of Demographic Registry and Statistics of the Department of Health of the Commonwealth of Puerto Rico update their records accordingly, based on evidence presented confirming that the name change reflects the petitioner's true identity and the correct paternal surname of his children.",
+  "tags": [
+    "Marti, Manuel",
+    "Sotomayor, Adrian",
+    "Name Change",
+    "Court Order",
+    "Puerto Rico",
+    "Translation"
+  ],
+  "title": "[ RESTRICTED ]",
+  "date": "1963-02-12",
+  "locations_mentioned": [
+    "San Juan, Puerto Rico",
+    "Utuado, Puerto Rico"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Marti, Manuel",
+    "Sotomayor, Adrian",
+    "Ivan Sotomayor/Marti",
+    "Manuel Sotomayor/Marti",
+    "Juana Marti",
+    "Barcelo, Antonio R"
+  ],
+  "sender": "BARCELO, ANTONIO R"
+}

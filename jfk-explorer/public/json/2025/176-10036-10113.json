@@ -1,0 +1,40 @@
+{
+  "classification": "Vietnam",
+  "document_type": "CIA Information Telegram",
+  "security": "This telegram contains information affecting the National Defense of the United States within the meaning of the Espionage Laws Title 18. The document details plans for a coup d'etat, including the individuals involved and their motivations. Exposing these details could compromise ongoing operations, endanger individuals, and harm U.S. foreign policy objectives.",
+  "security_level": "SECRET",
+  "summary": "A CIA information telegram reports on a potential coup d'état being planned by Ngo Dinh Nhu against the government in South Vietnam. The telegram details Nhu's dissatisfaction with the current administration and his proposal to army general officers to stage a coup, as well as the involvement of other military figures.",
+  "summary_one_paragraph": "This CIA Information Telegram, dated July 12, 1963, reports on a potential coup d'état in South Vietnam being planned by Ngo Dinh Nhu. Nhu, dissatisfied with the lack of progress against the Viet Cong and feeling powerless within the government, proposed to a group of army general officers on July 11, 1963, that they stage a coup d'état as soon as possible. Nhu stated that he would support the coup and that the general officers must support him; he also expressed disagreement with President Diem. The telegram identifies several general officers involved in the coup planning group and mentions a separate group that would support placing President Tho in temporary control after the coup.",
+  "tags": [
+    "CIA",
+    "Vietnam",
+    "Coup d'état",
+    "Ngo Dinh Nhu",
+    "Political Instability",
+    "Military Planning",
+    "Declassified",
+    "Foreign Policy"
+  ],
+  "title": "CIA Information Telegram",
+  "date": "1963-07-12",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ngo Dinh Nhu",
+    "Ngo Dinh Diem",
+    "Nguyen Ngoc Le",
+    "Pham Xuan Chiêu",
+    "Le Quan Vien",
+    "Ton That Dinh",
+    "Huynh Van Cao",
+    "Nguyen Van La",
+    "Nguyen Khanh",
+    "Duong Văn Minh",
+    "Tran Van Don",
+    "Henry Cabot Lodge, Jr.",
+    "President Tho"
+  ]
+}

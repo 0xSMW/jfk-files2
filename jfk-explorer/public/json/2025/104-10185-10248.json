@@ -1,0 +1,38 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "Sharing details about KUBARK staffers and agent assets could expose ongoing operations and compromise the identities of individuals working with the CIA. Specifically, the memo states that the apartment was rejected because 'it has been exposed to the following KUBARK staffers and agent assets.'",
+  "security_level": "SECRET",
+  "summary": "A memo detailing the rejection of an apartment for AMMUG-1 due to its exposure to KUBARK staffers and agent assets.",
+  "summary_one_paragraph": "This secret memorandum, dated May 20, 1964, outlines the rejection of an apartment at Hunting Towers in Alexandria, Virginia, intended for AMMUG-1. Harold F. Swenson, Chief of WH/SA/CI, explains that the apartment was deemed unsuitable due to its prior exposure to several KUBARK staffers and agent assets, including Mr. Dolf Luim with AMDIXIE-1, Mr. (Mike Kline) with AMTOUT, (Horace Speed) with AMCASH, and Lou De Santi with AMNIP-1 and Dr. Winston. As a result, a request has been made to secure an alternative apartment for AMMUG-1.",
+  "tags": [
+    "AMMUG-1",
+    "KUBARK",
+    "Agent Assets",
+    "Apartment Rejection",
+    "Security",
+    "Counterintelligence"
+  ],
+  "title": "REJECTION OF AN APARTMENT FOR AMMUG-1",
+  "date": "1964-05-20",
+  "locations_mentioned": [
+    "Hunting Towers, Alexandria, Virginia",
+    "Bogata, Columbia",
+    "New York"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "AMMUG-1",
+    "Dolf Luim",
+    "AMDIXIE-1",
+    "Mike Kline",
+    "AMTOUT",
+    "Horace Speed",
+    "AMCASH",
+    "Lou De Santi",
+    "AMNIP-1",
+    "Dr. Winston",
+    "Harold F. Swenson"
+  ],
+  "sender": "Harold F. Swenson (Chief, WH/SA/CI)"
+}

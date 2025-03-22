@@ -1,0 +1,28 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security": "This cable contains sensitive information about a suspect in the assassination of Martin Luther King, Jr. including aliases, date of birth, and physical description. Sharing this information could compromise ongoing law enforcement investigations and potentially endanger individuals involved.",
+  "security_level": "SECRET",
+  "summary": "A cable furnishes information from LNERGO concerning Eric Starvo Galt, a suspect in the Martin Luther King, Jr. assassination, including aliases and physical description.",
+  "summary_one_paragraph": "A SECRET cable, disseminated on April 18, 1968, transmits information furnished by LNERGO regarding Eric Starvo Galt, suspected in the Martin Luther King, Jr. assassination. The cable includes Galt's known aliases Harvey Lowmyer and John Willard, his birth date of July 20, 1931, and his physical description (height: five feet eight inches to five feet ten inches). The communication is routed to numerous locations including Asuncion, Bangkok, Berlin, and Zurich.",
+  "tags": [
+    "Martin Luther King Jr. Assassination",
+    "Eric Starvo Galt",
+    "Harvey Lowmyer",
+    "John Willard",
+    "LNERGO",
+    "Suspect",
+    "Assassination"
+  ],
+  "title": "Information Concerning Suspect in Martin Luther King, Jr. Assassination",
+  "date": "1968-04-18",
+  "persons_mentioned": [
+    "Richard Ober",
+    "Eric Starvo Galt",
+    "Harvey Lowmyer",
+    "John Willard",
+    "Martin Luther King Jr."
+  ],
+  "recipient": "ASUNCION, BANGKOK, BARCELONA, BEIRUT, BERLIN, BERN, BOGOTA, CARACAS BRASILIA BRUSSELS, BUENOS AIRES, COPENHAGEN FRANKFURT GENEVA GEORGETOWN, GUATEMALA CITY, GUAYAQUIL, THE HAGUE, HAMBURG, HELSINKI, HONG KONG, KINGSTON, LA PAZ, LIMA, LONDON, MADRID, MANAGUA, MONTEVIDEOS, NEW DELHI, LISBON, MANILA, MUNICH, OSLO, PANAMA CITY, PARIS, PORT AU PRINCE, PORT OF SPAIN, PORTO ALEGRE, QUITO, RECIFE, RAWALPINDI, RIO DE JANERIO, ROME, SAN JOSE, SANTO DOMINGO, SAN SALVADOR, SANTIAGO, SANTIAGO DE LOS CABALLEROS, SAO PAULO, STOCKHOLM, TEGUCIGALPA, TOKYO, VIENNA, ZURICH",
+  "sender": "CIOP/DO"
+}

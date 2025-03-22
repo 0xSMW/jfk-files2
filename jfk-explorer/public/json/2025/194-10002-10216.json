@@ -1,0 +1,28 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Releasing the employment information, even with deletions, could potentially reveal investigative methods used by the FBI and INSCOM. Disclosing the name of the CPA, Harry Hofner, could compromise his privacy and safety.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An FBI agent report details the employment history of Robert Scheer at Repeat-O-Type Stencil Manufacturing Company in 1955, gathered with the assistance of a certified public accountant.",
+  "summary_one_paragraph": "This FBI agent report, dated October 19, 1958, summarizes findings on Robert Scheer, a pre-inductee, focusing on his employment history. It reveals that Scheer worked at Repeat-O-Type Stencil Manufacturing Company in Brooklyn, New York, for a short period in June and July 1955, earning $1.00 per hour. The information was obtained by examining payroll files with the assistance of Harry Hofner, a Certified Public Accountant.",
+  "tags": [
+    "FBI",
+    "INSCOM",
+    "Robert Scheer",
+    "Pre-Inductee",
+    "Employment History",
+    "Repeat-O-Type Stencil Manufacturing Company"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1958-10-19",
+  "locations_mentioned": [
+    "Bronx, New York",
+    "Brooklyn, New York"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Robert Scheer",
+    "Harry Hofner",
+    "Paul F. Rohde"
+  ]
+}

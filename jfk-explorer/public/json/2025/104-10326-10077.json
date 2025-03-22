@@ -1,0 +1,28 @@
+{
+  "classification": "Oswald",
+  "document_type": "Cable",
+  "security": "The details of communication with foreign entities regarding the Oswald files could potentially damage international relations if mishandled. The mention of the FBI's involvement and internal discussions about approaching foreign officials reveal sensitive inter-agency coordination methods. The line \"stemming from their distrust of NWBOLTAN vis a vis the <KENNEDY> <ASSASSINATION, WE COULD NOT UNILATERALLY HANDLE THE FILES THOUGH WE COULD HELP FACILITATE THEIR PASSAGE TO THE PROPER USG AUTHORITIES (THE JUSTICE DEPARTMENT)\" reveals concern about managing sensitive material and external perceptions of U.S. government handling of the Kennedy assassination files.",
+  "security_level": "SECRET",
+  "summary": "A cable from the CIA's LIMIT station to Minsk relays discussions about accessing Lee Harvey Oswald files and coordination with the FBI, with the Minsk station expressing concerns about unilaterally handling the files due to distrust related to the Kennedy assassination.",
+  "summary_one_paragraph": "This SECRET cable, dated August 9, 1995, from the CIA's LIMIT station to Minsk, details efforts to acquire files on Lee Harvey Oswald from a source (JYVAPOROUS). It recounts a previous visit in October 1992, where the source expressed reluctance to release the raw files due to concerns about exposing sources and methods. The communication indicates that the FBI had been preparing a letter to the Prime Minister of Belarus to access the files but that the LIMIT station is checking with the FBI before re-engaging with the source. The cable also emphasizes that the U.S. government could not unilaterally handle the files due to sensitivity surrounding the Kennedy assassination and distrust of the source.",
+  "tags": [
+    "Oswald",
+    "Lee Harvey Oswald",
+    "Kennedy Assassination",
+    "FBI",
+    "CIA",
+    "Minsk",
+    "JYVAPOROUS",
+    "Belarus",
+    "Warren Report",
+    "WNINTEL",
+    "RYBAT",
+    "GTDANCER"
+  ],
+  "title": "Request for Guidance on Accessing Lee Harvey Oswald Files in Minsk",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "Kebich (Prime Minister of Belarus)"
+  ],
+  "sender": "LIMIT C/CE/W/MB (Dowdon, 73516); AUTH: CE/W (Freimann); CE/W (Weber). CL BY 520992; END OF MESSAGE"
+}

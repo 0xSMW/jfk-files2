@@ -1,0 +1,35 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security": "Revealing ongoing surveillance operations and intelligence-gathering efforts against Soviet personnel could impede future operations and damage diplomatic relations. Directly quoting the text, “NIKOLAY STEPANOVICH LEONOV...was scheduled DEPARTMEXICO CITY 29 JUNE...PLS CONFIRM ARRIVAL BRUSSELS AND DEPARTURE...MAY USE LIAISON” indicates active monitoring and the use of liaison services for verification.",
+  "security_level": "SECRET",
+  "summary": "A secret cable from the Director of Central Intelligence to Brussels and The Hague requests confirmation of the arrival and departure of Nikolay Stepanovich Leonov, a Soviet official, who was scheduled to travel from Mexico City to Brussels.",
+  "summary_one_paragraph": "On July 8, 1966, the Director sent a secret cable to Brussels and The Hague requesting confirmation of the travel itinerary of Nikolay Stepanovich Leonov, Second Secretary (Press Attaché) at the Soviet Embassy in Mexico City, and his daughter Irina. Leonov, identified as a KGB officer reportedly on temporary duty to Moscow, was scheduled to depart Mexico City on June 29 via Sabena flight 556 for Brussels. The cable also asks that they check a second report indicating Leonov might have taken KLM flight 684 from Mexico City to Amsterdam, further authorizing the use of liaison contacts for verification.",
+  "tags": [
+    "CIA",
+    "KGB",
+    "Leonov",
+    "Soviet",
+    "Surveillance",
+    "Mexico City",
+    "Brussels",
+    "The Hague",
+    "Liaison"
+  ],
+  "title": "REDBLOCK LCIMPROVE",
+  "date": "1966-07-08",
+  "locations_mentioned": [
+    "Mexico City",
+    "Brussels",
+    "Moscow",
+    "Amsterdam",
+    "The Hague"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Nikolay Stepanovich Leonov",
+    "Irina Leonov"
+  ],
+  "recipient": "Brussels, The Hague",
+  "sender": "Director"
+}

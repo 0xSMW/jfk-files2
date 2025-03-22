@@ -1,0 +1,32 @@
+{
+  "classification": "Personnel",
+  "document_type": "Identification Form",
+  "security": "Releasing personal information such as date and place of birth, employment history, and character assessments could violate privacy and potentially expose individuals to risks. Specifically, disclosing details about Manuel Marti's employment, personal background, and the opinions of his former co-worker, Albert B. Cassidy Jr., could be considered an invasion of privacy. Additionally, revealing the Special Agent's name and organization (ALPHONSO E. MARSHALL, 108th MI Group (I-SIB)) could compromise future investigations or put the agent at risk.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is an identification form and report of findings regarding Manuel Marti, including employment verification and character references from a co-worker, Albert B. Cassidy Jr., at Mutual Insurance Advisory Association.",
+  "summary_one_paragraph": "This document, dated November 19, 1968, is a report of findings concerning Manuel Marti, a former Utility Clerk Supervisor and Tabulating Machine Operator at Mutual Insurance Advisory Association in New York. It includes an interview with Albert B. Cassidy Jr., the Personnel Director, who provides details about Marti's employment history from April 1965 to May 1968, his excellent reputation, personal background, and character assessment, noting Marti's pro-democratic views, loyalty to the United States, and absence of any known radical political views or organizational affiliations; the report concludes with Cassidy's high recommendation for Marti to be considered for a position of trust with the United States Government.",
+  "tags": [
+    "Manuel Marti",
+    "Character Reference",
+    "Employment Verification",
+    "Mutual Insurance Advisory Association",
+    "Personnel Investigation",
+    "INSCOM/CSF",
+    "DOD"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1968-11-19",
+  "locations_mentioned": [
+    "San Juan, Puerto Rico",
+    "New York, New York",
+    "Bronx, New York",
+    "Browns Mills, New Jersey"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Albert B. Cassidy Jr.",
+    "Alphonso E. Marshall"
+  ],
+  "sender": "[RESTRICTED]"
+}

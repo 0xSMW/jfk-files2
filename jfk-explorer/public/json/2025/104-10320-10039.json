@@ -1,0 +1,24 @@
+{
+  "classification": "Commission",
+  "document_type": "Letter",
+  "security": "Releasing information about discussions with foreign intelligence agencies, specifically regarding the declassification of documents, could damage relationships and reveal internal decision-making processes. As quoted: \"Should the question be raised at some future time, the points made by you in your letter provide every reason to keep the document out of the public domain.\"",
+  "security_level": "SECRET",
+  "summary": "Richard Helms assures Sir Charles Spry that Warren Commission document CD-971 will not be declassified, citing Spry's recommendation against it and the absence of public pressure for its release.",
+  "summary_one_paragraph": "In a letter dated November 26, 1968, Director of Central Intelligence Richard Helms responds to Sir Charles C. F. Spry, Director General of the Australian Security Intelligence Organization, regarding the declassification of Warren Commission document CD-971. Helms acknowledges Spry's recommendation against declassification and confirms that, due to the lack of public pressure, there is no current intention to release the document, further assuring Spry that his points provide sufficient reason to keep it out of the public domain.",
+  "tags": [
+    "Warren Commission",
+    "Declassification",
+    "Richard Helms",
+    "Charles Spry",
+    "Australian Security Intelligence Organization",
+    "CD-971"
+  ],
+  "title": "Letter regarding the declassification of Warren Commission document CD-971",
+  "date": "1968-11-26",
+  "persons_mentioned": [
+    "Richard Helms",
+    "Sir Charles C. F. Spry"
+  ],
+  "recipient": "Sir Charles C. F. Spry",
+  "sender": "Richard Helms (Director of Central Intelligence)"
+}

@@ -1,0 +1,31 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "The report concerns a potential US Army defector to the USSR and includes personal information such as social security numbers. Releasing such information could compromise individuals' privacy and reveal intelligence-gathering methods.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "An agent report from November 28, 1966, details a local agency check concerning a potential US Army defector to the USSR.",
+  "summary_one_paragraph": "On November 28, 1966, an agent report was submitted by Andrew V. Jacobs of the 108th MI Group (II) regarding a potential US Army defector to the USSR. The report details a local agency check conducted by Captain George Bombel at Fort Monmouth, New Jersey, to verify the presence of Private Virgilio Capino during a specific period in October 1966. Records indicated that Capino was present for duty during that time, and Bombel, who lacked personal knowledge of Capino due to the transient nature of the student company, confirmed the information through unit records.",
+  "tags": [
+    "US Army",
+    "Defector",
+    "USSR",
+    "Agent Report",
+    "Local Agency Check",
+    "Fort Monmouth",
+    "Counterintelligence"
+  ],
+  "title": "AGENT REPORT",
+  "date": "1966-11-28",
+  "locations_mentioned": [
+    "USSR",
+    "Fort Monmouth, New Jersey"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Vladimir Slovoda",
+    "George Bombel",
+    "Virgilio Capino",
+    "Andrew V. Jacobs"
+  ],
+  "sender": "USA"
+}

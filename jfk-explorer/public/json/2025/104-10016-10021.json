@@ -1,0 +1,37 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Classified Message",
+  "security": "Revealing details of surveillance operations, such as tracing phone calls via PMG liaison Ted Young, or reporting on diplomatic personnel (Indonesian First Secretary), could compromise intelligence-gathering methods and diplomatic relations. Quoting directly: 'SQUARE HAS ARRANGED WITH PMG LIAISON OFFICER TED YOUNG TRACE ANY FURTHER CALLS MADE. EMBASSY IN CLOSE CONTACT SQUARE REP CNBR.' Disclosing this could inform adversaries of surveillance techniques and sources, increasing risks for intelligence personnel and operations.",
+  "security_level": "SECRET",
+  "summary": "A secret message from MELBOURNE reports on preliminary checks related to recorded conversations, including tracing a vehicle and individuals, and monitoring diplomatic contacts, with ongoing coordination involving the PMG liaison officer for further call tracing.",
+  "summary_one_paragraph": "A SECRET message from MELBOURNE details preliminary checks on recorded conversations. The checks include a search for a 1952 dark blue Buick potentially belonging to a Soviet or Bloc installation, license plate variants, and individuals mentioned in previous communications. No derogatory information was found on the individuals. The message also mentions an Indonesian First Secretary and confirms arrangements with PMG liaison officer Ted Young to trace any further phone calls, with the embassy maintaining close contact. The memo discusses requests for information on a Polish driver connected to the Russian diplomatic establishment in Australia.",
+  "tags": [
+    "CIA",
+    "Surveillance",
+    "Counterintelligence",
+    "Soviet Bloc",
+    "Australia",
+    "Diplomatic Monitoring",
+    "PMG Liaison",
+    "JFK Assassination"
+  ],
+  "title": "Preliminary Checks on Recorded Conversations",
+  "date": "1963-12-02",
+  "locations_mentioned": [
+    "Australia",
+    "Sydney",
+    "Wentworthville",
+    "Binalong",
+    "Wahroonga"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Herman Satrapinsky",
+    "William John Sims",
+    "Keith Bethke",
+    "R. Willy Sastranegara",
+    "Ted Young"
+  ],
+  "recipient": "Director, DCI, D/DCI, DDP, C/CI, C/CI/SI, VR",
+  "sender": "CAMH"
+}

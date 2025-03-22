@@ -1,0 +1,32 @@
+{
+  "classification": "Personnel",
+  "document_type": "Paper, Textual Document",
+  "security": "This document contains personal information about Daniel Reed Fromer, including his date of birth, Social Security Number, and marital status. Releasing this information could violate privacy laws and endanger the individual.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "Military Intelligence requests information from the FBI and Chicago Police Department regarding Daniel Reed Fromer, born in Chicago on July 21, 1942.",
+  "summary_one_paragraph": "On January 25, 1967, Joseph P. Cruciani of U.S. Military Intelligence (INSCOM/CSF) sent a request to the FBI in Chicago and the Chicago Police Department, seeking any information in their files pertaining to Daniel Reed Fromer, born on July 21, 1942, in Chicago. The request included Fromer's Social Security number (564-58-8137) and a physical description section, with instructions to return the results in a provided self-addressed envelope. The Chicago Police Department responded on January 30, 1967, indicating 'NO RECORD' based on a name check only, with an additional note stating 'RECORD ATTACHED SEPT 1967'.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "DOD",
+    "Personnel Investigation",
+    "FBI",
+    "Chicago Police Department",
+    "Daniel Reed Fromer",
+    "Military Intelligence",
+    "Name Check"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1967-01-25",
+  "locations_mentioned": [
+    "Chicago, Illinois"
+  ],
+  "origin_agency": "USA",
+  "persons_mentioned": [
+    "Daniel Reed Fromer",
+    "Joseph P. Cruciani",
+    "William J. Duffy"
+  ],
+  "recipient": "FBI, Chicago, Ill",
+  "sender": "USA"
+}

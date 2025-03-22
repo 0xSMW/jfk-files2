@@ -1,0 +1,42 @@
+{
+  "classification": "Soviet",
+  "document_type": "Cable",
+  "security": "Disclosing the professor's identity as a source who 'volunteered info on Nikonov and other USSR, PRC and German contacts' could endanger him. Also, revealing the KGB-CIA liaison relationship and specific topics like Oswald and Wallenberg could harm relations. Quoting: 'HE VOLUNTEERED INFO ON NIKONOV...TO HEIBERG AND CAN PROVIDE CONSIDERABLE BIO AND ASSESSMENT INFO ON THEM...NIKONOV PERSONALLY REVIEWED KGB FILES TO DETERMINE IF LEE HARVEY ((OSWALD)) HAD BEEN A KGB AGENT...NIKONOV PERSONALLY PERFORMED AN INQUIRY FOR BAKATIN INTO THE FATE OF SWEDISH DIPLOMAT RAOUL ((WALLENBERG)).'",
+  "security_level": "SECRET",
+  "summary": "A cable detailing information provided by a U.S. professor on KGB official Slava Nikonov, including his role in establishing KGB-CIA liaison and his review of KGB files on Lee Harvey Oswald and Raoul Wallenberg.",
+  "summary_one_paragraph": "This SECRET cable, dated November 20, 1991, relays information obtained from a U.S. professor (E.B. Smith) regarding Slava Nikonov, a KGB official and Deputy to KGB Director Bakatin. The professor, who has known Nikonov since 1976, shared insights with DCOB Steven R. Heiberg, including Nikonov's role in establishing a KGB-CIA liaison relationship, his review of KGB files to determine if Lee Harvey Oswald was a KGB agent (concluding he was not), and his inquiry into the fate of Raoul Wallenberg. Nikonov's background, including his grandfather being former Soviet Foreign Minister Vyacheslav Molotov and his transformation after exposure to the U.S., is also detailed.",
+  "tags": [
+    "KGB",
+    "CIA",
+    "Liaison",
+    "Nikonov",
+    "Oswald",
+    "Wallenberg",
+    "Professor",
+    "Fulbright",
+    "Soviet Union",
+    "USSR"
+  ],
+  "title": "KGB Official Nikonov",
+  "conspiracy": "The cable mentions Nikonov's review of KGB files and his conclusion that Oswald was not a KGB agent, adding to the ongoing discussion and debate surrounding Oswald's connections.",
+  "date": "1991-11-20",
+  "locations_mentioned": [
+    "Moscow",
+    "St Petersburg",
+    "United States",
+    "Maryland",
+    "USSR"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Slava Nikonov",
+    "E.B. Smith",
+    "Steven R. Heiberg",
+    "Vyacheslav Molotov",
+    "Lee Harvey Oswald",
+    "Raoul Wallenberg",
+    "Batin"
+  ],
+  "recipient": "Moscow, Director",
+  "sender": "STAFF"
+}

@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Airtel, Letterhead Memorandum",
+  "security": "This document discusses the use of a double agent, DOLPHIN, to gather information on anti-Castro activities. Revealing DOLPHIN's identity or the methods of communication (secret writing) could compromise the agent and disrupt intelligence operations. Specifically, the document states: 'The letterhead memorandum has been classified \"SECRET,\" in order to protect the identity of a double agent of continuing value to the U.S.'",
+  "security_level": "Secret",
+  "summary": "This FBI airtel from March 23, 1967, discusses the use of a Cuban double agent, codenamed DOLPHIN, to gather information on anti-Castro activities in Miami and requests authorization to pass information obtained by DOLPHIN to his Cuban principal.",
+  "summary_one_paragraph": "An FBI airtel, dated March 23, 1967, from the Director to the SAC in Miami, concerns the operation of a Cuban double agent, codenamed DOLPHIN, tasked with gathering information on anti-Castro activities within the United States. DOLPHIN's principal requested monthly updates on these activities, and the Miami office is instructed to prepare and forward a letter containing the information in secret writing. The memo requests authorization to allow DOLPHIN to provide this information to his Cuban contact by April 7, 1967, and includes details about a meeting of anti-Castro leaders in Miami, including Manuel Fernandez, Manuel Urrutia, and others, who discussed the possibility of a committee traveling to Cuba to discuss the release of political prisoners and potentially improve relations between Cuba and the United States.",
+  "tags": [
+    "FBI",
+    "DOLPHIN",
+    "Double Agent",
+    "Anti-Castro Activities",
+    "Cuba",
+    "Secret Writing",
+    "FISHFACE",
+    "Counterintelligence"
+  ],
+  "title": "[Restricted]",
+  "date": "1967-03-23",
+  "locations_mentioned": [
+    "Miami",
+    "Cuba",
+    "United States"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Manuel Fernandez",
+    "Manuel Urrutia",
+    "Felipe Pazos",
+    "Raul Chibas",
+    "Rufo Lopez Fresquet",
+    "Danilo Mesa",
+    "Elena Mederos",
+    "Efreu Gonzalez",
+    "Palayo Garcia"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, MM"
+}

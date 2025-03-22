@@ -1,0 +1,25 @@
+{
+  "classification": "Personnel",
+  "document_type": "Paper, Textual Document",
+  "security": "The document itself is unclassified, but it references potentially sensitive personal information (name change, birthdates) related to Manuel Marti and his family. Releasing these details without consent could violate privacy.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is an identification form and exhibit cover sheet related to Manuel Marti, documenting a court order from 1963 in which Marti's father legally changed his name.",
+  "summary_one_paragraph": "The document is a JFK Assassination System Identification Form and exhibit cover sheet pertaining to Manuel Marti, a Private E-1 in the U.S. Army. It references a court order dated February 12, 1963, written in Spanish, which details the legal name change of Marti's father from Adrian Sotomayor to Manuel Marti. The document includes information regarding Marti's birth date (May 17, 1946, in San Juan, Puerto Rico) and a report from the 771st MI Detachment in Fort Brooke, Puerto Rico, dated September 24, 1968.",
+  "tags": [
+    "Manuel Marti",
+    "Name Change",
+    "Court Order",
+    "Personnel Records",
+    "Puerto Rico"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1998-01-14",
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Antonio R. Barcelo",
+    "Juana Marti",
+    "Ivan Sotomayor"
+  ],
+  "sender": "BARCELO, ANTONIO R"
+}

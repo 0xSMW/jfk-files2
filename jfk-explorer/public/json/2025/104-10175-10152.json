@@ -1,0 +1,33 @@
+{
+  "classification": "Mexico",
+  "document_type": "Memorandum",
+  "security": "The memo discusses financial support and relationships with Mexican organizations, some of which are fronts for propaganda efforts or involve individuals with access to rightist political groups. Revealing these relationships and funding details could compromise ongoing operations, expose covert influence campaigns, and damage the CIA's reputation. Specifically, the memo states \"supports a mass media propaganda effort directed at the middle and lower classes of Mexico and sponsored by a front group of conservative Mexican businessmen.\"",
+  "security_level": "SECRET",
+  "summary": "A 1967 memo from Chief, WH/CA, responding to a memo on the 'Council for Latin America,' details CIA activities and funding related to four Mexican organizations, including support for propaganda efforts and relationships with individuals involved in rightist political groups.",
+  "summary_one_paragraph": "This SECRET memorandum, dated March 29, 1967, from N. J. Buchen, Chief of WH/1, responds to a query regarding the 'Council for Latin America' by detailing the activities of WH/1 related to four Mexican organizations: Confederación Patronal de la República Mexicana (supported with $60,000 annually), Instituto de Investigaciones Sociales y Económicas (connected to the LIEFF project), Centro Nacional de Estudios Sociales (formerly supported by the LISIFER project for mass media propaganda), and American Chamber of Commerce of Mexico (where a Station asset, LEUFT-1, gathers information on rightist political organizations). The memo clarifies funding sources and the nature of the relationships with these organizations, including the termination of some projects and the roles of specific agents.",
+  "tags": [
+    "CIA",
+    "Mexico",
+    "Propaganda",
+    "Covert Operations",
+    "Funding",
+    "Rightist Political Organizations",
+    "Council for Latin America"
+  ],
+  "title": "Response to Memo on \"Council for Latin America\"",
+  "date": "1967-03-29",
+  "locations_mentioned": [
+    "Mexico",
+    "Aachen, Germany"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "N. J. Buchen",
+    "HINZE",
+    "LIFIFT-1",
+    "LISIFER-3",
+    "LEUFT-1"
+  ],
+  "recipient": "Chief, WH/CA",
+  "sender": "N. J. Buchen, C/WH/1"
+}

@@ -1,0 +1,42 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "CIA Information Report",
+  "security": "This material contains information affecting the National Defense of the United States within the meaning of the Espionage Laws, Title 18, U.S.C Secs. 793 and 794, the transmission or revelation of which in any manner to an unauthorized person is prohibited by law.",
+  "security_level": "SECRET",
+  "summary": "A CIA information report details a planned coup in South Vietnam against President Diem, set to occur before October 5, 1963, possibly on September 26 or 28, involving generals Tran Thien Khiem, Nguyen Khanh, and Duong Van Minh.",
+  "summary_one_paragraph": "This CIA information report, dated September 24, 1963, summarizes intelligence received from a close associate of Huynh Van Lang, a professor at Saigon University, regarding a coup planned in South Vietnam. The coup, allegedly involving Generals Tran Thien Khiem, Nguyen Khanh, and Duong Van Minh, is intended to take place before October 5, potentially on September 26 or 28, leveraging troop movements in Saigon for the National Assembly election and National Day parade rehearsals. Difficulties include securing explosives to breach President Diem's bunker and concerns that the presence of high-level U.S. Defense Department officials might deter or complicate the coup, with some speculating the U.S. might be planning its own intervention.",
+  "tags": [
+    "CIA",
+    "Information Report",
+    "Coup",
+    "South Vietnam",
+    "Diem",
+    "Tran Thien Khiem",
+    "Nguyen Khanh",
+    "Duong Van Minh",
+    "Huynh Van Lang"
+  ],
+  "title": "CIA Information Report",
+  "date": "1963-09-24",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Huynh Van Lang",
+    "Tran Thien Khiem",
+    "Nguyen Khanh",
+    "Duong Van Minh",
+    "Do Cao Tri",
+    "Bui Dinh Dam",
+    "Nguyen Huu Hanh",
+    "Huynh Van Cao",
+    "Lam Trang Tho",
+    "Pham Ngoc Thao",
+    "Nguyen Dinh Phat",
+    "Nguyen Van Tu",
+    "Bui Dzinh",
+    "Diem"
+  ]
+}

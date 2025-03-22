@@ -1,0 +1,41 @@
+{
+  "classification": "Security",
+  "document_type": "Report",
+  "security": "This document reveals details about the CIA's handling of a Soviet defector, Yurily Ivanovich Nosenko, including his involuntary confinement, the legal justifications provided by the Agency General Counsel and Deputy Attorney General, the conditions of his confinement, and the involvement of congressional staff officers. It also mentions a mail cover placed on Nosenko and the use of prostitutes by Agency personnel during a pleasure trip taken by Nosenko. Sharing this information could damage the CIA's reputation and reveal sensitive operational methods. Quoting directly: \"the legal basis to confine NOSENKO against his will was discussed...with the Deputy Attorney General...Agency personnel, with apparent Headquarters approval, obtained the services of prostitutes.\"",
+  "security_level": "SECRET",
+  "summary": "This document summarizes the case of Yurily Ivanovich Nosenko, a Soviet KGB officer who defected in 1964 and was involuntarily confined by the CIA for approximately three years, detailing the legal justifications for his confinement, the conditions of his confinement, and his subsequent employment by the Agency as a consultant.",
+  "summary_one_paragraph": "This report provides an overview of the Yurily Ivanovich Nosenko case, a Soviet KGB officer who defected in 1964 and was subsequently involuntarily confined by the CIA for about three years. The report outlines the legal justifications for Nosenko's confinement, citing discussions with the Deputy Attorney General and a memorandum from the Agency General Counsel. It also mentions the conditions of his confinement at sites in Clinton, Maryland, and Camp Peary, Virginia, his eventual freedom and U.S. citizenship, and his ongoing employment by the Agency as a consultant at a salary of $23,500 per year. The report also notes that congressional staff officers were briefed on Nosenko, a mail cover was placed on him, and Agency personnel obtained the services of prostitutes during a pleasure trip he was allowed to take to Florida.",
+  "tags": [
+    "Yurily Ivanovich Nosenko",
+    "Defector",
+    "KGB",
+    "CIA",
+    "Involuntary Confinement",
+    "Office of Security",
+    "Richard Helms",
+    "Lawrence Houston",
+    "Mail Cover",
+    "Prostitutes",
+    "Congressional Briefing"
+  ],
+  "title": "Yurily Ivanovich NOSENKO",
+  "date": "1964",
+  "locations_mentioned": [
+    "Switzerland",
+    "U.S.",
+    "Clinton, Maryland",
+    "Camp Peary, Virginia",
+    "Washington",
+    "Florida"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Yurily Ivanovich Nosenko",
+    "Richard Helms",
+    "Lawrence Houston",
+    "Charles Phalen",
+    "Bruce Solie"
+  ],
+  "recipient": "Office of Security",
+  "sender": "Director of Security"
+}

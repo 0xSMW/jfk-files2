@@ -1,0 +1,27 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security": "Releasing this document could highlight the CIA's interaction with the FBI and their monitoring of individuals, potentially raising concerns about domestic surveillance and the extent of inter-agency cooperation on matters related to internal security. The document states: 'This Directorate does not maintain a file on Subject. A search of the records of this Directorate revealed one FBI report as follows, which mentions Subject'.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A memorandum stating that the CIA's Directorate of Operations (DDO) does not maintain a file on Edwin Anderson Walker, but a search revealed an FBI report mentioning him.",
+  "summary_one_paragraph": "On August 5, 1976, Frederick C. Randall, Chief of the DDO/Privacy and Information Coordinator, sent a memorandum to the Chief of the Information and Privacy Staff, indicating that the DDO does not maintain a file on Edwin Anderson Walker. However, a search did reveal one FBI report from Boston, dated December 6, 1972, concerning 'Boston Scientists and Engineers for Social and Political Action (SESPA) Internal Security-REVACT,' which mentions Walker.",
+  "tags": [
+    "CIA",
+    "FBI",
+    "Edwin Anderson Walker",
+    "DDO",
+    "Privacy",
+    "Information",
+    "Internal Security",
+    "Boston Scientists and Engineers for Social and Political Action (SESPA)"
+  ],
+  "title": "Edwin Anderson Walker",
+  "date": "1976-08-05",
+  "persons_mentioned": [
+    "Edwin Anderson Walker",
+    "Frederick C. Randall",
+    "A. F. Addona"
+  ],
+  "recipient": "Chief, Information and Privacy Staff",
+  "sender": "Frederick C. Randall (Chief, DDO/Privacy and Information Coordinator)"
+}

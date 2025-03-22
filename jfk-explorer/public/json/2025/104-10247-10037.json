@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Message Form",
+  "security": "Revealing the identities and roles of AMCHIP/1 and ANLASH/2 would jeopardize their safety and compromise ongoing intelligence operations. Specifically, the line referencing ANLASH/2 due to return to Havana and have a \"good position\" reveals details about a sensitive placement. The authorization for 'unilateral recruitment in place' also exposes operational tactics.",
+  "security_level": "SECRET",
+  "summary": "A message indicates that ANLASH/2 is scheduled to return to Havana to assume a 'good position' in the office of Vice Minister Arnold Rodriguez, as reported by AMCHIP/1.",
+  "summary_one_paragraph": "This message, dated March 15, 1965, relays information received by AMCHIP/1 in New York from ANLASH/2, who is reportedly returning to Havana around April 6 to take a 'good position' within Vice Minister Arnold Rodriguez's office. The message also notes headquarters' agreement to unilateral recruitment in place.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Havana",
+    "Recruitment",
+    "Intelligence",
+    "AMCHIP/1",
+    "ANLASH/2",
+    "Arnold Rodriguez"
+  ],
+  "title": "Peruen",
+  "date": "1965-03-15",
+  "locations_mentioned": [
+    "New York",
+    "Havana",
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Arnold Rodriguez",
+    "AMCHIP/1",
+    "ANLASH/2"
+  ],
+  "recipient": "(MADRID)",
+  "sender": "DIRECTOR"
+}

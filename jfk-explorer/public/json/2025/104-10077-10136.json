@@ -1,0 +1,26 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "Revealing that the CIA coordinated with the State Department to expedite visas for the family of an asset (Alejandro Arencibia) could compromise those operations and damage relations with involved parties. ",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A cable indicates that ODACID sent a message to HEPINCH MEXI authorizing visas, and references coordination with the State Department regarding expediting visas for the wife and daughter of FM asset Alejandro Arencibia.",
+  "summary_one_paragraph": "Dated November 26, 1963, this message relays information pertaining to visas authorized by ODACID for HEPINCH MEXI, specifically referencing coordination with the State Department to expedite visas for the wife and daughter of Alejandro Arencibia, identified as a FM asset. The message is routed through OUP, ISO/OPS, and WH 7, with reference to WAVE 8103 and IM 67254.",
+  "tags": [
+    "CIA",
+    "Visas",
+    "Mexico",
+    "State Department",
+    "Alejandro Arencibia",
+    "FM Asset",
+    "HEPINCH"
+  ],
+  "title": "Visa Authorization and Coordination for Alejandro Arencibia's Family",
+  "date": "1963-11-26",
+  "locations_mentioned": [
+    "Mexico"
+  ],
+  "persons_mentioned": [
+    "Alejandro Arencibia"
+  ],
+  "sender": "JHAVE"
+}

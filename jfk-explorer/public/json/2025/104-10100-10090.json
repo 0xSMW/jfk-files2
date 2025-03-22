@@ -1,0 +1,27 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "This message discusses individuals in Mexico, specifically [JOSE LUIS (ZALA)], and their possible connections. Releasing this information could potentially compromise ongoing intelligence operations or expose individuals providing information to the CIA. Quoting directly: \"[JOSE LUIS (ZALA)] SUBJ PARA 4 REF, RESIDENCE [ULTIMAS NOVEDADES S.A.]...IS PROBABLY IDENTICAL WITH [JOSE LUIS (ZALA)]...WHO CURRENTLY REGISTERED AFOZEER SERVICE. 201 FILE CONTAINS INC OTHER INFO.\"",
+  "security_level": "SECRET",
+  "summary": "A classified message from the Director to the Mexico City station, concerning a possible connection between [JOSE LUIS (ZALA)], referenced in a previous message, and an individual registered with AFOZEER service.",
+  "summary_one_paragraph": "This classified message, dated 30 September 1963, originates from the Director and is addressed to the CIA station in Mexico City. The message references a previous communication (WAVE 4369) and suggests that [JOSE LUIS (ZALA)], whose residence is listed as [ULTIMAS NOVEDADES S.A.], is likely identical to an individual with the same name who is registered with AFOZEER service. The message indicates that further information on this individual is available in a 201 file.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "AFOZEER",
+    "JOSE LUIS (ZALA)",
+    "RYBAT"
+  ],
+  "title": "Possible Connection of [JOSE LUIS (ZALA)] with AFOZEER Service",
+  "date": "1963-09-30",
+  "locations_mentioned": [
+    "Mexico City",
+    "Mexico"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "[JOSE LUIS (ZALA)]"
+  ],
+  "recipient": "JESIAVE Mexico City",
+  "sender": "Director"
+}

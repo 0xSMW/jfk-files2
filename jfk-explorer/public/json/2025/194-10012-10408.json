@@ -1,0 +1,39 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "This report details the personal information of Roman Davor Srecko Arnold, including his Social Security number, date of birth, and family details. Releasing this information could violate privacy laws and endanger Arnold or his family. Additionally, the report mentions a possible sensitive desertion, indicating an ongoing investigation, which could be compromised by public disclosure.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This agent report, dated October 5, 1967, details findings from Roman D. S. Arnold's 201 file, focusing on his background and military service, and notes a possible sensitive desertion.",
+  "summary_one_paragraph": "On October 5, 1967, Special Agent Ashton K. Durrett submitted an agent report based on Roman Davor Srecko Arnold's 201 file, which was procured from Fort Hood, Texas. The report details Arnold's personal information, including his birth date, citizenship (German), marital status, parents' information, physical description, education, aptitude test scores, military education, foreign travel, and chronology of military service from October 1965 to present. The report notes the absence of a DD Form 398 limited the information that could be obtained and that his 201 file did not reflect any background investigation.",
+  "tags": [
+    "Agent Report",
+    "Desertion",
+    "Personnel File",
+    "Roman D. S. Arnold",
+    "Military Intelligence",
+    "Fort Hood",
+    "Background Check"
+  ],
+  "title": "AGENT REPORT",
+  "date": "1967-10-05",
+  "locations_mentioned": [
+    "Lindau Bodensee, Germany",
+    "Yugoslavia",
+    "Wilmington, North Carolina",
+    "Des Plaines, Illinois",
+    "Fort Hood, Texas",
+    "Fort Knox, Kentucky",
+    "Fort Benning, Georgia",
+    "Fort Gordon, Georgia",
+    "USAREUR (Germany)"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Vladimir Slovoda",
+    "Roman D. S. Arnold",
+    "Alfons Arnold",
+    "Zdenka Miketta",
+    "Ashton K. Durrett"
+  ],
+  "sender": "[ RESTRICTED ]"
+}

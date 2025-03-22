@@ -1,0 +1,39 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "These documents outline guidelines and agreements designed to protect sensitive intelligence information from unauthorized disclosure. They detail procedures for handling classified materials, security clearances, and compartmented information. Releasing these details could compromise intelligence sources and methods, as well as reveal specific security protocols.",
+  "security_level": "SECRET",
+  "summary": "This collection of memoranda and guidelines concerns the protection of classified information and intelligence sources, particularly in the context of providing information to congressional oversight committees and managing security protocols within the intelligence community.",
+  "summary_one_paragraph": "This compilation includes memoranda and guidelines addressing the protection of classified intelligence information and sources, primarily in the context of interactions with congressional oversight committees. It covers topics such as security clearances, secrecy agreements, physical and document security, and the handling of compartmented information. Additionally, it includes correspondence regarding the General Accounting Office's (GAO) audit of the CIA and discussions about the statutory basis for compartmentation, emphasizing the need to safeguard sensitive intelligence methods and sources from unauthorized disclosure.",
+  "tags": [
+    "Security",
+    "Classified Information",
+    "Congressional Oversight",
+    "Intelligence Sources",
+    "Compartmentation",
+    "GAO Audit",
+    "Secrecy Agreements"
+  ],
+  "title": "Guidelines for Providing Information to the House Appropriations Committee Concerning Foreign Intelligence and Security Services",
+  "date": "1977-03-11",
+  "persons_mentioned": [
+    "James M. Potts",
+    "Richard S. Sampson",
+    "Alan D. Wolfe",
+    "Richard F. Stolz",
+    "John D. Walker",
+    "Otis Pike",
+    "Colby",
+    "Mitch Rogovin",
+    "Knoche",
+    "Elmer B. Staats",
+    "Keller",
+    "William Proxmire",
+    "Lindsay C. Warren",
+    "Allen Dulles",
+    "Kilday",
+    "Vinson"
+  ],
+  "recipient": "Mr. James M. Potts, Mr. Richard S. Sampson, Mr. Alan D. Wolfe, Mr. Richard F. Stolz",
+  "sender": "John D. Walker"
+}

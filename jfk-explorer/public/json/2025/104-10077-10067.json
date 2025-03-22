@@ -1,0 +1,27 @@
+{
+  "classification": "Personnel",
+  "document_type": "Cable",
+  "security": "Releasing details about contract renewals and payroll information could reveal operational requirements and staffing levels, potentially compromising ongoing activities and endangering individuals involved. The reference to 'Background Use Only' and 'Do Not Reproduce' indicates the sensitive nature of the information. Disclosing Mr. Frank A. Johnson’s contract status (expired 28 Oct 63) and the request for headquarters payroll starting with April 63 salary could indirectly reveal operation costs.",
+  "security_level": "SECRET",
+  "summary": "A cable from the Director to JHNAVE requests a decision on renewing the contract of Mr. Frank A. Johnson, which expired on October 28, 1963, with a request for headquarters payroll information.",
+  "summary_one_paragraph": "On November 21, 1963, a secret cable was sent from the Director to JHNAVE concerning the contract of Mr. Frank A. Johnson, which had expired on October 28, 1963. The cable requests advice on whether to renew the contract and asks for the original contract negotiation details if it was handled at JMWAVE. The message also requests headquarters payroll information for the subject starting from April 1963.",
+  "tags": [
+    "CIA",
+    "Contract Renewal",
+    "Payroll",
+    "Personnel",
+    "JMWAVE",
+    "Frank A. Johnson"
+  ],
+  "title": "Contract Renewal for Frank A Johnson",
+  "date": "1963-11-21",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Frank A. Johnson",
+    "Desmond FitzGerald",
+    "Richard GaminGe",
+    "Orville C. Dans"
+  ],
+  "recipient": "JHNAVE",
+  "sender": "Director"
+}

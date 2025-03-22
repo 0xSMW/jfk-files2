@@ -1,0 +1,27 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Letter",
+  "security": "This letter confirms that the CIA sought and received advice from the Australian Security Intelligence Organization regarding the declassification of Warren Commission documents. It reveals an instance where a foreign intelligence service influenced decisions about releasing information related to the JFK assassination, and this influence could damage diplomatic relations. This letter explicitly discusses coordinating with a foreign intelligence service on whether to declassify documents, stating “the points made by you in your letter provide every reason to keep the document out of the public domain.” Revealing this collaboration could negatively impact the agency’s relationship with Australia.",
+  "security_level": "SECRET",
+  "summary": "A letter from Richard Helms to Sir Charles Spry acknowledging Spry's recommendation against declassifying Warren Commission document CD-971 and confirming that there is no current intention to release it.",
+  "summary_one_paragraph": "This SECRET letter, dated 26 November 1968, is from CIA Director Richard Helms to Sir Charles C. F. Spry, Director General of the Australian Security Intelligence Organization (ASIO). Helms thanks Spry for his letter recommending against the declassification of Warren Commission document CD-971. Helms indicates that the CIA had anticipated pressure for the release of Warren Commission papers, but this pressure has not materialized and as such there is no present intention to release CD-971. Helms assures Spry that his points provide every reason to keep the document out of the public domain.",
+  "tags": [
+    "CIA",
+    "Richard Helms",
+    "Charles Spry",
+    "Australian Security Intelligence Organization",
+    "Warren Commission",
+    "Declassification",
+    "CD-971",
+    "FOIA"
+  ],
+  "title": "Letter Regarding Declassification of Warren Commission Document CD-971",
+  "date": "1968-11-26",
+  "persons_mentioned": [
+    "Richard Helms",
+    "Charles C. F. Spry",
+    "Amos Taylor, Jr."
+  ],
+  "recipient": "Sir Charles C. F. Spry",
+  "sender": "Richard Helms (Director of Central Intelligence Agency (CIA))"
+}

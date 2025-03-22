@@ -1,0 +1,34 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security": "Transmitting information regarding the use of a diplomatic pouch to send letters into Cuba could potentially compromise diplomatic channels or reveal sensitive methods of communication.",
+  "security_level": "SECRET",
+  "summary": "A dispatch from the Chief of Base, JHWAVE, to Chief, WRD, transmitting photostatic copies of letters sent to Lucas Moran, a representative of the Movimiento Democrata Cristiano in Cuba.",
+  "summary_one_paragraph": "On June 22, 1961, the Chief of Base at JHWAVE sent a dispatch, UFGA-1739, to Chief, WRD, concerning the transmittal of photostatic copies of two letters to Lucas Moran, a representative of the Movimiento Democrata Cristiano in Cuba. The letters, originally written by Jose Ignacio RASCO and Rafael AGUIRRE, discuss RASCO's connection with the HDC and were obtained by AMULLA-1, who arranged for their duplication before attempting to send the originals to Cuba via the diplomatic pouch of the Italian Embassy.",
+  "tags": [
+    "CIA",
+    "JHWAVE",
+    "Cuba",
+    "Movimiento Democrata Cristiano",
+    "Lucas Moran",
+    "Jose Ignacio RASCO",
+    "Rafael AGUIRRE",
+    "AMULLA-1",
+    "Diplomatic Pouch",
+    "Italian Embassy"
+  ],
+  "title": "Transmittal of Letters Sent to Movimiento Democrata Cristiano Representative in Cuba",
+  "date": "1961-06-22",
+  "locations_mentioned": [
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Lucas Moran",
+    "Jose Ignacio RASCO",
+    "Rafael AGUIRRE",
+    "AMULLA-1"
+  ],
+  "recipient": "Chief, WRD",
+  "sender": "Chief of Base, JHWAVE"
+}

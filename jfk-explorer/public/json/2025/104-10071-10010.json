@@ -1,0 +1,40 @@
+{
+  "classification": "Liaison",
+  "document_type": "Classified Message",
+  "security": "Disclosing that the CIA is requesting information about foreign citizens and activists, specifically to be shared with a foreign intelligence service, could damage relationships with those individuals and potentially compromise intelligence-sharing agreements with allies. Quoting: \"WE HAVE BEEN ADVISED BY THE (AUSTRALIAN SERVICE)...(THE AUSTRALIAN SERVICE) HAS ASKED FOR VERIFICATION...PLEASE PROVIDE ANY PERTINENT INFORMATION...FOR PASSAGE TO (THE AUSTRALIAN SERVICE)\"",
+  "security_level": "SECRET",
+  "summary": "The CIA is seeking information from the FBI regarding the intention of several individuals, including Pastor Martin Niemoller, Mrs. Nancy Rubin, Mrs. Coretta King, and Mr. Dick Gregory, to participate in the Australian Vietnam Moratorium Campaign.",
+  "summary_one_paragraph": "In April 1970, the CIA requested the FBI's assistance in verifying whether Pastor Martin Niemoller, Mrs. Nancy Rubin, Mrs. Coretta King, and Mr. Dick Gregory intended to participate in the Australian Vietnam Moratorium Campaign, based on advice from the Australian Service. The CIA sought confirmation of these individuals’ plans to share the information with the Australian Service. The message also noted the theme of 'corporate complicity' at the Fifth Stockholm Conference on Vietnam and planned actions against companies with military contracts.",
+  "tags": [
+    "CIA",
+    "FBI",
+    "Australian Service",
+    "Vietnam Moratorium Campaign",
+    "Martin Niemoller",
+    "Nancy Rubin",
+    "Coretta King",
+    "Dick Gregory",
+    "Stockholm Conference",
+    "Corporate Complicity"
+  ],
+  "title": "AUSTRALIAN VIETNAM MORATORIUM CAMPAIGN",
+  "date": "1970-04-18",
+  "locations_mentioned": [
+    "Australia",
+    "Stockholm",
+    "United States",
+    "West Germany"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Martin Niemoller",
+    "Nancy Rubin",
+    "Jerry Rubin",
+    "Coretta King",
+    "Dick Gregory",
+    "William Richard Leslie",
+    "Fred J."
+  ],
+  "recipient": "Director, Federal Bureau of Investigation",
+  "sender": "Director, Central Intelligence Agency"
+}

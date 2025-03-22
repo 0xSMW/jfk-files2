@@ -1,0 +1,50 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Disclosing surveillance capabilities (ROO) and information-sharing arrangements with Panamanian LEN (law enforcement) could compromise ongoing or future intelligence operations. Quoting directly: \"STA CAPABILITIES INCLUDE ROO (DIRECT CONTACT WITH UNILATERAL SURVEILLANCE CAPABILITY (LIMITED BY SIZE OF TEAM)\" and \"PLS ADVISE EXTENT TO WHICH OTTA-1503, 159, 1611 NAIES CAN BE: A. DISCLOSED TO PANAMANIAN LEN FOR TRAVEL WATCHLISTING.\"",
+  "security_level": "SECRET",
+  "summary": "A classified message from the Director to Panama City station providing traces on individuals mentioned in previous communications and discussing the extent to which information can be shared with Panamanian law enforcement for watchlist purposes.",
+  "summary_one_paragraph": "This secret message, sent from the Director to the Panama City station, references prior communications (DIR 13730 and OTTA 1639) and provides trace information on Roque Dalton Garcia, Rogelio Rodriguez, Julio Damas Vasquez (potentially Julio Damaso Vasquez), FNU Sosa (possibly Mario Sosa Navarro or Paslo Armando Sosa Ramirez), Alejandro Gomez Montano, and Ricardo Martinez. It details their reported activities, affiliations (including possible communist connections and involvement with Cuban G-2), and travel information. Furthermore, it seeks guidance on what information from OTTA-1503, 159, and 1611 can be disclosed to Panamanian LEN (law enforcement) for travel watchlist purposes and discussed with specific entities.",
+  "tags": [
+    "CIA",
+    "Panama",
+    "Cuba",
+    "Traces",
+    "Surveillance",
+    "Information Sharing",
+    "Watchlist",
+    "Communists"
+  ],
+  "title": "Classified Message regarding Traces and Information Sharing with Panama",
+  "date": "1965",
+  "locations_mentioned": [
+    "Panama City",
+    "Cuba",
+    "Sierra Morena",
+    "Portobello",
+    "Honduras",
+    "Guatemala",
+    "Mexico",
+    "La Ceiba",
+    "Kingston, Jamaica",
+    "Havana",
+    "Tegucigalpa",
+    "El Salvador",
+    "Santa Ana"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Roque Dalton Garcia",
+    "Rogelio Rodriguez",
+    "Julio Damas Vasquez",
+    "Julio Damaso Vasquez",
+    "FNU Sosa",
+    "Mario Sosa Navarro",
+    "Paslo Armando Sosa Ramirez",
+    "Alejandro Gomez Montano",
+    "Ricardo Martinez",
+    "Ricardo Augusto Martinez"
+  ],
+  "recipient": "Panama City",
+  "sender": "Director"
+}

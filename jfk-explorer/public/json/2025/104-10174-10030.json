@@ -1,0 +1,32 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum and Telegram",
+  "security": "Disclosing internal payment tracking methods could reveal operational details, though the memo itself lacks highly sensitive content.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memo and telegram regarding a payment to Edvard G. Tichborn, clarifying a delayed check issue and confirming deposit details after Tichborn inquired about the missing funds.",
+  "summary_one_paragraph": "This document consists of a memorandum and a telegram concerning a payment discrepancy involving Edvard G. Tichborn (P). The memorandum, dated May 10, 1960, details Evalena S. Vidal's investigation into Tichborn's claim that he had not received a $650.00 check from Ashmead, Hanniferd & Associates. Vidal contacted Mr. Thomas Strange, Cover Division, who confirmed the check had been cleared by Tichborn’s bank in California. Vidal then informed Tichborn, who indicated he would check with his bank. Accompanying this, a telegram from a person with the last name Lopez on May 5, 1960, to Henry Darkin requests a check on the missing payment.",
+  "tags": [
+    "Payment",
+    "Edvard G. Tichborn",
+    "Ashmead, Hanniferd & Associates",
+    "Evalena S. Vidal",
+    "Thomas Strange",
+    "Cover Division",
+    "Telegram",
+    "Check",
+    "California"
+  ],
+  "title": "Payment to Edvard G. Tichborn (P)",
+  "date": "1960-05-10",
+  "locations_mentioned": [
+    "California"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Edvard G. Tichborn",
+    "Evalena S. Vidal",
+    "Thomas Strange",
+    "Henry Darkin",
+    "Henry Lopez"
+  ]
+}

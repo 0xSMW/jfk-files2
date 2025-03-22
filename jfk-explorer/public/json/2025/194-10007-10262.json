@@ -1,0 +1,38 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Revealing the existence of a security clearance for a civilian employee or military personnel, the criteria for granting it (a background investigation by USAINTC), and the specific details of their service history, such as dates of assignment, expected time of separation (ETS), and primary military occupational specialty (MOS), could expose vulnerabilities in security protocols. Additionally, if the background investigation uncovers sensitive information about the individual's family (e.g. step-son details) this would be a privacy violation.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "An agent report details a 201 file check on Joachim F. Beer, step-son of Henry S. Beer, including personal information, military service details, and security clearance status.",
+  "summary_one_paragraph": "This confidential agent report, submitted on March 10, 1971, outlines a 201 file check conducted by the US Army Berlin Brigade on Joachim F. Beer, also known as Joachim Friedrich Eberhard Pehl, the step-son of Henry S. Beer. The report provides Joachim's date and place of birth, rank/grade, social security number, parents' information, marital status, place of duty within the US Army Berlin Brigade, and security clearance status. It also notes that Joachim was adopted by his step-father, Henry S. Beer, on May 6, 1965.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "DOD",
+    "Personnel Investigation",
+    "Henry S. Beer",
+    "Joachim F. Beer",
+    "Military Personnel",
+    "Security Clearance"
+  ],
+  "title": "Agent Report",
+  "date": "1971-03-10",
+  "locations_mentioned": [
+    "Berlin",
+    "Hannover",
+    "Vienna"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Henry S. Beer",
+    "Joachim F. Beer",
+    "Joachim Friedrich Eberhard Beer",
+    "Joachim Friedrich Eberhard Pehl",
+    "Erich Frits Pehl",
+    "Berta Charlotte Beer nee Thiel",
+    "Roswitha Beer, nee Ulerth",
+    "Randy L. Thompson"
+  ],
+  "recipient": "US Army",
+  "sender": "USA"
+}

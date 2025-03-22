@@ -1,0 +1,30 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Memorandum",
+  "security": "Providing specifications for modifications to weapons such as the 7.62 Belgium (FAL) Rifle, including adjustments to the rear sight and ammunition, reveals technical aspects of clandestine operations and weapon modifications. This sensitivity is highlighted by the limited testing time and the need for individual zeroing of each rifle. Sharing such information could lead to reverse engineering or compromise of operational methods: “It must be understood that the limited time available would not permit more that cursory acceptance testing and the superiority of this sight over the standard unit has not been definitely established.”",
+  "security_level": "SECRET",
+  "summary": "A memorandum from the CIA's TSD/Engineering Branch to C/WH/SA/MOB/PM provides improved sights and modified ammunition for the 7.62 Belgium (FAL) rifle, along with instructions for installation and zeroing, while noting that the requested scope and mount were not feasible within the given timeframe.",
+  "summary_one_paragraph": "This secret memorandum, dated June 24, 1964, from the CIA's TSD/Engineering Branch, details the provision of improved rear sight hoods, instructions, and modified ammunition for the 7.62 Belgium (FAL) rifle to C/WH/SA/MOB/PM. The memo notes that a requested scope and mount could not be developed due to time constraints and the necessity of extensive weapon modifications. It highlights that only cursory acceptance testing was possible, emphasizing that the superiority of the new sight over the standard unit was not conclusively established, and provides contact information for additional inquiries.",
+  "tags": [
+    "CIA",
+    "FAL Rifle",
+    "Weapon Modification",
+    "Engineering Branch",
+    "Improved Sight",
+    "Underloaded Ammunition",
+    "TSD",
+    "MOB",
+    "PM",
+    "Phantom Scopes"
+  ],
+  "title": "Improved Sight for 7.62 Belgium (FAL) Rifle",
+  "date": "1964-06-24",
+  "origin_agency": "CIA, TSD/Engineering Branch",
+  "persons_mentioned": [
+    "D.J. Hogan",
+    "D.R. Dunn",
+    "Walter L. Erhardt"
+  ],
+  "recipient": "C/WH/SA/MOB/PM",
+  "sender": "C/TSD/EB"
+}

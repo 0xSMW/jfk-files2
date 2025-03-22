@@ -1,0 +1,41 @@
+{
+  "classification": "Security",
+  "document_type": "Agent Report",
+  "security": "Revealing the specific units, locations, APO numbers, and telephone numbers of military detachments, as described by 'John,' poses a security risk. This could compromise military security by exposing sensitive information about unit deployments and communications. Quoting directly: 'John then listed every site the convoy had just come from. John identified the sites by unit designation, location, APO number, and telephone number of the orderly room. John was completely accurate in every detail.'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report details a security incident in Datteln, FRG, where a disc jockey named John accurately revealed sensitive military information to U.S. soldiers, raising concerns about potential counter-intelligence risks.",
+  "summary_one_paragraph": "On February 6, 1972, Special Agent Heinz E. Ickert submitted a report detailing an incident on February 3, 1972, where two U.S. military personnel, 1LT Raymond R. Leal and SP4 Ronald A. Margulies, were approached by a disc jockey named John at the Lord Nelson Bar in Datteln, Federal Republic of Germany. John demonstrated an alarming knowledge of the soldiers' unit designations, locations, APO numbers, telephone numbers, and convoy details, and revealed knowledge of intelligence agencies and military sites. John expressed pro-GDR sentiments and discussed espionage-related topics, leading the agents to believe he posed a potential counter-intelligence threat.",
+  "tags": [
+    "Counter-Intelligence",
+    "Security Breach",
+    "Military Intelligence",
+    "Agent Report",
+    "Datteln",
+    "FRG",
+    "Heinz E. Ickert",
+    "Lord Nelson Bar"
+  ],
+  "title": "Agent Report",
+  "date": "1972-02-06",
+  "locations_mentioned": [
+    "Datteln, FRG",
+    "Milsau, NCA, FRG",
+    "Westkirchen, FRG",
+    "Soest, FRG",
+    "Ramstein Air Force Base",
+    "Moscow, USSR",
+    "German Democratic Republic (GDR)",
+    "North Viet Nam",
+    "Brazil"
+  ],
+  "origin_agency": "CSF/INSCOM",
+  "persons_mentioned": [
+    "Hans D Kaminski",
+    "Raymond R. Leal",
+    "Ronald A. Margulies",
+    "1LT Wood",
+    "John",
+    "Heinz E. Ickert"
+  ],
+  "sender": "USA [RESTRICTED]"
+}

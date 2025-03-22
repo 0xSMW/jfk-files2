@@ -1,0 +1,39 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "The details of SPPLATE 1's mission, including contact procedures (kissing, code phrase) and logistical arrangements (funds, travel), could compromise an active operation. Revealing SPPLATE 1 as a possible 'bridge' for recruitment of Liang Szu Cheng and mentioning KUMARK contact exposes specific intelligence-gathering methods and potential assets, risking their safety. Stating 'SPPLATE 1 LONG FINE KUMARK CONTACT BUT IS FUR FURTHER CASE MAY BE OFFICER' reveals internal agent assessment.",
+  "security_level": "SECRET",
+  "summary": "A CIA dispatch outlines plans to use SPPLATE 1, operating under tourist cover, to contact Liang Szu Cheng in Mexico City and assess his potential for defection, providing background information on Liang's CCP membership and professional history.",
+  "summary_one_paragraph": "This SECRET-level CIA message, dated October 12, 1963, details a plan to use SPPLATE 1 to contact Liang Szu Cheng in Mexico City, under the guise of a tourist visit, to evaluate his interest in defecting from the CPR. The message provides extensive background on Liang, including his CCP membership, educational history, and professional affiliations, and instructs SPPLATE 1 to use a pre-arranged signal to confirm contact and seek assistance from a Marine guard at the embassy if needed. It also authorizes the Mexico City station to provide operational funds and per diem to SPPLATE 1, and highlights SPPLATE 1's past experience and potential as a recruiter, including KUMARK contact.",
+  "tags": [
+    "CIA",
+    "Defection",
+    "Liang Szu Cheng",
+    "Mexico City",
+    "SPPLATE 1",
+    "KUMARK",
+    "Recruitment",
+    "Counterintelligence",
+    "Warren Commission"
+  ],
+  "title": "Plans to Contact Liang Szu Cheng for Possible Defection",
+  "date": "1963-10-12",
+  "locations_mentioned": [
+    "Mexico City",
+    "China",
+    "Peking",
+    "Shanghai",
+    "Havana"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Liang Szu Cheng",
+    "SPPLATE 1",
+    "Lloyd George",
+    "Steve Kuhn",
+    "Mertz",
+    "J. Whitten"
+  ],
+  "recipient": "Mexico City",
+  "sender": "Director"
+}

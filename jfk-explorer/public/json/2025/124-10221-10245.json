@@ -1,0 +1,42 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Paper, Textual Document",
+  "security": "The document discusses the CIA's assessment of individuals potentially connected to Orlando Bosch, including their backgrounds and activities in Chile, some of whom opposed the Allende government. Disclosing these relationships and activities, as well as the CIA's involvement in monitoring them, could jeopardize intelligence sources and methods and damage relations with foreign governments. Classification upheld per agency request Brackets Pg1, Pg2, 3 Declassify on OADR Letter 1/25/18.",
+  "security_level": "Secret",
+  "summary": "An FBI document relays information provided by the Centro Nacional de Informaciones (CNI) in Chile, concerning contacts in Chile by Cuban exile leader Orlando Bosch Xavilla, along with CIA assessments of these individuals.",
+  "summary_one_paragraph": "This FBI document, dated October 11, 1977, from the Legal Attaché in Buenos Aires to the FBI Director, relays information from the Centro Nacional de Informaciones (CNI) regarding contacts in Chile associated with Cuban exile leader Orlando Bosch Xavilla. It includes CIA assessments from Santiago on individuals mentioned in a prior cable, such as Carlos Ashton Ugalde, Manuel Fuentes Wendling, and Jaime Rojas Brugues, as well as details on their backgrounds, affiliations, and activities. The document also mentions Bosch's re-entry into Chile using a false passport.",
+  "tags": [
+    "FBI",
+    "Orlando Bosch",
+    "Chile",
+    "CNI",
+    "CIA",
+    "Cuban Exile",
+    "Asylee",
+    "Passport"
+  ],
+  "title": "",
+  "date": "1977-10-11",
+  "locations_mentioned": [
+    "Buenos Aires",
+    "Chile",
+    "Santiago",
+    "Caracas",
+    "Cuba",
+    "Miami",
+    "Newark",
+    "New York"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Orlando Bosch Xavilla",
+    "Carlos Ashton Ugalde",
+    "Manuel Fuentes Wendling",
+    "Jaime Rojas Brugues",
+    "Jorge J. Davanzo Cintolesi",
+    "Hector Davanzo Cintolesi",
+    "Allende"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "LEG, BUE"
+}

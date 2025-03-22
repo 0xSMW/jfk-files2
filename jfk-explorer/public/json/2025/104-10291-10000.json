@@ -1,0 +1,18 @@
+{
+  "classification": "Personnel",
+  "document_type": "Form",
+  "security": "Revealing that the retirement processing for a covert employee is different from a standard Civil Service employee reveals the process for maintaining their cover.",
+  "security_level": "SECRET",
+  "summary": "A form detailing the cover control of retirement processing for a CIA employee, specifying whether their retirement should be overt or covert and how their finances and correspondence should be handled.",
+  "summary_one_paragraph": "This document outlines the specific procedures for processing the retirement of a CIA employee from the Cover & Commercial Staff. It details whether the retirement should be overt or covert, how annuity payments and tax documentation should be managed, and whether correspondence should be routed through the CCS. The form includes options for civil service or covert retention, lock-up special handling, and special instructions regarding insurance and internal fund transfers, ensuring the retiree's cover is maintained during and after the retirement process.",
+  "tags": [
+    "Retirement",
+    "Cover Control",
+    "Covert Operations",
+    "Personnel",
+    "CIA",
+    "Commercial Staff"
+  ],
+  "title": "Cover Control of Retirement Processing",
+  "recipient": "Retirement Operations Branch Office of Personnel"
+}

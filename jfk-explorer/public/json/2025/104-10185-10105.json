@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This material contains information affecting the National Defense of the United States within the meaning of the Espionage Laws, Title 18, U.S.C., Secs. 793 and 794, the transmission or revelation of which in any manner to an unauthorized person is prohibited by law.",
+  "security_level": "SECRET",
+  "summary": "This report details information on (fnu) RELOVA, a pseudonym for Wilberto, who is an officer of the Direccion General de Inteligencia (DGI) in Cuba, including his residence, travels, and background as an administrator.",
+  "summary_one_paragraph": "This SECRET report, dated September 1, 1964, compiles information on (fnu) RELOVA, a DGI officer in Cuba, also known as Wilberto; the report includes RELOVA's residence in Havana, details from an airline passenger manifest showing his travel from Mexico to Havana in July 1963, and information from a Jamaican source about his visit to Kingston in October 1963 as First Secretary of the Cuban Embassy in Canada for an inspection trip, noting his birth date and passport information. The report also contains information from 1961 provided by a former Cuban intelligence officer regarding RELOVA's past position as an administrator of Consolidated Hardware Stores and his attempts to recruit the source for an investigation.",
+  "tags": [
+    "Cuba",
+    "DGI",
+    "Intelligence",
+    "RELOVA",
+    "Wilberto",
+    "Counterintelligence"
+  ],
+  "title": "(fnu) RELOVA REPORT NO: CSCI-316/00704-64",
+  "date": "1964-09-01",
+  "locations_mentioned": [
+    "Cuba",
+    "Washington, D.C.",
+    "Mexico",
+    "Habana",
+    "Jamaica",
+    "Kingston",
+    "Canada",
+    "Toronto",
+    "Montreal"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "RELOVA",
+    "Wilberto",
+    "Osvaldo RELOVA Penichet",
+    "Jesus YANES Rodriguez",
+    "Alberta MENDUCA",
+    "BARRAL",
+    "MARX"
+  ]
+}

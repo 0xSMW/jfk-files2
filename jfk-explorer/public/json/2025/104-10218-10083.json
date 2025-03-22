@@ -1,0 +1,36 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "This message discusses potential recruitment and elicitation activities targeting a leftist, anti-American journalist who visited China, including a possible 'false flag recruitment'. It suggests querying him about carrying messages or money back from China. This information could compromise intelligence sources and methods if exposed. Quoting directly: 'IF HE ASSESSED UNWILLING COOPERATE ODYOKE, SUGGEST FALSE FLAG RECRUITMENT'.",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "A classified message from the Director to Mexico City and Guatemala City stations, requesting information on a leftist, anti-American journalist who visited China, to evaluate his potential for recruitment as an intelligence asset.",
+  "summary_one_paragraph": "This SECRET message, dated May 20, 1964, from the Director to the CIA stations in Mexico City and Guatemala City, concerns an exiled Guatemalan journalist described as leftist and anti-American, who recently visited China. The message instructs LINLUCK-1 and LICOOKY-1 to assess the journalist’s current political beliefs and the reasons for his China visit. The CIA is considering recruiting him to provide intelligence from China, possibly through a 'false flag' operation if necessary, and requests information about his itinerary, indoctrination, lectures, and conversations with Chinese leaders, focusing on China's stance on UN admission, Sino-Soviet relations, and support for Latin American communist parties, particularly in Guatemala.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "Guatemala City",
+    "China",
+    "Recruitment",
+    "False Flag",
+    "Intelligence Asset",
+    "LCHARVEST",
+    "Journalist",
+    "Anti-American"
+  ],
+  "title": "Information on Guatemalan Journalist's Visit to China",
+  "date": "1964-05-20",
+  "locations_mentioned": [
+    "Mexico City",
+    "Guatemala City",
+    "China"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Desmond Fitzgerald",
+    "William Colby",
+    "LINLUCK-1",
+    "LICOOKY-1"
+  ],
+  "recipient": "Mexico City Station, Guatemala City Station",
+  "sender": "Director"
+}

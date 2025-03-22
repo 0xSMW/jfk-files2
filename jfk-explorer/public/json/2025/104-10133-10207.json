@@ -1,0 +1,27 @@
+{
+  "classification": "JFK",
+  "document_type": "Paper, Textual Document",
+  "security": "This document contains internal position control register information for CIA Tokyo Station, including employee names, positions, grades, and employee numbers.  Disclosing such personnel information could compromise operational security and potentially endanger individuals. Directly quoting, 'POSITION CONTROL REGISTER...EMPLOYEE NUMBER...'.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a CIA JFK Assassination System Identification Form for a 152-page document concerning the JFK assassination, currently postponed in full due to restrictions 1A and 1B. It includes a transmittal slip regarding Tokyo Station Position Control Register pages for 1960-64, noting missing data for September and December 1963.",
+  "summary_one_paragraph": "The document is a JFK Assassination System Identification Form from the CIA, referencing record number 104-10133-10207, and describes a 152-page textual document related to the JFK assassination. Marked as UNCLASSIFIED but postponed in full due to restrictions, the document includes a transmittal slip discussing missing Tokyo Station Position Control Register pages from September and December 1963 and lists personnel-related data from the Tokyo station, such as positions, grades, and employee numbers, spanning from 1960 to 1964.",
+  "tags": [
+    "JFK Assassination",
+    "CIA",
+    "Position Control Register",
+    "Tokyo Station",
+    "Personnel Records",
+    "FOIA Postponement"
+  ],
+  "title": "WITHHELD",
+  "date": "1998-09-20",
+  "locations_mentioned": [
+    "Tokyo"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Jack Sullivan"
+  ],
+  "recipient": "Jack Sullivan",
+  "sender": "P. C/Statistical Rptg Br/OP"
+}

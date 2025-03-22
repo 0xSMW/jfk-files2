@@ -1,0 +1,25 @@
+{
+  "classification": "Personnel",
+  "document_type": "Personnel Action Request",
+  "security": "Revealing the retirement details of Balmes N. Hidalgo Jr., including his financial arrangements and waiver of sick and annual leave, could compromise his personal privacy. Sharing these details might lead to unauthorized access or misuse of his financial information. As quoted: “SUBJECT HAS SIGNED WAIVER FOR SICK AND ANNUAL LEAVE ACCUMULATING AFTER 28 FEBRUARY 1970.”",
+  "security_level": "SECRET",
+  "summary": "A request for personnel action regarding Balmes N. Hidalgo Jr.'s retirement from the CIA under the CIA Retirement Disability System, effective February 28, 1970.",
+  "summary_one_paragraph": "This document is a personnel action request, dated February 26, 1970, concerning Balmes N. Hidalgo Jr.'s retirement from the CIA's DDP/WH Branch 2, Panama Section, under the CIA Retirement Disability System, effective February 28, 1970. The request details his financial analysis number, position as an Ops Officer (GS-12, Step 5), and that Hidalgo has waived his rights to sick and annual leave accumulating after the specified date. It also notes the internal routing and approvals required for the action.",
+  "tags": [
+    "CIA",
+    "Personnel Action",
+    "Retirement",
+    "Disability",
+    "Balmes N. Hidalgo Jr.",
+    "Panama Section",
+    "FOIA"
+  ],
+  "title": "Request for Personnel Action",
+  "date": "1970-02-26",
+  "persons_mentioned": [
+    "Balmes N. Hidalgo Jr.",
+    "Henry La Berthold"
+  ],
+  "recipient": "Office of Personnel",
+  "sender": "Henry La Berthold, CANH/PERS"
+}

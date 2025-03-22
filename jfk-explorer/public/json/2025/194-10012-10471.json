@@ -1,0 +1,37 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "The document details personal information about Roman Davor Srecko Arnold, including his date and place of birth, citizenship, marital status, religious preference, family information, physical description, education, aptitude test scores, and military service history. Releasing this information could violate privacy and potentially put Arnold or his family at risk. Specifically, the report includes Arnold's SSAN (355 36 1583), which is restricted.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This agent report, dated October 5, 1967, details findings from a field 201 file check on Roman Davor Srecko Arnold, focusing on a possible sensitive desertion. The report includes Arnold's personal and military history extracted from his 201 file at Fort Hood, Texas.",
+  "summary_one_paragraph": "On October 5, 1967, Milton K. Durrett submitted an agent report detailing the findings of a field 201 file check on Roman Davor Srecko Arnold, a Specialist Four in the 49th Signal Platoon at Fort Hood, Texas, concerning a 'possible sensitive desertion.' The report, extracted from Arnold's 201 file, includes his personal details such as birth date (January 6, 1945, in Lindau Bodensee, Germany), citizenship (German), marital status (single), and religious preference (Roman Catholic). It also covers his military service history from October 1965 to the present, noting various assignments and promotions, as well as aptitude test scores and physical characteristics; the report highlights the absence of a DD Form 398 which limited the available information.",
+  "tags": [
+    "Agent Report",
+    "201 File",
+    "Roman Davor Srecko Arnold",
+    "Sensitive Desertion",
+    "Military Personnel",
+    "Fort Hood",
+    "INSCOM/CSF"
+  ],
+  "title": "Agent Report",
+  "date": "1967-10-05",
+  "locations_mentioned": [
+    "Lindau Bodensee, Germany",
+    "Wilmington, North Carolina",
+    "Des Plaines, Illinois",
+    "Fort Hood, Texas",
+    "Fort Knox, Kentucky",
+    "Fort Benning, Georgia",
+    "Fort Gordon, Georgia"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Vladimir Slovoda",
+    "Roman Davor Srecko Arnold",
+    "Milton K. Durrett",
+    "Alfons Arnold",
+    "Zdenka Kiketta"
+  ],
+  "sender": "DURRETT, MILTON K. [ R ]"
+}

@@ -1,0 +1,46 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security": "This document reveals intelligence-gathering methods and sources, specifically mentioning the involvement of a West German service in interrogating individuals and accessing bank records. Sharing this information could compromise the working relationship between the CIA and the West German service, as well as reveal intelligence sources and methods. For example, \"According to a report dated 23 March 1961 from an official West German service...SCHOTT was interrogated by the West German service on 21 November 1961 for possible intelligence involvement.\"",
+  "security_level": "Secret",
+  "summary": "A CIA memo to the Department of State provides information on Henryk Ignacy Janikowski, detailing his suspected involvement in black market currency exchange and potential connections to individuals of interest to intelligence agencies.",
+  "summary_one_paragraph": "In August 1963, the CIA sent a memo to the Department of State concerning Henryk Ignacy Janikowski, born in Poland in 1921. The memo details information obtained from a West German service regarding Janikowski's potential involvement in black market currency exchanges, facilitated through Erik Schott in Bremen, Germany. According to the report, Janikowski sent dollars obtained on the black market and from the Poznan Fair to Schott via an unknown Polish sailor, with these funds being deposited into Schott's account using checks from Eduardo Espinosa y Prieto, an employee of the Mexican Embassy in Warsaw. The memo also mentions that Schott was investigated for possible intelligence activities, and Janikowski was investigated in 1950 for having dollars in his house, although he was not sentenced.",
+  "tags": [
+    "CIA",
+    "DOS",
+    "Henryk Ignacy Janikowski",
+    "Erik Schott",
+    "Eduardo Espinosa y Prieto",
+    "Black Market",
+    "Currency Exchange",
+    "Intelligence Activities",
+    "West German Service",
+    "Poznan Fair"
+  ],
+  "title": "[Restricted]",
+  "date": "1963-08-16",
+  "locations_mentioned": [
+    "Wiele, Bydogoszcz, Poland",
+    "Bremen, Germany",
+    "Moscow, USSR",
+    "Mexico",
+    "Ginsterweg, Bremen Munthe, West Germany",
+    "Poland",
+    "Belgium",
+    "Poznan, Poland",
+    "United States",
+    "Gdansk, Poland",
+    "Warsaw, Poland",
+    "Zelzate, Belgium",
+    "Paris, France",
+    "Holland"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Henryk Ignacy Janikowski",
+    "Erik Schott",
+    "Eduardo Espinosa y Prieto"
+  ],
+  "recipient": "DOS",
+  "sender": "CIA"
+}

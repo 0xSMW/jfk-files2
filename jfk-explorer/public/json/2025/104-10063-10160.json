@@ -1,0 +1,41 @@
+{
+  "classification": "Operations",
+  "document_type": "Classified Message",
+  "security": "Revealing sources like LNERGO (confidential) and\nBKHERALD (sensitive asset) could compromise their\noperations. Also, details of BPP members' travels and\nliving arrangements could endanger individuals. Mentioning\n'ALLEGED EFFORTS O'NEAL TO SPREAD CONFUSION' might reveal\ncounterintelligence tactics.",
+  "security_level": "SECRET",
+  "summary": "This message relays information regarding George\nLorenzo Matthews' mistaken arrest, BPP member travels,\nand the whereabouts of James Joseph Patterson and Pete\nO'Neal; it seeks confirmation of travels outside Algiers.",
+  "summary_one_paragraph": "A classified message from CI/SO dated\nFebruary 6, 1973, disseminates intelligence concerning\nvarious individuals, including George Lorenzo Matthews'\nmistaken identity arrest in Tanzania, travel activities of\nBPP members Felix Lindsay O'Neal and William Holder,\nlocation reports on James Joseph Patterson in France with\nNathan Burns, and information from a BKHERALD asset about\nPete O'Neal's residence in Dar es Salaam. It requests\nconfirmation from the station in Algiers regarding the\ntravels of Wright and Holder, while also noting a possible\nattempt by O'Neal to spread disinformation.",
+  "tags": [
+    "CIA",
+    "BPP",
+    "Black Panther Party",
+    "Travel",
+    "Surveillance",
+    "Counterintelligence",
+    "LNERGO",
+    "BKHERALD"
+  ],
+  "title": "Travels and Locations of BPP Members",
+  "date": "1973-02-06",
+  "locations_mentioned": [
+    "Algiers",
+    "Tanzania",
+    "Dar es Salaam",
+    "Geneva",
+    "France"
+  ],
+  "origin_agency": "CIA (CI/SO)",
+  "persons_mentioned": [
+    "George Lorenzo Matthews",
+    "George Edward Wright",
+    "Felix Lindsay O'Neal",
+    "William Holder",
+    "James Joseph Patterson",
+    "Nathan Burns",
+    "Nathaniel Jerome Burns",
+    "Pete O'Neal",
+    "Larry Neil Mack"
+  ],
+  "recipient": "MHCURB, MHCHAOS",
+  "sender": "JLong; PG; JH; jah"
+}

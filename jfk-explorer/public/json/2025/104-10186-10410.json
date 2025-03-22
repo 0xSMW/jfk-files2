@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing the reluctance of the Salvadoran government to arrest individuals, along with the details of potential passive intelligence gathering, could compromise ongoing operations and damage relations with El Salvador. Quoting: '...inclined to doubt that he would follow through due fear of stirring up Salvadoran leftists...'",
+  "security_level": "SECRET",
+  "summary": "A classified message from the CIA's San Salvador station (SALY) discusses the approach to Cuban defector RIVERA, the presentation of the CALVELLA paper, and concerns about surfacing names of GAN trainees. It also provides recommendations regarding the deletion of a DGI statement and revisions to proposed actions involving the arrest of principals and the dissemination of information.",
+  "summary_one_paragraph": "This classified message from the CIA's San Salvador station, dated January 20, 1965, addresses several operational matters, including the approach to Cuban defector RIVERA and the potential surfacing of his information. It outlines concerns about revealing the names of GAN trainees due to possible repercussions with the Salvadoran government and the desire to use them for future intelligence gathering. Recommendations include revising a draft paper by deleting a DGI statement and modifying proposed actions related to arrests and information dissemination, with an emphasis on bolstering the government's case and gathering evidence.",
+  "tags": [
+    "CIA",
+    "Cuban Defector",
+    "GAN Trainees",
+    "Intelligence Gathering",
+    "El Salvador",
+    "DGI",
+    "Propaganda",
+    "HSSW-2195",
+    "SALY 5513"
+  ],
+  "title": "Classified Message Regarding Cuban Defector and GAN Trainees",
+  "date": "1965-01-20",
+  "locations_mentioned": [
+    "Cuba",
+    "El Salvador"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "RIVERA",
+    "DELADISE",
+    "CALVELLA"
+  ],
+  "recipient": "WHI, VR. FILE DIP, WIKAL, CAZ, CA/PROP, CI.CiloPS, C1/C2, Fi, FilINT, 8006",
+  "sender": "SALY"
+}

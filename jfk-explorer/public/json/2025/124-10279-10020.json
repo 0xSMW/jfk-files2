@@ -1,0 +1,35 @@
+{
+  "classification": "Mexico",
+  "document_type": "Intelligence Information Cable",
+  "security": "This material contains information affecting the National Defense of the United States within the meaning of the Espionage Laws, Title 18, U.S.C. Secs. 793 and 794, the transmission or revelation of which in any manner to an unauthorized person is prohibited by law.",
+  "security_level": "Confidential",
+  "summary": "An intelligence cable reports on the arrest of Federal Deputy Cesar Del Angel Fuentes in Mexico for agitational activities related to a clash between rival factions of copra growers in Acapulco.",
+  "summary_one_paragraph": "On August 30, 1967, the CIA issued an intelligence information cable detailing the arrest of Mexican Federal Deputy Cesar Del Angel Fuentes on August 28, 1967, by agents of the Ministry of Government (GOBERNACION). Fuentes was apprehended while leaving the home of Elena Garro de Paz, a leftist Mexican playwright, and is being interrogated regarding his role in the violent clash between rival factions of copra growers in Acapulco, Guerrero, which resulted in approximately thirty deaths and one hundred injuries; the incident and Fuentes' alleged involvement had been widely publicized in the Mexican press, with speculation arising about his potential arrest following the expiration of his congressional immunity on September 1, 1967.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Mexico",
+    "Political Matters",
+    "Cesar Del Angel Fuentes",
+    "Copra Growers Union",
+    "Acapulco",
+    "Agitational Activities",
+    "Arrest"
+  ],
+  "title": "Arrest of Federal Deputy Cesar Del Angel Fuentes for Agitational Activities in Guerrero",
+  "date": "1967-08-30",
+  "locations_mentioned": [
+    "Mexico",
+    "Mexico City",
+    "Veracruz",
+    "Acapulco",
+    "Guerrero"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Cesar Del Angel Fuentes",
+    "Elena Garro de Paz"
+  ],
+  "recipient": "STATE/INR NMCC/MC DIA SECDEF JCS ARMY NAVY AIR) CIA/NMCC NIC NSA OCR SDO AID USIA ONE ORR DCS CGS FBI",
+  "sender": "CIA"
+}

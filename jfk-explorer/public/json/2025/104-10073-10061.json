@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Information Report",
+  "security": "Revealing the methods by which the CIA gathers information on Cuban exiles in El Salvador and other Central American countries could jeopardize intelligence operations and compromise sources. The report was developed by \"An Army representative recognized to the office of preparation.\" and contains \"UNEVALUATED INFORMATION.\"",
+  "security_level": "CONFIDENTIAL",
+  "summary": "An information report details the political climate in El Salvador and the status of Cubans in that country, as reported by a special representative of the Cuban National Revolutionary Council.",
+  "summary_one_paragraph": "This Central Intelligence Agency information report, dated 28 June 1962, concerns the political situation in El Salvador and its Cuban population, as assessed by a special representative of the Cuban National Revolutionary Council (CNRC). The report includes a paper written on 2 May 1962, by Jose Julio Fernandez Gutierrez to Antonio de Varona providing a full report to the Revolutionary Council of Cuba regarding general conditions in El Salvador and specifically dealing with Cubans to that country. The source, identified as Dr. Jose Jose, relayed information collected during a trip to Central American countries on behalf of the CNRC.",
+  "tags": [
+    "CIA",
+    "El Salvador",
+    "Cuba",
+    "Cuban National Revolutionary Council",
+    "Intelligence Gathering",
+    "Exiles",
+    "CNRC",
+    "Jose Julio Fernandez Gutierrez",
+    "Antonio de Varona"
+  ],
+  "title": "Report de Craftticas of the Country",
+  "date": "1962-06-28",
+  "locations_mentioned": [
+    "El Salvador",
+    "Central America"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Jose Julio Fernandez Gutierrez",
+    "Antonio de Varona",
+    "Dr. Jose Jose"
+  ],
+  "recipient": "de Verona",
+  "sender": "Special Representative of the Cuban National Revolutionary Council"
+}

@@ -1,0 +1,36 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "Releasing the names of individuals requested for deposition or interview by the HSCA could potentially compromise their identities and any sensitive information they may possess. Disclosing specific dates for depositions or interviews could also provide insights into the timeline and focus of the HSCA investigation.",
+  "security_level": "SECRET",
+  "summary": "A memorandum detailing the House Select Committee on Assassinations' (HSCA) request for depositions and interviews of specific individuals within the CIA.",
+  "summary_one_paragraph": "This memorandum, dated June 1, 1978, outlines a request from the House Select Committee on Assassinations (HSCA) to the CIA for depositions and interviews of several individuals. The HSCA requests Hugh Tovar and William S. Donnelly for depositions on June 29, 1978, and Marguerite D. Stevens, Walter P. Haltigan, and Robert G. Lamprell for interviews. The request was presented verbally on June 1, 1978, and is formalized by the HSCA senior representative's signature.",
+  "tags": [
+    "HSCA",
+    "House Select Committee on Assassinations",
+    "Depositions",
+    "Interviews",
+    "CIA",
+    "OLC",
+    "Assassination Records Act"
+  ],
+  "title": "House Select Committee on Assassinations Request",
+  "date": "1978-06-01",
+  "persons_mentioned": [
+    "Hugh Tovar",
+    "William S. Donnelly",
+    "Thomas B. Casasin",
+    "Jacques Richardson",
+    "Marguerite D. Stevens",
+    "Walter P. Haltigan",
+    "James Lent",
+    "Robert G. Lamprell",
+    "Stim Sinclair",
+    "Rodger S. Gabrielson",
+    "Michael Goldsmith",
+    "Rininger",
+    "Shepanek"
+  ],
+  "recipient": "OLC/Subj",
+  "sender": "RODGER S. GABRIELSON, Michael Goldsmith (House Select Committee on Assassinations)"
+}

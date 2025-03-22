@@ -1,0 +1,39 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "Revealing that Jaffe reported on Communist Chinese to the CIA could jeopardize current or future intelligence operations and compromise relationships with assets. Quoting directly: \"CIA has informed us that they did have contacts with Jaffe while he was in Hong Kong and that he reported on Communist Chinese of interest to the Agency.\"",
+  "security_level": "SECRET",
+  "summary": "This memorandum discusses allegations that Samuel Adason Jaffe was recruited by the KGB and his subsequent interactions with the FBI and CIA, including concerns about his employment prospects and potential compromise.",
+  "summary_one_paragraph": "This secret memorandum addresses allegations concerning Samuel Adason Jaffe's purported recruitment by the KGB in 1962, his reporting of a recruitment effort to the New York FBI office in 1963, and subsequent re-interviews in 1969 regarding his associations with KGB officers in Moscow. While Soviet defectors provided conflicting information about Jaffe's cooperation with the KGB, both New York and Washington Field Offices suspected him of being a KGB agent during his time in Moscow, but doubted his continued role after expulsion. Jaffe's concerns about his FBI affiliation affecting his job prospects were addressed, and he also reported a British Intelligence contact suggesting his recall from Hong Kong was due to non-cooperation with the CIA, further complicating his situation. The memo recommends referral to the SENSTUDY project due to probable inquiries from SSCIO.",
+  "tags": [
+    "Samuel Adason Jaffe",
+    "KGB",
+    "FBI",
+    "CIA",
+    "Defector",
+    "Recruitment",
+    "SENSTUDY",
+    "SSCIO",
+    "Hong Kong",
+    "Soviet",
+    "British Intelligence"
+  ],
+  "title": "Samuel Adason Jaffe",
+  "date": "1962",
+  "locations_mentioned": [
+    "Moscow",
+    "New York",
+    "Washington",
+    "Hong Kong"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Samuel Adason Jaffe",
+    "W. R. Wannall",
+    "Sammy",
+    "Shamrock",
+    "Col. Penkovskiy"
+  ],
+  "recipient": "Mr. W. R. Wannall",
+  "sender": "FBI"
+}

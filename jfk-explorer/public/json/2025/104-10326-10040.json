@@ -1,0 +1,37 @@
+{
+  "classification": "Operations",
+  "document_type": "Station Activity Report",
+  "security": "This report contains operational details and intelligence-gathering activities, including liaison operations with foreign intelligence services, surveillance activities, and information on sensitive assets. Disclosing these details could compromise ongoing operations, expose sources and methods, and damage relationships with foreign partners. As mentioned '...they charged station had at least 15 officers in Belarus in the past six months \"conducting operational activity\" who were not declared by COS.'",
+  "security_level": "SECRET",
+  "summary": "The Minsk Station Activity Report for October 1996 details liaison operations, general operational support, HQS requirements/support, embassy-related activities, and administrative matters, including housing issues and embassy reconstruction.",
+  "summary_one_paragraph": "The Minsk Station Activity Report for October 1996 outlines various activities including liaison operations with JYVAPOROUS (BND), demarche received from DC/JYVAPOROUS regarding NVTAG pitch and surveillance on the Belarus CG in New York, support for JYVAPOROUS officers at BSNIC V, reporting on the referendum crisis in Belarus through JYPICKET, general operational support such as travel of a sensitive asset, responses to requests from Warsaw and Vienna, ground truth reporting during the referendum congress in Minsk, atmospheric cables to HQS on the referendum situation, NATO ambassadors scandal, and nuclear ICBM withdrawal, annual field program plan, six-month operational plan, research on several INTELS, and liaison record review board input and liaison exchange issues. Additionally, the report covers embassy-related requests for updates on SS-25 ICBM's and brokering contact for the JFK Assassination Records Review Board visit, guidance on brokering contact for an ambassadorial meeting, and administrative matters such as COS housing issues, embassy reconstruction, a medivac for COS' daughter, vehicle needs, coordination for the Regional Finance Officer's travel, and a COS conference.",
+  "tags": [
+    "Station Activity Report",
+    "Minsk",
+    "Belarus",
+    "Liaison Operations",
+    "Intelligence",
+    "Operational Support",
+    "Embassy",
+    "Administrative",
+    "JYVAPOROUS",
+    "RYBAT",
+    "GTDANCER",
+    "WNINTEL",
+    "JFK Assassination Records Review Board"
+  ],
+  "title": "Station Activity Report for October 1996",
+  "date": "1996-11-12",
+  "locations_mentioned": [
+    "Minsk",
+    "Belarus",
+    "New York",
+    "Vilnius",
+    "Warsaw",
+    "Vienna"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [],
+  "recipient": "Director",
+  "sender": "STAFF"
+}

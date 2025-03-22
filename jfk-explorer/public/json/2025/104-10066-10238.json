@@ -1,0 +1,26 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Telegram",
+  "security": "Revealing that the CIA sought to pass information to members of the House of Representatives Committee about the Vlaamse Militanten Orde, and that NIGALE was opposed to this, could damage relationships with sources and expose intelligence-gathering methods.",
+  "security_level": "SECRET",
+  "summary": "A secret telegram from Brussels relays that NIGALE declined to prepare a report on the Vlaamse Militanten Orde (VMO) for the House of Representatives Committee, citing a lack of information on VMO-American citizen contacts between 1968 and 1970.",
+  "summary_one_paragraph": "This SECRET telegram, sent from Brussels on May 19, 1978, indicates that NIGALE has refused a request to compile a report on the Vlaamse Militanten Orde (VMO) for the House of Representatives Committee. The message, citing reference BRUSSELS 51113, notes that NIGALE believes preparing such a report is 'inopportune' due to the absence of information concerning contacts between VMO members and American citizens during the period of 1968-1970. NIGALE also expressed opposition to sharing articles from their quarterly or semi-annual reports with the committee.",
+  "tags": [
+    "CIA",
+    "Vlaamse Militanten Orde",
+    "VMO",
+    "House of Representatives Committee",
+    "NIGALE",
+    "Belgium",
+    "EUR/BNL"
+  ],
+  "title": "VLAAMSE MILITANTENORDE",
+  "date": "1978-05-19",
+  "locations_mentioned": [
+    "Brussels",
+    "Washington"
+  ],
+  "origin_agency": "CIA",
+  "recipient": "Washington (EUR/BNL)",
+  "sender": "BRUS (Brussels, GOERLICH Acting)"
+}

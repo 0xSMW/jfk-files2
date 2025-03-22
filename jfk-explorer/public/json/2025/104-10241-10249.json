@@ -1,0 +1,30 @@
+{
+  "classification": "Security",
+  "document_type": "Request for Approval or Investigative Action",
+  "security": "Releasing details of a covert security approval process or the specific limitations requested in a security office investigation could expose intelligence sources and methods. Revealing the 'special area of use' or the investigative cover could compromise ongoing operations or individuals involved in those operations.",
+  "security_level": "SECRET",
+  "summary": "A request form for operational and security approval concerning Santiago ALTATA Fernándes under Project JYATE, specifying the area of use as Cuba and indicating various record checks and evaluations.",
+  "summary_one_paragraph": "This document is a request form, dated 2-775, submitted by Margaret Jose of the CI/CA, seeking provisional operational and covert security approval for Santiago ALTATA Fernándes under Project JYATE. The request specifies Cuba as the special area of use, indicates that Fernándes will be used as FW Trainee, includes inquiries about whether Fernándes would suspect U.S. government or CIA interest, and notes there are no special limitations requested for the security office investigation. The form also indicates that a Green List is attached and that no record derogatory information was found.",
+  "tags": [
+    "Operational Approval",
+    "Security Approval",
+    "Project JYATE",
+    "Cuba",
+    "FW Trainees",
+    "Santiago ALTATA Fernándes"
+  ],
+  "title": "Request for Approval or Investigative Action: Santiago ALTATA Fernándes",
+  "date": "1975-02-01",
+  "locations_mentioned": [
+    "Cuba"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Santiago ALTATA Fernándes",
+    "Margaret Jose",
+    "Joseph Ficcolo",
+    "L. Terle"
+  ],
+  "recipient": "CI/Operational Approval and Support Division, Security Support Division/Office of Security",
+  "sender": "Margaret Jose"
+}

@@ -1,0 +1,32 @@
+{
+  "classification": "Personnel",
+  "document_type": "Textual Document",
+  "security": "The document contains personal information about Epifanio Romero-Delgado, including his address, date and place of birth, and family details.  Releasing this information could violate his privacy. The document should be reviewed for PII.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a DD Form 398, Statement of Personal History, for Edifanio Romero-Delgado, completed on January 18, 1963. It details his background, including personal information, residences, organizational affiliations, and any incidents that might reflect on his loyalty to the United States.",
+  "summary_one_paragraph": "On January 18, 1963, Edifanio Romero-Delgado completed a DD Form 398, providing a comprehensive overview of his personal history. The form, detailing his birth information from Candelario, Cuba, to his current residence in Miami, Florida, also outlines his aliases, physical attributes, and citizenship status. Romero-Delgado noted his past affiliations with various Cuban organizations against Castro, as well as a brief imprisonment for political reasons, while affirming that he was not a member of any communist or fascist organizations. The document, signed by Romero-Delgado and witnessed, includes a certification of accuracy and is intended for official use in an investigation.",
+  "tags": [
+    "Statement of Personal History",
+    "DD Form 398",
+    "Epifanio Romero-Delgado",
+    "Cuba",
+    "Miami",
+    "Background Check"
+  ],
+  "title": "DD FORM 398 - STATEMENT OF PERSONAL HISTORY",
+  "date": "1963-01-18",
+  "persons_mentioned": [
+    "Edifanio Romero-Delgado",
+    "Felipe Romero",
+    "Sagunda Delgado",
+    "Ilda Martinez",
+    "Arturo Romero",
+    "Balerio Romero",
+    "Jose Manuel Romero",
+    "Aniceto Romero",
+    "Santiago Romero",
+    "Juan Noriega",
+    "Gustado Acosta"
+  ],
+  "sender": "Edifanio Romero-Delgado"
+}

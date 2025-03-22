@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Telegram",
+  "security": "Revealing the identities of sources like REBECA (ALBERT) and JUAN FRANCISCO HERNANDEZ, along with their reported observations of truck traffic, could expose them to harm or compromise future intelligence gathering. Also, the cable's specific mention of the Torrens surface-to-air missile assembly area, sourced from a 'usually reliable source,' could reveal sensitive intelligence on Cuban military capabilities.",
+  "security_level": "SECRET",
+  "summary": "A secret telegram reports observations of truck traffic and tube-like objects entering the Torrens base in Cuba between October 9 and November 7, 1963, based on information from a former Cuban government employee and a source in France.",
+  "summary_one_paragraph": "This secret telegram, dated December 12, 1963, from UMWAVE to the Director, relays information regarding truck traffic and the sighting of tube-like objects entering the Torrens base near Havana, Cuba. The report, based on observations between October 9 and November 7, 1963, from a former Cuban government employee, indicates that almost every night, trucks covered with canvas were seen traveling toward Torrens, and on two occasions, large trailer trucks entered the base. A source, identified as REBECA (ALBERT), whose uncle, JUAN FRANCISCO HERNANDEZ, reported that tube-like objects protruded from one of the trailers when the wind blew the tarpaulin aside. The field comment notes that the Torrens surface-to-air missile assembly area was active during this period.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Torrens Base",
+    "Truck Traffic",
+    "Surface-to-Air Missiles",
+    "REBECA (ALBERT)",
+    "JUAN FRANCISCO HERNANDEZ",
+    "UMWAVE",
+    "TDCS",
+    "HUMINT"
+  ],
+  "title": "Truck Traffic and Tube-Like Objects Seen Entering Torrens Base",
+  "date": "1963-12-12",
+  "locations_mentioned": [
+    "Cuba",
+    "Torrens",
+    "Wajay Highway",
+    "Havana",
+    "Miami",
+    "United States"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "REBECA (ALBERT)",
+    "JUAN FRANCISCO HERNANDEZ"
+  ],
+  "recipient": "Director",
+  "sender": "UMWAVE"
+}

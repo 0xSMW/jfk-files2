@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Disclosing the identity of a Cuban Target and the methods used to exploit them, as well as liaison with an intelligence service, could endanger the Cuban Target and compromise relationships with the liaison service. Quoting directly: 'HIGH RISK CIA CONTACT IN FUTURE HANDLING. IN VIEW OFFRES HAND GIVEN IN THESE OPS BY PRESIDENT AND SUCH DISCOVERY COULD DAMAGE CIA OFFICER 0 US. GOVT AND ALL RELATIONS.'",
+  "security_level": "SECRET",
+  "summary": "A classified message details a meeting with a Cuban target who provided information on PCES activities and his relations with other communist parties, including Moscow travel arrangements and internal dynamics, with concerns about entrapment and security.",
+  "summary_one_paragraph": "This classified message discusses a meeting with a Cuban target (Cuban Target) who provided information on the activities of the PCES (El Salvador Communist Party) and its relations with other communist parties. The meeting, held on September 27, included discussions on Moscow travel arrangements for SALVs, key members of the PCES Central Committee, party pseudonyms, guerrilla warfare training, and the party's organizational structure. The Cuban target expressed concerns about entrapment, remuneration, and security leaks, while indicating a willingness to continue participating in party activities. The message also references the disappearance of Roque Dalton and the efforts to exert pressure on the government regarding his situation.",
+  "tags": [
+    "CIA",
+    "Cuban Target",
+    "PCES",
+    "El Salvador Communist Party",
+    "Defector",
+    "Guerrilla Warfare",
+    "Roque Dalton",
+    "Intelligence Service",
+    "Salv 52968",
+    "Salv 5294",
+    "Hotel Safesite",
+    "Communist Activities"
+  ],
+  "title": "Meeting with Cuban Target Regarding PCES Activities",
+  "date": "1967-09-28",
+  "locations_mentioned": [
+    "Cuba",
+    "Moscow",
+    "San Salvador"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Cuban Target",
+    "Shafick Handal",
+    "Jorge Arias Gomez",
+    "Raul Castellanos Figueroa",
+    "Roque Dalton"
+  ],
+  "recipient": "DIR",
+  "sender": "CIAOFFICER"
+}

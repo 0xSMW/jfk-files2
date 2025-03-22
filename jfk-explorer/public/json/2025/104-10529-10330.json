@@ -1,0 +1,33 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "Disclosing the specific targets and methods of intelligence gathering can compromise ongoing operations and potentially expose individuals providing information.",
+  "security_level": "SECRET",
+  "summary": "A cable concerning SILENCE C and mentioning individuals Richard Walker and Lloyd George, as well as internal CIA staff, related to the KAPOK LCHARVEST operation in Mexico City.",
+  "summary_one_paragraph": "This SECRET cable, dated 12 October 1963, references the SILENCE C project and mentions the KAPOK LCHARVEST operation in Mexico City. The cable is addressed to RECIOR and includes distribution to various CIA departments (OOP, C/CI, C/FI, C/WH, D/OS, RF, VR). It also references individuals such as Richard Walker (Chairman, Department of International Relations, University of South Carolina) and FI Staff Lloyd George (by phone), along with Steve Ross (DO/PSD/OS) and Mr. Morris (CI Staff), indicating coordination and information sharing within the agency.",
+  "tags": [
+    "SILENCE C",
+    "KAPOK LCHARVEST",
+    "Mexico City",
+    "Richard Walker",
+    "Lloyd George",
+    "CIA",
+    "VR/CLOP",
+    "Immediate MEXI"
+  ],
+  "title": "SILENCE C 201-730731",
+  "date": "1963-10-12",
+  "locations_mentioned": [
+    "Mexico City",
+    "University of South Carolina"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Richard Walker",
+    "Lloyd George",
+    "Steve Ross",
+    "Mr. Morris"
+  ],
+  "recipient": "RECIOR",
+  "sender": "BRACK FRAG"
+}

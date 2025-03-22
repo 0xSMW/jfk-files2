@@ -1,0 +1,51 @@
+{
+  "classification": "Operations",
+  "document_type": "Dispatch and Memo Extracts",
+  "security": "Several dispatches detail aspects of the WIROGUE operation, including his recruitment, training, planned activities, and financial arrangements. Specific details, like the use of a letter drop in Sao Paulo and plans for a similar channel in Germany, are mentioned.  For instance, \"WIROGUE has received political recognition from the West German government and is fully documented in the name of Georg Frank Sanders.\" Revealing this level of detail on a covert operation could compromise sources, methods, and ongoing intelligence activities.",
+  "security_level": "SECRET",
+  "summary": "This collection of documents pertains to the WIROGUE operation, detailing the recruitment, training, operational plans, and administrative handling of agent WIROGUE/1, including financial and security concerns. It includes dispatches, memo extracts, and cross-references relating to WIROGUE's activities in Leopoldville and interactions with other agents and services.",
+  "summary_one_paragraph": "The set of documents covers various aspects of the CIA's WIROGUE operation, involving an agent (WIROGUE/1) recruited for REDSOX and later reassigned to the Africa Division for work in Leopoldville. The documents detail WIROGUE/1’s training, plastic surgery to alter his appearance, creation of Austrian documentation to conceal his past, and financial arrangements including a letter of credit and operational loan. The documents also reveal concerns about WIROGUE/1’s financial management and security practices, interactions with other agents like QJWIN, and administrative matters such as the transfer of documents and communication channels. References are made to related operations such as PBPRIME, CABEZONE, and CATIDE, and to locations including Europe, South America, and specifically Leopoldville, indicating a broad scope of activities and coordination.",
+  "tags": [
+    "CIA",
+    "WIROGUE",
+    "Leopoldville",
+    "REDSOX",
+    "PBPRIME",
+    "Covert Operation",
+    "Africa Division",
+    "Finance",
+    "Security",
+    "CATIDE",
+    "CABEZONE",
+    "KUBARK",
+    "RYBAT"
+  ],
+  "title": "Operational Details of WIROGUE/1",
+  "date": "1960-12-17",
+  "locations_mentioned": [
+    "Leopoldville",
+    "Alaska",
+    "Japan",
+    "South America",
+    "Germany",
+    "Europe",
+    "Austria",
+    "FBPRIME",
+    "Sao Paulo"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "WIROGUE/1",
+    "Heston",
+    "Guthman",
+    "QJWIN",
+    "HOFHUIS",
+    "Menuchin",
+    "CAVATA",
+    "Georg Frank Sanders",
+    "FUERST ZIZISCHWILLI",
+    "ALLAMETER-2"
+  ],
+  "recipient": "Director, Chief of Station (Germany), Chief, Africa Division",
+  "sender": "Chief of Station (Leopoldville), Chief of Station (Germany)"
+}

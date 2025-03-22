@@ -1,0 +1,41 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This message details a proposed sabotage operation against Cuban ships, including the potential use of explosives, and reveals the concerns and hesitations of recruited agents (AMLEGs) regarding the operation's scope and potential consequences. Directly quoting: 'If Castro govt suspects sabotage, likely he will attempt reprisals in similar kind against Western carriers.' and 'HE NOT VILLING TAKE ANY ACTION WHICH MIGHT CAUSE DEATH ANY CREW MEMBER.' Exposing these plans could jeopardize intelligence sources, compromise ongoing covert actions, and damage international relations, particularly with countries whose ports might be involved (Netherlands, Belgium, Germany). It also reveals the agents' disillusionment with CIA policy and reluctance to participate without assurance of a larger overthrow plan. The message also reveals concerns about potential repercussions, including sabotage against Western carriers and Cuban G-2 efforts to break the agent network.",
+  "security_level": "SECRET",
+  "summary": "A classified message outlines a proposed sabotage operation against Cuban ships, detailing concerns about potential repercussions, the reluctance of recruited agents, and the need for approval before proceeding with specific actions involving explosives.",
+  "summary_one_paragraph": "This secret message, dated April 22, 1963, discusses a proposed sabotage operation (referenced as REF) against Cuban ships, specifically the 'Havana' arriving in Rotterdam. The message relays concerns raised by agents (AMLEGs) about the operation’s scope, the potential for Cuban reprisals against Western carriers, and the lack of a clear overthrow plan. It details the reluctance of AMLEG 12 to participate without assurances of a broader action and the conditions under which AMLEG 29, an engineer, would collaborate, including the transfer of another engineer onto his ship. The message requests guidance and comments on the operation due to the unpredictable and serious consequences, highlighting the need to brief the Chief of Mission before engaging in the program. The C/S comment indicates that approval had been granted for sabotage of Cuban ships.",
+  "tags": [
+    "CIA",
+    "Sabotage",
+    "Cuban Ships",
+    "AMLEG",
+    "Covert Operations",
+    "Cuba",
+    "ODYOKE",
+    "Castro",
+    "Rotterdam",
+    "Explosives"
+  ],
+  "title": "Proposed Sabotage Operation Against Cuban Ships",
+  "date": "1963-04-22",
+  "locations_mentioned": [
+    "Cuba",
+    "Rotterdam",
+    "Netherlands",
+    "Belgium",
+    "Germany",
+    "Havana"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Castro",
+    "EDMENT",
+    "WARMBOLD",
+    "AMLEG 12",
+    "AMLEG 29",
+    "AMLEG 9"
+  ],
+  "recipient": "DDP, ADDP, C/SOD, C/CI, C/FI, C/TSD, C/EE, C/SAS, S/CI",
+  "sender": "HAND/FRAN"
+}

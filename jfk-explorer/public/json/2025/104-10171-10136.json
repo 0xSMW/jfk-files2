@@ -1,0 +1,32 @@
+{
+  "classification": "Administrative",
+  "document_type": "Process Sheet",
+  "security": "The document contains information about internal processing procedures for OOB (Order of Battle) reports, including routing, editing, and dissemination. Releasing this information could reveal internal workflows and organizational structures, potentially compromising operational effectiveness.",
+  "security_level": "CONFIDENTIAL/US OFFICIALS ONLY",
+  "summary": "This is a process sheet for OOB (Order of Battle) reports, detailing the routing, editing, and dissemination procedures within a field office and headquarters.",
+  "summary_one_paragraph": "This process sheet outlines the steps for handling OOB (Order of Battle) reports, originating from Field Office XX (report number 30789) on February 14, 1951, concerning political observations in Western Zones of Germany. The sheet includes sections for field office completion (contact information for David Martin of the International Rescue Committee, source CA 5564, editorial comments), and sections for headquarters use (receipt, OOB number assignment, release, requirement number, subject area categorization, and reasons for delays or non-dissemination). It specifies routing, editing, and subject area classifications, with notes on potential delays and reasons for non-dissemination.",
+  "tags": [
+    "OOB Reports",
+    "Process Sheet",
+    "Field Office",
+    "Headquarters",
+    "Political Observations",
+    "Germany",
+    "Western Zones",
+    "Routing",
+    "Dissemination",
+    "International Rescue Committee"
+  ],
+  "title": "PROCESS SHEET FOR OOB REPORTS",
+  "date": "1951-02-14",
+  "locations_mentioned": [
+    "Germany (Western Zones)",
+    "New York, NY"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "David Martin"
+  ],
+  "recipient": "Headquarters",
+  "sender": "Field Office XX"
+}

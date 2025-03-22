@@ -1,0 +1,29 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security": "Revealing that the subject threatened to disclose alleged contacts on the radio if promises were not honored could expose ongoing operations or sources. Quoting directly: \"...claimed he has radio IV time evening 6 March and will tell all about his alleged WOFIRM contacts unless he receives assurance that promises made by US officials will be honored.\"",
+  "security_level": "SECRET",
+  "summary": "A cable from Bern to the Director and Zurich, regarding a subject (likely MHORDER WOMUSE) who threatened to reveal alleged contacts on a radio broadcast unless certain promises from US officials were honored; the cable requests confirmation that the subject has no ties to WOFIRM or LN HARP.",
+  "summary_one_paragraph": "This cable, sent from Bern to the Director and Zurich in March 1969, concerns a subject, possibly identified as MHORDER WOMUSE, who contacted Zurich CG claiming to have radio time on the evening of March 6th. The subject threatened to disclose alleged WOFIRM contacts unless assurances were received that promises made by US officials would be kept. The cable emphasizes the improbability of these claims but requests priority confirmation that the subject had no actual ties to WOFIRM or other LN HARP activities. It references file 201-746537 and seeks a response.",
+  "tags": [
+    "CIA",
+    "WOFIRM",
+    "LN HARP",
+    "Threat",
+    "Radio Broadcast",
+    "Liaison",
+    "MHORDER WOMUSE"
+  ],
+  "title": "Subject Threatening Radio Disclosure",
+  "date": "1969-03-05",
+  "locations_mentioned": [
+    "Zurich",
+    "Bern"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "MHORDER WOMUSE"
+  ],
+  "recipient": "Director, Zurich",
+  "sender": "Bern"
+}

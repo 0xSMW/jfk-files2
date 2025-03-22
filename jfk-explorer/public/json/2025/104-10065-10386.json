@@ -1,0 +1,30 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Telepouch",
+  "security": "Disclosing NIGALE's involvement in intelligence gathering on extremist groups could compromise their operations and sources. Directly quoting, \"Would like to both honor committee request and preserve relationship with NIGALE if possible.\"",
+  "security_level": "SECRET",
+  "summary": "A CIA telepouch discusses a request from the House Select Committee on Assassinations (HSCA) for information on the Flemish Order of Militants (VMO) in connection with the Martin Luther King, Jr. assassination investigation, and seeks guidance on how to respond to the HSCA request while preserving the relationship with NIGALE, an intelligence source.",
+  "summary_one_paragraph": "This SECRET telepouch, dated April 27, 1978, outlines a request from the House Select Committee on Assassinations (HSCA) for information pertaining to the Flemish Order of Militants (VMO) as part of their investigation into the death of Martin Luther King, Jr. The CIA is seeking to balance honoring the HSCA request with maintaining a confidential relationship with NIGALE, an intelligence entity that may possess relevant information on the VMO. The message requests that the Brussels station inquire with NIGALE about any contacts between the VMO and Americans during 1968-1970, their willingness to prepare a report for the committee, and permission to share VMO excerpts from semi-annual reviews, sourced or unsourced.",
+  "tags": [
+    "HSCA",
+    "Martin Luther King Jr.",
+    "Assassination",
+    "Flemish Order of Militants",
+    "VMO",
+    "NIGALE",
+    "Intelligence",
+    "Liaison"
+  ],
+  "title": "WNINTEL NIFLAIR NIGALE FLEMISH ORDER OF MILITANTS",
+  "date": "1978-04-27",
+  "locations_mentioned": [
+    "Brussels",
+    "Europe"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Martin Luther King, Jr."
+  ],
+  "recipient": "Brussels",
+  "sender": "E/BNL"
+}

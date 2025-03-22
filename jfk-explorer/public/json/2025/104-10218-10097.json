@@ -1,0 +1,34 @@
+{
+  "classification": "John F. Kennedy Assassination Records Act of 1992",
+  "document_type": "Classified Message",
+  "security": "The document details the tracking, arrest, and expulsion of an individual, ANUPAS-1, including the seizure of his passport and the dissemination of this information to the press. This could potentially compromise intelligence sources and methods, as well as damage relationships with foreign governments if they perceive the actions as overreach or interference.",
+  "security_level": "SECRET",
+  "summary": "A classified message from Guatemala City reports on the arrest and expulsion of ANUPAS-1, who attempted to enter Guatemala, possessed multiple U.S. passports, and was found with Coxie propaganda.",
+  "summary_one_paragraph": "This secret message from the CIA station in Guatemala City details the actions taken against ANUPAS-1 after he attempted to enter Guatemala. Upon being denied entry for lacking a tourist card, ANUPAS-1 created a disturbance and was later found staying at the residence of Rodrigo Asturias Amado. He was arrested by the Guardia Judicial, found to be carrying two U.S. passports, and was expelled from Guatemala on November 8 for transporting Coxie propaganda; the expulsion and arrest received prominent press coverage.",
+  "tags": [
+    "CIA",
+    "Guatemala",
+    "ANUPAS-1",
+    "Expulsion",
+    "Passports",
+    "Coxie Propaganda",
+    "Rodrigo Asturias Amado",
+    "Guardia Judicial"
+  ],
+  "title": "ANUPAS-1 Incident in Guatemala",
+  "date": "1961-11-09",
+  "locations_mentioned": [
+    "Guatemala City",
+    "Guatemala",
+    "Mexico",
+    "Tapachula"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "ANUPAS-1",
+    "Rodrigo Asturias Amado",
+    "Colonel Honzon"
+  ],
+  "recipient": "Director",
+  "sender": "Guatemala City"
+}

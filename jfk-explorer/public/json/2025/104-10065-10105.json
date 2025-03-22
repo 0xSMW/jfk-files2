@@ -1,0 +1,30 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security": "Disclosing the existence of a working agreement between the CIA and the House Select Committee on Assassinations (HSCA), and the specific stipulations regarding notification of contact with current or former staff, could expose the CIA's coordination efforts and compromise the integrity of its interactions with investigative bodies. The instruction to restrict comments to work performed in a cover capacity could also reveal operational methods and undermine cover identities.",
+  "security_level": "SECRET",
+  "summary": "A cable outlines procedures for CIA personnel in Guayaquil, Quito, and Caracas regarding potential contact from the House Select Committee on Assassinations (HSCA) investigators, emphasizing the need to restrict comments to cover activities.",
+  "summary_one_paragraph": "This SECRET cable, originating from the Director and sent to Guayaquil with informational copies to Quito and Caracas, addresses potential interactions with House Select Committee on Assassinations (HSCA) investigators. It references a working agreement that requires HSCA investigators to notify the CIA (HQS) of planned contacts with current or former CIA staff. The cable advises personnel to assume no contact is planned if notification is absent and, should contact occur, to limit their comments to work done under their cover capacity, citing E2.IMPDET.",
+  "tags": [
+    "HSCA",
+    "House Select Committee on Assassinations",
+    "Liaison",
+    "Covert Operations",
+    "Security Protocol",
+    "JFK",
+    "Assassination",
+    "Guayaquil",
+    "Quito",
+    "Caracas"
+  ],
+  "title": "Instructions Regarding Contact with House Select Committee on Assassinations (HSCA) Investigators",
+  "date": "1978-05-24",
+  "locations_mentioned": [
+    "Guayaquil",
+    "Quito",
+    "Caracas"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "recipient": "Guayaquil, Quito, Caracas",
+  "sender": "Director"
+}

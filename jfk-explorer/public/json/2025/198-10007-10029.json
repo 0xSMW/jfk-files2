@@ -1,0 +1,22 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Paper, Textual Document",
+  "security": "This document outlines CIA strategies for covert psychological warfare, including penetrating foreign broadcasting systems, jamming evasion techniques, and electronic intrusion into enemy broadcasts. Disclosing these methods could allow adversaries to counter U.S. propaganda efforts and compromise ongoing operations. Quoting directly, the document discusses 'penetration of indigenous broadcasting systems,' 'jamming evasion through the device of varying the frequency,' and 'intrusion, or side-band injection' into enemy broadcasts.",
+  "security_level": "Secret",
+  "summary": "This document details a 1953 CIA report on the use of radio broadcasting as a tool in the Cold War, outlining strategies for penetrating foreign broadcasting systems, evading jamming, and influencing public opinion through covert operations.",
+  "summary_one_paragraph": "Authored by C. Tracy Barnes and C. Lloyd Egner in 1953, this document presents a comprehensive report on the CIA’s utilization of radio broadcasting as a weapon during the Cold War. It assesses the balance of radio warfare between the Communist bloc and the Free World, detailing the CIA's capabilities, primary targets, and challenges inherent in covert broadcasting. The report recommends exploiting indigenous radio systems in friendly nations, recruiting qualified personnel, streamlining information support, and developing electronic intrusion capabilities to counter Communist propaganda effectively, emphasizing the need for absolute agency control and compartmentalization of broadcasting operations.",
+  "tags": [
+    "Radio Broadcasting",
+    "CIA",
+    "Cold War",
+    "Psychological Warfare",
+    "Covert Operations",
+    "Propaganda",
+    "Jamming Evasion",
+    "Electronic Intrusion"
+  ],
+  "title": "Report On The Cold War Use of Radio Broadcasting by CIA",
+  "date": "1953-06-25",
+  "origin_agency": "CIA",
+  "sender": "C. Tracy Barnes"
+}

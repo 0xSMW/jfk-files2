@@ -1,0 +1,28 @@
+{
+  "classification": "Security",
+  "document_type": "Cable",
+  "security": "This cable discusses threats made by a person, possibly a defector, to expose the US government on radio, television and in the press. This information could potentially damage the reputation and security of the US government and its operations. The cable does not specify the nature of the exposure or the context of the threats, but the potential for public disclosure of classified information or sensitive operations exists. Specifically, “NAGELL...STATED THAT IF HE RECEIVED NO SATISFACTION BY FIVE O'CLOCK THAT AFTERNOON HE WOULD CARRY OUR HIS THREATS AND EXPOSE US GOVERNMENT ON RADIO, TELEVISION AND IN THE PRESS.”",
+  "security_level": "SECRET",
+  "summary": "A cable reports that a person, likely Nagell, threatened to expose the US government via media if his demands were not met, and later made similar threats at the US Consulate in Barcelona after disappearing from Zurich.",
+  "summary_one_paragraph": "This secret cable from Zurich, dated March 15, 1969, reports that an individual, likely Nagell, visited the Zurich consulate on March 7 and threatened to expose the U.S. government on radio, television, and in the press if his demands were not met by 5 PM that day. After disappearing without further contact or publicity, the U.S. Consulate in Barcelona informed Zurich that Nagell had made similar threats there. The file associated with this incident is 201-746537.",
+  "tags": [
+    "Nagell",
+    "Defector",
+    "Exposure Threat",
+    "Zurich",
+    "Barcelona",
+    "US Government",
+    "Security Threat"
+  ],
+  "title": "Nagell's Threats to Expose US Government",
+  "date": "1969-03-15",
+  "locations_mentioned": [
+    "Zurich",
+    "Barcelona"
+  ],
+  "persons_mentioned": [
+    "Nagell"
+  ],
+  "recipient": "Director",
+  "sender": "Zurich"
+}

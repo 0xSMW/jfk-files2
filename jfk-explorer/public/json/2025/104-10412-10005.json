@@ -1,0 +1,30 @@
+{
+  "classification": "Soviet",
+  "document_type": "Outgoing Message",
+  "security": "Disclosing the GRU officer's assignment to the Third Anglo-American Directorate and attendance at the Military Diplomatic Academy could reveal intelligence priorities and sources.",
+  "security_level": "SECRET",
+  "summary": "An outgoing message from the CIA requesting a trace on Vladimir P/CR/V Kuznetsov, who may be identical to Vladimir Sergeyevich Kuznetsov, a GRU staff officer assigned to the Third Anglo-American Directorate.",
+  "summary_one_paragraph": "This SECRET outgoing message, dated September 13, 1976, from the CIA's SE/BIO division to Brussels, requests a trace on Vladimir P/CR/V Kuznetsov, potentially the same individual as Vladimir Sergeyevich Kuznetsov, a GRU staff officer. According to PDSTORAGE, Kuznetsov held the rank of Engineer-Major and was assigned to the Third Anglo-American Directorate at GRU Headquarters in Moscow, having attended the Military Diplomatic Academy in 1967. The message clarifies that this Kuznetsov is not the same as Vladimir Sergeyevich Kuznetsov who served as a counselor at the Soviet Embassy in Jakarta from 1972 to 1975. The memo requests retracing the subject and adding pertinent biographical data, with file references 201-0943610 and 201-0900259.",
+  "tags": [
+    "CIA",
+    "GRU",
+    "Kuznetsov",
+    "Trace Request",
+    "Soviet Intelligence",
+    "WNINTEL",
+    "Counterintelligence"
+  ],
+  "title": "WNINTEL CKTOP (PDGRAVE WIGALE) TRACE ON VLADIMIRP/CR/V KUZNETSOV",
+  "date": "1976-09-13",
+  "locations_mentioned": [
+    "Moscow",
+    "Jakarta"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Vladimir P/CR/V Kuznetsov",
+    "Vladimir Sergeyevich Kuznetsov"
+  ],
+  "recipient": "Brussels",
+  "sender": "SE/BIO"
+}

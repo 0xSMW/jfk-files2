@@ -1,0 +1,30 @@
+{
+  "classification": "Personnel",
+  "document_type": "Office Memorandum",
+  "security": "Revealing the true employment and assignment of John F. Rittenhouse may expose him and his activities in Mexico City. Quoting directly: \"The subject is to be assigned to Mexico City as a GS-13, Intelligence Officer under Department of State Deep Cover.\"",
+  "security_level": "SECRET",
+  "summary": "A memo requesting concurrence to change John F. Rittenhouse's status from OPC Staff Employee to OPC Staff Agent and assign him to Mexico City as a GS-13 Intelligence Officer under State Department deep cover.",
+  "summary_one_paragraph": "This SECRET memorandum, dated November 28, 1950, from the Chief of the Overseas Branch to the Chief of the Special Security Branch (Attn: Mr. George P. Loker, Jr.), requests approval to convert John F. Rittenhouse's employment status from an OPC Staff Employee to an OPC Staff Agent. The memo details that Rittenhouse is to be assigned to Mexico City as a GS-13 Intelligence Officer operating under deep cover via the Department of State. Further, it requests that the appropriate certification is sent to Mr. Ashey's office in the Department of State.",
+  "tags": [
+    "OPC",
+    "Staff Agent",
+    "Deep Cover",
+    "Mexico City",
+    "John F. Rittenhouse",
+    "State Department"
+  ],
+  "title": "John F. Rittenhouse (Pseudo - OPC)",
+  "date": "1950-11-28",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "Overseas Branch",
+  "persons_mentioned": [
+    "John F. Rittenhouse",
+    "George P. Loker, Jr.",
+    "Joseph S. Reff",
+    "Mr. Ashey"
+  ],
+  "recipient": "Chief, Special Security Branch",
+  "sender": "Chief, Overseas Branch"
+}

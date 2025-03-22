@@ -1,0 +1,36 @@
+{
+  "classification": "Soviet",
+  "document_type": "Cable",
+  "security": "Reporting on Vernon Mitchell, a former NSA defector, could compromise his safety and reveal the CIA's interest in him. Directly quoting: 'Individual cited above undoubtedly Vernon Mitchell, who former NSA defector married to Galina Yakovleva...Mitchell reportedly resident in Leningrad.'",
+  "security_level": "SECRET",
+  "summary": "A cable from Leningrad reports that Vernon Mitchell, a former NSA defector, may be seeking to emigrate to Canada and expresses interest in alerting the Consul General about this information.",
+  "summary_one_paragraph": "This SECRET cable from Leningrad, dated December 29, 1975, discusses information received from Smol'skiy regarding Vernon Mitchell, a former NSA defector residing in Leningrad with his Soviet wife, Galina Yakovleva. Smol'skiy reported to Mrs. Tempsford that Mitchell, who previously worked on \"broadcasting codes,\" desires to leave the USSR and may be considering emigration to Canada, although he is being discouraged by Soviet friends due to fears of being arrested by \"American secret police.\" The cable seeks guidance on whether to inform the Consul General and report through State channels, noting Mitchell has not approached the Consulate directly.",
+  "tags": [
+    "CIA",
+    "NSA defector",
+    "Vernon Mitchell",
+    "Leningrad",
+    "Emigration",
+    "Soviet Union",
+    "Smol'skiy",
+    "Tempsford"
+  ],
+  "title": "Report on Vernon Mitchell's potential emigration from the USSR",
+  "date": "1975-12-29",
+  "locations_mentioned": [
+    "USSR",
+    "Leningrad",
+    "Canada",
+    "Boston"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Vernon Mitchell",
+    "Galina Yakovleva",
+    "Smol'skiy",
+    "Mrs. Tempsford",
+    "Costille"
+  ],
+  "recipient": "Headquarters (Info Moscow)",
+  "sender": "Leningrad"
+}

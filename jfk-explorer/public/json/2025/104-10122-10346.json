@@ -1,0 +1,43 @@
+{
+  "classification": "Security",
+  "document_type": "Official Routing Slip/Memorandum",
+  "security": "The document details sensitive operational projects (HARPSTAR and NORFOLK) involving the exploitation of individuals and the use of cover arrangements. Disclosing these projects could expose methods, compromise relationships with sources, and damage the Agency's reputation. For example: \"Project capitalized on President Sukarno's weakness for women...\" and \"...it was requested that appropriate arrangements be made through a controlled source of the Office of Security, in order to insure a satisfied visit.\"",
+  "security_level": "SECRET",
+  "summary": "This document summarizes two CIA projects: HARPSTAR, which involved using a female asset to influence President Sukarno, and NORFOLK, which provided female companionship and support services to King Hussein during his visit to the U.S.",
+  "summary_one_paragraph": "This collection of memoranda, dated from 1958-1966, outlines two sensitive CIA projects: HARPSTAR and NORFOLK. Project HARPSTAR details an operation to use a female asset to influence President Sukarno of Indonesia, capitalizing on his alleged weakness for Caucasian women; Robert Maheu was contracted to find a suitable candidate, using a cover story involving a film survey. Project NORFOLK describes providing support services, including female companionship arranged through Robert Maheu, to King Hussein of Jordan during his U.S. visit in 1959; the Office of Security facilitated meetings and communications between King Hussein and a female acquaintance.",
+  "tags": [
+    "CIA",
+    "HARPSTAR",
+    "NORFOLK",
+    "Robert Maheu",
+    "Sukarno",
+    "King Hussein",
+    "Operations",
+    "Security",
+    "Female Asset",
+    "Covert Operations"
+  ],
+  "title": "Project HARPSTAR and Project NORFOLK Summaries",
+  "locations_mentioned": [
+    "Indonesia",
+    "Los Angeles",
+    "New York City",
+    "Long Beach, Long Island",
+    "Jordan"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Robert Maheu",
+    "Sukarno",
+    "King Hussein",
+    "Joseph Smith",
+    "Hugh Tovar",
+    "Norman Paul",
+    "Fred LaTrash",
+    "William Arms",
+    "Helms",
+    "Houston"
+  ],
+  "recipient": "DDS",
+  "sender": "Director of Security (CIA Office of Security, 6/20/66)"
+}

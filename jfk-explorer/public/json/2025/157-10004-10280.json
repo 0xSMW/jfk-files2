@@ -1,0 +1,26 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "Disclosing the information within this cable could compromise sources and methods. Specifically, revealing the existence of a CIA source who provided the information, along with the details of Maheu's alleged activities (procuring prostitutes and wiretapping), could damage ongoing intelligence operations and expose sensitive relationships with foreign leaders and U.S. government agencies. The reference to 'tacit approval' from the State Department and the FBI could also damage interagency relations. Sharing these assertions could harm U.S. relations and expose internal U.S. government disagreements. For example, direct quotes that are revealing, '...Maheu violated Mann Act in procuring and transporting prostitutes for a foreign leader during state visit U. S. 1956, that this done with tacit approval State' and 'Maheu with wire tapping OPS against Onassis Shipping Co in 55, that this done with tacit approval U. S. Government and known to CIA, State and FBI'.",
+  "security_level": "SECRET",
+  "summary": "A CIA cable reports allegations that Robert Maheu violated the Mann Act by procuring prostitutes for a foreign leader during a state visit in 1956, and that he conducted wiretapping operations against Onassis Shipping Co. with the tacit approval of the U.S. government.",
+  "summary_one_paragraph": "On October 10, 1957, a CIA cable was sent to the Director of the CIA, reporting that a CIA source urgently provided two documents alleging that Robert M. Maheu violated the Mann Act by procuring and transporting prostitutes for a foreign leader during a 1956 state visit to the U.S., purportedly with the tacit approval of the State Department. The documents also accuse Maheu of conducting wiretapping operations against Onassis Shipping Co. in 1955, allegedly with the tacit approval of the U.S. government and with the knowledge of the CIA, State Department, and FBI. The source of these documents is believed to be John Joseph Frank, a former associate of Maheu, and the objective may be to blackmail the U.S. government or undermine the Frank Trial.",
+  "tags": [
+    "Maheu, Robert",
+    "Robert A. Maheu and Associates (RAMA)",
+    "Prostitutes",
+    "Foreign Leaders",
+    "Mann Act",
+    "Wiretapping",
+    "Onassis Shipping Co.",
+    "John Joseph Frank",
+    "Blackmail",
+    "State Department",
+    "FBI"
+  ],
+  "title": "Robert Maheu's Transportation of Prostitutes",
+  "date": "1957-10-10",
+  "origin_agency": "CIA",
+  "recipient": "Director, CIA",
+  "sender": "CIA source"
+}

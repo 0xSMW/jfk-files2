@@ -1,0 +1,34 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Telegram Information Report",
+  "security": "Revealing that the U.S. Embassy received a proposal from rebel officers seeking to overthrow the Diem government could be viewed as interference in the internal affairs of South Vietnam and compromise diplomatic relations. Mentioning planned release from custody approved by Prince Sihanouk: \"Competent Cambodian authorities' were planning to release his group from custody by the end of January. He said Prince Sihanouk had approved...\"",
+  "security_level": "CONFIDENTIAL",
+  "summary": "South Vietnamese rebel officers in Phnom Penh appealed to President Kennedy, presenting a proposal via the U.S. Embassy criticizing the Diem government and requesting U.S. support to replace it.",
+  "summary_one_paragraph": "On January 20, 1962, Major Pham Van Lieu, representing South Vietnamese rebel officers under protective custody in Phnom Penh, delivered a proposal to the U.S. Embassy addressed to President Kennedy, along with a letter to Ambassador Trimble. The proposal, signed by Colonel Nguyen Chanh Thai and others, detailed complaints against the Diem government's methods in combating Vietnamese Communists and suggested President Kennedy reassess U.S. policy towards Diem, advocating for his replacement with a government representative of the South Vietnamese people; the Cambodian authorities were planning to release this group, with Prince Sihanouk's approval.",
+  "tags": [
+    "CIA",
+    "South Vietnam",
+    "Cambodia",
+    "Diem Government",
+    "Kennedy",
+    "Rebel Officers",
+    "Phnom Penh"
+  ],
+  "title": "Information Report Re: Appeal to President Kennedy",
+  "date": "1962-01-24",
+  "locations_mentioned": [
+    "Cambodia",
+    "Phnom Penh",
+    "South Vietnam"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "President Kennedy",
+    "Major Pham Van Lieu",
+    "Colonel Nguyen Chanh Thai",
+    "Diem",
+    "Ambassador Trimble",
+    "Prince Sihanouk"
+  ],
+  "recipient": "State, Army, CINCPAC, PACFLT, ARPAC, PACAF"
+}

@@ -1,0 +1,30 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security": "Maintaining a separate control file for information from James Angleton is no longer necessary because the information is already filed in individual or organizational case files. 'There has been little or no occasion to use the control file, and its usefulness at this point can be characterized as being obsolete.'",
+  "security_level": "Secret",
+  "summary": "FBI memo from D.J. Brennan to W.C. Sullivan recommending the discontinuation of a separate control file for information received from James Angleton of the CIA, as the information is already recorded in separate case files and its usefulness is obsolete.",
+  "summary_one_paragraph": "In a memorandum dated January 13, 1967, FBI agent D.J. Brennan, Jr. informs W.C. Sullivan that the separate control file (62-99724) created in 1953 for retaining copies of memoranda from James Angleton, Chief Counterintelligence Staff at the CIA, is no longer necessary. The memo explains that the control file was established to monitor Angleton's liaison with the FBI on matters not reported through normal CIA channels, including intelligence projects with the Israeli Intelligence Service, but since the information disseminated by Angleton is already filed in individual or organizational case files, the control file has become obsolete, leading to the recommendation that its maintenance be discontinued, though it will still be used for policy matters.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "James Angleton",
+    "Counterintelligence",
+    "Bureau Informant 100",
+    "Control File",
+    "Liaison"
+  ],
+  "title": "",
+  "date": "1967-01-13",
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Brennan",
+    "Sullivan",
+    "James Angleton",
+    "De Loach",
+    "Cotter",
+    "Tavel",
+    "Papich"
+  ],
+  "sender": "BRENNAN\", Jr."
+}

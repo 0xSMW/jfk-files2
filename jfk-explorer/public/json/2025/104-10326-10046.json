@@ -1,0 +1,39 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security": "Revealing details about C/O Noblehorse's contact with John Whitten, the methods used to extract C/O from the situation, and the assessment of Whitten's mental state could compromise intelligence operations and personnel security. Additionally, the cable mentions that Whitten referred to Noble Horse as a “case officer” which could be damaging if revealed publicly.  Quoting from the document:  'Recognizing a need to extricate C/O and station from further unnecessary contact... C/O was to try and put Whitten in contact with the Embassy Consular Section'",
+  "security_level": "SECRET",
+  "summary": "A cable detailing a meeting between C/O Noblehorse and John Whitten, a man with past connections to JFK assassination board matters, who is experiencing personal and emotional distress and seeking contact with the station, prompting concerns about security and the need to manage the situation.",
+  "summary_one_paragraph": "This secret cable from Vienna, dated September 9, 1996, reports on a meeting between C/O Noblehorse and John Whitten, who previously contacted the station in relation to JFK assassination matters. Whitten, facing severe personal issues including marital problems, health decline, and suicidal thoughts, reached out to C/O Noblehorse, expressing a desire to share information. The station decided to limit contact and direct Whitten to the Embassy Consular Section, while assessing his potential to disclose sensitive information; Whitten, recognizing security concerns, suggested contacting the local RSO. The cable requests guidance on alerting RSO or Congen about Whitten's state of mind and intentions and notes that Whitten expressed gratitude for the JFK matter's outcome.",
+  "tags": [
+    "CIA",
+    "John Whitten",
+    "Noblehorse",
+    "Vienna",
+    "Security",
+    "JFK Assassination",
+    "Liaison",
+    "Mental Health",
+    "Suicide",
+    "RSO",
+    "Consular Section"
+  ],
+  "title": "Meeting with John Whitten",
+  "date": "1996-09-09",
+  "locations_mentioned": [
+    "Vienna",
+    "Netherlands",
+    "Austria",
+    "Florida",
+    "United States"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "John Whitten",
+    "C/O Noblehorse",
+    "Eveson",
+    "ACOS/LOCHT"
+  ],
+  "recipient": "Director",
+  "sender": "Vienna Station"
+}

@@ -1,0 +1,27 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "This document contains personal information about an individual, including his date and place of birth, employment history, and family details. Disclosing this information could violate privacy laws and potentially put the individual or his family at risk. Additionally, the report includes an assessment of the subject's character and loyalty to the United States, which could be misused if disclosed. Directly quoting: Source had no social contact with SUBJECT, and had not seen MARTI since May 1968. SUBJECT worked at MIAA as a Utility Clerk, Utility Clerk Supervisor and finally as a Tabulating Machine Operator. HE was very highly regarded by HIS associates at MIAA and everyone was sorry to see HIM leave.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report summarizing an interview with Anthony Gennarelli, a former co-worker of Manuel Marti, providing a character reference and employment history for Marti in November 1968.",
+  "summary_one_paragraph": "On November 18, 1968, an agent report was submitted based on an interview with Anthony Gennarelli, an Operations Analyst at Mutual Insurance Advisory Association (MIAA), concerning his former co-worker Manuel Marti. Gennarelli provided a character reference for Marti, who had worked at MIAA as a Utility Clerk, Utility Clerk Supervisor, and Tabulating Machine Operator until May 1968 when he entered the United States Army. Gennarelli described Marti as being of excellent moral character, dependable, mature, emotionally stable, and loyal to the United States, recommending him for a position of trust and responsibility with the U.S. government.",
+  "tags": [
+    "Manuel Marti",
+    "Character Reference",
+    "Employment History",
+    "INSCOM/CSF",
+    "DOD-Affiliated Personnel Incident Investigations",
+    "Agent Report"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1968-11-18",
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Anthony Gennarelli",
+    "Alphonso E. Marshall",
+    "Robert C. Steagpur"
+  ],
+  "recipient": "[RESTRICTED]",
+  "sender": "USA"
+}

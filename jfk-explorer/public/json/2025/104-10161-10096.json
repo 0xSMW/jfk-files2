@@ -1,0 +1,33 @@
+{
+  "classification": "Personnel",
+  "document_type": "Message",
+  "security": "Revealing family connections and travel details of intelligence officers could expose them to potential threats or compromise their operations. For example, the message states: 'DAVE PHILLIPS REPORTS HIS SON CEHIS IS TRAVELLING IN EUROPE, USING BONN RESIDENCE OF SISTER AS HIS BASE'.",
+  "security_level": "SECRET",
+  "summary": "A message reports that Dave Phillips' son, Chris, is traveling in Europe, using his sister's Bonn residence as a base, and that Chris did not inform Dave of his travel plans, despite Dave's instructions to let him know when he would be visiting Spain.",
+  "summary_one_paragraph": "This SECRET message, dated January 26, 1976, details that Dave Phillips' son, Chris, is traveling in Europe, using his sister's residence in Bonn as his base of operations. Dave Phillips had previously instructed Chris to inform him when he planned to visit Spain, as Dave intended to write to KALBING to introduce Chris and express gratitude for any assistance offered; however, Chris neglected to advise Dave of his travel plans. The message indicates this explains a referenced incident, with no indication Chris plans to contact anyone in Lisbon.",
+  "tags": [
+    "Dave Phillips",
+    "Chris Phillips",
+    "KALBING",
+    "Travel",
+    "Europe",
+    "Bonn",
+    "Spain",
+    "Lisbon"
+  ],
+  "title": "Dave Phillips' Son Traveling in Europe",
+  "date": "1976-01-26",
+  "locations_mentioned": [
+    "Europe",
+    "Bonn",
+    "Spain",
+    "Lisbon"
+  ],
+  "persons_mentioned": [
+    "Dave Phillips",
+    "Chris Phillips",
+    "KALBING"
+  ],
+  "recipient": "Madrid, Lisbon",
+  "sender": "C/OG"
+}

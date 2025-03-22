@@ -1,0 +1,27 @@
+{
+  "classification": "Personnel",
+  "document_type": "Record",
+  "security": "Revealing employment details (GS levels, EOD dates) of current staff could pose a security risk and violate privacy.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document contains personnel information including the names, family relationships, and employment details of CIA staff members and mentions a security review of Clare Boothe Luce.",
+  "summary_one_paragraph": "This record, dated August 15, 1968, lists information about CIA personnel, including James Donald Duffey, Jr., his parents James D. Duffey (father, GS-14 employee, EOD 1948) and Gertrude E. Duffey (mother, GS-9 employee, EOD 1960), and John J. Shea (GS-15 employee, EOD 1956). It also notes a past security review concerning Clare Boothe Luce, indicating that she was of CI interest in May 1958, which was cancelled in September 1958, and that she was granted a CSA for contact on August 8, 1963.",
+  "tags": [
+    "CIA",
+    "Personnel Records",
+    "Security Review",
+    "Clare Boothe Luce",
+    "Employment Details",
+    "FOIA"
+  ],
+  "title": "Personnel Information and Security Review",
+  "date": "1968-08-15",
+  "persons_mentioned": [
+    "James Donald Duffey, Jr.",
+    "James D. Duffey",
+    "Gertrude E. Duffey",
+    "John J. Shea",
+    "Clare Boothe Luce"
+  ],
+  "recipient": "CIA",
+  "sender": "RCMILLM"
+}

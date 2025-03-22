@@ -1,0 +1,35 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security": "In view of CIA's request, under no circumstances should any information be furnished to the French concerning subject's present affiliation with CIA or his whereabouts.",
+  "security_level": "Secret",
+  "summary": "An FBI memo details an investigation into Lucien Conein at the request of French authorities, revealing his CIA affiliation and current assignment in Saigon, with a CIA request to withhold this information from the French.",
+  "summary_one_paragraph": "This FBI memo, dated July 12, 1966, outlines an investigation into Lucien Conein, prompted by a request from French authorities seeking to verify his residence and employment status. The investigation revealed that Conein is a covert CIA employee stationed in Saigon, South Vietnam, under State Department cover, on a sensitive assignment. The CIA has requested that the FBI not disclose Conein's CIA affiliation or whereabouts to the French, although the FBI can share the results of credit and criminal record checks. The memo also directs the St. Louis office to review Conein's military service record and report any pertinent information.",
+  "tags": [
+    "FBI",
+    "Lucien Conein",
+    "CIA",
+    "French Liaison",
+    "Saigon",
+    "Covert Operations",
+    "Investigation"
+  ],
+  "title": "Lucien Conein",
+  "date": "1966-07-12",
+  "locations_mentioned": [
+    "Paris",
+    "Saigon, South Vietnam",
+    "McLean, Virginia",
+    "Washington, D.C.",
+    "St. Louis"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Lucien Conein",
+    "Ebjette",
+    "Carmen",
+    "Monique Veber"
+  ],
+  "recipient": "PA",
+  "sender": "HQ"
+}

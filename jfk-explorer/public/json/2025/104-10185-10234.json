@@ -1,0 +1,29 @@
+{
+  "classification": "Operations",
+  "document_type": "Memorandum",
+  "security": "Revealing operational details such as the use of safehouses, procurement methods, and contact information for individuals involved in setting up these locations could compromise ongoing or future operations and endanger the individuals involved. The document mentions specific locations ('Summit Hill Apartments, 16th Street, Silver Spring, Maryland') and the process for securing the lease ('Security has been notified and the apartment is now being shecked.').",
+  "security_level": "UNCLASSIFIED",
+  "summary": "Vivion A. Petrowski documents arrangements for a safehouse for AMMUG-1 at Summit Hill Apartments in Silver Spring, Maryland, including securing the apartment and notifying security.",
+  "summary_one_paragraph": "On June 16, 1964, Vivion A. Petrowski wrote a memorandum for the record detailing the procurement of a safehouse for AMMUG-1. Petrowski contacted Mr. (John Ryan) of the Safehouse Procurement Section, and a deposit was placed on Apartment G-32 at Summit Hill Apartments in Silver Spring, Maryland. Security was notified to inspect the apartment, and Attorney Roger Shea in Arlington, Virginia, will sign the lease for Vladimir Rodriguez Lahera, beginning July 1, 1964.",
+  "tags": [
+    "Safehouse",
+    "AMMUG-1",
+    "Summit Hill Apartments",
+    "Security",
+    "Lease Agreement",
+    "GIPV"
+  ],
+  "title": "SAFEHOUSE FOR AMMUG-1",
+  "date": "1964-06-16",
+  "locations_mentioned": [
+    "Silver Spring, Maryland",
+    "Arlington, Virginia"
+  ],
+  "persons_mentioned": [
+    "John Ryan",
+    "Roger Shea",
+    "Vladimir Rodriguez Lahera",
+    "Vivion A. Petrowski"
+  ],
+  "sender": "Vivion A. Petrowski"
+}

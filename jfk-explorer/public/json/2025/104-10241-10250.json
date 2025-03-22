@@ -1,0 +1,38 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Report",
+  "security": "The report contains information from various sources regarding Charles [REDACTED]'s political activities, financial dealings, and associations. Disclosing these details could compromise source relationships and expose ongoing intelligence gathering methods. Quoting: \"Fort Worth source desires to advance information regarding sources [REDACTED] to contact [REDACTED] and that a situation could be made in which [REDACTED].\"",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A report detailing information gathered on Charles [REDACTED] including his political activities, attempts to solicit funds, and associations with questionable individuals in the Dallas and Fort Worth areas.",
+  "summary_one_paragraph": "This report, compiled from multiple sources in Dallas and Fort Worth, Texas in May 1963, focuses on Charles [REDACTED]'s activities. It outlines his attempts to secure financial backing from members of both the Democratic and Republican parties, his association with individuals considered to be of questionable character, and his involvement with political movements. The report also mentions his employment at [REDACTED] and his connections with individuals potentially involved in questionable financial dealings and political causes. Sources suggest he may be seeking to associate himself with political movements and soliciting funds under false pretenses.",
+  "tags": [
+    "Charles [REDACTED]",
+    "Political Activities",
+    "Fund Solicitation",
+    "Dallas",
+    "Fort Worth",
+    "Ruth Norback",
+    "Jack Katz",
+    "Pat Matlock",
+    "American Life Insurance Company"
+  ],
+  "title": "Investigation into Charles [REDACTED]",
+  "date": "1963-05",
+  "locations_mentioned": [
+    "Fort Worth, Texas",
+    "Dallas, Texas",
+    "Greenville, Texas",
+    "Austin, Texas",
+    "South Carolina",
+    "Washington, D.C."
+  ],
+  "persons_mentioned": [
+    "Charles [REDACTED]",
+    "Charach",
+    "Ruth Norback",
+    "Jack Katz",
+    "Pat Matlock",
+    "[REDACTED]",
+    "President Kennedy"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "classification": "Operations",
+  "document_type": "Classified Message",
+  "security": "Disclosing the identities and activities of sources, such as the 'sensitive source' mentioned, could compromise their safety and intelligence gathering efforts. Informing liaison services about the hijackers' potential locations could reveal intelligence-sharing arrangements and operational methods, potentially hindering future operations. The document outlines specific code names (LNERGO, MHCHAOS, MHCURB) and liaison coordination protocols, whose exposure could compromise CIA communications and operational security. Quoting directly: \"According to another sensitive source, hijackers in Algiers requested in mid-February eight Titre de Voyage documents...Possibility that Holder, who spokesman for group and head of International Section of BPP in Algiers, may have remained Algiers. NO OBJECTION informing liaison...PLEASE INFORM LNERGO rep...COORDINATE with him to avoid duplication with liaison.\"",
+  "security_level": "SECRET",
+  "summary": "A classified message details information received about American Black militants/hijackers, including their movements from Algeria to France and Switzerland, their desire to return to the U.S. for revolutionary activities, and the potential for Algerian government-provided travel documents.",
+  "summary_one_paragraph": "Originating from NICERTAIN/S on March 14, 1973, this SECRET classified message relays information regarding American Black militants/hijackers. According to a meeting with Henri Curiel, some members of the group are receiving support and are located in France and Switzerland, while others are in Algeria. The group intends to return clandestinely to the U.S. for revolutionary activities and desires political and ideological training before leaving Europe. The message also indicates that the hijackers requested travel documents, and it directs liaison services to coordinate information sharing to avoid duplication, particularly regarding the whereabouts and activities of the individuals.",
+  "tags": [
+    "CIA",
+    "Hijackers",
+    "Black Militants",
+    "Algeria",
+    "France",
+    "Switzerland",
+    "Henri Curiel",
+    "LNERGO",
+    "TITRE DE VOYAGE",
+    "MHCHAOS",
+    "MHCURB",
+    "BPP"
+  ],
+  "title": "Information on American Black Militants/Hijackers",
+  "date": "1973-03-14",
+  "locations_mentioned": [
+    "Paris",
+    "Bern",
+    "Algiers",
+    "France",
+    "Switzerland",
+    "Algeria",
+    "United States"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Henri Curiel",
+    "William Holder",
+    "Linton Charles White",
+    "Catherine Marie Kerkow",
+    "George Brown",
+    "Harold Singleton",
+    "George Edward Wright",
+    "Larry Darnell Burgess",
+    "Joyce Tillerson Burgess",
+    "Melvin McNair",
+    "Jean Carol Allen McNair",
+    "Eldridge Cleaver"
+  ],
+  "recipient": "PARIS (EYES ONLY DEMOLAT), BERN (EYES ONLY BACHMAN), ALGIERS (EYES ONLY BURCHENAL)",
+  "sender": "JLong:PG:Jms (CI/SO)"
+}

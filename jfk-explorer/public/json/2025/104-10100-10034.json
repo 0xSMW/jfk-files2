@@ -1,0 +1,45 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "This cable details the failure of the ZRPRIMA program due to Cuban reluctance and bureaucratic issues. Disclosing this information could damage relations with Cuba and reveal the CIA's methods of attempting to insert agents. Specifically, the cable states, \"RECENTLY CONCLUDED HQS REVIEW OF (ZR)PRIMA PROGRAM SHOWS THAT KUBARK EFFORTS HAVE NOT ACHIEVED ANY SIGNIFICANT RESULTS AND CONTINUATION OF PROGRAM AS SUCH NO LONGER WARRANTED...KUBARK HAS MADE A RESPECTABLE EFFORT TO EXPLOIT THIS OPPORTUNITY AND FACT THAT WE HAVE NOT ACHIEVED SIGNIFICANT RESULTS IS MARELY REFLECTION CUBAN CONFUSION AND INEPTITUDE WITH RESULTANT, FAILURE ACHIEVE THEIR OWN GOALS.\"",
+  "security_level": "SECRET",
+  "summary": "A cable from the Director to multiple stations and bases announces the discontinuation of the ZRPRIMA program due to its failure to recruit a significant number of Cuban technicians, citing Cuban reluctance, bureaucratic incompetence, and potential infiltration as reasons for the program's ineffectiveness.",
+  "summary_one_paragraph": "This cable, dated November 21, 1963, communicates the decision to halt the ZRPRIMA program after a headquarters review revealed it had not met its objectives of recruiting Cuban technicians for intelligence purposes. The Director cites the Cuban Foreign Ministry's lack of aggressive pursuit, bureaucratic inefficiencies in Havana, fear of hostile agent infiltration, and diminishing interest from Castro as primary factors. Although KUBARK made efforts to exploit the opportunity, few candidates were successfully placed due to lengthy approval processes and the Cubans' reliance on Communist Party endorsements. Despite the program's failure, stations are instructed to remain alert for other opportunities to insert resident agents into Cuba and discontinue using the ZRPRIMA slug.",
+  "tags": [
+    "CIA",
+    "ZRPRIMA",
+    "KUBARK",
+    "Cuba",
+    "Technician Recruitment",
+    "Intelligence",
+    "FOIA"
+  ],
+  "title": "Discontinuation of ZRPRIMA Program",
+  "date": "1963-11-21",
+  "locations_mentioned": [
+    "Western Europe",
+    "Cuba",
+    "Havana",
+    "France",
+    "Bonn",
+    "Berlin",
+    "Munich",
+    "Vienna",
+    "Athens",
+    "Bern",
+    "Geneva",
+    "Cairo",
+    "Beirut",
+    "Tehran",
+    "Tel Aviv",
+    "Rio de Janeiro",
+    "Sao Paulo",
+    "Madrid"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Fidel Castro"
+  ],
+  "recipient": "Certain Stations and Bases",
+  "sender": "Director"
+}

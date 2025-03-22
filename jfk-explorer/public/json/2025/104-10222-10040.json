@@ -1,0 +1,38 @@
+{
+  "classification": "Personnel",
+  "document_type": "Official Personnel Folder",
+  "security": "This file contains Shaw's employment history, including assignments to sensitive locations and his association with official cover operations. Disclosure of this information could potentially expose past covert activities, compromising individuals and methods.",
+  "security_level": "SECRET",
+  "summary": "This is Robert Tyler Shaw's official personnel folder, detailing his CIA employment history, training, language skills, and official cover assignments from 1947 to 1976.",
+  "summary_one_paragraph": "Robert Tyler Shaw's personnel file outlines his CIA career progression from 1947 to 1976, beginning as an I.O. Trainee and advancing to Chief of Station roles in various locations including Venezuela, Ecuador, Mexico, Nicaragua, and Honduras. The file includes his educational background, language proficiency (Spanish), agency training, performance awards, and details regarding his official cover assignments, indicating his association with the Department of State. The document also notes reviews of his profile and career preferences.",
+  "tags": [
+    "CIA",
+    "Personnel File",
+    "Robert Tyler Shaw",
+    "Official Cover",
+    "Employment History"
+  ],
+  "title": "Official Personnel Folder - Robert Tyler Shaw",
+  "date": "1976-01-20",
+  "locations_mentioned": [
+    "Patterson Field, Ohio",
+    "Camp Ritchie, Maryland",
+    "Ohio State University",
+    "University of Arizona",
+    "Venezuela",
+    "Caracas",
+    "Ecuador",
+    "Guayaquil",
+    "Mexico",
+    "Mexico City",
+    "Nicaragua",
+    "Honduras"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Robert Tyler Shaw",
+    "Z.T. Cartwright"
+  ],
+  "recipient": "Chief, Contract Personnel Division, OP; Chief, Operating Component",
+  "sender": "Chief Support Staff"
+}

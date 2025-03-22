@@ -1,0 +1,37 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "List of Cables",
+  "security": "Disclosing the identities of individuals (like GOTLIEB, VIERA, PICO SLESTATE, IMPROTA, MALEKIAN, MUNRO, HELLIWELL, KIMBALL) and their involvement in operations (AMANCHOR-1/ARTIME/AMNAIL) could endanger them or compromise ongoing activities. Referring to “cland[estine] financial manipulation” and “Financial transactions Mexic[o]” reveals potentially illegal or sensitive financial dealings. Quoting directly: “RYBAT/JMSPUR/PLVWCADET TRAFFIC REMOVED FROM C/WHD PERSONAL FILES DURING WATERGATE FILE SEARCH...SE IEL SENSITIVE EYES ONLY.” Revealing this cable's existence implies a degree of secrecy and sensitivity during the Watergate era.",
+  "security_level": "SECRET/SENSITIVE EYES ONLY",
+  "summary": "This document is a list of cables removed from C/WHD personal files during the Watergate file search. The cables pertain to various subjects, including AMANCHOR-1/ARTIME/AMNAIL operations, Cuban exiles, potential blips on the radar screen, alias documentation, Agency involvement in Watergate, and financial transactions.",
+  "summary_one_paragraph": "This document, dated April 24, 1974, lists cables that were removed from the C/WHD (presumably, Western Hemisphere Division) personal files during the Watergate file search. The cables cover a range of topics, including operations AMANCHOR-1/ARTIME/AMNAIL, Cuban exiles and their potential support for Watergate prisoners, individuals flagged as potential risks (VIERA, GOTLIEB, PICO SLESTATE), alias documentation (IMPROTA/MALEKIAN), alleged Agency involvement in Watergate, official contact between FADANE and HUNT, rumors of clandestine financial manipulation, financial transactions in Mexico, the Pentagon/Ellsberg case, and business dealings involving PAUL HELLIWELL, MARY JANE, and JOHN KIMBALL. It also mentions L. Patrick Gray identifying George MUNRO in testimony.",
+  "tags": [
+    "CIA",
+    "Watergate",
+    "Cables",
+    "AMANCHOR-1",
+    "ARTIME",
+    "AMNAIL",
+    "Cuban exiles",
+    "Financial Manipulation",
+    "Ellsberg Case",
+    "L. Patrick Gray",
+    "George Munro"
+  ],
+  "title": "List of Cables Removed During Watergate File Search",
+  "date": "1974-04-24",
+  "persons_mentioned": [
+    "GOTLIEB",
+    "VIERA",
+    "PICO SLESTATE",
+    "IMPROTA",
+    "MALEKIAN",
+    "HUNT",
+    "ELLSBERG",
+    "HELLIWELL",
+    "KIMBALL",
+    "MUNRO",
+    "L. Patrick Gray"
+  ],
+  "sender": "C/WHD (likely, Western Hemisphere Division)"
+}

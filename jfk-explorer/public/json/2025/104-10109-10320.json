@@ -1,0 +1,35 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security": "This cable discusses a sensitive operation ('LIAR'S LIE') and reveals a cleared contact of the agency, Mr. William Loomer, and his association with a company leasing 'Liar's Lair'. Exposing this information could compromise Loomer and the agency's past activities at that location.",
+  "security_level": "S",
+  "summary": "A priority cable from SAC EFO to KDQS reports an inquiry by Les Whitaker, an associate of Jack Anderson, regarding William Loomer's association with the agency and alleged activities at 'Liar's Lair' on Linderman Key.",
+  "summary_one_paragraph": "On April 22, 1971, a priority cable was sent from SAC EFO to KDQS concerning a report from William Loomer, Senior VP of the Bank of Perkine and a cleared contact of the agency, about an inquiry from Les Whitaker, an associate of Jack Anderson. Whitaker questioned Loomer about his association with the agency and alleged activities at 'Liar's Lair' on Linderman Key. Loomer denied any knowledge or association, stating the company he officers leased the site from UNIV of BISHI and the only recent activity there was a corporation work force building an old pier. It is speculated that Whitaker obtained his information from a state company account or someone with past knowledge of the agency's activities at Liar's Lair.",
+  "tags": [
+    "CIA",
+    "Linderman Key",
+    "Liar's Lair",
+    "William Loomer",
+    "Les Whitaker",
+    "Jack Anderson",
+    "PEREST SEAL",
+    "Operation",
+    "Counterintelligence"
+  ],
+  "title": "Support to PEREST SEAL - LINDERMAN KEY (LIAR'S LIE) #219 000 FD/",
+  "date": "1971-04-22",
+  "locations_mentioned": [
+    "Linderman Key",
+    "Homestead AFF",
+    "Discayney Key"
+  ],
+  "origin_agency": "Federal Bureau of Investigation (FBI)",
+  "persons_mentioned": [
+    "William Loomer",
+    "Les Whitaker",
+    "Jack Anderson",
+    "CAPT Brad Ayers"
+  ],
+  "recipient": "KDQS",
+  "sender": "SAC EFO"
+}

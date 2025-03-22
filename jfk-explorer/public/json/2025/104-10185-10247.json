@@ -1,0 +1,24 @@
+{
+  "classification": "Administrative",
+  "document_type": "Receipt",
+  "security": "Revealing that TSD/DB tracks specific authentication materials, including Mexican driver's licenses and voter certificates, could expose their operational methods for creating false identities, especially if DB CASE NO. 4763 is associated with a specific operation. The note emphasizes the need to return materials and report any loss or destruction, showing a high level of control and concern for potential exposure.",
+  "security_level": "SECRET",
+  "summary": "A receipt acknowledging the transfer of authentication materials, including a Mexican driver's license and voter certificate, to TSD/DB for operational use, requiring the return of all materials and notification of any loss or destruction.",
+  "summary_one_paragraph": "This document is a receipt confirming that TSD/DB received authentication materials on May 28, 1964, including a Mexican driver's license and voter certificate associated with Jaime Sanchez Papo. The materials, transmitted with memo AB 6891 dated 27 May 1964, are intended for operational use, and the receiving officer acknowledges the responsibility to return all unused or fulfilled documents to TSD/DB. The receipt also emphasizes the critical need to notify TSD/DB if any materials are destroyed or lost.",
+  "tags": [
+    "TSD/DB",
+    "Authentication Materials",
+    "Mexican Driver's License",
+    "Mexican Voter Certificate",
+    "Operational Use",
+    "Receipt",
+    "False Identities"
+  ],
+  "title": "Receipt for Authentication Materials",
+  "date": "1964-05-28",
+  "persons_mentioned": [
+    "Jaime Sanchez Papo"
+  ],
+  "recipient": "TSD/DB",
+  "sender": "Officer's Signature (omitted for privacy)"
+}

@@ -1,0 +1,24 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "Disclosing the details of this operational clearance request, especially the subject's potential use as an agent and their location (Costa Rica), could compromise ongoing intelligence operations. Revealing the criteria and process for granting operational clearances could also expose sensitive security procedures.",
+  "security_level": "SECRET",
+  "summary": "A memo from the Chief, Special Security Division regarding a request for an Operational Clearance for a Subject to be used as an Agent in Costa Rica, pending a review of attached information to determine suitability for the assignment.",
+  "summary_one_paragraph": "This SECRET memorandum, dated 15 OCT 1954, is from the Chief, Special Security Division, in response to a request dated 21 July 1954, concerning an Operational Clearance for a Subject to be used as an Agent in Costa Rica under unindicated cover. The memo indicates that attached information is provided to aid in determining whether the Subject should be used in the requested capacity. Given that the Subject has resided outside the United States since at least 1945, no field investigation was scheduled. The memo requests notification of the decision and return of the attached material marked 'Eyes Only'.",
+  "tags": [
+    "Operational Clearance",
+    "Agent",
+    "Costa Rica",
+    "Special Security Division",
+    "Security Review"
+  ],
+  "title": "Operational Clearance Request",
+  "date": "1954-10-15",
+  "locations_mentioned": [
+    "Costa Rica",
+    "United States"
+  ],
+  "origin_agency": "Special Security Division",
+  "recipient": "Chief, Special Security Division",
+  "sender": "Robert H. Cunningham"
+}

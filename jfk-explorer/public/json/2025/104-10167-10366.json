@@ -1,0 +1,40 @@
+{
+  "classification": "Cuba",
+  "document_type": "Telegram Information Report",
+  "security": "Revealing that the CIA is monitoring and reporting on the activities of Cuban exiles and their attempts to gain support from other nations could damage U.S. foreign relations, particularly with Panama and Costa Rica. The report details Varona's requests to President Chiari of Panama and the subsequent discussions within the Panamanian government. Disclosing this information could strain diplomatic ties and compromise intelligence-gathering efforts in the region. Specifically, the document states: \"ON 15 AUGUST 1962 ANTONIO VAROSA LOREDO...VISITED PRESIDENT ROBERTO CHIARI OF FINAMA AND REQUESTED CHIARI TO ORGANIZE AND HOST A MEET- ING OF CENTRAL AMERICAN CHIEFS OF STATE ON THE CUBAN ISSUE...\"",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "A CIA telegram reports Antonio Varona's attempt to gain President Chiari of Panama's support for action against the Castro regime and the establishment of a training base for Cuban exiles in Panama.",
+  "summary_one_paragraph": "On August 24, 1962, a CIA telegram details Antonio Varona, Deputy Chief of the Cuban Revolutionary Council (CRC), seeking support from President Roberto Chiari of Panama to organize a meeting of Central American leaders, including President Kennedy, to address Cuban infiltration in the region. Varona also requested Chiari's approval to establish a Cuban exile training base in Panama, but Chiari, after discussing with his government, decided against granting permission. The telegram also reveals the CRC President Jose Miro Cardona’s public relations trip of Varona, and that some members of the Cuban exile community in Miami are seeking to establish a Cuban government-in-exile in Panama headed by Cardona.",
+  "tags": [
+    "CIA",
+    "Cuban Revolutionary Council",
+    "Antonio Varona",
+    "Roberto Chiari",
+    "Cuba",
+    "Panama",
+    "Cuban Exiles",
+    "Training Base",
+    "Castro Regime",
+    "Jose Miro Cardona",
+    "Miami"
+  ],
+  "title": "Attempt of Antonio Varona, of Cuban Revolutionary Council, to Obtain Support of President Chiari of Panama in Action to Overthrow Castro Regime",
+  "date": "1962-08-24",
+  "locations_mentioned": [
+    "Cuba",
+    "Panama",
+    "Panama City",
+    "San Jose, Costa Rica",
+    "Miami"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Antonio Varona",
+    "Roberto Chiari",
+    "President Kennedy",
+    "Marcos Robles",
+    "Jose Miro Cardona"
+  ],
+  "recipient": "TFW/R2, TFW PA-PROP, WH/PACY, TFW/INT, TFW/WAVE, WH/3/CR, TFW/FI, TFW/SI1, WH/3/P2, TFW/CI, TFW/PM1, OS/SSD/Bauman",
+  "sender": "J. Langdon"
+}

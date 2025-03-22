@@ -1,0 +1,50 @@
+{
+  "classification": "Operations",
+  "document_type": "Memorandum and Contact Reports",
+  "security": "These documents discuss ongoing operations, agent meetings, and intelligence gathering on individuals of interest. Disclosing this information could compromise the identities of sources (LIRAGON-1, Jimmy SACRI), expose operational methods (surveillance, establishing contacts), and reveal the targets and objectives of intelligence activities. For instance, the discussions about LOGINOV's activities and relationships, as well as attempts to involve him in business deals, are sensitive and could damage ongoing intelligence efforts. Specific methods, like offering commissions in exchange for information, are detailed. Quoting directly: “F told Subject he should tell about it to LOC if there is a commission for the person who facilitates the deal.”",
+  "security_level": "SECRET",
+  "summary": "This set of documents includes memoranda and contact reports detailing CIA activities in Mexico, focusing on surveillance of Soviet officials like Valentin LOGINOV and attempts to gather intelligence through various contacts and operations.",
+  "summary_one_paragraph": "This collection comprises several documents, including memoranda and contact reports from July 1969, detailing CIA operations in Mexico. A memorandum discusses observations from a Polish National Day celebration, noting the presence of Soviet and Czech officials and interactions with them. Several contact reports describe meetings with agents LIRAGON-1 and Jimmy SACRI, focusing on their interactions with Soviet officials, particularly Valentin LOGINOV. These reports outline efforts to gather information, develop contacts, and potentially involve Soviet officials in business deals to gain further intelligence, all while maintaining operational security and assessing the reliability of sources.",
+  "tags": [
+    "CIA",
+    "Mexico",
+    "Soviet",
+    "LOGINOV",
+    "LIRAGON-1",
+    "Jimmy SACRI",
+    "Surveillance",
+    "Contact Report",
+    "Operations",
+    "Counterintelligence"
+  ],
+  "title": "Activities and Contacts in Mexico: Surveillance of Soviet Officials",
+  "date": "1969-07-22",
+  "locations_mentioned": [
+    "Mexico",
+    "Soviet Embassy",
+    "Czechoslovakia",
+    "United States",
+    "Switzerland"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Konstantin Nikandrovich BOGATYREV",
+    "Valentin LOGINOV",
+    "Yuriy CHERNYSH",
+    "Jiri SVESTKA",
+    "Julio Jean PIERRE-AUDAIN",
+    "DUVALIER",
+    "VOURVOULIAS",
+    "Raymond A. FRADYER",
+    "Lev Nikolayevich GOLOUZEV",
+    "Terence D. Sistone",
+    "Alla LNU",
+    "Yuriy OHERNISH",
+    "Karel WENDEL",
+    "KARTASUK",
+    "Jimmy SACRI",
+    "Josephine CAVACA",
+    "C. Lester McGee"
+  ],
+  "recipient": "Chief, SB and Chief of Station"
+}

@@ -1,0 +1,32 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Releasing this information could reveal investigative techniques and sources used by INSCOM/CSF, as well as potentially expose the identity of individuals providing information to the agency. For example, the report details a 'physical check' conducted at a specific address and the questioning of a building superintendent, Mrs. Matos.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is an agent report detailing an unsuccessful attempt to locate and interview Aleanso Ortiz, a listed character reference for Manuel Marti. The physical check was conducted at 810 Hunts Point Avenue, Bronx, New York, but yielded no information regarding Ortiz or Marti.",
+  "summary_one_paragraph": "On November 21, 1968, INSCOM/CSF submitted an agent report detailing the investigation into Manuel Marti. As part of this investigation, a physical check was conducted on November 3, 1968, at 810 Hunts Point Avenue, Bronx, New York, to locate and interview Aleanso Ortiz, a listed character reference for Marti. The investigation revealed no listing for Ortiz at the address, and the building superintendent, Mrs. Matos, stated she had never heard of Marti.",
+  "tags": [
+    "INSCOM",
+    "CSF",
+    "DOD",
+    "Personnel Investigation",
+    "Character Reference",
+    "Manuel Marti",
+    "Aleanso Ortiz",
+    "Bronx, New York"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1968-11-21",
+  "locations_mentioned": [
+    "Bronx, New York",
+    "San Juan, Puerto Rico"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Aleanso Ortiz",
+    "Mrs. Matos",
+    "Alphonso E. Marshall",
+    "Robert C. Steagger"
+  ]
+}

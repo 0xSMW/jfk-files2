@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "The document details ongoing intelligence operations involving a subject (SUBJ) with high-level access to Ernesto \"Che\" Guevara and plans within the Ministry of Industries. It includes specific instructions regarding how the subject should be handled and emphasizes the importance of maintaining communication security through a NET HEMBASSY diplomatic pouch. Exposing these operational details, communication channels, and evaluation of the subject could compromise ongoing intelligence efforts, endanger individuals involved, and reveal sensitive collection methods. For instance, directly quoting the document: “CONTACT WILL BE MAINTAINED USING PRESENT CHANNEL THROUGH NET HEMBASSY DIPLOMATIC POUCH. STATION FEELS SUBJ SHOULD BE TRAINED THROUGH THIS CHANNEL ASAP IN SU SYSTEM TO ENHANCE COMMO SECURITY.” Revealing the identity of AMSEVER-2, or exposing the two hundred dollar monthly escrow account could endanger those involved as well.",
+  "security_level": "SECRET",
+  "summary": "A classified message from the Director to Mexico City station outlines plans to maintain contact with a subject (SUBJ) who has access to Ernesto \"Che\" Guevara and high-level planning sessions at the Ministry of Industries; it details communication channels, payment arrangements, and emphasizes security protocols.",
+  "summary_one_paragraph": "This secret message, sent from the Director to the Mexico City station, provides guidance on managing a subject (SUBJ) who is close to Ernesto \"Che\" Guevara and privy to significant plans within the Ministry of Industries. The communication details how the subject will remain in place, with AMSEVER-2 establishing a $200 monthly escrow account. Communication will be maintained through a NET HEMBASSY diplomatic pouch, and the station recommends SU system training to enhance communication security. Despite the subject's known reservations about the regime, Guevara and associates value their engineering expertise, and the message explicitly warns against using the subject for contact with CIFRS de O, regardless of trust levels.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "Ernesto \"Che\" Guevara",
+    "KAPOK",
+    "PERUMEN",
+    "LICRAFT-1",
+    "AMSEVER-2",
+    "MEAL",
+    "NET HEMBASSY",
+    "SU System",
+    "Ministry of Industries",
+    "SOVELOC Machinery"
+  ],
+  "title": "KAPOK PERUMEN 21",
+  "date": "Unknown",
+  "locations_mentioned": [
+    "Mexico City"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ernesto \"Che\" Guevara"
+  ],
+  "recipient": "Mexico City Station",
+  "sender": "Director"
+}

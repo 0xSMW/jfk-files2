@@ -1,0 +1,36 @@
+{
+  "classification": "Operations",
+  "document_type": "Classified Message",
+  "security": "Revealing intelligence sources (HIGHLY SENSITIVE SOURCE) and methods is potentially damaging and could compromise ongoing or future intelligence gathering. \"DESIRE NO SPECIAL COVERAGE TRADE UNION GROUP AND NO REQUEST TO LIAISON, BUT WOULD APPRECIATE ANY PERTINENT MHCHAOS-RELATED INFO WHICH COMES STATION'S ATTENTION. EX-2 APDIR WN-SISM.\"",
+  "security_level": "SECRET",
+  "summary": "A secret message relays information from a highly sensitive source about a potential visit by trade union representatives James Hoffa, Harold Gibbons, and William Taub to the Democratic Republic of Vietnam (DRV), and instructs against special coverage.",
+  "summary_one_paragraph": "This secret classified message, dated July 7, 1972, relays information from a highly sensitive source regarding a potential visit by trade union representatives James Hoffa, Harold Gibbons, and William Taub to the DRV, indicating their intention to pick up visas in Vientiane or Paris. Sent to Vientiane (eyes only, Slaght) and Paris (eyes only Demolat), the message cites reference Paris 2592 and requests no special coverage of the trade union group, while also seeking any MHCHAOS-related information that comes to the station's attention, originating from CI/SO unit.",
+  "tags": [
+    "CIA",
+    "Trade Unions",
+    "DRV",
+    "James Hoffa",
+    "Harold Gibbons",
+    "William Taub",
+    "MHCHAOS",
+    "Sensitive Intelligence"
+  ],
+  "title": "Potential Visit of Trade Union Representatives to DRV",
+  "date": "1972-07-07",
+  "locations_mentioned": [
+    "Vientiane",
+    "Paris",
+    "DRV (Democratic Republic of Vietnam)",
+    "U.S."
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "James Hoffa",
+    "Harold Gibbons",
+    "William Taub",
+    "Slaght",
+    "Demolat"
+  ],
+  "recipient": "Vientiane (EYES ONLY, SLAGHT), Paris (EYES ONLY DEMOLAT)",
+  "sender": "BWells:PG:JAjm"
+}

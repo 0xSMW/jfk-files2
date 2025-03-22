@@ -1,0 +1,40 @@
+{
+  "classification": "Cuba",
+  "document_type": "Information Report",
+  "security": "This material contains information affecting the National Defense of the United States within the meaning of the Espionage Laws, Title 18, U.S.C., Secs. 793 and 794, the transmission or revelation of which in any manner to an unauthorized person is prohibited by law.",
+  "security_level": "SECRET",
+  "summary": "This report details information on (fnu) RELOVA, an officer of the Direccion General de Inteligencia (DGI) in Cuba, including his residences, travel history, and background, compiled from a former Cuban intelligence officer and agency records.",
+  "summary_one_paragraph": "An intelligence report from the Central Intelligence Agency (CIA) dated 1 September 1964, provides information on (fnu) RELOVA, a pseudonym for Wilberto, an officer of the Cuban Direccion General de Inteligencia (DGI). The report compiles data from a former Cuban intelligence officer who defected in April 1964, combined with CIA records, detailing RELOVA's residence in Habana, his travels to Mexico and Canada under the name Osvaldo RELOVA Penichet, and his activities, such as inspecting the Cuban Embassy in Canada and administering 'Envases del Cerro, S.A.' The report also includes physical characteristics provided by the defector, noting RELOVA's communist leanings and past involvement in investigating a Mr. BARRAL.",
+  "tags": [
+    "CIA",
+    "DGI",
+    "Cuban Intelligence",
+    "RELOVA",
+    "Osvaldo RELOVA Penichet",
+    "Counterintelligence",
+    "Cuba"
+  ],
+  "title": "(fnu) RELOVA",
+  "date": "1964-09-01",
+  "locations_mentioned": [
+    "Cuba",
+    "Washington, D.C.",
+    "Mexico",
+    "Habana",
+    "Jamaica",
+    "Kingston",
+    "Canada",
+    "Toronto",
+    "Montreal"
+  ],
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "(fnu) RELOVA",
+    "Osvaldo RELOVA Penichet",
+    "Jesus YANES Rodriguez",
+    "Alberta MENDUCA",
+    "Mr. BARRAL"
+  ],
+  "recipient": "STATE, ARMY, NAVY, AIR, NSA, DOE, FBI, REP CINCLANT, CINCSO",
+  "sender": "Unknown"
+}

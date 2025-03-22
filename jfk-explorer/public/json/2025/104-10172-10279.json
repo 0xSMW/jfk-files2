@@ -1,0 +1,49 @@
+{
+  "classification": "Soviet",
+  "document_type": "Dispatch",
+  "security": "Disclosing the details of counterintelligence operations against Soviet personnel, their codenames, and suspected roles could reveal ongoing or planned CIA activities. This could compromise relationships with foreign intelligence agencies and allow adversary intelligence services to revise their methods. Quoting directly, \"activities in Helsinki at first appeared to be those of a N03 co-optee, and later more obviously those of an officer in the CA field\" and \"contacts with SAVALYEV took place either in press circles or in the presence of Aleksey SLUMAROV (201-205095) whom we suspect of being the deputy rezident in Helsinki.\"",
+  "security_level": "SECRET",
+  "summary": "A CIA dispatch providing clarifications and updates on the roles and activities of Soviet personnel, including Mikhail Vasilyevich KURACHOV and Petr Nikitovich SAVALYEV, in Finland and Norway, and their potential involvement in intelligence operations.",
+  "summary_one_paragraph": "This SECRET dispatch, dated July 16, 1965, clarifies prior intelligence regarding Soviet personnel in Finland and Norway. It addresses information concerning Mikhail Vasilyevich KURACHOV's posting to Finland and corrects assumptions about Petr Nikitovich SAVALYEV's role in police penetration, explaining SAVALYEV's focus on press contacts. The dispatch also notes SAVALYEV's departure and replacement by Albert AKULOV and provides further details about replacements in the Consular Section following a defection, identifying officers such as Dmitry Ye. GOLDIN, Anatoliy PAVLOV, Genia Vasilyevich PERELETOV, and Feliks Dmitryevich KARASEV.",
+  "tags": [
+    "CIA",
+    "Counterintelligence",
+    "Soviet Personnel",
+    "Finland",
+    "Norway",
+    "KURACHOV",
+    "SAVALYEV",
+    "AKULOV",
+    "SERGEYEV"
+  ],
+  "title": "Clarification of Information on Soviet Personnel",
+  "date": "1965-07-16",
+  "locations_mentioned": [
+    "Finland",
+    "Norway",
+    "Helsinki"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Mikhail Vasilyevich KURACHOV",
+    "Sommer",
+    "Peter Nikitovich",
+    "Ivan Yefimovich SERGEEV",
+    "Petr Nikitovich SAVALYEV",
+    "Vasiliyevich SOLOKO",
+    "Ivan ANNOYEV",
+    "VALINE",
+    "Walter R. CLASSENBORY",
+    "Aleksey SLUMAROV",
+    "Albert AKULOV",
+    "Ivan Yefimovich SERGEYEV",
+    "Dmitry Ye. GOLDIN",
+    "ANIKIN/1",
+    "Anatoliy PAVLOV",
+    "Genia Vasilyevich PERELETOV",
+    "Feliks Dmitryevich KARASEV",
+    "Olivia R. CLENICK"
+  ],
+  "recipient": "WE, SR",
+  "sender": "OLIVIA R. CLENICK"
+}

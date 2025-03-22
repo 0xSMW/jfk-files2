@@ -1,0 +1,38 @@
+{
+  "classification": "Liaison",
+  "document_type": "Airtel",
+  "security": "Releasing specific details of the information provided by British Security Service, MI-5, and British Secret Intelligence Service, MI-6, regarding Cuban Embassy communications in London, could compromise intelligence-sharing relationships and reveal sensitive intelligence collection methods. According to the document: \"On 6/22/64 Mr. R. E. CARTER, CIA, London, on a highly confidential basis, furnished the following information which comes from a tisur on the Cuban Embassy, London, operated by British Security Service, MI-5 and British Secret Intelligence Service, MI-6.\"",
+  "security_level": "Secret",
+  "summary": "An FBI airtel from the Legat in London relays information provided by the CIA regarding a conversation intercepted by British intelligence at the Cuban Embassy in London, concerning the Kennedy assassination.",
+  "summary_one_paragraph": "On June 26, 1964, the FBI received an airtel from its Legat in London, detailing information passed on by Mr. R.E. Carter of the CIA regarding an intercepted conversation at the Cuban Embassy in London on May 8, 1964. The conversation, between Mario Riva Patterson (Counselor, Cuban Embassy) and an unidentified male visitor, touched on the assassination of President Kennedy and whether an individual named \"Foster\" had been to Cuba; Riva denied Foster had been to Cuba and indicated he was denied a visa. The visitor suggested it was an FBI job, to which Riva responded with disdain, blaming \"Imperialists.\"",
+  "tags": [
+    "JFK Assassination",
+    "Cuban Embassy",
+    "London",
+    "British Intelligence",
+    "FBI",
+    "CIA",
+    "Mario Riva Patterson",
+    "R.E. Carter",
+    "Lee Harvey Oswald"
+  ],
+  "title": "Assassination of President John Fitzgerald Kennedy",
+  "conspiracy": "The document includes a discussion about whether 'Foster' (possibly Oswald) was in Cuba, suggesting a potential Cuban connection to the assassination.",
+  "date": "1964-06-26",
+  "locations_mentioned": [
+    "London",
+    "Cuban Embassy",
+    "Dallas, Texas",
+    "Tampico",
+    "Cuba"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Fitzgerald Kennedy",
+    "Mario Riva Patterson",
+    "R. E. Carter",
+    "Lee Harvey Oswald"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "Legat, London"
+}

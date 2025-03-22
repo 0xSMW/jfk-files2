@@ -1,0 +1,24 @@
+{
+  "classification": "Commission",
+  "document_type": "Letter",
+  "security": "This document outlines the Church Committee's planned investigation into CIA activities, including domestic operations and potential abuses. Releasing details of specific projects and individuals under investigation (detailed in attachments not included) could compromise ongoing investigations and reveal sensitive intelligence gathering methods, potentially jeopardizing sources and operations. The document requests a large amount of files related to specific CIA operations which could reveal methods, sources, and targets of intelligence gathering. For example, projects like MHCHAOS and HYDRA are named, as well as specific surveillance programs. ",
+  "security_level": "Secret",
+  "summary": "A letter from Senator Frank Church to William Colby, Director of Central Intelligence, outlining the Senate Select Committee's investigation into CIA activities, including domestic operations and potential abuses.",
+  "summary_one_paragraph": "This is a letter dated June 26, 1975, from Senator Frank Church, Chairman of the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee), to William E. Colby, Director of Central Intelligence (CIA). The letter informs Colby of the Committee's plans to examine foreign intelligence, covert action, and domestic activities of the CIA, including counterintelligence, relationships with other organizations, and the use of CIA resources for non-intelligence purposes. It outlines the Committee's intent to investigate \"questionable activities\" such as mail openings, electronic surveillance, and drug testing, and requests documents and interviews with CIA personnel to assess the CIA's authority, internal controls, and coordination with other agencies.",
+  "tags": [
+    "Church Committee",
+    "CIA",
+    "Frank Church",
+    "William Colby",
+    "Investigation",
+    "Domestic Activities",
+    "Covert Action",
+    "Intelligence Activities",
+    "Document Request",
+    "Anti-Castro Activities"
+  ],
+  "title": "Document Request, Church Com.",
+  "date": "1975-06-26",
+  "origin_agency": "SSCIA",
+  "sender": "CHURCH, FRANK"
+}

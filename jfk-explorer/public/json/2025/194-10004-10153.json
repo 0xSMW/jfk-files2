@@ -1,0 +1,30 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "Releasing information about an individual's Selective Service registration, SSN, DOB, and POB could compromise their privacy.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report regarding David Reed Fromer, a Selective Service registrant, indicating that local agencies in Marin County and Mill Valley, California, disclosed no records concerning him.",
+  "summary_one_paragraph": "This agent report, submitted on December 1, 1966, concerns David Reed Fromer, a Selective Service registrant with SSN 564-58-8137, born on July 21, 1942, in Chicago, Illinois. Special Agent Howard W. Crabtree of the 115th INTC Gp (I) MI reports that checks of various local agencies, including Sheriff's Offices in Marin County and Police Departments in Mill Valley, California, revealed no records pertaining to Fromer.",
+  "tags": [
+    "David Reed Fromer",
+    "Selective Service",
+    "Marin County",
+    "Mill Valley",
+    "Agent Report",
+    "INSCOM",
+    "CSF"
+  ],
+  "title": "[ RESTRICTED ]",
+  "date": "1966-12-01",
+  "locations_mentioned": [
+    "Chicago, Illinois",
+    "Marin County, California",
+    "San Rafael, California",
+    "Mill Valley, California"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "David Reed Fromer",
+    "Howard W. Crabtree"
+  ]
+}

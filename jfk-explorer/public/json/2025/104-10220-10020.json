@@ -1,0 +1,36 @@
+{
+  "classification": "Security",
+  "document_type": "Cable",
+  "security": "This cable discusses Richard Case Nagell's interactions with Swiss authorities, including reporting a missing document intended for U.S. military authorities in Berlin. Sharing this information could reveal intelligence-gathering activities related to Nagell and potentially compromise sources. Specifically, it mentions: \"INFREED HAS REPORTED THAT RICHARD CASE NAGELL...HAS AGAIN COME TO SWISS ATTENTION...REPORTED TO POLICE THAT HIS RAINCOAT HAD DISAPPEARED. CLAIMED THAT AN IMPORTANT DOCUMENT INTENDED FOR THE AMERICAN MILITARY AUTHORITIES IN BERLIN WAS IN THE POCKET.\"",
+  "security_level": "SECRET",
+  "summary": "A cable reports Richard Case Nagell's activities in Zurich, where he claimed a document intended for American military authorities in Berlin was stolen; Nagell is described as a fabricator and mental case who causes trouble for Swiss and U.S. consulates.",
+  "summary_one_paragraph": "This SECRET cable, dated June 12, 1970, relays information that Richard Case Nagell, born August 5, 1930, and a U.S. citizen, has once again come to the attention of Swiss authorities. Nagell reported to the Zurich police in mid-April 1970 that his raincoat, containing a document entitled \"FISCAL YEAR 70 (USAREUR)\" intended for American military authorities in Berlin, had disappeared. The raincoat was later found without the document. When questioned, Nagell provided Colonel Francis H. Dillon, Francis X. Plant, and Bruce A. Flatin as references. The cable indicates Nagell is considered a fabricator and a mental case who periodically creates issues for Swiss and U.S. consulates and instructs relevant parties to advise U.S. Army authorities about the missing document.",
+  "tags": [
+    "Richard Case Nagell",
+    "Zurich",
+    "Berlin",
+    "Swiss Authorities",
+    "Fabricator",
+    "Mental Case",
+    "US Army",
+    "DIA",
+    "Document Theft"
+  ],
+  "title": "Richard Case Nagell Activity in Zurich",
+  "date": "1970-06-12",
+  "locations_mentioned": [
+    "Zurich",
+    "Berlin",
+    "New York",
+    "Switzerland"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Richard Case Nagell",
+    "Francis H. Dillon",
+    "Francis X. Plant",
+    "Bruce A. Flatin"
+  ],
+  "recipient": "Director, Bonn, Frankfurt, Berlin, Zurich",
+  "sender": "INK"
+}

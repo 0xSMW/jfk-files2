@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This document contains information from a confidential informant regarding communications between Carlos Alejos, Miguel Ydigoras-Fuentes, and Jose Miro Cardona related to anti-Fidel Castro activities. Disclosing this information could expose the informant, compromise intelligence-gathering methods, and negatively impact diplomatic relations with Guatemala and Cuba. It is labeled CONFIDENTIAL with a distribution restriction.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "An FBI report details a confidential informant's information about Carlos Alejos, Guatemalan Ambassador to the United States, facilitating communication between Miguel Ydigoras-Fuentes and Jose Miro Cardona concerning anti-Fidel Castro activities.",
+  "summary_one_paragraph": "On February 21, 1963, an FBI report relayed information from a confidential source stating that Carlos Alejos, the Guatemalan Ambassador to the U.S., contacted Miguel Ydigoras-Fuentes about Jose Miro Cardona, President of the Cuban Revolutionary Council, expressing regret for missing a meeting and praising Ydigoras-Fuentes' actions regarding Cuba; Ydigoras-Fuentes agreed to meet Cardona in Guatemala and instructed Alejos to issue him a visa, highlighting the ongoing anti-Fidel Castro activities involving these individuals.",
+  "tags": [
+    "FBI",
+    "Anti-Fidel Castro Activities",
+    "Cuba",
+    "Internal Security",
+    "Guatemala",
+    "Confidential Informant",
+    "Carlos Alejos",
+    "Miguel Ydigoras-Fuentes",
+    "Jose Miro Cardona"
+  ],
+  "title": "ANTI-FIDEL CASTRO ACTIVITIES",
+  "date": "1963-02-25",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Guatemala",
+    "Cuba",
+    "United States"
+  ],
+  "origin_agency": "Federal Bureau of Investigation (FBI)",
+  "persons_mentioned": [
+    "Carlos Alejos",
+    "Miguel Ydigoras-Fuentes",
+    "Jose Miro Cardona",
+    "Fidel Castro"
+  ],
+  "recipient": "Your Agency",
+  "sender": "Federal Bureau of Investigation (FBI)"
+}

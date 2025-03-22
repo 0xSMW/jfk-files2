@@ -1,0 +1,35 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "Revealing that the CIA is assisting foreign magistrates in obtaining documents, particularly those related to the JFK assassination investigation, could be perceived as the agency overstepping its boundaries or engaging in covert activities. Also, stating \"WE ARE NOT KEEN TO GET INTO CHASING SUCH DOCUMENTS DOWN FOR CVYSWORD WE INTEND TO RESPOND THAT VISWORD SHOULD WRITE DIRECTLY TO THE NATIONAL ARCHIVES TO OBTAIN THEM,\" showcases a reluctance to cooperate which might harm relations.",
+  "security_level": "SECRET",
+  "summary": "A cable from the CIA's Rome station to the Director and Paris station regarding a request from VYSWORD (Counterintelligence/Counterterrorism) for documents related to Jean Rene Soutre, an OAS captain, noting the documents may be related to the JFK assassination investigation.",
+  "summary_one_paragraph": "This secret cable, originating from the CIA station in Rome on August 7, 1997, addresses a VYSWORD request for assistance in obtaining declassified documents related to Jean Rene Soutre (aka Michel Roux), an OAS Captain. The VYSWORD First Division (Counterintelligence/Counterterrorism) seeks to confirm the declassification and availability of specific FBI and CIA documents, reportedly available at the National Archives in College Park, Maryland, for unnamed magistrates in Milan. The Rome station expresses reluctance to directly assist VYSWORD but seeks confirmation that the documents have indeed been declassified and made available online, noting the documents' potential relevance to the JFK assassination investigation.",
+  "tags": [
+    "CIA",
+    "VYSWORD",
+    "Jean Rene Soutre",
+    "Michel Roux",
+    "OAS",
+    "Organization Secret Armie",
+    "JFK Assassination",
+    "Declassification",
+    "National Archives",
+    "Counterintelligence",
+    "Counterterrorism"
+  ],
+  "title": "VYSWORD Request for Documents on Jean Rene Soutre AKA Michel Roux, OAS Captain",
+  "date": "1997-08-07",
+  "locations_mentioned": [
+    "Milan",
+    "College Park, Maryland",
+    "Rome"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Jean Rene Soutre",
+    "Michel Roux"
+  ],
+  "recipient": "Director, Paris Station",
+  "sender": "Staff (CIA Rome Station)"
+}

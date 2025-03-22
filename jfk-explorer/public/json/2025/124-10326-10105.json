@@ -1,0 +1,41 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Memorandum",
+  "security": "The method of addressing and forwarding SP material will enable us to handle such information in a discreet manner and request that you continue to forward this material in this manner. Your suggestion as set forth in paragraph two of reference will enable us to handle this highly sensitive material in the proper manner and request that you forward it as proposed. It is felt this is the best way in which this highly sensitive material can be handled.",
+  "security_level": "Secret",
+  "summary": "FBI memo discussing the handling of sensitive information received from the CIA, particularly concerning \"Bureau Informant 100\" (James Angleton) and SCOPE material (Israeli intelligence activities). It approves the CIA's proposed method of forwarding the information by courier in sealed envelopes.",
+  "summary_one_paragraph": "This FBI memorandum, dated April 20, 1970, addresses the procedure for handling sensitive information received from the CIA, specifically concerning information attributed to \"Bureau Informant 100\" (identified as James Angleton) and SCOPE material related to Israeli intelligence activities. The memo confirms the FBI's agreement with the CIA's proposed method of forwarding this material, which involves delivering it by courier in sealed envelopes to Liaison Section Supervisor D. J. Brennan, Jr., ensuring the discreet and proper management of this highly sensitive information.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "James Angleton",
+    "Bureau Informant 100",
+    "SCOPE",
+    "Israeli intelligence",
+    "Sensitive information",
+    "D.J. Brennan"
+  ],
+  "title": "SP Letter Series",
+  "date": "1970-04-20",
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "James Angleton",
+    "D. J. Brennan, Jr.",
+    "Tolson",
+    "DeLoach",
+    "Walters",
+    "Mohr",
+    "Bishop",
+    "Casper",
+    "Callahan",
+    "Conrad",
+    "Felt",
+    "Gale",
+    "Rosen",
+    "Slivgo",
+    "Soya",
+    "Holmes",
+    "Gandy"
+  ],
+  "sender": "HQ"
+}

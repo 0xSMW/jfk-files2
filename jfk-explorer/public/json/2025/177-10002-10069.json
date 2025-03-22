@@ -1,0 +1,47 @@
+{
+  "classification": "Mexico",
+  "document_type": "Memorandum",
+  "security": "The memorandum outlines sensitive diplomatic strategies and assurances between the United States and Mexico, particularly concerning Cuba, Red China, and Panama. Disclosing these strategies could compromise diplomatic relations and intelligence channels. The document states: 'Mexico is very sensitive about publicizing its cooperation and we have carefully avoided any public comment on Mexican control measures.' and 'Lopez Mateos has given us secret assurances, through CIA channels, that he has no intention of recognizing Red China. We do not desire to raise this issue, but if Lopez Mateos raises it, we should let him know we are aware of his assurances.'",
+  "security_level": "SECRET",
+  "summary": "Dean Rusk informs President Johnson about his upcoming meeting with Mexican President Lopez Mateos, emphasizing the importance of maintaining friendly relations and addressing key issues such as Cuba, Red China, and economic policies.",
+  "summary_one_paragraph": "Dean Rusk's memorandum to President Johnson outlines key discussion points for his meeting with Mexican President Lopez Mateos, aiming to reinforce the strong relationship between the two countries following President Kennedy's death. The memo advises emphasizing shared interests, respecting Mexico's sovereignty, and addressing sensitive topics such as Mexico's independent foreign policy, particularly concerning Cuba and relations with Communist China. It also covers economic matters like the Alliance for Progress, trade restrictions, and the Bracero Program, as well as specific issues such as the salinity problem on the Colorado River and the Chamizal settlement.",
+  "tags": [
+    "Mexico",
+    "Lopez Mateos",
+    "Lyndon B. Johnson",
+    "Dean Rusk",
+    "Cuba",
+    "Red China",
+    "Alliance for Progress",
+    "Bracero Program",
+    "Chamizal Settlement",
+    "Diplomacy"
+  ],
+  "title": "Your Meeting with President Lopez Mateos",
+  "date": "1964-02-18",
+  "locations_mentioned": [
+    "Mexico",
+    "United States",
+    "Cuba",
+    "China",
+    "Los Angeles",
+    "El Paso",
+    "Ciudad Juarez",
+    "Rio Grande Valley",
+    "Yuma",
+    "Tijuana"
+  ],
+  "origin_agency": "STATE",
+  "persons_mentioned": [
+    "Dean Rusk",
+    "Lyndon B. Johnson",
+    "Lopez Mateos",
+    "John F. Kennedy",
+    "Gustavo Diaz Ordaz",
+    "Fidel Castro",
+    "De Gaulle",
+    "Orlich"
+  ],
+  "recipient": "The President",
+  "sender": "Dean Rusk"
+}

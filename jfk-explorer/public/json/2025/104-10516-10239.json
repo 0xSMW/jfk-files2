@@ -1,0 +1,23 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memo",
+  "security": "The document mentions 'NODEC TON LIAISON CHECKSIDE NO OPERATIONAL INTER...', indicating potential protocols or restrictions related to liaison activities. Disclosing these could reveal operational sensitivities or limitations.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document appears to be a memo or routing slip related to liaison checks, possibly involving NODEC TON, with references to locations like Mexico, Manila, and Honolulu.",
+  "summary_one_paragraph": "This unclassified document, bearing the identifier 104-10516-10239 and subject to the John F. Kennedy Assassination Records Act of 1992, seems to be an internal routing slip or memo referencing liaison checks, potentially under 'NODEC TON', with mentions of 'CHECKSIDE NO OPERATIONAL INTER...' and locations including Mexico City, Manila, and Honolulu, suggesting some form of coordination or information flow between offices, as well as a date appearing as 'PEGA CALA 1923'.",
+  "tags": [
+    "Liaison",
+    "NODEC TON",
+    "Mexico",
+    "Manila",
+    "Honolulu",
+    "CHECKSIDE",
+    "Non-operational"
+  ],
+  "title": "Liaison Checks",
+  "locations_mentioned": [
+    "Mexico",
+    "Manila",
+    "Honolulu"
+  ]
+}

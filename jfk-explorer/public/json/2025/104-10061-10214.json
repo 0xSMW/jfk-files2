@@ -1,0 +1,37 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security": "The memo details the existence of files on individuals and entities related to the JFK assassination, including George DeMohrenschildt, Leo Cherne, William Harvey, Richard Helms, James Angleton, Raymond Rocca, International Rescue Committee and Wackenhut Corporation. Revealing the existence and contents of these files, particularly those concerning cover operations and contacts with commercial assets, could expose intelligence sources, methods, and operational relationships, potentially damaging ongoing or future activities. For example, the memo states, \"CCS files contain information on individuals and entities cited in certain numbered items of Reference C... CCS maintains a file on the Research Institute of America...CCS maintains a file... with TDY travel orders, cover documentation...\" This level of detail could compromise sensitive operational capabilities.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memorandum from H. Clark Schor to SA/DO/O providing additional information regarding the House Select Committee on Assassinations (HSCA) request for information on individuals and entities cited in Reference C.",
+  "summary_one_paragraph": "H. Clark Schor, Chief of Plans and Review Group, Central Cover Staff, sends a memo to SA/DO/O supplementing a previous memo regarding the House Select Committee on Assassinations (HSCA) request. This memo details CCS files containing information on individuals such as George DeMohrenschildt (contact reports with a commercial asset), Leo Cherne (cover provided for a NOC officer and files on the Research Institute of America), William Harvey (cover during his Agency career), Richard Helms, James Angleton, Raymond Rocca, and entities such as the International Rescue Committee (Agency non-use and FOIA requests) and Wackenhut Corporation (contacts with officials), and specifies the range of dates and types of documents available for each.",
+  "tags": [
+    "HSCA",
+    "House Select Committee on Assassinations",
+    "George DeMohrenschildt",
+    "Leo Cherne",
+    "William Harvey",
+    "Richard Helms",
+    "James Angleton",
+    "Raymond Rocca",
+    "International Rescue Committee",
+    "Wackenhut Corporation",
+    "CCS",
+    "Central Cover Staff",
+    "Cover Operations"
+  ],
+  "title": "House Select Committee on Assassinations (HSCA) Request",
+  "date": "1978-01-29",
+  "persons_mentioned": [
+    "George DeMohrenschildt",
+    "Leo Cherne",
+    "William Harvey",
+    "Richard Helms",
+    "James Angleton",
+    "Raymond Rocca",
+    "Alexander Rorke",
+    "H. Clark Schor"
+  ],
+  "recipient": "SA/DO/O",
+  "sender": "H. Clark Schor, Chief, Plans and Review Group, Central Cover Staff"
+}

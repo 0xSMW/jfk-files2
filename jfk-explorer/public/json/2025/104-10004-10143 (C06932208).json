@@ -1,0 +1,33 @@
+{
+  "classification": "JFK",
+  "document_type": "PAPER, TEXTUAL DOCUMENT",
+  "security": "Revealing the discussion details concerning Oswald's stay in Helsinki and his contact with the Soviet Consulate could expose intelligence-gathering methods and sources. Mentioning specific individuals like Frank Friberg and Robert Fulton, along with details about the Helsinki Station's involvement, could compromise their identities or operational roles.",
+  "security_level": "SECRET",
+  "summary": "A CIA record discussing Oswald's stay in Helsinki in October 1959, focusing on his contact with the Soviet Consulate and the timeline of events, prompted by the Warren Commission's inquiry.",
+  "summary_one_paragraph": "This CIA document, dated June 1, 1964, summarizes a discussion between a member of the SR Division and the COS Helsinki concerning the timeline of Lee Harvey Oswald's stay in Finland in October 1959, including his contact with the Soviet Consulate there. The discussion, prompted by a Warren Commission inquiry, gathers information from Frank Friberg, recently returned COS Helsinki, regarding travel times from the airport to downtown Helsinki and the Soviet consulate, the Soviet consulate's operating hours, and the retention policies for passenger manifests at the U.S. Consulate. The memo also mentions Robert Fulton as the U.S. consular official in Helsinki at the time and suggests changes to a cable sent to the Helsinki Station to assist in preparing a reply to the Warren Commission.",
+  "tags": [
+    "CIA",
+    "Oswald",
+    "Helsinki",
+    "Soviet Consulate",
+    "Warren Commission",
+    "Finland",
+    "SR Division",
+    "Frank Friberg",
+    "Robert Fulton"
+  ],
+  "title": "DISCUSSION BETWEEN MEMBER SR DIVISION CONCERNING OSWALD'S STAY IN HELSINKI.",
+  "conspiracy": "The document sheds light on the timeline of Oswald's activities in Helsinki and his contact with the Soviet Consulate, which are relevant to understanding potential connections or influences during his travels.",
+  "date": "1964-06-01",
+  "locations_mentioned": [
+    "Helsinki",
+    "USSR Consulate"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "Frank Friberg",
+    "Robert Fulton"
+  ],
+  "sender": "CIRA/PS"
+}

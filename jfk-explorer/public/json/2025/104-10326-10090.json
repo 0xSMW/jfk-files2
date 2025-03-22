@@ -1,0 +1,24 @@
+{
+  "classification": "Personnel",
+  "document_type": "Message",
+  "security": "Revealing security clearance details, such as 'TOP SECRET' and the basis for granting it ('FULL-FIELD BACKGROUND INVESTIGATION'), could potentially compromise security protocols if this information were to fall into the wrong hands. Disclosing the FBI's process for granting security clearances could expose vulnerabilities. The message states 'THE LISTED INDIVIDUAL HAS A \"TOP SECRET\" SECURITY CLEARANCE GRANTED BY THE FBI OCTOBER 14, 1994, BASED UPON A FULL-FIELD BACKGROUND INVESTIGATION CONDUCTED BY THE FBI'.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This message certifies David George Marwell's security clearance for attending meetings concerning the JFK assassination at the CIA, listing his clearance level, SSAN, and date of birth.",
+  "summary_one_paragraph": "This unclassified message, dated October 31, 1994, from the FBI Director to the CIA, certifies that David George Marwell, the Executive Director of the JFK Assassination Records Review Board, possesses a 'Top Secret' security clearance granted by the FBI on October 14, 1994. The message confirms that Marwell is authorized to attend meetings at the CIA regarding the JFK assassination from October 31, 1994, to October 30, 1995, and provides contact information for Janet Frederick at the FBI Personnel Security Unit should additional information be required.",
+  "tags": [
+    "Security Clearance",
+    "JFK Assassination Records Review Board",
+    "David George Marwell",
+    "FBI",
+    "CIA"
+  ],
+  "title": "Certification of Clearances",
+  "date": "1994-10-31",
+  "persons_mentioned": [
+    "David George Marwell",
+    "Tim Bowden",
+    "Janet Frederick"
+  ],
+  "recipient": "CIA Washington DC",
+  "sender": "Director FBI"
+}

@@ -1,0 +1,43 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "Revealing details about recruitment methods, location of CIA contacts, and the use of front organizations (Cubana de Fianza) could jeopardize ongoing operations and endanger personnel. Sharing information about radio reception checks, explosives, and arms caches, as well as asylum procedures could also compromise intelligence sources and methods. Quoting directly, \"OFFERS WERE AT (EDIFICIO FOCSA APTO 214) SECOND FLOOR WERE LOCATED (CIA) (CUBANA DE FIANZA) PRESIDENT (COBY MADURO) IN CHARGE OF (JUAN MENDEZ).\" and \"GROUP ASKED CHECK RECEPTION RADIO SWAN IN PROVINCES PINAR DEL RIO HAVANA AND MATANZAS.\"",
+  "security_level": "SECRET",
+  "summary": "A classified message reports on information from Luis Alberto de Jesus Condom Cajigal, who rejoined the anti-communist underground in Cuba around May 1960, detailing his recruitment, contacts, and activities related to planning potential actions against the Cuban government.",
+  "summary_one_paragraph": "Dated March 9, 1961, this message relays details from Luis Alberto de Jesus Condom Cajigal, who claims he rejoined the anti-communist underground in Cuba around May 1960. Cajigal states he was recruited at Edificio FOCSA by individuals associated with Cubana de Fianza, allegedly a CIA front, and was given the war name Jorge Pino. He mentions contacts with an American embassy member named Emilio Fernandez and involvement in surveying radio reception and planning arms caches and drop zones with individuals later executed or connected to Miami. Cajigal sought asylum in the Mexican embassy in Havana on January 2, 1961.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "Anti-Communism",
+    "Underground",
+    "Recruitment",
+    "Radio Swan",
+    "Explosives",
+    "Arms Caches",
+    "Asylum",
+    "Luis Alberto de Jesus Condom Cajigal"
+  ],
+  "title": "Report on Anti-Communist Activities in Cuba",
+  "date": "1961-03-09",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Pinar del Rio",
+    "Matanzas",
+    "Miami",
+    "Mexico City"
+  ],
+  "origin_agency": "OSS (Office of Strategic Services)",
+  "persons_mentioned": [
+    "Luis Alberto de Jesus Condom Cajigal",
+    "Coby Maduro",
+    "Juan Mendez",
+    "Rivero",
+    "El Rubio",
+    "Emilio Fernandez",
+    "Pinio Prieto",
+    "Fabio"
+  ],
+  "recipient": "Bell",
+  "sender": "Mexico City"
+}

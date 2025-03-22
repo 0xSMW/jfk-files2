@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "This cable provides the identities and dates of birth of Rolando Cubela Secades' wife, son, and mother. Releasing this information could expose these individuals to potential risks or harm, particularly given Cubela's history and involvement with sensitive operations. As the cable states, it concerns \"IDUNS: WIFE: \\\"IRTA NOVOA DELGADO...SON: ROLANDO CUBELA NOVOA...MOTHER: VIRGINIA SECADES ZELAVA...\"",
+  "security_level": "SECRET",
+  "summary": "A cable identifies the wife, son, and mother of Rolando Cubela Secades (AMLASH) who arrived in Madrid from Cuba on December 11, 1979.",
+  "summary_one_paragraph": "This SECRET cable, dated February 27, 1980, from the Madrid station to the Director, provides identifying information regarding Rolando Cubela Secades' (AMLASH) family: his wife Irta Novoa Delgado (born August 9, 1938, in Matanzas, Cuba), his son Rolando Cubela Novoa (born June 26, 1960, in Havana, Cuba), and his mother Virginia Secades Zelava (born April 30, 1908, in Las Villas, Cuba). All three individuals arrived in Madrid from Cuba on the same day as Cubela, December 11, 1979. The cable references file 201-252234.",
+  "tags": [
+    "Cubela",
+    "AMLASH",
+    "Madrid",
+    "Cuba",
+    "Family Identification",
+    "IDUNS",
+    "RYBAT",
+    "NINTEL"
+  ],
+  "title": "Identification of Rolando Cubela Secades' Family",
+  "date": "1980-02-27",
+  "locations_mentioned": [
+    "Madrid",
+    "Cuba",
+    "Matanzas",
+    "Havana",
+    "Las Villas"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Rolando Cubela Secades (AMLASH)",
+    "Irta Novoa Delgado",
+    "Rolando Cubela Novoa",
+    "Virginia Secades Zelava"
+  ],
+  "recipient": "Director",
+  "sender": "Madrid Station"
+}

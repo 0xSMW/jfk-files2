@@ -1,0 +1,43 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Classified Message",
+  "security": "This document reveals CIA activities directed at gathering intelligence on an author potentially influencing public discourse about President Kennedy’s assassination. It specifies collecting data from foreign intelligence services and local records on Joesten’s personal background, membership in the German Communist Party, and relationships. Exposing these requests could compromise CIA cooperation with foreign agencies, highlight infiltration of public records for intelligence purposes, and cast light on how the agency monitors critics of its operations.",
+  "security_level": "SECRET/RYBAT",
+  "summary": "A classified message requesting urgent background checks on Joachim Joesten, an author critical of the CIA (referred to as KUBARK) and writer of 'Oswald: Assassin or Fall Guy?'. The dispatch instructs several CIA stations in Europe to gather information, including personal details about Joesten’s fiancée, from local services and pre-World War I records. The intelligence is sought partly due to Joesten’s relevance to the Warren Commission’s inquiries.",
+  "summary_one_paragraph": "Dated 30 September 1964, this secret communication from the CIA Director instructs European stations to conduct comprehensive local and overt checks on Joachim Joesten, an anti-KUBARK author known for his book on Lee Harvey Oswald. The message details Joesten’s background—his membership in the German Communist Party, his travels through the USSR, France, Denmark, Sweden, and eventually the United States—and requests photostats or documentation of any pre–World War II materials connected to him or his fiancée, Anna Schinsky. Emphasizing the Warren Commission’s interest, the cable urges immediate action to confirm Joesten’s history and references his pseudonyms and prior anti-U.S. writings.",
+  "tags": [
+    "CIA",
+    "Warren Commission",
+    "FOIA",
+    "Joachim Joesten",
+    "Background Check",
+    "Anti-KUBARK",
+    "Secret/RYBAT"
+  ],
+  "title": "Classified Message: Background Check on Joachim Joesten",
+  "conspiracy": "This message references Joesten's book on Oswald and acknowledges the Warren Commission’s interest, but it does not reveal new or definitive information about the JFK assassination. Rather, it focuses on investigating the author’s background and beliefs, not clarifying who killed JFK or why.",
+  "date": "1964-09-30",
+  "locations_mentioned": [
+    "Cologne, Germany",
+    "Berlin, Germany",
+    "USSR",
+    "France",
+    "Denmark",
+    "Iceland",
+    "Sweden",
+    "United States"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Joachim Joesten",
+    "Anna Schinsky",
+    "May Nilsson",
+    "Hess (possible fiancé reference)",
+    "Franz Von Nesselrode (pseudonym)",
+    "H.F. Likin (pseudonym)",
+    "Walter Kell (pseudonym)",
+    "Paul Delathuis (pseudonym)"
+  ],
+  "recipient": "CIA Stations in Bonn, Frankfurt, Berlin, Copenhagen, Reykjavik, Paris, Stockholm, The Hague, Brussels",
+  "sender": "Director (possible T. R. Dumny reference)"
+}

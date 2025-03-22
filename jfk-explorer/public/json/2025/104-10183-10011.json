@@ -1,0 +1,28 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Classified Message",
+  "security": "Revealing contact plans and operational details (KEYWAY PBRUMEN AMWHIP) could jeopardize ongoing or future operations. Discussing specific stations and their interactions might expose sensitive information about CIA's global network. Quote: 'AMTHIP DUR ROME WEEK OF 13 OCT AND WILL CONTACT STATION PER OLD CONTACT PLAN.'",
+  "security_level": "SECRET",
+  "summary": "A classified message regarding AMWHIP's visit to Rome during the week of October 13, 1963, as per the old contact plan, with instructions for handling the visit.",
+  "summary_one_paragraph": "This SECRET classified message, dated October 14, 1963, relays information concerning AMWHIP's impending visit to Rome during the week of October 13. The message confirms that AMWHIP will contact the station following the established contact plan. It specifies routing and information dissemination to SAS 8, DDP, CI, CI/OPS, CI/OA, FI, WE 4, RF, and VR, and includes the designation 'KEYWAY PBRUMEN'. The message emphasizes that Rome should anticipate AMWHIP's arrival during that specific week, according to SAS commentary.",
+  "tags": [
+    "CIA",
+    "AMWHIP",
+    "Rome Station",
+    "Contact Plan",
+    "KEYWAY PBRUMEN",
+    "SAS",
+    "FOIA"
+  ],
+  "title": "AMWHIP Visit to Rome",
+  "date": "1963-10-14",
+  "locations_mentioned": [
+    "Rome"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "AMWHIP"
+  ],
+  "recipient": "Rome Station",
+  "sender": "Director"
+}

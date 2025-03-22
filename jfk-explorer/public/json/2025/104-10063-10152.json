@@ -1,0 +1,52 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security": "Disclosing the identities of contacts like John Manning and OPOWL/1 could jeopardize their safety and compromise ongoing intelligence gathering efforts. Discussing the technical survey of the PAS office reveals potential surveillance activities.  Quoting directly: \"(OPOWL/1 PERFORMED INITIAL TECHNICAL SURVEY. (FLOOR PLAN AND NOTES BEING FORWARDED BY DISPATCH).\" and \"(ODOWL/1 AND MANNING HAD TO (PORTION GARBLED) TO PAY AIRPORT TAX.\" implying operational activities and financial support.",
+  "security_level": "SECRET",
+  "summary": "A secret cable from Dar es Salaam reports on activities related to the MHCURB and MHCHAOS programs, detailing movements and contacts of individuals like Pete O'Neal, John Manning, and Roosevelt Brown, along with observations made by OPOWL/1 during a temporary duty assignment.",
+  "summary_one_paragraph": "This cable, originating from Dar es Salaam on January 31, 1973, provides updates on several individuals and operations linked to the MHCURB and MHCHAOS programs. OPOWL/1 reports that Pete O'Neal, a BPP leader, maintains a low profile but has been visited by Fred Johnson and exchanged visits with Shoo-Be-Doo, and now resides in an apartment complex mainly allocated to Chinese advisors. The cable also mentions John Manning's failed attempt to enter Uganda, Roosevelt Brown's movements between Nairobi and Dar es Salaam, Lynn (Prince Henry) Evans' presence, and the activities of Fred Brooks and Malik Chaka at the Pan African Skills (PAS) office, including a technical survey performed by OPOWL/1. It further notes George Rice's release by Tanzanian authorities and Curtis Powell's residence in the same area as Pete O'Neal.",
+  "tags": [
+    "MHCURB",
+    "MHCHAOS",
+    "BPP",
+    "Black Panther Party",
+    "OPOWL/1",
+    "John Manning",
+    "Pete O'Neal",
+    "Roosevelt Brown",
+    "PAS",
+    "Pan African Skills",
+    "George Rice",
+    "Curtis Powell",
+    "Tanzania",
+    "Uganda",
+    "Nairobi"
+  ],
+  "title": "Report on MHCURB and MHCHAOS Activities",
+  "date": "1973-01-31",
+  "locations_mentioned": [
+    "Dar es Salaam",
+    "Nairobi",
+    "Uganda",
+    "Zambia"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Pete O'Neal",
+    "Fred Johnson",
+    "Shoo-Be-Doo",
+    "John Manning",
+    "Leonard Dillon",
+    "Idi Amin",
+    "Joseph \"Fatman\" Brown",
+    "Roosevelt Brown",
+    "Lynn (Prince Henry) Evans AKA Fredrik-Rollins",
+    "Fred Brooks",
+    "Malik Chaka",
+    "George Rice AKA George Mathews",
+    "George Edward Wright AKA Larry Darnell Burgess",
+    "Curtis Powell"
+  ],
+  "recipient": "Headquarters, Nairobi (Eyes Only Mastrome)",
+  "sender": "Dar es Salaam"
+}

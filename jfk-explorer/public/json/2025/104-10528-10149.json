@@ -1,0 +1,24 @@
+{
+  "classification": "Unknown",
+  "document_type": "Cable",
+  "security": "There is not enough context to determine what content may be unwise to share due to ongoing operations or active agents, sensitive international relations, controversial or illegal activities, classified technology or methods, personal information about individuals, or content that could damage the CIA's reputation.",
+  "security_level": "Unknown",
+  "summary": "A cable with limited context, potentially related to individuals or operations (DANDORIC, EXP, TORKS, ALFONSO DIELLEOX).",
+  "summary_one_paragraph": "This document appears to be a cable dated 6 October 1963, referencing 'PARIS/PIPI?', 'PALP', 'DANDORIC EXP TORKS', and 'ALFONSO DIELLEOX', with a potential reference to 'DIR 24/6/68'. It includes identifiers such as 'Manuel Aregon', 'CA/35', and '552', but lacks sufficient context to determine its purpose or subject matter.",
+  "tags": [
+    "Cable",
+    "Manuel Aregon",
+    "DANDORIC",
+    "EXP",
+    "TORKS",
+    "ALFONSO DIELLEOX",
+    "PARIS"
+  ],
+  "title": "Cable Regarding DANDORIC EXP TORKS and ALFONSO DIELLEOX",
+  "date": "1963-10-06",
+  "persons_mentioned": [
+    "Manuel Aregon",
+    "ALFONSO DIELLEOX"
+  ],
+  "sender": "CA/35"
+}

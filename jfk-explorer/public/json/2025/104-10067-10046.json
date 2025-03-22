@@ -1,0 +1,31 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "Revealing that the CIA is tracking the movements and interests of the House Select Committee on Assassinations staff members, particularly their purpose of visiting Guayaquil. Could also expose CIA's intelligence-gathering activities. Directly quoting: \"NATURE OF PURPOSE OF VISIT NOT EXPLAINED, BUT WOULD LIKE TO KNOW IF HOS AWARE OF ABOVE AND SHOULD BASE EXPECT CONTACT FROM SUBJECTS.\"",
+  "security_level": "SECRET",
+  "summary": "A cable from the CIA's Guayaquil station (GAYA) to the Director and other stations (Quito, Caracas) regarding the upcoming visit of House Select Committee on Assassinations (HSCA) staff members Gaeton Fonzi and Albert Gonzales to Guayaquil on May 29, 1978, and Caracas on June 1, 1978.",
+  "summary_one_paragraph": "On May 23, 1978, the CIA station in Guayaquil (GAYA) sent a cable to the Director, Quito, and Caracas stations, informing them about the scheduled visit of Gaeton Fonzi and Albert Gonzales, staff members of the House Select Committee on Assassinations (HSCA), to Guayaquil on May 29 and Caracas on June 1. The cable indicates the base has received a copy of a State Department reference (STATE 129679) advising of the visit and requests information on whether the Host Government (HOS) is aware of the visit and if the base should expect contact from the subjects.",
+  "tags": [
+    "CIA",
+    "HSCA",
+    "Gaeton Fonzi",
+    "Albert Gonzales",
+    "Guayaquil",
+    "House Select Committee on Assassinations",
+    "JFK Assassination Records Act"
+  ],
+  "title": "Cable Regarding Visit of HSCA Staff Members to Guayaquil",
+  "date": "1978-05-23",
+  "locations_mentioned": [
+    "Guayaquil",
+    "Quito",
+    "Caracas"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Gaeton Fonzi",
+    "Albert Gonzales"
+  ],
+  "recipient": "Director, Quito, Caracas",
+  "sender": "STAFF (CIA Guayaquil station)"
+}

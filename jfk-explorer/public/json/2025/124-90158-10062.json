@@ -1,0 +1,40 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security": "The document reveals internal organizational details of DISIP, Venezuela's intelligence and prevention service, including names and positions of key personnel. Releasing this information could compromise DISIP's operations and personnel, potentially endangering individuals named in the report or hindering intelligence activities. Specifically, the document states, 'the Directorate of the Service of Intelligence and Prevention (DISIP) was as reorganized by its Director, Dr. Remberto Uzcategui Bruzual,' revealing specific details about the reorganization.",
+  "security_level": "Secret",
+  "summary": "A CIA cable, dated January 31, 1973, reports on the reorganization of Venezuela's Directorate of the Service of Intelligence and Prevention (DISIP), detailing key personnel assignments and divisional responsibilities within the service.",
+  "summary_one_paragraph": "This CIA cable discusses the reorganization of the Directorate of the Service of Intelligence and Prevention (DISIP) in Venezuela as of December 8, 1972. The cable, originating from the Central Intelligence Agency, outlines structural changes implemented by DISIP Director Dr. Remberto Uzcategui Bruzual, including appointments to executive positions such as Secretary General of Services (Dr. Oswaldo Dominguez), Chief of the General Information Division (Lic. Joaquin Chaffardet), and Chief of the General Operations Division (Commissioner Rodrigo Nieves Zarco). It describes the responsibilities of these divisions, including intelligence, counter-intelligence, police operations, and administrative matters, also identifying individuals heading specific subdivisions like Commissioner Luis Posada in the Fourth Division (Explosives and Armaments).",
+  "tags": [
+    "CIA",
+    "DISIP",
+    "Venezuela",
+    "Intelligence",
+    "Counter-Intelligence",
+    "Luis Posada",
+    "Reorganization"
+  ],
+  "title": "",
+  "date": "1973-01-31",
+  "locations_mentioned": [
+    "Venezuela",
+    "Caracas"
+  ],
+  "origin_agency": "CENTRAL INTELLIGENCE AGENCY",
+  "persons_mentioned": [
+    "LUIS POSADA",
+    "Remberto Uzcategui Bruzual",
+    "Oswaldo Dominguez",
+    "Joaquin Chaffardet",
+    "Rodrigo Nieves Zarco",
+    "Adolfo Romero Gomez",
+    "Arpad Bang",
+    "Julio Cesar",
+    "Luisarts Guerra",
+    "Jose Vasquez Blanco",
+    "Rafael Riva Vasquez",
+    "Alejandro Nystor"
+  ],
+  "recipient": "HQ",
+  "sender": "CIA"
+}

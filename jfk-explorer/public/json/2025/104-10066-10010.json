@@ -1,0 +1,37 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Message",
+  "security": "Revealing that the CIA is sanitizing Directorate records for the HSCA could expose sources and methods. Also, mentioning that the CIA is cooperating with the HSCA, but prefers overt functions to be handled by LEGATs, could damage relations with the committee if they perceive a lack of full transparency. Directly quoting: \"RTACTION is cooperating fully with Blakey and Committee including allowing them access to Directorate records, after suitable sanitization for sources and methods. However, believe Committee's efforts to interview police and witnesses and resulting useful information obtained, if any, is largely overt function which can best be handled by LEGATTS or others who would also be in a position to be publicly quoted or identified if necessary.\"",
+  "security_level": "SECRET",
+  "summary": "A message regarding the U.S. House of Representatives Select Committee on Assassinations (HSCA) investigation into the assassinations of President Kennedy and Martin Luther King, Jr., and their intention to pursue leads related to James Earl Ray in Portugal, the UK, and Mexico.",
+  "summary_one_paragraph": "This message, dated November 14, 1977, addresses the U.S. House of Representatives Select Committee on Assassinations (HSCA) investigation into the assassinations of President Kennedy and Martin Luther King, Jr. The HSCA plans to pursue leads related to James Earl Ray's activities in Portugal, the UK, and Mexico, based on information that Ray was briefly in Lisbon in May 1968 before his apprehension in London. The CIA is cooperating with the HSCA by providing access to sanitized Directorate records but prefers that overt functions, such as interviewing police and witnesses, be handled by LEGATs or publicly identifiable individuals. Stations are expected to advise embassies but avoid direct involvement unless unavoidable, in which case HQS should be notified.",
+  "tags": [
+    "HSCA",
+    "James Earl Ray",
+    "Martin Luther King Jr.",
+    "JFK Assassination",
+    "CIA",
+    "Investigation",
+    "Portugal",
+    "UK",
+    "Mexico",
+    "LEGAT"
+  ],
+  "title": "HSCA Investigation into Assassinations of President Kennedy and Dr. Martin Luther King",
+  "date": "1977-11-14",
+  "locations_mentioned": [
+    "Portugal",
+    "UK",
+    "Mexico",
+    "Lisbon",
+    "London"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "James Earl Ray",
+    "Martin Luther King Jr.",
+    "G. Robert Blakey"
+  ],
+  "recipient": "[LISBON], LONDON, MEXICO CITY",
+  "sender": "MASOVERN"
+}

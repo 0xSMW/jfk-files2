@@ -1,0 +1,29 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "Releasing the true names of human intelligence sources could endanger them and reveal sensitive operations. The memo states that 'discovery of a CIA source would also reveal any operations he was conducting and CIA case officers with whom he was meeting or might even cast suspicion on the affiliation of innocent family and friends.' Revealing identities would undermine the protection the CIA provides to those cooperating with the U.S. Government.",
+  "security_level": "SECRET",
+  "summary": "A CIA memorandum to the Assassination Records Review Board (ARRB) expresses concerns about releasing the true names of human intelligence sources in the JFK Collection, proposing substitutions to protect these individuals.",
+  "summary_one_paragraph": "This secret memorandum from the CIA to the ARRB, dated December 13, 1996, addresses the Agency's concerns regarding the release of true names of human intelligence sources within the JFK Collection. It argues that revealing these names could endanger the sources, compromise operations, and undermine the CIA's commitment to protecting those who work covertly for the U.S. Government, citing legal precedents and operational risks. The CIA proposes using substitutions, such as 'source' or a specific identifier (e.g., 'Mexican source 1'), instead of true names, and it offers to work with the Review Board to find resolutions for names particularly important to the JFK story, balancing historical value against the need for source protection.",
+  "tags": [
+    "CIA",
+    "ARRB",
+    "Human Sources",
+    "Source Protection",
+    "JFK Collection",
+    "Declassification",
+    "Secrecy",
+    "Intelligence Sources"
+  ],
+  "title": "Identity of Human Sources",
+  "date": "1996-12-13",
+  "origin_agency": "Central Intelligence Agency",
+  "persons_mentioned": [
+    "Robert Lipka",
+    "Aldrich Ames",
+    "Golitsyn",
+    "Anthony C. M. Devere"
+  ],
+  "recipient": "Executive Director, Assassination Records Review Board",
+  "sender": "John F. Pereira, Chief, Historical Review Group"
+}

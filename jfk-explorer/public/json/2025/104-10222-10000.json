@@ -1,0 +1,43 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security": "Disclosing the names of consultants and their termination dates could potentially reveal sensitive information about past projects or areas of interest to the agency, which could be exploited by adversaries. Also, Rufus L. Taylor security clearances requested to be kept open raises security concerns.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A memorandum from Charles W. Sandman, Chief of the Contract Personnel Division, to the Office of Finance, advising of the termination of consultant agreements effective June 30, 1974, with exceptions noted.",
+  "summary_one_paragraph": "Charles W. Sandman, Chief of the Contract Personnel Division, sent a memorandum to the Office of Finance on the termination of consultant agreements effective June 30, 1974. The memo lists consultants including Richard M. Bissell Jr., Robert R. Bowie, Robert Frandt, William V. Broe, Robert F. Byrnes, All Bulent Cambel, Leway O. Gilstrap, Kenneth E. Greer, John H. Gross, Clay K. Hadlock, Lawrence R. Hafstad, J. Richard Huber, Amos A. Jordan, Thomas H. Karamessines, Fumio Robert Naka, Oliver E. Fagan, W. E. Raborn, Gertrude F. Schroeder, Rufus L. Taylor and L. K. White. Noteworthy is that Rufus L. Taylor’s security clearances requested to be kept open, and no termination notification was sent.",
+  "tags": [
+    "consultants",
+    "termination",
+    "personnel",
+    "contract personnel",
+    "security clearances"
+  ],
+  "title": "Termination of Consultants",
+  "date": "1974-06-30",
+  "origin_agency": "Contract Personnel Division",
+  "persons_mentioned": [
+    "Richard M. Bissell Jr.",
+    "Robert R. Bowie",
+    "Robert Frandt",
+    "William V. Broe",
+    "Robert F. Byrnes",
+    "All Bulent Cambel",
+    "Gilstrap, Leway O.",
+    "Greer, Kenneth E.",
+    "Gross, John H.",
+    "Hadlock, Clay K.",
+    "Hafstad, Lawrence R.",
+    "Huber, J. Richard",
+    "Jordan, Amos A.",
+    "Karamessines, Thomas H.",
+    "Naka, Fumio Robert",
+    "Fagan, Oliver E.",
+    "Raborn, W. E.",
+    "Schroeder, Gertrude F.",
+    "Taylor, Rufus L",
+    "White, L. K.",
+    "Charles W. Sandman"
+  ],
+  "recipient": "Office of Finance",
+  "sender": "Charles W. Sandman, Chief, Contract Personnel Division"
+}

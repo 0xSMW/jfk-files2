@@ -1,0 +1,50 @@
+{
+  "classification": "Cuba",
+  "document_type": "Textual Document",
+  "security": "Revealing details of sources, especially those providing information about Cuban exile activities and groups like CORU, could endanger these individuals and compromise ongoing intelligence efforts. The document references 'SOURCE IDENTIFIED ROLANDO OTERO HERNANDEZ' and information 'SOURCED TO AN INDIVIDUAL WHOSE RELIABILITY HAS NOT BEEN ESTABLISHED.' Sharing this could expose sources and methods.",
+  "security_level": "Secret",
+  "summary": "This document, dated October 7, 1977, details information obtained by the CIA regarding Cuban exiles, including Rolando Otero Hernandez's role in coordinating between exiles in Miami and Santiago, Chile, and reports on a CORU meeting held in the Dominican Republic in June 1976.",
+  "summary_one_paragraph": "A CIA document sent to the FBI Director on October 7, 1977, relays information regarding Cuban exile activities, specifically identifying Rolando Otero Hernandez as a contact between exiles in Miami and Santiago, Chile. It also reports on a CORU meeting purportedly held in the Dominican Republic in June 1976, listing individuals allegedly in attendance; however, the reliability of the source providing the CORU meeting information is noted as unestablished.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "Cuban Exiles",
+    "CORU",
+    "Rolando Otero Hernandez",
+    "Source Information",
+    "Dominican Republic"
+  ],
+  "title": "",
+  "date": "1977-10-07",
+  "locations_mentioned": [
+    "Miami",
+    "Santiago, Chile",
+    "Santo Domingo",
+    "Dominican Republic",
+    "Bonao"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Rolando Otero Hernandez",
+    "Fidel Castro",
+    "Jorge Alonso Krujols",
+    "Ernesto Hernandez",
+    "Pablo Martin",
+    "Frank Teira",
+    "Luis Ross",
+    "Jose Aguila",
+    "Wilfredo Blanco",
+    "Levi Marrero",
+    "Jose Luis Prado",
+    "Andres Sargen",
+    "Jorge Canosa",
+    "Juan Perez-Leranco",
+    "Freddy Lugo",
+    "German Lozano",
+    "Orlando Bosch",
+    "Fernando Bueno",
+    "Guillermo Olivo"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "CIA"
+}

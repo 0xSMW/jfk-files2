@@ -1,0 +1,27 @@
+{
+  "classification": "Operations",
+  "document_type": "Cable",
+  "security": "This cable discusses the tracking of arms shipments and the identification of purchasers. Revealing the methods used to trace these shipments, such as serial number tracking and cooperation with manufacturers, could compromise ongoing intelligence operations and alert potential targets to surveillance activities. For example, detailing how serial numbers like 'C-3670609' are used to trace shipments and 'ascertain identity purchaser' reveals sensitive investigative techniques.",
+  "security_level": "SECRET",
+  "summary": "A cable concerning the tracking of arms shipments, including firearms and outboard motors, and efforts to identify purchasers and trace the movement of these items.",
+  "summary_one_paragraph": "This secret cable discusses the tracking of a shipment of firearms with serial number C-3670609, ordered on September 25, 1963, by an individual named MOWTHEAJ through LOUD STANDXER. It also mentions the tracking of twelve RR 12 outboard motors, shipped from Amsterdam on October 25, 1963, to ALMACYA DLSKELETTOR in CABADZAN, with the order placed by a Mr. Desce. The cable requests the background of the purchaser and the tracing of the motor's movements.",
+  "tags": [
+    "Arms Trafficking",
+    "Serial Number Tracking",
+    "Outboard Motors",
+    "Firearms",
+    "Purchaser Identification",
+    "Intelligence Operation"
+  ],
+  "title": "Tracking of Arms Shipments",
+  "date": "1963-09-25",
+  "locations_mentioned": [
+    "Canada",
+    "Kazuka Coast",
+    "Haukpoan, Illinois",
+    "Amsterdam",
+    "CABADZAN",
+    "Brussels Airport"
+  ],
+  "origin_agency": "CIA"
+}

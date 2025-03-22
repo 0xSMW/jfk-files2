@@ -1,0 +1,33 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "CIA Information Report (Telegram)",
+  "security": "Disclosing the intelligence source, described as 'A WESTERN BUSINESSMAN (B) WITH GOOD CONTACTS IN VIETNAMESE POLITICAL CIRCLES, FROM CUONG,' could compromise the source and their contacts. Additionally, revealing specific discussions among South Vietnamese cabinet members might strain diplomatic relations or expose sensitive political dynamics within the South Vietnamese government.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A CIA information report from October 15, 1963, details a recommendation by South Vietnamese cabinet officers to President Diem that Ngo Dinh Nhu be appointed Prime Minister, a proposal requiring a constitutional amendment.",
+  "summary_one_paragraph": "On October 15, 1963, the CIA issued an information report based on a source (a Western businessman) with contacts to Nguyen Hoang Cuong, the Executive Secretary of the National Economic Council, who reported that in early October, Vice President Nguyen Ngoc Tho informed him that a cabinet meeting had decided to recommend to President Diem the appointment of Ngo Dinh Nhu as Prime Minister. The rationale behind this proposal was that if Diem did not intend to reduce Nhu's influence, making him an official government figure would at least hold him accountable for his actions, necessitating a constitutional amendment to be voted on by the National Assembly.",
+  "tags": [
+    "CIA",
+    "Information Report",
+    "South Vietnam",
+    "Ngo Dinh Nhu",
+    "Nguyen Ngoc Tho",
+    "Nguyen Hoang Cuong",
+    "President Diem",
+    "Prime Minister",
+    "Cabinet Officers",
+    "Constitutional Amendment"
+  ],
+  "title": "CIA Information Report",
+  "date": "1963-10-15",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Ngo Dinh Nhu",
+    "Nguyen Ngoc Tho",
+    "Nguyen Hoang Cuong",
+    "President Diem"
+  ]
+}

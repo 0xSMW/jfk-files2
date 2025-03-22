@@ -1,0 +1,37 @@
+{
+  "classification": "Personnel",
+  "document_type": "Supplemental Personal History Statement",
+  "security": "This document contains personal information about Daniel Flores and his family, including dates and places of birth, addresses, employment details, and relationships. Releasing this information could violate privacy and potentially put individuals at risk. As this document contains PII, its release would be detrimental to the privacy of the individuals involved.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a Supplemental Personal History Statement for Daniel Flores, providing personal details such as his date and place of birth, marital status, spouse's information, residences, children, relatives living abroad, and personal declarations.",
+  "summary_one_paragraph": "Daniel Flores' Supplemental Personal History Statement includes his birth date and place, marital status (married to Dorothy Arnett Flores), spouse's birth information and citizenship, residences since 1969 (Guayaquil, Lima, Vienna, Va), information on his daughters Kendra and Zola Marie, and a nephew living in Germany. It also declares no arrests or unfavorable incidents and lists Mr. Nestor Sanchez as his supervisor. An earlier version from March 29, 1967, lists Harry T. Mahoney as his supervisor and the Flores' residence as 2828 Connecticut Ave., N.W. Washington, D.C.",
+  "tags": [
+    "Personal History",
+    "Daniel Flores",
+    "Personnel Security",
+    "Background Check",
+    "PII"
+  ],
+  "title": "Supplemental Personal History Statement",
+  "date": "1974-03",
+  "locations_mentioned": [
+    "San Marcos, Texas",
+    "Portland, Oregon",
+    "Lima, Peru",
+    "Guayaquil, Ecuador",
+    "Vienna, Virginia",
+    "Washington, D.C.",
+    "Ansbach, Germany"
+  ],
+  "persons_mentioned": [
+    "Daniel Flores",
+    "Dorothy Arnett Flores",
+    "Kendra Flores",
+    "Zola Marie Flores",
+    "Richard Guerrero",
+    "Nestor Sanchez",
+    "Harry T. Mahoney"
+  ],
+  "recipient": "Headquarters",
+  "sender": "Daniel Flores"
+}

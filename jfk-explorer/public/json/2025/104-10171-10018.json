@@ -1,0 +1,34 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "Revealing information about Cuban student resistance movements, their organization, leaders, and communication methods could endanger individuals involved and compromise their activities. Quoting: \"One of its leaders is Lester Carvin Rosales who is the chief of finance for Habana Province...He has an external line of communication, running out of Cuba, through an official of the Uruguayan Embassy in Habana.\"",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A report from March 1962 details activities of the Directorio Revolucionario Estudiantil (DRE), a student resistance organization in Havana, including its leadership, financing, propaganda, and alleged involvement in bombings, while also noting Cuban government fortifications and observations about the Cuban air force.",
+  "summary_one_paragraph": "This report, dated prior to March 7, 1962, and acquired in Havana, Cuba, from a Cuban national student source, describes the operations of the Directorio Revolucionario Estudiantil (DRE) in Havana, identifying leaders like Lester Carvin Rosales and Juan Roberto Quintairos Santiso, detailing their clandestine newspaper 'Trinchera,' and mentioning their bond sales to finance activities. The report also notes that the DRE was allegedly responsible for two bombings at the University of Havana in February 1962, observes Cuban government fortification efforts in Alturas del Bosque, and assesses the limited number of Cuban air force jets seen in the air at one time.",
+  "tags": [
+    "DRE",
+    "Student Resistance",
+    "Cuba",
+    "Havana",
+    "Propaganda",
+    "Bombings",
+    "Cuban Air Force",
+    "Fortifications"
+  ],
+  "title": "Report on Student Resistance in Habana",
+  "date": "1962-03-15",
+  "locations_mentioned": [
+    "Cuba",
+    "Habana",
+    "Alturas del Bosque",
+    "Campo Libertad",
+    "Uruguay"
+  ],
+  "origin_agency": "Unknown",
+  "persons_mentioned": [
+    "Isidoro Esquerra Fernandez",
+    "Lester Carvin Rosales",
+    "Juan Roberto Quintairos Santiso",
+    "Ricardo Martinez Perden"
+  ]
+}

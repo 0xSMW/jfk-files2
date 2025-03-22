@@ -1,0 +1,20 @@
+{
+  "classification": "Liaison",
+  "document_type": "Classified Message",
+  "security": "Revealing plans to share debriefing information with COLARRIAGA could compromise intelligence sources or methods. Quoting directly: \"CLEARED FOR PASSAGE TO LIAISON? IF SO, PLAN GIVE PRESENT COPY TO COLARRIAGA PLS ADVISE. IF AFFIRMATIVE, PLS SEND ADDITIONAL COPY FOR STATION. RETENTION.\"",
+  "security_level": "SECRET",
+  "summary": "A message regarding the debriefing of AMUG-1 and whether to forward the Spanish version to a liaison, specifically COLARRIAGA, and requesting advice and an additional copy for the station if approved.",
+  "summary_one_paragraph": "This classified message discusses the debriefing of AMUG-1 and seeks guidance on providing the Spanish version of the debriefing (HGGW-3947) to a liaison named COLARRIAGA; it asks whether this action has been cleared and, if so, requests an additional copy for station retention.",
+  "tags": [
+    "CIA",
+    "AMUG-1",
+    "COLARRIAGA",
+    "Liaison",
+    "Debriefing"
+  ],
+  "title": "AMUG-1 Debriefing (Spanish Version) Forwarded",
+  "date": "1964-05-25",
+  "origin_agency": "CIA",
+  "recipient": "WH 8",
+  "sender": "DIRECTOR"
+}

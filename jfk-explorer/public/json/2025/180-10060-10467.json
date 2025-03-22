@@ -1,0 +1,36 @@
+{
+  "classification": "Personnel",
+  "document_type": "Payroll Records",
+  "security": "This document contains personal information, specifically social security numbers, which are redacted to prevent unwarranted invasion of personal privacy. Releasing this information could violate privacy laws and harm individuals. Quoting the reason for board action: 'The text is redacted because the public disclosure of the redaction could reasonably be expected to constitute an unwarranted invasion of personal privacy, and that invasion of privacy would be so substantial that it outweighs the public interest.'",
+  "security_level": "Unclassified (with redactions)",
+  "summary": "This document is a collection of staff payroll records for Sheila Jackson Lee from the HSCA, detailing her employment, salary adjustments, and leave records, with social security numbers postponed to protect personal privacy.",
+  "summary_one_paragraph": "This document consists of payroll records related to Sheila Jackson Lee's employment with the House Select Committee on Assassinations (HSCA) in 1977 and 1978. It includes payroll authorization forms detailing her appointments, salary adjustments, and termination, as well as a personal leave record. These records show her employment under different authorizing officials, including Louis Stokes and Henry B. Gonzalez, and detail variations in her gross annual salary and position title. The document also includes a memorandum regarding payroll certification requirements and a notification of the document's partially postponed status due to the inclusion of Social Security numbers, which are redacted to protect personal privacy.",
+  "tags": [
+    "HSCA",
+    "Payroll Records",
+    "Sheila Jackson Lee",
+    "Social Security Numbers",
+    "Privacy",
+    "Redaction",
+    "Personnel Records",
+    "Employment History",
+    "Louis Stokes",
+    "Henry B. Gonzalez"
+  ],
+  "title": "Staff Payroll Records for Sheila Jackson Lee",
+  "date": "1977-01-01",
+  "locations_mentioned": [
+    "Washington, D.C."
+  ],
+  "origin_agency": "HSCA",
+  "persons_mentioned": [
+    "Sheila Jackson Lee",
+    "Louis Stokes",
+    "Henry B. Gonzalez",
+    "Thomas Howarth",
+    "I. Charles Mathews",
+    "Richard A. Sprague"
+  ],
+  "recipient": "Clerk of the House of Representatives, All Staff Employees",
+  "sender": "Thomas N. Downing, Henry B. Gonzalez, Louis Stokes, Budget Officer"
+}

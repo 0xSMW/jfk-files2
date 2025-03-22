@@ -1,0 +1,38 @@
+{
+  "classification": "Personnel",
+  "document_type": "Cold file",
+  "security": "This document details the recruitment and handling of Priscilla Johnson MacMillan as a potential asset. Disclosing these operational details, including code names like REDSKIN and KAPOK, the involvement of specific case officers (Alex Mikhalevsky, John Gerry, Gary Cort, Lowell D. Byrnes, James MacDonald), and methods of contact, could compromise current or future intelligence activities. Additionally, the reference to official notice being placed in 201 files held in SR, indicating the existence of another CI/OA folder, reveals internal record-keeping procedures. Sharing such information could potentially expose intelligence sources and methods.",
+  "security_level": "SECRET",
+  "summary": "This document outlines the CIA's interest in Priscilla Johnson MacMillan, including recruitment efforts, code names, and contacts with case officers, spanning from 1958 to 1975, with mentions of her connections to Lee Harvey Oswald and activities involving various projects.",
+  "summary_one_paragraph": "This file documents the CIA's interactions with Priscilla Johnson MacMillan (aka Mary Post), starting with a potential operational approach in 1958, involving code names like REDSKIN and KAPOK. CIA's interest included a personality file request, recruitment proposals, briefings, and contacts with case officers like Alex Mikhalevsky, John Gerry, Gary Cort, and Lowell D. Byrnes. The file also mentions her contacts with Lee Harvey Oswald, her broadcasting from Moscow, involvement in Project AE Dinosaur, and concludes with a note indicating her as a 'witting collaborator' as of January 1975.",
+  "tags": [
+    "Priscilla Johnson MacMillan",
+    "CI/OA",
+    "Recruitment",
+    "REDSKIN",
+    "KAPOK",
+    "Lee Harvey Oswald",
+    "Project AE Dinosaur",
+    "Cold File"
+  ],
+  "title": "Priscilla Johnson MacMillan Cold File",
+  "date": "1978-03-09",
+  "persons_mentioned": [
+    "Priscilla Johnson MacMillan",
+    "Alex Mikhalevsky",
+    "John Gerry",
+    "Lee Harvey Oswald",
+    "Gary Cort",
+    "Lowell D. Byrnes",
+    "James MacDonald",
+    "Marion Thaw",
+    "Donald Damason",
+    "Patricia Blake",
+    "R. Genzman",
+    "Alexander Logolow",
+    "John Maury",
+    "James MacDonald"
+  ],
+  "recipient": "CI/OA",
+  "sender": "R. Genzman"
+}

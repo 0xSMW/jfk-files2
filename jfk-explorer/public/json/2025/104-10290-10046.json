@@ -1,0 +1,24 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "The details of ongoing or planned services or deliveries that are mentioned (e.g. 'SINODAS A DECREED AND WILL DELIVER TEES AT 8000 AS THOK CHECK ARRIVES') could compromise sources or ongoing activities.",
+  "security_level": "SECRET",
+  "summary": "A classified message relays the content of a letter from \"MADOO TULLIO RODRIGUES\" regarding payment issues for previous and future purchases, requesting the letter be answered and future deliveries be arranged upon check arrival.",
+  "summary_one_paragraph": "This secret classified message, dated December 3, 1963, relays the content of a letter from \"MADOO TULLIO RODRIGUES\" addressed to an embassy (likely Cuban, given the reference to \"VEGA OF YOUR EMBASSY\"). Rodrigues expresses concern over payment delays for past deliveries and asserts that he cannot continue without resolving these issues, requesting a response and emphasizing his desire to avoid adverse relations. He also indicates his intent to deliver items after a check arrives, specifying \"SINODAS A DECREED AND WILL DELIVER TEES AT 8000 AS THOK CHECK ARRIVES.\"",
+  "tags": [
+    "ANLOD",
+    "RYBAT",
+    "Payment Issues",
+    "Purchases",
+    "Cuba"
+  ],
+  "title": "Letter Regarding Payment Issues",
+  "date": "1963-12-03",
+  "persons_mentioned": [
+    "MADOO TULLIO RODRIGUES",
+    "JOAQUIN KEHNANDEZ ARMAS",
+    "VEGA"
+  ],
+  "recipient": "SR JOAQUIN KEHNANDEZ ARMAS",
+  "sender": "Anderson"
+}

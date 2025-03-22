@@ -1,0 +1,26 @@
+{
+  "classification": "Commission",
+  "document_type": "Letter",
+  "security": "The letter discusses the declassification of Warren Commission document CD-071 and states, 'the points made by you in your letter provide every reason to keep the document out of the public domain.' Releasing such a document could compromise intelligence-sharing relationships and reveal sensitive information deemed harmful to national security by both the U.S. and Australia.",
+  "security_level": "SECRET",
+  "summary": "Richard Helms assures Sir Charles Spry that the CIA has no current plans to declassify Warren Commission document CD-071, based on Spry's recommendation, and acknowledges the reasons for keeping it private.",
+  "summary_one_paragraph": "In a letter dated November 26, 1968, CIA Director Richard Helms responds to Sir Charles C. F. Spry, Director General of the Australian Security Intelligence Organization, regarding Spry's recommendation against declassifying Warren Commission document CD-071. Helms acknowledges the concerns and confirms that, while the CIA had anticipated pressure for the release of Warren Commission papers, there is currently no intention to release the document, citing Spry's points as valid reasons to maintain its secrecy.",
+  "tags": [
+    "CIA",
+    "Australian Security Intelligence Organization",
+    "Warren Commission",
+    "Declassification",
+    "Richard Helms",
+    "Charles Spry",
+    "FOIA"
+  ],
+  "title": "Letter Regarding Warren Commission Document CD-071 Declassification",
+  "date": "1968-11-26",
+  "persons_mentioned": [
+    "Richard Helms",
+    "Charles C. F. Spry",
+    "Amos Taylor, Jr."
+  ],
+  "recipient": "Sir Charles C. F. Spry",
+  "sender": "Richard Helms (Director of Central Intelligence)"
+}

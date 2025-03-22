@@ -1,0 +1,28 @@
+{
+  "classification": "Personnel",
+  "document_type": "Cable",
+  "security": "The document discusses an individual living overseas under cover whose association with TOHIGHROAD could pose a security problem. Specifically, it says \"SUBJECT SAID THAT IN HIS CASE, GROUNDS FOR POSTPONEMENT OF PUBLIC DISCLOSURE MIGHT BE FOUND UNDER SUBPARAS 3 AND 4. HE NOTED THAT HE IS LIVING OVERSEAS UNDER COVER AND THAT REVELATION OF HIS ASSOCIATION WITH TOHIGHROAD WOULD INVADE HIS PRIVACY AND COULD POSE A SECURITY PROBLEM.\"",
+  "security_level": "SECRET",
+  "summary": "A cable from Bonn requesting assistance regarding a LACOS contact who visited the station and expressed concerns about the public disclosure of their association with TOHIGHROAD, citing privacy and security issues due to their overseas cover.",
+  "summary_one_paragraph": "A secret cable from the Bonn station to the Director, dated March 13, 1997, indicates that a LACOS contact visited the station after reading a tearline and expressed concerns about the potential public disclosure of their involvement with TOHIGHROAD. The subject, living overseas under cover, believes that revealing their association could compromise their privacy and security. They also requested information about documents associated with their name, as they had no recollection of involvement in any investigation or correspondence related to the Kennedy assassination.",
+  "tags": [
+    "TOHIGHROAD",
+    "LACOS",
+    "Covert Operations",
+    "Privacy",
+    "Security",
+    "Kennedy Assassination",
+    "Public Disclosure"
+  ],
+  "title": "Request for Station Assistance",
+  "date": "1997-03-13",
+  "locations_mentioned": [
+    "Bonn"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "BLACKANUM"
+  ],
+  "recipient": "Director",
+  "sender": "Staff"
+}

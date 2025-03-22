@@ -1,0 +1,25 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "Disclosing the identities of companies potentially used as fronts could hinder ongoing or future intelligence operations.",
+  "security_level": "PRIORITY",
+  "summary": "A cable identifies two companies, ASH & Company and Overseas Realty Survey Associates, possibly related to an operation in Mexico City.",
+  "summary_one_paragraph": "This is a priority cable sent from Mexico City on October 21, 1963, identifying two entities: ASH & Company located at 420 Lexington Ave, New York, N.Y., and Overseas Realty Survey Associates in Seattle, Washington. The cable, marked for background use only and not for reproduction, includes the reference numbers MEXI 77180 and DIR 77179, with instructions to return to the CIA.",
+  "tags": [
+    "CIA",
+    "Mexico City",
+    "ASH & Company",
+    "Overseas Realty Survey Associates",
+    "Possible Front Companies"
+  ],
+  "title": "Identification of ASH & Company and Overseas Realty Survey Associates",
+  "date": "1963-10-21",
+  "locations_mentioned": [
+    "Mexico City",
+    "New York",
+    "Seattle"
+  ],
+  "origin_agency": "CIA",
+  "recipient": "SIS CEN",
+  "sender": "WH/3/Mexico"
+}

@@ -1,0 +1,33 @@
+{
+  "classification": "Security",
+  "document_type": "Memorandum",
+  "security": "Revealing accommodation addresses could compromise individuals associated with those addresses, particularly if they are involved in sensitive operations. For example, disclosing the address associated with David S. MORALES (227 Laverne Avenue, Long Beach, California) could potentially expose him to unwanted attention or compromise his security.",
+  "security_level": "SECRET",
+  "summary": "This memorandum from the Deputy Director of Security (Investigations and Support) to the Chief of the WH Division confirms the cancellation of several accommodation addresses.",
+  "summary_one_paragraph": "On November 17, 1961, a memorandum was sent from the Deputy Director of Security (Investigations and Support) to the Chief of the WH Division, specifically J.J. Mulane, acknowledging the cancellation of multiple accommodation addresses. These addresses, previously requested for cancellation on October 10, 1961, include those associated with Andrew L. JACKOLDOW, David S. MORALES, Charles A. BERTELLI, Jacob SACKLOVE, Harold HAMILTON, Bernard Alvin PARKS, Maria Fernandezy SANCHE, Carmen Rodriguizy MENDOZA, and Norman R. HARTHERODT.",
+  "tags": [
+    "CIA",
+    "Security",
+    "Accommodation Addresses",
+    "WH Division",
+    "Cancellation"
+  ],
+  "title": "ACCOMMODATION ADDRESSES",
+  "date": "1961-11-17",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "J. J. MULANE",
+    "Andrew L. JACKOLDOW",
+    "David S. MORALES",
+    "Charles A. BERTELLI",
+    "Jacob SACKLOVE",
+    "Harold HAMILTON",
+    "Bernard Alvin PARKS",
+    "Maria Fernandezy SANCHE",
+    "Carmen Rodriguizy MENDOZA",
+    "Norman R. HARTHERODT",
+    "Victor R. White"
+  ],
+  "recipient": "Chief, WH Division",
+  "sender": "Deputy Director of Security (Investigations and Support)"
+}

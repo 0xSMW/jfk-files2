@@ -1,0 +1,42 @@
+{
+  "classification": "Cuba",
+  "document_type": "Classified Message",
+  "security": "This document details a FRD (Frente Revolucionario Democrático) plan involving Cuban exiles and outlines the use of a training base in Mexico, including the recruitment and screening of Cubans. Sharing this information could compromise ongoing operations, expose the FRD's plans, and damage relations with Mexico due to the unauthorized use of its territory. Quoting directly: '...FRD RECRUITING SCREENING CUBANS FOR TRAINING IN CAMPS MEXI...USING MARIA ALFARO ALVARADO, NICARAGUAN, AND LIMASK SET UP BEGIN MILITARY TRAINING SMALL GROUP CUBANS MEXI. CAMP AT NINCA EL PENON OF TOLUCA ROAD PROPERTY OWNED BY JOSE PUEBLA'.",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "A classified message from Mexico City reports on Roberto de Varona's independent operations and a large FRD plan involving Cuban exiles, including potential military actions and training camps in Mexico.",
+  "summary_one_paragraph": "This secret message, dated October 6, 1960, from the Mexico City station, addresses issues with Roberto de Varona’s independent handling of AMHAWK affairs, reporting that Varona has secured an independent office and is difficult to work with, leading to dissension within the Mexico delegation. The report also details a significant FRD plan involving 1500-2000 men, artillery, and planes for an invasion in November or December, with AMHAWK's participation, and notes that the FRD is recruiting and training Cubans in camps located in Mexico using Maria Alfaro Alvarado and LIMASK; additionally, it mentions potential actions to advise Roberto to leave the country to avoid arrest and deportation.",
+  "tags": [
+    "FRD",
+    "Roberto de Varona",
+    "AMHAWK",
+    "Cuban Exiles",
+    "Military Training",
+    "Mexico",
+    "Revolutionary Activities",
+    "Invasion Plan"
+  ],
+  "title": "Report on Roberto de Varona's Activities and FRD Plans",
+  "date": "1960-10-06",
+  "locations_mentioned": [
+    "Mexico City",
+    "Miami",
+    "Toluca",
+    "Santa Cruz del Sur",
+    "Latin America"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Roberto de Varona",
+    "AMHAWK",
+    "LITAINT-5",
+    "Rolando Rojas",
+    "Maria Alfaro Alvarado",
+    "LIMASK",
+    "Jose Puebla",
+    "William Felder",
+    "Hugh Montague",
+    "Jose Maria Rego Rubido"
+  ],
+  "recipient": "Director",
+  "sender": "Mexico City"
+}

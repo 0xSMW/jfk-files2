@@ -1,0 +1,23 @@
+{
+  "classification": "Administrative",
+  "document_type": "Manual",
+  "security": "Sharing the OI codes or revealing that certain individuals are excluded from listings could identify intelligence targets, expose collection methods, and compromise sensitive operations. For example, the document states: “If a component wishes to exclude a sensitive 201 personality from its alphabetic, numeric, and cryptonym listings, this may be done when opening the 201 or later by a 201 amendment.” Also, sharing that: “Top Secret documents are not to be retained in a 201 dossier forwarded to Central Files; the document must be downgraded for retention in the 201 dossier,” may provide methods to circumvent the system.",
+  "security_level": "SECRET",
+  "summary": "This document outlines the 201 system, a method used by the Operations Directorate to identify individuals of interest, control and file information about them, and generate lists of these personalities based on various categories.",
+  "summary_one_paragraph": "This 1974 document details the CIA's 201 system, which is used to identify individuals of interest to the Operations Directorate and to manage information pertaining to them. The system involves assigning unique numbers to individuals, creating dossiers, generating master records for indexing, and utilizing OI (Operational Interest) codes to categorize individuals’ associations with organizations or activities. The document covers procedures for opening, maintaining, purging, and restricting 201 dossiers, as well as requesting information and generating machine listings of 201 personalities based on various criteria, such as location, OI codes, and citizenship.",
+  "tags": [
+    "CIA",
+    "201 System",
+    "Operations Directorate",
+    "Information Management",
+    "Indexing",
+    "Dossiers",
+    "OI Codes",
+    "Machine Listings",
+    "Records Management",
+    "FOIA"
+  ],
+  "title": "The 201 System",
+  "date": "1974-11-15",
+  "origin_agency": "Central Intelligence Agency (CIA)"
+}

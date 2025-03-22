@@ -1,0 +1,37 @@
+{
+  "classification": "Operations",
+  "document_type": "Report",
+  "security": "Disclosing the names of individuals and companies involved in covert operations could expose them to harm or legal repercussions. Specifically, the mention of 'Bank and Hall covert account' and the method of funding could reveal sensitive financial procedures. Quoting: 'JMWAVE use of the Corporation is to provide cover for a maritime vessel' and 'This account is funded through the Bank and Hall covert account at the First National Bank of Miami'.",
+  "security_level": "SECRET",
+  "summary": "This document details two JMWAVE cover facilities, Ace Marine Survey, Inc. and Ceres Enterprises, Inc., outlining their structure, function, funding, and vulnerability assessments.",
+  "summary_one_paragraph": "This report describes two JMWAVE-controlled corporations: Ace Marine Survey, Inc., used to provide cover for the M/V SONORA and payrolling of agents, and Ceres Enterprises, Inc., which previously covered the M/V BARB and M/V JADE. Ace Marine Survey, Inc. is funded covertly through the Bank and Hall account at the First National Bank of Miami and is backstopped by Offshore Navigation Company. Ceres Enterprises, Inc., now inactive due to an agent capture in Cuba, was funded similarly through Peterman & Peterman Associates and its assets were transferred to other JMWAVE entities.",
+  "tags": [
+    "JMWAVE",
+    "Covert Operations",
+    "Maritime Vessel",
+    "Ace Marine Survey, Inc.",
+    "Ceres Enterprises, Inc.",
+    "Funding",
+    "Vulnerability Assessment",
+    "M/V SONORA",
+    "M/V BARB",
+    "M/V JADE"
+  ],
+  "title": "JMWAVE Cover Facility: Ace Marine Survey, Inc. and Ceres Enterprises, Inc.",
+  "date": "1967-03-06",
+  "locations_mentioned": [
+    "Miami, Florida",
+    "New Orleans, Louisiana",
+    "Chicago, Illinois",
+    "Cuba"
+  ],
+  "origin_agency": "JMWAVE",
+  "persons_mentioned": [
+    "Alfred J. Moran",
+    "Norman S. Pallot",
+    "Richard W. Freeman",
+    "George E. Brown",
+    "Thomas B. Duff"
+  ],
+  "recipient": "Undisclosed"
+}

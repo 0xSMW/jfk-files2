@@ -1,0 +1,42 @@
+{
+  "classification": "Cuba",
+  "document_type": "Dispatch",
+  "security": "The dispatch discusses the recruitment of a double agent, referred to as IDENTITY, by Cuban Intelligence (CUIS) and the intention to operate her against anti-Castro groups in Miami. It includes details about her training in document photography and instructions for delivering information to a contact at the Cuban U.N. Mission. Disclosing these details could compromise ongoing counterintelligence operations, expose sources and methods, and endanger the individuals involved.",
+  "security_level": "KAPOK/SECRET",
+  "summary": "A dispatch details the recruitment of an individual, codenamed IDENTITY, by Cuban Intelligence (CUIS) during a visit to Cuba and the intention to use her as a double agent against anti-Castro activities in Miami.",
+  "summary_one_paragraph": "This dispatch outlines the recruitment of IDENTITY by the CUIS during a visit to Cuba to see her imprisoned husband. IDENTITY was trained in document photography and instructed to report on anti-Castro activities in Miami, particularly those of Commando L. She was to deliver information to Chafik Homero SAKER Zonni at the Cuban U.N. Mission in New York. The dispatch requests that knowledge of this operation be kept to a minimum to allow LNERGO to operate IDENTITY as a double agent and includes possible JIWAVE traces on individuals and locations mentioned.",
+  "tags": [
+    "CUIS",
+    "Double Agent",
+    "IDENTITY",
+    "LNERGO",
+    "JIWAVE",
+    "Anti-Castro",
+    "Miami",
+    "Cuba",
+    "Recruitment",
+    "Counterintelligence"
+  ],
+  "title": "CUIS Recruitment of IDENTITY",
+  "date": "1967-06-16",
+  "locations_mentioned": [
+    "London",
+    "Mexico City",
+    "Cuba",
+    "Havana",
+    "USA",
+    "New York",
+    "UK",
+    "Miami"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Chafik Homero SAKER Zonni",
+    "Fidel Castro",
+    "Antonis Cuesta Valle",
+    "James C. Wray",
+    "Robert Bladergroen"
+  ],
+  "recipient": "All addressees",
+  "sender": "Chief, DA Division"
+}

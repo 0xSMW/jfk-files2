@@ -1,0 +1,34 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "Revealing that the CIA is tracking individuals like Giulio Mondello who may have connections to FIAT could compromise ongoing or future intelligence operations.",
+  "security_level": "SECRET",
+  "summary": "A cable from the Director to Mexico and Rome stations provides information on Giulio Mondello, an Italian citizen and former FIAT agent in Cuba, and the Nebiolo (Linotype) firm in Turin.",
+  "summary_one_paragraph": "This cable, dated September 30, 1963, originates from Director Stephen I. Munger/AVH and is addressed to the Mexico and Rome stations. It relays information about Giulio Mondello, an Italian citizen born on February 26, 1917, who was previously an agent in Cuba for FIAT and owned a TV tube factory, as well as referencing the Nebiolo (Linotype) firm in Turin. The cable instructs the recipient stations to cite DIR 72347 and references DIR 72346.",
+  "tags": [
+    "CIA",
+    "Giulio Mondello",
+    "FIAT",
+    "Cuba",
+    "Nebiolo",
+    "Linotype",
+    "Turin",
+    "Mexico Station",
+    "Rome Station"
+  ],
+  "title": "KAPOK KEYWAY PROTOCO",
+  "date": "1963-09-30",
+  "locations_mentioned": [
+    "Mexico",
+    "Rome",
+    "Italy",
+    "Cuba",
+    "Turin"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Giulio Mondello"
+  ],
+  "recipient": "Mexico Station, Rome Station",
+  "sender": "Stephen I. Munger/Director"
+}

@@ -1,0 +1,35 @@
+{
+  "classification": "Operations",
+  "document_type": "Response",
+  "security": "Revelation of his identity and of his past association with us would be dangerous to his security.",
+  "security_level": "SECRET",
+  "summary": "This document provides responses to the SSC's request for additional information on Project ZRRIFLE, clarifying cryptonyms, pseudonyms, and aliases used by individuals involved in the project.",
+  "summary_one_paragraph": "On September 17, 1975, a response was issued to the SSC's request for more information regarding Project ZRRIFLE; this response clarifies various cryptonyms and pseudonyms associated with individuals involved. The document specifies that the cryptonym FUTURE is likely a garble for FI/LA Division's FUTURE, assigned to a U.S. citizen operating abroad as a reporting source, whose true identity is withheld for security reasons. It also identifies KUTUBE as referring to FI Staff (now Operations Staff), LIVID as a sensitive foreign operational target, and LAURICLE as an action indicator for FI/D. Further, it reveals that Monroe B. ROZENEY, Ed JOUVENOY, Wanda CRICKARD, and James N. RABNEY are pseudonyms for various officers and clerks, including IDENTITY A (Oliver M. Silsby), an officer actively involved in clandestine operations, and IDENTITY B (Elizabeth A. McNeill), a former Agency employee.",
+  "tags": [
+    "ZRRIFLE",
+    "Cryptonyms",
+    "Pseudonyms",
+    "Aliases",
+    "Operations",
+    "Clandestine Operations",
+    "SSC",
+    "Project ZRRIFLE"
+  ],
+  "title": "Responses to SSC Request for Additional Information on Project ZRRIFLE",
+  "date": "1975-09-17",
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "William G. Miller",
+    "Walt Elder",
+    "Monroe B. ROZENEY",
+    "Ed JOUVENOY",
+    "Wanda CRICKARD",
+    "James N. RABNEY",
+    "Harvey",
+    "Daniel M. PRESLAND",
+    "William WALKER",
+    "Oliver M. Silsby",
+    "Elizabeth A. McNeill"
+  ],
+  "recipient": "SSC"
+}

@@ -1,0 +1,37 @@
+{
+  "classification": "Personnel",
+  "document_type": "List",
+  "security": "This document lists individuals associated with AEROOT and CAMBARO, including their functions within those projects. Revealing these names and roles could compromise past or ongoing operations if the projects are still sensitive or if the individuals are still active in related fields. For example, exposing the names of 'Native Consultants' could endanger those individuals.",
+  "security_level": "SECRET",
+  "summary": "This document lists personnel associated with projects AEROOT and CAMBARO, detailing their names and functions within those projects.",
+  "summary_one_paragraph": "This is a list of personnel involved in projects AEROOT and CAMBARO, providing their names and specific functions. The list includes roles such as Case Officer, Audio Surveillance, Photo Instructor, Commo Officer, Log Officer, Project Officer, Medical Officer, Firearms Instructor, Documents Instructor, Native Consultant, SW Instructor, Photography, Judo Instructor, and Airborne Training. The document is marked SECRET and intended for background use only.",
+  "tags": [
+    "AEROOT",
+    "CAMBARO",
+    "Personnel",
+    "Project Staff"
+  ],
+  "title": "AEROOT/CAMBARO Personnel List",
+  "persons_mentioned": [
+    "Charles P. Dexter",
+    "Bernard Edgecomb",
+    "John Felly",
+    "John Fiblo",
+    "George Fill",
+    "Donald Greer",
+    "John Gregor",
+    "Fred Henderson",
+    "Richard Holt",
+    "Clarence E. Howard",
+    "Hampton Howard",
+    "Herman Kimsey",
+    "Aleksi Kurgvel",
+    "Gulver Ladd",
+    "Demitri Levitsky",
+    "Arthur Lunda",
+    "Edward Malcomb",
+    "Edward Maslowsky",
+    "George Matecko"
+  ],
+  "recipient": "CIA"
+}

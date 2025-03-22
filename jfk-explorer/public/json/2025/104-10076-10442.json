@@ -1,0 +1,49 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Classified Message",
+  "security": "Disclosing the identities of individuals mentioned in this cable and the fact that the CIA is requesting information on them could compromise intelligence-gathering efforts and endanger the individuals involved. Specifically, requesting POAS (Proof of Assets) may indicate that these individuals are suspected of having ties to intelligence operations or are being considered as potential assets, which could expose them to risks if disclosed. Quoting directly: “REQUEST POAS FOLL:”",
+  "security_level": "SECRET",
+  "summary": "A CIA cable from the JA/WAVE station requesting Proof of Assets (POAS) and traces on multiple individuals in Cuba, including doctors, lawyers, and former officials, potentially for intelligence purposes.",
+  "summary_one_paragraph": "This SECRET-classified message, dated December 13, 1963, originates from the CIA's JA/WAVE station, seeking action from SAS 8 and information from DOP, CI/OA, and RI/AN/VR concerning multiple individuals residing in Cuba. The cable requests POAS (Proof of Assets) on Dr. Fidencio (Sanchez) Escoto, Dr. Oscar (Pina) Hernandez, Dr. Carlos (Rubi), Rayon Ivan (Ledo) Garvallo, Dr. Rene (Zamora) Carbonell, Manuel (Campanioni) Souza, Secundino (Fernandez) Gonzalez, and Capt. Eduardo (Rodriguez) Campbell, and also seeks traces on DSE Lt. Segundo (Ferrero) Cuevas. The dispatch provides biographical details, addresses, and references to previous mentions in CIA files, but notes that some individuals have no identifiable traces.",
+  "tags": [
+    "CIA",
+    "Cuba",
+    "POAS",
+    "Proof of Assets",
+    "Traces",
+    "Intelligence",
+    "JA/WAVE",
+    "Kennedy Assassination"
+  ],
+  "title": "Request for POAS and Traces on Individuals in Cuba",
+  "date": "1963-12-13",
+  "locations_mentioned": [
+    "Cuba",
+    "Habana",
+    "Miami Beach"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Dr. Fidencio (Sanchez) Escoto",
+    "Lolina Febles",
+    "Dr. Oscar (Pina) Hernandez",
+    "Petite Esnard",
+    "Dr. Carlos (Rubi)",
+    "Alicia Cusco",
+    "Rayon Ivan (Ledo) Garvallo",
+    "Jose Ramon (Ledo) Gonzalez",
+    "Ada Hilda Garvallo",
+    "Dr. Rene (Zamora) Carbonell",
+    "Manuel (Campanioni) Souza",
+    "Alicia",
+    "Secundino (Fernandez) Gonzalez",
+    "Teresa (Hevia) Cachero",
+    "Bernardo (Fernandez) Hevia",
+    "Capt Eduardo (Rodriguez) Campbell",
+    "Fidel Castro",
+    "Segundo (Ferrero) Cuevas",
+    "Ana Ledea",
+    "Raul Castro"
+  ],
+  "sender": "JA/WAVE (CIA Station in Miami)"
+}

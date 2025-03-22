@@ -1,0 +1,38 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "This document contains intelligence regarding potential plans to assassinate a U.S. Ambassador and other high-ranking officials, as well as a foreign religious leader. Disclosing this information could damage diplomatic relations, endanger individuals, and reveal intelligence-gathering capabilities.",
+  "security_level": "SECRET NOFORN",
+  "summary": "A CIA report from October 9, 1963, details plans by the South Vietnamese government to stage a student demonstration as a cover for assassinating Ambassador Henry Cabot Lodge, other embassy officials, and Buddhist leader Thich Tri Quang, and then burning the U.S. Embassy Chancery in Saigon.",
+  "summary_one_paragraph": "On October 9, 1963, the CIA issued a report based on information from a medium-level government official in South Vietnam, indicating that the Government of Vietnam (GVN) was planning to use a student demonstration in front of the American Embassy Chancery in Saigon as a cover for GVN agents to assassinate Ambassador Henry Cabot Lodge, other high-ranking embassy officials like Melvin L. Manfull, Frederick W. Flott, and John M. Dunn, as well as Thich Tri Quang. According to Nguyen Duy Bach, Chief of the Political Bureau, Presidential Security Service, after the assassinations, the GVN agents intended to set the Chancery on fire. The report also mentions the GVN's awareness of the student demonstration being organized and their intent to allow it due to the planned infiltration of GVN agents.",
+  "tags": [
+    "CIA",
+    "Assassination Plot",
+    "Henry Cabot Lodge",
+    "Thich Tri Quang",
+    "South Vietnam",
+    "Embassy Attack",
+    "Student Demonstration",
+    "Nguyen Duy Bach"
+  ],
+  "title": "Plans of Government to Assassinate Ambassador Lodge, Other High Embassy Officials, and Thich Tri Quang, and Burn the Chancery",
+  "date": "1963-10-09",
+  "locations_mentioned": [
+    "South Vietnam",
+    "Saigon"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Henry Cabot Lodge",
+    "Thich Tri Quang",
+    "Nguyen Duy Bach",
+    "Ngo Dinh Nhu",
+    "Ngo Trong Hieu",
+    "Melvin L. Manfull",
+    "Frederick W. Flott",
+    "John M. Dunn",
+    "Harkins"
+  ],
+  "recipient": "Dirnsa",
+  "sender": "CIA"
+}

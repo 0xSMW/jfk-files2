@@ -1,0 +1,25 @@
+{
+  "classification": "John F. Kennedy Assassination Records Act",
+  "document_type": "Routing and Record Sheet",
+  "security": "Revealing Camp Peary as a CIA installation, even if unacknowledged, could compromise its security and ongoing operations. Quoting directly, '...this base has never been officially acknowledged as a CIA installation.'",
+  "security_level": "SECRET",
+  "summary": "This document details the routing and review of a manuscript by David Phillips titled \"The Night Watch\" for classified information prior to its publication. Multiple CIA divisions are tasked with identifying classified material, information learned during Phillips' employment, and content not yet in the public domain.",
+  "summary_one_paragraph": "John M. Reeves, Jr. from C/EAB, is routing chapters from David Phillips' manuscript, \"The Night Watch,\" to various CIA divisions including LA Division, CI Staff, CCS, DDO/SS/SOG, OGC, DDO/SU, O/Commo, and SE Division for review. The review is to identify classified information, material learned during Phillips' tenure at the CIA, and content not yet in the public domain. A comment from C/SOG notes that Chapter 7 mentions Camp Peary as a CIA installation, which has never been officially acknowledged, prompting further review by NE Div and CAG; the deadline for review and comments is June 11, 1976, due to the author's publishing deadline.",
+  "tags": [
+    "CIA",
+    "David Phillips",
+    "The Night Watch",
+    "Manuscript Review",
+    "Classification Review",
+    "Camp Peary"
+  ],
+  "title": "Manuscript by David Phillips",
+  "date": "1976-05-24",
+  "persons_mentioned": [
+    "David Phillips",
+    "John M. Reeves, Jr.",
+    "H. Keough"
+  ],
+  "recipient": "DDO/SS/Sec",
+  "sender": "John M. Reeves, Jr., C/EAB"
+}

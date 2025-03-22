@@ -1,0 +1,21 @@
+{
+  "classification": "Administrative",
+  "document_type": "Payroll Certification",
+  "security": "The document itself does not contain sensitive information that would compromise national security or ongoing operations. However, the release of employee names, positions, and salaries could be considered a privacy concern. There are no direct quotes that are relevant for security.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document is a payroll certification for the U.S. House of Representatives Select Committee on Assassinations for the accounting period of September 1-30, 1977, listing employee names, positions, salaries, and periods of employment.",
+  "summary_one_paragraph": "This payroll certification document from the U.S. House of Representatives details the financial expenditures for the Select Committee on Assassinations for September 1977. It lists employees, including staff investigators, counsels, researchers, and clerical staff, along with their social security numbers, positions, annual salaries, gross pay earned, and the specific period they were paid for during the month. The report also indicates new appointments, terminations, and the total payroll expenditures for both clerical/professional and investigative staff, certifying that all listed employees performed their assigned duties and had no prohibited relationships with current members of Congress.",
+  "tags": [
+    "Payroll",
+    "HSCA",
+    "House Select Committee on Assassinations",
+    "Financial Records",
+    "Employee List",
+    "1977"
+  ],
+  "title": "Payroll Certification",
+  "date": "1977-09-30",
+  "origin_agency": "U.S. House of Representatives",
+  "recipient": "House Administration Committee",
+  "sender": "Assassinations Committee"
+}

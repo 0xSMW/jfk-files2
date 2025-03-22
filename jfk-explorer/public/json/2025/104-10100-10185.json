@@ -1,0 +1,31 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "This cable discusses covert operations, specifically mailing items to a subject (JUAN GOMEZ BLANCO) through non-accountable manifest mail. The use of non-accountable manifests and mailing to a subject in Peru could reveal operational methods if disclosed. Quoting directly: \"LETTER TO AMSOUR-2 BEING POUCHED MEXI BY NON ACCOUNTABLE MANIFEST NO. 57705L FOR MAILING TO SR.(JUAN GOMEZ BLANCO) IN PERUMEN.\"",
+  "security_level": "SECRET",
+  "summary": "A secret cable instructs the Mexico City station to mail a letter to SR. (JUAN GOMEZ BLANCO) in Peru via non-accountable manifest mail and to advise headquarters once the mailing occurs.",
+  "summary_one_paragraph": "This secret cable, originating from an unknown sender and addressed to the Mexico City station (MEXI), directs the mailing of a letter intended for SR. (JUAN GOMEZ BLANCO) in Peru. The letter, addressed to AMSOUR-2, is to be pouched by non-accountable manifest (No. 57705L) for mailing, and MEXI is instructed to notify headquarters (HQS) upon completion of the mailing, expected around November 1st. The cable provides limited context other than operational instructions for this discreet delivery.",
+  "tags": [
+    "CIA",
+    "AMSOUR",
+    "JUAN GOMEZ BLANCO",
+    "Non-Accountable Manifest",
+    "Covert Operations",
+    "Mexico City",
+    "Peru",
+    "Mailing Operation"
+  ],
+  "title": "TIPIC ANSOUR",
+  "date": "1963-10",
+  "locations_mentioned": [
+    "Mexico City",
+    "Peru"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Juan Gomez Blanco",
+    "AMSOUR-2"
+  ],
+  "recipient": "Mexico City Station (MEXI)",
+  "sender": "Unknown (J.S. KNO)"
+}

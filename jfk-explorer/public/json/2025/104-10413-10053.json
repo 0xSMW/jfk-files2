@@ -1,0 +1,38 @@
+{
+  "classification": "Operations",
+  "document_type": "Memorandum",
+  "security": "This memorandum details specific techniques and personnel involved in wiretapping operations in Mexico City, including how telephone lines are accessed, monitored, and managed. Disclosing this information would expose ongoing intelligence gathering methods, compromise the identities of individuals involved (such as Rene, Jose, RAFANELLI, WILSTED and SECHEN), and potentially disrupt current operations. Revealing specific locations of basehouses and targeted lines would significantly harm the security and effectiveness of these operations. An example of sensitive content: 'Personnel involved in the tapping of the lines are: (Rene)- who has access to the centrals...RAFANELLI then takes the material to a meeting between him, WILSTED and SECHEN...'",
+  "security_level": "SECRET",
+  "summary": "A memorandum detailing the status of Project LINOG, which involves wiretapping activities in Mexico City, discussing the reformation of the telephone system, methods of accessing telephone lines, and personnel involved in the operations.",
+  "summary_one_paragraph": "This secret memorandum, dated June 6, 1960, discusses Project LINOG, a wiretapping operation in Mexico City. It details challenges posed by the reformation of the city's telephone system, managed by Telefonos de Mexico, S.A., and subcontracted to Intel, which complicates LIFEAT operations by moving lines underground. The memo outlines methods to circumvent these issues, such as exploiting new apartment building regulations and using faulty line pairs. It identifies key personnel like Rene, Jose, RAFANELLI, WILSTED, and SECHEN, and lists various basehouses targeting Cuban, Russian, Polish, Nicaraguan, UAR, and Soviet entities. The memorandum also specifies that basehouse keepers do not perform live monitoring.",
+  "tags": [
+    "Project LINOG",
+    "Wiretapping",
+    "Mexico City",
+    "LIFEAT",
+    "Intelligence Gathering",
+    "Telefonos de Mexico",
+    "Intel",
+    "Basehouses"
+  ],
+  "title": "DEBRIEFING OF DAVID M. WILSTED (ps) COVERS HIM 03",
+  "date": "1960-06-06",
+  "locations_mentioned": [
+    "Mexico City",
+    "Mexico"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "David M. WILSTED",
+    "John G. Heyn",
+    "John Kennedy",
+    "Robert Brown",
+    "Robert Bryant",
+    "Charles Bray",
+    "Rene",
+    "Jose",
+    "RAFANELLI",
+    "SECHEN"
+  ],
+  "recipient": "Record"
+}

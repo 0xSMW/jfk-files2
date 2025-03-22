@@ -1,0 +1,20 @@
+{
+  "classification": "Operations",
+  "document_type": "Outgoing Message",
+  "security": "Revealing that BKHERALD has \"high level liaison equities\" with the CIA and that it is \"not in BKHERALD's interest to publish material\" from a specific source (PDLADLE) could jeopardize those relationships. The document explicitly states that an article from the mentioned source \"should not RPT NOT be published.\"",
+  "security_level": "SECRET",
+  "summary": "An outgoing message instructing the Copenhagen station to refrain from publishing material from PDLADLE in BKHERALD due to existing liaison equities and the source's un-surfaced status.",
+  "summary_one_paragraph": "This outgoing message, dated July 9, 1975, conveys instructions to the CIA station in Copenhagen regarding the publication of material from a source named PDLADLE in BKHERALD. Citing existing high-level liaison equities with BKHERALD and the un-surfaced status of PDLADLE, the message directs the station to ensure that any article or portion thereof derived from PDLADLE is not published. It defers to the station's judgment on the possible effects on the operational climate of publishing background pieces.",
+  "tags": [
+    "CIA",
+    "BKHERALD",
+    "PDLADLE",
+    "Liaison",
+    "Copenhagen",
+    "Source",
+    "Operations"
+  ],
+  "title": "NE FEATHER",
+  "date": "1975-07-09",
+  "recipient": "Copenhagen"
+}

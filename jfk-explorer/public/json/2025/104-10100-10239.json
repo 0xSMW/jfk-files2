@@ -1,0 +1,31 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "The cable identifies Michel Chidiac as a Lebanese Charge in Havana and references previous cables MEXI 5954 and 6008 regarding his recent travel. Revealing this information could compromise intelligence operations related to Chidiac and Cuban-Lebanese relations.",
+  "security_level": "SECRET",
+  "summary": "A cable from the Director SIG CEN to various CIA stations regarding Michel Chidiac, a Lebanese Charge in Havana, referencing previous cables about his travel.",
+  "summary_one_paragraph": "On October 18, 1963, Director SIG CEN sent a SECRET cable to C/OPO, CI/PA, FI, NE 4, WH, and YA, providing information about Michel Chidiac, a Lebanese Charge in Havana. The cable, referenced as MEXI 70695, directs recipients to consult MEXI 5954 and 6008 for details regarding Chidiac's recent travel, indicating ongoing intelligence interest in his activities.",
+  "tags": [
+    "CIA",
+    "Michel Chidiac",
+    "Lebanon",
+    "Cuba",
+    "Havana",
+    "Travel",
+    "JMWAVE",
+    "SIG CEN"
+  ],
+  "title": "Michel Chidiac, Lebanese Charge in Havana",
+  "date": "1963-10-18",
+  "locations_mentioned": [
+    "Mexico",
+    "Havana, Cuba",
+    "Lebanon"
+  ],
+  "origin_agency": "Director SIG CEN",
+  "persons_mentioned": [
+    "Michel Chidiac"
+  ],
+  "recipient": "C/OPO, CI/PA, FI, NE 4, WH, YA",
+  "sender": "Director SIG CEN"
+}

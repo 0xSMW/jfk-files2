@@ -1,0 +1,41 @@
+{
+  "classification": "Personnel",
+  "document_type": "Report",
+  "security": "This document details the debriefing of Robert Glenn Thompson, who provided information about CIA personnel assigned to the Berlin Base. Disclosing details about individuals like Ackerman, Harvey, and Jungs, who were connected to covert CIA operations and units (like the 7983rd Army Unit) could compromise intelligence gathering methods, agent identities, and the nature of covert activities in Berlin during the Cold War era. For example, stating 'THOMPSON stated that he recalled an individual by the name of HARVEY whom he believes was an officer with the 7983rd Army Unit, which THOMPSON stated was a covert CIA outfit' and 'THOMPSON advised that he recalled an individual having the last name (JUNG) who was a civilian employee of the 7983rd Army Unit' reveals direct links between named individuals and specific covert operations.",
+  "security_level": "Secret",
+  "summary": "Robert Glenn Thompson was interviewed on December 2, 1964, and provided information regarding CIA personnel assigned to the Berlin Base, including William K. Harvey and others, based on his recollection from his time with OSI, Berlin.",
+  "summary_one_paragraph": "On December 2, 1964, Robert Glenn Thompson was interviewed by FBI Special Agents Paul Boyce Tompkins and George W. O'Connor regarding his knowledge of individuals associated with the CIA's Berlin Base during the period he was assigned to OSI. Thompson identified and provided details about individuals such as Ackerman, William K. Harvey, and Clark Jungs, recalling their roles and connections to covert units like the 7983rd Army Unit, and in Harvey's case, acknowledging that he provided information about them to his Soviet principal, Steven.",
+  "tags": [
+    "FBI",
+    "CIA",
+    "OXTANK",
+    "William K. Harvey",
+    "Robert Glenn Thompson",
+    "Berlin Base",
+    "OSI",
+    "Soviet Intelligence",
+    "Counterintelligence"
+  ],
+  "title": "",
+  "date": "1965-03-15",
+  "locations_mentioned": [
+    "Bay Shore, Long Island, New York",
+    "Berlin",
+    "Germany",
+    "Argentinische Allee",
+    "Onkel Toms Strasse",
+    "Dahlem"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Robert Glenn Thompson",
+    "Paul Boyce Tompkins",
+    "George W. O'Connor",
+    "Robert Ackerman",
+    "William K. Harvey",
+    "Clark Jungs",
+    "Steven"
+  ],
+  "recipient": "HQ",
+  "sender": "NY"
+}

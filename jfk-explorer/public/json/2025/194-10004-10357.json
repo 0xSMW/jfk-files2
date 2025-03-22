@@ -1,0 +1,33 @@
+{
+  "classification": "Personnel",
+  "document_type": "Agent Report",
+  "security": "This document contains personal information about an individual, including his military service number, date and place of birth, and details of an interview conducted under oath. Releasing these details could violate privacy and potentially expose the individual to harm or discrimination.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An agent report summarizing an interview with PFC Manuel Marti in Vietnam regarding his political views and allegiance to the United States, conducted under oath after advising him of his rights.",
+  "summary_one_paragraph": "On March 27, 1969, a report was submitted detailing an interview with PFC Manuel Marti, conducted on March 25, 1969, in An Khe, Republic of Vietnam. After being advised of his rights, Marti stated under oath that he opposed communism, had no affiliation with the Communist Party, and belonged to a stamp collectors' organization. He expressed support for the United States' involvement in Vietnam to prevent the spread of communism and affirmed his allegiance to the United States and its Constitution, also agreeing to undergo a polygraph examination.",
+  "tags": [
+    "Manuel Marti",
+    "Subject Interview",
+    "Vietnam",
+    "Communism",
+    "Allegiance",
+    "Polygraph Examination",
+    "INSCOM",
+    "CSF",
+    "Agent Report"
+  ],
+  "title": "[RESTRICTED]",
+  "date": "1969-03-27",
+  "locations_mentioned": [
+    "San Juan, Puerto Rico",
+    "An Khe, Republic of Vietnam",
+    "Vietnam",
+    "United States"
+  ],
+  "origin_agency": "INSCOM/CSF",
+  "persons_mentioned": [
+    "Manuel Marti",
+    "Donald M. Miyoshi"
+  ],
+  "sender": "[RESTRICTED]"
+}

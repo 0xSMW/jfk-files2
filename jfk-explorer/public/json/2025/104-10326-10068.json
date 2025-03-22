@@ -1,0 +1,30 @@
+{
+  "classification": "Mexico",
+  "document_type": "Cable",
+  "security": "The article discusses agency activities in Mexico City and states “THE CIA HAS TRIED TO KEEP SECRET ITS WIRETAP OPERATION, WHICH WAS CARRIED OUT WITH THE COOPERATION OF THE MEXICAN GOVERNMENT. THE AGENCY HAS ARGUED THAT DISCLOSING SUCH PAST ACTIVITIES MIGHT ENDANGER SIMILAR ONGOING OPERATIONS, IN MEXICO CITY OR ELSEWHERE.” Disclosing that the CIA had a wiretap operation and that it was done with the cooperation of the Mexican Government might endanger similar ongoing operations.",
+  "security_level": "SECRET",
+  "summary": "A SECRET cable from the CIA's LIMIT station in Los Angeles to Mexico City, discussing a Washington Post article revealing CIA's wiretapping activities in Mexico City during the JFK assassination timeframe and requesting input on potential reactions from Mexican government liaison KDSOMBRERO and unilateral assets.",
+  "summary_one_paragraph": "This SECRET cable, originating from the CIA's LIMIT station in Los Angeles and addressed to Mexico City, concerns a Washington Post article published on September 22, 1995, which disclosed CIA's wiretapping of the Soviet Embassy in Mexico City during the period surrounding the JFK assassination, based on declassified documents. The cable expresses regret that HQS's attempt to block the release of these documents was unsuccessful, and it highlights the article's assertion that the CIA conducted the wiretap operation with the cooperation of the Mexican government. The main action requested is for the Mexico City station to provide feedback on the reactions of liaison contacts, particularly KDSOMBRERO, and any unilateral assets, regarding the USG's inability to maintain the secrecy of clandestine operations.",
+  "tags": [
+    "WNINTEL",
+    "KDSOMBRERO",
+    "KDMARTINI",
+    "Washington Post",
+    "Mexico City",
+    "Wiretaps",
+    "JFK Assassination",
+    "Declassified Documents",
+    "Liaison",
+    "Clandestine Operations"
+  ],
+  "title": "Washington Post Article on Mexico City Teltaps",
+  "date": "1995-09-22",
+  "locations_mentioned": [
+    "Mexico City",
+    "Washington D.C."
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [],
+  "recipient": "Immediate Mexico City",
+  "sender": "LIMIT LA/MCGMXB"
+}

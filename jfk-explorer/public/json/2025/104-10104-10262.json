@@ -1,0 +1,31 @@
+{
+  "classification": "Kennedy Assassination",
+  "document_type": "Memorandum",
+  "security": "Revealing the details of this document could compromise intelligence sharing arrangements with MI-5, and could potentially disrupt ongoing intelligence operations related to monitoring individuals and organizations of interest. The document states: \"MI-5 has also passed this information to the Legal Attache (FBI representative) in [London.] I would stress that [MI-5's source is very sensitive and request that this office be advised in advance if any executive action is to be taken on the basis of the above information.\" This highlights the sensitive nature of the source and the potential impact of any action taken based on this information.",
+  "security_level": "SECRET",
+  "summary": "A memorandum from the CIA's European Division reports that MI-5 has informed the FBI about Jim Garrison being contacted by the Bertrand Russell Peace Foundation, which wants him to write an article about the Kennedy assassination.",
+  "summary_one_paragraph": "On December 20, 1967, AC/EURBC Philip R. Fendig sent a memorandum to the Office of General Counsel, attention Mr. John Greaney, relaying information received from the London Station regarding Jim Garrison. MI-5, the British Security Service, reported that the Bertrand Russell Peace Foundation had contacted Garrison, seeking an article from him on the Kennedy assassination, which the Foundation intended to use. MI-5 also passed this information to the FBI's Legal Attaché in London, and the CIA requests advance notification if any action is to be taken based on this information, to protect MI-5's sensitive source.",
+  "tags": [
+    "CIA",
+    "MI-5",
+    "FBI",
+    "Jim Garrison",
+    "Bertrand Russell Peace Foundation",
+    "Kennedy Assassination",
+    "Intelligence Sharing"
+  ],
+  "title": "James Garrison",
+  "date": "1967-12-20",
+  "locations_mentioned": [
+    "London",
+    "Orleans, Louisiana"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Jim Garrison",
+    "John Greaney",
+    "Philip R. Fendig"
+  ],
+  "recipient": "Office of General Counsel",
+  "sender": "E/BC"
+}

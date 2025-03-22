@@ -1,0 +1,49 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Cable",
+  "security": "Disclosing the identities of the Cuban CI officers and alleged CIA officers, as well as the sources providing information on the meeting (*TZFRESH informants) could compromise ongoing intelligence operations and put individuals at risk. The mention of specific intelligence methods like photographing participants also poses a security risk. 'COB ASKED FOR TZFRESH/SAO PAULO FOR INFO ON REF MEETING ON *<JFK>AND LETELIER ASSASSINATIONS AT A DINNER HOSTED BY TZFRESH/8 EVENING 17 AUG. ON 18 AUG, TZFRESH/17 ADVISED COB THAT SHE HAD CONTACTED TZFRESH/RIO, WHICH WAS SENDING AN AGENDA FOR THE MEETING, AND WHICH WAS LATER PASSED BY F/17 TO COB DURING A LUNCH ON 22 AUG. F/17 ALSO ADVISED THAT TZFRESH/RIO IS SENDING PERSONNEL TO COVER THE MEETING, AND WILL PHOTOGRAPH PARTICIPANTS.'",
+  "security_level": "SECRET",
+  "summary": "A secret cable from August 1995 discusses a meeting in Rio de Janeiro involving Cuban CI officers and alleged CIA officers, focusing on reviewing the JFK and Letelier assassinations; it details the attendees, scheduled presentations, and the planned intelligence gathering efforts.",
+  "summary_one_paragraph": "This secret cable, dated August 23, 1995, relays information regarding a meeting in Rio de Janeiro hosted by TZFRESH/8 involving Cuban CI officers and alleged CIA officers to discuss the JFK and Letelier assassinations. The cable details the list of participants, including James Lesar, Wayne Smith, Cyril Wecht, John Newman, Ed Lopez-Soto, Gaeton Fonzi, William Turner, James Di Eugenio, Gordon Winslow, Saul Landau, Fabian Escalante Font, and Arturo Rodriguez, along with their scheduled presentations on topics such as 'Parallel Powers,' 'CIA, Mafia and Cuban Exile Papers Regarding the JFK Assassination,' and 'The Plan to Blame Cuba and the Soviet Union in the JFK Assassination.' The cable also outlines that TZFRESH/RIO is sending personnel to cover the meeting and photograph the participants, with instructions for the Brasilia station to consider sharing the information with the Ambassador.",
+  "tags": [
+    "JFK Assassination",
+    "Letelier Assassination",
+    "Cuban Intelligence",
+    "CIA",
+    "Meeting",
+    "Rio de Janeiro",
+    "TZFRESH",
+    "WNINTEL REAM"
+  ],
+  "title": "TZFRESH Info on Rio Meeting of Cuban CI Officers and Alleged CIA Officers to Review JFK and Letelier Assassinations",
+  "conspiracy": "The cable references a meeting to discuss the JFK assassination, specifically mentioning presentations related to the CIA, Mafia, Cuban exiles, and a plan to blame Cuba and the Soviet Union, providing potential avenues for conspiracy theories.",
+  "date": "1995-08-23",
+  "locations_mentioned": [
+    "Rio de Janeiro",
+    "Brasilia",
+    "Santiago",
+    "Havana",
+    "Mexico City",
+    "Miami",
+    "New Orleans",
+    "Dallas"
+  ],
+  "persons_mentioned": [
+    "James Lesar",
+    "Wayne Smith",
+    "Cyril Wecht",
+    "John Newman",
+    "Ed Lopez-Soto",
+    "Gaeton Fonzi",
+    "William Turner",
+    "James Di Eugenio",
+    "Gordon Winslow",
+    "Saul Landau",
+    "Fabian Escalante Font",
+    "Arturo Rodriguez",
+    "Lee Harvey Oswald",
+    "Orlando Letelier"
+  ],
+  "recipient": "Director, Brasilia; Info: Santiago, Havana",
+  "sender": "Staff (SAO PAULO)"
+}

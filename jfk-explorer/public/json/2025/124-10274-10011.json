@@ -1,0 +1,33 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security": "Revealing the CIA's intent to increase personnel in foreign locations despite potential objections from host governments could damage international relations. Specifically, the memo states that the Ambassador in Kuala Lumpur fears the addition of another investigative agency would be 'objectionable to the Malaysian Government which is endeavoring to maintain a neutral position.'",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A memorandum from E.S. Miller to Mr. Rosen discussing the expansion of foreign liaison offices, addressing concerns about coordination with Narcotics investigators and personnel increases in Brazil and Malaysia.",
+  "summary_one_paragraph": "This confidential memorandum from E.S. Miller to Mr. Rosen outlines discussions regarding the expansion of foreign liaison offices, specifically addressing concerns about overlapping with Narcotics investigators and justifying the need for additional personnel. The memo details the plan to reopen an office in Rio de Janeiro by reallocating staff from Buenos Aires without increasing overall personnel, while also addressing concerns raised by the Ambassador in Kuala Lumpur about increasing the presence of investigative agencies in Malaysia; an alternative location in Singapore is suggested to mitigate these concerns.",
+  "tags": [
+    "Foreign Liaison",
+    "Personnel",
+    "Brazil",
+    "Malaysia",
+    "Singapore",
+    "CIA",
+    "International Development",
+    "Narcotics Investigators"
+  ],
+  "title": "EXPANSION OF FOREIGN LIAISON",
+  "date": "1971-10-14",
+  "locations_mentioned": [
+    "Rio de Janeiro, Brazil",
+    "Buenos Aires, Argentina",
+    "Kuala Lumpur, Malaysia",
+    "Singapore"
+  ],
+  "persons_mentioned": [
+    "E.S. Miller",
+    "Mr. Rosen",
+    "Mr. Irwin"
+  ],
+  "recipient": "Mr. Rosen",
+  "sender": "E. S. Miller"
+}

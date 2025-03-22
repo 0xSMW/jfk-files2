@@ -1,0 +1,37 @@
+{
+  "classification": "Administrative",
+  "document_type": "Payroll Authorization Forms",
+  "security": "The document contains personally identifiable information (PII), specifically social security numbers, which are redacted. Releasing this information could \"constitute an unwarranted invasion of personal privacy\".",
+  "security_level": "Unclassified (originally)",
+  "summary": "This document consists of payroll authorization forms and related memoranda for Thomas Howarth, an employee of the House Select Committee on Assassinations (HSCA), detailing his salary and position changes from 1976 to 1978.",
+  "summary_one_paragraph": "This collection of documents pertains to the payroll records of Thomas Howarth, who worked for the House Select Committee on Assassinations (HSCA). It includes multiple payroll authorization forms spanning from December 1976 to December 1978, outlining changes in his position (from Budget Officer to Deputy Staff Director & Budget Officer) and corresponding salary adjustments. The forms are signed by authorizing officials, including Louis Stokes and Henry B. Gonzalez, and detail committee authorities and certifications regarding employment regulations. Additionally, there is a memo from January 1977 requiring staff to disclose relationships to Members of Congress for payroll certification purposes.",
+  "tags": [
+    "HSCA",
+    "Payroll Records",
+    "Thomas Howarth",
+    "Louis Stokes",
+    "Henry B. Gonzalez",
+    "Salary",
+    "Employment",
+    "Budget Officer",
+    "Deputy Staff Director",
+    "House Select Committee on Assassinations",
+    "redacted",
+    "SSN"
+  ],
+  "title": "Staff Payroll Records for Thomas Howarth, HSCA",
+  "date": "1976-12-01",
+  "locations_mentioned": [
+    "Washington, D.C."
+  ],
+  "origin_agency": "HSCA (House Select Committee on Assassinations)",
+  "persons_mentioned": [
+    "Thomas Howarth",
+    "Louis Stokes",
+    "Henry B. Gonzalez",
+    "Richard A. Sprague",
+    "Thomas N. Downing"
+  ],
+  "recipient": "Clerk of the House of Representatives, All Staff Employees",
+  "sender": "Budget Officer"
+}

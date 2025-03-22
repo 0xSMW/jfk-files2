@@ -1,0 +1,38 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security": "Releasing the names, security numbers, and dates of birth of staff agents converting to staff employee status could compromise their identities and potentially expose them to security risks. Specifically, the memo lists individuals associated with WH/C/JMWAVE, a sensitive operational unit.",
+  "security_level": "SECRET",
+  "summary": "A memorandum requesting full security clearances for staff agents transitioning to staff employee status within WH/C/JMWAVE.",
+  "summary_one_paragraph": "This SECRET memorandum, dated November 18, 1965, from the Chief of the Contract Personnel Division/Office of Personnel to the Chief of the Clearance Branch/Office of Security, requests full security clearances for fourteen staff agents converting to staff employee status while remaining with WH/C/JMWAVE. The memo lists the names, security numbers, and dates of birth of the individuals, and is addressed to Jo Ann Varney in the SA Branch/CPD.",
+  "tags": [
+    "security clearances",
+    "staff agents",
+    "staff employees",
+    "WH/C/JMWAVE",
+    "personnel records"
+  ],
+  "title": "Full Clearance Requests on WH/C/JMWAVE Staff Agents Converting to Staff Employee Status",
+  "date": "1965-11-18",
+  "origin_agency": "Office of Personnel",
+  "persons_mentioned": [
+    "Charles L. Arnett",
+    "Donald W. Carr",
+    "Earl W. Chapple",
+    "Gladys E. Engman",
+    "John J. Leahy, Jr",
+    "Dan S. Wages",
+    "Helene C. Walls",
+    "William A. Watkins, Jr.",
+    "Edwin Q. Weimer",
+    "James B. Wilcott, Jr.",
+    "Anthony S. Wisniewski",
+    "Bess A. Wieniowski",
+    "Marea R. Wynn",
+    "Charles D. Yothers",
+    "Joseph B. Racar",
+    "Jo Ann Varney"
+  ],
+  "recipient": "Chief, Clearance Branch/Office of Security",
+  "sender": "Chief, Contract Personnel Division/Office of Personnel"
+}

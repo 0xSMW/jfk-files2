@@ -1,0 +1,35 @@
+{
+  "classification": "Mexico",
+  "document_type": "Classified Message",
+  "security": "Revealing the identities of the LILLENSOR, LILERGO, and LIELEGANT sources and their willingness to meet with the COS could compromise their safety and future intelligence operations. Additionally, exposing the potential recruitment of Mexican officials like Gustavo Diaz Ordaz and the exploration of Sanchez Piedras's 'personal vulnerabilities' could damage US-Mexican relations and expose covert influence operations. Quoting directly: '...BOTH (LI[LERGO]) AND LI[ELEGANT]) SAY HE WILL MAKE NO SUCH STATEMENT...GUSTAVO DIAZ ORDAZ, MINISTER OF INTERIOR, WOULD BE A PRINCIPAL FIGURE AND SPOKESMAN IN THIS. (BELIEVE CAN GET HIS AID)...WILL LOOK FOR \"PERSONAL VULNERABILITIES\".'",
+  "security_level": "S-E-C-R-E-T",
+  "summary": "A CIA cable discusses reactions to a speech by Mexican Congressman Emilio Sanchez Piedras regarding Cuba and seeks ways to influence Mexican authorities to counter his statements.",
+  "summary_one_paragraph": "On July 9, 1960, a classified message from the Mexico City CIA station discusses Congressman Emilio Sanchez Piedras's speech regarding Cuba, which was interpreted as leaning toward the Cuban government. The LILLENSOR source states that Sanchez spoke as an individual, not for the government or party, and that his comments about friendship with the Cuban people were misinterpreted. The cable explores options to counter Sanchez’s statements, including enlisting PRI leaders like Gustavo Diaz Ordaz and seeking to exploit Sanchez's vulnerabilities. Sources suggest that no high-profile PRI senator will publicly disagree with Sanchez and that, while right-wing congressmen might, it's not worth the effort, and the possibility of payment has not been mentioned.",
+  "tags": [
+    "CIA",
+    "Mexico",
+    "Cuba",
+    "Emilio Sanchez Piedras",
+    "Covert Operations",
+    "PRI",
+    "Influence Operations",
+    "Subversion"
+  ],
+  "title": "Reactions to Speech by Emilio Sanchez Piedras on Cuba",
+  "date": "1960-07-09",
+  "locations_mentioned": [
+    "Mexico",
+    "Cuba",
+    "USA"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Emilio Sanchez Piedras",
+    "Fidel Castro",
+    "Trujillo",
+    "Gustavo Diaz Ordaz",
+    "Lazaro Cardenas"
+  ],
+  "recipient": "Director",
+  "sender": "Mexico City 03"
+}

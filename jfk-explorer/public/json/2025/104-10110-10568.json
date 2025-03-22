@@ -1,0 +1,35 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memo",
+  "security": "The memo discusses the potential use of Hargrave Secret Service for cover purposes, with concerns raised about Hargrave's trustworthiness and discretion. Disclosing these internal assessments could affect the CIA's operational security and reputation. Specifically, the memo states, \"Cain distrusts Hargrave. He said he knows him personally and does not regard him as a discreet person.\"",
+  "security_level": "SECRET",
+  "summary": "A memo from the Chief of the Contact Division to the Chief of the Chicago Field Office regarding Hargrave Secret Service and its suitability for cover purposes, based on information from local contacts and FBI sources.",
+  "summary_one_paragraph": "This memo, dated December 23, 1963, from the Chief of the Contact Division to the Chief of the Chicago Field Office, addresses the potential of using Hargrave Secret Service for cover. It details information gathered on George R. Hargrave, the owner, from an ex-FBI agent and the Chief Investigator of the Cook County Sheriff's Office, raising concerns about Hargrave's reliability and discretion. The memo suggests that Cover should reconsider using Hargrave based on the negative feedback received.",
+  "tags": [
+    "Hargrave Secret Service",
+    "Cover",
+    "Chicago Field Office",
+    "Contact Division",
+    "Albert Johnson",
+    "Richard Cain",
+    "FBI",
+    "Chicago",
+    "Potential Risk"
+  ],
+  "title": "Hargrave Secret Service",
+  "date": "1963-12-23",
+  "locations_mentioned": [
+    "Chicago",
+    "6 West Randolph Street, Chicago"
+  ],
+  "origin_agency": "Central Intelligence Agency (CIA)",
+  "persons_mentioned": [
+    "Al Thompson",
+    "George R. Hargrave",
+    "Albert Johnson",
+    "Richard Cain",
+    "R.F.B. Lohmann"
+  ],
+  "recipient": "Chief, Chicago Field Office",
+  "sender": "Chief, Contact Division"
+}

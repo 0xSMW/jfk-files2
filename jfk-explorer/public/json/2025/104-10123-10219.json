@@ -1,0 +1,30 @@
+{
+  "classification": "Personnel",
+  "document_type": "Memorandum",
+  "security": "Revealing specific personnel assignments and organizational changes within the Office of Security could expose operational vulnerabilities or internal structures. Specifically, the movement of key personnel like Arthur C. Sheridan, James P. O'Connell, Jr., and James W. McCord, Jr. to different roles and locations could be exploited. As an example, the memo states: 'Mr. Arthur C. Sheridan, GS-15, Chief, Technical Division, will replace Mr. James P. O'Connell, Jr. in (3-17 (Okinawa) as Chief, Far East Regional Security Staff during July 1965.'",
+  "security_level": "SECRET",
+  "summary": "A memorandum from Howard J. Osborn, Director of Security, to the Deputy Director for Support, proposing key personnel assignments within the Office of Security, including the reassignment of Arthur C. Sheridan, James W. McCord, Jr., and James P. O'Connell, Jr.",
+  "summary_one_paragraph": "This secret memorandum, dated February 23, 1965, from Director of Security Howard J. Osborn to the Deputy Director for Support, outlines proposed key assignments for the Office of Security. It details that Arthur C. Sheridan, Chief of the Technical Division, would replace James P. O'Connell, Jr. as Chief of the Far East Regional Security Staff in Okinawa during July 1965; James W. McCord, Jr., attending the Air War College, would replace Sheridan as Chief of the Technical Division in June 1965; and James P. O'Connell, Jr. would be assigned to a GS-16 position as Chief of the Investigations Division upon his return in August 1965, with a planned recommendation for promotion to GS-16.",
+  "tags": [
+    "Office of Security",
+    "Personnel Assignments",
+    "Arthur C. Sheridan",
+    "James P. O'Connell, Jr.",
+    "James W. McCord, Jr.",
+    "Okinawa",
+    "Technical Division",
+    "Investigations Division"
+  ],
+  "title": "Key Assignments, Office of Security",
+  "date": "1965-02-23",
+  "origin_agency": "Office of Security",
+  "persons_mentioned": [
+    "Arthur C. Sheridan",
+    "James P. O'Connell, Jr.",
+    "James W. McCord, Jr.",
+    "Howard J. Osborn",
+    "L. K. White"
+  ],
+  "recipient": "Deputy Director for Support",
+  "sender": "Howard J. Osborn, Director of Security"
+}

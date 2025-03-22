@@ -1,0 +1,23 @@
+{
+  "classification": "Liaison",
+  "document_type": "Message Form",
+  "security": "Disclosing fingerprint formulas could compromise law enforcement identification methods and reveal intelligence-sharing relationships with foreign liaison services. Quoting directly: 'Please pass to liaison'.",
+  "security_level": "SECRET",
+  "summary": "This message relays James Earl Ray's fingerprint formula and instructs its distribution to a liaison, confirming Ray's identification as the accused assassin.",
+  "summary_one_paragraph": "On April 22, 1968, a message from CI/OP/DO (Richard Ober) transmitted James Earl Ray's fingerprint formula (16, M over M, 9 over 4, U over W, O over I, O over O, O over I, 12) to multiple locations, including Asuncion, Bangkok, Barcelona, and others. The message, citing DIRECTOR 93162 and referencing LNERGO's positive identification of Ray as the accused assassin, instructs the recipients to pass this information to their respective liaisons.",
+  "tags": [
+    "James Earl Ray",
+    "Fingerprint Formula",
+    "Liaison",
+    "Identification",
+    "Assassination",
+    "LNERGO"
+  ],
+  "title": "LNERGO Fingerprint Formula for James Earl Ray",
+  "persons_mentioned": [
+    "Richard Ober",
+    "James Earl Ray",
+    "LNERGO"
+  ],
+  "sender": "CI/OP/DO (Richard Ober))"
+}
