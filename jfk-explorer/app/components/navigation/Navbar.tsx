@@ -9,7 +9,7 @@ const navigationLinks = [
   { href: '/', label: 'Home' },
   { href: '/documents', label: 'Documents' },
   { href: '/entities', label: 'Entities' },
-  { href: '/network', label: 'Network' },
+  { href: '/visualization', label: 'Visualization' },
   { href: '/about', label: 'About' },
 ];
 

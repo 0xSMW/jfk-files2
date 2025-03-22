@@ -37,12 +37,12 @@ export default function Home() {
             Explore key people, organizations, and locations mentioned across the documents.
           </p>
         </div>
-        <div className="rounded-lg border p-4 shadow-sm">
+        <Link href="/visualization" className="rounded-lg border p-4 shadow-sm hover:shadow-md transition">
           <h2 className="text-xl font-semibold">Relationship Visualization</h2>
           <p className="mt-2 opacity-70">
             Discover connections between documents, entities, and events with interactive visualizations.
           </p>
-        </div>
+        </Link>
       </section>
 
       <section className="border-t pt-8">

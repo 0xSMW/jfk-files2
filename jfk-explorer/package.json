@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
+    "@types/d3": "^7.4.3",
     "@types/react-window": "^1.8.8",
     "d3": "^7.9.0",
     "next": "15.2.3",
@@ -22,6 +23,7 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4.0.15",
+    "@types/aframe": "^1.2.8",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",

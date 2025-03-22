@@ -7,6 +7,7 @@ import { ArrowLeftIcon, ArrowRightIcon } from '@heroicons/react/24/outline';
 import { Document } from '@/app/lib/models/document';
 import { getDocumentById, getRelatedDocuments } from '@/app/lib/utils/search';
 import DocumentCard from '@/app/components/documents/DocumentCard';
+import DocumentRelationshipGraph from '@/app/components/documents/DocumentRelationshipGraph';
 
 export default function DocumentDetailPage() {
   const params = useParams();
@@ -178,6 +179,16 @@ export default function DocumentDetailPage() {
           </div>
         </div>
       </article>
+      
+      {/* Document Relationships Visualization */}
+      <section className="mb-8">
+        <h2 className="text-2xl font-bold mb-4">Relationships</h2>
+        <DocumentRelationshipGraph 
+          documentId={documentId} 
+          maxEntities={15}
+          height={500}
+        />
+      </section>
       
       {/* Related documents */}
       {relatedDocuments.length > 0 && (
