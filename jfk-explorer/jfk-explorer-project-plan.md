@@ -27,32 +27,32 @@ if you generate something that is sample data then you will be fired
   - [x] Set up routing
 
 ## 2. Data Model & Utilities
-- [ ] Create TypeScript interfaces for document data
-  - [ ] Define Document interface
-  - [ ] Define Relationship interface
-  - [ ] Define Entity interface
-- [ ] Build data loading utilities
-  - [ ] Create function to load JSON document metadata
-  - [ ] Create function to load MD file content
-  - [ ] Create function to map between JSON and MD files
-  - [ ] Create utility to extract relationship data
-- [ ] Set up data context/state management
-  - [ ] Implement context or state management solution
-  - [ ] Create hooks for accessing document data
+- [x] Create TypeScript interfaces for document data
+  - [x] Define Document interface
+  - [x] Define Relationship interface
+  - [x] Define Entity interface
+- [x] Build data loading utilities
+  - [x] Create function to load JSON document metadata
+  - [x] Create function to load MD file content
+  - [x] Create function to map between JSON and MD files
+  - [x] Create utility to extract relationship data
+- [x] Set up data context/state management
+  - [x] Implement context or state management solution
+  - [x] Create hooks for accessing document data
 
 ## 3. Document Browser
-- [ ] Create document list component
-  - [ ] Implement virtualized list for performance
-  - [ ] Add sorting functionality
-  - [ ] Create document card/preview component
-- [ ] Add filtering and search capabilities
-  - [ ] Implement filter by category/type
-  - [ ] Create search functionality
-  - [ ] Add date range filtering
-- [ ] Create document detail view
-  - [ ] Display markdown content with proper formatting
-  - [ ] Show metadata information
-  - [ ] Implement navigation between documents
+- [x] Create document list component
+  - [x] Implement virtualized list for performance
+  - [x] Add sorting functionality
+  - [x] Create document card/preview component
+- [x] Add filtering and search capabilities
+  - [x] Implement filter by category/type
+  - [x] Create search functionality
+  - [x] Add date range filtering
+- [x] Create document detail view
+  - [x] Display markdown content with proper formatting
+  - [x] Show metadata information
+  - [x] Implement navigation between documents
 
 ## 4. Relationship Visualization
 - [ ] Set up visualization library
