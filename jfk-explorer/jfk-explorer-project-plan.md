@@ -67,7 +67,41 @@ if you generate something that is sample data then you will be fired
   - [ ] Display relationship type and metadata
   - [ ] Allow navigation to related documents
 
-## 5. UI Components & Layout
+## 5. Entity Browser
+- [ ] Create entities list page
+  - [ ] Implement entity card component
+  - [ ] Add entity categorization (people, organizations, locations)
+  - [ ] Implement sorting and filtering
+- [ ] Build entity detail view
+  - [ ] Display entity metadata and description
+  - [ ] Show related documents
+  - [ ] Implement connections to other entities
+- [ ] Add search and filtering capabilities
+  - [ ] Create entity search functionality
+  - [ ] Add filtering by entity type
+  - [ ] Implement relationship filters
+
+## 6. Network Visualization
+- [ ] Create network page
+  - [ ] Design network graph interface
+  - [ ] Implement network visualization controls
+  - [ ] Create legend and information panel
+- [ ] Add interactive features
+  - [ ] Implement entity-document connection views
+  - [ ] Add filtering options for network visualization
+  - [ ] Create focus mode for specific connections
+
+## 7. About Page
+- [ ] Create about page content
+  - [ ] Add project description and background
+  - [ ] Include information about the JFK documents
+  - [ ] Provide usage instructions
+- [ ] Implement help features
+  - [ ] Create getting started guide
+  - [ ] Add FAQ section
+  - [ ] Include contact information
+
+## 8. UI Components & Layout
 - [ ] Design and implement main layout
   - [ ] Create responsive sidebar/navigation
   - [ ] Implement main content area
@@ -81,7 +115,7 @@ if you generate something that is sample data then you will be fired
   - [ ] Add ARIA attributes
   - [ ] Test with screen readers
 
-## 6. Advanced Features
+## 9. Advanced Features
 - [ ] Implement document history tracking
   - [ ] Create recently viewed documents list
   - [ ] Add ability to bookmark documents
@@ -93,7 +127,7 @@ if you generate something that is sample data then you will be fired
   - [ ] Add caching for document data
   - [ ] Optimize bundle size
 
-## 7. Testing & Deployment
+## 10. Testing & Deployment
 - [ ] Add testing
   - [ ] Write unit tests for utility functions
   - [ ] Create component tests
@@ -103,7 +137,7 @@ if you generate something that is sample data then you will be fired
   - [ ] Add error boundary and fallbacks
   - [ ] Create deployment pipeline
 
-## 8. Future Enhancements
+## 11. Future Enhancements
 - [ ] Full-text search across all documents
 - [ ] Timeline visualization of documents
 - [ ] Export/share functionality
