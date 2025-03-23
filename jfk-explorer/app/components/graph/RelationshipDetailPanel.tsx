@@ -63,6 +63,9 @@ export default function RelationshipDetailPanel({
   const isEntity = selectedNode.type === 'entity';
   const metadata = selectedNode.metadata as (Document | Entity);
   
+  // Safely extract tags from document metadata
+  const documentTags = isDocument ? (metadata as Document).tags || [] : [];
+  
   return (
     <div className="h-full flex flex-col overflow-hidden">
       <div className="p-4 border-b bg-white flex justify-between items-start">
@@ -123,11 +126,11 @@ export default function RelationshipDetailPanel({
               </p>
             </div>
             
-            {(metadata as Document).tags && (metadata as Document).tags.length > 0 && (
+            {isDocument && documentTags.length > 0 && (
               <div className="mb-6">
                 <h4 className="text-sm font-medium text-gray-900 mb-2">Tags</h4>
                 <div className="flex flex-wrap gap-1">
-                  {(metadata as Document).tags && (metadata as Document).tags.map(tag => (
+                  {documentTags.map(tag => (
                     <Link 
                       key={tag} 
                       href={`/visualization?entity=${encodeURIComponent(tag)}`}

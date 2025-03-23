@@ -11,9 +11,15 @@ import Spinner from '@/app/components/Spinner';
 
 interface DocumentRelationshipGraphProps {
   documentId: string;
+  maxEntities?: number;
+  height?: number;
 }
 
-export default function DocumentRelationshipGraph({ documentId }: DocumentRelationshipGraphProps) {
+export default function DocumentRelationshipGraph({ 
+  documentId, 
+  maxEntities = 10,
+  height = 450 
+}: DocumentRelationshipGraphProps) {
   const [graphData, setGraphData] = useState<GraphData>({ nodes: [], links: [] });
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
@@ -27,7 +33,7 @@ export default function DocumentRelationshipGraph({ documentId }: DocumentRelati
       setError(null);
       
       try {
-        const data = await generateDocumentCentricGraph(documentId);
+        const data = await generateDocumentCentricGraph(documentId, maxEntities);
         setGraphData(data);
       } catch (err) {
         console.error('Error loading relationship data:', err);
@@ -38,7 +44,7 @@ export default function DocumentRelationshipGraph({ documentId }: DocumentRelati
     }
     
     loadGraphData();
-  }, [documentId]);
+  }, [documentId, maxEntities]);
   
   // Handle node click to show detail panel
   const handleNodeClick = (node: GraphNode) => {
@@ -229,7 +235,7 @@ export default function DocumentRelationshipGraph({ documentId }: DocumentRelati
   };
   
   // Calculate height taking into account potential detail panel
-  const graphHeight = 450; // Fixed height for consistent layout
+  const graphHeight = height; // Use the height prop instead of hardcoded value
   
   return (
     <div className="rounded-lg border bg-white shadow-sm overflow-hidden">

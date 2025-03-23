@@ -159,11 +159,14 @@ export default function RelationshipGraph({
       undefined : 
       (key: string, value: any) => {
         if (key === 'charge') {
-          return value.strength(mergedConfig.chargeStrength);
+          // Increased repulsion for better node separation
+          return value.strength(mergedConfig.chargeStrength * 1.25);
         }
         if (key === 'link') {
-          return value.distance(mergedConfig.linkDistance);
+          // Slightly longer links for better visibility
+          return value.distance(mergedConfig.linkDistance * 1.2);
         }
+        return value;
       },
     ref: graphRef
   };

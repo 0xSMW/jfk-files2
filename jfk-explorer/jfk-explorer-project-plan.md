@@ -68,18 +68,18 @@ if you generate something that is sample data then you will be fired
   - [x] Allow navigation to related documents
 
 ## 5. Entity Browser
-- [ ] Create entities list page
-  - [ ] Implement entity card component
-  - [ ] Add entity categorization (people, organizations, locations)
-  - [ ] Implement sorting and filtering
-- [ ] Build entity detail view
-  - [ ] Display entity metadata and description
-  - [ ] Show related documents
-  - [ ] Implement connections to other entities
-- [ ] Add search and filtering capabilities
-  - [ ] Create entity search functionality
-  - [ ] Add filtering by entity type
-  - [ ] Implement relationship filters
+- [x] Create entities list page
+  - [x] Implement entity card component
+  - [x] Add entity categorization (people, organizations, locations)
+  - [x] Implement sorting and filtering
+- [x] Build entity detail view
+  - [x] Display entity metadata and description
+  - [x] Show related documents
+  - [x] Implement connections to other entities
+- [x] Add search and filtering capabilities
+  - [x] Create entity search functionality
+  - [x] Add filtering by entity type
+  - [x] Implement relationship filters
 
 ## 6. Network Visualization
 - [ ] Create network page
@@ -101,7 +101,20 @@ if you generate something that is sample data then you will be fired
   - [ ] Add FAQ section
   - [ ] Include contact information
 
-## 8. UI Components & Layout
+## 8. Homepage Consolidation
+- [ ] Make Document Browser the default landing page
+  - [ ] Update app/page.tsx to render Documents content or redirect
+  
+- [ ] Update navigation structure
+  - [ ] Update Navbar to reflect Documents as home page
+  - [ ] Adjust active link states for correct highlighting
+  - [ ] Ensure mobile navigation works correctly
+- [ ] Update internal links
+  - [ ] Change any links that point to the old homepage
+  - [ ] Update component references
+  - [ ] Fix any navigation paths throughout the codebase
+
+## 9. UI Components & Layout
 - [ ] Design and implement main layout
   - [ ] Create responsive sidebar/navigation
   - [ ] Implement main content area
@@ -115,7 +128,7 @@ if you generate something that is sample data then you will be fired
   - [ ] Add ARIA attributes
   - [ ] Test with screen readers
 
-## 9. Advanced Features
+## 10. Advanced Features
 - [ ] Implement document history tracking
   - [ ] Create recently viewed documents list
   - [ ] Add ability to bookmark documents
@@ -127,7 +140,7 @@ if you generate something that is sample data then you will be fired
   - [ ] Add caching for document data
   - [ ] Optimize bundle size
 
-## 10. Testing & Deployment
+## 11. Testing & Deployment
 - [ ] Add testing
   - [ ] Write unit tests for utility functions
   - [ ] Create component tests
@@ -137,7 +150,7 @@ if you generate something that is sample data then you will be fired
   - [ ] Add error boundary and fallbacks
   - [ ] Create deployment pipeline
 
-## 11. Future Enhancements
+## 12. Future Enhancements
 - [ ] Full-text search across all documents
 - [ ] Timeline visualization of documents
 - [ ] Export/share functionality

@@ -1,15 +1,16 @@
 'use client';
 
-import { useState, useEffect, useMemo, useCallback } from 'react';
+import { useState, useEffect, useMemo, useCallback, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { Document, DocumentSearchParams } from '@/app/lib/models/document';
 import { searchDocuments } from '@/app/lib/utils/search';
 import DocumentFilterSidebar from '@/app/components/documents/DocumentFilterSidebar';
 import VirtualizedDocumentList from '@/app/components/documents/VirtualizedDocumentList';
 import DocumentListSorter from '@/app/components/documents/DocumentListSorter';
+import Spinner from '@/app/components/Spinner';
 
-export default function DocumentsPage() {
-  // Get search params from URL
+// Main document list content component that uses search params
+function DocumentsContent() {
   const searchParams = useSearchParams();
   
   // State for document list
@@ -169,5 +170,32 @@ export default function DocumentsPage() {
         </main>
       </div>
     </div>
+  );
+}
+
+// Main page component with suspense boundary for useSearchParams
+export default function DocumentsPage() {
+  const [isMounted, setIsMounted] = useState(false);
+  
+  useEffect(() => {
+    setIsMounted(true);
+  }, []);
+  
+  if (!isMounted) {
+    return (
+      <div className="flex justify-center items-center h-screen">
+        <Spinner size="large" />
+      </div>
+    );
+  }
+
+  return (
+    <Suspense fallback={
+      <div className="flex justify-center items-center h-screen">
+        <Spinner size="large" />
+      </div>
+    }>
+      <DocumentsContent />
+    </Suspense>
   );
 } 

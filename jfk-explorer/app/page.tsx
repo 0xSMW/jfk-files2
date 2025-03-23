@@ -31,12 +31,12 @@ export default function Home() {
             Browse through thousands of declassified documents with advanced search and filtering options.
           </p>
         </Link>
-        <div className="rounded-lg border p-4 shadow-sm">
+        <Link href="/entities" className="rounded-lg border p-4 shadow-sm hover:shadow-md transition">
           <h2 className="text-xl font-semibold">Entity Analysis</h2>
           <p className="mt-2 opacity-70">
             Explore key people, organizations, and locations mentioned across the documents.
           </p>
-        </div>
+        </Link>
         <Link href="/visualization" className="rounded-lg border p-4 shadow-sm hover:shadow-md transition">
           <h2 className="text-xl font-semibold">Relationship Visualization</h2>
           <p className="mt-2 opacity-70">

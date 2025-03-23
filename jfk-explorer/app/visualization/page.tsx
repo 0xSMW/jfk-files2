@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useMemo } from 'react';
+import { useState, useEffect, useMemo, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import RelationshipGraph from '@/app/components/graph/RelationshipGraph';
 import RelationshipDetailPanel from '@/app/components/graph/RelationshipDetailPanel';
@@ -9,8 +9,10 @@ import { getDataStatistics } from '@/app/lib/utils/data-loader';
 import { GraphData, GraphFilterOptions, GraphConfig, GraphNode } from '@/app/lib/models/graph';
 import Spinner from '@/app/components/Spinner';
 
-export default function VisualizationPage() {
+// Main visualization content component that uses search params
+function VisualizationContent() {
   const searchParams = useSearchParams();
+  
   const [graphData, setGraphData] = useState<GraphData>({ nodes: [], links: [] });
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
@@ -32,7 +34,7 @@ export default function VisualizationPage() {
   const [selectedNode, setSelectedNode] = useState<GraphNode | null>(null);
   const [showDetailPanel, setShowDetailPanel] = useState<boolean>(false);
   
-  // Get parameters from URL
+  // Get docId and entityName from URL parameters
   const docId = searchParams.get('document');
   const entityName = searchParams.get('entity');
   
@@ -305,13 +307,15 @@ export default function VisualizationPage() {
                 {graphData.nodes.length > 0 && graphData.links.length === 0 && (
                   <div className="absolute top-4 left-4 bg-yellow-50 p-4 rounded-lg shadow-md max-w-sm">
                     <h3 className="text-yellow-800 font-medium mb-2">No connections found</h3>
-                    <p className="text-yellow-700 text-sm">
+                    <p className="text-yellow-700 text-sm mb-2">
                       This could be because:
-                      <ul className="list-disc pl-4 mt-1">
-                        <li>Documents do not have tags</li>
-                        <li>Tags do not match any entity names</li>
-                        <li>No entity files were found</li>
-                      </ul>
+                    </p>
+                    <ul className="list-disc pl-8 text-yellow-700 text-sm mb-2">
+                      <li>Documents do not have tags</li>
+                      <li>Tags do not match any entity names</li>
+                      <li>No entity files were found</li>
+                    </ul>
+                    <p className="text-yellow-700 text-sm">
                       Please check the Data Statistics in the controls panel for more information.
                     </p>
                   </div>
@@ -351,5 +355,32 @@ export default function VisualizationPage() {
         </div>
       </div>
     </div>
+  );
+}
+
+// Main page component with suspense boundary for useSearchParams
+export default function VisualizationPage() {
+  const [isMounted, setIsMounted] = useState(false);
+  
+  useEffect(() => {
+    setIsMounted(true);
+  }, []);
+  
+  if (!isMounted) {
+    return (
+      <div className="flex justify-center items-center h-screen">
+        <Spinner size="large" />
+      </div>
+    );
+  }
+
+  return (
+    <Suspense fallback={
+      <div className="flex justify-center items-center h-screen">
+        <Spinner size="large" />
+      </div>
+    }>
+      <VisualizationContent />
+    </Suspense>
   );
 } 
