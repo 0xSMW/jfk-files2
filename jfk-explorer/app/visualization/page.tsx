@@ -4,6 +4,8 @@ import { useState, useEffect, useMemo, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import RelationshipGraph from '@/app/components/graph/RelationshipGraph';
 import RelationshipDetailPanel from '@/app/components/graph/RelationshipDetailPanel';
+import FilterControls from '@/app/components/graph/FilterControls';
+import GraphLegend from '@/app/components/graph/GraphLegend';
 import { generateGraphData, generateDocumentCentricGraph, generateEntityCentricGraph } from '@/app/lib/utils/graph-transformer';
 import { getDataStatistics } from '@/app/lib/utils/data-loader';
 import { GraphData, GraphFilterOptions, GraphConfig, GraphNode } from '@/app/lib/models/graph';
@@ -14,6 +16,7 @@ function VisualizationContent() {
   const searchParams = useSearchParams();
   
   const [graphData, setGraphData] = useState<GraphData>({ nodes: [], links: [] });
+  const [originalGraphData, setOriginalGraphData] = useState<GraphData | null>(null);
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
   const [focusedId, setFocusedId] = useState<string | null>(null);
@@ -22,6 +25,7 @@ function VisualizationContent() {
   const [maxNodes, setMaxNodes] = useState<number>(100);
   const [is3D, setIs3D] = useState<boolean>(false);
   const [is3DLoading, setIs3DLoading] = useState<boolean>(false);
+  const [isFocusMode, setIsFocusMode] = useState<boolean>(false);
   const [statistics, setStatistics] = useState<{
     totalDocuments: number;
     documentsWithTags: number;
@@ -56,6 +60,13 @@ function VisualizationContent() {
     entityTypes: [],
     searchQuery: ''
   });
+  
+  // Graph statistics for the legend
+  const graphStats = useMemo(() => ({
+    documentCount: graphData.nodes.filter(n => n.type === 'document').length,
+    entityCount: graphData.nodes.filter(n => n.type === 'entity').length,
+    linkCount: graphData.links.length
+  }), [graphData]);
   
   // Load statistics for debugging
   useEffect(() => {
@@ -100,6 +111,8 @@ function VisualizationContent() {
         }
         
         setGraphData(data);
+        setOriginalGraphData(data);
+        setIsFocusMode(false);
       } catch (err) {
         console.error('Error loading graph data:', err);
         setError('Failed to load visualization data. Please try again.');
@@ -144,6 +157,84 @@ function VisualizationContent() {
     }
   };
   
+  // Handle filter changes
+  const handleFilterChange = (newFilters: Partial<GraphFilterOptions>) => {
+    // Use a more controlled approach to update filters
+    setFilterOptions(prev => {
+      // Only update if the values are actually different
+      const updatedFilters = { ...prev };
+      let hasChanges = false;
+      
+      if (newFilters.documentTypes && 
+          JSON.stringify(newFilters.documentTypes) !== JSON.stringify(prev.documentTypes)) {
+        updatedFilters.documentTypes = newFilters.documentTypes;
+        hasChanges = true;
+      }
+      
+      if (newFilters.entityTypes && 
+          JSON.stringify(newFilters.entityTypes) !== JSON.stringify(prev.entityTypes)) {
+        updatedFilters.entityTypes = newFilters.entityTypes;
+        hasChanges = true;
+      }
+      
+      if (newFilters.searchQuery !== undefined && 
+          newFilters.searchQuery !== prev.searchQuery) {
+        updatedFilters.searchQuery = newFilters.searchQuery;
+        hasChanges = true;
+      }
+      
+      return hasChanges ? updatedFilters : prev;
+    });
+  };
+  
+  // Focus on a specific node and its connections
+  const handleFocusMode = (node: GraphNode) => {
+    if (!originalGraphData) return;
+    
+    // If already in focus mode and clicking the same node, reset
+    if (isFocusMode && selectedNode?.id === node.id) {
+      setGraphData(originalGraphData);
+      setIsFocusMode(false);
+      return;
+    }
+    
+    // Get all node IDs directly connected to the selected node
+    const connectedNodeIds = new Set<string>([
+      node.id,
+      ...originalGraphData.links
+        .filter(link => 
+          (typeof link.source === 'string' ? link.source : (link.source as any).id) === node.id || 
+          (typeof link.target === 'string' ? link.target : (link.target as any).id) === node.id
+        )
+        .flatMap(link => [
+          typeof link.source === 'string' ? link.source : (link.source as any).id,
+          typeof link.target === 'string' ? link.target : (link.target as any).id
+        ])
+    ]);
+    
+    // Filter nodes to only include the selected node and its connections
+    const focusedNodes = originalGraphData.nodes.filter(n => connectedNodeIds.has(n.id));
+    
+    // Filter links to only include connections between these nodes
+    const focusedLinks = originalGraphData.links.filter(link => {
+      const sourceId = typeof link.source === 'string' ? link.source : (link.source as any).id;
+      const targetId = typeof link.target === 'string' ? link.target : (link.target as any).id;
+      return connectedNodeIds.has(sourceId) && connectedNodeIds.has(targetId);
+    });
+    
+    // Update graph data with focused subset
+    setGraphData({ nodes: focusedNodes, links: focusedLinks });
+    setIsFocusMode(true);
+  };
+  
+  // Exit focus mode
+  const handleExitFocusMode = () => {
+    if (originalGraphData) {
+      setGraphData(originalGraphData);
+      setIsFocusMode(false);
+    }
+  };
+  
   // Determine if we're showing the simplified 2D version for performance
   const shouldUseSimpleView = useMemo(() => {
     return graphData.nodes.length > 200;
@@ -153,15 +244,26 @@ function VisualizationContent() {
     <div className="flex flex-col w-full h-screen bg-gray-50">
       <div className="bg-white border-b shadow-sm p-4">
         <h1 className="text-2xl font-bold text-gray-900">JFK Files Relationship Network</h1>
-        <p className="text-gray-600">
-          {focusType === 'document' && focusedId ? (
-            `Viewing relationships for document: ${focusedId}`
-          ) : focusType === 'entity' && focusedId ? (
-            `Viewing relationships for entity: ${focusedId}`
-          ) : (
-            `Visualizing connections between documents and entities (${graphData.nodes.length} nodes, ${graphData.links.length} connections)`
+        <div className="flex justify-between items-center">
+          <p className="text-gray-600">
+            {focusType === 'document' && focusedId ? (
+              `Viewing relationships for document: ${focusedId}`
+            ) : focusType === 'entity' && focusedId ? (
+              `Viewing relationships for entity: ${focusedId}`
+            ) : (
+              `Visualizing connections between documents and entities (${graphData.nodes.length} nodes, ${graphData.links.length} connections)`
+            )}
+          </p>
+          
+          {isFocusMode && (
+            <button 
+              onClick={handleExitFocusMode}
+              className="text-sm text-blue-600 hover:text-blue-800"
+            >
+              Exit Focus Mode
+            </button>
           )}
-        </p>
+        </div>
       </div>
       
       <div className="flex flex-grow overflow-hidden">
@@ -171,7 +273,7 @@ function VisualizationContent() {
             <h2 className="text-lg font-semibold mb-4">Visualization Controls</h2>
             
             <div className="mb-6">
-              <label className="block mb-2 font-medium text-gray-700">Max Nodes</label>
+              <label className="block mb-2 font-medium text-gray-700 text-sm">Max Nodes</label>
               <div className="flex items-center">
                 <input 
                   type="range" 
@@ -186,7 +288,7 @@ function VisualizationContent() {
             </div>
             
             <div className="mb-6">
-              <label className="block mb-2 font-medium text-gray-700">Visualization Mode</label>
+              <label className="block mb-2 font-medium text-gray-700 text-sm">Visualization Mode</label>
               <button 
                 onClick={toggleViewMode}
                 disabled={is3DLoading || shouldUseSimpleView}
@@ -219,34 +321,24 @@ function VisualizationContent() {
               )}
             </div>
             
-            {statistics && (
-              <div className="mb-6 p-4 bg-gray-50 rounded-lg">
-                <h3 className="text-sm font-medium text-gray-700 mb-2">Data Statistics</h3>
-                <div className="space-y-1 text-sm text-gray-600">
-                  <p>Total Documents: {statistics.totalDocuments}</p>
-                  <p>Documents with Tags: {statistics.documentsWithTags}</p>
-                  <p>Unique Tags: {statistics.uniqueTags}</p>
-                  <p>Total Entities: {statistics.totalEntities}</p>
-                  <p>Matching Tags: {statistics.matchingTags}</p>
-                </div>
-              </div>
-            )}
+            {/* Filter options */}
+            <div className="mb-6 border-t pt-4">
+              <h3 className="text-sm font-medium text-gray-700 mb-3">Filters</h3>
+              <FilterControls 
+                filterOptions={filterOptions}
+                onChange={handleFilterChange}
+                statistics={statistics}
+              />
+            </div>
             
-            <div className="mb-6">
-              <label className="block mb-2 font-medium text-gray-700">Network Statistics</label>
-              <div className="text-sm text-gray-600 space-y-1">
-                <p>Documents: {graphData.nodes.filter(n => n.type === 'document').length}</p>
-                <p>Entities: {graphData.nodes.filter(n => n.type === 'entity').length}</p>
-                <p>Connections: {graphData.links.length}</p>
-              </div>
+            {/* Graph legend */}
+            <div className="mb-6 border-t pt-4">
+              <GraphLegend 
+                graphStats={graphStats}
+              />
             </div>
             
             <div className="mt-auto pt-4 border-t">
-              <p className="text-xs text-gray-500 mb-2">
-                Click on nodes to explore document or entity details.
-                Use mouse wheel to zoom and drag to pan the visualization.
-                {is3D && " In 3D mode, drag with right mouse button to rotate view."}
-              </p>
               <a 
                 href="/visualization" 
                 className="text-blue-600 hover:text-blue-800 text-sm block"
@@ -349,6 +441,8 @@ function VisualizationContent() {
                 graphData={graphData}
                 onClose={handleCloseDetailPanel}
                 onNodeSelect={handleNodeClick}
+                onFocus={handleFocusMode}
+                inFocusMode={isFocusMode}
               />
             </div>
           )}

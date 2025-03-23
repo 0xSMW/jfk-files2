@@ -11,13 +11,17 @@ interface RelationshipDetailPanelProps {
   graphData: GraphData;
   onClose: () => void;
   onNodeSelect: (node: GraphNode) => void;
+  onFocus?: (node: GraphNode) => void;
+  inFocusMode?: boolean;
 }
 
 export default function RelationshipDetailPanel({ 
   selectedNode, 
   graphData, 
   onClose, 
-  onNodeSelect 
+  onNodeSelect,
+  onFocus,
+  inFocusMode = false
 }: RelationshipDetailPanelProps) {
   const [connectedNodes, setConnectedNodes] = useState<Array<{node: GraphNode, link: GraphLink, isSource: boolean}>>([]);
   
@@ -237,7 +241,7 @@ export default function RelationshipDetailPanel({
         </div>
       </div>
       
-      <div className="p-3 border-t bg-gray-50">
+      <div className="p-3 border-t bg-gray-50 space-y-2">
         {isDocument && (
           <Link 
             href={`/documents/${(metadata as Document).id}`}
@@ -254,6 +258,21 @@ export default function RelationshipDetailPanel({
           >
             View Entity Details
           </Link>
+        )}
+        
+        {onFocus && (
+          <button
+            onClick={() => onFocus(selectedNode)}
+            className={`w-full py-2 px-4 ${
+              inFocusMode 
+                ? 'bg-blue-200 text-blue-800'
+                : 'bg-blue-50 hover:bg-blue-100 text-blue-700'
+            } rounded text-sm font-medium`}
+          >
+            {inFocusMode 
+              ? 'Exit Focus Mode'
+              : 'Focus on This Node'}
+          </button>
         )}
       </div>
     </div>
