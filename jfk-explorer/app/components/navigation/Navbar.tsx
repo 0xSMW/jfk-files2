@@ -6,7 +6,6 @@ import { usePathname } from 'next/navigation';
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
 
 const navigationLinks = [
-  { href: '/', label: 'Home' },
   { href: '/documents', label: 'Documents' },
   { href: '/entities', label: 'Entities' },
   { href: '/visualization', label: 'Visualization' },
@@ -27,7 +26,7 @@ export default function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex">
             <div className="flex-shrink-0 flex items-center">
-              <Link href="/" className="text-xl font-bold text-blue-600">
+              <Link href="/documents" className="text-xl font-bold text-blue-600">
                 JFK Explorer
               </Link>
             </div>
