@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef, useMemo } from 'react';
 import { usePathname, useRouter, useSearchParams } from 'next/navigation';
 import { DocumentSearchParams } from '@/app/lib/models/document';
 
@@ -53,6 +53,13 @@ export default function DocumentFilterSidebar({
   const [dateFrom, setDateFrom] = useState(searchParams.get('from') || '');
   const [dateTo, setDateTo] = useState(searchParams.get('to') || '');
   
+  // Debounced onFilterChange to prevent focus loss
+  const debouncedOnFilterChange = useMemo(() => {
+    return debounce((filters: Partial<DocumentSearchParams>) => {
+      onFilterChange(filters);
+    }, 300);
+  }, [onFilterChange]);
+  
   // Initialize selected tags from URL
   useEffect(() => {
     const tagsParam = searchParams.get('tags');
@@ -61,7 +68,7 @@ export default function DocumentFilterSidebar({
     }
   }, [searchParams]);
   
-  // Effect 1: Build filters object and notify parent when filters change
+  // Effect 1: Build filters object and notify parent when filters change (debounced)
   useEffect(() => {
     const filters: Partial<DocumentSearchParams> = {};
     
@@ -71,8 +78,12 @@ export default function DocumentFilterSidebar({
     if (dateFrom) filters.dateFrom = dateFrom;
     if (dateTo) filters.dateTo = dateTo;
     
-    onFilterChange(filters);
-  }, [query, selectedTags, selectedType, dateFrom, dateTo, onFilterChange]);
+    debouncedOnFilterChange(filters);
+    
+    return () => {
+      debouncedOnFilterChange.cancel();
+    };
+  }, [query, selectedTags, selectedType, dateFrom, dateTo, debouncedOnFilterChange]);
   
   // Effect 2: Update URL parameters when filters change - with debounce
   useEffect(() => {
