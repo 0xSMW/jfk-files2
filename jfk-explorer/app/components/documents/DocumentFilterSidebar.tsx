@@ -1,8 +1,30 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { usePathname, useRouter, useSearchParams } from 'next/navigation';
 import { DocumentSearchParams } from '@/app/lib/models/document';
+
+// Debounce utility function to delay URL updates
+function debounce<T extends (...args: any[]) => void>(fn: T, delay: number) {
+  let timeoutId: NodeJS.Timeout | null = null;
+  
+  const debouncedFn = (...args: Parameters<T>) => {
+    if (timeoutId) {
+      clearTimeout(timeoutId);
+    }
+    timeoutId = setTimeout(() => fn(...args), delay);
+  };
+  
+  // Add cancel method to the debounced function
+  debouncedFn.cancel = () => {
+    if (timeoutId) {
+      clearTimeout(timeoutId);
+      timeoutId = null;
+    }
+  };
+  
+  return debouncedFn as typeof debouncedFn & { cancel: () => void };
+}
 
 interface DocumentFilterSidebarProps {
   documentCount: number;
@@ -22,6 +44,7 @@ export default function DocumentFilterSidebar({
   const router = useRouter();
   const pathname = usePathname();
   const searchParams = useSearchParams();
+  const inputRef = useRef<HTMLInputElement>(null);
   
   // Filter state
   const [query, setQuery] = useState(searchParams.get('query') || '');
@@ -51,32 +74,43 @@ export default function DocumentFilterSidebar({
     onFilterChange(filters);
   }, [query, selectedTags, selectedType, dateFrom, dateTo, onFilterChange]);
   
-  // Effect 2: Update URL parameters when filters change
+  // Effect 2: Update URL parameters when filters change - with debounce
   useEffect(() => {
-    const params = new URLSearchParams(searchParams.toString());
+    // Create debounced function for URL updates
+    const updateUrl = debounce(() => {
+      const params = new URLSearchParams(searchParams.toString());
+      
+      if (query) params.set('query', query);
+      else params.delete('query');
+      
+      if (selectedType) params.set('type', selectedType);
+      else params.delete('type');
+      
+      if (selectedTags.length > 0) params.set('tags', selectedTags.join(','));
+      else params.delete('tags');
+      
+      if (dateFrom) params.set('from', dateFrom);
+      else params.delete('from');
+      
+      if (dateTo) params.set('to', dateTo);
+      else params.delete('to');
+      
+      const newParams = params.toString();
+      const currentParams = searchParams.toString();
+      
+      // Only update URL if params have actually changed to prevent loops
+      if (newParams !== currentParams) {
+        router.replace(`${pathname}?${newParams}`, { scroll: false });
+      }
+    }, 300); // 300ms debounce delay
     
-    if (query) params.set('query', query);
-    else params.delete('query');
+    // Call the debounced function
+    updateUrl();
     
-    if (selectedType) params.set('type', selectedType);
-    else params.delete('type');
-    
-    if (selectedTags.length > 0) params.set('tags', selectedTags.join(','));
-    else params.delete('tags');
-    
-    if (dateFrom) params.set('from', dateFrom);
-    else params.delete('from');
-    
-    if (dateTo) params.set('to', dateTo);
-    else params.delete('to');
-    
-    const newParams = params.toString();
-    const currentParams = searchParams.toString();
-    
-    // Only update URL if params have actually changed to prevent loops
-    if (newParams !== currentParams) {
-      router.replace(`${pathname}?${newParams}`, { scroll: false });
-    }
+    // Clean up timeout on unmount
+    return () => {
+      updateUrl.cancel();
+    };
   }, [query, selectedTags, selectedType, dateFrom, dateTo, router, pathname, searchParams]);
   
   // Handle tag selection
@@ -123,6 +157,7 @@ export default function DocumentFilterSidebar({
           placeholder="Search documents..."
           className="w-full p-2 border rounded-md"
           disabled={isLoading}
+          ref={inputRef}
         />
       </div>
       
