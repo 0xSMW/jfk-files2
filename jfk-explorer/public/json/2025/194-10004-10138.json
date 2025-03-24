@@ -1,6 +1,6 @@
 {
   "classification": "Personnel",
-  "document_type": "Paper, Textual Document",
+  "document_type": "Memo",
   "security": "Releasing details about personnel security investigations, particularly the types of checks conducted (FBI file checks, record validations, etc.) and the reasons for investigation ('determination under AR 604-10 is being delayed at Department of the Army pending results'), could reveal sensitive internal procedures and compromise future investigations. Mentioning the re-grading of the record to unclassified when separated from classified enclosures, and marked 'FOR OFFICIAL USE ONLY - This Protective Marking is Excluded From Automatic Termination', could potentially expose information deemed sensitive, specifically concerning handling classified information.",
   "security_level": "CONFIDENTIAL",
   "summary": "This document pertains to a personnel security action involving David Reed Fromer, including requests for FBI file checks and records validation to determine suitability for clearance, with a focus on expediting the investigation due to delays at the Department of the Army.",

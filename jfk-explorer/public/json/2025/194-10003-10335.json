@@ -1,6 +1,6 @@
 {
   "classification": "Personnel",
-  "document_type": "Paper, Textual Document",
+  "document_type": "Memo",
   "security": "Information about an individual's background, security clearance, and potential foreign connections is considered sensitive and could potentially compromise security protocols or reveal personal information. For example, the document asks, 'Has the subject any foreign connections, employment or military service?' and indicates the subject's parents' alien registration numbers. Revealing this information could lead to privacy violations or security breaches.",
   "security_level": "UNCLASSIFIED",
   "summary": "This document is a National Agency Check Request for Edward Kaczmarczyk, completed by USAINTC on November 17, 1971. It includes details such as his birthdate, place of birth (West Germany), social security number, service number, and information about his parents' immigration status.",
