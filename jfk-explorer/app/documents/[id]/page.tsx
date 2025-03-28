@@ -109,19 +109,19 @@ export default function DocumentDetailPage() {
           <div className="flex flex-wrap gap-2 items-center text-sm text-gray-600 mb-4">
             {document.date && (
               <span className="px-3 py-1 bg-gray-100 rounded-full">
-                Date: {new Date(document.date).toLocaleDateString()}
+                {new Date(document.date).toLocaleDateString()}
               </span>
             )}
             
             {document.document_type && (
               <span className="px-3 py-1 bg-gray-100 rounded-full">
-                Type: {document.document_type}
+                {document.document_type}
               </span>
             )}
             
             {document.origin_agency && (
               <span className="px-3 py-1 bg-gray-100 rounded-full">
-                Agency: {document.origin_agency}
+                {document.origin_agency}
               </span>
             )}
           </div>
@@ -146,13 +146,7 @@ export default function DocumentDetailPage() {
             </div>
           )}
           
-          {/* Main content */}
-          <div className="bg-white p-6 rounded-lg border border-gray-200 mb-8">
-            <h3 className="text-lg font-semibold mb-4">Document Content</h3>
-            <div className="whitespace-pre-wrap">
-              {document.content || 'No content available for this document.'}
-            </div>
-          </div>
+          
           
           {/* Document metadata */}
           <div className="bg-gray-50 p-4 rounded-lg mb-6 border border-gray-200">
@@ -177,6 +171,37 @@ export default function DocumentDetailPage() {
               })}
             </dl>
           </div>
+
+          {/* Main content */}
+          <div className="bg-white p-6 rounded-lg border border-gray-200 mb-8">
+            <h3 className="text-lg font-semibold mb-4">Document Content</h3>
+            <div className="whitespace-pre-wrap">
+              {document.content || 'No content available for this document.'}
+            </div>
+          </div>
+
+          {/* Original PDF */}
+          <div className="bg-white p-6 rounded-lg border border-gray-200 mb-8">
+            <h3 className="text-lg font-semibold mb-4">Original Document PDF</h3>
+            <div className="aspect-[8.5/11] w-full">
+              <iframe
+                src={`https://www.archives.gov/files/research/jfk/releases/2025/0318/${documentId}.pdf`}
+                className="w-full h-full border-0"
+                title="Original document PDF from National Archives"
+              />
+            </div>
+            <div className="mt-4 text-sm text-gray-500">
+              <a 
+                href={`https://www.archives.gov/files/research/jfk/releases/2025/0318/${documentId}.pdf`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:text-blue-800"
+              >
+                Open PDF in new tab
+              </a>
+            </div>
+          </div>
+
         </div>
       </article>
       
