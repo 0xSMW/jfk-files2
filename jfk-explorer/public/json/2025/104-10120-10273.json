@@ -1,6 +1,6 @@
 {
   "classification": "Security",
-  "document_type": "Memorandum",
+  "document_type": "Memo",
   "security": "Disclosing the process for alias documentation and security approvals, including specific details like the type of documentation (driver's license, Social Security Card, AAA Insurance Card) and its intended use ('flash purposes'), could compromise operational security. Additionally, revealing that the documentation 'will not be backstopped' and that the alias has been registered with RIN/OR provides insights into internal security procedures that could be exploited. Specifically, the memo states: 'It is understood that the documentation to be issued will include a D. C. driver's license, a Social Security Card and a AAA Insurance Card...the requested documentation will not be backstopped and will be used only for flash purposes'.",
   "security_level": "UNCLASSIFIED",
   "summary": "A memorandum confirming security approval for the issuance of alias documentation for Cal William Hitch, to be used for an operational assignment in Florida.",

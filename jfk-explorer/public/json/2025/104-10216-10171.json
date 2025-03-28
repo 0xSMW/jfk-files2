@@ -1,6 +1,6 @@
 {
   "classification": "Operations",
-  "document_type": "Memorandum",
+  "document_type": "Memo",
   "security": "The memorandum details specific modifications and tests of firearms, including ammunition performance and sight adjustments. Disclosing such details could reveal sensitive technical capabilities and testing procedures related to weaponry used by the agency. Specifically the line, “Recommend gas port be turned to off position to prevent action from opening and allowing gas leak. Also investigate soft annealing case necks” is not meant for public disclosure.",
   "security_level": "SECRET",
   "summary": "A memorandum detailing tests conducted on modified sights for the 7.62 Belgium (FAL) Rifle, including a Williams Peep sight and a telescopic scope, to improve accuracy and performance under various conditions.",

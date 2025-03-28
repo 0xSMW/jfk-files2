@@ -1,6 +1,6 @@
 {
   "classification": "John F. Kennedy Assassination",
-  "document_type": "Memorandum",
+  "document_type": "Memo",
   "security": "The document references 'Albanian Cryptographic Material' which could expose sensitive intelligence-gathering methods or sources if disclosed. Quoting directly: 'Albanian Cryptographic Material'.",
   "security_level": "SECRET",
   "summary": "A memo from Jim Harrison to Ruth Elliff, dated September 20, 1976, forwarding OSG records, specifically HH 28312 and HH 28317, containing information on Sturgis.",

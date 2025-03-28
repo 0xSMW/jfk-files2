@@ -1,6 +1,6 @@
 {
   "classification": "Cuba",
-  "document_type": "Memorandum",
+  "document_type": "Memo",
   "security": "Revealing the technical details of the audio surveillance operation—the specific frequencies used, the types of equipment, and the method of installation—could allow adversaries to develop countermeasures against similar operations in the future. Directly quoting: 'The AC-powered FM transmitter is crystal controlled to operate at a frequency of 157.4 megacycles in the VHF Band.' Additionally, the memo outlines the roles and knowledge of specific personnel, such as Fred C. Thomas, who is identified as a staff employee and willing participant in the operation, which could expose him.",
   "security_level": "SECRET",
   "summary": "A memo details a CIA operation to conduct audio surveillance on Manuel Artime, a Cuban exile leader, at a covert site in Bethesda, Maryland, using a staff employee's home as a listening post.",

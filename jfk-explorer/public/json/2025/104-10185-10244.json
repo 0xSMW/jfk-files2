@@ -1,6 +1,6 @@
 {
   "classification": "Security",
-  "document_type": "Memorandum",
+  "document_type": "Memo",
   "security": "The memo discusses the approval of a covert site, specifying that classified material may not be stored there and that the site cannot be loaned to other components without prior approval. Revealing these details would expose operational protocols, potentially enabling adversaries to compromise the site or its activities. Quoting directly, \"Under no circumstances may classified material be stored in the Subject Covert Site. In addition, the Subject Covert Site may not be loaned to or utilized by another component of the Agency without the prior concurrence...\"",
   "security_level": "SECRET",
   "summary": "A memo from the Deputy Director of Security to the Chief of WH Division regarding the security approval of a covert site in Silver Spring, Maryland, for use by a Latin American, with specific instructions to avoid security compromises.",

@@ -1,6 +1,6 @@
 {
   "classification": "John F. Kennedy Assassination",
-  "document_type": "Memorandum",
+  "document_type": "Memo",
   "security": "These documents reveal details of an internal CIA investigation into E. Howard Hunt's activities, potentially exposing operational methods and internal discussions. References to specific individuals, such as Helms and Karamessines, and details of financial transactions could compromise covert activities. The memorandum from the Office of Finance explicitly suggests questioning Karamessines and approaching Chase Manhattan Bank for account details, which if exposed, would highlight CIA's methods of financial tracking and could damage relationships with financial institutions. Quoting directly from one document, it states, 'Therefore, it is suggested that Mr. Karamessines be questioned as to a project or projects to which. Mr. Hunt's operational expenditures if incurred would have been charged.' This could expose sensitive operational details if revealed.",
   "security_level": "SECRET",
   "summary": "This collection of memoranda details investigations into E. Howard Hunt's activities, particularly his assignment to Madrid in the mid-1960s, focusing on financial transactions, operational roles, and connections to Watergate-related events.",

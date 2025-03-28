@@ -1,6 +1,6 @@
 {
   "classification": "Administrative",
-  "document_type": "Memorandum",
+  "document_type": "Memo",
   "security": "The memorandum discusses Operation MHCHAOS and mentions that information within the document was acquired from sensitive sources/methods, also referencing classified FBI reports. Releasing this information could reveal sensitive sources and methods used by the CIA and the FBI, potentially compromising intelligence gathering capabilities and endangering sources. Quoting directly: '...some of the information on some of these pages was seemingly acquired from/through sensitive sources/methods. Also these pages contain frequent mention of FBI information...FBI reports received by MHCHAOS were invariably classified...'",
   "security_level": "CONFIDENTIAL",
   "summary": "A memorandum from J. Haffner to J. D. Lavery, via A. Addona, concerning the classification of document EX 3600, providing justification for its classification and suggesting a FOIA exemption.",

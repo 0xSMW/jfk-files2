@@ -1,6 +1,6 @@
 {
   "classification": "Security",
-  "document_type": "Memorandum",
+  "document_type": "Memo",
   "security": "Revealing accommodation addresses could compromise individuals associated with those addresses, particularly if they are involved in sensitive operations. For example, disclosing the address associated with David S. MORALES (227 Laverne Avenue, Long Beach, California) could potentially expose him to unwanted attention or compromise his security.",
   "security_level": "SECRET",
   "summary": "This memorandum from the Deputy Director of Security (Investigations and Support) to the Chief of the WH Division confirms the cancellation of several accommodation addresses.",

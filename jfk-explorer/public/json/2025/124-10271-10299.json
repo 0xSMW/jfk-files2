@@ -1,6 +1,6 @@
 {
   "classification": "Commission",
-  "document_type": "Memorandum",
+  "document_type": "Memo",
   "security": "Disclosing the existence and purpose of the Community Central Index, including the key words used for identifying materials, could reveal intelligence collection priorities and methods. Quoting directly: '...a list of 40 key words to be used in identifying material furnished the Index.' and 'Forms for inputting information to the Central Index were also provided to the Group. This is a service of common concern which will assure the uniformity of information received and should serve to lighten the workload of the individual agencies.' This information could be exploited by adversaries to evade detection or manipulate intelligence analysis.",
   "security_level": "CONFIDENTIAL",
   "summary": "Minutes from a USIB Ad Hoc Coordinating Group meeting on Congressional Review, discussing responses to Senate Select Committee inquiries, including CIA's coordination, key areas of interest (assassinations, Phoenix program, covert action), and the implementation of a Community Central Index.",

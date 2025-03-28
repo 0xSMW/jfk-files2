@@ -1,6 +1,6 @@
 {
   "classification": "John F. Kennedy Assassination",
-  "document_type": "Memorandum",
+  "document_type": "Memo",
   "security": "Providing specifications for modifications to weapons such as the 7.62 Belgium (FAL) Rifle, including adjustments to the rear sight and ammunition, reveals technical aspects of clandestine operations and weapon modifications. This sensitivity is highlighted by the limited testing time and the need for individual zeroing of each rifle. Sharing such information could lead to reverse engineering or compromise of operational methods: “It must be understood that the limited time available would not permit more that cursory acceptance testing and the superiority of this sight over the standard unit has not been definitely established.”",
   "security_level": "SECRET",
   "summary": "A memorandum from the CIA's TSD/Engineering Branch to C/WH/SA/MOB/PM provides improved sights and modified ammunition for the 7.62 Belgium (FAL) rifle, along with instructions for installation and zeroing, while noting that the requested scope and mount were not feasible within the given timeframe.",

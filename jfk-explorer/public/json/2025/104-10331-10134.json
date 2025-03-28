@@ -1,6 +1,6 @@
 {
   "classification": "Administrative",
-  "document_type": "Memorandum",
+  "document_type": "Memo",
   "security": "Releasing crypt LINLUCK without further review or redaction could expose sensitive sources and methods. Quoting directly: \"Crypt LINLUCK -- ARRB staff did not find our evidence memo on this crypt persuasive. They are expected to recommend that the Board reaffirm its decision to release.\"",
   "security_level": "SECRET",
   "summary": "This memo outlines the agenda for the ARRB meeting on January 22, 1998, including reconsideration of the State Cover, discussion of personnel files and non-related files in the Sequestered Collection, and possible items such as ARRB Request # CIA 1 and the crypt LINLUCK.",

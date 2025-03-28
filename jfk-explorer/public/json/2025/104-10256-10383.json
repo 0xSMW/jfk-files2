@@ -1,6 +1,6 @@
 {
   "classification": "Administrative",
-  "document_type": "Memorandum",
+  "document_type": "Memo",
   "security": "The memo details internal operational procedures and contact information within the agency, which, if exposed, could potentially compromise internal communications or security protocols. Providing pageboy numbers (Line 5) or home telephone numbers (Lines 3, 4, 8, 10) could create opportunities for unauthorized access or exploitation. Also the document refers to OSDO instructions, which are likely classified and should not be shared.",
   "security_level": "CONFIDENTIAL",
   "summary": "A tour of duty report from the Building Security Branch outlining activities and communications, including relaying messages, providing contact information, and addressing a malfunctioning bay door.",

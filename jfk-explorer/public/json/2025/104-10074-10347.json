@@ -1,6 +1,6 @@
 {
   "classification": "Operations",
-  "document_type": "Memorandum",
+  "document_type": "Memo",
   "security": "Revealing details about Operation MHCHAOS, including its sensitivity and restricted handling channels, could damage national security. The memo states, \"during its tenure MHCHAOS was one of the most sensitive operations conducted under DDP aegis, repeatedly sanctioned (in writing) by the DCI. The activity was deemed so sensitive that it was controlled by/through extremely restricted handling channels.\" Additionally, mentioning the acquisition of information from sensitive sources/methods and references to classified FBI reports could compromise intelligence-gathering capabilities and relationships with other agencies.",
   "security_level": "CONFIDENTIAL",
   "summary": "A memorandum from P. Haefner to J.D. Lavery of OGC, via A. Addona, regarding the classification of document EX 3600, justifying its classification based on its connection to Operation MHCHAOS and the inclusion of information from sensitive sources and classified FBI reports.",

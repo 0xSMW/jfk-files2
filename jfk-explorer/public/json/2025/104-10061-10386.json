@@ -1,6 +1,6 @@
 {
   "classification": "Administrative",
-  "document_type": "Memorandum",
+  "document_type": "Memo",
   "security": "Releasing full text versions would divulge classified information related to sources and methods; sanitizing them would make the documents releasable under FOIA guidelines. The following text exemplifies why sanitization is important: \"the deletions were made to protect our proposed operational use of Subject as outlined in Paragraph 5, the name of an Agency employee and internal organizational data.\"",
   "security_level": "CONFIDENTIAL",
   "summary": "This memorandum outlines recommendations for responding to a FOIA appeal from John W. Donovan, suggesting the release of four Agency documents in sanitized form and referral of one Department of Army document to the Army for their action.",

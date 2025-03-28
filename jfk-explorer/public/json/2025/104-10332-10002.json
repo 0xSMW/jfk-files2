@@ -1,6 +1,6 @@
 {
   "classification": "JFK",
-  "document_type": "Memorandum",
+  "document_type": "Memo",
   "security": "Several documents discuss the protection of cryptonyms, pseudonyms, cable numbers, file numbers, and employee names. For example, a memo discusses the release of the IJDECANTER cryptonym, arguing it \"would provide an identifiable benefit to the Russian counterintelligence effort and concomitant damage to US intelligence interests.\" It suggests substituting a fictitious cryptonym instead. Another memo details that the release of file numbers would reveal the methodology by which we file/store and retrieve information. which is still in practice today and thus we cannot approve it on a blanket basis.",
   "security_level": "SECRET",
   "summary": "Collection of memorandums primarily concerning guidelines for releasing information related to the JFK assassination, specifically addressing the handling of cryptonyms, pseudonyms, file numbers, and employee names. It reveals the CIA's deliberations with the ARRB regarding the extent of redactions and the reasoning behind protecting certain information.",

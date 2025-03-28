@@ -1,6 +1,6 @@
 {
   "classification": "Security",
-  "document_type": "Memorandum",
+  "document_type": "Memo",
   "security": "This memo details the creation of alias documentation for James Paul Olds. Providing such details could expose methods used to create false identities, compromising security protocols. Specifically, the document mentions 'alias documentation in the alias indicated which will include but not necessarily be limited to the following documents: California Driver's License, Social Security card, Reserve Officers Association identity card with the rank of Commander, and an appropriate insurance identity card.' This level of detail is sensitive.",
   "security_level": "SECRET",
   "summary": "A memo from the Deputy Director of Security to the Chief of Technical Services Division requests the preparation of alias documentation for James Paul Olds, including a California Driver's License, Social Security card, Reserve Officers Association identity card, and an insurance identity card.",

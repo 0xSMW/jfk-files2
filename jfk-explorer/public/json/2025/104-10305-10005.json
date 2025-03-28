@@ -1,6 +1,6 @@
 {
   "classification": "Security",
-  "document_type": "Memorandum",
+  "document_type": "Memo",
   "security": "This file reveals internal security procedures related to managing information reviewed by the House Select Committee on Assassinations (HSCA), specifically concerning Richard Case Nagell. It mentions items sealed in envelopes and marked with green dots, indicating restricted or sensitive information. The disclosure of these procedures could highlight the CIA's methods for controlling access to information and managing potential leaks, which could damage the Agency's reputation and compromise future investigations. For example, the memo states: 'Under procedures established with the HSCA, certain items of information were not reviewed by HSCA staff members. These items were placed in envelopes, sealed, appropriately identified, and put back into the security file prior to HSCA review.'",
   "security_level": "SECRET",
   "summary": "This memorandum from Bruce L. Solie, Chief of the Security Analysis Group, outlines procedures for handling Office of Security files reviewed by the House Select Committee on Assassinations (HSCA) regarding Richard Case Nagell, ensuring certain sensitive information remains protected.",

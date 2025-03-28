@@ -1,6 +1,6 @@
 {
   "classification": "Operations",
-  "document_type": "Memorandum",
+  "document_type": "Memo",
   "security": "Revealing S/W techniques and materials issued to agents, along with communication protocols, could compromise ongoing operations. The document details specific carbon writing systems (No. 15136), liquid developer systems (No. 56638), accommodation addresses, and indicators used for communication. Quoting directly: 'Agent writes to Madrid, letter with no S/W' indicating lost carbon sheets. 'Any word, mark, phrase, etc., after the Spanish word 'FIN' at the end of the S/W message indicates agent is under control.' Disclosing these indicators and methods would endanger agents and undermine secure communications.",
   "security_level": "SECRET",
   "summary": "This memorandum summarizes S/W (secret writing) training provided to agent AMLASH/1 in Paris, France, including instruction on techniques, issuance of materials, and communication protocols.",
