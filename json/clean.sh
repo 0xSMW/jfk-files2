@@ -6,11 +6,12 @@ for file in entity_summaries/*; do
   fi
 done
 
-# Replace spaces with underscores in .json filenames
+# Rename .json files: replace spaces with underscores and remove special characters/punctuation before .json
 for file in entity_summaries/*.json; do
-  base=$(basename "$file")
-  new=$(echo "$base" | sed 's/ /_/g')
-  if [ "$base" != "$new" ]; then
+  base=$(basename "$file" .json)
+  newbase=$(echo "$base" | sed -e 's/ /_/g' -e 's/[^A-Za-z0-9_]//g')
+  new="${newbase}.json"
+  if [ "$base.json" != "$new" ]; then
     mv "$file" "entity_summaries/$new"
   fi
 done
