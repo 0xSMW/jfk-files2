@@ -1,0 +1,24 @@
+{
+  "entity_name": "NSA [R]",
+  "entity_type": "sender",
+  "document_count": 5,
+  "summary": "The National Security Agency (NSA) played a role in gathering and disseminating information related to the assassination of President John F. Kennedy. The NSA produced reports based on various sources, including foreign government communications and the beliefs of American ambassadors. These reports covered a range of topics, from the Mexican government's response to Kennedy's death to Fidel Castro's statement on the assassination and the American Ambassador to Turkey's belief in Russian and Cuban involvement. The NSA also summarized the Warren Commission's findings for foreign governments. The documents suggest the NSA's role was primarily focused on intelligence gathering and reporting on international reactions and potential foreign involvement in the assassination.",
+  "key_connections": [
+    "Mexican Foreign Ministry",
+    "Fidel Castro",
+    "American Ambassador to Turkey",
+    "Warren Commission",
+    "Brazilian Foreign Ministry",
+    "Russia",
+    "Cuba",
+    "Swiss Embassy in Havana"
+  ],
+  "significance": "The NSA's significance in the JFK assassination context lies in its role as an intelligence agency responsible for gathering and disseminating information related to the event and its potential international implications. The NSA's reports provide insights into the immediate aftermath of the assassination, including foreign reactions, potential leads, and the dissemination of the Warren Commission's findings.",
+  "document_ids": [
+    "144-10001-10122",
+    "144-10001-10066",
+    "144-10001-10080",
+    "144-10001-10074",
+    "144-10001-10117"
+  ]
+}

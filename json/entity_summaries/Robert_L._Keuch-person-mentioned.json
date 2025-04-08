@@ -1,0 +1,20 @@
+{
+  "entity_name": "Robert L. Keuch",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Robert L. Keuch is mentioned in several documents related to the House Select Committee on Assassinations (HSCA) investigations into the assassinations of Martin Luther King Jr. and John F. Kennedy. The documents primarily consist of communications between the FBI, its field offices, and the HSCA, indicating that Keuch was likely involved in the coordination and exchange of information between these entities. The documents detail requests for files, informant information, and agent details, suggesting Keuch's involvement in facilitating the HSCA's access to relevant resources. One document mentions background checks conducted on HSCA staff and applicants, which could imply Keuch's involvement in the vetting process.",
+  "key_connections": [
+    "FBI",
+    "House Select Committee on Assassinations (HSCA)",
+    "Martin Luther King Jr.",
+    "John F. Kennedy"
+  ],
+  "significance": "Robert L. Keuch's significance lies in his apparent role in facilitating the exchange of information and resources between the FBI and the HSCA during the investigations into the assassinations of Martin Luther King Jr. and John F. Kennedy. His involvement suggests he played a part in ensuring the HSCA had access to the necessary files, informant information, and personnel to conduct their inquiries.",
+  "document_ids": [
+    "124-10180-10324_multirif",
+    "124-10180-10323_multirif",
+    "124-10180-10236_multirif",
+    "180-10125-10172",
+    "124-10180-10325_multirif"
+  ]
+}

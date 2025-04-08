@@ -1,0 +1,31 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "This document reveals intelligence collection methods, specifically the interception and translation of foreign communications. Disclosing that the NSA was monitoring Polish diplomatic communications related to UN disarmament talks, including the message's distribution and security markings, could compromise ongoing intelligence operations and provide insights into NSA's capabilities. Directly quoting: 'Reproduction of this document in whole or in part is prohibited except as specifically authorized by the DIRECTOR, NATIONAL SECURITY AGENCY.'",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "An NSA document dated November 29, 1963, reports on UN disarmament talks based on intercepted Polish diplomatic communication, and notes the impact of President Kennedy's assassination on these discussions.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA document from the NSA, dated November 29, 1963, summarizes Polish diplomatic communication (Message Nr. 484) regarding UN disarmament talks. The message relays instructions from RAPACKI to LACHS to continue disarmament discussions with the Americans along the lines of inspection points with threats, or formal unilateral steps. It mentions GROMYKO's talks with the USA, where the USA proposed the destruction of bombers by both sides without inspection, and notes that the information of Kennedy's assassination was received during the discussion, which was believed to eliminate the possibility of any steps for elections and freeze the situation.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "UN Disarmament Talks",
+    "Polish Diplomacy",
+    "Intelligence Intercept",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "3/0/W/T2021-63 UN DISARMAMENT TALKS REPORTED [R]",
+  "date": "1963-11-29",
+  "locations_mentioned": [
+    "New York",
+    "Warsaw"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "RAPACKI",
+    "LACHS",
+    "GROMYKO",
+    "LEWANDOWSKI"
+  ],
+  "sender": "NSA"
+}

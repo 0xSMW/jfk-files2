@@ -1,0 +1,17 @@
+{
+  "entity_name": "Beverly Smith",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Beverly Smith is identified as an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA). Her name appears in multiple payroll and certification reports spanning from October 1977 to November 1978. These documents list her position and salary during this period, indicating her involvement in the committee's operations. The documents do not provide specific details about her role within the HSCA or her direct involvement in the JFK assassination investigation, but they confirm her employment during the period the HSCA was actively investigating the assassination.",
+  "key_connections": [
+    "Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Beverly Smith's significance lies in her employment with the HSCA during its investigation into the JFK assassination. While the specific nature of her role is not detailed in these documents, her presence on the payroll and certification reports indicates her contribution to the committee's work.",
+  "document_ids": [
+    "180-10125-10081",
+    "180-10125-10096",
+    "180-10125-10079",
+    "180-10125-10086",
+    "180-10125-10094"
+  ]
+}

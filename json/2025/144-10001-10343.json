@@ -1,0 +1,31 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "Information regarding signals intelligence activities of the NSA. Sharing this information could compromise NSA methods and capabilities.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A message from Field Marshal Sarit of Thailand and his wife expressing condolences to Lyndon B. Johnson on the death of President Kennedy.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA document from the NSA contains a message of condolence from Field Marshal Sarit of Thailand and his wife to Mr. Lyndon B. Johnson following the death of President Kennedy. The message, sent on November 23, 1963, conveys their shock and deepest grief.",
+  "tags": [
+    "NSA",
+    "Condolences",
+    "John Kennedy",
+    "Lyndon B. Johnson",
+    "Thailand",
+    "Field Marshal Sarit",
+    "Assassination"
+  ],
+  "title": "Field Marshal Sarit and Wife Send Condolences [R]",
+  "date": "1963-11-29",
+  "locations_mentioned": [
+    "Bangkok",
+    "Washington"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Lyndon B. Johnson",
+    "Field Marshal Sarit"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

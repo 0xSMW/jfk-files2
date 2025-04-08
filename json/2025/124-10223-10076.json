@@ -1,0 +1,35 @@
+{
+  "classification": "Administrative",
+  "document_type": "Teletype",
+  "security": "Mentioning ongoing FBI investigations and sources could compromise active operations.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "FBI teletype discusses John Rosselli's activities, including a conversation about Pat O'Malley and a bet on the California gubernatorial race, and notes Rosselli's continued possession of a rental car.",
+  "summary_one_paragraph": "This FBI teletype, dated November 2, 1962, from the SAC in Los Angeles to the Director of the FBI, reports on John Rosselli's activities, specifically a conversation at the Friar's Club regarding Pat O'Malley's alleged affiliation with vending machine operations in Chicago, and Rosselli's comments on the California gubernatorial race between Pat Brown and Nixon. The teletype also notes that Rosselli, who is not a registered voter due to a prior conviction, is still in possession of a rental car from Hertz.",
+  "tags": [
+    "FBI",
+    "John Rosselli",
+    "Pat O'Malley",
+    "Pat Brown",
+    "Richard Nixon",
+    "California gubernatorial race",
+    "Hertz",
+    "Car Rental",
+    "Friars Club"
+  ],
+  "title": "John Rosselli Activities",
+  "date": "1962-11-02",
+  "locations_mentioned": [
+    "Los Angeles",
+    "Chicago",
+    "Las Vegas"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Rosselli",
+    "Pat O'Malley",
+    "Pat Brown",
+    "Richard Nixon"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, LA"
+}

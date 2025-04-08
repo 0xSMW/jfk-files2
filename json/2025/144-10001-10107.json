@@ -1,0 +1,39 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "Revealing that McCloy expressed doubts about the Warren Commission's credibility and mentioned Johnson's order to investigate Oswald's slaying could damage the commission's perceived objectivity and independence. The quote “MCCLOY, a member of the presidential commission stated that he has serious doubts of the credibility of the investigation to date. He does not eliminate the possibility that the attempt on KENNEDY was made by two persons” highlights potential internal conflicts within the investigative body and sensitivities regarding the investigation process.",
+  "security_level": "TOP SECRET",
+  "summary": "A top secret NSA report details a conversation where John McCloy, a member of the presidential commission, expresses doubts about the credibility of the JFK assassination investigation to a Polish U.N. Mission Chief.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA report, dated December 6, 1963, details a conversation between John McCloy, a member of the presidential commission investigating the JFK assassination, and the Polish U.N. Mission Chief. McCloy expressed serious doubts regarding the investigation's credibility and suggested the possibility of two assassins. The report mentions President Johnson's order to investigate Oswald's slaying and notes the FBI's release of information confirming Oswald's guilt.",
+  "tags": [
+    "NSA",
+    "John McCloy",
+    "Polish U.N. Mission",
+    "JFK Assassination",
+    "Warren Commission",
+    "Investigation Doubts",
+    "Oswald",
+    "Johnson",
+    "FBI",
+    "Poland",
+    "Diplomatic Activity"
+  ],
+  "title": "3/0/W/T2084-63: MCCLOY INTERVIEWED BY POLISH U.N. MISSION CHIEF ON [R]",
+  "conspiracy": "The report includes McCloy's statement that he \"does not eliminate the possibility that the attempt on KENNEDY was made by two persons,\" which suggests a potential conspiracy.",
+  "date": "1963-12-06",
+  "locations_mentioned": [
+    "New York",
+    "Warsaw"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John McCloy",
+    "Winiewicz",
+    "Lyndon B. Johnson",
+    "Lee Harvey Oswald",
+    "Jack Ruby",
+    "Lewandowski"
+  ],
+  "recipient": "HCO",
+  "sender": "NSA"
+}

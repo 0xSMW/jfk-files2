@@ -1,0 +1,37 @@
+{
+  "classification": "Assassination",
+  "document_type": "Daily Summary",
+  "security": "Disclosing the specific monitoring of sentiments within industrial and agricultural sectors and insights into internal affairs of the CSSR could expose intelligence collection methods and sources, potentially damaging relationships and operations. Quoting directly: 'THE NEWS OF THE ASSASSINATION OF U.S. SENATOR ROBERT KENNEDY WAS HEARD WITH INDIGNATION AND DISGUST BY INDUSTRIAL AND AGRICULTURAL WORKERS...FEARS WERE EXPRESSED THAT THIS WOULD ENABLE CERTAIN ELEMENTS TO FLEE THE DDR THROUGH THE CSSR AND WOULD ALLOW AGENTS AND REVANCHISTS FROM WEST GERMANY TO BE BROUGHT IN TO SUPPORT THE COUNTER-REVOLUTIONARY FORCES.'",
+  "security_level": "SECRET SPOKE",
+  "summary": "A daily summary reports on the reactions of industrial and agricultural workers to the assassination of Robert Kennedy, along with concerns about developments in the CSSR regarding border openings and potential counter-revolutionary activities.",
+  "summary_one_paragraph": "This document, dated October 1968, is a daily summary reporting on the reactions of industrial and agricultural workers to the assassination of U.S. Senator Robert Kennedy, noting widespread indignation and condemnation of political violence, with some workers drawing parallels to John F. Kennedy's assassination. The report also covers concerns related to the situation in the CSSR, including fears that the opening of borders with West Germany and Austria could lead to an influx of agents and support counter-revolutionary forces, while also relaying that citizens in the CSSR express confidence in their new leaders despite some reports of delegations encountering differing viewpoints.",
+  "tags": [
+    "Robert Kennedy Assassination",
+    "CSSR",
+    "Soviet Union",
+    "Worker Sentiment",
+    "Counter-Revolutionary Forces",
+    "Daily Summary"
+  ],
+  "title": "2/R7/GCY/172-68 SED DAILY SUMMARY",
+  "date": "1968-10-00",
+  "locations_mentioned": [
+    "USA",
+    "Vietnam",
+    "CSSR",
+    "West Germany",
+    "Austria",
+    "DDR",
+    "Prague",
+    "Plzen",
+    "Tabor",
+    "Karlovy Vary"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Robert Kennedy",
+    "John F. Kennedy",
+    "Hager"
+  ],
+  "sender": "USM-620K"
+}

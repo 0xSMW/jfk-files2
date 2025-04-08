@@ -1,0 +1,39 @@
+{
+  "classification": "Kennedy Assassination",
+  "document_type": "Textual Document",
+  "security": "This document contains intelligence regarding a foreign religious figure's political views and how they relate to the government and world leaders. Sharing the specific content could reveal NSA's sources and methods for monitoring foreign communications and opinions, potentially compromising intelligence operations. For example, it details the content of a sermon by U Kethara and his likening of Ne Win's fate to that of Diem and Kennedy.",
+  "security_level": "SECRET",
+  "summary": "An NSA document dated December 4, 1963, reports on a speech by Burmese monk U Kethara, who attacked the government and compared the potential fate of Ne Win to those of Ngo Dinh Diem and John F. Kennedy.",
+  "summary_one_paragraph": "This NSA report, dated December 4, 1963, details a speech given on November 25, 1963, by the Shweman Sayadaw U Kethara in Mandalay, Burma, where he criticized the Burmese government, likened the potential fate of Bogyoke Ne Win to those of assassinated world leaders Ngo Dinh Diem and John F. Kennedy, and indicated he would soon deliver a sermon addressing the dangers of communism and the misrule of the Revolutionary Government; approximately 2500 people, including 300 monks, attended the religious ceremony.",
+  "tags": [
+    "NSA",
+    "U Kethara",
+    "Ne Win",
+    "Ngo Dinh Diem",
+    "John F. Kennedy",
+    "Burma",
+    "Political Speech",
+    "Monk",
+    "Assassination",
+    "Religious Ceremony",
+    "Communism"
+  ],
+  "title": "U KETHARA ATTACKS GOVERNMENT; LIKENS FATE OF NE WIN TO DIEM AND KENNEDY",
+  "date": "1963-12-04",
+  "locations_mentioned": [
+    "Burma",
+    "Mandalay",
+    "Rangoon",
+    "South Viet Nam"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "U Kethara",
+    "Ne Win",
+    "Ngo Dinh Diem",
+    "John F. Kennedy",
+    "U Paw Eb"
+  ],
+  "recipient": "HCO",
+  "sender": "NSA"
+}

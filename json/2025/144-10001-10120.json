@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This document contains information about an anti-imperialist group protesting U.S. policy toward Cuba and mentions the \"unexplained assassination of President Kennedy\". Disclosing this could reveal NSA's surveillance capabilities and sources of information, which are classified. The document is marked TOP SECRET UMBRA, indicating highly sensitive compartmented information.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "An NSA report details a protest by a U.S. anti-imperialist group residing in Cuba against U.S. policy, specifically condemning an attack using U.S. weapons and criticizing the Johnson administration.",
+  "summary_one_paragraph": "This NSA report, dated May 22, 1964, summarizes a message from Ilah Warner, head of an Anti-Imperialist United States citizens group residing in Cuba, to U Thant, Secretary General of the United Nations. The group vigorously condemns a recent \"Imperialist attack\" against Cuba using U.S. weapons, protesting what they describe as the \"fascist vandalism\" of the Johnson administration, which they claim came to power through the \"unexplained assassination of President Kennedy\" and is opposed to Cuba, South Vietnam, and the African American population in the U.S. They express support for the protests of the Cuban people and government against these imperialist aggressions.",
+  "tags": [
+    "NSA",
+    "Cuba",
+    "Anti-American Activity",
+    "Anti-Imperialist Group",
+    "Lyndon B. Johnson",
+    "JFK Assassination",
+    "Ilah Warner",
+    "U Thant",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "3/0/Q0D/T80-64: U.S. ANTI-IMPERIALIST GROUP PROTESTS U.S. POLICY [R]",
+  "conspiracy": "The document references the \"unexplained assassination of President Kennedy\", aligning with conspiracy theories regarding his death and suggesting the Johnson government's illegitimacy.",
+  "date": "1964-05-22",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "New York"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Ilah Warner",
+    "U Thant",
+    "Lyndon B. Johnson",
+    "John F. Kennedy"
+  ],
+  "recipient": "HCF Plus",
+  "sender": "NSA"
+}

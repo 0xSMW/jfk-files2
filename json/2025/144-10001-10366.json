@@ -1,0 +1,41 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "Revealing diplomatic communications, particularly those concerning discussions about racial tensions within the U.S. following President Kennedy’s assassination, could damage international relations and expose sensitive government assessments of foreign leaders' opinions. The document notes, “President AZIKIWE of Nigeria wrote to President JOHNSON saying that this assassination indicates that there are deeply rooted feelings against the American Negro, and that there is a need for serious consideration by the African people as to whether or not they can trust the U.S.”",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A report on meetings between U.S. President Johnson and Pakistani/Indonesian ministers, along with concerns expressed by Nigeria’s President Azikiwe regarding racial tensions in the U.S. after President Kennedy’s assassination.",
+  "summary_one_paragraph": "This Top Secret UMBRA report, dated December 5, 1963, details meetings between President Johnson and Defense Minister Nasution of Indonesia, and Foreign Minister Bhutto of Pakistan. Johnson addressed concerns about Indonesia’s stance on Malaysia and aimed to reaffirm U.S.-Pakistan relations. The report also references President Azikiwe of Nigeria’s letter to Johnson following Kennedy's assassination, which expressed concerns about racial discrimination in the U.S. and its impact on international trust, to which Johnson responded by affirming the U.S.'s commitment to equal human rights.",
+  "tags": [
+    "JFK Assassination",
+    "NSA",
+    "Pakistan",
+    "Indonesia",
+    "Nigeria",
+    "Diplomacy",
+    "Racial Tensions",
+    "Johnson Administration",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "3/0/JAD/T1884-63 Report on Meeting Between U.S. President and Pakistan [R]",
+  "date": "1963-12-05",
+  "locations_mentioned": [
+    "Washington",
+    "Tokyo",
+    "United States",
+    "Nigeria",
+    "Indonesia",
+    "Pakistan",
+    "Malaysia"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Lyndon B. Johnson",
+    "Abdul Nasution",
+    "Zulfiqar Bhutto",
+    "Nnamdi Azikiwe",
+    "Takeuchi"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

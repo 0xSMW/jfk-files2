@@ -1,0 +1,28 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "Revealing that the NSA intercepts and processes diplomatic communications, even those expressing condolences or positive sentiments towards foreign leaders, could harm international relations. The document contains sensitive information about diplomatic communications. ",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A cable from the Ecuadorian Foreign Ministry to its embassy in Stockholm, dated November 29, 1963, relays the Ecuadorian Military Junta's desire to propose a Nobel Prize for President John F. Kennedy and requests information on the requirements and conditions for such a nomination.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA cable, originating from the Ecuadorian Foreign Ministry in Quito and addressed to the Ecuadorian Embassy in Stockholm on November 29, 1963, conveys the Ecuadorian Military Junta's intention to nominate the deceased President John F. Kennedy for the Nobel Prize in recognition of his contributions to world peace. The cable requests immediate information regarding the qualifications, conditions, and appropriate procedures for submitting this nomination, while also seeking discreet feedback on the potential success of such a démarche.",
+  "tags": [
+    "NSA",
+    "Nobel Prize",
+    "John F. Kennedy",
+    "Ecuador",
+    "Diplomacy",
+    "Assassination"
+  ],
+  "title": "Ecuador Would Like to Propose Nobel Prize for President Kennedy",
+  "date": "1963-12-03",
+  "locations_mentioned": [
+    "Ecuador",
+    "Stockholm"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

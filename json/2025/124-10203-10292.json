@@ -1,0 +1,39 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Teletype",
+  "security": "The document details the movements and meetings of Carlos Marcello, including his associates and attorney. Revealing these details could compromise the FBI's source and their ability to gather intelligence on Marcello's activities. Quoting directly: \"HOUSTON EXERCISE EXTREME CAUTION IN UTILIZATION OF ABOVE INFO SO AS NOT TO COMPROMISE HIGHTLY SENSATIVE SOURCE ABOVE.\"",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An FBI teletype from New Orleans to Houston and the Director reports Carlos Marcello's travel plans to Bay City, Texas, to meet with Santo Trafficante's attorney, Dr. Frank Ragano, and possibly Giuseppe Gagliano, advising caution to protect a sensitive source.",
+  "summary_one_paragraph": "On December 16, 1968, the FBI in New Orleans sent an urgent teletype to Houston and the FBI Director, relaying information that Carlos Marcello was traveling to Bay City, Texas, driven by Sal Boemia. Marcello, en route to meet Dr. Frank Ragano, attorney for Santo Trafficante, and potentially Giuseppe Gagliano, was carrying a transcript of his trial in Laredo, Texas. The teletype instructed Houston to investigate Marcello's presence in Bay City while exercising extreme caution to protect a highly sensitive source. It was also noted that Marcello had previously contacted Moise Simon, an attorney for Brown and Root in Bay City regarding the sale of Churchill Farms Inc.",
+  "tags": [
+    "FBI",
+    "Carlos Marcello",
+    "Santo Trafficante",
+    "Frank Ragano",
+    "Giuseppe Gagliano",
+    "Bay City, Texas",
+    "Informant",
+    "Organized Crime"
+  ],
+  "title": "Carlos Marcello; AR",
+  "date": "1968-12-16",
+  "locations_mentioned": [
+    "New Orleans, Louisiana",
+    "Bay City, Texas",
+    "Laredo, Texas",
+    "Tampa, Florida",
+    "Lafayette, Louisiana"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Carlos Marcello",
+    "Sal Boemia",
+    "Picou",
+    "Frank Ragano",
+    "Santo Trafficante",
+    "Giuseppe Gagliano",
+    "Moise Simon"
+  ],
+  "recipient": "Director, FBI; Houston",
+  "sender": "SAC, NO"
+}

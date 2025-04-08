@@ -1,0 +1,44 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Memorandum, Letters",
+  "security": "This document contains information about intelligence operations related to Cuban activities and the potential assassination of individuals. Releasing details about the plan of execution of Veciana and Estevez, as well as information about plan PO ALPHA, could reveal sensitive intelligence sources and methods. The document is marked as containing \"sensitive compartmented information.\" Quoting the document: \"CONTAINS SENSITIVE COMPARTMENTED INFORMATION\"",
+  "security_level": "TOP SECRET",
+  "summary": "This document contains correspondence and a memo regarding the Senate Select Committee on Intelligence's (SSCI) request for information on Antonio Veciana and related Cuban matters, including a 1962 NSA document and potential assassination plans. It details the SSCI's interest in Veciana and the NSA's internal discussions on how to handle the committee's request, including withholding certain documents and managing access.",
+  "summary_one_paragraph": "In December 1976, the Senate Select Committee on Intelligence (SSCI), led by Howard Liebengood, requested information from the NSA regarding Antonio Veciana, specifically an NSA document from November 29, 1962. The request spurred internal NSA communications, including a memo from John C. Wobensmith detailing a briefing for SSCI staffers on the Veciana document. NSA considered how to respond to the SSCI's broader interest in Cuban-related materials from 1961-1965, ultimately withholding a document from the SSC and seeking guidance on how to describe it for potential SSC clearance. The documents reference potential plans for the execution of Veciana and Estevez, as well as a plan PO ALPHA, indicating sensitive intelligence operations.",
+  "tags": [
+    "Antonio Veciana",
+    "SSCI",
+    "NSA",
+    "JFK Assassination",
+    "Cuban Intelligence",
+    "Assassination Plan",
+    "TOP SECRET",
+    "Serafin",
+    "ALPHA 66",
+    "Estevez"
+  ],
+  "title": "Request of Info Re Mr. Antonio Veciana",
+  "conspiracy": "The document mentions Veciana's name coming up at the FBI when Kennedy was assassinated and includes references to plans for the execution of Veciana and Estevez, suggesting potential connections to assassination plots, although it does not provide definitive information about the JFK assassination itself.",
+  "date": "1976-12-20",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Fort George G. Meade, Maryland",
+    "Puerto Rico",
+    "Cuba"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Antonio Veciana",
+    "Howard Liebengood",
+    "Tom Moore",
+    "John C. Wobensmith",
+    "Frank Foster",
+    "Fred Cassedy",
+    "Geronimo Estevez",
+    "Serafin",
+    "Daniel K. Inouye",
+    "Howard H. Baker, Jr."
+  ],
+  "recipient": "NSA, LAO",
+  "sender": "Senate Select Committee on Intelligence, Howard Liebengood"
+}

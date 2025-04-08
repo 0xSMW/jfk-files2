@@ -1,0 +1,13 @@
+{
+  "entity_name": "Miss Holmes",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, there is no mention of an entity named \"Miss Holmes.\" The documents primarily focus on the activities and whereabouts of John Roselli, his associate Judith E. Campbell, and Sam Giancana, detailing FBI investigations into their bank account activity, phone calls, and movements in November 1962. The documents consist of FBI reports and teletypes tracking Roselli's location and activities in Los Angeles.",
+  "key_connections": [],
+  "significance": "Since \"Miss Holmes\" is not mentioned in the provided documents, there is no significance to report in the JFK context.",
+  "document_ids": [
+    "124-10223-10077",
+    "124-10223-10073",
+    "124-10223-10087"
+  ]
+}

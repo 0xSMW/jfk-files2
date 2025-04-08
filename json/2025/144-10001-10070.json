@@ -1,0 +1,30 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This document is classified Top Secret Umbra and contains sensitive compartmented information. Releasing details about Cuban reactions to JFK's assassination, especially the identification of specific groups or individuals expressing certain sentiments, could jeopardize intelligence sources and methods. The document states 'CONTAINS SENSITIVE COMPARTMENTED INFORMATION'.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "An NSA report, relayed through Chilean diplomatic channels, details the calm and cautious reaction in Havana to President Kennedy's assassination, noting a lack of widespread rejoicing except among isolated Communist groups.",
+  "summary_one_paragraph": "Dated November 24, 1963, this NSA report, disseminated via Chilean diplomatic routes (from Havana to Santiago), summarizes Cuban reactions to President Kennedy's assassination. The report indicates that while isolated Communist groups exhibited signs of rejoicing, the overall response in Havana was calm and cautious. Cuban media outlets, including radio and news reels, reportedly presented objective coverage without expressing regret, reflecting a measured government stance. Additionally, undisclosed circles in Cuba expressed serious concern regarding the potential repercussions of Kennedy's assassination.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Cuba",
+    "Chile",
+    "Diplomatic Activity",
+    "Cuban Reaction"
+  ],
+  "title": "3/0/CLD/T1075-63: CUBAN REACTION TO ASSASSINATION OF PRESIDENT KENNED",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Chile",
+    "Santiago"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President Kennedy"
+  ],
+  "recipient": "HCF [R]",
+  "sender": "NSA"
+}

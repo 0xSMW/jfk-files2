@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "Disclosing details of ongoing FBI investigations, sources, and informants could compromise investigations and endanger individuals. For example, the memo refers to 'MM-416-C furnished information concerning the captioned subject to SA JAMES P. O'NEIL'.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An FBI memorandum details information regarding Santo Trafficante Jr.'s daughter's upcoming marriage in Havana, Cuba, and the potential gathering of underworld associates.",
+  "summary_one_paragraph": "This FBI memorandum, dated May 20, 1959, from the SAC in Miami to the FBI Director, concerns Santo Trafficante Jr. and his daughter Mary Jo Trafficante's forthcoming marriage to August C. Paniello in Havana, Cuba. The wedding, scheduled for June 1959, was reportedly opposed by Trafficante due to Paniello's prior divorce. An informant, MM-416-C, suggested the Havana location was chosen to avoid publicity and Trafficante's presence in Tampa. The memo suggests the event might draw Trafficante's associates, including individuals with underworld ties, and is being forwarded to the Legat in Havana for awareness.",
+  "tags": [
+    "FBI",
+    "Santo Trafficante Jr.",
+    "Anti-Racketeering",
+    "Havana",
+    "Cuba",
+    "Underworld",
+    "Informant",
+    "Wedding"
+  ],
+  "title": "SANTO TRAFFICANTE, JR., aka. ANTI-RACKETEERING",
+  "date": "1959-05-20",
+  "locations_mentioned": [
+    "Miami",
+    "Tampa, Florida",
+    "St. Petersburg, Florida",
+    "Havana, Cuba"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Santo Trafficante Jr.",
+    "Mary Jo Trafficante",
+    "August C. Paniello",
+    "Dr. Santiago Paniello",
+    "Elvira Paniello",
+    "James P. O'Neil"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, Miami"
+}

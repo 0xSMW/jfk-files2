@@ -1,0 +1,30 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Paper, Textual Document",
+  "security": "The transmission or the revelation of this information in any manner to an unauthorized person is prohibited by law.",
+  "security_level": "CLASSIFIED",
+  "summary": "A corrected copy of a message discussing the assassination of President Kennedy, intercepted by the NSA. The message indicates that Russian Mercury GAASS FACS relayed a conversation between two unidentified operators in East Germany discussing the event.",
+  "summary_one_paragraph": "This is a corrected copy of a message, dated November 23, 1963, originating from USA-751 and addressed to DIRNSA, concerning the assassination of President Kennedy. The message, classified as SECRET KIMBO, relays information indicating that between 0730 and 0735 Zulu time, Russian Mercury GAASS FACS relayed a conversation between two unidentified operators, likely situated at stations in East Germany, who were discussing the assassination. One operator mentioned hearing about the event and described the President riding in a car with his wife in a town where elections were to occur the following year.",
+  "tags": [
+    "NSA",
+    "USAF",
+    "John Kennedy",
+    "Assassination",
+    "East Germany",
+    "Russian Mercury GAASS FACS",
+    "Interception"
+  ],
+  "title": "DISCUSSION OF ASSASSINATION OF PRESIDENT KENNEDY - CORRECTED COPY",
+  "conspiracy": "The document contains details expanding the understanding of how the event was discussed in other countries, specifically East Germany, and intercepted by the NSA.",
+  "date": "1963-11-23",
+  "locations_mentioned": [
+    "East Germany",
+    "GERA"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy"
+  ],
+  "recipient": "DIRNSA",
+  "sender": "USA-751"
+}

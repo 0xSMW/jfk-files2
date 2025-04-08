@@ -1,0 +1,39 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security": "Revealing internal FBI communications and analysis of proposed legislation could compromise ongoing investigations or the Bureau's ability to adapt to legislative changes. The memo directly outlines options the FBI is considering and potential responses to Senate inquiries, detailing proposed responses and strategies. Disclosing these strategies could expose the Bureau's future operational plans.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memorandum from the Legal Counsel to Mr. J.B. Adams, discussing the Senate Select Committee's (SENSTUDY 75) review of the FBI's domestic intelligence operations and potential legislative actions, including options for FBI reform and oversight.",
+  "summary_one_paragraph": "This memorandum, dated December 5, 1975, summarizes a meeting between the FBI and representatives of the Senate Select Committee (SENSTUDY 75) regarding the FBI's domestic intelligence investigations. It discusses the Committee's concerns about the scope, techniques, and dissemination of information from these investigations. The memo outlines potential legislative options, ranging from abolishing the FBI's domestic intelligence functions to increased oversight, and suggests responses for the Director's upcoming testimony, recommending a review of these proposals by the Intelligence Division.",
+  "tags": [
+    "FBI",
+    "Senate Select Committee",
+    "SENSTUDY 75",
+    "Domestic Intelligence",
+    "Legislative Oversight",
+    "COINTELPRO",
+    "Legal Counsel"
+  ],
+  "title": "SENSTUDY 75",
+  "date": "1975-12-05",
+  "persons_mentioned": [
+    "J. B. Adams",
+    "F.A.O. Schwartz",
+    "Paul Michel",
+    "Mark Gitenstein",
+    "John T. Elliff",
+    "John Bayley",
+    "John A. Mintz",
+    "John B. Hotis",
+    "Paul V. Daly",
+    "Kelley",
+    "Levi",
+    "Rogers",
+    "Katzenbach",
+    "Clark",
+    "Harlan Stone",
+    "Robert Jackson"
+  ],
+  "recipient": "Mr. J. B. Adams",
+  "sender": "Legal Counsel"
+}

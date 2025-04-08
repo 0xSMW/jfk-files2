@@ -1,0 +1,27 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "This document contains sensitive compartmented information and refers to specific intelligence products and operations (e.g., \"3/0/TRIG-CUI/T23-62\"). Disclosing these details could reveal intelligence sources, methods, and targets, potentially compromising ongoing or future operations. The document is marked TOP SECRET UMBRA, further emphasizing its highly sensitive nature.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A 1976 NSA memorandum details a meeting between NSA's John C. Wobensmith and SSCI staffers Tom Moore and Howard Liebengood, during which an NSA product on Antonio Veciana was reviewed, leading to the SSCI requesting a review of all Cuban material from 1961-1965.",
+  "summary_one_paragraph": "On December 30, 1976, John C. Wobensmith of the NSA documented a meeting with Senate Select Committee on Intelligence (SSCI) staffers Tom Moore and Howard Liebengood to review an NSA product concerning Antonio Veciana, specifically message 3/0/TRIG-CUI/T23-62 dated November 29, 1962. The SSCI staffers expressed significant interest, particularly in a reference to \"Serafin,\" and subsequently requested a comprehensive review of all Cuban material from the period of 1961 to 1965, as indicated in the memorandum and its enclosures.",
+  "tags": [
+    "NSA",
+    "SSCI",
+    "Antonio Veciana",
+    "Serafin",
+    "Cuban Material",
+    "Legislative Affairs",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "SSCI Request for Product on Antonio Veciana",
+  "date": "1976-12-30",
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Wobensmith",
+    "Antonio Veciana",
+    "Tom Moore",
+    "Howard Liebengood"
+  ],
+  "recipient": "SSCI"
+}

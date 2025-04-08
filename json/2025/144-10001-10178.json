@@ -1,0 +1,43 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum/MOU",
+  "security": "The document pertains to an investigation of the House Select Committee on Assassinations (HSCA) regarding the allegations of David F. Christensen concerning JFK's assassination, and the document also contains COMINT which is properly classified. Disclosing the intelligence sources and methods could be damaging to national security. Quoting the document: \"The interview will be limited in scope to the substantive content of the allegations of Mr. Christensen. Information which deals with intelligence sources and methods will not be used in responding to questions.\"",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This document contains memos and a Memorandum of Understanding (MOU) related to the House Select Committee on Assassinations' investigation into allegations made by David F. Christensen regarding the JFK assassination, specifically concerning possible Cuban involvement.",
+  "summary_one_paragraph": "This collection of documents from October and November 1978 details the NSA's and Department of Defense's cooperation with the House Select Committee on Assassinations (HSCA) regarding David F. Christensen's allegations about Cuban involvement in President Kennedy's assassination; it includes an MOU between John G. Kester (Special Assistant to the Secretary of Defense) and G. Robert Blakey (Chief Counsel and Director to the HSCA) outlining the terms for interviewing Sgt. Nicholas B. Stevenson, who was stationed with Christensen in Scotland. The MOU emphasizes the protection of classified information and limits the scope of the interview to Christensen's allegations, while a memo from Eugene Yeates (NSA) describes the interview, Stevenson's denial of knowledge about intercepted communications related to the assassination, and the committee's interest in identifying a specific individual Christensen mentioned.",
+  "tags": [
+    "JFK Assassination",
+    "House Select Committee on Assassinations",
+    "David F. Christensen",
+    "Cuba",
+    "Memorandum of Understanding",
+    "Nicholas B. Stevenson",
+    "NSA",
+    "Department of Defense",
+    "COMINT"
+  ],
+  "title": "House Assassination Committee Inquiry",
+  "date": "1978-11-21",
+  "locations_mentioned": [
+    "Kirknewton, Scotland",
+    "Lisbon",
+    "Tangier"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "David F. Christensen",
+    "John F. Kennedy",
+    "Eugene F. Yeates",
+    "Judy Miller",
+    "Robert Blakey",
+    "Mike Smith",
+    "Kenneth Klein",
+    "Gary Cornwell",
+    "George Murphy",
+    "Nicholas B. Stevenson",
+    "Jeffrey Graham",
+    "John G. Kester"
+  ],
+  "recipient": "DIR",
+  "sender": "LAO, YEATES"
+}

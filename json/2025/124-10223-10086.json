@@ -1,0 +1,29 @@
+{
+  "classification": "JFK ASSASSINATION SYSTEM",
+  "document_type": "TELETYPE",
+  "security": "Revealing neighborhood sources that furnish information to the FBI could compromise their safety and willingness to cooperate in future investigations. It could also reveal the FBI’s methods for gathering information, making it easier for individuals to evade surveillance. Also, sharing details on Roselli's physical check-up plans could jeopardize his privacy and medical confidentiality. The content contains sensitive information on surveillance methods and sources.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "The FBI teletype discusses the inability of neighborhood sources to confirm John Roselli's presence at his LA apartment and mentions his possible trip to Santa Barbara for a physical check-up.",
+  "summary_one_paragraph": "This teletype from the SAC, Los Angeles FBI office to the Director, FBI, dated November 15, 1962, reports that neighborhood sources could not confirm John Roselli's presence at his LA apartment. It also notes that Roselli's car, belonging to Herman Spitzel, was not parked at the apartment. Roselli may have traveled to Santa Barbara for a physical check-up, as he had mentioned to LA 4268-C, who also did not see Roselli at the Friar-S Club in Beverly Hills on the afternoon or evening of November 14.",
+  "tags": [
+    "FBI",
+    "John Roselli",
+    "Surveillance",
+    "Neighborhood Sources",
+    "Physical Check-up"
+  ],
+  "title": "FBI Report on John Roselli's whereabouts",
+  "date": "1962-11-15",
+  "locations_mentioned": [
+    "Los Angeles",
+    "Santa Barbara",
+    "Beverly Hills"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Roselli",
+    "Herman Spitzel"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, LA"
+}

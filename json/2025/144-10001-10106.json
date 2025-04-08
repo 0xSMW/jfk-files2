@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This document contains sensitive compartmented information, as noted in the comments section: \"CONTAINS SENSITIVE COMPARTMENTED INFORMATION\". Revealing this information could compromise intelligence sources and methods.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "An NSA report details increased tensions in Havana following Venezuela's complaint to the OAS regarding Cuban aid to FALN, along with rising tensions between Cuba and Mexico due to the detention of a Mexican woman linked to Lee Oswald; the report also mentions Cuban military precautions and restlessness among internal counterrevolutionaries.",
+  "summary_one_paragraph": "This Top Secret UMBRA report, dated December 10, 1963, from the NSA, relays information regarding heightened tensions in Havana after Venezuela accused Cuba of aiding the FALN, prompting a debate in the OAS. It notes that Latin-American embassies believe Venezuela might seek a total break in relations with Cuba. The report also highlights escalating tensions between Cuba and Mexico following Mexico's detention of a woman connected to Lee Oswald. Furthermore, it observes precautionary military measures in Cuba, a nervous anticipation among internal counterrevolutionaries, and the prevailing uncertainty due to President Kennedy's assassination.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Cuba",
+    "Venezuela",
+    "Mexico",
+    "Diplomatic Activity",
+    "Lee Oswald",
+    "OAS",
+    "FALN"
+  ],
+  "title": "3/POD/T1488-63: INCREASED TENSION IN HAVANA FOLLOWING VENEZUELAN",
+  "date": "1963-12-10",
+  "locations_mentioned": [
+    "Havana",
+    "Venezuela",
+    "Mexico",
+    "Mexico City",
+    "Lisbon"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Lee Oswald",
+    "Romulo Betancourt",
+    "Gonzaga Ferreira",
+    "President Kennedy"
+  ],
+  "recipient": "HCF [R]",
+  "sender": "NSA"
+}

@@ -1,0 +1,33 @@
+{
+  "classification": "JFK ASSASSINATION",
+  "document_type": "PAPER, TEXTUAL DOCUMENT",
+  "security": "This document's classification as TOP SECRET UMBRA and the restriction codes (X1, X3, X5, X6, X7, X8) indicate that its disclosure could reveal sensitive intelligence sources, methods, or cryptographic systems. The communication involves diplomatic relations and intelligence gathering, the exposure of which could compromise relationships with foreign governments and undermine national security.",
+  "security_level": "TOP SECRET",
+  "summary": "A Turkish intelligence message reports the deep sorrow and regret in Morocco following President Kennedy's assassination, detailing the King's condolences and the dispatch of a delegation led by Prince Abdullah to attend the funeral in Washington.",
+  "summary_one_paragraph": "This document, dated November 24, 1963, is a Turkish intelligence message relaying the reaction in Morocco to President John F. Kennedy's assassination. The message indicates that the event caused deep emotion and regret among the Moroccan people and government circles. King Hassan II sent condolences to Mrs. Kennedy and the new President, summoned the American Ambassador to express his regrets personally, and proclaimed a day of mourning. Furthermore, Morocco sent a delegation of ten persons, led by Prince Abdullah and including the Ministers of Foreign Affairs, to represent the King at Kennedy's funeral in Washington.",
+  "tags": [
+    "NSA",
+    "Assassination",
+    "John Kennedy",
+    "Morocco",
+    "Condolences",
+    "Funeral",
+    "Diplomacy",
+    "Turkish Intelligence",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "KENNEDY DEATH CREATES GREAT SORROW IN MOROCCI; DELEGA [R]",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Morocco",
+    "Washington, D.C."
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Prince Abdullah",
+    "King Hassan II"
+  ],
+  "recipient": "HCO",
+  "sender": "NSA"
+}

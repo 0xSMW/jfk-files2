@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Airtel",
+  "security": "The document contains classified information about a Bureau Source (CSJ 6) providing intelligence on Diaz Lanz. Revealing this source's existence or the information they provided could compromise their safety and the FBI's intelligence-gathering capabilities. Directly quoting: 'Under no circumstances should Bureau Source 6 data be set forth in reports.'",
+  "security_level": "Top Secret",
+  "summary": "The FBI is investigating Pedro Luis Oscar Diaz Lanz's activities, specifically whether he is in Mexico attempting to purchase an airplane and contact a pilot. The FBI is also concerned about his potential testimony before a Federal grand jury related to the Rundquist-Shergalis matter.",
+  "summary_one_paragraph": "This FBI file contains airtels between the Director of the FBI and the SAC (Special Agent in Charge) in Miami concerning Pedro Luis Oscar Diaz Lanz, a Cuban individual. The investigation focuses on whether Diaz Lanz is in Mexico attempting to buy an airplane and contact a crop-dusting pilot named Cesar Gomez, based on information from a 'Top Secret' Bureau source. The FBI is also gathering information in anticipation of Diaz Lanz potentially being called as a witness before a Federal grand jury regarding the Rundquist-Shergalis matter, and they require a current report by April 11, 1960.",
+  "tags": [
+    "FBI",
+    "Pedro Luis Oscar Diaz Lanz",
+    "Cuba",
+    "Mexico",
+    "Visa",
+    "Grand Jury",
+    "Rundquist-Shergalis",
+    "Bureau Source",
+    "Cesar Gomez",
+    "Top Secret"
+  ],
+  "title": "PEDRO LUIS OSCAR DIAZ LANZ",
+  "date": "1960-03-31",
+  "locations_mentioned": [
+    "Miami, Florida",
+    "Mexico",
+    "Mexico City",
+    "Cuba"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Pedro Luis Oscar Diaz Lanz",
+    "Marcos Diaz Lanz",
+    "William A. Wightman",
+    "Cesar Gomez",
+    "Rundquist",
+    "Shergalis"
+  ],
+  "recipient": "SAC, MM",
+  "sender": "Director, FBI"
+}

@@ -1,0 +1,42 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Airtel",
+  "security": "The release of information regarding John Rosselli's activities and associates could potentially reveal sensitive investigative techniques or compromise ongoing investigations. The document mentions surveillance of Rosselli and his connections, indicating ongoing law enforcement interest that may be jeopardized by full disclosure.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This FBI Airtel, dated September 9, 1963, reports on the whereabouts and activities of John Rosselli, including his travels to Las Vegas with Albert Foley, telephone contacts, and associations with Maurice Friedman and others in San Diego.",
+  "summary_one_paragraph": "An Airtel dispatched from the SAC, Los Angeles, to the Director of the FBI on September 9, 1963, details the recent movements and contacts of John Rosselli. Information from confidential sources indicates that Rosselli had been in Las Vegas with Albert Foley since August 28, 1963, and was registered at the Desert Inn Hotel, where he received a call from G. Lowell of Martoni Italian Restaurant in Hollywood. Rosselli was also reported to have been part of a large party at the Half Moon Inn in San Diego with Maurice Friedman between August 22-25, 1963, and a photograph showed him with Friedman, Jack Barenfeld, Marty Goodman, and others at Del Webb's Ocean House.",
+  "tags": [
+    "FBI",
+    "John Rosselli",
+    "Albert Foley",
+    "Maurice Friedman",
+    "Las Vegas",
+    "San Diego",
+    "Surveillance",
+    "Associates"
+  ],
+  "title": "John Rosselli, aka",
+  "date": "1963-09-09",
+  "locations_mentioned": [
+    "Los Angeles",
+    "Las Vegas, Nevada",
+    "Beverly Hills, California",
+    "Mobile, Alabama",
+    "Hollywood, California",
+    "San Diego, California"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Rosselli",
+    "Albert Foley",
+    "G. Lowell",
+    "Geraldine Lowell",
+    "Robert W. Lindsay",
+    "Maurice Friedman",
+    "Jack Barenfeld",
+    "Marty Goodman",
+    "Ben Wohlstader"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, Los Angeles"
+}

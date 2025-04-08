@@ -1,0 +1,37 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "Revealing that the US ambassador's words were considered 'barbarous' and the conditions imposed on American representatives for negotiations could strain diplomatic relations. Quoting directly: 'Ambassador YOST, who termed an alleged declaration from the Information Ministry barbarous, withdraw this expression and apologize to the Royal Government...Ambassador SPROUSE must stop his investigation to find out whether the Royal Government and the Khmer people rejoiced over the death of President KENNEDY.'",
+  "security_level": "SECRET",
+  "summary": "This document discusses Cambodian conditions for resolving a dispute with the U.S. through Philippine mediation, including demands for apologies from American ambassadors regarding statements about Cambodia and investigations into Cambodian reactions to President Kennedy's death.",
+  "summary_one_paragraph": "This is a SECRET National Security Agency (NSA) document, dated January 1, 1964, outlines Cambodian conditions for resolving a dispute with the U.S. through Philippine mediation. It details that during an audience on December 23, 1963, the Philippine Ambassador offered President MACAPAGAL's assistance, which Cambodia accepted, albeit not as mediation but as 'good offices.' The conditions included Ambassador YOST apologizing for calling a Cambodian declaration 'barbarous' and Ambassador SPROUSE ceasing his investigation into whether the Cambodian government rejoiced over President Kennedy's assassination; the document also notes Cambodia was unaware of the proposal to hold negotiations in Manila.",
+  "tags": [
+    "Assassination",
+    "John Kennedy",
+    "NSA",
+    "Cambodia",
+    "Philippines",
+    "Mediation",
+    "Diplomacy",
+    "YoST",
+    "SPROUSE",
+    "MACAPAGAL"
+  ],
+  "title": "CAMBODIAN CONDITIONS FOR PHILIPPINE SOLUTION TO AMERIC [R]",
+  "date": "1964-01-01",
+  "locations_mentioned": [
+    "Cambodia",
+    "Philippines",
+    "Manila",
+    "Phnom Penh"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Ambassador YOST",
+    "Ambassador SPROUSE",
+    "President MACAPAGAL"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

@@ -1,0 +1,36 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Textual Document",
+  "security": "The document is classified as TOP SECRET UMBRA and TOP SECRET DINAR, indicating highly sensitive information. Releasing details of cryptographic communications or intelligence-gathering methods could compromise national security. The document also contains routing indicators that, if exposed, could reveal communication channels and operational practices. The document is marked as restricted under DRV FM: NSA/CSS Manual 123-2.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "This NSA document relays information about the ROK (Republic of Korea) President's visit to the U.S. in November 1963, detailing the arrival of the President's official party and the reception by U.S. State Department officials.",
+  "summary_one_paragraph": "An NSA document dated December 2, 1963, reports on the ROK President's visit to the United States, specifically noting the arrival of the President's party at Dulles Airport on November 25. The message details the U.S. State Department officials present, including Undersecretary of State George Ball and Assistant Undersecretary of State Roger Hilsman, along with other officials and approximately 150 Korean students. The communication indicates that the return date was not yet determined but would follow formal receptions for President Johnson on November 26.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "ROK President Visit",
+    "Diplomacy",
+    "State Department",
+    "TOP SECRET UMBRA",
+    "TOP SECRET DINAR"
+  ],
+  "title": "3/0/KOD/T1434-63 ROK PRESIDENT'S VISIT TO U.S. [R]",
+  "date": "1963-12-02",
+  "locations_mentioned": [
+    "U.S.",
+    "Dulles International Airport",
+    "Washington",
+    "Seoul"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "George Ball",
+    "Roger Hilsman",
+    "Marshall Green",
+    "Leonard Bacon",
+    "Lyndon Johnson"
+  ],
+  "recipient": "HCO",
+  "sender": "NSA"
+}

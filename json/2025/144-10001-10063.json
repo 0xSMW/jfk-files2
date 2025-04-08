@@ -1,0 +1,37 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "This document contains sensitive compartmented information, indicated by the 'TOP SECRET UMBRA' classification and the comment 'CONTAINS SENSITIVE COMPARTMENTED INFORMATION.' Revealing the specifics of Egyptian reactions and Italian diplomatic activities, as well as the sources of this intelligence, could compromise intelligence-gathering methods. Additionally, the restriction '1B' suggests that the information requires protection to prevent damage to national security.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A report detailing the Egyptian reaction to President Kennedy's assassination, including President Nasser's telegram to the widow and the Egyptian press's speculation about the motivations behind the murder, as well as diplomatic activity in Italy.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA report, dated December 31, 1963, originates from the NSA and is addressed to HCO [R], detailing Egypt's reaction to President Kennedy's assassination. It highlights President Nasser's condolences, the Egyptian press attributing the murder to Kennedy's advocacy for racial equality, and includes references to Italian diplomatic activity, originating from Cairo and sent to the Foreign Ministry in Rome, Msg Nr: 649, signed MAGISTRATI.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Egypt",
+    "Reaction to Assassination",
+    "Italy",
+    "Diplomatic Activity",
+    "Nasser",
+    "Racial Equality",
+    "Sensitive Compartmented Information",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "Egyptian Reaction to President Kennedy's Murder",
+  "date": "1963-12-31",
+  "locations_mentioned": [
+    "Egypt",
+    "Cairo",
+    "Italy",
+    "Rome",
+    "Washington"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President John F. Kennedy",
+    "President Nasser",
+    "MAGISTRATI"
+  ],
+  "recipient": "HCO [R]",
+  "sender": "NSA"
+}

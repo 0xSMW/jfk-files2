@@ -1,0 +1,39 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Teletype",
+  "security": "Releasing information about confidential informants (specifically, AR. LA FOUR TWO SIX EIGHT DASH C) and neighborhood sources, as well as revealing details about ongoing investigations and financial settlements, could compromise the safety of individuals providing information to the FBI and undermine future investigative efforts. Quoting the document: 'JOHN ROSELLI, AKA, AR. LA FOUR TWO SIX EIGHT DASH C advised...' and mentioning the 'Neighborhood Source advised...' directly reveals the use of informants and their information, which could have detrimental consequences.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An FBI teletype from the Los Angeles SAC to the FBI Director reports on John Rosselli's activities, including his meeting with Irving J. Leff and his involvement in a case involving Judi Meredith and Peter Fairchild, where Rosselli allegedly offered money to suppress a scandal.",
+  "summary_one_paragraph": "This FBI teletype, dated November 8, 1962, relays information from the Los Angeles SAC to the FBI Director regarding John Rosselli's activities. A confidential informant (AR. LA FOUR TWO SIX EIGHT DASH C) observed Rosselli at the Friar's Club in Beverly Hills, California, in conversation with Irving J. Leff, part owner of the New Frontier Hotel in Las Vegas. The teletype also references Rosselli's involvement in a case related to Judi Meredith's divorce settlement, where Rosselli allegedly offered a private detective, Fred Otash, $15,000 to prevent a scandal involving Meredith's relationships with celebrities. Additionally, the IRS was involved, though details are redacted under JFK Law 11(a).",
+  "tags": [
+    "FBI",
+    "John Rosselli",
+    "Irving J. Leff",
+    "Judi Meredith",
+    "Peter Fairchild",
+    "Fred Otash",
+    "Las Vegas",
+    "Extortion",
+    "Scandal",
+    "IRS"
+  ],
+  "title": "Report on John Rosselli Activities",
+  "date": "1962-11-08",
+  "locations_mentioned": [
+    "Los Angeles",
+    "Beverly Hills, California",
+    "Las Vegas"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Rosselli",
+    "Irving J. Leff",
+    "Judi Meredith",
+    "Peter Fairchild",
+    "Fred Otash",
+    "Herman Spitzel",
+    "Robert Machris Westbrook"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, LA"
+}

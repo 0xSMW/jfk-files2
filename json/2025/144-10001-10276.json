@@ -1,0 +1,32 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "Disclosing the specific methods and technologies used by the USN to intercept and analyze communications could compromise current intelligence gathering operations. For example, the document includes phrases like 'USN-19 TECH PHASING VENEZUELAN REPORT NR 66-63' and 'TECH INFO: VEMY 50104'. Revealing these details could allow adversaries to develop countermeasures.",
+  "security_level": "SECRET",
+  "summary": "This document is a USN (United States Navy) intelligence report detailing the Venezuelan Armed Forces' decision to observe three days of mourning in honor of President John F. Kennedy following his assassination. It includes intercepted messages from Caracas to Ciudad Bolivar and naval units, indicating the national executive decree and directives for the period of mourning.",
+  "summary_one_paragraph": "The document, dated November 24, 1963, is a SECRET USN intelligence report, originating from USN-19 and addressed to DIRNSA, concerning the Venezuelan Armed Forces' response to President John F. Kennedy's assassination. It details intercepted messages indicating that Venezuela ordered a three-day mourning period, with the flag flown at half-mast, beginning on November 23, 1963, as per a national executive decree. The report includes technical information relating to the intercepted messages, such as signal and unit identifiers from Caracas to Ciudad Bolivar and various naval units.",
+  "tags": [
+    "Assassination",
+    "John Kennedy",
+    "Venezuela",
+    "Mourning",
+    "USN",
+    "DIRNSA",
+    "Intelligence Report",
+    "Intercepted Message"
+  ],
+  "title": "Venezuelan Armed Forces to Observe 3 Days of Mourning in Honor of President Kennedy",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Venezuela",
+    "Caracas",
+    "Ciudad Bolivar",
+    "United States"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy"
+  ],
+  "recipient": "DIRNSA",
+  "sender": "USN-19"
+}

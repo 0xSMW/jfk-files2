@@ -1,0 +1,41 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Letter",
+  "security": "Disclosing that the Air Force Security Service was intercepting international commercial communications at Kirknewton, Scotland during 1963, and monitored co-location links between Lisbon and other parts of the world could reveal sensitive intelligence-gathering capabilities and methods. As stated in the document: \"The information contained in Mr. Christensen's letter that the Air Force Security Service was intercepting international commercial communications at Kirknewton, Scotland during 1963 is correct, as is the assertion that that station monitored co-locations links between Lisbon and other parts of the world.\"",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A letter from the NSA to the FBI forwarding correspondence from a former Air Force Security Service member, David Christensen, who claims to have intercepted a message related to the Kennedy assassination before it occurred. The letter also notes that Christensen has a history of personal problems and concerns about his safety.",
+  "summary_one_paragraph": "On September 7, 1978, Daniel B. Silver of the NSA sent a letter to Arthur Kerns at the FBI, relaying concerns regarding a letter written by David Christensen, a former member of the U.S. Air Force Security Service, to a former colleague. Christensen claimed that while stationed at Kirknewton, Scotland in 1963, he intercepted a communication hinting at President Kennedy's assassination but was prevented from sending it to the NSA. Christensen also mentions personal struggles, including a nervous breakdown and physical injury, and expresses fear for his life, prompting the Air Force to involve the FBI and consider psychiatric help. The NSA's letter confirms the accuracy of Christensen's claim about the Air Force Security Service's interception of international communications at Kirknewton.",
+  "tags": [
+    "NSA",
+    "FBI",
+    "JFK Assassination",
+    "David Christensen",
+    "Kirknewton",
+    "COMINT",
+    "Intercept",
+    "Air Force Security Service"
+  ],
+  "title": "Request for Information",
+  "conspiracy": "The document references a claim by David Christensen, a former member of the U.S. Air Force Security Service, that he intercepted a message hinting at the assassination of President Kennedy before it occurred. He alleges that the message was not forwarded due to interference from superiors and that it mentioned an individual connected to organized crime. This information could potentially expand the understanding of events surrounding the assassination, though its veracity is uncertain.",
+  "date": "1978-09-07",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Daniel Silver",
+    "Arthur Kerns",
+    "Paul T. Fisher",
+    "David Christensen",
+    "James Leer",
+    "Mr. Coombs",
+    "Dr. Sedel",
+    "Sgt Prater",
+    "Forney",
+    "Delaughter",
+    "Duane Bruntz",
+    "Marlene",
+    "Harley",
+    "Willy Hendrickson",
+    "Garnett K. Tatum"
+  ],
+  "recipient": "Arthur Kerns",
+  "sender": "Daniel Silver, NSA General Counsel"
+}

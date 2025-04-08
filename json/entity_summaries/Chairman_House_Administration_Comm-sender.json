@@ -1,0 +1,17 @@
+{
+  "entity_name": "Chairman, House Administration Comm.",
+  "entity_type": "sender",
+  "document_count": 3,
+  "summary": "The Chairman of the House Administration Committee is referenced as the sender of payroll certifications for the U.S. House of Representatives Select Committee on Assassinations (HSCA). These certifications detail the names, social security numbers, positions, and salaries of HSCA staff for various accounting periods in 1977. The documents indicate the committee's administrative functions, specifically regarding payroll management, were overseen and certified by the House Administration Committee Chairman.",
+  "key_connections": [
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations (HSCA)",
+    "HSCA Staff"
+  ],
+  "significance": "The Chairman of the House Administration Committee played a role in the administrative oversight of the HSCA by certifying payroll documents. This role, while not directly involved in the investigation itself, was essential for the functioning of the committee by ensuring proper management and disbursement of funds to committee staff.",
+  "document_ids": [
+    "180-10125-10107",
+    "180-10125-10096",
+    "180-10125-10104"
+  ]
+}

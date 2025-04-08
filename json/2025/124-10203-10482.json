@@ -1,0 +1,30 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Airtel",
+  "security": "Revealing the FBI's intent to exploit information about Willie Sams, including potentially disrupting his organization, could compromise ongoing investigations. Quoting directly: 'You should take immediate advantage of this information and turn it to our benefit. You should certainly be able to use this material as an aid in obtaining good information from Sams and/or to disrupt his portion of the Mannarino racket empire.'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "The FBI is investigating allegations that Willie Sams, associated with Gabriel Mannarino's gambling operations, may have a tipster or be an informant for a federal agency, and is directing the Pittsburgh office to exploit this information.",
+  "summary_one_paragraph": "An Airtel from the Director of the FBI to the SAC in Pittsburgh, dated August 31, 1961, addresses concerns about William \"Willie\" Sams, who is allegedly involved in Gabriel Mannarino's gambling racket. The communication references an informant's tip that Sams is suspected by gamblers in New Kensington of either having a high-placed informant within the Pittsburgh Federal Building or being an informant for a federal agency because he consistently avoids IRS raids. The Director instructs the SAC to leverage this information to gain insights from Sams or disrupt his operations within Mannarino's organization.",
+  "tags": [
+    "FBI",
+    "Gabriel Mannarino",
+    "Willie Sams",
+    "Gambling",
+    "Informant",
+    "IRS Raid",
+    "Pittsburgh"
+  ],
+  "title": "GABRIEL MANNARINO, aka.",
+  "date": "1961-08-30",
+  "locations_mentioned": [
+    "Pittsburgh",
+    "New Kensington, PA"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Gabriel Mannarino",
+    "William Sams"
+  ],
+  "recipient": "SAC, Pittsburgh",
+  "sender": "Director, FBI"
+}

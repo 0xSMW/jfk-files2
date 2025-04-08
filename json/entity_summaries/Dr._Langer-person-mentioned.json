@@ -1,0 +1,19 @@
+{
+  "entity_name": "Dr. Langer",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Dr. Langer is mentioned in the context of the President's Foreign Intelligence Advisory Board (PFIAB) meetings in December 1962 and January 1963. The documents consist of agendas and memoranda summarizing discussions related to intelligence activities, particularly those concerning Cuba. While the documents mention Dr. Langer's presence at these meetings, they do not provide specific details about his role, contributions, or expertise. The primary focus of the documents is on intelligence matters, the OXCART project, budget allocations, and Operation MONGOOSE, with Dr. Langer's involvement remaining unspecified beyond his attendance at the PFIAB meetings.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "DCI McCone",
+    "Cuba",
+    "OXCART project",
+    "Operation MONGOOSE"
+  ],
+  "significance": "The significance of Dr. Langer in the JFK context, based solely on these documents, is limited. He appears to be associated with the PFIAB during a period of intense focus on Cuban intelligence, but his specific role or influence is not detailed. Without further information, it is difficult to assess his importance beyond his attendance at these advisory board meetings.",
+  "document_ids": [
+    "206-10001-10009",
+    "178-10004-10053",
+    "206-10001-10011"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "classification": "Commission",
+  "document_type": "Paper, Textual Document",
+  "security": "This document contains information provided by the IRS about Rosselli's finances and contacts. Certain details are redacted under JFK Law 11(a).",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This FBI document from September 21, 1963, details the activities and contacts of John Rosselli, including his departure to Las Vegas, a $25,000 deposit, and his association with Gordon Nesser.",
+  "summary_one_paragraph": "An FBI report, dated September 21, 1963, from the SAC in Los Angeles to the Director of the FBI, provides updates on John Rosselli's activities. It notes Rosselli's recent move to Los Angeles, his travel to Las Vegas on September 20, 1963, and a $25,000 deposit made in July. The report also details Rosselli's connection to Gordon Nesser, an employee of Home Savings and Loan, through a telephone answering service, with the IRS planning to interview Nesser about Rosselli's potential real estate investments. Additionally, it mentions Rosselli visiting Perino's Restaurant on September 13, 1963.",
+  "tags": [
+    "FBI",
+    "John Rosselli",
+    "IRS",
+    "Las Vegas",
+    "Gordon Nesser",
+    "Perino's Restaurant",
+    "Bank Account",
+    "JFK Assassination Records Collection Act of 1992"
+  ],
+  "title": "John Rosselli, aka.",
+  "date": "1963-09-21",
+  "locations_mentioned": [
+    "Los Angeles",
+    "Las Vegas",
+    "Beverly Hills, California"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Rosselli",
+    "Vernon E. Lynch",
+    "Gordon Nesser"
+  ],
+  "recipient": "DIRECTOR, FBI",
+  "sender": "SAC, LOS ANGELES"
+}

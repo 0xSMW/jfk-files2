@@ -1,0 +1,35 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security": "The document discusses NSA's methods for searching its records and the level of effort required to isolate specific intercepts. Disclosing these methods could compromise NSA's intelligence gathering capabilities. Quoting directly: 'It is possible to scan 1963 (QOC) product and it is the T142 estimate that this would require a minimum of four weeks to scan the some 9,900 such products on file.'",
+  "security_level": "SECRET SPOKE",
+  "summary": "A 1979 NSA memorandum details the search for a reported 1963 intercept from Kirknewton, Scotland (USA-55), potentially containing information about an assassination plot against President John F. Kennedy, initiated in response to a request from the House Assassinations Committee.",
+  "summary_one_paragraph": "In response to a request from the House Assassinations Committee, Harold L. Parish, Chief of G8 at the NSA, authored a memorandum on January 2, 1979, detailing the agency's efforts to locate a 1963 intercept from the USAFSS intercept station in Kirknewton, Scotland (USA-55), that allegedly contained information related to an assassination plot against President John F. Kennedy; despite an extensive records check, including examining unidentified material from 1963 and questioning personnel familiar with ILC intercept policies, no relevant material was found, though the memo outlines the potential to scan existing product from 1963, estimating it would take four weeks to scan approximately 9,900 products.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "House Assassinations Committee",
+    "Intercept",
+    "Kirknewton",
+    "USA-55",
+    "Records Check",
+    "ILC"
+  ],
+  "title": "Response to Congressional Query",
+  "date": "1979-01-02",
+  "locations_mentioned": [
+    "Kirknewton, Scotland",
+    "German/Czechoslovakia border",
+    "Sabena Seca, Puerto Rico",
+    "Soviet Union",
+    "Cuba"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Harold Parish",
+    "John F. Kennedy",
+    "Carrol Baldwin"
+  ],
+  "recipient": "House Assassination Committee",
+  "sender": "Harold Parish"
+}

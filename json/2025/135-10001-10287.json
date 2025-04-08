@@ -1,0 +1,53 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security": "This memo details internal CIA procedures for handling sensitive information, including contacts with foreign intelligence officers, code-breaking data from NSA, and defector information. Releasing such details could expose intelligence sources and methods, potentially compromising ongoing counterintelligence operations and damaging relationships with other agencies. Quoting directly: 'the files might well contain information concerning known KGB Agents. That information, in turn could have derived from a sensitive source, the identity of which CIA would not want to have revealed.'",
+  "security_level": "SECRET - SENSITIVE",
+  "summary": "James B. Weidner's memo summarizes an interview with John Stein concerning CIA's domestic activities review, focusing on the counter-intelligence staff and their handling of information related to Americans and foreign intelligence contacts.",
+  "summary_one_paragraph": "On March 18, 1975, James B. Weidner interviewed John Stein at CIA Headquarters regarding the review of alleged domestic activities by the CIA, particularly the counter-intelligence staff. Stein indicated that the CI staff primarily aimed to prompt the FBI into action, and apart from CI/SO and mail intercept projects, their activities were benign. Stein discussed the 'American Targets Program' (ATP), which collated contacts between Americans and foreign intelligence officers, the handling of defectors, and the Agency's role in assisting other governmental agencies like the FAA with hijacker information. He also touched upon instances like the Tofti case, files on Americans derived from code-breaking by NSA, and CIA's involvement with Vesco due to President Nixon's brother's connection with IOS.",
+  "tags": [
+    "CIA",
+    "John Stein",
+    "James B. Weidner",
+    "Counter-Intelligence",
+    "Domestic Activities",
+    "American Targets Program",
+    "Defectors",
+    "NSA",
+    "Tofti Case",
+    "Vesco",
+    "KGB",
+    "FBI",
+    "Rockefeller Commission"
+  ],
+  "title": "Interview with John Stein",
+  "date": "1975-03-18",
+  "locations_mentioned": [
+    "Langley, Virginia",
+    "United States",
+    "USSR",
+    "Cuba"
+  ],
+  "origin_agency": "HPSCI (House Permanent Select Committee on Intelligence)",
+  "persons_mentioned": [
+    "John Stein",
+    "James B. Weidner",
+    "Nelson A. Rockefeller",
+    "David W. Belin",
+    "John T. Connor",
+    "C. Douglas Dillon",
+    "Erwin N. Griswold",
+    "Lane Kirkland",
+    "Lyman L. Lemnitzer",
+    "Ronald Reagan",
+    "Edgar F. Shannon, Jr.",
+    "Oswald",
+    "Nosenko",
+    "George Blake",
+    "John Dean",
+    "President Nixon",
+    "Vesco"
+  ],
+  "recipient": "File",
+  "sender": "James B. Weidner"
+}

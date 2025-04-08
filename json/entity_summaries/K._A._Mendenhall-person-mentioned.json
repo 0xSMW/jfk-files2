@@ -1,0 +1,18 @@
+{
+  "entity_name": "K. A. Mendenhall",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, K. A. Mendenhall is a person mentioned in connection with FBI activities related to the Senate Select Committee on Intelligence Activities (SSC), also known as the Church Committee. The documents primarily concern the FBI's interactions with the SSC, including the review and sanitization of documents related to FBI mail opening operations, information requests concerning individuals on the National Security Agency (NSA) Watch List, FBI-CIA liaison activities, assessments of potential damage from disclosing information to the Senate Select Committee (SENSTUDY 75), FBI purchases of technical equipment from the CIA, and the FBI's response to requests from the Senate Select Committee on Intelligence Activities (SSC) regarding superseded sections of the Manual of Instructions, electronic surveillance, and the elimination of the FBI Crime Records Division. The documents do not explicitly detail Mendenhall's specific role or involvement, but his name appears in the context of these sensitive investigations and information exchanges between the FBI, CIA, and the Senate Select Committee.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "Senate Select Committee on Intelligence Activities (SSC) / Church Committee",
+    "National Security Agency (NSA)"
+  ],
+  "significance": "The provided documents do not offer enough information to determine K. A. Mendenhall's significance in the JFK assassination context. The documents focus on FBI and CIA interactions with the Senate Select Committee on Intelligence Activities (SSC) and related investigations, and Mendenhall's specific role within these contexts is not detailed.",
+  "document_ids": [
+    "124-10182-10231",
+    "124-10264-10193",
+    "124-10271-10013"
+  ]
+}

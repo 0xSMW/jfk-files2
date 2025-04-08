@@ -1,0 +1,39 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security": "This document discusses sensitive internal deliberations regarding potential legislative actions and oversight of the FBI, including options for abolishing domestic intelligence programs, creating a separate security intelligence agency, and setting standards for investigations. Disclosing these considerations, especially the evaluation of the Attorney General's guidelines and potential Congressional responses, could reveal the scope and limitations of FBI intelligence activities and the government's intent to balance national security with civil liberties. For example, the text states: 'Congress would in effect be permitting future expansion of FBI operations to match past policies.'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memorandum discussing options for the Senate Select Committee's consideration regarding the FBI's domestic intelligence operations, including legislative actions, oversight, and potential limitations on investigative authority.",
+  "summary_one_paragraph": "This memorandum, dated December 5, 1975, addresses the Senate Select Committee's review of the FBI's domestic intelligence operations and outlines various legislative options for consideration, ranging from ratifying existing FBI authority to eliminating domestic intelligence functions altogether. The memo summarizes two position papers furnished by the Committee staff, which detail concerns about overbroad investigations, irrelevant information collection, and the use of invasive techniques. It also covers potential responses to questions about the Director's stance on sacrificing individual rights and COINTELPRO, recommending the Director state the Bureau is reviewing proposals without commenting on their substance.",
+  "tags": [
+    "FBI",
+    "Senate Select Committee",
+    "Domestic Intelligence",
+    "COINTELPRO",
+    "Legislative Options",
+    "Intelligence Oversight",
+    "Civil Liberties"
+  ],
+  "title": "SENSTUDY 75",
+  "date": "1975-12-05",
+  "persons_mentioned": [
+    "J. B. Adams",
+    "F.A.O. Schwartz",
+    "Paul Michel",
+    "Mark Gitenstein",
+    "John T. Elliff",
+    "John Bayley",
+    "John A. Mintz",
+    "John B. Hotis",
+    "Paul V. Daly",
+    "Director Kelley",
+    "Attorney General Levi",
+    "Harlan Stone",
+    "Franklin Roosevelt",
+    "Richard Nixon",
+    "Robert Jackson",
+    "Dr. King"
+  ],
+  "recipient": "Mr. J. B. Adams",
+  "sender": "Legal Counsel"
+}

@@ -1,0 +1,16 @@
+{
+  "entity_name": "Edward P. Morgan",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Edward P. Morgan is a person mentioned in the documents. One memorandum provides background information on him, detailing his career history, associations, and rumored conflicts with J. Edgar Hoover. The other documents do not provide any information about Edward P. Morgan.",
+  "key_connections": [
+    "J. Edgar Hoover"
+  ],
+  "significance": "The significance of Edward P. Morgan in the JFK context is not explicitly stated in the provided documents. The documents mention his career history, associations, and rumored conflicts with J. Edgar Hoover, but do not elaborate on his role or involvement in the JFK assassination.",
+  "document_ids": [
+    "104-10122-10288",
+    "104-10122-10344",
+    "104-10122-10307",
+    "104-10122-10291"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Textual Document",
+  "security": "Revealing that the NSA intercepts and translates communications from foreign governments could compromise their intelligence gathering methods and sources. Specifically, the message acknowledges the interception of a message from Damascus regarding Syria's reaction to Kennedy's death, which could damage relations if exposed.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "An NSA document dated December 4, 1963, summarizes a message from Damascus, Syria, reporting the country's reaction to the death of President John F. Kennedy, noting surprise and regret despite historically cool relations with Washington.",
+  "summary_one_paragraph": "This NSA document, dated December 4, 1963, is a summary of a message originating from Damascus, Syria. The message, translated from Italian, reports that President Kennedy's death caused surprise and regret in Syria, despite the historically cool relationship between Syria and the United States. The event received extensive coverage on Syrian television and in the press, leading to an official expression of condolence.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Syria",
+    "Condolences",
+    "Damascus",
+    "Italian Translation"
+  ],
+  "title": "SYRIA MOURNS DEATH OF PRESIDENT KENNEDY [R]",
+  "date": "1963-12-04",
+  "locations_mentioned": [
+    "Syria",
+    "Damascus",
+    "Rome",
+    "Washington"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "PERRONE CAPANO"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

@@ -1,0 +1,13 @@
+{
+  "entity_name": "Serafin",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, there is no mention of an entity named \"Serafin.\" The documents primarily concern the Senate Select Committee on Intelligence's (SSCI) and the House Select Committee on Assassinations' (HSCA) investigations into the assassinations of President John F. Kennedy and Dr. Martin Luther King, Jr. The documents focus on Cuban intelligence networks, Antonio Veciana, and the NSA's handling of information requests related to these investigations. The NSA's responses to the committees' requests, including searches for Cuban communications and internal discussions about document access, are also detailed.",
+  "key_connections": [],
+  "significance": "Without any mention of \"Serafin\" in the provided documents, it is impossible to determine their significance in the JFK context.",
+  "document_ids": [
+    "144-10001-10159",
+    "144-10001-10206",
+    "144-10001-10185"
+  ]
+}

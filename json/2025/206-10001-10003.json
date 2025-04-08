@@ -1,0 +1,51 @@
+{
+  "classification": "Administrative",
+  "document_type": "Agenda and Memorandum",
+  "security": "The document discusses sensitive intelligence operations and sources, including counterintelligence efforts against the USSR, agent networks in Cuba, and vulnerabilities in security protocols at NSA. Disclosing these details could reveal intelligence-gathering methods, compromise sources, and inform adversaries of security weaknesses. Quoting the document: \"Chairman Clifford advised Board members that some of the facts involved are extremely sensitive and must be given extreme security...with respect to a uniquely valuable intelligence source which supplied information concerning the espionage activities of Dunlap.\"",
+  "security_level": "TOP SECRET",
+  "summary": "The document is an agenda and memorandum summarizing the President's Foreign Intelligence Advisory Board (PFIAB) meeting on November 21-22, 1963, which included discussions on the Dunlap espionage case, NSA actions, counterintelligence assessments, CIA activities in South Vietnam, and concerns about adverse publicity against the CIA.",
+  "summary_one_paragraph": "This document contains the agenda and a memorandum summarizing the proceedings of the President's Foreign Intelligence Advisory Board (PFIAB) meeting held on November 21-22, 1963. Key discussion points included a review of the Jack Dunlap espionage case and its ramifications, actions taken by the NSA and U.S. Army based on their studies of the Dunlap case, assessments of counterintelligence measures, and a discussion with DCI John McCone regarding the CIA's role in South Vietnam leading up to the overthrow of Diem. The meeting also addressed concerns about negative publicity impacting the CIA and the need to improve the agency's public image. The PFIAB drafted a report to President Kennedy based on their findings.",
+  "tags": [
+    "PFIAB",
+    "John F. Kennedy",
+    "Assassination Records",
+    "Agenda",
+    "Meeting Minutes",
+    "Dunlap Espionage Case",
+    "NSA",
+    "Counterintelligence",
+    "CIA",
+    "South Vietnam",
+    "Diem",
+    "Public Image",
+    "Cuba",
+    "Soviet Espionage"
+  ],
+  "title": "President's Foreign Intelligence Advisory Board Agenda for Meeting of November 21-22, 1963",
+  "date": "1963-11-21",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "USSR",
+    "South Vietnam",
+    "Cuba"
+  ],
+  "origin_agency": "PFIAB",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "John A. McCone",
+    "William Colby",
+    "Clark Clifford",
+    "Jack E. Dunlap",
+    "Gordon A. Blake",
+    "Alva K. Fitch",
+    "Joseph F. Carroll",
+    "Hoover",
+    "Kirkpatrick",
+    "Helms",
+    "Diem",
+    "Như",
+    "McGeorge Bundy",
+    "James Reston"
+  ],
+  "recipient": "President John F. Kennedy"
+}

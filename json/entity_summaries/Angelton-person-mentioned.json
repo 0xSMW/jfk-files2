@@ -1,0 +1,23 @@
+{
+  "entity_name": "Angelton",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, there appears to be a misspelling and the entity is likely James Jesus Angleton, a prominent figure in the CIA. While the documents do not explicitly detail Angleton's direct involvement in the JFK assassination, they provide context related to CIA activities and investigations during the period surrounding the assassination. One document references the President's Foreign Intelligence Advisory Board (PFIAB) meeting, which would have involved discussions of intelligence matters. Another document, the \"Noserko II Report,\" details investigations and security measures, including those related to individuals connected to Lee Harvey Oswald, which suggests a focus on internal security and potential threats. The \"Periodic File Summary\" mentions several individuals involved with the CIA, indicating the scope of the agency's activities and personnel during this period.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Alexis Davison",
+    "Daniel Carswell",
+    "Luis Posada",
+    "Cesar Diosdado",
+    "David A. Phillips",
+    "Mitchell L. WerBell III",
+    "E. Howard Hunt",
+    "David Lamar Christ"
+  ],
+  "significance": "While the documents do not directly link Angleton to the JFK assassination, they highlight the CIA's activities, security concerns, and investigations during that period. Angleton's role as a high-ranking CIA official would have placed him in a position of significant influence and oversight regarding intelligence matters, including those potentially related to Oswald and other individuals of interest.",
+  "document_ids": [
+    "206-10001-10013",
+    "180-10143-10062",
+    "180-10143-10072"
+  ]
+}

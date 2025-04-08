@@ -1,0 +1,37 @@
+{
+  "classification": "Assassination, John Kennedy",
+  "document_type": "Textual Document",
+  "security": "Disclosing that the NSA is intercepting and disseminating diplomatic communications, particularly those related to UN proceedings and foreign policy discussions, could severely compromise intelligence sources and methods. Specifically, the document's classification as 'TOP SECRET UMBRA' and 'TOP SECRET DINAR' indicates highly sensitive information. The explicit prohibition of foreign dissemination and reproduction further underscores the risk of exposing these methods.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A Polish intelligence message details the UN's plenary session honoring John F. Kennedy and interpretations of subsequent political declarations, including Stevenson's comments and concerns about future U.S. foreign policy.",
+  "summary_one_paragraph": "This document, dated December 2, 1963, is a Polish intelligence message reporting on the UN plenary session dedicated to honoring John F. Kennedy's memory. It analyzes statements made by various delegations, including those from Socialist countries, Western nations, Latin America, and Africa, noting Stevenson's emphasis on continuing negotiations and support for the UN. The message interprets Stevenson's remarks as a potential indication of the new Johnson administration's intent to have a free hand in foreign policy. The report also conveys concerns about future U.S. actions regarding payments for UN operations and the anticipation that the U.S. will focus on internal matters.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Polish Intelligence",
+    "UN",
+    "Stevenson",
+    "Foreign Policy",
+    "Diplomatic Communications",
+    "TOP SECRET UMBRA",
+    "TOP SECRET DINAR"
+  ],
+  "title": "3/0/W/T2030-63 UN HONORS KENNEDY",
+  "date": "1963-12-02",
+  "locations_mentioned": [
+    "New York",
+    "Warsaw",
+    "United States"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "WINIEWICZ",
+    "A. FEDORENKO",
+    "JOHNSON",
+    "STEVENSON",
+    "LEWANDOWSKI"
+  ],
+  "recipient": "Warsaw: Ministry of Foreign Affairs",
+  "sender": "Polish Mission to the UN"
+}

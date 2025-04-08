@@ -1,0 +1,19 @@
+{
+  "entity_name": "J. D. Lavery",
+  "entity_type": "recipient",
+  "document_count": 3,
+  "summary": "J. D. Lavery is identified as the recipient of multiple memoranda concerning the classification of a document labeled EX 3600. All three memoranda are dated April 7, 1977, suggesting a concentrated period of activity related to this classification. The memoranda, sent via A. Addona, originate from P. Haefner and J. Haffner, both likely involved in the classification process. The core issue revolves around justifying the classification of EX 3600, citing its connection to Operation MHCHAOS, the inclusion of information from sensitive sources and classified FBI reports, and the use of sensitive sources/methods. The documents also suggest a potential FOIA exemption related to EX 3600.",
+  "key_connections": [
+    "P. Haefner",
+    "J. Haffner",
+    "A. Addona",
+    "Operation MHCHAOS",
+    "FBI"
+  ],
+  "significance": "J. D. Lavery's significance in the JFK context, based solely on these documents, appears to be related to legal or administrative roles concerning the classification and potential declassification of documents related to sensitive operations like MHCHAOS. The documents suggest Lavery was involved in decisions regarding the accessibility of information potentially relevant to the JFK assassination, given the sensitivity surrounding MHCHAOS and related FBI information.",
+  "document_ids": [
+    "104-10074-10347",
+    "104-10074-10349",
+    "104-10063-10434"
+  ]
+}

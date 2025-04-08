@@ -1,0 +1,19 @@
+{
+  "entity_name": "Interception",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents highlight the role of signal intelligence interception, specifically by the NSA, in gathering information related to the JFK assassination. These interceptions captured communications from various sources, including a message from a Nebraska resident to Fidel Castro concerning Kennedy's death, reactions in Cuba to the news of the assassination, and a conversation between unidentified operators in East Germany discussing the event. The interceptions provide insights into immediate reactions and discussions surrounding the assassination from different global perspectives.",
+  "key_connections": [
+    "NSA",
+    "Fidel Castro",
+    "Cuba",
+    "East Germany",
+    "Russian Mercury GAASS FACS"
+  ],
+  "significance": "Interception is significant as it represents a method of intelligence gathering that provided immediate insights into global reactions and discussions surrounding the JFK assassination. The intercepted communications offer a glimpse into the diverse perspectives and potential implications of the event, demonstrating the NSA's role in monitoring and analyzing information related to the assassination from various international sources.",
+  "document_ids": [
+    "144-10001-10338",
+    "144-10001-10271",
+    "144-10001-10273"
+  ]
+}

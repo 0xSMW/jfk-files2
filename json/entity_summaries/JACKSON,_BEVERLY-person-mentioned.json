@@ -1,0 +1,15 @@
+{
+  "entity_name": "JACKSON, BEVERLY",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Beverly Jackson was an employee of the Select Committee on Assassinations (SCAS). She is listed in multiple certification reports detailing employee payroll information. These reports include her name, social security number, position, salary, and employment dates. The documents span from August 1978 to January 1979, indicating her period of employment with the committee.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Beverly Jackson's significance lies in her employment with the Select Committee on Assassinations (SCAS), indicating her involvement in the investigation, though the specific nature and extent of her role are not detailed in these documents.",
+  "document_ids": [
+    "180-10125-10078",
+    "180-10125-10083",
+    "180-10125-10077"
+  ]
+}

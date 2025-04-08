@@ -1,0 +1,25 @@
+{
+  "classification": "Personnel",
+  "document_type": "Fitness Report",
+  "security": "Disclosing details about E. Howard Hunt's involvement in propaganda operations, such as 'Supervises all Division propaganda operations' and his role as 'Project Officer WUHUSTLER', could reveal sensitive operational methods and active projects. This might compromise ongoing intelligence activities and expose sources. Also revealing project code names such as ‘WUHUSTLER’ and ‘WUBONBON’ could further compromise operations.”",
+  "security_level": "SECRET",
+  "summary": "This document is a fitness report for E. Howard Hunt, a CIA officer, covering the period from March 1963 to March 1964, evaluating his performance in propaganda operations and project management.",
+  "summary_one_paragraph": "This is a fitness report for CIA officer E. Howard Hunt, covering March 31, 1963, to March 31, 1964. The report evaluates Hunt's performance in his role in DDP/DODS/R&P in Washington, D.C. As an Oos Officer (Chief), Hunt's duties include supervising Division propaganda operations, serving as Project Officer for WUHUSTLER (WUBONBON), and coordinating foreign and domestic propaganda operations with USIA. The report highlights Hunt’s expertise, high intellect, economical use of resources, effective management, and objectivity, leading to an overall rating of 'Strong' performance.",
+  "tags": [
+    "CIA",
+    "Fitness Report",
+    "E. Howard Hunt",
+    "Propaganda",
+    "WUHUSTLER",
+    "WUBONBON",
+    "Personnel Evaluation"
+  ],
+  "title": "Fitness Report of E. Howard Hunt",
+  "date": "1964-05-26",
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "E. Howard Hunt"
+  ],
+  "recipient": "DDP/DODS/R&P",
+  "sender": "DCOS"
+}

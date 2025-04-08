@@ -1,0 +1,18 @@
+{
+  "entity_name": "Michael Eberhardt",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Michael Eberhardt is mentioned in communications between the FBI and the House Select Committee on Assassinations (HSCA) regarding investigations into the assassinations of Martin Luther King Jr. and John F. Kennedy. The documents consist of teletypes, letters, and memoranda detailing file requests, informant information, and agent details. While the documents indicate Eberhardt's name appeared in the context of these investigations, the specific role or significance of Michael Eberhardt is not explicitly detailed in the summaries provided. The documents suggest that the FBI was providing information to the HSCA, and Eberhardt's name was likely part of the files or information being shared.",
+  "key_connections": [
+    "FBI",
+    "House Select Committee on Assassinations (HSCA)",
+    "Martin Luther King Jr.",
+    "John F. Kennedy"
+  ],
+  "significance": "The significance of Michael Eberhardt in the JFK context is not explicitly stated in the provided document summaries. His name appears in the context of FBI files and information shared with the HSCA during their investigation into the JFK assassination, suggesting he may have been a person of interest or connected to individuals or events related to the assassination.",
+  "document_ids": [
+    "124-10180-10324_multirif",
+    "124-10180-10323_multirif",
+    "124-10180-10325_multirif"
+  ]
+}

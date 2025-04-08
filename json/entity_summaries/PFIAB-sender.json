@@ -1,0 +1,24 @@
+{
+  "entity_name": "PFIAB",
+  "entity_type": "sender",
+  "document_count": 6,
+  "summary": "The President's Foreign Intelligence Advisory Board (PFIAB) is an advisory body that reviews and assesses the effectiveness of U.S. foreign intelligence activities. The documents indicate that PFIAB was actively engaged in reviewing a range of intelligence matters during the early 1960s. Their activities included monitoring intelligence related to Cuba, signals intelligence (SIGINT), covert operations, and discussions with the Director of Central Intelligence (DCI) on topics such as U.S. policy toward Cuba and Soviet activities. The board also reviewed the National Reconnaissance Office (NRO) and the National Signals Intelligence (SIGINT) program. The documents span from 1962 to 1964, indicating a sustained period of involvement in intelligence oversight during the Kennedy administration.",
+  "key_connections": [
+    "Cuba",
+    "CIA",
+    "Director of Central Intelligence (DCI)",
+    "National Reconnaissance Office (NRO)",
+    "National Signals Intelligence (SIGINT)",
+    "Soviet Union",
+    "State Department"
+  ],
+  "significance": "While the documents provide insight into PFIAB's general intelligence oversight role, they do not directly link the board to the JFK assassination. The documents focus on intelligence activities related to Cuba, Soviet activities, and general intelligence programs, but do not contain information about the assassination itself.",
+  "document_ids": [
+    "206-10001-10004",
+    "206-10001-10009",
+    "206-10001-10005",
+    "206-10001-10006",
+    "206-10001-10011",
+    "206-10001-10000"
+  ]
+}

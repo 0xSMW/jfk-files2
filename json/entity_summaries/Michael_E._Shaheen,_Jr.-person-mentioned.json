@@ -1,0 +1,27 @@
+{
+  "entity_name": "Michael E. Shaheen, Jr.",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "summary": "Based on the provided documents, Michael E. Shaheen, Jr. is mentioned in the context of the FBI's interactions with the U.S. Senate Select Committee on Intelligence Activities (SSC) during the mid-1970s. The documents primarily concern the FBI's responses to the SSC's requests for information and materials related to various intelligence activities, including investigations into Martin Luther King, Jr., the Southern Christian Leadership Conference (SCLC), and potential Communist ties. Shaheen's specific role is not explicitly detailed in the summaries, but the documents suggest he was involved in the process of reviewing, sanitizing, and delivering FBI materials to the SSC. The documents indicate that the FBI was concerned about protecting informant confidentiality and avoiding compromises of ongoing operations and sources during this process.",
+  "key_connections": [
+    "U. S. Senate Select Committee on Intelligence Activities (SSC)",
+    "FBI",
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "Department of Justice",
+    "National Security Agency (NSA)",
+    "Stanley Levison",
+    "CIA"
+  ],
+  "significance": "The documents do not directly link Michael E. Shaheen, Jr. to the JFK assassination. His significance in these documents lies in his involvement with the FBI's interactions with the Senate Select Committee on Intelligence Activities (SSC) during the mid-1970s, specifically concerning the review and release of information related to intelligence activities, including those involving Martin Luther King, Jr. and potential Communist ties. His role appears to be related to the management and oversight of sensitive information being provided to the Senate committee.",
+  "document_ids": [
+    "124-10182-10231",
+    "124-10264-10206_multirif",
+    "124-10264-10208_multirif",
+    "124-10274-10070",
+    "124-10264-10209_multirif",
+    "124-10264-10191",
+    "124-10238-10333_multirif",
+    "124-10264-10210_multirif"
+  ]
+}

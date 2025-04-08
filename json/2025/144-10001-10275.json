@@ -1,0 +1,31 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "The information pertains to the alert status of Venezuelan army units following the attempt on the life of President Kennedy. Revealing that a foreign military was put on alert due to the assassination could potentially strain diplomatic relations. Specific technical information, such as 'VEMY 50104, 6TC DE 3ZZ, 5383M KCS, 215ØZ 22 NOV 63', could expose signals intelligence collection capabilities.",
+  "security_level": "SECRET",
+  "summary": "This document details the alert status of Venezuelan army units following the attempt on President John F. Kennedy's life, as communicated from USN-19 to DIRNSA on November 23, 1963. It includes technical information related to the communication.",
+  "summary_one_paragraph": "On November 23, 1963, USN-19 communicated to DIRNSA that Venezuelan army units were placed on alert following the attempt on President John F. Kennedy's life on November 22, 1963. The message, originating from Caracas and directed to Barquisimeto, instructed units to remain in a state of alert until further notice, citing the event impacting the President of the United States of America. The document includes technical details such as 'VEMY 50104, 6TC DE 3ZZ, 5383M KCS, 215ØZ 22 NOV 63', indicating the means and specifics of the communication.",
+  "tags": [
+    "JFK Assassination",
+    "Venezuela",
+    "Army Alert",
+    "USN",
+    "DIRNSA",
+    "Military",
+    "Caracas",
+    "Barquisimeto"
+  ],
+  "title": "Venezuelan Army Units Alerted Due to the Attempt of the Life of the PR [R]",
+  "date": "1963-11-23",
+  "locations_mentioned": [
+    "Venezuela",
+    "Caracas",
+    "Barquisimeto"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy"
+  ],
+  "recipient": "DIRNSA",
+  "sender": "USN-19"
+}

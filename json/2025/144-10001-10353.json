@@ -1,0 +1,31 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Cable",
+  "security": "Disclosing the specific communication channels (VED/T17-63, Sabre system) and intelligence-gathering methods (monitoring foreign government responses) could provide adversaries with insight into NSA's operational procedures and capabilities. Additionally, revealing the NSA's ability to intercept and disseminate diplomatic communications could damage international relations and compromise intelligence sources. ",
+  "security_level": "SECRET",
+  "summary": "NSA intercepted and disseminated a cable from the Venezuelan Embassy in San Salvador to the Foreign Ministry in Caracas, reporting that the Salvadoran government decreed a three-day mourning period for President Kennedy following his assassination.",
+  "summary_one_paragraph": "On November 23, 1963, the National Security Agency (NSA) intercepted a cable originating from the Venezuelan Embassy in San Salvador, which was addressed to the Foreign Ministry in Caracas. The cable reported that the Salvadoran government had decreed a three-day mourning period in response to the death of President John F. Kennedy. The NSA disseminated this information, classified as SECRET, through the SABRE communication system, and the document was later marked for review under Executive Order 14176 concerning assassinations of key figures.",
+  "tags": [
+    "NSA",
+    "John Kennedy",
+    "Assassination",
+    "El Salvador",
+    "Venezuela",
+    "Diplomatic Communication",
+    "Mourning Period"
+  ],
+  "title": "El Salvador Decrees 3 Day Mourning Period for President Kennedy",
+  "date": "1963-11-23",
+  "locations_mentioned": [
+    "El Salvador",
+    "San Salvador",
+    "Venezuela",
+    "Caracas"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

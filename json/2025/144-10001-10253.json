@@ -1,0 +1,40 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security": "The document discusses SIGINT jargon and emphasizes that certain site missions remain classified CONFIDENTIAL-HANDLE VIA COMINT CHANNELS, which could compromise intelligence sources and methods if revealed. Also, the unwillingness of Sgt. Stevenson to contact Christensen directly shows concern for potentially revealing intelligence community tactics or identities.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This memorandum details an interview conducted by the House Select Committee on Assassinations with Sgt. Nicholas B. Stevenson regarding allegations made by Mr. David F. Christensen concerning President Kennedy's assassination, focusing on Stevenson's recollections of events at USA-55, Kirknewton, Scotland.",
+  "summary_one_paragraph": "On November 17, 1978, Mike Smith and Eugene Yeates attended an interview by House Select Committee on Assassinations staff members Kenneth Klein and Gary Cornwell, concerning David F. Christensen’s allegations about involvement in President Kennedy's assassination; the interview, held in secure spaces provided by George Murphy, involved Sgt. Nicholas B. Stevenson, who was stationed with Christensen at USA-55, Kirknewton, Scotland, in 1963, and focused on Christensen's letter to Stevenson written in May 1978, with Stevenson denying knowledge of any intercepted communications related to the assassination; the staffers were interested in identifying the individual Christensen believed related to the assassination, and considered having Stevenson contact Christensen, a suggestion met with resistance and requiring policy-level examination within the DoD.",
+  "tags": [
+    "House Select Committee on Assassinations",
+    "David F. Christensen",
+    "Nicholas B. Stevenson",
+    "JFK Assassination",
+    "SIGINT",
+    "USA-55 Kirknewton",
+    "Memorandum of Understanding"
+  ],
+  "title": "House Assassinations Committee Inquiry",
+  "date": "1978-11-21",
+  "locations_mentioned": [
+    "USA-55, Kirknewton, Scotland",
+    "Lisbon",
+    "Tangier"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "David Christensen",
+    "Nicholas B. Stevenson",
+    "Kenneth Klein",
+    "Gary Cornwell",
+    "George Murphy",
+    "Jeffrey Graham",
+    "John F. Kennedy",
+    "Mike Smith",
+    "Eugene Yeates",
+    "John G. Kester",
+    "G. Robert Blakey"
+  ],
+  "recipient": "Distribution in NSA",
+  "sender": "LAO"
+}

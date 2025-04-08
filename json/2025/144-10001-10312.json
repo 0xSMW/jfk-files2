@@ -1,0 +1,31 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "Disclosing that the NSA was intercepting and analyzing communications of Indonesian presidential bodyguard officials shortly after the JFK assassination could damage current intelligence-gathering capabilities and international relations. The document is marked TOP SECRET UMBRA and TOP SECRET DINAR, indicating highly sensitive sources and methods. Specifically, the extracted message reveals details about the Indonesian officials' plans to study the facts and tactics concerning the assassination of President Kennedy, \"This incident should be a valuable lesson, a warning, and should cause all to increase vigilance.\"",
+  "security_level": "TOP SECRET",
+  "summary": "An NSA document dated December 26, 1963, reveals that Indonesian presidential bodyguard officials were closely studying the facts and tactics of the JFK assassination during their visit to the United States.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA document from the NSA, dated December 26, 1963, indicates that Indonesian presidential bodyguard officials, who were in the United States in November 1963, were analyzing the assassination of President John F. Kennedy. The message, intercepted by the NSA, details that the Indonesian officials, including Colonel Sabur, planned to study the 'facts and tactics' of the assassination during visits to the Secret Service, FBI, and Fort Gordon. The document suggests the Indonesian officials viewed the assassination as 'a valuable lesson' and a warning, emphasizing the need for increased vigilance.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Indonesian Presidential Bodyguard",
+    "Colonel Sabur",
+    "UMBRA",
+    "DINAR",
+    "Intelligence",
+    "Surveillance"
+  ],
+  "title": "3/0/IAD/T2314-63 INDONESIAN PRESIDENTIAL BODYGUARD OFFICIALS ON U.S. [R]",
+  "date": "1963-12-26",
+  "locations_mentioned": [
+    "United States",
+    "New York",
+    "Djakarta"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Colonel Sabur"
+  ],
+  "recipient": "HCF"
+}

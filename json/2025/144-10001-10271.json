@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Textual Document",
+  "security": "Revealing that the NSA intercepted and analyzed communications from Cuba following President Kennedy's assassination could expose the agency's signals intelligence capabilities and sources at the time. It also reveals the existence of specific communication channels (CUYS 50106 and CUYS 50103) that were being monitored. \"OPERATOR CHATTER ON CUYS 50106 AND CUYS 50103 AT PPROX 2020Z INDICATE THAT NEWS OF PRESIDENT KENNEDY'S DEATH HAS BEEN ANNOUNCED IN CUBA\".",
+  "security_level": "CONFIDENTIAL",
+  "summary": "NSA intercepted communications from Cuba on November 22, 1963, confirming the announcement of President Kennedy's death; Cuban operators expressed mixed reactions, ranging from sorrow to implied satisfaction.",
+  "summary_one_paragraph": "On November 22, 1963, the NSA intercepted communications between Cuban operators on channels CUYS 50106 and CUYS 50103, confirming that the news of President Kennedy's death had been announced in Cuba around 2020Z. The intercepted communications revealed varied reactions; while one operator expressed regret, another implied that some in Cuba would be happy about Kennedy's death and suggested internal strife among Americans.",
+  "tags": [
+    "NSA",
+    "John Kennedy",
+    "Assassination",
+    "Cuba",
+    "Interception",
+    "Communications",
+    "CUYS 50106",
+    "CUYS 50103"
+  ],
+  "title": "News of President Kennedy's Death Announced in Cuba",
+  "date": "1963-11-22",
+  "locations_mentioned": [
+    "Cuba",
+    "Camaguey",
+    "Las Villas"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy"
+  ],
+  "recipient": "DIRNSA",
+  "sender": "USM-603"
+}

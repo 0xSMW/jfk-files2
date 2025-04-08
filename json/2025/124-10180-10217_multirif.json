@@ -1,0 +1,52 @@
+{
+  "classification": "Commission",
+  "document_type": "Dispatch",
+  "security": "Revealing details about specific FBI investigations and their internal file numbers and codenames (like COINTELPRO, Murkin) could compromise investigative methods and sources, and may violate privacy. Providing the names of individual agents involved in these investigations, along with the dates of their assignments, could put those agents at risk or subject them to harassment. The document mentions sensitive investigations related to Martin Luther King Jr. and communist infiltration, which could be controversial and damage the FBI's reputation if disclosed.",
+  "security_level": "SECRET",
+  "summary": "This document contains dispatches from FBI field offices (St. Louis, Chicago, and Memphis) to the FBI Director, providing information requested by the House Select Committee on Assassinations (HSCA). The dispatches detail file numbers, case agents, and relevant information regarding investigations into individuals and groups, including Martin Luther King Jr. and COINTELPRO operations.",
+  "summary_one_paragraph": "In February 1978, dispatches were sent from FBI field offices in St. Louis, Chicago, and Memphis to the FBI Director in response to requests from the House Select Committee on Assassinations (HSCA). The St. Louis dispatch indicates the closure of a case and the forwarding of Xerox copies of serials and destruction memoranda. The Chicago dispatch encloses letters from Jerry Ray to Marjorie Louise Fetters. The Memphis dispatch provides details on the Murkin investigation, COINTELPRO files, and investigations related to Martin Luther King Jr., including file numbers, case agents, and the periods of their assignments. The dispatches note that a review of files revealed no counterintelligence activities against King or the Southern Christian Leadership Conference (SCLC).",
+  "tags": [
+    "FBI",
+    "HSCA",
+    "House Select Committee on Assassinations",
+    "Martin Luther King Jr.",
+    "COINTELPRO",
+    "Murkin Investigation",
+    "Jerry Ray",
+    "Marjorie Louise Fetters",
+    "Southern Christian Leadership Conference (SCLC)"
+  ],
+  "title": "HOUSE SELECT COMMITTEE ON ASSASSINATIONS (HSCA)",
+  "date": "1978-02-10",
+  "locations_mentioned": [
+    "St. Louis",
+    "Chicago",
+    "Memphis"
+  ],
+  "origin_agency": "Federal Bureau of Investigation (FBI)",
+  "persons_mentioned": [
+    "Jerry Ray",
+    "Marjorie Louise Fetters",
+    "Martin Luther King Jr.",
+    "Joe C. Hester",
+    "Burl F. Johnson",
+    "Joseph H. Kearney, Jr.",
+    "Howell S. Lowe",
+    "Lawrence J. Olson",
+    "William H. Lawrence",
+    "Merrill F. McCloughan",
+    "Robert F. Fitzpatrick",
+    "Clay M. Brady",
+    "Robert F. Barry",
+    "William J. White",
+    "Joseph C. Stanley",
+    "R. L. Stromberg",
+    "John P. O'Brien",
+    "Herbert K. Stallings",
+    "Gene E. Arnold",
+    "Robert O. Murphy",
+    "Rene J. Du Maine"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, St. Louis; SAC, Chicago; Memphis"
+}

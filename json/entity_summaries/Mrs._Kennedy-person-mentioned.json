@@ -1,0 +1,25 @@
+{
+  "entity_name": "Mrs. Kennedy",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Mrs. Kennedy, presumably Jacqueline Kennedy, the wife of President John F. Kennedy, is mentioned in several documents related to the aftermath of President Kennedy's assassination. Her role is primarily as the grieving widow to whom condolences and messages of support were sent by various world leaders. She is a central figure in the mourning process, with several dignitaries attending the funeral and expressing their sympathies directly to her. The documents highlight the global impact of President Kennedy's death and the personal impact on Mrs. Kennedy, with world leaders like President De Gaulle and representatives from various countries, including Iran, South Korea, and Ghana, acknowledging her loss. The timeline of her involvement is concentrated around the immediate aftermath of the assassination in late November and early December 1963. A notable pattern across the documents is the emphasis on international expressions of sorrow and the importance of showing respect and support to Mrs. Kennedy during this period.",
+  "key_connections": [
+    "President John F. Kennedy",
+    "President De Gaulle",
+    "President Johnson",
+    "Foreign Minister of Mexico",
+    "King of Kings of Iran",
+    "Ghanaian Embassy in Washington",
+    "South Korean officials"
+  ],
+  "significance": "Mrs. Kennedy's significance in the JFK assassination context lies in her role as the grieving widow, representing the personal tragedy behind the political event. She is the recipient of international condolences and a focal point for expressions of sympathy and support from world leaders, highlighting the global impact of President Kennedy's death and the human element of the tragedy.",
+  "document_ids": [
+    "144-10001-10067",
+    "144-10001-10303",
+    "144-10001-10084",
+    "144-10001-10315",
+    "144-10001-10299",
+    "144-10001-10332",
+    "144-10001-10307"
+  ]
+}

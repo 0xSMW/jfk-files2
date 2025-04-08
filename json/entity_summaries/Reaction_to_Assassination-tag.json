@@ -1,0 +1,33 @@
+{
+  "entity_name": "Reaction to Assassination",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "The documents detail various international reactions to President Kennedy's assassination in November 1963. These reactions range from official declarations of mourning and condolences from countries like Mexico and Egypt to expressions of concern and speculation from nations like Cuba and Syria. Some reports focus on the official statements made by leaders such as Fidel Castro, who, while acknowledging the antagonism between Cuba and the U.S., cautioned against using the assassination to fuel anti-Cuban sentiment. Other documents highlight concerns about potential consequences for specific countries, such as Cuba, and the spread of conspiracy theories, including claims that Zionists or ultra-rightists were responsible. The reports also reveal diplomatic activity and intelligence gathering efforts to understand the global impact and potential exploitation of the event.",
+  "key_connections": [
+    "Mexico",
+    "Fidel Castro",
+    "Cuba",
+    "Syria",
+    "Egypt",
+    "Zionists",
+    "Soviet Union",
+    "Cambodia",
+    "President Adolfo Lopez Mateos",
+    "President Nasser"
+  ],
+  "significance": "The global reaction to President Kennedy's assassination provides insight into the international political climate of the time and the diverse perspectives on the U.S. and its role in the world. The reactions reveal existing tensions and anxieties, particularly concerning the Cold War and U.S.-Cuban relations. The spread of conspiracy theories and the attempts by various actors to deflect blame or exploit the situation underscore the event's profound impact on international relations and the challenges of navigating a complex geopolitical landscape.",
+  "document_ids": [
+    "144-10001-10067",
+    "144-10001-10093",
+    "144-10001-10094",
+    "144-10001-10104",
+    "144-10001-10112",
+    "144-10001-10076",
+    "144-10001-10055",
+    "144-10001-10110",
+    "144-10001-10080",
+    "144-10001-10096",
+    "144-10001-10059",
+    "144-10001-10063"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security": "This document discusses sensitive intelligence collection methods, including telephone intercepts, and the dissemination of intelligence to other agencies. It also mentions the CIA's machine records system for recovering file information, designed specifically for Clandestine Services. Revealing these details could compromise intelligence sources and methods, as well as expose the CIA's data handling capabilities. For example, it states, 'the very existence of these telephone intercepts had to be very carefully protected.'",
+  "security_level": "SECRET",
+  "summary": "A memorandum summarizing a meeting between CIA officials and the Warren Commission staff on March 12, 1964, covering topics such as Lee Harvey Oswald's time in the Soviet Union, a book found in Oswald's possessions possibly used for a cipher, the CIA's file on Oswald, and information on Jack Ruby.",
+  "summary_one_paragraph": "On March 12, 1964, CIA officials, including Mr. Helms, Mr. Murphy, and Mr. Rocca, met with Warren Commission staff, including Mr. Rankin, to discuss the CIA's contributions to the Warren Commission's investigation. The meeting addressed information on Lee Harvey Oswald's stay in the Soviet Union, a potential cipher book found among Oswald's possessions (suggesting NSA review), and Oswald's contacts in Mexico City with Soviet and Cuban Embassies. Mr. Helms confirmed that Oswald was not a CIA agent, discussed the CIA's intelligence collection system, and touched on the CIA's procedures for working with the Secret Service during presidential travel abroad. The meeting also addressed the gaps in the Warren Commission's investigation, particularly concerning Oswald's activities in Mexico City, and the Commission's interest in any CIA information on Jack Ruby, including his potential travels to Havana.",
+  "tags": [
+    "CIA",
+    "Warren Commission",
+    "Lee Harvey Oswald",
+    "Jack Ruby",
+    "Soviet Union",
+    "Mexico City",
+    "Intelligence Collection",
+    "Cipher",
+    "Espionage",
+    "Secret Service"
+  ],
+  "title": "Memorandum for Record: Meeting with the Warren Commission on 12 March 1964",
+  "conspiracy": "The document indicates that the Warren Commission was interested in whether Oswald's contacts with Soviet and Cuban embassies were fully investigated and if the information was acted upon. Also, the inquiry into Ruby's confirmed trip to Havana in 1959 and unconfirmed trip to Cuba in 1963 under a Czech passport are notable.",
+  "date": "1964-03-12",
+  "locations_mentioned": [
+    "Soviet Union",
+    "Mexico City",
+    "Havana",
+    "Langley",
+    "South America",
+    "West Berlin"
+  ],
+  "origin_agency": "CIA",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "Jack Ruby",
+    "Mr. Helms",
+    "Mr. Murphy",
+    "Mr. Rocca",
+    "Mr. Rankin",
+    "Mr. Willems",
+    "Marina Oswald",
+    "Mr. Dulles",
+    "Mr. Karamessines"
+  ],
+  "recipient": "Record",
+  "sender": "David E. Murphy"
+}

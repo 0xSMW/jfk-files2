@@ -1,0 +1,29 @@
+{
+  "classification": "Liaison",
+  "document_type": "Message",
+  "security": "Release of this document could reveal intelligence-gathering methods and compromise sources, particularly those related to communications between Haitian officials and their agents in the U.S. Specific details of concern include the identification of Irving Davidson as a 'Haitian agent in U.S.' and references to intercepted communications involving President Duvalier. These details would show to an adversary the specific collection methods employed, and damage sources by revealing who we are listening to.",
+  "security_level": "Top Secret",
+  "summary": "An NSA message from December 27, 1963, reports on intercepted communications between President Duvalier of Haiti and Irving Davidson, a Haitian agent in the U.S., concerning a letter delivery.",
+  "summary_one_paragraph": "On December 27, 1963, the National Security Agency (NSA) sent a top-secret message to the FBI, attention McDonnell, relaying intercepted communications regarding Haitian affairs. The message details a letter from Dr. Jacques Fourcand, President Duvalier's personal physician and president of the Haitian Red Cross, to Irving Davidson, identified as a Haitian agent in the U.S. The communication indicates that Duvalier acknowledged receipt of Davidson's cable and expected loyal collaboration. The FBI was asked to note this information.",
+  "tags": [
+    "NSA",
+    "FBI",
+    "Duvalier",
+    "Haiti",
+    "Irving Davidson",
+    "Intercepted Communication",
+    "Top Secret"
+  ],
+  "title": "[Restricted]",
+  "date": "1963-12-27",
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Irving Davidson",
+    "President Duvalier",
+    "Jacques Fourcand",
+    "McDonnell",
+    "Moody"
+  ],
+  "recipient": "Director FBI",
+  "sender": "Director NSA"
+}

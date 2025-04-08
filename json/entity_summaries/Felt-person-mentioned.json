@@ -1,0 +1,18 @@
+{
+  "entity_name": "Felt",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, 'Felt' is mentioned in the context of handling sensitive information received from the CIA, specifically related to \"Bureau Informant 100\" (James Angleton) and SCOPE material (Israeli intelligence activities). The documents discuss procedures for attributing information received from Angleton, who is associated with a Liaison arrangement with the Israeli Intelligence Service. The memos outline the handling of this information, including forwarding it by courier in sealed envelopes, and discuss Santo Trafficante Jr.'s travels and contacts in Europe.",
+  "key_connections": [
+    "James Angleton",
+    "CIA",
+    "Israeli Intelligence Service",
+    "Santo Trafficante, Jr."
+  ],
+  "significance": "The significance of 'Felt' in the JFK context, based solely on these documents, is indirect. The documents focus on the handling of intelligence information from the CIA and Israeli intelligence, and the procedures for protecting the sources of that information. 'Felt' appears in documents related to these procedures, but the documents do not directly link 'Felt' to the JFK assassination.",
+  "document_ids": [
+    "124-10326-10103",
+    "124-10204-10209",
+    "124-10326-10105"
+  ]
+}

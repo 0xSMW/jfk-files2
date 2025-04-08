@@ -1,0 +1,40 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Paper, Textual Document",
+  "security": "Information regarding John Roselli's travel, associates, and financial transactions is being gathered by the FBI. Disclosing this information could potentially reveal sources and methods used by the FBI in its investigations.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "FBI Los Angeles reports John Roselli's arrival in Los Angeles, his transportation details, a check he received, and information about Judith Campbell's whereabouts.",
+  "summary_one_paragraph": "On October 26, 1962, the FBI in Los Angeles reported that John Roselli arrived in Los Angeles via National Airlines from Florida, though his name was not on the passenger manifest. He was picked up by a yellow cab and taken to the vicinity of Drucker's Barbershop in Beverly Hills, a place he frequents. A check for over $7,000 that Roselli received from Rothman and Hamilton, labeled \"Distribution, B and R Enterprises,\" was also noted. Information was also received regarding the location of Judith E. Campbell, a friend of Roselli and Sam Giancana, who was reported to be residing in Palm Springs, California.",
+  "tags": [
+    "FBI",
+    "John Roselli",
+    "Judith Campbell",
+    "Sam Giancana",
+    "Los Angeles",
+    "B and R Enterprises",
+    "Rothman and Hamilton",
+    "Palm Springs"
+  ],
+  "title": "",
+  "date": "1962-10-26",
+  "locations_mentioned": [
+    "Los Angeles, California",
+    "Florida",
+    "Miami, Florida",
+    "Tampa, Florida",
+    "Beverly Hills, California",
+    "Palm Springs, California",
+    "Chicago"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Roselli",
+    "Judith E. Campbell",
+    "Sam Giancana",
+    "Harry Drucker",
+    "Rothman",
+    "Hamilton"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, LA"
+}

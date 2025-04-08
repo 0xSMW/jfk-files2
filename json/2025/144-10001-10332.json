@@ -1,0 +1,35 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "The document is classified TOP SECRET UMBRA and TOP SECRET DINAR, indicating it contains highly sensitive information. Restrictions 1B further limit its dissemination. Releasing details of coded communications and signals intelligence, such as those likely present in the original message from Seoul, could expose intelligence sources and methods, compromising national security. The classification markings indicate it cannot be shared outside the designated channels. This is seen in the lines: TOP SECRET UMBRA and TOP SECRET DINAR.",
+  "security_level": "TOP SECRET",
+  "summary": "This document contains a message from South Korean officials expressing sorrow and outlining steps taken in response to President John F. Kennedy's assassination, including sending condolences and flying flags at half-mast.",
+  "summary_one_paragraph": "On November 24, 1963, the NSA originated a TOP SECRET UMBRA/DINAR document detailing South Korean expressions of sorrow following the assassination of President John F. Kennedy. The message, relayed from Seoul via the Vice Minister on November 23, outlines the steps taken by the South Korean government, including messages of condolence to President Johnson and Mrs. Kennedy, public statements of sorrow, and the decision to fly flags at half-mast at all government agencies. Furthermore, key officials planned to visit the American Embassy in Seoul to express condolences, with a final decision on sending a delegation to the funeral to be reported later.",
+  "tags": [
+    "JFK Assassination",
+    "South Korea",
+    "Condolences",
+    "National Security",
+    "NSA",
+    "TOP SECRET",
+    "UMBRA",
+    "DINAR"
+  ],
+  "title": "South Korean Expressions of Sorrow",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "South Korea",
+    "Seoul",
+    "New York",
+    "Tokyo"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Lyndon Johnson",
+    "Mrs. Kennedy",
+    "Ambassador Berger"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

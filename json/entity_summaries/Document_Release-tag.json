@@ -1,0 +1,28 @@
+{
+  "entity_name": "Document Release",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Document Release, as a tag, appears in the context of various processes and concerns related to the declassification and public disclosure of documents, particularly those pertaining to the JFK assassination and other sensitive matters. The documents highlight the complexities involved in releasing information, including navigating FOIA requests, addressing concerns from foreign intelligence services (like the British SIS), and ensuring compliance with the JFK Assassination Records Collection Act of 1992. The process involves reviewing documents, identifying potentially sensitive information, consulting with relevant parties, and making determinations about what can be released to the public. The documents also reveal concerns about the potential impact of document releases on individuals (such as former CIA employees) and international relations (specifically with Australia).",
+  "key_connections": [
+    "Martin Luther King, Jr.",
+    "FOIA",
+    "Assassination Records Review Board (ARRB)",
+    "Director of Central Intelligence George Tenet",
+    "British Secret Intelligence Service (SIS)",
+    "Warren Commission",
+    "JFK Assassination Records Collection Act of 1992",
+    "Mexico City station",
+    "J. Barry Harrelson",
+    "Eileen M. Wukitch",
+    "Australian liaison documents",
+    "State cover documents"
+  ],
+  "significance": "In the JFK context, 'Document Release' signifies the ongoing effort to make information related to the assassination publicly available, balanced against the need to protect sensitive sources, methods, and national security interests. The documents reveal the bureaucratic and political challenges involved in this process, highlighting the tension between transparency and secrecy. The tag also underscores the importance of understanding the context in which documents were created and the potential impact of their release on various stakeholders.",
+  "document_ids": [
+    "104-10433-10209",
+    "104-10328-10038",
+    "104-10326-10102",
+    "104-10326-10064",
+    "104-10331-10353"
+  ]
+}

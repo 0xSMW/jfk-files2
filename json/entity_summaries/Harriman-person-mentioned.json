@@ -1,0 +1,19 @@
+{
+  "entity_name": "Harriman",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Harriman is mentioned in the context of high-level discussions and meetings related to US foreign policy and intelligence matters during the Kennedy administration and beyond. The documents indicate Harriman's involvement in discussions concerning Cuba, US policy towards the Soviet Union, and broader Cold War strategies. While the documents do not explicitly link Harriman to the JFK assassination, his presence in these discussions suggests he was a significant figure in shaping US foreign policy and intelligence operations during a critical period. The documents highlight his involvement in meetings with government officials and foreign representatives, indicating his role in diplomatic and strategic decision-making.",
+  "key_connections": [
+    "Kennedy administration",
+    "Government officials",
+    "Foreign representatives",
+    "Soviet Union",
+    "Cuba"
+  ],
+  "significance": "While the provided documents do not directly link Harriman to the JFK assassination, his significance lies in his involvement in shaping US foreign policy and intelligence operations during the Cold War, a period that provides the broader context for understanding the political climate surrounding the assassination. His presence in discussions related to Cuba and the Soviet Union suggests he was a key player in the events and decisions that defined US foreign policy during this era.",
+  "document_ids": [
+    "104-10306-10011",
+    "104-10306-10016",
+    "206-10001-10000"
+  ]
+}

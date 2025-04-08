@@ -1,0 +1,46 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Memorandum",
+  "security": "The results of the investigation by Richmond are being forwarded to the Bureau because two former Special Agents of the FBI are among the subscribers to telephones called from this Los Angeles office. The information from the telephone records referred to below is confidential and cannot be made public prior to the issuance of a subpoena duces tecum directed to the Manager of the Chesapeake and Potomac Telephone Company (C & P Tel. Co.), or his duly authorized representative in the various cities referred to below.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memo from the FBI Richmond office to the Director concerning John Rosselli and an investigation into telephone calls made from Robert A. Maheu and Associates in Los Angeles. The investigation revealed that two former FBI Special Agents were subscribers to telephone numbers called from Maheu's office.",
+  "summary_one_paragraph": "On September 27, 1963, the SAC of the FBI's Richmond office sent a memorandum to the Director, FBI, regarding John Rosselli, aka, and an investigation originating from Los Angeles letters about telephone calls made from Robert A. Maheu and Associates. The Richmond office's investigation, conducted by SA Howard E. Richardson, identified subscribers to those telephone numbers, revealing that two former FBI Special Agents were among them; this information was deemed confidential and not for public release without a subpoena. The memo details specific telephone numbers and subscribers, including William J. Staten, Keith L. Hanna, J.H. Sims, and Eugene T. Tison, and outlines leads for the Washington Field Office and Richmond office to verify employment and investigate potential gambling or racketeering activities.",
+  "tags": [
+    "FBI",
+    "John Rosselli",
+    "Robert Maheu",
+    "Telephone Investigation",
+    "Former FBI Agents",
+    "Gambling",
+    "Racketeering",
+    "JFK Assassination",
+    "Telecommunications"
+  ],
+  "title": "JOHN ROSSELLI, aka",
+  "date": "1963-09-27",
+  "locations_mentioned": [
+    "Los Angeles, California",
+    "Richmond",
+    "Arlington, Virginia",
+    "Falls Church, Virginia",
+    "Washington, D.C.",
+    "Acton, Indiana"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Rosselli",
+    "Robert A. Maheu",
+    "William J. Staten",
+    "Howard E. Richardson",
+    "Keith L. Hanna",
+    "Virginia Hanna",
+    "J. H Sims",
+    "John H. Sims",
+    "Eugene T. Tison",
+    "Catherine M. Tison",
+    "Roscoe C. Williams",
+    "J. O'Harra"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, RH"
+}

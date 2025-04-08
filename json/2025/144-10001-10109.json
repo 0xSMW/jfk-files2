@@ -1,0 +1,46 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "This document contains intelligence regarding diplomatic activities and reactions to President Kennedy's assassination, specifically highlighting the views and affiliations of foreign representatives and Indian Parliamentarians. Exposing these details could damage international relations by revealing sensitive diplomatic communications and potentially misrepresenting the political leanings of foreign individuals and organizations. Directly quoting: \"The only foreign representatives...are Soviet, Yugoslav, Ceylonese and British...As for the Indians, the (B val leading voices) are on the whole either crypto-communist or left-wing members of Parliament.\"",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A report from New Delhi details a seminar on foreign affairs and peace following President Kennedy's assassination, noting the Prime Minister's remarks and the limited foreign representation, along with the political affiliations of the Indian participants.",
+  "summary_one_paragraph": "This Top Secret UMBRA report, dated December 31, 1963, relays information from New Delhi regarding a seminar on foreign affairs and peace organized by the \"Committee of Indian Parliamentarians for Peace\" following President Kennedy's assassination. The report highlights the Prime Minister's comments on the necessity of maintaining peaceful relations despite the assassination and details the limited foreign representation from Soviet, Yugoslav, Ceylonese, and British delegates. It also notes the political affiliations of the Indian participants, describing them as either crypto-communist or left-wing members of Parliament, and mentions Mr. Krishna Menon's statement on the importance of rapprochement between the USSR and the United States for achieving disarmament and peace.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Diplomacy",
+    "India",
+    "France",
+    "Peace Seminar",
+    "Foreign Affairs",
+    "Soviet Union",
+    "Non-alignment",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "3/0/FRD/T1269-63: SEMINAR ON FOREIGN AFFAIRS AND PEACE MEETS IN INDIA [R]",
+  "date": "1963-12-31",
+  "locations_mentioned": [
+    "India",
+    "New Delhi",
+    "France",
+    "USSR",
+    "United States"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President Kennedy",
+    "GARNIER",
+    "President De Gaulle",
+    "Mr. Pompidou",
+    "DIWAN CHAMAN LALL",
+    "Madame Nikolaeva",
+    "Mr. Vilfan",
+    "Mr. Greenwood",
+    "Harold Wilson",
+    "Aruna Asaf Ali",
+    "Malaviya",
+    "Krishna Menon"
+  ],
+  "recipient": "HCO [R]",
+  "sender": "NSA"
+}

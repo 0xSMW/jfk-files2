@@ -1,0 +1,38 @@
+{
+  "classification": "Liaison",
+  "document_type": "Report",
+  "security": "This document is classified TOP SECRET UMBRA and TOP SECRET DINAR, indicating it contains highly sensitive compartmented information. Disclosing the content of diplomatic discussions and assessments of political figures could damage U.S. foreign relations and intelligence gathering efforts. For example, the document details a UAR ambassador's report on a conversation with the Norwegian ambassador about Johnson's prospects and foreign policy views. Specifically mentioning that JOHNSON was practical-minded, not good at listening, an expert in American domestic affairs but had not handled foreign affairs very much, he was impatient and quick-tempered.",
+  "security_level": "TOP SECRET",
+  "summary": "A report from the UAR ambassador in Washington detailing a conversation with the Norwegian ambassador regarding President Johnson's prospects, foreign policy views, and the political climate following Kennedy's death.",
+  "summary_one_paragraph": "This document, dated January 4, 1964, is a report from the UAR ambassador in Washington to Cairo, relaying a conversation with the Norwegian ambassador about the American domestic and international situation following President Kennedy's assassination. The Norwegian ambassador shared his observations of Lyndon B. Johnson during a visit to Norway, characterizing him as practical-minded, inexperienced in foreign affairs, and quick-tempered, while also predicting Johnson's victory in the upcoming presidential election. The report also covers the Norwegian ambassador's views on Khrushchev's desire for understanding with Washington, British elections, and conditions in the Middle East, as well as the UAR ambassador's explanations of their relations with America and domestic and foreign policies.",
+  "tags": [
+    "Diplomatic Activity",
+    "U.S. Foreign Relations",
+    "Lyndon B. Johnson",
+    "Norway",
+    "Egypt",
+    "KHRUSHCHEV",
+    "Kennedy Assassination"
+  ],
+  "title": "Johnson's Prospects: UAR Ambassador, Washington, Reports Discussion with Norwegian Ambassador",
+  "date": "1964-01-04",
+  "locations_mentioned": [
+    "Washington",
+    "Norway",
+    "Oslo",
+    "South America",
+    "NATO",
+    "Southeast Asia",
+    "Middle East",
+    "Britain",
+    "West Germany"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Lyndon B. Johnson",
+    "KENNEDY",
+    "KHRUSHCHEV"
+  ],
+  "recipient": "HCF Plus",
+  "sender": "NSA"
+}

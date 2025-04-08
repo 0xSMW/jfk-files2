@@ -1,0 +1,35 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security": "This document discusses sensitive COMINT (Communications Intelligence) channels. Disclosing information about the NSA's ability to collect the Lisbon-Tangier link, and the mention of \"intercept\" and \"NSA\" in the report would be detrimental to national security. Quoting directly: 'portions of the report should be classified \"CONFIDENTIAL, HANDLE VIA COMINT CHANNELS ONLY.\" '",
+  "security_level": "Confidential",
+  "summary": "Julia Wetzel from NSA visited the House Select Committee on Assassinations to review a report regarding an interview with Sgt Nicholas B. Stevenson and determined that portions of the report should be classified as CONFIDENTIAL, HANDLE VIA COMINT CHANNELS ONLY due to sensitive information about communications intelligence.",
+  "summary_one_paragraph": "On November 21, 1978, Julia Wetzel (NSA) visited the House Select Committee on Assassinations to review a report written by Messrs. Cornwell and Klein concerning their interview with Sgt Nicholas B. Stevenson, USAF. Wetzel determined that because the report mentioned the facility's ability to collect the Lisbon-Tangier link and generally discussed intercepts while referencing \"NSA,\" portions of the report should be classified as \"CONFIDENTIAL, HANDLE VIA COMINT CHANNELS ONLY.\" Wetzel marked the report accordingly after Mr. Cornwell agreed to the classification. Cornwell indicated that he would seek NSA review if the report’s language were to be used in an unclassified context. Wetzel also noted NSA would follow up on the question of whether Mr. Christensen's referenced conversation had been published and disseminated in product channels.",
+  "tags": [
+    "NSA",
+    "House Select Committee on Assassinations",
+    "HSCA",
+    "COMINT",
+    "Communications Intelligence",
+    "Classification",
+    "Sgt Nicholas B. Stevenson",
+    "Lisbon-Tangier link",
+    "intercept"
+  ],
+  "title": "Visit to House Select Committee on Assassinations",
+  "date": "1978-11-28",
+  "locations_mentioned": [
+    "Lisbon",
+    "Tangier"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Julia Wetzel",
+    "Cornwell",
+    "Klein",
+    "Nicholas B. Stevenson",
+    "Christensen"
+  ],
+  "recipient": "NSA",
+  "sender": "Julia Wetzel, LAO"
+}

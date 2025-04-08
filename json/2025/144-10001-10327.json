@@ -1,0 +1,35 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "This message relays information about the movements and personnel of a foreign delegation in the wake of President Kennedy's assassination. Revealing such communications could compromise the security of diplomatic exchanges and potentially damage international relations by exposing the monitoring of foreign dignitaries. Quoting directly: \"Chairman PAK's party departed as scheduled at 1400 hours, 24 November...arrival in Washington will be 0005 hours 25 November on UA 758...SIN CHIK SU, Adviser to the Chairman, has been added to the party.\"",
+  "security_level": "SECRET",
+  "summary": "A message from Seoul to New York, dated November 24, 1963, relays information about the delegation from the Republic of Korea (ROK) attending John F. Kennedy's funeral, including their departure time, arrival details, and personnel list.",
+  "summary_one_paragraph": "This SECRET message, transmitted on November 24, 1963, from Seoul to the Ambassador in New York, provides details concerning the ROK (South Korea) funeral envoy for President John F. Kennedy's funeral. It confirms Chairman PAK's delegation departed at 1400 hours on November 24 and will arrive in Washington at 0005 hours on November 25 via UA 758. The message notes the addition of SIN CHIK SU, Adviser to the Chairman, to the party, bringing the total to seven persons in addition to Chairman PAK.",
+  "tags": [
+    "Assassination",
+    "John Kennedy",
+    "Funeral Envoy",
+    "Republic of Korea",
+    "ROK",
+    "Pak",
+    "Sin Chik Su",
+    "NSA",
+    "HCF",
+    "Diplomacy"
+  ],
+  "title": "2X/0/KOD/T440-63 ROK FUNERAL ENVOY; SEVEN PERSONS [R]",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Seoul",
+    "New York",
+    "Washington"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Pak",
+    "Sin Chik Su"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

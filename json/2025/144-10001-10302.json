@@ -1,0 +1,44 @@
+{
+  "classification": "Cuba",
+  "document_type": "Message",
+  "security": "The document's classification as TOP SECRET UMBRA and TOP SECRET DINAR indicates that its disclosure could reveal extremely sensitive intelligence sources or methods. Directly quoting the original classification reinforces the need for its protection.",
+  "security_level": "TOP SECRET",
+  "summary": "An NSA document containing instructions from Havana to Cuban diplomatic missions on November 23, 1963, ordering them to refrain from making any statements.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA document, originating from the National Security Agency (NSA), is a message, dated November 23, 1963, from Havana to multiple Cuban diplomatic missions, including the Cuban Embassy in Accra and other locations such as Athens, Bern, and Vienna. The message, classified as Cuban 3/0/CUD/T1380-63, instructs these missions to 'Do not make any statements.' This document relates to the John F. Kennedy assassination and is restricted under various criteria as specified in the NSA/CSS Manual 123-2.",
+  "tags": [
+    "NSA",
+    "John Kennedy Assassination",
+    "Cuban Diplomatic Missions",
+    "Instructions",
+    "No Statements",
+    "TOP SECRET",
+    "UMBRA",
+    "DINAR"
+  ],
+  "title": "Instructions to Cuban Diplomatic Missions",
+  "date": "1963-11-23",
+  "locations_mentioned": [
+    "Havana",
+    "Accra",
+    "Athens",
+    "Bamako",
+    "Bern",
+    "Bucharest",
+    "Brussels",
+    "Copenhagen",
+    "Geneva",
+    "Goteburg",
+    "Helsinki",
+    "Pyongyang",
+    "Sofia",
+    "The Hague",
+    "Vienna",
+    "Warsaw"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy"
+  ],
+  "recipient": "Cuban Diplomatic Missions",
+  "sender": "Havana (ROA)"
+}

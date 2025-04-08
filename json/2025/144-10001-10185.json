@@ -1,0 +1,44 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum/Letter",
+  "security": "This document details a request from the House Select Committee on Assassinations (HSCA) to the NSA for Cuban communications from March/April 1962. The NSA conducted a search, but no raw traffic data or product files existed. Specific search terms included 'EARL/JACK RUBY,' 'COBO CLEANERS,' 'DETROIT, MICHIGAN,' 'PRESIDENT KENNEDY,' 'SERAFIN,' 'VICIENCIA,' and 'OSWALD.' This reveals the HSCA's interest in possible Cuban connections to individuals and entities related to the JFK assassination, as well as the NSA's SIGINT collection capabilities. The document is marked 'HANDLE VIA COMINT CHANNELS ONLY,' indicating the sensitivity of the information and the methods used to obtain it.",
+  "security_level": "SECRET",
+  "summary": "The NSA responded to a request from the House Select Committee on Assassinations (HSCA) for Cuban communications during March and April 1962 related to specific individuals and entities, but a thorough search yielded negative results due to destruction of raw traffic data and lack of product files.",
+  "summary_one_paragraph": "In response to a request from the House Select Committee on Assassinations (HSCA) via Mr. Blakey and Ms. Judy Miller, the NSA conducted a search for Cuban communications from March and April 1962 related to Cobo Cleaners, Earl Ruby, and other keywords including President Kennedy and Oswald. The NSA's search, performed by G Group and T12, involved examining pertinent files and open series SIGINT product records but found that raw traffic data from 1962 had been destroyed in accordance with agency regulations, and no relevant product files existed within G Group. A memo from Eugene F. Yeates to DIR details these negative search results.",
+  "tags": [
+    "JFK Assassination",
+    "HSCA",
+    "NSA",
+    "Cuban Communications",
+    "Cobo Cleaners",
+    "Earl Ruby",
+    "SIGINT",
+    "COMINT",
+    "Blakey Request"
+  ],
+  "title": "G09-728-78 BLAKEY REQUEST FOR CUBAN COMMS DURING MAR/APR 1962",
+  "date": "1978-07-31",
+  "locations_mentioned": [
+    "Cuba",
+    "Detroit, Michigan"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Blakey",
+    "Earl Ruby",
+    "President Kennedy",
+    "Oswald",
+    "Serafin",
+    "Viciencia",
+    "Judy Miller",
+    "Eugene F. Yeates",
+    "Jones",
+    "Raskin",
+    "Sobel",
+    "Robery J. Welday",
+    "Rudolph",
+    "J.D. Maggard"
+  ],
+  "recipient": "HSCA",
+  "sender": "NSA"
+}

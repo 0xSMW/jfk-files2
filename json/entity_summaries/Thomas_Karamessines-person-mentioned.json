@@ -1,0 +1,23 @@
+{
+  "entity_name": "Thomas Karamessines",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Based on the provided documents, Thomas Karamessines is mentioned in the context of investigations and testimonies related to various CIA activities during the 1960s and 1970s. While the documents do not explicitly detail Karamessines' direct involvement in the JFK assassination, they place him within the operational environment of the CIA during critical periods. He appears in documents concerning the E. Howard Hunt investigation, the Lumumba assassination plan, Senate Select Committee testimony on Presidential Campaign Activities, the Yurily Ivanovich Nosenko case, and the testimony of Howard J. Osborn. These documents suggest Karamessines held a position of authority or oversight within the CIA, given his presence in investigations and testimonies concerning sensitive operations and potential misconduct. The documents highlight his potential knowledge of or involvement in covert operations, security matters, and interactions with individuals connected to Watergate and other controversial events.",
+  "key_connections": [
+    "E. Howard Hunt",
+    "Yurily Ivanovich Nosenko",
+    "Howard J. Osborn",
+    "President Eisenhower (alleged)",
+    "Senate Select Committee on Presidential Campaign Activities",
+    "CIA Office of Security"
+  ],
+  "significance": "The provided documents do not directly link Thomas Karamessines to the JFK assassination. However, his presence in investigations and testimonies related to CIA activities during the relevant period suggests he was a figure of some importance within the agency. His potential knowledge of covert operations and security matters could indirectly relate to the broader context of the JFK assassination, depending on further information about his specific roles and responsibilities.",
+  "document_ids": [
+    "104-10173-10130",
+    "157-10014-10178",
+    "104-10062-10073",
+    "104-10106-10300",
+    "104-10173-10132",
+    "157-10011-10078"
+  ]
+}

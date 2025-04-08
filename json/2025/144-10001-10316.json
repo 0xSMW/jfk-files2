@@ -1,0 +1,35 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "The document is classified TOP SECRET UMBRA, indicating it contains highly sensitive intelligence information. Sharing details of French government and public reactions, including the assessment of Johnson as an 'obscure figure' could damage diplomatic relations and reveal intelligence collection capabilities.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "An NSA document summarizing French reactions to President Kennedy's death, noting widespread mourning and concern over potential political instability in the U.S. and a perceived lack of leadership under Johnson.",
+  "summary_one_paragraph": "This NSA document, dated November 27, 1963, details French reactions to President Kennedy's assassination, reporting that government circles, including de Gaulle, expressed unanimous exaltation of Kennedy's image while also conveying concern over potential political instability and racial conflict intensification within the United States. The French government viewed the death as a loss of a major leader of the West, potentially impacting East-West relations, and considered Lyndon B. Johnson an 'obscure figure' lacking political experience, leading to concerns about a lack of effective political direction in the U.S. until the next elections.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "French Reactions",
+    "De Gaulle",
+    "Lyndon B. Johnson",
+    "Political Instability",
+    "East-West Relations"
+  ],
+  "title": "French Reactions to President Kennedy's Death",
+  "date": "1963-11-27",
+  "locations_mentioned": [
+    "France",
+    "Paris",
+    "Rome",
+    "United States",
+    "Washington"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "De Gaulle",
+    "Lyndon B. Johnson",
+    "BROSIO"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

@@ -1,0 +1,29 @@
+{
+  "classification": "Mexico",
+  "document_type": "Report, Textual Document",
+  "security": "Revealing that the NSA was monitoring Mexican diplomatic communications shortly after President Kennedy's assassination could strain diplomatic relations between the U.S. and Mexico, as it highlights the agency's intelligence-gathering activities targeting a neighboring country. According to the document, \"CONTAINS SENSITIVE COMPARTMENTED INFORMATION\".",
+  "security_level": "SECRET",
+  "summary": "A National Security Agency (NSA) report, dated November 24, 1963, details a request from the Mexican Foreign Ministry to its embassies and consulates to fly the Mexican flag at half-mast for three days in mourning for President John F. Kennedy.",
+  "summary_one_paragraph": "This is a SECRET SPOKE report from the NSA, dated March 26, 1997, regarding a message intercepted on November 24, 1963. The intercepted message reveals that the Mexican Foreign Ministry instructed Mexican embassies and consulates, including the one in Rio de Janeiro, to fly the Mexican flag at half-mast for three days starting November 23, 1963, as a sign of mourning for President John F. Kennedy following a decree by the President of the Republic. The document, marked with restrictions and containing sensitive compartmented information, was declassified under Executive Order 14176.",
+  "tags": [
+    "MEXICO",
+    "DIPLOMATIC ACTIVITY",
+    "NSA",
+    "JFK ASSASSINATION",
+    "Mourning",
+    "Flag",
+    "Half-Mast"
+  ],
+  "title": "2X/0/MXD/T255-63: MEXICAN EMBASSIES AND CONSULATES REQUESTED TO FLY [R]",
+  "date": "1997-03-26",
+  "locations_mentioned": [
+    "Mexico",
+    "Mexico City",
+    "Rio de Janeiro"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "KENNEDY"
+  ],
+  "sender": "NSA [R]"
+}

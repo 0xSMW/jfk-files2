@@ -1,0 +1,33 @@
+{
+  "classification": "Mexico",
+  "document_type": "Report",
+  "security": "The document is classified TOP SECRET UMBRA/DINAR, indicating that its disclosure could cause exceptionally grave damage to national security. It contains sensitive compartmented information.  Releasing details about diplomatic activities and requests, such as the withdrawal of a cultural attaché, could strain international relations and expose intelligence-gathering methods. Specifically, revealing the Haitian Foreign Ministry's request to withdraw the U.S. Cultural Attaché because his services edited a pamphlet and omitted Haitian mourning messages could damage diplomatic ties. Directly quoting: 'HAITI ASKS WITHDRAWAL OF U.S. CULTURAL ATTACHE BECAUSE OF ALLEGED SLIGHT' and 'Coincident with the arrival of the new United States Ambassador, the Haitian Foreign Ministry asked for the withdrawal of the United States Cultural Attaché because his services edited a pamphlet in memory of President KENNEDY and inserted messages from chiefs of state expressing sorrow but omitted the Haitian mourning decree and DUVALIER'S cable of condolence.'",
+  "security_level": "TOP SECRET",
+  "summary": "NSA report that Haiti requested the withdrawal of the U.S. Cultural Attaché because of an alleged slight in a memorial pamphlet for President Kennedy.",
+  "summary_one_paragraph": "On December 19, 1963, the Haitian Foreign Ministry requested the withdrawal of the U.S. Cultural Attaché, alleging that a pamphlet in memory of President Kennedy, edited by the attaché, omitted the Haitian mourning decree and Duvalier's condolence cable while including messages from other heads of state, resulting in a perceived slight. The report originated from Port-au-Prince, was sent to Mexico City, and was disseminated as Mexican MXDM WS 11275.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Haiti",
+    "Mexico",
+    "Diplomatic Activity",
+    "Cultural Attaché",
+    "Duvalier",
+    "Kennedy Memorial"
+  ],
+  "title": "HAITI ASKS WITHDRAWAL OF U.S. CULTURAL ATTACHE",
+  "date": "1963-12-19",
+  "locations_mentioned": [
+    "Haiti",
+    "Mexico",
+    "Port-au-Prince",
+    "Mexico City"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President Kennedy",
+    "Duvalier"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

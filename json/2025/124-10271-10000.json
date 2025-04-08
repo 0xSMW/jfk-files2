@@ -1,0 +1,47 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security": "Several memoranda discuss sensitive investigations, including those related to intelligence activities and potential congressional inquiries. One memo mentions reluctance to discuss sensitive matters in a large group, indicating concerns about information control. Specifically, 'We were reluctant to discuss sensitive matters in such a large group and we asked that the Group be reduced to a select few people who would have to have knowledge of sensitive FBI operations.' This highlights the necessity to protect sources, methods, and ongoing investigations.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "These memoranda detail discussions and preparations within the FBI and inter-agency groups regarding congressional reviews and inquiries into intelligence activities, focusing on managing information disclosure, coordinating responses, and establishing task forces to handle the workload.",
+  "summary_one_paragraph": "These memoranda, dated from March 6 to March 21, 1975, document internal FBI discussions and coordination with other agencies concerning congressional reviews of the intelligence community, particularly SENSTUDY 75. They cover the establishment of an Ad Hoc Coordinating Group, preparations for congressional testimony, development of secrecy agreements for Senate Select Committee staff, and concerns over Freedom of Information Act requests from Morton Halperin. Key issues include managing the disclosure of sensitive information, coordinating responses to congressional inquiries, and setting up a dedicated task force within the FBI to handle these matters.",
+  "tags": [
+    "FBI",
+    "Congressional Review",
+    "Intelligence Community",
+    "SENSTUDY 75",
+    "Freedom of Information Act",
+    "Morton Halperin",
+    "Task Force",
+    "Secrecy Agreement",
+    "CIA",
+    "Rockefeller Commission"
+  ],
+  "title": "SENSTUDY 75: Congressional Review of the Intelligence Community",
+  "date": "1975-03-10",
+  "locations_mentioned": [
+    "Washington, D.C."
+  ],
+  "origin_agency": "Federal Bureau of Investigation (FBI)",
+  "persons_mentioned": [
+    "W. R. Wannall",
+    "W. O. Cregar",
+    "John Clarke",
+    "Robert McClory",
+    "Senator Church",
+    "James Wilderotter",
+    "John Warner",
+    "William Colby",
+    "Hank Knocke",
+    "Morton Halperin",
+    "Mr. Kelley",
+    "Bella S. Abzug",
+    "James F. Hoobler",
+    "Paul H. O'Neill",
+    "D. L. Scantlebury",
+    "Philip Buchen",
+    "Laurence Silberman"
+  ],
+  "recipient": "Mr. W. R. Wannall",
+  "sender": "W. O. Cregar"
+}

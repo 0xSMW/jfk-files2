@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "The document contains information that could reveal intelligence sources and methods related to monitoring anti-Castro activities. Disclosing specific details about informants and their locations could compromise their safety and the effectiveness of ongoing intelligence operations. As the document states, 'This group must be penetrated.'",
+  "security_level": "SECRET",
+  "summary": "A National Security Agency (NSA) report from January 16, 1963, relays information about a reported plot to assassinate Fidel Castro, as communicated by an informer in Pinar del Rio, Cuba.",
+  "summary_one_paragraph": "This NSA report, dated January 16, 1963, details a potential plot to assassinate Fidel Castro. According to the report, an informer named Ruben Maqueria, known as MATEIBO, mentioned in a conversation at Central José Marti, his place of residence, that assassinating Castro on El Cocuyo Road would be a good idea. The information was reported by Juan Taboada, who overheard the conversation. The report suggests that the group involved should be penetrated to gather more information.",
+  "tags": [
+    "NSA",
+    "Castro",
+    "Fidel Castro",
+    "Assassination Plot",
+    "Anti-Castro Activities",
+    "Informant",
+    "Cuba",
+    "JFK Assassination System"
+  ],
+  "title": "2/0/CUK/T05-63: PLOT TO ASSASSINATE CASTRO REPORTED [R]",
+  "date": "1963-01-16",
+  "locations_mentioned": [
+    "Cuba",
+    "Pinar del Rio",
+    "San Cristobal",
+    "Central José Marti",
+    "El Cocuyo Road"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "Ruben Maqueria (MATEIBO)",
+    "Juan Taboada",
+    "Teresa",
+    "Andres",
+    "Eliseo Reyes"
+  ],
+  "sender": "NSA"
+}

@@ -1,0 +1,49 @@
+{
+  "classification": "Soviet",
+  "document_type": "Report",
+  "security": "This document contains intelligence on diplomatic activities and the internal political reactions in the US following Kennedy's assassination. Specifically, it mentions concerns about the Dallas police investigation, Robert Kennedy's influence, and potential shifts in US foreign policy. Disclosing these details could reveal sources and methods used to gather intelligence on foreign missions and internal US affairs. For example, it states \"The statement by the Texas state authorities that the slaying of OSWALD closes the investigation of the KENNEDY assassination brought on public reactions of doubt by some segments of the information media (commentators and journalists) of the intentions of the Dallas police who conducted the investi- gation.\"",
+  "security_level": "TOP SECRET",
+  "summary": "A Polish intelligence report discusses the impact of President Kennedy's death on US policy, focusing on reactions to Oswald's slaying, the involvement of Robert Kennedy, and potential changes in foreign and domestic policies under President Johnson. It also highlights diplomatic activities and reactions within the UN, including meetings involving Mikoyan, De Gaulle, and Erhard.",
+  "summary_one_paragraph": "This TOP SECRET report from Polish intelligence, dated November 29, 1963, analyzes the repercussions of President Kennedy's assassination on US policy. It details the reactions to Jack Ruby's killing of Lee Harvey Oswald, the perceived influence of Robert Kennedy in the subsequent investigation, and the political dynamics between the right-wing elements and those close to Kennedy. The report suggests a looming struggle over the direction of US foreign and domestic policies under President Johnson, particularly concerning relations with the Soviet Union. Furthermore, it notes significant diplomatic activities at the UN, including Johnson's meetings with Mikoyan, De Gaulle, and Erhard, and the high-level delegations sent by Poland and the USSR in comparison to other countries.",
+  "tags": [
+    "JFK Assassination",
+    "Poland",
+    "Diplomatic Activity",
+    "US Policy",
+    "Robert Kennedy",
+    "Lyndon B. Johnson",
+    "UN",
+    "Mikoyan",
+    "De Gaulle",
+    "Erhard",
+    "Oswald",
+    "Jack Ruby"
+  ],
+  "title": "DISCUSSION OF KENNEDY'S DEATH AND ITS IMPACT ON US [R]",
+  "date": "1963-11-29",
+  "locations_mentioned": [
+    "Poland",
+    "New York",
+    "Texas",
+    "Dallas",
+    "Warsaw",
+    "Washington"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Kennedy",
+    "Oswald",
+    "Winiewicz",
+    "R. Kennedy",
+    "Johnson",
+    "Hickenlooper",
+    "Mikoyan",
+    "De Gaulle",
+    "Erhard",
+    "Yost",
+    "Stevenson",
+    "Lewandowski"
+  ],
+  "recipient": "Warsaw: Ministry of Foreign Affairs",
+  "sender": "New York: Polish Mission to the UN"
+}

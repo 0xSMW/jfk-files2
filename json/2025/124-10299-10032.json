@@ -1,0 +1,44 @@
+{
+  "classification": "Administrative",
+  "document_type": "Paper, Textual Document",
+  "security": "This document contains specific names of U.S. Embassy officials (WARREN, WARNER, HASSEY, MOSS, TIMMONS) in Haiti whose recall is being requested. Exposing these names and the reasons for the request could damage diplomatic relations between the U.S. and Haiti and potentially endanger the individuals involved. The document is marked TOP SECRET DINAR and NO FOREIGN DISSEM, indicating sensitivity regarding its content and distribution.",
+  "security_level": "Top Secret",
+  "summary": "A top-secret message from Jacques Fourcand to Irving Davidson details a request from Haitian President Duvalier for the recall of several U.S. Embassy officials, including Ambassador Timmons, to facilitate improved relations between Haiti and the United States.",
+  "summary_one_paragraph": "This top-secret document, dated December 17, 1963, relays a message from Jacques Fourcand to Irving Davidson, an FBI contact, regarding Haitian President Francois Duvalier's request for the recall of U.S. Embassy officials in Haiti. The message indicates that Duvalier believes the presence of Ambassador Timmons and other officials (Warren, Warner, Hassey, Moss) is detrimental to the resumption of positive relations between Haiti and the United States. Fourcand urges Davidson to intervene and secure the recall of these individuals before Timmons presents his credentials, citing their alleged unfriendly actions toward the President.",
+  "tags": [
+    "FBI",
+    "NSA",
+    "Haiti",
+    "Francois Duvalier",
+    "Jacques Fourcand",
+    "Irving Davidson",
+    "Embassy Officials",
+    "Diplomatic Relations",
+    "Recall Request",
+    "TOP SECRET DINAR"
+  ],
+  "title": "[Restricted]",
+  "date": "1963-12-17",
+  "locations_mentioned": [
+    "Haiti",
+    "Port-au-Prince",
+    "Washington"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Francois Duvalier",
+    "Theard",
+    "Jacques Fourcand",
+    "I. Irving Davidson",
+    "Timmons",
+    "Chalmers",
+    "Raymond",
+    "Norman Warren",
+    "John Hacey",
+    "Warner",
+    "Hassey",
+    "Moss"
+  ],
+  "recipient": "Irving Davidson",
+  "sender": "NSA"
+}

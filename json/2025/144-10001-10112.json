@@ -1,0 +1,44 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "Contains sensitive compartment information.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A report from the French Embassy in Washington details the U.S. government's reaction to the publication of Jean Daniel's interviews with John F. Kennedy and Fidel Castro, focusing on the implications for U.S.-Cuba relations and President Johnson's position.",
+  "summary_one_paragraph": "This Top Secret UMBRA report, dated December 21, 1963, relays information from the French Embassy in Washington to Paris and Havana regarding the U.S. government's response to the publication of Jean Daniel's interviews with President Kennedy and Fidel Castro in various American publications. The report highlights the U.S. administration's skepticism towards Castro's claims about the Soviet missile deployment in Cuba and notes that the publication puts President Johnson in a delicate position, limiting his maneuvering room for potential arrangements with Castro, especially given the upcoming elections and the existing economic blockade.",
+  "tags": [
+    "JFK Assassination",
+    "France",
+    "Diplomatic Activity",
+    "Cuba",
+    "Reaction to Assassination",
+    "Jean Daniel",
+    "Fidel Castro",
+    "Lyndon B. Johnson",
+    "Nikita Khrushchev"
+  ],
+  "title": "EMBASSY WASHINGTON REPORTS REACTION TO KENNEDY AND CASTRO INTERVIEWS",
+  "date": "1963-12-21",
+  "locations_mentioned": [
+    "Washington",
+    "Paris",
+    "Havana",
+    "Cuba",
+    "United States",
+    "Hungary",
+    "Latin America"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Fidel Castro",
+    "Jean Daniel",
+    "Lyndon B. Johnson",
+    "Nikita Khrushchev",
+    "Pierre Salinger",
+    "Adzhubei",
+    "Chalmers Roberts",
+    "Julien"
+  ],
+  "recipient": "HCF [R]",
+  "sender": "NSA"
+}

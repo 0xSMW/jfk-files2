@@ -1,0 +1,24 @@
+{
+  "entity_name": "Mail Opening",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "Mail opening, as referenced in the documents, pertains to intelligence activities involving the interception and examination of mail. The FBI and CIA engaged in such practices, sometimes without explicit authorization. The Senate Select Committee (SENSTUDY) investigated these activities, raising concerns about potential compromises of FBI operations and sources. Howard Osborn testified about CIA mail opening projects like SR POINTER and West Pointer, and cooperative arrangements with Customs. These operations sometimes involved opening mail without explicit authorization, and higher-ups were aware of the New York mail openings. The FBI was also concerned about the Senate Select Committee's inquiries into mail opening activities.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "Senate Select Committee (SENSTUDY)",
+    "COINTELPRO",
+    "Howard Osborn",
+    "SR POINTER",
+    "West Pointer",
+    "Customs",
+    "Mr. Helms"
+  ],
+  "significance": "In the context of investigations into intelligence activities, mail opening represents a controversial practice that raised concerns about privacy violations and potential abuses of power. The Senate Select Committee's investigation into these activities highlights the importance of oversight and accountability in intelligence operations. The documents suggest that mail opening was a sensitive topic, with the FBI concerned about potential compromises of their operations and sources.",
+  "document_ids": [
+    "124-10179-10219_multirif",
+    "124-10179-10217_multirif",
+    "124-10264-10191",
+    "157-10002-10150"
+  ]
+}

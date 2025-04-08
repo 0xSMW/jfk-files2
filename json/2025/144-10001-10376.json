@@ -1,0 +1,51 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "SIGINT Daily Summary",
+  "security": "This document contains highly classified intelligence regarding signals intelligence activities. Disclosing the specific content related to Venezuelan air defense orders, Chou En-Lai's travel plans, Havana's reaction to Kennedy's assassination, and corrections to previous intelligence reports would reveal sources and methods of intelligence collection. Additionally, specific information on USSR strategic rocket forces and long-range aviation would compromise sensitive military intelligence. The document is marked TOP SECRET UMBRA and TOP SECRET DINAR, indicating extremely restricted dissemination.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "This NSA SIGINT Daily Summary from November 24, 1963, reports on Venezuelan air defense orders, Chou En-Lai's potential visit to Africa, Havana's reactions to President Kennedy's assassination, and provides corrections to a previous report regarding the Congo border.",
+  "summary_one_paragraph": "The NSA's SIGINT Daily Summary Number Twenty-One, dated November 24, 1963, compiles intelligence as of 1900Z. It includes information about the Venezuelan air detachment's orders to counteract enemy air incursions, Guinean representative Bangoura's report on Chou En-Lai's possible visit to Africa in December and precautions against assassination attempts, Havana's measured reaction to President Kennedy's assassination, and a correction concerning border actions in the Congo (Brazzaville). Part two of the summary details the current status of USSR strategic rocket forces and long-range aviation, including bomber elements in standdown status and weather information requests for the Arctic.",
+  "tags": [
+    "NSA",
+    "SIGINT",
+    "Daily Summary",
+    "JFK Assassination",
+    "Venezuela",
+    "Cuba",
+    "China",
+    "USSR",
+    "Chou En-Lai",
+    "Kennedy Assassination",
+    "Guerrillas",
+    "TOP SECRET UMBRA",
+    "TOP SECRET DINAR"
+  ],
+  "title": "3/0/0QY/127-63 SIGINT DAILY SUMMARY NUMBER TWENTY-ONE [R]",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Venezuela",
+    "Coro",
+    "Falcon state",
+    "Peking",
+    "Egypt",
+    "Africa",
+    "Guinea",
+    "Ghana",
+    "Mali",
+    "Cambodia",
+    "Havana",
+    "Congo (Brazzaville)",
+    "USSR",
+    "Arctic"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Chou En-Lai",
+    "BANGOURA",
+    "TOURE",
+    "LIU SHAO CHI"
+  ],
+  "recipient": "O/ZK",
+  "sender": "NSA"
+}

@@ -1,0 +1,24 @@
+{
+  "entity_name": "Andrew Young",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "summary": "Based on the provided documents, Andrew Young is mentioned in the context of FBI investigations into Martin Luther King Jr., the Southern Christian Leadership Conference (SCLC), and Stanley Levison. The documents consist of memoranda summarizing the testimony of retired FBI Special Agent Alan G. Sentinella before the Senate Select Committee (SSC) in 1975. These investigations involved electronic surveillance, potential communist influence, and the FBI's operational policies. Andrew Young's specific role or involvement is not detailed in these summaries, but his association with Martin Luther King Jr. and the SCLC places him within the scope of these investigations.",
+  "key_connections": [
+    "Martin Luther King Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "Stanley Levison",
+    "Alan G. Sentinella"
+  ],
+  "significance": "The significance of Andrew Young in the JFK context, based solely on these documents, is indirect. He is mentioned in relation to investigations of Martin Luther King Jr. and the SCLC, which were subjects of FBI scrutiny. The documents do not explicitly link him to the JFK assassination, but his association with King places him within the broader historical context of political surveillance and civil rights activism during that era.",
+  "document_ids": [
+    "124-10276-10482_multirif",
+    "124-10274-10358_multirif",
+    "124-10273-10014_multirif",
+    "124-10273-10016_multirif",
+    "124-10274-10357_multirif",
+    "124-10273-10022_multirif",
+    "124-10273-10008_multirif",
+    "124-10276-10483_multirif",
+    "124-10273-10018_multirif"
+  ]
+}

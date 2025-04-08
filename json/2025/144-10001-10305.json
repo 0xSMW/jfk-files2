@@ -1,0 +1,40 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "This document contains intelligence regarding foreign government's reactions to the Pope's trip to Jerusalem and mentions a conspiracy theory linking Kennedy's assassination to Zionism. Disclosing this could harm relations with France, Syria, Israel, and the Holy See and reveal intelligence-gathering methods. Specifically, the document states, \"a Damascus newspaper went so far as to wonder whether President KENNEDY'S assassination, the attempts made in the Council to reinstate the Jewish people, and finally the pontifical pilgrimage were not all part of a plot instigated by Zionism to facilitate the diversion of the waters of the Jordan.\"",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A NSA document details French and Syrian commentary on Pope Paul VI's trip to Jerusalem in December 1963, including Syrian reactions involving conspiracy theories related to President Kennedy's assassination.",
+  "summary_one_paragraph": "This NSA document, dated December 14, 1963, summarizes French and Syrian reactions to Pope Paul VI’s visit to Jerusalem. It reports on Syrian expressions of satisfaction regarding the Pope's interest in the Near East, coupled with concerns about Israel exploiting the pilgrimage for recognition. It also relays a Syrian conspiracy theory linking President Kennedy's assassination, efforts to reinstate the Jewish people, and the Pope’s pilgrimage as a Zionist plot to divert the waters of the Jordan, along with reporting the frank opinions of the Apostolic Internuncio on Israel's exploitation of the Pope's trip.",
+  "tags": [
+    "NSA",
+    "Pope Paul VI",
+    "Jerusalem",
+    "Syria",
+    "France",
+    "Kennedy Assassination",
+    "Conspiracy Theory",
+    "Zionism",
+    "Diplomacy"
+  ],
+  "title": "3/0/FRD/T1254-63 FRENCH AND SYRIAN COMMENTS ON POPE'S TRIP [R]",
+  "conspiracy": "The document relays a Syrian conspiracy theory linking President Kennedy's assassination to a Zionist plot to facilitate the diversion of the waters of the Jordan.",
+  "date": "1963-12-14",
+  "locations_mentioned": [
+    "France",
+    "Syria",
+    "Jerusalem",
+    "Israel",
+    "Rome",
+    "Tel Aviv"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Pope Paul VI",
+    "Mr. MURAYID",
+    "Monseignor PUNZOLO",
+    "SEBILLEAU"
+  ],
+  "recipient": "HCO",
+  "sender": "NSA"
+}

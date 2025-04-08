@@ -1,0 +1,34 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "Contains sensitive compartmented information.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A report detailing the Cuban government's reaction to President Kennedy's assassination, expressing concern over potential consequences for Cuba and accusing news agencies of linking Cuba and the Soviet Union to the crime.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA report, dated December 3, 1963, relays information from Havana concerning the Cuban government's reaction to the assassination of President Kennedy. Cuban authorities expressed concern about potential negative consequences for Cuba under a new U.S. president. Fidel Castro accused news agencies of attempting to connect Cuba and the Soviet Union to the assassination, and the Foreign Ministry issued a communique stating the alleged assassin unsuccessfully sought a visa to Cuba, which they claim was a reactionary attempt to implicate Cuba and the Soviet Union and to conceal the real masterminds behind the crime.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Cuba",
+    "Fidel Castro",
+    "Soviet Union",
+    "Reaction to Assassination",
+    "Diplomatic Activity",
+    "Brazil"
+  ],
+  "title": "3/0/BLD/T2027-63: CUBAN AUTHORITIES STATE VIEWS CONCERNING DEATH OF [R]",
+  "date": "1963-12-03",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "Rio de Janeiro",
+    "Brazil",
+    "United States"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Fidel Castro"
+  ],
+  "recipient": "HCF [R]",
+  "sender": "NSA"
+}

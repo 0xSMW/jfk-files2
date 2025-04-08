@@ -1,0 +1,27 @@
+{
+  "entity_name": "Samuel L. Devine",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "summary": "Based on the provided documents, Samuel L. Devine is mentioned in the context of the House Select Committee on Assassinations (HSCA). The documents primarily relate to administrative and legislative activities, including budget discussions, liaison activities with congressional committees (Senate Appropriations Committee, Senate Foreign Relations Committee), and interactions with the FBI. The documents also cover HSCA staff payroll records and related personnel information. While the documents mention Devine, they do not explicitly detail his role or specific involvement with the HSCA or the JFK assassination investigation. His name appears in the context of the Office of Legislative Counsel's journal entries, indicating his presence in legislative discussions and liaison activities related to the HSCA.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Senate Appropriations Committee",
+    "Senate Foreign Relations Committee",
+    "FBI",
+    "Office of Legislative Counsel"
+  ],
+  "significance": "The provided documents suggest Samuel L. Devine was likely involved in legislative or administrative aspects related to the House Select Committee on Assassinations, possibly through the Office of Legislative Counsel. However, the documents do not provide enough information to determine the specific significance of his role in the JFK assassination context.",
+  "document_ids": [
+    "104-10140-10420",
+    "180-10071-10000",
+    "180-10068-10324",
+    "180-10068-10346",
+    "180-10125-10172",
+    "104-10408-10078",
+    "180-10060-10459",
+    "180-10060-10480",
+    "180-10060-10439",
+    "180-10068-10341",
+    "104-10142-10055"
+  ]
+}

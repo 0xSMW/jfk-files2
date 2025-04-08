@@ -1,0 +1,22 @@
+{
+  "classification": "Administrative",
+  "document_type": "Letter",
+  "security": "The letter mentions that certain information, including NSA/CSS functions, activities, internal organizational designators, titles and names of employees, has been deleted pursuant to 5 U.S.C. 552(b)(3) and 50 U.S.C. 402 note (Public Law 86-36). It also states that other items were deleted under 5 U.S.C. 552(b)(6) to prevent unwarranted invasion of personal privacy and 5 U.S.C. 552(b)(1) because they are classified under Executive Order 12065 and DoD Regulation 5200.1-R. Disclosing these exemptions could potentially reveal sensitive NSA activities and organizational structures, thereby undermining national security.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This letter from the NSA to Mark Allen responds to a request for information regarding communications between the NSA and the House Select Committee on Assassinations concerning the JFK assassination, indicating that some information is being released while other parts are withheld due to Freedom of Information Act exemptions.",
+  "summary_one_paragraph": "On March 16, 1981, the NSA, through Eugene F. Yeates, Chief of the Office of Policy, sent a letter to Mark Allen in response to Allen's request for any NSA correspondence or records of communication with the U.S. House Select Committee on Assassinations related to the JFK assassination investigation; the NSA processed Allen's request under the Freedom of Information Act, releasing some information but withholding certain details pertaining to NSA/CSS functions, employee information, personal privacy, and classified national defense or foreign policy matters, citing specific legal exemptions, and advising Allen of the agency's appeal procedures.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "House Select Committee on Assassinations",
+    "Freedom of Information Act",
+    "FOIA",
+    "Information Disclosure",
+    "Records Request"
+  ],
+  "title": "INFO ON JFK ASSASSINATION INVESTIGATION",
+  "date": "1981-03-16",
+  "origin_agency": "NSA",
+  "recipient": "Mark Allen",
+  "sender": "NSA/OFC OF POLICY (Eugene F. Yeates)"
+}

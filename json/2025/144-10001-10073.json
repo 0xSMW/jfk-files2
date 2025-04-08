@@ -1,0 +1,32 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "Disclosing this document could reveal sensitive sources and methods used by the NSA to gather intelligence, particularly through diplomatic channels. The report's description of the reaction of political and official circles in Argentina to Kennedy's death, and the assessment that it would weaken the international policy of the West with regard to the USSR, highlights the sensitivity of such information. Directly quoting from the document, \"The first reaction from political and official circles shows concern over an event which they feel will considerably weaken in the next few months the international policy of the West particularly with regard to the USSR.\"",
+  "security_level": "TOP SECRET",
+  "summary": "An NSA report details the reaction from political and official circles in Argentina to President Kennedy's assassination, noting concerns that it would weaken Western foreign policy, particularly concerning the USSR.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA NSA report, dated December 2, 1963, summarizes initial reactions from Argentine political and official circles following President Kennedy's assassination. Sourced from Vienna, QUINTANA's message to the Buenos Aires Foreign Ministry indicates significant shock and unease, predicting a considerable weakening of Western international policy, especially concerning relations with the USSR, in the coming months. Further details were to be reported via air mail.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Argentina",
+    "Diplomatic Activity",
+    "Foreign Policy",
+    "USSR",
+    "QUINTANA",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "3/O/ARD/T483-63: Kennedy's Death Felt to Weaken Foreign Policy",
+  "date": "1963-12-02",
+  "locations_mentioned": [
+    "Argentina",
+    "Vienna",
+    "Buenos Aires"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "QUINTANA"
+  ],
+  "recipient": "HCF [R]",
+  "sender": "NSA"
+}

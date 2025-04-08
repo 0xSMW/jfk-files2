@@ -1,0 +1,31 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report, Textual Document",
+  "security": "The document contains details regarding intelligence gathering and reactions to Kennedy's assassination in Zaire, potentially revealing sources and methods. The document contains sensitive compartmented information and is classified SECRET, indicating that its disclosure could cause serious damage to national security.",
+  "security_level": "SECRET",
+  "summary": "This document details reactions to President Kennedy's assassination in Zaire, including reports of ill-intentioned individuals rejoicing and planning assassinations, as well as a message of condolence from the Stanleyville PROSUR to the American consul.",
+  "summary_one_paragraph": "This document, dated November 25, 1963, pertains to the reactions in Zaire following the assassination of President John F. Kennedy. It includes a message from Stanleyville to Leopoldville reporting that certain individuals were celebrating Kennedy's death and planning further assassinations, prompting a request for transportation to enable effective countermeasures. Additionally, it notes that the Stanleyville PROSUR sent condolences to the American consul on behalf of the personnel of the National Surete, indicating a formal expression of sympathy amidst the reported unrest.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Zaire",
+    "Reaction to Assassination",
+    "Intelligence",
+    "Condolences",
+    "PROSUR",
+    "National Surete"
+  ],
+  "title": "Reaction to Kennedy's Assassination",
+  "date": "1963-11-25",
+  "locations_mentioned": [
+    "Zaire",
+    "Stanleyville",
+    "Leopoldville"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John F. Kennedy"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

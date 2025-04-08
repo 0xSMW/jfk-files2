@@ -1,0 +1,37 @@
+{
+  "classification": "JFK ASSASSINATION SYSTEM",
+  "document_type": "PAPER, TEXTUAL DOCUMENT",
+  "security": "Revealing that the US was willing to \"forget entirely the incident with Cambodia since Cambodia has already denied having manifested any rejoicing over the death of (President) KENNEDY\" could damage international relations.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A top secret NSA document from January 16, 1964, indicates that the United States was willing to overlook an incident with Cambodia following President Kennedy's assassination, as Cambodia denied expressing any joy over his death.",
+  "summary_one_paragraph": "This NSA document, dated January 16, 1964, relays information that the U.S., according to Philippine Foreign Minister LOPEZ, was prepared to disregard an unspecified incident involving Cambodia after Cambodia denied celebrating President Kennedy’s death. The message details a conversation between LOPEZ, President MACAPAGAL, and American Ambassador STEVENSON in Manila, where the Philippine government suggested a joint statement to mend relations. President MACAPAGAL also offered to send a representative to Phnom Penh or receive one from His Royal Highness, while Ambassador FAROLAN was recalled from Saigon due to his son's death.",
+  "tags": [
+    "ASSASSINATION, JOHN KENNEDY",
+    "Cambodia",
+    "NSA",
+    "Diplomacy",
+    "Philippine Foreign Minister LOPEZ",
+    "President MACAPAGAL",
+    "Ambassador STEVENSON"
+  ],
+  "title": "3/0/CED/T21-64 US REPORTED WILLING TO FORGET CAMBODIAN INCIDENT [R]",
+  "date": "1964-01-16",
+  "locations_mentioned": [
+    "Cambodia",
+    "Manila",
+    "Phnom Penh",
+    "Saigon",
+    "Hong Kong"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "LOPEZ",
+    "MACAPAGAL",
+    "STEVENSON",
+    "FAROLAN",
+    "MONISSARA"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

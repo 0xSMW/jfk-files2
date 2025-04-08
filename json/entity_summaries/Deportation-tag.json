@@ -1,0 +1,22 @@
+{
+  "entity_name": "Deportation",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents highlight deportation as a significant action taken against individuals of interest to U.S. authorities, particularly those associated with organized crime. Samuel M. Giancana's deportation from Mexico in 1974, involving coordination between the FBI, CIA, and Mexican officials, illustrates the international cooperation involved in such actions. Similarly, Santo Trafficante Jr.'s potential deportation from Cuba in 1959, along with observations of his connections to other \"hoodlums,\" demonstrates the use of deportation as a tool against individuals perceived as threats. The mention of Chilean immigration and resettlement in the context of defector handling, while not directly a deportation, touches on related issues of international movement and government oversight. Across these documents, deportation appears as a measure employed to remove individuals deemed undesirable or dangerous from a particular jurisdiction, often involving collaboration between different agencies and countries.",
+  "key_connections": [
+    "Samuel M. Giancana",
+    "Santo Trafficante Jr.",
+    "FBI",
+    "CIA",
+    "Mexican officials",
+    "Cuban officials",
+    "Boroslaw Borowies",
+    "Chilean immigration"
+  ],
+  "significance": "In the context of the JFK assassination, deportation is relevant as a potential tool used against individuals who may have been involved in organized crime or other activities that could have led to the assassination. The documents suggest that individuals like Giancana and Trafficante, who were later subjects of interest in the JFK investigation, had prior experiences with deportation or the threat thereof, indicating the level of scrutiny they were under from law enforcement and intelligence agencies.",
+  "document_ids": [
+    "124-10210-10096",
+    "124-10204-10157",
+    "104-10177-10219"
+  ]
+}

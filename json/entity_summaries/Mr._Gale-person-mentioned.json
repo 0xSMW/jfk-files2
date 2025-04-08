@@ -1,0 +1,13 @@
+{
+  "entity_name": "Mr. Gale",
+  "entity_type": "person-mentioned",
+  "document_count": 0,
+  "summary": "Based on the provided documents, there is no mention of an entity named 'Mr. Gale'. Therefore, it is impossible to provide a summary about this entity based on the given information.",
+  "key_connections": [],
+  "significance": "Without any mention of 'Mr. Gale' in the provided documents, it's impossible to determine their significance in the JFK context.",
+  "document_ids": [
+    "124-10223-10077",
+    "124-10223-10073",
+    "124-10223-10087"
+  ]
+}

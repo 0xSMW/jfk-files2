@@ -1,0 +1,18 @@
+{
+  "entity_name": "Ernest Wall",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Ernest Wall is mentioned in the context of FBI responses to Congressional committee requests, specifically concerning COINTELPRO and an FBI informant within a legal service agency (New Orleans Legal Assistance Corps). The documents, all dated June 2, 1975, suggest that inquiries were made by committees like the Senate Select Committee on Intelligence Activities. The documents do not provide specific details about Ernest Wall's role or involvement, but his name appears in relation to the broader investigation of FBI activities and informants.",
+  "key_connections": [
+    "COINTELPRO",
+    "Senate Select Committee on Intelligence Activities",
+    "FBI informant",
+    "New Orleans Legal Assistance Corps"
+  ],
+  "significance": "The significance of Ernest Wall in the JFK context, based solely on these documents, is unclear. His name appears in connection to FBI responses to congressional inquiries about COINTELPRO and informants, suggesting a potential link to investigations or activities that might be relevant to understanding the broader context of the JFK assassination era, but the documents do not provide enough information to establish a direct connection.",
+  "document_ids": [
+    "124-10271-10003_multirif",
+    "124-10271-10011_multirif",
+    "124-10271-10299_multirif"
+  ]
+}

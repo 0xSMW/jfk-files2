@@ -1,0 +1,40 @@
+{
+  "classification": "JFK Assassination System",
+  "document_type": "Textual Document",
+  "security": "This document is classified as Top Secret DINAR, indicating highly sensitive information. The explicit instruction, \"NO FOREIGN DISSEM,\" highlights the risk of unauthorized disclosure to foreign entities. Revealing the Haitian government's message to Irving Davidson and their request to remove U.S. Embassy officials could damage U.S.-Haitian relations. The document mentions specific U.S. officials and their alleged actions ('Military Attache WARREN has talked with high-ranking officers of the Haitian Army in an effort to corrupt them'), which, if disclosed, could compromise diplomatic personnel and operations.",
+  "security_level": "Top Secret",
+  "summary": "A top-secret NSA document dated December 17, 1963, relays a message from the Haitian government, via Irving Davidson, requesting the recall of several U.S. Embassy officials due to alleged hostile actions and interference, and suggesting a change in U.S. Ambassador.",
+  "summary_one_paragraph": "This NSA document, dated December 17, 1963, outlines a confidential message from the Haitian government, delivered through Washington representative Irving Davidson, expressing the desire for the removal of U.S. Embassy officials John W. Warren, Stanley D. Moss, and John Hasec. The message claims these officials aroused hostile feelings, with allegations including Warren attempting to corrupt Haitian Army officers, Hasec behaving inappropriately, and Moss producing anti-government publications. Additionally, the Haitian government suggests replacing Ambassador Timmons to foster better relations and requests that Theard explain the U.S. position on recall and reprisals, keeping Haiti informed.",
+  "tags": [
+    "NSA",
+    "Haiti",
+    "Irving Davidson",
+    "Embassy Officials",
+    "Diplomatic Relations",
+    "Top Secret",
+    "JFK Assassination",
+    "Duvalier"
+  ],
+  "title": "[Restricted]",
+  "date": "1963-12-17",
+  "locations_mentioned": [
+    "Haiti",
+    "Washington D.C.",
+    "Port-au-Prince"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Irving Davidson",
+    "Francois Duvalier",
+    "Theard",
+    "Curtis",
+    "John W. Warren",
+    "Stanley D. Moss",
+    "John Hasec",
+    "Norman Warner",
+    "Ambassador Timmons",
+    "Kennedy"
+  ],
+  "recipient": "Unknown",
+  "sender": "NSA"
+}

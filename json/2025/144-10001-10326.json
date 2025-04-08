@@ -1,0 +1,37 @@
+{
+  "classification": "Assassination",
+  "document_type": "Paper, Textual Document",
+  "security": "This document details the travel arrangements of the South Korean Prime Minister to attend President Kennedy's funeral, a sensitive matter of international relations. Revealing these arrangements could have been used to compromise the Prime Minister's safety or create diplomatic issues. The document is classified Secret Moray and Secret Sabre, indicating its sensitivity.",
+  "security_level": "SECRET",
+  "summary": "This document outlines the travel plans for the Prime Minister of South Korea, KIM (YO'NG CHO'L), to attend President John F. Kennedy's funeral in Washington D.C., including arrival details and requests for meetings with Secretary Rusk and President Johnson.",
+  "summary_one_paragraph": "On November 24, 1963, a message was sent from the Vice Foreign Minister in Seoul to the Ambassador in Washington, indicating that South Korean Prime Minister KIM (YO'NG CHO'L) and Protocol Chief LEE CHONG U'I would be sent as special envoys to President Kennedy’s funeral. The envoys were scheduled to arrive in Washington at 0005 hours on November 25 via UA 758 after departing from Tokyo and stopping in Chicago. The message also requests arrangements for Prime Minister KIM to meet with Secretary Rusk and President Johnson during his visit.",
+  "tags": [
+    "JFK Assassination",
+    "Funeral Arrangements",
+    "South Korea",
+    "Diplomacy",
+    "Travel Itinerary",
+    "Secret Moray",
+    "Secret Sabre"
+  ],
+  "title": "2X/0/KOD/T439-63 ROK PRIME MINISTER T ATTEND FUNERAL [R]",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Seoul",
+    "Washington",
+    "New York",
+    "Tokyo",
+    "Chicago"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "KIM (YO'NG CHO'L)",
+    "LEE CHONG U'I",
+    "KIM (YONG SIK)",
+    "Dean Rusk",
+    "Lyndon B. Johnson"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

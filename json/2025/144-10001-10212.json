@@ -1,0 +1,37 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security": "This memo confirms that NSA reviewed exhibits for secret writing or codes at the request of Allan Dulles and other commission members, but found nothing. It also mentions NSA's access to foreign names not otherwise available to the Intelligence Community. Exposing these activities could highlight NSA's involvement in the investigation and raise concerns about data collection practices.",
+  "security_level": "TOP SECRET",
+  "summary": "A 1976 NSA memorandum details the agency's responses to inquiries from the Senate Select Committee (SSC) regarding its involvement with the Warren Commission, including a review of exhibits for secret writing and the provision of information about Cuban military alerts after the assassination.",
+  "summary_one_paragraph": "This top-secret memorandum from the NSA to the Principal Deputy Assistant Secretary of Defense (Intelligence), dated January 26, 1976, addresses Senate Select Committee queries about the NSA's assistance to the Warren Commission. It outlines that NSA reviewed exhibits for secret writing at the request of Mr. Allan Dulles, provided information on foreign personalities, and searched for Cuban or Soviet transmissions related to the assassination, finding no evidence of prior knowledge. The memo notes that NSA analysts did locate three product reports indicating that Cuban military forces went on alert immediately after the assassination, though there was no SIGINT evidence suggesting prior knowledge.",
+  "tags": [
+    "NSA",
+    "Warren Commission",
+    "JFK Assassination",
+    "Alton Quanbeck",
+    "Louis Tordella",
+    "Allan Dulles",
+    "Cuban Military Alert",
+    "SIGINT",
+    "Congressional Review",
+    "Senate Select Committee"
+  ],
+  "title": "SSC Queries Concerning Warren Commission",
+  "date": "1976-01-26",
+  "locations_mentioned": [
+    "Fort George G. Meade, Maryland",
+    "Cuba",
+    "Soviet Union"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Alton Quanbeck",
+    "Louis Tordella",
+    "Jim Johnson",
+    "Allan Dulles",
+    "David D. Lowman"
+  ],
+  "recipient": "DASD (INTEL)",
+  "sender": "DIRNSA-LOWMAN CONGRESSIONAL REVIEWS"
+}

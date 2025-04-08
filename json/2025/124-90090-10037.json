@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memo",
+  "security": "This document contains intelligence regarding potential military actions and named individuals involved in those actions. Revealing this information could compromise ongoing or future intelligence operations and endanger the individuals mentioned. Specifically, the document names Rolando Masferrer, Marquez Sterling, and others involved in organizing an invasion of Haiti.",
+  "security_level": "Top Secret",
+  "summary": "A memo from the National Security Agency (NSA) reports that Rolando Masferrer is organizing a group of Haitians and Cubans in Miami to invade Haiti, with connections to Marquez Sterling and former Batista officers.",
+  "summary_one_paragraph": "This Top Secret NSA memo, dated August 13, 1963, relays intelligence that Rolando Masferrer, a former Cuban Senator and anti-Castro leader, is organizing a group of Haitians and Cubans in Miami to invade Haiti. The operation reportedly involves Cuban presidential candidate Carlos Marquez Sterling, some former Batista officers, and the Haitians Cantave and Pierre Rigaud. The information was sourced from a Bureau source within the Dominican Republic.",
+  "tags": [
+    "NSA",
+    "Rolando Masferrer",
+    "Marquez Sterling",
+    "Haiti",
+    "Invasion",
+    "Miami",
+    "Batista",
+    "Dominican Republic",
+    "Cuban exiles"
+  ],
+  "title": "[Restricted]",
+  "date": "1963-08-13",
+  "locations_mentioned": [
+    "Miami",
+    "Haiti",
+    "Santo Domingo"
+  ],
+  "origin_agency": "National Security Agency",
+  "persons_mentioned": [
+    "Rolando Masferrer",
+    "Marquez Sterling",
+    "Cantave",
+    "Pierre Rigaud",
+    "Batista"
+  ],
+  "sender": "NSA"
+}

@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cable",
+  "security": "Revealing that the NSA is intercepting and translating communications from the Cuban ambassador could jeopardize intelligence gathering efforts and strain diplomatic relations. Directly quoting: 'CUBAN AMBASSADOR REPORTS JAPANESE DEMONSTRATION ON KENNEDY'S ASSASSINATION'.",
+  "security_level": "SECRET",
+  "summary": "A cable from the Cuban Ambassador in Tokyo to the Foreign Ministry in Havana reports on a demonstration by ultra-rightists accusing Cuba of instigating the assassination of John F. Kennedy, and the protective measures taken by Japanese police.",
+  "summary_one_paragraph": "On December 19, 1963, the NSA disseminated a SECRET cable (2X/0/CUD/T2609-63) originating from the Cuban Ambassador in Tokyo to the Foreign Ministry in Havana, detailing a demonstration organized by ultra-rightists at the Cuban embassy following John F. Kennedy's assassination. The demonstration involved accusations against the Cuban Revolution for instigating the assassination, prompting the Japanese police to provide armored cars and security at the embassy and residence; the Cuban representatives informed the Japanese Foreign Ministry they would not accept any protest notes, asserting that the assassination was perpetrated by ultrarightist and reactionary intellectuals.",
+  "tags": [
+    "NSA",
+    "Cuban Ambassador",
+    "Tokyo",
+    "Havana",
+    "John F. Kennedy",
+    "Assassination",
+    "Demonstration",
+    "Ultra-Rightists",
+    "Cuba"
+  ],
+  "title": "Cuban Ambassador Reports Japanese Demonstration on Kennedy's Assassination",
+  "date": "1963-12-19",
+  "locations_mentioned": [
+    "Tokyo",
+    "Havana",
+    "Japan",
+    "Cuba"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John F. Kennedy"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

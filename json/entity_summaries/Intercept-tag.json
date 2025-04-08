@@ -1,0 +1,19 @@
+{
+  "entity_name": "Intercept",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The term \"Intercept\" in these documents refers to intercepted messages, primarily by the National Security Agency (NSA), that potentially contain information related to a plot to assassinate President John F. Kennedy. The earliest mention is a March 25, 1963 intercept suggesting a possible assassination plot. Later, in 1978, a former Air Force Security Service member claimed to have intercepted a message related to the assassination before it occurred. In 1979, the NSA conducted a search for a 1963 intercept from Kirknewton, Scotland (USA-55), in response to a request from the House Assassinations Committee. The documents highlight the NSA's role in intercepting and analyzing communications, and the subsequent investigations and inquiries triggered by these intercepts in the context of the JFK assassination.",
+  "key_connections": [
+    "NSA",
+    "President Kennedy",
+    "House Assassinations Committee",
+    "David Christensen",
+    "Kirknewton, Scotland (USA-55)"
+  ],
+  "significance": "Intercepted messages are significant because they represent potential early warnings or evidence related to the assassination plot. The documents suggest that the NSA intercepted messages that may have contained information about the assassination before it occurred, leading to investigations and inquiries by various agencies and committees. The existence and content of these intercepts are crucial to understanding the intelligence landscape surrounding the assassination and whether any opportunities to prevent it were missed.",
+  "document_ids": [
+    "144-10001-10270",
+    "144-10001-10143",
+    "144-10001-10162"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "Revealing the NSA's signals intelligence activities, specifically monitoring diplomatic communications, could compromise their operational methods and sources. Disclosing that the NSA intercepted and processed a message about funding a journalist in Dallas on the day of the assassination reveals sensitive intelligence collection capabilities and targets. Quoting directly: 'REPRESENTATIVE OF ARBEITER-ZEITUNG TO BE IN DALLAS...Please have the honorary consulate in Dallas put $2ØØ at the disposal of editor FIELHAUER of the Arbeiter-Zeitung.'",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "An NSA report details an intercepted message from the Austrian Foreign Ministry to its embassy in Washington, requesting that the honorary consulate in Dallas provide $200 to editor FIELHAUER of the Arbeiter-Zeitung, who is expected to report in Dallas on November 23, 1963.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA report, dated November 26, 1963, originates from the NSA and is addressed to HCO [R]. It concerns intercepted communications (3/0/W/T1596-63) indicating that the Austrian Foreign Ministry instructed its embassy in Washington to arrange for the honorary consulate in Dallas to provide $200 to editor FIELHAUER of the Arbeiter-Zeitung. Fielhauer was expected to report in Dallas around November 23, 1963. The report includes a reference to Austrian diplomatic activity, and notes that the information is compartmented and requires originating agency determination for release.",
+  "tags": [
+    "NSA",
+    "ARBEITER-ZEITUNG",
+    "Austria",
+    "Diplomatic Activity",
+    "FIELHAUER",
+    "Dallas",
+    "Signals Intelligence",
+    "Honorary Consulate",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "3/0/W/T1596-63: REPRESENTATIVE OF ARBITER-ZEITUNG TO BE IN DALLAS [R]",
+  "date": "1963-11-26",
+  "locations_mentioned": [
+    "Dallas",
+    "Vienna",
+    "Washington"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "FIELHAUER"
+  ],
+  "recipient": "HCO [R]",
+  "sender": "NSA"
+}

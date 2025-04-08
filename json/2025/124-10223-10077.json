@@ -1,0 +1,49 @@
+{
+  "classification": "Administrative",
+  "document_type": "Paper, Textual Document",
+  "security": "This document contains information about an FBI investigation into John Roselli and his associates, including Judith Campbell and Sam Giancana. Releasing details of ongoing investigations, especially those involving sensitive subjects like organized crime and political figures, could compromise investigative methods, alert involved parties, and potentially endanger sources. Reviewing bank accounts and phone records falls under sensitive intelligence gathering, and disclosure could prompt countermeasures.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This FBI document details an investigation into John Roselli, his associate Judith E. Campbell, and Sam Giancana, focusing on bank account activity and phone calls.",
+  "summary_one_paragraph": "This FBI document, dated November 5, 1962, reports on an investigation into John Roselli, a known associate of Sam Giancana of Chicago, and Judith E. Campbell. The report indicates that Campbell's bank account has minimal activity and a small balance. A review of phone calls charged to Campbell's parents reveals numerous calls to the Armory Lounge in Forest Park, Illinois, a suspected hangout of Giancana, along with calls to a Chicago number for which the subscriber is unknown. Roselli was observed discussing politics at the Friar's Club on November 2.",
+  "tags": [
+    "FBI",
+    "John Roselli",
+    "Judith Campbell",
+    "Sam Giancana",
+    "Bank Account",
+    "Telephone Calls",
+    "Investigation",
+    "Organized Crime",
+    "Political Discussion"
+  ],
+  "title": "",
+  "date": "1962-11-05",
+  "locations_mentioned": [
+    "Los Angeles",
+    "Chicago",
+    "Forest Park, Illinois"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Roselli",
+    "Judith E. Campbell",
+    "Sam Giancana",
+    "Mr. Tolson",
+    "Mr. Belmont",
+    "Mr. Mohr",
+    "Mr. Casper",
+    "Mr. Callahan",
+    "Mr. Conrad",
+    "Mr. DeLoach",
+    "Mr. Evans",
+    "Mr. Gale",
+    "Mr. Rosen",
+    "Mr. Sullivan",
+    "Mr. Tavel",
+    "Mr. Trotter",
+    "Miss Holmes",
+    "Miss Gandy"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, LA"
+}

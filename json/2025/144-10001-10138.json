@@ -1,0 +1,44 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "This document reveals specific NSA capabilities and targets, including SIGINT collection on Cuba and the use of search criteria like Oswald's name and address book entries. Disclosing these details could inform adversaries of NSA's surveillance capabilities and methods, compromising ongoing intelligence operations and enabling them to evade detection. Quoting directly: 'NSA initiated a large-scale manual and machine review of available SIGINT, including all U.S./Cuba traffic...A computer search was initiated using Oswald's name as the minimum for research criteria. Additionally, all traffic between Cuba/New Orleans and Cuba/Dallas was manually reviewed.'",
+  "security_level": "TOP SECRET",
+  "summary": "This NSA memorandum, dated June 15, 1978, details the actions taken by the NSA to locate information related to the assassination of President Kennedy, summarizing multiple reviews of NSA files since 1963 and the materials located as a result.",
+  "summary_one_paragraph": "Authored by Eugene F. Yeates, Chief D1, this NSA memo recounts numerous reviews conducted since November-December 1963 to identify data relevant to President Kennedy's assassination. These reviews included SIGINT analysis, computer searches using Oswald's name, manual review of Cuba/New Orleans and Cuba/Dallas traffic, Warren Commission requests, and Senate Select Committee inquiries. The memo states that despite extensive reviews, no intelligence material revealing or suggesting Cuban involvement in the assassination of President Kennedy was found, though some materials of potential relevance were located, like Cuban diplomatic and military messages, and information related to Jim Garrison's investigation.",
+  "tags": [
+    "SIGINT",
+    "NSA",
+    "Oswald, Lee",
+    "Cuba",
+    "Assassination",
+    "Warren Commission",
+    "FOIA",
+    "Cuban Intelligence",
+    "Jim Garrison",
+    "David Ferrie"
+  ],
+  "title": "Actions Taken by NSA to Locate Information Related to the Assassination",
+  "conspiracy": "The memo discusses Cuban messages regarding Oswald's attempt to travel to Moscow and Cuban military alerts following the assassination. It also mentions a Cuban intelligence message about the assassination of Antonio Veciana and a message concerning a plan to assassinate an USSR dignitary in Cuba, possibly linking it to the CIA. These details could fuel speculation regarding Cuban involvement or potential conspiracies related to the assassination.",
+  "date": "1978-06-15",
+  "locations_mentioned": [
+    "Cuba",
+    "New Orleans",
+    "Dallas",
+    "Moscow",
+    "Puerto Rico"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Eugene F. Yeates",
+    "Lee Harvey Oswald",
+    "Allan Dulles",
+    "Marina Oswald",
+    "Jack Ruby",
+    "Earl Ruby",
+    "Antonio Veciana",
+    "Raul Castro Ruz",
+    "Jim Garrison",
+    "David W. Ferrie"
+  ],
+  "sender": "Yeates, Eugene F."
+}

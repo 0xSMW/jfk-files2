@@ -1,0 +1,35 @@
+{
+  "classification": "Liaison",
+  "document_type": "Paper, Textual Document",
+  "security": "This document discusses communications infrastructure and agreements, which could reveal sensitive information about international communications and intelligence sharing. The document references specific communication protocols (e.g., JADA-3, WS, TUN-27589) and relay technologies, which could expose current or past communications methods. Additionally, the suggestions for statements on outer space could impact sensitive diplomatic relations.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "This document contains suggestions from Tokyo regarding a statement on the outer space issue to the United Nations, including concerns about overly strong language, inaccuracies, and corrections to rocket specifications.",
+  "summary_one_paragraph": "Dated December 6, 1963, this TOP SECRET UMBRA document from the National Security Agency (NSA) relays suggestions from Tokyo concerning a statement to be made before the United Nations on the outer space issue; the message, originating from OHIRA in Tokyo on December 4, includes feedback on a prior communication (Nr. 1962((A))). The suggestions involve toning down language in Paragraph 39, correcting inaccuracies in Paragraph 30 by referencing a previous statement by Mr. OKAZAKI, and amending technical details related to Kappa and Lambda rockets in Paragraph 33. It also provides updates on the Kagoshima Space Center's Lambda test and successful television relay tests between Japan and the U.S., including the somber note that the assassination of President Kennedy was conveyed during the second test on November 23.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Outer Space",
+    "United Nations",
+    "Tokyo",
+    "Japanese Delegation",
+    "Communication",
+    "Rocket Specifications",
+    "Technical Corrections"
+  ],
+  "title": "3/0/JAD/T1900-63 TOKYO SUGGESTIONS FOR STATEMENT ON OUTER SPACE ISSUE [R]",
+  "date": "1963-12-06",
+  "locations_mentioned": [
+    "Tokyo",
+    "Japan",
+    "United States",
+    "Kagoshima Space Center"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "OHIRA",
+    "OKAZAKI"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

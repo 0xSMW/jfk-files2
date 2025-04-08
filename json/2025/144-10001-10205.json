@@ -1,0 +1,29 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "This memo discusses the sensitivity of SIGINT (signals intelligence) and the need for agreed-upon procedures for sharing it with Congressional committees, particularly those without direct oversight responsibilities. Providing SIGINT without proper context, or without an MOU in place, could lead to misinterpretations or leaks, potentially damaging national security. The memo references a past incident where NSA and CIA estimates of Saudi oil exports differed, leading to public criticism: \"...a substantial discrepancy between CIA and NSA estimates of Saudi crude oil exports in the first quarter of 1977.\" This charge was repeated by Mr. Levinson in an article by Seymour M. Hersh appearing in the New York Times of December 25, 1977.",
+  "security_level": "TOP SECRET",
+  "summary": "A 1978 NSA memorandum from the Director to the Department of Defense General Counsel addresses pending congressional requests for information and the need for established procedures for providing signals intelligence to non-oversight committees.",
+  "summary_one_paragraph": "This TOP SECRET memorandum, dated January 5, 1978, from the Director of the NSA to the Department of Defense General Counsel, Deanne Siemer, concerns pending congressional requests for NSA information, specifically from Senator George McGovern, Congressman Louis Stokes, and Mr. Ira Nordlicht. It addresses the issue of providing signals intelligence to congressional committees without traditional oversight of intelligence matters and highlights the need for a formal agreement between the executive and legislative branches to govern the release of sensitive cryptologic information. The memo recommends how to respond to each request, emphasizing the importance of sanitizing information and providing it in the context of all-source intelligence to avoid misinterpretations, referencing a past incident where differing agency estimates led to public criticism.",
+  "tags": [
+    "NSA",
+    "Congressional Requests",
+    "Signals Intelligence",
+    "SIGINT",
+    "Oversight Committees",
+    "Deanne Siemer",
+    "George McGovern",
+    "Louis Stokes",
+    "Ira Nordlicht",
+    "Executive-Legislative Agreement",
+    "Cuban Intelligence",
+    "South Africa",
+    "Rhodesia",
+    "Oil Flow",
+    "Warren Commission"
+  ],
+  "title": "Pending Congressional Requests",
+  "date": "1978-01-05",
+  "origin_agency": "NSA",
+  "sender": "DIRNSA (Vice Admiral B. R. Inman)Director, NSA/Chief, CSS (Central Security Service) Fort George G. Meade, Maryland 20755 Serial: N0015 Copy Furnished: Col. Stephen Harrick OASD (LA) ima M/R: a. b. c. d. JULIA WETZEL, U2, 316ls, 4 Jan 78 bj LAO cc: DIR V D/DIR G DDO EX REG Exec DDO L221 ADLA NCRDEF U1 D4 U2 M/R: a. b. c. d. JULIA WETZEL, U2, 316ls, 4 Jan 78 bj LAO Classified by DIANSA/CROSS (NSA/CSSM 122-21 Exempt from GDS, EO 11332, Cat 2 Declassify Upon Notifestion by the Originster TOP SCOLI Doc ID: 6879110 - Ref ID: A4269469 Serial: N0015 Released pursuant to Executive Order 14176, DECLASS. OF RECORDS CONC. THE ASSASSINATIONS OF PRES. JFK, SEN. RFK, AND THE REV. DR. MLK, JR."
+}

@@ -1,0 +1,20 @@
+{
+  "entity_name": "Al Miller",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, there appears to be a misunderstanding in the entity name. The documents consistently refer to Alan G. Sentinella, a retired FBI Special Agent, not Al Miller. Alan G. Sentinella testified before the Senate Select Committee (SSC) on May 21, 1975, regarding investigations into Martin Luther King Jr., the Southern Christian Leadership Conference (SCLC), and Stanley Levison. His testimony focused on electronic surveillance and potential communist influence related to these individuals and organizations. The documents are memoranda summarizing his testimony and his own recollection of it.",
+  "key_connections": [
+    "Alan G. Sentinella",
+    "Martin Luther King Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "Stanley Levison",
+    "Senate Select Committee (SSC)"
+  ],
+  "significance": "The provided documents do not indicate any involvement or significance of Al Miller in the JFK assassination context. The documents focus on Alan G. Sentinella's testimony regarding investigations into Martin Luther King Jr., the SCLC, and Stanley Levison.",
+  "document_ids": [
+    "124-10276-10482_multirif",
+    "124-10273-10014_multirif",
+    "124-10274-10357_multirif",
+    "124-10276-10483_multirif"
+  ]
+}

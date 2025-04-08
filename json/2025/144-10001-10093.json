@@ -1,0 +1,42 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This document contains sensitive intelligence regarding diplomatic activities and reactions to the JFK assassination. Releasing specific details about sources (e.g., '[M]' in the FR Havana line) or intelligence methods could compromise ongoing operations and relationships with foreign governments. As stated in the document properties: \"CONTAINS SENSITIVE COMPARTMENTED INFORMATION.\"",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A Portuguese intelligence report details Fidel Castro's reaction to President Kennedy's assassination, noting his apparent fear of potential U.S. retaliation and efforts to deflect blame by suggesting the assassination was the work of ultra-rightists or militarists seeking war with Cuba and the Soviet Union.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA report, dated December 5, 1963, relays Portuguese commentary on Fidel Castro's reaction to President Kennedy's assassination. The report indicates that Castro appeared frightened by the event, fearing it would provoke a U.S. invasion of Cuba. Castro attempted to refute accusations that the assassin was a Marxist or Castroite, instead suggesting that the assassination was a plot by ultra-reactionaries or militarists to create a pretext for war. The report also notes that counter-revolutionary circles within Cuba were not particularly dismayed by Kennedy's death due to their disappointment with his perceived 'weakness' towards Cuba.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Fidel Castro",
+    "Cuba",
+    "Portugal",
+    "Diplomatic Activity",
+    "Reaction to Assassination",
+    "Lee Harvey Oswald",
+    "CIA",
+    "FBI",
+    "Propaganda"
+  ],
+  "title": "3/0/POD/T1463-63: Portuguese Comment on Castro's Reaction to Death of Kennedy",
+  "conspiracy": "The report mentions Castro's speculation that Lee Harvey Oswald may have been supported by right-wing forces or even be an agent of the CIA or FBI and that Kennedy's assassination was part of a plot by American militarists to provoke war. Specifically: 'This caused CASTRO to wonder whether the assassin was not the mere instrument of a monstrous plot of American militarists who, by eliminating KENNEDY, would put JOHNSON in a postion from which there would be only one way out: to drain off anti-Cuba hysteria by an action of declared war.'",
+  "date": "1963-12-05",
+  "locations_mentioned": [
+    "Portugal",
+    "Cuba",
+    "Havana",
+    "Lisbon",
+    "United States",
+    "Russia",
+    "Miami"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "John F. Kennedy",
+    "Lee Harvey Oswald",
+    "Lyndon B. Johnson"
+  ],
+  "recipient": "HCF [R]",
+  "sender": "NSA"
+}

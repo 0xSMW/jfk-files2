@@ -1,0 +1,23 @@
+{
+  "entity_name": "Mikoyan",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Based on the provided documents, Anastas Mikoyan is mentioned in the context of diplomatic activities and reactions following President Kennedy's death. He is specifically noted in a Polish intelligence report discussing the impact of Kennedy's death on US policy, where he is mentioned as being involved in meetings within the UN alongside figures like De Gaulle and Erhard. The documents do not provide extensive details about Mikoyan's direct involvement in events related to the JFK assassination, but rather place him within the broader sphere of international diplomatic responses and discussions following the event. Other documents focus on Cuba and US foreign policy, but Mikoyan's role is limited to the UN meeting mentioned in one document.",
+  "key_connections": [
+    "De Gaulle",
+    "Erhard",
+    "Fidel Castro",
+    "Robert Kennedy",
+    "President Johnson"
+  ],
+  "significance": "Mikoyan's significance in the JFK context, based on these documents, is primarily as a participant in international diplomatic discussions following Kennedy's assassination. His presence in meetings with other world leaders at the UN reflects the global attention and concern surrounding the event and its potential impact on international relations. However, the documents do not suggest any direct involvement or specific role beyond this diplomatic context.",
+  "document_ids": [
+    "144-10001-10362",
+    "144-10001-10084",
+    "144-10001-10102",
+    "144-10001-10103",
+    "144-10001-10367",
+    "206-10001-10011",
+    "104-10306-10020"
+  ]
+}

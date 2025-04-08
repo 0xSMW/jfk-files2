@@ -1,0 +1,33 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Paper, Textual Document",
+  "security": "This document contains diplomatic correspondence expressing condolences, which, if disclosed prematurely or without context, could potentially strain diplomatic relations. It also refers to classified operational codes (MORAY, SABRE) used by the NSA. Quoting directly: “SECRET MORAY,” “SECRET SABRE,” and the presence of routing indicators and message numbers indicate that the release of this information could jeopardize intelligence operations and security protocols.",
+  "security_level": "SECRET",
+  "summary": "A message from Nguyen Ngoc Tho, representing the Provisional Government of South Vietnam, expressing condolences to President Lyndon B. Johnson and the American people following the death of President John F. Kennedy.",
+  "summary_one_paragraph": "This document, dated November 23, 1963, consists of a message from Nguyen Ngoc Tho in Saigon to President Lyndon B. Johnson in Washington, D.C., conveying condolences from the Provisional Government of South Vietnam following President John F. Kennedy's assassination. The message emphasizes Kennedy's role in promoting friendship, liberty, cooperation, and peace, while expressing solidarity with the United States government and its people during this tragedy.",
+  "tags": [
+    "NSA",
+    "John F. Kennedy",
+    "Assassination",
+    "Condolences",
+    "Nguyen Ngoc Tho",
+    "Lyndon B. Johnson",
+    "South Vietnam",
+    "MORAY",
+    "SABRE"
+  ],
+  "title": "2X/0/VND/T50-63 Condolences on President's Death [R]",
+  "date": "1963-11-23",
+  "locations_mentioned": [
+    "Saigon",
+    "Washington"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Lyndon B. Johnson",
+    "Nguyen Ngoc Tho"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

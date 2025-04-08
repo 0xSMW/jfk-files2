@@ -1,0 +1,51 @@
+{
+  "classification": "Administrative",
+  "document_type": "Teletype",
+  "security": "Revealing ongoing FBI investigations and surveillance methods could compromise law enforcement efforts and endanger sources.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "FBI teletype from SAC, Pittsburgh, regarding Gabriel Mannarino's plans to purchase or lease the Anchorage Road House in anticipation of an administration change and move his gambling operation there.",
+  "summary_one_paragraph": "On August 8, 1961, the SAC (Special Agent in Charge) of the Pittsburgh FBI office sent a teletype to the Director of the FBI, relaying information from informant PG 621-C that Gabriel Mannarino, also known as Samuel Mannarino, was negotiating to purchase or lease the Anchorage Road House in Verona, PA. The purpose of this acquisition was to relocate his gambling operation in anticipation of a possible administration change in New Kensington, PA. The teletype notes that the subjects should be considered armed and dangerous.",
+  "tags": [
+    "FBI",
+    "Gabriel Mannarino",
+    "Samuel Mannarino",
+    "Gambling",
+    "Anchorage Road House",
+    "Informant",
+    "Administration Change",
+    "New Kensington, PA",
+    "Pittsburgh",
+    "Verona, PA",
+    "Allegheny River Blvd",
+    "Sandy Creek Road"
+  ],
+  "title": "",
+  "date": "1961-08-08",
+  "locations_mentioned": [
+    "Pittsburgh",
+    "Verona, PA",
+    "New Kensington, PA",
+    "Allegheny River Blvd",
+    "Sandy Creek Road"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Gabriel Mannarino",
+    "Samuel Mannarino",
+    "Tolson",
+    "Belmont",
+    "Mohr",
+    "Callahan",
+    "Conrad",
+    "DeLoach",
+    "Evans",
+    "Male",
+    "Rosen",
+    "Sullivan",
+    "Tavel",
+    "Trotter",
+    "Ingram",
+    "Gandy"
+  ],
+  "sender": "SAC, PG (Pittsburgh Field Office, FBI)"
+}

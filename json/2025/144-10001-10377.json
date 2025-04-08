@@ -1,0 +1,34 @@
+{
+  "classification": "Oswald",
+  "document_type": "Textual Document",
+  "security": "This document contains intercepted communications between individuals in West Germany and the USSR referencing Lee Harvey Oswald. The content reveals intelligence-gathering activities and code names, the exposure of which could compromise intelligence sources and methods. Specifically, referencing the actual transcript of the telephone conversation referencing Oswald in telephone conversation between West Germany and USSR.",
+  "security_level": "SECRET",
+  "summary": "An NSA document containing references to Lee Harvey Oswald in a telephone conversation intercepted between West Germany and the USSR in January 1964; the discussion mentions Oswald's time in Minsk and possibly a related application to a foreign ministry.",
+  "summary_one_paragraph": "This document from the National Security Agency (NSA), dated January 3, 1964, details intercepted telephone conversations between an individual (Mr. Leo) in Frankfurt, West Germany, and another in Moscow regarding Lee Harvey Oswald. The conversation references Oswald's presence in Minsk and mentions an application possibly under consideration by a foreign ministry, with both parties discussing the implications of these facts; the intercepted call was translated by an auditor, and its audibility was noted as very poor, leading to reservations about the translation's accuracy.",
+  "tags": [
+    "NSA",
+    "Lee Harvey Oswald",
+    "Telephone Intercept",
+    "West Germany",
+    "USSR",
+    "Minsk",
+    "Foreign Ministry"
+  ],
+  "title": "References to Oswald in Telephone Conversation Between West Germany and [R]",
+  "conspiracy": "The document provides details about a telephone conversation that mentions Oswald's time in Minsk. This could potentially contribute to a better understanding of Oswald's activities and connections before the assassination, possibly indicating an attempt to investigate Oswald.",
+  "date": "1964-01-03",
+  "locations_mentioned": [
+    "West Germany",
+    "USSR",
+    "Frankfurt",
+    "Moscow",
+    "Minsk"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Oswald, Lee Harvey",
+    "Mr. Leo"
+  ],
+  "recipient": "ROMEO/CHARLIE",
+  "sender": "USM-701"
+}

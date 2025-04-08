@@ -1,0 +1,39 @@
+{
+  "classification": "Administrative",
+  "document_type": "Teletype",
+  "security": "This document contains information about ongoing FBI investigations and sources. Releasing details about specific individuals and locations associated with these investigations could jeopardize the safety of sources and compromise ongoing law enforcement efforts. For example, mentioning \"SOURCE AT HAL ROACH STUDIOS\" and their statements could reveal their identity. Revealing details about ongoing investigations could hamper law enforcement efforts.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A teletype from the Los Angeles FBI office to the Director, FBI, regarding John Roselli's return to Los Angeles and potential involvement in disrupting a movie filming in Las Vegas involving Hal Roach, Jr., and Carroll Case, allegedly at the behest of Frank Sinatra.",
+  "summary_one_paragraph": "On October 24, 1962, the FBI's Los Angeles office sent an urgent teletype to the Director, FBI, reporting that John Roselli, also known as Anti-Racketeering AKA AR, was planning to return to Los Angeles from either October 24 or 25. An employee at the Friars Club in Beverly Hills provided this information. A source at Hal Roach Studios in Culver City, California, stated that Johnny Mashio, who had been working with hotels in Las Vegas to film floor shows in casinos, was no longer on good terms with Hal Roach, Jr., and was considering working with Roselli again to film a movie. The source also claimed that Frank Sinatra had instructed Roselli to sabotage Hal Roach, Jr., and Carroll Case’s movie production in Las Vegas.",
+  "tags": [
+    "FBI",
+    "John Roselli",
+    "Frank Sinatra",
+    "Hal Roach, Jr.",
+    "Carroll Case",
+    "Las Vegas",
+    "Anti-Racketeering",
+    "Movie Filming",
+    "Friars Club",
+    "Beverly Hills",
+    "Hal Roach Studios",
+    "Johnny Mashio"
+  ],
+  "title": "Regarding John Roselli's return to Los Angeles and potential disruption of movie filming in Las Vegas",
+  "date": "1962-10-24",
+  "locations_mentioned": [
+    "Los Angeles",
+    "Beverly Hills",
+    "Culver City",
+    "Las Vegas"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Roselli",
+    "Frank Sinatra",
+    "Hal Roach, Jr.",
+    "Carroll Case",
+    "Johnny Mashio"
+  ],
+  "sender": "SAC, LA (Special Agent in Charge, Los Angeles Field Office)"
+}

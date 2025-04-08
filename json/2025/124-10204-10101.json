@@ -1,0 +1,36 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Airtel, Letterhead Memorandum",
+  "security": "Revealing details about surveillance on Gus Alex, an alleged member of the Chicago underworld, and sharing this information with Swiss authorities could jeopardize intelligence sources and methods. Specifically, the document mentions 'appropriate doverage in past years through Swiss authorities' and the sharing of photos and passport data, which could expose intelligence-gathering techniques and compromise future cooperation.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "The FBI is working to confirm Gus Alex's identity with Swiss authorities who have banned him from entry. The Chicago FBI office sends a letterhead memorandum, photos, and passport information to support the claim that Gus Alex, a known Chicago hoodlum, is the same individual subject to the Swiss ban.",
+  "summary_one_paragraph": "In November 1965, the FBI investigated Gus Alex, a Chicago hoodlum, after Swiss authorities questioned his identity following an entry ban appeal. The Director, FBI, requested more detailed information from the SAC, Chicago, to confirm Alex's identity, including arrest records, travel dates, and passport data. In response, the SAC, Chicago, submitted a letterhead memorandum with supporting evidence, including photos of Alex from a 1959 Los Angeles arrest, a 1963 photo with Suzanne Fueger in Switzerland, and a copy of his 1959 passport, aiming to assist Swiss authorities in verifying that the Gus Alex banned from Switzerland is the same individual involved in Chicago's organized crime scene.",
+  "tags": [
+    "FBI",
+    "Gus Alex",
+    "Swiss Entry Ban",
+    "Chicago Hoodlum",
+    "Organized Crime",
+    "Suzanne Fueger",
+    "De Luxe Cigarette Service"
+  ],
+  "title": "GUS ALEX, aka ST-101",
+  "date": "1965-11-04",
+  "locations_mentioned": [
+    "Chicago, Illinois",
+    "Evergreen Park, Illinois",
+    "Niles, Illinois",
+    "Los Angeles, California",
+    "Switzerland"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Gus Alex",
+    "Suzanne Fueger",
+    "Edward Vogel",
+    "Nathan \"Butch\" Ladon",
+    "William Duffy"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, CG"
+}

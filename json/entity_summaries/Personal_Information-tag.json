@@ -1,0 +1,20 @@
+{
+  "entity_name": "Personal Information",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents reference personal information related to individuals connected to the JFK assassination or investigations. This includes payroll records for Burton A. Chardak, who worked for the House Select Committee on Assassinations (HSCA), a personal information form for Santiago Alvarez Fernandez, a Cuban citizen, and documents related to Lee Harvey and Marina Oswald provided by the Social Security Administration to the HSCA. The personal information spans various types, including employment history, salary, residency, social security details, and vital records like birth, marriage, and death certificates. Tax return information is explicitly withheld due to legal restrictions.",
+  "key_connections": [
+    "Burton A. Chardak",
+    "House Select Committee on Assassinations (HSCA)",
+    "Santiago Alvarez Fernandez",
+    "Lee Harvey Oswald",
+    "Marina Oswald",
+    "Social Security Administration"
+  ],
+  "significance": "Personal information is crucial for identifying individuals involved in or connected to the JFK assassination, understanding their backgrounds, roles, and potential motives. It also highlights the investigative processes and the types of records examined by committees like the HSCA. The withholding of certain personal information, such as tax returns, underscores the legal and privacy considerations involved in such investigations.",
+  "document_ids": [
+    "180-10068-10322",
+    "104-10162-10120",
+    "180-10072-10186"
+  ]
+}

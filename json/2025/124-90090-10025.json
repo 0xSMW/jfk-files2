@@ -1,0 +1,35 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Memo",
+  "security": "Disclosure of the communication between Ambassador Auguste and President Toure could harm diplomatic relations or reveal intelligence gathering methods. The memo is classified Top Secret, indicating that it contains highly sensitive information that could cause serious damage to national security if disclosed.",
+  "security_level": "Top Secret",
+  "summary": "A memo from Ambassador Auguste in New York to President Francois Duvalier in Port-au-Prince, Haiti, regarding President Sekou Toure of Guinea's planned visit to Haiti in October 1960.",
+  "summary_one_paragraph": "This Top Secret memo, dated October 19, 1960, originates from the National Security Agency (NSA) and is addressed from Ambassador Auguste in New York to President Francois Duvalier in Port-au-Prince. It concerns President Sekou Toure of Guinea's intention to visit Haiti with seven members of his government during the first half of October. Ambassador Auguste seeks confirmation from President Duvalier regarding the acceptance of this visit, noting that further details would be provided by telephone.",
+  "tags": [
+    "NSA",
+    "Haiti",
+    "Guinea",
+    "Sekou Toure",
+    "Francois Duvalier",
+    "Diplomacy",
+    "Cold War",
+    "Rolando Masferrer"
+  ],
+  "title": "[Restricted]",
+  "date": "1960-10-19",
+  "locations_mentioned": [
+    "New York",
+    "Port-au-Prince",
+    "Haiti",
+    "Guinea"
+  ],
+  "origin_agency": "FBI, National Security Agency (NSA)",
+  "persons_mentioned": [
+    "Rolando Masferrer",
+    "Auguste",
+    "Francois Duvalier",
+    "Sekou Toure"
+  ],
+  "recipient": "Francois Duvalier",
+  "sender": "NSA"
+}

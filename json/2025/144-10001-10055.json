@@ -1,0 +1,32 @@
+{
+  "classification": "Mexico",
+  "document_type": "Report",
+  "security": "This document contains information that is classified and compartmented, indicated by the presence of the term “SECRET” and the comment “CONTAINS SENSITIVE COMPARTMENTED INFORMATION.” Releasing such information could potentially reveal sensitive intelligence sources or methods, compromising national security.",
+  "security_level": "SECRET",
+  "summary": "A report from the NSA details Mexico's official reaction to the assassination of President John F. Kennedy, including a declaration of three days of national mourning by President Adolfo Lopez Mateos.",
+  "summary_one_paragraph": "This NSA report, dated November 23, 1963, documents the official response of the Mexican government to the assassination of U.S. President John F. Kennedy. President Adolfo Lopez Mateos declared a three-day period of national mourning, during which all forms of entertainment and social gatherings were suspended, and the national flag was flown at half-mast from November 23rd to 25th.",
+  "tags": [
+    "NSA",
+    "Mexico",
+    "Reaction to Assassination",
+    "Diplomatic Activity",
+    "Adolfo Lopez Mateos",
+    "John F. Kennedy",
+    "National Mourning"
+  ],
+  "title": "2X/0/MXN/T01-63: MEXICO DECLARES PERIOD OF NATIONAL MOURNING FOR [R]",
+  "date": "1963-11-23",
+  "locations_mentioned": [
+    "Mexico",
+    "Mexico City",
+    "United States of America"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Adolfo Lopez Mateos",
+    "John F. Kennedy",
+    "Fernando Lucio"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

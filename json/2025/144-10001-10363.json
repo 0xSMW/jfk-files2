@@ -1,0 +1,42 @@
+{
+  "classification": "Assassination, John Kennedy",
+  "document_type": "PAPER, TEXTUAL DOCUMENT",
+  "security": "This document references highly sensitive intelligence matters, specifically regarding communications between Uganda and Ghana concerning a coup in Zanzibar and mentions of possible Cuban involvement, which were of interest due to their implications in the context of President Kennedy’s assassination. The document is marked TOP SECRET UMBRA and states: 'NOT TO BE REPRODUCED IN ANY FORM WITHOUT PRIOR CONSULTATION WITH THE RELEASING AUTHORITY OF THE NATIONAL SECURITY AGENCY ************NO FOREIGN DISSEM*************'.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A NSA document details a message from an Uganda official giving his version of a coup d'état in Zanzibar, with commentary drawing parallels to the assassination of President Kennedy and questioning potential Cuban involvement.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA document from the NSA, dated January 21, 1964, contains a message relaying an Uganda official's perspective on the Zanzibar coup d'état. The message, sent from Kampala to Accra, includes the Uganda Minister of Information's statement questioning the methods used in the Zanzibar revolution, drawing parallels to the Kennedy assassination and noting Western press speculation about Cuban or Communist involvement. The official also questions the likelihood of Cuban involvement, given the former Zanzibar government's friendly relations with Cuba, contrasting this with British and American safety during the coup, and implying potential external influence.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Uganda",
+    "Ghana",
+    "Zanzibar",
+    "Coup D'état",
+    "Cuban involvement",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "3/0/Z-GHD/T73-64 UGANDA OFFICIAL GIVES HIS VERSION OF GOUP D-ETAT IN Z [R]",
+  "conspiracy": "The document contains a statement from a Uganda official drawing parallels between the Zanzibar coup and the JFK assassination, specifically noting how the Western press linked Cubans and Communists to Kennedy's death, suggesting potential external influence or conspiracy behind both events.",
+  "date": "1964-01-21",
+  "locations_mentioned": [
+    "Uganda",
+    "Zanzibar",
+    "East Africa",
+    "Kampala",
+    "Accra",
+    "Dar-es-Salaam"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Sultan of Zanzibar",
+    "BUSUMTWI-SAM",
+    "Osagyefo",
+    "Mr. Sullivan",
+    "Mr. Babu",
+    "Mr. Karume",
+    "Mr. Kisasa"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

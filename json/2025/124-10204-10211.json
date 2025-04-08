@@ -1,0 +1,35 @@
+{
+  "classification": "Liaison",
+  "document_type": "AIRTEL/LHM",
+  "security": "This document contains law enforcement sensitive information. Sharing information about the movements and contacts of Santo Trafficante, Jr. could alert him to ongoing investigations, potentially jeopardizing law enforcement efforts and allowing him to evade surveillance.  'This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and is loaned to your agency; it and its contents are not to be distributed outside your agency.'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "The FBI Legat in Paris forwards a Liaison Memorandum (LHM) regarding Santo Trafficante, Jr.'s travel to Madrid and Lisbon in November 1966, as reported by Spanish and Portuguese security agencies.",
+  "summary_one_paragraph": "On December 5, 1966, the FBI Legat in Paris transmitted an AIRTEL forwarding five copies of a Liaison Memorandum (LHM) concerning Santo Trafficante, Jr.'s activities in Spain and Portugal.  The LHM details that Trafficante arrived in Madrid on November 23, 1966, where he met with Cuban attorney Rafael Garcia Bango regarding a possible property purchase and frequented various establishments.  Spanish National Police reported these details. Trafficante then traveled to Lisbon on November 28, 1966, but Portuguese International and State Security Police (PIDE) indicated he departed the same day without leaving the Lisbon Airport. The memorandum stipulates that any future information received from Spanish or Portuguese authorities will be immediately shared with the Bureau and the Miami office.",
+  "tags": [
+    "FBI",
+    "Santo Trafficante, Jr.",
+    "Liaison",
+    "Madrid",
+    "Lisbon",
+    "Travel",
+    "Surveillance"
+  ],
+  "title": "SANTO TRAFFICANTE, JR.",
+  "date": "1966-12-05",
+  "locations_mentioned": [
+    "Paris",
+    "Madrid, Spain",
+    "Barajas Airport, Madrid",
+    "Lisbon, Portugal",
+    "Lisbon Airport, Lisbon"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Santo Trafficante, Jr.",
+    "Jose Nieto Gomez",
+    "Rafael Garcia Bango",
+    "Jose Manuel da Cunha Passo"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "Legat, Paris"
+}

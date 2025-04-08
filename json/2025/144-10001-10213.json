@@ -1,0 +1,46 @@
+{
+  "classification": "Mexico",
+  "document_type": "Newspaper Article",
+  "security": "Disclosing that the CIA secretly taped Oswald's calls to the Soviet and Cuban embassies in Mexico City and withheld this information from the Warren Commission could be seen as an admission of intelligence failures or deliberate obstruction of justice. Directly quoting: \"publication of information about it might have exposed 'sources and methods' of the C.I.A. and impaired national security\". Revealing that a federal commission headed by Chief Justice Earl Warren found that Oswald, acting alone, had slain the President may be seen as disputing a single shooter theory.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A New York Times article reports that the CIA secretly taped telephone conversations between Lee Harvey Oswald and the Cuban and Soviet Embassies in Mexico City weeks before President Kennedy's assassination and that the Warren Commission was not fully informed about this due to concerns over exposing CIA sources and methods.",
+  "summary_one_paragraph": "A New York Times article from September 21, 1975, reveals that the CIA secretly recorded telephone conversations between Lee Harvey Oswald and the Cuban and Soviet Embassies in Mexico City in late September and early October 1963, shortly before President Kennedy's assassination; the article indicates the CIA alerted the FBI to Oswald's presence in Mexico City on October 10, 1963, but the FBI seemingly did not act on this information. The Warren Commission's report gave scant treatment to Oswald's Mexico City trip to avoid exposing CIA 'sources and methods', leading to speculation and questions about the commission's conclusions and whether the CIA and FBI were candid with the commission.",
+  "tags": [
+    "JFK Assassination",
+    "Lee Harvey Oswald",
+    "CIA",
+    "FBI",
+    "Warren Commission",
+    "Mexico City",
+    "Soviet Embassy",
+    "Cuban Embassy",
+    "Taped Conversations"
+  ],
+  "title": "Oswald Calls to Embassies Reported Taped by CIA",
+  "conspiracy": "The article suggests the CIA and FBI may have withheld information from the Warren Commission, adding to the questions surrounding the assassination. The article also references the Warren Commission's conclusion that Oswald acted alone.",
+  "date": "1975-09-21",
+  "locations_mentioned": [
+    "Mexico City",
+    "Washington, D.C.",
+    "Dallas, Texas",
+    "Soviet Union",
+    "Cuba"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "President John F. Kennedy",
+    "Earl Warren",
+    "Nicholas M. Horrock",
+    "William T. Coleman",
+    "Howard P. Willens",
+    "W. David Slawson",
+    "James P. Hosty Jr.",
+    "J. Lee Rankin",
+    "Robert T. Groh",
+    "Mike Royko",
+    "Shimon Peres",
+    "Kissinger"
+  ],
+  "sender": "NEW YORK TIMES"
+}

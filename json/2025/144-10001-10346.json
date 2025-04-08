@@ -1,0 +1,37 @@
+{
+  "classification": "John Kennedy Assassination",
+  "document_type": "Textual Document",
+  "security": "Disclosing that the NSA was monitoring communications between Romania and Turkey following Kennedy's assassination could reveal intelligence-gathering capabilities and sources.",
+  "security_level": "TOP SECRET",
+  "summary": "An NSA document reports on the Romanian Premier's visit to Belgrade and the lack of special measures taken in Bucharest following President Kennedy's assassination.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA document from the NSA, dated November 25, 1963, summarizes a Turkish intelligence report indicating that Romanian Premier Gheorghiu-Dej and other officials visited Belgrade to sign the Ada-Kaleh dam agreement, noting that Tito gave them a special welcome. The report also mentions that no extraordinary measures were implemented in Bucharest following the death of President Kennedy, with the exception of summoning a few generals.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Romania",
+    "Turkey",
+    "Belgrade",
+    "Bucharest",
+    "Gheorghiu-Dej",
+    "Tito",
+    "Intelligence Report"
+  ],
+  "title": "ROMANAIN PREMIER AND PARTY IN BELGRADE: NO SPECIAL ME [R]",
+  "date": "1963-11-25",
+  "locations_mentioned": [
+    "Belgrade",
+    "Bucharest",
+    "Ankara"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "GHEORGHIU-DEJ",
+    "MAURER",
+    "BODNARAS",
+    "MANESCU",
+    "TITO"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

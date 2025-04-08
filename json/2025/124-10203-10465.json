@@ -1,0 +1,45 @@
+{
+  "classification": "Administrative",
+  "document_type": "Teletype",
+  "security": "The document discusses ongoing investigations related to gambling activities and individuals considered armed and dangerous. Releasing such information could compromise ongoing law enforcement efforts and endanger individuals involved. Specifically, the text 'BOTH SUBJECTS SHOULD BE CONSIDERED ARMED AND DANGEROUS' highlights the potential risk.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A teletype from the FBI Pittsburgh office to the Director regarding Gabriel Mannarino's suspected gambling activities at a farm in Westmoreland County, PA, and the need for further investigation.",
+  "summary_one_paragraph": "On August 3, 1961, the FBI's Pittsburgh office sent an urgent teletype to the FBI Director relaying information from a confidential source that Gabriel Mannarino was using a farm in Westmoreland County, near Camp Joan, PA, to host gambling games in anticipation of crackdowns in New Kensington. The informant would gather more details on the farm's location and individuals involved, and both Mannarino and Samuel Mannarino were to be considered armed and dangerous.",
+  "tags": [
+    "FBI",
+    "Gabriel Mannarino",
+    "Samuel Mannarino",
+    "Gambling",
+    "Westmoreland County",
+    "New Kensington",
+    "Organized Crime"
+  ],
+  "title": "Information Regarding Gabriel Mannarino's Gambling Activities",
+  "date": "1961-08-03",
+  "locations_mentioned": [
+    "Westmoreland County, PA",
+    "Camp Joan, PA",
+    "New Kensington, PA",
+    "Pittsburgh"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Gabriel Mannarino",
+    "Samuel Mannarino",
+    "Tolson",
+    "Belmont",
+    "Mohr",
+    "Callahan",
+    "Conrad",
+    "DeLoach",
+    "Evans",
+    "Malone",
+    "Rosen",
+    "Sullivan",
+    "Tavel",
+    "Trotter",
+    "Ingram",
+    "Gandy"
+  ],
+  "sender": "SAC, PG (Special Agent in Charge, Pittsburgh Office, FBI)"
+}

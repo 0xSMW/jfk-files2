@@ -1,0 +1,32 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Textual Document",
+  "security": "Revealing that the NSA intercepted a message concerning the death of President Kennedy sent to Fidel Castro could expose NSA's surveillance capabilities and sources during that period, potentially compromising current intelligence gathering methods. Directly quoting: \"RESIDENT OF NEBRASKA SENDING MESSAGE CONCERNING DEATH OF U.S. PRESIDENT TO CUBAN PRIME MINISTER\".",
+  "security_level": "SECRET",
+  "summary": "An NSA document describes an intercepted message from a Nebraska resident to Fidel Castro concerning the death of President Kennedy, dated December 10, 1963.",
+  "summary_one_paragraph": "This document, dated December 10, 1963, originates from the NSA and details the interception of a message sent by a resident of Nebraska, Jack Cary, to Cuban Prime Minister Fidel Castro, regarding the death of U.S. President John F. Kennedy. The message expresses respect and hopes that Castro does not meet a similar unfortunate fate as Kennedy. The document is classified as SECRET and includes routing information and distribution to HCF Plus ST 300.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Interception",
+    "Fidel Castro",
+    "Nebraska Resident",
+    "Secret",
+    "Assassination"
+  ],
+  "title": "2X/0/QΟΥ/T443-63 RESIDENT OF NEBRASKA SENDING MESSAGE CONCERNING DEATH ER",
+  "date": "1963-12-10",
+  "locations_mentioned": [
+    "Nebraska",
+    "Havana",
+    "Cuba"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Fidel Castro",
+    "Jack Cary"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

@@ -1,0 +1,49 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Teletype",
+  "security": "Disclosing the individuals and businesses being investigated for gambling and racketeering, such as Gabriel and Samuel Mannarino and Lloyds, Limited, could compromise ongoing law enforcement operations. Quoting directly: '...have further solidified their move into Pittsburgh, PA. Recently, they took over Lloyds, Limited...This store...will use it as a front for Pittsburgh shylocking and gambling activities.'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A teletype from the FBI's Pittsburgh office to the Director, FBI, reports that Gabriel and Samuel Mannarino have expanded their operations into Pittsburgh, taking over Lloyds, Limited, a men's clothing store, as a front for gambling and loan sharking activities.",
+  "summary_one_paragraph": "On September 27, 1961, the FBI's Pittsburgh office sent an urgent teletype to the Director, FBI, reporting that Gabriel and Samuel Mannarino had further solidified their presence in Pittsburgh, Pennsylvania, by taking over Lloyds, Limited, a men’s clothing store on Murray Avenue in Squirrel Hill. The store, previously owned by gambler Dave Lawrence, is now nominally under the ownership of Thomas Anthony Ciancutti (aka Sonny), who is expected to use it as a front for gambling and loan sharking. The teletype advises that both Mannarino subjects should be considered armed and dangerous.",
+  "tags": [
+    "FBI",
+    "Gabriel Mannarino",
+    "Samuel Mannarino",
+    "Thomas Anthony Ciancutti",
+    "Lloyds Limited",
+    "Gambling",
+    "Shylocking",
+    "Pittsburgh",
+    "Organized Crime",
+    "FOIA"
+  ],
+  "title": "Report on Gabriel Mannarino and Samuel Mannarino's Activities in Pittsburgh",
+  "date": "1961-09-27",
+  "locations_mentioned": [
+    "Pittsburgh, PA",
+    "Squirrel Hill, PA"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Gabriel Mannarino",
+    "Samuel Mannarino",
+    "Thomas Anthony Ciancutti",
+    "Dave Lawrence",
+    "Mr. Tolson",
+    "Mr. Belmont",
+    "Mr. Mohr",
+    "Mr. Callahan",
+    "Mr. Conrad",
+    "Mr. DeLoach",
+    "Mr. Evans",
+    "Mr. Malone",
+    "Mr. Rosen",
+    "Mr. Sullivan",
+    "Mr. Tavel",
+    "Mr. Trotter",
+    "Mr. Ingram",
+    "Miss Gandy"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, PG"
+}

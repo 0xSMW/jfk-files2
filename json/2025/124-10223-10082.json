@@ -1,0 +1,45 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Teletype",
+  "security": "The document discusses John Rosselli's activities and remarks, including potential tax evasion. Sharing details about Rosselli's corporations being investigated and his efforts to conceal information ('the dirty SOB-s are digging into two of my corporations but they are not going to find anything because I have a guy working for me that has it so screwed up they will never find anything') could compromise ongoing investigations or reveal sensitive information about investigative techniques.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An FBI teletype reports John Rosselli's activities and remarks concerning an investigation into his corporations.",
+  "summary_one_paragraph": "On November 13, 1962, the FBI's Los Angeles office sent an urgent teletype to FBI Director and other officials, reporting that informant LA 4268-C observed John Rosselli at the Friar's Club in Beverly Hills on November 9 and 12. The informant learned that Rosselli was at a Los Angeles apartment that morning and that Rosselli was with Herman Spitzel, whom Rosselli referred to as 'Commander.' Rosselli remarked that his corporations were under investigation but that he had someone who had 'screwed up' the records so thoroughly that investigators wouldn't find anything.",
+  "tags": [
+    "FBI",
+    "John Rosselli",
+    "Herman Spitzel",
+    "Friar's Club",
+    "Tax Evasion",
+    "Informant",
+    "Investigation"
+  ],
+  "title": "John Rosselli, AKA",
+  "date": "1962-11-13",
+  "locations_mentioned": [
+    "Los Angeles",
+    "Beverly Hills"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Rosselli",
+    "Herman Spitzel",
+    "Tolson",
+    "Belmont",
+    "Mohr",
+    "Casper",
+    "Callahan",
+    "Conrad",
+    "DeLoach",
+    "Evans",
+    "Gale",
+    "Rosen",
+    "Sullivan",
+    "Tavel",
+    "Trotter",
+    "Holmes",
+    "Gandy"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, LA"
+}

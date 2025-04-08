@@ -1,0 +1,22 @@
+{
+  "entity_name": "Senate Select Committee (SSC)",
+  "entity_type": "recipient",
+  "document_count": 3,
+  "summary": "The Senate Select Committee (SSC) was a body formed to investigate intelligence activities. The documents provided indicate the SSC was actively investigating the FBI's activities, including surveillance of individuals like Martin Luther King Jr. and organizations like the Southern Christian Leadership Conference (SCLC). The SSC also examined FBI's informant programs, such as the one involving Douglas Durham within the American Indian Movement (AIM). The documents highlight the FBI's coordination with the SSC, the sharing of information, and the White House's review of intelligence matters related to the SSC's inquiries. Alan G. Sentinella's testimony before the SSC reveals details about investigations into Martin Luther King, Jr., the SCLC, and Stanley Levison, focusing on telephone surveillance and alleged communist connections.",
+  "key_connections": [
+    "FBI",
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "Stanley Levison",
+    "Douglas Durham",
+    "American Indian Movement (AIM)",
+    "Alan G. Sentinella",
+    "White House"
+  ],
+  "significance": "While the provided documents do not directly link the Senate Select Committee (SSC) to the JFK assassination, the SSC's investigation into intelligence activities, particularly those of the FBI, could potentially uncover information relevant to the broader context of the assassination, such as potential intelligence failures or connections to individuals or groups involved.",
+  "document_ids": [
+    "124-10274-10001",
+    "124-10274-10001_multirif",
+    "124-10273-10008_multirif"
+  ]
+}

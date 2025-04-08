@@ -1,0 +1,45 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Teletype",
+  "security": "Revealing details of ongoing IRS investigations and FBI sources (PCI, PG 615-C) could compromise investigations and endanger sources.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An FBI teletype from September 26, 1961, reports the suppression of gambling activities in New Kensington, PA, due to increased law enforcement pressure, including an IRS investigation into Willie Sams, a key figure in Gabriel and Samuel Mannarino's gambling operations.",
+  "summary_one_paragraph": "On September 26, 1961, the SAC in Pittsburgh sent an urgent teletype to the FBI Director regarding gambling activities in New Kensington, Pennsylvania. A PCI reported that gambling had been severely suppressed due to heightened law enforcement activity, including an IRS investigation. Willie Sams, described as the 'brains' behind the Mannarino brothers' gambling operations, consulted with an attorney due to concerns about the IRS investigation. Both Gabriel and Samuel Mannarino were considered armed and dangerous.",
+  "tags": [
+    "FBI",
+    "Gambling",
+    "Gabriel Mannarino",
+    "Samuel Mannarino",
+    "Willie Sams",
+    "IRS Investigation",
+    "New Kensington, PA"
+  ],
+  "title": "Gabriel Mannarino, AKA, AR. Samuel Mannarino, AKA, AR. on Gambling Act",
+  "date": "1961-09-26",
+  "locations_mentioned": [
+    "New Kensington, PA",
+    "Pittsburgh, PA"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Gabriel Mannarino",
+    "Samuel Mannarino",
+    "Willie Sams",
+    "Tolson",
+    "Belmont",
+    "Mohr",
+    "Callahan",
+    "Conrad",
+    "DeLoac",
+    "Evans",
+    "Malone",
+    "Rosen",
+    "Sullivan",
+    "Tavel",
+    "Trotter",
+    "Ingram",
+    "Gandy"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, PG"
+}

@@ -1,0 +1,32 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Textual Document",
+  "security": "Revealing the details of Chairman Pak's travel arrangements and the coordination between Seoul and Washington could potentially compromise diplomatic communications and security protocols. The specific flight numbers and arrival times, along with the request to meet the party in Chicago, represent sensitive information.",
+  "security_level": "SECRET",
+  "summary": "This document is a message regarding Chairman Pak's departure from Seoul to attend John F. Kennedy's funeral, detailing the travel arrangements and requesting that someone meet the party in Chicago.",
+  "summary_one_paragraph": "This SECRET document, dated November 24, 1963, originates from the NSA and details the travel arrangements for Chairman Pak's delegation departing from Seoul to attend John F. Kennedy's funeral. The message specifies that the party left Seoul via a special military plane and will continue their journey from Tokyo to Chicago on NWA flight 6, with a connecting flight to Washington on UAL 758. The document requests that the recipient meet the delegation in Chicago to assist with their transit.",
+  "tags": [
+    "Assassination",
+    "John Kennedy",
+    "Travel Arrangements",
+    "Chairman Pak",
+    "Funeral",
+    "Seoul",
+    "Chicago"
+  ],
+  "title": "2X/0/KOD/T437-63 CHAIRMAN PAK DEPARTS SEOUL FOR KENNEDY FUNERAL [R]",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Seoul",
+    "Tokyo",
+    "Chicago",
+    "Washington"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Chairman Pak"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

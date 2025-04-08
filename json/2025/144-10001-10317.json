@@ -1,0 +1,37 @@
+{
+  "classification": "Assassination, John Kennedy",
+  "document_type": "Paper, Textual Document",
+  "security": "This document reports on diplomatic communications following President Kennedy's assassination. Sharing this information could expose intelligence-gathering methods and sources used by Italian authorities, potentially damaging international relations and compromising ongoing intelligence efforts. Direct quote: 'ITALIAN REPORT ON ΜΙΚΟΥΑΝ TALKS IN THE UNITED STATES'",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "An Italian report details talks between Soviet official Anastas Mikoyan and U.S. President Lyndon B. Johnson and Secretary of State Dean Rusk following President Kennedy's assassination, focusing on assurances of continued peaceful relations and discussions on disarmament and nuclear arms limitations.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA document, dated December 2, 1963, is an Italian report summarizing Anastas Mikoyan's conversations with President Lyndon B. Johnson and Secretary of State Dean Rusk in the wake of President Kennedy's assassination. Mikoyan conveyed the Soviet Union's condolences and its hope for continued peaceful relations under Kennedy's policies, to which Johnson affirmed his intention to maintain that course. The discussions with Rusk covered disarmament, arms race limitations, and nuclear non-proliferation, with Mikoyan reiterating the Soviet stance on NATO's multilateral force. The report concludes with Rusk mentioning upcoming discussions with Western allies on broader international issues.",
+  "tags": [
+    "JFK Assassination",
+    "Mikoyan",
+    "Lyndon B. Johnson",
+    "Dean Rusk",
+    "Soviet Union",
+    "Italy",
+    "Diplomacy",
+    "Nuclear Arms",
+    "Disarmament"
+  ],
+  "title": "3/0/ITD/T3564-63 ITALIAN REPORT ON MIKOYAN TALKS IN THE UNITED STATES [R]",
+  "date": "1963-12-02",
+  "locations_mentioned": [
+    "United States",
+    "Washington",
+    "Rome",
+    "Soviet Union"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Anastas Mikoyan",
+    "Lyndon B. Johnson",
+    "Dean Rusk",
+    "FENOALTEA"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

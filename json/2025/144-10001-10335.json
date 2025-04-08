@@ -1,0 +1,35 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Paper, Textual Document",
+  "security": "The document discusses arrangements for Laotian officials to attend President Kennedy's funeral and does not appear to contain sensitive intelligence information. There is nothing that highlights CIA infiltration of public records, or other countries.",
+  "security_level": "SECRET",
+  "summary": "This document details arrangements for Laotian officials to attend President John F. Kennedy's funeral, specifying that Prince KHAMPAN, the Laotian Ambassador to Washington, and SISOUK NA CHAMPASSAK, working in New York, will represent the King and the Royal Government of Laos.",
+  "summary_one_paragraph": "Originating from the NSA, this document outlines the arrangements made for Laotian representation at President John F. Kennedy's funeral. Specifically, it indicates that Prince KHAMPAN, the Laotian Ambassador to Washington, and SISOUK NA CHAMPASSAK, who is based in New York (presumably at the UN), were designated to represent the King and the Royal Government of Laos, respectively. The message, sent from Vientiane by SOUVANNA PHOUMA to Washington on November 24, 1963, emphasizes the priority of this matter.",
+  "tags": [
+    "Assassination",
+    "John Kennedy",
+    "Funeral Arrangements",
+    "Laotian Representation",
+    "NSA",
+    "SECRET",
+    "SABRE",
+    "MORAY"
+  ],
+  "title": "2X/0/LSD/T18-63 LAOTIANS TO ATTEND PRESIDENT'S FUNERAL [R]",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Washington",
+    "New York",
+    "Vientiane",
+    "Laos"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "SOUVANNA PHOUMA",
+    "KHAMPAN",
+    "SISOUK NA CHAMPASSAK"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

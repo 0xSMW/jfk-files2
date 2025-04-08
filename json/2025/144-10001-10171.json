@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This document contains information about Cuban naval communications, including details of an accident involving a KOMAR-class PGM and reports concerning U.S. aircraft exercises in the Key West area obtained by \"our sources.\" Exposing the methods used to obtain this information and the details of Cuban naval operations could compromise intelligence-gathering capabilities and relationships with sources. The document is marked SECRET KIMBO, indicating sensitive compartmented information.",
+  "security_level": "SECRET",
+  "summary": "This report details Cuban military activities and naval communications in November 1963, including an alert status of the First Army in Cuba following President Kennedy's death, a naval incident involving a KOMAR vessel, and intelligence regarding U.S. aircraft exercises near Key West.",
+  "summary_one_paragraph": "A SECRET report dated November 24, 1963, outlines Cuban military activities and naval communications. It notes that all subordinates of the First Army Headquarters in Cuba were placed on alert following President Kennedy's death. The report includes details of the 10-250, a KOMAR-class PGM, running aground near Mariel and salvage operations and mentions that the Cuban steamship INDALECIO was forced into Guantanamo Naval Base. Intelligence was also gathered about upcoming U.S. aircraft exercises near Key West, obtained through unidentified sources.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Cuban Military",
+    "Naval Communications",
+    "KOMAR",
+    "Guantanamo",
+    "Key West",
+    "Intelligence",
+    "Alert Status"
+  ],
+  "title": "Army's in Cuba Placed on Alert Status",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Cuba",
+    "Oriente Province",
+    "Pilon",
+    "Sierra Maestra",
+    "Mariel",
+    "Guantanamo Naval Base",
+    "Caimanera",
+    "Havana",
+    "Cabanas",
+    "Key West"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President Kennedy"
+  ],
+  "recipient": "HCO",
+  "sender": "NSA"
+}

@@ -1,0 +1,49 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Teletype",
+  "security": "Releasing information about informants and ongoing investigations could compromise the safety of individuals and the integrity of law enforcement operations. Referring to individuals as 'armed and dangerous' could create undue alarm if this information were to be disseminated without proper context or verification.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A teletype from the FBI's Pittsburgh office to FBI Director J. Edgar Hoover reports on gambling operations run by Gabriel and Samuel Mannarino and the arrest of William Sams for violating federal wagering tax laws at the Ken Iron and Steel Company. It notes that the gambling operations have returned to near-normal levels and that both Mannarinos should be considered armed and dangerous.",
+  "summary_one_paragraph": "On September 5, 1961, the FBI's Pittsburgh office sent a teletype to Director J. Edgar Hoover regarding the gambling operations of Gabriel and Samuel Mannarino. The report references a raid by the IRS on the Mannarino gambling casino and horse room in New Kensington, PA, on August 24. William Sams was arrested on September 1 at the Ken Iron and Steel Company for violation of federal wagering tax laws and is included under the Top Echelon CIP. The teletype advises that the gambling casino and horse room are operating at near normal levels and that both Mannarinos should be considered armed and dangerous.",
+  "tags": [
+    "FBI",
+    "Gambling",
+    "Mannarino",
+    "Samuel Mannarino",
+    "William Sams",
+    "IRS",
+    "Wagering Tax Laws",
+    "New Kensington",
+    "Pennsylvania",
+    "CIP"
+  ],
+  "title": "Report on Mannarino Gambling Operations and Arrest of William Sams",
+  "date": "1961-09-05",
+  "locations_mentioned": [
+    "Pittsburgh, PA",
+    "New Kensington, PA"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Gabriel Mannarino",
+    "Samuel Mannarino",
+    "William Sams",
+    "J. Edgar Hoover",
+    "Mr. Tolson",
+    "Mr. Belmont",
+    "Mr. Mohr",
+    "Mr. Callahan",
+    "Mr. Conrad",
+    "Mr. DeLoach",
+    "Mr. Evans",
+    "Mr. Malone",
+    "Mr. Rosen",
+    "Mr. Sullivan",
+    "Mr. Tavel",
+    "Mr. Trotter",
+    "Mr. Ingram",
+    "Miss Gandy"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, PG"
+}

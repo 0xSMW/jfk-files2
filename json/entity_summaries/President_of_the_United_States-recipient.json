@@ -1,0 +1,20 @@
+{
+  "entity_name": "President of the United States",
+  "entity_type": "recipient",
+  "document_count": 4,
+  "summary": "The President of the United States, in the context of these documents, serves as the primary recipient of intelligence information and advice. The documents span from 1963 to 1964, covering the late Kennedy administration and the early Johnson administration. The President receives intelligence checklists covering a range of global issues, including Cuban activities, Soviet affairs, and various international conflicts. The President's Foreign Intelligence Advisory Board (PFIAB) provides briefings and recommendations, particularly concerning intelligence activities related to Cuba. The documents highlight the President's role in overseeing and being informed about critical national security matters and foreign intelligence operations.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Acting Director of Central Intelligence",
+    "Director of the National Reconnaissance Office",
+    "Cuba",
+    "Soviet Union"
+  ],
+  "significance": "The President's significance lies in their role as the ultimate authority and recipient of intelligence related to national security, including potential threats and foreign policy decisions. The documents suggest a focus on Cuban intelligence, which is relevant in the context of the JFK assassination due to the historical tensions and covert operations involving Cuba during that period. The President's awareness and decisions based on this intelligence would have been crucial.",
+  "document_ids": [
+    "177-10002-10098",
+    "206-10001-10002",
+    "206-10001-10012",
+    "206-10001-10011"
+  ]
+}

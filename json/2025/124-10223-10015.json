@@ -1,0 +1,32 @@
+{
+  "classification": "FBI Investigation",
+  "document_type": "Report",
+  "security": "This document involves informants and investigative techniques used by the FBI. Releasing details about MP T-1 and MP T-2, who have been contacted by SA HARRY D. BERGLUND, and their characterization could compromise ongoing intelligence operations and expose confidential sources.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "FBI report from Minneapolis detailing crime conditions in Minnesota, North Dakota, and South Dakota, referencing informants MP T-1 and MP T-2 contacted by SA Harry D. Berglund.",
+  "summary_one_paragraph": "This FBI report, dated November 16, 1964, from the Minneapolis office, addresses crime conditions in Minnesota, North Dakota, and South Dakota under the Criminal Intelligence Program. Prepared by SA John L. Roberts, the report references a previous Minneapolis report from April 30, 1964, and includes information from informants MP T-1 (MP 2435-C) and MP T-2 (MP 2455-C-TE), who are being contacted by SA Harry D. Berglund. The report, categorized as anti-racketeering, includes a letterhead memorandum characterizing the informants.",
+  "tags": [
+    "FBI",
+    "Criminal Intelligence Program",
+    "Informants",
+    "Anti-Racketeering",
+    "Minnesota",
+    "North Dakota",
+    "South Dakota"
+  ],
+  "title": "CRIME CONDITIONS IN MINNESOTA, NORTH DAKOTA AND SOUTH DAKOTA",
+  "date": "1964-11-16",
+  "locations_mentioned": [
+    "Minneapolis",
+    "Minnesota",
+    "North Dakota",
+    "South Dakota"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John L. Roberts",
+    "Harry D. Berglund"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "Roberts, John L."
+}

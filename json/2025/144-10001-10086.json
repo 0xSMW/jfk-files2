@@ -1,0 +1,41 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "Sharing details about intelligence gathering on diplomatic missions, such as the Polish Mission to the UN, could compromise intelligence sources and methods. Quoting directly: \"American extremists having great influences in the propaganda apparatus here want at all costs to be divorced from responsibilities for the attempt.\"",
+  "security_level": "TOP SECRET",
+  "summary": "A report detailing the United Nations' reactions to President Kennedy's assassination, specifically focusing on the Polish Mission's analysis of the political aftermath and anti-communist sentiment.",
+  "summary_one_paragraph": "This top-secret report, dated November 27, 1963, originates from the National Security Agency (NSA) and summarizes the Polish Mission to the UN's reactions to President Kennedy's assassination. The report conveys the Mission's assessment that East-West relations would deteriorate and that the Democratic Party would face internal divisions, potentially impacting future elections, with figures like Johnson, Goldwater, Rockefeller, and Humphrey being mentioned. It also highlights concerns about rising anti-Communist sentiment, fueled by unconfirmed reports linking the suspect to Soviet citizenship and pro-Castro activism, reflecting fears of American extremists attempting to deflect responsibility for the assassination.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "United Nations",
+    "Poland",
+    "Diplomatic Activity",
+    "Anti-Communism",
+    "Election Analysis",
+    "TOP SECRET",
+    "UMBRA",
+    "DINAR"
+  ],
+  "title": "UN Reaction to Kennedy's Death",
+  "date": "1963-11-27",
+  "locations_mentioned": [
+    "New York",
+    "Warsaw",
+    "United Nations"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Lyndon B. Johnson",
+    "Goldwater",
+    "Rockefeller",
+    "Humphrey",
+    "Roosevelt",
+    "Castro",
+    "Rapacki",
+    "Lewandowski"
+  ],
+  "recipient": "Ministry of Foreign Affairs, Warsaw",
+  "sender": "Polish Mission to the UN"
+}

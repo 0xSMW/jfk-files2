@@ -1,0 +1,38 @@
+{
+  "classification": "JFK ASSASSINATION SYSTEM",
+  "document_type": "REPORT",
+  "security": "The document is marked TOP SECRET UMBRA/DINAR, indicating it contains highly sensitive compartmented information. Sharing details of diplomatic communications and reactions to President Kennedy's assassination could harm international relations and reveal sensitive intelligence gathering methods.",
+  "security_level": "TOP SECRET",
+  "summary": "This report details Washington's concern over a Cambodian broadcast that appeared to celebrate the deaths of perceived enemies, including a possible allusion to President Kennedy, prompting diplomatic demarches.",
+  "summary_one_paragraph": "On December 12, 1963, this TOP SECRET report relays concerns from Washington regarding a Cambodian radio broadcast that seemed to celebrate the deaths of 'enemies of Cambodia,' including Diem and Sarit, with wording that implied a similar fate for a 'big boss,' possibly alluding to President Kennedy's assassination. Ambassador Yost informed NONG KIMNY of the State Department's shock at this 'barbaric declaration,' requesting a public disavowal of any allusion to Kennedy's death; the U.S. government planned demarches in both Phnom Penh and Washington to express their dismay, while awaiting further instructions.",
+  "tags": [
+    "Cambodia",
+    "Diplomatic Activity",
+    "Reaction to Assassination",
+    "President Kennedy",
+    "State Department",
+    "Radio Cambodia",
+    "NONG KIMNY",
+    "Ambassador YOST"
+  ],
+  "title": "3/0/CED/T214-63: WASHINGTON CONCERNED OVER CAMBODIAN BROADCAST",
+  "date": "1963-12-12",
+  "locations_mentioned": [
+    "Washington",
+    "Cambodia",
+    "Phnom Penh",
+    "New York"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President Kennedy",
+    "Diem",
+    "Sarit",
+    "Ambassador YOST",
+    "NONG KIMNY",
+    "Prime Minister KANTOL",
+    "Ambassador SPROUSE"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

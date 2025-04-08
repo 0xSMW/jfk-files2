@@ -1,0 +1,44 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "Disclosing the existence of and details regarding NSA's intelligence gathering and monitoring of diplomatic communications, especially those concerning potential honors for President Kennedy after his assassination, could damage intelligence sources and methods. Specifically, revealing the monitoring of communications between the Polish Mission to the UN and the Ministry of Foreign Affairs in Warsaw, as well as the identities of individuals involved, such as WINIEWICZ, BIERNACKI, and JAROSZEWICZ, could compromise ongoing intelligence operations and sources.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "NSA document indicating that in December 1963, Polish officials were asked by Senators Humphrey and Romney to consider naming a hospital in Krakow in honor of President John F. Kennedy.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA document from the National Security Agency (NSA), dated December 3, 1963, reveals that U.S. Senators Humphrey and Romney, members of a committee to build a hospital in Krakow, Poland, inquired through BIERNACKI whether the hospital could be named in honor of President John F. Kennedy. The communication, originating from the Polish Mission to the UN in New York and addressed to the Ministry of Foreign Affairs in Warsaw for WINIEWICZ, notes that the senators are acting in good faith and trying to have a hospital built in Wroclaw. A note on the subject was given to Comrade JAROSZEWICZ by DROZNIAK.",
+  "tags": [
+    "NSA",
+    "John Kennedy",
+    "Assassination",
+    "Poland",
+    "Hospital",
+    "Humphrey",
+    "Romney",
+    "Diplomatic Communication",
+    "TOP SECRET UMBRA",
+    "WINIEWICZ",
+    "BIERNACKI",
+    "JAROSZEWICZ",
+    "DROZNIAK"
+  ],
+  "title": "3/0/W/T2043-63 POLES ASKED TO NAME HOSPITAL IN POLAND IN HONOR OF PRES [R]",
+  "date": "1963-12-03",
+  "locations_mentioned": [
+    "Poland",
+    "Krakow",
+    "Wroclaw",
+    "New York",
+    "Warsaw"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Humphrey",
+    "Romney",
+    "BIERNACKI",
+    "WINIEWICZ",
+    "JAROSZEWICZ",
+    "DROZNIAK"
+  ],
+  "recipient": "Warsaw: Ministry of Foreign Affairs",
+  "sender": "New York: Polish Mission to the UN"
+}

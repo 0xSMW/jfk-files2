@@ -1,0 +1,45 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Airtel",
+  "security": "Disclosing details of ongoing investigations, informant information (TP 41-C, TP 120-C), and investigative leads could compromise sources and investigations.  Revealing the use of LCN membership card index names, T. MOETOS, JAMES BRUNO, ED VALDEZ, and JOE GARCIA, could allow detection of aliases and hinder future investigations.  Quoting directly: 'TRAFFICANTE has a current U. S. passport issued in the name of SANTO TRAFFICANTE, JR., # F-391387, issued 5/28/65 at Miami, Fla.' and 'Tampa has submitted FD-315 requesting F-1 and F-3 type stops.'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An FBI Airtel from Tampa to the Director, FBI, concerning Santo Trafficante, Jr.'s activities, including his alleged presence in Las Vegas, travel to London, and possible LCN affiliations. It outlines investigative steps being taken, including inquiries at the Indian Trading Post in Yellowstone and with the Bureau of Customs.",
+  "summary_one_paragraph": "This Airtel, dated October 12, 1966, from the FBI's Tampa office to the Director, FBI, details investigative efforts related to Santo Trafficante, Jr., a reported 'boss' of LCN in Florida. The memo reports Trafficante's alleged presence in Las Vegas, his travels to London and other locations, and potential associates like Dino Cellini. It also mentions the receipt of an expensive cowboy suit sent to Trafficante's grandson from the Indian Trading Post in Yellowstone National Park, prompting further investigation. The document outlines planned inquiries with the Bureau of Customs and the Indian Trading Post, and refers to previous investigations and the use of aliases by Trafficante, including names from the LCN membership card index.",
+  "tags": [
+    "FBI",
+    "Santo Trafficante Jr.",
+    "LCN",
+    "Las Vegas",
+    "London",
+    "Dino Cellini",
+    "Yellowstone National Park",
+    "Bureau of Customs",
+    "Aliases",
+    "Investigation",
+    "Trafficante",
+    "Informant"
+  ],
+  "title": "",
+  "date": "1966-10-12",
+  "locations_mentioned": [
+    "Las Vegas, Nevada",
+    "London, England",
+    "California",
+    "New York, New York",
+    "Miami, Florida",
+    "Tampa, Florida",
+    "St. Petersburg Beach, Florida",
+    "Queens, New York",
+    "Yellowstone National Park",
+    "Butte"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Santo Trafficante, Jr.",
+    "Dino Cellini",
+    "Santos Paniello",
+    "Augie (Mary Jo) Paniello"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, Tampa"
+}

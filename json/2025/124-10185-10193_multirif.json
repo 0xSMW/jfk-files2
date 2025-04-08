@@ -1,0 +1,38 @@
+{
+  "classification": "Administrative",
+  "document_type": "Routing Slip/Hearing Transcript",
+  "security": "This document contains internal FBI routing procedures and references ongoing investigations related to organized crime and potential intelligence gathering. Disclosing such information could compromise ongoing operations and reveal internal processes for managing sensitive information. As stated in the document, sources should be concealed and content paraphrased if used in future reports.",
+  "security_level": "UNCLAS EFTO",
+  "summary": "This document contains a routing slip for FBI files, a teletype regarding an Organized Crime Regional Training Conference, and a transcript of Clarence M. Kelley's testimony before a Senate Select Committee on Intelligence Activities.",
+  "summary_one_paragraph": "This collection of documents includes an FBI routing slip indicating the retention and review of files, a teletype from the FBI Director to the Miami and Philadelphia field offices concerning the designation of attendees to an Organized Crime Regional Training Conference in Bethlehem, Pennsylvania, and a transcript of FBI Director Clarence M. Kelley's appearance before the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities on December 10, 1975, addressing issues such as domestic intelligence operations, COINTELPRO, and the need for legislative oversight.",
+  "tags": [
+    "FBI",
+    "Routing Slip",
+    "Organized Crime",
+    "Training Conference",
+    "Clarence M. Kelley",
+    "Senate Select Committee",
+    "Intelligence Activities",
+    "Domestic Intelligence",
+    "COINTELPRO",
+    "Legislative Oversight"
+  ],
+  "title": "FBI File Routing and Clarence M. Kelley Testimony",
+  "date": "1983-06-08",
+  "locations_mentioned": [
+    "Miami, Florida",
+    "Philadelphia, Pennsylvania",
+    "Bethlehem, Pennsylvania",
+    "Washington, D.C.",
+    "Kansas City"
+  ],
+  "origin_agency": "Federal Bureau of Investigation (FBI)",
+  "persons_mentioned": [
+    "Clarence M. Kelley",
+    "Klaus Rohr",
+    "Edward Levi",
+    "Frank Church"
+  ],
+  "recipient": "Director FBI, FEI Miami, FBI Philadelphia, All SACs and Legats",
+  "sender": "A SAC Nettles, DIRECTOR FBI"
+}

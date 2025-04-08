@@ -1,0 +1,28 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Paper, Textual Document",
+  "security": "Revealing that the NSA was intercepting and analyzing communications related to the JFK assassination shortly after it occurred could expose intelligence collection capabilities and methods. For example, noting that the NSA intercepted 'RUSS MERCURY GRASS FACS' and identified 'UNID OPERATORS AT TWO UNID STATIONS' provides insight into NSA's technical surveillance capabilities at the time. This could aid adversaries in developing countermeasures.",
+  "security_level": "S",
+  "summary": "An NSA document dated November 23, 1963, discusses intercepted communications regarding the assassination of President Kennedy, where unidentified operators at two unidentified stations, possibly in East Germany, exchanged details about the event without referencing Soviet actions.",
+  "summary_one_paragraph": "This document from the National Security Agency (NSA), dated November 23, 1963, details intercepted communications following the assassination of President John F. Kennedy. The communication, intercepted between 2027/2031Z on November 22, 1963, involved unidentified operators at two unidentified stations, possibly located in Gera, East Germany, discussing the assassination. The operators exchanged details about Kennedy being shot, with one mentioning 'One bullet thru the head', without indicating any Soviet involvement. The NSA also provided technical information, including potential network connections and coordinates related to the intercepted communications.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Intercepted Communications",
+    "East Germany",
+    "Gera",
+    "Mercury Grass"
+  ],
+  "title": "Discussion Regarding Assassination of President Kennedy",
+  "date": "1963-11-23",
+  "locations_mentioned": [
+    "East Germany",
+    "Gera"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy"
+  ],
+  "recipient": "DIRNSA",
+  "sender": "USA-73"
+}

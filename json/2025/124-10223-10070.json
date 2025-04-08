@@ -1,0 +1,38 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Teletype",
+  "security": "The document discusses ongoing investigations and informants, potentially compromising sources and methods if released in full. Mentioning specific locations like the Friars Club and individuals like John Rosselli and Jack Brookstein (Jack Brooks) could reveal operational details and put individuals at risk. Quote: 'NEIGHBORHOOD SOURCE FURNISHED INFORMATION THAT JOSEPH I. BREEN, JR., CLOSE FRIEND OF ROSSELLI, VISITED BRIEFLY AT ROSSELLI-S LA APARTMENT...' This could reveal the existence and activities of confidential sources.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A teletype from the SAC, Los Angeles, to the Director, FBI, reporting on John Rosselli's whereabouts and associates, including Irving J. Leff and Joseph I. Breen, Jr., and discussing a potential interview with Jack Brooks (Brookstein) in Florida, who was previously associated with Rosselli at the Tropicana Hotel in Las Vegas.",
+  "summary_one_paragraph": "On October 25, 1962, the SAC from the FBI's Los Angeles office sent a teletype to the Director, FBI, providing information on John Rosselli's activities and associates. Rosselli was reportedly at the Friars Club in Beverly Hills, though he was absent on the specified afternoon, while several of his friends, including Irving J. Leff, were present. The teletype also notes that Joseph I. Breen, Jr., a close friend of Rosselli, briefly visited Rosselli's Los Angeles apartment, leaving with a bag of laundry. The document further discusses Jack Brooks (Brookstein), a former employee of Rosselli at the Tropicana Hotel in Las Vegas, who may possess valuable information regarding Rosselli's activities, and efforts are underway to locate him in Florida for an interview.",
+  "tags": [
+    "FBI",
+    "John Rosselli",
+    "Jack Brooks",
+    "Las Vegas",
+    "Los Angeles",
+    "Informant",
+    "Tropicana Hotel",
+    "Friars Club",
+    "IRS",
+    "JFK Assassination"
+  ],
+  "title": "John Rosselli, AKA AR",
+  "date": "1962-10-25",
+  "locations_mentioned": [
+    "Beverly Hills, California",
+    "Las Vegas, Nevada",
+    "Los Angeles, California",
+    "Florida"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Rosselli",
+    "Irving J. Leff",
+    "Joseph I. Breen, Jr.",
+    "Jack Brooks",
+    "Jack Brookstein"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, Los Angeles"
+}

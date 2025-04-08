@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This document contains information affecting the National Defense of the United States within the meaning of the Espionage Laws, Title 18, U.S.C., Sections 793, 794 and 798, the transmission or revelation of which in any manner to an unauthorized person is prohibited by law. This document is to be distributed to and read by only those persons who are officially indoctrinated in accordance with com- munications intelligence security regulations and who need the information in order to perform their duties. No action is to be taken on information herein reported, re- gardless of temporary advantage, if such action might have the effect of revealing the existence and nature of the source. THIS DOCUMENT CONTAINS CODEWORD MATERIAL",
+  "security_level": "SECRET",
+  "summary": "An NSA report indicates that the Western Army in Cuba was told to stand by for a possible alert following President Kennedy's death, with orders prohibiting any pro or con statements regarding the event.",
+  "summary_one_paragraph": "This SECRET COMINT report, dated December 5, 1963, from the National Security Agency (NSA), relays information that the 1st Division Headquarters in Bahia Honda, Cuba, received instructions to keep its personnel available in anticipation of a potential state of alert following President Kennedy’s assassination. Issued by the (Coval 4th) Army Corps Headquarters in Pinar del Rio, the message also forbade any commentary, whether positive or negative, concerning Kennedy's death. Bahia Honda confirmed their compliance with these directives. The report notes that while Eastern Naval District units were put on alert, it’s unconfirmed whether Western Army units were formally placed on alert status.",
+  "tags": [
+    "JFK Assassination",
+    "NSA",
+    "Cuba",
+    "Military Alert",
+    "COMINT Report",
+    "Bahia Honda",
+    "Pinar del Rio",
+    "Kennedy"
+  ],
+  "title": "2/0/CUM/R96-63: WESTERN ARMY TOLD TO STAND BY FOR ALERT IN REACTION [R]",
+  "date": "1963-12-05",
+  "locations_mentioned": [
+    "Cuba",
+    "Bahia Honda",
+    "Pinar del Rio",
+    "Guantanamo Naval Base"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President Kennedy"
+  ],
+  "recipient": "O/WG",
+  "sender": "NSA"
+}

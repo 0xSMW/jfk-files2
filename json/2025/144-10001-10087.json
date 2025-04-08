@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "Revealing that the NSA intercepted communications between Havana and New Orleans, specifically chatter about Cuban Catholics being forbidden by the Communist government to hold services for President Kennedy, could expose NSA's signals intelligence capabilities and sources. It may also reveal the agency's ability to monitor communications related to religious activities and sentiment in Cuba.",
+  "security_level": "SECRET",
+  "summary": "NSA report from November 27, 1963, detailing that the Cuban Communist government forbade Cuban Catholics from holding services for President Kennedy following his assassination.",
+  "summary_one_paragraph": "This SECRET NSA report, dated November 27, 1963, reveals that the Communist government in Havana prohibited Cuban Catholics from conducting memorial services for President John F. Kennedy. The message, intercepted between Havana and New Orleans, includes sentiments from Cuban Catholics expressing their regret over Kennedy's death and offering private prayers, despite the government's restrictions.",
+  "tags": [
+    "NSA",
+    "Cuban Catholics",
+    "President Kennedy",
+    "Assassination",
+    "Cuba",
+    "Havana",
+    "New Orleans",
+    "Religious Restrictions"
+  ],
+  "title": "2X/O/CUY/T480-63: CUBAN CATHOLICS FORBIDDEN TO HOLD SERVICES FOR [R]",
+  "date": "1963-11-27",
+  "locations_mentioned": [
+    "Havana",
+    "New Orleans",
+    "Cuba"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President Kennedy"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

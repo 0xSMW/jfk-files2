@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This report contains details regarding communications between Indonesian officials concerning Castro's reaction to the JFK assassination. Disclosing such information could reveal intelligence-gathering methods and sources, potentially harming international relations and compromising future intelligence efforts. Directly quoting: 'FR Havana: INDONESIA 24 Nov 63 TO Djakarta: DEPARLU'.",
+  "security_level": "TOP SECRET",
+  "summary": "This document is a report summarizing Fidel Castro's televised speech responding to accusations in the U.S. press that Lee Harvey Oswald was a pro-Castro communist; Castro denied any Cuban involvement or benefit from Kennedy's assassination and criticized ultra-reactionary groups in the U.S.",
+  "summary_one_paragraph": "Originating from Havana on November 24, 1963, this top-secret report relays Indonesian intelligence regarding Fidel Castro's televised response to accusations linking Lee Harvey Oswald to Cuba. Addressing claims that Oswald was a pro-Castro communist, Castro denied any Cuban involvement in President Kennedy's assassination, expressing remorse and asserting that Cuba gained no advantage from the event. He attributed the accusations to ultra-reactionary groups within the U.S. seeking to discredit Cuba and the Soviet Union, further suggesting that President Johnson would be less effective than Kennedy in curbing these groups' influence.",
+  "tags": [
+    "JFK Assassination",
+    "Fidel Castro",
+    "Lee Harvey Oswald",
+    "Cuba",
+    "Soviet Union",
+    "Indonesia",
+    "Propaganda",
+    "North American Directorate"
+  ],
+  "title": "Report on Castro's Television Speech Regarding President Kennedy's Assassination",
+  "date": "1964-01-20",
+  "locations_mentioned": [
+    "Cuba",
+    "United States",
+    "Soviet Union",
+    "Indonesia",
+    "Havana",
+    "Djakarta",
+    "Washington D.C."
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Fidel Castro",
+    "Lee Harvey Oswald",
+    "Lyndon Johnson",
+    "Mikoyan"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

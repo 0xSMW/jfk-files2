@@ -1,0 +1,41 @@
+{
+  "classification": "IS-CUBA",
+  "document_type": "Memorandum",
+  "security": "Sharing passport numbers and specific details about individuals' locations and associations could violate privacy and potentially endanger individuals.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "The FBI memorandum details requests to various field offices for handwriting samples of Lenna Schweitzer Jones, Louis Henry Jones, and Beth Michele Wolland for comparison with questioned material related to a Cuba matter.",
+  "summary_one_paragraph": "This FBI memorandum, dated July 17, 1963, from the SAC of New York to the Director of the FBI, outlines the Bureau's efforts to obtain handwriting specimens of Lenna Schweitzer Jones, Louis Henry Jones, and Beth Michele Wolland for comparison with questioned material obtained by the Michigan State Police, related to an IS-CUBA matter. The memo relays that recontact with NY 3164-S confirmed the source is not in possession of any handwriting samples for Beth Michele Wolland; it further instructs field offices in Boston, Detroit, Cleveland, Portland, and WFO (Washington Field Office) to seek handwriting specimens from motel registrations, university files, family residences, previous work locations, and passport applications, respectively. The recipient offices are instructed to request a copy of the Laboratory report be furnished to NYO, if successful in gathering the needed handwriting samples.",
+  "tags": [
+    "FBI",
+    "Lenna Schweitzer Jones",
+    "Louis Henry Jones",
+    "Beth Michele Wolland",
+    "Handwriting Analysis",
+    "IS-CUBA",
+    "Passport Applications",
+    "Michigan State Police"
+  ],
+  "title": "",
+  "date": "1963-07-17",
+  "locations_mentioned": [
+    "New York",
+    "Detroit",
+    "Ann Arbor, Michigan",
+    "Shaker Heights",
+    "Portland",
+    "Washington D.C.",
+    "Mexico City",
+    "Boston",
+    "Cleveland"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Lenna Schweitzer Jones",
+    "Louis Henry Jones",
+    "Beth Michele Wolland",
+    "Ray T. Mentzer, Jr.",
+    "Melville H. Shannon"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, NY"
+}

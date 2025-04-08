@@ -1,0 +1,22 @@
+{
+  "entity_name": "Luis Somoza",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Luis Somoza is mentioned in the context of investigations and reports related to Cuban exile activities and potential connections to the JFK assassination. While the documents don't directly implicate Luis Somoza in the assassination, they place him within a network of individuals and organizations involved in anti-Castro activities and investigations into possible Cuban involvement in the assassination. His significance lies in his association with figures like General Anastasio Somoza, Noel Pallais, Manuel Artime, and the broader context of CIA operations and Cuban exile movements during the early 1960s. The documents suggest a peripheral connection through the network of individuals being investigated.",
+  "key_connections": [
+    "General Anastasio Somoza",
+    "Noel Pallais",
+    "Manuel Artime",
+    "Mitchell Livingston WerBell",
+    "Manuel Fuego",
+    "MRR (Movimiento Revolucionario Recuperacion)",
+    "Cuban exile groups",
+    "CIA"
+  ],
+  "significance": "Luis Somoza's significance in the JFK context is indirect. He is mentioned in documents related to investigations into possible Cuban complicity in the assassination, primarily through his family connections (General Anastasio Somoza) and associations with individuals involved in anti-Castro activities and CIA operations. The documents do not provide direct evidence of his involvement in the assassination, but his name appears in the context of broader investigations into potential Cuban connections.",
+  "document_ids": [
+    "124-90124-10055",
+    "104-10506-10028",
+    "124-10284-10081"
+  ]
+}

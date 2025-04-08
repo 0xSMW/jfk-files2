@@ -1,0 +1,33 @@
+{
+  "classification": "Assassination, John Kennedy",
+  "document_type": "PAPER, TEXTUAL DOCUMENT",
+  "security": "This document contains information that could reveal intelligence sources and methods of the NSA. Specifically, the reference to '2X/0/SID/T172-63' and the identification of communication protocols and routing details could compromise current intelligence operations and methods. The document is marked SECRET SABRE, indicating highly sensitive information.",
+  "security_level": "SECRET",
+  "summary": "An NSA document indicates that Thanat Khoman will represent Thailand at the funeral services for President John F. Kennedy in Washington, D.C., as communicated from Bangkok on November 24, 1963.",
+  "summary_one_paragraph": "On November 24, 1963, a message from Bangkok to Washington, D.C., originating from PHAIROT to THAI DUTO, communicated that Thanat Khoman had been appointed as the Representative of Thailand for the funeral services of the late President John F. Kennedy, which were to be held at Saint Matthew Cathedral in Washington. The message, classified as SECRET SABRE, requested that this information be communicated to its proper destination and indicated that the schedule of Khoman's departure would be communicated later. The NSA document identifies this information with the reference 2X/O/SID/T172-63.",
+  "tags": [
+    "NSA",
+    "John F. Kennedy",
+    "Assassination",
+    "Thanat Khoman",
+    "Thailand",
+    "Funeral Services",
+    "Diplomacy",
+    "SECRET SABRE"
+  ],
+  "title": "2X/0/SID/T172-63 THANT KHOMAN WILL REPRESENT THAILAND AT THE FUNERAL [R]",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Thailand",
+    "Washington, D.C.",
+    "Bangkok"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Thanat Khoman",
+    "PHAIROT"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

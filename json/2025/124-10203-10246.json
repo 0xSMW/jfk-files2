@@ -1,0 +1,49 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Radio Teletype",
+  "security": "Disseminating outside the Bureau any information could be misused to protect the Bureau’s cryptographic systems. Also, protecting information about informants and sources is critical. Information concerning someone in the States Attorneys Office on their payroll and that he was furnishing them information concerning activities in States Attorneys Office must be protected.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An FBI teletype discusses Chicago mobster Sam Giancana's plans to influence Attorney General Robert Kennedy's appearance before an Italian American group and to deal with informants providing information to the States Attorneys Office.",
+  "summary_one_paragraph": "On October 5, 1961, an urgent FBI radio teletype from the SAC Chicago office to Director J. Edgar Hoover relays intelligence concerning Chicago mobster Sam Giancana's efforts to mitigate pressure from law enforcement. Giancana, along with Dominic Blasi and Ross Prio, strategized to 'tone down' Attorney General Robert Kennedy during his Columbus Day appearance before an Italian American group in Chicago. Giancana also instructed associates to harm an informant suspected of providing information to the States Attorneys Office, directing them to 'put him in a steam box, take him for a ride, hit him in the head and throw him in the (unknown).' The FBI is also aware of an informant in the States Attorneys Office who is providing Giancana with information.",
+  "tags": [
+    "FBI",
+    "Sam Giancana",
+    "Robert Kennedy",
+    "Informant",
+    "Chicago Mob",
+    "Antiracketeering",
+    "Columbus Day",
+    "States Attorneys Office"
+  ],
+  "title": "SGI, ASSOC, CONFERENCE, RFK SPEAKING BEFORE GROUP",
+  "date": "1961-10-05",
+  "locations_mentioned": [
+    "Chicago, Illinois",
+    "Cook County"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Samuel M. Giancana",
+    "Robert F. Kennedy",
+    "Dominic Blasi",
+    "Ross Prio",
+    "One Anunzio",
+    "Courtney Evans",
+    "Tolson",
+    "Belmont",
+    "Mohr",
+    "Callahan",
+    "Conrad",
+    "DeLoach",
+    "Evans",
+    "Malone",
+    "Rosen",
+    "Sullivan",
+    "Tavel",
+    "Trotter",
+    "Ingram",
+    "Gandy"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, CG"
+}

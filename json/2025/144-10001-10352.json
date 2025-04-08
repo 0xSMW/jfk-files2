@@ -1,0 +1,37 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Cable",
+  "security": "This cable discusses diplomatic communications following President Kennedy's assassination, specifically mentioning assurances given to UAR officials about continuing Kennedy's policies. Releasing details of such diplomatic exchanges could potentially strain current U.S.-UAR relations by revealing historical perspectives and commitments. ",
+  "security_level": "TOP SECRET",
+  "summary": "A top-secret cable detailing the U.S. response to a message of condolence from Abdul Nasser following President Kennedy's assassination, including assurances of continued cooperation.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA cable, dated December 9, 1963, relays information about the U.S. response to a message of condolence from Abdul Nasser, President of the UAR (United Arab Republic), following President John F. Kennedy's assassination. The cable indicates that President Johnson sent a reply to Nasser via the U.S. Ambassador in Cairo, assuring the UAR of continued cooperation consistent with Kennedy's policies. The cable also mentions discussions regarding the situation in Yemen and an upcoming meeting between Ambassador Jernegan and the Deputy Assistant Secretary of State for a general review of the situation.",
+  "tags": [
+    "JFK Assassination",
+    "Lyndon B. Johnson",
+    "Abdul Nasser",
+    "UAR",
+    "United Arab Republic",
+    "Condolence Message",
+    "Diplomacy",
+    "Yemen",
+    "TOP SECRET",
+    "UMBRA"
+  ],
+  "title": "U.S.-UAR: PRESIDENT JOHNSON REPLIES TO 'ABDUL-NASSER'S MESSAGE OF CONDOLENCE",
+  "date": "1963-12-09",
+  "locations_mentioned": [
+    "Washington",
+    "Cairo",
+    "Yemen"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Lyndon B. Johnson",
+    "Abdul Nasser",
+    "Badeau (Ambassador)",
+    "Jernegan (Ambassador)"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

@@ -1,0 +1,38 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This document is classified as TOP SECRET UMBRA and TOP SECRET DINAR, indicating highly sensitive information. The document \"CONTAINS SENSITIVE COMPARTMENTED INFORMATION\". Sharing details of intelligence gathering, especially concerning high-profile figures like Castro, could compromise sources, methods, and international relations.",
+  "security_level": "TOP SECRET",
+  "summary": "A National Security Agency (NSA) report, dated January 10, 1964, relays a French Embassy message regarding Fidel Castro's interview with ABC, where he expressed hope for normalizing relations with the U.S. following President Kennedy's death, offering to discuss indemnification for nationalized American property.",
+  "summary_one_paragraph": "This NSA report, originating from a French Embassy message dated January 3, 1964, summarizes Fidel Castro's January 1 interview with ABC, in which he conveyed optimism about normalizing Cuban-U.S. relations under President Johnson, a prospect he felt was possible until President Kennedy's assassination; Castro also signaled a willingness to discuss compensation for American properties nationalized during the revolution, though he refused to renounce Marxism as a precondition; U.S. administration's response to the interview is not mentioned, and it received minimal press coverage.",
+  "tags": [
+    "NSA",
+    "Fidel Castro",
+    "JFK Assassination",
+    "Cuba",
+    "Diplomatic Relations",
+    "France",
+    "ABC Interview",
+    "Normalization",
+    "Indemnification",
+    "TOP SECRET UMBRA",
+    "TOP SECRET DINAR"
+  ],
+  "title": "3/0/FRD/T70-64: CASTRO INTERVIEW ON RELATIONS WITH U.S.",
+  "date": "1964-01-10",
+  "locations_mentioned": [
+    "Cuba",
+    "United States",
+    "France",
+    "Havana",
+    "Washington"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "President Kennedy",
+    "President Johnson"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

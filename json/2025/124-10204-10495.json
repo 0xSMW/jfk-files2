@@ -1,0 +1,51 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "Disclosing informant identities (NK T-1, NK T-2, NK T-3) and telephone numbers, such as HYMANY GOTTSMAN's, could compromise their safety and the FBI’s intelligence-gathering efforts. The document explicitly states, 'The above records are confidential and can only be obtained through issuance of a subpoena duces tecum,' indicating the sensitivity of the information.",
+  "security_level": "SECRET",
+  "summary": "An FBI report details the investigation of Evelyn Eleanore Archer, focusing on her past involvement with pro-Castro activities, arms smuggling, and associations with individuals involved in Cuban affairs, including Manuel Arques.",
+  "summary_one_paragraph": "This FBI report from April 25, 1961, summarizes the investigation into Evelyn Eleanore Archer, aka Ruby Archer, regarding her activities related to Cuba. The investigation, conducted by SA Herbert L. Blom in Newark, NJ, reveals Archer's past involvement in conspiracy and unlawful possession of firearms in 1958, her associations with Manuel Arques, her changing attitude towards Fidel Castro as reflected in a local newspaper interview, and her potential to provide valuable information on Cuban matters. The report includes details from informants, toll calls made from Archer's mother's residence to individuals in Havana and Miami, and background information obtained from various sources including probation records and customs officials.",
+  "tags": [
+    "FBI",
+    "Evelyn Eleanore Archer",
+    "Manuel Arques",
+    "Cuba",
+    "Arms Smuggling",
+    "Pro-Castro",
+    "Informant",
+    "IS-CUBA"
+  ],
+  "title": "EVELYN ELEANORE ARCHER, aka.",
+  "date": "1961-04-25",
+  "locations_mentioned": [
+    "Newark, New Jersey",
+    "Union Beach, New Jersey",
+    "Keyport, New Jersey",
+    "Texas",
+    "Houston, Texas",
+    "Miami, Florida",
+    "Havana, Cuba",
+    "Canada"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Evelyn Eleanore Archer",
+    "Manuel Arques",
+    "Fidel Castro",
+    "Fulgencio Batista",
+    "Carlos Prio",
+    "Walter Korabiak",
+    "Herbert L. Blom",
+    "Anna Archer",
+    "Robert McKeown",
+    "Abelardo Rene Pujol Y Barrera",
+    "Mario Silverio Villamina",
+    "Francisco Gonzales",
+    "Hymany Gottsman",
+    "Charles Brower",
+    "Bernard Holmes Brennan",
+    "Juan Orta"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, NK"
+}

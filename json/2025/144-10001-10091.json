@@ -1,0 +1,37 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "Sharing that the NSA is intercepting and disseminating diplomatic communications from Italy concerning reactions to the JFK assassination could damage relations with Italy.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "An NSA report from December 1963 details reactions in Cairo and the Arab world to President Kennedy's assassination, noting a trend of blaming Zionism due to Lee Harvey Oswald's alleged Hebrew-Polish origins.",
+  "summary_one_paragraph": "This Top Secret UMBRA report, originating from the NSA on December 17, 1963, and disseminated to HCF [R], addresses the emerging anti-Zionist sentiment in Syria following President Kennedy's assassination. Citing a Cairo press reaction to Lee Harvey Oswald's alleged Hebrew-Polish origin, the report indicates a tendency among some Arab extremists to accuse Zionism of involvement in the assassination, despite a lack of concrete evidence. The report, translated from Italian diplomatic communications, highlights concerns about this development and its potential impact on Arab-Zionist relations, promising a more detailed follow-up.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Anti-Zionism",
+    "Italy",
+    "Egypt",
+    "Arab Countries",
+    "Cairo Press",
+    "Diplomatic Activity",
+    "Lee Harvey Oswald"
+  ],
+  "title": "3/0/ITD/T3747-63: PRESIDENT KENNEDY'S DEATH NEW BASIS FOR ANTI-ZION [R]",
+  "conspiracy": "The report notes that 'the circumstance that the killer of OSWALD is of Hebrew-Polish origin has now caused a notable part of the Cairo press to move in the (5G) that Zionism (13G/M) to this whole tragedy,' indicating a reaction to the assassination that attempts to link it to a conspiracy involving Zionism. The report does not contain any evidence that Zionism was actually involved, but only refers to that theory being floated in the Arab world.",
+  "date": "1963-12-17",
+  "locations_mentioned": [
+    "Italy",
+    "Egypt",
+    "Arab Countries",
+    "Syria",
+    "Cairo"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President John F. Kennedy",
+    "Lee Harvey Oswald",
+    "MAGISTRATI"
+  ],
+  "recipient": "HCF [R]",
+  "sender": "NSA"
+}

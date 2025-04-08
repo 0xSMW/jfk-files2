@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "Disclosing that the NSA intercepts and translates diplomatic communications between Poland and Cuba could damage relationships with these countries, as it reveals sensitive intelligence-gathering activities. The document contains sensitive compartmented information.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "This TOP SECRET UMBRA report, dated December 2, 1963, details Cuba's reaction to President Kennedy's assassination, as reported by Polish diplomatic channels, indicating concerns about potential policy shifts in the U.S. and an increased military alert in Cuba.",
+  "summary_one_paragraph": "Based on Polish diplomatic communications intercepted by the NSA, this December 2, 1963, TOP SECRET UMBRA report outlines Cuba's reaction to President Kennedy's assassination. The Cuban leadership, according to a November 24 report from CIURUS in Havana, perceives the situation as serious, fearing that the search for Kennedy’s murderers will implicate Castroites, Communists, and USSR influence. They anticipate a shift in U.S. foreign and domestic policy due to the loss of Kennedy’s authority and modernistic leanings, suggesting ultrareactionary circles within the U.S. may have been involved in the assassination to strengthen conservative elements in Latin America. In response, Cuba declared a quiet military alert and began relocating military units.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Cuba",
+    "Poland",
+    "Diplomatic Activity",
+    "CIURUS",
+    "Kennedy's Murder",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "CUBA'S REACTION TO KENNEDY'S MURDER [R]",
+  "conspiracy": "The document alludes to a conspiracy, referencing a Cuban belief that 'ultrareactionary circles in the USA, the Pentagon and the (B val C) IA considered KENNEDY's policy too weak' and that the assassination 'actually could have been planned or committed by these circles.'",
+  "date": "1963-12-02",
+  "locations_mentioned": [
+    "Cuba",
+    "Poland",
+    "Havana",
+    "USA",
+    "Venezuela"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Kennedy",
+    "Castro",
+    "CIURUS",
+    "WINIEWICZ"
+  ],
+  "recipient": "New York: Polish Mission to the UN",
+  "sender": "NSA"
+}

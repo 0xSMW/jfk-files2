@@ -1,0 +1,36 @@
+{
+  "classification": "Liaison",
+  "document_type": "Cable",
+  "security": "This document's classification as TOP SECRET UMBRA indicates that its disclosure could reveal extremely sensitive intelligence sources or methods. Specifically, the reference to \"KODCC-39\" and \"3/O/KOD/T1405-63\" suggests code words or operational details that could compromise signals intelligence activities if exposed.",
+  "security_level": "TOP SECRET",
+  "summary": "A TOP SECRET UMBRA cable details the departure of Chairman PAK and Vice Chairman SIN from South Korea to attend President Kennedy's funeral in Washington, D.C., and requests arrangements for their security and escort.",
+  "summary_one_paragraph": "On November 24, 1963, a TOP SECRET UMBRA cable was sent from Seoul to Washington, D.C., reporting that Chairman PAK and Vice Chairman SIN of South Korea departed at 1400 hours (Korean time) to attend President John F. Kennedy’s funeral ceremonies. The cable requested that arrangements be made for a guard and escort for Chairman PAK during his stay in the U.S., noting that Counselor KIM UN YONG would accompany Vice Chairman SIN CHIK SU, with an expected arrival time in Washington of around 1200 hours (Korean time) on November 25.",
+  "tags": [
+    "JFK Assassination",
+    "Funeral Envoy",
+    "South Korea",
+    "Pak",
+    "Sin",
+    "Security",
+    "Top Secret Umbra",
+    "NSA",
+    "KODCC-39"
+  ],
+  "title": "ROK FUNERAL ENVOY",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "South Korea",
+    "Seoul",
+    "Washington, D.C."
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Chairman PAK",
+    "Vice Chairman SIN",
+    "KIM UN YONG",
+    "SIN CHIK SU"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

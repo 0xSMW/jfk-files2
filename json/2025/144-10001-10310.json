@@ -1,0 +1,29 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "Disclosing Indonesian communications, even if old, could reveal intelligence-gathering capabilities or sources and methods. The document is marked SECRET and advises HANDLE VIA COMINT CHANNELS ONLY.",
+  "security_level": "SECRET",
+  "summary": "An NSA document containing intercepted Indonesian naval communications regarding flags being flown at half-mast to honor the late President John F. Kennedy, along with a correction message.",
+  "summary_one_paragraph": "This NSA document, dated November 24 and 25, 1963, consists of intercepted Indonesian naval communications (COMINT) concerning directives to fly flags at half-mast as a sign of respect for the deceased President John F. Kennedy. The messages include the original order from the Naval C-in-C to various naval commands and ships, followed by a correction message amending the title and reference number of the initial communication. The document is classified as SECRET and intended to be handled via COMINT channels only.",
+  "tags": [
+    "NSA",
+    "COMINT",
+    "John F. Kennedy",
+    "Assassination",
+    "Indonesia",
+    "Naval Communication",
+    "Flags at Half-Mast"
+  ],
+  "title": "Flags at Half-Mast",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "United States",
+    "Indonesia"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy"
+  ],
+  "recipient": "ECHO THREE/DELTA",
+  "sender": "AUN-3250"
+}

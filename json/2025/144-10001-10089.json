@@ -1,0 +1,36 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "Disclosing the instructions to Polish missions and the NSA's monitoring of diplomatic communications could reveal sensitive intelligence-gathering capabilities and sources. As the document states, 'THIS DOCUMENT CONTAINS 1 PAGE' and has 'TOP SECRET UMBRA' and 'NO FOREIGN DISSEMINATION' markings, indicating its highly sensitive nature.",
+  "security_level": "TOP SECRET",
+  "summary": "An NSA report detailing instructions sent by the Polish Ministry of Foreign Affairs to its diplomatic missions regarding the observation of President Kennedy's death, including relaying messages of sympathy and flying flags at half-mast.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA document, dated November 26, 1963, is an NSA report summarizing a message from the Polish Ministry of Foreign Affairs in Warsaw to its embassy in London (and also sent to Paris). The message instructs Polish diplomatic missions to express sympathy to U.S. representatives following President Kennedy's death and to follow local protocols for mourning, such as flying flags at half-mast, signed by Michalowski.",
+  "tags": [
+    "NSA",
+    "Poland",
+    "Diplomatic Activity",
+    "JFK Assassination",
+    "Kennedy Death",
+    "Sympathy Message",
+    "TOP SECRET UMBRA",
+    "DINAR",
+    "Michalowski",
+    "Polish Missions"
+  ],
+  "title": "Instructions to Polish Missions on Observance of Kennedy's Death",
+  "date": "1963-11-26",
+  "locations_mentioned": [
+    "Poland",
+    "Warsaw",
+    "London",
+    "Paris",
+    "USA"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Kennedy",
+    "Michalowski"
+  ],
+  "recipient": "Polish Embassy in London",
+  "sender": "Polish Ministry of Foreign Affairs"
+}

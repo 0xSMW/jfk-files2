@@ -1,0 +1,20 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Memorandum",
+  "security": "The document details an FBI investigation into Ernst Friedrich Haas, potentially revealing investigative methods and criteria used for identifying possible KGB illegal agents. Sharing this information could compromise future investigations and reveal the scope of the ALEM Program. The document is marked 'CONFIDENTIAL' and 'Exempt from E.O. 13292, Section 3.4'.",
+  "security_level": "CONFIDENTIAL",
+  "summary": "This FBI memorandum discusses the investigation of Ernst Friedrich Haas under the ALEM program, concluding that he does not fit the criteria for a KGB illegal agent.",
+  "summary_one_paragraph": "This FBI memorandum, dated November 19, 1965, from the SAC, New York, to the Director, FBI, concerns the investigation of Ernst Friedrich Haas to determine if he met the criteria for a KGB illegal agent under the ALEM Program. The investigation was prompted by Haas entering the U.S. as the husband of an American citizen and immigrating from a country other than his native land. After reviewing INS data, the NYO concluded that Haas did not fit the ALEM Program criteria because he had been in the U.S. for a considerable amount of time before marrying an American citizen and had been granted Permanent Residence on a Non-Immigrant status prior to his marriage. The case was subsequently closed.",
+  "tags": [
+    "FBI",
+    "ALEM Program",
+    "KGB Illegal Agent",
+    "Ernst Friedrich Haas",
+    "INS",
+    "Counterintelligence"
+  ],
+  "title": "ERNST FRIEDRICH HAAS",
+  "date": "1965-11-19",
+  "origin_agency": "FBI",
+  "sender": "SAC, NEW YORK (65-23745) (C) - FBI Special Agent in Charge, New York Office, assigned case number 65-23745, office code C indicates confidential informant used in the case. Assigned agent initials RGP with typist initials jth appear at the bottom of page 1 of the document indicating who was responsible for drafting this memo and performing associated administrative tasks, RGP and jth are not subjects of the memo and their identities are being withheld under FOIA exemption 6 to protect their privacy and prevent harassment of family members. Source code number 65 indicates a case of interest to the Secret Service involving the protection of the US president or other highly ranked officials. USSS would have been informed that HAAS was a possible suspect for the illegal agent tracking program ALEM. HAAS did not meet the profile, the USSS was informed the case would be closed. [Note by Kennedy Records Collection Act analyst, not part of original document.] (ALEM)"
+}

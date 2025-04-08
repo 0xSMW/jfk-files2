@@ -1,0 +1,36 @@
+{
+  "classification": "Mexico",
+  "document_type": "Report",
+  "security": "This document discusses diplomatic communications and potential financial contributions to the Kennedy Library project. Sharing this information could potentially reveal sensitive diplomatic exchanges, financial commitments made by various countries, and compromise the confidentiality of discussions between ambassadors and government officials, which could negatively impact international relations. For example, revealing specific contribution amounts could create undue pressure or expectations on other nations. The document contains sensitive compartmented information.",
+  "security_level": "TOP SECRET",
+  "summary": "A report from December 1963 indicates the Mexican President's support for Mexico's involvement in the Kennedy Library project, as relayed by the Mexican Ambassador to the U.S., Carrillo Flores. Other countries like Venezuela, Peru, and Puerto Rico are also considering or committing contributions.",
+  "summary_one_paragraph": "On December 27, 1963, a TOP SECRET report details Mexico's interest in the Kennedy Library project. According to a message from Ambassador Carrillo Flores in Washington to the Foreign Ministry in Mexico City, the Mexican President favors Mexico's participation. Flores informed Mr. Goodwin of this commitment. The report also notes Venezuela's pledged contribution of $100,000, Peru's ongoing consideration of its contribution amount, and Puerto Rico's planned donation of $100,000.",
+  "tags": [
+    "Mexico",
+    "Diplomatic Activity",
+    "Kennedy Library",
+    "Carrillo Flores",
+    "Goodwin",
+    "Financial Contribution",
+    "Venezuela",
+    "Peru",
+    "Puerto Rico"
+  ],
+  "title": "MEXICAN PRESIDENT FAVORS MEXICO'S PARTICIPATION IN KENNEDY LIBRARY PROJECT",
+  "date": "1963-12-27",
+  "locations_mentioned": [
+    "Mexico",
+    "Washington D.C.",
+    "Mexico City",
+    "Venezuela",
+    "Peru",
+    "Puerto Rico"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Carrillo Flores",
+    "Goodwin"
+  ],
+  "recipient": "HCF [R]",
+  "sender": "NSA"
+}

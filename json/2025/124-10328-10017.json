@@ -1,0 +1,35 @@
+{
+  "classification": "Israel",
+  "document_type": "Textual Document, Cable",
+  "security": "This document discusses financial negotiations and loans involving individuals and entities, including government involvement. Disclosing specific financial details and the nature of these negotiations could potentially damage relationships or expose sensitive financial dealings. For example, the discussion of loan amounts and investment strategies, \"whether the government is prepared to increase the loan to 1,200,000 pounds...\" and \"DEVOSKIN and his group are ready to invest $1,100,000\", reveals specific financial figures that could be sensitive.",
+  "security_level": "Top Secret",
+  "summary": "A top-secret cable from New York to Jerusalem, dated November 4, 1958, discusses negotiations regarding the Nordau Plaza project, involving financial investments and potential government loans.",
+  "summary_one_paragraph": "A top-secret NSA cable, originated in New York on November 4, 1958, and sent to Jerusalem, details ongoing negotiations concerning the Nordau Plaza project. The cable discusses the potential involvement of DEVOSKIN and his group, who are prepared to invest $1,100,000, and explores the possibility of increasing the government loan to 1,200,000 pounds (approximately $675,000). It also addresses the role of CHACHAMOV and his investment, as well as concerns regarding dealing with creditors. The cable indicates a meeting with DEVOSKIN scheduled for November 6, and requests clarification on financial arrangements from [ZVI].",
+  "tags": [
+    "NSA",
+    "Nordau Plaza",
+    "Financial Negotiations",
+    "Government Loan",
+    "Top Secret",
+    "EIDER POOF"
+  ],
+  "title": "[Restricted]",
+  "date": "1958-11-04",
+  "locations_mentioned": [
+    "New York",
+    "Jerusalem",
+    "Chicago"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Joseph Shimon",
+    "TEDDY [KOLLEK]",
+    "MEMI [de] SHALIT",
+    "VITIA BENNAHUM",
+    "DEVOSKIN",
+    "CHACHAMOV",
+    "[ZVI]"
+  ],
+  "recipient": "[Restricted]",
+  "sender": "[Restricted]"
+}

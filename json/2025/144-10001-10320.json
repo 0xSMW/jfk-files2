@@ -1,0 +1,37 @@
+{
+  "classification": "Assassination",
+  "document_type": "Textual Document",
+  "security": "This document is classified TOP SECRET UMBRA and TOP SECRET DINAR, indicating highly sensitive information. Disclosing that the NSA was intercepting and translating communications regarding Poland's reaction to JFK's death, as indicated by the Italian ITDO WS 30818 code, could reveal intelligence-gathering capabilities and sources.",
+  "security_level": "TOP SECRET",
+  "summary": "An NSA document, dated December 9, 1963, summarizes reactions in Poland to President Kennedy's assassination, including public mourning and official condolences.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA NSA document, dated December 9, 1963, relays reactions from Warsaw, Poland, following the death of President John F. Kennedy. It details the immense impression and profound grief in Poland, noting the long lines of citizens, including military personnel, who signed the register at the American Embassy and left flowers. The report also highlights the Polish government's response, including extensive media coverage, representation at the funeral by Professor Stanislaw Kulczynski and (B val PIOTSZEWICZ), and Prime Minister Cyrankiewicz's expression of condolences at the U.S. Embassy.",
+  "tags": [
+    "NSA",
+    "John Kennedy",
+    "Assassination",
+    "Poland",
+    "Condolences",
+    "AILLAUD",
+    "Italian Embassy",
+    "TOP SECRET UMBRA",
+    "TOP SECRET DINAR"
+  ],
+  "title": "3/0/ITD/T3652-63 POLAND MOURNS DEATH OF PRESIDENT KENNEDY [R]",
+  "date": "1963-12-09",
+  "locations_mentioned": [
+    "Poland",
+    "Warsaw",
+    "Rome",
+    "United States"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "STANISLAW KULCZYNSKI",
+    "CYRANKIEWICZ",
+    "RAPACKI",
+    "CABOT"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

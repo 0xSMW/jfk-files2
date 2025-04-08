@@ -1,0 +1,40 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "The document's classification as TOP SECRET UMBRA and TOP SECRET DINAR indicates that it contains highly sensitive information, the exposure of which could potentially damage national security. Sharing the content of this report may reveal intelligence sources and methods, compromising ongoing operations and relationships with foreign entities.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A report from the NSA on President Lyndon B. Johnson's speech before the United Nations General Assembly on December 17, 1963, detailing his foreign policy objectives and commitment to peace, as observed from Washington and reported to The Hague.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA report, dated December 31, 1963, from the NSA to HCO, summarizes President Lyndon B. Johnson's address to the United Nations General Assembly. The report, originating from Washington (KORTEWEG) and intended for The Hague (GEPEDE), details Johnson's expressed commitment to peace, his desire for a global 'peaceful revolution' akin to Roosevelt's New Deal, and his emphasis on international cooperation to combat global issues like poverty and disease. The report also notes the extensive security precautions taken during Johnson’s visit and his tribute to the late President Kennedy's legacy.",
+  "tags": [
+    "Lyndon B. Johnson",
+    "United Nations",
+    "General Assembly",
+    "Foreign Policy",
+    "Peace",
+    "NSA",
+    "Netherlands",
+    "TOP SECRET",
+    "UMBRA",
+    "DINAR",
+    "Kennedy",
+    "Roosevelt"
+  ],
+  "title": "3/0/NED/T12-63: Report on President Johnson's Speech Before the General Assembly",
+  "date": "1963-12-31",
+  "locations_mentioned": [
+    "The Netherlands",
+    "Washington",
+    "New York",
+    "Congo",
+    "Middle East"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Lyndon B. Johnson",
+    "Roosevelt",
+    "Kennedy",
+    "U Thant"
+  ],
+  "recipient": "HCO",
+  "sender": "NSA"
+}

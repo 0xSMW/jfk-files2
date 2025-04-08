@@ -1,0 +1,36 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "The document is classified as TOP SECRET UMBRA and TOP SECRET DINAR, indicating highly sensitive information. The full content of the message could reveal intelligence gathering capabilities and sources related to monitoring international reactions to President Kennedy's death. Revealing that France has a FRDBT WS unit could have security implications.",
+  "security_level": "TOP SECRET",
+  "summary": "An NSA document, dated December 7, 1963, reports on the deep emotion and national mourning declared in Tanganyika (present-day Tanzania) following President John F. Kennedy's assassination, including the convening of the Council of Ministers by President Nyerere and the closure of government offices, banks, and schools.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA/DINAR document, originating from the NSA and dated December 7, 1963, details Tanganyika's (now Tanzania) reaction to President John F. Kennedy's assassination. The report, relayed from Dar es Salaam by BOURDEILLE to Paris, notes that President Nyerere convened the Council of Ministers and declared a day of national mourning, resulting in the closure of government offices, banks, and schools to honor the late President Kennedy. The message was distributed to the HCO.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Tanganyika",
+    "Mourning",
+    "Nyerere",
+    "TOP SECRET",
+    "UMBRA",
+    "DINAR",
+    "BOURDEILLE",
+    "France",
+    "FRDBT WS"
+  ],
+  "title": "TAMGANYIKA MOURNS KENNEDY [R]",
+  "date": "1963-12-07",
+  "locations_mentioned": [
+    "Tanganyika (Tanzania)",
+    "Dar es Salaam",
+    "Paris"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "NYERERE",
+    "BOURDEILLE"
+  ],
+  "recipient": "HCO",
+  "sender": "NSA"
+}

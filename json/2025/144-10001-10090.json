@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This document is classified TOP SECRET UMBRA and contains sensitive compartmented information, indicating that its disclosure could reveal highly protected intelligence sources or methods. The specific details about the communication between the Mexican Foreign Ministry and the Cuban Ambassador, as well as the mention of specific operations against Castro, could compromise intelligence activities. ",
+  "security_level": "TOP SECRET",
+  "summary": "A NSA report, dated December 2, 1963, relays that Mexico's appeal for clemency on behalf of Carlos Espin (XU) y Escales, imprisoned for an attempt against Fidel Castro, was received too late as he had already been executed.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA report from the NSA, dated December 2, 1963, details a communication regarding Carlos Espin (XU) y Escales, who was executed in Cuba for attempting to assassinate Fidel Castro. The report indicates that Mexico had appealed for clemency, but the appeal arrived after Espin’s execution. Cuban Foreign Minister Raul Roa informed the Mexican Ambassador, Bosques, that President Dorticos had already ordered the execution and would not have commuted the sentence anyway, due to Espin’s role in the assassination attempt.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Anti-Castro Activities",
+    "Mexico",
+    "Diplomatic Activity",
+    "TOP SECRET UMBRA",
+    "Execution",
+    "Fidel Castro",
+    "Carlos Espin"
+  ],
+  "title": "3/0/MXD/T1659-63: MEXICO'S APPEAL RECEIVED TOO LATE; PRISONER EXECUTE [R]",
+  "date": "1963-12-02",
+  "locations_mentioned": [
+    "Mexico",
+    "Havana",
+    "Cuba",
+    "Mexico City"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Carlos Espin (XU) y Escales",
+    "Fidel Castro",
+    "Ambassador Bosques",
+    "Raul Roa",
+    "President Dorticos"
+  ],
+  "recipient": "HCF [R]",
+  "sender": "NSA"
+}

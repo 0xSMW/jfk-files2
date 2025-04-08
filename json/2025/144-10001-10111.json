@@ -1,0 +1,36 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "This document contains sensitive compartment information and discusses diplomatic relations and potential insults to Cambodia's honor and dignity. Releasing it could damage diplomatic relations with Cambodia and reveal intelligence-gathering methods. Quoting directly: \"CONTAINS SENSITIVE COMPARTMENT INFORMATION\" and mentions a protest against the expression 'barbarous declaration' used by Ambassador YOST, calling attention to the consequences which may result from this grave insult to Cambodia's honor and dignity.\"",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "This NSA report details Cambodia's counter-protest to the U.S. regarding a perceived expression of pleasure over the deaths of President Kennedy, Ngo Dinh Diem, and Sarit Thanarat, clarifying that Cambodia observed national mourning for Kennedy and that their joy stemmed from liberation from Diem and Thanarat's threats.",
+  "summary_one_paragraph": "Dated December 13, 1963, this NSA report summarizes a Cambodian government communique responding to a U.S. protest regarding Cambodia's alleged expression of pleasure at the deaths of President Kennedy, Ngo Dinh Diem, and Sarit Thanarat. The Cambodian government clarified that while they mourned Kennedy's death, they did not mourn Diem and Thanarat, whom they considered enemies. The communique also protests the U.S. Ambassador’s use of the term 'barbarous declaration,' insisting that Cambodia owes no lessons in propriety to developed countries and demanding that the statement be communicated to the State Department.",
+  "tags": [
+    "NSA",
+    "Cambodia",
+    "Diplomatic Activity",
+    "Counter Protest",
+    "JFK Assassination",
+    "Ngo Dinh Diem",
+    "Sarit Thanarat",
+    "TOP SECRET UMBRA",
+    "Sensitive Compartment Information"
+  ],
+  "title": "3/0/CED/T218-63: CAMBODIAN COUNTER PROTEST OVER REFERENCE TO KENNEDY",
+  "date": "1963-12-13",
+  "locations_mentioned": [
+    "Cambodia",
+    "Phnom Penh",
+    "New York",
+    "Washington"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President Kennedy",
+    "Ngo Dinh Diem",
+    "Sarit Thanarat",
+    "Ambassador YOST"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

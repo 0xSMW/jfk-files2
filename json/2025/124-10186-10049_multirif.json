@@ -1,0 +1,43 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security": "This document discusses the Senate Select Committee's concerns about the FBI's domestic intelligence investigations and potential options to limit or oversee these activities. Releasing this information could reveal the FBI's intelligence gathering methods, the scope of their investigations into US citizens, and potential weaknesses in oversight mechanisms. This could be exploited by individuals or groups seeking to evade FBI scrutiny or disrupt their operations. Concerns are raised about electronic surveillance, mail opening, and the informant/confidential source network. It also mentions that the FBI program was used by presidents to serve their political interests, usually by collecting information on critics or political opponents. This information could damage the Bureau’s and the government’s reputation. It is unwise to share that “the program is massive, involving the collection of information on the activities of thousands of innocent, law-abiding American citizens,” and that “particularly invasive collection techniques were used, including electronic surveillance, mail opening, and surreptitious entries.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memorandum summarizing a meeting with representatives of the Senate Select Committee concerning the FBI's domestic intelligence investigations, the Committee's concerns, and various options for legislative or administrative action, including potential restrictions or oversight of the FBI's activities.",
+  "summary_one_paragraph": "This memorandum, dated December 5, 1975, summarizes a meeting between the FBI and representatives of the Senate Select Committee regarding the FBI's domestic intelligence investigations. The meeting covered the Committee's concerns about the scope, methods, and potential abuses of these investigations, highlighting issues such as overbreadth, irrelevant information collection, and invasive techniques like electronic surveillance and mail opening. The memorandum outlines options for the Committee, ranging from abolishing the FBI's domestic intelligence functions to implementing administrative or congressional oversight. It also addresses the Director's upcoming testimony before the Committee and suggests responses to anticipated questions, including those related to COINTELPRO and individual rights.",
+  "tags": [
+    "FBI",
+    "Senate Select Committee",
+    "Domestic Intelligence",
+    "COINTELPRO",
+    "Oversight",
+    "Intelligence Gathering",
+    "Civil Liberties",
+    "Presidential Directives",
+    "Attorney General",
+    "Informants",
+    "Electronic Surveillance"
+  ],
+  "title": "SENSTUDY 75",
+  "date": "1975-12-05",
+  "persons_mentioned": [
+    "J. B. Adams",
+    "F.A.O. Schwartz",
+    "Paul Michel",
+    "Mark Gitenstein",
+    "John T. Elliff",
+    "John Bayley",
+    "John A. Mintz",
+    "John B. Hotis",
+    "Paul V. Daly",
+    "Harlan Stone",
+    "Franklin Roosevelt",
+    "Richard Nixon",
+    "Robert Jackson",
+    "Edward Levi",
+    "J. Edgar Hoover",
+    "Dr. King"
+  ],
+  "recipient": "Mr. J. B. Adams",
+  "sender": "Legal Counsel"
+}

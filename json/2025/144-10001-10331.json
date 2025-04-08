@@ -1,0 +1,35 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Paper, Textual Document",
+  "security": "The document is classified TOP SECRET UMBRA and TOP SECRET DINAR. Revealing the document would expose signals intelligence (SIGINT) activities related to the John F. Kennedy assassination, which are protected under NSA's classification guidelines. Specifically, the marking '[R] ITEM IS RESTRICTED DRV FM: NSA/CSS Manual 123-2' indicates restrictions apply based on NSA/CSS Manual 123-2, dated 24 February 1998.",
+  "security_level": "TOP SECRET",
+  "summary": "This document is a message regarding the South Korean Foreign Minister being asked to join the South Korean Prime Minister in Washington for President Kennedy's funeral.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA document from the NSA, dated November 24, 1963, relays a message concerning arrangements for the funeral of President John F. Kennedy. The message, originating from Seoul and addressed to the Foreign Minister in New York, details that Prime Minister KIM is scheduled to arrive in Washington on November 25th and invites the Foreign Minister to attend the funeral with him, requesting his presence in Washington by November 24th.",
+  "tags": [
+    "NSA",
+    "John Kennedy Assassination",
+    "Funeral",
+    "South Korea",
+    "Foreign Minister",
+    "Prime Minister",
+    "TOP SECRET UMBRA",
+    "TOP SECRET DINAR",
+    "Signals Intelligence",
+    "SIGINT"
+  ],
+  "title": "3/0/KOD/T1408-63 ROK FOREIGN MINISTER ASKED TO JOIN ROK PRIME MINISTER [R]",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Washington",
+    "Seoul",
+    "New York"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "KIM",
+    "CHO'NG TO SUN"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

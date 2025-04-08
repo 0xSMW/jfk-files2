@@ -1,0 +1,20 @@
+{
+  "entity_name": "P.O. Box",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents reference P.O. boxes in two distinct contexts. One is a P.O. box in Coral Gables, Florida, associated with the identifier \"GRACE HOLMES.\" This P.O. box is mentioned in classified messages sent to multiple CIA stations. The other is P.O. Box 4433 at Brookland Station in Washington, D.C., established under the alias Diego S. Mardones for Officer Gilbert Richmond. The Coral Gables P.O. box appears in messages from December 1963, while the Washington D.C. P.O. box is documented in a 1972 memo. The pattern suggests the use of P.O. boxes for covert communications and operations by the CIA.",
+  "key_connections": [
+    "Grace Holmes",
+    "Coral Gables, Florida",
+    "CIA",
+    "Diego S. Mardones",
+    "Gilbert Richmond",
+    "Washington, D.C."
+  ],
+  "significance": "The significance lies in the use of P.O. boxes as potential communication channels or operational hubs within the CIA, particularly in connection to individuals like Grace Holmes and covert operations. The Coral Gables P.O. box may be relevant to understanding the network and activities surrounding Grace Holmes, while the Washington D.C. P.O. box illustrates the CIA's use of aliases and secure mail drops.",
+  "document_ids": [
+    "104-10101-10124",
+    "104-10121-10217",
+    "104-10290-10055"
+  ]
+}

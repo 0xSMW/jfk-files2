@@ -1,0 +1,32 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "NSA SIGINT Command Center OPSUM",
+  "security": "This document contains signals intelligence (SIGINT), which is a classified source of information. Revealing the details of the operations, stations involved (USA-36, USM-4, USN-16, etc.), or readiness status could compromise NSA's intelligence gathering capabilities and sources. As stated in the document, it contains \"significant intelligence developments...selected from SIGINT, collateral and press...\"",
+  "security_level": "TOP SECRET",
+  "summary": "This NSA SIGINT Command Center report summarizes intelligence and operational developments between November 26-27, 1963, including the termination of an alert in Oriente province, Cuba, following President Kennedy's assassination.",
+  "summary_one_paragraph": "The NSA SIGINT Command Center OPSUM #2028, dated November 27, 1963, details significant intelligence and operational developments monitored between November 26-27. The report includes an update on Cuba, noting the termination of an alert in Oriente province, believed to be prompted by President Kennedy's assassination, and indicates that access restrictions to the coastal observation post at Punta Maisi were lifted. Additionally, the Cuban navy conducted an island-wide communication exercise on November 25, which the report suggests is inconsistent with alert conditions.",
+  "tags": [
+    "NSA",
+    "SIGINT",
+    "Command Center",
+    "OPSUM",
+    "John Kennedy Assassination",
+    "Cuba",
+    "Oriente Province",
+    "Punta Maisi",
+    "Intelligence Developments",
+    "Communications Exercise"
+  ],
+  "title": "NSA SIGINT COMMAND CENTER OPSUM #2028",
+  "date": "1963-11-27",
+  "locations_mentioned": [
+    "Iraq",
+    "Cuba",
+    "Oriente Province",
+    "Punta Maisi"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy"
+  ]
+}

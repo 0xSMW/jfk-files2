@@ -1,0 +1,26 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This document contains COMINT (communications intelligence) and codeword material, the unauthorized disclosure of which is prohibited by law, as stated on the document: \"This Document Contains information affecting the National Defense of the United States within the meaning of the Espionage Laws...the transmission or revelation of which in any manner to an unauthorized person is prohibited by law.\"",
+  "security_level": "SECRET",
+  "summary": "An NSA report indicates the presence of an insurgent group known as the Cuban Revolutionary Junta active inside Cuba, based on clandestine radio sources.",
+  "summary_one_paragraph": "Dated August 31, 1971, this NSA report, disseminated to the FBI, White House, and SECSER, reveals that an insurgent group called the Cuban Revolutionary Junta is purportedly operating within Cuba, according to clandestine radio broadcasts. Specifically, it references a broadcast from \"the Voice of the New Cuba,\" a radio station linked to the Cuban exile group \"Accion Sindical Independiente,\" which appealed to the Cuban people to contact members of the Junta. The report also notes that this radio station had previously transmitted instructions to unidentified insurgent groups.",
+  "tags": [
+    "NSA",
+    "FBI",
+    "COMINT",
+    "Cuban Revolutionary Junta",
+    "Cuba",
+    "Insurgency",
+    "Clandestine Radio",
+    "Accion Sindical Independiente"
+  ],
+  "title": "(RESTRICTED)",
+  "date": "1971-08-31",
+  "locations_mentioned": [
+    "Cuba"
+  ],
+  "origin_agency": "NSA",
+  "recipient": "FBI",
+  "sender": "NSA"
+}

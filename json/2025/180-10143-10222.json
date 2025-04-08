@@ -1,0 +1,52 @@
+{
+  "classification": "Security",
+  "document_type": "Form",
+  "security": "The document contains memos and telexes related to James Earl Ray and Arthur J. Hanes, including information about Hanes being a confidential correspondent for the Office of Security. Richard Helms' note stating 'SUBJECT IS NOT TO BE USED AGAIN BY THE AGENCY' regarding Hanes also poses a security concern if disclosed. The document also indicates CIA had no file on James Earl Ray before assassination.",
+  "security_level": "SECRET",
+  "summary": "This document contains an HSCA identification form for CIA files related to James Earl Ray and Arthur J. Hanes, including telexes, memos, and information regarding their connections to the CIA and FBI.",
+  "summary_one_paragraph": "This HSCA identification form, dated March 25, 1978, identifies CIA files related to James Earl Ray and Arthur J. Hanes. It includes requests for DDO files on Ray, real names of cryptographic references in a June 8, 1968, Ottawa telex, and reports from INS and State Department telexes. The document also contains memos about Arthur J. Hanes's relationship with the CIA Office of Security, including his role as a confidential correspondent and a note from Richard Helms stating Hanes should not be used again by the Agency. Additionally, it mentions a CIA report linking Ray to a possible visit to Cuba and FBI's belief that Ray was in Europe in 1968.",
+  "tags": [
+    "HSCA",
+    "Files",
+    "CIA",
+    "James Earl Ray",
+    "Arthur J. Hanes",
+    "Cryptographic References",
+    "INS",
+    "State Department",
+    "Telexes",
+    "FBI",
+    "Ottawa 5446",
+    "Security Analysis Group",
+    "Richard Helms",
+    "Cuba",
+    "Mexican Airline Official"
+  ],
+  "title": "JFK Assassination System Identification Form",
+  "date": "0000-00-00",
+  "locations_mentioned": [
+    "Ottawa",
+    "San Francisco",
+    "London",
+    "Lisbon",
+    "Las Vegas",
+    "Cuba",
+    "Mexico",
+    "Europe",
+    "Toronto"
+  ],
+  "origin_agency": "HSCA",
+  "persons_mentioned": [
+    "James Earl Ray",
+    "Alan Hausman",
+    "John Reeves Jr",
+    "J. Arthur J. Hanes",
+    "Richard Helms",
+    "Howard J. Osborn",
+    "Elizabeth Dunlevy",
+    "Robert Allen",
+    "Paul Scott",
+    "Fang Nang Chang",
+    "Eric Soalx"
+  ]
+}

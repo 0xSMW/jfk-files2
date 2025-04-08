@@ -1,0 +1,31 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Textual Document",
+  "security": "The document is classified as SECRET and contains information related to diplomatic communications following President Kennedy's assassination. Sharing this document might reveal sensitivities surrounding international relations during that period. The document is marked GROUP 1 EXCLUDED FROM AUTOMATIC DOWNGRADING AND DECLASSIFICATION.",
+  "security_level": "SECRET",
+  "summary": "This document contains the condolences from Cambodia's Secretary of State for Foreign Affairs, Huot Sambat, to Dean Rusk on the death of President John F. Kennedy, expressing the Royal Government's shock and admiration for Kennedy's actions for peace.",
+  "summary_one_paragraph": "On November 23, 1963, Huot Sambat, the Secretary of State for Foreign Affairs of Cambodia, sent a message (310/DP) from Phnom Penh to Dean Rusk in Washington expressing the Royal Government's condolences on the death of President John F. Kennedy; the message conveys their shock at the attack and their respect for Kennedy's efforts towards peace and relaxation of international tensions, while also sharing the American nation's sorrow.",
+  "tags": [
+    "Assassination",
+    "John Kennedy",
+    "Cambodia",
+    "Condolences",
+    "Dean Rusk",
+    "Diplomatic Communication"
+  ],
+  "title": "Cambodian Condolences to Dean Rusk on Death of President Kennedy",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Cambodia",
+    "Phnom Penh",
+    "Washington"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Huot Sambat",
+    "Dean Rusk"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

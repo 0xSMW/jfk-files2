@@ -1,0 +1,29 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "The restriction DRV FM: NSA/CSS Manual 123-2 indicates that certain information within the document is sensitive and restricted, which could reveal intelligence sources or methods if disclosed. Additionally, the document's classification as SECRET MORAY indicates that its content is considered highly sensitive.",
+  "security_level": "SECRET",
+  "summary": "A message indicates that the Bolivian President was unable to travel to Washington due to poor airline connections, according to a communication between the Bolivian Foreign Ministry and Embassy.",
+  "summary_one_paragraph": "This document, originating from the NSA and dated November 27, 1963, relays a message regarding the Bolivian President's inability to visit Washington. According to a communication from the Bolivian Foreign Ministry in La Paz to the Bolivian Embassy in Washington on November 24, 1963, President PAZ was unable to travel due to the lack of suitable airline connections, despite his desire to do so.",
+  "tags": [
+    "Assassination, John Kennedy",
+    "NSA",
+    "Bolivia",
+    "Airline Connections",
+    "Travel",
+    "Diplomacy"
+  ],
+  "title": "Bolivian President Unable to Come to Washington Because of Poor Airline Connections",
+  "date": "1963-11-27",
+  "locations_mentioned": [
+    "Washington",
+    "La Paz, Bolivia"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "President PAZ"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

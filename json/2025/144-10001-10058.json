@@ -1,0 +1,46 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "This document contains sensitive compartmented information and is classified as TOP SECRET UMBRA/DINAR/KIMBO/SABRE. Disclosing specific details about military alerts, subversive operations, and intelligence from various sources (e.g., embassy reports, voice transmissions) could compromise ongoing intelligence activities and reveal sensitive sources and methods. For example, reporting ‘operation 22 directed by subversive elements will commence today’ and that 'Latin American Countries place military units on alert' are pieces of information that should not be shared. These details could lead to the identification of intelligence sources or compromise ongoing operations.",
+  "security_level": "TOP SECRET",
+  "summary": "A NSA report from November 22-23, 1963, details military alerts in Latin American countries (Mexico, Venezuela, Colombia) following a subversive operation in Venezuela, claims about cease-fire insincerity in Laos, Cambodian gratitude towards Peking leaders, and concerns of massacres causing Protestant missionaries to leave Angola.",
+  "summary_one_paragraph": "This TOP SECRET NSA report, dated November 22-23, 1963, compiles intelligence from various global locations. It details military alerts initiated in Mexico, Venezuela, and Colombia, triggered in part by a planned subversive operation in Venezuela targeting the kidnapping of high-ranking officers’ children. The report also notes Kong Le's assertion of Pathet Lao’s insincerity regarding a cease-fire in Laos, Prince Sihanouk of Cambodia expressing gratitude to Peking leaders for their support, and the Portuguese Embassy in Ottawa reporting Protestant missionaries leaving Angola due to fears of massacres.",
+  "tags": [
+    "NSA",
+    "Military Activity",
+    "Mexico",
+    "Venezuela",
+    "Colombia",
+    "Kong Le",
+    "Laos",
+    "Sihanouk",
+    "Cambodia",
+    "Angola",
+    "Protestant Missionaries",
+    "TOP SECRET",
+    "UMBRA",
+    "DINAR",
+    "KIMBO",
+    "SABRE"
+  ],
+  "title": "3/0/00Y/R26-63: LATIN AMERICA COUNTRIES PLACE MILITARY UNITS ON ALERT [R]",
+  "date": "1963-11-22",
+  "locations_mentioned": [
+    "Mexico",
+    "Venezuela",
+    "Columbia",
+    "Laos",
+    "Cambodia",
+    "Angola",
+    "Ottawa, Canada"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Kong Le",
+    "SINGAPO",
+    "SIHANOUK",
+    "MAO TSE TUNG",
+    "LIU CHAO CHI",
+    "CHOU EN LAI"
+  ]
+}

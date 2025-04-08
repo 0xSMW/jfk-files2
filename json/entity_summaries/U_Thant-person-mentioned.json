@@ -1,0 +1,16 @@
+{
+  "entity_name": "U Thant",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, U Thant is mentioned in the context of reports from 1963 and 1964. While the documents do not explicitly detail U Thant's direct involvement in the JFK assassination or related events, he is referenced in reports concerning President Johnson's speech before the United Nations General Assembly. This suggests that U Thant, as a prominent figure in the UN, was present or involved in events that were being monitored and reported on by agencies like the NSA during this period. The documents do not provide a timeline of involvement or specific details about his role, but his presence in these reports indicates his significance as a contemporary figure in international affairs.",
+  "key_connections": [
+    "Lyndon B. Johnson",
+    "United Nations General Assembly"
+  ],
+  "significance": "U Thant's significance in the JFK context is indirect. He appears as a contemporary figure present in the backdrop of international events being monitored following President Kennedy's assassination. His role as a UN figure places him within the sphere of international relations and diplomacy during this period, making his presence in these reports noteworthy, though not directly tied to the assassination itself.",
+  "document_ids": [
+    "144-10001-10077",
+    "144-10001-10060",
+    "144-10001-10120"
+  ]
+}

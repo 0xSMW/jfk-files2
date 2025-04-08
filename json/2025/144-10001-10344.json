@@ -1,0 +1,30 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "The document is marked TOP SECRET UMBRA and TOP SECRET DINAR, indicating highly sensitive information. Releasing the details of communications between the Thai Ambassador and the Foreign Ministry, even regarding condolences, could potentially reveal classified intelligence sources or methods. The DRV (Derived From) restriction from NSA/CSS Manual 123-2 further indicates that the information is based on sensitive intelligence activities.",
+  "security_level": "TOP SECRET",
+  "summary": "This document is a message from the Thai Ambassador informing the Foreign Ministry of his actions following the assassination of President Kennedy, including expressing regrets to Governor Stevenson, issuing a statement, signing the book at the U.S. Mission, and sending a telegram to the Chairman of the U.S. Delegation.",
+  "summary_one_paragraph": "Dated November 29, 1963, this TOP SECRET UMBRA document from the NSA relays a message from the Thai Ambassador in New York to the Foreign Ministry in Bangkok, detailing his immediate response to President Kennedy's assassination. The Ambassador reports that he personally expressed condolences to Governor Stevenson, issued a statement on behalf of the Thai delegation, signed the condolence book at the U.S. Mission, and sent a telegram to the Chairman of the U.S. Delegation. The document's classification and restrictions indicate the sensitivity of the information, derived from NSA/CSS intelligence activities.",
+  "tags": [
+    "JFK Assassination",
+    "Thai Ambassador",
+    "Condolences",
+    "Governor Stevenson",
+    "NSA",
+    "TOP SECRET UMBRA",
+    "TOP SECRET DINAR"
+  ],
+  "title": "Thai Ambassador Informs Foreign Ministry of His Expressing Condolences to U.S.",
+  "date": "1963-11-29",
+  "locations_mentioned": [
+    "New York",
+    "Bangkok"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Governor Stevenson"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

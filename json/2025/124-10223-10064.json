@@ -1,0 +1,32 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Teletype",
+  "security": "Revealing details of ongoing investigations, such as monitoring John Rosselli's financial transactions and movements, could compromise investigative techniques and sources. Disclosing that 'NEIGHBORHOOD SOURCE ADVISED SOMEONE, IDENTITY NOT KNOWN, AT ROSSELLI-S LOS ANGELES APARTMENT NIGHT OF OCTOBER TWENTY TWO DASH TWENTY THREE LAST' could endanger the source and hinder future intelligence gathering. Similarly, mentioning 'SOURCE AT UNION BANK STATED THIS CHECK DATED OCTOBER SIXTEEN LAST, DRAWN ON EMANUEL ROTHMAN, CLIENT-S TRUST ACCOUNT, PAYABLE TO JOHN ROSSELLI' could reveal confidential banking relationships and impede financial investigations.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An FBI teletype from the Los Angeles SAC to the Director, FBI and SAC Las Vegas, dated October 23, 1962, reports on John Rosselli's activities, including his presence in Las Vegas and financial transactions involving checks from Emanuel Rothman's trust account.",
+  "summary_one_paragraph": "On October 23, 1962, the FBI SAC in Los Angeles sent an urgent teletype to the Director, FBI, and the SAC in Las Vegas, detailing recent intelligence on John Rosselli, aka. The report indicates Rosselli was in Las Vegas, as learned from an informant at the Friars Club in Beverly Hills. A neighborhood source observed activity at Rosselli's Los Angeles apartment. Records from Fidelity Bank show Rosselli deposited a check for $7,141.66 drawn on Emanuel Rothman’s trust account at Union Bank, marked as 'Distribution of Assets, B and R Enterprises'; Rothman serves as Rosselli's auditor. Additionally, Rosselli issued checks for $275 each to Diplomat Apartments in Las Vegas for rent, an increase from his previous $200 per month, prompting Las Vegas to investigate potential changes in his living arrangements.",
+  "tags": [
+    "FBI",
+    "John Rosselli",
+    "Emanuel Rothman",
+    "Las Vegas",
+    "Financial Transactions",
+    "Surveillance",
+    "Informant",
+    "B and R Enterprises"
+  ],
+  "title": "Untitled (Report on John Rosselli)",
+  "date": "1962-10-23",
+  "locations_mentioned": [
+    "Los Angeles, California",
+    "Las Vegas, Nevada",
+    "Beverly Hills, California"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Rosselli",
+    "Emanuel Rothman"
+  ],
+  "recipient": "Director, FBI; SAC, Las Vegas",
+  "sender": "SAC, Los Angeles"
+}

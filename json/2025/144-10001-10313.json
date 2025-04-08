@@ -1,0 +1,33 @@
+{
+  "classification": "JFK ASSASSINATION",
+  "document_type": "TEXTUAL DOCUMENT",
+  "security": "This document is classified TOP SECRET UMBRA and TOP SECRET DINAR, indicating highly sensitive information.  The document's restricted status and specific DRV FM restrictions (X1, X3, X5, X6, X7, X8) suggest that its release could reveal sensitive intelligence sources or methods.  The comment '[R] - ITEM IS RESTRICTED DRV FM: NSA/CSS Manual 123-2' further supports this assessment.",
+  "security_level": "TOP SECRET",
+  "summary": "An NSA document, dated November 24, 1963, indicates that the Iraqi Ambassador was instructed to attend President Kennedy's funeral and lay a wreath.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA/DINAR document from the NSA, dated November 24, 1963, reveals that following the assassination of President John F. Kennedy, the Iraqi government instructed its ambassador in Washington to participate in the funeral services and to lay a wreath in the name of the Iraqi President. The message, originating from Baghdad and addressed to the Iraqi embassy in Washington, is marked with NSA record number 144-10001-10313 and agency file number 3/0/IQD/T1343-63, and it is subject to restrictions outlined in NSA/CSS Manual 123-2.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Iraqi Ambassador",
+    "Funeral",
+    "Diplomacy",
+    "Intelligence",
+    "TOP SECRET",
+    "UMBRA",
+    "DINAR"
+  ],
+  "title": "KENNEDY ASSASSINATION: IRAQI AMBASSADOR INSTRUCTED TO [R]",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Washington",
+    "Baghdad"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Iraqi Ambassador",
+    "Iraqi President"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

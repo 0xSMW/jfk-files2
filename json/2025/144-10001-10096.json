@@ -1,0 +1,25 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "Disclosing Castro's analysis of the assassination could affect current U.S.-Cuban relations and reveal intelligence collection methods. The document contains sensitive compartmented information.",
+  "security_level": "SECRET",
+  "summary": "This NSA report, dated November 29, 1963, relays Fidel Castro's perspective on President Kennedy's assassination, where he suggests a sinister plot by U.S. reactionaries to implicate Cuba. Castro also discusses Cuba's economic progress and future sugar production.",
+  "summary_one_paragraph": "An NSA report from November 29, 1963, details Fidel Castro's reaction to President Kennedy's assassination, conveyed from Havana to the Cuban Embassy in Accra. In his statement, Castro alleges a plot by U.S. reactionaries to frame Cuba by implicating Lee Harvey Oswald, suggesting Oswald's trip to Mexico was orchestrated to link Cuba to the assassination and discredit the Cuban Revolution. Castro also discusses Cuba's economic advancements, predicting increased sugar production and improved foreign trade by 1970.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Castro",
+    "Cuba",
+    "Lee Harvey Oswald",
+    "Reaction to Assassination",
+    "Diplomatic Activity"
+  ],
+  "title": "2X/0/CUD/T2456-63: CASTRO SPEAKS ON PRESIDENT KENNEDY'S ASSASSINATION [R]",
+  "persons_mentioned": [
+    "Fidel Castro",
+    "President Kennedy",
+    "Lee Harvey Oswald"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

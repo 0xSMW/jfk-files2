@@ -1,0 +1,38 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "The document contains sensitive compartmented information and protests the treatment of a Cuban consulate employee. Releasing details of compartmented information and the specific allegations of mistreatment could damage intelligence operations and diplomatic relations. \"CONTAINS SENSITIVE COMPARTMENTED INFORMATION\"",
+  "security_level": "TOP SECRET",
+  "summary": "This NSA report transcribes a Cuban letter of protest to Mexico regarding the alleged maltreatment of Cuban consulate employee Silvia Duran and implicates the CIA in a conspiracy related to the Kennedy assassination. The protest stems from Duran's interrogation about Lee Harvey Oswald's visa application and accuses Mexican police of complicity with those who planned Kennedy's assassination.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA report from the NSA, dated November 30, 1963, details the text of a Cuban letter of protest delivered to Mexico concerning the treatment of Silvia Duran, an employee of the Cuban consulate in Mexico City, following her interrogation about Lee Harvey Oswald's request for a transit visa. The Cuban government, through Minister Raul Roa, accuses Mexican police of mistreating Duran, including physical abuse and coercive questioning, and insinuates that this treatment is part of a larger reactionary plan connected to Kennedy's assassination aimed at falsely implicating Cuba. The letter asserts that these actions damage the friendly relations between Cuba and Mexico.",
+  "tags": [
+    "NSA",
+    "Cuba",
+    "Mexico",
+    "Silvia Duran",
+    "Lee Harvey Oswald",
+    "JFK Assassination",
+    "Protest",
+    "Diplomatic Activity",
+    "Compartmented Information"
+  ],
+  "title": "3/0/CUD/T1396-63: TEXT OF CUBAN LETTER OF PROTEST TO MEXICO",
+  "conspiracy": "The document claims the assassination of President Kennedy was planned by reactionaries in the United States to promote a policy of retrogression and was continued on infamous accusations against Cuba and other countries.",
+  "date": "1963-11-30",
+  "locations_mentioned": [
+    "Cuba",
+    "Mexico",
+    "Mexico City",
+    "United States",
+    "Havana",
+    "New York"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Silvia Duran",
+    "Lee Harvey Oswald",
+    "President Kennedy",
+    "Raul Roa"
+  ],
+  "recipient": "HCF"
+}

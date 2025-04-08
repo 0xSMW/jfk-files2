@@ -1,0 +1,36 @@
+{
+  "classification": "Liaison",
+  "document_type": "Letter",
+  "security": "Releasing information without proper clearance from the RCMP is prohibited. Quoting directly: 'May not be made without further clearance with RCMP'. This restriction is in place to respect the RCMP's intelligence-sharing agreements and operational sensitivities.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A letter from the FBI Legal Attache in Ottawa to the FBI Director regarding information received from the Royal Canadian Mounted Police (RCMP) concerning Samuel and Gabriel Mannarino and their associates.",
+  "summary_one_paragraph": "On August 22, 1958, the FBI Legal Attache in Ottawa sent a letter to the FBI Director, relaying information from the RCMP regarding Samuel and Gabriel Mannarino. Enclosed were RCMP documents identifying Ben Littman (Benjamin Leitman) and Ernie Shimanky (Ernest Chamandy) in Toronto, Ontario. The RCMP noted that while Littman was considered a potential suspect in illicit drug traffic, Chamandy was not. The letter specified that further dissemination of this information required clearance from the RCMP and indicated offices interested in receiving copies of the enclosures, including the Pittsburgh FBI office.",
+  "tags": [
+    "FBI",
+    "RCMP",
+    "Samuel Mannarino",
+    "Gabriel Mannarino",
+    "Ben Littman",
+    "Ernest Chamandy",
+    "Anti-Racketeering",
+    "Drug Traffic"
+  ],
+  "title": "Character",
+  "date": "1958-08-22",
+  "locations_mentioned": [
+    "Ottawa",
+    "Toronto, Ontario",
+    "Pittsburgh"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Samuel Mannarino",
+    "Gabriel Mannarino",
+    "Ben Littman",
+    "Benjamin Leitman",
+    "Ernie Shimanky",
+    "Ernest Chamandy"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "LEG, OT"
+}

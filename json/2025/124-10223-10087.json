@@ -1,0 +1,41 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Paper, Textual Document",
+  "security": "Releasing information about ongoing surveillance activities could compromise current investigations and alert the subject, John Rosselli, to law enforcement's interest in his whereabouts. The document reveals a specific surveillance tactic, physical surveillance, and its immediate results. Quoting directly: 'ROSSELLI NOT AT LOS ANGELES APARTMENT NOR AT USUAL HANGOUTS NOV. SIXTEEN INSTANT ACCORDING TO NEIGHBORHOOD SOURCES, PHYSICAL SURVEILLANCE'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An FBI urgent message reports that John Rosselli was not found at his Los Angeles apartment or usual hangouts on November 16, 1962, based on neighborhood sources and physical surveillance.",
+  "summary_one_paragraph": "On November 16, 1962, the SAC (Special Agent in Charge) of the Los Angeles FBI office sent an urgent message to the Director of the FBI reporting that John Rosselli, also known as AR, was not present at his Los Angeles apartment nor at his usual hangouts. This information was obtained through neighborhood sources and physical surveillance conducted by TAESUAR R and LA FOUR TWO SIX EIGHT DASH C.",
+  "tags": [
+    "FBI",
+    "John Rosselli",
+    "Surveillance",
+    "Los Angeles",
+    "Hangouts"
+  ],
+  "title": "FBI Report on John Rosselli's Whereabouts",
+  "date": "1962-11-16",
+  "locations_mentioned": [
+    "Los Angeles"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Rosselli",
+    "Mr. Tolson",
+    "Mr. Belmont",
+    "Mr. Mohr",
+    "Mr. Casper",
+    "Mr. Callahan",
+    "Mr. Conrad",
+    "Mr. DeLoach",
+    "Mr. Evans",
+    "Mr. Gale",
+    "Mr. Rosen",
+    "Mr. Sullivan",
+    "Mr. Tavel",
+    "Mr. Trotter",
+    "Miss Holmes",
+    "Miss Gandy"
+  ],
+  "recipient": "DIRECTOR, FBI",
+  "sender": "SAC, LA"
+}

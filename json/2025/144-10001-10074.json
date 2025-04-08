@@ -1,0 +1,33 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "This document contains compartmented information, as indicated by the 'CONTAIN SENSITIVE COMPARTMENTED INFORMATION' comment and 'XRAY HANDLING REQUIRED' marking. Dissemination to unauthorized individuals could reveal intelligence sources and methods, or compromise sensitive diplomatic relations.",
+  "security_level": "TOP SECRET",
+  "summary": "An NSA report indicates that the American Ambassador to Turkey believed that Russia and Cuba were involved in President Kennedy's assassination.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA report, dated November 25, 1963, from the NSA, relays information that the American Ambassador to Turkey expressed his belief that Russia and Cuba were involved in President Kennedy's assassination. The message, routed to HCF, originated from the American Embassy in Khartoum and was sent to the Foreign Ministry in Ankara. The report, identified as Turkish TUDN WS N-9004 3/0/X/T84-63, emphasizes that the document contains sensitive compartmented information and requires XRAY handling, explicitly prohibiting foreign dissemination.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Russia",
+    "Cuba",
+    "Diplomatic Activity",
+    "Turkey",
+    "American Ambassador",
+    "Compartmented Information",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "3/0/X/T84-63: American Ambassador Believes Russia and Cuba Involved",
+  "conspiracy": "This document suggests a potential belief, at the time, that Russia and Cuba might have been involved in President Kennedy's death. However, it doesn't provide conclusive evidence or details about the assassination itself; it merely reflects an opinion attributed to the American Ambassador.",
+  "date": "1963-11-25",
+  "locations_mentioned": [
+    "Turkey",
+    "Khartoum",
+    "Ankara"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President John F. Kennedy"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA [R]"
+}

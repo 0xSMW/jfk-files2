@@ -1,0 +1,34 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "The document is classified TOP SECRET UMBRA/DINAR. Disclosing that the NSA intercepted and disseminated a foreign minister's private evaluation of President Johnson could damage diplomatic relations.",
+  "security_level": "TOP SECRET",
+  "summary": "This NSA document contains a message relaying the Belgian Foreign Minister's positive evaluation of President Lyndon Johnson shortly after President Kennedy's assassination, assuring confidence in Johnson's commitment to Kennedy's policies.",
+  "summary_one_paragraph": "Dated November 26, 1963, this TOP SECRET UMBRA/DINAR document from the NSA relays a message from the Belgian Foreign Minister, SPAAK, to the Belgian Embassy in Washington. In response to a question about his impressions of President Lyndon Johnson, SPAAK expresses confidence based on prior conversations, stating that Johnson shared President Kennedy’s political ideas and would continue Kennedy’s policies, urging cooperation with the new President.",
+  "tags": [
+    "NSA",
+    "Lyndon Johnson",
+    "Belgian Foreign Minister",
+    "Evaluation",
+    "President Kennedy",
+    "Diplomacy",
+    "TOP SECRET",
+    "UMBRA",
+    "DINAR"
+  ],
+  "title": "Belgian Foreign Minister Evaluates President Johnson",
+  "date": "1963-11-26",
+  "locations_mentioned": [
+    "Belgium",
+    "Brussels",
+    "Washington"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Lyndon Johnson",
+    "President Kennedy",
+    "SPAAK"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

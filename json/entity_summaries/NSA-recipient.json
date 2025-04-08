@@ -1,0 +1,21 @@
+{
+  "entity_name": "NSA",
+  "entity_type": "recipient",
+  "document_count": 3,
+  "summary": "The National Security Agency (NSA) played a role in responding to inquiries from the House Select Committee on Assassinations (HSCA) regarding the JFK assassination. The NSA reviewed materials, including signals intelligence and Cuban communications, to determine if there was any Cuban involvement. They provided information to the HSCA and classified certain portions of reports due to sensitive communications intelligence. The NSA's involvement spans from at least 1977 to 1978, as evidenced by memoranda detailing their responses to the HSCA's requests and their review of relevant materials. The documents suggest a pattern of cooperation with congressional committees investigating the assassination, while also protecting sensitive intelligence information.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Senate Select Committee on Intelligence (SSCI)",
+    "Julia Wetzel",
+    "Nicholas B. Stevenson",
+    "Cuban intelligence networks",
+    "John F. Kennedy",
+    "Martin Luther King, Jr."
+  ],
+  "significance": "The NSA's significance in the JFK assassination context lies in its role as a holder of signals intelligence and communications data that could potentially shed light on any foreign involvement, particularly from Cuba. Their cooperation with the HSCA and SSCI, while also safeguarding sensitive information, highlights their position as a key agency in the investigation.",
+  "document_ids": [
+    "144-10001-10175",
+    "144-10001-10206",
+    "144-10001-10164"
+  ]
+}

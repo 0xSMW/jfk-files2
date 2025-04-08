@@ -1,0 +1,34 @@
+{
+  "classification": "Cuba",
+  "document_type": "COMINT Report",
+  "security": "Revealing that the National Security Agency (NSA) intercepts and analyzes Cuban communications could compromise intelligence sources and methods. The alert's cancellation may have been misrepresented, and sharing the information could enable Cuba to adjust its communication practices. The alert in Oriente Province (see 2/0/CUN/R196-63) is believed to be terminated.",
+  "security_level": "SECRET KIMBO",
+  "summary": "This National Security Agency (NSA) COMINT report, dated November 26, 1963, indicates that an alert in Oriente Province, Cuba, possibly prompted by President Kennedy's death, was believed to have been terminated as of November 25, 1963.",
+  "summary_one_paragraph": "This SECRET KIMBO COMINT report from the National Security Agency (NSA), dated November 26, 1963, suggests that an alert in Oriente Province, Cuba, initiated around the time of President Kennedy's assassination on November 22, 1963, was likely terminated on November 25, 1963; this conclusion is based on orders restricting access to the Coastal Observation Post at Punta Maisi until that date and the absence of further communications regarding the alert, with Cuban naval communications returning to normal with an island-wide exercise on November 25. The report also notes that communications from CRAF (Cuban Revolutionary Armed Forces) and Soviet Forces in Cuba appeared normal during the period from November 22-26, 1963.",
+  "tags": [
+    "NSA",
+    "COMINT",
+    "Cuba",
+    "Oriente Province",
+    "Kennedy Assassination",
+    "Alert Termination",
+    "Punta Maisi",
+    "Cuban Navy",
+    "Soviet Forces Cuba",
+    "CRAF"
+  ],
+  "title": "Alert in Oriente Province Believed to Be Terminated",
+  "date": "1963-11-26",
+  "locations_mentioned": [
+    "Oriente Province",
+    "Cuba",
+    "Punta Maisi",
+    "Banes",
+    "Santiago de Cuba"
+  ],
+  "origin_agency": "National Security Agency (NSA)",
+  "persons_mentioned": [
+    "President Kennedy"
+  ],
+  "recipient": "O/WA, CG 2ND MAW"
+}

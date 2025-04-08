@@ -1,0 +1,43 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "Identifying individuals associated with Gabriel Mannarino by name and profession could compromise ongoing investigations and put those individuals at risk. Directly quoting: 'There follows a descriptive-type characterization for those individuals whose identities were concealed in referenced report by use of T-symbols.' Revealing those characterizations exposes law enforcement methods and sources.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This FBI memorandum from July 28, 1961, details descriptive characterizations for individuals associated with Gabriel Mannarino, an individual involved in anti-racketeering activities in Pittsburgh and surrounding areas, and identifies those individuals behind T-symbols used in a referenced report.",
+  "summary_one_paragraph": "An FBI memorandum, dated July 28, 1961, from the SAC (Special Agent in Charge) of Pittsburgh to the Director of the FBI, provides descriptive profiles of individuals connected to Gabriel Mannarino, a key figure in anti-racketeering efforts. The memo includes a list correlating T-symbols (PG T-1 through PG T-27 and MMT-1) with various persons such as real estate experts, numbers writers, physicians, police officers, prostitutes, businessmen, and gamblers in Western Pennsylvania, Miami Beach, and formerly in Havana, Cuba, who have associations or transactions with Mannarino or his organization.",
+  "tags": [
+    "FBI",
+    "Gabriel Mannarino",
+    "Anti-Racketeering",
+    "Pittsburgh",
+    "T-symbols",
+    "Criminal Intelligence",
+    "Informants"
+  ],
+  "title": "Gabriel Mannarino, aka.",
+  "date": "1961-07-28",
+  "locations_mentioned": [
+    "Pittsburgh, Pennsylvania",
+    "Westmoreland County, Pennsylvania",
+    "New Kensington, Pennsylvania",
+    "Las Vegas, Nevada",
+    "Miami, Florida",
+    "Fayette County, Pennsylvania",
+    "Allegheny Township, Westmoreland County, Pennsylvania",
+    "Turtle Creek Valley, Allegheny County, Pennsylvania",
+    "Havana, Cuba",
+    "Wheeling, West Virginia",
+    "Parnassus, Pennsylvania",
+    "Farrell, Pennsylvania",
+    "Allegheny County, Pennsylvania",
+    "Miami Beach, Florida"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Gabriel Mannarino",
+    "Samuel Mannarino",
+    "Thomas G. Forsyth III"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, PG"
+}

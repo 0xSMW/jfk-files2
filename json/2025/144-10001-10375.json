@@ -1,0 +1,35 @@
+{
+  "classification": "Soviet",
+  "document_type": "Report",
+  "security": "Disclosing that the NSA intercepted and analyzed Soviet military communications could reveal specific signals intelligence capabilities, including the frequencies monitored (UHF, VHF), communication protocols, and unit identifiers. This could enable adversaries to develop countermeasures to evade detection. Additionally, revealing the content of the communications, such as the news of President Kennedy's assassination being disseminated through Soviet channels, could be interpreted as a violation of privacy and lead to diplomatic issues. It also reveals how the NSA may exploit communications regarding tragic events to obtain information regarding its adversaries.",
+  "security_level": "SECRET",
+  "summary": "This NSA report details intercepted Soviet military communications, including the dissemination of news regarding President Kennedy's assassination on Soviet multi-channel facilities and routine communications about new regulations and unit reviews within the Group of Soviet Forces Germany and Tactical Air Force East Germany.",
+  "summary_one_paragraph": "This NSA report, dated 10/09/98 but referencing events in November 1963, summarizes intercepted Soviet military communications. It details how news of President Kennedy's assassination was transmitted on the Moscow to Hq GSFG R-4ØØ radio relay line. Additional interceptions included conversations about new regulations within the Group of Soviet Forces Germany and directions for the Tactical Air Force East Germany to begin a quarterly review of permanent party. The report identifies specific radio frequencies and unit identifiers involved in these communications.",
+  "tags": [
+    "NSA",
+    "Soviet Military Communications",
+    "JFK Assassination",
+    "Signals Intelligence",
+    "GSFG",
+    "Tactical Air Force East Germany",
+    "Radio Intercept",
+    "SECRET SPOKE",
+    "SECRET KIMBO"
+  ],
+  "title": "2/0/RUJ/R04-64 News of President Kennedy's Assassination Passed on Sov [R]",
+  "conspiracy": "The document confirms that the news of President Kennedy's assassination was rapidly disseminated within Soviet military channels, indicating the event's significance to the Soviet Union. However, this document does not provide information about why or how JFK was killed.",
+  "date": "1964-00-00",
+  "locations_mentioned": [
+    "Germany",
+    "Moscow",
+    "East Germany",
+    "Lonnewitz",
+    "Merseburg"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy"
+  ],
+  "recipient": "Unknown",
+  "sender": "NSA"
+}

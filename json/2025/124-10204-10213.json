@@ -1,0 +1,44 @@
+{
+  "classification": "Cuba",
+  "document_type": "Airtel",
+  "security": "Information pertains to possible criminal activities of individuals and associations thereof. Revealing names and relationships could compromise ongoing investigations or alert subjects of interest.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This FBI airtel from November 25, 1966, details information provided by a confidential source (NO 1457-C-TE) regarding Santo Trafficante Jr.'s associations and whereabouts, including meetings with Carlos Marcello and Joseph Marcello in Florida and Louisiana.",
+  "summary_one_paragraph": "An FBI airtel, dated November 25, 1966, from the SAC of the New Orleans office to the Director of the FBI, reports on information received from informant NO 1457-C-TE concerning Santo Trafficante Jr.'s activities and associations. The informant detailed a meeting in early June 1966 between Carlos Marcello, Joseph Marcello, and their wives, who traveled from New Orleans to Tampa to visit Trafficante. They were met by Primo Lazzaro and his wife, Alice Lazzaro, who acted as intermediaries. The report also mentions Trafficante's visit to Carlos Marcello's estate on July 4, 1966, and a subsequent gathering at Marcello's rented home in Covington, Louisiana, on July 6, 1966.",
+  "tags": [
+    "FBI",
+    "Santo Trafficante Jr.",
+    "Carlos Marcello",
+    "Joseph Marcello",
+    "Primo Lazzaro",
+    "Alice Lazzaro",
+    "Informant",
+    "Organized Crime",
+    "Tampa",
+    "New Orleans",
+    "Churchill Farms",
+    "Covington",
+    "Mob",
+    "1966"
+  ],
+  "title": "SANTO TRAFFICANTE, JR., aka",
+  "date": "1966-11-25",
+  "locations_mentioned": [
+    "Tampa, Florida",
+    "New Orleans, Louisiana",
+    "St. Petersburg, Florida",
+    "Covington, Louisiana",
+    "Cuba"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Santo Trafficante Jr.",
+    "Carlos Marcello",
+    "Joseph Marcello",
+    "Primo Lazzaro",
+    "Alice Lazzaro",
+    "Patrick J. Collins Jr."
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, New Orleans"
+}

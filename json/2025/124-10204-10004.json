@@ -1,0 +1,37 @@
+{
+  "classification": "Liaison",
+  "document_type": "Airtel/Memorandum",
+  "security": "Releasing details about the subject's travel and contacts could compromise ongoing investigations and alert the subject to law enforcement interest. Quoting directly: 'Attention is called to the alleged statement by ALEX that he knew very well he was being watched by the police by order of his native country.'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An FBI Airtel from the Legat in Bern reports on information received from the Swiss Central Police Bureau regarding Gus Alex's travels and contacts in Switzerland, including details about his companion Dietgard Fueger and their activities.",
+  "summary_one_paragraph": "This Airtel from the FBI Legat in Bern, dated January 4, 1965, relays information from the Swiss Central Police Bureau regarding Gus Alex's activities in Switzerland. Alex arrived in Zurich on December 20, 1964, accompanied by Dietgard Fueger, who checked into the Dolder Grand Hotel. Their movements, including a trip to Pontresina and various phone calls, were tracked. The report also notes Alex's awareness of being monitored by the police, based on a statement he allegedly made to a taxi driver. Copies of the communication were designated for Legats in Bonn and Chicago due to previous investigations involving Alex.",
+  "tags": [
+    "FBI",
+    "Gus Alex",
+    "Switzerland",
+    "Swiss Central Police Bureau",
+    "Dietgard Fueger",
+    "Surveillance",
+    "Travel Records",
+    "Liaison"
+  ],
+  "title": "GUS ALEX, aka",
+  "date": "1965-01-04",
+  "locations_mentioned": [
+    "Bern, Switzerland",
+    "Zurich, Switzerland",
+    "Zurich-Kloten Airport",
+    "Dolder Grand Hotel",
+    "Pontresina",
+    "Munich, Germany",
+    "Giessen, Germany",
+    "Evergreen Park, USA"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Gus Alex",
+    "Dietgard Fueger"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "Legat, Bern"
+}

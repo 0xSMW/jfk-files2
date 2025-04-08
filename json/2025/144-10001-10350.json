@@ -1,0 +1,29 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Cable",
+  "security": "Revealing the specific intelligence interests of the NSA, such as monitoring reactions in Prague to the Kennedy assassination, could provide adversaries insight into US surveillance priorities and methods. Disclosing the existence of TOP SECRET UMBRA intelligence could compromise current intelligence operations and sources. The document is marked TOP SECRET UMBRA.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A Turkish intelligence cable reports on reactions in Prague to the assassination of President John F. Kennedy, noting grief and anxiety among the local population and a more reserved response from the government.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA cable, dated December 6, 1963, relays a report from Prague regarding the reactions to President John F. Kennedy's assassination. The cable notes that while the general population in Prague expressed grief and anxiety, with large crowds gathering at the American Embassy and signing a memorial book, the government showed minimal interest, as evidenced by the limited attendance of officials at memorial services and the absence of flags at half-mast on official buildings. The press, however, characterized the assassination as a crime against world peace, expressing concern that the new American administration might shift policies under right-wing influence.",
+  "tags": [
+    "JFK Assassination",
+    "NSA",
+    "Prague",
+    "Reactions",
+    "Turkish Intelligence",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "Reactions in Prague to Kennedy Murder",
+  "date": "1963-12-06",
+  "locations_mentioned": [
+    "Prague",
+    "Ankara",
+    "Washington"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

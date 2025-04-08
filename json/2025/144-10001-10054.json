@@ -1,0 +1,34 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "Mentioning diplomatic circles considering Robert Kennedy as a leading contender, particularly in relation to diplomatic activity involving Chile, could be considered sensitive.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A report from BOSSAY in New York to the Foreign Ministry in Santiago, Chile, discusses Robert Kennedy as a leading contender to succeed his brother in the 1964 presidential campaign following President Kennedy's death.",
+  "summary_one_paragraph": "Dated November 25, 1963, this top-secret report, originating from BOSSAY in New York and addressed to the Foreign Ministry in Santiago, Chile, discusses the potential succession of the presidency following John F. Kennedy's assassination. The report suggests that Attorney General Robert Kennedy was considered a leading contender for the 1964 presidential campaign. It also notes that Lyndon Johnson, the Vice President, took the oath of office as President and would serve until January 20, 1965, and that McCormack would be next in line.",
+  "tags": [
+    "Robert Kennedy",
+    "Presidential Campaign, 1964",
+    "Chile",
+    "Diplomatic Activity",
+    "Lyndon Johnson",
+    "Succession",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "3/0/CLD/T1076-63: ROBERT KENNEDY VIEWED AS LEADING CONTENDER TO [R]",
+  "date": "1963-11-25",
+  "locations_mentioned": [
+    "New York",
+    "Santiago",
+    "Chile",
+    "Texas",
+    "Massachusetts"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Robert Kennedy",
+    "Lyndon Johnson",
+    "Maccormack"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

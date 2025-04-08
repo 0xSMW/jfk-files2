@@ -1,0 +1,30 @@
+{
+  "entity_name": "SAC, New York",
+  "entity_type": "sender",
+  "document_count": 4,
+  "summary": "The SAC (Special Agent in Charge) of the New York FBI office was a key sender of information related to various investigations during the early to mid-1960s. The office was involved in investigations concerning individuals with connections to Cuba, the OAS, and potential Soviet influence. They coordinated with other agencies like the CIA and the Paris Office of the FBI, sharing information on individuals of interest. The New York office also utilized confidential informants, such as a CBS news reporter, to gather intelligence on Soviet and satellite nationals. The documents suggest a focus on counterintelligence and monitoring individuals with suspected ties to communist or anti-Castro activities.",
+  "key_connections": [
+    "Director of the FBI",
+    "Washington Field Office",
+    "Alderson family",
+    "Captain Souetre",
+    "JACQUES HERVE (Paris Office)",
+    "CIA",
+    "Angela Prince Moutsos",
+    "Pedros Moutsos",
+    "Samuel Adason Jaffe",
+    "CBS",
+    "Richard Thomas Gibson",
+    "Frances Kelley",
+    "Robert Williams",
+    "Fair Play for Cuba Committee",
+    "Monthly Review"
+  ],
+  "significance": "The SAC, New York's significance in the JFK context lies in its role as a regional hub for FBI investigations related to individuals and organizations potentially connected to Cuba, communism, or other activities deemed relevant to national security during the Cold War. While the provided documents do not directly mention the JFK assassination, the office's involvement in monitoring individuals with connections to Cuba and its coordination with other agencies could be relevant to understanding the broader intelligence landscape surrounding the event.",
+  "document_ids": [
+    "144-10001-10201",
+    "124-90140-10005",
+    "124-10274-10044",
+    "124-90146-10108"
+  ]
+}

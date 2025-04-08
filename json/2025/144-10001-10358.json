@@ -1,0 +1,40 @@
+{
+  "classification": "John Kennedy Assassination",
+  "document_type": "Textual Document",
+  "security": "The document contains information regarding diplomatic communications and attendance at events following President Kennedy's assassination, which in itself does not pose a direct security risk. However, the potential sensitivity lies in revealing communication channels and intelligence interests related to foreign affairs and specific countries. For example, the document includes details of conversations with foreign dignitaries concerning recognition of the South Vietnamese government.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A summary of activities in the United States related to President Kennedy's funeral, detailing attendance at ceremonies and diplomatic communications regarding recognition for South Vietnam.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA document from November 28, 1963, summarizes activities in the United States following the assassination of President John F. Kennedy. It details Tran Chanh Thanh's attendance at various ceremonies, including the procession, mass, burial, and receptions by the Kennedy family and the President. The summary also recounts diplomatic efforts to secure recognition for South Vietnam, including discussions with the Tunisian Secretary of State for Foreign Affairs and the Head of the Swiss Department for Policy, as well as a presentation to President De Gaulle regarding the improving situation in South Vietnam.",
+  "tags": [
+    "Assassination",
+    "John Kennedy",
+    "NSA",
+    "Diplomacy",
+    "South Vietnam",
+    "Tran Chanh Thanh",
+    "De Gaulle",
+    "Tunisia",
+    "Switzerland"
+  ],
+  "title": "3/0/VND/T449-63 SUMMARY OF ACTIVITIES IN UNITED STATES [R]",
+  "date": "1963-11-28",
+  "locations_mentioned": [
+    "United States",
+    "Washington",
+    "Saigon",
+    "Tunisia",
+    "New York",
+    "Switzerland"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Tran Chanh Thanh",
+    "Bahi Ladgham",
+    "Bourguiba",
+    "Wahlen",
+    "De Gaulle"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

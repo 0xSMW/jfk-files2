@@ -1,0 +1,32 @@
+{
+  "classification": "Assassination",
+  "document_type": "Paper, Textual Document",
+  "security": "This document pertains to Cambodian-American relations following President Kennedy's assassination and discusses refuting claims about American aid being conditional and the Cambodian Embassy closure in London. The document is classified as SECRET and marked with restrictions. Exposing the communication could reveal sensitive diplomatic exchanges and intelligence assessments related to Cambodia and American foreign policy in the aftermath of Kennedy's death.",
+  "security_level": "S",
+  "summary": "This document from the NSA, dated January 1, 1964, discusses Cambodian-American relations following the assassination of President Kennedy and addresses concerns about American aid and the closure of the Cambodian Embassy in London.",
+  "summary_one_paragraph": "This NSA document, dated January 1, 1964, outlines the need to refute claims that American aid is dangerous because it is conditional, referencing articles by His Royal Highness published in the Nationalist in December 1963. It explains that Cambodian-American relations have deteriorated due to perceived injustices by the American Administration, aggravated by accusations against Cambodia following President Kennedy's death and the American refusal to guarantee Cambodian neutrality and integrity. The document also addresses the closing of the Cambodian Embassy in London as an economic, not political, measure, ensuring that relations between the two countries will continue through the British Ambassador in Phnom Penh.",
+  "tags": [
+    "Assassination",
+    "John Kennedy",
+    "Cambodian-American Relations",
+    "American Aid",
+    "Embassy Closure",
+    "Neutrality",
+    "Diplomacy"
+  ],
+  "title": "2X/0/CED/T02-64 CAMBODIAN-AMERICAN RELATIONS EXPLAINED TO CAMBODIAN AM [R]",
+  "date": "1964-01-01",
+  "locations_mentioned": [
+    "Cambodia",
+    "Phnom Penh",
+    "New Delhi",
+    "London"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "His Royal Highness"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

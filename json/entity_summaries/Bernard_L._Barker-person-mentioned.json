@@ -1,0 +1,24 @@
+{
+  "entity_name": "Bernard L. Barker",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Bernard L. Barker is identified as an individual connected to the Watergate incident. He is mentioned in relation to CIA connections to individuals and organizations involved in the Watergate break-in. A memorandum from the CIA to the FBI summarizes information regarding individuals and companies connected to the Watergate incident, including Bernard Barker, detailing their past or present associations with the CIA. Barker's involvement is also linked to a $25,000 check related to Dwayne Orville Andreas and the First Oceanic Corporation. He appears to be part of a network of individuals with ties to the CIA who were involved in the Watergate scandal.",
+  "key_connections": [
+    "Frank Sturgis",
+    "Eugenio Martinez",
+    "Virgilio Gonzales",
+    "Robert R. Mullen Company",
+    "General Foods Corporation",
+    "James McCord",
+    "Dwayne Orville Andreas",
+    "First Oceanic Corporation"
+  ],
+  "significance": "While the documents provided do not directly link Bernard L. Barker to the JFK assassination, they highlight his involvement in the Watergate scandal and his connections to individuals and organizations with ties to the CIA. His significance in the JFK context is indirect, as the documents primarily focus on his role in Watergate and his associations with individuals who may have had connections to the CIA.",
+  "document_ids": [
+    "135-10001-10288",
+    "104-10256-10268",
+    "104-10061-10115",
+    "104-10256-10273",
+    "104-10120-10354"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "The document's classification as SECRET and inclusion of \"sensitive compartmented information\" indicates that its disclosure could reveal classified intelligence sources, methods, or operations, potentially compromising ongoing intelligence activities or sources. Revealing the interest in Prensa Latina's activities could expose intelligence-gathering capabilities.",
+  "security_level": "SECRET",
+  "summary": "An NSA report discusses a Prensa Latina message from Havana inquiring about the British press reaction to President Kennedy's assassination.",
+  "summary_one_paragraph": "This SECRET NSA report, dated December 2, 1963, summarizes a Prensa Latina message originating from Havana, Cuba, and directed to its London office at 60 Fleet Street. The message requests an urgent update on how the British press and other sectors are reacting to President Kennedy’s assassination and related events. The report, marked with identifiers such as 2X/0/CUY/T498-63 and 0/27343-63, indicates ongoing monitoring of Cuban media activity following the assassination.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Prensa Latina",
+    "Cuba",
+    "Media Activity",
+    "British Press"
+  ],
+  "title": "2X/0/CUY/T498-63: PRENSA LATINA IN HAVANA INQUIRES ABOUT REACTION OF [R]",
+  "date": "1963-12-02",
+  "locations_mentioned": [
+    "Havana, Cuba",
+    "London, England"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "KENNEDY"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

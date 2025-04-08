@@ -1,0 +1,32 @@
+{
+  "classification": "JFK ASSASSINATION SYSTEM",
+  "document_type": "PAPER, TEXTUAL DOCUMENT",
+  "security": "The document's classification as TOP SECRET UMBRA and TOP SECRET DINAR suggests that its exposure could reveal sensitive intelligence sources, methods, or operations. Furthermore, the mention of 'démarches regarding vote' implies diplomatic strategies that, if revealed, could negatively impact international relations. Releasing classified information about diplomatic communications and intelligence activities would be damaging to national security.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "NSA document indicating Portugal had more time to lobby for votes in the Fourth Committee of the UN due to the adjournment following President Kennedy's assassination. The document relays that the UN plenary would pay homage to Kennedy before proceeding with other scheduled meetings.",
+  "summary_one_paragraph": "This NSA document, dated December 5, 1963, details that Portugal was afforded additional time to make démarches regarding a vote in the Fourth Committee of the UN because the UN General Assembly adjourned following the assassination of President John F. Kennedy. The message, originating from New York (GARIN) and addressed to the Foreign Ministry in Lisbon, specified that the UN would hold a plenary session to honor President Kennedy's memory before proceeding with scheduled meetings, including those of the Security Council, but not the Fourth Committee, thus providing Lisbon more opportunity to lobby governments.",
+  "tags": [
+    "NSA",
+    "John Kennedy",
+    "Assassination",
+    "Portugal",
+    "United Nations",
+    "Fourth Committee",
+    "Diplomacy",
+    "Demarches",
+    "Voting"
+  ],
+  "title": "3/0/POD/T1470-63 PORTUGAL HAS MORE TIME TO MAKE DEMARCHES REGARDING VO [R]",
+  "date": "1963-12-05",
+  "locations_mentioned": [
+    "Portugal",
+    "New York",
+    "Lisbon"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

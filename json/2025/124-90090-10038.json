@@ -1,0 +1,30 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memo",
+  "security": "Release of the document could reveal classified intelligence sources and methods related to Cuban operations during the Cold War. The document's classification is 'Top Secret DAUNT', indicating a high level of sensitivity. Specifically, the reference to 'Cuban [CUDY] WS' and intelligence-gathering activities could expose ongoing intelligence operations, sources, or methods.",
+  "security_level": "Top Secret",
+  "summary": "A National Security Agency (NSA) memo, dated April 1, 1960, directs the U.S. embassy in Havana to demand the extradition of Rolando Masferrer and request his provisional detention, referencing prior documentation sent to the embassy.",
+  "summary_one_paragraph": "This Top Secret NSA memo, dated April 1, 1960, instructs the U.S. embassy in Havana to pursue the extradition of Rolando Masferrer, a Cuban figure, and to request his provisional detention. The memo references prior documents sent to the embassy and notes Masferrer's status as a fugitive on parole who is required to report periodically to authorities in Washington. The communication emphasizes the need for acknowledgment and prompt updates on the progress of the extradition request, including the memo being marked for FBI information.",
+  "tags": [
+    "NSA",
+    "FBI",
+    "Extradition",
+    "Rolando Masferrer",
+    "Cuba",
+    "Havana",
+    "Cuban Embassy",
+    "Cold War"
+  ],
+  "title": "[Restricted]",
+  "date": "1960-04-01",
+  "locations_mentioned": [
+    "Havana",
+    "Washington"
+  ],
+  "origin_agency": "NATIONAL SECURITY AGENCY",
+  "persons_mentioned": [
+    "Rolando Masferrer"
+  ],
+  "recipient": "Cuban Embassy",
+  "sender": "NSA"
+}

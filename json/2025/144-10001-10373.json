@@ -1,0 +1,33 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Cable",
+  "security": "Disclosing this information could reveal intelligence-gathering methods. For example, it exposes how communications from a Bolivian UN ambassador were intercepted and disseminated, potentially impacting diplomatic relations and revealing NSA's surveillance capabilities. ",
+  "security_level": "TOP SECRET",
+  "summary": "This top-secret NSA cable relays a suggestion from the Bolivian UN Ambassador, Caballero Tamayo, to initiate conversations with countries to donate a mausoleum or sculptural allegory on the Alliance for Progress for President John F. Kennedy's tomb.",
+  "summary_one_paragraph": "On December 4, 1963, the NSA disseminated a top-secret cable (3/0/BVD/T225-63) that originated from New York, where Bolivian UN Ambassador Caballero Tamayo sent a message (Nr: 202) on November 23, 1963, to the Foreign Ministry in La Paz, suggesting that Bolivia initiate conversations with other countries in the hemisphere to donate a mausoleum or sculptural allegory on the Alliance for Progress for the tomb of President Kennedy, following his assassination.",
+  "tags": [
+    "NSA",
+    "John Kennedy",
+    "Assassination",
+    "Caballero Tamayo",
+    "Alliance for Progress",
+    "Bolivia",
+    "UN Ambassador",
+    "Sculpture",
+    "Mausoleum"
+  ],
+  "title": "Bolivian UN Ambassador Suggests Alliance for Progress Sculpture for Kennedy Tomb",
+  "date": "1963-12-04",
+  "locations_mentioned": [
+    "New York",
+    "La Paz",
+    "Bolivia"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Caballero Tamayo"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

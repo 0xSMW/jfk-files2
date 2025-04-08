@@ -1,0 +1,29 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Textual Document",
+  "security": "The document reveals intelligence gathering methods, specifically intercepting and analyzing communications between unidentified operators discussing the assassination. Releasing specific details about signal intercepts, frequencies, and technical information like 'RZBC00 501' and '59.990MCS/M 010 DEG ABLE' could expose NSA's capabilities and methods, making it easier for adversaries to evade detection. The document directly states: 'RUSS MERCURY GAASS FACS REFLD TWO UNID-OPERATORS AT TWO UNID-STAS PROBAT-GERA-EAS T-GERMANY DISCUSSING THE ASSINATION OF PRESIDENT KENNEDY.'",
+  "security_level": "SECRETKIMBO",
+  "summary": "An NSA document dated November 23, 1963, reports that two unidentified operators at two unidentified stations, probably in East Germany, discussed the assassination of President Kennedy.",
+  "summary_one_paragraph": "This NSA document, created on November 23, 1963, details the interception of communications between two unidentified operators, possibly located in East Germany, who discussed the assassination of President John F. Kennedy. The operators, using what is described as Russian Mercury GAASS FACS, relayed information about the assassination, including details about the number of bullets, the location of the shooting, and the upcoming elections. The document indicates that this activity represents operator chatter and does not suggest a change in relations or posture.",
+  "tags": [
+    "NSA",
+    "John Kennedy",
+    "Assassination",
+    "intercept",
+    "East Germany",
+    "communications"
+  ],
+  "title": "Discussion of the Assassination",
+  "conspiracy": "The document provides a contemporaneous account of communications intercepted shortly after the assassination, indicating foreign interest and awareness of details surrounding the event. However, it contains no direct evidence or implications of a broader conspiracy.",
+  "date": "1963-11-23",
+  "locations_mentioned": [
+    "Texas",
+    "East Germany"
+  ],
+  "origin_agency": "USAF, NSA",
+  "persons_mentioned": [
+    "John Kennedy"
+  ],
+  "recipient": "DIRNSA",
+  "sender": "USA-751"
+}

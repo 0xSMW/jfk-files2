@@ -1,0 +1,30 @@
+{
+  "entity_name": "Department of State",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "The Department of State is a U.S. government entity involved in various activities related to foreign policy and national security. The documents reveal the Department's role in efforts to counter Cuban subversion in Latin America during the early 1960s, including controlling travel to and from Cuba, curbing Cuban propaganda, and preventing the clandestine movement of guerrillas and arms. The Department of State also provided official cover for CIA employees. The documents span from 1952 to 1990, indicating a sustained involvement in counter-subversion efforts and intelligence operations. A notable pattern is the Department's collaboration with other agencies like the CIA, Department of Defense, and USIA in these initiatives.",
+  "key_connections": [
+    "CIA",
+    "Department of Defense",
+    "USIA",
+    "Interdepartmental Coordinating Committee of Cuban Affairs (ICCA)",
+    "Crusade for Freedom",
+    "Senate Select Committee on Intelligence (SSCI)",
+    "FBI"
+  ],
+  "significance": "In the context of the JFK assassination, the Department of State's involvement in counter-Cuban subversion efforts is significant. These efforts were part of a broader U.S. policy aimed at containing communism and destabilizing the Castro regime. The documents suggest the Department's role in managing travel restrictions, propaganda, and covert operations related to Cuba, which are relevant to understanding the political climate and potential motivations surrounding the assassination. The Department's provision of official cover for CIA employees also highlights its role in supporting covert intelligence activities.",
+  "document_ids": [
+    "198-10007-10013",
+    "198-10009-10098",
+    "104-10110-10295",
+    "104-10216-10000",
+    "198-10007-10022",
+    "104-10110-10307",
+    "198-10008-10119",
+    "198-10007-10021",
+    "104-10226-10023",
+    "104-10110-10291",
+    "124-10185-10214",
+    "119-10021-10413"
+  ]
+}

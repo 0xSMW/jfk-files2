@@ -1,0 +1,31 @@
+{
+  "classification": "Liaison",
+  "document_type": "Memorandum",
+  "security": "The document includes an FBI file number (92-2781-1145) and details a specific inquiry regarding Santo Trafficante, Jr.'s travel records. Disclosing such information could potentially reveal investigative techniques or ongoing law enforcement interests. The document is marked as 'RELEASED WITH DELETIONS,' indicating that some information was deemed too sensitive to be made public.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A 1967 FBI memo from the Legat in London to the FBI Director reports that Detective Sergeant Trevor Lloyd-Hughes of New Scotland Yard found no record of Santo Trafficante, Jr. visiting the UK in the past three years.",
+  "summary_one_paragraph": "On January 6, 1967, a memorandum was sent from the Legat in London to the Director of the FBI, concerning Santo Trafficante, Jr. In response to a Tampa memo from October 20, 1966, Detective Sergeant Trevor Lloyd-Hughes of New Scotland Yard's Criminal Intelligence Squad advised that their records indicated no visits by Trafficante to the United Kingdom within the previous three years. The memo includes distribution notes to the Bureau and the London office.",
+  "tags": [
+    "FBI",
+    "Santo Trafficante Jr.",
+    "United Kingdom",
+    "Travel Records",
+    "New Scotland Yard",
+    "Liaison",
+    "HQ"
+  ],
+  "title": "",
+  "date": "1967-01-06",
+  "locations_mentioned": [
+    "United Kingdom",
+    "London",
+    "Tampa"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Santo Trafficante, Jr.",
+    "Trevor Lloyd-Hughes"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "Legat, London"
+}

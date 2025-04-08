@@ -1,0 +1,34 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This document discusses diplomatic efforts involving the US Embassy in Mexico City and the Swiss Embassy in Havana to extract an American citizen from Cuba following the assassination of President Kennedy. The document is marked TOP SECRET UMBRA and TOP SECRET DINAR, indicating that its disclosure could potentially damage diplomatic relations or reveal sensitive intelligence operations. Sharing that 'American services have become extremely rigid and seem to appear more reticent regarding the American citizen' reveals sensitivity around US citizens in Cuba and post-assassination diplomatic changes.",
+  "security_level": "TOP SECRET",
+  "summary": "A report from January 8, 1964, details ongoing diplomatic efforts involving the U.S. and Mexican services, as well as the Swiss Embassy in Havana, to extract an American citizen from Cuba, noting increased rigidity from American services following President Kennedy's assassination.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA report, dated January 8, 1964, originated from the NSA and was addressed to HCF, concerning efforts to get an American out of Cuba. The report references communications between Mexico City and Brussels, indicating that the U.S. Embassy in Mexico City has been involved, along with the Swiss Embassy in Havana, to assist an American citizen, a former officer, in leaving Cuba. It notes that since President Kennedy's assassination, American services have become more cautious, and suggests an intervention in Washington to expedite the matter, while also mentioning that Mexican services will issue a transit visa upon the American Embassy's request.",
+  "tags": [
+    "NSA",
+    "Diplomatic Activity",
+    "Belgium",
+    "Mexico",
+    "Cuba",
+    "JFK Assassination",
+    "Sensitive Compartmented Information",
+    "TOP SECRET UMBRA",
+    "TOP SECRET DINAR"
+  ],
+  "title": "3/0/BED/T12-64: EFFORTS STILL BEING MADE TO GET AMERICAN OUT OF CUBA [R]",
+  "date": "1964-01-08",
+  "locations_mentioned": [
+    "Cuba",
+    "Mexico City",
+    "Brussels",
+    "Havana",
+    "Washington"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President John F. Kennedy"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA [R]"
+}

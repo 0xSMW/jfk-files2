@@ -1,0 +1,25 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "Disclosing details of signals intelligence collection, particularly concerning potential threats to the President and his family, could reveal sensitive intelligence sources and methods used by the NSA. The document mentions specific intercepts related to a 'PLOT TO ASSASSINATE' and recommends researching these records, which could expose ongoing or past SIGINT operations.",
+  "security_level": "TOP SECRET",
+  "summary": "An NSA document dated November 27, 1963, discusses a past threat regarding a plot to assassinate President Kennedy and his sister, recommending that intercept records be researched for potential connections to Lee Harvey Oswald and his alleged Cuban associations.",
+  "summary_one_paragraph": "This document, originating from the USAF AFSSO ALCOM and addressed to DIA/CIIC and DIRNSA, dated November 27, 1963, references a prior critical report concerning a plot to assassinate President Kennedy and his sister during one of the President's trips to Florida. The report, which originated from USA-66, suggested investigating possible links between the critic and Lee Harvey Oswald, given Oswald's purported Cuban associations, by researching relevant intercept records.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Threat",
+    "Lee Harvey Oswald",
+    "Intercept Records",
+    "Cuban Associations"
+  ],
+  "title": "PLOT TO ASSASSINATE",
+  "conspiracy": "The document suggests a possible connection between a previously reported threat to President Kennedy and Lee Harvey Oswald's alleged Cuban associations, potentially linking a prior plot to the assassination. However, it mainly recommends researching intercept records to determine any connections, without providing definitive details about a conspiracy.",
+  "date": "1963-11-27",
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Lee Harvey Oswald"
+  ],
+  "sender": "NSA AFSSO ALCOM"
+}

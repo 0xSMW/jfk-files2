@@ -1,0 +1,39 @@
+{
+  "classification": "Administrative",
+  "document_type": "Letter",
+  "security": "The document is marked TOP SECRET and contains sensitive compartmented information, which indicates that its disclosure could cause exceptionally grave damage to national security. The document discusses SIGINT collection methods and capabilities, including specific targets and sources, which could compromise ongoing intelligence operations and reveal sensitive sources and methods. For example: \"NSA had an excellent capability to meet the SIGINT challenges of the 1960's. We had field sites in position to copy the signals of interest in the USSR, both High Frequency and Line-of-Sight, in Cuba, and those communications exchanged internationally between countries.\"",
+  "security_level": "TOP SECRET",
+  "summary": "This is a letter from the NSA to the Assassination Records Review Board (ARRB) responding to questions about NSA's capabilities, actions, and records related to the JFK assassination, including information about intercepting communications from the Soviet Union, Cuba, and Mexico during the 1960s.",
+  "summary_one_paragraph": "In a letter dated June 1, 1995, the NSA, through Claudia C. Collins, Chief of Information Security Policy, responded to inquiries from David Marwell of the Assassination Records Review Board (ARRB) regarding NSA's involvement and knowledge related to the JFK assassination. The NSA detailed its SIGINT capabilities during the early 1960s, interception of communications from the Soviet Union, Cuba, and Mexico (though none directly linked to the assassination), and actions taken immediately after President Kennedy's death, such as increased monitoring of Soviet Bloc and Cuban military targets. The letter also addresses the retention and destruction policies of relevant records, mentioning a file on Lee Harvey Oswald accessioned in 1986 and the destruction of files related to American defectors in 1974, and clarifies that NSA's primary action concerning the assassination since 1964 was responding to queries from congressional committees.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "ARRB",
+    "SIGINT",
+    "COMINT",
+    "Soviet Union",
+    "Cuba",
+    "Mexico",
+    "Lee Harvey Oswald",
+    "Records Review",
+    "FOIA"
+  ],
+  "title": "Response to Questions Posed by JFK ARRB",
+  "date": "1995-06-01",
+  "locations_mentioned": [
+    "USSR",
+    "Cuba",
+    "Mexico",
+    "Fort George G. Meade, Maryland",
+    "Washington, DC"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "David Marwell",
+    "Lee Harvey Oswald",
+    "Claudia C. Collins",
+    "President Kennedy"
+  ],
+  "recipient": "David Marwell, ARRB",
+  "sender": "NSA"
+}

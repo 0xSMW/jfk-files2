@@ -1,0 +1,23 @@
+{
+  "entity_name": "CIA Activities",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents reference CIA activities related to potential assassination plots and covert operations, particularly during the time surrounding the JFK assassination. These activities include Project MONGOOSE, ZRRIFLE, and QJWIN, which are mentioned in the context of meetings, discussions, and files reviewed for possible assassination attempts. The documents also include testimony and interviews concerning potential CIA involvement in assassination plots, with specific references to individuals like William K. Harvey and discussions about his knowledge of such activities within the CIA. The documents suggest scrutiny of CIA operations and potential connections to the JFK assassination, as evidenced by the involvement of the Warren Commission and internal investigations into the agency's activities.",
+  "key_connections": [
+    "Project MONGOOSE",
+    "ZRRIFLE",
+    "QJWIN",
+    "Warren Commission",
+    "Frank Sturgis",
+    "Wilfredo Navarro",
+    "William K. Harvey",
+    "David W. Belin",
+    "Cuba"
+  ],
+  "significance": "The CIA's activities are significant in the JFK context due to allegations and investigations into potential involvement in assassination plots, including those targeting foreign leaders and potentially President Kennedy himself. The documents highlight the scrutiny the CIA faced regarding its covert operations and the possibility of unauthorized or rogue actions that could have contributed to the circumstances surrounding the assassination.",
+  "document_ids": [
+    "135-10001-10246",
+    "135-10001-10288",
+    "157-10005-10141"
+  ]
+}

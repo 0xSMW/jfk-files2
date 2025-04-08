@@ -1,0 +1,28 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Memorandum, Textual Document",
+  "security": "Disclosing the existence of SSCSGO-ASSASSINATION and its focus on Oswald's proposed Russian trip (1963), along with the mention of sensitive compartmented information, could reveal specific intelligence collection capabilities and methods used by the NSA at the time. Directly quoting: 'CONTAINS SENSITIVE COMPARTMENTED INFORMATION'.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "This document is a memorandum from David D. Lowman of the NSA, dated December 3, 1975, forwarding messages related to Lee Harvey Oswald's proposed trip to Russia in 1963 to the Senate Select Committee investigating President Kennedy's assassination.",
+  "summary_one_paragraph": "On December 3, 1975, David D. Lowman of the NSA sent a memorandum to the Special Assistant to the Secretary and Deputy Secretary of Defense regarding a Senate Select Committee request for additional information on matters related to President Kennedy's assassination; the memo forwards copies of four messages pertaining to Lee Harvey Oswald's proposed trip to Russia in 1963 to Mr. Peter Fenn of the Select Committee Staff, referencing a previous response sent on November 24, 1975, and noting that the appended documents contain codeword material.",
+  "tags": [
+    "NSA",
+    "Lee Harvey Oswald",
+    "JFK Assassination",
+    "Senate Select Committee",
+    "SSCSGO-ASSASSINATION",
+    "Proposed Russian Trip",
+    "Sensitive Compartmented Information"
+  ],
+  "title": "SSCSGO-ASSASSINATION",
+  "date": "1975-12-03",
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "David D. Lowman",
+    "Peter Fenn",
+    "Fidel Castro"
+  ],
+  "recipient": "SA/SDSDFD",
+  "sender": "Lowman, David (NSA)"
+}

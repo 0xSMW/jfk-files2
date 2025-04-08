@@ -1,0 +1,32 @@
+{
+  "classification": "JFK Assassination System",
+  "document_type": "Paper, Textual Document",
+  "security": "The message itself is classified as Top Secret, and its release could potentially compromise sensitive information related to intelligence gathering or diplomatic communications.",
+  "security_level": "Top Secret",
+  "summary": "An NSA document forwards a message from Irving Davidson in Washington to the President of Haiti, discussing departures, recalls, and an invitation for unofficial conversation.",
+  "summary_one_paragraph": "This NSA document, dated December 19, 1963, transmits a message from Irving Davidson in Washington to the President of Haiti. The message refers to the departure of 'HASEY,' the consideration of recalls, and an invitation extended to 'TIMMONS' for an unofficial conversation. The FBI has indexed the document, noting Davidson as possibly Louis Davidson, a U.S. citizen residing in Port-au-Prince.",
+  "tags": [
+    "NSA",
+    "Irving Davidson",
+    "Haiti",
+    "Haitian Embassy",
+    "Duvalier",
+    "Diplomacy",
+    "FBI"
+  ],
+  "title": "[Restricted]",
+  "date": "1963-12-19",
+  "locations_mentioned": [
+    "Washington",
+    "Port-au-Prince",
+    "Haiti"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Irving Davidson",
+    "President Duvalier",
+    "HASEY",
+    "TIMMONS"
+  ],
+  "sender": "NSA"
+}

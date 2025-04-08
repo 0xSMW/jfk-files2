@@ -1,0 +1,26 @@
+{
+  "entity_name": "Historical Review Group",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "The Historical Review Group (HRG) is a component of the CIA involved in the review and declassification of documents related to the JFK assassination, particularly in response to the Assassination Records Review Board (ARRB) and the JFK Assassination Records Collection Act of 1992. The HRG's role includes locating, reviewing, and processing documents for release, while also addressing concerns about protecting covert employees' identities, cover mechanisms, and ongoing intelligence operations. They interacted with the ARRB to fulfill information requests, address concerns about deadlines, and negotiate the protection of sensitive information, such as CIA employees' names. The HRG also coordinated with other agencies like the FBI regarding document release and informant protection. Their involvement spans from at least 1992 to 1997, focusing on balancing transparency with national security concerns.",
+  "key_connections": [
+    "Assassination Records Review Board (ARRB)",
+    "CIA",
+    "FBI",
+    "John F. Kennedy Assassination Records Collection Act of 1992",
+    "House Select Committee on Assassinations (HSCA)",
+    "Lyndon Baines Johnson (LBJ) Library"
+  ],
+  "significance": "The Historical Review Group played a crucial role in the CIA's response to the legislative mandate to declassify and release JFK assassination-related documents. They were responsible for navigating the complex process of balancing transparency with the need to protect sensitive intelligence sources, methods, and personnel. Their interactions with the ARRB highlight the challenges and negotiations involved in fulfilling the requirements of the JFK Assassination Records Collection Act.",
+  "document_ids": [
+    "104-10337-10001",
+    "104-10332-10007",
+    "104-10335-10001",
+    "104-10331-10121",
+    "104-10331-10118",
+    "104-10331-10338",
+    "104-10335-10008",
+    "104-10338-10005",
+    "104-10332-10022"
+  ]
+}

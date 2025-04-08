@@ -1,0 +1,50 @@
+{
+  "classification": "Cuba",
+  "document_type": "OPSUM (Operational Summary)",
+  "security": "Disclosing specific stations and their operational readiness (e.g., 'ALFA Iraq...USA-36, USM-4, USN-16') could compromise ongoing intelligence activities and expose resources. Revealing sources and methods used to collect intelligence on Cuba and South Korea ('Cuban reaction to the assassination of President KENNEDY, as revealed in COMINT...') could enable adversaries to develop countermeasures.",
+  "security_level": "TOP SECRET DINAR",
+  "summary": "This NSA SIGINT Command Center OPSUM #2027 summarizes intelligence and operational developments from November 22-26, 1963, focusing on Cuban reactions to President Kennedy's assassination and a potential coup in South Korea.",
+  "summary_one_paragraph": "NSA SIGINT Command Center OPSUM #2027, dated November 26, 1963, details intelligence developments following President Kennedy's assassination, including Cuban reactions indicating initial alarm followed by a cautious approach, with heightened military readiness and requests for information on Lyndon Johnson; it also highlights alerts in Latin American countries. Additionally, the report addresses a South Korean police warning about a potential coup by the Marine Brigade stationed in Kimpo, though no SIGINT evidence confirmed the coup's execution. The summary encompasses SIGINT readiness statuses, stations involved in monitoring Iraq, and NSASCC comments on DIA's alert for possible hostile reactions.",
+  "tags": [
+    "NSA",
+    "SIGINT",
+    "JFK Assassination",
+    "Cuba",
+    "South Korea",
+    "Intelligence",
+    "COMINT",
+    "Military Alert",
+    "Lyndon Johnson",
+    "Coup"
+  ],
+  "title": "NSA SIGINT Command Center OPSUM #2027",
+  "date": "1963-11-26",
+  "locations_mentioned": [
+    "Cuba",
+    "Oriente Province",
+    "Guantanamo",
+    "Havana",
+    "New York",
+    "Chile",
+    "Latin America",
+    "Mexico",
+    "Venezuela",
+    "Colombia",
+    "South Korea",
+    "Inch'O'ng",
+    "Kanghwa",
+    "Kimpo",
+    "Koyangn",
+    "Bupyojng",
+    "Iraq"
+  ],
+  "origin_agency": "NSA (National Security Agency)",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Lyndon Johnson",
+    "ROA",
+    "EISENHOWER"
+  ],
+  "recipient": "Internal NSA report",
+  "sender": "NSA SIGINT Command Center"
+}

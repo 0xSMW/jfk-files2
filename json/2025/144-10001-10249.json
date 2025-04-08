@@ -1,0 +1,32 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security": "The report mentions the specific site being able to collect the Lisbon-Tangier link, 'intercept', and 'NSA' in several places which should be classified 'CONFIDENTIAL, HANDLE VIA COMINT CHANNELS ONLY.'",
+  "security_level": "CONFIDENTIAL",
+  "summary": "Julia Wetzel (NSA) visited the House Select Committee on Assassinations to review a report by Cornwell and Klein regarding their interview with Sgt. Nicholas B. Stevenson, USAF, concerning a facility able to collect the Lisbon-Tangier link and ensured its classification.",
+  "summary_one_paragraph": "On November 21, 1978, Julia Wetzel from the NSA visited the House Select Committee on Assassinations to review a report by Messrs. Cornwell and Klein following their November 17 interview with Sgt. Nicholas B. Stevenson, USAF. The report discussed the substance of the interview, mentioning that the facility Stevenson was assigned to could collect the Lisbon-Tangier link and included terms such as 'intercept' and 'NSA'. Wetzel ensured that portions of the report were classified as 'CONFIDENTIAL, HANDLE VIA COMINT CHANNELS ONLY,' and offered suggestions to make it unclassified for future use in unclassified committee reports.",
+  "tags": [
+    "NSA",
+    "House Select Committee on Assassinations",
+    "HSCA",
+    "Cornwell",
+    "Klein",
+    "Nicholas B. Stevenson",
+    "USAF",
+    "Lisbon-Tangier link",
+    "COMINT",
+    "Classification"
+  ],
+  "title": "Visit to House Select Committee on Assassinations",
+  "date": "1978-11-28",
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Julia Wetzel",
+    "Cornwell",
+    "Klein",
+    "Nicholas B. Stevenson",
+    "Christensen"
+  ],
+  "recipient": "NSA Seniors",
+  "sender": "Julia Wetzel"
+}

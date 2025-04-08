@@ -1,0 +1,21 @@
+{
+  "entity_name": "Fidel Castro Ruz",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Fidel Castro Ruz is mentioned in four documents. One document refers to Cuban media coverage of Martin Luther King's assassination. Two documents detail the expulsion of a Spanish counselor from Havana for alleged espionage and counterrevolutionary activities, suggesting tensions between Cuba and Spain during Castro's leadership. The final document relays intelligence from SWRACK transcripts, mentioning Castro's dissatisfaction and a Cuban official's claim of having information related to the Kennedy assassination. The documents span from 1966 to 1993, indicating a sustained interest in Castro and Cuba during this period.",
+  "key_connections": [
+    "Martin Luther King",
+    "Jaime Caldevilla",
+    "Cuban Government",
+    "Spanish Government",
+    "CIA",
+    "Kennedy Assassination"
+  ],
+  "significance": "While the documents do not directly implicate Fidel Castro in the JFK assassination, one document mentions a Cuban official claiming to have information related to the event, suggesting a potential, albeit indirect, connection. This claim warrants further investigation to determine its validity and Castro's possible knowledge or involvement.",
+  "document_ids": [
+    "104-10433-10212",
+    "144-10001-10158",
+    "144-10001-10174",
+    "104-10014-10065"
+  ]
+}

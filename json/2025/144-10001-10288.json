@@ -1,0 +1,44 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security": "This document contains information affecting the national security of the United States within the meaning of the espionage laws U. S. Code Title 18, Sections 793, 794 and 798. The low prohibits its transmission or the revelation of its contents in any manner to an unauthorized person, as well as its use in ony manner prejudicial to the safety or interest of the United States or for the benefit of any foreign government to the detriment of the United States. It is to be seen only by personnel especially indoctrinated and authorized to receive in- formation in the designated control channels. Its security must be maintained in accordance with regulations pertaining to the BYEMAN and Communications Intelligence Controls. No action is to be token on any com- munications intelligence which may be contained herein, regardless of the advantage to be gained, if such action might have the effect of revealing the existence and nature of the source, unless such action is first approved by the appropriate authority.",
+  "security_level": "TOP SECRET",
+  "summary": "In January 1976, the NSA provided the Principal Deputy Assistant Secretary of Defense (Intelligence) with information in response to queries from the Senate Select Committee concerning the Warren Commission, detailing the NSA's limited role in assisting the Commission and stating that no results relevant to the assassination were obtained.",
+  "summary_one_paragraph": "This Top Secret memorandum, dated January 26, 1976, from the NSA to the Principal Deputy Assistant Secretary of Defense (Intelligence), addresses queries from the Senate Select Committee regarding the NSA's involvement with the Warren Commission. The NSA clarifies that it retained photocopies of reports merely as record copies to document analytic efforts, but those copies have since been destroyed, and no relevant results were obtained. They also explain that they were interested in names in traffic collected for foreign intelligence purposes. The memo further states that the NSA’s total known role was an informal request from Mr. Dulles to review exhibits for secret writing or codes, with no findings, and that there is no identified information from Cuban or Soviet transmissions relating to the assassination, although Cuban military forces did go on alert immediately after the assassination.",
+  "tags": [
+    "NSA",
+    "Warren Commission",
+    "Senate Select Committee",
+    "Alton Quanbeck",
+    "Louis Tordella",
+    "Cuban military alert",
+    "Cryptanalysis",
+    "SIGINT",
+    "FOIA",
+    "JFK Assassination"
+  ],
+  "title": "Senate Select Committee Queries to NSA Concerning the Warren Commission",
+  "date": "1976-01-26",
+  "locations_mentioned": [
+    "Fort George G. Meade, Maryland",
+    "Washington, D.C.",
+    "Mexico City",
+    "Cuba",
+    "Soviet Union"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Alton Quanbeck",
+    "Louis Tordella",
+    "Jim Johnson",
+    "Allan Dulles",
+    "David D. Lowman",
+    "Thomas K. Latimer",
+    "J. Lee Rankin",
+    "General Gordon A. Blake",
+    "Frank Foster",
+    "Oswald"
+  ],
+  "recipient": "Principal Deputy Assistant Secretary of Defense (Intelligence)",
+  "sender": "NSA"
+}

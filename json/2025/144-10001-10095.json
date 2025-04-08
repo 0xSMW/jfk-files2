@@ -1,0 +1,35 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "This document contains sensitive compartmented information, as indicated by the comment 'CONTAINS SENSITIVE COMPARTMENTED INFORMATION' and the 'TOP SECRET UMBRA' classification. Releasing the specific details of diplomatic communications and intelligence assessments could reveal sources and methods of intelligence gathering, and compromise ongoing or future diplomatic efforts.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A report from Port-au-Prince relays that President's speech before Congress reduced tension in Haiti following JFK's assassination and that official circles in Haiti believed the assassination was plotted by a secret group.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA report, dated November 29, 1963, originates from an NSA communication (record number 144-10001-10095) detailing diplomatic activity and reactions to the JFK assassination. Sourced from Port-au-Prince (REYES) and addressed to the Mexican Foreign Ministry, the message indicates the U.S. President’s speech to Congress eased tensions in Haiti, where rumors circulated that the Vice President favored radical measures against the Duvalier government. Additionally, official Haitian circles believed the assassination was plotted by a secret group, as per the encrypted message.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Mexico",
+    "Haiti",
+    "Diplomatic Activity",
+    "President's Speech",
+    "Tension Easing",
+    "Rumors",
+    "Secret Group",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "3/0/MXD/T1656-63: U.S. PRESIDENT'S SPEECH BEFORE CONGRESS EASES [R]",
+  "date": "1963-11-29",
+  "locations_mentioned": [
+    "Mexico",
+    "Haiti",
+    "Port-au-Prince",
+    "Mexico City"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President John F. Kennedy",
+    "Duvalier"
+  ],
+  "recipient": "HCF [R]",
+  "sender": "NSA"
+}

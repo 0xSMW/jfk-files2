@@ -1,0 +1,31 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Paper, Textual Document",
+  "security": "Revealing that the NSA intercepted and processed a message from the Saigon government inquiring about representation at Kennedy's funeral could potentially expose signals intelligence capabilities and sources, damaging relationships with foreign entities and compromising ongoing intelligence operations. The document is marked TOP SECRET UMBRA, indicating highly sensitive information.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "This NSA document, dated November 23, 1963, contains a message from the Saigon government to Seoul, Manila, and Taipei inquiring whether those governments would be represented at President John F. Kennedy's funeral.",
+  "summary_one_paragraph": "On November 23, 1963, the NSA intercepted and documented a message originating from the Saigon government (South Vietnam) directed to Seoul, Manila, and Taipei, inquiring about their representation at President John F. Kennedy's funeral. Marked as TOP SECRET UMBRA, the document, part of the JFK Assassination System identification form, indicates it is restricted under DRV FM: NSA/CSS Manual 123-2, with the originating agency's determination required for opening criteria.",
+  "tags": [
+    "NSA",
+    "John Kennedy",
+    "Assassination",
+    "Saigon Government",
+    "Funeral Representation",
+    "TOP SECRET UMBRA",
+    "Signals Intelligence"
+  ],
+  "title": "3/0/VND/T441-63 SAIGON GOVERNMENT INQUIRES ABOUT REPRESENTATION AT KEN [R]",
+  "date": "1963-11-23",
+  "locations_mentioned": [
+    "Saigon",
+    "Seoul",
+    "Manila",
+    "Taipei"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

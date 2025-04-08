@@ -1,0 +1,31 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Textual Document",
+  "security": "This document involves communications between Guatemala and its embassy in Washington following the assassination of President Kennedy. Disclosing details of diplomatic correspondence, such as specific message numbers and internal instructions regarding representation at the funeral, could be considered sensitive. The document is marked TOP SECRET UMBRA and TOP SECRET DINAR, indicating highly classified information. The document also contains DRV FM: NSA/CSS Manual 123-2 and DECL ON: X1,X3, X5,X6, X7,X8, indicating security protocols.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "This document is a message from the Guatemalan Foreign Ministry to its embassy in Washington, D.C., regarding representation at President John F. Kennedy's funeral; due to concerns about attention to delegations, the Guatemalan Ambassador was instructed to represent the government and Chief of State.",
+  "summary_one_paragraph": "Dated November 24, 1963, this top-secret document relays instructions from the Guatemalan Foreign Ministry in Guatemala City to the Guatemalan Embassy in Washington. It concerns Guatemala’s representation at the funeral of U.S. President John F. Kennedy. Citing concerns raised by the U.S. Chargé d'Affaires about the difficulty of accommodating foreign delegations, the message directs the Guatemalan Ambassador to represent both the government and the Chief of State at the funeral services. The document is classified and includes distribution to HCF (possibly a handling code or recipient group).",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Guatemala",
+    "Diplomatic Communication",
+    "Funeral",
+    "Embassy",
+    "TOP SECRET",
+    "UMBRA"
+  ],
+  "title": "Ambassador to Represent Guatemala at Funeral of U.S. P [R]",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Guatemala City",
+    "Washington, D.C.",
+    "Guatemala"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

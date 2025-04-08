@@ -1,0 +1,29 @@
+{
+  "entity_name": "Contact Division",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The Contact Division appears to be a component within the CIA responsible for managing and maintaining relationships with individuals and organizations, both domestic and foreign, for various operational purposes. The documents suggest the division's involvement in activities such as establishing cover for agents (e.g., using Hargrave Secret Service or the Research Institute of America), managing contacts with Cuban exile groups (e.g., Alpha-66), gathering information on individuals of interest (e.g., Maurice Halperin), and assessing potential assets or sources (e.g., Cuban refugee group). The division's role seems to encompass both intelligence gathering and operational support, facilitating the Agency's activities through its network of contacts. The timeline spans from at least 1952 to 1975, indicating a sustained role within the CIA during this period. A notable pattern is the use of various organizations and individuals to provide cover or support for covert operations.",
+  "key_connections": [
+    "Hargrave Secret Service",
+    "Chicago Field Office",
+    "Robert Pratchett",
+    "Alpha-66",
+    "Maurice Halperin",
+    "Cuban refugee group",
+    "Minneapolis Office",
+    "Henry L. Bretton",
+    "PRAEGER Publishing Corporation",
+    "Arthur V. Cox",
+    "Research Institute of America (RIA)",
+    "Leo Cherne"
+  ],
+  "significance": "Based on the provided documents, the Contact Division's significance in the JFK assassination context is not directly apparent. The documents primarily highlight the division's role in managing contacts and providing cover for CIA operations related to Cuban affairs and other intelligence activities. While these activities may indirectly relate to the broader context of the Cold War and US-Cuban relations during the time of the assassination, the documents do not establish a direct link between the Contact Division and the events surrounding President Kennedy's death.",
+  "document_ids": [
+    "104-10110-10568",
+    "104-10069-10112",
+    "104-10069-10359",
+    "104-10069-10120",
+    "104-10105-10285",
+    "104-10070-10296"
+  ]
+}

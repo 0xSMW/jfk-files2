@@ -1,0 +1,32 @@
+{
+  "classification": "Assassination",
+  "document_type": "Textual Document",
+  "security": "Information regarding specific communications channels and cryptographic systems could compromise current or future intelligence gathering capabilities.  The document includes references to '2X/O/VND/T51-63', 'SECRET SABRE', and routing details like 'Dist: HCF ST 300'.",
+  "security_level": "SECRET",
+  "summary": "This document contains a message of condolence from Duong Van Minh of Saigon to President Lyndon B. Johnson following the death of President John F. Kennedy, expressing sympathy from the people of South Vietnam.",
+  "summary_one_paragraph": "On November 23, 1963, following the assassination of President John F. Kennedy, Duong Van Minh of Saigon sent a message of condolence to President Lyndon B. Johnson. This message, bearing the reference 2X/O/VND/T51-63, expresses the deep sympathy and heartfelt condolences of the people of South Vietnam to the American people and to Mrs. Jacqueline Kennedy, emphasizing the shared ideals and faith in the principles that President Kennedy championed.",
+  "tags": [
+    "JFK Assassination",
+    "Condolences",
+    "Duong Van Minh",
+    "Lyndon B. Johnson",
+    "South Vietnam",
+    "NSA"
+  ],
+  "title": "2X/0/VND/T51-63 CONDOLENCES ON DEATH OF PRESIDENT [R]",
+  "date": "1963-11-23",
+  "locations_mentioned": [
+    "Saigon",
+    "Washington",
+    "United States of America"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Lyndon B. Johnson",
+    "Jacqueline Kennedy",
+    "Duong Van Minh"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

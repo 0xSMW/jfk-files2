@@ -1,0 +1,36 @@
+{
+  "classification": "Soviet",
+  "document_type": "Report",
+  "security": "Releasing this document could reveal intelligence-gathering capabilities and diplomatic sources, as well as sensitive compartmented information. Specifically, the document contains the designation 'TOP SECRET UMBRA,' indicating highly sensitive intelligence derived from signals intelligence. Disclosing the report might expose methods of intercepting and interpreting diplomatic communications and could compromise relationships with cooperating nations by revealing the nature of information shared.",
+  "security_level": "TOP SECRET",
+  "summary": "A report from the Mexican Ambassador in Moscow, dated November 29, 1963, details the Soviet reaction to President Kennedy's assassination, citing deep grief and heightened security measures. The ambassador notes Soviet concerns regarding the new U.S. President's stance on Cuba and mentions the anticipation of settling wheat purchase matters and a U.S.-Soviet cultural agreement to gauge future U.S. policy.",
+  "summary_one_paragraph": "On November 29, 1963, the Mexican Ambassador in Moscow sent a report to Mexico City detailing the Soviet Union's reaction to President Kennedy's assassination. According to the report, the Soviet people expressed deep grief, with authorities briefly intensifying security measures due to potential international complications. High Soviet officials were reportedly preoccupied with the new U.S. President's policy on Cuba, and they awaited resolutions on wheat purchases and cultural agreements to better understand future U.S.-Soviet relations. The ambassador based his evaluations on personal judgment and information from reliable diplomatic sources.",
+  "tags": [
+    "JFK Assassination",
+    "Soviet Reaction",
+    "Mexican Ambassador",
+    "Diplomatic Activity",
+    "USSR",
+    "Cuba",
+    "Wheat Purchase",
+    "Cultural Agreement",
+    "Signals Intelligence",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "Mexican Ambassador Reports Soviet Reaction to President Kennedy's Assassination",
+  "date": "1963-11-30",
+  "locations_mentioned": [
+    "Mexico",
+    "USSR",
+    "Moscow",
+    "Cuba"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President Kennedy",
+    "MIKOYAN",
+    "LUCIO"
+  ],
+  "recipient": "HCF [R]",
+  "sender": "NSA"
+}

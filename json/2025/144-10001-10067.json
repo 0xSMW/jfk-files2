@@ -1,0 +1,36 @@
+{
+  "classification": "Mexico",
+  "document_type": "Report",
+  "security": "Contains sensitive compartmented information.",
+  "security_level": "SECRET",
+  "summary": "A message reports Mexico's reaction to President Kennedy's assassination, including a decree for a three-day mourning period and the Foreign Minister's attendance at the funeral.",
+  "summary_one_paragraph": "This SECRET SPOKE report, dated November 24, 1963, from the NSA, details Mexico's official response to President John F. Kennedy's assassination. The communication relays that the Mexican government decreed a three-day mourning period and that the Foreign Minister would attend Kennedy's funeral in Washington as the personal representative of the Chief Executive. The message, sent by airmail to Ankara and other locations, included messages of condolence to President Lyndon B. Johnson, Secretary of State Dean Rusk, and Mrs. Kennedy.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Mexico",
+    "Diplomatic Activity",
+    "Reaction to Assassination",
+    "Mourning Period",
+    "Foreign Minister",
+    "Funeral"
+  ],
+  "title": "Mexico Decrees 3-Day Mourning Period; Foreign Minister to Attend Funeral",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Mexico",
+    "Mexico City",
+    "Washington",
+    "Ankara",
+    "Belize"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President John F. Kennedy",
+    "President Lyndon B. Johnson",
+    "Secretary Dean Rusk",
+    "Mrs. Kennedy"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

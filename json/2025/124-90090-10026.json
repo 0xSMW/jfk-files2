@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memo",
+  "security": "Disclosing the covername POLO for Rolando Masferrer and details about the communication between individuals in New York and Santo Domingo would compromise ongoing intelligence operations and reveal sources and methods. The document is marked 'SECRET KIMBO' and 'NO FOREIGN DISSEM', indicating sensitive information that requires strict control of its distribution.",
+  "security_level": "Secret",
+  "summary": "A memo from the National Security Agency (NSA) dated September 3, 1963, summarizes a radiotelephone conversation between individuals in New York and Santo Domingo, revealing the covername 'POLO' for Rolando Masferrer, a Cuban dissident reportedly arriving in Santo Domingo and potentially joining forces with the CANTAVE/RIGAUD/VERNA group.",
+  "summary_one_paragraph": "This NSA memo, classified as Secret and marked 'NO FOREIGN DISSEM,' details a monitored radiotelephone conversation from August 29, 1963, between 'Mr. CANTAVE' in New York and 'ROGER RIGAUD' in Santo Domingo. The conversation reveals that 'POLO' is the covername for Rolando Masferrer, a Cuban dissident, who is expected to arrive in Santo Domingo. The discussion also touches on messages for 'RENE,' the status of 'the bird' (possibly a plane), and efforts to locate 'the children' (possibly 'JEUNE HAITI' members), with an individual in New York planning to visit Santo Domingo on Sunday at 6 PM.",
+  "tags": [
+    "NSA",
+    "Rolando Masferrer",
+    "Cuban Dissidents",
+    "Santo Domingo",
+    "Covername",
+    "Radiotelephone Conversation",
+    "KIMBO",
+    "Jeune Haiti"
+  ],
+  "title": "[Restricted]",
+  "date": "1963-09-03",
+  "locations_mentioned": [
+    "New York",
+    "Santo Domingo"
+  ],
+  "origin_agency": "National Security Agency",
+  "persons_mentioned": [
+    "Rolando Masferrer",
+    "Cantave",
+    "Roger Rigaud",
+    "Paul Verna",
+    "Gerard Michel",
+    "Rene Leon"
+  ],
+  "recipient": "Unknown",
+  "sender": "NSA"
+}

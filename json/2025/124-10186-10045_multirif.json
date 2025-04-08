@@ -1,0 +1,37 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "Releasing details about ongoing discussions on proposed legislation could compromise the FBI's position before decisions are made. Quoting directly: 'For purposes of the Director's appearance on 12/9/75 before the Senate Select Committee, it is believed his response to questions concerning the aforementioned position papers should be that the Bureau has received copies and is reviewing the various proposals and that it would not be appropriate at this time for the Director to comment regarding the substance of the proposals.'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A memorandum discussing proposed options for FBI legislation in preparation for the Director's testimony before the Senate Select Committee, including potential responses to questions about domestic intelligence investigations and COINTELPRO.",
+  "summary_one_paragraph": "This memorandum, dated December 5, 1975, outlines discussion points and proposed legislative options for the FBI, in anticipation of Director Kelley's testimony before the Senate Select Committee on December 9 and 10. It summarizes two draft papers that address problems stemming from the FBI's domestic intelligence investigations, suggesting options ranging from abolishing the Bureau’s domestic intelligence functions to administrative or Congressional oversight, and creating an independent Inspector General. It also details anticipated questions about the Director's stance on sacrificing individual rights for investigations and the COINTELPRO program and recommends a response strategy.",
+  "tags": [
+    "FBI",
+    "Senate Select Committee",
+    "Domestic Intelligence",
+    "COINTELPRO",
+    "Legislation",
+    "Intelligence Division",
+    "Legal Counsel Division"
+  ],
+  "title": "SENSTUDY 75",
+  "date": "1975-12-05",
+  "persons_mentioned": [
+    "J. B. Adams",
+    "F.A.O. Schwartz",
+    "Paul Michel",
+    "Mark Gitenstein",
+    "John T. Elliff",
+    "John Bayley",
+    "James B. Adams",
+    "John A. Mintz",
+    "John B. Hotis",
+    "Paul V. Daly",
+    "Kelley",
+    "Levi",
+    "Harlan Stone",
+    "Robert Jackson"
+  ],
+  "recipient": "Mr. J. B. Adams",
+  "sender": "Legal Counsel"
+}

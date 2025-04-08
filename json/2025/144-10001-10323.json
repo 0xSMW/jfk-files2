@@ -1,0 +1,45 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Cable",
+  "security": "This cable requests information on reactions to President Kennedy's death and the new administration from Japanese embassies. Exposing this document could reveal intelligence gathering methods used by the NSA through diplomatic channels and potentially strain relationships with Japan and other countries where these activities were conducted. The specific request to collect and report on governmental trends, political parties' postures, newspaper articles, and public reaction demonstrates a broad scope of intelligence interest. Sharing this could invite scrutiny and accusations of undue influence or espionage.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "An NSA cable from December 6, 1963, requests Japanese embassies in multiple countries to collect and report on reactions to President Kennedy's assassination and the new Johnson administration.",
+  "summary_one_paragraph": "On December 6, 1963, the NSA sent a TOP SECRET UMBRA cable to HCF, originating from NSA, requesting Japanese embassies, including the embassy in Mexico City, to gather and report on the reactions to President Kennedy's assassination and the advent of the Johnson administration. The cable, with reference number 3/O/JAD/T1908-63, was also passed to Japanese embassies in Buenos Aires, Rio de Janeiro, Lima, Santiago, Havana, San Salvador, Panama City, Santo Domingo, Caracas, Bogota, Asuncion, Montevideo, and Quito, instructing them to collect governmental trends, political parties' postures, newspaper articles' tenor, and general public reactions, emphasizing the need for future reporting on such important incidents.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Intelligence Gathering",
+    "Diplomatic Cables",
+    "Reactions to Kennedy's Death",
+    "Johnson Administration",
+    "Japanese Embassy",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "3/0/JAD/T1908-63 REQUEST INFORMATION ON REACTION TO KENNEDY'S DEATH AN [R]",
+  "date": "1963-12-06",
+  "locations_mentioned": [
+    "Tokyo",
+    "Mexico City",
+    "Buenos Aires",
+    "Rio de Janeiro",
+    "Lima",
+    "Santiago",
+    "Havana",
+    "San Salvador",
+    "Panama City",
+    "Santo Domingo",
+    "Caracas",
+    "Bogota",
+    "Asuncion",
+    "Montevideo",
+    "Quito"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Lyndon Johnson",
+    "OHIRA"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

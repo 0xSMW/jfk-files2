@@ -1,0 +1,39 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Airtel",
+  "security": "Revealing informant TP 120-C and their access to Santo Trafficante Jr.'s residence could endanger the informant. Additionally, disclosing surveillance methods like tracking Trafficante's car at the Miami Airport parking lot could compromise investigative techniques. For example, the document states 'TP 120-C, who has daily access to TRAFFICANTE'S Tampa residence... indicated no visitors had been at the residence during the past few days' and 'records airport parking, Miami Airport, indicate that TRAFFICANTE's automobile was not on the parking lot during the period of 5/27/66 to 6/4/66'.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An FBI airtel from the SAC, Tampa, to the Director, FBI, providing information on Santo Trafficante Jr.'s whereabouts and activities, including his residences in Miami and Tampa, his family, and his associates, with a request for photographs of Carlos Marcello and Joseph Marcello Jr.",
+  "summary_one_paragraph": "This FBI airtel, dated November 4, 1966, from the Special Agent in Charge (SAC) in Tampa to the Director of the FBI, provides details regarding the movements and residences of Santo Trafficante Jr., a known organized crime figure. The message references a previous New Orleans airtel concerning 'LA COSA NOSTRA' and suggests including Miami as a recipient for future information about Trafficante, as he spends considerable time at his Miami residence. It includes information about Trafficante's wife's hospitalization, his daughter's family living with him, and his activities around St. Petersburg Beach and Miami. The document also requests photographs of Carlos Marcello and Joseph Marcello Jr. for identification purposes by informants.",
+  "tags": [
+    "FBI",
+    "Santo Trafficante Jr.",
+    "Carlos Marcello",
+    "Joseph Marcello Jr.",
+    "La Cosa Nostra",
+    "Organized Crime",
+    "Surveillance",
+    "Informant",
+    "Miami",
+    "Tampa",
+    "St. Petersburg Beach"
+  ],
+  "title": "SANTO TRAFFICANTE, JR., aka",
+  "date": "1966-11-04",
+  "locations_mentioned": [
+    "Tampa, Florida",
+    "Miami, Florida",
+    "New Orleans",
+    "St. Petersburg Beach, Florida"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Santo Trafficante Jr.",
+    "Josephine Trafficante",
+    "Carlos Marcello",
+    "Joseph Marcello Jr.",
+    "Augustine Primo Lazzara"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, Tampa"
+}

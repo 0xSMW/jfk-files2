@@ -1,0 +1,43 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Teletype",
+  "security": "Revealing that IRS obtained federal income tax returns on a subject and related entities could expose investigative techniques and compromise ongoing tax inquiries.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "The FBI Los Angeles office reports on inquiries regarding John Roselli's whereabouts and IRS's obtaining federal income tax returns related to Roselli and his enterprises.",
+  "summary_one_paragraph": "On November 19, 1962, the FBI's Los Angeles office sent a teletype to FBI Director, reporting that neighborhood sources and informants had no information on John Roselli's current location in Los Angeles. LA informants advised that Herman Spitzel, a friend of Roselli, was inquiring about Roselli's whereabouts at the Friar-s Club on November 16. The IRS informed they obtained federal income tax returns on Roselli, Roselli and Roselli and Roselli Enterprises, Inc.",
+  "tags": [
+    "FBI",
+    "John Roselli",
+    "Herman Spitzel",
+    "IRS",
+    "Federal Income Tax Returns",
+    "Inquiries",
+    "Whereabouts"
+  ],
+  "title": "",
+  "date": "1962-11-19",
+  "locations_mentioned": [
+    "Los Angeles"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Roselli",
+    "Herman Spitzel",
+    "Tolson",
+    "Belmont",
+    "Mohr",
+    "Casper",
+    "Callahan",
+    "Conrad",
+    "DeLoach",
+    "Gale",
+    "Rosen",
+    "Sullivan",
+    "Tavel",
+    "Trotter",
+    "Holmes",
+    "Gandy"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, LA"
+}

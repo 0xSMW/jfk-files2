@@ -1,0 +1,32 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document/Daily Situation Report",
+  "security": "Revealing intelligence assessments of foreign leaders' sentiments could damage diplomatic relations. The document contains an assessment of President De Gaulle's intentions following Kennedy's assassination, including his planned visit to America and his initial goodwill, which could be considered sensitive diplomatic information. Quoting directly: \"President DE GAULLE was the first foreign chief of state to [decide to] participate personally in KENNEDY's funeral...and has decided to visit America in the spring of next year...the relationship of both countries, which has been estranged, has taken a favorable turn.\"",
+  "security_level": "SECRET",
+  "summary": "A National Security Agency (NSA) document from December 5, 1963, summarizes South Korean (ROK) perspectives on U.S.-French relations following President Kennedy's assassination, noting President De Gaulle's initial favorable gestures and subsequent dampening of expectations due to President Johnson's commitment to Kennedy's foreign policies.",
+  "summary_one_paragraph": "This NSA document, dated December 5, 1963, details South Korean insights into the evolving U.S.-French relationship after President Kennedy's assassination. It highlights President De Gaulle's early decisions to attend Kennedy's funeral and plan a visit to America, which initially signaled improved relations. However, the report suggests that President Johnson's statement affirming his commitment to Kennedy's foreign policy tempered these expectations. The information is derived from a message from the U.S. Ambassador in Paris to the Minister in Seoul, extracted from a daily situation report.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "U.S.-French Relations",
+    "South Korean Opinion",
+    "De Gaulle",
+    "Johnson",
+    "Foreign Policy"
+  ],
+  "title": "ROK OPINIOIN ON U.S.-FRENCH RELATIONS",
+  "date": "1963-12-05",
+  "locations_mentioned": [
+    "Paris",
+    "Seoul",
+    "America"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "President De Gaulle",
+    "President Johnson"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

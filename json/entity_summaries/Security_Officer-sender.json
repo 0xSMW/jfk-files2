@@ -1,0 +1,21 @@
+{
+  "entity_name": "Security Officer",
+  "entity_type": "sender",
+  "document_count": 3,
+  "summary": "Based on the provided documents, the 'Security Officer' is inferred to be the entity responsible for providing security briefings and outlining security regulations, travel precautions, and personal conduct guidelines to employees traveling on PCS assignments. The documents highlight the security officer's role in ensuring employees are aware of potential risks and proper procedures before traveling to locations such as Mexico City and Trinidad. The documents indicate that the Security Officer is involved in the travel processing for employees like Joseph Piccolo Jr., Charlotte Bustos-Videla, and Todik Piccoli, ensuring they receive necessary security briefings and file reviews prior to their departure.",
+  "key_connections": [
+    "Joseph Piccolo Jr.",
+    "Charlotte Bustos-Videla",
+    "Todik Piccoli",
+    "DDP/WH",
+    "WH office",
+    "Mexico City",
+    "Trinidad"
+  ],
+  "significance": "The significance of the Security Officer in the JFK context, based solely on these documents, is related to ensuring the safety and security of personnel traveling to foreign locations. The documents do not directly link the Security Officer to the JFK assassination, but rather to the broader security protocols and travel procedures within the organization.",
+  "document_ids": [
+    "104-10129-10438",
+    "104-10110-10095",
+    "104-10161-10193"
+  ]
+}

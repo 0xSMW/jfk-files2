@@ -1,0 +1,42 @@
+{
+  "classification": "Assassination, John Kennedy",
+  "document_type": "Paper, Textual Document",
+  "security": "This document is classified TOP SECRET UMBRA and TOP SECRET DINAR. The restrictions are marked as 1B, requiring the originating agency's determination for opening criteria. The document discusses sensitive diplomatic communications following President Kennedy's assassination, including the reaction of the South Korean government. Revealing such information could potentially damage diplomatic relations or expose sensitive intelligence-gathering methods.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "This document is a communication from the South Korean Ambassador in Washington to the Minister of Foreign Affairs in Seoul, reporting on the reactions to the South Korean President's visit to the United States following President Kennedy's assassination.",
+  "summary_one_paragraph": "Dated November 25, 1963, this top-secret communication details the South Korean Ambassador's report from Washington to Seoul regarding the reaction to the South Korean President's visit to the United States following President Kennedy's assassination. It includes information on the ETA of the South Korean delegation in Chicago and Washington, preparations made by Korean residents and student associations, and the schedule for attending funeral rites and meetings with U.S. officials. The report emphasizes the positive reaction in official and press circles to the President's personal attendance, noting that the news was immediately reported through public communications media.",
+  "tags": [
+    "JFK Assassination",
+    "NSA",
+    "ROK",
+    "South Korea",
+    "Diplomatic Communication",
+    "Funeral",
+    "Top Secret",
+    "UMBRA",
+    "DINAR"
+  ],
+  "title": "3/0/KOD/T1415-63 GOOD REACTION TO ROK PRESIDENT'S U.S. VISIT SAY ENVOY [R]",
+  "date": "1963-11-25",
+  "locations_mentioned": [
+    "Washington D.C.",
+    "Chicago",
+    "Seoul",
+    "Arlington Cemetery"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "KIM",
+    "HAN PYO'NG KI",
+    "SONG",
+    "KONG",
+    "LEE",
+    "PAK KYO'NG HU",
+    "CHO",
+    "SIN CHIK SU",
+    "CHO'NG"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

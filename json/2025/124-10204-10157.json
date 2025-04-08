@@ -1,0 +1,38 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "This document discusses the deportation of Santo Trafficante Jr. and mentions associations with known hoodlums. Revealing these associations and law enforcement interest could compromise ongoing investigations or reveal sensitive information about individuals. Specifically, mentioning individuals were 'employed by the gambling casinos in the Havana area' and that 'most of the hoodlums in the United States are well aware that police authorities would be on the look-out' could expose investigative tactics.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An FBI memorandum from the Legat in Havana to the Director, FBI, regarding Santo Trafficante Jr.'s detention and potential deportation from Cuba, as well as observations of his daughter's wedding attended by known hoodlums.",
+  "summary_one_paragraph": "This FBI memorandum, dated July 13, 1959, from the Legat in Havana to the Director of the FBI, reports on the situation of Santo Trafficante Jr., who was detained by Cuban police and represented by Henry Saavedra in the Hotel Capri. The memo details Trafficante's temporary release to attend his daughter's wedding at the Hotel Havana-Hilton, noting the presence of numerous employees from gambling casinos and prominent hoodlums such as Jackal O'Neal and John Williams. The document also mentions that Trafficante's deportation order was expected to be published on July 13, 1959, with his deportation to the United States anticipated around July 14, 1959.",
+  "tags": [
+    "FBI",
+    "Santo Trafficante Jr.",
+    "Deportation",
+    "Cuba",
+    "Anti-Racketeering",
+    "Hoodlums",
+    "Gambling Casinos",
+    "Wedding"
+  ],
+  "title": "SANTO TRAFFICANTE, JR., aka ANTI-RACKETEERING",
+  "date": "1959-07-13",
+  "locations_mentioned": [
+    "Havana, Cuba",
+    "Tampa, United States",
+    "Albany, United States",
+    "New York, United States",
+    "Miami, United States"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Santo Trafficante Jr.",
+    "Henry Saavedra",
+    "Jackal O'Neal",
+    "John Williams",
+    "Arthur Newman",
+    "Hugh D. Kessler"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "Legat, Havana"
+}

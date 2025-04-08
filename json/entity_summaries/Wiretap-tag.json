@@ -1,0 +1,25 @@
+{
+  "entity_name": "Wiretap",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents indicate that wiretaps, or technical surveillance, were a tool used by the FBI and CIA for various purposes, including investigating espionage, Communist activities, racketeering, and assassinations. The FBI requested authorization for technical surveillance on individuals and groups suspected of espionage, Communist activities, and racketeering, including an Israeli intelligence ring in New York, Isidore Gibby Needleman (suspected of Soviet espionage), the Workers World Party, Carl Winter (Communist Party member), and Frank Ferraro (Chicago hoodlum). Wiretaps were also used in the investigations of the assassinations of Martin Luther King Jr. and President John F. Kennedy, to monitor individuals and groups critical of the FBI and CIA. The CIA also used wiretaps in activities related to the assassination of Fidel Castro, including Operation Mongoose and interactions with Cuban exiles.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "Attorney General",
+    "Espionage suspects",
+    "Communist activities suspects",
+    "Racketeering suspects",
+    "Martin Luther King Jr.",
+    "John F. Kennedy",
+    "Fidel Castro",
+    "Operation Mongoose",
+    "Cuban exiles"
+  ],
+  "significance": "In the JFK context, wiretaps represent a method of intelligence gathering employed by the FBI and CIA, potentially used to monitor individuals or groups who might have been connected to the assassination or who were critical of the official investigation. The documents suggest that wiretaps were part of a broader surveillance strategy used by these agencies during this period.",
+  "document_ids": [
+    "124-10188-10308",
+    "104-10433-10167",
+    "157-10011-10005"
+  ]
+}

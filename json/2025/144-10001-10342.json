@@ -1,0 +1,34 @@
+{
+  "classification": "Assassination",
+  "document_type": "Paper, Textual Document",
+  "security": "This document contains classified information from the NSA. Sharing this information could reveal intelligence sources and methods used by the NSA, potentially compromising their ability to gather sensitive information. The document is marked as 'SECRET' and has restrictions (1B), indicating that unauthorized disclosure could cause serious damage to national security.",
+  "security_level": "SECRET",
+  "summary": "This document contains telegrams from the King and Queen of Thailand expressing condolences to President Lyndon B. Johnson and Mrs. John F. Kennedy following President Kennedy's assassination.",
+  "summary_one_paragraph": "On November 24, 1963, the King and Queen of Thailand sent telegrams to President Lyndon B. Johnson and Mrs. John F. Kennedy expressing their condolences following the assassination of President John F. Kennedy. The telegrams, sent from Bangkok and relayed through THAIDUTO to Washington, D.C., conveyed their profound shock and sympathy, deploring the act as a dastardly blow to world peace and the progress of mankind; the texts of these telegrams were communicated to ensure their accurate delivery.",
+  "tags": [
+    "JFK Assassination",
+    "Condolences",
+    "Thailand",
+    "Royal Telegrams",
+    "Lyndon B. Johnson",
+    "Jacqueline Kennedy",
+    "NSA",
+    "Diplomacy"
+  ],
+  "title": "2X/0/SID/T173-63 KING AND QUEEN OF THAILAND SEND CONDOLENCES [R]",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Thailand",
+    "Bangkok",
+    "Washington, D.C."
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Lyndon Johnson",
+    "Jacqueline Kennedy",
+    "Bhumibol R. (King of Thailand)"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

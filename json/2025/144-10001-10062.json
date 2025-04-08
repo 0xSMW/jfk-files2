@@ -1,0 +1,38 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "This document contains intelligence regarding diplomatic activities and communication security (COMSEC) measures which, if revealed, could compromise intelligence gathering methods and diplomatic relations. The document is marked TOP SECRET UMBRA and TOP SECRET DINAR, indicating highly sensitive compartmented information and restricted dissemination.",
+  "security_level": "TOP SECRET",
+  "summary": "An NSA report dated November 26, 1963, details Austria's indecision on sending a delegation to John F. Kennedy's funeral, as they await information on the procedures followed by other small European countries.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA/DINAR report from the NSA, dated November 26, 1963, addresses Austria's uncertainty regarding sending a delegation to President Kennedy's funeral. The Austrian Foreign Ministry is awaiting reliable information on the protocol being followed by other small European nations, aside from the Netherlands, before deciding whether to send a government delegation. They specifically request the U.S. Embassy in Washington to provide updates on the intentions of Scandinavian countries, Finland, and Switzerland, as the teleprinter is 'constantly busy'.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Austria",
+    "Diplomatic Activity",
+    "Funeral Delegation",
+    "TOP SECRET",
+    "UMBRA",
+    "DINAR"
+  ],
+  "title": "Austria Undecided on Sending Delegation to Kennedy Funeral",
+  "date": "1963-11-26",
+  "locations_mentioned": [
+    "Austria",
+    "Vienna",
+    "Washington",
+    "Netherlands",
+    "Scandinavia",
+    "Finland",
+    "Switzerland",
+    "Sweden",
+    "Norway",
+    "Denmark"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John F. Kennedy"
+  ],
+  "recipient": "HCO [R]",
+  "sender": "NSA"
+}

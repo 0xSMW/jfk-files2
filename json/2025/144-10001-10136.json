@@ -1,0 +1,31 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum, Textual Document",
+  "security": "This document details intelligence gathering methods and sources, specifically communications intercepts of Cuban agents. Releasing specifics on TRIG and DENT sources, even sanitized, could reveal sensitive US/UK intelligence cooperation and capabilities. As written in the document, 'The source products from which we extracted the attached informa- tion were published in the Category III TRIG and DENT, US/UK EYES ONLY series. We believe we have done sufficient sanitization so that, when the association with NSA is removed, the text could be releasable as national TOP SECRET, Sensitive.'",
+  "security_level": "SECRET SPOKE",
+  "summary": "A 1978 NSA memorandum discusses the agency's proposed response to queries from the House Assassinations Committee regarding Cuban intelligence activities between 1959 and 1974, focusing on communications intercepts and reactions to the JFK assassination.",
+  "summary_one_paragraph": "This SECRET SPOKE memorandum, dated April 5, 1978, from R. E. Rich, Chief of G at the NSA, to the Director of the NSA, outlines the agency's response to the House Assassinations Committee's queries regarding Cuban intelligence activities from 1959 to 1974. The memo details that the NSA successfully intercepted Cuban agent communications from April 17, 1962, until a communications change on May 31, 1964, rendered the messages unreadable. The information was extracted from Category III TRIG and DENT, US/UK EYES ONLY series, and the NSA believes sufficient sanitization has been done to allow the text to be releasable as national TOP SECRET, Sensitive. It also contains information regarding the Cuban government's reaction to the JFK assassination, including placing army and navy elements in Eastern Cuba on alert and a press release from the Cuban Foreign Ministry.",
+  "tags": [
+    "NSA",
+    "House Assassinations Committee",
+    "Cuba",
+    "Cuban Intelligence",
+    "JFK Assassination",
+    "Communications Intercepts",
+    "TRIG",
+    "DENT",
+    "Lee Harvey Oswald",
+    "Mexico",
+    "Sensitive Compartmented Information"
+  ],
+  "title": "House Assassinations Committee Query",
+  "persons_mentioned": [
+    "R. E. Rich",
+    "Lee Harvey Oswald",
+    "ANTONIO VECIANA",
+    "GERONIMO ESTEVEZ",
+    "JUAN ANGEL SILEN ACEVEDO"
+  ],
+  "recipient": "Director, NSA",
+  "sender": "RICH, R. E."
+}

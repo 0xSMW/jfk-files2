@@ -1,0 +1,45 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum, Letters",
+  "security": "This document details the NSA's methods for reviewing signals intelligence and identifying potentially relevant information. Disclosing these methods could compromise NSA's signals intelligence operations. Quoting directly: 'NSA initiated a large-scale manual and machine review of available SIGINT, including all U.S./Cuba traffic...A computer search was initiated using Oswald's name as the minimum for research criteria.'",
+  "security_level": "TOP SECRET",
+  "summary": "A 1978 memorandum details the NSA's response to the House Select Committee on Assassinations' (HCSA) request for materials related to the JFK assassination, summarizing past reviews of signals intelligence and Cuban communications, and concluding that no intelligence material reveals Cuban involvement.",
+  "summary_one_paragraph": "This document outlines the NSA's efforts from 1963 to 1978 to locate information related to the assassination of President John F. Kennedy, in response to requests from various committees including the Warren Commission, the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (SSC), and the House Select Committee on Assassinations (HCSA). NSA conducted multiple reviews of its files, including U.S./Cuba traffic, Soviet and Cuban files, and Mexican traffic, using names like Oswald, Ruby, and addresses from Oswald's address book as search criteria. While several Cuban diplomatic and military messages were located, the NSA concluded that a thorough review revealed no intelligence material suggesting Cuban involvement in the assassination.",
+  "tags": [
+    "JFK Assassination",
+    "NSA",
+    "House Select Committee on Assassinations",
+    "Cuban Communications",
+    "Signals Intelligence",
+    "Lee Harvey Oswald",
+    "Warren Commission"
+  ],
+  "title": "HCSA Request for NSA Material on Kennedy Assassination",
+  "date": "1978-11-14",
+  "locations_mentioned": [
+    "Fort George Meade, Maryland",
+    "Cuba",
+    "New Orleans",
+    "Dallas",
+    "Moscow",
+    "Mexico"
+  ],
+  "origin_agency": "DOD",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Lee Harvey Oswald",
+    "Judith A. Miller",
+    "G. Robert Blakey",
+    "Roger Denk",
+    "Eugene F. Yeates",
+    "Allan Dulles",
+    "Marina Oswald",
+    "Jack Ruby",
+    "Earl Ruby",
+    "Antonio Veciana",
+    "Raul Castro Ruz",
+    "David W. Ferrie"
+  ],
+  "recipient": "NSA",
+  "sender": "Judith A. Miller"
+}

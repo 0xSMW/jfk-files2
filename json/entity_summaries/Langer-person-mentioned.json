@@ -1,0 +1,24 @@
+{
+  "entity_name": "Langer",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "summary": "Based on the provided documents, \"Langer\" appears in the context of the President's Foreign Intelligence Advisory Board (PFIAB) meetings during the early 1960s. While the documents do not explicitly detail Langer's role or specific contributions, their presence at multiple PFIAB meetings suggests involvement in intelligence oversight and advisory functions. These meetings covered a range of critical topics, including intelligence on Cuba (particularly during and after the Cuban Missile Crisis), covert operations, national reconnaissance programs, signals intelligence, and global hotspots like Vietnam. The consistent appearance of Langer's name within these high-level discussions indicates a position of some responsibility or expertise within the intelligence community during this period.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "John McCone",
+    "McGeorge Bundy",
+    "Director of Central Intelligence (DCI)"
+  ],
+  "significance": "The documents provided do not offer any information to suggest that Langer had any involvement in the JFK assassination.",
+  "document_ids": [
+    "206-10001-10012",
+    "206-10001-10004",
+    "206-10001-10005",
+    "206-10001-10013",
+    "206-10001-10006",
+    "206-10001-10010",
+    "206-10001-10007",
+    "206-10001-10000",
+    "206-10001-10001"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "entity_name": "Sir Charles Spry",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Sir Charles Spry was associated with the Australian Security Intelligence Organization (ASIO). He is mentioned in the context of recommending against the declassification of Warren Commission document CD-971. This document relates to an investigation of anonymous telephone calls made to the Canberra Embassy both before and after President Kennedy's assassination. The memos suggest that Spry's recommendation was based on concerns related to this investigation, leading to a recommendation against declassification by the Director of Central Intelligence.",
+  "key_connections": [
+    "Australian Security Intelligence Organization (ASIO)",
+    "Warren Commission",
+    "Canberra Embassy",
+    "Director of Central Intelligence"
+  ],
+  "significance": "Sir Charles Spry's significance in the JFK assassination context lies in his recommendation against declassifying a Warren Commission document related to an investigation of anonymous telephone calls to the Canberra Embassy. This suggests a potential connection between the Australian Security Intelligence Organization (ASIO) and information relevant to the assassination, though the exact nature of this connection and the reasons for opposing declassification are not fully detailed in the provided documents.",
+  "document_ids": [
+    "104-10320-10038",
+    "104-10408-10415",
+    "104-10012-10078"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "entity_name": "John A. Mintz",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "summary": "John A. Mintz appears in several memoranda related to the Senate Select Committee's (SSC) review of the FBI's domestic intelligence investigations in the mid-1970s. The documents suggest Mintz was involved in discussions and preparations for the FBI's response to the SSC's inquiries. The memoranda cover a range of topics, including potential legislative actions, oversight mechanisms, and the FBI's authority in domestic intelligence matters. Mintz's role seems to be related to legal counsel or advising on the FBI's position in relation to the Senate Select Committee's investigation. The documents indicate that Mintz was involved in preparing for the Director's testimony before the Senate Select Committee and addressing concerns about domestic intelligence investigations and COINTELPRO. He was also involved in discussions regarding potential reforms and oversight measures for the FBI.",
+  "key_connections": [
+    "Senate Select Committee",
+    "FBI",
+    "J.B. Adams"
+  ],
+  "significance": "Based on the provided documents, John A. Mintz's significance in the JFK context is indirect. He was involved in the FBI's response to the Senate Select Committee's investigation into intelligence activities, which included a review of the FBI's domestic intelligence operations. While the documents do not directly mention the JFK assassination, the Senate Select Committee's broader investigation into intelligence activities could have touched upon aspects related to the assassination or its aftermath. Mintz's role was primarily focused on legal and strategic considerations related to the FBI's interactions with the Senate Select Committee.",
+  "document_ids": [
+    "124-10186-10048_multirif",
+    "124-10183-10277_multirif_redacted",
+    "124-10186-10045_multirif",
+    "124-10186-10056_multirif",
+    "124-10186-10051_multirif",
+    "124-10183-10279_multirif_redacted",
+    "124-10186-10055_multirif",
+    "124-10274-10070",
+    "124-10186-10054_multirif",
+    "124-10186-10049_multirif"
+  ]
+}

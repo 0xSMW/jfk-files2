@@ -1,0 +1,29 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report, Textual Document",
+  "security": "The document is classified as SECRET and contains sensitive compartmented information, which if disclosed, could reveal intelligence sources and methods, and compromise national security. The document also shows that information was potentially obtained through signals intelligence. Disclosing this could provide adversaries with insight into NSA's capabilities and targets.",
+  "security_level": "SECRET",
+  "summary": "This is a report from the National Security Agency (NSA) regarding Cuba's analysis of the facts and possible consequences following the assassination of President John F. Kennedy, dated November 24, 1963.",
+  "summary_one_paragraph": "This SECRET report, originating from the NSA and dated November 24, 1963, outlines Cuba's analysis of the situation following the assassination of President John F. Kennedy. Cuba acknowledges the historically hostile policies of the United States, under both the Eisenhower and Kennedy administrations, characterized by economic aggressions and attacks that have led to bloodshed and loss of life. The report highlights Cuba's intent to conduct a calm and objective assessment of the events and their potential ramifications in the wake of President Kennedy's assassination.",
+  "tags": [
+    "NSA",
+    "Cuba",
+    "JFK Assassination",
+    "Diplomatic Activity",
+    "Sensitive Compartmented Information",
+    "Signals Intelligence"
+  ],
+  "title": "2X/0/CUY/T478-63: CUBA'S ANALYSIS OF FACTS AND POSSIBLE CONSEQUENCES [R]",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Cuba",
+    "United States"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "Dwight D. Eisenhower"
+  ],
+  "recipient": "HCF Plus [R]",
+  "sender": "NSA"
+}

@@ -1,0 +1,43 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "This document discusses Prince Sihanouk’s condemnation of the U.S. following President Kennedy’s death, and his decision to recall embassy personnel from Washington. Exposing such communications could strain diplomatic relations, particularly as it reveals internal assessments of political figures and their reactions to international events. For example, \"The United States was violently taken to task, and the Prince announced his decision to recall Mr. NONG KIMNY and almost all the personnel of the Khmer Embassy in Washington...\"",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "NSA document regarding Prince Sihanouk's speech condemning the U.S. after President Kennedy's assassination and discussing Cambodian relations with France and Vietnam.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA document from the NSA, dated January 17, 1964, relays a French FRDBT message summarizing Prince Sihanouk's speech delivered in the Takeo province on December 13, 1963. The speech included a strong condemnation of the United States following the death of Marshal Thanarat and what Sihanouk perceived as a “hate campaign” against President Kennedy’s memory, leading to the recall of most Khmer Embassy personnel from Washington. Sihanouk also addressed relations with Vietnam, mentioning ongoing negotiations and conditions for resuming normal relations, as well as the forthcoming arrival of a French delegation led by Mr. Messmer, expressing confidence in President De Gaulle while emphasizing the need for France to respect Cambodia's dignity.",
+  "tags": [
+    "NSA",
+    "John Kennedy Assassination",
+    "Prince Sihanouk",
+    "Cambodia",
+    "France",
+    "Vietnam",
+    "Diplomatic Relations",
+    "TOP SECRET",
+    "UMBRA",
+    "FRDBT"
+  ],
+  "title": "3/0/FRD/T72-64 SIHANOUK SPEECH CONDEMNS U.S. AND TREATS CAMBODIAN RELA [R]",
+  "date": "1964-01-17",
+  "locations_mentioned": [
+    "Cambodia",
+    "United States",
+    "France",
+    "Vietnam",
+    "Washington",
+    "Phnom Penh",
+    "Takeo province"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Prince Sihanouk",
+    "Nong Kimny",
+    "Marshal Thanarat",
+    "Tran Chanh Thanh",
+    "Messmer",
+    "Charles de Gaulle"
+  ],
+  "recipient": "HCO Plus",
+  "sender": "NSA"
+}

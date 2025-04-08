@@ -1,0 +1,35 @@
+{
+  "classification": "Cuba",
+  "document_type": "Paper, Textual Document",
+  "security": "Revealing the specific reactions of Cuban officials and ambassadors to President Kennedy's death, particularly the concerns about potential repercussions for Cuba and the expressed belief that any successor would be \"even worse,\" could expose sensitive diplomatic communications and potentially strain current or future relations. Quoting directly: \"Soon after the death of [President] Kennedy several authorities and persons associated with the Cuban Government openly expressed to us their concern relative to the consequences in regard to Cuba and were unanimous in believing that any other President would be 'even worse.'\"",
+  "security_level": "TOP SECRET",
+  "summary": "This document details the Cuban government's reaction to President Kennedy's assassination, including concerns about future relations with the United States and official statements regarding Lee Harvey Oswald's attempted visa application.",
+  "summary_one_paragraph": "A National Security Agency (NSA) document dated December 4, 1963, reports on the Cuban government's response to President John F. Kennedy's assassination. It describes concerns expressed by Cuban authorities, conveyed through the Brazilian Ambassador Eustian Pinto, that any subsequent U.S. President would be \"even worse\" for Cuba. The document also references Fidel Castro's accusations against news agencies for linking Cuba to the crime and notes an official communique from the Foreign Ministry addressing Lee Harvey Oswald's unsuccessful attempt to obtain a visa to Cuba. The report also includes observations from the Chilean Ambassador in Havana, noting the calm but cautious reaction in Havana and contrasting it with a statement by the Cuban UN delegate expressing sorrow over Kennedy's death.",
+  "tags": [
+    "Assassination",
+    "John Kennedy",
+    "Cuban Reaction",
+    "Fidel Castro",
+    "Lee Harvey Oswald",
+    "Eustian Pinto",
+    "Lechuga"
+  ],
+  "title": "CUBAN REACTION TO DEATH OF PRESIDENT KENNEDY",
+  "date": "1963-12-04",
+  "locations_mentioned": [
+    "Cuba",
+    "Havana",
+    "United States",
+    "New York",
+    "Soviet Union"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Fidel Castro",
+    "Lee Harvey Oswald",
+    "Eustian Pinto",
+    "Lechuga"
+  ],
+  "sender": "NSA"
+}

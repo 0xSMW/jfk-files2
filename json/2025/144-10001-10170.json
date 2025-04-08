@@ -1,0 +1,29 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "Contains sensitive compartmented information.",
+  "security_level": "SECRET",
+  "summary": "An NSA report details the Eastern Naval District of Cuba being placed on alert following President Kennedy's assassination and the subsequent relaxation of that alert.",
+  "summary_one_paragraph": "This NSA report, dated November 25, 1963, describes how the Eastern Naval District of Cuba was placed on alert at 2044Z on November 22, 1963, following the death of President Kennedy. The alert was partially relaxed on November 23, 1963, at 2237Z by Bamsa headquarters, which instructed the subordinate base in Santiago de Cuba to grant leave to 25 percent of its personnel for November 23rd and 24th, with further orders expected on November 25, 1963.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Cuba",
+    "Naval District",
+    "Alert Status",
+    "Sensitive Compartmented Information"
+  ],
+  "title": "2/O/CUN/R196-63 ALERT IN EASTERN NAVAL DISTRICT RELAXED 23 NOV",
+  "date": "1963-11-25",
+  "locations_mentioned": [
+    "Eastern Naval District of Cuba",
+    "Cuba",
+    "Santiago de Cuba"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President Kennedy"
+  ],
+  "recipient": "O/H [R]",
+  "sender": "NSA"
+}

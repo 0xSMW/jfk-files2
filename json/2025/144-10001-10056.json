@@ -1,0 +1,48 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "The document contains sensitive compartmented information. References to specific communication intercepts, military activities, and analysis of foreign communications procedures could reveal intelligence sources and methods, compromising ongoing operations. For instance, descriptions of Soviet activities on the Iranian border and Cuban military alerts provide insights into US monitoring capabilities. Sharing these details could enable adversaries to identify and counter US intelligence efforts, potentially harming national security.",
+  "security_level": "TOP SECRET",
+  "summary": "This NSA report from November 1963 details military activities in Cuba and Soviet activities on the Iranian border, including the relaxation of a Cuban naval alert prompted by President Kennedy's death and observations of Soviet construction activities near Iranian border posts.",
+  "summary_one_paragraph": "This NSA report, spanning from November 22 to November 27, 1963, covers various intelligence matters, including the relaxation of the alert status in Cuba's Eastern Naval District following President Kennedy's assassination, observations on Soviet construction along the Iranian border, and analysis of East German SED communications implicating Fascist circles in Kennedy's assassination. The report also notes Cuban military activities, such as a practice exercise by the Camaguey SAM site, and provides insights into Soviet support activities for high-latitude expeditions in the Arctic.",
+  "tags": [
+    "NSA",
+    "Cuba",
+    "Soviet Union",
+    "Military Activity",
+    "JFK Assassination",
+    "Iran",
+    "East Germany",
+    "Intelligence",
+    "Communications Intercepts"
+  ],
+  "title": "Section III/8 - Alert in Eastern Naval District Relaxed",
+  "date": "1963-11-25",
+  "locations_mentioned": [
+    "Cuba",
+    "Eastern Naval District (Cuba)",
+    "Punta Maisi",
+    "Santiago de Cuba",
+    "Iran",
+    "Kandgareh",
+    "Qazkan",
+    "Qushvar",
+    "Qalich Kallu",
+    "Oriente Province",
+    "Sinanju",
+    "Cho'ngju",
+    "Victoria de Las Tunas",
+    "Camaguey",
+    "Nuevitas",
+    "Berlin",
+    "Dresden"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President Kennedy",
+    "Khrushchev",
+    "Captain Jomarzon",
+    "Eskandar Chupan",
+    "Chanzad Chupan"
+  ]
+}

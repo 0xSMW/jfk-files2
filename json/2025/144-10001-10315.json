@@ -1,0 +1,41 @@
+{
+  "classification": "Administrative",
+  "document_type": "Cable",
+  "security": "Disclosing the communication channels and reporting from the Iranian Embassy in Washington to the Foreign Office in Teheran, especially details of private conversations with U.S. leaders like President Johnson and Mrs. Kennedy, could reveal sensitive diplomatic activities and potentially strain international relations.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "This cable from the Iranian Embassy in Washington to the Foreign Office in Teheran details the attendance of numerous world leaders at John F. Kennedy's funeral, highlighting interactions with Mrs. Kennedy and President Johnson, and praising the revolutionary reforms of the King of Kings of Iran.",
+  "summary_one_paragraph": "Sent on November 30, 1963, this TOP SECRET DINAR cable reports on the high-profile attendance at John F. Kennedy's funeral in Washington, noting General De Gaulle and Erhard as the most prominent mourners. The cable relays interactions between foreign representatives—including the King of Kings of Iran's representative—and Mrs. Kennedy, as well as President Johnson, who lauded Iran’s revolutionary reforms. It further outlines the ambassador’s upcoming travel plans and mentions discussions with State Department officials, including an impending meeting with Mr. Talbot, before concluding with Foreign Minister Aram’s signature.",
+  "tags": [
+    "JFK Assassination",
+    "Funeral",
+    "De Gaulle",
+    "Erhard",
+    "Iran",
+    "Diplomacy",
+    "Foreign Relations",
+    "State Department"
+  ],
+  "title": "DE GAULLE AND ERHARD THE TWO MOST PROMINENT MOURNERS",
+  "date": "1963-11-30",
+  "locations_mentioned": [
+    "Washington",
+    "Teheran",
+    "Florida",
+    "New York",
+    "Belgrade"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "De Gaulle",
+    "Erhard",
+    "Rusk",
+    "Mrs. Kennedy",
+    "Johnson",
+    "Talbot",
+    "Aram",
+    "King of Kings of Iran"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

@@ -1,0 +1,21 @@
+{
+  "entity_name": "Jim Johnson",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, there is no mention of an entity named Jim Johnson. The documents primarily concern the National Security Agency's (NSA) response to queries from the Senate Select Committee (SSC) regarding the Warren Commission's investigation into the JFK assassination. The documents detail the NSA's limited involvement, including reviewing exhibits for secret writing, providing information on Cuban military alerts after the assassination, and the overall scope of their assistance to the Warren Commission. The documents are all dated January 26, 1976, indicating a focused period of inquiry from the SSC and response from the NSA.",
+  "key_connections": [
+    "National Security Agency (NSA)",
+    "Senate Select Committee (SSC)",
+    "Warren Commission",
+    "David Lowman",
+    "Principal Deputy Assistant Secretary of Defense (Intelligence)",
+    "Cuban military"
+  ],
+  "significance": "Without direct mention of Jim Johnson, it's impossible to assess their significance in the JFK context based on these documents. The significance of the documents themselves lies in revealing the NSA's limited role in the Warren Commission's investigation and the Senate's later inquiry into the matter.",
+  "document_ids": [
+    "144-10001-10288",
+    "144-10001-10127",
+    "144-10001-10212",
+    "144-10001-10195"
+  ]
+}

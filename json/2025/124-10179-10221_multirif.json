@@ -1,0 +1,18 @@
+{
+  "classification": "Administrative",
+  "document_type": "Teletype Routing List",
+  "security": "This document only contains routing information and does not contain any sensitive information. Therefore, it poses no security risk.",
+  "security_level": "Unclassified",
+  "summary": "This document is a teletype routing list, indicating distribution points for a message or document.",
+  "summary_one_paragraph": "This is an administrative document listing various locations and their corresponding codes for teletype routing. It specifies locations such as Alexandria, Baltimore, Birmingham, Boston, Chicago, and numerous others, indicating where a teletype message or document should be distributed. There is no additional context or subject matter provided beyond this distribution list.",
+  "tags": [
+    "Teletype",
+    "Routing",
+    "Distribution List",
+    "Administrative"
+  ],
+  "title": "Teletype Routing List",
+  "date": "2025-03-18",
+  "origin_agency": "EZOSONNEL, RECORDS UNIT",
+  "recipient": "Alexandria, Baltimore, Birmingham, Boston, Chicago, Cincinnati, Dallas, El Paso, Indianapolis, Jackson, Jacksonville, Louisville, Los Angeles, Memphis, Miami, New York, Oklahoma City, Omaha, Philadelphia, Phoenix, St. Louis, San Diego"
+}

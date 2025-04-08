@@ -1,0 +1,49 @@
+{
+  "classification": "Cuba",
+  "document_type": "Cables",
+  "security": "These cables discuss Cuban diplomatic and military activities in relation to the JFK assassination, including reactions to Oswald's actions and security measures taken after Kennedy's death. Releasing specific details about Cuban intelligence assessments, sources, or methods (e.g., specific agent names like \"SERAFIN\", or the existence of communications exercises), and their perspectives on the events, might compromise intelligence sources, methods, or ongoing operations. Directly quoting \"Alert in Oriente Province believed to be terminated\" exposes Cuban military responses to Kennedy's death.",
+  "security_level": "TOP SECRET",
+  "summary": "This document contains NSA records related to the JFK assassination, including Cuban diplomatic messages about Lee Harvey Oswald's visa request and reactions to Kennedy's assassination, Cuban military reports on alert status after the assassination, and information related to Cuban intelligence activities.",
+  "summary_one_paragraph": "This document comprises a collection of records from the National Security Agency (NSA) related to the assassination of President John F. Kennedy. It includes cables detailing Cuban diplomatic communications regarding Lee Harvey Oswald's attempt to obtain a visa to travel to the Soviet Union, as well as Cuban government reactions to the assassination itself. Furthermore, it contains Cuban military reports indicating heightened alert status in the immediate aftermath of President Kennedy's death, a 1962 Cuban intelligence message concerning Antonio Veciana, and a 1966 Cuban diplomatic message discussing a plan to assassinate an USSR dignitary in Cuba and against Raul Castro Ruz. The documents also cover NSA's historical efforts to locate relevant information and responses to requests from various Senate and House committees investigating the assassination.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Cuban Messages",
+    "Lee Harvey Oswald",
+    "Warren Commission",
+    "Senate Select Committee",
+    "House Select Committee",
+    "Diplomatic Messages",
+    "Military Reports",
+    "Intelligence Activities",
+    "FOIA"
+  ],
+  "title": "Actions Taken by NSA to Locate JFK Assassination Information",
+  "conspiracy": "The document includes Cuban government statements suggesting the assassination was a provocation against world peace planned by reactionary sectors in the United States to implicate Cuba and the Soviet Union. It highlights suspicions about the circumstances surrounding Oswald's death, suggesting a cover-up of the true masterminds behind Kennedy's assassination.  These statements contribute to conspiracy theories by implying a deeper plot and questioning the official narrative.",
+  "date": "1978-06-15",
+  "locations_mentioned": [
+    "Cuba",
+    "Mexico City",
+    "Moscow",
+    "Dallas",
+    "Puerto Rico",
+    "Havana",
+    "Accra"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "John F. Kennedy",
+    "Allan Dulles",
+    "Marina Oswald",
+    "Jack Ruby",
+    "Earl Ruby",
+    "Raul Castro Ruz",
+    "Antonio Veciana",
+    "Jim Garrison",
+    "David W. Ferrie",
+    "Fidel Castro"
+  ],
+  "recipient": "Circular (Various Cuban Embassies)",
+  "sender": "NSA"
+}

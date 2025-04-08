@@ -1,0 +1,30 @@
+{
+  "entity_name": "Lyndon Johnson",
+  "entity_type": "person-mentioned",
+  "document_count": 13,
+  "summary": "Lyndon B. Johnson became President of the United States following John F. Kennedy's assassination in November 1963. Several documents detail international reactions to Kennedy's death and the transition to the Johnson administration. These include messages of condolence from foreign leaders such as the King and Queen of Thailand and South Korean officials, as well as assessments of Johnson's leadership from figures like the Belgian Foreign Minister, who expressed confidence in Johnson's commitment to Kennedy's policies. NSA documents also capture global reactions and political assessments following Kennedy's assassination, including insights from various international locations. A report also mentions Robert Kennedy as a potential successor in the 1964 presidential campaign following his brother's death.",
+  "key_connections": [
+    "John F. Kennedy",
+    "Robert Kennedy",
+    "Dean Rusk",
+    "Fidel Castro",
+    "King and Queen of Thailand",
+    "Belgian Foreign Minister"
+  ],
+  "significance": "Lyndon Johnson's significance in the JFK assassination context lies primarily in his succession to the presidency. The documents reflect the immediate aftermath of the assassination, focusing on international reactions to Kennedy's death and the transition of power to Johnson. They highlight the global community's response and initial assessments of Johnson's leadership and commitment to continuing Kennedy's policies.",
+  "document_ids": [
+    "104-10173-10166",
+    "144-10001-10362",
+    "144-10001-10323",
+    "144-10001-10342",
+    "144-10001-10293",
+    "144-10001-10332",
+    "144-10001-10294",
+    "144-10001-10369",
+    "135-10001-10297",
+    "144-10001-10367",
+    "144-10001-10371",
+    "144-10001-10279",
+    "144-10001-10054"
+  ]
+}

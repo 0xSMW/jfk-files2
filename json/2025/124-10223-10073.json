@@ -1,0 +1,43 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Teletype",
+  "security": "Information concerning IRS investigations and potential sources is restricted under JFK Law 11(a), which could compromise ongoing investigations and sources if released.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "FBI teletype from the SAC, Los Angeles, to the Director, FBI, providing an update on John Roselli's whereabouts and activities based on neighborhood sources and information shared with a special agent from the IRS.",
+  "summary_one_paragraph": "On November 1, 1962, the SAC in Los Angeles sent a teletype to the Director of the FBI reporting that neighborhood sources indicated John Roselli was still residing in his Los Angeles apartment. The teletype also mentioned that LA 4268-C was at the Friar-S Club in Beverly Hills on the afternoon and evening of October 31st, but Roselli was not present. Additionally, a special agent from the IRS in Los Angeles was advised, and information regarding IRS matters is restricted under JFK Law 11(a).",
+  "tags": [
+    "FBI",
+    "John Roselli",
+    "IRS",
+    "Neighborhood Sources",
+    "Los Angeles",
+    "JFK Assassination",
+    "Friar-S Club"
+  ],
+  "title": "John Roselli, AKA",
+  "date": "1962-11-01",
+  "locations_mentioned": [
+    "Los Angeles",
+    "Beverly Hills, California"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Roselli",
+    "Mr. Tolson",
+    "Mr. Belmont",
+    "Mr. Mohr",
+    "Mr. Casper",
+    "Mr. Callahan",
+    "Mr. Conrad",
+    "Mr. DeLoach",
+    "Mr. Evans",
+    "Mr. Gale",
+    "Mr. Rosen",
+    "Mr. Sullivan",
+    "Mr. Tavel",
+    "Mr. Trotter",
+    "Miss Holmes",
+    "Miss Gandy"
+  ],
+  "sender": "SAC, LA (Special Agent in Charge, Los Angeles Field Office )"
+}

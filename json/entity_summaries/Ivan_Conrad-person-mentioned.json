@@ -1,0 +1,20 @@
+{
+  "entity_name": "Ivan Conrad",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Ivan Conrad was a former Assistant Director at the FBI. The documents indicate his involvement in FBI investigations, particularly those related to Martin Luther King Jr. and electronic surveillance activities. He was interviewed by the Senate Select Committee (SSC) regarding these investigations. The documents suggest his role was significant enough to warrant questioning by the SSC concerning sensitive matters like domestic intelligence, counterintelligence activities, and the Huston Plan.",
+  "key_connections": [
+    "William D. Campbell",
+    "Martin Luther King Jr.",
+    "Senate Select Committee (SSC)",
+    "FBI",
+    "Huston Plan",
+    "COINTELPRO"
+  ],
+  "significance": "While the documents do not directly link Ivan Conrad to the JFK assassination, his involvement in sensitive FBI investigations, including those related to Martin Luther King Jr. and domestic intelligence programs like COINTELPRO and the Huston Plan, places him within the broader context of intelligence activities during the period relevant to the JFK assassination. The Senate Select Committee's interest in his knowledge suggests he held a position with access to potentially relevant information.",
+  "document_ids": [
+    "124-10273-10006",
+    "124-10271-10033_multirif_redacted",
+    "124-10184-10237"
+  ]
+}

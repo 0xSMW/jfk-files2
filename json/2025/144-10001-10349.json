@@ -1,0 +1,32 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "This document contains information about reactions in Norway to Kennedy's murder and includes references to communications between the U.S. Embassy in Oslo and the Foreign Ministry in Ankara. Revealing the specific details of these communications, including the timing and content of messages and condolences from Norwegian officials and the King, could potentially strain diplomatic relations or expose communication channels, especially given the document's classification level of TOP SECRET UMBRA. The document should remain unreleased. ",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "This document details reactions in Norway to President Kennedy's assassination, including expressions of grief from government officials and the King, as reported by the U.S. Embassy in Oslo to the Foreign Ministry in Ankara.",
+  "summary_one_paragraph": "On December 7, 1963, the U.S. Embassy in Oslo reported to the Foreign Ministry in Ankara the reactions in Norway to President Kennedy's assassination, noting that the news aroused great emotion and grief among Norwegians. Premier Gerhardsen expressed that Kennedy's death was a great loss for Norway and the world, while the King declared a fourteen-day mourning period and sent telegrams of condolence. The Foreign Minister and other government officials personally offered condolences to the American Ambassador, and university students planned a large demonstration.",
+  "tags": [
+    "Assassination",
+    "John Kennedy",
+    "Norway",
+    "Reactions",
+    "Embassy",
+    "Condolences",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "3/O/TUD/T1282-63 REACTIONS ON NORWAY TO KENNEDY MURDER [R]",
+  "date": "1963-12-07",
+  "locations_mentioned": [
+    "Norway",
+    "Oslo",
+    "Ankara"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Premier Gerhardsen",
+    "Mr. Rusk"
+  ],
+  "recipient": "HCO",
+  "sender": "NSA"
+}

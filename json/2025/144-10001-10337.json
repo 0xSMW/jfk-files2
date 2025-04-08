@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Paper, Textual Document",
+  "security": "Revealing an American citizen's private communication to Fidel Castro and its interception by the NSA could be considered a breach of privacy and could potentially damage diplomatic relations, as it suggests monitoring of citizen communications.",
+  "security_level": "SECRET",
+  "summary": "An NSA document details an intercepted message from a private American citizen, S. Karch, in Detroit, inviting Fidel Castro to attend John F. Kennedy's funeral in Washington.",
+  "summary_one_paragraph": "This NSA document, dated November 25, 1963, reveals the interception of a message from S. Karch, a private citizen in Detroit, to Fidel Castro, urging Castro to attend President John F. Kennedy's funeral as an act of good faith and a means of bridging the gap between the American and Cuban people; the message was sent from Detroit to Havana on November 24, 1963.",
+  "tags": [
+    "NSA",
+    "John Kennedy",
+    "Assassination",
+    "Fidel Castro",
+    "Intercepted Message",
+    "Funeral Invitation"
+  ],
+  "title": "2X/0/ΟΟΥ/T408-63 AMERICAN INVITES CASTRO TO ATTEND KENNEDY FUNERAL",
+  "date": "1963-11-25",
+  "locations_mentioned": [
+    "Washington",
+    "Detroit",
+    "Havana"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Fidel Castro",
+    "S. Karch",
+    "Saul Karch"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

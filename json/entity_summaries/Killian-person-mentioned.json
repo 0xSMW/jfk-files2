@@ -1,0 +1,22 @@
+{
+  "entity_name": "Killian",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Based on the provided documents, Killian appears in the context of meetings and discussions involving the President's Foreign Intelligence Advisory Board (PFIAB) and the Director of Central Intelligence (DCI) regarding intelligence activities, particularly concerning Cuba. The documents span from November 1962 to June 1963, indicating Killian's involvement or presence during this period. The discussions cover a range of topics, including anti-Castro activities, covert operations (MONGOOSE), intelligence on the Cuban arms buildup, satellite reconnaissance, and U.S. policy toward Cuba. Killian's specific role or contribution is not explicitly detailed in the summaries, but their presence in these high-level meetings suggests involvement in intelligence oversight or advisory capacities.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Director of Central Intelligence (DCI)",
+    "Cuba",
+    "MONGOOSE",
+    "Soviet Union"
+  ],
+  "significance": "The significance of Killian in the JFK context, based on these documents, lies in their association with the PFIAB and their involvement in discussions surrounding intelligence activities related to Cuba during a critical period leading up to the assassination. While the documents do not directly link Killian to the assassination, their presence in meetings concerning covert operations and intelligence gathering related to Cuba suggests a potential awareness of relevant activities and policies.",
+  "document_ids": [
+    "178-10004-10054",
+    "206-10001-10012",
+    "206-10001-10004",
+    "104-10302-10000",
+    "206-10001-10005",
+    "206-10001-10010"
+  ]
+}

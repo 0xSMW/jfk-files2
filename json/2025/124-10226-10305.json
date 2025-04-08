@@ -1,0 +1,51 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "This document details an FBI investigation into Norman Rothman, including surveillance, informant information, and travel details. Revealing the specifics of these investigative techniques, informant identities, and surveillance targets could compromise ongoing law enforcement operations, endanger informants, and alert subjects to FBI methods. For example, it mentions specific informants like 'MM T-1 is MM 725-C' and surveillance details like 'ROTHMAN was not observed at his residence'.",
+  "security_level": "Secret",
+  "summary": "This FBI report details an investigation into Norman Rothman, focusing on his activities, associates, and travel, with connections to anti-racketeering efforts.",
+  "summary_one_paragraph": "This FBI report, dated January 31, 1969, details the investigation into Norman Rothman, focusing on his travel between Miami, Atlanta, and New York, his associates like Fabio De Crestofaro, and potential connections to gambling debts owed to Las Vegas casinos. The report includes information gathered from various informants, surveillance of Rothman's residences, and checks with airlines and telephone companies. It also references an investigation into Rothman's contacts in Atlanta, including attempts to identify individuals associated with a specific phone number.",
+  "tags": [
+    "FBI",
+    "Norman Rothman",
+    "Anti-Racketeering",
+    "Surveillance",
+    "Informants",
+    "Gambling",
+    "Travel",
+    "Atlanta",
+    "Miami",
+    "New York"
+  ],
+  "title": "NORMAN ROTHMAN, aka",
+  "date": "1967-03-31",
+  "locations_mentioned": [
+    "Miami, Florida",
+    "Atlanta, Georgia",
+    "New York, New York",
+    "Las Vegas, Nevada",
+    "Surfside, Florida",
+    "Cuba"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Allan M. Trankley",
+    "Norman Rothman",
+    "Fabio De Crestofaro",
+    "Howard Halpern",
+    "Danny Baitcher",
+    "Olga Chaviano",
+    "Ronald Gelet",
+    "R. J. Hayes",
+    "Patty Erra",
+    "Ralph Sorrentino",
+    "Joe Indelicato",
+    "Frank Cook",
+    "Armando",
+    "Pinky Schiffman",
+    "Ruby Blackmer",
+    "Morris Lansburgh"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "Trankley, Allan M."
+}

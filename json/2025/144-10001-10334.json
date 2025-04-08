@@ -1,0 +1,49 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "Disclosing details about signals intelligence (SIGINT) operations could compromise ongoing intelligence activities and reveal sensitive collection capabilities. Identifying specific individuals and their roles within intelligence organizations could expose them to potential risks. Sharing the assessments of South Korean political stability and election integrity could strain diplomatic relations. For example, the document states, 'On the morning of 25 November Prosecutor General CHO'NG CHANG UN told a press conference, \"It is extremely regrettable that the disclosures of public officials election violations in such places as Mokp'o, Hamp'yo'ng, P'aju, and P'yo'ngt'alk were originated by a number of overly loyal officials who disregarded the real meaning of the Government's pledge that the elections would be unprecedentedly clean.\"'",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "This NSA document discusses Pak Chong Hui's attendance at President Kennedy's funeral and preparations for South Korea's National Assembly General Elections in November 1963, along with concerns about election violations and political stability.",
+  "summary_one_paragraph": "Dated November 27, 1963, this TOP SECRET UMBRA document from the NSA details Chairman Pak Chong Hui's trip to the United States for President Kennedy's funeral, noting his planned brevity and avoidance of meetings with U.S. or Japanese officials. It also reports on the preparations for South Korea’s upcoming National Assembly General Elections, highlighting the competition between the Democratic Republican Party and opposition parties, efforts by the Central Election Management Committee to ensure fair elections, and Prosecutor General Cho'ng Chang Un's regret over disclosures of election violations by public officials. Additionally, it mentions plans to lift restrictions on former President Syngman Rhee and former Prime Minister Chang Myo'n.",
+  "tags": [
+    "NSA",
+    "Pak Chong Hui",
+    "John Kennedy",
+    "Assassination",
+    "South Korea",
+    "Elections",
+    "Political Stability",
+    "SIGINT"
+  ],
+  "title": "3/0/KOD/T1443-63 PAK PEAVES FOR WASHINGTON AMID ELECTION PREPARATIONS [R]",
+  "date": "1963-11-27",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "South Korea",
+    "Kimpo Airport",
+    "Mokp'o",
+    "Hamp'yo'ng",
+    "P'aju",
+    "P'yo'ngt'alk",
+    "Andong"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Pak Chong Hui",
+    "Lee Hu Rak",
+    "Sin Chik Su",
+    "Cho'ng To Sun",
+    "Pak Chong Ho",
+    "Cho Sang Ho",
+    "Chi Hong Ch'ang",
+    "Cho'ng Chang Un",
+    "Kang Ki Ch'o'n",
+    "Syngman Rhee",
+    "Chang Myo'n",
+    "So In Sok",
+    "Kim Yo'ng Sik"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

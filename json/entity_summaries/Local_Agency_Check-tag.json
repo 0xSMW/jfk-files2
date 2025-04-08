@@ -1,0 +1,39 @@
+{
+  "entity_name": "Local Agency Check",
+  "entity_type": "tag",
+  "document_count": 16,
+  "summary": "A \"Local Agency Check\" in these documents refers to a process of querying local law enforcement agencies (such as the FBI, Sheriff's Offices, and Police Departments) for information about a specific individual. These checks were conducted to gather background information, identify potential derogatory information, and assess any connections to organizations or activities of interest. The checks often involved querying multiple agencies in different locations to build a comprehensive profile of the individual. The results of these checks could range from finding no records to uncovering potentially relevant information, such as involvement in incidents, association with certain organizations, or mentions in publications.",
+  "key_connections": [
+    "David Reed Fromer",
+    "Manuel Marti",
+    "Ivan Marti",
+    "Blanca Marti",
+    "Joachim S. Beer aka Joachim F. Pehl",
+    "Henry S. Beer",
+    "Adrian Sotomayor",
+    "FBI",
+    "SLATE",
+    "People's World",
+    "New Horizons for Youth",
+    "Provost Marshal's Office (PMO)"
+  ],
+  "significance": "In the context of the JFK assassination records, \"Local Agency Checks\" appear to be a standard investigative procedure used to gather information on individuals of interest. The checks aimed to uncover any potentially relevant background information that could link individuals to subversive activities or provide insights into their motivations and associations. The frequency of these checks suggests a systematic effort to vet individuals and assess their potential relevance to ongoing investigations.",
+  "document_ids": [
+    "194-10004-10160",
+    "194-10004-10361",
+    "194-10007-10266",
+    "194-10012-10452",
+    "194-10004-10156",
+    "194-10004-10150",
+    "194-10004-10367",
+    "194-10004-10151",
+    "194-10004-10152",
+    "194-10004-10148",
+    "194-10004-10364",
+    "194-10004-10363",
+    "194-10004-10400",
+    "194-10004-10154",
+    "194-10004-10155",
+    "194-10004-10401"
+  ]
+}

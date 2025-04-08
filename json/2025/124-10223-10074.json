@@ -1,0 +1,51 @@
+{
+  "classification": "Associations",
+  "document_type": "Teletype",
+  "security": "The document is unclassified.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This FBI teletype from October 31, 1962, reports on John Rosselli's activities and associations in Los Angeles, including his presence at the Friar-s Club with Irving J. Leff and an individual known as 'Ross'. The message also notes a conversation about firearm purchases during the Cuban Missile Crisis.",
+  "summary_one_paragraph": "On October 31, 1962, the FBI's Los Angeles office sent a teletype to the Director of the FBI reporting that John Rosselli was observed at the Friar-s Club in Beverly Hills, California, in the company of Irving J. Leff, a part-owner of the New Frontier Hotel in Las Vegas, and an individual called 'Ross'. During their meeting, Leff mentioned the increased purchase of firearms and ammunition during the Cuban Missile Crisis, to which Rosselli responded that he had observed similar behavior in Miami. Rosselli also indicated he had recently returned to Los Angeles after being in Las Vegas.",
+  "tags": [
+    "FBI",
+    "John Rosselli",
+    "Irving J. Leff",
+    "Cuban Missile Crisis",
+    "Firearms",
+    "Friar-s Club",
+    "Los Angeles",
+    "Las Vegas"
+  ],
+  "title": "John Rosselli, AKA",
+  "date": "1962-10-31",
+  "locations_mentioned": [
+    "Los Angeles, California",
+    "Beverly Hills, California",
+    "Las Vegas",
+    "Miami",
+    "Cuba"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Rosselli",
+    "Irving J. Leff",
+    "Ross",
+    "J. Edgar Hoover",
+    "Clyde Tolson",
+    "Alan Belmont",
+    "Louis Nichols",
+    "William Casper",
+    "John Callahan",
+    "James Conrad",
+    "Cartha DeLoach",
+    "Alan Evans",
+    "John Gale",
+    "Samuel Rosen",
+    "William Sullivan",
+    "D. J. Tavel",
+    "Margaret Trotter",
+    "Helen Holmes",
+    "M. Gandy"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, LA"
+}

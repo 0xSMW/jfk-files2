@@ -1,0 +1,30 @@
+{
+  "entity_name": "John A. McCone",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "summary": "John A. McCone served as the sixth Director of Central Intelligence (DCI) during a critical period in the early 1960s. He was involved in significant events such as the Bay of Pigs invasion, the Cuban Missile Crisis, and the early stages of the Vietnam War, including the coup against Diem. Documents suggest his tenure also encompassed the initial reactions to President Kennedy's assassination. He appears in the context of discussions within the President's Foreign Intelligence Advisory Board (PFIAB) regarding various intelligence matters, including the National Reconnaissance Office (NRO), National Signals Intelligence (SIGINT) program, and briefings on global situations. While the documents do not directly implicate McCone in the JFK assassination, his role as DCI during that time places him in a position of oversight and responsibility for the CIA's activities, some of which were later scrutinized in relation to the assassination.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Lee Harvey Oswald",
+    "CIA",
+    "Bay of Pigs invasion",
+    "Cuban Missile Crisis",
+    "Vietnam War",
+    "Diem",
+    "President Kennedy"
+  ],
+  "significance": "John A. McCone's significance in the JFK assassination context lies in his role as the Director of Central Intelligence at the time of the assassination. While no direct involvement is indicated in the provided documents, his position meant he oversaw the CIA's activities, some of which were later investigated for potential connections to Lee Harvey Oswald and the assassination. His tenure and decisions during this period are subject to historical scrutiny.",
+  "document_ids": [
+    "124-10185-10099",
+    "206-10001-10003",
+    "104-10324-10000",
+    "135-10001-10276",
+    "180-10147-10176",
+    "206-10001-10006",
+    "104-10301-10001",
+    "178-10004-10420",
+    "104-10193-10069",
+    "104-10301-10000",
+    "206-10001-10000"
+  ]
+}

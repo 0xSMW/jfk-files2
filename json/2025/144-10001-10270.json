@@ -1,0 +1,29 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Intercept/Message",
+  "security": "This document contains information affecting the National Defense of the United States within the meaning of the Espionage Laws, Title 18, U. S. C., Sections 793, 794 and 798, the transmission or the revelation of which in any manner to an unauthorized person is prohibited by law.",
+  "security_level": "SECRET",
+  "summary": "NSA intercepts a message indicating a \"possible plot to kill President Kennedy and sister\" on March 25, 1963, triggering a series of notifications and investigations by various agencies.",
+  "summary_one_paragraph": "On March 25, 1963, the NSA intercepted a CRITIC message (CRITIC-25-278-63) from USA-66 indicating a \"possible plot to kill President Kennedy and sister\". This led to immediate notifications to Col. Minick, Col. Dauls, and Gen. Blake. Throughout the day, NSA duty officers recorded events, including attempted classifications, CIA inquiries, investigations into hostile intent, and coordination with DIA/CAIC. Follow-up messages from various stations indicated continuing searches and coverage, but initial analyses yielded negative results, and no related activity was found.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Robert Kennedy",
+    "Threat",
+    "Intercept",
+    "CRITIC",
+    "Assassination Plot"
+  ],
+  "title": "CRITIC-25-278-63 Possible Plot to Kill President Kennedy and SYS",
+  "conspiracy": "The document references a possible plot to kill President Kennedy, indicating an active threat before his assassination.",
+  "date": "1963-03-25",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Col Minick",
+    "Col Dauls",
+    "Gen Blake",
+    "Earl Knott",
+    "Helen Carr"
+  ],
+  "sender": "USA-66 (US Air Force Security Service unit location code/callsign. During the Vietnam War, USA-66 was assigned to the 6994th Security Squadron, Pleiku Air Base, Vietnam.) https://www.usafss.org/picts/6994th.htm#:~:text=Here%20we%20see%20USA%2D66,site%20at%20Pleiku%2C%20South%20Vietnam.&text=The%206994th%20was%20tasked%20to,in%20the%20Pleiku%20area%20of%20II"
+}

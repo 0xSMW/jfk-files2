@@ -1,0 +1,36 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Textual Document",
+  "security": "Disclosing law enforcement techniques such as using arrests to gather information could compromise future investigations. The document states: '...A LOT OF THOSE ARRESTED IN THE RAID WILL HAVE TO BE DISCHARGED BECAUSE THE GOVERNMENT ONLY ARRESTED THEM IN HOPES OF GETTING INFORMATION...' which could be used to undermine the credibility of law enforcement.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An FBI document reports that Sam Mannarino, a Pittsburgh hoodlum, expressed disappointment in the Democratic party and criticized Attorney General Robert Kennedy, while still viewing President John F. Kennedy favorably.",
+  "summary_one_paragraph": "This unclassified FBI document, dated September 12, 1961, originates from the SAC in Pittsburgh and is addressed to the FBI Director, detailing information received from an informant about Sam Mannarino's opinions on Democratic politicians. Mannarino, a known Pittsburgh hoodlum, expressed dissatisfaction with the Democratic party and Attorney General Robert Kennedy while maintaining a positive view of President John F. Kennedy. He also discussed an IRS raid on a gambling casino, suggesting that arrests were made primarily to gather information rather than to prosecute.",
+  "tags": [
+    "FBI",
+    "Antiracketeering",
+    "Gabriel Mannarino",
+    "Sam Mannarino",
+    "Gambling Act",
+    "IRS Raid",
+    "Casino",
+    "Pittsburgh",
+    "Robert Kennedy",
+    "John F. Kennedy"
+  ],
+  "title": "FBI Report on Sam Mannarino's Political Opinions",
+  "date": "1961-09-12",
+  "locations_mentioned": [
+    "Pittsburgh",
+    "Leechburg, PA",
+    "New Kensington, PA"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Gabriel Mannarino",
+    "Sam Mannarino",
+    "John F. Kennedy",
+    "Robert Kennedy"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, PG"
+}

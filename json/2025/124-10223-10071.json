@@ -1,0 +1,28 @@
+{
+  "classification": "Administrative",
+  "document_type": "Textual Document",
+  "security": "Releasing details of an ongoing FBI investigation into John Rosselli's activities, including surveillance and information obtained from confidential neighborhood sources, could compromise the investigation. Mentioning the use of neighborhood sources and coordination with the Hertz Corporation could reveal FBI investigative methods and sources, potentially endangering them.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An FBI urgent communication details John Rosselli's residence, car rental activity, and contact attempts as of October 29, 1962, including information from neighborhood sources and Hertz Corporation.",
+  "summary_one_paragraph": "This FBI document, dated October 29, 1962, from the SAC in Los Angeles to the Director, FBI, reports that John Rosselli was residing in an LA apartment, supported by neighborhood source information. It details Rosselli's late-model Chevrolet and verifies that he rented the vehicle from Hertz at the Beverly Hilton using a Carte Blanche credit card, scheduled to return it on November 2. The memo also mentions a failed attempt to contact Rosselli at the Friar-s Club on October 22.",
+  "tags": [
+    "FBI",
+    "John Rosselli",
+    "Car Rental",
+    "Hertz Corporation",
+    "Surveillance",
+    "Los Angeles"
+  ],
+  "title": "JRO, RES, CAR RENTAL, HERTZ CORP",
+  "date": "1962-10-29",
+  "locations_mentioned": [
+    "Los Angeles",
+    "Beverly Hills, California"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Rosselli"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, LA"
+}

@@ -1,0 +1,52 @@
+{
+  "classification": "FBI",
+  "document_type": "CABLEGRAM",
+  "security": "If the intelligence contained in the above message is to be disseminated outside the Bureau, it is suggested that it be suitably paraphrased in order to protect the Bureau's cryptographic systems.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A cablegram from LEGAT Paris to the FBI Director regarding Santo Trafficante, Jr.'s travels and contacts in Europe, specifically Madrid and Lisbon, and his possible interest in purchasing property in Madrid.",
+  "summary_one_paragraph": "This unclassified cablegram, dated December 5, 1966, originates from LEGAT Paris and is addressed to the FBI Director, providing details about Santo Trafficante, Jr.'s recent movements and activities. It reports that Trafficante arrived in Madrid on November 23 and departed on November 28, with Spanish police indicating his principal purpose was to meet with Cuban attorney Rafael Garcia Bango regarding a potential property purchase in Madrid. The cable also notes that Portuguese police confirmed Trafficante transited through Lisbon airport without exiting. Garcia referenced a Miami memorandum related to Junta Revolucionaria Cubana (JURE), suggesting a possible connection to Cuban exile activities.",
+  "tags": [
+    "Santo Trafficante Jr.",
+    "Rafael Garcia Bango",
+    "Cuban Attorney",
+    "Madrid",
+    "Lisbon",
+    "JURE",
+    "Cuban Exile",
+    "FBI",
+    "LEGAT Paris",
+    "Property Purchase"
+  ],
+  "title": "SANTO TRAFFICANTE, JR. AR.",
+  "date": "1966-12-05",
+  "locations_mentioned": [
+    "Paris",
+    "Madrid",
+    "Lisbon",
+    "Miami",
+    "Cuba"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Santo Trafficante, Jr.",
+    "Rafael Garcia Bango",
+    "Tolson",
+    "DeLoach",
+    "Mohr",
+    "Wick",
+    "Casper",
+    "Callahan",
+    "Conrad",
+    "Felt",
+    "Gale",
+    "Rosen",
+    "Sullivan",
+    "Tavel",
+    "Trotter",
+    "Holmes",
+    "Gandy",
+    "Brennan"
+  ],
+  "recipient": "DIRECTOR, FBI",
+  "sender": "LEGAT PARIS"
+}

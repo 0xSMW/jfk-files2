@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "Airtel Airmail",
+  "security": "Releasing information about ongoing investigations, such as the surveillance of Santo Trafficante, Jr., or the search for Eloy Garcia, could compromise those investigations or put individuals at risk. Disclosing the identities of informants (MM 416-C) or their specific information sources also could jeopardize their safety. For example: '...GARCIA reportedly being sought by the Castro Government...involved with a judge...allegedly involved in dope traffic and strong arm activity.'",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An FBI airtel from the Miami SAC to the FBI Director relays information about Eloy Garcia, a Cuban national possibly involved in gambling and being sought by the Castro government, and his connections to Santo Trafficante, Jr.",
+  "summary_one_paragraph": "On May 23, 1959, the Miami SAC office of the FBI sent an airtel to the Director relaying miscellaneous information about Eloy Garcia, a Cuban national reportedly hiding at the home of Louis Diaz in Tampa, Florida. Garcia is identified as the operator of Johnny's 21 Club and a close associate of Richard Perez, aka \"El Mono,\" a Tampa gambler working for Santo Trafficante, Jr., in Havana; Garcia allegedly served as a contact between Trafficante and the Batista government. Garcia is reportedly wanted by the Castro government for dealing in Cuban money and involvement in a fraud case, as well as alleged involvement in dope traffic and strong-arm activity. The FBI is considering interviewing Garcia for information concerning Santo Trafficante and will notify INS if Garcia is in the United States illegally.",
+  "tags": [
+    "FBI",
+    "Eloy Garcia",
+    "Santo Trafficante Jr.",
+    "Gambling",
+    "Cuba",
+    "Castro Government",
+    "Informant",
+    "Tampa",
+    "Havana"
+  ],
+  "title": "ELOY GARCIA MISCELLANEOUS INFORMATION CONCERNING",
+  "date": "1959-05-23",
+  "locations_mentioned": [
+    "Miami",
+    "Tampa, Florida",
+    "Havana, Cuba"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Eloy Garcia",
+    "Louis Diaz",
+    "Richard Perez (aka \"El Mono\")",
+    "Santo Trafficante, Jr.",
+    "Batista"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, Miami"
+}

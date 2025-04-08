@@ -1,0 +1,22 @@
+{
+  "entity_name": "Senate Select Committee on Intelligence Activities",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The Senate Select Committee on Intelligence Activities, also known as the Church Committee, was a U.S. Senate committee established in 1975 to investigate abuses by the Central Intelligence Agency (CIA), National Security Agency (NSA), Federal Bureau of Investigation (FBI), and the Internal Revenue Service (IRS). The documents provided indicate the committee's active role in requesting information and documents from the FBI regarding various intelligence operations, including COINTELPRO, domestic intelligence activities, and responses to congressional inquiries. The documents also cover security clearances for the committee's staff, highlighting the importance of secure access to classified information for their investigations. The timeline of involvement in these documents is primarily focused on 1975, reflecting the period when the committee was actively conducting its investigations.",
+  "key_connections": [
+    "CIA",
+    "NSA",
+    "FBI",
+    "IRS",
+    "COINTELPRO",
+    "Martin Luther King Jr."
+  ],
+  "significance": "While the documents do not directly mention the JFK assassination, the Senate Select Committee on Intelligence Activities is significant in the broader context of investigations into intelligence agencies. The committee's work in uncovering abuses and questionable activities by these agencies could potentially shed light on any involvement or knowledge they may have had related to the assassination. The committee's investigation into the FBI's domestic intelligence and counterintelligence activities, including those related to Martin Luther King Jr., could reveal patterns of behavior relevant to understanding the broader political climate and potential motivations surrounding the JFK assassination.",
+  "document_ids": [
+    "124-10274-10014_multirif_redacted",
+    "124-10185-10099 (c06716626)",
+    "124-10271-10003_multirif",
+    "124-10271-10033_multirif_redacted",
+    "124-10271-10299_multirif"
+  ]
+}

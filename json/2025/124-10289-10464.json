@@ -1,0 +1,40 @@
+{
+  "classification": "Cuba",
+  "document_type": "Paper, Textual Document",
+  "security": "Releasing the content of this document could reveal intelligence collection methods related to monitoring communications between Cuban exiles and Guatemalan officials. Specifically, the document contains intercepted communications regarding visa requests and anti-Castro support, which, if disclosed, could expose signal intelligence capabilities and compromise ongoing or future intelligence operations. It contains highly classified information, indicated by 'TOP SECRET DINAR'.",
+  "security_level": "Top Secret",
+  "summary": "This document is a communication from the New York Guatemalan Consul to the President of the Republic of Guatemala regarding visa requests from Cubans seeking to discuss anti-Castro support. It includes the names of the Cubans requesting visas and requests instructions from the President.",
+  "summary_one_paragraph": "Dated January 25, 1961, this top-secret document relays a message from the Guatemalan Consul in New York to the President of Guatemala concerning a request for visas from several Cubans: Pedro Luis Diaz Lanz, Luis Ernesto Conte Aguero, Ana Maria Perera, Antonio Gonzalez Torre, Cil Kruppa Abi, Nestor Alvarez Fernandeza, Ramon Incierto Veytia, and Jesus Alonso Carcia. These individuals aim to meet with the President to express their anti-Castro sentiments and convey Guatemala’s backing. The consul seeks guidance on how to proceed with the visa applications, as the Cubans claim to be touring Latin America to gain support against Castro’s regime.",
+  "tags": [
+    "FBI",
+    "NSA",
+    "Guatemala",
+    "Cuba",
+    "Cuban Exiles",
+    "Visa Request",
+    "Anti-Castro",
+    "Communications Intercept",
+    "Top Secret"
+  ],
+  "title": "CR 64-330-213-325",
+  "date": "1961-01-25",
+  "locations_mentioned": [
+    "New York",
+    "Guatemala City",
+    "Guatemala",
+    "Latin America"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Pedro Luis Diaz Lanz",
+    "Luis Ernesto Conte Aguero",
+    "Ana Maria Perera",
+    "Antonio Gonzalez Torre",
+    "Cil Kruppa Abi",
+    "Nestor Alvarez Fernandeza",
+    "Ramon Incierto Veytia",
+    "Jesus Alonso Carcia",
+    "Fidel Castro"
+  ],
+  "sender": "NSA"
+}

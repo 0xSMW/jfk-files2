@@ -1,0 +1,29 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "This document contains intelligence regarding international relations and the disruption of a World Peace Council meeting. Sharing this information could reveal sources and methods used to gather intelligence and potentially strain diplomatic relations. The document is marked TOP SECRET UMBRA and TOP SECRET DINAR indicating highly sensitive information. The existence of such monitoring activities could be damaging if revealed.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A Chinese delegate disrupted a World Peace Council meeting by denouncing President Kennedy after expressions of sorrow for his death were voiced by other delegates.",
+  "summary_one_paragraph": "This document, dated December 5, 1963, details an incident at the inaugural meeting of the World Peace Council in Warsaw where a Chinese delegate interrupted proceedings to condemn the late President John F. Kennedy. The interruption occurred after delegates from Poland and France expressed sorrow for Kennedy's death and proposed a moment of silence. The Chinese delegate, seizing the microphone against protocol, asserted that Kennedy, as an exponent of aggressive Capitalism, should not be mourned, causing a profound silence in the assembly before the meeting resumed.",
+  "tags": [
+    "Assassination, John Kennedy",
+    "World Peace Council",
+    "Chinese Delegate",
+    "Propaganda",
+    "Diplomacy"
+  ],
+  "title": "CHINESE DELEGATE DISRUPTS WORLD PEACE COUNCIL",
+  "date": "1963-12-05",
+  "locations_mentioned": [
+    "Warsaw",
+    "Rome"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Professor Lange",
+    "MADAULE"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

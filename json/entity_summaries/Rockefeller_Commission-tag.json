@@ -1,0 +1,30 @@
+{
+  "entity_name": "Rockefeller Commission",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "The Rockefeller Commission, officially known as the President's Commission on CIA Activities within the United States, was established in 1975 to investigate alleged domestic activities of the CIA. Several documents reference the Commission's inquiries into various CIA operations, including those related to Cuban operations, potential assassination attempts against Fidel Castro, and the agency's relationship with individuals involved in these activities. The Commission's files contain a wide range of materials, including depositions, memoranda, letters, and notes related to subjects such as gun passage, poison pills, NSC documents, and CIA activities. The documents indicate that individuals like William C. Sturbitts and Victor Marchetti provided testimony to the Commission. The Commission's work also involved reviewing documents related to the Kennedy assassination and other sensitive matters, as well as examining the counterintelligence function within the CIA and its relationship with the FBI.",
+  "key_connections": [
+    "CIA",
+    "William C. Sturbitts",
+    "Victor Marchetti",
+    "James Angleton",
+    "Fidel Castro",
+    "Frank Sturgis",
+    "FBI",
+    "Kennedy Assassination"
+  ],
+  "significance": "The Rockefeller Commission's significance in the JFK assassination context lies in its investigation of potential CIA involvement in activities that could have connections to the assassination, such as Cuban operations and plots against Fidel Castro. The Commission's files and investigations provide insights into the CIA's activities during the period leading up to and following the assassination, and its inquiries into the agency's domestic operations and counterintelligence functions may shed light on any potential connections to the event.",
+  "document_ids": [
+    "104-10331-10166",
+    "157-10011-10083",
+    "157-10011-10092",
+    "104-10059-10218",
+    "178-10004-10396",
+    "178-10004-10115",
+    "178-10002-10091",
+    "178-10004-10420",
+    "178-10002-10279",
+    "157-10008-10234",
+    "178-10002-10215"
+  ]
+}

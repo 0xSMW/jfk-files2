@@ -1,0 +1,32 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "Contains Sensitive Compartmented Information",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "NSA report detailing that the Venezuelan Foreign Minister is bringing documentary evidence against Cuba to Washington, specifically regarding accusations to be presented to the OAS regarding Fidel Castro's regime.",
+  "summary_one_paragraph": "On December 31, 1963, the NSA reported that the Venezuelan Foreign Minister, Falcon Briceno, departed for Washington with documentary evidence to present to the Organization of American States (OAS) accusing Fidel Castro's Cuban regime. The report, originating from Caracas and routed through Mexico, highlights Venezuela's intent to formally present its accusations against Cuba to the OAS, as noted in the message from ALABARDA O.",
+  "tags": [
+    "NSA",
+    "Mexico",
+    "Venezuela",
+    "Cuba",
+    "OAS",
+    "Diplomatic Activity",
+    "Fidel Castro"
+  ],
+  "title": "Venezuelan Foreign Minister Bringing Documentary Evidence Against Cuba to Washington",
+  "date": "1963-12-31",
+  "locations_mentioned": [
+    "Mexico",
+    "Venezuela",
+    "Cuba",
+    "Washington D.C."
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Falcon Briceno",
+    "Fidel Castro"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

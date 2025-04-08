@@ -1,0 +1,19 @@
+{
+  "entity_name": "Erhard",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Ludwig Erhard, presumably the West German Chancellor at the time, is mentioned in the context of John F. Kennedy's assassination and its immediate aftermath. He is noted as one of the prominent mourners at Kennedy's funeral, alongside De Gaulle. A Polish intelligence report mentions his involvement in diplomatic activities and reactions within the UN following Kennedy's death, specifically in meetings involving Mikoyan and De Gaulle. The documents suggest that Erhard's presence and reactions were considered significant enough to be noted in diplomatic and intelligence reports following the assassination.",
+  "key_connections": [
+    "De Gaulle",
+    "Mikoyan",
+    "John F. Kennedy",
+    "President Johnson"
+  ],
+  "significance": "Erhard's significance lies in his role as a prominent world leader representing West Germany during a period of global mourning and political assessment following Kennedy's assassination. His presence at the funeral and involvement in diplomatic discussions reflect the international impact of the event and the importance of West Germany's relationship with the United States.",
+  "document_ids": [
+    "144-10001-10084",
+    "144-10001-10315",
+    "144-10001-10102",
+    "144-10001-10367"
+  ]
+}

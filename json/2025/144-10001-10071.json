@@ -1,0 +1,31 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report, Textual Document",
+  "security": "The document is classified as TOP SECRET UMBRA and contains sensitive compartmented information, as indicated by the comment \"CONTAINS SENSITIVE COMPARTMENTED INFORMATION\". This means its disclosure could reveal highly protected intelligence sources or methods.",
+  "security_level": "TOP SECRET",
+  "summary": "A Bolivian UN delegate, VELARDE DORADO, reports the widespread shock and touching demonstrations in Europe following President Kennedy's assassination and suggests the Foreign Minister's attendance at the funeral would be advisable, considering Kennedy's support for Bolivia.",
+  "summary_one_paragraph": "On December 4, 1963, a report originated from the NSA regarding a message from Bolivian UN delegate VELARDE DORADO in New York to the Foreign Ministry in La Paz, following President Kennedy's assassination on November 23, 1963. The delegate conveyed the shock and widespread demonstrations in Europe viewed via Telstar and recommended that the Foreign Minister attend Kennedy's funeral, highlighting the late president's friendship with Bolivia and support for its national revolution. The message, marked TOP SECRET UMBRA and classified due to sensitive compartmented information, emphasizes the global reaction to Kennedy's death and the political implications for Bolivia.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Bolivia",
+    "Diplomatic Activity",
+    "Funeral",
+    "VELARDE DORADO"
+  ],
+  "title": "3/0/BVD/T226-63: BOLIVIAN UN DELEGATE REPORTS KENNEDY WAS A GREAT",
+  "date": "1963-12-04",
+  "locations_mentioned": [
+    "Bolivia",
+    "New York",
+    "La Paz",
+    "Europe"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "VELARDE DORADO"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

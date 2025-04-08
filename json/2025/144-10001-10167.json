@@ -1,0 +1,29 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This document contains sensitive compartmented information. Releasing information about Cuban commentaries on Oswald's death, gathered through signal intelligence, could reveal NSA's intelligence sources and methods, compromising their effectiveness. The classification is SECRET MORAY, derived from NSA/CSSM 123-2.",
+  "security_level": "SECRET",
+  "summary": "An NSA report indicates that the Ghanaian press emphasized Cuban Prime Minister commentaries on the death of Lee Harvey Oswald in headlines on November 29, 1963.",
+  "summary_one_paragraph": "This NSA report, dated November 30, 1963, reveals that the Ghanaian press prominently featured commentaries from the Cuban Prime Minister regarding the death of Lee Harvey Oswald, the alleged assassin of President Kennedy. The report, originating from Accra and addressed to Havana's Foreign Ministry, underscores Cuban interest and reactions to Oswald's death as reported in Ghanaian media. Marked SECRET SABRE with restrictions, it contains sensitive compartmented information and requires the originating agency's determination for opening.",
+  "tags": [
+    "NSA",
+    "Lee Harvey Oswald",
+    "JFK Assassination",
+    "Cuban Commentaries",
+    "Ghanaian Press",
+    "Signal Intelligence",
+    "Sensitive Compartmented Information"
+  ],
+  "title": "Ghanaian Press Emphasizing Cuban Commentaries [R] on Death of Presidential Assassin",
+  "date": "1963-11-30",
+  "locations_mentioned": [
+    "Ghana",
+    "Cuba"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Lee Harvey Oswald"
+  ],
+  "recipient": "HCO",
+  "sender": "NSA"
+}

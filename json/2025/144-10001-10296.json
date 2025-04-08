@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Paper, Textual Document",
+  "security": "The document discusses potential actions against Cuba if it's confirmed Cuba was involved in President Kennedy's assassination. Releasing this information could strain current international relations by suggesting historical intelligence activities and strategies regarding Cuba. For example: \"Please consult as to what the government to which you are accredited will do if it is confirmed that the assassin of the President is [1 gr U] Cuba.\"",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A consultation request from the U.S. to multiple embassies regarding the actions their accredited governments would take if Cuba were confirmed to be involved in President Kennedy's assassination.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA document, dated November 27, 1963, originates from the NSA and is addressed to HCF (likely a distribution list for high-level communications). It details a consultation request sent from La Paz's Foreign Ministry to circular embassies, including Mexico City and Rio de Janeiro, seeking information on the potential responses of accredited governments if Cuba were confirmed to be the assassin of President Kennedy, referencing related messages 3/O/BVD/T220-63.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Cuba",
+    "Consultation Request",
+    "Diplomacy",
+    "TOP SECRET UMBRA",
+    "Bolivia"
+  ],
+  "title": "3/0/Z-BVD/T100-63 Consultation Requested Regarding President Kennedy's [R]",
+  "date": "1963-11-27",
+  "locations_mentioned": [
+    "Bolivia",
+    "La Paz",
+    "Mexico City",
+    "Rio de Janeiro",
+    "Cuba"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President Kennedy"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

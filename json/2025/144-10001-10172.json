@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "This document discusses plans for the execution of individuals and contains sensitive compartmented information. Releasing details about these plans and the sources of the information could compromise ongoing operations and endanger individuals. Quoting directly: 'The plan for the execution of VECIANA ((B)) and ESTEVEZ((c)) is less important than the other. Despite detection of the plan you may carry out the plan of action against VECIANA.' and 'CONTAINS SENSITIVE COMPARTMENTED INFORMATION'",
+  "security_level": "TOP SECRET",
+  "summary": "An NSA report from November 1962 discusses plans for the execution of Antonio Veciana and Geronimo Estevez, Cuban exiles, and references another plan, PO ALPHA. It authorizes carrying out the plan against Veciana despite its detection.",
+  "summary_one_paragraph": "This NSA report, dated November 28, 1962, outlines discussions and directives concerning plans to execute Antonio Veciana, a Puerto Rican spokesman for ALPHA 66, and Geronimo Estevez, a Cuban exile in Puerto Rico. The report, originating from SERAFIN in Puerto Rico, suggests that the execution plan for Veciana and Estevez is of lesser importance compared to another plan, PO ALPHA. Despite the detection of the execution plan, authorization is given to proceed with the action against Veciana. The document, marked Top Secret and intended for limited distribution, also contains sensitive compartmented information.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Veciana",
+    "Estevez",
+    "Cuban Exiles",
+    "Execution Plan",
+    "ALPHA 66",
+    "Puerto Rico"
+  ],
+  "title": "3/O/TRIG-CUI/T23-62",
+  "conspiracy": "The document discusses plans for the execution of individuals connected to Cuban exile groups, which may be relevant to understanding potential motives or actors involved in the JFK assassination. However, it doesn't directly provide details about the assassination itself.",
+  "date": "1962-11-28",
+  "locations_mentioned": [
+    "Puerto Rico",
+    "Cuba"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Antonio Veciana",
+    "Geronimo Estevez"
+  ],
+  "recipient": "SERAFIN (Puerto Rico)",
+  "sender": "NSA"
+}

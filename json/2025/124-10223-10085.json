@@ -1,0 +1,26 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Teletype",
+  "security": "Disclosing details of FBI investigations, particularly those involving individuals with connections to organized crime or sensitive financial transactions (e.g., Rosselli's casino dealings), could compromise ongoing law enforcement efforts and endanger informants. Additionally, revealing investigative targets' travel plans and associations could facilitate their evasion or obstruction of justice.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "FBI teletype from Los Angeles to the Director, FBI, regarding John Rosselli's canceled flight to Las Vegas, his dinner with Jonie Taps, and information about Rosselli receiving money from Bryan Foy for a hotel and casino deal. Rosselli also mentioned plans to visit Santa Barbara for a physical check-up and Palm Springs.",
+  "summary_one_paragraph": "On November 14, 1962, the FBI in Los Angeles sent a teletype to the Director of the FBI concerning John Rosselli, who canceled a flight to Las Vegas. Informant LA 4268-C reported that Rosselli had dinner with Jonie Taps from Twentieth Century Fox and mentioned receiving $790,000 from movie producer Bryan Foy to purchase a hotel and casino in downtown Las Vegas. Rosselli disclosed plans to visit Santa Barbara for a physical check-up and Palm Springs on November 16.",
+  "tags": [
+    "FBI",
+    "John Rosselli",
+    "Las Vegas",
+    "Bryan Foy",
+    "Jonie Taps",
+    "Organized Crime",
+    "Physical Exam"
+  ],
+  "title": "John Rosselli",
+  "date": "1962-11-14",
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Rosselli",
+    "Jonie Taps",
+    "Bryan Foy"
+  ],
+  "sender": "SAC, Los Angeles (FBI) "
+}

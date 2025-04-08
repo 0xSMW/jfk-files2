@@ -1,0 +1,47 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Memorandum, Letter",
+  "security": "Disclosing that the Air Force Security Service was intercepting international commercial communications at Kirknewton, Scotland during 1963, and specifically monitored communications links between Lisbon and other parts of the world, could reveal sensitive intelligence gathering capabilities and compromise sources or methods. As stated: 'The information contained in Mr. Christensen's letter that the Air Force Security Service was intercepting international commercial communications at Kirknewton, Scotland during 1963 is correct, as is the assertion that that station monitored communications links between Lisbon and other parts of the world.'",
+  "security_level": "CONFIDENTIAL",
+  "summary": "A 1978 memorandum from NSA General Counsel Daniel Silver to the FBI, forwarding correspondence related to David Christensen's claim of intercepting a message concerning the JFK assassination prior to the event.",
+  "summary_one_paragraph": "On September 7, 1978, NSA General Counsel Daniel Silver sent a memorandum to the FBI's Arthur Kerns, forwarding materials concerning David Christensen, a former U.S. Air Force Security Service member. Christensen claimed in a letter to a former colleague that he intercepted a communication in Kirknewton, Scotland, about a month before the JFK assassination that referenced a key figure in organized crime. Silver's memo confirms that the Air Force Security Service did intercept international commercial communications at that location, particularly links between Lisbon and other locations, and requests that dissemination of the information be limited to those with appropriate SI clearances due to its sensitive nature.",
+  "tags": [
+    "NSA",
+    "FBI",
+    "David Christensen",
+    "JFK Assassination",
+    "Intercepted Communication",
+    "Kirknewton",
+    "Lisbon",
+    "Organized Crime",
+    "Security Service"
+  ],
+  "title": "GC/335/78 Request for Information",
+  "conspiracy": "The document suggests that a message about the assassination of President Kennedy was intercepted prior to the event, and that the content was related to organized crime figures.",
+  "date": "1978-09-07",
+  "locations_mentioned": [
+    "Kirknewton, Scotland",
+    "Lisbon",
+    "Tangiers",
+    "Sheridan, WY",
+    "San Antonio, Texas",
+    "Ft George G Meade, MD"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Daniel Silver",
+    "Arthur Kerns",
+    "David Christensen",
+    "Paul T. Fisher",
+    "James Leer",
+    "Forney",
+    "Delaughter",
+    "Duane Bruntz",
+    "Garnett K. Tatum",
+    "Sgt Prater",
+    "Sgt Harley",
+    "Sgt Willy Hendrickson"
+  ],
+  "recipient": "FBI, KERNS",
+  "sender": "DANIEL SILVER, GC"
+}

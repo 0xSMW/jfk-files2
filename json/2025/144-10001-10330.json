@@ -1,0 +1,30 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Paper, Textual Document",
+  "security": "The document is classified as TOP SECRET UMBRA and TOP SECRET DINAR, indicating that its disclosure could cause exceptionally grave damage to national security. The restrictions marked (X1, X3, X5, X6, X7, X8) suggest sensitive intelligence sources or methods are involved, and revealing these details could compromise intelligence operations and sources.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "This document details the composition of the South Korean Presidential envoy attending John F. Kennedy's funeral in 1963, listing the names and positions of the delegates. It also includes a request for the U.N. Ambassador in New York to procure a silk vest for the Foreign Minister.",
+  "summary_one_paragraph": "Dated November 24, 1963, this TOP SECRET UMBRA document from the National Security Agency (NSA) to HCF outlines the members of the South Korean (ROK) Presidential envoy designated to attend President John F. Kennedy's funeral. The message, originating from Seoul's Vice Foreign Minister, identifies LEE HU RAK (Chief of the Office of Public Information, SCNR), Colonel CHO SANG HO, Commander of the Guard Unit PAK CHONG KYU, doctor CHI CHU CHI, and Protocol Chief CHO'NG TO SUN as the delegates. A request is also made to the South Korean Ambassador to the UN in New York to secure a silk vest for the Foreign Minister, referencing document 2X/O/KOD/T440-63.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Korean Envoy",
+    "Funeral",
+    "Diplomacy",
+    "TOP SECRET",
+    "UMBRA",
+    "DINAR"
+  ],
+  "title": "3/0/KOD/T1407-63 ROK FUNERAL ENVOY [R]",
+  "date": "1963-11-24",
+  "persons_mentioned": [
+    "John Kennedy",
+    "LEE HU RAK",
+    "CHO SANG HO",
+    "PAK CHONG KYU",
+    "CHI CHU CHI",
+    "CHO'NG TO SUN"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA, Vice Foreign Minister (Seoul)"
+}

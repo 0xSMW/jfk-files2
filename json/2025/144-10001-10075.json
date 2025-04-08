@@ -1,0 +1,30 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report, Textual Document",
+  "security": "Contains Sensitive Compartmented Information",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A report from the French Legation in Budapest details the official and public reaction in Hungary to President Kennedy's assassination, noting the government's subdued response and the press's rejection of any Communist involvement.",
+  "summary_one_paragraph": "On December 14, 1963, a top secret report from the French Legation in Budapest communicated to Paris the Hungarian reaction to President Kennedy's assassination, stating that the government acknowledged the event by lowering a black flag at headquarters and sending representatives to the American colleague, while the general public displayed dismay but lessened anxiety. The report highlighted that the Hungarian press avoided mentioning any Communist implication in the assassination, maintaining an anti-American stance.",
+  "tags": [
+    "NSA",
+    "Kennedy Assassination",
+    "France",
+    "Hungary",
+    "Diplomatic Activity",
+    "French Legation",
+    "Budapest"
+  ],
+  "title": "FRENCH LEGATION BUDAPEST REPORTS REACTION TO KENNEDY'S ASSASSINATION",
+  "date": "1963-12-14",
+  "locations_mentioned": [
+    "France",
+    "Hungary",
+    "Budapest"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President Kennedy"
+  ],
+  "recipient": "HCF [R]",
+  "sender": "NSA"
+}

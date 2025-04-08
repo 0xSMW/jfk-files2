@@ -1,0 +1,19 @@
+{
+  "entity_name": "IDEN C",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "IDEN C is mentioned in a classified message evaluating potential assets for PERUNER operations in Italy. The message discusses IDEN C's capabilities, cover, and suitability for clandestine activities. The document suggests that IDEN C was being considered as a potential asset for intelligence operations in Italy, specifically within the context of the PERUNER program. The other documents do not provide additional context about IDEN C, but they do mention other IDEN individuals (A and B) in relation to AMWORLD.",
+  "key_connections": [
+    "AM/HIP 1",
+    "BELL",
+    "AMWORLD",
+    "IDEN A",
+    "IDEN B"
+  ],
+  "significance": "IDEN C's significance in the JFK assassination context is unclear based on the provided documents. The documents suggest IDEN C was being considered as a potential asset for intelligence operations in Italy, specifically within the context of the PERUNER program. Without further information, it is difficult to determine any direct or indirect connection to the JFK assassination.",
+  "document_ids": [
+    "104-10183-10022",
+    "104-10183-10043",
+    "104-10308-10086"
+  ]
+}

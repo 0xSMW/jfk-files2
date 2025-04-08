@@ -1,0 +1,35 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Message",
+  "security": "This document contains highly classified information, indicated by the 'TOP SECRET UMBRA' and 'TOP SECRET DINAR' markings, and includes a restriction against foreign dissemination ('NO FOREIGN DISSEM'). Releasing the details of Mrs. Kennedy's message relay could potentially reveal sensitive communication channels and protocols used by the NSA and other agencies, which could be exploited by adversaries. Additionally, the document's origin within the NSA and its connection to the JFK assassination records system indicates its sensitivity and the need to protect its contents.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "An NSA message relays Mrs. Jacqueline Kennedy's appreciation to Kwame Nkrumah, President of Ghana, for his message of condolence and representation at President Kennedy's funeral, as conveyed through Kwesi Armah.",
+  "summary_one_paragraph": "On December 4, 1963, the NSA transmitted a message indicating that Mrs. Jacqueline Kennedy expressed her gratitude to Kwame Nkrumah, the President of Ghana, for his message and the presence of Kwesi Armah, Ghana's High Commissioner to the UK, at President Kennedy's funeral. The message originated from London, where Armah had returned after the funeral in Washington, and was relayed to Accra, Ghana, conveying Mrs. Kennedy's deep appreciation for Nkrumah's kind gesture and affection for her family during their bereavement.",
+  "tags": [
+    "NSA",
+    "Jacqueline Kennedy",
+    "Kwame Nkrumah",
+    "Kwesi Armah",
+    "Ghana",
+    "JFK Assassination",
+    "Condolences",
+    "Diplomacy"
+  ],
+  "title": "Mrs. Kennedy's Message Relayed to Nkrumah",
+  "date": "1963-12-04",
+  "locations_mentioned": [
+    "London",
+    "Washington",
+    "Accra",
+    "Ghana"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Jacqueline Kennedy",
+    "Kwame Nkrumah",
+    "Kwesi Armah",
+    "John F. Kennedy"
+  ],
+  "recipient": "HCO",
+  "sender": "NSA"
+}

@@ -1,0 +1,32 @@
+{
+  "classification": "Mexico",
+  "document_type": "Report",
+  "security": "CONTAINS SENSITIVE COMPARTMENTED INFORMATION",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "The Mexican Ambassador in Moscow reports the Soviet reaction to the assassination of President Kennedy, noting deep grief among the Soviet people and increased security measures immediately following the news.",
+  "summary_one_paragraph": "On December 13, 1963, a TOP SECRET UMBRA report details the Mexican Ambassador's observations from Moscow regarding the Soviet Union's reaction to President Kennedy's assassination; the ambassador noted widespread grief among the Soviet population, attributed to their high culture and traditional sentimentality. Initial concerns about international complications prompted increased security measures by military authorities, which have since returned to normal. High-ranking Soviet officials are reportedly concerned about the new U.S. President's international policies, particularly concerning Cuba, and are awaiting resolutions on wheat purchases and a cultural agreement to better gauge future relations.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Mexico",
+    "USSR",
+    "Soviet Reaction",
+    "Diplomatic Activity",
+    "Sensitive Compartmented Information"
+  ],
+  "title": "MEXICAN AMBASSADOR REPORTS SOVIET REACTION TO [R]",
+  "date": "1963-12-13",
+  "locations_mentioned": [
+    "Mexico City",
+    "Moscow",
+    "Soviet Union",
+    "Cuba",
+    "United States"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President Kennedy",
+    "MIKOYAN"
+  ],
+  "recipient": "HCO"
+}

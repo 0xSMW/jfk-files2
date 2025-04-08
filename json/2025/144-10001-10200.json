@@ -1,0 +1,39 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "The document discusses requests from the Cuban press regarding information about David Ferrie and his connection to the JFK assassination, as well as an FOIA request for files related to David Ferrie. Sharing this information could potentially reveal sources or methods used to gather intelligence on Cuban press activities and US individuals, which could be detrimental to ongoing intelligence operations. For example, the mention of \"Cuban MSG asking about the death of David W. Ferrie\" reveals intelligence interest in Cuban perspectives on the JFK assassination.",
+  "security_level": "TOP SECRET TRINE",
+  "summary": "This document consists of a report detailing a request from the Cuban Press Agency for information on David Ferrie's involvement in the JFK assassination investigation, along with a FOIA request for files related to David Ferrie.",
+  "summary_one_paragraph": "This document, dated February 24, 1967, comprises two parts: a report indicating that the Cuban Press Agency (Prensa Latina) is seeking information on David Ferrie's role in Jim Garrison's investigation of the JFK assassination and a request from Lindent Research Associates under the FOIA for all files and reports related to David William Ferrie, who was arrested in New Orleans in 1962 and whose name was repeatedly mentioned in connection with the Garrison investigation; it also includes a reference to a previous document provided by the FBI to Lindent Research Associates confirming Ferrie's death.",
+  "tags": [
+    "NSA",
+    "Cuban Press Agency",
+    "David Ferrie",
+    "JFK Assassination",
+    "Jim Garrison",
+    "FOIA",
+    "Cuba",
+    "Prensa Latina"
+  ],
+  "title": "3/0/CUD/T167-67 CUBAN PRESS AGENCY REQUESTS INFO ON KENNEDY",
+  "conspiracy": "The document references the Cuban Press Agency's interest in David Ferrie's connection to the JFK assassination, which could be construed as an attempt to understand or potentially promote conspiracy theories surrounding the event.",
+  "date": "1967-02-24",
+  "locations_mentioned": [
+    "Havana",
+    "New York",
+    "New Orleans",
+    "Washington D.C."
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "David W. Ferrie",
+    "Jim Garrison",
+    "Mario Madrazo",
+    "Portela",
+    "J. Edgar Hoover",
+    "James M. Powers",
+    "AJ Weberman"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

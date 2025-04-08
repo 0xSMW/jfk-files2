@@ -1,0 +1,39 @@
+{
+  "classification": "Commission",
+  "document_type": "Letter",
+  "security": "This document contains information affecting the notional security of the United States within the meaning of the espionage laws U. S. Code Title 18, Sections 793, 794 and 798. The law prohibits its transmission or the revelation of its contents in any manner to an unauthorized person, as well as its use in any manner prejudicial to the safety or interest of the United States or for the benefit of any foreign government to the detriment of the United States. It is to be seen only by personnel especially indoctrinated and authorized to receive information in the designated control channels. Its security must be maintained in accordance with regulations pertaining to the BYEMAN and Communications Intelligence Controls. No action is to be taken on any communications intelligence which may be contained herein, regardless of the advantage to be gained, if such action might have the effect of revealing the existence and nature of the source, unless such action is first approved by the appropriate authority.",
+  "security_level": "TOP SECRET",
+  "summary": "A letter from the NSA to the DASD (Intelligence) responding to queries from the Senate Select Committee concerning the Warren Commission's investigation, detailing NSA's involvement, analysis of documents, and information on Cuban military alerts after the assassination.",
+  "summary_one_paragraph": "This TOP SECRET letter, dated January 26, 1976, from David D. Lowman at the NSA to the Principal Deputy Assistant Secretary of Defense (Intelligence), addresses inquiries from the Senate Select Committee regarding NSA's contributions to the Warren Commission's investigation of the JFK assassination. The letter explains that NSA retained photocopies of documents for record-keeping purposes, reviewed exhibits for secret writing at the request of Allan Dulles (finding nothing), and analyzed transmissions from the Soviet Embassy in Mexico City (yielding no relevant information). The NSA also confirms Cuban military forces were put on alert immediately after the assassination but found no evidence suggesting prior knowledge. The letter includes details about the NSA's interactions with the Warren Commission and its search for any relevant information within its files.",
+  "tags": [
+    "NSA",
+    "Warren Commission",
+    "JFK Assassination",
+    "Senate Select Committee",
+    "Cuban Military",
+    "Soviet Transmissions",
+    "Cryptology",
+    "Alton Quanbeck",
+    "Louis Tordella",
+    "Allan Dulles"
+  ],
+  "title": "Queries to NSA Concerning the Warren Commission",
+  "date": "1976-01-26",
+  "locations_mentioned": [
+    "Washington, D.C.",
+    "Mexico City",
+    "Cuba"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Lowman",
+    "Alton Quanbeck",
+    "Jim Johnson",
+    "Louis Tordella",
+    "Allan Dulles",
+    "J. Lee Rankin",
+    "General Gordon A. Blake"
+  ],
+  "recipient": "DASD (INTELL)",
+  "sender": "Lowman"
+}

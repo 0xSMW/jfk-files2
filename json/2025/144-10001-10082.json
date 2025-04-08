@@ -1,0 +1,36 @@
+{
+  "classification": "Administrative",
+  "document_type": "Report",
+  "security": "This document contains an assessment of the Johnson administration by the Brazilian Ambassador. Disclosing this assessment could strain diplomatic relations between the U.S. and Brazil. Specific phrases indicating sensitivity include the ambassador's interpretations of Johnson's 'personality and political background' and predictions about future policy directions. This analysis, if made public, could be viewed as interference in U.S. domestic policy or as a breach of diplomatic confidentiality.",
+  "security_level": "TOP SECRET",
+  "summary": "A report from the Brazilian Ambassador to the Foreign Ministry in Rio de Janeiro, dated November 26, 1963, assessing the likely foreign and domestic policy directions of the Johnson Administration following President Kennedy's assassination.",
+  "summary_one_paragraph": "On November 26, 1963, the Brazilian Ambassador in Washington sent a confidential report to the Foreign Ministry in Rio de Janeiro evaluating the Johnson Administration in the wake of President Kennedy's assassination. The ambassador predicted that while there would be no immediate drastic changes in foreign policy, the State Department would gain influence over the White House, leading to a less rigid stance towards France and a wait-and-see approach to the Soviet Union. Domestically, the ambassador anticipated improved relations between the Executive and Legislative branches, with Johnson likely to achieve compromise on key bills due to his conservative leanings and connections within Congress.",
+  "tags": [
+    "NSA",
+    "Brazil",
+    "Lyndon B. Johnson",
+    "JFK Assassination",
+    "Diplomatic Relations",
+    "Foreign Policy",
+    "Domestic Policy",
+    "Robert Campos"
+  ],
+  "title": "BRAZILIAN AMBASSADOR ASSESSES JOHNSON ADMINISTRATION",
+  "date": "1963-11-27",
+  "locations_mentioned": [
+    "Brazil",
+    "Washington",
+    "Rio de Janeiro",
+    "Soviet Union",
+    "Western Europe",
+    "France"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Lyndon B. Johnson",
+    "John F. Kennedy",
+    "ROBERCAMPOS"
+  ],
+  "recipient": "HCF [R]",
+  "sender": "NSA"
+}

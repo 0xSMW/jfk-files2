@@ -1,0 +1,34 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Telex Conversation",
+  "security": "This document contains a conversation between Chilean officials concerning the U.S. foreign aid program, 'Alliance for Progress', and explicitly mentions a desire to leverage President Kennedy's death to maintain support for the program. Directly quoting, 'I think that the tragic death of President KENNEDY should not pass without very explicit reference to said program...of which he was the creator and the most ardent defender.' Revealing this communication could damage diplomatic relations and expose strategies for influencing foreign aid decisions.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A telex conversation between Chilean officials discussing the appropriate response to President Kennedy's assassination, focusing on emphasizing Kennedy's support for the Alliance for Progress in their public statements.",
+  "summary_one_paragraph": "This top-secret telex, dated November 27, 1963, reveals a conversation between Chile's Foreign Minister Ortuzar in Santiago and Ambassador Gutierrez Olivos in Washington, concerning Chile's official response to President John F. Kennedy’s assassination. The discussion centers on how to best express condolences while also highlighting Kennedy's role as the creator and defender of the Alliance for Progress, suggesting that the tragic event should be used to reinforce the program’s importance to both the United States and Latin American countries; however, due to timing, suggested alterations to the President's statement could not be implemented.",
+  "tags": [
+    "JFK Assassination",
+    "Chile",
+    "Condolences",
+    "Alliance for Progress",
+    "Foreign Aid",
+    "Diplomacy"
+  ],
+  "title": "Note of Condolence on Death of President Kennedy",
+  "date": "1963-11-27",
+  "locations_mentioned": [
+    "Chile",
+    "Santiago",
+    "Washington",
+    "United States"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Ortuzar",
+    "Gutierrez Olivos",
+    "Mrs. Kennedy",
+    "President Alessandri"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

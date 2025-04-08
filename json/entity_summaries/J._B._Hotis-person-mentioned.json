@@ -1,0 +1,28 @@
+{
+  "entity_name": "J. B. Hotis",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "summary": "Based on the provided documents, J.B. Hotis is mentioned in the context of FBI responses to requests from the U.S. Senate Select Committee on Intelligence Activities (SSC) in 1975. These documents primarily concern the FBI's provision of materials related to Martin Luther King, Jr., and the Southern Christian Leadership Conference (SCLC), as well as other intelligence matters such as the authority of Congress to release classified data and FBI mail opening operations. Hotis's specific role is not explicitly detailed, but the documents suggest involvement in the process of gathering and delivering information to the SSC. There is no direct mention of the JFK assassination in relation to J.B. Hotis within these documents.",
+  "key_connections": [
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "FBI",
+    "Stanley Levison"
+  ],
+  "significance": "The documents do not indicate any significance of J. B. Hotis in the JFK assassination context. His role appears to be related to the FBI's cooperation with the Senate Select Committee on Intelligence Activities (SSC) regarding various intelligence matters, primarily concerning Martin Luther King, Jr., and the SCLC.",
+  "document_ids": [
+    "124-10273-10007",
+    "124-10182-10231",
+    "124-10264-10206_multirif",
+    "124-10273-10006",
+    "124-10273-10007_multirif",
+    "124-10264-10208_multirif",
+    "124-10274-10011 (c06716583)",
+    "124-10264-10209_multirif",
+    "124-10271-10013",
+    "124-10238-10333_multirif",
+    "124-10238-10329_multirif",
+    "124-10264-10210_multirif"
+  ]
+}

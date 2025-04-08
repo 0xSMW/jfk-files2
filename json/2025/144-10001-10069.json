@@ -1,0 +1,29 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report, Textual Document",
+  "security": "Disseminating information about the NSA's ability to intercept and interpret foreign government communications could compromise intelligence collection methods and sources. Quote: \"Wire as quickly as possible whether, according to information available in Washington, despite the dissuasion of the State Department representatives or special ambassadors of foreign governments will participate in the funeral ceremony for KENNEDY.\"",
+  "security_level": "TOP SECRET",
+  "summary": "An NSA report, dated November 26, 1963, relays a request from the Austrian Foreign Ministry to its embassy in Washington, seeking information on whether foreign representatives would attend John F. Kennedy's funeral despite the U.S. State Department's discouragement.",
+  "summary_one_paragraph": "This Top Secret UMBRA report from the NSA, dated November 26, 1963, documents a communication initiated by the Austrian Foreign Ministry. The Ministry sent a message to its embassy in Washington urgently requesting any available information regarding whether foreign government representatives or special ambassadors intended to participate in President Kennedy’s funeral, despite discouragement from the U.S. State Department.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Diplomatic Activity",
+    "Austria",
+    "Funeral",
+    "Foreign Representatives"
+  ],
+  "title": "3/0/W/T1595-63: Information Requested About Foreign Representatives' [R]",
+  "date": "1963-11-26",
+  "locations_mentioned": [
+    "Austria",
+    "Vienna",
+    "Washington"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John F. Kennedy"
+  ],
+  "recipient": "HCO [R]",
+  "sender": "NSA"
+}

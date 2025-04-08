@@ -1,0 +1,25 @@
+{
+  "entity_name": "Identification Form",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Identification Forms appear in the JFK assassination records collection, serving as tools for documenting and tracking individuals and information relevant to the investigation. These forms contain personal details such as names, dates of birth, addresses, social security numbers, and file numbers. They are used to record information about individuals like Kenneth C. Griggs, Robert Scheer, Manuel Marti, and David Reed Fromer. The forms also reference file checks conducted by various agencies and include exhibit cover sheets and agent reports. The timeline spans from 1967 to 1998, with a concentration in the late 1960s. A notable pattern is the inclusion of personal identification details and references to other agencies that may hold records on the individuals mentioned.",
+  "key_connections": [
+    "Kenneth C. Griggs",
+    "Philip LaChapelle Jr.",
+    "Cecil L. Griggs",
+    "Robert Scheer",
+    "Manuel Marti",
+    "David Reed Fromer",
+    "Blanca Marti",
+    "INSCOM/CSF",
+    "771st MI Detachment"
+  ],
+  "significance": "In the JFK assassination context, Identification Forms are significant for their role in cataloging and cross-referencing individuals and information potentially related to the assassination. They provide a structured way to organize personal data, aliases, and connections to other individuals or agencies, aiding in the investigation and record-keeping efforts.",
+  "document_ids": [
+    "194-10013-10011",
+    "194-10005-10030",
+    "194-10004-10371",
+    "194-10004-10129",
+    "194-10004-10368"
+  ]
+}

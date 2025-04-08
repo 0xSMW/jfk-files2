@@ -1,0 +1,35 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "This document is classified as TOP SECRET UMBRA and contains sensitive compartmented information. Disclosing the contents could reveal intelligence sources and methods used by the NSA, as well as sensitive diplomatic information regarding reactions to the JFK assassination in the Arab world. Specifically, it includes claims made by Syrians that implicate Zionists, which could inflame international tensions. The original record number is 144-10001-10104.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "An NSA report from December 17, 1963, details Syrian claims that Zionists were responsible for the death of President Kennedy, as reported by the Italian Foreign Ministry.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA report, dated December 17, 1963, originates from the NSA and is addressed to HCF. It summarizes a message from Damascus, in which the Syrian regime, according to the Ba'athist organ and the pro-government daily Al Thawra, asserts that Zionism was responsible for President Kennedy's assassination as a means to advance anti-Zionist arguments. The report, identified as Italian 3/0/ITD/T3750-63, contains sensitive compartmented information concerning diplomatic activities and Arab world reactions to the assassination.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Syria",
+    "Zionism",
+    "Diplomatic Activity",
+    "Arab World",
+    "Reaction to Assassination",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "3/0/ITD/T3750-63: SYRIANS CLAIM ZIONISTS RESPONSIBLE FOR DEATH OF",
+  "conspiracy": "The document presents a claim from Syrian sources alleging that Zionists were responsible for the assassination of President Kennedy. This is a conspiracy claim, but the document itself does not provide any evidence or clarification about the assassination.",
+  "date": "1963-12-17",
+  "locations_mentioned": [
+    "Italy",
+    "Syria",
+    "Damascus",
+    "Rome",
+    "Dallas"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President Kennedy",
+    "PERRONE CAPANO"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

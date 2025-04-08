@@ -1,0 +1,38 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "The document contains COMINT (communications intelligence) and codeword material, which, if revealed, could compromise intelligence sources and methods. Disclosing the specific Cuban military units and diplomatic communications intercepted, along with the NSA's ability to monitor them, could allow adversaries to develop countermeasures. The document states: 'This Document Contains information affecting the National Defense of the United States within the meaning of the Espionage Laws...the transmission or revelation of which in any manner to an unauthorized person is prohibited by law.' and 'THIS DOCUMENT CONTAINS CODEWORD MATERIAL'",
+  "security_level": "TOP SECRET",
+  "summary": "An NSA report from November 23, 1963, details Cuban military units being put on alert following President Kennedy's death and includes information on Cuban diplomatic communications and reactions.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA NSA report, dated November 23, 1963, summarizes SIGINT available as of 1900Z on that day. It highlights that Cuban military units were put on alert after the death of President Kennedy, with specific messages intercepted indicating heightened readiness. The report also notes special instructions from the Cuban government, including directives for diplomatic missions to refrain from making statements and for the Cuban UN ambassador to gather information on President Johnson. Additionally, the document mentions a kidnapping operation by Venezuelan subversive elements.",
+  "tags": [
+    "NSA",
+    "SIGINT",
+    "JFK Assassination",
+    "Cuba",
+    "Military Alert",
+    "Diplomatic Communications",
+    "TOP SECRET UMBRA",
+    "COMINT",
+    "ISHTAR",
+    "DINAR"
+  ],
+  "title": "3/0/QOY/R26-63: SIGINT DAILY SUMMARY NUMBER TWENTY",
+  "conspiracy": "The document reports that Cuban military units were put on alert following President Kennedy's death, and that one Cuban operator remarked 'There will be some happy people here.' While this could be interpreted as implying some level of satisfaction or potential involvement, the alert status itself is understandable given the circumstances and does not conclusively demonstrate any Cuban role in the assassination.",
+  "date": "1963-11-23",
+  "locations_mentioned": [
+    "Cuba",
+    "Santiago",
+    "Guantanamo City",
+    "Havana",
+    "Venezuela"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President Kennedy",
+    "President Johnson",
+    "Foreign Minister Roa"
+  ],
+  "recipient": "O/ZK",
+  "sender": "NSA"
+}

@@ -1,0 +1,29 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memo",
+  "security": "Disclosure of specific intelligence sources and methods, such as the details of signal interception and communications analysis related to Cuban military activities, could be exploited by foreign adversaries to counter U.S. intelligence efforts. Also, this document reveals that Rolando Masferrer, an important figure in Cuban history, was linked to an assassin, which could expose those involved in this operation. The document includes specific operational details, such as \"At the request of the Commander of Squadron #16, you are to circulate the following...\", potentially endangering ongoing or future intelligence operations.",
+  "security_level": "Top Secret",
+  "summary": "A memo from the National Security Agency (NSA) dated January 28, 1959, relays information regarding Rolando Masferrer's connection to the assassin and the infiltration of Abel and Antonio Diez into the Rebel Army.",
+  "summary_one_paragraph": "This Top Secret memo from the NSA, dated January 28, 1959, transmits intercepted communications from Santiago de Cuba to Santa Clara, detailing that Abel and Antonio Diez, linked to Rolando Masferrer, had infiltrated the Rebel Army; a search of their residence revealed ammunition, a Batista Army uniform, and a notebook with names of people wanted by the dictatorship. The memo includes specific routing and recording information, indicating its origin, dissemination, and indexing within the NSA's system.",
+  "tags": [
+    "NSA",
+    "Rolando Masferrer",
+    "Cuba",
+    "Rebel Army",
+    "Batista Army",
+    "Communications Intercept",
+    "Top Secret",
+    "JFK Assassination Records Act"
+  ],
+  "title": "[Restricted]",
+  "date": "1959-01-28",
+  "origin_agency": "NATIONAL SECURITY AGENCY",
+  "persons_mentioned": [
+    "Rolando Masferrer",
+    "Abel Diez",
+    "Antonio Diez",
+    "Belarmino Castilla"
+  ],
+  "recipient": "Santa Clara: Commander, Third Regiment",
+  "sender": "NSA (FROM)"
+}

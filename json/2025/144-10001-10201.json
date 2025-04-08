@@ -1,0 +1,35 @@
+{
+  "classification": "Liaison",
+  "document_type": "Airtel",
+  "security": "Disclosing information about investigations of individuals, even if peripheral to the main subject, could compromise investigative methods or reveal sources. The airtel discusses a request for information about the Alderson family and a fugitive, Captain Souetre, potentially revealing investigative techniques and information sharing between agencies.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This FBI Airtel from the SAC, New York, to the Director and Washington Field Office, references previous communications regarding an investigation into the Alderson family and their connection to Captain Souetre, a fugitive of the OAS, and details information sharing with JACQUES HERVE of the Paris Office.",
+  "summary_one_paragraph": "An Airtel, dated June 19, 1963, from the SAC, New York, to the FBI Director and Washington Field Office, concerns an investigation related to IS-FRANCE. It references previous Bureau airtels and directs attention to a message from VOSJOLI requesting funds to investigate a family named 'Alderson.' The communication details that JACQUES HERVE requested information about the Aldersons of Houston, Texas, due to a letter sent by them to Captain SOUETRE, a fugitive of the OAS. It also outlines the exchange of information between Houston and the Paris Office, including the provision of background details to HERVE on May 28, 1963.",
+  "tags": [
+    "FBI",
+    "NSA",
+    "IS-FRANCE",
+    "Alderson Family",
+    "Captain Souetre",
+    "Jacques Herve",
+    "OAS",
+    "Liaison",
+    "Airtel"
+  ],
+  "title": "Bureau Airtels re Letter from CPT Souetre re Aldersons",
+  "date": "1963-06-19",
+  "locations_mentioned": [
+    "France",
+    "Paris",
+    "Houston, Texas"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Captain Souetre",
+    "Lawrence Mason Alderson",
+    "Jacques Herve",
+    "VOSJOLI"
+  ],
+  "recipient": "FBI Director, Washington Field Office",
+  "sender": "SAC, New York"
+}

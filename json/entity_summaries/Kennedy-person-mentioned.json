@@ -1,25 +1,22 @@
 {
-  "entity_name": "Kennedy",
+  "entity_name": "KENNEDY",
   "entity_type": "person-mentioned",
   "document_count": 6,
-  "summary": "The documents mention \"Kennedy\" in the context of discussions and investigations into potential U.S. involvement in assassination plots against foreign leaders and covert operations, particularly those related to Cuba and the Dominican Republic. The documents suggest that during Kennedy's administration, covert actions, including potential assassination plots and sabotage operations, were discussed and considered by high-level authorities within the U.S. government. The documents also refer to investigations into these activities, including the Select Committee on Assassinations (SSCIA) report, which examined allegations of U.S. involvement in assassination plots against foreign political leaders.",
+  "summary": "The documents primarily relate to the immediate aftermath of President John F. Kennedy's assassination and the reactions to it. They cover a range of responses from different countries and organizations, including Mexico, Poland, and Cuba. The documents highlight the global impact of Kennedy's death, the security concerns and investigations that followed, and the political implications both domestically and internationally. The documents also reflect the emotional impact of the event, with mentions of mourning and expressions of sympathy.",
   "key_connections": [
-    "General Lansdale",
-    "Richard Bissell",
-    "McGeorge Bundy",
-    "Trujillo",
-    "Cuba",
-    "Dominican Republic",
-    "Special Group",
-    "Select Committee on Assassinations (SSCIA)"
+    "President Johnson",
+    "Mexican Foreign Ministry",
+    "Cuban Government",
+    "Prensa Latina",
+    "British Press"
   ],
-  "significance": "The significance of \"Kennedy\" in the JFK context, based on these documents, lies in the fact that these covert operations and discussions occurred during his presidency. The documents suggest that the Kennedy administration considered and possibly authorized actions that could be interpreted as violations of international law and U.S. policy. The investigations into these activities, including the SSCIA report, were aimed at determining the extent of U.S. involvement in assassination plots and other covert actions during this period.",
+  "significance": "President Kennedy is the central figure in these documents, as they all relate to the reactions, investigations, and political ramifications following his assassination. His death triggered international mourning, security concerns, and diplomatic activity, making him a pivotal figure in the historical context of these documents.",
   "document_ids": [
-    "157-10005-10236",
-    "104-10435-10071",
-    "176-10033-10151",
-    "104-10114-10162",
-    "157-10008-10238",
-    "157-10014-10151"
+    "104-10103-10108",
+    "144-10001-10115",
+    "144-10001-10085",
+    "144-10001-10066",
+    "144-10001-10105",
+    "144-10001-10100"
   ]
 }

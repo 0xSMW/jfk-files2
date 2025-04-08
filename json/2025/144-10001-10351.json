@@ -1,0 +1,37 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "This document contains intelligence concerning foreign reaction to President Kennedy's death. Disclosing foreign opinions and analysis could impact current diplomatic relations and reveal intelligence gathering methods.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "This document contains a Turkish intelligence report summarizing Finnish reactions to President Kennedy's assassination and initial assessments of Lyndon B. Johnson's succession to the presidency.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA document, dated November 22, 1963, from the National Security Agency (NSA) details Finnish reactions to President Kennedy's assassination and early perceptions of Lyndon B. Johnson’s ascent to the presidency. Reporting from Helsinki to Ankara, the Turkish Foreign Ministry noted widespread grief and national mourning in Finland, with media highlighting Kennedy's contributions to peace. The report also summarizes initial press opinions of Johnson, referencing his association with Roosevelt and his views on foreign policy, including nuclear-free zones and the continuation of the Cold War, while relaying negative impressions of Johnson from official and political circles during his visit to Helsinki.",
+  "tags": [
+    "JFK Assassination",
+    "Press Comment",
+    "Lyndon B. Johnson",
+    "Finland",
+    "Turkish Intelligence",
+    "National Security Agency",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "Press Comment on Kennedy's Death and Johnson's Accession",
+  "date": "1963-11-22",
+  "locations_mentioned": [
+    "Finland",
+    "Helsinki",
+    "Ankara",
+    "Australia",
+    "New Zealand",
+    "Moscow"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Lyndon B. Johnson",
+    "Franklin D. Roosevelt",
+    "Khrushchev",
+    "Nixon"
+  ],
+  "recipient": "HCO",
+  "sender": "NSA"
+}

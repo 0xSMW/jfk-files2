@@ -1,0 +1,39 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Teletype",
+  "security": "Releasing details about informants (Gabriel Mannarino) and their provided information could compromise their safety and the FBI's intelligence gathering capabilities. Quoting from the document: \"GARBIEL MANNARINO, ALSO KNOWN AS...ADVISED THAT...VICTOR STANZIANO AND WILLIE SAMS...AGREED THAT SAMS WOULD GO TO GREATER PITTSBURGH AIRPORT...TO PICK UP SAM MANNARINO...ACCOMPANIED BY AN UNIDENTIFIED MAN.\"",
+  "security_level": "UNCLASSIFIED",
+  "summary": "An FBI teletype from August 7, 1961, relays information from an informant regarding Sam Mannarino's arrival in Pittsburgh from Miami and a potential threat against Martin Murin, a contractor who had a dispute with the Mannarinos.",
+  "summary_one_paragraph": "On August 7, 1961, the FBI's Pittsburgh office sent a teletype to the Director and the Miami office relaying information from informant Gabriel Mannarino concerning Sam Mannarino's arrival at Pittsburgh Airport from Miami, accompanied by an unidentified man. The informant also mentioned a past incident where the Mannarinos planned to harm Martin Murin, a contractor who broke away from their business dealings after a dispute, but were stopped by \"some big guys upstairs.\" The Miami office was instructed to identify the flight and the traveling companion, with both subjects considered armed and dangerous.",
+  "tags": [
+    "FBI",
+    "Gabriel Mannarino",
+    "Sam Mannarino",
+    "Victor Stanziano",
+    "Willie Sams",
+    "Martin Murin",
+    "Informant",
+    "Organized Crime",
+    "Pittsburgh",
+    "Miami"
+  ],
+  "title": "",
+  "date": "1961-08-07",
+  "locations_mentioned": [
+    "Pittsburgh, PA",
+    "New Kensington, PA",
+    "Greater Pittsburgh Airport",
+    "Miami, Florida",
+    "San Francisco, California"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Gabriel Mannarino",
+    "Samuel Mannarino",
+    "Victor Stanziano",
+    "Willie Sams",
+    "Martin Murin"
+  ],
+  "recipient": "Director, FBI; SAC, Miami",
+  "sender": "SAC, Pittsburgh"
+}

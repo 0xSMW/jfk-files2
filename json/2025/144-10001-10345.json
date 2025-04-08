@@ -1,0 +1,42 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Cable",
+  "security": "Disclosing the specific communication channels and security protocols (e.g., 'SECRET MORAY,' 'SECRET SABRE,' distribution lists, handling codes) could enable adversaries to exploit NSA communication systems. The reference to restricted items '[R]' and the originating agency's determination required further protect sensitive intelligence sources and methods.",
+  "security_level": "SECRET",
+  "summary": "A cable from the Turkish Ambassador in Washington to the Foreign Ministry in Ankara urgently requests the dispatch of a delegation to President Kennedy's funeral, noting the attendance of numerous heads of state and dignitaries.",
+  "summary_one_paragraph": "On November 24, 1963, the Turkish Ambassador in Washington sent a cable to the Foreign Ministry in Ankara, urgently requesting that a Turkish delegation be sent to President John F. Kennedy's funeral. The ambassador, Menemencioglu, highlighted the expected attendance of prominent figures, including President Charles de Gaulle, Chancellor Erhard, Prince Phillip, and Prime Minister Home, suggesting that the Turkish delegation secure a special plane for immediate travel and be given information regarding necessary precautions. The cable underscores the diplomatic importance placed on the funeral attendance in the aftermath of Kennedy's assassination.",
+  "tags": [
+    "John Kennedy",
+    "Assassination",
+    "Funeral",
+    "Turkish Ambassador",
+    "Delegation",
+    "Diplomacy",
+    "NSA",
+    "Cable",
+    "Menemencioglu"
+  ],
+  "title": "2X/0/TUD/T71-63 TURK AMBASSADOR URGES HASTE IN SENDING DELEGATION TO [R]",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Washington",
+    "Ankara",
+    "France",
+    "Germany",
+    "England",
+    "Belgium",
+    "Norway"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Charles de Gaulle",
+    "Erhart",
+    "Adenauer",
+    "Prince Phillip",
+    "Home",
+    "Menemencioglu"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

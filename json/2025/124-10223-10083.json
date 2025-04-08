@@ -1,0 +1,50 @@
+{
+  "classification": "FBI",
+  "document_type": "Teletype",
+  "security": "Disclosing details of physical surveillance and neighborhood sources could compromise ongoing investigations and endanger sources. Revealing the focus on John Roselli's associations could also prematurely expose investigative interests.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A teletype from the SAC, Los Angeles to the Director, FBI, reports on the surveillance of John Roselli, including his associations and activities in Beverly Hills.",
+  "summary_one_paragraph": "On November 9, 1962, the SAC from the FBI's Los Angeles office sent a teletype to the Director, FBI, reporting physical surveillance on John Roselli, who was observed playing cards at the Friar's Club in Beverly Hills with Alexander Rudolph. Roselli later had dinner with Jonie Taps and Doc Merman, identified as officials from Twentieth Century Fox Studios. Surveillance indicated Roselli stayed at an apartment until after 3 PM on November 9, and a car registered to Herman Spitzel, a friend and former employee, was parked in Roselli’s parking stall.",
+  "tags": [
+    "FBI",
+    "John Roselli",
+    "Surveillance",
+    "Friar's Club",
+    "Alexander Rudolph",
+    "Jonie Taps",
+    "Doc Merman",
+    "Herman Spitzel",
+    "Beverly Hills"
+  ],
+  "title": "Report on John Roselli Surveillance",
+  "date": "1962-11-09",
+  "locations_mentioned": [
+    "Los Angeles",
+    "Beverly Hills"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Roselli",
+    "Alexander Rudolph",
+    "Jonie Taps",
+    "Doc Merman",
+    "Herman Spitzel",
+    "Tolson",
+    "Belmont",
+    "Mohr",
+    "Casper",
+    "Callahan",
+    "Conrad",
+    "DeLoach",
+    "Evans",
+    "Gale",
+    "Rosen",
+    "Sullivan",
+    "Tavel",
+    "Trotter",
+    "Holmes",
+    "Gandy"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, LA"
+}

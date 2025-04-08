@@ -1,0 +1,21 @@
+{
+  "entity_name": "201 Files",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "201 files are a type of record maintained by the CIA, as evidenced by the documents. These files are central to the CIA's information management practices, covering the opening, maintenance, and handling of sensitive information. The House Select Committee on Assassinations (HSCA) requested information on the criteria for these files, indicating their relevance to investigations. The CIA provided regulations (DOHB 70-1-1 and CSHB 43-1-1) to address the HSCA's inquiries, asserting that these regulations answered all questions regarding the Operations Directorate's management of 201 files. The documents suggest that 201 files were a standard part of CIA record-keeping and operational procedures during the period relevant to the JFK assassination investigations.",
+  "key_connections": [
+    "CIA",
+    "House Select Committee on Assassinations (HSCA)",
+    "William F. Donnelly",
+    "Information Services Staff (ISS)",
+    "Operations Directorate",
+    "Lee Harvey Oswald"
+  ],
+  "significance": "In the context of the JFK assassination, 201 files are significant because the HSCA sought information about their criteria, suggesting that these files might contain information relevant to the assassination or related investigations. One document mentions a review of tapes, transcripts, and cables related to Lee Harvey Oswald's activities in Mexico City, indicating that 201 files could potentially hold crucial information about individuals or events connected to the assassination.",
+  "document_ids": [
+    "180-10143-10070",
+    "180-10145-10287",
+    "104-10213-10352",
+    "180-10143-10100"
+  ]
+}

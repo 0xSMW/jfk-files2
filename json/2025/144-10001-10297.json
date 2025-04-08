@@ -1,0 +1,29 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "The restrictions marked on the document indicate that certain information is restricted from release based on NSA/CSS Manual 123-2, dated 24 February 1998. The restriction is due to DRV FM, requiring originating agency's determination.",
+  "security_level": "SECRET",
+  "summary": "This document contains condolences from the Cambodian Prime Minister to President Lyndon B. Johnson on the death of President John F. Kennedy.",
+  "summary_one_paragraph": "This SECRET document, dated November 24, 1963, is a message from the Cambodian Prime Minister to U.S. President Lyndon B. Johnson, expressing condolences following the assassination of President John F. Kennedy. Sent from Phnom Penh on November 23, 1963, the message conveys the Cambodian government's and people's astonishment and sorrow, recognizing Kennedy as a noble statesman and sharing in the affliction of the American people and the world.",
+  "tags": [
+    "Assassination",
+    "John Kennedy",
+    "Condolences",
+    "Cambodia",
+    "Lyndon B. Johnson"
+  ],
+  "title": "2X/0/CED/T102-63 CONDOLENCES FROM CAMBODIAN PRIME MINISTER ON DEATH OF [R]",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Phnom Penh",
+    "Washington",
+    "Cambodia"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Lyndon B. Johnson"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

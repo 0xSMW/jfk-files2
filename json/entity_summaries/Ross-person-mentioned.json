@@ -1,0 +1,16 @@
+{
+  "entity_name": "Ross",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "The documents mention 'Ross' in connection to John Rosselli's activities in Los Angeles in 1962. Specifically, Ross was present at the Friar-s Club with Rosselli and Irving J. Leff. The teletype also mentions a conversation about firearm purchases during the Cuban Missile Crisis. The other two documents do not appear to be related to this individual.",
+  "key_connections": [
+    "John Rosselli",
+    "Irving J. Leff"
+  ],
+  "significance": "The significance of 'Ross' in the JFK context is potentially related to John Rosselli's activities and associations, particularly concerning possible firearm purchases during the Cuban Missile Crisis, which occurred shortly before the assassination. However, without further information, the exact role or importance of 'Ross' remains unclear.",
+  "document_ids": [
+    "104-10303-10007",
+    "124-10223-10074",
+    "180-10143-10072"
+  ]
+}

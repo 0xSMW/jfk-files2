@@ -1,0 +1,30 @@
+{
+  "classification": "Assassination",
+  "document_type": "Report",
+  "security": "Disclosing that the NSA intercepted and disseminated a Saudi Arabian report on the Kennedy assassination could reveal sources and methods used for signals intelligence collection. The document is marked TOP SECRET UMBRA, indicating highly sensitive intelligence sources are involved.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "This document is a Saudi Arabian report from Washington, dated November 23, 1963, detailing initial reactions to President Kennedy's assassination, including full coverage by television and radio stations and telegrams of condolence sent by diplomatic corps.",
+  "summary_one_paragraph": "On November 23, 1963, a Saudi Arabian report from Washington, intercepted and disseminated by the NSA, provided details on the immediate aftermath of President John F. Kennedy's assassination in Dallas, Texas. The report, sent from NEJDIAH in Washington to the Foreign Ministry in Jidda, noted the extensive media coverage of the event and the lack of known motives for the assassination. The message also mentioned Lyndon Johnson's impending assumption of the Presidency and the dispatch of condolences from the diplomatic corps to Kennedy's family and the new President.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Saudi Arabia",
+    "Lyndon Johnson",
+    "Diplomatic Condolences",
+    "Media Coverage"
+  ],
+  "title": "KENNEDY'S ASSASSINATION: SAUDI REPORT FROM WASHINGTON",
+  "date": "1963-11-23",
+  "locations_mentioned": [
+    "Washington",
+    "Dallas, Texas",
+    "Jidda"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Lyndon Johnson"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

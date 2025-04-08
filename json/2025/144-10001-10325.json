@@ -1,0 +1,30 @@
+{
+  "classification": "Assassination, John Kennedy",
+  "document_type": "Paper, Textual Document",
+  "security": "The document pertains to the travel plans of Chairman Pak Chong Hui to attend President Kennedy's funeral. Disclosing such information doesn't inherently compromise intelligence operations or reveal sensitive methods. However, prematurely releasing details about past security arrangements could offer insights into historical protocol, which, while not directly endangering current operations, may provide information about security considerations.",
+  "security_level": "S",
+  "summary": "This document details Chairman Pak Chong Hui's travel arrangements to attend President Kennedy's funeral in Washington, D.C., including arrival time and a request for a guard and guide.",
+  "summary_one_paragraph": "This document, dated November 24, 1963, from NSA to HCF, outlines the travel arrangements for Chairman Pak Chong Hui and the Vice Chairman of Korea to attend President Kennedy's funeral. It states that they departed Seoul at 1400 hours on November 24th and are scheduled to arrive in Washington around noon on November 25th. The message requests that a guard and guide be provided for Chairman Pak during his stay in the U.S.",
+  "tags": [
+    "John Kennedy",
+    "Assassination",
+    "Pak Chong Hui",
+    "Travel Arrangements",
+    "Funeral",
+    "Washington D.C."
+  ],
+  "title": "2X/0/KOD/T438-63 CHAIRMAN PAK TO ARRIVE IN WASHINGTON ABOUT NOON NOVEMBER",
+  "date": "1963-11-24",
+  "locations_mentioned": [
+    "Washington",
+    "Seoul"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Pak Chong Hui",
+    "Hong So'ng Ch'ol"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

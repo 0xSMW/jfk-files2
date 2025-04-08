@@ -1,0 +1,46 @@
+{
+  "classification": "Assassination, John Kennedy",
+  "document_type": "Paper, Textual Document (OPSUM)",
+  "security": "This document contains intelligence information that, if disclosed, could reveal sensitive sources and methods used by the NSA for SIGINT collection. Specific reporting on planned assassinations, military alerts, and diplomatic tensions could compromise ongoing intelligence operations and damage relationships with foreign governments.",
+  "security_level": "TOP SECRET",
+  "summary": "NSA SIGINT Command Center OPSUM #2039, dated December 13, 1963, summarizes significant intelligence and operational developments, including a plot to assassinate the President of South Korea, military alerts in Brazil, and Prince Sihanouk's anger towards the U.S. Government.",
+  "summary_one_paragraph": "The NSA SIGINT Command Center OPSUM #2039, created on December 13, 1963, compiles intelligence received between 120700Z and 130700Z December 1963. It highlights an assassination plot against South Korean President PAK CHONG-HUI, which the ROK CIA and National Police Bureau are investigating. Additionally, it reports on army units in the Rio de Janeiro area being placed on alert and Prince Sihanouk's intention to sever ties with the U.S. due to the American Ambassador's protest of Cambodia's celebration of Marshall Sarit's death and possible Kennedy connection. The report also mentions the Chinese Communists pulling back from the Sino-Indian Border.",
+  "tags": [
+    "NSA",
+    "SIGINT",
+    "Command Center",
+    "OPSUM",
+    "Assassination",
+    "Pak Chong-Hui",
+    "Brazil",
+    "Cambodia",
+    "Sihanouk",
+    "China",
+    "Sino-Indian Border"
+  ],
+  "title": "NSA SIGINT COMMAND CENTER OPSUM #2039",
+  "date": "1963-12-13",
+  "locations_mentioned": [
+    "Indonesia",
+    "South Korea",
+    "Rio de Janeiro, Brazil",
+    "Brasilia, Brazil",
+    "Cambodia",
+    "Phnom Penh",
+    "Washington",
+    "New Delhi",
+    "Tibet",
+    "China",
+    "India"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "PAK CHONG-HUI",
+    "SIHANOUK",
+    "Marshall SARIT",
+    "NONG KIMNY",
+    "GOULART"
+  ],
+  "sender": "NSA"
+}

@@ -1,0 +1,37 @@
+{
+  "classification": "Cuba",
+  "document_type": "Memorandum",
+  "security": "Disclosing informant names (CSNY 2623-S, CSNY 2822-S) and their contact information could compromise their safety and the FBI's intelligence-gathering capabilities. Revealing details of anti-CASTRO activities and sources of information could harm ongoing operations and international relations. For instance, the memo mentions 'anti-CASTRO activity in the NY area' and that 'NY sources familiar with anti-CASTRO activity...will make appropriate discreet inquiries through other sources of theirs in the anti-CASTRO field'.",
+  "security_level": "SECRET",
+  "summary": "An FBI memorandum from August 9, 1963, details efforts by the New York office to identify Eduardo Perez Gonzalez and his potential connections to anti-Castro activities and the financing of raids on Cuba.",
+  "summary_one_paragraph": "This FBI memorandum, sent from the SAC in New York to the Director of the FBI on August 9, 1963, concerns Eduardo Perez Gonzalez and his possible involvement in anti-Castro activities and the financing of raids on Cuba. In response to a Bureau letter, informants in the NY area familiar with anti-Castro movements were contacted but did not recognize the subject. One source mentioned Dan Chappel, a former gambler in Cuba, as a potential financier of raids, while NY files indicated that Eduardo Perez is associated with Alberto Bayo, a Cuban exile described as talkative, unpredictable, and undependable. The memo also notes that NY sources will continue to make discreet inquiries to determine the subject's identity.",
+  "tags": [
+    "FBI",
+    "Eduardo Perez Gonzalez",
+    "Anti-Castro Activities",
+    "Cuba",
+    "Financing Raids",
+    "Informants",
+    "Dan Chappel",
+    "Alberto Bayo",
+    "Alpha 66"
+  ],
+  "title": "",
+  "date": "1963-08-09",
+  "locations_mentioned": [
+    "New York",
+    "Cuba",
+    "Miami, Florida"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Eduardo Perez Gonzalez",
+    "Dan Chappel",
+    "Jesus De Los Heros",
+    "Berta Barreto",
+    "James Donovan",
+    "Alberto Bayo"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "SAC, NY"
+}

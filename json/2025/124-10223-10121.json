@@ -1,0 +1,29 @@
+{
+  "classification": "Liaison",
+  "document_type": "Paper, Textual Document",
+  "security": "Releasing this document could reveal law enforcement techniques used by the FBI, as it details their process of checking birth records in foreign countries through liaison with local law enforcement (Italian National Police). It shows a specific request and method for investigating individuals. Quoting directly: \"Dr. Aristide Manopulo, Central Bureau, Criminal Division, Italian National Police, Rome, Italy, advised on July 26, 1963, that a check of the birth records in Caserta, Italy, and in the surrounding communities failed to reveal a record for Vincenzo Roselli, Maria Russo Roselli, or Giovanni Roselli.\"",
+  "security_level": "UNCLASSIFIED",
+  "summary": "The American Embassy in Rome reports to the FBI Director that a check of birth records in Caserta, Italy, and surrounding communities failed to reveal any records for Vincenzo Roselli, Maria Russo Roselli, or Giovanni Roselli, based on information from the Italian National Police.",
+  "summary_one_paragraph": "On July 30, 1963, the American Embassy in Rome, acting as a Legat, informed the Director of the FBI that a check of birth records in Caserta, Italy, and surrounding communities, conducted in collaboration with Dr. Aristide Manopulo of the Italian National Police, found no records for Vincenzo Roselli, Maria Russo Roselli, or Giovanni Roselli. This search was initiated following a request from Los Angeles to check these birth records as part of an anti-racketeering effort related to John Roselli.",
+  "tags": [
+    "FBI",
+    "John Roselli",
+    "Anti-Racketeering",
+    "Caserta",
+    "Italy",
+    "Birth Records",
+    "Italian National Police"
+  ],
+  "title": "JOHN ROSELLI, aka ANTI-RACKETEERING",
+  "date": "1963-07-30",
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John Roselli",
+    "Vincenzo Roselli",
+    "Maria Russo Roselli",
+    "Giovanni Roselli",
+    "Aristide Manopulo"
+  ],
+  "recipient": "Director, FBI",
+  "sender": "Legat, Rome"
+}

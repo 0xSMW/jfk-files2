@@ -1,0 +1,15 @@
+{
+  "entity_name": "Mitchell A Mars",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Mitchell A. Mars was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA). He appears in multiple payroll certifications for the committee, spanning from October 1977 to May 1978. The documents list his name, position, and salary, indicating his involvement in the committee's operations during that period. While the specific nature of his role isn't detailed in these documents, his presence on the payroll suggests he was a staff member contributing to the HSCA's investigation.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Mitchell A. Mars' significance lies in his employment with the HSCA, indicating his participation in the investigation into the JFK assassination. While the exact nature of his contribution is not specified in the provided documents, his presence on the payroll during the committee's active period suggests he played a role in the overall investigation.",
+  "document_ids": [
+    "180-10125-10096",
+    "180-10125-10086",
+    "180-10125-10094"
+  ]
+}

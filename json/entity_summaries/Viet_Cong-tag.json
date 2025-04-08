@@ -1,0 +1,26 @@
+{
+  "entity_name": "Viet Cong",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The Viet Cong, as depicted in the provided CIA documents from the early 1960s, were a significant insurgent force in South Vietnam. The documents highlight their role in destabilizing the region through terrorist activities and military subversion, with Americans being primary targets as of April 1963. The Viet Cong's activities were a major factor in the political instability of South Vietnam, influencing coup plotting against President Ngo Dinh Diem. Some reports suggest that coup plotters feared the Viet Cong would exploit any instability caused by a coup, while others indicate that the urgency of addressing Viet Cong activity was a justification for considering a change in government. The documents suggest a timeline of increasing Viet Cong activity leading up to and throughout 1963, impacting the political calculations and actions of various factions within South Vietnam.",
+  "key_connections": [
+    "Ngo Dinh Diem",
+    "Duong Van Minh",
+    "Ngo Dinh Nhu",
+    "Tran Van Ly",
+    "Tran Kim Tuyen",
+    "Pham Ngoc Thao",
+    "VNQDD"
+  ],
+  "significance": "In the context of the JFK assassination, the Viet Cong's significance lies in their role as a key element of the broader political and military landscape in Vietnam. The documents suggest that the Kennedy administration was grappling with the challenges posed by the Viet Cong insurgency, which contributed to the instability and political turmoil in South Vietnam. This context is crucial for understanding the motivations and actions of various actors involved in the coup against President Diem, which occurred shortly before Kennedy's assassination. The Viet Cong's presence and activities were a constant factor influencing US policy decisions and the overall situation in Southeast Asia during this period.",
+  "document_ids": [
+    "176-10036-10137",
+    "176-10036-10117",
+    "104-10133-10461",
+    "176-10037-10493",
+    "176-10036-10097",
+    "176-10036-10098",
+    "176-10036-10115",
+    "176-10036-10143"
+  ]
+}

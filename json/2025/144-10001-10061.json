@@ -1,0 +1,28 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "The document is classified as SECRET and contains sensitive compartmented information, indicating that its disclosure could potentially harm national security interests. Disclosing the details of naval alerts and relaxation orders could reveal intelligence-gathering capabilities and operational readiness. Releasing the information could expose sources and methods used to monitor Cuban military activity.",
+  "security_level": "SECRET",
+  "summary": "An NSA report dated November 25, 1963, details the relaxation of an alert status in the Eastern Naval District of Cuba, which was initially put in place following President Kennedy's death.",
+  "summary_one_paragraph": "This SECRET NSA report, dated November 25, 1963, discusses the alert status of the Eastern Naval District of Cuba following President Kennedy's assassination. The report indicates that the district was placed on alert at 2044Z on November 22 by Banes, the district headquarters. Subsequently, at 2037Z on November 23, the alert was relaxed to a certain degree, with instructions passed to Santiago de Cuba to grant leave to 25 percent of their personnel for the 23rd and 24th, and further orders expected on November 25, 1963. The report interprets the authorization of leave as an indication of a relaxed situation and a nonurgent view by Cuban Naval authorities.",
+  "tags": [
+    "NSA",
+    "Cuba",
+    "Military Activity",
+    "Eastern Naval District",
+    "President Kennedy",
+    "Naval Alert",
+    "Sensitive Compartmented Information"
+  ],
+  "title": "2/O/CUN/R196-63: ALERT IN EASTERN NAVAL DISTRICT RELAXED, 23 NOVEMBER",
+  "date": "1963-11-25",
+  "locations_mentioned": [
+    "Cuba",
+    "Eastern Naval District",
+    "Banes",
+    "Santiago de Cuba"
+  ],
+  "origin_agency": "NSA",
+  "recipient": "O/WA",
+  "sender": "NSA"
+}

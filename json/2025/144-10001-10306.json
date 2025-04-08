@@ -1,0 +1,38 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "This document discusses the assassination of President Kennedy, the potential visit of Chou En-Lai to Africa, and concerns about assassination attempts on other leaders. Sharing details of threat assessments, security concerns, or intelligence sources could compromise security protocols, endanger individuals, or damage diplomatic relations. The document is marked TOP SECRET UMBRA and TOP SECRET DINAR, indicating extremely sensitive information. It also contains the text: \"CHOU EN LAI MAY VISIT AFRICA IN DECEMBER...Chinese Govern- ment is (B val using) every means to avoid a reoccurrence of the assassination attempt to which President LIOU CHAO CHI was subject when he visited Cambodia.\"",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "An NSA document dated November 23, 1963, relays intelligence regarding a potential visit by Chinese Premier Chou En-Lai to Africa in December, with security concerns heightened due to a prior assassination attempt on President LIOU Chao-Chi; it also notes the assassination of President Kennedy.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA document from the NSA, dated November 23, 1963, transmits intelligence from Peking concerning Premier Chou En-Lai’s potential visit to Egypt and other African countries like Guinea, Ghana, and Mali in December. The report indicates that the Chinese government is taking precautions to avoid a repeat of the assassination attempt on President LIOU Chao-Chi during his visit to Cambodia, explaining the discretion around the trip. The message also notes the assassination of President Kennedy and observes that the British flag has been furled and creped.",
+  "tags": [
+    "NSA",
+    "Chou En-Lai",
+    "Liou Chao-Chi",
+    "JFK Assassination",
+    "Africa",
+    "Assassination Threat",
+    "TOP SECRET",
+    "UMBRA",
+    "DINAR"
+  ],
+  "title": "3/0/GAD/T139-63 CHO EN LAI MAY VISIT AFRICA IN DECEMBER",
+  "date": "1963-11-23",
+  "locations_mentioned": [
+    "Africa",
+    "Egypt",
+    "Guinea",
+    "Ghana",
+    "Mali",
+    "Cambodia"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Chou En-Lai",
+    "Liou Chao-Chi",
+    "President Kennedy",
+    "MOMO BANGOURA"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

@@ -1,0 +1,51 @@
+{
+  "classification": "Security/Internal Security",
+  "document_type": "Memorandum",
+  "security": "These documents detail requests for technical surveillance on individuals and organizations deemed threats to internal security. Releasing information about these surveillance operations, including the targets, methods (microphone surveillance, wiretaps), and justifications, could reveal law enforcement techniques, compromise ongoing investigations, and potentially violate privacy. Specific details, such as addresses and affiliations, could also enable counter-surveillance efforts or place individuals at risk. For example, the memo regarding Frank Ferraro states authorization was granted to proceed with the installation.",
+  "security_level": "SECRET",
+  "summary": "This file consists of multiple FBI memoranda to the Attorney General requesting authorization for technical surveillance on individuals and groups suspected of espionage, Communist activities, and racketeering, including an Israeli intelligence ring in New York, Isidore Gibby Needleman (suspected of Soviet espionage), the Workers World Party, Carl Winter (Communist Party member), and Frank Ferraro (Chicago hoodlum). The memoranda outline the reasons for the surveillance requests, including potential threats to internal security and the need for intelligence data.",
+  "summary_one_paragraph": "This collection of FBI memoranda, primarily from the late 1950s and early 1960s, to the Attorney General requests authorization for technical surveillance on various individuals and groups deemed threats to internal security. These targets include Youval Tal, Yigal Giland, and Efrain Pillersdorf of an alleged Israeli espionage ring operating out of the Israeli Consulate in New York City, Isidore Gibby Needleman, a Russian-born naturalized citizen suspected of Soviet espionage activities, the Workers World Party (WWP) and its organizer Milton Neidenberg in Buffalo, Carl Winter, a member of the Communist Party USA, and Frank Ferraro, identified as a major Chicago hoodlum. Each memo provides a rationale for the surveillance, emphasizing the need to gather intelligence related to espionage, Communist activities, or racketeering, and requests permission for wiretaps and microphone surveillance at the subjects' residences or relevant locations.",
+  "tags": [
+    "FBI",
+    "Technical Surveillance",
+    "Espionage",
+    "Communism",
+    "Internal Security",
+    "Racketeering",
+    "Wiretap",
+    "Microphone Surveillance",
+    "Isidore Gibby Needleman",
+    "Workers World Party",
+    "Carl Winter",
+    "Frank Ferraro",
+    "Youval Tal",
+    "Yigal Giland",
+    "Efrain Pillersdorf"
+  ],
+  "title": "Request for Technical Surveillance Authorizations",
+  "date": "1954-06-29",
+  "locations_mentioned": [
+    "New York City",
+    "Forest Hills, Long Island, New York",
+    "Buffalo, New York",
+    "Detroit, Michigan",
+    "Chicago, Illinois"
+  ],
+  "origin_agency": "Federal Bureau of Investigation (FBI)",
+  "persons_mentioned": [
+    "John Edgar Hoover",
+    "Youval Tal",
+    "Yigal Giland",
+    "Efrain Pillersdorf",
+    "Henry A. Byroade",
+    "Abba Eban",
+    "Isidore Gibby Needleman",
+    "Milton Neidenberg",
+    "Carl Winter",
+    "Frank Ferraro",
+    "Marlin Johnson",
+    "Leon Trotsky"
+  ],
+  "recipient": "Attorney General",
+  "sender": "John Edgar Hoover (Director, FBI)"
+}

@@ -1,0 +1,27 @@
+{
+  "entity_name": "IRS",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "The IRS (Internal Revenue Service) appears in these documents primarily in the context of investigations into individuals and organizations, particularly concerning financial matters and potential tax evasion. The documents reveal the IRS's involvement in investigations related to John Roselli, focusing on obtaining federal income tax returns related to Roselli and his enterprises. The IRS also collaborated with the FBI, sharing information relevant to these investigations. The documents suggest that the IRS's role was to provide financial intelligence and support law enforcement efforts in cases involving potential financial crimes or tax-related offenses. The timeline spans from the early 1960s to the mid-1970s, indicating a sustained interest in financial irregularities and potential connections to organized crime or other illicit activities. A notable pattern is the IRS's cooperation with other agencies like the FBI in gathering information and pursuing investigations.",
+  "key_connections": [
+    "John Roselli",
+    "FBI",
+    "Gabriel Mannarino",
+    "Samuel Mannarino",
+    "William Sams",
+    "Mitchell Livingston WerBell III",
+    "Paul Arnold Marriott"
+  ],
+  "significance": "In the context of the JFK assassination, the IRS's significance is indirect. The documents highlight the IRS's role in investigating individuals potentially connected to organized crime, such as John Roselli. While these investigations may not be directly related to the assassination, they provide insight into the broader network of individuals and activities that were under scrutiny during that period. The IRS's involvement underscores the government's efforts to combat financial crimes and its collaboration with other agencies to gather intelligence on individuals of interest.",
+  "document_ids": [
+    "157-10014-10144",
+    "124-10223-10088",
+    "124-10223-10070",
+    "124-10223-10164",
+    "124-10223-10171",
+    "124-10223-10079",
+    "124-10203-10485",
+    "194-10001-10168",
+    "124-10223-10073"
+  ]
+}

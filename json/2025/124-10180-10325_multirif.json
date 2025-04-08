@@ -1,0 +1,50 @@
+{
+  "classification": "Assassinations",
+  "document_type": "Teletype/Memo/Letter",
+  "security": "These documents detail FBI coordination with the HSCA, including providing access to informant files and communicating about witness interviews related to both the King and Kennedy assassinations. Releasing details about informant operations, even closed ones, could compromise sources or reveal sensitive investigative techniques. For example, the teletype from St. Louis discusses contacting a former informant and working out details for a potential interview with the HSCA: “CONFERENCES WITH HSCA AND DOJ WOULD BE UNDERKEN TO WORK OUT DETAILS PEOPROTECTION, CONFIDENTIALITY, LOCATION AND SCOPE OF INTERVIEW.” Revealing such coordination and informant details could damage current or future investigations.",
+  "security_level": "CONFIDENTIAL/LIMITED OFFICIAL USE",
+  "summary": "This file contains correspondence and teletypes between the FBI and the House Select Committee on Assassinations (HSCA) regarding investigations into the assassinations of Martin Luther King Jr. and John F. Kennedy. The documents detail file requests, informant contact, and coordination between the FBI and HSCA.",
+  "summary_one_paragraph": "This collection of documents primarily involves communications between the FBI and the House Select Committee on Assassinations (HSCA) related to investigations into the assassinations of Martin Luther King Jr. and John F. Kennedy. Included are teletypes and memos detailing the FBI's responses to HSCA requests for files and information, particularly concerning informants like SL 1495-E, who had information related to the National States Rights Party and potential conspiracies in King's assassination. Additionally, there are letters from the HSCA requesting extended access to FBI files on Martin Luther King Jr., the Southern Christian Leadership Conference, and photographs of FBI agents involved in the security investigation of Dr. King.",
+  "tags": [
+    "FBI",
+    "HSCA",
+    "Martin Luther King Jr.",
+    "John F. Kennedy",
+    "Assassination",
+    "Informant",
+    "SL 1495-E",
+    "National States Rights Party",
+    "Jerry Ray",
+    "COINTELPRO"
+  ],
+  "title": "House Select Committee on Assassinations (HSCA) Inquiry",
+  "date": "1978-02-10",
+  "locations_mentioned": [
+    "St. Louis, Missouri",
+    "Washington, D.C.",
+    "Chicago",
+    "New Orleans",
+    "Memphis",
+    "London",
+    "Savannah, Georgia"
+  ],
+  "origin_agency": "Federal Bureau of Investigation (FBI)",
+  "persons_mentioned": [
+    "G. Robert Blakey",
+    "Martin Luther King Jr.",
+    "James Earl Ray",
+    "Jerry Ray",
+    "Griffin B. Bell",
+    "Robert L. Keuch",
+    "Louis Stokes",
+    "Stephen M. Callender",
+    "Joseph T. Sylvester Jr.",
+    "Joe C. Hester",
+    "Burl F. Johnson",
+    "J. B. Stoner",
+    "Richard Geppert",
+    "Michael Eberhardt"
+  ],
+  "recipient": "Director, FBI; St. Louis Field Office",
+  "sender": "SAC, St. Louis; SAC, Chicago; New Orleans Field Office; Memphis Field Office; AMEMBASSY LONDON"
+}

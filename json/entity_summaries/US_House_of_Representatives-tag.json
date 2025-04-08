@@ -1,0 +1,30 @@
+{
+  "entity_name": "US House of Representatives",
+  "entity_type": "tag",
+  "document_count": 18,
+  "summary": "The U.S. House of Representatives is a legislative body that, in the context of these documents, is primarily associated with the Select Committee on Assassinations (HSCA). The documents consist mainly of payroll and certification reports detailing the employees, their positions, salaries, and pay periods for the HSCA. These reports span from early 1977 to late 1978, with a final report in early 1979. The House of Representatives, through the HSCA, played a role in investigating the assassination of President John F. Kennedy. The documents highlight the administrative and financial aspects of the HSCA's operations, providing a glimpse into the staffing and resources allocated to the investigation.",
+  "key_connections": [
+    "Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "The U.S. House of Representatives' significance in the JFK assassination context lies in its establishment and oversight of the Select Committee on Assassinations (HSCA). The HSCA was responsible for reinvestigating the assassinations of both President John F. Kennedy and Martin Luther King Jr. The payroll and certification documents reflect the operational and administrative functions of the HSCA, providing insight into the resources and personnel involved in the investigation. While the documents themselves do not reveal specific findings of the investigation, they are evidence of the House of Representatives' commitment to examining the circumstances surrounding the assassination.",
+  "document_ids": [
+    "180-10125-10081",
+    "180-10125-10107",
+    "180-10125-10106",
+    "180-10125-10096",
+    "180-10125-10079",
+    "180-10125-10091",
+    "180-10125-10101",
+    "180-10125-10103",
+    "180-10125-10085",
+    "180-10125-10088",
+    "180-10125-10092",
+    "180-10125-10102",
+    "180-10125-10076",
+    "180-10125-10095",
+    "180-10125-10094",
+    "180-10125-10082",
+    "180-10125-10104",
+    "180-10125-10098"
+  ]
+}

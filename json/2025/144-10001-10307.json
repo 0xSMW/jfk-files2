@@ -1,0 +1,39 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "This document is marked TOP SECRET UMBRA and TOP SECRET DINAR, indicating highly sensitive information that requires strict access control and prohibits reproduction or foreign dissemination without prior authorization. The document also references NSA/CSS Manual 123-2 which restricts the document, quoting \"[R] - ITEM IS RESTRICTED DRV FM: NSA/CSS Manual 123-2\".",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A message from the Ghanaian Embassy in Washington to Accra, advising that Ghana send a higher-prestige delegation to President Kennedy's funeral to reflect Kennedy's interest in Ghana and strengthen relations between the two countries.",
+  "summary_one_paragraph": "On December 3, 1963, a message was sent from the Ghanaian Embassy in Washington to Accra, advising that Ghana send a higher-prestige delegation to President Kennedy's funeral. The message, classified as TOP SECRET UMBRA, was sent from RIBEIRIO to Osagyefo and BOTSIO. It notes that other states are sending Heads of State, Prime Ministers, or Foreign Ministers and suggests sending the Foreign Minister, Speaker of the National Assembly, or Minister BENSAH to give prestige and political importance to Ghana's representation, further strengthening good relations between Ghana and the United States. The message emphasizes Kennedy's interest in Ghana and his personal regard for Ghana, suggesting a ministerial representation would be greatly appreciated by Mrs. Kennedy and the administration.",
+  "tags": [
+    "Assassination",
+    "John Kennedy",
+    "Ghana",
+    "Funeral",
+    "Delegation",
+    "NSA",
+    "TOP SECRET UMBRA",
+    "TOP SECRET DINAR",
+    "Ghanaian Embassy",
+    "Protocol"
+  ],
+  "title": "GHANA ASKS FOR REPRESENTATIVES WITH HIGHER PRESTIGE",
+  "date": "1963-12-03",
+  "locations_mentioned": [
+    "Ghana",
+    "Washington",
+    "Accra",
+    "United States"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "RIBEIRIO",
+    "BOTSIO",
+    "BENSAH",
+    "Mrs. Kennedy",
+    "Osagyefo"
+  ],
+  "recipient": "HCO",
+  "sender": "NSA"
+}

@@ -1,0 +1,32 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Cable",
+  "security": "Revealing that the NSA is monitoring communications related to foreign dignitaries attending Kennedy's funeral might harm diplomatic relations or expose intelligence-gathering activities.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A Turkish cable relays that Tunisia declared three days of national mourning after President Kennedy's death and that Prime Minister Bahi Ladgham will represent Tunisia at the funeral ceremony in Washington.",
+  "summary_one_paragraph": "On December 7, 1963, a TOP SECRET UMBRA cable from the Turkish Embassy in Tunis to the Foreign Ministry in Ankara reports that Tunisia declared three days of national mourning following President John F. Kennedy's assassination. Prime Minister and Minister of National Defense Bahi Ladgham was designated to represent Tunisia at the funeral ceremony in Washington. This information was disseminated to HCO and other recipients.",
+  "tags": [
+    "John Kennedy",
+    "Assassination",
+    "Tunisia",
+    "Funeral",
+    "Bahi Ladgham",
+    "NSA",
+    "Turkey",
+    "TOP SECRET UMBRA"
+  ],
+  "title": "Tunisians to Attend Kennedy Funeral",
+  "date": "1963-12-07",
+  "locations_mentioned": [
+    "Tunisia",
+    "Washington",
+    "Ankara"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Bahi Ladgham"
+  ],
+  "recipient": "HCO",
+  "sender": "NSA"
+}

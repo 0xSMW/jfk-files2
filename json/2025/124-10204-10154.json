@@ -1,0 +1,36 @@
+{
+  "classification": "Cuba",
+  "document_type": "PAPER, TEXTUAL DOCUMENT",
+  "security": "Information concerning Santo Trafficante Jr. and his associates could reveal ongoing investigations or sources. Disclosing the names of informants (MM 416-C) could endanger them. The reference to a deportation proceeding being 'off' and the influence of Luis Orlando Rodriguez and Jose Navarre reveals sensitive information about Cuban politics and relationships with American underworld figures.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This FBI document, dated June 17, 1959, details Santo Trafficante Jr.'s daughter's wedding in Havana, Cuba, attended by associates from Tampa and Miami, and notes the status of Trafficante's deportation proceedings and the involvement of Cuban officials.",
+  "summary_one_paragraph": "An FBI report from Miami, dated June 17, 1959, addresses Santo Trafficante Jr.'s activities and connections, reporting that his daughter's wedding was scheduled for June 21, 1959, at the Havana Hilton Hotel in Cuba, with invitations extended to associates from Tampa and Miami, including transportation and accommodations paid for. The report also indicates that the deportation proceedings against Trafficante, influenced by former cabinet minister Luis Orlando Rodriguez, had been halted, with Jose Navarre now holding office and expected to cooperate; extra copies were provided for the Legat in Havana.",
+  "tags": [
+    "FBI",
+    "Santo Trafficante Jr.",
+    "Anti-Racketeering",
+    "Deportation Proceeding",
+    "Havana",
+    "Cuba",
+    "Underworld",
+    "Wedding",
+    "Informant"
+  ],
+  "title": "",
+  "date": "1959-06-17",
+  "locations_mentioned": [
+    "Havana, Cuba",
+    "Tampa, Florida",
+    "Miami, Florida"
+  ],
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "Santo Trafficante, Jr.",
+    "Jimmie Longo",
+    "Luis Orlando Rodriguez",
+    "Fidel Castro",
+    "Jose Navarre"
+  ],
+  "recipient": "DIRECTOR, FBI",
+  "sender": "SAC, MIAMI"
+}

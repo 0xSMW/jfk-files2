@@ -1,0 +1,35 @@
+{
+  "classification": "Administrative",
+  "document_type": "Memorandum",
+  "security": "This document discusses the authority of Congress to release classified data, potentially revealing sensitive legal interpretations and internal deliberations on handling classified information. Additionally, it refers to the rules of procedure for the Senate Select Committee studying intelligence activities, disclosing details about committee operations and handling of sensitive material.  Quoting directly: \"The key sections of these rules are subpoenas, investigations, and procedures related to taking of testimony.\" and \"The rules concerning sensitive material limit access to to such material to employees on a need-to-know basis.\"",
+  "security_level": "UNCLASSIFIED",
+  "summary": "This document includes memoranda and a legal analysis regarding the authority of Congress to release classified data, prompted by Senator Frank Church's statements on the Senate Select Committee's right to make public any documents it receives.",
+  "summary_one_paragraph": "This collection of memoranda, dated between March and May 1975, centers on the legal authority of Congress to release classified data, particularly in light of Senator Frank Church's chairmanship of the Senate Select Committee. The documents include a legal memorandum from Edmund Cohen of the CIA's Office of General Counsel, analyses of Senate rules and procedures regarding the handling of classified information, and internal communications within the FBI and CIA regarding the preparation of a White House letter to Senator Church, addressing concerns about unilateral declassification actions by the Senate Select Committee without agency approval.",
+  "tags": [
+    "Classified Data",
+    "Senate Select Committee",
+    "Frank Church",
+    "CIA",
+    "FBI",
+    "Legal Analysis",
+    "Congressional Authority",
+    "SENSTUDY 75"
+  ],
+  "title": "SENSTUDY 75: Authority of Congress to Release Classified Data",
+  "date": "1975-04-24",
+  "persons_mentioned": [
+    "W. R. Wannall",
+    "W. O. Cregar",
+    "J. B. Adams",
+    "J. A. Mintz",
+    "J. B. Hotis",
+    "Edmund Cohen",
+    "Anthonin Scalia",
+    "James A. Wilderotter",
+    "Frank Church",
+    "John S. Warner",
+    "Harriett D. Mowitt"
+  ],
+  "recipient": "Mr. W. R. Wannall",
+  "sender": "Mr. W. O. Cregar"
+}

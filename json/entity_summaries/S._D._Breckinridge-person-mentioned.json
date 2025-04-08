@@ -1,0 +1,21 @@
+{
+  "entity_name": "S. D. Breckinridge",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "S. D. Breckinridge appears as a CIA employee involved in internal agency matters. The documents suggest Breckinridge was involved in administrative tasks such as requesting photographs of agency employees for identification purposes, as seen in the memoranda regarding employees with the surname Bishop. Breckinridge is also connected to investigations into E. Howard Hunt's activities, specifically Hunt's assignment in Madrid and related financial transactions. The documents span from 1973 to 1978, indicating a period of involvement in these internal agency matters. The pattern across the documents suggests a role in internal investigations and administrative support within the CIA.",
+  "key_connections": [
+    "Ray Reardon",
+    "E. Howard Hunt",
+    "Morris Bishop",
+    "Yuriy Nosenko",
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "While S. D. Breckinridge is not directly implicated in the JFK assassination, the documents indicate involvement in the Yuriy Nosenko case and the House Select Committee on Assassinations' (HSCA) request for access to the Hart Report, which indirectly connects this person to the JFK assassination records.",
+  "document_ids": [
+    "104-10147-10216",
+    "104-10173-10130",
+    "104-10332-10009",
+    "104-10147-10229",
+    "104-10173-10132"
+  ]
+}

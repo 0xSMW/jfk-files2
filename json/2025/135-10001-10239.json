@@ -1,0 +1,37 @@
+{
+  "classification": "Personnel",
+  "document_type": "Textual Document",
+  "security": "Releasing names of potential CIA assets could endanger those individuals and compromise intelligence gathering operations. This document lists names with possible connections to the CIA. Revealing these names could be harmful.",
+  "security_level": "UNCLASSIFIED",
+  "summary": "A document containing handwritten notes listing names and affiliations, possibly related to CIA personnel or contacts, including mentions of locations such as Merida, Mexico, and Havana, Cuba, as well as organizations and locations like \"Back Steward-C.Y.A. in Harrema 01958-59\" and \"Bay Sandston- FT. Lond.\"",
+  "summary_one_paragraph": "This is an unclassified document from the House Permanent Select Committee on Intelligence (HPSCI), dated September 2, 1994, consisting of a list of handwritten names and notes. The document, extracted from a file entitled \"Sturgis, Frank,\" includes names of individuals, potential affiliations with the CIA, and locations such as Merida, Mexico, and Havana, Cuba. Additional notes reference connections to \"C.Y.A. in Harrema,\" military references, and possible legal representation for F. Sturgis.",
+  "tags": [
+    "HPSCI",
+    "Frank Sturgis",
+    "CIA",
+    "Personnel",
+    "Handwritten Notes",
+    "Contacts",
+    "Cuba",
+    "Mexico"
+  ],
+  "title": "Handwritten Notes: List of Names",
+  "date": "1994-09-02",
+  "locations_mentioned": [
+    "Harrema",
+    "Merida, Mexico",
+    "Havana, Cuba",
+    "FT. Lond"
+  ],
+  "origin_agency": "HPSCI",
+  "persons_mentioned": [
+    "Frank Sturgis",
+    "Ragelio Sony aley Corso",
+    "Herddine Shamma",
+    "Raful Hanscom",
+    "Bay Sandston",
+    "Ricordi Lorie",
+    "Salvador aller",
+    "Paul Bethel"
+  ]
+}

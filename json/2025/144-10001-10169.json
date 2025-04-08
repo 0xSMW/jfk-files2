@@ -1,0 +1,33 @@
+{
+  "classification": "Cuba",
+  "document_type": "Report",
+  "security": "The document contains codeword material and information affecting the National Defense of the United States, the transmission or revelation of which in any manner to an unauthorized person is prohibited by law.",
+  "security_level": "SECRET KIMBO",
+  "summary": "This NSA report, dated November 26, 1963, indicates that an alert in Oriente Province, possibly prompted by President Kennedy's death, was believed to be terminated as of November 25, 1963, with Cuban Navy communications returning to normal.",
+  "summary_one_paragraph": "An NSA COMINT report, classified as SECRET KIMBO and dated November 26, 1963, relays that an alert in Oriente Province, Cuba, seemingly initiated by President Kennedy’s assassination on November 22, 1963, was believed to have ended on November 25, 1963. Supporting this belief, the report notes the lifting of restricted access to the Coastal Observation Post at Punta Maisi and the absence of further orders to subordinates of Banes Headquarters Eastern Naval District, coupled with the Cuban Navy engaging in an island-wide communications exercise on November 25. Moreover, communications from CRAF and Soviet Forces in Cuba appeared normal during the period from November 22-26, 1963, indicating a return to standard operating procedures.",
+  "tags": [
+    "NSA",
+    "COMINT",
+    "Oriente Province",
+    "Cuba",
+    "JFK Assassination",
+    "Alert Termination",
+    "Cuban Navy",
+    "Soviet Forces",
+    "CRAF"
+  ],
+  "title": "2/0/CUJ/R58-63 ALERT IN ORIENTE PROVINCE BELIEVED TO BE TERMINATED [R]",
+  "date": "1963-11-26",
+  "locations_mentioned": [
+    "Oriente Province",
+    "Cuba",
+    "Punta Maisi",
+    "Banes",
+    "Santiago de Cuba"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President Kennedy"
+  ],
+  "recipient": "HCO"
+}

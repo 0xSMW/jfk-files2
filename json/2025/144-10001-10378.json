@@ -1,0 +1,27 @@
+{
+  "classification": "John Kennedy Assassination",
+  "document_type": "Paper, Textual Document",
+  "security": "This sheet contains information affecting the National Defense of the United States within the meaning of the Espionage Laws, Title 18, U. S. C Tiang 793, 794 ond 798, the transmission or the revelation of whichs in ony mount to an uncurhatized person is prohibited by law.",
+  "security_level": "C",
+  "summary": "A message from the Intersect Committee in Buddhism of Vitnam, conveying condolences to Mr. Dean Rusk, the Secretary of State, following President Kennedy's assassination.",
+  "summary_one_paragraph": "On November 23, 1963, a message originating from USN-27 and addressed to DIRNSA relays condolences from the Intersect Committee in Buddhism of Vitnam to Secretary of State Dean Rusk, expressing sorrow over the assassination of President John Kennedy. The message includes sentiments from Rev. Thich Tam Chau, Chairman of the Intersect Committee, and acknowledges the grief felt by the US Government.",
+  "tags": [
+    "Assassination",
+    "John Kennedy",
+    "Condolences",
+    "Dean Rusk",
+    "Vietnam",
+    "Buddhism",
+    "NSA",
+    "USN"
+  ],
+  "title": "Condolences on Mr. Deakrsk, Secretary of State",
+  "date": "1963-11-23",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Dean Rusk",
+    "Rev Thich Tam Chau"
+  ],
+  "recipient": "DIRNSA",
+  "sender": "USN-27"
+}

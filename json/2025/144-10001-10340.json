@@ -1,0 +1,30 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "The document's classification as SECRET and restrictions (1B) suggest that its disclosure could potentially compromise national security interests or intelligence operations. The comment '[R] - ITEM IS RESTRICTED' further emphasizes the sensitive nature of the information.",
+  "security_level": "SECRET",
+  "summary": "A message from the Thai government and people expressing condolences to Secretary of State Dean Rusk following the death of President John F. Kennedy.",
+  "summary_one_paragraph": "This document is a message from Bangkok, Thailand, dated November 23, 1963, in which Thanat Khoman conveys the Thai government's and people's deep shock and condolences to Secretary of State Dean Rusk upon hearing the tragic news of President John F. Kennedy's death; it is classified as SECRET and intended for immediate priority delivery to Washington.",
+  "tags": [
+    "Assassination",
+    "John Kennedy",
+    "Condolences",
+    "Thailand",
+    "Dean Rusk"
+  ],
+  "title": "2X/0/SID/T171-63 THAI GOVERNMENT AND PEOPLE SEND CONDOLENCES TO RUSK [R]",
+  "date": "1963-11-23",
+  "locations_mentioned": [
+    "Thailand",
+    "Bangkok",
+    "Washington"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Dean Rusk",
+    "Thanat Khoman"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

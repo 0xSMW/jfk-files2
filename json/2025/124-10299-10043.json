@@ -1,0 +1,29 @@
+{
+  "classification": "Liaison",
+  "document_type": "Message",
+  "security": "Disclosing the identities and roles of intelligence contacts, such as Irving Davidson who is identified as a \"public relations man who was recently hired by Duvalier as an agent for Haiti in the U.S.,\" could compromise these individuals and disrupt intelligence operations. Explicitly stating that information is \"highly confidential\" and sent \"in the name of the Haitian government\" further indicates the sensitive nature of the communication.",
+  "security_level": "Top Secret",
+  "summary": "The National Security Agency (NSA) forwards a message to the FBI regarding a Haitian government representative, Irving Davidson, who is instructed to contact a public relations man in Washington with a confidential message.",
+  "summary_one_paragraph": "On December 27, 1963, the NSA sent a message to the FBI's Director, attention McDonnell, relaying information about a Haitian charge in Washington instructed to contact Irving Davidson, a public relations man recently hired by Duvalier as an agent for Haiti in the U.S.; Davidson was to receive a highly confidential message from the Haitian government, as indicated in the communication originating from Port-au-Prince and relayed through Theard at the Haitian Embassy in Washington.",
+  "tags": [
+    "NSA",
+    "FBI",
+    "Irving Davidson",
+    "Haiti",
+    "Duvalier",
+    "Public Relations",
+    "Confidential Message"
+  ],
+  "title": "[Restricted]",
+  "date": "1963-12-27",
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Irving Davidson",
+    "Duvalier",
+    "Theard",
+    "McDonnell",
+    "Moody"
+  ],
+  "recipient": "Director FBI",
+  "sender": "Director NSA"
+}

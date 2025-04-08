@@ -1,0 +1,30 @@
+{
+  "classification": "Commission",
+  "document_type": "Memorandum",
+  "security": "Disclosing that NSA facilities were able to \"collect the Lisbon-Tangier link,\" and that the report mentioned \"intercept\" and \"NSA\" in several places would reveal sensitive intelligence collection capabilities and methods. The report should be classified \"CONFIDENTIAL, HANDLE VIA COMINT CHANNELS ONLY.\"",
+  "security_level": "U",
+  "summary": "Julia B. Wetzel (NSA Legislative Affairs) reports on a visit to the House Select Committee on Assassinations (HSCA) to review a report about an interview with Sgt. Nicholas B. Stevenson, USAF, and recommends classifying portions as \"CONFIDENTIAL, HANDLE VIA COMINT CHANNELS ONLY.\"",
+  "summary_one_paragraph": "On November 28, 1978, Julia B. Wetzel from NSA Legislative Affairs, visited the House Select Committee on Assassinations (HSCA) to review a report written by Messrs. Cornwell and Klein following a November 17 interview with Sgt. Nicholas B. Stevenson, USAF. Wetzel reviewed the one-and-a-half-page report, finding that it referenced the collection of the Lisbon-Tangier link by the facility where Sgt. Stevenson and Mr. Christensen were assigned, and mentioned “intercept” and “NSA” multiple times. Wetzel recommended classifying parts of the report as \"CONFIDENTIAL, HANDLE VIA COMINT CHANNELS ONLY,\" a suggestion that Mr. Cornwell agreed to implement, also mentioning the report's language could be revised for unclassified use if needed in the future. Additionally, Wetzel noted that NSA had not yet determined if Mr. Christensen’s referenced conversation had been published and disseminated.",
+  "tags": [
+    "NSA",
+    "HSCA",
+    "Nicholas B. Stevenson",
+    "COMINT",
+    "Lisbon-Tangier link",
+    "Classification",
+    "Legislative Affairs",
+    "Julia B. Wetzel"
+  ],
+  "title": "Visit to House Select Committee on Assassinations",
+  "date": "1978-11-28",
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Nicholas B. Stevenson",
+    "Julia B. Wetzel",
+    "Cornwell",
+    "Klein",
+    "Christensen"
+  ],
+  "recipient": "DIR, D/DIR, ADPL, D4, GC, DDM, M5, DDO, Exec/DDO, G, G8",
+  "sender": "Julia B. Wetzel"
+}

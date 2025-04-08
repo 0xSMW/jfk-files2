@@ -1,0 +1,31 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Cable",
+  "security": "The document is marked TOP SECRET UMBRA and TOP SECRET DINAR, indicating it contains highly sensitive information. Releasing the specific details of communication between the Salvadoran Foreign Ministry and the U.S. government could potentially harm diplomatic relations, particularly if the information reveals intelligence gathering methods or classified diplomatic protocols. The document's dissemination is restricted based on DRV FM: NSA/CSS Manual 123-2, which further underscores its sensitive nature.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A cable from the NSA relays that the Salvadoran Foreign Ministry requests its condolences be conveyed to the U.S. government following the assassination of President John F. Kennedy.",
+  "summary_one_paragraph": "On December 4, 1963, the NSA transmitted a cable (3/O/SAD/T103-63) indicating that the Salvadoran Foreign Ministry in San Salvador had sent a message (Nr: 902) to the Salvadoran Embassy in Washington requesting that their sincere condolences be conveyed to the United States Government and people following the tragic death of President John F. Kennedy on November 22, 1963.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "El Salvador",
+    "Condolences",
+    "Diplomacy",
+    "TOP SECRET UMBRA",
+    "TOP SECRET DINAR"
+  ],
+  "title": "Salvadoran Foreign Ministry Immediately Requests Condolences Be Conveyed to U.S. Government",
+  "date": "1963-12-04",
+  "locations_mentioned": [
+    "San Salvador",
+    "Washington D.C.",
+    "El Salvador",
+    "United States"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy"
+  ],
+  "recipient": "HCO",
+  "sender": "NSA"
+}

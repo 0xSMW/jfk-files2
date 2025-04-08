@@ -1,0 +1,22 @@
+{
+  "classification": "Administrative",
+  "document_type": "Teletype",
+  "security": "This document details the FBI's COINTELPRO activities and the methods used to disrupt various groups. Public disclosure of this material could result in physical jeopardy to present and former FBI sources utilized in these programs.",
+  "security_level": "SECRET",
+  "summary": "This teletype from the FBI Director to various field offices outlines the Bureau's response to the Senate Select Committee's inquiries into COINTELPRO activities, including alerting former employees about potential interviews and summarizing known results of COINTELPRO operations.",
+  "summary_one_paragraph": "The teletype, dated September 5, 1975, instructs FBI field offices to contact former employees who might be interviewed by the Senate Select Committee (SSC) regarding COINTELPRO activities, offering legal counsel while emphasizing this is a cooperative gesture. It details former employees by field office territory and their last known addresses and directs SACS and ASACs to personally handle these contacts. It additionally outlines that to address the Attorney General’s concerns, the FBI prepared a memorandum summarizing results of COINTELPRO actions against the Communist Party, Socialist Workers Party, White Hate Groups, New Left, and Black Extremists, assuring that actions did not result in physical injury or involve electronic techniques, surreptitious entries, or mail openings.",
+  "tags": [
+    "FBI",
+    "COINTELPRO",
+    "Senate Select Committee",
+    "Intelligence Activities",
+    "Mail Opening",
+    "Surveillance",
+    "Former Employees",
+    "Legal Counsel"
+  ],
+  "title": "SENSTUDY 75: Senate Select Committee Inquiry into Former FBI Employees and COINTELPRO Activities",
+  "date": "1975-09-05",
+  "origin_agency": "FBI",
+  "recipient": "ALEXANDRIA, BALTIMORE, BIRMINGHAM, BOSTON, CHICAGO, CINCINNATI, DALLAS, EL PASO, INDIANAPOLIS, JACKSON, JACKSONVILLE, LOUISVILLE, LOS ANGELES, MEMPHIS, MIAMI, NEW YORK, OKLAHOMA CITY, OMAHA, FHILADELPHIA, PHOENIX, ST. LOUIS, SAN DIEGO, SAN FRANCISCO, SAVANNAH, SEATTLE"
+}

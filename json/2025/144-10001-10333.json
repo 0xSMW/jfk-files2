@@ -1,0 +1,36 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "This document contains information about memorial rites conducted in Seoul for President Kennedy and reports on the South Korean general election. Releasing details about Korean Air Lines flight postponements due to former President Rhee's health ('Dr. RHEE's health cannot stand a long trip by air') could potentially create diplomatic sensitivities or raise questions about the health of a former head of state.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "This document details the memorial rites conducted in Seoul for President John F. Kennedy following his assassination and provides updates on the general election in South Korea, including voter turnout and statements from political parties.",
+  "summary_one_paragraph": "The document, dated November 27, 1963, reports on the Kennedy memorial rites held in Seoul, South Korea, where radio stations broadcasted prayers, public offices lowered flags to half-mast, and special services were conducted, including a requiem mass attended by Defense Minister KIM and former CIA Director KIM CHONG P'IL. It also provides information on the South Korean general election, noting the cold weather on voting day, the number of registered voters, and statements from government and opposition parties expressing hope for a fair election. Additionally, the document mentions the postponement of former President SYNGMAN RHEE's flight from Hawaii due to health concerns, as diagnosed by Dr. THOMAS MIN.",
+  "tags": [
+    "JFK Assassination",
+    "Memorial Rites",
+    "Seoul",
+    "South Korea",
+    "General Election",
+    "Syngman Rhee",
+    "TOP SECRET UMBRA",
+    "NSA"
+  ],
+  "title": "KENNEDY MEMORIAL RITES CONDUCTED IN SEOUL; GENERAL EL [R]",
+  "date": "1963-11-27",
+  "locations_mentioned": [
+    "Seoul",
+    "Korea",
+    "Hawaii",
+    "Washington"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "KIM",
+    "KIM CHONG P'IL",
+    "SYNGMAN RHEE",
+    "THOMAS MIN"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

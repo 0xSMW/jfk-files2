@@ -1,0 +1,34 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "Disclosing that NSA was intercepting and translating communications between the Brazilian Foreign Minister and the UN Delegation and then sharing this information with HCF could damage relations with Brazil. The document is marked TOP SECRET UMBRA, indicating very sensitive intelligence.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "NSA document summarizing a communication regarding the Brazilian Foreign Minister's conversations with Secretary of State Dean Rusk and President De Gaulle after the funeral ceremonies for President Kennedy.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA document, dated December 7, 1963, summarizes a message from the Brazilian Foreign Ministry in Rio de Janeiro to the UN Delegation in New York. It details the Foreign Minister's return from President Kennedy's funeral in the United States, noting his meetings with Secretary of State Dean Rusk, where they discussed bilateral relations, and a brief conversation with President De Gaulle. The document, originating from the NSA, is marked for limited release and concerns discussions following President Kennedy's assassination.",
+  "tags": [
+    "NSA",
+    "John Kennedy",
+    "Assassination",
+    "Dean Rusk",
+    "Charles de Gaulle",
+    "Brazil",
+    "Foreign Relations"
+  ],
+  "title": "3/0/BLD/T2053-63 BRAZILIAN FOREIGN MINISTER TALKS WITH SECRETAARY RUSK [R]",
+  "date": "1963-12-07",
+  "locations_mentioned": [
+    "Brazil",
+    "Rio de Janeiro",
+    "United States",
+    "New York"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Dean Rusk",
+    "Charles de Gaulle",
+    "Lyndon Johnson"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

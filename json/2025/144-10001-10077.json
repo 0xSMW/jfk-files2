@@ -1,0 +1,35 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "This document discusses allegations of a Zionist conspiracy in the assassination of President Kennedy and mentions sensitive compartmented information, which could reveal intelligence sources and methods if disclosed. The document is marked TOP SECRET UMBRA/DINAR, indicating highly sensitive handling requirements. Sharing this document could expose intelligence gathering operations, damage international relations, and endanger individuals.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "A report dated December 5, 1963, relays a message from Palestinians in Doha claiming President Kennedy's assassination was a Zionist conspiracy, conveying sympathy to the Kennedy family and warning of potential dangers to Palestinian leaders.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA report, dated December 5, 1963, originates from the NSA and is addressed to HCO PLUS. It contains a message from Palestinians in Doha, transmitted on November 25, 1963, to Mr. Ahmad al-Shokairi in New York via Mr. U Thant, alleging that President Kennedy’s assassination was the result of a carefully plotted Zionist conspiracy. The message expresses sympathy to the Kennedy family and the American people, citing historical events to support the claim that Zionist organizations were responsible, and warns Palestinian leaders to be cautious.",
+  "tags": [
+    "JFK Assassination",
+    "Zionist Conspiracy",
+    "Palestinians",
+    "Ahmad al-Shokairi",
+    "U Thant",
+    "NSA",
+    "TOP SECRET UMBRA",
+    "Diplomatic Activity"
+  ],
+  "title": "3/O/MINT-QOU/T1785-63: President Kennedy's Assassination A Zionist [R]",
+  "conspiracy": "The document relays a claim that President Kennedy's assassination was a Zionist conspiracy due to his perceived independence from Zionist influence, alleging that the Zionists murdered Kennedy to protect their power in the United States. Quoting directly: “Behind the mysterious crime is a carefully plotted Zionist conspiracy… Aware of the fact that their influence and power in the United States are based upon the Jews votes, the Zionists murdered the courageous President.”",
+  "date": "1963-12-05",
+  "locations_mentioned": [
+    "Doha",
+    "New York"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President Kennedy",
+    "Ahmad al-Shokairi",
+    "U Thant",
+    "Lord MOWEEN BERNANDOTTE",
+    "EICHMAN"
+  ],
+  "recipient": "HCO PLUS",
+  "sender": "NSA"
+}

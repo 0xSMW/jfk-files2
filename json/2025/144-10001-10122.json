@@ -1,0 +1,43 @@
+{
+  "classification": "Commission",
+  "document_type": "Report",
+  "security": "The document contains sensitive compartmented information and is classified as TOP SECRET UMBRA and TOP SECRET DINAR, indicating potential compromise of intelligence sources or methods. Releasing specific details about the communication between the US and Brazilian governments could reveal intelligence-sharing relationships, compromise diplomatic channels, and expose classified sources or methods.",
+  "security_level": "TOP SECRET",
+  "summary": "This document summarizes the Warren Commission's findings for the Brazilian Foreign Ministry, conveying that Lee Harvey Oswald acted alone in assassinating President Kennedy and that Jack Ruby acted on personal motivation in killing Oswald, both possibly due to mental instability.",
+  "summary_one_paragraph": "On September 29, 1964, the NSA disseminated a report summarizing the Warren Commission's findings to the Brazilian Foreign Ministry via diplomatic channels, specifically from Juracy Magalhaes in Washington to Rio de Janeiro. The report, classified as TOP SECRET UMBRA and DINAR, detailed that the Warren Commission concluded Lee Harvey Oswald was the sole assassin of President Kennedy, driven by personal motives, and that Jack Ruby's murder of Oswald was also due to personal and possibly unstable motivations; the report intended to inform the Brazilian government of the official US position following the release of the Warren Commission report.",
+  "tags": [
+    "NSA",
+    "Warren Commission",
+    "Brazil",
+    "Diplomatic Activity",
+    "Lee Harvey Oswald",
+    "Jack Ruby",
+    "JFK Assassination",
+    "TOP SECRET UMBRA",
+    "TOP SECRET DINAR"
+  ],
+  "title": "3/O/BLD/T2299-64: Warren Commission Findings Summarized for Brazilian [R]",
+  "date": "1964-09-29",
+  "locations_mentioned": [
+    "Brazil",
+    "Washington",
+    "Rio de Janeiro"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "Lee Harvey Oswald",
+    "Jack Ruby",
+    "President Kennedy",
+    "President Johnson",
+    "Juracy Magalhaes",
+    "Chief Justice of the Supreme Court",
+    "Senator Richard Russell",
+    "John Sherman Cooper",
+    "Congressman Hale Boggs",
+    "Gerald Ford",
+    "John J. McCloy",
+    "Allen Dulles"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA [R]"
+}

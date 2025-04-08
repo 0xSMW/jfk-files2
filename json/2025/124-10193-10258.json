@@ -1,0 +1,29 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Memorandum",
+  "security": "Disclosing that the NSA is intercepting coded diplomatic traffic could reveal sources and methods of intelligence gathering, potentially compromising national security. The memo discusses the UAR ambassador's private communications and opinions, sharing which could damage international relations. 'On 9/22/60, National Security Agency furnished an intercept of coded diplomatic traffic from U AR Ambassador to Cairo, dated 8/26/60, classified 'Top Secret Daunt' as it relates to communications intelligence...It was opinion of UAR Ambassador that Senator Fulbright's visit with him not be disclosed.'",
+  "security_level": "Top Secret",
+  "summary": "An FBI memo discusses the United Arab Republic (UAR) Ambassador's reaction to Senator John Kennedy's speech to the Zionist Congress, where the UAR Ambassador felt Kennedy made fallacious statements. Senator Fulbright reportedly apologized for Kennedy's speech, attributing it to political expediency, as revealed through an NSA intercept of the UAR Ambassador's communication.",
+  "summary_one_paragraph": "This Top Secret FBI memorandum, dated September 23, 1960, details the United Arab Republic (UAR) Ambassador's reaction to Senator John Kennedy's speech before the Zionist Congress, where the Ambassador felt Kennedy made fallacious statements and promises. The memo recounts how Senator Fulbright reportedly apologized to the UAR Ambassador, explaining that the speech was motivated by political expediency to gain Jewish votes, and also mentions an intercepted communication from the UAR Ambassador to Cairo, furnished by the National Security Agency, which classifies the traffic as 'Top Secret Daunt.' It also includes the ambassador’s view that Fulbright’s visit should remain confidential and that the speech was solely intended to garner Jewish votes, not to formulate actual policy.",
+  "tags": [
+    "FBI",
+    "JFK",
+    "Speech",
+    "UAR",
+    "Fulbright",
+    "NSA Intercept",
+    "Zionist Congress",
+    "Political Expediency"
+  ],
+  "title": "United Arab Republic Reaction to Speech of Senator John Kennedy",
+  "date": "1960-09-23",
+  "origin_agency": "FBI",
+  "persons_mentioned": [
+    "John F. Kennedy",
+    "A. H. Belmont",
+    "S. B. Donahoe",
+    "J. W. Fulbright"
+  ],
+  "recipient": "A. H. Belmont",
+  "sender": "S. B. Donahoe"
+}

@@ -1,0 +1,19 @@
+{
+  "entity_name": "Senator Stennis",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "The provided documents mention Senator Stennis in the context of Congressional oversight and investigations related to national security matters during the Cold War era. While the documents do not directly link Senator Stennis to the JFK assassination, they place him in a position of influence regarding intelligence oversight. One document references classified Congressional testimony concerning Cuban subversion in Latin America and Soviet military presence in Cuba, suggesting Stennis was involved in discussions about these critical issues. Another document mentions Congressional investigations in general, which could imply Stennis's involvement in oversight of the CIA and other intelligence agencies. The third document is an interview with E. Howard Hunt, who denies involvement in the JFK assassination.",
+  "key_connections": [
+    "Cuban subversion in Latin America",
+    "Soviet military weapons in Cuba",
+    "Congressional investigations",
+    "CIA",
+    "E. Howard Hunt"
+  ],
+  "significance": "Senator Stennis's significance in the JFK context, based on these documents, lies in his potential role in Congressional oversight of intelligence activities. The documents suggest he was involved in discussions and investigations related to national security matters, which could indirectly relate to the environment in which the JFK assassination occurred. However, there is no direct evidence in these documents linking him to the assassination itself.",
+  "document_ids": [
+    "198-10009-10099",
+    "104-10324-10002",
+    "135-10001-10243"
+  ]
+}

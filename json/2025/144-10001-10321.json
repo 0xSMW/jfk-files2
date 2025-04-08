@@ -1,0 +1,34 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Cable",
+  "security": "Disclosing the NSA's signals intelligence activities, including the interception and translation of foreign government communications, could harm national security. It could reveal the NSA's capabilities to foreign entities, allowing them to take measures to protect their communications. Mentioning specific intelligence collection methods and targets could compromise ongoing operations.",
+  "security_level": "TOP SECRET",
+  "summary": "A cable from Lisbon to Tokyo details the Portuguese government and people's reaction to President Kennedy's death, noting the объявлен government-declared mourning period and the assessment that Kennedy's foreign policy would continue under the new President.",
+  "summary_one_paragraph": "This TOP SECRET cable, dated November 27, 1963, reports on the Portuguese reaction to President Kennedy's assassination, noting the widespread shock and mourning among the Portuguese people and government, which declared three days of mourning with flags at half-mast. The Portuguese authorities believe the new American president will continue Kennedy's foreign policy, with no particular changes anticipated regarding Portugal or its colonial issues.",
+  "tags": [
+    "JFK Assassination",
+    "Portuguese Reaction",
+    "NSA",
+    "Signals Intelligence",
+    "Foreign Policy",
+    "Lisbon",
+    "Tokyo",
+    "TOP SECRET",
+    "UMBRA",
+    "DINAR"
+  ],
+  "title": "3/0/JAD/T1830-63 Portuguese Reaction to Death of President Kennedy [R]",
+  "date": "1963-11-27",
+  "locations_mentioned": [
+    "Portugal",
+    "Lisbon",
+    "Tokyo"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Pope John XXIII"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

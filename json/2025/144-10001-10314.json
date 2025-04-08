@@ -1,0 +1,34 @@
+{
+  "classification": "John F. Kennedy Assassination",
+  "document_type": "Textual Document",
+  "security": "Sharing details about intelligence collection methods, such as the interception and translation of foreign communications, could compromise ongoing intelligence operations and reveal sensitive sources and methods. The document is marked TOP SECRET UMBRA, indicating a high level of sensitivity and restricted access.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "An NSA document dated December 6, 1963, relays a message from the Iranian Foreign Office regarding a period of mourning for U.S. President John F. Kennedy, instructing Iranian missions to fly their flags at half-mast.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA document from the National Security Agency (NSA), dated December 6, 1963, forwards a message initially sent from the Iranian Foreign Office in Teheran to the Iranian Embassy in Rio de Janeiro. The message, concerning the assassination of John F. Kennedy, instructs all Iranian missions to observe a five-day mourning period by flying their flags at half-mast, as per a communiqué issued by the Imperial Court.",
+  "tags": [
+    "NSA",
+    "John Kennedy",
+    "Assassination",
+    "Iran",
+    "Mourning Period",
+    "Diplomacy",
+    "Teheran",
+    "Flag Protocol",
+    "TOP SECRET UMBRA",
+    "TOP SECRET DINAR"
+  ],
+  "title": "Period of Mourning for U.S. President",
+  "date": "1963-12-06",
+  "locations_mentioned": [
+    "Iran",
+    "Teheran",
+    "Rio de Janeiro"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Dr. Ansari"
+  ],
+  "recipient": "HCO",
+  "sender": "NSA"
+}

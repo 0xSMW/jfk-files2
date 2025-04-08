@@ -1,0 +1,36 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Textual Document",
+  "security": "Revealing that Indonesian Police officials were ordered by Sukarno to investigate the causes of President Kennedy's assassination could strain diplomatic relations between the U.S. and Indonesia. The document is marked TOP SECRET UMBRA and TOP SECRET DINAR indicating a high level of sensitivity.",
+  "security_level": "TOP SECRET",
+  "summary": "A message indicates that Indonesian police officials were ordered by President Sukarno to travel to the U.S. to investigate the assassination of President Kennedy and to receive necessary funds and lodging.",
+  "summary_one_paragraph": "On December 2, 1963, a TOP SECRET UMBRA message from the National Security Agency (NSA) reveals that Indonesian Police High Commissioner Sutarto and Colonel Suthardio were ordered by President Sukarno to travel to Washington on November 29, 1963, to investigate the causes behind the assassination of President Kennedy. The message, originating from Djakarta DEPARLU and addressed to Washington INDONESIA, requests that the Indonesian State Secretary ensure the officials receive the necessary funds and arrangements for reception and lodging during their assignment in the USA.",
+  "tags": [
+    "Assassination",
+    "John Kennedy",
+    "Indonesia",
+    "Sukarno",
+    "Police Officials",
+    "Investigation",
+    "NSA",
+    "TOP SECRET UMBRA",
+    "TOP SECRET DINAR"
+  ],
+  "title": "3/0/IAD/T2217-63 INDONESIAN POLICE OFFICIALS ORDERED TO U.S. BY SUKARO [R]",
+  "date": "1963-12-02",
+  "locations_mentioned": [
+    "U.S.",
+    "Washington",
+    "Djakarta",
+    "Indonesia"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy",
+    "Sukarno",
+    "SUTARTO",
+    "SUTHARDIO"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

@@ -1,0 +1,36 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Report",
+  "security": "This document contains information regarding diplomatic reactions and intelligence assessments following President Kennedy's assassination. Revealing the specific observations about diplomatic missions' behavior (e.g., the Soviets flying flags with black crepe, the exception of Communist China) could potentially strain current international relations and expose methods of intelligence collection.",
+  "security_level": "TOP SECRET UMBRA",
+  "summary": "An NSA report detailing the Bulgarian government and people's reaction to President Kennedy's assassination, including official condolences, media coverage, and diplomatic activities.",
+  "summary_one_paragraph": "This TOP SECRET UMBRA report, dated December 31, 1963, from the NSA details the Bulgarian reaction to President Kennedy's assassination. It notes that the Bulgarian government presented official condolences to the United States government, and the people received the news with surprise and regret. The local television station repeated the burial services via Moscow, and the press eulogized Kennedy as a supporter of peace, attributing his death to an ultrarightist group. All diplomatic missions, except Communist China, flew their flags at half-mast, with the Soviets adding black crepe. Religious services in Sofia were attended by representatives of all diplomatic missions.",
+  "tags": [
+    "NSA",
+    "JFK Assassination",
+    "Bulgaria",
+    "Diplomatic Reaction",
+    "Condolences",
+    "Media Coverage",
+    "Sofia",
+    "Argentina",
+    "FERREYRA"
+  ],
+  "title": "BULGARIAN REACTION TO ASSASSINATION OF PRESIDENT",
+  "date": "1963-12-31",
+  "locations_mentioned": [
+    "Bulgaria",
+    "Argentina",
+    "Sofia",
+    "Moscow",
+    "United States",
+    "Buenos Aires"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "President Kennedy",
+    "FERREYRA"
+  ],
+  "recipient": "HCO",
+  "sender": "NSA"
+}

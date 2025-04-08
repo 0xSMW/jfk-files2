@@ -1,0 +1,22 @@
+{
+  "classification": "JFK Assassination",
+  "document_type": "Identification Form",
+  "security": "As this is an identification form with limited context, it is difficult to determine the full extent of potential security concerns. However, any misinterpretation or unauthorized access to the document's contents, however limited, could potentially compromise sensitive information. Therefore, sharing the document is not advised.",
+  "security_level": "SECRET",
+  "summary": "This is an identification form from the NSA regarding a document about the Vietnamese Special Envoy to President Kennedy's funeral.",
+  "summary_one_paragraph": "This document is an identification form created by the NSA on 10/09/98. It pertains to record number 144-10001-10357, regarding a document titled \"2X/0/VND/T52-63 VIETNAMESE SPECIAL ENVOY TO FUNERAL OF PRESIDENT [R]\" dated 11/24/63. The document, a textual paper, concerns the assassination of John Kennedy. It is classified with restrictions and its opening criteria requires the originating agency's determination.",
+  "tags": [
+    "JFK Assassination",
+    "NSA",
+    "Vietnamese Special Envoy",
+    "Funeral"
+  ],
+  "title": "2X/0/VND/T52-63 VIETNAMESE SPECIAL ENVOY TO FUNERAL OF PRESIDENT [R]",
+  "date": "1998-10-09",
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "John Kennedy"
+  ],
+  "recipient": "HCF",
+  "sender": "NSA"
+}

@@ -1,0 +1,32 @@
+{
+  "classification": "Cuba",
+  "document_type": "PAPER, TEXTUAL DOCUMENT",
+  "security": "The document is marked Top Secret DINAR, indicating that its disclosure could cause exceptionally grave damage to national security. It contains intelligence regarding counterrevolutionary activities being planned against Cuba, which could compromise ongoing intelligence operations if revealed.",
+  "security_level": "Top Secret",
+  "summary": "An NSA document, dated December 7, 1961, relays information from an exiled Cuban military official in New York about counterrevolutionary activities being planned against Cuba from Guatemala by elements connected to DIAZ LANZ between December 15 and 24.",
+  "summary_one_paragraph": "Dated December 7, 1961, this NSA document, originating from New York, details a report from GARCIA INCHAUSTEGUI, of the Cuban Mission to the UN, regarding planned counterrevolutionary activities against Cuba. The report indicates that elements connected with Pedro Luis Diaz Lanz are preparing for aggression from Guatemala between December 15 and 24. Diaz Lanz is identified as the former Chief of the Revolutionary Air Force who fled Cuba in June 1959 and has been active in counterrevolutionary affairs. The information was classified by the FBI and indexed as relevant to Cuban affairs.",
+  "tags": [
+    "NSA",
+    "FBI",
+    "Counterrevolutionary Activities",
+    "Cuba",
+    "DIAZ LANZ",
+    "GARCIA INCHAUSTEGUI",
+    "Guatemala",
+    "Military Aggression"
+  ],
+  "title": "[Restricted]",
+  "date": "1961-12-07",
+  "locations_mentioned": [
+    "New York",
+    "Havana",
+    "Guatemala",
+    "Cuba"
+  ],
+  "origin_agency": "NSA",
+  "persons_mentioned": [
+    "GARCIA INCHAUSTEGUI",
+    "PEDRO LUIS DIAZ LANZ"
+  ],
+  "sender": "NSA"
+}
