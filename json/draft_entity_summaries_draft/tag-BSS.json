@@ -1,0 +1,21 @@
+{
+  "entity_name": "BSS",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The British Security Service (BSS) is mentioned in the context of documents related to the JFK assassination. One document indicates that HOS passed a reference memo to SISON with attached copies of British documents and a CIA document containing reporting pertaining to the assassination of former President John F. Kennedy. Two other documents discuss the proposed declassification and release of a BSS document to the JFK Assassination Review Board. The BSS strongly objected to the release of the document, which concerns a 1963 interview with Mrs. Lillian Sloboda, wife of a defector to the USSR, due to the confidential and personal nature of the information. The documents suggest the BSS possessed information relevant to the JFK assassination investigation, specifically an interview conducted in 1963.",
+  "key_connections": [
+    "HOS",
+    "SISON",
+    "CIA",
+    "John F. Kennedy",
+    "JFK Assassination Review Board",
+    "Lillian Sloboda",
+    "USSR"
+  ],
+  "significance": "The BSS's significance in the JFK context lies in their possession of documents and information, specifically an interview with Lillian Sloboda, potentially relevant to the assassination investigation. The BSS's objection to the release of this document suggests the information contained within was considered sensitive.",
+  "document_ids": [
+    "104-10326-10094",
+    "104-10326-10001",
+    "104-10326-10002"
+  ]
+}

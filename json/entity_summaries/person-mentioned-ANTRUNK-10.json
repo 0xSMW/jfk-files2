@@ -1,0 +1,18 @@
+{
+  "entity_name": "ANTRUNK-10",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, ANTRUNK-10 is mentioned within the context of CIA operations related to Cuba in the 1960s. The documents detail operational plans, progress reports, and meetings related to the ANTRUNK project. While the specific role or identity of ANTRUNK-10 is not explicitly stated, the documents suggest involvement in recruitment activities and operational planning. The documents do not directly link ANTRUNK-10 to the JFK assassination.",
+  "key_connections": [
+    "AMLASH-1",
+    "ANTRUNK-19",
+    "ANTEUHK VII",
+    "ANTRUNK X"
+  ],
+  "significance": "The documents provided do not indicate any direct significance of ANTRUNK-10 in the JFK assassination context. The operations described appear to be focused on Cuban activities.",
+  "document_ids": [
+    "104-10247-10097",
+    "104-10216-10148",
+    "104-10216-10273"
+  ]
+}

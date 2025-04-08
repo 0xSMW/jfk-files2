@@ -1,0 +1,22 @@
+{
+  "entity_name": "Travel Restrictions",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "Travel restrictions, specifically those pertaining to Cuba, are a recurring theme in these documents. These restrictions were part of a broader effort by the U.S. government to counter Cuban subversion in Latin America during the early 1960s. The measures involved controlling travel to and from Cuba, aiming to limit the movement of individuals, propaganda, and funds that could support subversive activities. Multiple U.S. government entities, including the Department of Defense, State Department, CIA, and FBI, were involved in enforcing these restrictions. The timeline spans from at least April 1963 to January 1964, as indicated by the document dates. A notable pattern is the consistent focus on preventing the flow of resources and personnel that could aid Castro-Communist movements in the region.",
+  "key_connections": [
+    "Cuba",
+    "Department of Defense",
+    "State Department",
+    "CIA",
+    "FBI",
+    "Immigration and Naturalization Service (INS)",
+    "Castro-Communist subversion"
+  ],
+  "significance": "In the context of the JFK assassination, travel restrictions to Cuba are significant as they reflect the intense U.S. efforts to isolate Cuba and counter its influence in the region. These restrictions and related counter-subversion activities highlight the political tensions and clandestine operations that were prevalent during the Cold War, potentially providing a backdrop for understanding various actors and motives relevant to the assassination.",
+  "document_ids": [
+    "198-10004-10207",
+    "198-10009-10098",
+    "119-10021-10413",
+    "124-10223-10101"
+  ]
+}

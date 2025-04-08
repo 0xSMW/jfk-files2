@@ -1,0 +1,24 @@
+{
+  "entity_name": "DOS",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The Department of State (DOS) is a key entity appearing in these documents. It is mentioned in the context of international relations and intelligence matters. One document involves a memo from Harold H. Saunders (DOS) to The Secretary regarding Fidel Castro's allegations of CIA involvement in the Cubana airliner bombing. Another document is a CIA memo to the Department of State providing information on Henryk Ignacy Janikowski. The third document is a status report on Southeast Asia prepared by the Task Force Southeast Asia, Department of State. The DOS appears to be a recipient of intelligence information and a participant in evaluating international situations.",
+  "key_connections": [
+    "CIA",
+    "Fidel Castro",
+    "Cubana Airliner Bombing",
+    "Henryk Ignacy Janikowski",
+    "Southeast Asia",
+    "Viet-Nam",
+    "Thailand",
+    "Laos",
+    "Burma",
+    "Cambodia"
+  ],
+  "significance": "In the context of these documents, the DOS serves as a recipient of intelligence and a participant in evaluating international situations. While not directly linked to the JFK assassination in these specific documents, its role in international affairs and intelligence gathering suggests a potential indirect relevance to understanding the broader geopolitical landscape surrounding the event.",
+  "document_ids": [
+    "124-10218-10058",
+    "124-90137-10357",
+    "176-10036-10179"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "entity_name": "201 Files",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "201 files are a type of record-keeping system used by the CIA for managing information on individuals. The documents suggest that these files were central to the CIA's information management practices, including the handling of sensitive information and coordination with other government agencies. The House Select Committee on Assassinations (HSCA) requested information on the criteria for these files, indicating their relevance to investigations into the JFK assassination. The CIA provided regulations (DOHB 70-1-1 and CSHB 43-1-1) in response to the HSCA's inquiries, asserting that these regulations addressed all questions regarding the Operations Directorate's management of 201 files. One document also references a review of materials related to Lee Harvey Oswald's activities in Mexico City, suggesting that 201 files may have contained information relevant to Oswald and his potential connections to the assassination. The documents highlight the CIA's internal processes for managing and accessing these files, as well as external requests for information related to them.",
+  "key_connections": [
+    "CIA",
+    "House Select Committee on Assassinations (HSCA)",
+    "Lee Harvey Oswald",
+    "Information Services Staff (ISS)",
+    "William F. Donnelly",
+    "Operations Directorate"
+  ],
+  "significance": "In the context of the JFK assassination, 201 files are significant because they represent a key component of the CIA's record-keeping system, potentially containing information about individuals and events related to the assassination. The HSCA's interest in the criteria for these files suggests that they were considered a potential source of information relevant to the investigation. The presence of information related to Lee Harvey Oswald within these files further underscores their importance in understanding the events leading up to the assassination.",
+  "document_ids": [
+    "180-10143-10070",
+    "180-10145-10287",
+    "104-10213-10352",
+    "180-10143-10100"
+  ]
+}

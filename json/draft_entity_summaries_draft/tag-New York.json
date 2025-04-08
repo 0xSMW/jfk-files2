@@ -1,0 +1,28 @@
+{
+  "entity_name": "New York",
+  "entity_type": "tag",
+  "document_count": 10,
+  "summary": "New York appears in these documents primarily as a location where events and activities related to individuals and organizations of interest took place. It serves as a residential location for individuals like a husband and wife with a mortgage on a property on East 71st Street, and Jack Rubenstein who resided in New York. It is also a location for meetings, such as those between Peter J. DI GERVENO and AMCLOCK/1. Furthermore, it is a place where training occurred, as seen with asset QRPHONE/1. The Bronx is mentioned as a neighborhood where Manuel Marti resided and where a neighborhood check was conducted. New York City is also noted as the location of Polly Perry Stores, where Manuel Marti was employed. Additionally, New York is mentioned as one of the cities a foreign Head of State visited, where arrangements were made for female companionship. Overall, New York functions as a backdrop for various activities and residences connected to individuals and operations mentioned in the documents.",
+  "key_connections": [
+    "Peter J. DI GERVENO",
+    "AMCLOCK/1",
+    "QRPHONE/1",
+    "Jack Rubenstein",
+    "Manuel Marti",
+    "Polly Perry Stores",
+    "ROUSH-WALKER Company"
+  ],
+  "significance": "In the context of the JFK assassination-related documents, New York's significance lies in its role as a geographical location connected to individuals and activities that may have some relevance to the broader investigation. It does not appear to be directly involved in the assassination itself, but rather serves as a place where individuals of interest resided, worked, or passed through.",
+  "document_ids": [
+    "104-10072-10227",
+    "104-10106-10217",
+    "104-10062-10062",
+    "104-10217-10225",
+    "104-10519-10184",
+    "104-10106-10218",
+    "157-10004-10270",
+    "104-10106-10215",
+    "194-10004-10397",
+    "194-10004-10378"
+  ]
+}

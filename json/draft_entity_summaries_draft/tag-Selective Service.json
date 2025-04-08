@@ -1,0 +1,18 @@
+{
+  "entity_name": "Selective Service",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The Selective Service is referenced in the provided documents in the context of background checks and investigations related to individuals registered with the Selective Service system. These documents, all agent reports from 1966, detail investigations into Robert Scheer and David Reed Fromer, both Selective Service registrants. The investigations involve checking local and federal law enforcement records for any information pertaining to these individuals. The reports suggest that the FBI and the Department of the Army were interested in Fromer, indicating a level of scrutiny beyond routine checks. The documents highlight the use of Selective Service registration as a point of reference for identifying individuals of interest during this period.",
+  "key_connections": [
+    "Robert Scheer",
+    "David Reed Fromer",
+    "FBI",
+    "Department of the Army"
+  ],
+  "significance": "In the context of these documents, the Selective Service serves as a means of identifying and tracking individuals who were then subjected to background checks and investigations. The significance lies in the fact that Selective Service registration was used as a starting point for gathering information on individuals, potentially linking them to broader investigations or areas of interest for law enforcement and military agencies during the 1960s. However, the documents do not explicitly state a connection to the JFK assassination.",
+  "document_ids": [
+    "194-10006-10183",
+    "194-10002-10094",
+    "194-10004-10153"
+  ]
+}

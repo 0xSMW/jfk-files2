@@ -1,0 +1,21 @@
+{
+  "entity_name": "Routing Slip",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "Routing slips are internal documents used within organizations like the CIA to track the distribution and handling of other documents. They serve as a record of who has reviewed or acted upon a particular piece of information. The documents provided show routing slips being used for various purposes, including distributing photographs, coordinating with other agencies like the FBI, and protecting assets. They often contain information about the document's subject matter, the individuals or offices involved in its handling, and any specific actions required. The dates on the routing slips in these documents range from 1968 to 1978, indicating their consistent use during this period.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Richard Ober",
+    "Howard Hao-Sheng Chao",
+    "Jane Roman",
+    "WerBell"
+  ],
+  "significance": "In the context of JFK assassination-related documents, routing slips are important for understanding the flow of information within the CIA and other agencies. They can help researchers trace the dissemination of intelligence, identify individuals who had access to specific information, and potentially uncover connections between different pieces of evidence. While the provided documents do not directly relate to the JFK assassination, the presence of routing slips highlights the importance of internal documentation in understanding how information was managed and shared within relevant organizations.",
+  "document_ids": [
+    "104-10061-10208",
+    "104-10105-10211",
+    "104-10178-10137",
+    "104-10220-10037"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "entity_name": "Mr. Helms",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Mr. Helms is mentioned in several documents related to CIA activities during the 1960s and 1970s. While the documents do not explicitly detail his role in the JFK assassination, they place him within the context of CIA operations and investigations related to the event. He appears in documents concerning covert actions related to Cuba (Operation MONGOOSE), discussions with the Warren Commission, and CIA mail opening projects. Howard Osborn's testimony indicates that Mr. Helms was aware of the New York mail openings. The documents suggest that Mr. Helms held a position of authority within the CIA, making him privy to sensitive information and operational details.",
+  "key_connections": [
+    "Allen Dulles",
+    "Lee Harvey Oswald",
+    "Warren Commission",
+    "Howard Osborn",
+    "E.H. Knoche",
+    "David Belin",
+    "J. Edgar Hoover",
+    "Lee Rankin"
+  ],
+  "significance": "Mr. Helms' significance in the JFK context lies in his position within the CIA during the time of the assassination and the subsequent investigation. His awareness of controversial CIA activities, such as mail intercepts, and his connection to figures involved in the Warren Commission, make him a person of interest in understanding the full scope of the CIA's involvement and knowledge related to the assassination.",
+  "document_ids": [
+    "206-10001-10015",
+    "135-10001-10283",
+    "104-10059-10218",
+    "157-10002-10150",
+    "135-10001-10255",
+    "157-10011-10078"
+  ]
+}

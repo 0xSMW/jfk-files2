@@ -1,0 +1,30 @@
+{
+  "entity_name": "Martin Luther King Jr.",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "summary": "Martin Luther King Jr., a prominent figure in the Civil Rights Movement, is mentioned in these documents primarily in the context of investigations into his assassination and related intelligence activities. The documents span from 1966 to 1977, covering the immediate aftermath of his assassination in 1968 and subsequent inquiries. The documents include information on suspected assassins, potential plots, and reactions to his death. Some documents also explore alleged connections between King's associates and the Communist Party USA (CPUSA). The CIA and FBI were involved in monitoring King's activities and investigating his assassination, as well as gathering information on individuals and groups critical of these agencies. The documents also reveal international reactions to King's death and posthumous recognition.",
+  "key_connections": [
+    "James Earl Ray",
+    "Hosea Williams",
+    "Stanley Levison",
+    "John F. Kennedy",
+    "Communist Party USA (CPUSA)",
+    "FBI",
+    "CIA"
+  ],
+  "significance": "While not directly related to the JFK assassination, the documents reveal that investigations into King's assassination and related intelligence activities were occurring concurrently with investigations into the JFK assassination. The documents highlight the FBI and CIA's involvement in monitoring King and investigating his assassination, reflecting broader concerns about domestic dissent and potential communist influence. Some documents also suggest a possible connection between the investigations of the two assassinations.",
+  "document_ids": [
+    "104-10173-10166",
+    "104-10433-10209",
+    "104-10066-10010",
+    "104-10071-10147",
+    "104-10433-10167",
+    "157-10002-10152",
+    "104-10071-10148",
+    "104-10178-10136",
+    "104-10322-10056",
+    "104-10072-10034",
+    "124-10238-10329_multirif",
+    "104-10433-10050"
+  ]
+}

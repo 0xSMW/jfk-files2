@@ -1,0 +1,26 @@
+{
+  "entity_name": "Historical Review Group",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "The Historical Review Group (HRG) is a component of the CIA involved in the review and declassification of documents related to the JFK assassination, particularly in response to the Assassination Records Review Board (ARRB) and the JFK Assassination Records Collection Act of 1992. The HRG's work involved locating, reviewing, and declassifying relevant materials, responding to ARRB requests for additional information on various files, crypts, individuals, and operations. They also addressed concerns about protecting covert employees' identities, cover mechanisms, and ongoing intelligence operations while balancing transparency with security concerns. The HRG coordinated with other agencies like the FBI and interacted with organizations like the Lyndon Baines Johnson (LBJ) Library to fulfill information requests.",
+  "key_connections": [
+    "Assassination Records Review Board (ARRB)",
+    "CIA",
+    "FBI",
+    "Lyndon Baines Johnson (LBJ) Library",
+    "John Pereira",
+    "Linda A. Jasper"
+  ],
+  "significance": "The HRG played a crucial role in the CIA's compliance with the JFK Assassination Records Collection Act, facilitating the release of information while also attempting to protect sensitive intelligence sources and methods. Their work was central to the declassification and review process mandated by the ARRB, influencing the extent to which JFK assassination-related documents were made available to the public.",
+  "document_ids": [
+    "104-10337-10001",
+    "104-10332-10007",
+    "104-10335-10001",
+    "104-10331-10121",
+    "104-10331-10118",
+    "104-10331-10338",
+    "104-10335-10008",
+    "104-10338-10005",
+    "104-10332-10022"
+  ]
+}

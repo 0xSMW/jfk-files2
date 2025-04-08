@@ -1,0 +1,31 @@
+{
+  "entity_name": "General Carter",
+  "entity_type": "person-mentioned",
+  "document_count": 13,
+  "summary": "General Carter is mentioned in several documents related to covert operations and foreign policy discussions during the Kennedy and Johnson administrations, particularly concerning Cuba and Operation MONGOOSE. He appears in the context of Special Group (Augmented) meetings where actions against Cuba were discussed, including sabotage, reconnaissance, and psychological warfare. The documents span from 1962 to 1964, indicating his involvement in these discussions throughout this period. While the specific details of his contributions are not always explicitly stated, his presence at these meetings suggests he was a participant in the decision-making processes related to these sensitive operations. The documents also touch on other foreign policy issues, such as Vietnam and Soviet relations, indicating a broader role in national security matters.",
+  "key_connections": [
+    "President Kennedy",
+    "President Johnson",
+    "Special Group (Augmented)",
+    "Operation MONGOOSE",
+    "Cuba",
+    "Vietnam",
+    "Soviet Union"
+  ],
+  "significance": "General Carter's significance in the JFK context lies in his involvement in discussions and decisions related to covert operations against Cuba, particularly Operation MONGOOSE, which was a program aimed at destabilizing the Castro regime. His presence in Special Group meetings suggests he was privy to sensitive information and potentially involved in planning actions that could have had implications for U.S.-Cuba relations and the broader Cold War context. However, the documents do not directly link him to the JFK assassination.",
+  "document_ids": [
+    "178-10003-10090",
+    "135-10001-10246",
+    "104-10306-10018",
+    "206-10001-10015",
+    "104-10306-10003",
+    "124-10274-10029_multirif_redacted",
+    "104-10306-10010",
+    "178-10003-10016",
+    "178-10003-10001",
+    "202-10001-10187",
+    "178-10004-10056",
+    "206-10001-10017",
+    "104-10306-10021"
+  ]
+}

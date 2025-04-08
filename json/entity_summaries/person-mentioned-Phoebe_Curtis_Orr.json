@@ -1,0 +1,23 @@
+{
+  "entity_name": "Phoebe Curtis Orr",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "summary": "Phoebe Curtis Orr was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA). The documents available are primarily payroll certifications and certification reports that detail her employment with the committee from 1976 to 1979. These documents list her name, position, annual salary, and gross pay for various accounting periods. A final determination notification from the Assassination Records Review Board mentions payroll authorization forms for her, specifically noting the redaction of her Social Security number to protect her privacy. The documents consistently show her as a staff member receiving regular payments from the HSCA.",
+  "key_connections": [
+    "Select Committee on Assassinations",
+    "U.S. House of Representatives",
+    "Assassination Records Review Board"
+  ],
+  "significance": "Phoebe Curtis Orr's significance lies in her employment with the HSCA, the committee tasked with investigating the assassination of JFK. While the documents do not specify her exact role within the committee, her presence on payroll records indicates she was a staff member involved in the committee's operations. The redaction of her Social Security number in later documents highlights the concern for protecting the privacy of individuals associated with the investigation.",
+  "document_ids": [
+    "180-10125-10081",
+    "180-10125-10107",
+    "180-10060-10495",
+    "180-10125-10096",
+    "180-10125-10079",
+    "180-10125-10075",
+    "180-10125-10086",
+    "180-10125-10076",
+    "180-10125-10094"
+  ]
+}

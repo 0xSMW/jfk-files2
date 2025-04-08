@@ -1,0 +1,22 @@
+{
+  "entity_name": "Sensitive Information",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents highlight the CIA's concern with protecting sensitive information related to intelligence operations, sources, and methods. This concern manifests in various contexts, including interactions with the JFK Assassination Records Review Board (ARRB), congressional inquiries (House Select Committee on Assassinations - HSCA), and internal document handling procedures. The CIA sought to balance transparency with the need to safeguard classified information, particularly concerning ongoing operations and the identities of individuals involved. The documents reveal efforts to control access to sensitive materials, recall documents inadvertently disseminated, and manage liaison activities with foreign intelligence services (U.K.). The protection of sensitive information was a consistent priority across different time periods, from the mid-1960s to the late 1990s, reflecting the enduring importance of maintaining secrecy in intelligence work.",
+  "key_connections": [
+    "JFK Assassination Records Review Board (ARRB)",
+    "House Select Committee on Assassinations (HSCA)",
+    "FBIS (Foreign Broadcast Information Service)",
+    "U.K. Liaison",
+    "Mr. Ober",
+    "Rockefeller Commission"
+  ],
+  "significance": "In the JFK context, the protection of sensitive information is significant because it raises questions about potential hidden information related to the assassination. The CIA's efforts to control the release of information, even decades later, fuels speculation about what the agency might be concealing. The documents suggest a tension between the public's right to know and the government's perceived need to protect national security, a tension that is central to the ongoing debate surrounding the JFK assassination records.",
+  "document_ids": [
+    "104-10059-10218",
+    "104-10331-10118",
+    "104-10145-10262",
+    "104-10066-10245",
+    "104-10228-10076"
+  ]
+}

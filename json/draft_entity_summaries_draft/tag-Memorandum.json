@@ -1,0 +1,21 @@
+{
+  "entity_name": "Memorandum",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents tagged with \"Memorandum\" represent a diverse set of internal communications and records. These memoranda cover a range of topics, from references to individuals like Michael Stratton and the Fair Play for Cuba Committee, to detailed records of DCI (Director of Central Intelligence) meetings and activities. One memorandum discusses Mary Ceciliadell Bertucci's communication with the HSCA, while another set of documents pertains to the termination and resettlement of a former agent named WIROGUE. The memoranda serve as snapshots of internal operations, communications, and record-keeping within the CIA and related investigations.",
+  "key_connections": [
+    "Michael Stratton",
+    "Fair Play for Cuba Committee",
+    "DCI (Director of Central Intelligence)",
+    "Mary Ceciliadell Bertucci",
+    "HSCA (House Select Committee on Assassinations)",
+    "WIROGUE"
+  ],
+  "significance": "In the context of the JFK assassination, memoranda provide insights into the internal workings, investigations, and information management practices of relevant agencies and committees. They can reveal connections between individuals, organizations, and events, and shed light on the flow of information and decision-making processes related to the assassination investigation.",
+  "document_ids": [
+    "104-10114-10163",
+    "104-10306-10011",
+    "180-10071-10459",
+    "104-10182-10003"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "entity_name": "Communist Influence",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The documents highlight investigations into alleged Communist influence, particularly within the civil rights movement and in connection to individuals like Martin Luther King Jr., the Southern Christian Leadership Conference (SCLC), and Stanley Levison. The FBI, as indicated by the testimony of Alan G. Sentinella, conducted surveillance and investigations to determine the extent of this influence, focusing on potential connections and exploitation by foreign entities. The documents span from 1968 to 1975, with a concentration on Sentinella's 1975 testimony before the Senate Select Committee (SSC). A notable pattern is the repeated mention of electronic surveillance and the attempt to link civil rights figures and organizations to communist elements.",
+  "key_connections": [
+    "Martin Luther King Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "Stanley Levison",
+    "FBI",
+    "Alan G. Sentinella",
+    "Senate Select Committee (SSC)",
+    "SNCC (Paris group)",
+    "Carlene Hatcher Polite",
+    "Castroist Influence",
+    "Radical Influence"
+  ],
+  "significance": "In the context of these documents, 'Communist Influence' represents a concern and a target of investigation by the FBI, particularly in relation to the civil rights movement and individuals potentially connected to the JFK assassination narrative through associations with figures like Martin Luther King Jr. and Stanley Levison. The documents suggest an effort to uncover and document any connections between these individuals and communist organizations or foreign powers, potentially to discredit or undermine their activities.",
+  "document_ids": [
+    "124-10276-10482_multirif",
+    "104-10072-10315",
+    "124-10273-10014_multirif",
+    "124-10274-10357_multirif",
+    "124-10273-10008_multirif",
+    "124-10276-10483_multirif",
+    "124-10273-10018_multirif"
+  ]
+}

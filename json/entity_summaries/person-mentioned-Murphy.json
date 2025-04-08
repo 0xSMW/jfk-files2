@@ -1,0 +1,35 @@
+{
+  "entity_name": "Murphy",
+  "entity_type": "person-mentioned",
+  "document_count": 14,
+  "summary": "Based on the provided documents, \"Murphy\" appears in the context of meetings and activities related to the President's Foreign Intelligence Advisory Board (PFIAB) and discussions surrounding intelligence matters, particularly concerning Cuba and Operation MONGOOSE. The documents span from 1962 to 1964, with a later document from 1975 referencing earlier activities. Murphy's specific role is not explicitly defined in the summaries, but the frequency of mention suggests involvement in intelligence discussions, potentially within the PFIAB or related to the topics the board was addressing. The documents do not directly link Murphy to the JFK assassination, but rather to the broader intelligence landscape of the time, including covert operations and intelligence gathering efforts.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Cuba",
+    "Operation MONGOOSE",
+    "DCI (Director of Central Intelligence)",
+    "Dean Rusk",
+    "Gordon Gray",
+    "Richard M. Bissell, Jr.",
+    "Paul O'Neill",
+    "Arnold E. Donohue",
+    "Lee Harvey Oswald"
+  ],
+  "significance": "The documents do not directly link Murphy to the JFK assassination. Murphy's significance lies in their potential involvement in intelligence activities and discussions during the period leading up to the assassination, particularly concerning Cuba and related covert operations. Further information would be needed to determine the precise nature and extent of Murphy's role.",
+  "document_ids": [
+    "178-10004-10054",
+    "206-10001-10012",
+    "206-10001-10004",
+    "206-10001-10008",
+    "206-10001-10009",
+    "206-10001-10005",
+    "206-10001-10013",
+    "206-10001-10006",
+    "180-10143-10062",
+    "135-10001-10297",
+    "206-10001-10007",
+    "206-10001-10000",
+    "206-10001-10001",
+    "157-10011-10003"
+  ]
+}

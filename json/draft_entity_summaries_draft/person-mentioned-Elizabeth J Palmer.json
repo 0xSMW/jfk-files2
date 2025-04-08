@@ -1,0 +1,18 @@
+{
+  "entity_name": "Elizabeth J Palmer",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Elizabeth J Palmer was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA). She is mentioned in multiple payroll and certification reports spanning from October 1977 to November 1978. These documents list her name, position, and salary information during her employment with the committee. The consistent appearance of her name across these payroll documents indicates her sustained involvement with the HSCA during this period.",
+  "key_connections": [
+    "Select Committee on Assassinations",
+    "U.S. House of Representatives"
+  ],
+  "significance": "Elizabeth J Palmer's significance lies in her employment with the HSCA, which was tasked with investigating the assassination of JFK. While the documents do not specify her exact role within the committee, her presence on payroll and certification reports confirms her involvement in the HSCA's operations during its investigation.",
+  "document_ids": [
+    "180-10125-10081",
+    "180-10125-10096",
+    "180-10125-10079",
+    "180-10125-10086",
+    "180-10125-10094"
+  ]
+}

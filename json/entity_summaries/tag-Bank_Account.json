@@ -1,0 +1,20 @@
+{
+  "entity_name": "Bank Account",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents reference bank accounts in the context of financial transactions and investigations related to individuals potentially connected to the JFK assassination. Specifically, John Roselli's bank account activity is investigated, including a $25,000 deposit, and the bank account details of Edward G. Tichborn are documented for operational advances and salary payments. The documents suggest that bank accounts were used to track financial activities and connections of individuals of interest during the period surrounding the JFK assassination.",
+  "key_connections": [
+    "John Roselli",
+    "Judith E. Campbell",
+    "Sam Giancana",
+    "Gordon Nesser",
+    "Edward G. Tichborn",
+    "Bank of America"
+  ],
+  "significance": "Bank accounts are significant as they provide a paper trail for financial transactions, potentially revealing connections, sources of income, and activities of individuals of interest in the JFK assassination context. They can be used to trace the flow of money and uncover hidden relationships or illicit activities.",
+  "document_ids": [
+    "124-10223-10077",
+    "124-10223-10171",
+    "104-10174-10041"
+  ]
+}

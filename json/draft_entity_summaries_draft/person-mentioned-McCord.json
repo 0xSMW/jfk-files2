@@ -1,0 +1,22 @@
+{
+  "entity_name": "McCord",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Based on the provided documents, McCord is a person whose full name is not explicitly stated, but is connected to SRS (likely a division within the CIA). One document from 1961 mentions McCord of SRS coordinating with Kammer (likely CIA) regarding the operational use of Michael Weimer Stratton within the US for propaganda purposes, raising concerns about potential FBI involvement. The other documents relate to the Watergate scandal and investigations into E. Howard Hunt's activities. While McCord's direct involvement in Watergate isn't detailed in these summaries, the documents suggest a connection through investigations into Hunt and questions about CIA involvement in the Watergate burglary and cover-up. The timeline of involvement spans from at least 1961 to the Watergate era in the early 1970s.",
+  "key_connections": [
+    "Kammer",
+    "Michael Weimer Stratton",
+    "E. Howard Hunt",
+    "SRS",
+    "FBI",
+    "CIA"
+  ],
+  "significance": "The provided documents do not explicitly link McCord to the JFK assassination. His significance in these documents revolves around his involvement in CIA activities, propaganda operations, and potential connections to the Watergate scandal through investigations into E. Howard Hunt.",
+  "document_ids": [
+    "104-10173-10130",
+    "104-10062-10073",
+    "104-10128-10300",
+    "104-10256-10283",
+    "104-10173-10132"
+  ]
+}

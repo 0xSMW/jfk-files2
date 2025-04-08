@@ -1,0 +1,19 @@
+{
+  "entity_name": "Ammunition",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents mention ammunition in various contexts, primarily related to arms shipments, testing, and requests for information. One document details tests on modified sights for the 7.62 Belgium (FAL) Rifle, which would naturally involve ammunition. Another cable discusses the Military Armament Corporation (MAC) shipping machine gun and pistol ammo to U.S. Army Surplus Guns and Ammunition. A message relays information regarding the delivery of cartridges to Corpus Christi. These instances suggest that ammunition was a commodity being tracked and moved, potentially relevant to covert operations or arms trafficking. However, the documents do not directly link ammunition to the JFK assassination, but rather to broader contexts of arms and equipment management.",
+  "key_connections": [
+    "Military Armament Corporation (MAC)",
+    "U.S. Army Surplus Guns and Ammunition",
+    "7.62 Belgium (FAL) Rifle",
+    "Corpus Christi"
+  ],
+  "significance": "While ammunition itself is not directly linked to the JFK assassination in these documents, the references to arms shipments and the tracking of cartridges suggest a broader context of covert operations and arms management that could potentially be relevant to understanding the environment in which the assassination occurred. The documents highlight the movement and control of ammunition as a significant aspect of clandestine activities.",
+  "document_ids": [
+    "104-10216-10171",
+    "104-10169-10269",
+    "104-10074-10066",
+    "104-10100-10237"
+  ]
+}

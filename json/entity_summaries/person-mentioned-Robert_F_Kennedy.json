@@ -1,0 +1,27 @@
+{
+  "entity_name": "Robert F. Kennedy",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "summary": "Robert F. Kennedy, the Attorney General during the Kennedy administration, appears in several documents related to investigations into CIA activities, anti-Castro operations, and potential assassination plots. He is mentioned in the context of discussions regarding US plans for Cuba, including information relayed from meetings with Vice-President Lyndon B. Johnson. There's also a reference to Chicago mobster Sam Giancana's plans to influence Robert Kennedy's appearance before an Italian American group. The documents suggest a focus on his role in overseeing or being informed about sensitive operations and the potential for external influence or scrutiny of his actions as Attorney General.",
+  "key_connections": [
+    "Lyndon B. Johnson",
+    "Sam Giancana",
+    "John F. Kennedy",
+    "Fidel Castro",
+    "William Harvey",
+    "E. Howard Hunt"
+  ],
+  "significance": "Robert F. Kennedy's significance in the JFK assassination context lies in his role as Attorney General and his potential knowledge of, or involvement in, covert operations against Cuba and related activities. The documents suggest he was a key figure in the Kennedy administration's policies towards Cuba and was potentially a target of influence or scrutiny by individuals involved in organized crime and intelligence operations. His position gave him oversight of the Justice Department and potentially insight into sensitive information related to national security and covert actions.",
+  "document_ids": [
+    "135-10001-10246",
+    "176-10030-10085",
+    "157-10014-10109",
+    "176-10030-10168",
+    "124-10326-10191",
+    "104-10303-10007",
+    "124-10203-10246",
+    "104-10110-10245",
+    "135-10001-10245",
+    "178-10002-10215"
+  ]
+}

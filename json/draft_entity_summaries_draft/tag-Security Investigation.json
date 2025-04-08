@@ -1,0 +1,23 @@
+{
+  "entity_name": "Security Investigation",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents highlight various security investigations conducted by or involving the CIA and FBI. These investigations range from monitoring individuals like Gordon Novel, who claimed CIA affiliation, to scrutinizing potential assets and addressing security concerns related to personnel. The investigations involve record searches, background checks across multiple agencies (FBI, DODCI, CSC, STATE, PP, EX, JIDENT), and assessments of potential security risks. The timeline spans from 1965 to 1977, indicating ongoing security efforts during and after the JFK assassination period. A notable pattern is the proactive approach to addressing potential security breaches or misrepresentations of CIA affiliation, as well as the routine security checks conducted on individuals associated with the agency.",
+  "key_connections": [
+    "Gordon Novel",
+    "CIA",
+    "FBI",
+    "Garrison investigation",
+    "Project JMATE",
+    "Adrian F. Sherman",
+    "Robert Scheer"
+  ],
+  "significance": "While not directly linked to the JFK assassination in these documents, the security investigations reflect the CIA's and FBI's efforts to maintain internal security, vet personnel, and address potential security breaches during the period surrounding the assassination and its aftermath. The investigation of Gordon Novel, who was connected to the Garrison investigation, is the most relevant connection to the JFK assassination context.",
+  "document_ids": [
+    "104-10305-10000",
+    "104-10256-10058",
+    "104-10129-10264",
+    "104-10161-10513",
+    "194-10006-10178"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "entity_name": "Technical Surveillance",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Technical surveillance, as depicted in the provided documents, involves the use of electronic or mechanical devices to monitor and record communications or activities without the knowledge of the individuals being surveilled. The documents highlight instances of technical surveillance conducted by US intelligence and law enforcement agencies, including the FBI and CIA, for various purposes such as counter-espionage, counter-communism, and gathering intelligence on individuals and groups considered threats to national security or involved in criminal activities. These operations range from telephone taps on suspected Soviet agents in Mexico City (Project LIFEAT) to audio surveillance of Cuban exile leaders in the United States. The authorizations for these activities often required approval from high-ranking officials, such as the Attorney General, indicating the sensitive nature and legal considerations surrounding technical surveillance.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "Soviet agents",
+    "Cuban exile leaders",
+    "Espionage",
+    "Communist activities",
+    "Racketeering",
+    "Project LIFEAT",
+    "Manuel F. Artime Buesa"
+  ],
+  "significance": "While the documents provided do not directly link technical surveillance to the JFK assassination, they illustrate the capabilities and practices of US intelligence agencies during the period leading up to and following the assassination. The documents showcase the use of surveillance techniques on individuals and groups perceived as threats, which provides context for understanding the operational environment in which the assassination occurred. The surveillance of Cuban exile leaders, such as Manuel Artime, is particularly relevant given the potential involvement of anti-Castro groups in the assassination.",
+  "document_ids": [
+    "124-10188-10308",
+    "104-10188-10000",
+    "104-10110-10245"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "entity_name": "Audio Surveillance",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "Audio surveillance, as evidenced in the documents, refers to the covert monitoring of individuals or locations through electronic listening devices. The documents reveal instances of audio surveillance conducted by the CIA, targeting individuals like Manuel Artime, a Cuban exile leader, and locations such as the New China News Agency in Havana. These operations involved installing microphones, tapping telephone lines, and establishing listening posts. The purpose of these activities ranged from gathering intelligence on potential threats to monitoring the activities of specific individuals of interest. The documents also highlight the technical aspects of audio surveillance, including the use of electronics engineering and microtechnology, as well as the risks involved, such as the potential for compromise and capture of personnel.",
+  "key_connections": [
+    "Manuel F. ARTIME Buesa",
+    "Rafael Aurelio QUINTERO Ibarbia",
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Defense Intelligence Agency",
+    "David L. Christ",
+    "New China News Agency (Havana)",
+    "STESCALADE"
+  ],
+  "significance": "While the documents detail instances of audio surveillance, their direct connection to the JFK assassination is not explicitly stated. The documents primarily focus on the use of audio surveillance as an intelligence-gathering tool in various contexts, such as monitoring Cuban exiles and foreign news agencies. The significance in the JFK context would depend on whether these surveillance activities indirectly or directly impacted events leading up to or following the assassination, which is not evident from the provided summaries.",
+  "document_ids": [
+    "104-10110-10242",
+    "206-10001-10007",
+    "104-10110-10243",
+    "104-10111-10076",
+    "104-10110-10245",
+    "104-10095-10276"
+  ]
+}

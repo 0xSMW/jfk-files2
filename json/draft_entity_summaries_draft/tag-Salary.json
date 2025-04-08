@@ -1,0 +1,32 @@
+{
+  "entity_name": "Salary",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "The documents provided relate to the salaries of staff members working for the House Select Committee on Assassinations (HSCA) and, in one instance, an individual connected to operational advances. These documents include payroll records, authorization forms, and certification reports detailing salary adjustments, employment dates, and gross pay for various HSCA employees. The records span from 1976 to 1979, covering the period when the HSCA was actively investigating the JFK assassination. The documents also include bank account details for Edward G. Tichborn, including instructions for depositing operational advances and salary payments. Redactions of Social Security numbers are present in some documents to protect personal privacy. The documents collectively provide insight into the financial administration and staffing of the HSCA during its investigation.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Patricia M. Orr",
+    "Vivian L. McPherson",
+    "Robin David Lindley",
+    "Richard A. Sprague",
+    "Thomas Howarth",
+    "Edward G. Tichborn",
+    "Gene R. Johnson",
+    "Helen Whitney Watriss",
+    "Kenneth D. Klein"
+  ],
+  "significance": "In the context of the JFK assassination, 'Salary' as an entity is significant because it relates to the financial resources allocated to the House Select Committee on Assassinations (HSCA) and its staff. These documents provide a glimpse into the operational costs and personnel involved in the investigation, indirectly reflecting the scale and scope of the inquiry into the assassination. While not directly related to the events of the assassination itself, the salary records offer insight into the administrative and logistical aspects of the investigation process.",
+  "document_ids": [
+    "180-10125-10078",
+    "180-10060-10494",
+    "180-10060-10483",
+    "180-10060-10471",
+    "180-10070-10160",
+    "180-10060-10445",
+    "104-10174-10041",
+    "180-10060-10452",
+    "180-10070-10169",
+    "180-10060-10459",
+    "180-10125-10082"
+  ]
+}

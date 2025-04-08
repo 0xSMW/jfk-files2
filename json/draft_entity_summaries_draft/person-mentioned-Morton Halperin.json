@@ -1,0 +1,23 @@
+{
+  "entity_name": "Morton Halperin",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, there appears to be a mix-up in the entity being referenced. The documents mention both \"Morton Halperin\" and \"Maurice Hyman Halperin.\" The documents primarily focus on Maurice Hyman Halperin, a former OSS official and Boston University professor suspected of Soviet espionage. There is no direct mention of Morton Halperin's involvement in the JFK assassination context within these documents. The documents related to Maurice Hyman Halperin detail FBI investigations into his activities, including his time in Mexico and alleged connections to the Soviet government. One document discusses a USIB Ad Hoc Coordinating Group meeting on Congressional Review, which touches on Senate Select Committee inquiries and CIA coordination, but does not mention Morton Halperin directly. Another document involves an interview with Sam Halpern, discussing Congressional investigations and the CIA, but again, does not mention Morton Halperin.",
+  "key_connections": [
+    "Maurice Hyman Halperin",
+    "OSS",
+    "Boston University",
+    "Soviet government",
+    "FBI",
+    "USIB Ad Hoc Coordinating Group",
+    "Senate Select Committee",
+    "CIA",
+    "Sam Halpern"
+  ],
+  "significance": "Based on the provided documents, Morton Halperin's significance in the JFK context is not evident. The documents primarily concern Maurice Hyman Halperin and general discussions about Congressional investigations and CIA activities.",
+  "document_ids": [
+    "124-10271-10299",
+    "104-10172-10112",
+    "104-10324-10002"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "entity_name": "John Fitzgerald Kennedy",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "John Fitzgerald Kennedy, the 35th President of the United States, is the central figure in these documents, as they primarily concern the investigation into his assassination. The documents consist of FBI Airtels and a memorandum related to the aftermath of his assassination. The documents span from 1964 to 1978, indicating ongoing investigations and inquiries related to the assassination. The documents suggest that the FBI and CIA were actively involved in gathering information and investigating potential leads related to the assassination, including intercepts of conversations and interviews with individuals who claimed to have information.",
+  "key_connections": [
+    "Cuban Embassy in London",
+    "ANGHEL DRAGOMIR",
+    "CIA Research Branch in Vienna",
+    "Mary Ceciliadell Bertucci",
+    "John Moriarty",
+    "Clifford Fenton"
+  ],
+  "significance": "John Fitzgerald Kennedy's significance lies in his role as the assassinated President, making him the focal point of investigations and inquiries into the circumstances surrounding his death. The documents highlight the efforts to gather information and investigate potential leads related to his assassination, underscoring the enduring impact of this event on intelligence and law enforcement agencies.",
+  "document_ids": [
+    "124-10181-10009",
+    "124-10150-10104",
+    "124-10237-10009",
+    "180-10071-10459"
+  ]
+}

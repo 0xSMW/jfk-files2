@@ -1,0 +1,18 @@
+{
+  "entity_name": "Knoche",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Knoche is mentioned in the context of CIA activities and information management. The documents do not provide specific details about Knoche's role or personal information, but rather reference documents where Knoche's name appears. The documents relate to CIA-FBI relations, guidelines for providing information to congressional committees, and a list of materials in the Rockefeller Commission file. The documents suggest Knoche was involved in intelligence operations or information management within the CIA.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Rockefeller Commission",
+    "House Appropriations Committee"
+  ],
+  "significance": "The significance of Knoche in the JFK context is not explicitly stated in the provided documents. However, the Rockefeller Commission file, which mentions Knoche, contains materials related to Cuban operations, plots to assassinate Castro, and other CIA activities, suggesting a potential indirect connection to the broader context of the JFK assassination, although the exact nature of this connection is not specified.",
+  "document_ids": [
+    "104-10213-10314",
+    "104-10400-10316",
+    "157-10008-10234"
+  ]
+}

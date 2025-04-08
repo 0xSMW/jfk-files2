@@ -1,0 +1,35 @@
+{
+  "entity_name": "201 File",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "A \"201 file\" is a personnel file used by the CIA to track individuals of interest, including agents, sources, and potential collaborators. These files contain a range of information, including personal history, activities, health records, and financial matters. The documents indicate that assigning a 201 file number was a standard procedure for individuals involved in CIA operations or those being considered for such involvement. The files are used for internal control, tracking, and consolidating information on individuals. The House Select Committee on Assassinations (HSCA) requested information on the criteria for opening a 201 file, indicating its relevance to investigations. The Assassination Records Review Board also requested additional information related to Lee Harvey Oswald's pre-assassination files, suggesting the importance of 201 files in understanding events related to the JFK assassination.",
+  "key_connections": [
+    "LITAMIL-7",
+    "QRPHONE/1",
+    "IDEN A",
+    "Gordon Barton McLendon",
+    "Howard Davis",
+    "Lee Harvey Oswald",
+    "Evelio Duque Miyar",
+    "Roman Davor Srecko Arnold",
+    "JMWAVE",
+    "Mexico City Station",
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board"
+  ],
+  "significance": "In the context of the JFK assassination, 201 files are significant because they may contain information about individuals who had connections to Lee Harvey Oswald or other relevant figures. The Assassination Records Review Board's request for Oswald's pre-assassination files highlights the potential for these files to shed light on events leading up to the assassination and the individuals involved. The criteria for opening a 201 file, as requested by the HSCA, could reveal the CIA's level of interest in Oswald and others before the assassination.",
+  "document_ids": [
+    "104-10176-10075",
+    "104-10122-10135",
+    "104-10217-10223",
+    "104-10104-10172",
+    "104-10177-10220",
+    "104-10176-10073",
+    "104-10056-10005",
+    "104-10335-10014",
+    "104-10221-10003",
+    "104-10408-10078",
+    "104-10169-10002",
+    "194-10012-10471"
+  ]
+}

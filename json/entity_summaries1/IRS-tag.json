@@ -1,0 +1,27 @@
+{
+  "entity_name": "IRS",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "The IRS (Internal Revenue Service) appears in these documents primarily in the context of investigations into individuals and organizations, particularly concerning financial matters and potential tax evasion. The documents highlight the IRS's role in obtaining federal income tax returns related to individuals like John Roselli and his enterprises, indicating a focus on financial scrutiny. The IRS also collaborated with other agencies, such as the FBI, sharing information and coordinating investigations. The timeline spans from the early 1960s to the late 1970s, with a concentration on the early 1960s during the investigations into John Roselli. A notable pattern is the IRS's involvement in gathering financial information and collaborating with law enforcement agencies in investigations related to organized crime and potential financial irregularities.",
+  "key_connections": [
+    "John Roselli",
+    "FBI",
+    "Gabriel Mannarino",
+    "Samuel Mannarino",
+    "William Sams",
+    "Mitchell Livingston WerBell III",
+    "Paul Arnold Marriott"
+  ],
+  "significance": "In the context of the JFK assassination, the IRS's significance is indirect. The documents suggest the IRS was involved in investigating individuals potentially connected to organized crime, such as John Roselli. While these investigations might not be directly related to the assassination, they reflect the broader landscape of law enforcement activities and potential connections between individuals of interest during that period. The IRS's role was primarily investigatory, focusing on financial aspects of individuals who may have been of interest to other investigations.",
+  "document_ids": [
+    "157-10014-10144",
+    "124-10223-10088",
+    "124-10223-10070",
+    "124-10223-10164",
+    "124-10223-10171",
+    "124-10223-10079",
+    "124-10203-10485",
+    "194-10001-10168",
+    "124-10223-10073"
+  ]
+}

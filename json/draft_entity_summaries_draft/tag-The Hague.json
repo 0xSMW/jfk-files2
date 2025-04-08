@@ -1,0 +1,21 @@
+{
+  "entity_name": "The Hague",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The Hague appears in the documents primarily as the location of a CIA station. This station was involved in monitoring and reporting on Dutch journalist Willem Oltmans, including his leftist views, contacts with Soviet and Cuban diplomats, and travel to the USSR. The Hague station also played a role in tracking the movements of Soviet official Nikolay Stepanovich Leonov. The station's activities included gathering information, disseminating it to other stations and headquarters, and making decisions about sharing information with other US consulates, based on source sensitivity and communication security.",
+  "key_connections": [
+    "William L. Oltmans",
+    "Nikolay Stepanovich Leonov",
+    "CIA",
+    "Soviet diplomats",
+    "Cuban diplomats",
+    "Rotterdam consulate"
+  ],
+  "significance": "In the context of the JFK assassination documents, The Hague's significance lies in its role as a location for CIA operations related to monitoring individuals of interest, such as Willem Oltmans, who had connections to figures like George de Mohrenschildt and was of interest to Congressional committees. The documents suggest that The Hague station was involved in gathering intelligence on individuals who may have had connections to the Soviet Union or Cuba, which were of interest during the Cold War period following the assassination.",
+  "document_ids": [
+    "104-10418-10045",
+    "104-10066-10031",
+    "104-10218-10060",
+    "104-10418-10104"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "entity_name": "Thompson",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "The documents mention \"Thompson\" in various contexts, suggesting multiple individuals or a single individual involved in different operations and time periods. One document refers to a letter sent to \"Thompson's Friend\" in PBRUMEN to activate a RELUCTANT DRAGON agent, indicating involvement in covert operations during the early 1960s. This Thompson met the agent in Paris along with Wallace A. Growery. Another document mentions a \"THOMPSON's friend\" in PBRUMEN to activate a DRAGON agent. There is also a reference to Senate Select Committee testimony, a meeting with WUSLAB/1, and discussions on US policy towards Cuba, but the specific role or connection of \"Thompson\" to these events is not explicitly detailed in the provided summaries. The documents span from 1963 to 1980, indicating a potentially long period of activity or involvement.",
+  "key_connections": [
+    "Wallace A. Growery",
+    "PBRUMEN",
+    "RELUCTANT DRAGON agent",
+    "WUSLAB/1",
+    "AMLASH/1",
+    "LNERGO"
+  ],
+  "significance": "The significance of \"Thompson\" in the JFK assassination context is unclear based on the provided documents. The references suggest involvement in CIA activities, potentially related to covert operations and intelligence gathering, but a direct link to the assassination is not established. Further investigation would be needed to determine if any of these activities or connections have relevance to the JFK assassination.",
+  "document_ids": [
+    "104-10062-10073",
+    "104-10215-10188",
+    "104-10216-10002",
+    "104-10183-10037",
+    "104-10072-10243",
+    "104-10306-10016",
+    "124-10281-10028"
+  ]
+}

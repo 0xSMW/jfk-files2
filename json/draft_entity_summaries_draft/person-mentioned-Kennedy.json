@@ -1,0 +1,23 @@
+{
+  "entity_name": "Kennedy",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "The documents mention \"Kennedy\" in the context of discussions and investigations into potential U.S. involvement in assassination plots against foreign leaders and covert operations. While the documents do not explicitly detail Kennedy's direct involvement in the JFK assassination, they suggest that during his administration, the U.S. government considered and engaged in covert actions, including potential assassination plots against leaders like Trujillo of the Dominican Republic and Fidel Castro of Cuba. The documents also reference investigations into these activities, including the Select Committee on Assassinations (SSCIA) report, indicating that Kennedy's era is scrutinized for its policies and actions regarding foreign interventions and potential assassinations.",
+  "key_connections": [
+    "General Lansdale",
+    "Richard Bissell",
+    "McGeorge Bundy",
+    "Trujillo",
+    "Fidel Castro",
+    "Michael Weimer Stratton"
+  ],
+  "significance": "The significance of \"Kennedy\" in the JFK context lies in the fact that the documents highlight the covert actions and potential assassination plots considered or undertaken by the U.S. government during his presidency. These actions and the subsequent investigations into them form a backdrop against which the JFK assassination is often examined, particularly in relation to potential motives and actors who might have opposed Kennedy's policies or sought retribution for U.S. interventions.",
+  "document_ids": [
+    "157-10005-10236",
+    "104-10435-10071",
+    "176-10033-10151",
+    "104-10114-10162",
+    "157-10008-10238",
+    "157-10014-10151"
+  ]
+}

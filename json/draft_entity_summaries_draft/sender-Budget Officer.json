@@ -1,0 +1,33 @@
+{
+  "entity_name": "Budget Officer",
+  "entity_type": "sender",
+  "document_count": 10,
+  "summary": "The documents provided do not explicitly mention a \"Budget Officer\" by name. Instead, they primarily concern payroll records and Final Determination Notifications from the Assassination Records Review Board (ARRB) regarding the House Select Committee on Assassinations (HSCA) staff payroll. These records include payroll authorization forms, memoranda, and notifications related to the postponement of Social Security numbers to protect personal privacy. The documents detail the employment, salary adjustments, and positions of various HSCA staff members. The ARRB's notifications address the balance between public interest and individual privacy when releasing payroll information. The documents span from 1976 to 1995, with the ARRB reviewing HSCA records much later.",
+  "key_connections": [
+    "Assassination Records Review Board (ARRB)",
+    "House Select Committee on Assassinations (HSCA)",
+    "Antoinette M. Roberts",
+    "Donald A. Purdy, Jr.",
+    "Ann Furnald Taylor",
+    "Thomas Howarth",
+    "James Lerer Wolf",
+    "Elizabeth Ann Wolf",
+    "Ann Lyon Strickland",
+    "Jane E. Godfrey",
+    "Louis Stokes",
+    "Henry B. Gonzalez"
+  ],
+  "significance": "While a specific \"Budget Officer\" isn't identified, the documents highlight the importance of managing and reviewing HSCA staff payroll records, and the ARRB's role in determining the release status of sensitive personal information within those records. The documents are significant in that they provide insight into the administrative and privacy considerations surrounding the release of information related to the HSCA's staff.",
+  "document_ids": [
+    "180-10070-10146",
+    "180-10071-10001",
+    "180-10071-10000",
+    "180-10068-10312",
+    "180-10070-10163",
+    "180-10060-10445",
+    "180-10070-10175",
+    "180-10070-10174",
+    "180-10147-10261",
+    "180-10068-10357"
+  ]
+}

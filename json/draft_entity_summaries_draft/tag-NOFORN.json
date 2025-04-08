@@ -1,0 +1,31 @@
+{
+  "entity_name": "NOFORN",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "NOFORN is a security classification marking, indicating that the document or information is not releasable to foreign nationals. In the provided documents, the presence of the NOFORN tag suggests that the information contained within was considered highly sensitive and restricted from dissemination to non-U.S. citizens. The documents cover a range of topics, including potential coups in South Vietnam, Cuban exile activities, and internal Cuban affairs, as well as assessments of U.S. military aid and communist strategies. The consistent application of NOFORN across these diverse subjects highlights the perceived need to protect this intelligence from foreign access, likely due to concerns about compromising sources, methods, or ongoing operations. The documents span from 1960 to 1963.",
+  "key_connections": [
+    "South Vietnam",
+    "Cuba",
+    "Cuban exiles",
+    "U.S. Military Aid",
+    "Vietnamese Communist",
+    "President Diem",
+    "ARVN officers",
+    "Communist forces",
+    "Alfonso Dibildox Torres",
+    "Jose Xavier CORTES Hernandez",
+    "Fidel Castro",
+    "Manolo Ray"
+  ],
+  "significance": "In the context of the JFK assassination, the NOFORN tag itself doesn't directly relate to the assassination. However, its presence on documents related to Cuba, Cuban exiles, and potential political instability in other countries suggests that these areas were considered highly sensitive and potentially relevant to understanding the broader geopolitical landscape surrounding the assassination. The tag indicates the sensitivity of information regarding potential threats, covert operations, and foreign relations, which could indirectly shed light on motives or actors involved in the assassination.",
+  "document_ids": [
+    "176-10036-10086",
+    "104-10098-10264",
+    "104-10074-10413",
+    "104-10302-10022",
+    "104-10192-10284",
+    "104-10179-10122",
+    "176-10036-10085",
+    "176-10037-10452"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "entity_name": "Postponement",
+  "entity_type": "tag",
+  "document_count": 14,
+  "summary": "The term \"Postponement\" in these documents refers to the delayed release of specific information within assassination-related records, primarily HSCA (House Select Committee on Assassinations) staff payroll records. The Assassination Records Review Board (ARRB) made determinations to postpone the release of certain data, most notably Social Security numbers, to protect personal privacy. These postponements were implemented under the authority granted to the ARRB to balance public interest in assassination records with the privacy rights of individuals. The notifications detail the reasons for postponement, the specific information being withheld, and the next review date for potential release. A recurring pattern is the consistent postponement of Social Security numbers from HSCA staff payroll records across multiple documents, all dated December 8, 1995, indicating a systematic approach to privacy protection within the ARRB's review process.",
+  "key_connections": [
+    "Assassination Records Review Board (ARRB)",
+    "HSCA (House Select Committee on Assassinations)",
+    "Social Security numbers",
+    "Personal Privacy",
+    "Payroll Records"
+  ],
+  "significance": "In the context of the JFK assassination records, \"Postponement\" signifies the ARRB's role in mediating between the public's right to know and individual privacy rights. It highlights the complexities involved in declassifying sensitive information and the measures taken to protect personal data while still adhering to the mandate of making assassination-related records available to the public.",
+  "document_ids": [
+    "180-10060-10499",
+    "104-10328-10038",
+    "180-10060-10447",
+    "180-10068-10352",
+    "180-10071-10000",
+    "180-10068-10345",
+    "180-10068-10324",
+    "180-10068-10308",
+    "180-10068-10346",
+    "180-10060-10444",
+    "180-10070-10145",
+    "180-10060-10454",
+    "180-10060-10439",
+    "180-10068-10300"
+  ]
+}

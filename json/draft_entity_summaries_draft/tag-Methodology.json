@@ -1,0 +1,27 @@
+{
+  "entity_name": "Methodology",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The documents tagged with \"Methodology\" cover a range of topics related to intelligence gathering, analysis, and operational procedures, particularly within the CIA. They include discussions of CIA counterintelligence methodologies, restrictions on the agency's use of academics and media, and the verification of transcriptions related to key figures like Yuri Nosenko. The documents also touch on the Senate Select Committee's scrutiny of intelligence activities, resource allocation, and coordination. A notable pattern is the focus on CIA operations and the methods used to gather and disseminate information, as well as the oversight and potential limitations placed on these activities.",
+  "key_connections": [
+    "CIA",
+    "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities",
+    "James Angleton",
+    "Scotty Miler",
+    "Yuri Nosenko",
+    "Lee Harvey Oswald",
+    "House Select Committee on Assassinations (HSCA)",
+    "Media",
+    "Academics"
+  ],
+  "significance": "In the context of the JFK assassination, \"Methodology\" is significant because it relates to the intelligence gathering and analysis techniques employed by the CIA, which are relevant to understanding the information available to the agency regarding Lee Harvey Oswald and potential Soviet involvement. The documents highlight the scrutiny of CIA methods and the potential for covert operations, which are central to many theories surrounding the assassination.",
+  "document_ids": [
+    "157-10014-10133",
+    "157-10014-10125",
+    "180-10111-10051",
+    "157-10014-10006",
+    "104-10227-10003",
+    "157-10014-10121",
+    "180-10131-10324"
+  ]
+}

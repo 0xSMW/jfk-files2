@@ -1,0 +1,27 @@
+{
+  "entity_name": "Director of Personnel",
+  "entity_type": "recipient",
+  "document_count": 6,
+  "summary": "The Director of Personnel appears as a recipient or point of contact in various CIA personnel-related matters. The documents suggest the Director of Personnel's office was responsible for handling security clearances (Myroslaw Andrew Maksymiec), personnel actions such as promotions, commendations, reassignments, and retirements (James S. Woods, David E. Murphy), fitness reports (George Joannides), alias identification cards (Harold F. Safley), and employment history (Lucien Conein). The documents span from 1961 to 1979, indicating a consistent role in managing CIA personnel matters during this period. There is no direct mention of the JFK assassination in relation to the Director of Personnel in these documents, but the office's involvement in managing personnel files of individuals who may have tangential connections to the assassination (such as George Joannides's work with the HSCA) suggests a potential indirect link.",
+  "key_connections": [
+    "James S. Woods",
+    "Myroslaw Andrew Maksymiec",
+    "George Joannides",
+    "David E. Murphy",
+    "Lucien Conein",
+    "Harold F. Safley",
+    "Arthur R. Schwickrath",
+    "Drug Enforcement Agency (DEA)",
+    "House Select Committee on Assassinations (HSCA)",
+    "Task Force W"
+  ],
+  "significance": "While the Director of Personnel is not directly implicated in the JFK assassination based on these documents, the office's role in managing the personnel files of individuals who may have tangential connections to the assassination (such as George Joannides's work with the HSCA) suggests a potential indirect link. The office's responsibilities included security clearances, personnel actions, and alias identification cards, all of which could be relevant in understanding the CIA's operations and personnel during the period surrounding the assassination.",
+  "document_ids": [
+    "104-10291-10004",
+    "104-10224-10001",
+    "104-10304-10000",
+    "104-10224-10002",
+    "104-10222-10041",
+    "104-10131-10014"
+  ]
+}

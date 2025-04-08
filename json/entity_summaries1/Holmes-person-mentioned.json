@@ -1,0 +1,17 @@
+{
+  "entity_name": "Holmes",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Based on the provided documents, there is no mention of an entity named \"Holmes.\" The documents primarily concern investigations, surveillance, and information sharing related to individuals like John Roselli, Santo Trafficante, Jr., and organizations such as the CIA and FBI. They cover topics ranging from Roselli's activities and IRS investigations, the attack on the Spanish vessel Sierra Aranzazu by an anti-Castro group, and the handling of sensitive information from the CIA, particularly concerning Israeli intelligence activities. Without any mention of \"Holmes,\" it's impossible to provide a summary of their role, connections, or timeline of involvement.",
+  "key_connections": [],
+  "significance": "Since the entity \"Holmes\" is not mentioned in any of the provided documents, its significance in the JFK context cannot be determined.",
+  "document_ids": [
+    "124-10223-10088",
+    "124-10326-10103",
+    "124-10222-10171",
+    "124-10223-10082",
+    "124-10223-10083",
+    "124-10204-10209",
+    "124-10326-10105"
+  ]
+}

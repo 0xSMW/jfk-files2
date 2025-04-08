@@ -1,0 +1,19 @@
+{
+  "entity_name": "O'Connell",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, information about O'Connell is limited. The documents consist of index cards and testimony related to CIA activities, particularly concerning Operation Mongoose and assassination plots against Fidel Castro. O'Connell is mentioned in these contexts, suggesting involvement or knowledge of these operations. The documents reference specific individuals, dates, and methods considered in these plots. The testimony of Robert Maheu also touches on other CIA projects, indicating a broader scope of activities during this period.",
+  "key_connections": [
+    "Operation Mongoose",
+    "Fidel Castro",
+    "Robert Maheu",
+    "CIA",
+    "Aristotle Onassis"
+  ],
+  "significance": "The significance of O'Connell in the JFK context is not explicitly detailed in these documents. However, their mention in connection with CIA activities against Castro, particularly assassination plots, suggests a potential link to the broader context of US-Cuban relations and covert operations during the Kennedy administration. Further research would be needed to determine the specific role and significance of O'Connell in relation to the JFK assassination.",
+  "document_ids": [
+    "157-10002-10001",
+    "157-10011-10005",
+    "157-10011-10048"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "entity_name": "Budget",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "The documents highlight various aspects of budgets related to CIA operations, congressional committees, and specific projects. Budgets are mentioned in the context of covert operations like Project LIFEAT and KDFACTOR, detailing allocations for surveillance activities in Mexico City. They also appear in relation to congressional oversight, particularly concerning the House Select Committee on Assassinations and the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, where budgetary matters, resource allocation, and potential fund reprogramming are discussed. Furthermore, the documents touch upon the CIA's budget in relation to contract employees and potential involvement in Watergate. Overall, the documents illustrate the financial aspects of intelligence operations, congressional oversight, and the management of resources within the CIA and related committees.",
+  "key_connections": [
+    "Project LIFEAT",
+    "Project KDFACTOR",
+    "House Select Committee on Assassinations",
+    "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities",
+    "CIA",
+    "Watergate"
+  ],
+  "significance": "In the JFK context, budgets are significant as they relate to the funding and oversight of intelligence activities, including potential covert operations and investigations. The documents reveal how resources were allocated for specific projects and how congressional committees scrutinized these expenditures. While not directly implicating a specific role in the assassination, the budget information provides insight into the operational and financial landscape within which the CIA and related entities functioned during the relevant periods.",
+  "document_ids": [
+    "104-10140-10420",
+    "104-10230-10153",
+    "180-10125-10101",
+    "104-10188-10000",
+    "157-10014-10121",
+    "104-10188-10023",
+    "104-10306-10007",
+    "104-10256-10283",
+    "180-10125-10105",
+    "104-10187-10014",
+    "104-10326-10081"
+  ]
+}

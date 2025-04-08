@@ -1,0 +1,22 @@
+{
+  "entity_name": "Bronx, New York",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The Bronx, New York, appears in the documents as the location where neighborhood checks and interviews were conducted as part of background investigations into Manuel Marti. These investigations involved verifying Marti's character references and educational background. The documents detail attempts to locate and interview individuals such as Ramona Rodriguez, Juanita Reyes, and Aleanso Ortiz, all connected to Marti, at various addresses within the Bronx. The consistent mention of the Bronx highlights it as the area where Marti's social network and upbringing were based, making it a focal point for gathering information about his background and character.",
+  "key_connections": [
+    "Manuel Marti",
+    "Ramona Rodriguez",
+    "Juanita Reyes",
+    "Aleanso Ortiz",
+    "Theodore Roosevelt Night High School",
+    "Evander Childs High School"
+  ],
+  "significance": "In the context of the JFK assassination documents, the Bronx, New York, serves as the geographical location for background checks and character investigations related to Manuel Marti. While not directly implicated in the assassination itself, the Bronx is significant as the area where information about Marti's life, education, and social connections was sought, potentially to assess any relevance he might have had to the events surrounding the assassination.",
+  "document_ids": [
+    "194-10004-10377",
+    "194-10004-10398",
+    "194-10004-10384",
+    "194-10004-10387",
+    "194-10004-10391"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "entity_name": "Audio Operation",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents refer to \"Audio Operations\" conducted by the CIA. One operation, STESCALADE, targeted the New China News Agency (NCNA) in Havana and involved installing audio surveillance equipment in apartments near the NCNA office, leading to the capture of three TSD technicians. Another audio operation (UNSIERRA) targeted the Cuban Embassy in Paris. Marta FRAYDE is identified as an unwitting source (UNSNAFU-12) in a related cable to the UNSIERRA operation. The documents highlight the use of audio surveillance as an intelligence-gathering method against foreign entities during the Cold War era.",
+  "key_connections": [
+    "Jim McCord",
+    "STESCALADE",
+    "New China News Agency (NCNA)",
+    "Cuban Embassy in Paris",
+    "Marta FRAYDE",
+    "UNSIERRA",
+    "UNSNAFU-12"
+  ],
+  "significance": "While the documents do not directly link the audio operations to the JFK assassination, they reveal the CIA's clandestine activities and surveillance techniques during the Cold War, which provides context for understanding the agency's capabilities and potential involvement in other sensitive operations. The capture of TSD technicians during the STESCALADE operation also highlights the risks and consequences associated with these activities.",
+  "document_ids": [
+    "104-10066-10076",
+    "104-10102-10043",
+    "104-10103-10244"
+  ]
+}

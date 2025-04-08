@@ -1,0 +1,41 @@
+{
+  "entity_name": "E. Howard Hunt",
+  "entity_type": "person-mentioned",
+  "document_count": 19,
+  "summary": "E. Howard Hunt was a CIA officer whose activities and connections are scrutinized in the context of the JFK assassination. The documents reveal investigations into his assignments, particularly in Madrid during the mid-1960s, and his financial transactions. He is also connected to Watergate-related events, and his alias birth certificate (Edward Joseph Hamilton) is mentioned in relation to the Bay of Pigs operation. Hunt's memoirs, \"Undercover,\" were reviewed by the CIA for security concerns, leading to deletions of classified information. He was interviewed regarding allegations of his involvement in the JFK assassination, which he denied, providing an alibi. The documents also include a fitness report evaluating his performance in propaganda operations and project management. His testimony before the Senate Select Committee included inquiries into potential CIA involvement in assassinations.",
+  "key_connections": [
+    "Frank Sturgis",
+    "Wilfredo Navarro",
+    "David Phillips",
+    "Boris Tarasoff",
+    "Lee Harvey Oswald",
+    "Colonel Boris Pash",
+    "John D. Morrison, Jr.",
+    "Lisa Hunt",
+    "Terence S. Crabanac",
+    "Howard J. Osborn",
+    "Fidel Castro"
+  ],
+  "significance": "E. Howard Hunt's significance in the JFK assassination context lies in the investigations and allegations surrounding his potential involvement. While he denied any involvement, his past CIA activities, connections to covert operations, and the scrutiny of his memoirs raise questions about the extent of his knowledge or participation in events related to the assassination. The documents suggest a focus on determining whether Hunt had any connection to the assassination, but no definitive evidence is presented.",
+  "document_ids": [
+    "135-10001-10288",
+    "180-10113-10119",
+    "104-10173-10130",
+    "135-10001-10276",
+    "104-10105-10290 (C06932214)",
+    "157-10005-10228",
+    "178-10002-10091",
+    "104-10105-10293",
+    "178-10004-10420",
+    "135-10001-10279",
+    "104-10079-10016",
+    "135-10001-10243",
+    "104-10105-10271",
+    "104-10105-10277",
+    "104-10194-10024",
+    "104-10173-10132",
+    "157-10011-10078",
+    "135-10001-10245",
+    "178-10002-10215"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "entity_name": "KIM",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, \"KIM\" refers to individuals involved in the South Korean government during the period immediately following President John F. Kennedy's assassination in November 1963. The documents mention memorial rites conducted in Seoul for President Kennedy and communications related to South Korean officials' reactions and participation in Kennedy's funeral. Specifically, the documents reference the South Korean President's visit to the U.S. and the Foreign Minister being asked to join the Prime Minister in Washington for the funeral. However, the documents do not specify which individual with the surname \"Kim\" is being referenced, nor do they provide details about their specific roles beyond their positions within the South Korean government. Therefore, it is difficult to provide a more detailed summary without additional context.",
+  "key_connections": [
+    "President John F. Kennedy",
+    "South Korean President",
+    "South Korean Prime Minister",
+    "South Korean Foreign Minister"
+  ],
+  "significance": "The significance of \"KIM\" in the JFK context, based on these documents, lies in the representation of South Korea's official response and participation in mourning President Kennedy's death. The documents highlight the diplomatic activities and expressions of condolence from the South Korean government during this period. However, the lack of specific identification limits a more precise assessment of their individual significance.",
+  "document_ids": [
+    "144-10001-10333",
+    "144-10001-10370",
+    "144-10001-10331"
+  ]
+}

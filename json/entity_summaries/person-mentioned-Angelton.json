@@ -1,0 +1,23 @@
+{
+  "entity_name": "Angelton",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, there appears to be a misspelling and the entity name should be 'Angleton'. James Jesus Angleton is not explicitly mentioned in the summaries of the provided documents. However, the documents touch upon topics and individuals that were relevant to Angleton's work as the CIA's chief of counterintelligence. The documents discuss national reconnaissance programs, security measures, and individuals connected to Lee Harvey Oswald, as well as other figures involved in covert activities. These areas align with Angleton's responsibilities within the CIA during the time period covered by the documents.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Alexis Davison",
+    "Daniel Carswell",
+    "Luis Posada",
+    "Cesar Diosdado",
+    "David A. Phillips",
+    "Mitchell L. WerBell III",
+    "E. Howard Hunt",
+    "David Lamar Christ"
+  ],
+  "significance": "While not directly mentioned, the documents' subject matter (counterintelligence, security, and figures potentially linked to the JFK assassination) suggests Angleton's potential indirect involvement or oversight in related activities during that period. His role as CIA's chief of counterintelligence would have placed him in a position to be aware of or involved in many of the activities described.",
+  "document_ids": [
+    "206-10001-10013",
+    "180-10143-10062",
+    "180-10143-10072"
+  ]
+}

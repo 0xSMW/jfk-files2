@@ -1,0 +1,23 @@
+{
+  "entity_name": "File Management",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "File management, in the context of these documents, refers to the systems and processes used by the CIA and other organizations to organize, track, and control access to information. This includes document transfer procedures, cross-referencing systems, and the establishment and maintenance of files on individuals of interest. The CIA's \"201 system\" is a specific example, detailing procedures for opening, maintaining, and restricting access to files. File management actions also include equipment requests, passport renewals, and providing materials for review by committees such as the House Select Committee on Assassinations (HSCA). The documents highlight the importance of file management in tracking individuals, projects, and information relevant to national security and intelligence operations.",
+  "key_connections": [
+    "CIA",
+    "AQUATIC project",
+    "KDAFGHAN project",
+    "Daniel A. Parsons",
+    "House Select Committee on Assassinations (HSCA)",
+    "FURIOSC project",
+    "FULMINATOR-1 project"
+  ],
+  "significance": "In the JFK assassination context, file management is significant because it reflects how information related to individuals, projects, and events potentially connected to the assassination was handled, tracked, and accessed by intelligence agencies. Proper or improper file management could influence the availability and interpretation of information relevant to understanding the circumstances surrounding the assassination. The HSCA's review of CIA files underscores the importance of file management in investigations related to the JFK assassination.",
+  "document_ids": [
+    "104-10177-10134",
+    "104-10188-10015",
+    "180-10141-10204",
+    "104-10051-10170",
+    "104-10163-10176"
+  ]
+}

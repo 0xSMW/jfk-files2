@@ -1,0 +1,34 @@
+{
+  "entity_name": "Angleton",
+  "entity_type": "person-mentioned",
+  "document_count": 13,
+  "summary": "James Jesus Angleton is mentioned in several documents related to CIA activities and the JFK assassination investigation. He appears in the context of CIA support to the Secret Service, investigations into leaks, the MHCHAOS program, corporate cover operations, and sensitive security operations. He is also referenced in relation to the Church Committee report, specifically regarding the interrogation of Tepedino about the AMLASH operation and Rolando Cubela's connections. Angleton's name also comes up in the context of FBI mail interception programs. The documents suggest Angleton was a significant figure within the CIA, involved in various sensitive and controversial operations during the period relevant to the JFK assassination and subsequent investigations.",
+  "key_connections": [
+    "Secret Service",
+    "MHCHAOS",
+    "Church Committee",
+    "Tepedino",
+    "AMLASH",
+    "Rolando Cubela",
+    "FBI",
+    "Warren Commission",
+    "JFK Assassination Records Review Board (ARRB)",
+    "HSCA"
+  ],
+  "significance": "Angleton's significance in the JFK context stems from his high-ranking position within the CIA and his involvement in counterintelligence and internal security matters. His potential knowledge of, or involvement in, events surrounding the assassination made him a subject of interest to various investigative bodies, including the Church Committee and the ARRB. The documents suggest that Angleton's activities and knowledge were scrutinized in relation to the JFK assassination investigation.",
+  "document_ids": [
+    "124-10185-10099",
+    "104-10333-10002",
+    "104-10326-10102",
+    "124-10274-10029_multirif_redacted",
+    "157-10008-10253",
+    "104-10306-10011",
+    "180-10144-10068",
+    "104-10336-10000",
+    "104-10172-10264",
+    "104-10331-10132",
+    "104-10333-10006",
+    "104-10301-10011",
+    "104-10326-10063"
+  ]
+}

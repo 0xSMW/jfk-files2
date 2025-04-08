@@ -1,0 +1,18 @@
+{
+  "entity_name": "Michael Ewing",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Michael Ewing was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA). He is mentioned in several payroll-related documents, including certification reports and payroll authorizations, spanning from May 1978 to February 1979. These documents detail his position, annual salary, and earnings during his employment with the HSCA. A final determination notification from 1995 also references a payroll authorization form for Michael Ewing, indicating that his payroll records were subject to review and redaction to protect his personal information.",
+  "key_connections": [
+    "Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Michael Ewing's significance lies in his employment with the HSCA, which investigated the assassination of JFK. While the documents do not specify his exact role within the committee, his presence on payroll records indicates he was a staff member involved in the committee's operations. The redaction of his Social Security number in later documents highlights the concern for protecting the privacy of individuals associated with the HSCA.",
+  "document_ids": [
+    "180-10125-10081",
+    "180-10125-10079",
+    "180-10068-10343",
+    "180-10125-10075",
+    "180-10125-10086",
+    "180-10125-10076"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "entity_name": "SAC, New York",
+  "entity_type": "sender",
+  "document_count": 4,
+  "summary": "The SAC (Special Agent in Charge) of the New York FBI office was a key sender of information related to various investigations during the early to mid-1960s. The documents indicate the SAC, New York's involvement in investigations ranging from individuals with connections to Cuba and communist activities, such as Richard Thomas Gibson and Frances Kelley, to monitoring Soviet and satellite nationals through confidential informants like Samuel Adason Jaffe. The office also handled matters related to individuals like Angela Prince Moutsos who defected to Cuba and shared information with the CIA. Furthermore, the SAC, New York was involved in investigations related to the OAS and individuals connected to them, such as Captain Souetre and the Alderson family, coordinating with international offices like the Paris Office. The documents highlight the office's role in intelligence gathering, coordination with other agencies like the CIA, and monitoring individuals of interest during the Cold War era.",
+  "key_connections": [
+    "Director of the FBI",
+    "Washington Field Office",
+    "Alderson family",
+    "Captain Souetre",
+    "JACQUES HERVE (Paris Office)",
+    "CIA",
+    "Angela Prince Moutsos",
+    "Pedros Moutsos",
+    "Samuel Adason Jaffe",
+    "Richard Thomas Gibson",
+    "Frances Kelley",
+    "Robert Williams"
+  ],
+  "significance": "In the context of the JFK assassination, the SAC, New York's significance lies in its role as a regional hub for intelligence gathering and investigation of individuals and groups potentially relevant to national security. While the provided documents do not directly mention the JFK assassination, they illustrate the office's involvement in monitoring individuals with connections to Cuba, communist activities, and other areas of interest during the period leading up to and following the assassination. The office's coordination with the CIA and other agencies suggests its participation in broader intelligence efforts that may have indirectly touched upon individuals or groups later linked to the assassination.",
+  "document_ids": [
+    "144-10001-10201",
+    "124-90140-10005",
+    "124-10274-10044",
+    "124-90146-10108"
+  ]
+}

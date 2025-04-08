@@ -1,0 +1,25 @@
+{
+  "entity_name": "REAM",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "REAM appears to be an internal CIA tag used for tracking information related to sympathizers or individuals of interest. The documents suggest REAM is associated with intelligence gathering and dissemination, particularly concerning Cuban officials, potential U.S. government ties, and individuals linked to the JFK assassination. The tag is used in cables and dispatches to direct the handling, tracing, and indexing of information. The documents span from 1977 to 1995, indicating a sustained interest in individuals or topics categorized under this tag. One document mentions a Cuban official claiming to have information related to the Kennedy assassination, and another discusses a conference on the JFK assassination attended by a purported CIA agent, further linking REAM to the JFK context.",
+  "key_connections": [
+    "Cuban officials",
+    "Evelio Duque Miyar",
+    "Oltmans",
+    "Fabian Escalante",
+    "John Newman",
+    "SWRACK",
+    "MHCOLOR",
+    "RYBAT"
+  ],
+  "significance": "REAM's significance in the JFK context lies in its association with individuals and information potentially related to the assassination. The tag appears in documents concerning Cuban officials and a conference on the JFK assassination, suggesting that the CIA was tracking individuals or information that might shed light on the events surrounding Kennedy's death. However, the exact nature and extent of REAM's involvement remain unclear based on the provided documents.",
+  "document_ids": [
+    "104-10220-10074",
+    "104-10169-10000",
+    "104-10014-10065",
+    "104-10418-10104",
+    "104-10326-10079",
+    "104-10418-10103"
+  ]
+}

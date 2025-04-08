@@ -1,0 +1,23 @@
+{
+  "entity_name": "Funeral Arrangements",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents relate to the funeral arrangements following the assassination of President John F. Kennedy. They primarily focus on the attendance of foreign dignitaries, including Prince KHAMPAN and SISOUK NA CHAMPASSAK from Laos, and Prime Minister KIM (YO'NG CHO'L) of South Korea. These documents detail travel plans, requests for meetings with US officials, and the overall coordination required to accommodate international representatives at the funeral. One document also logs events at the NSA SIGINT Command Center following the assassination, indicating the heightened state of alert and coordination among government agencies during this period.",
+  "key_connections": [
+    "John F. Kennedy",
+    "Prince KHAMPAN",
+    "SISOUK NA CHAMPASSAK",
+    "KIM (YO'NG CHO'L)",
+    "Laos",
+    "South Korea",
+    "NSA SIGINT Command Center",
+    "Secretary Rusk",
+    "President Johnson"
+  ],
+  "significance": "The funeral arrangements highlight the global impact and significance of President Kennedy's assassination. The presence of foreign dignitaries underscores the importance of the event on the international stage and the need for careful diplomatic coordination in the aftermath of the tragedy. The NSA SIGINT Command Center log indicates the security measures and intelligence gathering efforts in response to the assassination.",
+  "document_ids": [
+    "144-10001-10335",
+    "144-10001-10326",
+    "144-10001-10291"
+  ]
+}

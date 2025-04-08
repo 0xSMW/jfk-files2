@@ -1,0 +1,28 @@
+{
+  "entity_name": "McNamara",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "summary": "Robert McNamara is mentioned in the context of discussions and activities related to US foreign policy, particularly concerning Cuba and Vietnam during the Kennedy and Johnson administrations. His involvement appears in memoranda, meeting minutes, and summaries of documents retrieved from the LBJ Library. McNamara's role is evident in discussions about covert actions, potential assassination plots against Fidel Castro (Operation Mongoose), and broader foreign policy decisions. The documents suggest he was part of high-level deliberations within the Kennedy and Johnson administrations regarding containment of communism and protection of US interests during the Cold War. He is mentioned in connection to meetings and discussions regarding Cuba, Vietnam, Pakistan, and Soviet relations.",
+  "key_connections": [
+    "President Johnson",
+    "General Lansdale",
+    "McCone",
+    "Richard Goodwin",
+    "Fidel Castro",
+    "President's Foreign Intelligence Advisory Board (PFIAB)"
+  ],
+  "significance": "McNamara's significance in the JFK assassination context lies in his involvement in discussions and planning related to Operation Mongoose, which included potential assassination attempts against Fidel Castro. The documents suggest that these activities were being considered and discussed at high levels within the US government during the Kennedy administration. While the documents do not directly link McNamara to the JFK assassination, they highlight his role in covert operations and policy decisions that could have had broader implications for US-Cuban relations and the overall political climate.",
+  "document_ids": [
+    "157-10005-10236",
+    "135-10001-10246",
+    "104-10306-10018",
+    "104-10302-10000",
+    "157-10002-10001",
+    "157-10014-10117",
+    "104-10306-10011",
+    "157-10011-10009",
+    "104-10306-10016",
+    "157-10008-10150",
+    "206-10001-10000"
+  ]
+}

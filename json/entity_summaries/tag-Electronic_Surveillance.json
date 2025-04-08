@@ -1,0 +1,31 @@
+{
+  "entity_name": "Electronic Surveillance",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "The documents reveal that electronic surveillance was a significant concern and activity investigated by the Senate Select Committee (SSC) in the 1970s. The FBI and CIA were both involved in electronic surveillance activities, some of which were warrantless and potentially exceeded their mandates. The SSC investigated these activities, including those related to Martin Luther King Jr., the Southern Christian Leadership Conference (SCLC), and Stanley Levison, focusing on potential communist influence. The Wackenhut Corporation also had interactions with the CIA regarding electronic surveillance technology. The SSC was briefed on warrantless electronic surveillances and surreptitious entries, raising concerns about identifying foreign targets and CIA's domestic electronic surveillance operations. The documents also highlight the FBI's responses to SSC inquiries regarding electronic surveillance and the CIA's Office of Security's activities, including electronic surveillance and cooperation with local police.",
+  "key_connections": [
+    "Senate Select Committee (SSC)",
+    "FBI",
+    "CIA",
+    "Martin Luther King Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "Stanley Levison",
+    "Wackenhut Corporation",
+    "Howard J. Osborn"
+  ],
+  "significance": "While the documents do not directly link electronic surveillance to the JFK assassination, they reveal the extensive use of electronic surveillance by government agencies like the FBI and CIA during the relevant period. This context is important for understanding the broader intelligence landscape and the potential for surveillance activities related to individuals or groups connected to the assassination.",
+  "document_ids": [
+    "124-10273-10006",
+    "124-10273-10014_multirif",
+    "124-10271-10303",
+    "124-10273-10016_multirif",
+    "104-10291-10016",
+    "124-10271-10013",
+    "124-10274-10357_multirif",
+    "124-10274-10029",
+    "124-10185-10100",
+    "124-10273-10018_multirif",
+    "157-10011-10078",
+    "124-10186-10049_multirif"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "entity_name": "Assassinations",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The entity \"Assassinations\" appears in the context of inquiries and investigations into potential CIA involvement in assassinations. The documents reveal that the Senate Select Committee was interested in CIA activities related to assassinations, as indicated by the USIB Ad Hoc Coordinating Group's discussion of responses to Senate inquiries. The House Select Committee on Assassinations (HSCA) also sought CIA assistance in arranging interviews in Mexico with individuals who might have information relevant to assassinations. The term appears in the context of sensitive information requiring classification, suggesting the gravity and potential implications of the topic. Mentions of individuals like William Gaudet and Antonio Veciana, while not directly tied to assassinations in these summaries, indicate potential connections that were being investigated.",
+  "key_connections": [
+    "Senate Select Committee",
+    "House Select Committee on Assassinations (HSCA)",
+    "CIA",
+    "William Gaudet",
+    "Antonio Veciana",
+    "Phoenix Program",
+    "Cuban operations",
+    "Economic warfare"
+  ],
+  "significance": "In the JFK context, the entity \"Assassinations\" represents a key area of investigation into potential government or intelligence agency involvement in political assassinations, including the JFK assassination. The documents suggest that Congressional committees were actively exploring this possibility, and the CIA was involved in responding to these inquiries and facilitating interviews. The sensitivity surrounding this topic is evident in the need for classification and careful handling of information.",
+  "document_ids": [
+    "124-10271-10299",
+    "104-10181-10174",
+    "178-10002-10091",
+    "180-10141-10015"
+  ]
+}

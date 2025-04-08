@@ -1,0 +1,20 @@
+{
+  "entity_name": "Overseas Assignment",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents reference 'Overseas Assignment' in the context of personnel actions within an organization, likely a government agency. These assignments involve individuals being stationed in foreign locations for various purposes. The documents highlight the administrative processes associated with these assignments, including temporary suspensions of investigations due to an individual's overseas posting (Boris Dimitri Tarasoff), and requests for Permanent Change of Station (PCS) overseas evaluations for Operations Officers (Joseph S. Piccolo and Calvin W. Hicks). These assignments appear to be part of the normal operational procedures of the organization, involving personnel transfers to locations such as Managua, Nicaragua, and La Paz, Bolivia.",
+  "key_connections": [
+    "Boris Dimitri Tarasoff",
+    "Joseph S. Piccolo",
+    "Calvin W. Hicks",
+    "Managua, Nicaragua",
+    "La Paz, Bolivia",
+    "JMCOBRA"
+  ],
+  "significance": "In the context of JFK assassination related documents, 'Overseas Assignment' itself doesn't directly relate to the assassination. However, it provides context to the activities and movements of individuals who may have been involved in events related to the assassination. The documents suggest that personnel were being moved to different locations, which could be relevant if those individuals were later connected to the assassination or related investigations. The significance lies in the potential to trace the movements and activities of individuals of interest.",
+  "document_ids": [
+    "104-10130-10305",
+    "104-10129-10027",
+    "104-10250-10035"
+  ]
+}

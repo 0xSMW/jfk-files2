@@ -1,0 +1,42 @@
+{
+  "entity_name": "Contact Report",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "Contact Reports are a recurring document type detailing interactions between CIA personnel and various individuals, including foreign officials, assets, and potential sources of information. These reports cover a range of topics, from intelligence gathering and operational tasks to personal details and views on sensitive subjects like terrorism and conspiracy theories. Several contact reports relate to surveillance of Soviet officials in Mexico, discussions with assets about travel opportunities for intelligence gathering, and recontacts with individuals providing information on specific persons of interest. The reports often include operational guidance, communication methods, and security measures. A notable pattern is the inclusion of discussions or references to the JFK assassination in some reports, indicating the topic's relevance or interest to the individuals involved.",
+  "key_connections": [
+    "VASLOUCH/2",
+    "Valentine S. LOGUINOV",
+    "James Wilcott",
+    "Lee Harvey Oswald",
+    "KDDAGGER/2",
+    "KDDAGGER/11",
+    "Murtada Ali Muhammad Lashin",
+    "MXWINDFALL/1",
+    "Guillermo Ruiz",
+    "Orestes Perez",
+    "Alexander Samko (AMAUTO-1)",
+    "BRACERB/17",
+    "Oliverio A. TOMEU Vasallo",
+    "Carlos de VARONA",
+    "Ana Gloria de VARONA",
+    "Owiel GONZALEZ",
+    "Jose LLANGRA (Gobel)",
+    "LITAMIL-9",
+    "WIROGUE"
+  ],
+  "significance": "Contact Reports themselves are not directly significant to the JFK assassination, but the content within some of these reports reveals connections to individuals, locations (like Mexico City), and discussions related to the assassination. They highlight the CIA's interest in individuals who may have had information or opinions about the event, and the persistence of JFK assassination theories within the intelligence community and among its assets.",
+  "document_ids": [
+    "104-10173-10078",
+    "180-10145-10265",
+    "104-10174-10065",
+    "104-10326-10095",
+    "104-10326-10083",
+    "104-10326-10085",
+    "104-10181-10007",
+    "104-10326-10028",
+    "104-10237-10120",
+    "104-10072-10228",
+    "104-10182-10003",
+    "104-10160-10207"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "entity_name": "All Staff Employees",
+  "entity_type": "recipient",
+  "document_count": 13,
+  "summary": "The \"All Staff Employees\" entity refers to the personnel employed by the House Select Committee on Assassinations (HSCA). The documents primarily concern the payroll records of these employees and the Assassination Records Review Board's (ARRB) final determinations regarding the release of this information. A recurring theme across the documents is the postponement of the release of Social Security numbers from the payroll records to protect the personal privacy of the staff. The documents span from 1976-1978 (actual employment) to 1995 when the ARRB made its final determinations. Specific staff members mentioned include Antoinette M. Roberts, Donald A. Purdy, Jr., Sari Mordana, Ann Furnald Taylor, Elizabeth Ann Wolf, Denise L. McCray, Kevin Sean Doyle, and Jane E. Godfrey. The documents include payroll authorization forms, resumes, correspondence, and memos related to their employment.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board (ARRB)",
+    "Antoinette M. Roberts",
+    "Donald A. Purdy, Jr.",
+    "Sari Mordana",
+    "Ann Furnald Taylor",
+    "Elizabeth Ann Wolf",
+    "Denise L. McCray",
+    "Kevin Sean Doyle",
+    "Jane E. Godfrey"
+  ],
+  "significance": "The significance of the HSCA staff employees in the JFK assassination context lies in their involvement in the investigation conducted by the HSCA. Their payroll records, while seemingly mundane, are subject to review and potential release as part of the broader effort to provide transparency and access to assassination-related records. The ARRB's decisions regarding the release of personal information, such as Social Security numbers, highlight the balance between public interest and individual privacy concerns within the context of historical investigations.",
+  "document_ids": [
+    "180-10060-10499",
+    "180-10070-10146",
+    "180-10071-10001",
+    "180-10071-10000",
+    "180-10068-10312",
+    "180-10068-10345",
+    "180-10060-10486",
+    "180-10070-10163",
+    "180-10060-10465",
+    "180-10070-10174",
+    "180-10060-10480",
+    "180-10068-10337",
+    "180-10068-10357"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "entity_name": "File Management",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "File management, as a concept, appears in several CIA documents related to projects, individuals, and internal systems. It encompasses document transfer procedures between projects (FURIOSC and FULMINATOR-1), actions related to file maintenance in the context of projects like AQUATIC and KDAFGHAN, and the indexing and organization of information related to individuals like Daniel A. Parsons. The CIA's \"201 system\" is a key example of file management, outlining procedures for tracking individuals of interest, including opening, maintaining, and restricting access to files. File cover sheets also indicate material provided for review, such as for the House Select Committee on Assassinations (HSCA). Overall, file management reflects the CIA's internal processes for organizing, tracking, and controlling access to information related to its operations and individuals of interest.",
+  "key_connections": [
+    "Projects FURIOSC",
+    "Project FULMINATOR-1",
+    "Project AQUATIC",
+    "Project KDAFGHAN",
+    "Daniel A. Parsons",
+    "201 System",
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "In the context of the JFK assassination, file management is significant because it relates to how the CIA organized and controlled information about individuals and projects that may be relevant to the assassination. The \"201 system\", in particular, highlights the CIA's methods for tracking individuals of interest, and the file cover sheets suggest the agency's interaction with the HSCA during its investigation. Understanding the CIA's file management practices can provide insights into what information was collected, how it was organized, and who had access to it, potentially shedding light on the agency's knowledge and involvement in events surrounding the assassination.",
+  "document_ids": [
+    "104-10177-10134",
+    "104-10188-10015",
+    "180-10141-10204",
+    "104-10051-10170",
+    "104-10163-10176"
+  ]
+}

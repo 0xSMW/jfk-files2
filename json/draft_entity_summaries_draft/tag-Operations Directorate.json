@@ -1,0 +1,25 @@
+{
+  "entity_name": "Operations Directorate",
+  "entity_type": "tag",
+  "document_count": 10,
+  "summary": "The Operations Directorate was a key component of the CIA responsible for clandestine operations, including intelligence gathering and covert actions. The documents highlight the directorate's use of the '201 system' for identifying, tracking, and managing information on individuals of interest. This system involved creating and maintaining files (dossiers) on these individuals, assigning OI codes, and generating lists based on various categories. The Operations Directorate underwent reorganization in 1976, and its activities were subject to scrutiny by the House Select Committee on Assassinations (HSCA), particularly regarding the criteria for opening 201 files. The documents also reveal the directorate's interactions with other entities, such as the Information Services Staff (ISS) and the DDO (Deputy Director for Operations).",
+  "key_connections": [
+    "201 System",
+    "House Select Committee on Assassinations (HSCA)",
+    "Information Services Staff (ISS)",
+    "Deputy Director for Operations (DDO)"
+  ],
+  "significance": "The Operations Directorate's significance in the JFK assassination context stems from its role in intelligence gathering and covert operations. The 201 system, used to track individuals of interest, raises questions about who was being monitored and whether any of these individuals were connected to the assassination. The HSCA's investigation into the 201 file system criteria suggests a concern about potential misuse of intelligence resources or the existence of relevant information within the CIA's files. The documents do not directly link the Operations Directorate to the assassination, but they highlight the directorate's role in managing information and conducting operations that could potentially have relevance to the investigation.",
+  "document_ids": [
+    "104-10023-10087",
+    "104-10213-10352",
+    "104-10213-10202",
+    "104-10065-10152",
+    "104-10408-10316",
+    "104-10051-10170",
+    "104-10406-10139",
+    "104-10408-10078",
+    "104-10062-10256",
+    "104-10143-10088"
+  ]
+}

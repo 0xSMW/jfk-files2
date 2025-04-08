@@ -1,0 +1,21 @@
+{
+  "entity_name": "Wiretaps",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents reference wiretaps in several contexts. One document mentions CIA wiretapping activities in Mexico City during the JFK assassination timeframe, specifically a Washington Post article revealing these activities. Another document details Robert Maheu's testimony regarding his involvement in various CIA projects, including wiretapping Aristotle Onassis. A third document discusses CIA's Washington Field Office activities, including technical operations and surveillance operations. The final document discusses protecting sensitive sources and methods, which could potentially include information related to wiretaps. The documents suggest that wiretapping was a tool used by the CIA for various purposes, including intelligence gathering and potentially influencing foreign leaders.",
+  "key_connections": [
+    "CIA",
+    "Mexico City",
+    "Aristotle Onassis",
+    "Robert Maheu",
+    "Washington Field Office",
+    "KDSOMBRERO"
+  ],
+  "significance": "The significance of wiretaps in the JFK context lies in the potential for gathering intelligence related to the assassination and the possible involvement of the CIA in such activities. The reference to wiretapping in Mexico City during the JFK assassination timeframe raises questions about what information was collected and whether it had any bearing on the events surrounding the assassination. The use of wiretaps on individuals like Aristotle Onassis, while not directly related to the JFK assassination, illustrates the CIA's willingness to use this method for various purposes, which could extend to individuals or groups connected to the assassination.",
+  "document_ids": [
+    "157-10011-10066",
+    "104-10326-10068",
+    "157-10011-10048",
+    "124-10276-10400 (c06716411)"
+  ]
+}

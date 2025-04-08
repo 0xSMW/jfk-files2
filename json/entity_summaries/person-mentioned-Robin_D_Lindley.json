@@ -1,0 +1,20 @@
+{
+  "entity_name": "Robin D Lindley",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Robin D. Lindley was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA). The documents available are payroll and certification reports spanning from October 1977 to March 1979. These reports list Lindley's name, position, and salary during that period. The documents do not specify Lindley's exact role within the HSCA, but they indicate they were a staff member during the committee's active investigation into the JFK assassination.",
+  "key_connections": [
+    "Select Committee on Assassinations",
+    "U.S. House of Representatives"
+  ],
+  "significance": "Robin D. Lindley's significance lies in their employment with the HSCA, contributing to the investigation into the JFK assassination. While the specific nature of their work is not detailed in these documents, their presence on the payroll indicates involvement in the committee's operations.",
+  "document_ids": [
+    "180-10125-10081",
+    "180-10125-10096",
+    "180-10125-10079",
+    "180-10125-10075",
+    "180-10125-10086",
+    "180-10125-10076",
+    "180-10125-10094"
+  ]
+}

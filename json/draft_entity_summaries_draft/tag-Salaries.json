@@ -1,0 +1,32 @@
+{
+  "entity_name": "Salaries",
+  "entity_type": "tag",
+  "document_count": 18,
+  "summary": "The documents provided are primarily payroll and certification reports from the U.S. House of Representatives Select Committee on Assassinations (HSCA). These reports detail the salaries, positions, and employment periods of the committee's staff. The reports cover various periods, mainly from 1977 to 1979, and include information such as employee names, social security numbers, annual salaries, and pay period earnings. The documents serve as official records of the financial administration of the HSCA, providing a detailed account of how taxpayer money was allocated to the committee's personnel. A notable pattern is the consistent reporting of employee details, including their positions and compensation, across different months and years, indicating a structured and documented payroll process within the HSCA.",
+  "key_connections": [
+    "Select Committee on Assassinations",
+    "U.S. House of Representatives",
+    "Employees of the Select Committee on Assassinations"
+  ],
+  "significance": "In the context of the JFK assassination, the salaries of the HSCA staff are significant as they represent the financial resources allocated to the investigation. While the salary information itself doesn't directly uncover details of the assassination, it provides insight into the operational costs and staffing of the committee tasked with investigating the event. The reports offer a glimpse into the scale and scope of the HSCA's efforts to re-examine the circumstances surrounding President Kennedy's death.",
+  "document_ids": [
+    "180-10125-10080",
+    "180-10125-10079",
+    "180-10125-10075",
+    "180-10125-10091",
+    "180-10125-10087",
+    "180-10125-10100",
+    "180-10125-10086",
+    "180-10125-10090",
+    "180-10125-10103",
+    "180-10125-10085",
+    "180-10125-10093",
+    "180-10125-10089",
+    "180-10125-10088",
+    "180-10125-10092",
+    "180-10125-10084",
+    "180-10125-10076",
+    "180-10125-10083",
+    "180-10125-10077"
+  ]
+}

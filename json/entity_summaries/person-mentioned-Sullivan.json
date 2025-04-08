@@ -1,0 +1,39 @@
+{
+  "entity_name": "Sullivan",
+  "entity_type": "person-mentioned",
+  "document_count": 18,
+  "summary": "W.C. Sullivan is mentioned in several FBI documents primarily related to internal FBI operations, CIA liaison activities, and domestic intelligence matters. He appears to be a recipient of memos and reports, indicating a position of authority within the FBI. His involvement includes receiving information regarding 'Bureau Informant 100' (related to CIA's James Angleton and Israeli Intelligence), recommendations on handling CIA-sourced information, and updates on FBI-CIA relations. Sullivan also receives reports on various investigations, including those related to John Roselli, Gabriel Mannarino, and Santo Trafficante Jr., as well as intelligence on the Communist Party of Venezuela. He is also mentioned in the context of the FBI's response to the U.S. Senate Select Committee on Intelligence Activities (SSC) regarding materials related to Martin Luther King, Jr.",
+  "key_connections": [
+    "D.J. Brennan",
+    "James Angleton",
+    "John Roselli",
+    "Gabriel Mannarino",
+    "Santo Trafficante, Jr.",
+    "Sam J. Papich",
+    "J. Edgar Hoover",
+    "Martin Luther King, Jr.",
+    "CIA",
+    "FBI"
+  ],
+  "significance": "Based on the documents provided, Sullivan's significance in the JFK assassination context is indirect. He is not explicitly linked to the assassination itself, but rather to the broader intelligence and law enforcement landscape of the time. His role in managing FBI-CIA relations and overseeing domestic intelligence operations places him in a position to have been aware of relevant information, though the documents do not directly implicate him in any specific actions related to the assassination.",
+  "document_ids": [
+    "124-10223-10088",
+    "124-10326-10103",
+    "124-10326-10104",
+    "124-10203-10468",
+    "124-10223-10082",
+    "124-10223-10083",
+    "157-10011-10093",
+    "124-10204-10209",
+    "124-10203-10465",
+    "124-10264-10209_multirif",
+    "124-90137-10467",
+    "104-10310-10020",
+    "180-10143-10072",
+    "124-10203-10246",
+    "124-10325-10318",
+    "124-10281-10028",
+    "124-10203-10494",
+    "124-10274-10127"
+  ]
+}

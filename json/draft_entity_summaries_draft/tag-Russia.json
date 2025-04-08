@@ -1,0 +1,21 @@
+{
+  "entity_name": "Russia",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents indicate Russia's significance primarily lies in its potential possession of KGB files related to Lee Harvey Oswald, the alleged assassin of JFK. The Assassination Records Review Board (ARRB) and the Department of State sought assistance in approaching the FSB/SVR (Russian intelligence agencies) to access these files, suggesting a belief that they might contain relevant information about Oswald's activities and connections. Additionally, the documents mention individuals with travel opportunities to Russia for intelligence gathering purposes, and attendance at a nuclear physics conference and a JFK assassination conference in Russia, indicating Russia as a location of interest for intelligence operations and information gathering related to the JFK assassination. The timeline spans from 1965 to 1998, with a focus on accessing potential KGB files in the 1990s.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "FSB/SVR (Russian Intelligence Agencies)",
+    "KGB",
+    "Assassination Records Review Board (ARRB)",
+    "Department of State",
+    "MXWINDFALL/1"
+  ],
+  "significance": "Russia's significance in the JFK assassination context stems from the possibility that Russian intelligence agencies (KGB, FSB/SVR) possess files related to Lee Harvey Oswald. Access to these files is considered potentially valuable for understanding Oswald's activities, connections, and possible motivations.",
+  "document_ids": [
+    "104-10326-10082",
+    "124-10326-10103",
+    "104-10326-10010",
+    "104-10326-10085"
+  ]
+}

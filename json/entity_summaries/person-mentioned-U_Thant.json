@@ -1,0 +1,16 @@
+{
+  "entity_name": "U Thant",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, U Thant is mentioned in the context of reports from 1963 and 1964. However, the documents do not provide specific details about U Thant's direct involvement or role in the JFK assassination context. One document references President Johnson's speech before the United Nations General Assembly, which U Thant likely attended in his capacity as Secretary-General. Another document mentions a protest against U.S. policy, but U Thant's direct involvement is not specified. The documents do not establish a clear timeline of involvement or notable patterns related to U Thant.",
+  "key_connections": [
+    "President Lyndon B. Johnson",
+    "United Nations General Assembly"
+  ],
+  "significance": "The provided documents do not establish a direct significance of U Thant in the JFK assassination context. His mention appears incidental to reports on President Johnson's speech at the UN and a protest against U.S. policy.",
+  "document_ids": [
+    "144-10001-10077",
+    "144-10001-10060",
+    "144-10001-10120"
+  ]
+}

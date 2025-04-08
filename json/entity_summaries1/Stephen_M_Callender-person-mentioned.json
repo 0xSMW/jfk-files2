@@ -1,0 +1,20 @@
+{
+  "entity_name": "Stephen M. Callender",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Stephen M. Callender is mentioned in a series of documents related to the House Select Committee on Assassinations (HSCA) investigations into the assassinations of Martin Luther King Jr. and John F. Kennedy. The documents consist of communications between the FBI, its field offices, and the HSCA, indicating that Callender's name appeared in the context of file requests, informant information, and agent details sought by the HSCA. The documents do not explicitly detail Callender's role or involvement, but his name is likely associated with the FBI's response to the HSCA's inquiries during their investigation.",
+  "key_connections": [
+    "FBI",
+    "House Select Committee on Assassinations (HSCA)",
+    "Martin Luther King Jr.",
+    "John F. Kennedy"
+  ],
+  "significance": "Based on the provided documents, Stephen M. Callender's significance in the JFK context is indirect. He appears to be connected to the FBI's activities and responses to the HSCA's investigation into the assassinations. Without further information, it is difficult to determine his specific role or the nature of his involvement.",
+  "document_ids": [
+    "124-10180-10324_multirif",
+    "124-10180-10320_multirif",
+    "124-10180-10323_multirif",
+    "124-10180-10236_multirif",
+    "124-10180-10325_multirif"
+  ]
+}

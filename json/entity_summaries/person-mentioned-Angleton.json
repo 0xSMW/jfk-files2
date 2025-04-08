@@ -1,0 +1,38 @@
+{
+  "entity_name": "Angleton",
+  "entity_type": "person-mentioned",
+  "document_count": 14,
+  "summary": "James Jesus Angleton is a person mentioned in several documents related to CIA activities and investigations into the JFK assassination. The documents suggest Angleton's involvement in various sensitive operations, including mail interception programs, investigations into leaks of classified information, and counterintelligence efforts. He appears in the context of discussions regarding the release of documents related to the Warren Commission and the JFK Assassination Records Review Board (ARRB). Angleton's name is also associated with internal security within the CIA, including the Special Investigations Group (CI/SIG). The documents indicate that Angleton was a key figure in CIA operations during the period relevant to the JFK assassination and subsequent investigations.",
+  "key_connections": [
+    "McCone",
+    "Warren Commission",
+    "Secret Service",
+    "JFK Assassination Records Review Board (ARRB)",
+    "British Secret Intelligence Service (SIS)",
+    "Senate Select Committee",
+    "Church Committee",
+    "Rolando Cubela (AMLASH)",
+    "HSCA",
+    "Brezhnev",
+    "Michelle Combs",
+    "Barry Harrelson",
+    "CI/SIG (Special Investigations Group)"
+  ],
+  "significance": "Angleton's significance in the JFK context stems from his high-ranking position within the CIA and his involvement in counterintelligence and internal security. His role in managing sensitive information and investigations makes him a figure of interest in understanding the CIA's knowledge and handling of information related to the assassination. The documents suggest that Angleton was involved in decisions regarding the release of information to the Warren Commission and later to the ARRB, indicating his influence over the flow of information related to the JFK assassination.",
+  "document_ids": [
+    "135-10001-10246",
+    "124-10185-10099",
+    "104-10333-10002",
+    "104-10326-10102",
+    "124-10274-10029_multirif_redacted",
+    "157-10008-10253",
+    "104-10306-10011",
+    "180-10144-10068",
+    "104-10336-10000",
+    "104-10172-10264",
+    "104-10331-10132",
+    "104-10333-10006",
+    "104-10301-10011",
+    "104-10326-10063"
+  ]
+}

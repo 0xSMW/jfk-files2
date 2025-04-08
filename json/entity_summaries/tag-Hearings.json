@@ -1,0 +1,29 @@
+{
+  "entity_name": "Hearings",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The documents provided are transcripts of hearings held by the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (SSCIA), also known as the Church Committee. These hearings, primarily conducted in 1975 and 1976, investigated various aspects of CIA activities, including potential assassination attempts on foreign leaders like Patrice Lumumba and Fidel Castro, CIA operations against Cuba (Operation Mongoose and JMWAVE), and counterintelligence methodologies. Key figures like James Angleton, Bronson Tweedy, and Robert G. Halley testified, providing insights into the CIA's involvement in various events and its relationships with other organizations and individuals. The hearings aimed to shed light on the CIA's activities and potential abuses of power.",
+  "key_connections": [
+    "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (SSCIA)",
+    "CIA",
+    "James Angleton",
+    "Bronson Tweedy",
+    "Robert G. Halley",
+    "Patrice Lumumba",
+    "Fidel Castro",
+    "Operation Mongoose",
+    "JMWAVE",
+    "Cuba",
+    "Richard Goodwin"
+  ],
+  "significance": "While the hearings primarily focus on CIA activities and potential abuses of power, some documents mention events and individuals relevant to the JFK assassination context. Specifically, the hearings delve into CIA operations against Cuba, including potential assassination attempts on Fidel Castro, and the activities of the JMWAVE station in Miami, which was involved in anti-Castro efforts. The testimony of individuals like Robert G. Halley, former Chief of Station for JMWAVE, touches on the CIA's relationships with Cuban exile groups and activities around the time of the Kennedy assassination, suggesting a potential connection, though not directly implicating the CIA in the assassination itself. The hearings provide a broader context of CIA operations and relationships that could be relevant to understanding the events surrounding the JFK assassination.",
+  "document_ids": [
+    "157-10014-10089",
+    "157-10014-10046",
+    "157-10014-10006",
+    "157-10014-10047",
+    "157-10014-10067",
+    "157-10014-10005",
+    "157-10014-10081"
+  ]
+}

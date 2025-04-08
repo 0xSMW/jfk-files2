@@ -1,0 +1,17 @@
+{
+  "entity_name": "Conrad E Baetz",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Conrad E. Baetz was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA). His name appears on multiple payroll and certification reports spanning from October 1977 to November 1978. These documents list his position, annual salary, and gross pay for the specified accounting periods. The consistent appearance of his name across these reports indicates his continued employment with the HSCA during that timeframe.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Conrad E. Baetz's significance lies in his employment with the HSCA, indicating his involvement in the investigation of President Kennedy's assassination, although the specific nature and extent of his role are not detailed in these documents.",
+  "document_ids": [
+    "180-10125-10081",
+    "180-10125-10096",
+    "180-10125-10079",
+    "180-10125-10086",
+    "180-10125-10094"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "entity_name": "Crypts",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The term \"crypts\" in these documents refers to cryptographic systems or codes used by the CIA. The documents indicate a concern about the potential release of information related to these crypts, particularly in the context of documents related to Lee Harvey Oswald and CIA activities overseas. The CIA was concerned about protecting sensitive information and relationships, and ongoing projects. The documents suggest a desire to redact or delete crypts from released documents to protect intelligence operations and sources. The ARRB (Assassination Records Review Board) was involved in decisions regarding the release of CIA documents, including those containing crypts.",
+  "key_connections": [
+    "CIA",
+    "Lee Harvey Oswald",
+    "ARRB (Assassination Records Review Board)",
+    "Overseas Stations",
+    "Classified Documents"
+  ],
+  "significance": "In the JFK assassination context, the significance of \"crypts\" lies in the CIA's efforts to protect sensitive information related to its operations and sources. The redaction or deletion of crypts from released documents was a measure taken to prevent the compromise of intelligence activities, potentially related to the JFK assassination or other ongoing operations at the time.",
+  "document_ids": [
+    "104-10331-10166",
+    "104-10014-10051",
+    "104-10331-10318",
+    "104-10326-10055"
+  ]
+}

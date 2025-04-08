@@ -1,0 +1,20 @@
+{
+  "entity_name": "Howard Zinn",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Howard Zinn is mentioned in the provided documents, though his direct role or significance in the JFK assassination context is not explicitly detailed. He appears in documents related to Martin Luther King, Jr. and anti-Vietnam War activities. Specifically, he is mentioned in documents pertaining to a FOIA request regarding Martin Luther King, Jr., and in dispatches concerning BEHEIREN, a Japanese anti-Vietnam War committee involved in assisting U.S. Navy deserters. The documents suggest Zinn's involvement or association with individuals and groups involved in pacifist movements and anti-war activities during the Vietnam War era. However, the exact nature of his involvement and its relevance to the JFK assassination remains unclear based on these documents.",
+  "key_connections": [
+    "Martin Luther King, Jr.",
+    "BEHEIREN (Japanese anti-Vietnam War committee)",
+    "U.S. Navy deserters",
+    "Soviet officials (indirectly, through BEHEIREN's connections)",
+    "U.S. pacifist movements"
+  ],
+  "significance": "Based on the provided documents, Howard Zinn's significance in the JFK assassination context is not directly apparent. His connections to anti-war movements and figures like Martin Luther King, Jr. are documented, but his role, if any, in events related to the JFK assassination is not specified.",
+  "document_ids": [
+    "104-10433-10209",
+    "104-10433-10209",
+    "104-10073-10279",
+    "104-10064-10012"
+  ]
+}

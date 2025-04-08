@@ -1,0 +1,27 @@
+{
+  "entity_name": "Senate Select Committee on Intelligence Activities",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The Senate Select Committee on Intelligence Activities (SSC), also known as the Church Committee, was a U.S. Senate committee established in 1975 to investigate abuses by the Central Intelligence Agency (CIA), National Security Agency (NSA), Federal Bureau of Investigation (FBI), and the Internal Revenue Service (IRS). The documents provided indicate the FBI's interactions with the SSC, primarily concerning the review and sanitization of documents related to FBI operations, responses to committee requests for information, and security clearances for SSC staff. These interactions include providing materials related to Martin Luther King, Jr., and the Southern Christian Leadership Conference, addressing COINTELPRO concerns, and managing information requests concerning individuals on the NSA Watch List. The documents span from 1975 to 1976, reflecting the period when the SSC was actively investigating intelligence activities.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "NSA",
+    "Department of Justice",
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference",
+    "COINTELPRO",
+    "Cabinet Committee to Combat Terrorism"
+  ],
+  "significance": "In the context of the JFK assassination, the Senate Select Committee on Intelligence Activities is significant because it investigated potential abuses and overreach by intelligence agencies, including those that may have had a role in the events surrounding the assassination. While the provided documents do not directly address the JFK assassination, the committee's broader investigation into intelligence activities could have uncovered information relevant to understanding the context and potential involvement of these agencies.",
+  "document_ids": [
+    "124-10274-10014_multirif_redacted",
+    "124-10182-10231",
+    "124-10185-10099 (c06716626)",
+    "124-10271-10003_multirif",
+    "124-10264-10209_multirif",
+    "124-10271-10033_multirif_redacted",
+    "124-10271-10299_multirif",
+    "124-10271-10003"
+  ]
+}

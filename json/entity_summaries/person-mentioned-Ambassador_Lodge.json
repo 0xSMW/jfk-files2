@@ -1,0 +1,18 @@
+{
+  "entity_name": "Ambassador Lodge",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Ambassador Lodge is mentioned in the context of US foreign policy during the Kennedy and Johnson administrations, specifically regarding Vietnam. The documents suggest that Ambassador Lodge was involved in discussions and decisions related to the Diem regime in South Vietnam during a period of political instability. The telegrams indicate that General Nguyen Khanh's actions against the Diem regime may have been influenced by assurances of support from the United States. The documents also mention the persecution of Buddhists in Vietnam, which was a significant issue during this time. The documents do not provide specific details about Ambassador Lodge's direct involvement in the JFK assassination context.",
+  "key_connections": [
+    "President Johnson",
+    "General Nguyen Khanh",
+    "Diem regime",
+    "Buu Hoi"
+  ],
+  "significance": "The documents suggest that Ambassador Lodge was involved in US foreign policy decisions related to Vietnam during a period of political instability. However, the documents do not provide specific details about Ambassador Lodge's direct involvement in the JFK assassination context.",
+  "document_ids": [
+    "104-10306-10018",
+    "176-10036-10131",
+    "176-10036-10135"
+  ]
+}

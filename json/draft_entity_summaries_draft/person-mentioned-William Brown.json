@@ -1,0 +1,19 @@
+{
+  "entity_name": "William Brown",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "William Brown was an employee of the House Select Committee on Assassinations (HSCA) during its investigation into the JFK assassination. He appears in several payroll certifications and related documents from 1977 and 1978. These documents confirm his employment and detail his payroll information. The documents do not provide specific details about his role within the HSCA or his direct involvement in the JFK assassination investigation itself, but rather focus on administrative aspects of his employment.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "William Brown's significance lies in his employment with the HSCA, contributing to the administrative functions of the committee during its investigation into the JFK assassination. While the documents do not indicate a direct role in the investigative work, his presence in payroll records provides a small piece of the overall picture of the HSCA's operations.",
+  "document_ids": [
+    "180-10068-10318",
+    "180-10125-10096",
+    "180-10106-10008",
+    "180-10125-10086",
+    "180-10106-10011",
+    "180-10125-10172",
+    "180-10125-10094"
+  ]
+}

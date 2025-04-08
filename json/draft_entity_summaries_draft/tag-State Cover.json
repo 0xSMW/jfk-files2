@@ -1,0 +1,24 @@
+{
+  "entity_name": "State Cover",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "State Cover refers to the practice of CIA employees operating under the guise of being State Department employees. The JFK Assassination Records Review Board (ARRB) was investigating the CIA's use of State Cover, leading to concerns within the CIA about the potential damage to operations, relationships with liaison services, and the security of station officers if this practice was officially recognized. The CIA was particularly concerned about the release of information on CIA employees operating under State Cover. Assessments were requested from various stations (Moscow, Paris, Mexico City, and Buenos Aires) to evaluate the potential damage from releasing documents confirming this practice. The CIA sought to protect this method of cover.",
+  "key_connections": [
+    "CIA",
+    "JFK Assassination Records Review Board (ARRB)",
+    "State Department",
+    "Moscow Station",
+    "Paris Station",
+    "Mexico City Station",
+    "Buenos Aires Station"
+  ],
+  "significance": "The significance of State Cover in the JFK context lies in the ARRB's investigation into the CIA's activities and the potential exposure of covert operations. The CIA's concern over the release of information related to State Cover suggests its importance in maintaining secrecy and protecting personnel involved in sensitive operations. The ARRB's inquiry into this practice highlights the broader effort to uncover the full extent of the CIA's involvement and activities related to the JFK assassination.",
+  "document_ids": [
+    "104-10326-10017",
+    "104-10331-10202",
+    "104-10331-10209",
+    "104-10331-10134",
+    "104-10331-10226",
+    "104-10326-10018"
+  ]
+}

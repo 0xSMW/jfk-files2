@@ -1,0 +1,22 @@
+{
+  "entity_name": "QJWIN",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "QJWIN is a person mentioned in several CIA documents related to operations such as ZRRIFLE and WIROGUE. The documents indicate that QJWIN was transferred to Baden-Baden and was involved in spotting potential candidates, particularly in Italy. There are discussions about the method of contact with QJWIN and the system for drawing funds. A review of the ZRRIFLE file (Job #69-S-551) includes personality sketches and administrative financial aspects related to QJWIN. The documents span from 1960 to 1976, suggesting a period of involvement with CIA activities. The documents suggest QJWIN was an asset or agent involved in spotting and potentially recruiting individuals for CIA operations.",
+  "key_connections": [
+    "Hank Manfredi",
+    "Harold Meltzer",
+    "Hanna Yazbeck",
+    "WIROGUE/1",
+    "Fidel Castro",
+    "Patrice Lumumba"
+  ],
+  "significance": "While the documents do not explicitly link QJWIN to the JFK assassination, the individual's involvement in CIA operations, particularly those related to spotting and recruiting potential assets, could be of interest in understanding the broader context of CIA activities during that era. The references to assassination plots against Fidel Castro and Patrice Lumumba in the same set of documents adds a layer of complexity, though a direct connection to the JFK assassination is not established.",
+  "document_ids": [
+    "104-10185-10030",
+    "157-10011-10006",
+    "104-10182-10069",
+    "104-10308-10287",
+    "104-10185-10009"
+  ]
+}

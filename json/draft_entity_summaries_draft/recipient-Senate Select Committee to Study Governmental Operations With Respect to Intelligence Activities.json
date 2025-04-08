@@ -1,0 +1,24 @@
+{
+  "entity_name": "Senate Select Committee to Study Governmental Operations With Respect to Intelligence Activities",
+  "entity_type": "recipient",
+  "document_count": 4,
+  "summary": "The Senate Select Committee to Study Governmental Operations With Respect to Intelligence Activities, often referred to as the Church Committee, was a U.S. Senate committee established in 1975 to investigate intelligence gathering activities by the CIA, FBI, and other government agencies. The documents indicate the committee held hearings on various topics, including the CIA's covert use of media and academics, Cuban operations and relationships with exile groups around the time of the Kennedy assassination, CIA activities in the Congo and potential assassination of Patrice Lumumba, and inquiries into potential CIA involvement in assassinations. The committee's work aimed to provide oversight and accountability for intelligence agencies and their operations.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Robert G. Halley",
+    "JMWAVE",
+    "Cuban exile groups",
+    "Bronson Tweedy",
+    "Patrice Lumumba",
+    "E. Howard Hunt",
+    "Colonel Boris Pash"
+  ],
+  "significance": "The committee investigated potential CIA involvement in assassinations, including inquiries related to the Kennedy assassination, through hearings and testimonies from individuals involved in relevant operations and activities. The hearings with Robert G. Halley, former Chief of Station for CIA's JMWAVE in Miami, are particularly relevant due to their focus on Cuban operations and relationships with exile groups around the time of the Kennedy assassination.",
+  "document_ids": [
+    "157-10014-10125",
+    "157-10014-10047",
+    "157-10014-10067",
+    "157-10005-10228"
+  ]
+}

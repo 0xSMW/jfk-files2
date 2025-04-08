@@ -1,0 +1,39 @@
+{
+  "entity_name": "Military Personnel",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The documents reference various military personnel, primarily within the US Army, and their involvement in counter-intelligence investigations and security matters. These individuals range from enlisted personnel like Specialists and Sergeants to officers, and their roles vary from being subjects of investigation to providing information as witnesses. The investigations often concern potential counter-intelligence interests, sensitive desertions, and security clearance matters. The timeline spans from the late 1960s to the early 1980s. A notable pattern is the focus on background checks and interviews related to potential security risks or counter-intelligence concerns within the military.",
+  "key_connections": [
+    "Peter K. Simons",
+    "Joseph Timothy White",
+    "Lewis Wesley Leber",
+    "William C. Stanley",
+    "Stephen R. Wilson",
+    "Joachim F. Beer",
+    "Henry S. Beer",
+    "Peter D. Herpst",
+    "Cristobal Pimentel-Davilla",
+    "John C. Stelpflug",
+    "John P. Lukasik",
+    "Roman Davor Srecko Arnold",
+    "US Army",
+    "US Army National Guard",
+    "Security Sergeants",
+    "Special Security Officer",
+    "Counter-intelligence",
+    "Fort Hood",
+    "Langley AFB",
+    "ROTC"
+  ],
+  "significance": "While the documents do not directly link military personnel to the JFK assassination, they highlight the security and counter-intelligence activities of the military during the period surrounding the assassination. One document mentions an interview regarding Captain William C. Stanley and any potential knowledge related to the JFK assassination, Russia, Cuba, or Mexico, suggesting an indirect connection through broader security investigations.",
+  "document_ids": [
+    "194-10012-10409",
+    "194-10013-10155",
+    "180-10120-10150",
+    "194-10006-10316",
+    "194-10007-10262",
+    "194-10006-10315",
+    "194-10006-10312",
+    "194-10012-10471"
+  ]
+}

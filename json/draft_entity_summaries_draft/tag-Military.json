@@ -1,0 +1,21 @@
+{
+  "entity_name": "Military",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents reference the military in several contexts. One document mentions Edward Kaczmarczyk's active duty in the U.S. Army. Another identifies Cuban officials and their positions within the Cuban military. The third document, a CIA daily summary, reports on military developments in Cuba, including Fidel Castro's speech and the internal situation. These references highlight the military's role in national security, intelligence gathering, and international relations during the Cold War era, particularly concerning Cuba. The documents do not directly link the military to the JFK assassination, but they provide context about the political and military climate of the time.",
+  "key_connections": [
+    "Edward Kaczmarczyk",
+    "Cuban Officials",
+    "Fidel Castro",
+    "CIA",
+    "Cuba",
+    "USSR",
+    "Poland"
+  ],
+  "significance": "While the documents do not directly connect the military to the JFK assassination, they illustrate the military's involvement in intelligence gathering and national security during a period of heightened Cold War tensions, particularly concerning Cuba. The military's role in these areas provides a backdrop for understanding the political and international context surrounding the assassination.",
+  "document_ids": [
+    "194-10003-10336",
+    "104-10308-10269",
+    "104-10302-10019"
+  ]
+}

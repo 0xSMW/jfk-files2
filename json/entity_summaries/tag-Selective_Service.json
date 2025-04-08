@@ -1,0 +1,20 @@
+{
+  "entity_name": "Selective Service",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The Selective Service, as indicated in the provided documents, is referenced in the context of background checks conducted on individuals registered with the service. These checks were part of investigations, likely related to security or suitability assessments. The documents detail agent reports from 1966 focusing on Selective Service registrants Robert Scheer and David Reed Fromer. These reports involve local agency checks and examinations of FBI files to gather information about these individuals. The reports indicate that the FBI had prior interest in Fromer, with reports dating back to 1960, and that information was shared with the Department of the Army. The documents suggest a process of vetting individuals registered with the Selective Service through law enforcement and intelligence channels.",
+  "key_connections": [
+    "Robert Scheer",
+    "David Reed Fromer",
+    "FBI",
+    "Department of the Army",
+    "Marin County agencies",
+    "Mill Valley agencies"
+  ],
+  "significance": "In the context of these documents, the Selective Service serves as a point of reference for identifying individuals subject to background checks and investigations. The significance lies in the process of vetting individuals registered with the Selective Service, potentially for security or suitability purposes. However, the documents do not explicitly link the Selective Service to the JFK assassination. The connection is more broadly related to investigative processes involving individuals and their backgrounds.",
+  "document_ids": [
+    "194-10006-10183",
+    "194-10002-10094",
+    "194-10004-10153"
+  ]
+}

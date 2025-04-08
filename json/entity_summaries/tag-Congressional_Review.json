@@ -1,0 +1,22 @@
+{
+  "entity_name": "Congressional Review",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Congressional Review, in the context of these documents, refers to the scrutiny and inquiries conducted by various congressional committees into intelligence activities, particularly in the mid-1970s. This review process involved managing information disclosure, coordinating responses among agencies like the FBI, CIA, and NSA, and establishing task forces to handle the workload. Key areas of interest for these committees included assassinations, the Phoenix program, covert actions, and the Warren Commission. The documents highlight the efforts of intelligence agencies to coordinate their responses to congressional inquiries, manage sensitive information, and address specific concerns raised by the committees.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "NSA",
+    "Senate Select Committee",
+    "USIB Ad Hoc Coordinating Group",
+    "Warren Commission",
+    "Phoenix program",
+    "Covert Action"
+  ],
+  "significance": "In the JFK assassination context, Congressional Review is significant because it reflects the efforts of congressional committees to investigate the intelligence community's activities and potential involvement in events surrounding the assassination. The documents reveal that the Senate Select Committee specifically inquired about the NSA's involvement with the Warren Commission, including a review of exhibits for secret writing and information about Cuban military alerts after the assassination. This highlights the congressional interest in understanding the intelligence community's role and actions related to the JFK assassination and its aftermath.",
+  "document_ids": [
+    "124-10271-10000",
+    "124-10271-10299",
+    "144-10001-10212"
+  ]
+}

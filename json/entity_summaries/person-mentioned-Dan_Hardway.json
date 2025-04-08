@@ -1,0 +1,23 @@
+{
+  "entity_name": "Dan Hardway",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Based on the provided documents, Dan Hardway was a staff member of the House Select Committee on Assassinations (HSCA). The documents indicate his involvement in the investigation of CIA activities related to Lee Harvey Oswald and Cuban operations in Mexico City in 1963. One document mentions background checks conducted on HSCA staff, including Hardway. His role appears to be related to the investigation and analysis of information pertaining to the JFK assassination.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Robert T. Shaw",
+    "Anne Goodpasture",
+    "Win Scott",
+    "Arnold Arehart",
+    "E. Howard Hunt, Jr."
+  ],
+  "significance": "Dan Hardway's significance lies in his role as a staff member of the HSCA, actively involved in investigating potential connections between the CIA, Lee Harvey Oswald, and the JFK assassination. His work contributed to the committee's understanding of events and operations in Mexico City during the period leading up to the assassination.",
+  "document_ids": [
+    "104-10182-10057",
+    "180-10110-10121",
+    "104-10194-10023",
+    "104-10188-10002",
+    "180-10131-10329",
+    "180-10125-10172"
+  ]
+}

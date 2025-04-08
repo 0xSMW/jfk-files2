@@ -1,0 +1,29 @@
+{
+  "entity_name": "Background Investigation",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The documents reference 'Background Investigation' primarily in the context of personnel security actions and clearance processes within the US Army and other government agencies. These investigations were conducted to assess individuals' suitability for sensitive positions or access to classified information. The investigations involve checks with various agencies, including National Agency Checks (NAC), to verify personal history, employment, residences, and potential foreign connections. The purpose is to determine if an individual's retention or access is consistent with national security interests. The timeline spans from 1951 to 1995, indicating ongoing security protocols. A notable pattern is the focus on individuals with potential security concerns, such as alleged communist affiliations or connections to foreign entities.",
+  "key_connections": [
+    "Peter K. Simons",
+    "Thomas E. Davis",
+    "Manuel Marti",
+    "Thomas Jeremy Gunn",
+    "Robert Scheer",
+    "David Reed Fromer",
+    "US Army",
+    "Atomic Energy Commission",
+    "FBI",
+    "CIA"
+  ],
+  "significance": "In the context of the JFK assassination documents, 'Background Investigation' is a tag that highlights the security and vetting processes applied to individuals, some of whom may have had connections, direct or indirect, to events or information relevant to the assassination. The investigations themselves don't directly relate to the assassination, but they provide insight into the security climate and the types of individuals being scrutinized by government agencies during that period.",
+  "document_ids": [
+    "194-10012-10409",
+    "104-10166-10158",
+    "194-10004-10356",
+    "194-10004-10360",
+    "104-10326-10084",
+    "194-10006-10180",
+    "194-10004-10145",
+    "194-10005-10042"
+  ]
+}

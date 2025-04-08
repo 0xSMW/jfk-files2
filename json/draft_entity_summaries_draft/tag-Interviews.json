@@ -1,0 +1,26 @@
+{
+  "entity_name": "Interviews",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The documents reference interviews in various contexts related to the JFK assassination. These interviews involve CIA personnel, individuals connected to Lee Harvey Oswald, and other persons of interest. They were conducted by the House Select Committee on Assassinations (HSCA), as well as internal CIA investigations like the Noserko II report. The interviews cover a range of topics, including CIA cover procedures, personnel information, security measures, and potential connections to the assassination. The timeline spans from the early 1960s through the late 1970s, with some documents referencing materials from the 1990s. A notable pattern is the HSCA's extensive efforts to gather information through interviews, particularly concerning CIA activities and personnel.",
+  "key_connections": [
+    "CIA",
+    "House Select Committee on Assassinations (HSCA)",
+    "Lee Harvey Oswald",
+    "Dennis A. Flynn",
+    "June Cobb Sharp",
+    "Henry P. Lopez",
+    "Rockefeller Commission",
+    "Scott Breckinridge"
+  ],
+  "significance": "Interviews are significant as a primary method of gathering information and testimony related to the JFK assassination. They provide insights into the knowledge, activities, and potential involvement of various individuals and organizations, particularly the CIA. The interviews conducted by the HSCA are crucial for understanding the scope and depth of the investigation into the assassination.",
+  "document_ids": [
+    "104-10061-10207",
+    "104-10062-10005",
+    "180-10143-10062",
+    "180-10140-10152",
+    "180-10096-10401",
+    "180-10141-10015",
+    "157-10008-10234"
+  ]
+}

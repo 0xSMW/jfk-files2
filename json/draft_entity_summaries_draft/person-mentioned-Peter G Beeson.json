@@ -1,0 +1,17 @@
+{
+  "entity_name": "Peter G Beeson",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Peter G. Beeson was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA). He is mentioned in several payroll and certification reports spanning from October 1977 to November 1978. These documents list his name, position, and salary during that period. The consistent appearance of his name across multiple payroll certifications indicates his continuous employment with the HSCA during the specified timeframe.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Peter G. Beeson's significance lies in his employment with the HSCA, which was tasked with investigating the assassination of JFK. While the documents do not specify his exact role within the committee, his presence on payroll and certification reports suggests he was a staff member involved in the committee's operations.",
+  "document_ids": [
+    "180-10125-10081",
+    "180-10125-10096",
+    "180-10125-10079",
+    "180-10125-10086",
+    "180-10125-10094"
+  ]
+}

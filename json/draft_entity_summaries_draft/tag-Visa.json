@@ -1,0 +1,35 @@
+{
+  "entity_name": "Visa",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The documents highlight the use of visas, both legitimate and falsified, in various intelligence operations and in the context of Lee Harvey Oswald's activities. Visas are mentioned in relation to individuals seeking entry into different countries, including the US, Mexico, and Argentina, often involving Soviet or Cuban connections. The documents reveal efforts to obtain visas through official channels, as well as through clandestine means, such as using high-level contacts or creating forged documents. The documents also show the CIA's interest in individuals' visa applications and movements, particularly those with suspected ties to communist organizations or intelligence agencies. The documents also mention Oswald's attempts to obtain visas to travel to Cuba and the Soviet Union.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Max Lesnick",
+    "Ivan Gavrilevich Alferov",
+    "Ernesto Mitrani Levy",
+    "ANOTIN-117",
+    "Miguel Angel DIAZ Isalgué",
+    "AMBANG-1",
+    "Valeriy Vladimirovich Kostikov",
+    "Soviet Embassy",
+    "Cuban Embassy",
+    "CIA",
+    "FBI",
+    "Mexico",
+    "Argentina",
+    "Cuba",
+    "Soviet Union"
+  ],
+  "significance": "In the JFK assassination context, visas are significant because they relate to Lee Harvey Oswald's attempts to travel to the Soviet Union and Cuba, raising questions about his motives and potential connections to foreign powers. The documents also suggest that intelligence agencies were monitoring individuals' visa applications and movements, potentially including Oswald's, and were involved in creating false documentation for covert operations. The mention of Kostikov's contact with Oswald regarding a visa request is particularly relevant.",
+  "document_ids": [
+    "104-10173-10170",
+    "104-10162-10014",
+    "180-10110-10100",
+    "124-10239-10171",
+    "104-10113-10254",
+    "104-10113-10258",
+    "104-10179-10143",
+    "104-10012-10022"
+  ]
+}

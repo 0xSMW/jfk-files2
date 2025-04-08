@@ -1,0 +1,21 @@
+{
+  "entity_name": "Sources",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents highlight concerns regarding the potential exposure of intelligence sources and methods. One document expresses worry about an upcoming NBC program that might reveal sensitive information, potentially damaging U.S. security interests and agency relationships. Another document critiques a manuscript by David Phillips for disclosing sources, methods, cover arrangements, and liaison relationships, deeming it undesirable from an operational and security standpoint. A third document details internal codes and information related to the Directorio Revolucionario Estudiantil (DRE) and Cuban refugees, including their activities, contacts, and escape from Cuba, which could also be considered sources of information. The common thread across these documents is the protection of intelligence sources and methods, emphasizing the importance of maintaining confidentiality for operational effectiveness and security.",
+  "key_connections": [
+    "NBC",
+    "David Phillips",
+    "Directorio Revolucionario Estudiantil (DRE)",
+    "Cuban refugees",
+    "PBPRIME",
+    "Mexico City Station",
+    "Clifton R. Strathern"
+  ],
+  "significance": "In the context of the JFK assassination, the protection of sources is crucial because revealing them could compromise ongoing investigations, damage relationships with foreign intelligence agencies, and potentially endanger individuals providing information. The documents suggest a constant concern within the intelligence community about maintaining secrecy and preventing the exposure of sensitive information related to sources and methods, which could have implications for understanding the events surrounding the assassination and related investigations.",
+  "document_ids": [
+    "104-10067-10291",
+    "104-10105-10119",
+    "104-10171-10020"
+  ]
+}

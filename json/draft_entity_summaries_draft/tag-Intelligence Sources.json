@@ -1,0 +1,24 @@
+{
+  "entity_name": "Intelligence Sources",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents highlight the importance of protecting intelligence sources, particularly human sources, and classified information within the intelligence community. This protection is crucial when dealing with sensitive information related to foreign intelligence, security services, and congressional oversight. The documents also reveal the use of code names for individuals, indicating a need for secrecy and operational security. The timeline spans from 1963 to 1996, reflecting ongoing concerns about source protection and information management. A notable pattern is the emphasis on safeguarding the identities of individuals providing intelligence, whether through code names or by redacting their true names in released documents.",
+  "key_connections": [
+    "CIA",
+    "Assassination Records Review Board (ARRB)",
+    "House Appropriations Committee",
+    "Foreign Intelligence and Security Services",
+    "JMWAVE (Miami)",
+    "ICEN A",
+    "IDER B",
+    "LDEN C",
+    "LUEN D",
+    "IDEN E"
+  ],
+  "significance": "In the JFK assassination context, protecting intelligence sources is vital to maintaining the integrity of investigations and preventing harm to individuals who provided information. The use of code names and the concern over releasing true names suggest the sensitivity of the information and the potential risks to those involved. The documents underscore the need to balance transparency with the protection of intelligence assets and methods.",
+  "document_ids": [
+    "104-10330-10070",
+    "104-10400-10316",
+    "104-10075-10042"
+  ]
+}

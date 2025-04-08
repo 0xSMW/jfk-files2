@@ -1,0 +1,25 @@
+{
+  "entity_name": "Stanley David Levison",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "summary": "Stanley David Levison is mentioned in the context of FBI investigations into Martin Luther King Jr.'s alleged Communist ties. The documents reflect the FBI's response to requests from the U.S. Senate Select Committee on Intelligence Activities (SSC) for materials related to Martin Luther King, Jr., and the Southern Christian Leadership Conference (SCLC). The FBI provided information to the SSC, including details about King's connections with Levison, while emphasizing the sensitivity of the sources. The documents span from 1962 to 1976, indicating a prolonged interest in Levison's relationship with King.",
+  "key_connections": [
+    "Martin Luther King Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "U.S. Senate Select Committee on Intelligence Activities (SSC)",
+    "FBI"
+  ],
+  "significance": "The significance of Stanley David Levison in these documents lies in his alleged connection to Martin Luther King Jr. and potential Communist ties, which were a subject of investigation by the FBI and scrutiny by the Senate Select Committee on Intelligence Activities. The documents suggest that the FBI was interested in Levison's relationship with King and its potential implications.",
+  "document_ids": [
+    "124-10264-10206_multirif",
+    "124-10273-10006",
+    "124-10271-10003_multirif",
+    "124-10274-10070",
+    "124-10264-10209_multirif",
+    "124-10238-10333_multirif",
+    "124-10271-10011_multirif",
+    "124-10271-10299_multirif",
+    "124-10271-10003",
+    "124-10264-10210_multirif"
+  ]
+}

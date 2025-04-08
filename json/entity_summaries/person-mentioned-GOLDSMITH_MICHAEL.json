@@ -1,0 +1,15 @@
+{
+  "entity_name": "GOLDSMITH, MICHAEL",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Michael Goldsmith was an employee of the Select Committee on Assassinations (SCA). He appears in payroll and certification reports from April 1978 to December 1978. These documents list his name, salary, and pay during that period, indicating his involvement in the committee's operations during that time frame. The documents do not specify his exact role within the committee.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Michael Goldsmith's significance lies in his employment with the Select Committee on Assassinations, indicating he was involved in the investigation into the JFK assassination, though his specific role is not detailed in these documents.",
+  "document_ids": [
+    "180-10125-10078",
+    "180-10125-10087",
+    "180-10125-10083"
+  ]
+}

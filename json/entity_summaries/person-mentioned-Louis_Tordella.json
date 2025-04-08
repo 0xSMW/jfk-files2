@@ -1,0 +1,19 @@
+{
+  "entity_name": "Louis Tordella",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Louis Tordella is mentioned in several documents related to the Senate Select Committee's queries to the NSA concerning the Warren Commission. While the documents do not explicitly detail Tordella's role, the context suggests he was likely involved in the NSA's activities related to the Warren Commission's investigation of the JFK assassination. The documents describe the NSA's limited involvement, including reviewing exhibits for secret writing, providing information on Cuban military alerts after the assassination, and analyzing documents. The documents indicate that the NSA responded to queries from the Senate Select Committee regarding their involvement with the Warren Commission.",
+  "key_connections": [
+    "Senate Select Committee",
+    "Warren Commission",
+    "NSA",
+    "Cuban military"
+  ],
+  "significance": "The significance of Louis Tordella lies in his potential involvement with the NSA's activities related to the Warren Commission's investigation of the JFK assassination. The documents suggest that he may have been involved in the NSA's analysis of documents and provision of information to the Warren Commission.",
+  "document_ids": [
+    "144-10001-10288",
+    "144-10001-10127",
+    "144-10001-10212",
+    "144-10001-10195"
+  ]
+}

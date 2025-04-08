@@ -1,0 +1,29 @@
+{
+  "entity_name": "DIA",
+  "entity_type": "tag",
+  "document_count": 10,
+  "summary": "The Defense Intelligence Agency (DIA) is mentioned in the context of anti-Castro activities, intelligence gathering, and responses to significant events like the JFK assassination. The documents indicate that the DIA was involved in gathering intelligence related to Cuba, including Soviet missile buildup and covert operations. The DIA also played a role in coordinating with other agencies, such as the CIA and FBI, regarding Cuban exile activities and potential threats. Following the JFK assassination, the NSA SIGINT Command Center coordinated with the DIA, indicating the DIA's involvement in national security responses. One document specifically directs the FBI to contact the CIA and DIA for more details regarding an attack on a Cuban Embassy attache's house in Lima, Peru, suggesting a collaborative intelligence network.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "NSA",
+    "Cuban exiles",
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Edward Lansdale",
+    "Richard Case Nagell",
+    "John F. Kennedy"
+  ],
+  "significance": "The DIA's significance in the JFK context lies in its role in intelligence gathering related to Cuba and its involvement in coordinating with other agencies following the assassination. The documents suggest the DIA was part of a broader intelligence network monitoring Cuban activities and responding to national security events. The extent of their direct involvement in events leading up to the assassination is not explicitly detailed, but their post-assassination activities and intelligence gathering efforts are evident.",
+  "document_ids": [
+    "176-10030-10085",
+    "124-90158-10069",
+    "206-10001-10008",
+    "206-10001-10005",
+    "206-10001-10010",
+    "124-10184-10237",
+    "144-10001-10291",
+    "124-10280-10057",
+    "104-10220-10020",
+    "144-10001-10290"
+  ]
+}

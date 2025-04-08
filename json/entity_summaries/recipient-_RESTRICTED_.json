@@ -1,0 +1,22 @@
+{
+  "entity_name": "[ RESTRICTED ]",
+  "entity_type": "recipient",
+  "document_count": 6,
+  "summary": "Based on the provided documents, information about [ RESTRICTED ] is limited. The documents primarily consist of agent reports and requests for information. One document (194-10004-10394) mentions that [ RESTRICTED ] was being considered for a position of trust with the U.S. government, leading to an interview with Richard H. Franken who provided a character reference and background information. Another document (194-10004-10401) focuses on information obtained from the FBI concerning Manuel Marti's father, Adrian Sotomayor, suggesting a possible connection or investigation into Marti's background. Other documents mention Robert Scheer and David Reed Fromer, but their direct connection to [ RESTRICTED ] is not explicitly stated in the summaries provided. The documents indicate background checks and investigations were conducted, but the specific role or significance of [ RESTRICTED ] remains unclear based solely on these summaries.",
+  "key_connections": [
+    "Manuel Marti",
+    "Richard H. Franken",
+    "Adrian Sotomayor",
+    "Robert Scheer",
+    "David Reed Fromer"
+  ],
+  "significance": "The significance of [ RESTRICTED ] in the JFK context is not explicitly revealed in the provided document summaries. The documents suggest background checks and consideration for a position of trust, but without further context, the relevance to the JFK assassination remains unclear.",
+  "document_ids": [
+    "194-10004-10402",
+    "194-10004-10394",
+    "194-10002-10203_redacted",
+    "194-10002-10094",
+    "194-10004-10401",
+    "194-10006-10186"
+  ]
+}

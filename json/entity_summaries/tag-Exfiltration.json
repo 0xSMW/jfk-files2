@@ -1,0 +1,26 @@
+{
+  "entity_name": "Exfiltration",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The documents highlight 'Exfiltration' primarily in the context of clandestine operations related to Cuban assets and agents during the early to mid-1960s. These operations involved the extraction of agents and their families from Cuba, often under challenging circumstances. Several documents detail specific exfiltration attempts, such as the exfiltration of AMFAUMA-25 and the unsuccessful attempt by M/V ADA to rescue AMLEO-3's family. The documents reveal the complexities and risks associated with these operations, including potential threats to assets and inconsistencies in accounts. The timeline spans from 1963 to 1967, with a concentration of activity in 1963 and 1964. A recurring pattern involves the use of code names (e.g., AMFAUMA-25, AMLEO-3) and the involvement of various CIA stations and personnel in planning and executing these exfiltration missions.",
+  "key_connections": [
+    "AMFAUMA-25",
+    "AMLEO-3",
+    "M/V ADA",
+    "Project AMTRUNK",
+    "Cuba",
+    "JMWAVE",
+    "ANTEUHK VII"
+  ],
+  "significance": "In the context of the JFK assassination, 'Exfiltration' is relevant as it underscores the CIA's covert activities and operations in Cuba during the period leading up to and following the assassination. While the documents do not directly link exfiltration operations to the assassination itself, they provide insight into the operational environment and the types of activities the CIA was engaged in, which are often scrutinized in investigations related to the assassination. The connections to specific agents and operations may be of interest to researchers examining potential links between anti-Castro activities and the events surrounding the assassination.",
+  "document_ids": [
+    "104-10103-10112",
+    "104-10075-10365",
+    "104-10075-10250",
+    "104-10216-10148",
+    "104-10182-10137",
+    "104-10308-10062",
+    "104-10170-10146",
+    "104-10076-10000"
+  ]
+}

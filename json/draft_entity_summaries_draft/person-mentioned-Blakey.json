@@ -1,0 +1,24 @@
+{
+  "entity_name": "Blakey",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Based on the provided documents, \"Blakey\" is not explicitly mentioned. However, the documents relate to the House Select Committee on Assassinations (HSCA) and its investigation into the JFK assassination. The documents cover topics such as HSCA staff payroll records, requests for documents from other agencies (like the Social Security Administration), and concerns about releasing information related to individuals like Yuriy Nosenko. The documents also touch on potential connections between individuals and the assassination, such as the possibility of Yuriy Ivanovich MOSKALEV being linked to the event. The documents span from 1977 to 1997, indicating the period of HSCA's work and subsequent reviews of assassination records.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Lee Harvey Oswald",
+    "Marina Oswald",
+    "Yuriy Nosenko",
+    "Yuriy Ivanovich MOSKALEV",
+    "Social Security Administration",
+    "Assassination Records Review Board"
+  ],
+  "significance": "While Blakey is not directly mentioned, the documents highlight the HSCA's role in investigating the JFK assassination and the complexities involved in gathering information, protecting personal privacy, and assessing potential leads and connections. The documents also show the ongoing efforts to review and release assassination-related records.",
+  "document_ids": [
+    "180-10147-10264",
+    "180-10072-10186",
+    "104-10332-10009",
+    "104-10413-10306",
+    "180-10147-10257",
+    "180-10068-10320"
+  ]
+}

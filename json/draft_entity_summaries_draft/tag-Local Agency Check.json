@@ -1,0 +1,37 @@
+{
+  "entity_name": "Local Agency Check",
+  "entity_type": "tag",
+  "document_count": 16,
+  "summary": "A \"Local Agency Check\" in these documents refers to a process of querying local law enforcement agencies (such as the FBI, Sheriff's Offices, and Police Departments) for information about a specific individual. These checks were conducted to gather information, often derogatory, about individuals of interest. The documents reveal that local agency checks were performed on individuals like David Reed Fromer, Manuel Marti, Ivan Marti, Blanca Marti, and Joachim S. Beer (aka Joachim F. Pehl). The checks aimed to uncover any existing records, associations, or incidents involving these individuals. The results varied, with some checks revealing no records, while others uncovered information such as involvement in student organizations, appearance on mailing lists, past incidents reported to the Provost Marshal's Office, or family connections with individuals of interest to the FBI.",
+  "key_connections": [
+    "David Reed Fromer",
+    "Manuel Marti",
+    "Ivan Marti",
+    "Blanca Marti",
+    "Joachim S. Beer (aka Joachim F. Pehl)",
+    "FBI",
+    "SLATE",
+    "People's World",
+    "Adrian Sotomayor",
+    "New Horizons for Youth"
+  ],
+  "significance": "In the context of the JFK assassination, local agency checks represent an investigative tool used to gather background information on individuals who may have been of interest to investigators. These checks were likely conducted to assess potential threats, identify connections to subversive groups, or simply to build a more complete profile of individuals who might have had some connection, however tenuous, to the assassination or related events. The checks themselves do not directly implicate anyone in the assassination, but they illustrate the breadth and depth of the investigation and the types of information being sought.",
+  "document_ids": [
+    "194-10004-10160",
+    "194-10004-10361",
+    "194-10007-10266",
+    "194-10012-10452",
+    "194-10004-10156",
+    "194-10004-10150",
+    "194-10004-10367",
+    "194-10004-10151",
+    "194-10004-10152",
+    "194-10004-10148",
+    "194-10004-10364",
+    "194-10004-10363",
+    "194-10004-10400",
+    "194-10004-10154",
+    "194-10004-10155",
+    "194-10004-10401"
+  ]
+}

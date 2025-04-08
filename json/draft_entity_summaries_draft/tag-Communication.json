@@ -1,0 +1,23 @@
+{
+  "entity_name": "Communication",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents highlight various aspects of communication within CIA operations. They cover secure communication methods, contact reports, and technical infrastructure for communication. The documents span from 1957 to 1970, indicating the continuous importance of secure and effective communication in intelligence activities. The communication methods range from direct contact with agents (DMCHAR) to establishing secure lines with assets in hostile environments (A-3 groups in Havana) and expanding radio systems for personnel in foreign locations (Libya). The documents emphasize the need for secure communication channels and the technical infrastructure required to support these channels in different operational contexts.",
+  "key_connections": [
+    "DMCHAR",
+    "A-3",
+    "AMJAVA-4",
+    "G2 (Cuban Intelligence)",
+    "GSFEW/1",
+    "Havana",
+    "Libya",
+    "Soviet Union",
+    "Fidel Castro"
+  ],
+  "significance": "While not directly linked to the JFK assassination in these documents, the communication methods and infrastructure described are crucial for understanding how intelligence agencies operated during the Cold War, including potential operations related to Cuba and the Soviet Union, which are relevant to the broader context of the assassination. The emphasis on secure communication and contact reports underscores the clandestine nature of these operations.",
+  "document_ids": [
+    "104-10167-10127",
+    "104-10169-10265",
+    "104-10073-10322"
+  ]
+}

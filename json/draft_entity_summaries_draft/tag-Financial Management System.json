@@ -1,0 +1,16 @@
+{
+  "entity_name": "Financial Management System",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents provided relate to the financial management system of the U.S. House of Representatives Select Committee on Assassinations, specifically focusing on payroll certifications. These certifications detail employee names, social security numbers, positions, salaries, and pay periods for various months in 1977 (February, May, and August). The documents serve as records of how the committee managed its financial resources related to personnel during its investigation.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations",
+    "Employees of the Select Committee on Assassinations"
+  ],
+  "significance": "While the documents don't directly reveal information about the JFK assassination, they provide insight into the operational and administrative aspects of the Select Committee on Assassinations, including how it managed its finances and personnel during its investigation. The payroll records offer a glimpse into the resources allocated to the committee's work.",
+  "document_ids": [
+    "180-10125-10106",
+    "180-10125-10102",
+    "180-10125-10098"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "entity_name": "SMITH, JOHANNA LYNN",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Johanna Lynn Smith was an employee of the Select Committee on Assassinations (SCA). She is mentioned in payroll and certification reports from April, August, and December of 1978. These documents list her name, salary, and pay during those periods, indicating her employment with the committee during that time. The documents do not provide specific details about her role within the SCA, but her presence on the payroll suggests she held an administrative or support position.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Johanna Lynn Smith's significance lies in her employment with the Select Committee on Assassinations. While the documents do not detail her specific role, her presence on the payroll confirms her involvement in the committee's work during 1978.",
+  "document_ids": [
+    "180-10125-10078",
+    "180-10125-10087",
+    "180-10125-10083"
+  ]
+}

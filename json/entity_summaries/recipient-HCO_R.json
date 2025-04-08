@@ -1,0 +1,22 @@
+{
+  "entity_name": "HCO [R]",
+  "entity_type": "recipient",
+  "document_count": 5,
+  "summary": "Based on the provided documents, HCO [R] appears to be a recipient of information, specifically reports and messages, related to the aftermath of President Kennedy's assassination. The documents suggest that HCO [R] received reports detailing reactions to Kennedy's death from various countries, including Egypt and Austria, as well as information regarding foreign representation at Kennedy's funeral. One document indicates that HCO [R] received an intercepted message regarding financial support for an editor from Arbeiter-Zeitung who was reporting from Dallas shortly after the assassination. The documents highlight HCO [R]'s role in receiving and processing information related to international reactions and events surrounding Kennedy's death.",
+  "key_connections": [
+    "President Kennedy",
+    "President Nasser",
+    "Austrian Foreign Ministry",
+    "Arbeiter-Zeitung",
+    "FIELHAUER",
+    "U.S. State Department"
+  ],
+  "significance": "HCO [R]'s significance in the JFK context lies in its role as a recipient of intelligence and reports related to the international response to President Kennedy's assassination. The information received by HCO [R] provides insights into the diplomatic activities, media coverage, and foreign perspectives surrounding the event.",
+  "document_ids": [
+    "144-10001-10109",
+    "144-10001-10063",
+    "144-10001-10062",
+    "144-10001-10065",
+    "144-10001-10069"
+  ]
+}

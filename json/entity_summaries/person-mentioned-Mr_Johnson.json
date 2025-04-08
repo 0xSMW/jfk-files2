@@ -1,0 +1,15 @@
+{
+  "entity_name": "Mr. Johnson",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Based on the provided documents, it is impossible to determine who Mr. Johnson is or his role in the JFK assassination context. The documents primarily focus on covert operations related to Cuba, including Operation MONGOOSE, reconnaissance activities, and discussions regarding policy decisions on actions against Cuba, North Vietnam, Chile, and other regions. Mr. Johnson's role or significance cannot be determined from the provided summaries.",
+  "key_connections": [],
+  "significance": "Insufficient information to determine significance.",
+  "document_ids": [
+    "206-10001-10015",
+    "202-10001-10219",
+    "104-10306-10024",
+    "178-10003-10016",
+    "104-10306-10021"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "entity_name": "Howard Hunt",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Howard Hunt is mentioned in three documents. One document references a telephone call involving Sturgis discussing Hunt along with other individuals like Barber, Knowless, Bill Johnson, Carlos Prio, Carlos Marcello, and Marita Lorenz, and their connections to the CIA, Cuba, and the Bay of Pigs. Another document is a report on Charles William Wiley's background and activities with the CIA. The third document involves a report from the Director of Finance to the Inspector General regarding a search for unaccounted payments to Howard Hunt, finding no large unrecorded payments but noting unusual financial procedures. The documents suggest Hunt's potential involvement with the CIA and connections to individuals involved with the Bay of Pigs.",
+  "key_connections": [
+    "Sturgis",
+    "Barber",
+    "Knowless",
+    "Bill Johnson",
+    "Carlos Prio",
+    "Carlos Marcello",
+    "Marita Lorenz",
+    "CIA",
+    "Charles William Wiley"
+  ],
+  "significance": "The documents suggest Howard Hunt's potential involvement with the CIA and connections to individuals involved with the Bay of Pigs, which may be relevant in the context of the JFK assassination.",
+  "document_ids": [
+    "135-10001-10237",
+    "157-10011-10121",
+    "104-10103-10038"
+  ]
+}

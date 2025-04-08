@@ -1,0 +1,23 @@
+{
+  "entity_name": "TYPIC",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "TYPIC appears to be an internal CIA tag or classification used within JMWAVE communications. It is associated with operational matters, specifically amendments to Memoranda of Oral Commitment (MOCs) for individuals working with the agency. These MOCs cover salary adjustments, dependency payments, and other operational commitments. The tag is also linked to the AMBUD program and activities related to AMWORLD. The documents suggest TYPIC was used to categorize communications related to sensitive operational details and personnel management within the CIA's JMWAVE station.",
+  "key_connections": [
+    "JMWAVE",
+    "Memorandum of Oral Commitment (MOC)",
+    "AMBUD program",
+    "AMWORLD",
+    "AMLILAC"
+  ],
+  "significance": "While TYPIC itself doesn't directly relate to the JFK assassination, its presence in documents concerning CIA operations and personnel management at JMWAVE provides context to the operational environment and activities of the CIA during the period relevant to the assassination. It highlights the agency's internal processes for managing assets and operations, which could indirectly be relevant to understanding the broader context of events surrounding the assassination.",
+  "document_ids": [
+    "104-10247-10069",
+    "104-10215-10151",
+    "104-10229-10000",
+    "104-10101-10109",
+    "104-10215-10149",
+    "104-10308-10086",
+    "104-10076-10374"
+  ]
+}

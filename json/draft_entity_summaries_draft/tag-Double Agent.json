@@ -1,0 +1,39 @@
+{
+  "entity_name": "Double Agent",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "The documents discuss various instances of individuals acting as double agents, primarily in the context of intelligence operations during the Cold War era. These individuals are portrayed as assets who are recruited or used by one intelligence agency to infiltrate and gather information on another, often with the intention of providing disinformation or disrupting operations. The documents highlight cases involving Cuban intelligence (CUIS), the CIA, and the FBI, with double agents being used to gather information on anti-Castro activities, Israeli intelligence collection, and potential threats to national security. The roles of these double agents vary, from providing information on anti-Castro groups in Miami to potentially influencing political operations. The documents span from the 1950s to the 1990s, indicating a sustained interest and reliance on double agents as a tool in intelligence gathering and counterintelligence efforts.",
+  "key_connections": [
+    "VZTOUCHDOWN",
+    "SLANK/1",
+    "Victor Paneque",
+    "DOLPHIN",
+    "James Angleton",
+    "KITTY HAWK",
+    "E. Howard Hunt",
+    "Boris Pash",
+    "JUMAVE 1",
+    "Jose Ricardo RABEL Nunez (AMLEO-3)",
+    "AMTRUNK Operation",
+    "Tad Szulc",
+    "IDENTITY",
+    "Lamberto Besta",
+    "Cuban Intelligence (CUIS)",
+    "CIA",
+    "FBI"
+  ],
+  "significance": "While the documents mention double agents in various contexts, their direct significance to the JFK assassination context is limited. One document mentions a request to ask VZTOUCHDOWN about SLANK/1, who provided information indicating the Cuban government was not involved in the Kennedy assassination. Another document mentions E. Howard Hunt's inquiries into potential CIA involvement in assassinations, including a suspected double agent. These references suggest that the use of double agents was considered in the context of investigating potential conspiracies related to the assassination, but the documents do not provide conclusive evidence of their direct involvement.",
+  "document_ids": [
+    "104-10326-10098",
+    "180-10144-10133",
+    "124-10285-10254",
+    "124-10276-10400",
+    "104-10322-10101",
+    "157-10005-10228",
+    "104-10183-10261",
+    "104-10103-10350",
+    "104-10103-10097",
+    "104-10166-10120",
+    "104-10185-10024"
+  ]
+}

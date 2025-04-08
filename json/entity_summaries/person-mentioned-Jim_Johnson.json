@@ -1,0 +1,14 @@
+{
+  "entity_name": "Jim Johnson",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, there is no mention of an entity named Jim Johnson. The documents primarily concern the National Security Agency's (NSA) responses to queries from the Senate Select Committee regarding the Warren Commission's investigation into the JFK assassination. The NSA provided information detailing its limited role in assisting the Commission, including reviewing exhibits for secret writing, analyzing documents, and providing information about Cuban military alerts after the assassination. The documents do not provide any information about Jim Johnson or his role in the JFK assassination context.",
+  "key_connections": [],
+  "significance": "Based on the provided documents, Jim Johnson has no significance in the JFK context.",
+  "document_ids": [
+    "144-10001-10288",
+    "144-10001-10127",
+    "144-10001-10212",
+    "144-10001-10195"
+  ]
+}

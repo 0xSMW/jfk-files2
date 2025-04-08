@@ -1,0 +1,38 @@
+{
+  "entity_name": "Johnson",
+  "entity_type": "person-mentioned",
+  "document_count": 17,
+  "summary": "The documents mention \"Johnson\" in various contexts, primarily in relation to the aftermath of President Kennedy's death and discussions regarding US foreign policy and covert operations. Several documents refer to President Lyndon B. Johnson in the immediate aftermath of JFK's assassination, detailing diplomatic reactions and policy considerations following the event. Johnson is also mentioned in connection with the Vietnam Task Force in 1961, indicating his involvement in early discussions and decisions related to the Vietnam War. Additionally, there's a reference to a threat against the 'Johnson gang' in a CIA advisory, suggesting potential security concerns. The documents also reference Johnson in the context of Operation Mongoose and covert operations against Cuba, indicating his awareness or involvement in these activities.",
+  "key_connections": [
+    "Kennedy",
+    "Castro",
+    "Lansdale",
+    "Diem",
+    "Rostow",
+    "De Gaulle",
+    "Erhard",
+    "Oswald",
+    "Robert Kennedy",
+    "Halpern"
+  ],
+  "significance": "Johnson's significance in the JFK context primarily revolves around his succession to the presidency after Kennedy's assassination and the immediate policy changes and reactions that followed. His involvement in discussions about Vietnam and covert operations against Cuba also highlights his role in shaping US foreign policy during this period.",
+  "document_ids": [
+    "157-10005-10236",
+    "157-10011-10000",
+    "157-10008-10241",
+    "144-10001-10084",
+    "144-10001-10315",
+    "144-10001-10102",
+    "176-10036-10073",
+    "104-10306-10003",
+    "124-10369-10022",
+    "157-10011-10010",
+    "157-10011-10006",
+    "180-10145-10280",
+    "157-10011-10007",
+    "104-10324-10002",
+    "157-10011-10009",
+    "157-10011-10003",
+    "157-10014-10151"
+  ]
+}

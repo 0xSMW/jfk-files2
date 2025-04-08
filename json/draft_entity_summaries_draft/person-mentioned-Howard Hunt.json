@@ -1,0 +1,30 @@
+{
+  "entity_name": "Howard Hunt",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "summary": "E. Howard Hunt is mentioned in several CIA documents primarily related to the Watergate scandal and investigations into CIA activities. The documents reveal inquiries and concerns about Hunt's activities, including a search for unaccounted payments to him. He is also referenced in the context of Cuban involvement in the Watergate case and in lists of CIA personnel and assets. The documents suggest Hunt's involvement in covert operations and his connections to various individuals and projects within the CIA. The timeline of his involvement spans from the 1940s to the 1970s, with a focus on the period surrounding the Watergate scandal.",
+  "key_connections": [
+    "Rene VIERA Gonzalez",
+    "David Phillips",
+    "Robert Maheu",
+    "Lucien Conein",
+    "Arthur R. Schwickrath",
+    "Charles William Wiley",
+    "Fidel Castro",
+    "Patrice Lumumba"
+  ],
+  "significance": "While the documents directly mention Howard Hunt in the context of Watergate and CIA activities, his significance to the JFK assassination context is indirect. He is mentioned in documents related to investigations into CIA activities, including those potentially relevant to the assassination, such as plots to assassinate Fidel Castro. However, the documents do not explicitly link him to the JFK assassination itself, but rather to the broader context of CIA operations and investigations that followed.",
+  "document_ids": [
+    "104-10095-10202",
+    "104-10105-10120",
+    "104-10061-10115",
+    "104-10095-10161",
+    "157-10011-10024",
+    "104-10330-10081",
+    "104-10222-10041",
+    "157-10011-10121",
+    "104-10333-10006",
+    "104-10103-10038",
+    "104-10332-10022"
+  ]
+}

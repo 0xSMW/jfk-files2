@@ -1,0 +1,20 @@
+{
+  "entity_name": "Raul CASTRO",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Raul Castro is mentioned in the provided documents in the context of the Cuban Revolution and subsequent CIA activities. One document from 1957 references \"Castro's regime,\" indicating his involvement in the early stages of the revolution. Another document from 1964 details a CIA project (AMCANOE) aimed at supporting Cuban resistance groups to overthrow Castro, suggesting that Raul Castro, along with Fidel Castro, was a target of CIA operations. The documents highlight the CIA's focus on Cuba and its leaders during this period, including potential assassination plots. The documents span from 1957 to 1964, reflecting the period of intense US-Cuban relations following the Cuban Revolution.",
+  "key_connections": [
+    "DMCHAR",
+    "Guillermo ARASTAGUIA",
+    "Cuban Intelligence Service (DGI)",
+    "Cuban resistance groups",
+    "Fidel Castro",
+    "Mafia"
+  ],
+  "significance": "Raul Castro's significance in the JFK context stems from his role as a leader in the Cuban Revolution and his subsequent position in the Cuban government. The documents suggest that the CIA considered him a target for potential assassination plots, which is relevant to understanding the broader context of US-Cuban relations and potential motives related to the JFK assassination.",
+  "document_ids": [
+    "104-10167-10127",
+    "104-10185-10128",
+    "104-10308-10029"
+  ]
+}

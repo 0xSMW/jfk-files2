@@ -1,0 +1,25 @@
+{
+  "entity_name": "DIRNSA",
+  "entity_type": "recipient",
+  "document_count": 8,
+  "summary": "DIRNSA (Director of the National Security Agency) is the recipient of several intelligence reports and communications related to the assassination of President John F. Kennedy. These documents primarily consist of intercepted communications from various sources, including Cuba, Venezuela, and potentially East Germany, immediately following the assassination. The NSA's role, as indicated by these documents, was to monitor and intercept foreign communications to gather information about reactions, potential threats, and any relevant details surrounding the event. The documents highlight the NSA's capability to intercept and analyze communications from various global locations, providing insights into the immediate aftermath of the assassination and the reactions of different entities.",
+  "key_connections": [
+    "USN (United States Navy)",
+    "Cuba",
+    "Venezuela",
+    "East Germany",
+    "President John F. Kennedy",
+    "Secretary of State Dean Rusk"
+  ],
+  "significance": "DIRNSA's significance in the JFK assassination context lies in its role as the recipient and disseminator of crucial intelligence gathered through intercepted communications. The NSA's ability to monitor global communications provided valuable insights into the immediate reactions and potential implications of the assassination, contributing to the overall understanding and response to the event by the US government. The documents suggest that the NSA was a key player in gathering and analyzing information in the wake of the assassination.",
+  "document_ids": [
+    "144-10001-10378",
+    "144-10001-10271",
+    "144-10001-10276",
+    "144-10001-10191",
+    "144-10001-10274",
+    "144-10001-10275",
+    "144-10001-10272",
+    "144-10001-10273"
+  ]
+}

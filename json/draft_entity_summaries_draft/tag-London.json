@@ -1,0 +1,22 @@
+{
+  "entity_name": "London",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "London appears in several documents primarily as a location for intelligence activities and communications. It serves as a base for CIA operations (CAS, London), a point of interception for British intelligence (Cuban Embassy in London), and a location for surveillance of Soviet citizens (Ivan Dmitriyevich Obyedkov). Congressional delegations (CODELS) also visited London, receiving briefings from CIA stations. The documents span from 1963 to 1978, indicating a sustained period of intelligence activity in London. A notable pattern is the use of London as a hub for gathering and relaying information related to international events and individuals of interest to US intelligence.",
+  "key_connections": [
+    "CAS (CIA)",
+    "Cuban Embassy",
+    "Ivan Dmitriyevich Obyedkov",
+    "Congressional Delegations (CODELS)",
+    "British Intelligence"
+  ],
+  "significance": "In the JFK assassination context, London is significant as the location where British intelligence intercepted a conversation at the Cuban Embassy related to the assassination. This suggests that London played a role in gathering intelligence related to the event, although the extent of its involvement is not fully detailed in these documents.",
+  "document_ids": [
+    "104-10181-10081",
+    "124-10181-10009",
+    "180-10145-10280",
+    "180-10141-10204",
+    "104-10177-10224",
+    "104-10400-10311"
+  ]
+}

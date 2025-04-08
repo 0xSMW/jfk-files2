@@ -1,0 +1,34 @@
+{
+  "entity_name": "Operational Security",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "Operational Security, as evidenced in the documents, pertains to the measures taken to protect CIA operations, sources, and personnel from compromise. This includes safeguarding identities, methods, and sensitive information. The documents highlight concerns about revealing CIA stations, the use of State Department cover, and the potential risks associated with releasing certain information to external bodies like the JFK Assassination Records Review Board and the House Select Committee on Assassinations (HSCA). Measures include minimizing contact, using alias documents, providing travel briefings, and ensuring the secure handling of sensitive materials. The overarching goal is to maintain the integrity and effectiveness of ongoing and future operations while protecting individuals involved.",
+  "key_connections": [
+    "CIA Stations",
+    "State Department",
+    "JFK Assassination Records Review Board",
+    "House Select Committee on Assassinations (HSCA)",
+    "AMWHIP/2",
+    "AMLASH",
+    "ARSTALE-1",
+    "GICITRON-4",
+    "Errol R. Lythgoe",
+    "Reginald M. Dacie",
+    "GICITRON-5",
+    "AMHINT-56"
+  ],
+  "significance": "In the JFK context, operational security is significant because it explains the CIA's reluctance to release certain documents that could reveal sensitive information about their operations, sources, and methods. The documents suggest a concern that releasing such information could compromise ongoing operations, endanger individuals, and damage relationships with foreign governments. The CIA's emphasis on protecting operational security influenced what information was shared with the JFK Assassination Records Review Board and potentially shaped the public understanding of events surrounding the assassination.",
+  "document_ids": [
+    "104-10216-10397",
+    "104-10113-10249",
+    "104-10330-10026",
+    "104-10067-10043",
+    "104-10121-10091",
+    "104-10330-10102",
+    "104-10121-10130",
+    "104-10183-10039",
+    "104-10219-10066",
+    "104-10215-10145",
+    "104-10185-10244"
+  ]
+}

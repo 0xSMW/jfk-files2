@@ -1,0 +1,23 @@
+{
+  "entity_name": "Military Activity",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents reference various military activities, primarily focusing on Cuban military movements and alerts in the context of the Cold War and events surrounding President Kennedy's assassination. These activities include tracked tank movements, ship arrivals from the USSR, and the fleeing of Cuban naval officers. Following President Kennedy's death, military alerts were issued and later relaxed in Cuba's Eastern Naval District. Additionally, Latin American countries such as Mexico, Venezuela, and Colombia placed military units on alert. The activities of Cuban exile groups, such as the MRR led by Manuel Artime, involving training camps and raids on Cuba, are also documented. These activities reflect a period of heightened tension and military preparedness in the region.",
+  "key_connections": [
+    "Cuba",
+    "USSR",
+    "Eastern Naval District",
+    "Latin American countries (Mexico, Venezuela, Colombia)",
+    "Manuel Artime",
+    "MRR (Movimiento Revolucionario Recuperacion)",
+    "JAGUAR group"
+  ],
+  "significance": "The military activities described in these documents provide context to the geopolitical climate surrounding the JFK assassination. The alerts and movements suggest a state of heightened tension and potential instability in the region, particularly concerning Cuba and Soviet involvement. The activities of Cuban exile groups indicate ongoing efforts to destabilize the Castro regime, which could have implications for understanding potential motives and actors involved in the assassination.",
+  "document_ids": [
+    "104-10308-10168",
+    "144-10001-10061",
+    "144-10001-10056",
+    "144-10001-10058",
+    "124-10284-10081"
+  ]
+}

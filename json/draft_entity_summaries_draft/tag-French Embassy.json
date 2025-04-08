@@ -1,0 +1,19 @@
+{
+  "entity_name": "French Embassy",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The French Embassy appears in three documents within the JFK assassination context. One document from 1963 mentions it as a potential communication channel for AMSTASH-1. Another document from 1962 describes the French Embassy in Havana advising the Unidad Revolucionaria (UR) not to participate in a planned uprising in Cuba. The third document from 1973, while detailing potentially controversial CIA activities, does not directly involve the French Embassy, suggesting its relevance is primarily tied to earlier periods. The embassy's role seems to be primarily as a source of information and a potential communication conduit, rather than a direct actor in events related to the assassination.",
+  "key_connections": [
+    "AMSTASH-1",
+    "Unidad Revolucionaria (UR)",
+    "Directorio Revolucionario Estudiantil (DRE)",
+    "Movimiento Revolucionario del Pueblo (MRP)",
+    "Cuba"
+  ],
+  "significance": "The French Embassy's significance in the JFK context appears to be primarily as a source of information and a potential communication channel, particularly concerning Cuban affairs. It is mentioned in connection with advising a Cuban revolutionary group against participating in an uprising, suggesting a role in observing and potentially influencing Cuban political dynamics during the early 1960s. However, its direct involvement in events related to the assassination is not explicitly detailed in these documents.",
+  "document_ids": [
+    "104-10075-10250",
+    "104-10226-10087",
+    "104-10303-10007"
+  ]
+}

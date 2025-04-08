@@ -1,0 +1,19 @@
+{
+  "entity_name": "Former Employees",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents reference former employees of the FBI and CIA. In the context of the Senate Select Committee's inquiry into COINTELPRO activities in 1975, the FBI was tasked with contacting former employees to alert them about potential interviews related to the investigation. The CIA, in 1995, requested its Mexico City station to contact former employees who had retired under cover and resided in Mexico, informing them that their names were appearing in documents being reviewed for public release under the JFK Assassination Records Collection Act of 1992. This indicates a concern for protecting the identities and potentially the activities of these former employees in relation to the JFK assassination records.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "COINTELPRO",
+    "Senate Select Committee",
+    "JFK Assassination Records Collection Act of 1992"
+  ],
+  "significance": "Former employees of the FBI and CIA are significant in the JFK context because their past activities and knowledge may be relevant to understanding events surrounding the assassination. The documents suggest that both agencies were concerned about protecting the identities and potentially the activities of these former employees as related to the JFK assassination records.",
+  "document_ids": [
+    "124-10179-10219_multirif",
+    "124-10179-10217_multirif",
+    "104-10326-10064"
+  ]
+}

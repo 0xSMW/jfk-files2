@@ -1,0 +1,15 @@
+{
+  "entity_name": "Beverly Jackson",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Beverly Jackson is an employee of the U.S. House of Representatives Select Committee on Assassinations. She is mentioned in three payroll and certification reports from 1978. These documents list her position, annual salary, and pay period earnings for May, October, and November 1978. The documents provide a snapshot of her employment during the committee's operations.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations"
+  ],
+  "significance": "Beverly Jackson's significance lies in her employment within the Select Committee on Assassinations. While the documents do not specify her exact role within the committee, her presence on payroll and certification reports indicates her involvement in the committee's operations during the investigation into the JFK assassination.",
+  "document_ids": [
+    "180-10125-10081",
+    "180-10125-10079",
+    "180-10125-10086"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "entity_name": "Mr. Rocca",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, there is no mention of an entity named \"Mr. Rocca.\" The documents discuss Lee Harvey Oswald, Jack Ruby, Herbert Itkin, Australian Justice A.R. Moffitt, and ASIO representative Leslie V. Jarvis. The documents relate to the Warren Commission's investigation into the JFK assassination and a later inquiry into organized crime in New South Wales. Therefore, a summary about Mr. Rocca cannot be generated from the provided context.",
+  "key_connections": [],
+  "significance": "Since Mr. Rocca is not mentioned in the provided documents, his significance in the JFK context is non-existent based on this information.",
+  "document_ids": [
+    "135-10001-10283",
+    "104-10106-10421",
+    "104-10107-10089"
+  ]
+}

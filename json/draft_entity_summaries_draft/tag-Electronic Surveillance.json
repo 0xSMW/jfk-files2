@@ -1,0 +1,23 @@
+{
+  "entity_name": "Electronic Surveillance",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Electronic surveillance, as depicted in the provided documents, encompasses activities conducted by the CIA and FBI, raising concerns about exceeding mandates and potential domestic operations. The documents reveal instances of warrantless electronic surveillances, surreptitious entries, and the use of electronic surveillance technology. The CIA's activities, including domestic electronic surveillance against embassies and establishments, were subjects of inquiry by the Senate Select Committee (SSC). The Wackenhut Corporation is mentioned in connection with providing services and information to the CIA, including discussions about electronic surveillance technology. Howard J. Osborn's testimony details the CIA's Office of Security's involvement in electronic surveillance, physical surveillance, mail intercepts, and cooperation with local police. These activities were under scrutiny by the SSC, indicating a focus on potential abuses of power and violations of privacy.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Senate Select Committee (SSC)",
+    "Wackenhut Corporation",
+    "Howard J. Osborn",
+    "Warrantless Electronic Surveillances",
+    "Surreptitious Entries"
+  ],
+  "significance": "While the documents do not directly link electronic surveillance to the JFK assassination, they highlight the context of intelligence agency activities during that era, including potential overreach and domestic surveillance. The scrutiny of these activities by the Senate Select Committee suggests a concern about the balance between national security and individual rights, which is relevant to understanding the broader environment in which the JFK assassination occurred and was investigated.",
+  "document_ids": [
+    "124-10271-10303",
+    "104-10291-10016",
+    "124-10274-10029",
+    "124-10185-10100",
+    "157-10011-10078"
+  ]
+}

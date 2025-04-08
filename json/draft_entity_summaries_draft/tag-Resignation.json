@@ -1,0 +1,29 @@
+{
+  "entity_name": "Resignation",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "The documents highlight instances of resignations within various organizations, including the CIA and the House Select Committee on Assassinations (HSCA). These resignations occur for a variety of reasons, ranging from career changes and acceptance of other employment opportunities to potential security compromises and personal issues. Specific individuals mentioned in connection with resignations include James B. Wilcott Jr., Robert West Pugh, Thomas B. CASASIN (J. Richardson), and David E. Murphy within the CIA, and Claire L. Brown and Denise L. McCray within the HSCA. The documents also include requests for information related to past resignations to comply with the JFK Assassination Records Collection Act of 1992. The resignations often trigger administrative actions, such as debriefings, personnel record updates, and the issuance of letters of appreciation.",
+  "key_connections": [
+    "CIA",
+    "HSCA",
+    "James B. Wilcott Jr.",
+    "Robert West Pugh",
+    "Thomas B. CASASIN (J. Richardson)",
+    "David E. Murphy",
+    "Claire L. Brown",
+    "Denise L. McCray",
+    "JFK Assassination Records Collection Act of 1992"
+  ],
+  "significance": "In the context of the JFK assassination, resignations are significant as they can indicate potential disruptions, security concerns, or changes in personnel within organizations involved in investigations or related activities. The documents pertaining to HSCA staff resignations are part of the broader effort to document the committee's work and personnel. The request for information related to resignations highlights the importance of tracking personnel changes to ensure compliance with records collection acts and to provide a complete picture of events surrounding the assassination.",
+  "document_ids": [
+    "180-10068-10303",
+    "104-10195-10003",
+    "104-10059-10099",
+    "104-10256-10208",
+    "104-10326-10066",
+    "104-10194-10019",
+    "104-10224-10002",
+    "180-10068-10317",
+    "180-10060-10480"
+  ]
+}

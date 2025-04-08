@@ -1,0 +1,20 @@
+{
+  "entity_name": "Brezhnev",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Leonid Brezhnev is mentioned in these documents primarily in the context of broader geopolitical intelligence during the Cold War era. While not directly implicated in the JFK assassination, his name appears in a CIA memorandum discussing which defectors should be watched by the Secret Service during his visit, indicating concerns about potential security risks. The other documents mention Soviet policy, agriculture, and missile capabilities, reflecting the US's focus on the USSR during the 1960s and 1970s. Brezhnev's significance lies in his role as a key figure in the Soviet Union, a major global power and adversary of the United States during the Cold War.",
+  "key_connections": [
+    "KGB",
+    "Soviet Union",
+    "Secret Service"
+  ],
+  "significance": "Brezhnev's significance in the JFK context is indirect. He was the leader of the Soviet Union, a major geopolitical rival of the United States. His name appears in a document related to security concerns during his visit to the US, but there is no direct evidence linking him to the assassination itself.",
+  "document_ids": [
+    "177-10002-10098",
+    "104-10225-10030",
+    "104-10431-10006",
+    "124-10164-10151",
+    "104-10172-10264",
+    "104-10302-10028"
+  ]
+}

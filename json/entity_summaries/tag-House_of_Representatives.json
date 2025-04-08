@@ -1,0 +1,19 @@
+{
+  "entity_name": "House of Representatives",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The House of Representatives is mentioned in the context of the House Select Committee on Assassinations (HSCA). The documents primarily relate to the payroll and staffing of the HSCA, a committee formed by the House of Representatives to investigate the assassinations of John F. Kennedy and Martin Luther King Jr. The documents include payroll authorization forms, reports, and certifications detailing the employees, their positions, salaries, and employment status within the HSCA. These records provide insight into the operational aspects and personnel involved in the HSCA's investigation.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Patricia M. Orr",
+    "Elizabeth C. Feeley",
+    "Martin Luther King Task Force"
+  ],
+  "significance": "The House of Representatives' significance in the JFK assassination context lies in its establishment of the HSCA, the committee responsible for reinvestigating the assassination. The documents highlight the administrative and financial aspects of the HSCA's operations, providing a glimpse into the resources allocated to the investigation and the personnel involved. The payroll records offer a tangible connection to the individuals who worked on the HSCA's inquiry.",
+  "document_ids": [
+    "180-10060-10494",
+    "180-10125-10075",
+    "180-10125-10086",
+    "180-10068-10347"
+  ]
+}

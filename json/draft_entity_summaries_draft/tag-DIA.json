@@ -1,0 +1,20 @@
+{
+  "entity_name": "DIA",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The Defense Intelligence Agency (DIA) is referenced in the documents primarily in the context of investigations and information sharing. One document mentions the FBI being directed to contact the CIA and DIA for more details regarding an attack on a Cuban Embassy attache's house in Lima, Peru, suggesting the DIA may have intelligence related to anti-Castro activities or international incidents involving Cuban interests. The documents do not provide explicit details about the DIA's direct involvement in the JFK assassination but indicate its role in intelligence gathering and coordination with other agencies like the FBI and CIA concerning matters relevant to national security and anti-Castro activities during the Cold War era. The references suggest the DIA's involvement is more in the realm of intelligence gathering and analysis rather than direct operational activities related to the assassination.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "Cuban exiles",
+    "Anti-Castro activities",
+    "Richard Case Nagell"
+  ],
+  "significance": "The DIA's significance in the JFK context, based on these documents, lies in its role as an intelligence agency that may possess information relevant to anti-Castro activities and related events. While not directly implicated in the assassination, its potential knowledge of individuals and groups involved in anti-Castro efforts could be relevant to understanding the broader context surrounding the event.",
+  "document_ids": [
+    "176-10030-10085",
+    "124-90158-10069",
+    "124-10280-10057",
+    "104-10220-10020"
+  ]
+}

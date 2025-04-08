@@ -1,0 +1,17 @@
+{
+  "entity_name": "Henry Pleasants",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Henry Pleasants is mentioned in the context of E. Howard Hunt's memoirs, \"Undercover\". The documents detail meetings and reviews concerning the manuscript and galley proofs of Hunt's book. Pleasants' specific role or involvement is not explicitly stated in these documents, but his presence is noted in relation to the review and potential redaction of classified information within Hunt's memoirs. The documents focus on ensuring the book does not compromise sensitive CIA operations, sources, or methods.",
+  "key_connections": [
+    "E. Howard Hunt",
+    "John D. Morrison, Jr.",
+    "CIA"
+  ],
+  "significance": "Based on the provided documents, Henry Pleasants' significance in the JFK context is not directly apparent. His involvement seems to be related to the review process of E. Howard Hunt's memoirs, specifically concerning the potential disclosure of classified information. Without further context, it's difficult to ascertain his specific role or importance beyond this review process.",
+  "document_ids": [
+    "104-10105-10293",
+    "104-10105-10271",
+    "104-10105-10277"
+  ]
+}

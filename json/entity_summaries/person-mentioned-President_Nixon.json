@@ -1,0 +1,20 @@
+{
+  "entity_name": "President Nixon",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "The provided documents mention President Nixon in the context of CIA activities and surveillance during his presidency. While none of the documents directly relate to the JFK assassination, they highlight the CIA's domestic activities, including monitoring of individuals and groups, during Nixon's time in office. One document mentions a CIA defector watch list for the Secret Service during Brezhnev's visit, suggesting concerns about potential disruptions during high-profile events. Another document discusses the CIA's review of its domestic activities, specifically the counter-intelligence staff's role and files on Americans. Additionally, there is a dispatch regarding Bobby Seale's visit to Norway, indicating the CIA's interest in monitoring political figures and movements.",
+  "key_connections": [
+    "CIA",
+    "Secret Service",
+    "Brezhnev",
+    "Bobby Seale",
+    "Black Panther Party"
+  ],
+  "significance": "Based on the provided documents, President Nixon's significance in the JFK context is indirect. The documents do not mention the JFK assassination. However, they illustrate the broader context of CIA activities and surveillance during his presidency, which is relevant to understanding the political climate and potential actors involved in the JFK era.",
+  "document_ids": [
+    "178-10004-10396",
+    "104-10172-10264",
+    "135-10001-10287",
+    "104-10071-10102"
+  ]
+}

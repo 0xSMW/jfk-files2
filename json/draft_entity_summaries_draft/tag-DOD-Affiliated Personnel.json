@@ -1,0 +1,26 @@
+{
+  "entity_name": "DOD-Affiliated Personnel",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The documents reference several individuals who are either directly or indirectly affiliated with the Department of Defense (DOD). These individuals are often subjects of investigations, background checks, or information requests conducted by military intelligence groups, such as the 113th Intelligence Corps Group and the 108th Military Intelligence Group. The investigations involve verifying personal information, checking for derogatory information, and tracking associations. The documents span from the late 1960s to the early 1970s, indicating a period of active intelligence gathering and record-keeping. The roles of these personnel within the DOD are not explicitly stated, but the context suggests they are subjects of interest for intelligence purposes. The documents highlight the use of local agency checks, particularly through the FBI, to gather information on these individuals.",
+  "key_connections": [
+    "FBI",
+    "113th Intelligence Corps Group",
+    "108th Military Intelligence Group",
+    "Joachim S. Beer",
+    "David Reed Fromer",
+    "Manuel Marti",
+    "Kenneth C. Griggs"
+  ],
+  "significance": "The significance of DOD-affiliated personnel in the JFK assassination context is not explicitly stated in these documents. However, the investigations and information gathering activities suggest a potential interest in these individuals for reasons that could be related to national security or other sensitive matters. Without further context, it is difficult to ascertain their direct involvement or relevance to the JFK assassination.",
+  "document_ids": [
+    "194-10007-10266",
+    "194-10004-10161",
+    "194-10004-10388",
+    "194-10004-10147",
+    "194-10004-10149",
+    "194-10004-10400",
+    "194-10013-10013",
+    "194-10004-10362"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "entity_name": "Sam Giancana",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Sam Giancana is mentioned in the context of CIA plots against Fidel Castro and potential connections to the JFK assassination. The documents suggest his involvement with organized crime and its potential utilization by the CIA for covert operations against Cuba between 1960 and 1963. While the documents don't explicitly state Giancana's direct role in the JFK assassination, they imply a connection between organized crime figures and CIA activities, raising questions about possible links. The documents highlight the CIA's interactions with individuals associated with organized crime, including discussions and plans related to eliminating Fidel Castro, which indirectly places Giancana within the sphere of these clandestine operations.",
+  "key_connections": [
+    "Fidel Castro",
+    "CIA",
+    "Organized Crime",
+    "Robert Maheu",
+    "William K. Harvey",
+    "Howard J. Osborn",
+    "William C. Sturbitts"
+  ],
+  "significance": "Sam Giancana's significance in the JFK context stems from his association with organized crime and the CIA's potential use of such figures in plots against Fidel Castro. This connection raises questions about whether organized crime, possibly involving Giancana, played any role in the JFK assassination, although the documents do not provide direct evidence of this.",
+  "document_ids": [
+    "157-10002-10106",
+    "180-10145-10446",
+    "157-10002-10150",
+    "157-10011-10048",
+    "178-10002-10215"
+  ]
+}

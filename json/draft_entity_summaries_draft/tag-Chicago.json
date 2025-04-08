@@ -1,0 +1,19 @@
+{
+  "entity_name": "Chicago",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents indicate that Chicago is relevant as a location connected to individuals and organizations potentially related to the JFK assassination. One document mentions the \"Chicago Field Office\" of the Secret Service, suggesting a regional presence involved in security or investigations. Another document identifies David Reed Fromer as being born in Chicago, Illinois, linking the city to an individual of interest to the FBI and the 113th Intelligence Corps Group. A third document references Hargrave Secret Service and its suitability for cover purposes, based on information from local contacts and FBI sources in Chicago.",
+  "key_connections": [
+    "Hargrave Secret Service",
+    "Secret Service",
+    "FBI",
+    "David Reed Fromer",
+    "113th Intelligence Corps Group"
+  ],
+  "significance": "Chicago's significance in the JFK assassination context stems from its connection to individuals and organizations that were under investigation or considered relevant to the assassination. The presence of a Secret Service field office and the birth location of David Reed Fromer suggest potential links to security measures, investigations, or individuals of interest related to the event.",
+  "document_ids": [
+    "104-10110-10568",
+    "194-10004-10161",
+    "194-10004-10154"
+  ]
+}

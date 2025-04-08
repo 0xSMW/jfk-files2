@@ -1,0 +1,22 @@
+{
+  "entity_name": "Expenses",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents highlight expenses related to investigations and activities surrounding the JFK assassination and related events. These expenses cover a range of activities, including the preparation of reports by the University of New Mexico's School of Medicine for the Select Committee on Assassinations, specifically detailing labor costs for individuals like James T. Weston, Laura Krug, Debbie McMath, and Karen C. Schwartz, as well as printing and postage. Another document analyzes deposits and expenses from a budget of $81,500 related to activities concerning Cuba in 1962. Additionally, payroll certifications from the U.S. House of Representatives Select Committee on Assassinations list employee salaries and earnings, indicating the operational costs of the committee's work. The expenses reflect the financial resources allocated to various investigations and operations linked to the JFK assassination and related geopolitical events.",
+  "key_connections": [
+    "University of New Mexico School of Medicine",
+    "James T. Weston",
+    "Laura Krug",
+    "Debbie McMath",
+    "Karen C. Schwartz",
+    "Select Committee on Assassinations",
+    "Cuba",
+    "U.S. House of Representatives"
+  ],
+  "significance": "Expenses are significant as they represent the financial resources allocated to investigations, operations, and reporting related to the JFK assassination and associated events. They provide insight into the scale and scope of these activities, including the involvement of various organizations and individuals.",
+  "document_ids": [
+    "180-10096-10448",
+    "104-10230-10153",
+    "180-10125-10088"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "entity_name": "Office of Legislative Counsel",
+  "entity_type": "sender",
+  "document_count": 9,
+  "summary": "The Office of Legislative Counsel (OLC) served as a liaison between the CIA and the U.S. Congress, particularly the House Select Committee on Assassinations (HSCA) and the Senate Select Committee on Intelligence. Their activities included responding to congressional inquiries, providing information, arranging meetings, and managing access to sensitive materials. The OLC was involved in discussions regarding the Kennedy assassination, including requests for information and concerns about potential exposure of sensitive CIA operations. They also handled employment requests, budget discussions, and security matters related to congressional investigations. The OLC's journal entries document their daily interactions and responsibilities in maintaining communication and cooperation between the CIA and Congress.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Senate Select Committee on Intelligence",
+    "FBI",
+    "Senate Appropriations Committee",
+    "Senate Foreign Relations Committee",
+    "NSA",
+    "House Intelligence Committee",
+    "Church Committee",
+    "Robert Morrison",
+    "William Alexander Morgan",
+    "George de Mohrenschildt",
+    "David Ferrie",
+    "Manuel Antonio Ray y Rivero"
+  ],
+  "significance": "The Office of Legislative Counsel played a crucial role in managing the CIA's relationship with Congress during investigations into the JFK assassination. They were responsible for providing information, addressing concerns, and ensuring that congressional committees had appropriate access to materials while protecting sensitive intelligence operations. Their activities reflect the CIA's efforts to cooperate with congressional inquiries while safeguarding classified information.",
+  "document_ids": [
+    "104-10140-10420",
+    "104-10126-10253",
+    "104-10145-10262",
+    "104-10142-10029",
+    "104-10142-10317",
+    "180-10145-10295",
+    "104-10140-10101",
+    "180-10145-10285",
+    "104-10142-10055"
+  ]
+}

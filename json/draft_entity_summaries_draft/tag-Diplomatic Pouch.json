@@ -1,0 +1,21 @@
+{
+  "entity_name": "Diplomatic Pouch",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The term \"diplomatic pouch\" appears in the documents primarily in the context of clandestine activities. One document mentions its alleged use for transmitting small arms, suggesting it was a method for covertly transporting items. Another document refers to letters sent to a representative of the Movimiento Democrata Cristiano in Cuba. The third document refers to medical aid to Cuba. The use of a diplomatic pouch implies an attempt to bypass normal channels and avoid scrutiny, indicating a level of secrecy and potential illegality in the activities it facilitated.",
+  "key_connections": [
+    "Jose Artecona",
+    "IDEN A",
+    "IDEN B",
+    "PBRUMEN",
+    "Movimiento Democrata Cristiano",
+    "Lucas Moran",
+    "Cuba"
+  ],
+  "significance": "In the context of the JFK assassination, the reference to a \"diplomatic pouch\" is significant because it suggests a covert operation involving the potential transport of sensitive materials, including possibly weapons. While the documents do not directly link the pouch to the assassination, the clandestine nature of its use raises questions about its potential role in related activities or conspiracies. The connection to Cuban entities and anti-Castro movements further adds to the complexity and potential relevance to the broader context of the assassination.",
+  "document_ids": [
+    "104-10170-10036",
+    "104-10215-10035",
+    "104-10220-10293"
+  ]
+}

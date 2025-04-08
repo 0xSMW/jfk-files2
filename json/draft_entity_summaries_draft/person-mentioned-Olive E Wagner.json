@@ -1,0 +1,18 @@
+{
+  "entity_name": "Olive E Wagner",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Olive E Wagner is identified as an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA). She appears in multiple payroll and certification reports spanning from October 1977 to November 1978. These documents list her name, position, and salary information for the specified accounting periods. The consistent appearance of her name across these documents indicates her ongoing employment with the HSCA during this timeframe.",
+  "key_connections": [
+    "Select Committee on Assassinations",
+    "U.S. House of Representatives"
+  ],
+  "significance": "Olive E Wagner's significance lies in her employment with the HSCA, the committee tasked with investigating the assassination of President John F. Kennedy. While the documents do not specify her exact role within the committee, her presence on payroll and certification reports confirms her involvement in the HSCA's operations during its investigation.",
+  "document_ids": [
+    "180-10125-10081",
+    "180-10125-10096",
+    "180-10125-10079",
+    "180-10125-10086",
+    "180-10125-10094"
+  ]
+}

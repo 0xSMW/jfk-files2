@@ -1,0 +1,24 @@
+{
+  "entity_name": "Agent Termination",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents discuss the termination of various CIA agents and projects for reasons ranging from budgetary constraints and security breaches to the end of their usefulness. These terminations involve agents such as LITAMIL-7, AMHINT-56, and WIROGUE, as well as projects like KDFACTOR. The reasons for termination include budgetary issues, security concerns (potential leaks or breaches), and the completion of the agent's or project's objectives. The documents also cover administrative aspects of termination, such as agreements, resettlement assistance, and damage reports. A notable pattern is the concern over potential security risks associated with terminated agents, particularly the possibility of them revealing sensitive information.",
+  "key_connections": [
+    "LITAMIL-7",
+    "AMHINT-56",
+    "WIROGUE",
+    "KDFACTOR Project",
+    "Mexico City Station",
+    "JMWAVE",
+    "WH Division",
+    "VWBLANKET"
+  ],
+  "significance": "While the documents detail agent terminations, their direct significance to the JFK assassination context is not explicitly stated. However, the documents highlight the CIA's operational activities in locations like Mexico City and Havana, which are relevant to the broader investigation of potential connections to the assassination. The termination of agents and projects could be relevant if it impacted ongoing operations or created vulnerabilities that could have been exploited.",
+  "document_ids": [
+    "104-10176-10075",
+    "104-10215-10099",
+    "104-10215-10145",
+    "104-10182-10003",
+    "104-10187-10014"
+  ]
+}

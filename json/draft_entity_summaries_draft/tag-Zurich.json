@@ -1,0 +1,27 @@
+{
+  "entity_name": "Zurich",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "Zurich appears as a location of interest in several cables and memos related to individuals and events connected to the JFK assassination. It serves as a point of contact or location for individuals such as Richard Case Nagell, who threatened to expose the US government and made appearances at the US Consulate in Zurich. Mark Lane, known for his views on Oswald's innocence, was scheduled to speak in Zurich. Additionally, Zurich is mentioned in connection to alleged arms sales to Cuba and contacts with Soviet representatives in Switzerland. The documents span from 1959 to 1970, indicating a period of activity and relevance to investigations or intelligence gathering related to individuals of interest.",
+  "key_connections": [
+    "Richard Case Nagell",
+    "Mark Lane",
+    "Paul Hickman",
+    "Soviet representatives",
+    "US Consulate in Zurich",
+    "BERN",
+    "DIRECTOR",
+    "MIDDAUGH"
+  ],
+  "significance": "Zurich's significance in the JFK context lies in its role as a location where individuals of interest, such as Richard Case Nagell and Mark Lane, were active. It also appears in connection to alleged arms sales and Soviet contacts, suggesting it was a place of intelligence activity. The documents indicate that Zurich was a place where individuals connected to the JFK assassination were monitored or interacted with US authorities.",
+  "document_ids": [
+    "104-10123-10022",
+    "104-10220-10033",
+    "124-90138-10066",
+    "124-10158-10061",
+    "104-10310-10142",
+    "104-10308-10189",
+    "104-10123-10017",
+    "104-10220-10020"
+  ]
+}

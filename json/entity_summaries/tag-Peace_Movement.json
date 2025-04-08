@@ -1,0 +1,16 @@
+{
+  "entity_name": "Peace Movement",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Based on the provided documents, the \"Peace Movement\" is mentioned in the context of classifying document EX 3600. The documents relate to internal discussions regarding the classification of document EX 3600, which is connected to Operation MHCHAOS. The classification is justified due to the inclusion of information from sensitive sources, classified FBI reports, and sensitive methods used to acquire the information. The documents do not provide specific details about the Peace Movement's activities, role, or significance, but rather focus on the classification of a document related to Operation MHCHAOS, which may have involved surveillance or intelligence gathering related to the Peace Movement.",
+  "key_connections": [
+    "Operation MHCHAOS",
+    "FBI"
+  ],
+  "significance": "The significance of the Peace Movement in the JFK context, based solely on these documents, is indirect. The documents suggest that the Peace Movement may have been a subject of interest or surveillance under Operation MHCHAOS, but the documents primarily focus on the classification of information related to that operation rather than the Peace Movement itself. Further information is needed to determine the extent and nature of any connection.",
+  "document_ids": [
+    "104-10074-10347",
+    "104-10063-10430",
+    "104-10063-10434"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "entity_name": "Office of General Counsel",
+  "entity_type": "recipient",
+  "document_count": 3,
+  "summary": "The Office of General Counsel (OGC) is involved in various legal and administrative matters within the CIA. The documents suggest the OGC's responsibilities include handling Privacy Act cases, as seen in the request for an estimated completion date for Privacy Act case 71-728 concerning Werbell. The OGC also appears to be involved in providing legal support for agency operations, such as the request to sign letters of indemnity for Collins Radio, guaranteeing agreements entered into by Collins and an Agency proprietary, Electronic Products International Etablissement, to facilitate research and development work. While one document mentions Jim Garrison and his potential involvement with the Bertrand Russell Peace Foundation, the OGC's direct role in the JFK assassination context is not explicitly detailed in these documents, but it is implied that they may have been consulted on legal matters related to individuals or organizations connected to the assassination.",
+  "key_connections": [
+    "Walter Lloyd",
+    "A. F. Addona",
+    "Werbell",
+    "Collins Radio",
+    "Electronic Products International Etablissement",
+    "William F. Donnelly",
+    "Jim Garrison",
+    "Bertrand Russell Peace Foundation",
+    "MI-5",
+    "FBI"
+  ],
+  "significance": "The Office of General Counsel's significance in the JFK context is indirect, primarily through its potential involvement in legal matters related to individuals or organizations connected to the assassination, such as Jim Garrison. The documents suggest a broader role in handling legal and administrative matters within the CIA, including Privacy Act cases and providing legal support for agency operations.",
+  "document_ids": [
+    "104-10105-10212",
+    "104-10104-10262",
+    "104-10107-10178"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "entity_name": "Iraq",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "Iraq appears in several President's Intelligence Checklists from November 1963, indicating it was a region of interest during that period. The checklists mention political instability in Iraq and its relations with Syria. One document from 1993 discusses potential joint operations targeting Iraqi military officers in Belarus, along with Lee Harvey Oswald files. The mentions in the 1963 checklists suggest Iraq was a region of concern due to its internal political situation and regional relationships, while the 1993 document connects Iraq to potential intelligence operations and, tangentially, to the Lee Harvey Oswald case.",
+  "key_connections": [
+    "Syria",
+    "UAR (United Arab Republic)",
+    "Iran",
+    "Lee Harvey Oswald"
+  ],
+  "significance": "Iraq's significance in the JFK assassination context is primarily indirect. The 1963 mentions indicate it was a region of geopolitical interest during the time of the assassination. The 1993 document suggests a possible connection, however tenuous, between intelligence operations related to Iraq and the Lee Harvey Oswald files, though the nature of this connection is not specified in the provided documents.",
+  "document_ids": [
+    "177-10002-10098",
+    "177-10002-10103",
+    "104-10302-10028",
+    "177-10002-10096",
+    "177-10002-10097",
+    "104-10326-10097"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "entity_name": "John Dean",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "John Dean is mentioned in three documents. The documents do not directly relate to the JFK assassination. Instead, they concern the Watergate case and CIA activities. One document references a media inquiry to a Cuban exile journalist about Cuban involvement in Watergate. Another details CIA activities, including support to the Secret Service, investigations into leaks, and sensitive security operations. The third document involves an interview with John Stein regarding alleged domestic activities of the CIA, focusing on counter-intelligence staff's role and files on Americans. There is no clear timeline of John Dean's involvement from these documents, but his name appears in the context of investigations and inquiries related to Watergate and CIA activities during the 1970s.",
+  "key_connections": [],
+  "significance": "Based on the provided documents, John Dean's significance is related to the Watergate scandal and investigations into CIA activities, not the JFK assassination. The documents do not provide any information linking him to the JFK assassination.",
+  "document_ids": [
+    "104-10095-10202",
+    "124-10185-10099",
+    "178-10004-10396"
+  ]
+}

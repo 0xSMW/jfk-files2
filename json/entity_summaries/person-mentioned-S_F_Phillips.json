@@ -1,0 +1,25 @@
+{
+  "entity_name": "S. F. Phillips",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "summary": "Based on the provided documents, S. F. Phillips is mentioned in the context of the FBI's interactions with the Senate Select Committee (SSC) investigating intelligence activities in 1975. The documents do not explicitly state Phillips' role or position within the FBI or any other organization. Instead, Phillips' name appears within the context of memoranda, teletypes, and airtels related to the FBI's responses to the SSC's requests for information. These requests include inquiries about former employees, COINTELPRO activities, and other intelligence matters. The documents suggest that Phillips was involved, at least indirectly, in the process of gathering and providing information to the SSC, as their name appears in documents detailing the FBI's coordination with the committee.",
+  "key_connections": [
+    "Senate Select Committee (SSC)",
+    "FBI",
+    "COINTELPRO",
+    "Douglas Durham",
+    "American Indian Movement (AIM)"
+  ],
+  "significance": "The documents do not provide enough information to determine S. F. Phillips' direct significance to the JFK assassination context. The documents focus on the FBI's interactions with the Senate Select Committee in 1975, which was investigating intelligence activities, not the JFK assassination. Phillips' involvement appears to be related to the FBI's response to the SSC's inquiries, but the specific nature of their role and its connection to the JFK assassination is not evident from these documents.",
+  "document_ids": [
+    "124-10274-10001",
+    "124-10271-10003_multirif",
+    "124-10179-10217_multirif",
+    "124-10273-10071_multirif",
+    "124-10271-10011_multirif",
+    "124-10274-10001_multirif",
+    "124-10273-10086_multirif",
+    "124-10271-10299_multirif",
+    "124-10271-10003"
+  ]
+}

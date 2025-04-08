@@ -1,0 +1,24 @@
+{
+  "entity_name": "USIB",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The United States Intelligence Board (USIB) was a high-level coordinating body within the U.S. intelligence community. The documents suggest USIB's involvement in overseeing and coordinating intelligence activities across various agencies, including the CIA and NSA. The USIB Ad Hoc Coordinating Group on Congressional Review addressed inquiries from the Senate Select Committee, indicating USIB's role in managing the intelligence community's response to congressional oversight. The documents also suggest USIB's involvement in discussions related to sensitive operations like Operation MONGOOSE and intelligence collection efforts concerning Cuba. The President's Foreign Intelligence Advisory Board (PFIAB) meetings also touched on topics relevant to USIB's purview, such as national reconnaissance programs and intelligence budgeting.",
+  "key_connections": [
+    "CIA",
+    "NSA",
+    "Senate Select Committee",
+    "Operation MONGOOSE",
+    "PFIAB",
+    "Special Group Augmented"
+  ],
+  "significance": "While the documents do not explicitly link USIB directly to the JFK assassination, they highlight USIB's role in overseeing intelligence activities related to Cuba and potential actions against Castro, which are relevant in the broader context of the assassination. The NSA's response to the ARRB regarding capabilities and records related to Cuba and Mexico during 1963-1964 further underscores the intelligence community's focus on these regions during that period. The documents suggest USIB was a key player in coordinating intelligence efforts and responding to inquiries related to sensitive operations and congressional oversight.",
+  "document_ids": [
+    "124-10271-10299",
+    "157-10002-10152",
+    "157-10011-10007",
+    "206-10001-10013",
+    "206-10001-10007",
+    "144-10001-10287",
+    "206-10001-10000"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "entity_name": "FBI",
+  "entity_type": "sender",
+  "document_count": 10,
+  "summary": "The FBI, as evidenced by these documents, played a significant role in various intelligence and investigative activities during the 1960s and 1970s. They were involved in coordinating with other agencies like the CIA and the Senate Select Committee on Intelligence Activities (SSC). The FBI provided information and materials to the SSC regarding investigations into intelligence activities, including those related to Martin Luther King Jr. and alleged Communist ties. They also monitored individuals contacted by the SSC. The FBI engaged in activities such as mail interception programs targeting Soviet agents and the Soviet Mission to the UN. Additionally, they responded to requests from the CIA regarding individuals of interest, such as Eduardo Espinosa y Prieto, and shared information about Soviet activities, such as the purchase of safes for shipment to Cuba. The documents reveal a pattern of the FBI's involvement in intelligence gathering, coordination with other agencies, and responses to inquiries from oversight committees.",
+  "key_connections": [
+    "CIA",
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "Department of Justice",
+    "Martin Luther King Jr.",
+    "Stanley Levison",
+    "Soviet Union",
+    "KGB",
+    "Eduardo Espinosa y Prieto"
+  ],
+  "significance": "While these documents do not directly address the JFK assassination, they highlight the FBI's broad involvement in intelligence matters during the period surrounding the event. The documents show the FBI's role in investigating potential threats and coordinating with other agencies, which provides context for understanding their capabilities and priorities during that era. The documents do not provide any direct evidence of the FBI's involvement in the JFK assassination.",
+  "document_ids": [
+    "124-10182-10231",
+    "124-10264-10206_multirif",
+    "124-10274-10001",
+    "124-90138-10073",
+    "124-10274-10029_multirif_redacted",
+    "124-10274-10011 (c06716583)",
+    "124-10271-10013",
+    "124-10238-10333_multirif",
+    "124-10179-10217",
+    "124-90137-10355"
+  ]
+}

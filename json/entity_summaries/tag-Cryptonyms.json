@@ -1,0 +1,29 @@
+{
+  "entity_name": "Cryptonyms",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "Cryptonyms, aliases, and project code names were used by the CIA to protect the identities of individuals, assets, and operations, particularly in sensitive contexts such as Cuban-related activities and the JFK assassination. The CIA's use of cryptonyms became a focal point during investigations by the House Select Committee on Assassinations (HSCA) and later the Assassination Records Review Board (ARRB), which requested lists of cryptonyms and information related to their use. The CIA balanced transparency with the need to protect covert employees, cover mechanisms, and ongoing intelligence operations when deciding how much information to release. The documents reveal that the CIA deliberated with the ARRB regarding the extent of redactions, particularly concerning cryptonyms, pseudonyms, file numbers, and employee names. Project ZRRIFLE is one specific project where cryptonyms were used, and the SSC requested additional information on the cryptonyms, pseudonyms, and aliases used by individuals involved in the project.",
+  "key_connections": [
+    "CIA",
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board (ARRB)",
+    "JFK assassination",
+    "Project ZRRIFLE",
+    "Cuban-related activities",
+    "James Earl Ray",
+    "Guy Bannister",
+    "Victor Dominado Espinosa-Hernandez",
+    "Ed Butler"
+  ],
+  "significance": "In the JFK assassination context, cryptonyms are significant because they represent a layer of secrecy and obfuscation employed by the CIA. The use of cryptonyms raised questions about transparency and the extent to which the CIA was willing to disclose information related to the assassination. The ARRB's requests for information on cryptonyms and the CIA's responses highlight the tension between the need for transparency and the protection of sensitive intelligence operations and personnel.",
+  "document_ids": [
+    "180-10143-10070",
+    "180-10145-10287",
+    "104-10332-10007",
+    "104-10061-10115",
+    "104-10335-10001",
+    "104-10310-10014",
+    "104-10332-10002",
+    "104-10079-10231"
+  ]
+}

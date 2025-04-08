@@ -1,0 +1,23 @@
+{
+  "entity_name": "Manuscript Review",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The Manuscript Review process, specifically concerning a manuscript by David Phillips, a former CIA employee, involved multiple CIA divisions reviewing the manuscript for classified information, potential security breaches, operational compromises, and material not yet in the public domain. The review process aimed to prevent damage to the Agency's reputation and ensure no sensitive information was disclosed. Concerns were raised regarding the identification of CIA facilities like Camp Perry and the mention of specific programs and techniques. The review process involved routing the manuscript to various departments for assessment and comment, highlighting the CIA's stringent pre-publication review procedures for former employees.",
+  "key_connections": [
+    "David Phillips",
+    "CIA",
+    "Camp Perry",
+    "John H. Stein",
+    "Robert R. Kierce",
+    "Special Security Unit",
+    "External Activities Branch"
+  ],
+  "significance": "While the documents provided do not explicitly link the manuscript review to the JFK assassination, the review process highlights the CIA's concern with controlling information released by former employees. David Phillips was a significant figure in CIA operations, and the scrutiny of his manuscript suggests a broader effort to manage the narrative surrounding the Agency's activities, which could indirectly relate to the JFK assassination context depending on the content of the manuscript and Phillips' involvement in relevant events.",
+  "document_ids": [
+    "104-10105-10126",
+    "104-10105-10130",
+    "104-10105-10120",
+    "104-10105-10137",
+    "104-10105-10133"
+  ]
+}

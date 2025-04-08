@@ -1,0 +1,24 @@
+{
+  "entity_name": "Clay Shaw",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "Clay Shaw is mentioned in the context of the JFK assassination in several documents. The documents suggest that the ARRB (Assassination Records Review Board) was interested in CIA records related to Shaw, specifically concerning the QKENCHANT project. Shaw's name appears in connection with questions about destroyed records, Mexico City operations, and CIA relationships with journalists. One document mentions a deposition related to Cuban operations and economic warfare, though the direct connection to Shaw is not explicitly stated. Another document mentions an interview regarding Lee Harvey Oswald, David Ferrie, and others associated with the Civil Air Patrol Cadets (CAPC) in New Orleans, which may indirectly relate to Shaw. The documents indicate an interest in Shaw's potential involvement or knowledge related to the JFK assassination and related CIA activities.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "David Ferrie",
+    "QKENCHANT project",
+    "CIA",
+    "ARRB (Assassination Records Review Board)",
+    "Mexico City operations",
+    "Civil Air Patrol Cadets (CAPC)"
+  ],
+  "significance": "Clay Shaw's significance in the JFK context stems from suspicions and investigations into his potential involvement in a conspiracy related to the assassination. The ARRB's interest in CIA records related to Shaw suggests that there were questions about his connections to intelligence operations and possible links to other individuals involved in the events surrounding the assassination.",
+  "document_ids": [
+    "180-10107-10006",
+    "178-10002-10091",
+    "104-10330-10081",
+    "180-10106-10011",
+    "104-10336-10000",
+    "104-10333-10006"
+  ]
+}

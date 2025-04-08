@@ -1,0 +1,19 @@
+{
+  "entity_name": "PII",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents flagged as containing Personally Identifiable Information (PII) include a National Agency Check History Card, payroll records, and a personal history statement. The PII includes data such as names, dates and places of birth, social security numbers, military service numbers, marital status, spouse's information, residences, children, and relatives' information. The documents are related to individuals connected to the JFK assassination investigation, either directly or indirectly through their association with investigative bodies like the HSCA. The presence of PII necessitates redaction or postponement of release to protect individual privacy.",
+  "key_connections": [
+    "David Reed Fromer",
+    "Diana Jones",
+    "Daniel Flores",
+    "HSCA (House Select Committee on Assassinations)",
+    "JFK Assassination Records Review Board"
+  ],
+  "significance": "PII is significant in the JFK assassination context because its presence in historical documents necessitates careful review and potential redaction to balance public interest in transparency with the legal and ethical obligations to protect individual privacy. The identification and management of PII are crucial for responsible archival practices and compliance with privacy laws when releasing assassination-related records.",
+  "document_ids": [
+    "194-10004-10129",
+    "180-10060-10454",
+    "104-10117-10075"
+  ]
+}

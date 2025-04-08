@@ -1,0 +1,22 @@
+{
+  "entity_name": "SSCSGO",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Based on the provided documents, SSCSGO appears to be a tag associated with documents related to the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (SSCIA), also known as the Church Committee. The documents tagged with SSCSGO primarily consist of transcripts from committee hearings and reports from the mid-1970s. These hearings and reports cover a range of topics related to CIA activities, including the use of proprietary companies, restrictions on the use of academics and media, budgetary matters, and investigations into \"executive action\" capabilities, including research into assassination. The documents span from 1975 to 1976, indicating a concentrated period of focus by the committee on these intelligence matters.",
+  "key_connections": [
+    "CIA",
+    "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (SSCIA/Church Committee)",
+    "Project ZR/RIFLE",
+    "American media organizations",
+    "Academics",
+    "Foreign exchange programs"
+  ],
+  "significance": "Based on the provided documents, SSCSGO's significance in the JFK context is indirect. The documents tagged with SSCSGO relate to investigations into CIA activities conducted by the Church Committee in the mid-1970s. While these investigations might uncover information relevant to understanding the broader context of intelligence operations during the JFK era, the documents themselves do not directly address the JFK assassination. The significance lies in the potential for these investigations to shed light on the operational capabilities, ethical boundaries, and oversight mechanisms of the CIA, which could indirectly inform perspectives on the JFK assassination.",
+  "document_ids": [
+    "157-10014-10144",
+    "157-10014-10133",
+    "157-10014-10125",
+    "157-10014-10121",
+    "157-10014-10137"
+  ]
+}

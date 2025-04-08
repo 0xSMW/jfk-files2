@@ -1,0 +1,22 @@
+{
+  "entity_name": "Index Search",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Index Searches, often coupled with 201 Consolidation Requests, are procedures used to locate and compile information on individuals, organizations, or topics within the CIA's record systems. These searches aim to identify any existing files or records pertaining to the subject of interest, and if found, to consolidate the information into a single file or record. The documents provided illustrate the application of index searches to various individuals and topics, including Howard Davis, individuals with the Vanderbilt surname, James Earl Ray, and others connected to the JFK assassination such as Guy Bannister. These searches were conducted to gather information from various files and record centers, indicating a systematic effort to collect and organize data relevant to investigations or intelligence gathering.",
+  "key_connections": [
+    "Howard Davis",
+    "Vanderbilt Surname",
+    "James Earl Ray",
+    "Guy Bannister",
+    "Victor Dominado Espinosa-Hernandez",
+    "Ed Butler",
+    "INS reports",
+    "State Department telexes"
+  ],
+  "significance": "In the context of the JFK assassination, Index Searches are significant as they represent a method used by intelligence agencies to gather and consolidate information on individuals and events potentially related to the assassination. The presence of names like James Earl Ray and Guy Bannister in these search requests suggests an effort to investigate possible connections and gather intelligence relevant to understanding the circumstances surrounding the assassination.",
+  "document_ids": [
+    "104-10056-10005",
+    "104-10062-10288",
+    "104-10079-10231"
+  ]
+}

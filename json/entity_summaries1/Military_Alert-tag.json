@@ -1,0 +1,23 @@
+{
+  "entity_name": "Military Alert",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Following President Kennedy's assassination, several military alerts were issued by different entities. The Cuban military was placed on alert, as detailed in multiple NSA and CIA reports, including SIGINT daily summaries and operational summaries. These alerts were precautionary measures in response to the assassination. The Western Army in Cuba was also told to stand by for a possible alert. Additionally, Soviet military activity and alerts were noted as precautionary measures within the Soviet Bloc during the period of November 20-26, 1963. These alerts reflect a period of heightened tension and uncertainty following the assassination, with various military entities taking defensive postures.",
+  "key_connections": [
+    "President Kennedy's assassination",
+    "Cuban military",
+    "Western Army (Cuba)",
+    "Soviet military",
+    "Fidel Castro",
+    "NSA",
+    "CIA"
+  ],
+  "significance": "The military alerts signify the immediate reactions and heightened state of readiness of various military entities in the wake of President Kennedy's assassination. They reflect concerns about potential instability or exploitation of the situation by opposing forces, both in Cuba and within the Soviet Bloc. The alerts underscore the global impact and immediate security concerns triggered by the assassination.",
+  "document_ids": [
+    "144-10001-10108",
+    "104-10302-10021",
+    "144-10001-10279",
+    "197-10002-10190",
+    "144-10001-10068"
+  ]
+}

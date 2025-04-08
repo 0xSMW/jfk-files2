@@ -1,0 +1,19 @@
+{
+  "entity_name": "John Stein",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "John Stein is a person interviewed by James B. Weidner at CIA Headquarters on March 18, 1975, regarding alleged domestic activities of the CIA. The interviews focused on the counter-intelligence (CI) staff's role and files on Americans, as well as the CIA's domestic activities review and their handling of information related to Americans and foreign intelligence contacts. Stein's involvement is documented in memoranda and an inventory of Rockefeller Commission files, indicating his knowledge or involvement in sensitive matters related to the CIA's activities and the Kennedy assassination.",
+  "key_connections": [
+    "James B. Weidner",
+    "CIA",
+    "Rockefeller Commission",
+    "Counter-Intelligence (CI) staff"
+  ],
+  "significance": "John Stein's significance in the JFK context stems from his involvement with the CIA and his knowledge of the counter-intelligence staff's activities, particularly concerning files on Americans and the CIA's domestic operations. The Rockefeller Commission files, which include documentation related to the Kennedy assassination, suggest that Stein may have possessed information relevant to the investigation, though the exact nature and extent of his knowledge are not fully detailed in the provided documents.",
+  "document_ids": [
+    "104-10107-10008",
+    "178-10004-10396",
+    "178-10004-10420",
+    "135-10001-10287"
+  ]
+}

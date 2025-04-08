@@ -1,0 +1,17 @@
+{
+  "entity_name": "Joe Crane",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, there is no mention of Joe Crane. The documents primarily focus on Richard Case Nagell and his threats to expose contacts with an organization referred to as 'WOFIRM' due to unfulfilled promises from US officials. The documents discuss the handling of Nagell's case, including protecting sensitive information related to him during reviews by the House Select Committee on Assassinations (HSCA). The documents span from 1969 to 1998, indicating a sustained interest in Nagell's case and the potential exposure of sensitive information.",
+  "key_connections": [
+    "Richard Case Nagell",
+    "WOFIRM",
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Since Joe Crane is not mentioned in the provided documents, their significance in the JFK context cannot be determined.",
+  "document_ids": [
+    "104-10220-10038",
+    "104-10305-10005",
+    "104-10123-10020"
+  ]
+}

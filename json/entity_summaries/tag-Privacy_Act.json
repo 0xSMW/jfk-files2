@@ -1,0 +1,24 @@
+{
+  "entity_name": "Privacy Act",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The Privacy Act is referenced in several documents primarily from the 1976-1977 period. These documents relate to the handling of Freedom of Information and Privacy Act requests within the CIA, particularly concerning information review and responses to congressional inquiries. The Act's implementation and management are discussed in the context of liaison activities with congressional offices, including the House Select Committee on Assassinations and the Senate Select Committee on Intelligence. Specific cases, such as Privacy Act case 71-728 concerning Werbell, are mentioned, indicating the Act's application to individual requests for information. The documents highlight the administrative and procedural aspects of managing information requests under the Privacy Act within the CIA during this period.",
+  "key_connections": [
+    "Freedom of Information Act",
+    "Office of Legislative Counsel",
+    "House Select Committee on Assassinations",
+    "Senate Select Committee on Intelligence",
+    "Werbell",
+    "Privacy and Information Action Group (PIAG)"
+  ],
+  "significance": "In the JFK context, the Privacy Act is significant as it governs the release of information related to individuals and events surrounding the assassination. The documents suggest that the CIA was actively managing and responding to requests for information under the Privacy Act, including those potentially related to the JFK assassination. The Act's role in balancing transparency and privacy concerns is evident in the handling of these requests and interactions with congressional committees investigating the assassination.",
+  "document_ids": [
+    "104-10145-10047",
+    "104-10222-10012",
+    "104-10105-10212",
+    "124-10274-10070",
+    "104-10142-10317",
+    "104-10142-10279",
+    "104-10140-10101"
+  ]
+}

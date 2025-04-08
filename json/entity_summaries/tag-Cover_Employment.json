@@ -1,0 +1,24 @@
+{
+  "entity_name": "Cover Employment",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Cover employment refers to the practice of providing individuals with jobs or affiliations that conceal their true activities or affiliations, often used by intelligence agencies to provide a plausible explanation for an agent's presence or actions. In the context of these documents, cover employment is used to facilitate operations and provide agents with a legitimate reason for their activities. Examples include providing Luis POSADA Carriles and Alberto de Jesus ALBERTY Garcia with cover employment at Tri-State Engineering Service, Inc., and establishing cover employment for agent AMMUG/1 with the Inter-University Committee for Political and Social Action. Cover employment also played a role in housing applications and managing personnel matters, such as James B. Wilcott Jr.'s future employment with ODYOKE after resigning from JMWAVE. The documents highlight the importance of maintaining credible cover stories for agents and the various ways in which cover employment was utilized to support clandestine operations.",
+  "key_connections": [
+    "AMMUG/1",
+    "Luis POSADA Carriles",
+    "Alberto de Jesus ALBERTY Garcia",
+    "Tri-State Engineering Service, Inc.",
+    "Inter-University Committee for Political and Social Action",
+    "James B. Wilcott Jr.",
+    "ODYOKE",
+    "JMWAVE"
+  ],
+  "significance": "In the JFK context, cover employment is significant as it reveals the methods used by intelligence agencies to conceal the activities of their agents. While these documents do not directly link cover employment to the JFK assassination, they illustrate the broader context of clandestine operations and the techniques used to maintain secrecy. The use of cover employment could potentially obscure the true roles and activities of individuals involved in events surrounding the assassination, making it difficult to ascertain their motives or connections.",
+  "document_ids": [
+    "104-10225-10035",
+    "104-10256-10208",
+    "104-10178-10052",
+    "104-10215-10099",
+    "104-10178-10049"
+  ]
+}

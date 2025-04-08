@@ -1,0 +1,29 @@
+{
+  "entity_name": "National Agency Check",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "A National Agency Check (NAC) is a background investigation conducted by U.S. government agencies, often the Department of Defense or the U.S. Army, to assess an individual's suitability for employment, security clearance, or other sensitive positions. The checks involve gathering information about a person's personal history, including residences, employment, education, and any foreign connections. The documents indicate that NACs were performed on individuals like Manuel Marti, Edward Kaczmarczyk, Robert Scheer, and David Reed Fromer. These checks were initiated for various reasons, including employment suitability and security clearances. Some individuals, like Robert Scheer and David Reed Fromer, refused to complete certain forms during the process. The requests for NACs span from the mid to late 1960s and early 1970s, indicating a period of active background investigations.",
+  "key_connections": [
+    "Manuel Marti",
+    "Edward Kaczmarczyk",
+    "Robert Scheer",
+    "David Reed Fromer",
+    "U.S. Army",
+    "Department of Defense"
+  ],
+  "significance": "In the context of the JFK assassination records, National Agency Checks appear as part of routine background investigations conducted on individuals. The significance lies in the potential to uncover information relevant to the assassination or related investigations, although the documents themselves do not explicitly link the checks to the assassination. The checks provide a snapshot of individuals' backgrounds and potential connections, which could be relevant to broader investigations.",
+  "document_ids": [
+    "194-10004-10403",
+    "194-10004-10408",
+    "194-10003-10336",
+    "194-10004-10406",
+    "194-10003-10335",
+    "194-10004-10129",
+    "194-10006-10181",
+    "194-10006-10180",
+    "194-10003-10338",
+    "194-10012-10477",
+    "194-10004-10145",
+    "194-10004-10143"
+  ]
+}

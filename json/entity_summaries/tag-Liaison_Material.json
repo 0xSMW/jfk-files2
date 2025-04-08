@@ -1,0 +1,20 @@
+{
+  "entity_name": "Liaison Material",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents tagged as 'CIA Liaison Material' primarily consist of memos from the FBI to the CIA, indicating a formal channel of communication and information sharing between the two agencies. The content of these memos varies, ranging from reporting on Soviet activities in Cuba, such as the purchase of safes for the Soviet Embassy in Havana, to discussing the CIA's use of informants and operational plans involving Cuba. The memos suggest a collaborative effort between the FBI and CIA in monitoring and responding to events related to Cuba during the early 1960s. The term itself signifies the existence of established protocols for inter-agency communication and intelligence sharing, which is a common practice in national security contexts.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "Cuba",
+    "Soviet Union",
+    "International Ore and Fertilizer Company",
+    "Petros Moutsos"
+  ],
+  "significance": "In the context of the JFK assassination, 'CIA Liaison Material' highlights the interconnectedness of intelligence agencies and their operations related to Cuba. While the provided documents do not directly mention the assassination, they illustrate the environment of intense intelligence activity and collaboration surrounding Cuba in the years leading up to it. The significance lies in understanding the broader operational landscape and the relationships between agencies involved in Cuban affairs, which may have indirect relevance to understanding the events surrounding the assassination.",
+  "document_ids": [
+    "124-90139-10071",
+    "124-90138-10073",
+    "124-90137-10230"
+  ]
+}

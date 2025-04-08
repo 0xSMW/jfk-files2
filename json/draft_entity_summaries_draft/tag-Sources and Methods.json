@@ -1,0 +1,23 @@
+{
+  "entity_name": "Sources and Methods",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The term 'Sources and Methods' refers to the intelligence-gathering techniques, operational procedures, and confidential informants used by intelligence agencies, particularly the CIA. The documents highlight the importance of protecting these sources and methods to maintain operational effectiveness, safeguard relationships with foreign liaison services, and prevent embarrassment due to potential political sensitivities. The documents reveal a consistent concern for balancing transparency and accountability, particularly when dealing with sensitive information related to the Lee Harvey Oswald case and the assassination of President Kennedy, with the need to protect intelligence capabilities. This protection is evident in the review and redaction processes applied to documents released to the Senate Select Committee on Intelligence and in the scrutiny of publications by former agents like E. Howard Hunt.",
+  "key_connections": [
+    "CIA",
+    "Senate Select Committee on Intelligence (SSCI)",
+    "Lee Harvey Oswald",
+    "E. Howard Hunt",
+    "Mexico City Station",
+    "Mexican liaison service",
+    "Office of Security (OS)"
+  ],
+  "significance": "In the JFK context, the protection of 'Sources and Methods' is a recurring theme when dealing with the release of information related to Lee Harvey Oswald and the assassination. The documents suggest a tension between the public's right to know and the intelligence community's need to protect its operational capabilities and relationships. The redaction and sanitization of documents, as well as the review of publications by former agents, indicate a concerted effort to prevent the disclosure of sensitive information that could compromise ongoing operations or reveal intelligence-gathering techniques.",
+  "document_ids": [
+    "104-10330-10010",
+    "104-10422-10057",
+    "104-10096-10048",
+    "104-10105-10271",
+    "104-10310-10118"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "entity_name": "Blanca Marti",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Blanca Marti is identified as the sister of Manuel Marti. She is mentioned in the context of FBI agent reports and local agency checks conducted in relation to her brother, Manuel Marti. Specifically, she is named in a local agency check conducted in San Juan, Puerto Rico, along with her brother Ivan Marti. Additionally, an identification form includes her date of birth, address, and file number alongside her brother Manuel. The documents suggest that the FBI was investigating Manuel Marti and, as part of that investigation, gathered information about his siblings, Blanca and Ivan.",
+  "key_connections": [
+    "Manuel Marti",
+    "Ivan Marti"
+  ],
+  "significance": "Blanca Marti's significance in the JFK context appears to be minimal and indirect. She is mentioned as a sibling of Manuel Marti, who was under investigation by the FBI. Her inclusion in the documents seems to be primarily for identification and background information related to the investigation of her brother, rather than any direct involvement in events related to the JFK assassination.",
+  "document_ids": [
+    "194-10004-10398",
+    "194-10004-10384",
+    "194-10004-10367",
+    "194-10004-10393",
+    "194-10004-10386",
+    "194-10004-10368"
+  ]
+}

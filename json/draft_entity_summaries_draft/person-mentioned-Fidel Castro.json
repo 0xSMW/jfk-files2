@@ -1,0 +1,25 @@
+{
+  "entity_name": "Fidel CASTRO",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Fidel Castro is mentioned in these documents primarily in the context of CIA operations against his regime in Cuba. The documents reveal various aspects of these operations, including attempts to support Cuban resistance groups (AMCANOE), intelligence gathering (AMFAUNA operations), and potential assassination plots. There are also mentions of individuals claiming CIA support for activities against Cuba, including sabotage and assassination attempts, and concerns about potential double agents working for both the CIA and Castro's government. The timeline spans from the late 1950s to the 1970s, with a concentration of activity in the early to mid-1960s, particularly around the time of the JFK assassination. A notable pattern is the CIA's focus on destabilizing Castro's regime through various covert operations and the use of Cuban exiles.",
+  "key_connections": [
+    "DMCHAR",
+    "AMFAUNA",
+    "Juan FALCON Tamar",
+    "Cuban exiles",
+    "Mafia",
+    "Jose Ricardo RABEL Nunez (AMLEO-3)",
+    "AMTRUNK Operation"
+  ],
+  "significance": "Fidel Castro's significance in the JFK context lies in the potential motives for his government to be involved in the assassination, given the CIA's covert operations aimed at overthrowing or assassinating him. The documents highlight the intense animosity and conflict between the US government (specifically the CIA) and Castro's regime, suggesting a possible retaliatory motive. However, the documents do not provide direct evidence of Castro's involvement in the assassination, but rather illustrate the environment of hostility and covert actions that existed between the two countries.",
+  "document_ids": [
+    "104-10167-10127",
+    "104-10073-10101",
+    "104-10506-10024",
+    "104-10308-10029",
+    "104-10308-10127",
+    "104-10103-10350",
+    "104-10102-10231"
+  ]
+}

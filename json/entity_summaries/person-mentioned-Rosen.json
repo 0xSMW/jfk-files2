@@ -1,0 +1,33 @@
+{
+  "entity_name": "Rosen",
+  "entity_type": "person-mentioned",
+  "document_count": 14,
+  "summary": "The provided documents do not contain any references to an entity named \"Rosen.\" However, there are multiple mentions of John Roselli. The documents primarily focus on Roselli's activities, associations, and investigations into his financial affairs and corporations. These documents span from 1961 to 1975 and include FBI teletypes, memoranda, and cablegrams. The documents detail surveillance of Roselli, his connections to organized crime figures like Sam Giancana and Santo Trafficante, Jr., and investigations into his gambling activities. There are also mentions of CIA liaison material and procedures for handling sensitive information received from the CIA related to Israeli intelligence activities and potential threats.",
+  "key_connections": [
+    "John Roselli",
+    "Sam Giancana",
+    "Santo Trafficante, Jr.",
+    "Gabriel Mannarino",
+    "James Angleton",
+    "CIA",
+    "FBI",
+    "IRS"
+  ],
+  "significance": "Based on the provided documents, the significance of \"Rosen\" (assuming this refers to John Roselli) in the JFK context is not explicitly stated. However, his connections to organized crime figures like Sam Giancana and Santo Trafficante, Jr. are documented. These connections are relevant due to the alleged involvement of organized crime in the JFK assassination, although the documents do not directly implicate Roselli in the assassination itself.",
+  "document_ids": [
+    "124-10223-10088",
+    "124-10326-10103",
+    "124-10203-10468",
+    "124-10223-10082",
+    "124-10223-10083",
+    "124-10204-10209",
+    "124-10326-10105",
+    "124-10203-10465",
+    "124-90137-10467",
+    "124-10203-10246",
+    "124-10326-10100",
+    "124-10281-10028",
+    "124-10203-10494",
+    "124-10264-10210_multirif"
+  ]
+}

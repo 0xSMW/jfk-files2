@@ -1,0 +1,14 @@
+{
+  "entity_name": "Frank Foster",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, there is no mention of an entity named \"Frank Foster.\" The documents primarily concern the Senate Select Committee on Intelligence's (SSCI) inquiries into the JFK assassination, focusing on the NSA's involvement, information on Antonio Veciana, and responses to queries from the Warren Commission. The documents detail the NSA's limited role in assisting the Warren Commission and its internal discussions on how to handle the SSCI's requests, including withholding certain documents. The House Select Committee on Assassinations' (HSCA) inquiries into the assassinations of President John F. Kennedy and Dr. Martin Luther King, Jr., focusing on Cuban intelligence networks and related materials held by the NSA are also mentioned.",
+  "key_connections": [],
+  "significance": "Since Frank Foster is not mentioned in the documents, their significance in the JFK context is non-existent based on the provided information.",
+  "document_ids": [
+    "144-10001-10159",
+    "144-10001-10206",
+    "144-10001-10288",
+    "144-10001-10127"
+  ]
+}

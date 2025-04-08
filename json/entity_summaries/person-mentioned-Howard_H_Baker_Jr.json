@@ -1,0 +1,23 @@
+{
+  "entity_name": "Howard H. Baker, Jr.",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Howard H. Baker, Jr. is mentioned in the context of Senate Select Committee on Intelligence Activities (SSC) investigations. While the documents do not explicitly detail Baker's direct involvement, they highlight the SSC's inquiries into intelligence activities related to the assassinations of President John F. Kennedy and Dr. Martin Luther King, Jr., as well as other sensitive matters such as Cuban intelligence networks, FBI interactions with the CIA, and potential compromises of FBI operations. The documents reference the SSC's requests for information and materials from agencies like the FBI and NSA, indicating Baker's potential role as a member or leader of the committee overseeing these investigations.",
+  "key_connections": [
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "House Select Committee on Assassinations (HSCA)",
+    "FBI",
+    "CIA",
+    "NSA",
+    "Martin Luther King, Jr.",
+    "John F. Kennedy",
+    "Antonio Veciana"
+  ],
+  "significance": "Howard H. Baker, Jr.'s significance in the JFK context stems from his association with the Senate Select Committee on Intelligence Activities (SSC), which investigated intelligence matters related to the JFK assassination. The SSC's inquiries into Cuban intelligence networks and related materials held by the NSA suggest Baker's potential oversight role in examining these aspects of the assassination.",
+  "document_ids": [
+    "144-10001-10159",
+    "124-10264-10206_multirif",
+    "144-10001-10206",
+    "124-10264-10191"
+  ]
+}

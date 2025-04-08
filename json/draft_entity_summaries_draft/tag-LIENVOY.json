@@ -1,0 +1,24 @@
+{
+  "entity_name": "LIENVOY",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "LIENVOY was a CIA project involving surveillance operations against Cuban and Soviet embassies in Mexico City. These operations included telephone intercepts and monitoring of contacts made by individuals, including Lee Harvey Oswald, before the assassination of President Kennedy. The project ran from at least January 1962 to December 1963 and involved the processing and exploitation of intelligence gathered from these surveillance activities. Documents indicate that LIENVOY was connected to other projects like LIFEAT and KDBADGER, and there were concerns about the reliability and security of sources involved. The Mexico City Station's operational activities, including those related to LIENVOY, faced administrative and personnel challenges.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Cuban Embassy",
+    "Soviet Embassy",
+    "LIFEAT",
+    "KDBADGER",
+    "Mexico City Station"
+  ],
+  "significance": "LIENVOY is significant in the JFK assassination context because it involved surveillance of Lee Harvey Oswald's contacts in Mexico City prior to the assassination. The information gathered through LIENVOY could potentially shed light on Oswald's activities and connections leading up to the assassination, making it a subject of interest for investigations and reviews related to the JFK assassination records.",
+  "document_ids": [
+    "180-10143-10113",
+    "104-10187-10030",
+    "104-10332-10008",
+    "104-10331-10139",
+    "104-10211-10326",
+    "104-10187-10003",
+    "104-10301-10010"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "entity_name": "Sensitive Sources",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The term \"Sensitive Sources\" appears in the context of classifying document EX 3600, which is related to Operation MHCHAOS. The classification is justified because the document contains information derived from sensitive sources and methods, as well as classified FBI reports. The classification aims to protect the sources and methods used to acquire the information. The documents consistently cite the need to protect these sources as a primary reason for classifying EX 3600, indicating their importance in the information contained within the document.",
+  "key_connections": [
+    "Operation MHCHAOS",
+    "FBI",
+    "EX 3600"
+  ],
+  "significance": "In the context of the JFK assassination records, the mention of \"Sensitive Sources\" suggests that some information related to Operation MHCHAOS and potentially the assassination itself, was obtained through confidential or protected channels. The need to protect these sources highlights their potential vulnerability and the sensitivity of the information they provided. The documents do not explicitly detail the nature or identity of these sources, but their existence is a key factor in the classification of related documents.",
+  "document_ids": [
+    "104-10074-10347",
+    "104-10063-10430",
+    "104-10074-10349"
+  ]
+}

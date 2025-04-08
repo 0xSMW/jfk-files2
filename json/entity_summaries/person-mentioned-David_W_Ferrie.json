@@ -1,0 +1,21 @@
+{
+  "entity_name": "David W. Ferrie",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "David W. Ferrie is a person mentioned in connection with the JFK assassination investigation. The documents suggest that there was interest in his potential involvement, as evidenced by a request from the Cuban Press Agency for information on his role. He is also mentioned in documents transmitted from the CIA to the House Select Committee on Assassinations (HSCA), indicating that notes and files related to him were reviewed as part of the investigation. The documents do not explicitly state his role, but the fact that information about him was being sought and reviewed suggests he was a person of interest in the context of the assassination.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "William Alexander Morgan",
+    "George de Mohrenschildt",
+    "Cuban Press Agency",
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "David W. Ferrie's significance in the JFK assassination context stems from the fact that he was a subject of investigation and information gathering by various agencies, including the CIA and the HSCA. The Cuban Press Agency's interest in his involvement further highlights his potential connection to the events surrounding the assassination. While the documents do not definitively establish his role, they indicate that he was considered a person of interest in understanding the circumstances of President Kennedy's death.",
+  "document_ids": [
+    "144-10001-10138",
+    "144-10001-10164",
+    "144-10001-10200",
+    "144-10001-10264",
+    "180-10145-10285"
+  ]
+}

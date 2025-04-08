@@ -1,0 +1,22 @@
+{
+  "entity_name": "James McCord",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "James McCord is mentioned in the context of the Watergate incident. He is listed among individuals and companies with past or present associations with the CIA. The documents do not provide extensive details about his specific role, but his name appears alongside figures like Frank Sturgis, Eugenio Martinez, and organizations such as the Robert R. Mullen Company. The documents also reference investigations into intelligence activities, including FBI interactions with the CIA and concerns about potential compromises of FBI operations. His name appears in a list of people connected to the Watergate incident, suggesting his involvement in that event.",
+  "key_connections": [
+    "Frank Sturgis",
+    "Eugenio Martinez",
+    "Bernard Barker",
+    "Virgilio Gonzales",
+    "Robert R. Mullen Company",
+    "General Foods Corporation",
+    "CIA",
+    "FBI"
+  ],
+  "significance": "The provided documents do not directly link James McCord to the JFK assassination. His significance in these documents is primarily related to the Watergate incident and his connections to individuals and organizations associated with the CIA.",
+  "document_ids": [
+    "104-10256-10273",
+    "124-10264-10191",
+    "157-10011-10078"
+  ]
+}

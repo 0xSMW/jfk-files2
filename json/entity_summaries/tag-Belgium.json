@@ -1,0 +1,22 @@
+{
+  "entity_name": "Belgium",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents primarily mention Belgium in the context of the Vlaamse Militanten Orde (VMO), a Flemish militant organization. The documents from 1978 discuss the reluctance of NIGALE (likely a code name for an intelligence entity) to provide information or prepare a report for a House of Representatives committee regarding contacts between VMO members and American citizens between 1968 and 1970. This suggests a potential interest or concern from the U.S. government regarding the VMO's activities and connections to American citizens during that period. One document mentions diplomatic efforts involving the U.S. and Mexican services, as well as the Swiss Embassy in Havana, to extract an American citizen from Cuba.",
+  "key_connections": [
+    "Vlaamse Militanten Orde (VMO)",
+    "NIGALE",
+    "House of Representatives Committee",
+    "United States",
+    "Cuba",
+    "Mexican services",
+    "Swiss Embassy in Havana"
+  ],
+  "significance": "Belgium's significance in the JFK context, based on these documents, is primarily related to the activities of the Vlaamse Militanten Orde (VMO) and potential connections between its members and American citizens. The documents suggest a U.S. government interest in these connections, although the specific reasons for this interest are not explicitly stated. The connection to Cuba is related to diplomatic efforts to extract an American citizen.",
+  "document_ids": [
+    "104-10066-10239",
+    "104-10066-10238",
+    "104-10065-10124",
+    "144-10001-10117"
+  ]
+}

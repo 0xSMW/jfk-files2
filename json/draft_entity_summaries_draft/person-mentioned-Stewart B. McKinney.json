@@ -1,0 +1,27 @@
+{
+  "entity_name": "Stewart B. McKinney",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "summary": "Based on the provided documents, Stewart B. McKinney is mentioned within the context of the House Select Committee on Assassinations (HSCA) staff payroll records and related documentation. While the documents themselves do not explicitly detail McKinney's role or involvement, his name appears in association with the committee's personnel and payroll information. The documents primarily focus on the Assassination Records Review Board's (ARRB) decisions regarding the release of HSCA staff payroll records, particularly concerning the postponement of Social Security numbers to protect personal privacy. Therefore, McKinney's connection is inferred through his association with the HSCA, though the specific nature of his role or contribution is not elaborated upon within these documents.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board (ARRB)",
+    "Wendy S. Collins",
+    "Kenneth D. Klein",
+    "Denise L. McCray",
+    "Cornish F. Hitchcock"
+  ],
+  "significance": "Stewart B. McKinney's significance in the JFK context, based solely on these documents, is limited to his association with the HSCA. The documents do not provide specific details about his role or contributions to the committee's investigation. His name appears in the context of payroll records and personnel information, suggesting he was likely a staff member or associated with the HSCA in some capacity. However, without further information, it's difficult to ascertain the extent of his involvement or its impact on the JFK assassination investigation.",
+  "document_ids": [
+    "180-10071-10000",
+    "180-10068-10324",
+    "180-10068-10346",
+    "180-10125-10172",
+    "104-10408-10078",
+    "180-10060-10459",
+    "180-10060-10480",
+    "180-10060-10442",
+    "180-10060-10439",
+    "180-10068-10341"
+  ]
+}

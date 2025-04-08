@@ -1,0 +1,19 @@
+{
+  "entity_name": "Inspector General",
+  "entity_type": "recipient",
+  "document_count": 4,
+  "summary": "The Inspector General of the CIA is the recipient of several memoranda related to investigations into E. Howard Hunt's activities, particularly concerning his assignment in Madrid and financial transactions. These investigations were prompted by concerns related to Watergate and potential domestic operations. The Director of Finance reports to the Inspector General regarding the search for unaccounted payments to Howard Hunt, revealing no large unrecorded payments but noting unusual financial procedures. The Inspector General's office appears to be a central point for reporting and investigating potential irregularities or questionable activities within the CIA, including allegations of assassination plots and financial discrepancies.",
+  "key_connections": [
+    "E. Howard Hunt",
+    "Director of Finance",
+    "CIA",
+    "Watergate"
+  ],
+  "significance": "In the context of the JFK assassination documents, the Inspector General's role is primarily related to investigating potential wrongdoing and irregularities within the CIA, particularly concerning individuals like E. Howard Hunt who were later implicated in Watergate. The documents suggest the Inspector General's office was involved in assessing financial transactions and operational activities that could have broader implications for the agency's integrity and legal compliance. While not directly related to the JFK assassination itself, the investigations into Hunt and other activities reflect the climate of scrutiny and accountability within the CIA during the period following the assassination and leading up to Watergate.",
+  "document_ids": [
+    "104-10173-10130",
+    "178-10002-10185",
+    "104-10103-10038",
+    "104-10173-10132"
+  ]
+}

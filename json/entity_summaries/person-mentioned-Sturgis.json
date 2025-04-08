@@ -1,0 +1,27 @@
+{
+  "entity_name": "Sturgis",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Sturgis is a person mentioned in several CIA-related documents. The documents suggest connections between Sturgis and individuals involved in sensitive matters, including the CIA, Cuba, and the Bay of Pigs. A telephone call on April 29, 1975, mentions Sturgis in connection with individuals like Barber, Knowless, Bill Johnson, Hunt, Carlos Prio, Carlos Marcello, and Marita Lorenz. OSG records containing information on Sturgis were forwarded in September 1976. The documents also touch on CIA operations, plots to assassinate Fidel Castro, and the Watergate scandal, indicating Sturgis may be linked to these events through his associations.",
+  "key_connections": [
+    "Barber",
+    "Knowless",
+    "Bill Johnson",
+    "Hunt",
+    "Carlos Prio",
+    "Carlos Marcello",
+    "Marita Lorenz",
+    "CIA",
+    "Fidel Castro",
+    "Watergate"
+  ],
+  "significance": "The significance of Sturgis in the JFK assassination context is not explicitly stated in these documents, but his connections to individuals and events related to CIA activities, Cuba, and potential assassination plots suggest a possible, though undefined, relevance. Further investigation would be needed to determine the extent of his involvement, if any, in the JFK assassination.",
+  "document_ids": [
+    "104-10073-10350",
+    "135-10001-10237",
+    "157-10011-10024",
+    "178-10004-10420",
+    "104-10096-10048",
+    "104-10256-10283"
+  ]
+}

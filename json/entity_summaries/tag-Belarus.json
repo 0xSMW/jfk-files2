@@ -1,0 +1,25 @@
+{
+  "entity_name": "Belarus",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "Belarus, specifically Minsk, plays a role primarily related to Lee Harvey Oswald's time there and the subsequent attempts to access KGB (later BKGB) files concerning him. The documents reveal efforts by the CIA, the Assassination Records Review Board (ARRB), and the Department of State to obtain these files from Belarusian archives, often encountering challenges due to privacy laws and past failed attempts. The documents span from 1993 to 1998, with a concentration in 1996 and 1998, indicating a period of focused effort to retrieve information related to Oswald. There's a consistent pattern of the US government seeking Belarusian cooperation in accessing these records, highlighting Belarus's potential possession of information relevant to the JFK assassination.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "KGB/BKGB (Belarusian KGB)",
+    "Assassination Records Review Board (ARRB)",
+    "CIA",
+    "Department of State",
+    "FSB/SVR (Russian Intelligence Services)"
+  ],
+  "significance": "Belarus's significance in the JFK assassination context lies in its potential possession of KGB/BKGB files related to Lee Harvey Oswald's time in Minsk. These files are believed to contain information that could shed light on Oswald's activities and connections during his time in the Soviet Union, potentially providing insights into his motives and any possible involvement with foreign entities. The repeated attempts by US agencies to access these files underscore their perceived importance in understanding the events surrounding the assassination.",
+  "document_ids": [
+    "104-10326-10077",
+    "104-10326-10040",
+    "104-10326-10010",
+    "104-10326-10012",
+    "104-10326-10100",
+    "104-10326-10013",
+    "104-10326-10097",
+    "104-10326-10042"
+  ]
+}

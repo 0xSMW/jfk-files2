@@ -1,0 +1,18 @@
+{
+  "entity_name": "Hernandez",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, information about Hernandez is limited. The documents mention Hernandez in the context of guerilla warfare training, Cuban activities, and U.S.-Venezuelan relations. In document \"104-10183-10347\", Hernandez is associated with individuals trained in guerilla warfare and a case file named \"ZAPOTE\". In document \"104-10302-10022\", Hernandez is mentioned in the context of Cuban activities, including Castro's response to Kennedy's assassination, military developments in Cuba, and Cuban support of subversive activities in Venezuela. In document \"104-10161-10091\", Hernandez is mentioned in the context of U.S.-Venezuelan relations and CIA activities, including liaison activities with Venezuelan intelligence services and increased surveillance of CIA personnel. Without further context, it is difficult to determine Hernandez's specific role or significance.",
+  "key_connections": [
+    "Castro",
+    "Venezuelan government",
+    "CIA",
+    "DGI organization"
+  ],
+  "significance": "The significance of Hernandez in the JFK context is unclear based on the provided documents. The documents suggest a possible connection to Cuban activities and U.S.-Venezuelan relations, but further information is needed to determine Hernandez's specific role or involvement.",
+  "document_ids": [
+    "104-10183-10347",
+    "104-10302-10022",
+    "104-10161-10091"
+  ]
+}

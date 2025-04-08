@@ -1,0 +1,21 @@
+{
+  "entity_name": "Richard Ober",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Richard Ober was associated with CI/OP/DO within an organization (likely the CIA, based on the document context). He played a role in the investigation following the assassination of JFK, specifically related to the identification of James Earl Ray. Ober requested the construction of an Identikit composite of Ray and coordinated the distribution of Ray's photographs to various stations. His involvement appears to be focused on gathering and disseminating information related to Ray's appearance in April 1968.",
+  "key_connections": [
+    "James Earl Ray",
+    "TSD/AB/PDS",
+    "DDP/CI",
+    "C/NE",
+    "C/FE",
+    "C/WH",
+    "C/EUR"
+  ],
+  "significance": "Richard Ober's significance lies in his role in the post-assassination investigation, specifically in the identification and dissemination of information about James Earl Ray, who was a suspect in the assassination of Martin Luther King Jr. The documents suggest he was involved in creating and distributing an Identikit composite and photographs of Ray to various stations, indicating his role in the effort to locate and apprehend Ray.",
+  "document_ids": [
+    "104-10178-10112",
+    "104-10071-10405",
+    "104-10178-10137"
+  ]
+}

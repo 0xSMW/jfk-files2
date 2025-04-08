@@ -1,0 +1,17 @@
+{
+  "entity_name": "De Gaulle",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Charles de Gaulle is mentioned in the context of international relations during the JFK era. While the documents do not directly link De Gaulle to the JFK assassination, they place him within the broader geopolitical landscape of the time. He appears in the CIA's Weekly Review, indicating his significance in global events monitored by the agency. He is also mentioned in a memo regarding a meeting with Mexican President Lopez Mateos, suggesting discussions about international issues like Cuba and Red China, which indirectly relate to the Cold War context relevant to the JFK presidency. The third document does not mention De Gaulle.",
+  "key_connections": [
+    "Lopez Mateos",
+    "Cuba",
+    "Red China"
+  ],
+  "significance": "The provided documents do not indicate any direct significance of De Gaulle in the JFK assassination context. His significance lies in his role as a major world leader during the Cold War, influencing international relations and policies that indirectly affected the environment in which the JFK assassination occurred.",
+  "document_ids": [
+    "104-10302-10030",
+    "177-10002-10069",
+    "124-10325-10318"
+  ]
+}

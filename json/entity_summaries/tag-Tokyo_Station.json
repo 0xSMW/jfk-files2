@@ -1,0 +1,21 @@
+{
+  "entity_name": "Tokyo Station",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Tokyo Station refers to a CIA station located in Tokyo, Japan. The documents indicate its existence was potentially sensitive, particularly concerning the JFK Assassination Records Review Board's possible release of information confirming its presence in the early 1960s. The Tokyo Station was involved in intelligence operations and had relationships that the station feared could be damaged if its existence was officially acknowledged. The station was also involved in responding to allegations made by James Wilcott regarding Lee Harvey Oswald's alleged CIA connections while stationed in Tokyo. Furthermore, the documents include a list of CIA personnel assigned to the Tokyo Station, including their positions, file numbers, and security postures. The documents also mention missing data from the Tokyo Station Position Control Register pages for 1963.",
+  "key_connections": [
+    "CIA",
+    "James Wilcott",
+    "Lee Harvey Oswald",
+    "JFK Assassination Records Review Board",
+    "US-Japan relations"
+  ],
+  "significance": "The Tokyo Station's significance in the JFK context lies in its potential connection to Lee Harvey Oswald, as investigated following allegations by James Wilcott. The CIA's concern over the release of information about the station by the JFK Assassination Records Review Board suggests a sensitivity surrounding its activities during the period relevant to the assassination. The station's role in intelligence operations and its relationships with other entities could have been compromised by official acknowledgement.",
+  "document_ids": [
+    "104-10133-10461",
+    "180-10145-10265",
+    "104-10133-10207",
+    "104-10326-10051",
+    "104-10326-10050"
+  ]
+}

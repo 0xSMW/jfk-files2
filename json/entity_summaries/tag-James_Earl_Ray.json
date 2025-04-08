@@ -1,0 +1,38 @@
+{
+  "entity_name": "James Earl Ray",
+  "entity_type": "tag",
+  "document_count": 18,
+  "summary": "James Earl Ray is identified as the accused assassin of Martin Luther King Jr. The documents detail the FBI's and CIA's investigations into Ray, including requests for his identikit composite, fingerprint formula, physical characteristics, aliases, and criminal history. The House Select Committee on Assassinations (HSCA) also investigated Ray's potential leads in Portugal, the UK, and Mexico. The CIA's involvement was primarily at the FBI's request, focusing on gathering information on Ray's aliases and whereabouts through overseas liaison services. The documents span from 1968, immediately following the assassination, to 1978 during the HSCA investigations, with some documents lacking specific dates.",
+  "key_connections": [
+    "Martin Luther King Jr.",
+    "House Select Committee on Assassinations (HSCA)",
+    "FBI",
+    "CIA",
+    "Richard Ober",
+    "Arthur J. Hanes",
+    "Guy Bannister",
+    "Victor Dominado Espinosa-Hernandez",
+    "Ed Butler"
+  ],
+  "significance": "While the documents primarily focus on James Earl Ray's role in the assassination of Martin Luther King Jr., they also touch upon the HSCA's investigation into the assassination of President Kennedy. Ray's name appears in the context of the HSCA's broader investigation, suggesting a potential, though not explicitly defined, connection or lead they were exploring in relation to the JFK assassination. The documents indicate that the HSCA was interested in any potential leads related to Ray in various countries, implying a possible international dimension to their investigation.",
+  "document_ids": [
+    "124-10180-10324_multirif",
+    "124-10180-10320_multirif",
+    "104-10066-10010",
+    "104-10178-10112",
+    "104-10147-10304",
+    "124-10180-10323_multirif",
+    "104-10178-10124",
+    "104-10071-10405",
+    "104-10071-10404",
+    "104-10433-10081",
+    "124-10180-10236_multirif",
+    "104-10071-10407",
+    "180-10143-10222",
+    "104-10322-10056",
+    "104-10178-10120",
+    "104-10079-10163",
+    "104-10079-10231",
+    "104-10178-10130"
+  ]
+}

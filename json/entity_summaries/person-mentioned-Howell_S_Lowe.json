@@ -1,0 +1,20 @@
+{
+  "entity_name": "Howell S. Lowe",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Howell S. Lowe is a person mentioned in several documents related to the House Select Committee on Assassinations (HSCA) investigations into the assassinations of Martin Luther King Jr. and John F. Kennedy. The documents consist of communications between the FBI, its field offices, and the HSCA, including requests for files, informant information, and agent details. While the documents mention Lowe, they do not explicitly detail his role or significance in the JFK assassination context. The documents focus on the FBI's responses to HSCA requests for information related to various individuals and groups, and Lowe's name appears within this broader context.",
+  "key_connections": [
+    "FBI",
+    "House Select Committee on Assassinations (HSCA)",
+    "Martin Luther King Jr.",
+    "John F. Kennedy"
+  ],
+  "significance": "The significance of Howell S. Lowe in the JFK context is not explicitly detailed in the provided documents. His name appears in the context of FBI communications with the HSCA during their investigation, suggesting he may have been a subject of interest or investigation, but the specific nature of his involvement is not clear.",
+  "document_ids": [
+    "124-10180-10324_multirif",
+    "124-10180-10320_multirif",
+    "124-10180-10217_multirif",
+    "124-10180-10323_multirif",
+    "124-10180-10236_multirif"
+  ]
+}

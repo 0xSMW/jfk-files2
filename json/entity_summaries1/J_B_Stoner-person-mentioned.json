@@ -1,0 +1,21 @@
+{
+  "entity_name": "J. B. Stoner",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "J. B. Stoner is mentioned in several documents related to the House Select Committee on Assassinations (HSCA) investigations into the assassinations of Martin Luther King Jr. and John F. Kennedy. The documents consist of communications between the FBI, its field offices, and the HSCA, indicating that the HSCA requested files and information on individuals and groups, including those related to Stoner. The documents suggest that Stoner was a person of interest in the HSCA's investigation, possibly due to his association with the National States Rights Party.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "FBI",
+    "National States Rights Party",
+    "Martin Luther King Jr.",
+    "John F. Kennedy"
+  ],
+  "significance": "J. B. Stoner's significance in the JFK context is related to the HSCA's investigation into the assassination, where he was a person of interest, possibly due to his association with the National States Rights Party. The documents indicate that the HSCA sought information about him from the FBI, suggesting a potential link, however tenuous, to the assassination investigation.",
+  "document_ids": [
+    "124-10180-10324_multirif",
+    "124-10180-10320_multirif",
+    "124-10180-10323_multirif",
+    "124-10180-10236_multirif",
+    "124-10180-10325_multirif"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "entity_name": "James A. Noel",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "James A. Noel was a CIA employee who was removed from the CIA Retirement and Disability System in 1968. He is mentioned in documents related to the Western Hemisphere Division of the CIA, specifically concerning activities in Latin America and Cuba between 1946 and 1965. His name also appears in a compilation of cryptonyms, aliases, and true names related to CIA personnel and operations, particularly those concerning Cuban-related activities and responses to requests from the House Select Committee on Assassinations (HSCA). Additionally, he is mentioned in a review of files related to Manuel Ray y Rivero, a figure in the Cuban exile community.",
+  "key_connections": [
+    "Manuel Ray y Rivero",
+    "House Select Committee on Assassinations (HSCA)",
+    "David A. Phillips",
+    "David R. McLeat"
+  ],
+  "significance": "Based on the documents, James A. Noel's significance in the JFK assassination context appears to be related to his involvement in CIA activities concerning Cuba, as his name is included in lists compiled in response to requests from the House Select Committee on Assassinations (HSCA). The documents suggest he was a CIA employee involved in operations within the Western Hemisphere Division, particularly concerning Cuba, during a period relevant to the events surrounding the assassination. However, the documents do not explicitly link him to the assassination itself.",
+  "document_ids": [
+    "104-10291-10013",
+    "180-10143-10456",
+    "104-10061-10115",
+    "104-10061-10115",
+    "104-10301-10001"
+  ]
+}

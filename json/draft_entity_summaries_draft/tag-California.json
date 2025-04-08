@@ -1,0 +1,19 @@
+{
+  "entity_name": "California",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "California is mentioned in the context of local agency checks conducted by law enforcement agencies within the state. These checks were performed on individuals such as David Reed Fromer and Robert Scheer in 1966. The documents indicate that these checks revealed no records on Fromer and Scheer. Additionally, Robert Scheer was interviewed at the Armed Forces Examining and Entrance Station in Oakland, California. One document mentions a payment to Edvard G. Tichborn, but the connection to California is not explicitly stated in the summary.",
+  "key_connections": [
+    "David Reed Fromer",
+    "Robert Scheer",
+    "Edvard G. Tichborn",
+    "Oakland Armed Forces Examining and Entrance Station"
+  ],
+  "significance": "In the context of these documents, California's significance lies in its role as the location where local agency checks and interviews were conducted on individuals. The absence of records on Fromer and Scheer during these checks is noted. The documents do not explicitly link California to the JFK assassination, but rather to background checks and interviews related to individuals during the 1960s.",
+  "document_ids": [
+    "194-10004-10156",
+    "194-10006-10183",
+    "194-10006-10187",
+    "104-10174-10030"
+  ]
+}

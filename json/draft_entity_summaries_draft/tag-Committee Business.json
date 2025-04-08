@@ -1,0 +1,20 @@
+{
+  "entity_name": "Committee Business",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents provided relate to the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, often referred to as the Church Committee. This committee was formed in 1975 to investigate intelligence gathering activities by the CIA, FBI, and other government agencies. The documents highlight the committee's focus on CIA activities, specifically the covert use of media and academics, restrictions on the CIA's operational use of academics and grantees, and the DCI's responsibilities, resource allocation, and coordination of intelligence activities. The hearings took place in March 1976, indicating a concentrated period of investigation and discussion regarding these issues. The committee's work aimed to provide oversight and potentially impose limitations on intelligence operations.",
+  "key_connections": [
+    "Senate Select Committee to Study Governmental Operations With Respect to Intelligence Activities (Church Committee)",
+    "CIA",
+    "FBI",
+    "Academics",
+    "Media",
+    "DCI (Director of Central Intelligence)"
+  ],
+  "significance": "While the documents do not directly mention the JFK assassination, the Senate Select Committee's investigation into intelligence activities is relevant to the broader context of the JFK assassination because it sheds light on the operations, capabilities, and potential abuses of power by intelligence agencies during that era. Understanding the scope and nature of these activities is crucial for evaluating potential connections or involvement of these agencies in the assassination or its aftermath.",
+  "document_ids": [
+    "157-10014-10133",
+    "157-10014-10125",
+    "157-10014-10121"
+  ]
+}

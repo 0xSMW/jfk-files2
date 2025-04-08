@@ -1,0 +1,21 @@
+{
+  "entity_name": "ONI",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "Based on the provided documents, ONI (Office of Naval Intelligence) appears in the context of investigations and intelligence operations. While the documents do not explicitly detail ONI's direct role in the JFK assassination, they highlight the Naval Investigative Service (NIS), which is part of the Department of the Navy, responding to inquiries from the House Select Committee on Assassinations (HSCA) regarding Lee Harvey Oswald's military service and related investigations. The documents also mention intelligence operations in Tokyo and investigations into individuals like Peter Paul Gregory, which may indirectly relate to ONI's broader intelligence activities during the period. The documents suggest ONI's involvement in national agency checks and intelligence gathering, but its specific connection to the JFK assassination remains indirect based on the provided information.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Naval Investigative Service (NIS)",
+    "Department of the Navy",
+    "House Select Committee on Assassinations (HSCA)",
+    "Peter Paul Gregory",
+    "CIA"
+  ],
+  "significance": "ONI's significance in the JFK context, based on these documents, lies in its role as the parent organization of the Naval Investigative Service (NIS), which provided information to the HSCA regarding Lee Harvey Oswald's military background and related investigations. While not directly implicated in the assassination itself, ONI's involvement through NIS highlights the Navy's cooperation with inquiries related to the JFK assassination investigation.",
+  "document_ids": [
+    "104-10119-10225",
+    "104-10219-10143",
+    "104-10117-10296",
+    "180-10104-10354"
+  ]
+}

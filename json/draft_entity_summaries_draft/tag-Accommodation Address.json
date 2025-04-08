@@ -1,0 +1,22 @@
+{
+  "entity_name": "Accommodation Address",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Accommodation addresses, as referenced in the documents, are temporary or discreet locations used by agents for mail handling and lodging, crucial for maintaining operational security. These addresses are used to facilitate covert activities by providing a secure point of contact and a safe haven for agents operating in foreign countries. The documents highlight the use of accommodation addresses in various locations such as Brazil (for Lucian W. Fabsik), Mexico City (for S/ agents and agents dispatched to Cuba), and within the U.S. (for agent AEASPIC). The urgency in securing these addresses, particularly in Mexico City for agents heading to Cuba, underscores their importance in supporting clandestine operations during the Cold War era. The need for PO boxes is also mentioned, indicating a method for receiving communications without revealing the agent's true location.",
+  "key_connections": [
+    "AEASPIC (David Durvard)",
+    "Lucian W. Fabsik",
+    "REDSOX operation",
+    "S/ agents",
+    "Mexico City",
+    "Cuba",
+    "Bell",
+    "PO Boxes"
+  ],
+  "significance": "In the context of the JFK assassination, accommodation addresses are significant as they represent a component of covert operations and intelligence activities that were ongoing during the Cold War. While the documents provided do not directly link accommodation addresses to the JFK assassination, they illustrate the infrastructure and methods used by intelligence agencies, which could be relevant in understanding the broader context of events and individuals potentially involved in the assassination. The use of accommodation addresses in Mexico City, a location linked to Lee Harvey Oswald's activities prior to the assassination, adds a layer of potential relevance, though direct connections would require further investigation.",
+  "document_ids": [
+    "104-10182-10004",
+    "104-10171-10095",
+    "104-10171-10093"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "entity_name": "John Hart",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "John Hart is mentioned in the context of CIA activities and the JFK assassination records. One document refers to the House Select Committee on Assassinations' (HSCA) request for access to the Hart Report, indicating that John Hart was likely the author of a report relevant to the JFK assassination investigation. The documents suggest that the CIA's handling of the Yuriy Nosenko case and the release of information related to the Hart Report were matters of concern, particularly in relation to the JFK Assassination Records Collection Act. The specific content of the Hart Report and John Hart's direct role in the CIA or the JFK investigation are not detailed in these summaries, but his report was significant enough to be requested by the HSCA.",
+  "key_connections": [
+    "Yuriy Nosenko",
+    "House Select Committee on Assassinations (HSCA)",
+    "CIA",
+    "JFK Assassination Records Collection Act"
+  ],
+  "significance": "John Hart's significance lies in his authorship of the 'Hart Report,' a document deemed important enough to be requested by the HSCA during its investigation into the JFK assassination. The report likely contained information relevant to the assassination, potentially related to Yuriy Nosenko or other CIA-related aspects of the case. The CIA's handling of the report and its potential release under the JFK Assassination Records Collection Act indicate its sensitivity and importance.",
+  "document_ids": [
+    "180-10111-10051",
+    "104-10306-10025",
+    "104-10332-10009"
+  ]
+}

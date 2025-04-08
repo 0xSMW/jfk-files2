@@ -1,0 +1,20 @@
+{
+  "entity_name": "Daly",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, \"Daly\" appears in the context of FBI responses to Congressional committee requests, particularly those from the Senate Select Committee on Intelligence Activities (SSC). The documents relate to inquiries about investigations, COINTELPRO (Counter Intelligence Program), security clearances for Senate Select Committee staff, and an incident involving an FBI informant. The documents do not provide specific details about Daly's identity, role, or significance beyond their involvement in these administrative and investigative matters. The timeline of involvement is centered around June 1975, as indicated by the document dates. A notable pattern is Daly's connection to the FBI's handling of Congressional inquiries and internal matters like COINTELPRO and informants.",
+  "key_connections": [
+    "FBI",
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "COINTELPRO",
+    "FBI Informant",
+    "Congressional Committee Requests"
+  ],
+  "significance": "The significance of \"Daly\" in the JFK context, based solely on these documents, is not directly apparent. The documents suggest involvement in the FBI's administrative and investigative responses to Congressional inquiries, including matters related to COINTELPRO and informants. Without further context, it's difficult to ascertain a direct connection to the JFK assassination.",
+  "document_ids": [
+    "124-10271-10003_multirif",
+    "124-10271-10011_multirif",
+    "124-10271-10299_multirif",
+    "124-10271-10003"
+  ]
+}

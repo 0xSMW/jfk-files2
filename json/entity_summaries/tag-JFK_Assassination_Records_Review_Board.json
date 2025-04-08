@@ -1,0 +1,32 @@
+{
+  "entity_name": "JFK Assassination Records Review Board",
+  "entity_type": "tag",
+  "document_count": 14,
+  "summary": "The JFK Assassination Records Review Board (ARRB) was established to oversee the release of documents related to the assassination of President John F. Kennedy. The ARRB interacted extensively with the CIA, FBI, and other government agencies to review and declassify relevant records. A primary concern for the CIA during this process was protecting sensitive information, including the identities of CIA personnel (especially those under cover), CIA stations (particularly their locations), and intelligence sources and methods. The CIA sought to balance transparency with the need to safeguard ongoing operations, relationships with foreign governments, and the security of individuals. The ARRB's activities spanned from at least 1993 to 1998, as indicated by the document dates, with significant activity occurring between 1994 and 1997. The documents reveal a pattern of negotiation and potential conflict between the ARRB's mandate for disclosure and the CIA's concerns about national security and operational integrity.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "House Permanent Select Committee on Intelligence (HPSCI)",
+    "David Cohen",
+    "Thomas Jeremy Gunn",
+    "David George Marwell",
+    "Brian Latell"
+  ],
+  "significance": "The JFK Assassination Records Review Board played a crucial role in the declassification and release of documents related to the JFK assassination, contributing to public understanding and historical record. Its interactions with the CIA highlight the tensions between transparency and national security concerns in the context of sensitive intelligence operations.",
+  "document_ids": [
+    "104-10333-10013",
+    "104-10330-10026",
+    "104-10326-10017",
+    "104-10326-10040",
+    "104-10332-10020",
+    "104-10333-10002",
+    "104-10326-10084",
+    "104-10326-10051",
+    "104-10326-10050",
+    "104-10331-10118",
+    "104-10326-10090",
+    "104-10330-10044",
+    "104-10337-10002",
+    "104-10331-10076"
+  ]
+}

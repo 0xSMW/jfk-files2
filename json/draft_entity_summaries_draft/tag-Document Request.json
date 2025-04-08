@@ -1,0 +1,21 @@
+{
+  "entity_name": "Document Request",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents provided relate to requests for documents made by the Senate Select Committee (Church Committee) to various government agencies, primarily the CIA and FBI, during their investigation into intelligence activities. These requests are significant as they represent the efforts of the Church Committee to uncover information related to potential abuses and domestic operations of these agencies. The documents include memoranda, lists, and letters detailing the specific documents requested, the agencies' responses regarding release, and the scope of the investigation. The timeline spans from 1975 to 1976, reflecting the period of the Church Committee's active investigation. A notable pattern is the careful consideration given to which documents could be released, requiring deletions, or only being reviewed on agency premises, indicating a tension between transparency and national security concerns.",
+  "key_connections": [
+    "Senate Select Committee (Church Committee)",
+    "CIA (Central Intelligence Agency)",
+    "FBI (Federal Bureau of Investigation)",
+    "Clarence Kelley",
+    "Jeanne Davis",
+    "William Colby",
+    "Frank Church"
+  ],
+  "significance": "While the provided documents do not directly mention the JFK assassination, the document requests are part of a broader investigation into intelligence agency activities, some of which may have connections, direct or indirect, to the events surrounding the assassination. The Church Committee's investigation aimed to uncover potential abuses and illegal activities, which could shed light on the context and environment in which the assassination occurred, even if the documents themselves do not explicitly address the event.",
+  "document_ids": [
+    "178-10003-10176",
+    "178-10003-10311",
+    "178-10003-10453"
+  ]
+}

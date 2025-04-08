@@ -1,0 +1,33 @@
+{
+  "entity_name": "Intelligence Activities",
+  "entity_type": "tag",
+  "document_count": 13,
+  "summary": "The documents highlight various intelligence activities, primarily those conducted by the CIA and FBI, and scrutinized by Senate Select Committees in the 1970s. These activities include investigations into individuals like Henryk Ignacy Janikowski, potential connections to black market currency exchange, and monitoring of individuals contacted by Senate Select Committees. A significant focus is on the Senate Select Committee investigations into potential abuses, domestic operations, and questionable activities of the CIA and FBI, including mail interception programs targeting Soviet agents and the Soviet Mission to the UN. The documents also reveal investigations into Martin Luther King Jr.'s alleged Communist ties and the FBI's responses to Congressional committee requests. The Senate Select Committee on Assassinations (SSCIA) also investigated allegations of United States involvement in assassination plots against foreign political leaders.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Senate Select Committee (SSC)",
+    "Senate Select Committee on Intelligence Activities (SSCIA)",
+    "Henryk Ignacy Janikowski",
+    "Martin Luther King Jr.",
+    "Stanley Levison",
+    "Soviet Union",
+    "COINTELPRO"
+  ],
+  "significance": "In the JFK assassination context, the significance of intelligence activities lies in the potential for covert actions and the roles of government agencies, as investigated by the Select Committee on Assassinations (SSCIA). The documents suggest a broader pattern of intelligence operations and oversight, which could be relevant to understanding the context and potential actors involved in the assassination.",
+  "document_ids": [
+    "124-90137-10357",
+    "157-10014-10133",
+    "124-10274-10001",
+    "124-10274-10029_multirif_redacted",
+    "178-10003-10453",
+    "124-10271-10303",
+    "157-10014-10121",
+    "124-10238-10333_multirif",
+    "124-10271-10011_multirif",
+    "124-10185-10100",
+    "157-10014-10081",
+    "124-10238-10329_multirif",
+    "157-10014-10151"
+  ]
+}

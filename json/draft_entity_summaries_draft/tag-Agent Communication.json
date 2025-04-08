@@ -1,0 +1,23 @@
+{
+  "entity_name": "Agent Communication",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "Agent communication, as a tag, encompasses the various methods and content of interactions between intelligence agents and their handlers or other agents. These communications are crucial for relaying information, coordinating operations, and managing resources. The documents highlight several aspects of agent communication, including the use of cables for transmitting urgent information, the establishment of contact information and code names for secure communication, and the discussion of operational details such as supply shipments, potential exfiltration, and the use of contacts. The communications often involve classified information and are essential for the planning and execution of covert operations. The documents span from late November to early December 1963, indicating a concentrated period of activity.",
+  "key_connections": [
+    "JMWAVE",
+    "JAJAVE",
+    "Director of the CIA",
+    "Rolando CUBELA Secades (AM/LASH)",
+    "Jorge Gutierrez",
+    "Carlos TEPEDINO",
+    "Russian ship arriving in Havana",
+    "Addresses in Mexico and the US"
+  ],
+  "significance": "In the context of the JFK assassination, agent communication is significant as it provides insights into the clandestine activities and intelligence operations being conducted by the CIA and its agents. Understanding the nature and content of these communications can help reveal potential motives, connections, and operational details related to individuals or groups who may have been involved in the assassination. The documents suggest a focus on Cuba, potential military preparations, and the management of agents involved in sensitive operations, all of which could be relevant to understanding the broader context surrounding the assassination.",
+  "document_ids": [
+    "104-10076-10229",
+    "104-10075-10232",
+    "104-10216-10199",
+    "104-10076-10000"
+  ]
+}

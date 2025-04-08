@@ -1,0 +1,19 @@
+{
+  "entity_name": "USAF",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The USAF (United States Air Force) appears in these documents primarily in the context of investigations into the activities of its personnel. One document references an investigator reviewing the USAF file of Lawrence Huber Florer, detailing his enlistment and assignment within the Texas Air National Guard. The other two documents concern an investigation by the USAF Office of Special Investigations (OSI) into Lt Col Paul Arnold Marriott regarding potential customs violations and misuse of government resources related to the importation and shipment of captured enemy weapons from Vietnam. The investigation also explores Marriott's connections with Mitchell Livingston WerBell III.",
+  "key_connections": [
+    "Lawrence Huber Florer",
+    "Paul Arnold Marriott",
+    "Mitchell Livingston WerBell III",
+    "Texas Air National Guard",
+    "USAF Office of Special Investigations (OSI)"
+  ],
+  "significance": "The USAF's significance in the JFK context, based on these documents, revolves around investigations into the conduct of its personnel, specifically regarding potential customs violations and misuse of government resources. While the documents do not directly link the USAF to the JFK assassination, they highlight investigations into individuals associated with the Air Force and their potential involvement in other questionable activities, such as illegal weapons importation.",
+  "document_ids": [
+    "180-10113-10246",
+    "194-10001-10169",
+    "194-10001-10168"
+  ]
+}

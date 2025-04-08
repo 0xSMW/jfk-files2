@@ -1,0 +1,25 @@
+{
+  "entity_name": "Payroll Certification",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "Payroll certification within the House Select Committee on Assassinations (HSCA) context refers to the process of verifying and authorizing payroll for HSCA staff members. This process is documented through payroll authorization forms and memoranda, which detail employees' salaries, positions, and any adjustments or terminations. The documents highlight the administrative procedures involved in managing HSCA personnel and ensuring accurate compensation. A notable pattern across the documents is the inclusion of payroll certification memos alongside payroll authorization forms, indicating a standard practice of verifying payroll information. The Assassination Records Review Board (ARRB) also played a role by issuing Final Determination Notifications regarding the postponement of information, such as Social Security numbers, in these payroll records due to privacy concerns.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Patricia M. Orr",
+    "Lance W. Svendsen",
+    "Donald A. Purdy, Jr.",
+    "Kenneth D. Klein",
+    "Jane E. Godfrey",
+    "Assassination Records Review Board (ARRB)",
+    "Payroll Authorization Forms"
+  ],
+  "significance": "In the context of the JFK assassination, payroll certification is significant as it provides insight into the administrative and financial operations of the HSCA, the committee tasked with reinvestigating the assassination. While not directly related to the assassination itself, these records offer a glimpse into the management and staffing of the committee, revealing the individuals involved in the investigation and the resources allocated to it. The ARRB's involvement in postponing the release of certain payroll information also highlights the balance between transparency and privacy concerns in the release of historical records related to the assassination.",
+  "document_ids": [
+    "180-10060-10494",
+    "180-10070-10161",
+    "180-10071-10001",
+    "180-10068-10311",
+    "180-10060-10459",
+    "180-10068-10357"
+  ]
+}

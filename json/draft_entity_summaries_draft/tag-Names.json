@@ -1,0 +1,13 @@
+{
+  "entity_name": "Names",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The entity \"Names\" appears in the context of classified CIA documents, specifically within indexes and lists. These documents catalog names, potentially of CIA personnel, associates, or individuals involved in specific projects or operations. The lists often include associated references, numbers, and dates, suggesting an effort to track individuals and their involvement over time. The documents themselves do not explicitly mention the JFK assassination, but the context implies these names are of interest to the CIA and potentially relevant to historical investigations.",
+  "key_connections": [],
+  "significance": "While the documents do not directly link \"Names\" to the JFK assassination, the presence of these name lists within classified CIA collections suggests a potential relevance to historical investigations. The significance lies in the possibility that these individuals may have connections to events or operations related to the assassination, warranting further investigation into their roles and activities.",
+  "document_ids": [
+    "104-10210-10009",
+    "104-10105-10290",
+    "104-10111-10104"
+  ]
+}

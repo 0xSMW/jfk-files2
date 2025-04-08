@@ -1,0 +1,24 @@
+{
+  "entity_name": "Michael Goldsmith",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "summary": "Michael Goldsmith was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA). He is mentioned in several payroll and certification reports from 1977 to 1979, indicating his employment throughout the committee's active investigation period. Additionally, his name appears in a document related to a request from the HSCA, specifically in \"Notes of Holf and Goldsmith (HSCA request)\". The documents suggest that Goldsmith was a staff member involved in the HSCA's operations, likely in an administrative or investigative capacity, given his presence on payroll and his association with document requests and briefings.",
+  "key_connections": [
+    "Select Committee on Assassinations (HSCA)",
+    "Holf"
+  ],
+  "significance": "Michael Goldsmith's significance in the JFK assassination context lies in his role as a staff member of the HSCA, the committee tasked with reinvestigating the assassination. While the documents do not specify his exact role, his presence on payroll and involvement in document requests suggest he contributed to the committee's research and investigation efforts. His specific contributions to the investigation are not detailed in these documents.",
+  "document_ids": [
+    "180-10125-10081",
+    "180-10125-10096",
+    "180-10125-10079",
+    "180-10145-10287",
+    "180-10125-10075",
+    "180-10125-10086",
+    "180-10140-10152",
+    "180-10131-10329",
+    "180-10125-10076",
+    "180-10131-10325",
+    "180-10125-10094"
+  ]
+}

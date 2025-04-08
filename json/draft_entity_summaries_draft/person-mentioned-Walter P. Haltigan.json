@@ -1,0 +1,18 @@
+{
+  "entity_name": "Walter P. Haltigan",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Walter P. Haltigan is mentioned in the context of the House Select Committee on Assassinations' (HSCA) investigation into the JFK assassination. The documents include an interview with Thomas Casasin, a report addressing CIA allegations regarding contact with Lee Harvey Oswald, and a memorandum detailing the HSCA's request for depositions and interviews of specific individuals within the CIA. While the documents mention Haltigan in relation to the HSCA's investigation, the specific role or information he provided is not detailed in the summaries. The documents suggest that Haltigan was likely a person of interest to the HSCA, potentially due to his involvement or knowledge related to the CIA's activities or its interactions with individuals like Lee Harvey Oswald.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Thomas Casasin",
+    "House Select Committee on Assassinations (HSCA)",
+    "CIA"
+  ],
+  "significance": "Walter P. Haltigan's significance lies in his potential connection to the CIA and the HSCA's investigation into the JFK assassination. The documents suggest he may have been a person of interest to the HSCA, possibly due to his knowledge of CIA activities or interactions with individuals like Lee Harvey Oswald. However, the exact nature of his involvement or knowledge remains unclear based on the provided summaries.",
+  "document_ids": [
+    "180-10143-10227",
+    "180-10147-10176",
+    "180-10140-10152"
+  ]
+}

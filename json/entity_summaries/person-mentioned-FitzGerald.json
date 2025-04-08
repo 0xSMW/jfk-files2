@@ -1,0 +1,26 @@
+{
+  "entity_name": "Fitzgerald",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Based on the provided documents, Fitzgerald is mentioned in the context of intelligence activities and discussions related to Cuba and potential assassination plots. The documents suggest involvement in or knowledge of covert operations, particularly those concerning Cuba and the Dominican Republic. Fitzgerald's role appears to be related to intelligence matters, potentially within the CIA or another government agency involved in foreign intelligence. The documents mention discussions about potential assassination plots and covert actions, indicating that Fitzgerald may have been involved in or aware of these activities. The timeline of involvement spans from the early 1960s to the mid-1970s, as indicated by the dates of the documents.",
+  "key_connections": [
+    "OXCART",
+    "Cuba",
+    "Profumo case",
+    "Penkovskiy espionage case",
+    "Robert G. Halley",
+    "JMWAVE",
+    "Tepedino",
+    "AMLASH operation",
+    "Rolando Cubela",
+    "Trujillo Assassination"
+  ],
+  "significance": "Fitzgerald's significance in the JFK context is related to the potential involvement in covert operations and discussions surrounding assassination plots, particularly those involving Cuba. The documents suggest that Fitzgerald may have had knowledge of or involvement in activities that could be relevant to understanding the events surrounding the Kennedy assassination, especially in relation to Cuban operations and potential connections to individuals or groups involved.",
+  "document_ids": [
+    "206-10001-10004",
+    "157-10014-10047",
+    "206-10001-10013",
+    "157-10008-10253",
+    "157-10008-10238"
+  ]
+}

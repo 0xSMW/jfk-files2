@@ -1,0 +1,23 @@
+{
+  "entity_name": "John Kennedy Assassination",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The John Kennedy Assassination is referenced in several NSA documents from late 1963 and early 1964. Following the assassination on November 22, 1963, instructions were sent to Cuban diplomatic missions to refrain from making any statements. The South Korean Foreign Minister was asked to attend President Kennedy's funeral in Washington. An NSA SIGINT Command Center report noted the termination of an alert in Oriente province, Cuba, after the assassination. Prince Sihanouk of Cambodia condemned the U.S. in a speech following Kennedy's death, also addressing Cambodian relations with France and Vietnam. These documents highlight the immediate international reactions and operational adjustments following the assassination.",
+  "key_connections": [
+    "Cuban diplomatic missions",
+    "South Korean Foreign Minister",
+    "NSA SIGINT Command Center",
+    "Oriente province, Cuba",
+    "Prince Sihanouk",
+    "Cambodia",
+    "France",
+    "Vietnam"
+  ],
+  "significance": "The John Kennedy Assassination serves as a pivotal historical event that triggered immediate international responses and adjustments in diplomatic and intelligence operations, as evidenced by the NSA documents. These documents provide a glimpse into the global impact and the diverse reactions from various nations and entities following the event.",
+  "document_ids": [
+    "144-10001-10302",
+    "144-10001-10331",
+    "144-10001-10280",
+    "144-10001-10286"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "entity_name": "Tamm",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, \"Tamm\" is mentioned in the context of the Senate Select Committee (SSC) investigation into intelligence activities in 1975. The documents relate to the FBI's response to requests from the SSC, including materials provided and monitoring of individuals contacted by the SSC. The documents do not provide specific details about Tamm's role or significance beyond being a person potentially connected to the investigation. The documents focus on the FBI's coordination with the SSC, inquiries into historical memoranda, and monitoring individuals contacted by the SSC.",
+  "key_connections": [
+    "Senate Select Committee (SSC)",
+    "FBI"
+  ],
+  "significance": "The documents do not provide enough information to determine Tamm's significance in the JFK assassination context. The documents focus on the Senate Select Committee's investigation into intelligence activities, and Tamm is mentioned as someone potentially connected to the investigation.",
+  "document_ids": [
+    "124-10274-10001",
+    "124-10273-10071_multirif",
+    "124-10274-10001_multirif",
+    "124-10273-10086_multirif"
+  ]
+}

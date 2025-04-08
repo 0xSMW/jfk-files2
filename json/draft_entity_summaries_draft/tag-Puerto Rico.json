@@ -1,0 +1,31 @@
+{
+  "entity_name": "Puerto Rico",
+  "entity_type": "tag",
+  "document_count": 10,
+  "summary": "The documents indicate that Puerto Rico served as a location for FBI and CIA activities related to individuals and operations of interest during the JFK era. Several documents detail FBI local agency checks conducted in San Juan, Puerto Rico, on individuals named Marti and their family members, including checks of birth records and name changes. One document reveals a CIA clandestine operation in San Juan to contaminate Cuban sugar being shipped to the Soviet Union. Additionally, a court order from Puerto Rico legally changing a person's name is documented, impacting the birth certificates of his sons. These documents suggest Puerto Rico was a place where investigations, operations, and legal processes relevant to individuals and events connected to the JFK assassination context took place.",
+  "key_connections": [
+    "Ivan Marti",
+    "Blanca Marti",
+    "Manuel Marti",
+    "Adrian Martir (later Manuel Marti)",
+    "USSR",
+    "Cuba",
+    "Jorge Raul Roblejo Lorie",
+    "Sergio Oswaldo Betancourt Collazo",
+    "FBI",
+    "CIA"
+  ],
+  "significance": "Puerto Rico's significance in the JFK context lies in its role as a location for intelligence gathering, clandestine operations, and legal proceedings involving individuals and activities that may have tangential connections to the JFK assassination. The documents highlight the presence of FBI and CIA activities within Puerto Rico, suggesting it was a place of interest for monitoring individuals and conducting operations related to Cold War tensions and Cuban affairs.",
+  "document_ids": [
+    "194-10004-10367",
+    "194-10004-10371",
+    "194-10004-10370",
+    "194-10004-10373",
+    "104-10070-10272",
+    "176-10011-10101",
+    "194-10004-10363",
+    "194-10004-10400",
+    "124-10300-10024",
+    "194-10004-10374"
+  ]
+}

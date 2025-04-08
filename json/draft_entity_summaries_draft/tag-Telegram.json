@@ -1,0 +1,28 @@
+{
+  "entity_name": "Telegram",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The documents reference 'Telegram' primarily as a medium of communication used by various individuals and organizations. These telegrams contain information related to anti-Castro groups (MIRR), potential coups in South Vietnam, diplomatic relations, instructions for surveillance, and payment confirmations. The telegrams serve as a means of conveying time-sensitive information and instructions across different locations and entities. The content of these telegrams varies widely, reflecting the diverse operational and intelligence activities of the CIA and related organizations during the specified periods.",
+  "key_connections": [
+    "MIRR (Group of Orlando Bosch Avila)",
+    "CIA",
+    "Nguyen Khanh",
+    "Diem Regime",
+    "Royal Cambodian Government",
+    "Manuel Vega",
+    "Edvard G. Tichborn",
+    "Pham Ngoc Thao",
+    "Duong Van Minh",
+    "Le Van Kim",
+    "Nguyen Khanh"
+  ],
+  "significance": "While 'Telegram' itself is not directly linked to the JFK assassination, the documents highlight the use of telegrams as a communication method within the CIA and other organizations during the period surrounding the assassination. The content of these telegrams, such as information on potential coups and surveillance activities, provides context to the political and operational landscape of the time. The significance lies in understanding how information was disseminated and acted upon within these organizations, which may indirectly relate to the broader context of the JFK assassination.",
+  "document_ids": [
+    "104-10164-10050",
+    "176-10036-10131",
+    "176-10036-10079",
+    "104-10101-10198",
+    "104-10174-10030",
+    "176-10036-10134"
+  ]
+}

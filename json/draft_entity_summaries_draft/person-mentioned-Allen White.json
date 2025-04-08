@@ -1,0 +1,20 @@
+{
+  "entity_name": "Allen White",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Allen White is mentioned in documents related to the CIA's activities in Mexico City in 1963 and subsequent investigations into the assassination of President John F. Kennedy. The documents include a memorandum listing individuals connected with the CIA station in Mexico City during Lee Harvey Oswald's visit, a collection of memoranda and notes containing information about CIA personnel, and the testimony of Robert T. Shaw before the House Select Committee on Assassinations (HSCA) regarding CIA activities in Mexico City. While the specific role or activities of Allen White are not detailed in these summaries, his name appears in the context of CIA personnel information and investigations related to Oswald's activities in Mexico City.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "David Phillips",
+    "Boris Tarasoff",
+    "Robert T. Shaw",
+    "CIA",
+    "HSCA"
+  ],
+  "significance": "Allen White's significance lies in his potential connection to the CIA's activities in Mexico City during the period when Lee Harvey Oswald visited, which is a key area of investigation related to the JFK assassination. His name appears in documents related to CIA personnel and investigations, suggesting he may have been involved in or had knowledge of the CIA's operations during that time.",
+  "document_ids": [
+    "180-10113-10119",
+    "104-10062-10005",
+    "180-10131-10329"
+  ]
+}

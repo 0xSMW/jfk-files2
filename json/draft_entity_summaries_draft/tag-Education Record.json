@@ -1,0 +1,18 @@
+{
+  "entity_name": "Education Record",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The 'Education Record' entity, as represented in the provided documents, pertains to the educational history of Manuel Marti. These records, documented in agent reports dated November 21, 1968, detail Marti's attendance at various institutions, including Evander Childs High School, Theodore Roosevelt Night High School, and Bronx Community College (BCC). The reports include information gathered from school staff regarding Marti's character and background. Notably, one report mentions incomplete records at BCC and difficulty in locating instructors. The consistent focus across the documents is on compiling a comprehensive overview of Marti's educational background.",
+  "key_connections": [
+    "Manuel Marti",
+    "Evander Childs High School",
+    "Theodore Roosevelt Night High School",
+    "Bronx Community College (BCC)"
+  ],
+  "significance": "The significance of Manuel Marti's education record in the JFK assassination context is not explicitly stated in the provided documents. However, the fact that agent reports were compiled suggests that Marti's background, including his education, was considered relevant to investigations or intelligence gathering related to the assassination. The specific reasons for this interest would require additional context from other documents.",
+  "document_ids": [
+    "194-10004-10377",
+    "194-10004-10376",
+    "194-10004-10375"
+  ]
+}

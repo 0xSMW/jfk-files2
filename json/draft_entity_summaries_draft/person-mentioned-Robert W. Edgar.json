@@ -1,0 +1,26 @@
+{
+  "entity_name": "Robert W. Edgar",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "summary": "Based on the provided documents, Robert W. Edgar is associated with the House Select Committee on Assassinations (HSCA). While the documents do not explicitly detail Edgar's specific role or activities, they relate to HSCA staff payroll records, background checks, and requests for information from the CIA. The documents indicate that the Assassination Records Review Board (ARRB) reviewed HSCA staff payroll records, including those potentially related to Edgar, and made determinations regarding the release of information, particularly Social Security numbers, to protect personal privacy. The documents span from 1977-1995, indicating a period of involvement with the HSCA and subsequent review of its records.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board (ARRB)",
+    "Wendy S. Collins",
+    "Kenneth D. Klein",
+    "Denise L. McCray",
+    "CIA"
+  ],
+  "significance": "Robert W. Edgar's significance in the JFK context is primarily linked to his association with the HSCA, which investigated the assassination. The documents suggest that he was likely a staff member or applicant whose records were subject to review and potential redaction by the ARRB to protect personal privacy. The documents do not provide enough information to determine the specific role or importance of Robert W. Edgar in the JFK assassination investigation.",
+  "document_ids": [
+    "180-10071-10000",
+    "180-10068-10324",
+    "180-10068-10346",
+    "180-10125-10172",
+    "104-10408-10078",
+    "180-10060-10459",
+    "180-10060-10480",
+    "180-10060-10439",
+    "180-10068-10341"
+  ]
+}

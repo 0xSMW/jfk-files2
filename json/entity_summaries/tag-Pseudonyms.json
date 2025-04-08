@@ -1,0 +1,22 @@
+{
+  "entity_name": "Pseudonyms",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Pseudonyms, along with cryptonyms and aliases, are a recurring concern in documents related to the JFK assassination records. These terms are used to protect the identities of CIA personnel, assets, and individuals involved in sensitive operations, particularly those related to Cuban activities and Project ZRRIFLE. The documents reveal the CIA's careful consideration of how to handle these identifiers when releasing information, balancing transparency with the need to safeguard ongoing operations and protect individuals. The use of pseudonyms is a key aspect of maintaining secrecy and operational security within the CIA.",
+  "key_connections": [
+    "Cryptonyms",
+    "Aliases",
+    "CIA personnel",
+    "Assets",
+    "Cuban activities",
+    "Project ZRRIFLE",
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board (ARRB)"
+  ],
+  "significance": "In the context of the JFK assassination, pseudonyms are significant because they represent a layer of obfuscation that complicates the process of uncovering the full truth. The debate over whether and how to release information containing pseudonyms highlights the tension between the public's right to know and the CIA's need to protect its operations and personnel. Understanding the pseudonyms used and the individuals they represent is crucial for a comprehensive understanding of the events surrounding the assassination.",
+  "document_ids": [
+    "104-10061-10115",
+    "104-10310-10014",
+    "104-10332-10002"
+  ]
+}

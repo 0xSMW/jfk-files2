@@ -1,0 +1,39 @@
+{
+  "entity_name": "Travel",
+  "entity_type": "tag",
+  "document_count": 15,
+  "summary": "The documents highlight various instances of travel involving individuals and groups, often in the context of intelligence operations, investigations, and political events during the Cold War era. These travels range from official visits and business trips to clandestine movements and personal journeys. Several documents concern the travel of individuals of interest to intelligence agencies, such as Michel Chidiac, Jerzy Plebanski, Leopoldo Araujo Bernal, and Santo Trafficante, Jr., with details on their destinations, routes, and potential connections to espionage or other sensitive activities. The documents also reveal instances where travel plans were disrupted or altered due to logistical issues or security concerns, such as the Bolivian President's inability to travel to Washington and Miss Norma Valverde's flight cancellation. Furthermore, some documents involve the facilitation of travel through forged documents or covert arrangements, as seen in the case of ANOTIN-117 and DESIGNET. Overall, the documents illustrate the importance of monitoring and controlling travel as a means of gathering intelligence, tracking individuals of interest, and managing international relations during this period.",
+  "key_connections": [
+    "Michel Chidiac",
+    "Jerzy Plebanski",
+    "Leopoldo Araujo Bernal",
+    "Santo Trafficante, Jr.",
+    "ANOTIN-117",
+    "DESIGNET",
+    "James Angleton",
+    "Norman Rothman",
+    "Dave Phillips",
+    "George Lorenzo Matthews",
+    "James Joseph Patterson",
+    "Pete O'Neal",
+    "Norma Valverde"
+  ],
+  "significance": "While 'Travel' itself isn't directly linked to the JFK assassination, the documents reveal how travel was monitored and sometimes manipulated by intelligence agencies. The significance lies in understanding the context of how individuals potentially related to the assassination (directly or indirectly) were tracked, moved, or had their travel influenced. The documents provide insight into the operational methods and concerns of intelligence agencies during the period surrounding the assassination, which can help contextualize the movements and activities of individuals of interest.",
+  "document_ids": [
+    "104-10123-10223",
+    "104-10097-10069",
+    "124-10326-10103",
+    "104-10100-10239",
+    "144-10001-10295",
+    "104-10097-10170",
+    "124-10279-10046",
+    "104-10113-10254",
+    "104-10100-10086",
+    "124-10226-10305",
+    "104-10162-10248",
+    "124-90074-10051",
+    "124-10204-10211",
+    "104-10063-10160",
+    "104-10161-10096"
+  ]
+}

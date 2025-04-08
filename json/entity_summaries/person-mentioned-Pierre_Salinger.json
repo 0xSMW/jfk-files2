@@ -1,0 +1,18 @@
+{
+  "entity_name": "Pierre Salinger",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Pierre Salinger is mentioned in the context of the Kennedy administration. While the documents do not explicitly detail his role in the JFK assassination, his presence is noted in relation to the administration's activities and reactions to events surrounding the assassination. Specifically, he would have been involved in the administration's reaction to Jean Daniel's interviews with John F. Kennedy and Fidel Castro, and the implications for U.S.-Cuba relations. He was also likely involved in discussions and briefings related to foreign intelligence matters and the President's Foreign Intelligence Advisory Board (PFIAB).",
+  "key_connections": [
+    "John F. Kennedy",
+    "Fidel Castro",
+    "Lyndon B. Johnson",
+    "Jean Daniel"
+  ],
+  "significance": "Pierre Salinger's significance in the JFK context stems from his role within the Kennedy administration. As Press Secretary, he would have been involved in managing the administration's public image and response to events, including those related to Cuba and the aftermath of the assassination. His presence in these documents indicates his proximity to key decisions and information during this period.",
+  "document_ids": [
+    "176-10030-10085",
+    "206-10001-10002",
+    "144-10001-10112"
+  ]
+}

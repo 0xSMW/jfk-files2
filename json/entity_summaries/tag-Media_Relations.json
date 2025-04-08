@@ -1,0 +1,26 @@
+{
+  "entity_name": "Media Relations",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The documents highlight the CIA's interactions with media outlets and journalists, particularly concerning operational support, intelligence gathering, and propaganda dissemination. JMWAVE, a CIA station, had a relationship with AMCARBON-1 of The Miami Herald, using him for operational support, intelligence, and as a propaganda outlet. Newsweek's coverage of the CIA also prompted internal guidance on how to handle inquiries, emphasizing the protection of sensitive information. The documents also mention Robert J. KORENGOLD, a Newsweek correspondent, and a new story on Lee Harvey Oswald and the CIA in Japan, indicating the media's interest in the CIA's activities and potential connections to significant events.",
+  "key_connections": [
+    "JMWAVE",
+    "AMCARBON-1",
+    "Miami Herald",
+    "Newsweek",
+    "Robert J. KORENGOLD",
+    "Lee Harvey Oswald",
+    "UPI",
+    "Public Affairs Staff (PAS)"
+  ],
+  "significance": "The documents suggest the CIA engaged in media relations to manage information, potentially influencing public perception and protecting its operations. The connections to Lee Harvey Oswald and the CIA in Japan indicate the media's role in investigating potential links between the CIA and the JFK assassination, while the guidance on handling Newsweek's coverage suggests an effort to control the narrative surrounding the U.S. intelligence community.",
+  "document_ids": [
+    "104-10072-10289",
+    "104-10048-10124",
+    "104-10120-10398",
+    "104-10221-10310",
+    "104-10306-10011",
+    "104-10326-10044",
+    "104-10119-10365"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "entity_name": "Visa Request",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Visa requests appear in multiple contexts within the JFK assassination-related documents. One document mentions Valeriy Vladimirovich Kostikov's handling of Lee Harvey Oswald's visa request, suggesting potential Soviet involvement or interest in Oswald. Another document details a visa request for Silvia Anna, highlighting communication between Mexico City and Havana. A third document involves visa requests from Cubans seeking to discuss anti-Castro support, indicating the political climate and potential movements of individuals with anti-Castro sentiments. The documents collectively suggest that visa requests were a point of interest and potential concern, possibly related to intelligence gathering, tracking individuals of interest, or monitoring political activities.",
+  "key_connections": [
+    "Valeriy Vladimirovich Kostikov",
+    "Lee Harvey Oswald",
+    "Silvia Anna",
+    "Cubans",
+    "Anti-Castro support",
+    "Mexico City",
+    "Havana"
+  ],
+  "significance": "Visa requests are significant in the JFK context as they potentially relate to the movements and activities of individuals connected to the assassination, including Lee Harvey Oswald and individuals with ties to Soviet intelligence or anti-Castro groups. Monitoring and processing visa requests could have been a method of tracking individuals of interest and gathering intelligence.",
+  "document_ids": [
+    "104-10431-10091",
+    "104-10092-10202",
+    "124-10289-10464"
+  ]
+}

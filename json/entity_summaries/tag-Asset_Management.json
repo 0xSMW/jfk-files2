@@ -1,0 +1,24 @@
+{
+  "entity_name": "Asset Management",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents reference 'assets' in the context of intelligence operations. These assets are individuals recruited or utilized by the CIA for various purposes, including intelligence gathering, providing information, and participating in covert activities. Examples include LIRING-3, LIRING-4, ANSEVER-2, JUAVE 2, and Subject 201-332676. The management of these assets involves security considerations, remuneration, and operational protocols to ensure their cooperation and the protection of ongoing intelligence efforts. The documents highlight the importance of managing risks associated with assets, such as potential imprisonment or exposure, and the need for clear terms of engagement, including compensation and security assurances.",
+  "key_connections": [
+    "LIRING-3",
+    "LIRING-4",
+    "ANSEVER-2",
+    "Jorge Antonio Abasolo Garcia",
+    "Che Guevara",
+    "JUAVE 2",
+    "Subject 201-332676",
+    "TIPEC",
+    "JMWAVE"
+  ],
+  "significance": "While the documents do not explicitly link asset management to the JFK assassination, they illustrate the CIA's use of assets in intelligence operations during the Cold War era. The management of these assets, including recruitment, security, and operational protocols, provides context for understanding the agency's capabilities and methods, which may be relevant to investigations involving the JFK assassination. The documents suggest a pattern of recruiting and managing individuals for specific intelligence purposes, which could be relevant if any of these assets were connected to events surrounding the assassination.",
+  "document_ids": [
+    "104-10176-10222",
+    "104-10093-10266",
+    "104-10183-10262",
+    "104-10215-10153"
+  ]
+}

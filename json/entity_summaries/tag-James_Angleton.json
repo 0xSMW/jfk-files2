@@ -1,0 +1,41 @@
+{
+  "entity_name": "James Angleton",
+  "entity_type": "tag",
+  "document_count": 13,
+  "summary": "James Angleton was the Chief of Counterintelligence Operations at the CIA. The documents reveal his role as a key liaison between the CIA and the FBI, particularly concerning sensitive intelligence matters, including those related to Israeli intelligence (referred to as 'Bureau Informant 100' and SCOPE material). Procedures were established to handle information received from him, ensuring his identity and CIA involvement were protected. Angleton's involvement spans from at least 1953 to 1975, with mentions in documents related to the House Select Committee on Assassinations (HSCA) requests in 1978, indicating continued interest in his activities. He also analyzed Soviet policy towards the United States based on information from a former KGB member. A notable pattern is the emphasis on maintaining secrecy around his identity and the source of his information, especially concerning Israeli intelligence.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "Israeli Intelligence Service",
+    "D.J. Brennan",
+    "W.C. Sullivan",
+    "V.P. Keay",
+    "A.R. Belmont",
+    "Allen Dulles",
+    "H. Clark Schor",
+    "George DeMohrenschildt",
+    "Leo Cherne",
+    "William Harvey",
+    "Richard Helms",
+    "Raymond Rocca",
+    "William Colby",
+    "James Schlesinger",
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "The documents indicate that James Angleton was of interest to the House Select Committee on Assassinations (HSCA), as evidenced by multiple requests for information on him and related files held by the Central Cover Staff (CCS). While the documents don't explicitly state his direct involvement in the JFK assassination, the HSCA's interest suggests a potential connection or relevance to the investigation. His role in counterintelligence and liaison activities with foreign intelligence services may have been considered pertinent to understanding the events surrounding the assassination.",
+  "document_ids": [
+    "124-10326-10103",
+    "124-10276-10400",
+    "124-10326-10104",
+    "124-10326-10098",
+    "124-10326-10099",
+    "104-10059-10057",
+    "124-10326-10105",
+    "104-10061-10320",
+    "157-10011-10024",
+    "104-10431-10006",
+    "104-10061-10214",
+    "124-10326-10100",
+    "104-10301-10011"
+  ]
+}

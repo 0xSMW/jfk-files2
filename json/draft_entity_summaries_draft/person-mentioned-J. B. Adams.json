@@ -1,0 +1,26 @@
+{
+  "entity_name": "J. B. Adams",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "summary": "J. B. Adams is mentioned in several documents related to the responses of intelligence agencies, particularly the FBI and CIA, to congressional inquiries in 1975, specifically those from the Senate Select Committee on Intelligence Activities (also known as the Church Committee). The documents suggest Adams was involved in discussions and coordination regarding the release of classified information to Congress, focusing on protecting sensitive sources, methods, and ongoing investigations. The documents do not explicitly state Adams' role or affiliation, but his name appears in the context of high-level meetings and memoranda concerning the handling of congressional requests for information on sensitive topics such as COINTELPRO, Israeli intelligence activities, and potential CIA overreach. The addendum dated 3/31/75 specifically mentions J. B. Adams in relation to a meeting coordinating responses to the Senate Committee regarding access to information.",
+  "key_connections": [
+    "James Angleton",
+    "Senate Select Committee on Intelligence Activities (Church Committee)",
+    "FBI",
+    "CIA",
+    "COINTELPRO",
+    "Israeli intelligence"
+  ],
+  "significance": "Based on the provided documents, J. B. Adams' significance in the JFK context is not directly apparent. The documents focus on the responses of intelligence agencies to congressional inquiries in the mid-1970s, and Adams' involvement seems to be related to the coordination and management of information provided to the Senate Select Committee. Without further information, it is difficult to ascertain a direct connection to the JFK assassination.",
+  "document_ids": [
+    "124-10276-10400",
+    "124-10271-10299",
+    "124-10271-10003_multirif",
+    "124-10273-10007_multirif",
+    "124-10271-10033_multirif_redacted",
+    "124-10271-10011_multirif",
+    "124-10185-10100",
+    "124-10271-10299_multirif",
+    "124-10276-10400 (c06716411)"
+  ]
+}

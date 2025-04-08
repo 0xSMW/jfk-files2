@@ -1,0 +1,25 @@
+{
+  "entity_name": "Gray",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Based on the provided documents, \"Gray\" appears in the context of CIA activities, particularly concerning covert operations related to Cuba and the Dominican Republic. The documents mention potential assassination plots against Fidel Castro and Trujillo, intelligence gathering, and discussions within the Special Group. Gray's specific role is not explicitly defined in these summaries, but the context suggests involvement in or knowledge of these sensitive operations. The documents span from 1959 to 1975, indicating a sustained period of activity related to these matters. The Rockefeller Commission file also contains materials related to Gray.",
+  "key_connections": [
+    "Fidel Castro",
+    "Trujillo",
+    "Operation Mongoose",
+    "Rockefeller Commission",
+    "Special Group",
+    "James Angleton",
+    "Senators Church and Tower",
+    "Senate Select Committee"
+  ],
+  "significance": "Without more specific information, it's difficult to determine Gray's direct significance to the JFK assassination. However, the involvement in covert operations, potential assassination plots, and intelligence activities related to Cuba during the period leading up to the assassination could suggest a peripheral connection, especially given the intense focus on Cuban affairs within the CIA at the time. Further investigation would be needed to establish a concrete link.",
+  "document_ids": [
+    "157-10011-10010",
+    "178-10004-10115",
+    "124-10274-10029",
+    "157-10008-10238",
+    "157-10008-10234",
+    "157-10011-10003"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "entity_name": "Richardson Preyer",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "summary": "Based on the provided documents, Richardson Preyer is associated with the House Select Committee on Assassinations (HSCA). The documents primarily relate to HSCA staff payroll records and notifications from the Assassination Records Review Board (ARRB) regarding the release or postponement of certain information, particularly Social Security numbers, to protect personal privacy. While Preyer's specific role or direct involvement is not explicitly detailed in these documents, the documents suggest that he was likely a staff member or otherwise associated with the HSCA, given the context of payroll records and ARRB notifications concerning the committee's personnel. The documents span from 1977 to 1995, indicating a period of involvement or relevance to the HSCA and subsequent review processes.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board (ARRB)",
+    "Wendy S. Collins",
+    "Kenneth D. Klein",
+    "Denise L. McCray"
+  ],
+  "significance": "Richardson Preyer's significance in the JFK context, based on these documents, lies in his association with the HSCA, which investigated the assassination. The documents suggest he was likely a staff member or otherwise associated with the HSCA, given the context of payroll records and ARRB notifications concerning the committee's personnel.",
+  "document_ids": [
+    "180-10071-10000",
+    "180-10068-10324",
+    "180-10068-10346",
+    "180-10125-10172",
+    "104-10408-10078",
+    "180-10060-10459",
+    "180-10060-10480",
+    "180-10060-10439",
+    "180-10068-10341"
+  ]
+}

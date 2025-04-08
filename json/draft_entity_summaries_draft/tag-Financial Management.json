@@ -1,0 +1,20 @@
+{
+  "entity_name": "Financial Management",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The documents provided relate to the financial management of the U.S. House of Representatives Select Committee on Assassinations (HSCA). Specifically, they are payroll certifications detailing employee names, social security numbers, positions, salaries, and pay periods. These certifications cover various accounting periods, primarily in 1977, but also include data from November 1976 and January 1979. The documents highlight the financial operations of the HSCA, providing a record of personnel costs and employment details during its investigation into the JFK assassination. A notable pattern is the consistent reporting of payroll information, indicating a structured financial management system within the committee.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations (HSCA)",
+    "HSCA Employees"
+  ],
+  "significance": "In the context of the JFK assassination, the financial management records, specifically the payroll certifications, provide insight into the operational costs and staffing of the HSCA. While they don't directly reveal findings related to the assassination itself, they offer a glimpse into the resources allocated to the investigation and the personnel involved. These documents are important for understanding the administrative and logistical aspects of the HSCA's work.",
+  "document_ids": [
+    "180-10125-10107",
+    "180-10125-10101",
+    "180-10125-10100",
+    "180-10125-10103",
+    "180-10125-10105",
+    "180-10125-10104",
+    "180-10125-10077"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "entity_name": "Howard Osborn",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Based on the provided documents, Howard Osborn is mentioned in the context of CIA activities and discussions within the President's Foreign Intelligence Advisory Board (PFIAB). The documents suggest his involvement in or knowledge of various intelligence matters, including audio surveillance, foreign intelligence budgeting, and the National Reconnaissance Program. He appears in meeting minutes of the PFIAB in 1964, indicating his role or presence in discussions related to intelligence operations and assessments during that period. The documents do not explicitly link Howard Osborn to the JFK assassination, but his presence in discussions about intelligence activities and surveillance during the relevant time frame suggests a potential indirect connection to the broader intelligence landscape surrounding the event.",
+  "key_connections": [
+    "Gordon Novel",
+    "James P. O'Connell",
+    "Robert Maheu",
+    "Lucien Conein",
+    "Arthur R. Schwickrath",
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Defense Intelligence Agency"
+  ],
+  "significance": "The documents do not directly link Howard Osborn to the JFK assassination. His significance lies in his involvement in intelligence activities and discussions during the period surrounding the assassination, as evidenced by his presence in PFIAB meeting minutes. This suggests a potential indirect connection to the broader intelligence landscape relevant to the event.",
+  "document_ids": [
+    "104-10305-10000",
+    "157-10002-10148",
+    "206-10001-10007",
+    "104-10222-10041",
+    "206-10001-10000"
+  ]
+}

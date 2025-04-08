@@ -1,0 +1,24 @@
+{
+  "entity_name": "Bombings",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents reference bombings in the context of anti-Castro activities, Cuban exile groups, and criminal investigations. Bombings are mentioned in connection with Orlando Bosch Avila's anti-Cuba operations, David Yaras's criminal activities in Miami, the Directorio Revolucionario Estudiantil (DRE)'s resistance in Havana, and investigations into Cuban Power and MIRR. These bombings appear to be related to political motivations, such as resistance against the Cuban government, or criminal activities, such as those investigated by the FBI. The timeline spans from the early 1960s to the late 1970s, indicating a sustained period of such activities. A notable pattern is the involvement of Cuban exiles and anti-Castro groups in these bombings, often in Miami or Havana.",
+  "key_connections": [
+    "Orlando Bosch Avila",
+    "David Yaras",
+    "Directorio Revolucionario Estudiantil (DRE)",
+    "Cuban Power",
+    "MIRR",
+    "Frank Rosenthal",
+    "Luis Posada Carriles",
+    "Albert Larrain Maestre"
+  ],
+  "significance": "While the documents detail bombings related to anti-Castro activities and criminal investigations, their direct significance to the JFK assassination context is not explicitly stated. However, the presence of individuals like Luis Posada Carriles, who has been linked to anti-Castro activities, suggests a potential connection to the broader network of individuals and groups involved in the political climate surrounding the assassination.",
+  "document_ids": [
+    "180-10145-10301",
+    "124-90073-10039",
+    "104-10171-10018",
+    "124-10213-10310",
+    "104-10178-10096"
+  ]
+}

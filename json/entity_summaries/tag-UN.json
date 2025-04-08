@@ -1,0 +1,26 @@
+{
+  "entity_name": "UN",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The United Nations (UN) appears in these documents primarily in the context of international reactions to President Kennedy's assassination and related intelligence activities. The UN served as a venue for diplomatic activities and discussions following Kennedy's death, including a plenary session honoring him. The documents also mention the Soviet Mission to the UN being targeted by FBI mail interception programs, and Cuban UN mission activities being monitored. The UN is also mentioned in the context of a classified message regarding \"UN DIP CUBA SLUBAN DETECTOR,\" indicating its involvement in Cuban-related intelligence matters. Overall, the UN's role seems to be as a backdrop for international diplomacy, intelligence operations, and reactions to significant events like Kennedy's assassination.",
+  "key_connections": [
+    "John F. Kennedy",
+    "Soviet Union",
+    "Cuba",
+    "FBI",
+    "Robert Kennedy",
+    "Mikoyan",
+    "De Gaulle",
+    "Erhard",
+    "Stevenson"
+  ],
+  "significance": "The UN's significance in the JFK assassination context lies in its role as a forum for international reactions and diplomatic activities following the event. It also appears as a site for intelligence operations related to the Soviet Union and Cuba, suggesting a broader context of Cold War tensions influencing the investigation and its aftermath.",
+  "document_ids": [
+    "144-10001-10102",
+    "104-10180-10050",
+    "124-10274-10029_multirif_redacted",
+    "124-10274-10044",
+    "104-10187-10111",
+    "144-10001-10361"
+  ]
+}

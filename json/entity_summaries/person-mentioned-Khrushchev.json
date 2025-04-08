@@ -1,0 +1,43 @@
+{
+  "entity_name": "Khrushchev",
+  "entity_type": "person-mentioned",
+  "document_count": 26,
+  "summary": "Nikita Khrushchev, the former Premier of the Soviet Union, appears in these documents primarily in the context of Cold War tensions and Soviet foreign policy. He is mentioned in relation to Soviet activities in Cuba, including the Cuban Missile Crisis and Soviet support for the Castro regime. The documents also reference Soviet trade activity, agricultural policies, and relations with other nations. Khrushchev's visit to Cuba is specifically mentioned in one document, with the CIA planning to exploit the visit by instigating a church rally to demonstrate opposition and spreading rumors of an assassination attempt. His name appears in the context of global political and military situations, reflecting the broader geopolitical landscape during his leadership.",
+  "key_connections": [
+    "Fidel Castro",
+    "Soviet Union",
+    "Cuba",
+    "President Johnson",
+    "President Kennedy",
+    "KGB"
+  ],
+  "significance": "While Khrushchev is not directly implicated in the JFK assassination in these documents, his role as the leader of the Soviet Union during a period of intense Cold War tensions, particularly concerning Cuba, places him in the broader geopolitical context surrounding the event. The documents reflect the US government's concerns about Soviet influence in Cuba and potential threats to national security, which indirectly relate to the climate in which the assassination occurred. The documents also show that the US government was monitoring Soviet activities and reactions following Kennedy's assassination.",
+  "document_ids": [
+    "177-10002-10098",
+    "104-10302-10030",
+    "104-10306-10018",
+    "104-10290-10190",
+    "144-10001-10103",
+    "104-10306-10003",
+    "104-10302-10000",
+    "144-10001-10056",
+    "104-10506-10028",
+    "104-10308-10163",
+    "198-10007-10022",
+    "206-10001-10013",
+    "178-10004-10115",
+    "104-10308-10208",
+    "104-10431-10006",
+    "144-10001-10367",
+    "104-10310-10020",
+    "144-10001-10351",
+    "104-10302-10019",
+    "176-10036-10027",
+    "104-10302-10028",
+    "104-10306-10020",
+    "206-10001-10000",
+    "178-10004-10056",
+    "104-10326-10022",
+    "206-10001-10016"
+  ]
+}

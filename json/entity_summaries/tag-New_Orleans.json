@@ -1,0 +1,30 @@
+{
+  "entity_name": "New Orleans",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "New Orleans appears as a location with connections to individuals and events relevant to the JFK assassination and related investigations. Lee Harvey Oswald was interviewed by police in New Orleans regarding his involvement with the Fair Play for Cuba Committee (FPCC). Anthony William Atzenhoffer Jr. recalled Lee Harvey Oswald and David Ferrie's association with the Civil Air Patrol Cadets (CAPC) in New Orleans. A wealthy New Orleans businessman was used in JMWAVE cover operations. A Cuban residing in New Orleans was considered as a CIA asset. Santo Trafficante Jr. had meetings with Carlos Marcello and Joseph Marcello in Louisiana. The CIA planned to have an informant jump ship in New Orleans to travel to Cuba. These references suggest New Orleans was a hub for activities and connections related to Cuban affairs, intelligence operations, and individuals potentially linked to the JFK assassination.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Fair Play for Cuba Committee (FPCC)",
+    "David Ferrie",
+    "Civil Air Patrol Cadets (CAPC)",
+    "JMWAVE",
+    "Santo Trafficante Jr.",
+    "Carlos Marcello",
+    "Joseph Marcello",
+    "Cuba",
+    "CIA"
+  ],
+  "significance": "New Orleans is significant as a location where individuals connected to the JFK assassination, Cuban affairs, and intelligence operations were active. It served as a meeting place, a base of operations, and a point of contact for various individuals and organizations involved in events leading up to and following the assassination.",
+  "document_ids": [
+    "180-10091-10228",
+    "180-10107-10006",
+    "104-10104-10172",
+    "104-10172-10105",
+    "124-10204-10213",
+    "178-10002-10091",
+    "157-10002-10150",
+    "124-90137-10230",
+    "144-10001-10087"
+  ]
+}

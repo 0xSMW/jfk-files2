@@ -1,0 +1,22 @@
+{
+  "entity_name": "KENNEDY",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "The documents primarily relate to the immediate aftermath of President John F. Kennedy's assassination and international reactions to it. They cover a range of responses, from Mexican government mourning and security measures to Polish diplomatic analysis of American reactions and potential political consequences. The documents also touch on investigations and security concerns in Mexico related to individuals connected to the Cuban Embassy following the assassination. Kennedy's death is portrayed as a significant event that prompted widespread mourning, security measures, and diplomatic analysis.",
+  "key_connections": [
+    "President Johnson",
+    "Cuban Government",
+    "Mexican Government",
+    "Polish Government",
+    "Prensa Latina"
+  ],
+  "significance": "President Kennedy's assassination is the central event, triggering international reactions, security measures, and diplomatic analysis. The documents highlight the global impact and the immediate aftermath of his death, including mourning, investigations, and political assessments.",
+  "document_ids": [
+    "104-10103-10108",
+    "144-10001-10115",
+    "144-10001-10085",
+    "144-10001-10066",
+    "144-10001-10105",
+    "144-10001-10100"
+  ]
+}

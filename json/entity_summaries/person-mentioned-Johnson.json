@@ -1,0 +1,38 @@
+{
+  "entity_name": "Johnson",
+  "entity_type": "person-mentioned",
+  "document_count": 17,
+  "summary": "The documents mention 'Johnson' in various contexts, primarily related to the aftermath of President Kennedy's death and discussions surrounding US policy changes. Johnson is mentioned in connection to diplomatic activities following Kennedy's assassination, including interactions with world leaders and reactions to the event. He is also referenced in the context of the Vietnam Task Force meetings in 1961, indicating involvement in early discussions regarding the situation in Vietnam. Additionally, there is a reference to threats against the 'Johnson gang,' suggesting a period of heightened security concerns. The documents also mention Johnson in relation to Operation Mongoose and covert operations against Cuba, indicating a role in discussions and decisions related to these activities. Overall, the documents suggest Johnson was a significant figure involved in policy discussions and decisions during the Kennedy and post-Kennedy era, particularly concerning foreign policy and covert operations.",
+  "key_connections": [
+    "Kennedy",
+    "Castro",
+    "Diem",
+    "Rostow",
+    "Lansdale",
+    "Harvey",
+    "Cheever",
+    "De Gaulle",
+    "Erhard",
+    "Mikoyan"
+  ],
+  "significance": "Johnson's significance in the JFK context lies in his role as a key figure in the transition of power following Kennedy's assassination and his involvement in policy decisions related to foreign affairs, particularly concerning Cuba and Vietnam. The documents suggest he played a role in shaping US policy in the aftermath of Kennedy's death and was involved in discussions and decisions related to covert operations and international relations during this period.",
+  "document_ids": [
+    "157-10005-10236",
+    "157-10011-10000",
+    "157-10008-10241",
+    "144-10001-10084",
+    "144-10001-10315",
+    "144-10001-10102",
+    "176-10036-10073",
+    "104-10306-10003",
+    "124-10369-10022",
+    "157-10011-10010",
+    "157-10011-10006",
+    "180-10145-10280",
+    "157-10011-10007",
+    "104-10324-10002",
+    "157-10011-10009",
+    "157-10011-10003",
+    "157-10014-10151"
+  ]
+}

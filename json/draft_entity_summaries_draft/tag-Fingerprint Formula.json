@@ -1,0 +1,17 @@
+{
+  "entity_name": "Fingerprint Formula",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The \"Fingerprint Formula\" refers to James Earl Ray's unique fingerprint pattern, identified under the code name LNERGO. Its significance lies in confirming Ray's identity as the accused assassin in the JFK case. The documents detail the dissemination of this formula via cables to various international locations through liaison channels, ensuring accurate identification across different agencies and locations following Ray's identification as the suspect. The cables, dated around April 22, 1968, highlight the urgency and importance of verifying Ray's identity in the immediate aftermath of the assassination.",
+  "key_connections": [
+    "James Earl Ray",
+    "LNERGO",
+    "Richard Ober"
+  ],
+  "significance": "The fingerprint formula served as a crucial identifier for James Earl Ray, solidifying his connection to the JFK assassination as the accused assassin. Its distribution ensured consistent identification across various agencies and international locations.",
+  "document_ids": [
+    "104-10433-10081",
+    "104-10071-10407",
+    "104-10178-10120"
+  ]
+}

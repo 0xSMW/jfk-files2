@@ -1,0 +1,19 @@
+{
+  "entity_name": "Addresses",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents reference addresses primarily in the context of contact information for individuals, many of whom are current or former CIA employees. These addresses are included in lists, memoranda, and contact books, often alongside names and phone numbers. The documents suggest that maintaining accurate and up-to-date contact information, including addresses, was important for the CIA's operational needs and for tracking personnel, including those involved in or interviewed by the House Select Committee on Assassinations (HSCA). The addresses themselves don't appear to be directly linked to specific events related to the JFK assassination, but rather serve as a means of identifying and contacting individuals who may have information or involvement.",
+  "key_connections": [
+    "CIA Personnel",
+    "House Select Committee on Assassinations (HSCA)",
+    "Contact Information",
+    "Phone Numbers",
+    "Names"
+  ],
+  "significance": "Addresses, in the context of these documents, are significant as a component of personnel records and contact information for individuals, many of whom are associated with the CIA. While the addresses themselves don't directly implicate individuals in the JFK assassination, they are crucial for identifying and locating potential witnesses or individuals of interest to investigations like the HSCA. The presence of addresses in these documents highlights the CIA's record-keeping practices and the efforts to maintain contact with current and former employees.",
+  "document_ids": [
+    "104-10061-10207",
+    "104-10062-10005",
+    "104-10161-10321"
+  ]
+}

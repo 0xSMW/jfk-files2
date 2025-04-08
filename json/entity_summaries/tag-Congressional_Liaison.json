@@ -1,0 +1,20 @@
+{
+  "entity_name": "Congressional Liaison",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Congressional Liaison, in the context of these documents, refers to the CIA's interactions with members of Congress and their staff. This role is crucial for managing information flow, responding to inquiries, and facilitating access to sensitive materials. The documents highlight the Office of Legislative Counsel's role in managing these interactions, particularly in relation to the House Select Committee on Assassinations (HSCA) and the Senate Select Committee on Intelligence (SSCI). The liaison activities include responding to requests for information on the Kennedy assassination, arranging meetings, and managing access to sensitive materials related to the assassination investigation and other intelligence matters. The timeline spans from March 1977 to October 1978, indicating ongoing engagement with Congress during the period when the HSCA was actively investigating the JFK assassination. A notable pattern is the consistent need to manage congressional access to sensitive information and respond to inquiries related to the assassination.",
+  "key_connections": [
+    "Office of Legislative Counsel",
+    "House Select Committee on Assassinations (HSCA)",
+    "Senate Select Committee on Intelligence (SSCI)",
+    "KCIA",
+    "Mafia",
+    "Castro"
+  ],
+  "significance": "The Congressional Liaison function is significant in the JFK assassination context because it represents the CIA's interface with congressional investigations into the assassination. The documents suggest that the CIA was actively managing the flow of information to Congress, potentially influencing the scope and direction of the investigation. The liaison's role in providing or withholding information could have had a direct impact on the HSCA's ability to uncover the full truth about the assassination.",
+  "document_ids": [
+    "104-10066-10060",
+    "104-10142-10029",
+    "104-10140-10101"
+  ]
+}

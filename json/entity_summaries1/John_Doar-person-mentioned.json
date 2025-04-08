@@ -1,0 +1,20 @@
+{
+  "entity_name": "John Doar",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "John Doar is mentioned in several memoranda concerning the FBI's response to requests from the U.S. Senate Select Committee on Intelligence Activities (SSC) regarding materials related to Martin Luther King, Jr., and the Southern Christian Leadership Conference (SCLC). The documents detail the FBI's efforts to locate and provide requested materials to the SSC, as well as instances where materials could not be found. While John Doar is mentioned in the context of these documents, his specific role or actions related to the FBI's response are not detailed. The documents primarily focus on the FBI's interactions with the SSC and the provision of information related to King and the SCLC.",
+  "key_connections": [
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "U. S. Senate Select Committee on Intelligence Activities (SSC)",
+    "FBI"
+  ],
+  "significance": "Based on the provided documents, John Doar's significance in the JFK assassination context is not apparent. The documents focus on the FBI's response to the Senate Select Committee's requests for information related to Martin Luther King, Jr., and the SCLC. There is no direct mention of the JFK assassination or Doar's involvement in any related investigations or activities.",
+  "document_ids": [
+    "124-10264-10206_multirif",
+    "124-10264-10208_multirif",
+    "124-10264-10209_multirif",
+    "124-10271-10033_multirif_redacted",
+    "124-10264-10210_multirif"
+  ]
+}

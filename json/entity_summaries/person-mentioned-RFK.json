@@ -1,0 +1,21 @@
+{
+  "entity_name": "RFK",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "The documents provided consist of index cards summarizing aspects of Operation MONGOOSE and related activities concerning Cuba. RFK (Robert F. Kennedy) is referenced within the context of these operations, which involved intelligence gathering, potential assassination plots against Fidel Castro, and efforts to destabilize the Cuban government. The index cards cover discussions by the Special Group Augmented regarding reconnaissance of Cuba and potential actions against Castro. The timeline of involvement spans from 1959 to 1963, as documented in meeting minutes and memoranda. The documents suggest RFK's involvement in the planning and oversight of Operation MONGOOSE.",
+  "key_connections": [
+    "Fidel Castro",
+    "Operation MONGOOSE",
+    "Special Group Augmented",
+    "Cuba"
+  ],
+  "significance": "RFK's significance in the JFK context, based on these documents, lies in his potential role in overseeing Operation MONGOOSE, a covert operation aimed at destabilizing the Cuban government and potentially assassinating Fidel Castro. This operation occurred during the Kennedy administration and is relevant to understanding the political climate and actions leading up to the JFK assassination.",
+  "document_ids": [
+    "157-10011-10000",
+    "157-10011-10010",
+    "157-10011-10006",
+    "157-10011-10007",
+    "157-10011-10009",
+    "157-10011-10003"
+  ]
+}

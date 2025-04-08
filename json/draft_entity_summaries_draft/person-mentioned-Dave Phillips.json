@@ -1,0 +1,17 @@
+{
+  "entity_name": "Dave Phillips",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "The documents primarily concern Dave Phillips indirectly through mentions of his son, Chris Phillips. One document mentions Chris traveling in Europe and using his sister's residence in Bonn as a base, without informing Dave of his travel plans, despite Dave's instructions. Another document details a suspicious phone call to KALBING from someone claiming to be Chris Phillips, prompting a security concern and a request for confirmation of Chris's travel and contacts. The other documents do not mention Dave Phillips directly, but are included in the document count.",
+  "key_connections": [
+    "Chris Phillips",
+    "KALBING"
+  ],
+  "significance": "Based on the provided documents, Dave Phillips' significance in the JFK context is not directly apparent. The documents primarily focus on his son's travel and a potential security breach related to a phone call made by someone claiming to be his son. Further context would be needed to determine Dave Phillips' role or significance in the JFK assassination.",
+  "document_ids": [
+    "104-10114-10161",
+    "157-10008-10150",
+    "104-10161-10096",
+    "104-10161-10097"
+  ]
+}

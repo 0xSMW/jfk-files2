@@ -1,0 +1,24 @@
+{
+  "entity_name": "Threat",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents revolve around threats made by individuals, primarily Richard Case Nagell, to expose alleged contacts and information related to US government activities and programs. These threats were made in response to unmet promises from US officials. Nagell threatened to reveal his contacts with 'WOF IRM' and expose individuals within the organization. Another subject (likely MHORDER WOMUSE) threatened to reveal alleged contacts on a radio broadcast. These threats prompted concerns and discussions within the US government, particularly regarding how to handle the situation and whether the individuals had ties to specific programs like WOFIRM or LN HARP. The threats occurred primarily in March 1969, with Nagell making threats at the Zurich Consulate and later at the US Consulate in Barcelona.",
+  "key_connections": [
+    "Richard Case Nagell",
+    "WOF IRM",
+    "MHORDER WOMUSE",
+    "US Officials",
+    "Zurich Consulate",
+    "Barcelona Consulate",
+    "WOFIRM",
+    "LN HARP"
+  ],
+  "significance": "The significance in the JFK context is indirect, primarily related to Richard Case Nagell and his potential knowledge or connections to sensitive information that he threatened to expose. The documents suggest concerns about the potential fallout from these disclosures, indicating that Nagell may have possessed information deemed damaging or compromising to US government activities. The specific nature of the information and its direct link to the JFK assassination is not explicitly detailed in these documents, but the sensitivity surrounding the threats implies a connection to covert operations or intelligence matters.",
+  "document_ids": [
+    "104-10123-10022",
+    "104-10310-10142",
+    "104-10123-10020",
+    "104-10220-10036",
+    "104-10123-10017"
+  ]
+}

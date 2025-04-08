@@ -1,0 +1,19 @@
+{
+  "entity_name": "Ralph McGill",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, Ralph McGill is mentioned in the context of FBI materials delivered to the U.S. Senate Select Committee on Intelligence Activities (SSC) concerning Martin Luther King, Jr., and the Southern Christian Leadership Conference (SCLC). The documents detail the FBI's response to the SSC's requests for information related to King and the SCLC, outlining which items were provided and noting instances where requested materials could not be located. However, the documents do not provide any specific information about Ralph McGill's role, significance, or involvement in the JFK assassination context. The documents primarily focus on the FBI's response to the SSC's requests regarding Martin Luther King, Jr., and the SCLC.",
+  "key_connections": [
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "U. S. Senate Select Committee on Intelligence Activities (SSC)",
+    "FBI"
+  ],
+  "significance": "The provided documents do not establish any significance of Ralph McGill in the JFK assassination context. His mention is solely within the context of FBI documents related to Martin Luther King, Jr., and the SCLC.",
+  "document_ids": [
+    "124-10264-10206_multirif",
+    "124-10264-10208_multirif",
+    "124-10264-10209_multirif",
+    "124-10264-10210_multirif"
+  ]
+}

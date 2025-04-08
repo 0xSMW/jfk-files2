@@ -1,0 +1,22 @@
+{
+  "entity_name": "Security Procedures",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Security procedures, as highlighted in the documents, encompass a range of protocols and guidelines designed to protect sensitive information and operations within governmental agencies, particularly the CIA and State Department. These procedures include covert approval processes, handling of sensitive files related to individuals like Richard Case Nagell, and cover procedures for CIA employees operating under State Department cover. The documents reveal a focus on maintaining operational security and protecting classified information from unauthorized disclosure, even during investigations such as the House Select Committee on Assassinations (HSCA). The procedures are implemented by entities such as the Counter Intelligence Staff and the Office of Security.",
+  "key_connections": [
+    "Clandestine Services",
+    "Counter Intelligence Staff",
+    "Office of Security",
+    "Richard Case Nagell",
+    "House Select Committee on Assassinations (HSCA)",
+    "CIA",
+    "State Department",
+    "Dennis A. Flynn"
+  ],
+  "significance": "In the context of the JFK assassination, security procedures are relevant because they govern the handling of information and operations related to individuals and events potentially connected to the assassination. The documents suggest that maintaining secrecy and controlling access to sensitive information were paramount, which could have implications for understanding the full scope of activities and knowledge surrounding the assassination. The procedures for handling files related to Richard Case Nagell, for example, indicate a concern for protecting certain information even during investigations.",
+  "document_ids": [
+    "104-10088-10070",
+    "104-10305-10005",
+    "180-10096-10401"
+  ]
+}

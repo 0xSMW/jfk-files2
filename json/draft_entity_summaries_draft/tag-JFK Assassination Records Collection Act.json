@@ -1,0 +1,43 @@
+{
+  "entity_name": "JFK Assassination Records Collection Act",
+  "entity_type": "tag",
+  "document_count": 26,
+  "summary": "The JFK Assassination Records Collection Act of 1992 is a United States law mandating the release of government documents related to the assassination of President John F. Kennedy. The CIA documents reveal the agency's efforts to comply with the Act, including contacting former employees whose names appear in the records to inform them of potential public release and offering them the opportunity to request redaction or postponement of disclosure. These efforts span from 1995 to 1998, indicating a sustained period of review and compliance. The documents also show the CIA seeking assistance from its stations worldwide to locate and inform these former employees, highlighting the global reach of the agency's operations and the complexities of managing the release of sensitive information. The Assassination Records Review Board (ARRB) plays a key role in overseeing the CIA's compliance with the Act, as evidenced by correspondence and requests for information.",
+  "key_connections": [
+    "CIA (Central Intelligence Agency)",
+    "Assassination Records Review Board (ARRB)",
+    "Former CIA employees",
+    "House Select Committee on Assassinations (HSCA)",
+    "Yuriy Nosenko",
+    "John F. Kennedy"
+  ],
+  "significance": "The JFK Assassination Records Collection Act is significant because it aimed to promote transparency and public access to information related to the JFK assassination. The Act's implementation required government agencies, particularly the CIA, to review and release previously classified documents, potentially shedding light on the events surrounding the assassination and related investigations. The documents reveal the CIA's internal processes for managing the release of sensitive information and its interactions with the ARRB, which was responsible for ensuring compliance with the Act.",
+  "document_ids": [
+    "104-10326-10036",
+    "194-10004-10156",
+    "180-10068-10334",
+    "194-10006-10188",
+    "194-10013-10006",
+    "104-10326-10037",
+    "194-10006-10184",
+    "104-10326-10067",
+    "104-10326-10030",
+    "180-10068-10332",
+    "104-10326-10027",
+    "104-10326-10031",
+    "104-10326-10066",
+    "194-10007-10425",
+    "104-10326-10032",
+    "104-10332-10009",
+    "104-10326-10064",
+    "104-10326-10038",
+    "104-10332-10023",
+    "104-10326-10034",
+    "194-10004-10355",
+    "194-10001-10381",
+    "104-10326-10062",
+    "104-10326-10035",
+    "194-10004-10155",
+    "104-10332-10022"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "entity_name": "Racketeering",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents indicate that racketeering was a subject of FBI investigations during the mid-20th century. These investigations involved technical surveillance authorizations for individuals and groups suspected of racketeering activities. Specific instances mentioned include Frank Ferraro, described as a Chicago hoodlum, and Santo Trafficante, Jr., whose possible involvement in racketeering and gambling activities was investigated. The investigations used methods such as telephone toll analysis and informant information to determine connections and activities. John Rosselli is also mentioned in connection to telephone calls made from Robert A. Maheu and Associates.",
+  "key_connections": [
+    "Frank Ferraro",
+    "Santo Trafficante, Jr.",
+    "John Rosselli",
+    "Robert A. Maheu and Associates"
+  ],
+  "significance": "While the documents mention racketeering investigations, they do not explicitly link racketeering to the JFK assassination. The connection is implied through individuals like John Rosselli and Santo Trafficante, Jr., who have been subjects of speculation and conspiracy theories related to the assassination, but the documents themselves do not provide direct evidence of such a connection.",
+  "document_ids": [
+    "124-10188-10308",
+    "124-10223-10173",
+    "124-10206-10180"
+  ]
+}

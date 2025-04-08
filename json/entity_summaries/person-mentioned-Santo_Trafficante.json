@@ -1,0 +1,19 @@
+{
+  "entity_name": "Santo Trafficante",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Santo Trafficante is identified as a person mentioned in documents related to CIA activities and organized crime. He is connected to Carlos Marcello, with whom he is associated through a meeting planned in Bay City, Texas, involving Trafficante's attorney, Dr. Frank Ragano, and possibly Giuseppe Gagliano. The documents suggest Trafficante's involvement with organized crime and potential connections to CIA plots, specifically those against Fidel Castro. While the documents do not directly link Trafficante to the JFK assassination, they place him within a network of individuals and activities that have been scrutinized in relation to the assassination.",
+  "key_connections": [
+    "Carlos Marcello",
+    "Dr. Frank Ragano",
+    "Giuseppe Gagliano",
+    "CIA",
+    "Fidel Castro"
+  ],
+  "significance": "Santo Trafficante's significance in the JFK context stems from his association with organized crime and potential links to CIA plots against Fidel Castro, placing him within a network of individuals and activities that have been scrutinized in relation to the assassination, although direct involvement is not explicitly stated in these documents.",
+  "document_ids": [
+    "157-10014-10109",
+    "180-10145-10446",
+    "124-10203-10292"
+  ]
+}

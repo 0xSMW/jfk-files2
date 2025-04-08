@@ -1,0 +1,29 @@
+{
+  "entity_name": "DEA",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The Drug Enforcement Administration (DEA) appears in several documents, primarily in the context of drug trafficking investigations and interactions with the CIA and FBI. The DEA's involvement ranges from collaborating with the CIA on background checks of Cuban exiles for potential operations to instances where information was intentionally withheld from them. One document mentions a CIA employee's interactions with the DEA regarding his employment status. Another document references information collected by an intelligence source about the DEA and the Kennedy assassination from Colombian Army officials. Overall, the DEA's presence in these documents suggests a role in law enforcement and intelligence gathering, sometimes intersecting with CIA operations and investigations related to drug trafficking and, tangentially, the JFK assassination.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Cuban exiles",
+    "Thomas L. Briggs",
+    "Samuel M. Giancana",
+    "Alfredo Ordonez Gonzalez",
+    "Evelio Duque",
+    "Herminio or Ermenegildo Diaz",
+    "Lucien Conein",
+    "Arthur R. Schwickrath",
+    "Colombian Army Intelligence"
+  ],
+  "significance": "The DEA's significance in the JFK assassination context is indirect. One document mentions an intelligence source collecting information about the DEA and the Kennedy assassination from Colombian Army officials, suggesting a potential, albeit tenuous, link. The DEA's primary role in these documents revolves around drug enforcement and collaboration with intelligence agencies, with the JFK assassination reference appearing as a secondary piece of information within a broader intelligence context.",
+  "document_ids": [
+    "104-10107-10008",
+    "124-10210-10096",
+    "104-10169-10004",
+    "104-10105-10210",
+    "104-10177-10239",
+    "104-10222-10041",
+    "104-10326-10039"
+  ]
+}

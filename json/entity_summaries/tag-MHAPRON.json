@@ -1,0 +1,18 @@
+{
+  "entity_name": "MHAPRON",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "MHAPRON appears to be a tag associated with the AMTRUNK operation, specifically related to the infiltration of individuals into Cuba. One document mentions the AMTRUNK/MHAPRON operation involving Modesto Orlando Orozco Basulto's infiltration. The documents suggest that MHAPRON is used to categorize or track specific aspects of Cuban infiltration operations conducted by the CIA, possibly related to agent recruitment, dissident contact, and equipment caching. The documents span from 1964 to 1965, indicating the period of MHAPRON's involvement in these operations.",
+  "key_connections": [
+    "AMTRUNK",
+    "Modesto Orlando Orozco Basulto",
+    "JMHAVE",
+    "ACSI"
+  ],
+  "significance": "MHAPRON's significance in the JFK context is indirect. It represents a tag associated with CIA operations targeting Cuba, which were ongoing during the time of the assassination. While not directly linked to the assassination in these documents, it provides context about the CIA's activities and focus during that period.",
+  "document_ids": [
+    "104-10216-10148",
+    "104-10234-10102",
+    "104-10216-10273"
+  ]
+}

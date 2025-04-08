@@ -1,0 +1,33 @@
+{
+  "entity_name": "W. R. Wannall",
+  "entity_type": "person-mentioned",
+  "document_count": 15,
+  "summary": "W. R. Wannall is mentioned in several FBI memoranda, primarily in the context of the Senate Select Committee (SSC) investigations into intelligence activities in the mid-1970s. He appears to be an FBI official involved in coordinating responses to the SSC's inquiries, particularly concerning CIA and FBI activities. One document specifically mentions a memorandum from W. G. Cregar to W. R. Wannall regarding a CIA document detailing questionable activities involving both the CIA and FBI, which was under review by the SSC. Wannall's role seems to be related to the FBI's internal handling and dissemination of information relevant to the SSC's investigations into intelligence operations, including those potentially exceeding mandates or involving sensitive matters such as domestic surveillance and connections to individuals like Martin Luther King Jr.",
+  "key_connections": [
+    "W. G. Cregar",
+    "Senate Select Committee (SSC)",
+    "FBI",
+    "CIA",
+    "James Angleton",
+    "Martin Luther King Jr.",
+    "Stanley Levison"
+  ],
+  "significance": "W. R. Wannall's significance in the JFK context is indirect. The documents suggest he was involved in the FBI's response to the Senate Select Committee's investigation into intelligence activities, some of which touched on areas relevant to the JFK assassination, such as the CIA's activities and potential connections to individuals or groups of interest. However, the documents do not directly link him to the assassination itself, but rather to the subsequent investigations and inquiries into intelligence community operations.",
+  "document_ids": [
+    "124-10185-10099",
+    "124-10274-10001",
+    "124-10276-10400",
+    "124-10271-10299",
+    "124-10273-10007_multirif",
+    "124-10271-10303",
+    "124-10274-10011 (c06716583)",
+    "124-10271-10033_multirif_redacted",
+    "124-10238-10333_multirif",
+    "124-10185-10100",
+    "124-10271-10301",
+    "124-10179-10217",
+    "124-10271-10299_multirif",
+    "124-10238-10329_multirif",
+    "124-10273-10053"
+  ]
+}

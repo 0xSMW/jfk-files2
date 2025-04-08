@@ -1,0 +1,25 @@
+{
+  "entity_name": "Rome",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Rome appears in several CIA documents spanning from 1952 to 1973, indicating its use as a location for various agency activities. These activities include surveillance, agent contact, and operational support. Specifically, Rome is mentioned in the context of monitoring Communist officials' activities during William Z. Foster's trip in 1952. In 1963, it was considered as a potential location for operations supported by AMWHIP/1, a CIA asset with ties to the Perumen regime. In 1973, Rome is mentioned as a location for surveillance related to Luis Clemente Posada Carriles' suspected narcotics trafficking. Additionally, a 1963 cable references information sent to the Rome station regarding individuals Giulio Mondello and Neriolo. The documents suggest that Rome served as a significant location for CIA operations and surveillance during the Cold War era.",
+  "key_connections": [
+    "Luis Clemente Posada Carriles",
+    "AMWHIP/1",
+    "Giulio Mondello",
+    "Neriolo",
+    "William Z. Foster",
+    "Perumen Regime",
+    "Madrid",
+    "Prague",
+    "Paris"
+  ],
+  "significance": "Rome's significance in the JFK context is primarily as a location where CIA activities and surveillance took place. While the documents do not directly link Rome to the JFK assassination, they illustrate the city's role as a hub for intelligence operations during the period leading up to and following the assassination. The surveillance of individuals like Luis Clemente Posada Carriles, though not directly related to the assassination in these documents, highlights the broader context of CIA activities and concerns during that time.",
+  "document_ids": [
+    "104-10216-10397",
+    "104-10178-10000",
+    "104-10100-10087",
+    "104-10183-10043",
+    "104-10074-10007"
+  ]
+}

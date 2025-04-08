@@ -1,0 +1,32 @@
+{
+  "entity_name": "Resignation",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "The documents highlight instances of resignations within various organizations, including the CIA and the House Select Committee on Assassinations (HSCA). These resignations are documented through personnel records, payroll records, dispatches, and other administrative documents. The reasons for resignation vary, ranging from career changes and potential security compromises to compliance with the JFK Assassination Records Collection Act. Specific individuals mentioned in connection with resignations include James B. Wilcott Jr., Thomas B. CASASIN (J. Richardson), and David E. Murphy within the CIA, and Claire L. Brown and Denise L. McCray within the HSCA. The documents provide insights into the employment history and personnel actions of these individuals, as well as the administrative processes surrounding their departures.",
+  "key_connections": [
+    "CIA",
+    "HSCA",
+    "James B. Wilcott Jr.",
+    "Thomas B. CASASIN (J. Richardson)",
+    "David E. Murphy",
+    "Claire L. Brown",
+    "Denise L. McCray",
+    "Project HBILKA/JBGREED",
+    "ODYOKE",
+    "JMWAVE",
+    "Assassination Records Review Board",
+    "JFK Assassination Records Collection Act of 1992"
+  ],
+  "significance": "In the context of the JFK assassination, the resignations themselves don't directly implicate involvement in the assassination. However, the documents related to these resignations are part of the broader effort to collect and analyze records related to the assassination, as mandated by the JFK Assassination Records Collection Act. The resignations may be relevant if they shed light on the individuals' activities or knowledge related to the assassination, or if they reveal potential security concerns or internal investigations within relevant organizations like the CIA and HSCA.",
+  "document_ids": [
+    "180-10068-10303",
+    "104-10195-10003",
+    "104-10059-10099",
+    "104-10256-10208",
+    "104-10326-10066",
+    "104-10194-10019",
+    "104-10224-10002",
+    "180-10068-10317",
+    "180-10060-10480"
+  ]
+}

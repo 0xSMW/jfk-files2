@@ -1,0 +1,30 @@
+{
+  "entity_name": "Security Clearances",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "Security clearances are a recurring theme across these documents, indicating their importance in managing access to classified information within the CIA, FBI, and Congressional committees, particularly those investigating intelligence activities and the JFK assassination. The documents highlight the process of obtaining and managing these clearances for individuals involved in sensitive projects, including CIA personnel, members of the JFK Assassination Records Review Board (ARRB), and staff of the Senate Select Committee on Intelligence Activities. These clearances were essential for individuals to access classified information related to investigations, covert operations, and intelligence matters. The documents also reveal concerns about potential exposure of classified information and the need to maintain secrecy around sensitive operations and connections.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Senate Select Committee on Intelligence Activities",
+    "JFK Assassination Records Review Board (ARRB)",
+    "COINTELPRO",
+    "Brown and Root, Inc.",
+    "Lucien Emile Conein",
+    "House Select Committee on Assassinations"
+  ],
+  "significance": "In the JFK context, security clearances are significant because they governed who had access to potentially relevant classified information. The documents suggest that managing these clearances was a complex process involving coordination between various agencies and committees. The focus on security clearances underscores the sensitivity of the information surrounding the JFK assassination and the efforts to control its dissemination. The documents also highlight the potential for conflicts between the need for transparency and the need to protect classified information, as seen in the context of the ARRB's work.",
+  "document_ids": [
+    "104-10140-10420",
+    "104-10333-10013",
+    "124-10185-10099 (c06716626)",
+    "124-10271-10011_multirif",
+    "104-10116-10261",
+    "180-10143-10072",
+    "124-10271-10299_multirif",
+    "124-10271-10003",
+    "104-10113-10030",
+    "104-10117-10203",
+    "104-10142-10055"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "entity_name": "Communications",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The documents highlight various aspects of communications, ranging from covert operations to routine administrative tasks. They encompass intercepted communications revealing reactions to President Kennedy's death in Cuba, secure voice and high-speed data transmission evaluations, and the operational effectiveness of intelligence networks. Communications methods are central to the AMFAUNA operation, detailing how agents relay information. The timeline spans from 1962 to 1967, showcasing the evolution and importance of secure and effective communication channels. A notable pattern is the emphasis on secure communications for intelligence gathering and operational activities, as well as the monitoring of communications for intelligence purposes.",
+  "key_connections": [
+    "UMWAVE",
+    "Cuba",
+    "NSA",
+    "President Kennedy",
+    "DGI",
+    "Collins Modem",
+    "AMFAUNA",
+    "JMWAVE",
+    "SIGINT Command Center"
+  ],
+  "significance": "In the JFK assassination context, communications are significant for understanding the reactions and potential intelligence gathered in Cuba following the event. Intercepted communications provide insights into the immediate aftermath and the sentiments of Cuban operators. Furthermore, the emphasis on secure communications within intelligence operations suggests the importance of maintaining secrecy and operational integrity during this period.",
+  "document_ids": [
+    "104-10075-10373",
+    "144-10001-10271",
+    "104-10183-10347",
+    "104-10107-10180",
+    "104-10070-10079",
+    "144-10001-10290"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "entity_name": "DeLoach",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, there is no mention of an entity named \"DeLoach.\" The documents primarily discuss the relationship between the FBI and CIA, particularly concerning the handling of sensitive information and liaison activities. Key figures mentioned include James Angleton of the CIA (referred to as \"Bureau Informant 100\"), J. Edgar Hoover, and Sam J. Papich. The documents also reference Israeli intelligence activities (SCOPE material) and a CIA request regarding Jorge Beliard, a station manager for Cubana Airlines. The timeline spans from 1961 to 1993, focusing on the evolving dynamics between the FBI and CIA and their counterintelligence efforts.",
+  "key_connections": [
+    "James Angleton",
+    "J. Edgar Hoover",
+    "Sam J. Papich",
+    "CIA",
+    "FBI",
+    "Israeli Intelligence Service",
+    "Jorge Beliard"
+  ],
+  "significance": "Based on the provided documents, DeLoach is not mentioned and therefore has no significance in the JFK context within these documents.",
+  "document_ids": [
+    "124-10326-10103",
+    "157-10011-10093",
+    "124-10326-10105",
+    "124-90137-10467"
+  ]
+}

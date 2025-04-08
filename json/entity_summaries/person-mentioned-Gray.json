@@ -1,0 +1,32 @@
+{
+  "entity_name": "Gray",
+  "entity_type": "person-mentioned",
+  "document_count": 15,
+  "summary": "Based on the provided documents, \"Gray\" appears in the context of the President's Foreign Intelligence Advisory Board (PFIAB) meetings and related intelligence activities during the early to mid-1960s. The documents suggest Gray was involved in discussions and briefings related to intelligence coverage of Cuba, covert operations, national reconnaissance programs, signals intelligence (SIGINT), and other sensitive matters. Gray's presence is noted in meeting minutes, agendas, and summaries of the PFIAB, indicating a role in advising on or overseeing intelligence matters during this period. The documents do not explicitly detail Gray's specific position or responsibilities, but their consistent appearance in PFIAB-related materials suggests a significant advisory or oversight role within the intelligence community during the Kennedy administration.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "CIA",
+    "Director of Central Intelligence (DCI)",
+    "National Reconnaissance Office (NRO)",
+    "Senate Select Committee (SSC)",
+    "FBI"
+  ],
+  "significance": "The documents do not provide any direct connection between Gray and the JFK assassination. Gray's significance lies in their involvement with the President's Foreign Intelligence Advisory Board and their role in advising on intelligence matters during the Kennedy administration, particularly concerning Cuba and covert operations. The documents suggest Gray was part of the advisory structure overseeing intelligence activities during a critical period of the Cold War, but there is no indication of any link to the assassination.",
+  "document_ids": [
+    "206-10001-10012",
+    "206-10001-10004",
+    "157-10011-10010",
+    "206-10001-10009",
+    "206-10001-10005",
+    "206-10001-10013",
+    "178-10004-10115",
+    "206-10001-10006",
+    "124-10271-10013",
+    "124-10274-10029",
+    "206-10001-10007",
+    "157-10008-10238",
+    "206-10001-10000",
+    "157-10008-10234",
+    "157-10011-10003"
+  ]
+}

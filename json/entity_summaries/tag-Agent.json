@@ -1,0 +1,33 @@
+{
+  "entity_name": "Agent",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "The documents refer to 'Agent' in the context of CIA operations, intelligence gathering, and security matters. Agents are individuals employed by the CIA for various purposes, including intelligence collection, infiltration, and operational support. The documents highlight different aspects of agent management, such as recruitment (Dimitur Adamov Dimitrov), cover employment (AMMUG/1), operational clearance (Subject in Costa Rica), security incidents (A-3 in Havana), and evaluation (Ross L. Crozier/VAIVADA). The documents span from the 1950s to the 1970s, indicating a long-term use of agents in various operations. The documents also touch upon the complexities of managing agents, including security risks, communication protocols, and the need for operational clearance and cover employment. There is no direct mention of JFK assassination in these documents.",
+  "key_connections": [
+    "JAGUAR group",
+    "Dimitur Adamov Dimitrov (aka Lyle O. Kelly)",
+    "AMMUG/1",
+    "Ross L. Crozier (Agent VAIVADA)",
+    "Project HUMANOID",
+    "Pedro Luis Diaz Lanz",
+    "Reinaldo Blanco Hernandez",
+    "Alberto Eusebio Mojena",
+    "A-3",
+    "AMJAVA-4",
+    "LIENVOY-8",
+    "LIFEAT",
+    "Fidel Castro"
+  ],
+  "significance": "The term 'Agent' in these documents does not have a direct significance to the JFK assassination context. Instead, it refers to individuals employed by the CIA for intelligence gathering and operational purposes in various locations and time periods. The documents provide insight into the operational aspects of CIA agent management but do not establish any connection to the JFK assassination.",
+  "document_ids": [
+    "104-10308-10168",
+    "104-10435-10071",
+    "104-10225-10035",
+    "104-10114-10042",
+    "104-10215-10215",
+    "124-10221-10229",
+    "104-10169-10265",
+    "104-10211-10326",
+    "104-10220-10128"
+  ]
+}

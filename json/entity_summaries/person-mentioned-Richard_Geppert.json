@@ -1,0 +1,20 @@
+{
+  "entity_name": "Richard Geppert",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Based on the provided documents, Richard Geppert is mentioned in the context of communications between the FBI and the House Select Committee on Assassinations (HSCA) during its investigations into the assassinations of Martin Luther King Jr. and John F. Kennedy. The documents primarily consist of teletypes, memoranda, and letters exchanged between the FBI, its field offices, and the HSCA. These communications involve requests for files, information on informants, and details of investigations related to various individuals and groups. While the documents mention Geppert, they do not specify his role or significance in the JFK assassination context. The documents suggest that the FBI was responding to HSCA requests for information, and Geppert's name appears within this context.",
+  "key_connections": [
+    "FBI",
+    "House Select Committee on Assassinations (HSCA)",
+    "Martin Luther King Jr.",
+    "John F. Kennedy"
+  ],
+  "significance": "The documents do not provide enough information to determine Richard Geppert's specific significance in the JFK assassination context. His name appears in the context of FBI communications with the HSCA, suggesting he may have been involved in the investigation or information gathering process, but his exact role is not detailed.",
+  "document_ids": [
+    "124-10180-10324_multirif",
+    "124-10180-10320_multirif",
+    "124-10180-10323_multirif",
+    "124-10180-10236_multirif",
+    "124-10180-10325_multirif"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "entity_name": "Winiewicz",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Winiewicz is identified as the Polish U.N. Mission Chief. The documents highlight interactions between Winiewicz and John McCloy, a member of the Warren Commission, concerning the JFK assassination investigation. McCloy expressed doubts about the credibility of the investigation to Winiewicz. The documents suggest that Winiewicz was a point of contact for discussions and information regarding the Warren Commission's work and the controversies surrounding it.",
+  "key_connections": [
+    "John McCloy",
+    "Warren Commission"
+  ],
+  "significance": "Winiewicz's significance lies in his role as a foreign diplomat who received information and opinions from a member of the Warren Commission regarding the credibility of the JFK assassination investigation. This suggests that concerns about the investigation's validity extended beyond domestic circles and were of interest to international actors.",
+  "document_ids": [
+    "144-10001-10102",
+    "144-10001-10119",
+    "144-10001-10107"
+  ]
+}

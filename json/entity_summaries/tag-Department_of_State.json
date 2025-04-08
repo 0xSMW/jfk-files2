@@ -1,0 +1,30 @@
+{
+  "entity_name": "Department of State",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "The Department of State is a U.S. government entity involved in various activities related to foreign policy and national security. The documents reveal its role in efforts to counter Cuban subversion in Latin America during the 1960s, including controlling travel to and from Cuba, curbing Cuban propaganda, and preventing the clandestine movement of guerrillas and arms. The Department of State also provided official cover for CIA employees. The documents span from 1952 to 1990, indicating a long-term involvement in these activities. A notable pattern is the Department's collaboration with other agencies like the CIA, Department of Defense, and USIA in coordinated efforts against perceived threats.",
+  "key_connections": [
+    "CIA",
+    "Department of Defense",
+    "USIA",
+    "Interdepartmental Coordinating Committee of Cuban Affairs (ICCA)",
+    "Crusade for Freedom",
+    "Senate Select Committee on Intelligence (SSCI)",
+    "FBI"
+  ],
+  "significance": "In the context of the JFK assassination, the Department of State's significance lies in its involvement in anti-Castro activities and its collaboration with other agencies involved in covert operations. While the documents do not directly link the Department to the assassination, they highlight its role in the broader landscape of U.S. foreign policy and intelligence operations during the Cold War, which are sometimes implicated in theories surrounding the assassination.",
+  "document_ids": [
+    "198-10007-10013",
+    "198-10009-10098",
+    "104-10110-10295",
+    "104-10216-10000",
+    "198-10007-10022",
+    "104-10110-10307",
+    "198-10008-10119",
+    "198-10007-10021",
+    "104-10226-10023",
+    "104-10110-10291",
+    "124-10185-10214",
+    "119-10021-10413"
+  ]
+}

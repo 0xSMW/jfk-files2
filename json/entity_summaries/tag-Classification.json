@@ -1,0 +1,30 @@
+{
+  "entity_name": "Classification",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "The documents highlight the importance of classification in protecting sensitive information related to intelligence operations and investigations, particularly concerning the JFK assassination. Several documents discuss the classification of specific information and reports, often involving the House Select Committee on Assassinations (HSCA) and the Senate Select Committee (Church Committee). These classifications are justified by the need to protect sensitive sources, methods, and intelligence channels, such as COMINT. The documents also reveal internal processes for managing classified information, including requests for declassification, justifications for classification, and the handling of personnel information. Operation MHCHAOS is specifically mentioned as a reason for classifying certain documents. The documents span from 1976 to 1978, indicating ongoing efforts to manage and protect classified information related to the JFK assassination investigation and other sensitive matters.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Senate Select Committee (Church Committee)",
+    "Operation MHCHAOS",
+    "FBI",
+    "NSA",
+    "COMINT",
+    "Sgt Nicholas B. Stevenson",
+    "Tennent Bagley"
+  ],
+  "significance": "In the JFK context, classification is crucial for understanding what information was deemed too sensitive for public release and why. It highlights the government's efforts to balance transparency with the protection of national security and intelligence operations. The classification of documents related to the HSCA investigation suggests that certain aspects of the assassination or related intelligence activities were considered highly sensitive and required restricted access.",
+  "document_ids": [
+    "144-10001-10175",
+    "178-10003-10176",
+    "104-10145-10436",
+    "104-10074-10347",
+    "104-10061-10181",
+    "104-10063-10430",
+    "144-10001-10148",
+    "104-10074-10349",
+    "104-10221-10003",
+    "104-10063-10434",
+    "144-10001-10249"
+  ]
+}

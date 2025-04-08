@@ -1,0 +1,33 @@
+{
+  "entity_name": "Source Protection",
+  "entity_type": "tag",
+  "document_count": 13,
+  "summary": "Source protection refers to the measures taken by the CIA and other government agencies to safeguard the identities of human intelligence sources, employees, and operational methods. This is a recurring concern in the context of the JFK assassination records, as the release of information could potentially endanger individuals, compromise ongoing intelligence operations, and damage relationships with foreign governments. The CIA communicated with the Assassination Records Review Board (ARRB) to propose substitutions for true names, regional designations for CIA stations, and to revisit the release of CIA employees' names, especially those with minimal connection to the JFK assassination. Guidelines were established for cooperation with the House Select Committee on Assassinations (HSCA) to protect sources and operational security during interviews. The protection extends to non-official cover officers (NOCs), agents, and even individuals providing information through unofficial channels, such as James Angleton. The documents reveal a consistent effort to balance transparency with the need to protect sensitive information and individuals involved in intelligence activities.",
+  "key_connections": [
+    "CIA",
+    "Assassination Records Review Board (ARRB)",
+    "House Select Committee on Assassinations (HSCA)",
+    "Human Intelligence Sources",
+    "NOCs (Non-Official Cover Officers)",
+    "James Angleton",
+    "Foreign Governments",
+    "Willem Oltmans",
+    "George de Mohrenschildt"
+  ],
+  "significance": "In the JFK context, source protection is significant because the release of information about CIA sources and operations could have severe consequences, including endangering individuals, compromising ongoing intelligence activities, and damaging relationships with foreign governments. The documents highlight the tension between the public's right to know and the need to protect sensitive intelligence information. The CIA's efforts to balance these competing interests are a central theme in the declassification process of JFK assassination records.",
+  "document_ids": [
+    "104-10330-10070",
+    "104-10332-10016",
+    "104-10330-10026",
+    "104-10067-10043",
+    "104-10065-10075",
+    "104-10147-10301",
+    "104-10331-10154",
+    "104-10105-10103",
+    "104-10326-10043",
+    "104-10330-10044",
+    "124-10326-10100",
+    "104-10418-10103",
+    "104-10418-10230"
+  ]
+}

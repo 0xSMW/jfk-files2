@@ -1,0 +1,23 @@
+{
+  "entity_name": "Covert Actions",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents reference \"covert actions\" primarily in the context of ongoing discussions between the CIA and the ARRB (Assassination Records Review Board) regarding the declassification and release of JFK assassination-related records. The CIA is concerned with protecting sensitive information related to these covert actions, particularly unacknowledged ones, and is negotiating with the ARRB to find compromises that allow for the release of information while safeguarding agency equities and operational details. The documents do not specify the nature of these covert actions, but their sensitivity is highlighted by the CIA's efforts to protect them during the declassification process. The ARRB is pushing for transparency and the release of relevant information, leading to negotiations and proposed compromises.",
+  "key_connections": [
+    "ARRB (Assassination Records Review Board)",
+    "CIA",
+    "Alias Documentation",
+    "Mexico City Tapes",
+    "LITAMIL-9",
+    "Richard Gibson",
+    "JFK Assassination Records"
+  ],
+  "significance": "In the JFK assassination context, \"covert actions\" represent a category of potentially sensitive information that the CIA sought to protect during the declassification process. The specific nature of these actions is not detailed, but their existence and the CIA's efforts to shield them suggest they may be relevant to understanding the events surrounding the assassination. The ARRB's interest in these records indicates their potential importance to the investigation and public understanding of the assassination.",
+  "document_ids": [
+    "104-10332-10000",
+    "104-10331-10140",
+    "104-10306-10007",
+    "104-10331-10149",
+    "104-10331-10152"
+  ]
+}

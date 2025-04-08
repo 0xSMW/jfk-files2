@@ -1,0 +1,28 @@
+{
+  "entity_name": "HQ",
+  "entity_type": "sender",
+  "document_count": 8,
+  "summary": "The documents primarily concern the FBI's interactions and information sharing with the CIA. The FBI acts as a liaison, providing information to the CIA on various individuals and situations, often at the CIA's request. This includes providing information on Cuban exiles, foreign officials, and potential informants. The FBI also advises the CIA on the potential risks and benefits of approaching certain individuals for intelligence purposes. The documents highlight the collaborative relationship between the FBI and CIA during the early to mid-1960s, particularly concerning Cuban affairs and intelligence gathering.",
+  "key_connections": [
+    "CIA",
+    "Eloy Gutierrez Menoyo",
+    "Raul Roa",
+    "Lucien Conein",
+    "Herbert Levy",
+    "James Angleton",
+    "Franc Pecar",
+    "Jorge Beliard",
+    "Petros Moutsos"
+  ],
+  "significance": "In the context of the JFK assassination, these documents illustrate the intelligence landscape of the time, particularly the focus on Cuban affairs and the collaboration between the FBI and CIA. While the documents do not directly relate to the assassination itself, they provide insight into the types of intelligence activities and relationships that were prevalent during that period, which could be relevant to understanding the broader context surrounding the event.",
+  "document_ids": [
+    "124-90135-10074",
+    "124-90139-10138",
+    "124-90060-10015",
+    "124-90139-10070",
+    "124-10326-10105",
+    "124-90110-10070",
+    "124-90137-10468",
+    "124-90137-10230"
+  ]
+}

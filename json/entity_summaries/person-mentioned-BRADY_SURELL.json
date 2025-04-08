@@ -1,0 +1,15 @@
+{
+  "entity_name": "BRADY, SURELL",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Surell Brady was an employee of the Select Committee on Assassinations (SCA). The documents available are payroll and certification reports that list Brady's name, salary, and employment dates. Specifically, Brady is listed in payroll certifications for April 1978 and August 1978, as well as a certification report for December 1978. These documents provide a record of Brady's employment and compensation during the specified periods within the SCA.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Surell Brady's significance lies in being an employee of the Select Committee on Assassinations. The payroll records confirm Brady's role within the committee, contributing to the overall investigation, though the specific nature of the role is not detailed in these documents.",
+  "document_ids": [
+    "180-10125-10078",
+    "180-10125-10087",
+    "180-10125-10083"
+  ]
+}

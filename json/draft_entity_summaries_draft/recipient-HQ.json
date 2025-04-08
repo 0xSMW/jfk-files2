@@ -1,0 +1,43 @@
+{
+  "entity_name": "HQ",
+  "entity_type": "recipient",
+  "document_count": 20,
+  "summary": "HQ, likely referring to FBI Headquarters, appears as the recipient of numerous reports, memos, and teletypes from various FBI field offices and other agencies like the CIA. These documents cover a wide range of topics, including investigations into individuals with potential connections to anti-Castro activities, suspected Soviet or Cuban intelligence agents, and potential threats to the President. HQ receives information on individuals like Joseph Raymond Merola, who claimed CIA connections, and Yuri Ivanovich Nosenko, a KGB defector. The documents also detail investigations into individuals involved in Central American activities, such as Manuel Fuego and Mitchell Livingston WerBell. Overall, HQ serves as a central point for receiving and disseminating intelligence related to national security concerns, anti-Castro activities, and potential espionage threats during the Cold War era.",
+  "key_connections": [
+    "FBI field offices (e.g., Miami, Bonn, Santo Domingo, Washington Metropolitan Field Office)",
+    "CIA",
+    "Robert Glenn Thompson",
+    "William K. Harvey",
+    "Yuri Ivanovich Nosenko",
+    "Joseph Raymond Merola",
+    "Manuel Fuego",
+    "Mitchell Livingston WerBell",
+    "Franc Pecar",
+    "Santiago Alvarez Rodriguez",
+    "Libertad ANTIGUA Arrencibia",
+    "Carlos Miguel KASSEL (GACEL)"
+  ],
+  "significance": "In the context of the JFK assassination, HQ's role is primarily as a recipient of information related to potential threats, intelligence gathering, and investigations into individuals who may have been involved in activities relevant to national security. While the documents do not directly link HQ to the assassination, they highlight the FBI's efforts to monitor and investigate individuals and groups that could pose a threat, including those with connections to anti-Castro movements and foreign intelligence agencies. The documents suggest that HQ was a central hub for intelligence related to potential threats and espionage activities during the period leading up to and following the assassination.",
+  "document_ids": [
+    "124-90092-10002",
+    "124-90139-10071",
+    "124-10311-10292",
+    "124-90124-10055",
+    "124-90110-10083",
+    "124-90155-10008",
+    "124-10365-10020",
+    "124-10332-10047",
+    "124-90158-10062",
+    "124-90065-10029",
+    "124-90110-10071",
+    "124-90130-10005",
+    "124-90037-10081",
+    "124-10326-10191",
+    "124-90137-10488",
+    "124-90124-10092",
+    "124-10332-10018",
+    "124-90110-10072",
+    "124-90092-10001",
+    "124-10371-10015"
+  ]
+}

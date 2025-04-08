@@ -1,0 +1,22 @@
+{
+  "entity_name": "NY",
+  "entity_type": "sender",
+  "document_count": 3,
+  "summary": "Based on the provided documents, it is not possible to determine the role or significance of 'NY' in the JFK assassination context. The documents primarily focus on information provided to the FBI by Robert Glenn Thompson regarding CIA personnel and activities related to Cuba. There is no explicit mention of 'NY' or its involvement in the JFK assassination. The documents detail Thompson's interactions with the FBI, his knowledge of William K. Harvey and other CIA operatives, and information about US plans for Cuba. The documents span from 1962 to 1965, focusing on the Cold War era and anti-Castro activities.",
+  "key_connections": [
+    "Robert Glenn Thompson",
+    "William K. Harvey",
+    "Robert Kleberg",
+    "Lyndon B. Johnson",
+    "Michael J. P. Malone",
+    "FBI",
+    "CIA",
+    "Soviets"
+  ],
+  "significance": "Insufficient information to determine significance in the JFK context.",
+  "document_ids": [
+    "124-90092-10002",
+    "124-10326-10191",
+    "124-90092-10001"
+  ]
+}

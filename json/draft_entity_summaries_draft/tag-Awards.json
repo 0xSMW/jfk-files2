@@ -1,0 +1,20 @@
+{
+  "entity_name": "Awards",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents reference awards in the context of CIA personnel files and commendations. These awards recognize service and achievements within the CIA. One document details a report from the Honor Awards Board concerning a recommendation for an award, specifically a Certificate of Merit with Distinction, which was ultimately disapproved. Another document mentions an award for meritorious service given to William P. Burke Jr., Chief of the New Orleans Field Office. Robert P. Wheeler's personnel file also mentions commendations as part of his career achievements within the CIA. The awards reflect recognition of service and performance within the agency.",
+  "key_connections": [
+    "Robert P. Wheeler",
+    "Honor Awards Board",
+    "William P. Burke Jr.",
+    "CIA",
+    "Certificate of Merit with Distinction",
+    "New Orleans Field Office"
+  ],
+  "significance": "In the context of the JFK assassination, awards themselves don't have direct significance. However, the individuals receiving these awards, their roles within the CIA, and the nature of their service could potentially be relevant if those individuals were connected to events surrounding the assassination. The awards provide context to the careers and performance of individuals who may be of interest in the investigation.",
+  "document_ids": [
+    "104-10291-10002",
+    "104-10124-10037",
+    "104-10193-10069"
+  ]
+}

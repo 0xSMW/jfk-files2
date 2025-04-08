@@ -1,0 +1,31 @@
+{
+  "entity_name": "John T. Elliff",
+  "entity_type": "person-mentioned",
+  "document_count": 13,
+  "summary": "John T. Elliff's role is primarily related to the Senate Select Committee on Intelligence Activities (SSC), also known as the Church Committee, which was investigating the FBI's domestic intelligence operations in the mid-1970s. The documents suggest that Elliff was involved in discussions and preparations related to the FBI's response to the SSC's inquiries. These inquiries covered a range of sensitive topics, including the FBI's investigations of Martin Luther King, Jr., the Southern Christian Leadership Conference (SCLC), COINTELPRO, and the Huston Plan. The documents indicate that Elliff was involved in analyzing potential legislative actions and oversight mechanisms related to the FBI's activities, as well as preparing for the Director's testimony before the Senate Select Committee. The documents suggest Elliff was involved in the legal aspects of the FBI's interactions with the SSC.",
+  "key_connections": [
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "FBI",
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "COINTELPRO",
+    "Huston Plan",
+    "J.B. Adams"
+  ],
+  "significance": "Based on the provided documents, John T. Elliff's significance is not directly related to the JFK assassination. Instead, his role appears to be centered on the FBI's interactions with the Senate Select Committee on Intelligence Activities (SSC) during its investigation of intelligence activities in the 1970s. His involvement pertains to the legal and strategic responses of the FBI to the committee's inquiries regarding domestic intelligence operations, rather than any direct connection to the JFK assassination.",
+  "document_ids": [
+    "124-10186-10048_multirif",
+    "124-10182-10231",
+    "124-10264-10206_multirif",
+    "124-10186-10045_multirif",
+    "124-10186-10056_multirif",
+    "124-10186-10051_multirif",
+    "124-10264-10208_multirif",
+    "124-10186-10055_multirif",
+    "124-10274-10070",
+    "124-10186-10054_multirif",
+    "124-10184-10237",
+    "124-10264-10210_multirif",
+    "124-10186-10049_multirif"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "entity_name": "Certification",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents provided are payroll certification reports for the U.S. House of Representatives Select Committee on Assassinations (HSCA). These certifications detail the names, positions, and salaries of committee staff for specific accounting periods. The reports include information such as employee names, social security numbers, positions, salaries, and employment dates. The documents span from August 1977 to August 1978, indicating the period during which the HSCA was actively employing staff and processing payroll. The consistent format and purpose of these documents suggest a standardized administrative process within the HSCA for managing employee compensation.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations",
+    "Committee Staff",
+    "Payroll",
+    "Employee Names",
+    "Social Security Numbers",
+    "Positions",
+    "Salaries"
+  ],
+  "significance": "In the context of the JFK assassination, these payroll certifications provide insight into the operational aspects of the HSCA, the committee responsible for reinvestigating the assassination. While they don't directly reveal information about the assassination itself, they offer a glimpse into the staffing, resources, and administrative processes involved in the investigation. The documents serve as evidence of the committee's activities and resource allocation during its investigation period.",
+  "document_ids": [
+    "180-10125-10100",
+    "180-10125-10093",
+    "180-10125-10084",
+    "180-10125-10098"
+  ]
+}

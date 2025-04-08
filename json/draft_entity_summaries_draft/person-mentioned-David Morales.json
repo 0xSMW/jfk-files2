@@ -1,0 +1,21 @@
+{
+  "entity_name": "David Morales",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "David Morales is mentioned in the context of alias documentation. A 1973 memorandum details the transfer of his alias documents, including identification cards and a Mexican passport, from Foreign Resources (FR) Plans Chief Robert Baker to WH/Security. This suggests Morales was a CIA officer or asset using aliases. The documents do not explicitly state his role in the JFK assassination, but his alias documentation is a point of contention between the CIA and the ARRB (Assassination Records Review Board) in the 1990s, indicating his records are considered relevant to the JFK investigation. The CIA sought to postpone the release of alias documentation, potentially to protect intelligence methods or diplomatic relations. The documents suggest that Morales' alias documents are part of a larger set of sensitive records the CIA was hesitant to release.",
+  "key_connections": [
+    "Robert Baker",
+    "ARRB (Assassination Records Review Board)",
+    "CIA"
+  ],
+  "significance": "David Morales' significance in the JFK context stems from his association with alias documentation held by the CIA. The CIA's reluctance to release these documents suggests that Morales may have been involved in sensitive operations or activities that the agency wished to keep secret. The ARRB's interest in these documents indicates that they believed Morales' activities could shed light on the events surrounding the JFK assassination.",
+  "document_ids": [
+    "104-10332-10000",
+    "104-10330-10118",
+    "104-10121-10130",
+    "104-10331-10149",
+    "104-10103-10097",
+    "104-10121-10197",
+    "104-10331-10152"
+  ]
+}

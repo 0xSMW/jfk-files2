@@ -1,0 +1,22 @@
+{
+  "entity_name": "Blakey",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Based on the provided documents, \"Blakey\" is associated with a request from the House Select Committee on Assassinations (HSCA) for Cuban communications during March and April 1962. The documents indicate that the NSA responded to a request from Blakey for Cuban communications related to specific individuals and entities. However, a thorough search yielded negative results due to the destruction of raw traffic data and the lack of product files. The documents also mention HSCA staff payroll records and the Assassination Records Review Board's final determination to postpone in part the release of HSCA staff payroll records, specifically redacting Social Security numbers to protect personal privacy.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "NSA",
+    "Cuban communications",
+    "Assassination Records Review Board"
+  ],
+  "significance": "Blakey's significance in the JFK context lies in their role in requesting Cuban communications data from the NSA as part of the HSCA's investigation into the assassination. The request suggests an interest in exploring potential Cuban involvement or knowledge related to the assassination.",
+  "document_ids": [
+    "180-10147-10264",
+    "180-10072-10186",
+    "104-10332-10009",
+    "144-10001-10185",
+    "104-10413-10306",
+    "180-10147-10257",
+    "180-10068-10320"
+  ]
+}

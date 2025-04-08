@@ -1,0 +1,32 @@
+{
+  "entity_name": "Terrorism",
+  "entity_type": "tag",
+  "document_count": 14,
+  "summary": "The documents reveal terrorism primarily in the context of Cuban exiles, Viet Cong activities, and potential threats to U.S. interests. Cuban exiles like Orlando Bosch are linked to bombings and anti-Castro operations, with concerns about their activities in relation to U.S. officials and events. The documents also highlight Cuban support for revolutionary movements in Latin America, including alleged financing of terrorist acts. Additionally, Viet Cong plans to increase terrorist activities targeting Americans in Saigon are mentioned. The timeline spans from the early 1960s to the late 1970s, with some later references in the 1990s. A recurring pattern involves the CIA's monitoring and assessment of potential terrorist threats from various groups and individuals, as well as concerns about Cuban involvement in subversive activities.",
+  "key_connections": [
+    "Orlando Bosch",
+    "Cuban exiles",
+    "Fidel Castro",
+    "CIA",
+    "Viet Cong",
+    "Cuban subversion in Latin America",
+    "Luis Posada Carriles"
+  ],
+  "significance": "While not directly linked to the JFK assassination in these documents, terrorism is present as a backdrop of political instability and potential threats during the Cold War era. The documents highlight the CIA's concerns about Cuban-backed subversion and the activities of anti-Castro groups, which could indirectly relate to the broader context of political violence and intelligence operations surrounding the assassination.",
+  "document_ids": [
+    "124-10218-10058",
+    "104-10164-10099",
+    "104-10290-10168",
+    "124-10291-10023",
+    "180-10145-10301",
+    "104-10326-10056",
+    "176-10036-10097",
+    "177-10002-10012",
+    "104-10151-10188",
+    "104-10105-10119",
+    "180-10144-10130",
+    "104-10164-10054",
+    "104-10326-10022",
+    "177-10002-10097"
+  ]
+}

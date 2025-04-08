@@ -1,0 +1,23 @@
+{
+  "entity_name": "James McCord",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "James McCord is mentioned in the context of the Watergate incident. One document from 1972 summarizes information provided by the CIA to the FBI regarding individuals connected to Watergate, including James McCord. Another document from 1975 pertains to Senate Select Committee investigations into intelligence activities, including FBI interactions with the CIA. A third document contains testimony regarding activities of the CIA's Office of Security, including Watergate contacts.",
+  "key_connections": [
+    "Frank Sturgis",
+    "Eugenio Martinez",
+    "Bernard Barker",
+    "Virgilio Gonzales",
+    "Robert R. Mullen Company",
+    "General Foods Corporation",
+    "CIA",
+    "FBI",
+    "Senate Select Committee"
+  ],
+  "significance": "Based on the provided documents, James McCord's significance is primarily related to the Watergate incident, not the JFK assassination. The documents highlight his connection to individuals and organizations involved in Watergate and subsequent investigations into intelligence activities.",
+  "document_ids": [
+    "104-10256-10273",
+    "124-10264-10191",
+    "157-10011-10078"
+  ]
+}

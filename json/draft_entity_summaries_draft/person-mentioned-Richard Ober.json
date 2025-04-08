@@ -1,0 +1,28 @@
+{
+  "entity_name": "Richard Ober",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "summary": "Richard Ober was a CIA officer involved in the investigation following the assassination of Martin Luther King, Jr. The documents show him requesting and disseminating information related to James Earl Ray, the accused assassin. He worked within the CI/OP (Counterintelligence/Operations) division of the CIA. Ober's activities included requesting an Identikit composite of James Earl Ray, relaying fingerprint formulas, and distributing photographs of Ray to various CIA stations. He also disseminated information regarding Ray's aliases and physical characteristics. The documents suggest Ober played a key role in the immediate aftermath of the King assassination by coordinating the identification and tracking of James Earl Ray.",
+  "key_connections": [
+    "James Earl Ray",
+    "LNERGO",
+    "CI/OP",
+    "Eric Starvo Galt",
+    "Martin Luther King, Jr."
+  ],
+  "significance": "While the documents primarily concern the assassination of Martin Luther King, Jr., one document mentions an 'Inventory of Rockefeller Commission Files' which details documents related to the CIA's activities and the Kennedy assassination. Richard Ober's name appears in this inventory, suggesting a potential, though not explicitly defined, connection to files related to the JFK assassination, as the Rockefeller Commission investigated CIA activities, including those potentially relevant to the JFK assassination. His role in disseminating information and coordinating efforts in the King assassination investigation highlights his position within the CIA and his potential access to sensitive information.",
+  "document_ids": [
+    "104-10178-10112",
+    "104-10059-10026",
+    "104-10071-10405",
+    "104-10071-10043",
+    "104-10071-10404",
+    "104-10433-10081",
+    "104-10071-10041",
+    "104-10071-10407",
+    "178-10004-10420",
+    "104-10178-10137",
+    "104-10178-10136",
+    "104-10072-10034"
+  ]
+}

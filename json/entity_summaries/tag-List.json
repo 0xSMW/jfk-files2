@@ -1,0 +1,13 @@
+{
+  "entity_name": "List",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The entity \"List\" appears as a document type in the provided documents. These lists contain names, dates, and assets, potentially related to CIA personnel, operations, or projects. The lists may include code names, descriptions of assets, and dates of birth or employment. The significance of these lists lies in their potential to reveal connections between individuals, organizations, and events relevant to the JFK assassination, particularly if they contain information about CIA activities or personnel involved in related operations. The lists themselves do not represent a person, organization, or event but rather a format for presenting information.",
+  "key_connections": [],
+  "significance": "The significance of the 'List' tag lies in its potential to categorize and identify documents containing crucial information related to individuals, assets, or operations relevant to the JFK assassination. The content of these lists, rather than the lists themselves, holds the key to uncovering connections and understanding events surrounding the assassination.",
+  "document_ids": [
+    "104-10105-10290",
+    "104-10079-10391",
+    "104-10111-10104"
+  ]
+}

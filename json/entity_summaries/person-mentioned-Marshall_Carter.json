@@ -1,0 +1,22 @@
+{
+  "entity_name": "Marshall Carter",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Marshall Carter is mentioned in three documents. In a January 30, 1964 meeting of the President's Foreign Intelligence Advisory Board (PFIAB), Carter was present when the board discussed matters with the Acting Director of Central Intelligence and the Director of the National Reconnaissance Office. Another document, a September 25, 1964 FBI memorandum, references an attack on the Spanish vessel Sierra Aranzazu by the Movimiento de Recuperacion Revolucionaria (MRR), an anti-Castro exile group receiving U.S. backing, and the subsequent investigation involving the FBI, CIA, and State Department. The third document, dated April 8, 1998, is a memorandum outlining pending ARRB (Assassination Records Review Board) issues for an EXDIR (Executive Director) information brief, covering topics such as covert actions, alias documentation, organizational materials, Mexico City tapes, a CIA penetration of the Cuban Embassy (LITAMIL-9), and a CIA asset named Richard Gibson. The documents suggest Carter's involvement in intelligence matters and his connection to organizations like the CIA and PFIAB.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Acting Director of Central Intelligence",
+    "Director of the National Reconnaissance Office",
+    "FBI",
+    "CIA",
+    "State Department",
+    "Movimiento de Recuperacion Revolucionaria (MRR)",
+    "Assassination Records Review Board (ARRB)"
+  ],
+  "significance": "Based on the documents provided, Marshall Carter's significance in the JFK assassination context appears to be related to his involvement in intelligence matters and his connection to organizations like the CIA and PFIAB, which were potentially involved in aspects related to the assassination or its investigation. The documents suggest he was in a position to be informed about covert actions and intelligence operations, as evidenced by his presence at PFIAB meetings and the ARRB memorandum.",
+  "document_ids": [
+    "206-10001-10002",
+    "124-10222-10171",
+    "104-10331-10149"
+  ]
+}

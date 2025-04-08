@@ -1,0 +1,27 @@
+{
+  "entity_name": "JFK",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The documents mention JFK in various contexts, primarily related to events and reactions during his presidency and the subsequent investigation into his assassination. One document refers to the proposed declassification of a BSS document for release to the JFK Review Board, indicating a connection to the investigation process. Another document mentions Senator John Kennedy's speech to the Zionist Congress and the reaction from the United Arab Republic Ambassador, highlighting his role in international relations. The remaining documents do not directly relate to JFK, but rather to CIA activities, investigations, and communications during and after his presidency. The documents suggest that JFK's presidency and assassination were significant events that prompted investigations and reviews, leading to the creation of entities like the JFK Review Board.",
+  "key_connections": [
+    "JFK Review Board",
+    "Lillian Sloboda",
+    "CIA",
+    "National Student Association",
+    "Enrique Garcia Armenteros",
+    "United Arab Republic",
+    "Senator Fulbright",
+    "House Select Committee on Assassinations (HSCA)",
+    "Alexander Shatton"
+  ],
+  "significance": "JFK's significance lies in his role as the President of the United States during a critical period and the subsequent investigation into his assassination. The documents highlight the ongoing efforts to review and declassify information related to his presidency and the events surrounding his death, indicating the enduring importance of understanding this historical period.",
+  "document_ids": [
+    "104-10326-10001",
+    "124-10273-10104",
+    "124-90138-10004",
+    "124-10193-10258",
+    "104-10065-10105",
+    "104-10077-10296",
+    "104-10078-10014"
+  ]
+}

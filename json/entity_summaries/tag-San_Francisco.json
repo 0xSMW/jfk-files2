@@ -1,0 +1,23 @@
+{
+  "entity_name": "San Francisco",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "San Francisco appears in several documents, primarily as a location associated with individuals and organizations. Trans Pacific Commerce Consultants, with members Kanaishi Watanabe and Kenneth K. Suzuki, are identified as being located in San Francisco. A cable fragment also references Suzuki, Trans Pacific C, San Francisco, and \"FELTRO\". An action request involves accessing an agent for a Saudi Arabian in San Francisco. Additionally, local agency checks were conducted, with one on David Reed Fromer mentioning a childhood reference in a People's World article. While these documents mention San Francisco, they do not directly implicate the city in the JFK assassination. Instead, San Francisco serves as a geographical point of reference for individuals and businesses mentioned in the context of investigations and information gathering.",
+  "key_connections": [
+    "Kanaishi Watanabe",
+    "Kenneth K. Suzuki",
+    "Trans Pacific Commerce Consultants",
+    "David Reed Fromer",
+    "FELTRO",
+    "Saudi Arabian (unnamed)"
+  ],
+  "significance": "San Francisco's significance in the JFK context, based on these documents, is primarily as a location of residence or business for individuals and organizations that were subjects of investigation or mentioned in related contexts. It does not appear to have a direct role in the assassination itself, but rather serves as a geographical marker within the broader network of individuals and activities being scrutinized.",
+  "document_ids": [
+    "104-10161-10513",
+    "104-10101-10129",
+    "194-10004-10152",
+    "157-10002-10150",
+    "104-10290-10062",
+    "194-10004-10154"
+  ]
+}

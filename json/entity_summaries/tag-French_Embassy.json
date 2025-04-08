@@ -1,0 +1,20 @@
+{
+  "entity_name": "French Embassy",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The French Embassy appears in the documents in a peripheral but potentially significant role. In one instance, it is mentioned as a possible communication channel for AMSTASH-1. Another document indicates that the French Embassy in Havana advised the Unidad Revolucionaria (UR) not to participate in a planned uprising in Cuba in August 1962. The third document does not directly mention the French Embassy but discusses potentially controversial CIA activities. The embassy's role seems to be primarily related to communication and providing advice in the context of Cuban affairs during the early 1960s.",
+  "key_connections": [
+    "AMSTASH-1",
+    "Directorio Revolucionario Estudiantil (DRE)",
+    "Movimiento Revolucionario del Pueblo (MRP)",
+    "Unidad Revolucionaria (UR)",
+    "Cuba",
+    "CIA"
+  ],
+  "significance": "The French Embassy's significance in the JFK context is indirect. It appears to have been a potential communication channel and an advisor to Cuban opposition groups, suggesting a possible awareness of or involvement in Cuban affairs during a period of intense US-Cuban tensions. Its role in advising against the uprising could indicate a degree of influence or knowledge of the political landscape in Cuba at the time.",
+  "document_ids": [
+    "104-10075-10250",
+    "104-10226-10087",
+    "104-10303-10007"
+  ]
+}

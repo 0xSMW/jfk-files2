@@ -1,0 +1,23 @@
+{
+  "entity_name": "Transcript",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents provided are transcripts of hearings related to intelligence activities and investigations into potential government misconduct. These transcripts offer insights into various topics, including CIA operations against Cuba (Operation Mongoose, JMWAVE station), counterintelligence methodologies, and contacts within the White House and other agencies. The hearings feature testimonies from key figures such as L. Fletcher Prouty, James Angleton, and Scotty Miler. The transcripts span from 1975 to 1976, reflecting a period of intense scrutiny of intelligence agencies following the Watergate scandal and other revelations. A notable pattern is the focus on CIA activities and potential abuses of power.",
+  "key_connections": [
+    "L. Fletcher Prouty",
+    "CIA",
+    "Cuba",
+    "Operation Mongoose",
+    "JMWAVE",
+    "James Angleton",
+    "Scotty Miler",
+    "White House",
+    "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities"
+  ],
+  "significance": "Transcripts are significant as primary source documents that provide direct records of testimonies and discussions related to intelligence activities and potential government misconduct. They offer valuable insights into the context surrounding the JFK assassination, including potential connections between the CIA, Cuba, and other relevant events and individuals. They are crucial for understanding the perspectives and information available to investigators and researchers examining these complex issues.",
+  "document_ids": [
+    "157-10011-10041",
+    "157-10014-10046",
+    "157-10014-10006"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "entity_name": "Passport",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The documents reference passports in various contexts, primarily related to individuals involved in covert operations, intelligence gathering, and travel under aliases. Passports are used to facilitate travel for individuals like Manuel Artime y Buesa, Miguel Angel DIAZ Isalgué, and Rogelio Wenceslao Cisneros Diaz, often in connection with CIA activities or intelligence operations. Security checks and background investigations frequently involve verifying passport information, as seen in the cases of Adrian F. Sherman and Winfred Clark Barnes. The documents highlight the importance of passports in enabling clandestine travel and maintaining operational security.",
+  "key_connections": [
+    "Manuel Artime y Buesa",
+    "Miguel Angel DIAZ Isalgué",
+    "Adrian F. Sherman",
+    "Winfred Clark Barnes",
+    "Rogelio Wenceslao Cisneros Diaz",
+    "CIA",
+    "FBI",
+    "Orlando Bosch Xavilla"
+  ],
+  "significance": "In the context of the JFK assassination, the mention of passports is relevant as it relates to the broader themes of covert operations, intelligence activities, and the use of aliases by individuals potentially connected to the assassination or related events. The documents suggest that passports were a key tool for facilitating travel and maintaining secrecy for individuals involved in sensitive operations, which could include those with connections to the assassination.",
+  "document_ids": [
+    "104-10162-10107",
+    "104-10161-10513",
+    "104-10113-10258",
+    "124-10221-10245",
+    "104-10215-10128",
+    "104-10165-10084"
+  ]
+}

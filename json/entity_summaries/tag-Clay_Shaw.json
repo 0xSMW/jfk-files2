@@ -1,0 +1,22 @@
+{
+  "entity_name": "Clay Shaw",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "Clay Shaw is mentioned in several documents related to the JFK assassination investigation. The documents suggest an interest in Shaw's potential connections to the assassination, as evidenced by briefing questions from the ARRB to the CIA regarding records related to Shaw and the QKENCHANT project. While the documents do not definitively establish Shaw's involvement, they indicate that his name surfaced in connection with CIA records, including those related to destroyed records, Mexico City operations, and relationships with journalists. The documents also mention Shaw in the context of interviews and investigations related to individuals like David Ferrie and Lee Harvey Oswald, suggesting a possible link to the network of individuals surrounding Oswald in New Orleans.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "David Ferrie",
+    "QKENCHANT project",
+    "CIA",
+    "ARRB"
+  ],
+  "significance": "Clay Shaw's significance in the JFK context lies in the questions surrounding his potential connections to Lee Harvey Oswald and David Ferrie, as well as his possible involvement with CIA-related activities. The ARRB's interest in CIA records related to Shaw suggests that investigators considered him a person of interest in understanding the events surrounding the assassination.",
+  "document_ids": [
+    "180-10107-10006",
+    "178-10002-10091",
+    "104-10330-10081",
+    "180-10106-10011",
+    "104-10336-10000",
+    "104-10333-10006"
+  ]
+}

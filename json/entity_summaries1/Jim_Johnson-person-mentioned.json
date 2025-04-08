@@ -1,0 +1,21 @@
+{
+  "entity_name": "Jim Johnson",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, there is no mention of an individual named Jim Johnson. The documents primarily concern the National Security Agency's (NSA) responses to queries from the Senate Select Committee regarding the Warren Commission's investigation into the JFK assassination. The NSA provided information detailing its limited role in assisting the Commission, including reviewing exhibits for secret writing and providing information about Cuban military alerts after the assassination. The documents outline the NSA's involvement, analysis of documents, and findings related to the JFK assassination.",
+  "key_connections": [
+    "Senate Select Committee",
+    "Warren Commission",
+    "NSA (National Security Agency)",
+    "David Lowman",
+    "Principal Deputy Assistant Secretary of Defense (Intelligence)",
+    "Cuban military"
+  ],
+  "significance": "Since Jim Johnson is not mentioned in the documents, his significance in the JFK context is non-existent based on the provided information.",
+  "document_ids": [
+    "144-10001-10288",
+    "144-10001-10127",
+    "144-10001-10212",
+    "144-10001-10195"
+  ]
+}

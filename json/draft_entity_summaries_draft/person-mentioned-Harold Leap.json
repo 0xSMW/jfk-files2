@@ -1,0 +1,16 @@
+{
+  "entity_name": "Harold Leap",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Harold Leap is mentioned in one of the provided documents as an interviewer. Specifically, he is noted as having interviewed Russell August Langelle along with Robert Genzman in 1978. The interview revealed details about Langelle's CIA career, including his work in SR9, his cover as a State Department Security Officer, and his involvement with P.S. Popov in Moscow. The other two documents do not mention Harold Leap.",
+  "key_connections": [
+    "Robert Genzman",
+    "Russell August Langelle"
+  ],
+  "significance": "Based on the provided documents, Harold Leap's significance in the JFK assassination context is not explicitly stated. His role appears to be that of an interviewer involved in gathering information about CIA activities during the Cold War era, as evidenced by his interview with Russell August Langelle. Without further context, it's difficult to ascertain a direct connection to the JFK assassination.",
+  "document_ids": [
+    "180-10110-10121",
+    "180-10145-10409",
+    "180-10096-10401"
+  ]
+}

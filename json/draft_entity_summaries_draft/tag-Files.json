@@ -1,0 +1,24 @@
+{
+  "entity_name": "Files",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents reference various files related to the JFK assassination investigation, primarily those held by the CIA and requested by the House Select Committee on Assassinations (HSCA). These files pertain to individuals connected to the assassination, including Lee Harvey Oswald, George DeMohrenschildt, Luis Posada Carriles, and others. The CIA files also contain information on organizations like the International Rescue Committee and the Wackenhut Corporation. The timeline spans from the 1960s (Oswald's time in the Soviet Union) to the late 1970s (HSCA's investigation) and even the 1990s (concerns about access to Oswald's files in Minsk). A notable pattern is the HSCA's repeated requests for CIA files on various individuals and entities, indicating a thorough investigation into potential connections to the assassination.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Central Intelligence Agency (CIA)",
+    "Lee Harvey Oswald",
+    "George DeMohrenschildt",
+    "Luis Posada Carriles",
+    "International Rescue Committee",
+    "Wackenhut Corporation",
+    "Yuri Nosenko"
+  ],
+  "significance": "Files are central to understanding the JFK assassination context as they contain primary source information gathered by intelligence agencies and investigative bodies. Access to and analysis of these files are crucial for uncovering potential connections, motives, and circumstances surrounding the assassination, as well as assessing the thoroughness and accuracy of past investigations.",
+  "document_ids": [
+    "180-10144-10288",
+    "104-10061-10320",
+    "180-10144-10402",
+    "104-10326-10074",
+    "180-10131-10324"
+  ]
+}

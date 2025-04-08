@@ -1,0 +1,18 @@
+{
+  "entity_name": "Mr. Rankin",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, \"Mr. Rankin\" is mentioned in the context of meetings with the Warren Commission. The documents do not provide specific details about Mr. Rankin's identity or role, but his presence at meetings with the Warren Commission suggests he was involved in providing information or testimony related to the investigation of the JFK assassination. The documents reference discussions about Lee Harvey Oswald's background, the CIA's files on Oswald, and information related to Jack Ruby. The documents span from March 1964 to February 1965, indicating Mr. Rankin's involvement during the Warren Commission's investigation period. Without further context, it is difficult to ascertain the precise nature and extent of Mr. Rankin's involvement.",
+  "key_connections": [
+    "Warren Commission",
+    "Lee Harvey Oswald",
+    "Jack Ruby",
+    "CIA"
+  ],
+  "significance": "Mr. Rankin's significance lies in his participation in meetings with the Warren Commission, suggesting he possessed information relevant to the investigation of the JFK assassination. His specific role and the nature of his contributions remain unclear based on the provided documents.",
+  "document_ids": [
+    "135-10001-10283",
+    "157-10004-10144",
+    "104-10423-10337"
+  ]
+}

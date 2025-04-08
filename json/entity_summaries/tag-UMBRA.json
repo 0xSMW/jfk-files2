@@ -1,0 +1,38 @@
+{
+  "entity_name": "UMBRA",
+  "entity_type": "tag",
+  "document_count": 19,
+  "summary": "The tag \"UMBRA\" appears across 19 documents, primarily within National Security Agency (NSA) communications and reports related to the aftermath of President John F. Kennedy's assassination. These documents cover a range of international reactions, including expressions of condolence, assessments of President Lyndon B. Johnson, and observations of foreign leaders and organizations. The documents also include reports on security measures, potential visits by foreign dignitaries, and analyses of the political implications of Kennedy's death. The timeline spans from November 22, 1963, to January 17, 1964, with one document from 1969. A notable pattern is the focus on global responses and intelligence gathering following the assassination, indicating that \"UMBRA\" likely denotes documents of a sensitive intelligence nature, possibly involving code words or classified information collected through signals intelligence.",
+  "key_connections": [
+    "NSA (National Security Agency)",
+    "President John F. Kennedy",
+    "President Lyndon B. Johnson",
+    "International Reactions to JFK Assassination",
+    "Foreign Leaders (e.g., Chou En-Lai, Prince Sihanouk)",
+    "Cuban Diplomatic Missions",
+    "Viet Cong",
+    "United Nations"
+  ],
+  "significance": "In the context of the JFK assassination documents, the \"UMBRA\" tag signifies that the documents contain sensitive intelligence information gathered by the NSA. The tag highlights the global impact of the assassination and the intelligence community's efforts to monitor and assess international reactions, potential threats, and political ramifications in the wake of the event. It suggests that the documents are part of a larger intelligence collection effort focused on understanding the global implications of Kennedy's death.",
+  "document_ids": [
+    "144-10001-10302",
+    "144-10001-10359",
+    "144-10001-10352",
+    "144-10001-10313",
+    "144-10001-10309",
+    "144-10001-10332",
+    "144-10001-10060",
+    "144-10001-10369",
+    "144-10001-10312",
+    "144-10001-10304",
+    "144-10001-10370",
+    "144-10001-10062",
+    "124-90074-10051",
+    "144-10001-10330",
+    "144-10001-10058",
+    "144-10001-10306",
+    "144-10001-10321",
+    "144-10001-10086",
+    "144-10001-10286"
+  ]
+}

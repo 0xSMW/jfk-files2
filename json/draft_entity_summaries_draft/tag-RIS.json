@@ -1,0 +1,24 @@
+{
+  "entity_name": "RIS",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents identify RIS as Soviet intelligence. The documents highlight RIS's attempts to penetrate Bell Telephone Laboratories, focusing on scientists Manfred R. Schroeder and Donald E. Thomas in 1963. Another document details an investigation into Luis Tedeschi's potential connections to the Spanish Communist Party and RIS in the 1940s. Further, the documents mention the surveillance of Ivan Dmitriyevich Obyedkov, a Soviet citizen suspected of being an RIS operative, in Mexico City, Tehran, and London. Finally, there is a reference to a KGB document related to Michael WYNKE-ELLIS's interactions with a Soviet defector, AELADLE, suggesting RIS's involvement in espionage and intelligence gathering.",
+  "key_connections": [
+    "Bell Telephone Laboratories",
+    "Manfred R. Schroeder",
+    "Donald E. Thomas",
+    "Luis Tedeschi",
+    "Spanish Communist Party",
+    "Ivan Dmitriyevich Obyedkov",
+    "Michael WYNKE-ELLIS",
+    "AELADLE",
+    "KGB"
+  ],
+  "significance": "The documents do not directly link RIS to the JFK assassination. However, they illustrate RIS's activities during the Cold War, including espionage, attempts to penetrate sensitive institutions, and surveillance of individuals. The significance lies in understanding the broader context of Soviet intelligence operations during the period when the JFK assassination occurred.",
+  "document_ids": [
+    "104-10226-10117",
+    "104-10209-10017",
+    "104-10177-10224",
+    "104-10263-10139"
+  ]
+}

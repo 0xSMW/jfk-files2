@@ -1,0 +1,28 @@
+{
+  "entity_name": "Historical Review Group",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "The Historical Review Group (HRG) is a component of the CIA involved in the review and declassification of documents related to the JFK assassination, particularly in response to the Assassination Records Review Board (ARRB) and the JFK Assassination Records Collection Act. The HRG's role was to locate, review, and declassify relevant materials while balancing transparency with the need to protect covert employees' identities, cover mechanisms, and ongoing intelligence operations. They interacted with the ARRB, the House and Senate, and the FBI, addressing concerns about meeting deadlines, providing resources, and protecting sensitive information. The HRG also responded to specific inquiries from the ARRB regarding CIA's commercial cover program and the release of CIA employees' names in JFK records. Their involvement spans from at least 1992 to 1997, focusing on compliance with the JFK Assassination Records Collection Act and managing the release of information while safeguarding national security interests.",
+  "key_connections": [
+    "Assassination Records Review Board (ARRB)",
+    "CIA",
+    "House Select Committee on Assassinations (HSCA)",
+    "FBI",
+    "Lyndon Baines Johnson (LBJ) Library",
+    "John Pereira",
+    "Linda A. Jasper",
+    "Barry Harrelson"
+  ],
+  "significance": "The Historical Review Group played a crucial role in the CIA's response to the JFK Assassination Records Collection Act, managing the complex process of declassifying and releasing documents related to the assassination while navigating concerns about protecting sensitive intelligence information and sources. Their work was central to the CIA's compliance with the Act and its interactions with the ARRB.",
+  "document_ids": [
+    "104-10337-10001",
+    "104-10332-10007",
+    "104-10335-10001",
+    "104-10331-10121",
+    "104-10331-10118",
+    "104-10331-10338",
+    "104-10335-10008",
+    "104-10338-10005",
+    "104-10332-10022"
+  ]
+}

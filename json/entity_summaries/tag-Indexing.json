@@ -1,0 +1,21 @@
+{
+  "entity_name": "Indexing",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Indexing, in the context of these documents, refers to the systematic organization and management of information, particularly related to individuals of interest and operational activities. The documents highlight the use of indexing for identifying individuals (as seen in the 201 system), controlling and filing information about them, and generating lists based on various categories. It also involves the management of files and records, as indicated in the memo about Daniel A. Parsons' career. The AMBUD program also uses indexing to manage information about payees and principal parties. Indexing is crucial for efficient retrieval and analysis of data, enabling the Operations Directorate and other entities to track and manage information effectively.",
+  "key_connections": [
+    "AMBUD Program",
+    "201 System",
+    "Daniel A. Parsons",
+    "Operations Directorate",
+    "JMWAVE",
+    "USIA",
+    "CIA"
+  ],
+  "significance": "In the context of JFK assassination-related documents, indexing plays a vital role in organizing and retrieving information about individuals, programs, and events potentially connected to the assassination. The 201 system, mentioned in one document, is a key example of how individuals of interest were tracked and managed. Efficient indexing would have been essential for investigators to analyze connections and patterns related to the assassination.",
+  "document_ids": [
+    "104-10229-10000",
+    "104-10408-10316",
+    "180-10141-10204"
+  ]
+}

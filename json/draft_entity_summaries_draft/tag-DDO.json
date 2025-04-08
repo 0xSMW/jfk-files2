@@ -1,0 +1,36 @@
+{
+  "entity_name": "DDO",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "The DDO, or Directorate of Operations (formerly the Directorate of Plans), is a key component of the CIA responsible for clandestine operations around the world. The documents highlight the DDO's involvement in various activities, including managing personnel, handling Freedom of Information Act requests, and overseeing sensitive operations. The DDO's role involves managing personnel files, as seen in the documents related to Robert P. Wheeler and William M. Kent, and handling sensitive information, as demonstrated by the procedures for reviewing files before releasing them to the Senate Select Committee on Intelligence. The DDO also issues instructions regarding operational restrictions, such as those concerning the use of certain categories of individuals. The documents also reveal the DDO's involvement in assessing individuals like Orlando Bosch Avila and managing relationships with organizations like the Grand Bahama Development Company. The documents suggest the DDO's broad scope of responsibilities within the CIA, encompassing both administrative and operational functions.",
+  "key_connections": [
+    "John W. Donovan",
+    "Charles A. Briggs",
+    "Privacy and Information Action Group (PIAG)",
+    "Jack Randall",
+    "Robert P. Wheeler",
+    "Grand Bahama Development Company",
+    "Edwin Anderson Walker",
+    "George Joannides",
+    "House Select Committee on Assassinations (HSCA)",
+    "Senate Select Committee on Intelligence (SSCI)",
+    "William M. Kent",
+    "Orlando Bosch Avila",
+    "ACTION",
+    "Fulbright grantees"
+  ],
+  "significance": "While the documents do not directly link the DDO to the JFK assassination, they reveal the DDO's involvement in managing George Joannides, who later worked with the House Select Committee on Assassinations (HSCA). The documents also mention Orlando Bosch Avila, a figure associated with anti-Castro activities, though the CIA denies he was an active asset. The DDO's role in managing information and personnel related to these individuals and events suggests a potential, though indirect, connection to the JFK assassination context.",
+  "document_ids": [
+    "104-10061-10386",
+    "104-10222-10012",
+    "180-10145-10233",
+    "104-10291-10002",
+    "104-10119-10403",
+    "104-10074-10040",
+    "104-10304-10000",
+    "104-10096-10048",
+    "104-10291-10021",
+    "180-10144-10130",
+    "104-10213-10209"
+  ]
+}

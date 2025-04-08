@@ -1,0 +1,20 @@
+{
+  "entity_name": "Secure Communication",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents highlight the importance of secure communication channels in intelligence operations, particularly in the context of Cuban operations. These methods include secure two-way radio communication (SW), secure writing systems, and the use of trusted intermediaries as secure channels. The documents emphasize the need for reliable and discreet means of conveying information to and from agents operating in sensitive environments, such as Havana. The focus is on maintaining operational security and preventing the compromise of agents and operations.",
+  "key_connections": [
+    "AMIRE 1",
+    "AM/LASH (Rolando CUBELA Secades)",
+    "UNSNAFU/19",
+    "UNSNAFU/9",
+    "AMTHIP/1",
+    "KUBARK"
+  ],
+  "significance": "Secure communication methods were crucial for maintaining contact with agents and sources, especially in hostile environments like Cuba. The reliability and security of these channels were paramount to the success and safety of intelligence operations related to the JFK assassination context, as they facilitated the flow of information to and from individuals potentially involved in or knowledgeable about events surrounding the assassination.",
+  "document_ids": [
+    "104-10180-10138",
+    "104-10234-10096",
+    "104-10216-10338"
+  ]
+}

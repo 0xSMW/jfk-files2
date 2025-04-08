@@ -1,0 +1,39 @@
+{
+  "entity_name": "Soviet Embassy",
+  "entity_type": "tag",
+  "document_count": 18,
+  "summary": "The Soviet Embassy appears in numerous CIA documents primarily in the context of surveillance operations, intelligence gathering, and potential connections to Lee Harvey Oswald. The CIA monitored the embassy in Mexico City, particularly during the period leading up to and following the JFK assassination, under projects like LIENVOY and KDFACTOR. These operations involved telephone intercepts, visual surveillance, and tracking individuals entering and exiting the embassy. The documents also reveal efforts to identify Soviet personnel, such as Valeriy Vladimirovich Kostikov and Ivan Dmitriyevich Obyedkov, and to assess their potential intelligence activities. The embassy's role is further highlighted by Lee Harvey Oswald's visits in Mexico City, which prompted intense scrutiny and investigation into his contacts and motives. The documents also mention the Soviet Embassy in other locations such as Havana, Cuba and New Delhi, India, in relation to various intelligence matters.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Cuban Embassy",
+    "Valeriy Vladimirovich Kostikov",
+    "Ivan Dmitriyevich Obyedkov",
+    "KGB",
+    "CIA",
+    "Project LIENVOY",
+    "Project KDFACTOR",
+    "Yuri (LNU)",
+    "Silvia Duran"
+  ],
+  "significance": "The Soviet Embassy's significance in the JFK assassination context lies in its potential connection to Lee Harvey Oswald's activities in Mexico City. Oswald's visits to the embassy raised suspicions about his motives and possible collaboration with Soviet intelligence. The CIA's surveillance of the embassy aimed to uncover any links between Oswald and Soviet operatives, and to assess whether the Soviet Union had any involvement in the assassination. The documents reflect the intense focus on the Soviet Embassy as a potential source of information and a possible point of contact for Oswald.",
+  "document_ids": [
+    "104-10065-10028",
+    "104-10162-10014",
+    "180-10110-10100",
+    "104-10413-10057",
+    "180-10143-10113",
+    "104-10006-10247",
+    "124-90138-10073",
+    "104-10215-10126",
+    "104-10428-10012",
+    "180-10145-10239",
+    "104-10187-10030",
+    "180-10110-10484",
+    "104-10072-10243",
+    "157-10004-10144",
+    "104-10413-10306",
+    "104-10177-10224",
+    "104-10173-10104",
+    "104-10187-10014"
+  ]
+}

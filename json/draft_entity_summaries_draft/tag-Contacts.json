@@ -1,0 +1,24 @@
+{
+  "entity_name": "Contacts",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The documents refer to \"Contacts\" in various operational contexts, primarily within the CIA. These contacts range from potential sources of information and influence (as seen in the debriefing of Edward G. Tichborn regarding Cuba and Fidel Castro) to individuals connected to specific programs or operations like DEVISTA-1 in El Salvador. The documents highlight the importance of confirming ties to specific programs, providing names to assets, and assessing the utility of former contacts. The timeline spans from 1960 to 1969, with some documents having unknown dates. A recurring pattern involves the need to manage and protect these contacts, as well as to evaluate their reliability and potential for future use. The documents do not directly link these contacts to the JFK assassination, but rather illustrate the CIA's network of individuals used for intelligence gathering and operational purposes.",
+  "key_connections": [
+    "Edward G. Tichborn",
+    "Fidel Castro",
+    "DEVISTA-1",
+    "Alfonso Bibildox",
+    "CIA",
+    "State Department",
+    "PCI"
+  ],
+  "significance": "While the documents detail various 'Contacts' used by the CIA, there is no direct evidence presented in these documents to suggest any involvement or significance related to the JFK assassination. The documents primarily focus on the operational use of contacts for intelligence gathering and specific programs.",
+  "document_ids": [
+    "104-10123-10022",
+    "104-10174-10038",
+    "104-10529-10277",
+    "104-10101-10054",
+    "104-10100-10152",
+    "104-10163-10136"
+  ]
+}

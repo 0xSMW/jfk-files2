@@ -1,0 +1,21 @@
+{
+  "entity_name": "Code Names",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents reference code names used by the CIA in association with assets, operations, and individuals. These code names appear in lists, cables, and classified messages, indicating their importance in maintaining secrecy and operational security. The documents suggest that code names were used to identify individuals involved in Cuban operations and other sensitive activities. Specific examples include code names ICEN A, IDER B, LDEN C, LUEN D, and IDEN E, mentioned in a cable from JMWAVE (Miami). The use of code names is a recurring pattern across these documents, highlighting the clandestine nature of the operations and the need to protect the identities of those involved.",
+  "key_connections": [
+    "CIA",
+    "JMWAVE (Miami)",
+    "Cuban Operations",
+    "Agents",
+    "Assets",
+    "Operations"
+  ],
+  "significance": "In the context of the JFK assassination, code names are significant because they represent individuals and operations that were potentially involved in covert activities. Understanding the identities and roles associated with these code names could provide insights into the scope and nature of CIA operations during that period, and potentially reveal connections to events surrounding the assassination. However, without knowing the actual identities behind the code names, it is difficult to assess their direct relevance to the JFK assassination.",
+  "document_ids": [
+    "104-10079-10391",
+    "104-10234-10105",
+    "104-10075-10042",
+    "104-10076-10000"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "entity_name": "Angleton",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "James Angleton is mentioned in the context of a report he submitted to the Rockefeller Commission, critiquing the counterintelligence function within the CIA, particularly concerning Soviet defectors, penetrations, and the role of the FBI. He is also indirectly referenced in notes relating to Book V of the Church Committee report, specifically concerning the CIA's interrogation of Tepedino regarding the AMLASH operation and Rolando Cubela's (AMLASH) connections, as well as the handling of AMLASH's name in the context of the JFK assassination investigation. While Angleton himself isn't directly mentioned in the testimony of Howard Osborn, the testimony does discuss CIA mail opening projects, which could potentially relate to Angleton's counterintelligence activities.",
+  "key_connections": [
+    "Rockefeller Commission",
+    "CIA",
+    "FBI",
+    "Soviet defectors",
+    "Tepedino",
+    "AMLASH",
+    "Rolando Cubela",
+    "Church Committee",
+    "Howard Osborn",
+    "Helms"
+  ],
+  "significance": "Angleton's significance in the JFK context stems from his role in CIA counterintelligence and his potential connection to individuals and operations, such as AMLASH, that have been scrutinized in relation to the assassination. The documents suggest that Angleton's activities and knowledge were of interest to investigations into the CIA's role and potential connections to the JFK assassination.",
+  "document_ids": [
+    "178-10004-10115",
+    "157-10008-10253",
+    "157-10002-10150"
+  ]
+}

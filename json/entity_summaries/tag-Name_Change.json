@@ -1,0 +1,24 @@
+{
+  "entity_name": "Name Change",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents highlight instances of name changes, primarily focusing on Manuel Marti and his father, Adrian Sotomayor. Adrian Sotomayor legally changed his name to Manuel Marti in 1963, which also led to corrections in the birth certificates of his sons, Ivan and Manuel, to reflect the Marti surname. This name change is significant because subsequent investigations and agency checks were conducted under both names, Manuel Marti and his alias, Manuel Adrian Sotomayor-Badillo. Another instance involves EMMA HARRIS, who became known as EXMA HARRIS JOHNSON, prompting an inquiry regarding the validity of her Protective Security Approval (PCSA) due to negative traces under her new name. The pattern across these documents indicates the importance of tracking individuals under different names for security and investigative purposes.",
+  "key_connections": [
+    "Manuel Marti",
+    "Adrian Sotomayor",
+    "Manuel Adrian Sotomayor-Badillo",
+    "Ivan Marti",
+    "EMMA HARRIS",
+    "EXMA HARRIS JOHNSON",
+    "FBI",
+    "JAMIVE"
+  ],
+  "significance": "In the context of the JFK assassination, the name changes are relevant as they highlight potential challenges in tracking individuals and their backgrounds, especially if they are using aliases or have legally changed their names. This could impact investigations and security clearances, as seen with the inquiry regarding Emma Harris/Exma Harris Johnson's PCSA. The focus on Manuel Marti's name change suggests an interest in his background and potential connections to events surrounding the assassination, although the documents provided do not explicitly link him to the event.",
+  "document_ids": [
+    "194-10004-10369",
+    "194-10004-10373",
+    "104-10076-10416",
+    "194-10004-10400",
+    "194-10004-10374"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "entity_name": "JFK",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The documents reference 'JFK' primarily in the context of the JFK Assassination Records Review Board. One document specifically mentions a proposed declassification of a BSS document for release to the JFK Review Board, indicating the board's role in reviewing and releasing documents related to the assassination. Other documents do not directly relate to JFK, but are included as part of the larger collection of documents related to the assassination investigation. These documents cover a range of topics including CIA activities, FBI investigations, and communications related to potential operatives and information gathering in Cuba and South America during the early 1960s.",
+  "key_connections": [
+    "JFK Assassination Records Review Board",
+    "BSS",
+    "CIA",
+    "FBI",
+    "House Select Committee on Assassinations (HSCA)",
+    "Enrique Garcia Armenteros",
+    "Alexander Shatton"
+  ],
+  "significance": "The significance of 'JFK' in these documents is primarily as the subject of the JFK Assassination Records Review Board, which was responsible for reviewing and releasing documents related to his assassination. The documents themselves provide insight into various intelligence activities and investigations that may or may not be directly related to the assassination, but are part of the broader historical context.",
+  "document_ids": [
+    "104-10326-10001",
+    "124-10273-10104",
+    "124-90138-10004",
+    "104-10065-10105",
+    "104-10077-10296",
+    "104-10078-10014"
+  ]
+}

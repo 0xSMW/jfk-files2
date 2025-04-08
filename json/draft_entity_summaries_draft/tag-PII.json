@@ -1,0 +1,13 @@
+{
+  "entity_name": "PII",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents flagged as containing Personally Identifiable Information (PII) include a National Agency Check History Card, payroll records, and a personal history statement. The PII consists of data such as names, dates and places of birth, Social Security numbers, military service numbers, marital status, spouse's information, residences, children's information, and relatives' information. The presence of this information necessitates redaction or postponement of release to protect individual privacy, as seen in the case of Diana Jones' payroll records. The documents highlight the need to balance historical transparency with the protection of personal information within the JFK assassination records.",
+  "key_connections": [],
+  "significance": "PII is significant in the JFK context because its presence in assassination-related documents necessitates careful review and potential redaction to protect the privacy of individuals mentioned in those records. The Assassination Records Review Board had to balance the public interest in disclosure with the legal and ethical obligations to safeguard personal information.",
+  "document_ids": [
+    "194-10004-10129",
+    "180-10060-10454",
+    "104-10117-10075"
+  ]
+}

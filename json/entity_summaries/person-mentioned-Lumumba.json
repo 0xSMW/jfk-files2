@@ -1,0 +1,22 @@
+{
+  "entity_name": "Lumumba",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Patrice Lumumba is mentioned in the documents as a target of potential assassination plots by the CIA. The documents reference SSCIA hearings and reports investigating CIA operations, including plots to assassinate foreign leaders. Lumumba's name appears in the context of discussions about \"executive action\" capabilities of the CIA, specifically Project ZR/RIFLE, which researched assassination methods. The documents suggest that the CIA considered Lumumba a significant enough threat to warrant such actions.",
+  "key_connections": [
+    "William Harvey",
+    "William Colby",
+    "Fidel Castro",
+    "Robert Maheu",
+    "CIA",
+    "SSCIA",
+    "Project ZR/RIFLE"
+  ],
+  "significance": "Lumumba's significance in the JFK context lies in the broader investigation of CIA assassination plots against foreign leaders. While not directly related to the JFK assassination, the examination of plots against figures like Lumumba sheds light on the CIA's willingness to engage in such activities, which is relevant to understanding the agency's potential involvement in other controversial events.",
+  "document_ids": [
+    "157-10014-10109",
+    "157-10011-10024",
+    "157-10014-10137",
+    "157-10008-10238"
+  ]
+}

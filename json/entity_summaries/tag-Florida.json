@@ -1,0 +1,24 @@
+{
+  "entity_name": "Florida",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Florida appears in these documents primarily as a location for CIA operations, anti-Castro activities, and liaison with local law enforcement. The Wackenhut Corporation provided cover support in Florida for the CIA. In 1962, the FBI gathered information on Santiago Alvarez Rodriguez, including attempts to locate individuals in Florida. Michael Malone reported on conversations about U.S. policy and potential actions regarding Cuba and anti-Castro activities. Cal William Hitch received alias documentation for an operational assignment in Florida. From 1960 to 1973, CIA's JMWAVE station maintained liaison contacts with state, county, and local police organizations in the Miami area, providing resources and information.",
+  "key_connections": [
+    "Wackenhut Corporation",
+    "Santiago Alvarez Rodriguez",
+    "Michael Malone",
+    "Cal William Hitch",
+    "JMWAVE",
+    "Cuba",
+    "Anti-Castro activities",
+    "Miami Police"
+  ],
+  "significance": "Florida's significance in the JFK context, based on these documents, lies in its role as a hub for CIA operations, particularly those related to Cuba and anti-Castro efforts. It served as a base for individuals and organizations involved in these activities, and a location for liaison between the CIA and local law enforcement.",
+  "document_ids": [
+    "104-10130-10454",
+    "124-10332-10047",
+    "124-10326-10149",
+    "104-10120-10273",
+    "157-10005-10424"
+  ]
+}

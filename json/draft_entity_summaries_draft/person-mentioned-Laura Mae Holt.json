@@ -1,0 +1,15 @@
+{
+  "entity_name": "Laura Mae Holt",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Laura Mae Holt is identified as an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) based on payroll certifications from 1977. She appears in payroll documents for January, October, and November of 1977. The documents list her name, and in some cases, her position, social security number, and salary. The consistent appearance of her name across multiple payroll certifications indicates her employment with the HSCA during that period.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Laura Mae Holt's significance lies in her employment with the HSCA, which was tasked with investigating the assassination of JFK. While the documents do not specify her role within the committee, her presence on the payroll indicates she contributed to the committee's operations during its investigation.",
+  "document_ids": [
+    "180-10125-10107",
+    "180-10125-10096",
+    "180-10125-10094"
+  ]
+}

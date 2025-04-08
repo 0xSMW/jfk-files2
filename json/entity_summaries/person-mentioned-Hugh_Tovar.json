@@ -1,0 +1,21 @@
+{
+  "entity_name": "Hugh Tovar",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, Hugh Tovar is mentioned in the context of CIA activities and investigations. While the documents do not explicitly detail Tovar's specific role or activities, his name appears in connection with the House Select Committee on Assassinations' (HSCA) investigation into the CIA's potential involvement with Lee Harvey Oswald and other sensitive operations. The documents suggest that the HSCA sought depositions and interviews from individuals within the CIA, potentially including Tovar. Additionally, Tovar's name is associated with projects like HARPSTAR and NORFOLK, which involved sensitive operations related to foreign leaders such as President Sukarno and King Hussein, as well as Robert A. Maheu, a CIA asset involved in various sensitive operations. The documents suggest that Tovar was likely a CIA employee or asset involved in sensitive operations during the relevant period.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "House Select Committee on Assassinations (HSCA)",
+    "President Sukarno",
+    "King Hussein",
+    "Robert A. Maheu",
+    "CIA"
+  ],
+  "significance": "Hugh Tovar's significance in the JFK context lies in his potential connection to CIA activities investigated by the HSCA regarding Lee Harvey Oswald and other sensitive operations. The documents suggest that Tovar may have been a CIA employee or asset involved in operations that were of interest to the HSCA's investigation into the JFK assassination.",
+  "document_ids": [
+    "180-10147-10176",
+    "180-10140-10152",
+    "104-10122-10346",
+    "104-10122-10141"
+  ]
+}

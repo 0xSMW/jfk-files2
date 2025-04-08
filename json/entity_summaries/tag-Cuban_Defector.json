@@ -1,0 +1,29 @@
+{
+  "entity_name": "Cuban Defector",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The documents refer to various Cuban defectors and their interactions with the CIA, particularly during the 1960s and early 1970s. These defectors were often debriefed for intelligence on Cuban operations, the DGI (Cuban intelligence), and potential recruitment opportunities. The CIA sought to leverage these individuals for information and operational purposes, including gathering intelligence on Cuban activities in El Salvador and Guatemala. Security and compartmentation of information were critical concerns in handling these defectors. One defector, SLANK/1, provided information indicating that the Cuban government was not involved in the Kennedy assassination. The documents also highlight the recruitment of defectors and the management of their information to avoid compromising ongoing operations or revealing sensitive sources.",
+  "key_connections": [
+    "DALTON",
+    "SLANK/1",
+    "RIVERA",
+    "AMMUG-1",
+    "DGI (Cuban Intelligence)",
+    "Guatemalan Officials",
+    "Salvadoran Intelligence Chief",
+    "Roberto Rodriguez Llompart",
+    "CEELLANA",
+    "GAN Trainees"
+  ],
+  "significance": "One Cuban defector, SLANK/1, provided information indicating that the Cuban government was not involved in the Kennedy assassination. This information was being reviewed as the 30-year declassification time limit approached, suggesting its relevance to understanding the events surrounding the assassination.",
+  "document_ids": [
+    "104-10326-10098",
+    "104-10187-10113",
+    "104-10187-10103",
+    "104-10187-10117",
+    "104-10179-10113",
+    "104-10186-10410",
+    "104-10183-10355",
+    "104-10187-10110"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "entity_name": "U.S. House of Representatives",
+  "entity_type": "recipient",
+  "document_count": 6,
+  "summary": "The U.S. House of Representatives, in the context of these documents, is primarily represented through its Select Committee on Assassinations (HSCA). The documents consist of payroll certifications and reports for the HSCA, detailing the names, positions, salaries, and social security numbers of committee staff. These documents span from November 1977 to March 1979, indicating the period during which the HSCA was actively conducting its investigation. The House of Representatives, through the HSCA, played a role in investigating the JFK assassination by employing staff and allocating resources for the investigation.",
+  "key_connections": [
+    "Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "The U.S. House of Representatives, through the Select Committee on Assassinations, was responsible for conducting an official investigation into the JFK assassination. The payroll documents highlight the operational aspect of the committee, showing the resources allocated to the investigation and the personnel involved.",
+  "document_ids": [
+    "180-10125-10096",
+    "180-10125-10093",
+    "180-10125-10089",
+    "180-10125-10076",
+    "180-10125-10083",
+    "180-10125-10077"
+  ]
+}

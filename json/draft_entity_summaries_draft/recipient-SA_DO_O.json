@@ -1,0 +1,25 @@
+{
+  "entity_name": "SA/DO/O",
+  "entity_type": "recipient",
+  "document_count": 3,
+  "summary": "SA/DO/O is the recipient of memoranda from H. Clark Schor in response to requests from the House Select Committee on Assassinations (HSCA). These memoranda provide additional information on individuals and entities of interest to the HSCA, detailing the types and quantity of documents held by the Central Cover Staff (CCS) on each. The documents indicate that SA/DO/O was a point of contact for information requests related to the JFK assassination investigation, specifically concerning individuals and entities connected to the case.",
+  "key_connections": [
+    "H. Clark Schor",
+    "House Select Committee on Assassinations (HSCA)",
+    "Central Cover Staff (CCS)",
+    "George DeMohrenschildt",
+    "Leo Cherne",
+    "William Harvey",
+    "International Rescue Committee",
+    "Richard Helms",
+    "James Angleton",
+    "Raymond Rocca",
+    "Wackenhut Corporation"
+  ],
+  "significance": "SA/DO/O served as a recipient of information related to the HSCA's investigation into the JFK assassination, acting as a point of contact for data from the Central Cover Staff (CCS) regarding individuals and entities of interest to the committee. Their role was primarily administrative, receiving and presumably disseminating information relevant to the investigation.",
+  "document_ids": [
+    "104-10059-10057",
+    "104-10061-10320",
+    "104-10061-10214"
+  ]
+}

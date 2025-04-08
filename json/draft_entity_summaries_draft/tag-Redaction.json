@@ -1,0 +1,32 @@
+{
+  "entity_name": "Redaction",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "The term 'Redaction' in these documents refers to the act of concealing or removing sensitive information, primarily Social Security numbers, from payroll records and other documents related to the House Select Committee on Assassinations (HSCA) and other investigations, including those reviewed by the Assassination Records Review Board (ARRB). The redactions are implemented to protect personal privacy, as indicated in Final Determination Notifications. These notifications detail the postponement of the release of certain information, with future review dates set to reassess the need for continued redaction. The process is applied to various HSCA staff payroll records and related documents, ensuring compliance with privacy regulations while still allowing for the release of the majority of the document's content.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board (ARRB)",
+    "Social Security numbers",
+    "Payroll records",
+    "Privacy concerns",
+    "Final Determination Notifications",
+    "Senate Select Committee (Church Committee)",
+    "FBI",
+    "British Security Service (BSS)"
+  ],
+  "significance": "In the context of JFK assassination records, redaction is a crucial process for balancing transparency and the protection of personal privacy. It highlights the challenges in releasing historical documents that contain sensitive personal information, requiring careful review and decisions about what information can be made public while safeguarding individuals' privacy rights. The repeated mention of Social Security number redactions in HSCA payroll records underscores the importance of this process in ensuring responsible disclosure of information related to the assassination investigation.",
+  "document_ids": [
+    "178-10003-10176",
+    "180-10070-10170",
+    "180-10060-10451",
+    "180-10068-10313",
+    "180-10060-10467",
+    "180-10060-10489",
+    "180-10068-10307",
+    "104-10326-10002",
+    "180-10070-10169",
+    "104-10326-10035",
+    "180-10060-10481",
+    "180-10068-10341"
+  ]
+}

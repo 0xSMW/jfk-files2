@@ -1,0 +1,29 @@
+{
+  "entity_name": "Viet Cong",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "The Viet Cong, also known as the National Liberation Front, were a communist political organization and army in South Vietnam and Cambodia that fought the United States and South Vietnamese governments during the Vietnam War (1954-1975). The documents indicate that the Viet Cong were a significant factor in the political instability of South Vietnam during the early 1960s. They were actively planning to increase terrorist and subversive activities, targeting Americans in the Saigon area. The Viet Cong's activities were also cited as a reason for potential coups against President Diem, with coup plotters fearing the Viet Cong would exploit any instability. One document details a Viet Cong propaganda plan to portray President Kennedy's assassination as a repudiation of U.S. involvement in Vietnam, suggesting they sought to capitalize on the event to further their cause. The documents highlight the Viet Cong's role as a destabilizing force and their potential to exploit political events for propaganda purposes.",
+  "key_connections": [
+    "Ngo Dinh Diem",
+    "Duong Van Minh",
+    "Tran Kim Tuyen",
+    "Pham Ngoc Thao",
+    "VNQDD",
+    "United States",
+    "President Kennedy",
+    "Saigon",
+    "South Vietnam"
+  ],
+  "significance": "In the context of the JFK assassination, the Viet Cong are significant because they were allegedly planning to use the assassination as propaganda to undermine U.S. involvement in Vietnam. This suggests an attempt to exploit the event to further their political and military goals, framing Kennedy's death as a rejection of U.S. policy in the region.",
+  "document_ids": [
+    "176-10036-10137",
+    "176-10036-10117",
+    "104-10133-10461",
+    "176-10037-10493",
+    "144-10001-10359",
+    "176-10036-10097",
+    "176-10036-10098",
+    "176-10036-10115",
+    "176-10036-10143"
+  ]
+}

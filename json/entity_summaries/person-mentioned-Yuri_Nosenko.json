@@ -1,0 +1,26 @@
+{
+  "entity_name": "Yuri Nosenko",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Yuri Nosenko was a KGB defector, code-named \"NORMAN,\" whose bona fides were questioned by the FBI. A 1968 memo compares a CIA paper examining Nosenko's credibility with information from interrogations of another defector, \"SAMMY,\" finding deficiencies in the CIA's conclusions. Documents from 1978-1997 pertain to the CIA's handling of the Nosenko case and concerns regarding the release of information about him, particularly in relation to the JFK Assassination Records Collection Act. The House Select Committee on Assassinations (HSCA) investigated the assassinations of President John F. Kennedy and Martin Luther King Jr., and requested access to the Hart Report, which likely contained information about Nosenko. A 1975 memorandum discusses a CIA document detailing questionable activities involving both the CIA and FBI, which are under review by the Senate Select Committee (SSC).",
+  "key_connections": [
+    "NORMAN",
+    "SAMMY",
+    "KGB",
+    "CIA",
+    "FBI",
+    "House Select Committee on Assassinations (HSCA)",
+    "Senate Select Committee (SSC)",
+    "Hart Report",
+    "John F. Kennedy",
+    "Martin Luther King Jr."
+  ],
+  "significance": "Yuri Nosenko's significance in the JFK context lies in the questions surrounding his defection and the potential impact of his information on the investigation into President Kennedy's assassination. The documents suggest concerns about the veracity of his claims and the CIA's handling of his case, which became a point of contention between the CIA and FBI. The HSCA's interest in the Hart Report indicates that Nosenko's case was considered relevant to their investigation of the assassination.",
+  "document_ids": [
+    "124-10365-10020",
+    "124-10271-10303",
+    "178-10004-10396",
+    "104-10332-10009",
+    "104-10079-10016"
+  ]
+}

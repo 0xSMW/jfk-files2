@@ -1,0 +1,20 @@
+{
+  "entity_name": "Elizabeth Ann Wolf",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Elizabeth Ann Wolf was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA). Her name appears in several payroll certifications and certification reports from 1977 and 1978, indicating her employment during that period. These documents list her name, position, salary, and social security number. A 1995 document from the Assassination Records Review Board includes a Final Determination Notification regarding the postponement of releasing her Social Security number from the HSCA's staff payroll records, citing privacy concerns. The consistent appearance of her name in payroll documents suggests she was a staff member of the HSCA.",
+  "key_connections": [
+    "Select Committee on Assassinations",
+    "Assassination Records Review Board"
+  ],
+  "significance": "Elizabeth Ann Wolf's significance lies in her employment with the HSCA, the committee tasked with investigating the assassination of JFK. While the documents do not specify her exact role, her presence on payroll records indicates she was part of the staff involved in the investigation. The Review Board's decision to postpone the release of her Social Security number highlights the privacy considerations involved in releasing HSCA personnel information.",
+  "document_ids": [
+    "180-10125-10081",
+    "180-10125-10107",
+    "180-10125-10096",
+    "180-10125-10079",
+    "180-10125-10086",
+    "180-10070-10174",
+    "180-10125-10094"
+  ]
+}

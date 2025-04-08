@@ -1,0 +1,19 @@
+{
+  "entity_name": "Albert Gonzales",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Albert Gonzales was a staff member of the U.S. House of Representatives Select Committee on Assassinations (HSCA). He is mentioned in payroll certifications from October, November, and December of 1977, as well as May and June of 1978, indicating his employment with the committee during that period. A CIA cable indicates that Gonzales, along with Gaeton Fonzi, visited Guayaquil in May 1978 as part of the HSCA's investigation. The cable also suggests the CIA was interested in monitoring their activities during this visit.",
+  "key_connections": [
+    "Gaeton Fonzi",
+    "House Select Committee on Assassinations (HSCA)",
+    "CIA"
+  ],
+  "significance": "Albert Gonzales' significance lies in his role as a staff member of the HSCA, which investigated the assassination of JFK. His visit to Guayaquil, as documented in CIA cables, suggests his involvement in specific aspects of the investigation, although the exact nature of his work is not fully detailed in these documents. The CIA's interest in his and Gaeton Fonzi's travel indicates the potential sensitivity or importance of their investigative work.",
+  "document_ids": [
+    "180-10125-10096",
+    "180-10125-10086",
+    "104-10067-10046",
+    "104-10065-10113",
+    "180-10125-10094"
+  ]
+}

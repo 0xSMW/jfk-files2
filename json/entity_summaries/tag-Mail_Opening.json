@@ -1,0 +1,23 @@
+{
+  "entity_name": "Mail Opening",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "Mail opening, as referenced in the provided documents, pertains to intelligence activities involving the interception and examination of mail, primarily by the FBI and CIA. The documents reveal that the Senate Select Committee (SENSTUDY) investigated these activities, raising concerns about their legality and potential compromise of FBI operations and sources. The CIA's mail opening projects, such as SR POINTER and West Pointer, are specifically mentioned, with testimony indicating that some operations occurred without explicit authorization and with the knowledge of high-ranking officials. The FBI's involvement is also highlighted in the context of responding to the Senate Select Committee's inquiries regarding COINTELPRO and related activities.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "Senate Select Committee (SENSTUDY)",
+    "COINTELPRO",
+    "SR POINTER",
+    "West Pointer",
+    "Howard J. Osborn",
+    "Mr. Helms"
+  ],
+  "significance": "While the documents do not directly link mail opening to the JFK assassination, the investigation into these activities by the Senate Select Committee suggests a broader concern about government overreach and potential abuses of power during the time period relevant to the assassination. The illegal nature of some mail opening operations and the involvement of intelligence agencies raise questions about the extent of surveillance and potential manipulation of information during that era.",
+  "document_ids": [
+    "124-10179-10219_multirif",
+    "124-10179-10217_multirif",
+    "124-10264-10191",
+    "157-10002-10150"
+  ]
+}

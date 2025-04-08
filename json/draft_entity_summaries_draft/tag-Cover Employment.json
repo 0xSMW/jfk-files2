@@ -1,0 +1,23 @@
+{
+  "entity_name": "Cover Employment",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Cover employment refers to the practice of providing individuals with seemingly legitimate jobs to conceal their true activities, often related to intelligence operations. In the context of these documents, cover employment is used to provide agents with a plausible explanation for their actions and whereabouts. For example, agents like AMMUG/1 were given cover employment with organizations like the Inter-University Committee for Political and Social Action. Luis POSADA Carriles and Alberto de Jesus ALBERTY Garcia were provided cover employment with Tri-State Engineering Service, Inc. to mask their activities. Cover employment also served practical purposes, such as securing housing and credit references, as seen in the housing application using Tri-State Engineering Service, Inc. The documents span from 1957 to 1966, indicating a sustained period of using cover employment within these operations. A notable pattern is the use of specific companies or organizations to provide this cover, suggesting a coordinated effort to maintain operational security.",
+  "key_connections": [
+    "AMMUG/1",
+    "Inter-University Committee for Political and Social Action",
+    "Luis POSADA Carriles",
+    "Alberto de Jesus ALBERTY Garcia",
+    "Tri-State Engineering Service, Inc.",
+    "ODYOKE",
+    "James B. Wilcott Jr."
+  ],
+  "significance": "In the JFK assassination context, cover employment is significant because it highlights the methods used to conceal the activities of individuals potentially involved in covert operations. While these documents do not directly link cover employment to the assassination, they illustrate the operational environment in which such activities could be hidden, raising questions about the true nature of individuals' roles and connections during that period.",
+  "document_ids": [
+    "104-10225-10035",
+    "104-10256-10208",
+    "104-10178-10052",
+    "104-10215-10099",
+    "104-10178-10049"
+  ]
+}

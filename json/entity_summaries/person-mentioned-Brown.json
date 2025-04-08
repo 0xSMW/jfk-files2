@@ -1,0 +1,13 @@
+{
+  "entity_name": "Brown",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, it is difficult to ascertain the identity or role of \"Brown\" in the JFK assassination context. The documents mention \"Brown\" in the context of a memo relaying information from the British Secret Intelligence Service (SIS) regarding the release of documents related to the Warren Commission, a log of events at the NSA SIGINT Command Center on November 23, 1963, and minutes from the President's Foreign Intelligence Advisory Board (PFIAB) meeting on October 1-2, 1964. Without further context, it is impossible to determine Brown's specific role, timeline of involvement, or significance.",
+  "key_connections": [],
+  "significance": "Insufficient information to determine significance.",
+  "document_ids": [
+    "104-10326-10102",
+    "144-10001-10291",
+    "206-10001-10000"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "entity_name": "Robert McNamara",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Robert McNamara is mentioned in several documents related to CIA activities and historical events during the 1960s and 1970s. While the documents do not directly link him to the JFK assassination, they place him in the context of significant events such as the Vietnam War, covert operations against Cuba, and discussions on disarmament. He appears in documents detailing Special Group (5412) meetings, which covered clandestine activities and covert action programs. He is also mentioned in the context of the Diem regime in Vietnam and U.S. involvement, as well as in a draft history of John A. McCone's tenure as Director of Central Intelligence, which touches on the early stages of the Vietnam War and reactions to President Kennedy's assassination. The documents suggest McNamara was a figure involved in high-level discussions and decisions related to national security and foreign policy during this period.",
+  "key_connections": [
+    "John F. Kennedy",
+    "William Colby",
+    "John A. McCone",
+    "William Harvey",
+    "Fidel Castro",
+    "Ngo Dinh Diem"
+  ],
+  "significance": "While not directly implicated in the JFK assassination in these documents, Robert McNamara's significance lies in his role as Secretary of Defense during the Kennedy and Johnson administrations. He was involved in key decisions related to the Vietnam War, covert operations, and national security matters, placing him within the broader historical context of the era surrounding the assassination.",
+  "document_ids": [
+    "124-10185-10099",
+    "157-10014-10109",
+    "157-10014-10227",
+    "104-10303-10007",
+    "104-10310-10020",
+    "104-10301-10000",
+    "157-10008-10234"
+  ]
+}

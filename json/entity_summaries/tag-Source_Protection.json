@@ -1,0 +1,35 @@
+{
+  "entity_name": "Source Protection",
+  "entity_type": "tag",
+  "document_count": 14,
+  "summary": "Source protection, in the context of the JFK assassination documents, refers to the measures taken by the CIA and other government agencies to safeguard the identities of human intelligence sources, operational methods, and sensitive relationships with foreign governments. This involved redacting names, using regional designations instead of specific station locations, and carefully managing the release of information to congressional committees like the HSCA and the ARRB. The primary concern was to prevent harm to individuals, protect ongoing intelligence operations, and maintain relationships with cover providers and host governments. The documents reveal a consistent effort to balance transparency with the need to protect sensitive information, particularly when dealing with the release of JFK assassination records and interactions with investigative bodies.",
+  "key_connections": [
+    "CIA",
+    "ARRB (Assassination Records Review Board)",
+    "HSCA (House Select Committee on Assassinations)",
+    "FBI",
+    "James Angleton",
+    "Willem Oltmans",
+    "George de Mohrenschildt",
+    "Cuban Diplomats",
+    "Soviet Diplomats",
+    "Australian Government"
+  ],
+  "significance": "Source protection is significant in the JFK context because it highlights the tension between the public's right to know and the government's need to protect sensitive intelligence operations and personnel. The documents reveal the CIA's efforts to manage the release of information related to the assassination, balancing transparency with the potential risks to sources, methods, and relationships. This raises questions about the extent to which the full truth about the assassination has been revealed and the potential impact of protecting sources on historical understanding.",
+  "document_ids": [
+    "104-10330-10070",
+    "104-10332-10016",
+    "104-10330-10026",
+    "104-10067-10043",
+    "124-10179-10217_multirif",
+    "104-10065-10075",
+    "104-10147-10301",
+    "104-10331-10154",
+    "104-10105-10103",
+    "104-10326-10043",
+    "104-10330-10044",
+    "124-10326-10100",
+    "104-10418-10103",
+    "104-10418-10230"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "entity_name": "Jerry Ray",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "The documents provided mention Jerry Ray in the context of investigations into the assassinations of Martin Luther King Jr. and John F. Kennedy by the House Select Committee on Assassinations (HSCA). The documents consist of communications between the FBI, its field offices, and the HSCA, detailing requests for files, informant information, and agent details. Jerry Ray's specific role or significance is not explicitly stated in the summaries, but his name appears in the context of FBI investigations and information requests related to the assassinations. The documents do not provide a timeline of involvement or specific details about Jerry Ray's actions or connections.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "FBI",
+    "Martin Luther King Jr.",
+    "John F. Kennedy"
+  ],
+  "significance": "The significance of Jerry Ray in the JFK context is not explicitly detailed in the provided documents. His name appears in the context of FBI investigations and information requests related to the assassinations of both Martin Luther King Jr. and John F. Kennedy, suggesting he may have been a person of interest or connected to individuals or events relevant to the HSCA's inquiries.",
+  "document_ids": [
+    "124-10180-10324_multirif",
+    "124-10180-10320_multirif",
+    "124-10180-10217_multirif",
+    "124-10180-10323_multirif",
+    "124-10180-10236_multirif",
+    "124-10180-10325_multirif"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "entity_name": "Contract Agent",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "A Contract Agent, as evidenced by the documents, appears to be an individual employed by an organization (likely a government agency) on a contractual basis for specific tasks or operations. These agents could be placed on retainer through firms like (P)BLUE, as seen in the request for a Letter of Agreement. They might be involved in covert operations, requiring secure sites and aliases, as indicated by the memo regarding a covert site for agent LZT/TG (172341). The documents also suggest a vetting process, including personal history statements and suitability assessments, as seen in the file on Ross L. Crozier. The role involves operational clearance, potential promotion, and adherence to legal considerations, such as avoiding associations with organizations deemed subversive.",
+  "key_connections": [
+    "Joel E. Keys",
+    "Chief, Contract Personnel Division",
+    "Emmett M. Steele",
+    "(P)BLUE",
+    "LZT/TG (172341)",
+    "Emilio Americo Rodriguez",
+    "Ross L. Crozier",
+    "Arthur G. Vaivada"
+  ],
+  "significance": "In the context of the JFK assassination, the term 'Contract Agent' is relevant as it describes a type of operative who could have been involved in various aspects of intelligence gathering, covert operations, or other activities related to the event. The documents highlight the need for security clearances, operational approvals, and careful vetting, suggesting the potential for these agents to be involved in sensitive or clandestine activities. The connection to organizations deemed subversive also raises questions about potential links to individuals or groups with motives related to the assassination.",
+  "document_ids": [
+    "104-10107-10059",
+    "104-10123-10160",
+    "104-10129-10002",
+    "104-10215-10246"
+  ]
+}

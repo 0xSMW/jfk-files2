@@ -1,0 +1,19 @@
+{
+  "entity_name": "Consulate",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The Consulate, specifically the U.S. Consulates in Zurich and Barcelona, plays a role in the context of Richard Case Nagell's threats to expose his contacts with 'WOFIRM' and the U.S. government. Nagell appeared at the Zurich Consulate on March 7, 1969, and later made similar threats at the U.S. Consulate in Barcelona. The Zurich Consulate was initially handling Nagell's threats, with the base deferring to them unless advised otherwise. The documents suggest a concern about Nagell revealing information if his demands were not met, leading to discussions on how to manage the situation.",
+  "key_connections": [
+    "Richard Case Nagell",
+    "WOFIRM",
+    "U.S. Government",
+    "Zurich",
+    "Barcelona"
+  ],
+  "significance": "The Consulate's significance lies in its interaction with Richard Case Nagell, who threatened to expose information related to 'WOFIRM' and the U.S. government. The consulates in Zurich and Barcelona became locations where Nagell voiced his threats, making them relevant to understanding Nagell's actions and the concerns surrounding his potential disclosures.",
+  "document_ids": [
+    "104-10220-10038",
+    "104-10310-10142",
+    "104-10123-10020"
+  ]
+}

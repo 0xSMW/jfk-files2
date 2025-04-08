@@ -1,0 +1,27 @@
+{
+  "entity_name": "Logistics",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The documents highlight various logistical aspects of CIA operations, including the shipment of materials, maintenance of safehouses, and establishment of supply networks. The documents cover a range of activities, from tracing missing shipments to Frankfurt (1963) to managing safehouses in Silver Spring, MD (1964). The APROVIZION document suggests a widespread provisioning network across different geographic divisions. The delivery of cartridges to Corpus Christi (1963) is mentioned in two separate messages, indicating the importance of this logistical operation. The potential procurement of Soviet ammunition from I. Irving Davidson (1974) reveals considerations of logistical advantages weighed against security risks. The request for a Collins Modem Field Service Engineer (1967) demonstrates the logistical support required for maintaining communication infrastructure. Overall, the documents illustrate the diverse logistical challenges and activities undertaken by the CIA during the 1960s and 1970s.",
+  "key_connections": [
+    "Frankfurt",
+    "Joan Grassie",
+    "Safehouse #405",
+    "APROVIZION",
+    "Corpus Christi",
+    "I. Irving Davidson",
+    "Collins Modem Field Service Engineer",
+    "Station 'D'",
+    "MIDW (Mexico City)"
+  ],
+  "significance": "In the context of the JFK assassination, the logistical aspects are significant for understanding the operational capabilities and activities of the CIA during the period. While none of the documents directly mention the assassination, they provide insight into the types of operations the CIA was conducting, the resources they had available, and the logistical networks they relied upon. This information can be used to contextualize any potential involvement of the CIA in events surrounding the assassination.",
+  "document_ids": [
+    "104-10077-10076",
+    "104-10185-10202",
+    "104-10209-10164",
+    "104-10529-10367",
+    "104-10216-10100",
+    "104-10107-10180",
+    "104-10100-10237"
+  ]
+}

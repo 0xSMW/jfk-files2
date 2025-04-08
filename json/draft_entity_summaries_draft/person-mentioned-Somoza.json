@@ -1,0 +1,22 @@
+{
+  "entity_name": "Somoza",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "The documents provided do not explicitly detail Somoza's direct involvement in the JFK assassination. However, they do mention activities and connections related to Cuban exiles, potential sabotage operations against Cuba, and political maneuverings in Central America during the early 1960s. The documents reference individuals like AMBANG-1 and Manuel Artime (AMBIDDY-1), who were involved in anti-Castro activities. A CIA information report mentions a possible Cuban exile base being established in Nicaragua, which suggests a connection to the Somoza regime, given their historical ties and support for anti-communist efforts in the region. The documents highlight the complex political landscape of the time, with various factions and interests at play, but Somoza's specific role remains implicit rather than explicit.",
+  "key_connections": [
+    "AMBANG-1",
+    "Manuel Artime (AMBIDDY-1)",
+    "Cuban exiles",
+    "Fidel Castro",
+    "Nicaragua"
+  ],
+  "significance": "While Somoza is mentioned in the context of Cuban exile activities and potential bases in Nicaragua, the documents do not directly link Somoza to the JFK assassination. The significance lies in the broader context of anti-Castro sentiment and activities, which some theories suggest played a role in the assassination, but the connection to Somoza remains indirect.",
+  "document_ids": [
+    "104-10179-10182",
+    "176-10011-10152",
+    "104-10275-10176",
+    "157-10014-10117",
+    "176-10036-10051",
+    "104-10163-10087"
+  ]
+}

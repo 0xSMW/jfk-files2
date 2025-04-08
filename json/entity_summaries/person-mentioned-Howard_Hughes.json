@@ -1,0 +1,21 @@
+{
+  "entity_name": "Howard Hughes",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Howard Hughes is mentioned in the context of investigations and activities related to Robert A. Maheu and the Hughes Tool Company. The documents primarily focus on Maheu's relationship with the CIA and his work for Hughes, particularly concerning investigations conducted by International Intelligence, Inc. (INTERTEL) on behalf of the Hughes Tool Company. Hughes himself is not directly implicated in any JFK assassination-related activities within these documents, but his company's association with individuals like Maheu, who had ties to the CIA and was involved in sensitive operations, places him tangentially within the broader network of individuals and organizations of interest.",
+  "key_connections": [
+    "Robert A. Maheu",
+    "Hughes Tool Company",
+    "International Intelligence, Inc. (INTERTEL)",
+    "CIA",
+    "Robert D. Peloquin"
+  ],
+  "significance": "Howard Hughes' significance in the JFK context, based on these documents, is indirect. His company's employment of Robert A. Maheu, who had connections to the CIA and was involved in sensitive operations, links Hughes to individuals and organizations that have been subjects of scrutiny in relation to the JFK assassination. The documents suggest that investigations were conducted on behalf of the Hughes Tool Company, adding another layer to the complex web of relationships and activities surrounding the assassination.",
+  "document_ids": [
+    "104-10122-10288",
+    "104-10122-10344",
+    "104-10122-10279",
+    "157-10011-10048",
+    "104-10121-10342"
+  ]
+}

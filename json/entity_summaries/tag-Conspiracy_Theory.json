@@ -1,0 +1,25 @@
+{
+  "entity_name": "Conspiracy Theory",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents reflect various conspiracy theories surrounding the JFK assassination. These theories implicate different actors, including the CIA, the military-industrial complex, and Cuban entities. The documents span from 1963 to 1996, indicating a sustained interest and propagation of these theories over time. The documents suggest that these theories were promoted by foreign governments, such as Cuba, and individuals seeking to implicate the CIA in the assassination. The theories also appear in published works, such as Dick Russell's book, further disseminating these ideas.",
+  "key_connections": [
+    "CIA",
+    "President Kennedy",
+    "Cuba",
+    "Military-industrial complex",
+    "Yevgeny Runge",
+    "Dick Russell",
+    "Pope Paul VI",
+    "Syria",
+    "France"
+  ],
+  "significance": "Conspiracy theories play a significant role in the JFK assassination context by offering alternative explanations for the events, often implicating government agencies or foreign powers. These theories contribute to public distrust and fuel ongoing debate about the true circumstances of the assassination.",
+  "document_ids": [
+    "144-10001-10305",
+    "104-10326-10070",
+    "124-10164-10151",
+    "104-10326-10052",
+    "104-10326-10096"
+  ]
+}

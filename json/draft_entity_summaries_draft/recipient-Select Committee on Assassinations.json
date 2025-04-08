@@ -1,0 +1,27 @@
+{
+  "entity_name": "Select Committee on Assassinations",
+  "entity_type": "recipient",
+  "document_count": 14,
+  "summary": "The Select Committee on Assassinations (HSCA) was a U.S. House of Representatives committee established in 1976 to investigate the assassinations of President John F. Kennedy and Martin Luther King Jr. The documents primarily consist of payroll certifications and reports detailing the committee's staff, their positions, salaries, and employment dates. These documents span from 1977 to 1979, providing a glimpse into the committee's operational period. The payroll certifications include employee names, social security numbers, positions, and salaries. The certification reports list employees, their positions, salaries, and employment dates. One document also mentions Joseph Kiel's employment documentation and resume for his time with the Select Committee on Assassinations.",
+  "key_connections": [
+    "Joseph Kiel",
+    "U.S. House of Representatives"
+  ],
+  "significance": "The Select Committee on Assassinations was responsible for reinvestigating the JFK assassination, aiming to provide a definitive conclusion regarding the events surrounding President Kennedy's death. While the documents provided focus on the administrative aspects of the committee's operations (specifically payroll and staffing), they indirectly highlight the scale and scope of the investigation. The HSCA's findings contributed to the ongoing discourse and understanding of the JFK assassination, even though their conclusions remain debated.",
+  "document_ids": [
+    "180-10060-10457",
+    "180-10125-10078",
+    "180-10125-10080",
+    "180-10125-10079",
+    "180-10125-10091",
+    "180-10125-10090",
+    "180-10125-10103",
+    "180-10125-10085",
+    "180-10125-10088",
+    "180-10125-10084",
+    "180-10125-10102",
+    "180-10125-10105",
+    "180-10125-10094",
+    "180-10125-10082"
+  ]
+}

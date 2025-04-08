@@ -1,0 +1,37 @@
+{
+  "entity_name": "UMBRA",
+  "entity_type": "tag",
+  "document_count": 19,
+  "summary": "The documents tagged with \"UMBRA\" appear to be primarily intelligence reports and communications, mostly from the National Security Agency (NSA), related to international reactions and events surrounding President John F. Kennedy's assassination in November 1963. These documents cover a range of topics, including instructions to Cuban diplomatic missions, Viet Cong propaganda plans, condolences from foreign leaders, security measures in Latin America, and assessments of President Lyndon B. Johnson by foreign officials. The documents span from November 22, 1963, to January 17, 1964, with one outlier from July 23, 1969. The documents suggest that UMBRA is used to tag sensitive intelligence related to international relations and reactions to significant events, particularly those concerning the United States.",
+  "key_connections": [
+    "NSA (National Security Agency)",
+    "President John F. Kennedy",
+    "President Lyndon B. Johnson",
+    "Cuba",
+    "Viet Cong",
+    "United Nations",
+    "Various foreign governments (e.g., South Korea, Belgium, Guatemala, Iraq, Austria, Portugal)"
+  ],
+  "significance": "In the context of the JFK assassination, the \"UMBRA\" tag highlights documents containing sensitive intelligence regarding the global response, potential exploitation of the event by adversaries, and the immediate aftermath's impact on international relations. The tag itself doesn't have a direct role, but it identifies documents crucial for understanding the broader geopolitical implications of the assassination.",
+  "document_ids": [
+    "144-10001-10302",
+    "144-10001-10359",
+    "144-10001-10352",
+    "144-10001-10313",
+    "144-10001-10309",
+    "144-10001-10332",
+    "144-10001-10060",
+    "144-10001-10369",
+    "144-10001-10312",
+    "144-10001-10304",
+    "144-10001-10370",
+    "144-10001-10062",
+    "124-90074-10051",
+    "144-10001-10330",
+    "144-10001-10058",
+    "144-10001-10306",
+    "144-10001-10321",
+    "144-10001-10086",
+    "144-10001-10286"
+  ]
+}

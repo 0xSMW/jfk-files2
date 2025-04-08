@@ -1,0 +1,33 @@
+{
+  "entity_name": "Employment Records",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "The 'Employment Records' entity, as represented in these documents, primarily refers to payroll records and related documentation of staff employed by the House Select Committee on Assassinations (HSCA). These records include payroll authorization forms, memoranda regarding appointments, resignations, and notifications regarding the postponement of sensitive information like Social Security numbers to protect personal privacy. The records detail employment history, salary adjustments, and position titles for various HSCA employees from the mid to late 1970s. A notable pattern is the redaction of Social Security numbers across multiple documents, indicating a concern for personal privacy. The records also sometimes include disclosures of relationships to members of Congress.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Miriam Rudder",
+    "Robert Scheer",
+    "Nancy S. Jenkins",
+    "Lee Harvey Oswald",
+    "Marina Oswald",
+    "Howard Louis Shapiro",
+    "Margo E. Jackson",
+    "Belford L. Lawson III",
+    "Gene R. Johnson",
+    "Claire L. Brown",
+    "Social Security Administration",
+    "Assassination Records Review Board"
+  ],
+  "significance": "In the context of the JFK assassination, employment records are significant for documenting the individuals involved in the investigation conducted by the HSCA. These records provide insight into the staffing, organization, and operation of the committee, potentially revealing information about the scope and direction of the investigation. They also connect the HSCA to other entities like the Social Security Administration and individuals related to the assassination, such as Lee Harvey Oswald, by documenting requests for and handling of sensitive personal information.",
+  "document_ids": [
+    "180-10070-10150",
+    "194-10006-10141",
+    "180-10060-10450",
+    "180-10072-10186",
+    "180-10070-10155",
+    "180-10060-10449",
+    "180-10060-10464",
+    "180-10060-10452",
+    "180-10068-10317"
+  ]
+}

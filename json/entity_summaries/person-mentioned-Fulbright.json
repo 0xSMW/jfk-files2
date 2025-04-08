@@ -1,0 +1,19 @@
+{
+  "entity_name": "Fulbright",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, \"Fulbright\" refers to the Fulbright Program, a foreign exchange program. The documents mention the program in the context of proposed restrictions on the CIA's operational use of academics and grantees involved in foreign exchange programs. The program is also mentioned in the context of President Johnson's meetings and briefings on various foreign policy issues. The documents do not directly link Fulbright to the JFK assassination but rather to broader foreign policy and intelligence contexts during the 1960s and 1970s.",
+  "key_connections": [
+    "CIA",
+    "President Johnson",
+    "Foreign exchange programs",
+    "Academics",
+    "Grantees"
+  ],
+  "significance": "The Fulbright Program's significance in the JFK context, based on these documents, is indirect. It is mentioned in relation to discussions about CIA involvement with academic and exchange programs during the period following Kennedy's assassination and the broader foreign policy considerations of the Johnson administration. The documents suggest concerns about the potential for intelligence operations to utilize or influence such programs.",
+  "document_ids": [
+    "157-10014-10133",
+    "104-10306-10018",
+    "144-10001-10103"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "entity_name": "Jack Ruby",
+  "entity_type": "person-mentioned",
+  "document_count": 15,
+  "summary": "Jack Ruby is identified as the individual who killed Lee Harvey Oswald, the alleged assassin of President John F. Kennedy. The Warren Commission concluded that Ruby acted alone, possibly driven by personal motivation and mental instability. CIA documents and memoranda discuss Ruby in the context of the Warren Commission's investigation, including meetings between CIA officials and the Commission staff to share information about Ruby. Some documents also mention the CIA's file on Ruby. The documents suggest that Ruby's actions were a significant focus of the investigation into the Kennedy assassination, with various agencies, including the NSA, tasked with locating information related to both Oswald and Ruby.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Warren Commission",
+    "CIA",
+    "NSA"
+  ],
+  "significance": "Jack Ruby's significance lies in his role as the killer of Lee Harvey Oswald, the man accused of assassinating President John F. Kennedy. His actions immediately after the assassination raised numerous questions and conspiracy theories, making him a central figure in the broader investigation and public perception of the events surrounding Kennedy's death.",
+  "document_ids": [
+    "144-10001-10122",
+    "180-10145-10269",
+    "144-10001-10138",
+    "135-10001-10288",
+    "157-10002-10165",
+    "135-10001-10283",
+    "144-10001-10164",
+    "104-10305-10005",
+    "104-10302-10022",
+    "180-10145-10295",
+    "104-10079-10016",
+    "135-10001-10243",
+    "157-10004-10144",
+    "144-10001-10107",
+    "144-10001-10264"
+  ]
+}

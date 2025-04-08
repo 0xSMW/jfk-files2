@@ -1,0 +1,24 @@
+{
+  "entity_name": "Paul Wallach",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Paul Wallach served as the Chief Counsel of the Senate Select Committee on Intelligence. He was involved in discussions and meetings regarding access to Lee Harvey Oswald case files and the assassination of President Kennedy. Wallach participated in an interview with Bruce Cheever, a former deputy director of Task Force W, along with Joe DiGenova, concerning the Mongoose operation and interactions with individuals like Harvey, Lansdale, and members of the SGA. He was also involved in discussions regarding proposed restrictions on the CIA's operational use of academics and grantees.",
+  "key_connections": [
+    "Bruce Cheever",
+    "Joe DiGenova",
+    "Harvey",
+    "Lansdale",
+    "SGA",
+    "Lee Harvey Oswald",
+    "Senate Select Committee on Intelligence",
+    "CIA"
+  ],
+  "significance": "As Chief Counsel of the Senate Select Committee on Intelligence, Paul Wallach played a key role in investigating the JFK assassination by overseeing access to relevant files and interviewing key individuals. His position allowed him to influence the direction of the investigation and the information gathered.",
+  "document_ids": [
+    "157-10008-10241",
+    "124-10274-10014_multirif_redacted",
+    "157-10014-10133",
+    "104-10422-10057",
+    "104-10310-10118"
+  ]
+}

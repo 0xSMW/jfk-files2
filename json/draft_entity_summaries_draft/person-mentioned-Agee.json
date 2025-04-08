@@ -1,0 +1,25 @@
+{
+  "entity_name": "Agee",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "The documents mention Agee in various contexts related to CIA operations and potential disclosures. Charlotte Z. Bustos-Videla was interviewed regarding her acquaintance with Agee, suggesting contacting Dorothy Hennick for possible contact between Agee and Jim Noland. One document references Agee's limited involvement with Cuban operations at the Mexico City Station, as recalled by Elsie L. Scaletti, who also recounts informing John A. Probert about Agee's resignation under a cloud. While Agee is not directly linked to the JFK assassination in these documents, one document mentions Fabian Escalante's belief that elements of the CIA operational arm, in combination with the Mafia, were responsible for the assassination. Other documents discuss reviews of book manuscripts containing sensitive CIA information, potentially related to Agee's activities or disclosures, and general comments on David Phillips' manuscript, which is deemed undesirable due to disclosures of sources, methods, cover arrangements, and liaison relationships.",
+  "key_connections": [
+    "Charlotte Z. Bustos-Videla",
+    "Dorothy Hennick",
+    "Jim Noland",
+    "Elsie L. Scaletti",
+    "John A. Probert",
+    "Fabian Escalante",
+    "David Phillips",
+    "Cuban CI officers",
+    "Mafia"
+  ],
+  "significance": "While not directly implicated in the JFK assassination in these documents, Agee's association with the CIA and potential disclosures of sensitive information are highlighted. The documents suggest Agee's involvement with Cuban operations and his subsequent resignation under a cloud, raising questions about his activities and potential impact on CIA operations.",
+  "document_ids": [
+    "104-10110-10303",
+    "104-10326-10076",
+    "104-10110-10305",
+    "104-10105-10103",
+    "104-10105-10119"
+  ]
+}

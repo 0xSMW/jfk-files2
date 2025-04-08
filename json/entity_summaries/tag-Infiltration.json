@@ -1,0 +1,40 @@
+{
+  "entity_name": "Infiltration",
+  "entity_type": "tag",
+  "document_count": 20,
+  "summary": "The documents highlight 'Infiltration' primarily in the context of CIA operations against Cuba, particularly during the early 1960s. These operations involved sending agents into Cuba for intelligence gathering, sabotage, recruitment of dissidents, and establishing communication networks. Project AMTRUNK is a recurring example, detailing missions to infiltrate teams into Cuba for various objectives. The documents also mention infiltration tactics used by Vietnamese Communists in Saigon. Several documents discuss the recruitment, training, and deployment of agents for infiltration, including details on their backgrounds, travel plans, and communication methods. There are also references to counter-intelligence efforts, such as identifying and disrupting anti-Castro groups and investigating potential security breaches. Operation JEAN III is mentioned as an infiltration operation dating back to 1951. The documents reveal a pattern of meticulous planning and execution of infiltration missions, often involving coordination with various agencies and the use of Cuban exiles.",
+  "key_connections": [
+    "Cuba Project",
+    "Project AMTRUNK",
+    "Operation JEAN III",
+    "AMDENIM-1",
+    "ACSI (Army Counter Intelligence)",
+    "Anti-Castro groups",
+    "JMWAVE",
+    "G-2 (Cuban Intelligence)",
+    "Operation MONGOOSE"
+  ],
+  "significance": "In the context of the JFK assassination, the focus on infiltration relates to the broader CIA efforts to destabilize the Cuban government under Fidel Castro. While the documents do not directly link infiltration to the assassination, they provide insight into the operational environment and the types of activities the CIA was engaged in, which could be relevant for understanding potential motives or connections related to the event. The documents reveal the extent of covert operations and the complex network of agents and assets involved, which could have indirectly contributed to the circumstances surrounding the assassination.",
+  "document_ids": [
+    "104-10179-10209",
+    "176-10036-10087",
+    "104-10103-10112",
+    "202-10001-10203",
+    "104-10062-10062",
+    "104-10177-10175",
+    "104-10171-10003",
+    "104-10172-10133",
+    "104-10216-10148",
+    "104-10176-10068",
+    "104-10234-10101",
+    "104-10234-10102",
+    "104-10172-10147",
+    "104-10169-10265",
+    "104-10172-10059",
+    "104-10172-10062",
+    "104-10216-10273",
+    "104-10069-10185",
+    "104-10170-10146",
+    "157-10011-10003"
+  ]
+}

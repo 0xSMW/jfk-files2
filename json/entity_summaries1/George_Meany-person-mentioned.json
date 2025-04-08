@@ -1,0 +1,27 @@
+{
+  "entity_name": "George Meany",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, George Meany is mentioned in the context of CIA activities and operations during the 1960s and 1970s. The documents detail covert actions in various countries, including the Dominican Republic, British Guiana, Haiti, Vietnam, Italy, Bolivia, Brazil, and Cuba. While George Meany's specific role or involvement is not explicitly stated in these summaries, his name appears in documents related to potentially controversial CIA operations, suggesting a connection to the political and operational landscape of the time. The documents highlight activities such as providing arms to dissident groups, wiretapping, breaking and entering, and chemical warfare planning, indicating a period of intense covert activity during the Cold War era.",
+  "key_connections": [
+    "Richard Bissell",
+    "McGeorge Bundy",
+    "Walter Elder",
+    "William Colby",
+    "CIA",
+    "Dominican Republic",
+    "British Guiana",
+    "Haiti",
+    "Vietnam",
+    "Italy",
+    "Bolivia",
+    "Brazil",
+    "Cuba"
+  ],
+  "significance": "The significance of George Meany in the JFK assassination context is not directly apparent from the provided documents. His name appears in documents related to CIA activities during the 1960s and 1970s, but there is no explicit mention of his involvement in the JFK assassination or related events. Further research would be needed to determine if there is any connection between George Meany and the JFK assassination.",
+  "document_ids": [
+    "176-10033-10151",
+    "104-10303-10007",
+    "206-10001-10016"
+  ]
+}

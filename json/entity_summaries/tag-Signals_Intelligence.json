@@ -1,0 +1,27 @@
+{
+  "entity_name": "Signals Intelligence",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "Signals Intelligence (SIGINT), as represented in these documents, refers to the interception of communications, primarily by the National Security Agency (NSA), to gather intelligence. In the context of the JFK assassination, SIGINT played a role in monitoring communications of various entities, including Soviet military, Cuban government, and foreign embassies, to assess reactions and potential implications following the event. The documents reveal that SIGINT was used to track the dissemination of news about the assassination, monitor foreign government responses, and investigate potential involvement or exploitation of the situation by foreign powers. The timeline spans from the immediate aftermath of the assassination in November 1963 to subsequent investigations in the 1970s. A notable pattern across the documents is the focus on foreign reactions and the search for any indications of foreign involvement or changes in policy as a result of Kennedy's death.",
+  "key_connections": [
+    "National Security Agency (NSA)",
+    "Soviet Union",
+    "Cuba",
+    "House Select Committee on Assassinations (HCSA)",
+    "Foreign Embassies (Mexican, Austrian, Portuguese)",
+    "Saigon Government",
+    "Department of Defense"
+  ],
+  "significance": "In the JFK assassination context, Signals Intelligence was crucial for monitoring foreign reactions, investigating potential foreign involvement, and providing information to congressional inquiries. It served as a tool for assessing the geopolitical impact of the assassination and ensuring national security in the wake of the event.",
+  "document_ids": [
+    "144-10001-10375",
+    "144-10001-10164",
+    "144-10001-10331",
+    "144-10001-10097",
+    "144-10001-10321",
+    "144-10001-10065",
+    "144-10001-10205",
+    "144-10001-10356",
+    "144-10001-10072"
+  ]
+}

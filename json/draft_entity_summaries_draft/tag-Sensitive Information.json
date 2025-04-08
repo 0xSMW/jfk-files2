@@ -1,0 +1,22 @@
+{
+  "entity_name": "Sensitive Information",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents highlight the CIA's consistent concern with protecting sensitive information, operations, and sources. This concern manifests in various contexts, including requests for documentation related to the creation of the Special Counterintelligence Operation, interactions with the JFK Assassination Records Review Board (ARRB), liaison activities with House and Senate committees regarding the HSCA investigation, inadvertent dissemination of documents to FBIS, and U.K. Liaison files. The protection of sensitive information is a recurring theme, indicating a priority within the CIA to safeguard intelligence operations and sources from potential exposure. The documents suggest that the CIA actively managed the release of information, balancing transparency with the need to protect classified activities.",
+  "key_connections": [
+    "Mr. Ober",
+    "Rockefeller Commission",
+    "JFK Assassination Records Review Board (ARRB)",
+    "House Select Committee on Assassinations (HSCA)",
+    "FBIS",
+    "U.K. Liaison"
+  ],
+  "significance": "In the JFK context, the protection of sensitive information is significant because it raises questions about transparency and the potential withholding of crucial details related to the assassination. The documents suggest that the CIA was actively managing the release of information, which could have influenced the investigations and public understanding of the events surrounding the assassination. The concern over exposure of sensitive operations and sources could be interpreted as a potential motive for concealing information relevant to the JFK assassination.",
+  "document_ids": [
+    "104-10059-10218",
+    "104-10331-10118",
+    "104-10145-10262",
+    "104-10066-10245",
+    "104-10228-10076"
+  ]
+}

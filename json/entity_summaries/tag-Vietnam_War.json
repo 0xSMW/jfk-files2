@@ -1,0 +1,33 @@
+{
+  "entity_name": "Vietnam War",
+  "entity_type": "tag",
+  "document_count": 13,
+  "summary": "The Vietnam War is a recurring theme across these documents, reflecting its significant impact on various aspects of U.S. foreign policy, domestic dissent, and intelligence operations during the 1960s and 1970s. The documents cover a range of topics, including anti-war movements (WOMUSE, BEHEIREN), concerns about U.S. Army deserters, Viet Cong propaganda efforts to link President Kennedy's assassination to the U.S. role in Vietnam, observations on U.S. participants at World Peace Council meetings discussing the war, and the war's influence on CIA recruitment and internal dynamics. The documents also touch on the early stages of the war during the Kennedy administration, including the coup against Diem, and the CIA's adaptation of intelligence briefings for President Johnson in the wake of Kennedy's assassination. Overall, the Vietnam War serves as a backdrop for understanding political dissent, international relations, and the evolution of U.S. intelligence activities during this period.",
+  "key_connections": [
+    "President John F. Kennedy",
+    "Lyndon B. Johnson",
+    "CIA",
+    "Viet Cong",
+    "Anti-war movements (WOMUSE, BEHEIREN)",
+    "World Peace Council",
+    "U.S. Army",
+    "Robert Scheer",
+    "R. C. Nagell"
+  ],
+  "significance": "The Vietnam War is portrayed as a context in which the JFK assassination was exploited for propaganda purposes by the Viet Cong. One document specifically mentions a Viet Cong plan to represent Kennedy's assassination as a repudiation of the U.S. role in Vietnam, suggesting a direct attempt to leverage the event for political gain. Additionally, the war influenced the political climate and contributed to domestic dissent, which indirectly affected the perception and handling of the assassination's aftermath. The war also shaped the intelligence landscape, influencing CIA operations and briefings during the Kennedy and Johnson administrations.",
+  "document_ids": [
+    "194-10007-10417",
+    "104-10063-10206",
+    "194-10006-10188",
+    "144-10001-10359",
+    "104-10071-10147",
+    "104-10324-10002",
+    "104-10064-10012",
+    "194-10012-10400",
+    "104-10301-10000",
+    "194-10004-10359",
+    "104-10302-10024",
+    "176-10037-10453",
+    "177-10002-10097"
+  ]
+}

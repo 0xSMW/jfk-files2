@@ -1,0 +1,19 @@
+{
+  "entity_name": "Louis Tordella",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, Louis Tordella is mentioned in the context of the Senate Select Committee's (SSC) inquiries to the NSA concerning the Warren Commission. The documents detail the NSA's responses to the SSC's queries regarding the Warren Commission's investigation into the JFK assassination. While Louis Tordella's specific role or actions are not explicitly detailed in the summaries, the documents indicate that the NSA was involved in reviewing exhibits for secret writing, providing information about Cuban military alerts after the assassination, and generally assisting the Warren Commission. The documents suggest that the NSA's involvement was limited, and no results relevant to the assassination were obtained. The consistent date of the documents (January 26, 1976) indicates a concentrated effort to respond to the SSC's inquiries at that time.",
+  "key_connections": [
+    "Senate Select Committee",
+    "Warren Commission",
+    "NSA",
+    "Cuban military"
+  ],
+  "significance": "Louis Tordella's significance in the JFK context, based solely on these documents, is indirect. He is associated with the NSA's involvement in responding to the Senate Select Committee's inquiries regarding the Warren Commission's investigation. The documents do not specify his direct role or actions, but his name is present in documents related to the NSA's assistance to the Warren Commission and subsequent inquiries.",
+  "document_ids": [
+    "144-10001-10288",
+    "144-10001-10127",
+    "144-10001-10212",
+    "144-10001-10195"
+  ]
+}

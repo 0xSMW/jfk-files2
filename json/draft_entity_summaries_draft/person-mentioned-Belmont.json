@@ -1,0 +1,30 @@
+{
+  "entity_name": "Belmont",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Based on the provided documents, Belmont is mentioned in the context of FBI-CIA liaison activities and information sharing. The documents span from 1961 to 1975, indicating a sustained period of involvement in these matters. Belmont's role appears to be related to the management and oversight of FBI interactions with the CIA, including the handling of sensitive information, sources, and technical data. The documents highlight both cooperation and past conflicts between the two agencies, suggesting Belmont was involved in navigating these complex relationships. Specific instances include the sharing of information related to the Fair Play for Cuba Committee (FPCC) and discussions regarding potential CIA operations that may have exceeded its mandate, with references to FBI involvement in technical support, handling of defectors, and domestic dissident groups.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "D.J. Brennan",
+    "W.C. Sullivan",
+    "James Angleton",
+    "Israeli Intelligence Service",
+    "W. G. Cregar",
+    "W. R. Wannall",
+    "Major Perry Miles",
+    "S.J. Papich",
+    "Mr. L'Allier",
+    "Fair Play for Cuba Committee (FPCC)",
+    "Jorge Beliard"
+  ],
+  "significance": "The documents suggest Belmont was a figure involved in the liaison between the FBI and CIA during a period when both agencies were dealing with sensitive issues related to national security, including matters potentially relevant to the JFK assassination context, such as the monitoring of groups like the FPCC and the handling of defectors. The documents do not explicitly mention the JFK assassination, but the context of FBI-CIA cooperation and potential overreach could be relevant to understanding the broader intelligence landscape during that time.",
+  "document_ids": [
+    "124-10326-10103",
+    "124-10271-10303",
+    "124-90140-10071",
+    "124-90137-10467",
+    "124-10185-10100",
+    "124-10325-10318"
+  ]
+}

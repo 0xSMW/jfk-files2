@@ -1,0 +1,25 @@
+{
+  "entity_name": "HPSCI",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The House Permanent Select Committee on Intelligence (HPSCI) is a committee of the United States House of Representatives. The documents suggest the HPSCI was involved in oversight and review of CIA activities, particularly concerning the declassification of JFK assassination records. The committee received briefings on denied JFK documents and interacted with the JFK Assassination Records Review Board. A meeting between the DCI and Chairman Boland of the HPSCI covered various intelligence matters, including legislative charters and authorization bills. The documents span from 1978 to 1993, indicating a sustained role in intelligence oversight during that period.",
+  "key_connections": [
+    "CIA",
+    "DCI",
+    "Chairman Boland",
+    "JFK Assassination Records Review Board",
+    "Dean Rusk",
+    "Gordon Gray",
+    "Richard M. Bissell, Jr.",
+    "Paul O'Neill",
+    "Arnold E. Donohue"
+  ],
+  "significance": "The HPSCI's significance in the JFK context lies in its oversight role regarding the CIA's handling of JFK assassination records and its involvement in ensuring transparency through declassification efforts. The committee's briefings and interactions with relevant agencies highlight its role in holding the CIA accountable and ensuring compliance with the JFK Assassination Records Collection Act of 1992.",
+  "document_ids": [
+    "135-10001-10288",
+    "135-10001-10297",
+    "104-10322-10104",
+    "135-10001-10239",
+    "104-10337-10002"
+  ]
+}

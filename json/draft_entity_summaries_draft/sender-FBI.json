@@ -1,0 +1,26 @@
+{
+  "entity_name": "FBI",
+  "entity_type": "sender",
+  "document_count": 7,
+  "summary": "The FBI, as evidenced by these documents, was actively involved in intelligence activities and investigations during the 1960s and 1970s. Their activities included coordinating with the Senate Select Committee (SSC) on intelligence activities, investigating potential Soviet espionage, and responding to requests from the CIA regarding individuals of interest. The FBI also conducted investigations into individuals like Martin Luther King Jr., focusing on potential Communist ties. The documents reveal the FBI's role in gathering intelligence, sharing information with other agencies, and responding to inquiries from oversight committees. A notable pattern is the FBI's involvement in both domestic surveillance and counterintelligence operations during the Cold War era.",
+  "key_connections": [
+    "Senate Select Committee (SSC)",
+    "CIA",
+    "Soviet Union (KGB)",
+    "Martin Luther King Jr.",
+    "Stanley Levison",
+    "Department of Justice",
+    "Department of State",
+    "Bundesamt fuer Verfassungsschutz (BFV)"
+  ],
+  "significance": "While the documents do not directly address the JFK assassination, they highlight the FBI's broad intelligence and investigative activities during the period surrounding the assassination. The documents show the FBI's role in counterintelligence, domestic surveillance, and information sharing with other agencies, which are all relevant to understanding the broader security context of the time. The documents suggest the FBI was focused on perceived threats from the Soviet Union and domestic figures suspected of Communist ties.",
+  "document_ids": [
+    "124-10274-10001",
+    "124-90138-10073",
+    "124-10274-10029_multirif_redacted",
+    "124-10274-10011 (c06716583)",
+    "124-10238-10333_multirif",
+    "124-10179-10217",
+    "124-90137-10355"
+  ]
+}

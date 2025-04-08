@@ -1,0 +1,23 @@
+{
+  "entity_name": "Document Request",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents provided relate to requests for information and documents from various government entities, primarily the Senate Select Committee on Intelligence Activities (also known as the Church Committee), to organizations like the FBI and CIA. These requests were part of investigations into potential abuses and intelligence activities, including domestic operations. The documents highlight the process of responding to these requests, including determining which documents could be released, which required redactions, and which were subject to review restrictions. The requests cover a range of topics, including CIA histories, potential abuses, and investigations into individuals like Martin Luther King, Jr., and organizations like the Southern Christian Leadership Conference.",
+  "key_connections": [
+    "Senate Select Committee (Church Committee)",
+    "FBI",
+    "CIA",
+    "William Colby",
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference",
+    "Clarence Kelley",
+    "Jeanne Davis"
+  ],
+  "significance": "While the documents don't directly relate to the JFK assassination, they are significant in the broader context of government transparency and oversight. The investigations into intelligence activities and potential abuses, as well as the processes for handling document requests, reflect the efforts to understand and regulate government actions, which could indirectly relate to the historical understanding of events like the JFK assassination by revealing information about the agencies involved and their operations.",
+  "document_ids": [
+    "178-10003-10176",
+    "178-10003-10311",
+    "178-10003-10453",
+    "124-10264-10209_multirif"
+  ]
+}

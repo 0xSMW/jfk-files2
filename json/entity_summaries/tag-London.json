@@ -1,0 +1,25 @@
+{
+  "entity_name": "London",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "London appears in these documents primarily as a location of interest for intelligence activities. It serves as a base for CIA operations (CAS, London), a location for Cuban Embassy activities monitored by British intelligence, a travel destination for individuals of interest like Santo Trafficante, Jr., and a site for interactions between CIA stations and visiting Congressional delegations (CODELS). The documents suggest London was a significant hub for intelligence gathering and liaison activities during the Cold War era and beyond. Mentions span from 1963 to 1978, indicating sustained relevance over this period.",
+  "key_connections": [
+    "CIA",
+    "Cuban Embassy",
+    "Santo Trafficante, Jr.",
+    "Congressional Delegations (CODELS)",
+    "British Intelligence",
+    "Ivan Dmitriyevich Obyedkov"
+  ],
+  "significance": "In the context of the JFK assassination, London is mentioned as the location where British intelligence intercepted a conversation at the Cuban Embassy related to the assassination. This suggests London was a point of intelligence gathering relevant to understanding potential foreign involvement or knowledge of the event.",
+  "document_ids": [
+    "104-10181-10081",
+    "124-10181-10009",
+    "124-10204-10203",
+    "124-10204-10204",
+    "180-10145-10280",
+    "180-10141-10204",
+    "104-10177-10224",
+    "104-10400-10311"
+  ]
+}

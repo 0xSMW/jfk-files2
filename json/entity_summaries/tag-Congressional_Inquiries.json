@@ -1,0 +1,23 @@
+{
+  "entity_name": "Congressional Inquiries",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents reflect the FBI and CIA's responses to inquiries from various Congressional committees, most notably the Senate Select Committee on Intelligence Activities (SSC), during the mid-1970s. These inquiries covered a range of sensitive topics, including the CIA's budget, the involvement of CIA-affiliated individuals in the Watergate scandal, COINTELPRO, and FBI informants. The documents highlight the FBI's efforts to provide information while navigating concerns about security clearances and the scope of the investigations. The timeline centers around 1975, a period when Congress was actively investigating intelligence community activities.",
+  "key_connections": [
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "COINTELPRO",
+    "FBI",
+    "CIA",
+    "Watergate Scandal",
+    "FBI Informants",
+    "Security Clearances"
+  ],
+  "significance": "While the documents do not directly address the JFK assassination, the Congressional inquiries into the CIA and FBI's activities, particularly regarding covert operations and potential abuses of power, are relevant to the broader context of understanding the environment in which the assassination occurred. The inquiries suggest a level of scrutiny and concern regarding the intelligence community's actions, which could indirectly relate to investigations or perceptions surrounding the JFK assassination.",
+  "document_ids": [
+    "124-10271-10003_multirif",
+    "124-10271-10011_multirif",
+    "124-10271-10299_multirif",
+    "104-10256-10283",
+    "124-10271-10003"
+  ]
+}

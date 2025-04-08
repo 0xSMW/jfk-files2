@@ -1,0 +1,25 @@
+{
+  "entity_name": "Logistics",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The documents highlight logistical operations within the CIA, encompassing various aspects such as the shipment of goods, maintenance of safehouses, and provisioning networks. These operations span across different geographical locations, including Europe, the Americas, and the Far East. Specific instances include a missing shipment to Frankfurt, the establishment and maintenance of safehouses like Safehouse #405 in Silver Spring, MD, and the delivery of cartridges to Corpus Christi. The APROVIZION network appears to be a key element in the CIA's supply chain. The documents also touch upon the procurement of ammunition, as seen in the potential deal with I. Irving Davidson, and the deployment of technical personnel for maintaining communication equipment, such as the Collins Modem Field Service Engineer. The timeline spans from 1963 to 1974, indicating ongoing logistical activities during this period. A notable pattern is the recurring theme of secure and discreet movement of materials and personnel to support CIA operations.",
+  "key_connections": [
+    "Frankfurt",
+    "Safehouse #405",
+    "APROVIZION",
+    "Corpus Christi",
+    "I. Irving Davidson",
+    "Collins Modem Field Service Engineer",
+    "MIDW (Mexico City)"
+  ],
+  "significance": "In the context of the JFK assassination, the logistical operations described in these documents provide insight into the CIA's operational capabilities and infrastructure during the relevant period. While none of the documents directly mention the assassination, they illustrate the agency's capacity for covert activities, including the movement of personnel and materials, which could be relevant to understanding potential involvement or knowledge related to the event. The documents highlight the CIA's global reach and its reliance on secure communication and supply lines.",
+  "document_ids": [
+    "104-10077-10076",
+    "104-10185-10202",
+    "104-10209-10164",
+    "104-10529-10367",
+    "104-10216-10100",
+    "104-10107-10180",
+    "104-10100-10237"
+  ]
+}

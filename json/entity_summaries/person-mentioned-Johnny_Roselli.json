@@ -1,0 +1,24 @@
+{
+  "entity_name": "Johnny Roselli",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Based on the provided documents, Johnny Roselli is mentioned in the context of CIA operations and potential assassination attempts, particularly those related to Fidel Castro. While the documents do not explicitly detail Roselli's direct involvement in the JFK assassination, they place him within a network of individuals and activities that are relevant to the broader investigation. The documents suggest Roselli was connected to individuals like Robert Maheu and involved in sensitive assignments, including plots to assassinate foreign leaders. The timeline of his involvement is not clearly defined in these documents, but the references span from the early 1960s to the mid-1970s, indicating a sustained period of activity within these clandestine circles. The notable pattern is his association with CIA-backed operations and individuals involved in covert activities.",
+  "key_connections": [
+    "Robert A. Maheu",
+    "Fidel Castro",
+    "William K. Harvey",
+    "Aristotle Onassis",
+    "President Sukarno",
+    "King Hussein",
+    "William C. Sturbitts"
+  ],
+  "significance": "Johnny Roselli's significance in the JFK context stems from his connections to CIA operations and individuals involved in plots to assassinate Fidel Castro. While the documents do not directly link him to the JFK assassination, his involvement in related covert activities raises questions about potential connections and knowledge of other clandestine operations.",
+  "document_ids": [
+    "104-10121-10341",
+    "157-10002-10106",
+    "157-10011-10048",
+    "104-10121-10342",
+    "104-10122-10141",
+    "178-10002-10215"
+  ]
+}

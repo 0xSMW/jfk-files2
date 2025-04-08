@@ -1,0 +1,19 @@
+{
+  "entity_name": "Jim Garrison",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "Jim Garrison was the District Attorney of New Orleans who investigated the JFK assassination, believing there was a conspiracy. The documents indicate that the CIA and FBI were monitoring Garrison's activities. One document mentions MI-5 informing the FBI about Garrison being contacted by the Bertrand Russell Peace Foundation to write an article about the Kennedy assassination. Another document references requests from the Assassination Records Review Board (ARRB) to the CIA regarding JFK assassination records, which may be related to Garrison's investigation. The documents suggest a counter-intelligence interest in Garrison's activities and potential connections to individuals and organizations involved in investigating or commenting on the assassination.",
+  "key_connections": [
+    "Bertrand Russell Peace Foundation",
+    "FBI",
+    "MI-5",
+    "Assassination Records Review Board (ARRB)"
+  ],
+  "significance": "Jim Garrison's significance lies in his role as a public figure who challenged the official narrative of the JFK assassination and conducted his own investigation, leading to the prosecution of Clay Shaw. His investigation and the government's response to it are important aspects of the JFK assassination context.",
+  "document_ids": [
+    "104-10418-10041",
+    "178-10002-10091",
+    "104-10336-10000",
+    "104-10104-10262"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "entity_name": "Domestic Intelligence",
+  "entity_type": "tag",
+  "document_count": 19,
+  "summary": "The documents reveal that \"Domestic Intelligence\" refers primarily to the FBI's activities related to internal security, surveillance, and counterintelligence operations within the United States. These activities were under intense scrutiny by the Senate Select Committee on Intelligence Activities (SSC) in the mid-1970s, particularly concerning potential abuses of power, violations of civil liberties, and the scope of FBI authority. The documents highlight the FBI's interactions with the SSC, including responses to document requests, discussions on informant confidentiality, and reviews of draft reports. The focus is on investigations into individuals and organizations perceived as threats, including Martin Luther King Jr., the Southern Christian Leadership Conference (SCLC), anti-war movements, and individuals associated with Cuba. The timeline spans from the 1950s to the 1970s, with a concentration on the period of heightened scrutiny following revelations about COINTELPRO and other controversial FBI programs. A notable pattern is the concern over the FBI's domestic intelligence operations and the need for legislative or administrative reforms to ensure accountability and prevent future abuses.",
+  "key_connections": [
+    "FBI",
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "Martin Luther King Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "COINTELPRO",
+    "Anti-war movements",
+    "Cuba",
+    "Clarence M. Kelley",
+    "Rockefeller Commission"
+  ],
+  "significance": "While the documents do not directly link Domestic Intelligence to the JFK assassination, they reveal the FBI's broad surveillance and counterintelligence activities during that era. The FBI's focus on individuals and groups perceived as threats, including those with connections to Cuba, could be relevant in understanding the broader context of the assassination and potential motives of various actors. The documents also highlight the potential for abuse of power and the need for oversight, which could be relevant to understanding the FBI's handling of the assassination investigation and related matters.",
+  "document_ids": [
+    "124-10186-10048_multirif",
+    "124-10264-10206_multirif",
+    "194-10002-10203_redacted",
+    "135-10001-10237",
+    "104-10071-10043",
+    "124-10186-10045_multirif",
+    "124-10186-10056_multirif",
+    "124-10186-10051_multirif",
+    "124-10186-10055_multirif",
+    "124-10274-10070",
+    "124-10186-10054_multirif",
+    "124-10185-10099_multirif",
+    "124-10271-10033_multirif_redacted",
+    "178-10004-10420",
+    "124-10185-10193_multirif",
+    "124-10186-10041",
+    "104-10225-10000",
+    "124-10264-10210_multirif",
+    "124-10186-10049_multirif"
+  ]
+}

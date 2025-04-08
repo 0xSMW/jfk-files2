@@ -1,0 +1,27 @@
+{
+  "entity_name": "IRS",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "The IRS (Internal Revenue Service) appears in these documents primarily in the context of investigations into individuals and organizations. Specifically, the IRS is mentioned in connection with investigations into John Roselli's financial affairs and potential tax evasion, as well as in a report from the SSCIA detailing the CIA's use of proprietary companies and their financial details. The IRS is also mentioned in relation to gambling operations and customs violations. The documents suggest the IRS's role involves obtaining federal income tax returns, sharing information with other agencies like the FBI, and investigating potential financial crimes.",
+  "key_connections": [
+    "John Roselli",
+    "FBI",
+    "CIA",
+    "Gabriel Mannarino",
+    "Samuel Mannarino",
+    "Paul Arnold Marriott",
+    "Mitchell Livingston WerBell III"
+  ],
+  "significance": "In the context of the JFK assassination, the IRS's significance is indirect. The documents suggest the IRS was involved in investigating individuals who may have had connections to organized crime or other activities of interest to the FBI and CIA. While the documents do not directly link the IRS to the assassination itself, their investigations into figures like John Roselli, who has been theorized to have connections to the JFK assassination, could potentially uncover relevant information.",
+  "document_ids": [
+    "157-10014-10144",
+    "124-10223-10088",
+    "124-10223-10070",
+    "124-10223-10164",
+    "124-10223-10171",
+    "124-10223-10079",
+    "124-10203-10485",
+    "194-10001-10168",
+    "124-10223-10073"
+  ]
+}

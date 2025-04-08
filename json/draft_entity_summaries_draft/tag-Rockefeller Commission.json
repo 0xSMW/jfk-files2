@@ -1,0 +1,29 @@
+{
+  "entity_name": "Rockefeller Commission",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "The Rockefeller Commission, officially known as the President's Commission on CIA Activities within the United States, was established in 1975 to investigate alleged domestic activities of the CIA. Several documents reference the Commission's inquiries into various CIA operations, including those related to Cuban operations, potential assassination attempts against Fidel Castro, and the agency's relationship with individuals involved in these activities. The Commission's files contain a wide range of materials, including depositions, memoranda, letters, and notes, covering topics such as counterintelligence, Soviet defectors, and CIA involvement in domestic matters. The documents suggest that the Commission sought to understand the scope and nature of CIA activities, particularly those that might have exceeded the agency's legal mandate. The timeline of involvement is primarily centered around 1975, with some documents referencing materials created or reviewed in connection with the Commission's work in later years. A notable pattern across the documents is the focus on CIA activities related to Cuba and potential assassination plots, as well as the agency's domestic operations and counterintelligence efforts.",
+  "key_connections": [
+    "CIA",
+    "Fidel Castro",
+    "Frank Sturgis",
+    "James Angleton",
+    "FBI",
+    "William C. Sturbitts",
+    "Victor Marchetti"
+  ],
+  "significance": "In the JFK assassination context, the Rockefeller Commission's investigation into CIA activities is relevant because it explored potential connections between the CIA and individuals or events related to the assassination. While the documents do not directly link the CIA to the assassination, they reveal the Commission's interest in understanding the agency's operations and relationships, particularly those involving individuals who may have had connections to the assassination or related events.",
+  "document_ids": [
+    "104-10331-10166",
+    "157-10011-10083",
+    "157-10011-10092",
+    "104-10059-10218",
+    "178-10004-10396",
+    "178-10004-10115",
+    "178-10002-10091",
+    "178-10004-10420",
+    "178-10002-10279",
+    "157-10008-10234",
+    "178-10002-10215"
+  ]
+}

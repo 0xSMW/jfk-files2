@@ -1,0 +1,20 @@
+{
+  "entity_name": "John Matter",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, there is no mention of an entity named \"John Matter.\" The documents primarily concern the FBI's response to requests from the U.S. Senate Select Committee on Intelligence Activities (SSC) regarding materials related to Martin Luther King, Jr., and the Southern Christian Leadership Conference. They detail which items were provided and explain instances where requested information could not be located. The documents also mention interviews conducted by the Senate Select Committee (SSC) with FBI Special Agent William D. Campbell and former Assistant Director Ivan Conrad concerning FBI investigations, specifically related to Martin Luther King Jr. and electronic surveillance activities.",
+  "key_connections": [
+    "William D. Campbell",
+    "Ivan Conrad",
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference",
+    "U.S. Senate Select Committee on Intelligence Activities (SSC)",
+    "FBI"
+  ],
+  "significance": "Since John Matter is not mentioned in the provided documents, there is no information available to determine his significance in the JFK context.",
+  "document_ids": [
+    "124-10273-10006",
+    "124-10264-10209_multirif",
+    "124-10264-10210_multirif"
+  ]
+}

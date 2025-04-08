@@ -1,0 +1,22 @@
+{
+  "entity_name": "DCI (Director of Central Intelligence)",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "The Director of Central Intelligence (DCI) is mentioned in the provided documents primarily in the context of meetings, activities, and the classification of sensitive information. One document details DCI's meetings and activities from April to July 1964, involving discussions with government officials, journalists, and foreign representatives on various topics, including Southeast Asia and Soviet policy. The DCI is also referenced in memoranda concerning the classification of document EX 3600, which is linked to Operation MHCHAOS and involves sensitive sources, methods, and FBI information. The documents suggest the DCI held a position with broad oversight and involvement in intelligence matters, including interactions with various stakeholders and decisions related to information security.",
+  "key_connections": [
+    "Government officials",
+    "Journalists",
+    "Foreign representatives",
+    "FBI",
+    "Operation MHCHAOS",
+    "P. Haefner",
+    "J.D. Lavery",
+    "A. Addona"
+  ],
+  "significance": "While the documents do not directly link the DCI to the JFK assassination, the DCI's role in overseeing intelligence operations and managing sensitive information, including Operation MHCHAOS, suggests a potential indirect connection. The DCI's activities and decisions during the relevant period (1964) could have influenced the broader intelligence landscape and potentially impacted investigations or information related to the assassination. Further research would be needed to establish any direct link.",
+  "document_ids": [
+    "104-10074-10347",
+    "104-10306-10011",
+    "104-10063-10434"
+  ]
+}

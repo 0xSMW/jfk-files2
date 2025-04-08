@@ -1,0 +1,20 @@
+{
+  "entity_name": "Kidnapping",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents reference 'Kidnapping' in the context of potential threats and planned activities. One document from 1962 mentions Vietnamese Communist (VC) plans for kidnappings targeting government and U.S. personnel in Saigon. Another document from 1967 details a potential kidnapping threat against the child of a CIA employee, Thomas Keogh, by the Communist Party of Venezuela. The third document does not directly relate to kidnapping but mentions CIA activities and investigations. The pattern across these documents suggests that kidnapping was a concern related to both communist activities in Vietnam and potential threats against U.S. personnel and their families in other countries.",
+  "key_connections": [
+    "Vietnamese Communist (VC)",
+    "Saigon",
+    "U.S. Personnel",
+    "Communist Party of Venezuela",
+    "Thomas Keogh",
+    "CIA"
+  ],
+  "significance": "While not directly linked to the JFK assassination in these documents, the references to kidnapping highlight the security concerns and threats faced by U.S. personnel and their families during the Cold War era, which provides context to the environment in which the assassination occurred.",
+  "document_ids": [
+    "176-10036-10087",
+    "124-10273-10104",
+    "124-10281-10028"
+  ]
+}

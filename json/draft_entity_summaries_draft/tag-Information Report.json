@@ -1,0 +1,23 @@
+{
+  "entity_name": "Information Report",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents reference various 'Information Reports' from entities like the CIA and IDCS. These reports cover a range of topics related to political and security matters. Specifically, they include information on a white paper being prepared on the Buddhist issue in South Vietnam, a proposed constitutional amendment to appoint Ngo Dinh Nhu as Prime Minister, a planned coup against President Diem, and a request for explosives by the Communist Party of El Salvador. The reports span from June 1963 to July 1964, indicating ongoing intelligence gathering and dissemination during this period. A notable pattern is the focus on political instability and potential threats in South Vietnam and Latin America.",
+  "key_connections": [
+    "Gene Gregory",
+    "Madame Ngo Dinh Nhu",
+    "Ngo Dinh Diem",
+    "Tran Thien Khiem",
+    "Nguyen Khanh",
+    "Duong Van Minh",
+    "Communist Party of El Salvador",
+    "Cuba"
+  ],
+  "significance": "In the context of the JFK assassination, these information reports provide insights into the political climate and intelligence activities leading up to and following the event. They highlight the US government's involvement in South Vietnam and its awareness of potential coups and political instability. While not directly related to the assassination itself, they offer valuable background information on the geopolitical landscape during that time.",
+  "document_ids": [
+    "176-10036-10104",
+    "176-10036-10139",
+    "176-10036-10142",
+    "104-10180-10044"
+  ]
+}

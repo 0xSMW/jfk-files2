@@ -1,0 +1,20 @@
+{
+  "entity_name": "AMLILAC",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "AMLILAC appears to be an operational code or project designator used by the CIA's JMWAVE station. The documents indicate that AMLILAC is associated with operational activities, specifically concerning the management and handling of agents and subjects. It is mentioned in the context of Memoranda of Oral Commitment (MOC) for Subject 201-332676, the activities of AMWORLD, and the termination of agent AMHINT-56. The documents span from 1964 to 1968, suggesting a period of active use for this operational designation.",
+  "key_connections": [
+    "JMWAVE",
+    "Subject 201-332676",
+    "AMWORLD",
+    "AMHINT-56",
+    "TIPEC"
+  ],
+  "significance": "AMLILAC's significance in the JFK assassination context is not explicitly stated in these documents. However, as an operational code used by JMWAVE, it could potentially be linked to individuals or operations that have relevance to the assassination. Further investigation into the specific activities conducted under the AMLILAC designation may reveal connections to individuals or events related to the JFK assassination.",
+  "document_ids": [
+    "104-10215-10149",
+    "104-10308-10086",
+    "104-10215-10145",
+    "104-10215-10153"
+  ]
+}

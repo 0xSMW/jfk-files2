@@ -1,0 +1,21 @@
+{
+  "entity_name": "201 Files",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "201 files are a type of record-keeping system used by the CIA to manage information on individuals. The documents indicate that the CIA maintained 201 files and had specific regulations (DOHB 70-1-1 and CSHB 43-1-1) governing their creation, maintenance, and handling of sensitive information. The House Select Committee on Assassinations (HSCA) requested information on the criteria for these files, leading to the CIA providing documentation outlining the regulations. The documents also reveal that the CIA was reviewing tapes, transcripts, and cables related to Lee Harvey Oswald's activities in Mexico City, which would have been stored in a 201 file, prior to the Kennedy assassination, indicating the importance of these files in tracking individuals of interest.",
+  "key_connections": [
+    "CIA",
+    "House Select Committee on Assassinations (HSCA)",
+    "Lee Harvey Oswald",
+    "Information Services Staff (ISS)",
+    "William F. Donnelly",
+    "Mexico City"
+  ],
+  "significance": "In the context of the JFK assassination, 201 files are significant because they represent a key component of the CIA's information management system for tracking individuals like Lee Harvey Oswald. The HSCA's inquiry into the criteria for these files suggests an interest in understanding how the CIA monitored individuals potentially connected to the assassination. The review of Oswald's activities in Mexico City, documented in memos and likely stored in a 201 file, highlights the potential for these files to contain critical information related to the events leading up to the assassination.",
+  "document_ids": [
+    "180-10143-10070",
+    "180-10145-10287",
+    "104-10213-10352",
+    "180-10143-10100"
+  ]
+}

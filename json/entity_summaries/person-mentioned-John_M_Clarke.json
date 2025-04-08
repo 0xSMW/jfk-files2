@@ -1,0 +1,21 @@
+{
+  "entity_name": "John M. Clarke",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Based on the provided documents, John M. Clarke is mentioned in the context of responses to Congressional committee requests, particularly those from the Senate Select Committee on Intelligence Activities (SSC). The documents relate to the FBI's responses to these requests, covering topics such as security clearances for Senate Select Committee staff, COINTELPRO, and other administrative matters. While the documents mention Clarke, they do not provide specific details about his role or involvement beyond being associated with the administrative processes related to Congressional inquiries and security clearances. The documents do not provide a timeline of involvement or specific actions taken by Clarke.",
+  "key_connections": [
+    "Senate Select Committee on Intelligence Activities",
+    "FBI",
+    "COINTELPRO"
+  ],
+  "significance": "The significance of John M. Clarke in the JFK context, based solely on these documents, appears to be related to administrative processes and responses to Congressional inquiries, particularly those from the Senate Select Committee on Intelligence Activities. The documents do not provide enough information to determine a direct connection to the JFK assassination itself, but rather to the investigations and oversight conducted by the Senate Select Committee on Intelligence Activities.",
+  "document_ids": [
+    "104-10224-10007",
+    "124-10185-10099 (c06716626)",
+    "124-10271-10299",
+    "124-10271-10003_multirif",
+    "124-10271-10011_multirif",
+    "124-10271-10299_multirif",
+    "124-10271-10003"
+  ]
+}

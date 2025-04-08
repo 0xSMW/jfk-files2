@@ -1,0 +1,27 @@
+{
+  "entity_name": "Duvalier",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "summary": "The documents mention \"Duvalier\" in the context of Haiti's political climate and U.S. relations during the 1960s and 1970s. The documents suggest that the U.S. government was monitoring the situation in Haiti under Duvalier's rule, including the withdrawal of a U.S. Cultural Attaché, communications involving Haitian government representatives, and the activities of Cuban intelligence representatives in Haiti. One document mentions that official circles in Haiti believed that JFK's assassination was plotted by a secret group, indicating the political atmosphere in Haiti following the event. Herbert Itkin was used as an informant on Haitian exiles. Manuel Artime's activities and contacts are also mentioned in relation to Haiti.",
+  "key_connections": [
+    "President Kennedy",
+    "Herbert Itkin",
+    "Manuel Artime",
+    "Cuban intelligence",
+    "Irving Davidson"
+  ],
+  "significance": "Duvalier's significance in the JFK assassination context is indirect. The documents suggest that the U.S. government was monitoring Haiti under Duvalier's rule, particularly in relation to Cuban intelligence activities and the political climate following JFK's assassination. There is no direct evidence linking Duvalier to the assassination itself, but the documents reflect the U.S. government's interest in the political situation in Haiti during this period.",
+  "document_ids": [
+    "135-10001-10246",
+    "144-10001-10114",
+    "124-10299-10043",
+    "104-10106-10325",
+    "104-10302-10000",
+    "144-10001-10095",
+    "157-10014-10117",
+    "104-10061-10053",
+    "104-10186-10088",
+    "157-10008-10238",
+    "104-10163-10087"
+  ]
+}

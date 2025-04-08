@@ -1,0 +1,23 @@
+{
+  "entity_name": "CIA Stations",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "CIA Stations are a focal point of concern within the JFK document release process due to the potential damage their identification could cause to national security and foreign relations. The CIA, particularly through its Deputy Director for Operations, strongly advised against the release of documents that explicitly name these stations, suggesting alternatives like regional designations. This concern stems from the risk of compromising relationships with host governments, jeopardizing ongoing operations, and exposing sensitive source identities. Specific locations like the Congo, Senegal, and various European and Eastern European countries are mentioned as particularly sensitive. The APROVIZION list further highlights the global presence of these stations, indicating their role in provisioning and supply networks across different geographic divisions.",
+  "key_connections": [
+    "JFK Assassination Records Review Board",
+    "David Cohen (Deputy Director for Operations)",
+    "LICRYPT",
+    "APROVIZION",
+    "Congo",
+    "Senegal",
+    "Europe",
+    "Eastern Europe"
+  ],
+  "significance": "In the JFK context, the identity of CIA stations is considered highly sensitive. The CIA feared that revealing these locations could compromise national security, damage foreign relations, and expose intelligence sources. The debate surrounding their disclosure was a significant aspect of the JFK document release process, highlighting the tension between transparency and the protection of intelligence operations.",
+  "document_ids": [
+    "104-10331-10080",
+    "104-10330-10026",
+    "104-10332-10020",
+    "104-10209-10164"
+  ]
+}

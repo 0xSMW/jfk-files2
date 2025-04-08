@@ -1,0 +1,23 @@
+{
+  "entity_name": "CIA Stations",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "CIA stations are referenced in the documents primarily in the context of the JFK Assassination Records Review Board (ARRB) and the potential release of classified information. The CIA, specifically through its Deputy Director for Operations, expressed concerns that releasing documents identifying specific CIA stations could damage national security and foreign relations. These concerns stemmed from the potential compromise of relationships with host governments, the disruption of ongoing operations, and the exposure of source identities. The CIA proposed alternatives, such as using regional designations instead of specific station names, to mitigate these risks. One document also lists locations associated with APROVIZION, a provisioning network, across various geographic divisions, which may indicate operational areas or stations.",
+  "key_connections": [
+    "JFK Assassination Records Review Board (ARRB)",
+    "David Cohen (Deputy Director for Operations)",
+    "LICRYPT",
+    "APROVIZION",
+    "Congo",
+    "Senegal",
+    "Europe",
+    "Eastern Europe"
+  ],
+  "significance": "In the JFK context, the significance of CIA stations lies in the debate over transparency versus national security. The CIA resisted the release of information that could identify these stations, arguing that doing so would compromise ongoing operations, relationships with foreign governments, and the safety of sources. This highlights the tension between the public's right to know and the government's need to protect sensitive intelligence operations.",
+  "document_ids": [
+    "104-10331-10080",
+    "104-10330-10026",
+    "104-10332-10020",
+    "104-10209-10164"
+  ]
+}

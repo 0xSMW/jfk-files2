@@ -1,0 +1,20 @@
+{
+  "entity_name": "OI Codes",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents provided describe the \"201 system\" used by the CIA's Operations Directorate for identifying, tracking, and managing information on individuals of interest. A key component of this system involves assigning unique identifiers, referred to as OI (Operations Interest) codes, to individuals. These codes are used to create and maintain dossiers, control and file information, and generate lists of these individuals based on various categories. The system outlines procedures for opening, maintaining, restricting, and cancelling these dossiers. The 201 system is a method for the CIA to systematically manage information on persons of interest.",
+  "key_connections": [
+    "CIA",
+    "Operations Directorate",
+    "201 System",
+    "Dossiers"
+  ],
+  "significance": "While the documents describe the general function of OI codes within the CIA's 201 system, they do not explicitly connect OI codes or the 201 system to the JFK assassination. The significance in the JFK context would depend on whether any individuals of interest related to the assassination were tracked using this system. Without further information linking specific individuals or dossiers to the JFK assassination, the direct relevance remains unclear.",
+  "document_ids": [
+    "104-10023-10087",
+    "104-10408-10316",
+    "104-10406-10139",
+    "104-10143-10088",
+    "104-10087-10054"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "entity_name": "Senator Tower",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Senator Tower was a member of the Senate Select Committee (SSC), also known as the Church Committee, which investigated intelligence activities in the 1970s. The documents indicate his involvement in briefings and hearings related to CIA activities, including warrantless electronic surveillances, surreptitious entries, and potential assassinations of foreign leaders. Specifically, he was to be briefed on warrantless electronic surveillances and surreptitious entries. The documents suggest that Senator Tower was involved in oversight of CIA activities during this period.",
+  "key_connections": [
+    "Senate Select Committee (Church Committee)",
+    "Senator Church",
+    "CIA",
+    "Richard M. Bissell"
+  ],
+  "significance": "Senator Tower's significance in the JFK context, based on these documents, lies in his role as a member of the Senate Select Committee investigating intelligence activities, including potential CIA misconduct. While the documents do not directly link him to the JFK assassination, his involvement in investigating CIA activities during the 1970s is relevant to understanding the broader context of scrutiny and oversight of intelligence agencies during that time.",
+  "document_ids": [
+    "157-10014-10125",
+    "124-10274-10029",
+    "157-10011-10018"
+  ]
+}

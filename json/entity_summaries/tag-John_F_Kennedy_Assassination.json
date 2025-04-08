@@ -1,0 +1,21 @@
+{
+  "entity_name": "John F. Kennedy Assassination",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The John F. Kennedy Assassination is a central topic in these documents, which span from 1964 to 1996. The documents reflect investigations and inquiries into the assassination, including those by the House Select Committee on Assassinations (HSCA) and the Assassination Records Review Board (ARRB). The documents include FBI communications related to the HSCA investigation, CIA responses to the ARRB, notifications regarding military cover backstops, and interviews concerning potential involvement of individuals like E. Howard Hunt. The documents highlight the ongoing efforts to investigate the circumstances surrounding the assassination and address various allegations and leads.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board (ARRB)",
+    "FBI",
+    "CIA",
+    "E. Howard Hunt",
+    "David F. Christ"
+  ],
+  "significance": "The John F. Kennedy Assassination is of paramount significance as a historical event that prompted numerous investigations and continues to be a subject of public interest and scrutiny. The documents reflect the efforts of various government agencies and committees to uncover the truth behind the assassination and address related allegations and potential conspiracies.",
+  "document_ids": [
+    "124-10180-10324_multirif",
+    "104-10330-10133",
+    "104-10111-10086",
+    "135-10001-10243"
+  ]
+}

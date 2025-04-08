@@ -1,0 +1,40 @@
+{
+  "entity_name": "James Earl Ray",
+  "entity_type": "person-mentioned",
+  "document_count": 23,
+  "summary": "James Earl Ray is identified as the accused assassin in the assassination of Martin Luther King Jr. The documents detail efforts to identify and track Ray, including requests for identikit composites, fingerprint formulas, and information on his aliases and whereabouts. The FBI and CIA were involved in gathering information on Ray, often in response to requests from the House Select Committee on Assassinations (HSCA). The HSCA investigated potential leads related to Ray in various countries, including Portugal, the UK, and Mexico. The documents also reveal the sharing of Ray's physical characteristics, criminal history, and mental health history with international liaisons. The CIA's involvement was primarily at the request of the FBI, focusing on gathering information through overseas liaison services. The documents span from April 1968, immediately following King's assassination, to 1978, during the HSCA investigation.",
+  "key_connections": [
+    "Martin Luther King Jr.",
+    "House Select Committee on Assassinations (HSCA)",
+    "FBI",
+    "CIA",
+    "Richard Ober",
+    "Arthur J. Hanes"
+  ],
+  "significance": "James Earl Ray is significant as the individual identified and pursued as the assassin of Martin Luther King Jr. While the documents primarily focus on the King assassination, some documents also mention the HSCA's investigation into the assassination of President John F. Kennedy, suggesting a broader scope of inquiry that included Ray's potential connections or involvement in other events. The documents highlight the extensive efforts by U.S. intelligence and law enforcement agencies to identify, locate, and apprehend Ray following King's assassination.",
+  "document_ids": [
+    "124-10180-10324_multirif",
+    "124-10180-10320_multirif",
+    "104-10066-10010",
+    "104-10178-10112",
+    "104-10147-10304",
+    "124-10180-10323_multirif",
+    "104-10178-10124",
+    "104-10071-10405",
+    "104-10433-10167",
+    "104-10071-10404",
+    "104-10433-10081",
+    "124-10180-10236_multirif",
+    "104-10071-10407",
+    "104-10431-10102",
+    "180-10143-10222",
+    "104-10322-10056",
+    "104-10178-10120",
+    "104-10079-10016",
+    "104-10012-10035",
+    "104-10079-10163",
+    "104-10079-10231",
+    "124-10180-10325_multirif",
+    "104-10178-10130"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "entity_name": "IDEN B",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "IDEN B appears in several CIA documents related to various operations and individuals. In one instance, IDEN B is connected to Jose Artecona's request for miniature cameras to be transmitted to PBRUMEN through a channel involving IDEN B and a \"diplomatic pouch,\" which was allegedly used to transmit small arms. Another document mentions an individual ('DESIGNET') traveling on business for IDEN B, with plans to visit Switzerland and return to PERUMEN before a debriefing/briefing. IDEN B is also mentioned in a report on the activities of AMWORLD, based on information obtained from former members IDEN A and IDEN B. The documents suggest IDEN B is involved in covert activities, potentially related to intelligence operations and the movement of materials or personnel.",
+  "key_connections": [
+    "Jose Artecona",
+    "PBRUMEN",
+    "DESIGNET",
+    "IDEN A",
+    "AMWORLD"
+  ],
+  "significance": "The significance of IDEN B in the JFK context is not explicitly stated in the provided documents. However, their involvement in covert activities and connections to individuals and operations of interest to the CIA suggests they may have indirect relevance to the broader context of the JFK assassination, particularly if these operations intersect with individuals or events related to the assassination.",
+  "document_ids": [
+    "104-10170-10036",
+    "104-10528-10052",
+    "104-10183-10043",
+    "104-10216-10002",
+    "104-10308-10086"
+  ]
+}

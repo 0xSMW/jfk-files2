@@ -1,0 +1,34 @@
+{
+  "entity_name": "Senate Select Committee on Intelligence",
+  "entity_type": "tag",
+  "document_count": 13,
+  "summary": "The Senate Select Committee on Intelligence (SSCI) is a key entity involved in overseeing the CIA and other intelligence agencies. The documents indicate that the SSCI engaged with the CIA on matters ranging from access to information on the Lee Harvey Oswald case and the JFK assassination to broader inquiries into counterintelligence programs. The SSCI's interactions with the CIA involved balancing transparency with the protection of sensitive sources and methods. The committee also reviewed Office of Security files and engaged in discussions regarding the release of information to the public. The Office of Legislative Counsel served as a liaison between the CIA and the SSCI, managing information requests, arranging meetings, and ensuring appropriate access to materials. The SSCI's involvement spans from the mid-1970s to the early 1990s, reflecting ongoing oversight of intelligence activities.",
+  "key_connections": [
+    "CIA",
+    "Office of Legislative Counsel",
+    "House Select Committee on Assassinations",
+    "Lee Harvey Oswald",
+    "FBI",
+    "Department of Defense",
+    "Department of State",
+    "Paul Wallach",
+    "George de Mohrenschildt",
+    "Willem Oltmans"
+  ],
+  "significance": "The Senate Select Committee on Intelligence played a role in overseeing the CIA's handling of information related to the JFK assassination, particularly concerning access to Lee Harvey Oswald case files. Their involvement highlights the tension between transparency and the need to protect sensitive intelligence sources and methods. The committee's inquiries into counterintelligence programs also indirectly relate to the JFK context, as they reflect broader concerns about the integrity and oversight of intelligence activities during that era.",
+  "document_ids": [
+    "104-10145-10047",
+    "104-10066-10031",
+    "104-10126-10253",
+    "104-10146-10308",
+    "104-10147-10301",
+    "104-10422-10057",
+    "104-10142-10317",
+    "104-10096-10048",
+    "104-10142-10279",
+    "124-10185-10214",
+    "104-10140-10101",
+    "104-10310-10118",
+    "104-10147-10202"
+  ]
+}

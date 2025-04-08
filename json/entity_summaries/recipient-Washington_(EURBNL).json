@@ -1,0 +1,19 @@
+{
+  "entity_name": "Washington (EUR/BNL)",
+  "entity_type": "recipient",
+  "document_count": 3,
+  "summary": "The documents suggest that 'Washington (EUR/BNL)' was a recipient of intelligence reports from Brussels concerning the 'Flemish Order of Militants' (VMO). The documents indicate that Washington sought information about the VMO, specifically regarding any connections between the VMO and American citizens between 1968 and 1970, possibly in relation to the House Select Committee on Assassinations (HSCA) investigation into the JFK assassination. However, NITRUST, a potential liaison contact, was reluctant to share information due to Freedom of Information Act (FOIA) concerns and potential leaks. Ultimately, NIGALE declined to prepare a report for the House of Representatives Committee due to a lack of information on VMO-American citizen contacts during the specified period.",
+  "key_connections": [
+    "Flemish Order of Militants (VMO)",
+    "NITRUST",
+    "NIGALE",
+    "House Committee on Assassinations",
+    "Brussels"
+  ],
+  "significance": "Washington (EUR/BNL)'s significance in the JFK context lies in its apparent interest in investigating potential connections between the Flemish Order of Militants (VMO) and American citizens, possibly as part of the House Select Committee on Assassinations' broader investigation. The documents suggest an attempt to gather information that could potentially link foreign militant groups to events surrounding the assassination, although the effort appears to have been hampered by a lack of information and concerns about information security.",
+  "document_ids": [
+    "104-10065-10360",
+    "104-10066-10240",
+    "104-10066-10238"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "entity_name": "Assassination Records Review Board",
+  "entity_type": "sender",
+  "document_count": 14,
+  "summary": "The Assassination Records Review Board (ARRB) is an entity responsible for reviewing and determining the release of assassination-related records, particularly those pertaining to the assassination of President John F. Kennedy. A significant portion of their work, as evidenced by the documents, involves reviewing HSCA (House Select Committee on Assassinations) staff payroll records. The ARRB frequently issues Final Determination Notifications regarding the postponement of releasing specific information, most notably Social Security numbers, from these payroll records to protect personal privacy. These notifications often include the payroll records themselves, payroll authorization forms, resumes, and related correspondence. The ARRB's activities are documented primarily around 1995, with notifications issued on December 8, 1995, and a future review date mentioned for 2017. The ARRB also compiled biographies of its members, detailing their qualifications and experience.",
+  "key_connections": [
+    "HSCA (House Select Committee on Assassinations)",
+    "Michael C. Eberhardt",
+    "Jacqueline Hess",
+    "Sheryl Lynn Bonifer",
+    "Nancy S. Jenkins",
+    "S. Jonathan Blackmer",
+    "Elizabeth K. Selleck",
+    "Billie Gay Larson",
+    "Marlin Risinger III",
+    "Carolyn Hansen Amato"
+  ],
+  "significance": "The Assassination Records Review Board plays a crucial role in the JFK assassination context by ensuring transparency and access to historical records while balancing privacy concerns. Their work involves reviewing sensitive documents and making determinations about what information can be released to the public, contributing to the ongoing effort to understand the events surrounding the assassination.",
+  "document_ids": [
+    "180-10068-10339",
+    "180-10060-10440",
+    "180-10060-10447",
+    "180-10068-10352",
+    "180-10068-10313",
+    "180-10060-10450",
+    "180-10068-10310",
+    "180-10060-10472",
+    "180-10070-10154",
+    "104-10333-10001",
+    "180-10060-10463",
+    "180-10070-10145",
+    "180-10068-10336",
+    "180-10068-10300"
+  ]
+}

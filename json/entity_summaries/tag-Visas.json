@@ -1,0 +1,24 @@
+{
+  "entity_name": "Visas",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents highlight the significance of visas in various contexts, including Lee Harvey Oswald's attempts to secure visas to Cuba and the Soviet Union in Mexico City prior to the JFK assassination. These attempts involved interactions with Cuban and Soviet officials. Visas also feature in the context of granting authorization to the AMLASH family and facilitating the travel of Communist nationals to Latin America. Additionally, visas were expedited for the family of FM asset Alejandro Arencibia. The documents suggest that visa authorizations and travel routes were monitored, especially concerning individuals of interest to national security.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Cuba",
+    "Soviet Union",
+    "AMLASH Family",
+    "Communist Nationals",
+    "Alejandro Arencibia",
+    "Cuban Officials",
+    "Soviet Officials",
+    "State Department"
+  ],
+  "significance": "In the JFK assassination context, visas are significant due to Lee Harvey Oswald's attempts to obtain them to Cuba and the Soviet Union, raising questions about his motives and potential connections with foreign entities. The monitoring of visa authorizations and travel routes of individuals of interest also underscores the importance of visa control in national security matters.",
+  "document_ids": [
+    "104-10535-10001",
+    "104-10216-10000",
+    "124-90074-10051",
+    "104-10077-10136"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "entity_name": "Sworn Statement",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents reference sworn statements in the context of investigations and information gathering. Victor Lee Trinkala provided a sworn statement on February 19, 1970, to the 108th MI Group, discussing his discharge from the Army and his limited association with Richard Nagell. This statement was part of an inquiry into Trinkala's character and loyalty, as indicated by an agent report from the same date. Another sworn statement, dated October 3, 1982, involves Henry D. Glaister authorizing the release of an agent report about Joseph Timothy White to White's father. The sworn statements appear to be tools used to gather information and authorize the release of sensitive documents during investigations.",
+  "key_connections": [
+    "Victor Lee Trinkala",
+    "Richard Nagell",
+    "108th MI Group",
+    "Henry D. Glaister",
+    "Joseph Timothy White",
+    "Norval White Jr."
+  ],
+  "significance": "Sworn statements are used as a formal method of gathering information and documenting testimonies during investigations related to the JFK assassination. They provide a record of individuals' accounts and can be used to assess their credibility and connections to relevant events or persons.",
+  "document_ids": [
+    "194-10007-10425",
+    "194-10007-10424",
+    "194-10013-10141"
+  ]
+}

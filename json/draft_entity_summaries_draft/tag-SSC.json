@@ -1,0 +1,23 @@
+{
+  "entity_name": "SSC",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The Senate Select Committee (SSC), also known as the Church Committee, was a Senate committee established in 1975 to investigate intelligence activities of the United States government. The documents indicate the SSC was actively investigating the CIA and FBI, including projects like ZRRIFLE and questionable activities involving both agencies. The SSC requested information, received briefings, and prepared a final report. The documents highlight the SSC's focus on CIA covert intelligence sites, National Intelligence Estimates, and specific instances of CIA activities. The committee's work involved reviewing sensitive sources and documents, and addressing concerns raised by the White House regarding the scope of their investigations.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "Project ZRRIFLE",
+    "Walter Mondale",
+    "Marta FRAYDE",
+    "Cuban Embassy in Paris",
+    "National Intelligence Estimates"
+  ],
+  "significance": "While the documents provided do not directly link the SSC to the JFK assassination, the SSC's investigation into the CIA and FBI's activities could potentially uncover information relevant to the assassination, depending on the scope and findings of their inquiries into these agencies.",
+  "document_ids": [
+    "124-10274-10001",
+    "104-10310-10014",
+    "104-10102-10043",
+    "124-10271-10303",
+    "124-10273-10053"
+  ]
+}

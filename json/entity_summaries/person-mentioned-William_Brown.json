@@ -1,0 +1,19 @@
+{
+  "entity_name": "William Brown",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "William Brown was an employee of the House Select Committee on Assassinations (HSCA) during its investigation into the assassination of President John F. Kennedy. He is mentioned in several payroll certifications and related documents from 1977 and 1978. These documents detail his employment, payroll authorization, and salary as part of the HSCA staff. There is no indication from the provided documents that he was directly involved in the JFK assassination or had any prior connection to Lee Harvey Oswald or related events. His role appears to be administrative, related to the functioning of the HSCA.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "William Brown's significance lies in his role as a staff member of the HSCA, contributing to the administrative functions of the committee during its investigation into the JFK assassination. The documents reflect his employment and payroll details, providing insight into the operational aspects of the HSCA.",
+  "document_ids": [
+    "180-10068-10318",
+    "180-10125-10096",
+    "180-10106-10008",
+    "180-10125-10086",
+    "180-10106-10011",
+    "180-10125-10172",
+    "180-10125-10094"
+  ]
+}

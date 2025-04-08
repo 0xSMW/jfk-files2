@@ -1,0 +1,26 @@
+{
+  "entity_name": "Interrogation",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents highlight interrogation as a method used by various intelligence agencies and organizations. Yuri Nosenko's case involves extensive assessments, including psychological testing and psychiatric evaluations, to determine his truthfulness as a KGB defector. Interrogations were also conducted on defectors like \"SAMMY\" by the FBI to compare information with CIA analyses. In Cuba, AMFAUNA-14 was debriefed after being detained and interrogated by the DSE, revealing information about her contacts and activities. Furthermore, plans in San Salvador involved arresting and attempting to recruit individuals through interrogation for joint operations. While not directly related to the JFK assassination in these documents, interrogation serves as a crucial tool for gathering intelligence and assessing the credibility of individuals involved in espionage and related activities.",
+  "key_connections": [
+    "Yuri Nosenko",
+    "KGB",
+    "FBI",
+    "CIA",
+    "AMFAUNA-14",
+    "DSE (Cuba)",
+    "José Rehberto Carrillo Calderón",
+    "Alejandro Gonez Montano",
+    "Cuban Embassy (Mexico City)",
+    "Fuerzas Armadas Rebeldes (FAR)"
+  ],
+  "significance": "While the documents do not directly link interrogation to the JFK assassination, they illustrate its importance as an intelligence-gathering method. The interrogation of individuals like Yuri Nosenko, a defector with potential knowledge of Soviet activities, could indirectly relate to the broader context of the Cold War and potential foreign involvement in events surrounding the assassination.",
+  "document_ids": [
+    "104-10211-10001",
+    "124-10365-10020",
+    "104-10073-10101",
+    "104-10186-10021",
+    "104-10071-10257"
+  ]
+}

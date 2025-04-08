@@ -1,0 +1,20 @@
+{
+  "entity_name": "DOS",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The Department of State (DOS) is a key entity appearing in these documents, primarily in its role of receiving and disseminating information related to international affairs and security. The documents highlight DOS's involvement in matters ranging from assessing the political and military situation in Southeast Asia in 1962 to addressing allegations of CIA involvement in the Cubana airliner bombing in 1976. DOS also receives intelligence from the CIA, as seen in the memo regarding Henryk Ignacy Janikowski in 1963. The documents suggest that DOS serves as a central hub for information gathering, analysis, and policy formulation related to international events and potential threats.",
+  "key_connections": [
+    "CIA",
+    "Fidel Castro",
+    "Cubana Airliner Bombing",
+    "Southeast Asia",
+    "Henryk Ignacy Janikowski",
+    "Luis Posada Carriles"
+  ],
+  "significance": "In the context of these documents, DOS's significance lies in its role as a recipient of intelligence and a key player in shaping foreign policy. While the documents do not directly relate to the JFK assassination, they illustrate DOS's broader involvement in international affairs and its interactions with other agencies like the CIA. The documents show DOS's involvement in monitoring potential threats and responding to international incidents, which provides a glimpse into the operational landscape within which the JFK assassination occurred.",
+  "document_ids": [
+    "124-10218-10058",
+    "124-90137-10357",
+    "176-10036-10179"
+  ]
+}

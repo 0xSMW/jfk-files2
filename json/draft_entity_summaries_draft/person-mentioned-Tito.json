@@ -1,0 +1,20 @@
+{
+  "entity_name": "Tito",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Based on the provided documents, Tito appears as a figure in the context of global political situations during the Cold War era. He is mentioned in a world brief summarizing political and military situations across the globe in December 1963, placing him in the context of Yugoslavia's political landscape at that time. Additionally, a 1997 cable discusses Nikola Kavaja, a Yugoslavian émigré with a history of anti-communist activities, which indirectly connects Tito to anti-communist sentiments and activities stemming from Yugoslavia. The documents do not directly link Tito to the JFK assassination, but rather position him within the broader scope of international relations and political tensions during the period relevant to the assassination and its aftermath.",
+  "key_connections": [
+    "Yugoslavia",
+    "Nikola Kavaja",
+    "Cold War",
+    "Anti-communism"
+  ],
+  "significance": "The documents provided do not indicate any direct significance of Tito in the JFK assassination context. His mention is primarily within the scope of broader geopolitical situations and anti-communist activities related to Yugoslavia during the Cold War.",
+  "document_ids": [
+    "104-10306-10018",
+    "104-10290-10190",
+    "104-10225-10030",
+    "104-10326-10022",
+    "104-10174-10071"
+  ]
+}

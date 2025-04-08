@@ -1,0 +1,20 @@
+{
+  "entity_name": "DCI (Director of Central Intelligence)",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "The Director of Central Intelligence (DCI) is the head of the Central Intelligence Agency (CIA) and is responsible for overseeing and coordinating intelligence activities across the U.S. government. The documents provided mention the DCI in the context of meetings and activities in 1964, indicating involvement in discussions with government officials, journalists, and foreign representatives on various topics, including Southeast Asia and Soviet policy. Additionally, the DCI's office is involved in the classification of documents related to sensitive operations like MHCHAOS, highlighting the DCI's role in managing classified information and protecting sensitive sources and methods. The documents do not directly link the DCI to the JFK assassination, but they illustrate the DCI's broad responsibilities in intelligence gathering, analysis, and dissemination during the relevant time period.",
+  "key_connections": [
+    "CIA",
+    "Government officials",
+    "Journalists",
+    "Foreign representatives",
+    "Operation MHCHAOS",
+    "FBI"
+  ],
+  "significance": "While the provided documents do not directly implicate the DCI in the JFK assassination, they demonstrate the DCI's central role in intelligence matters during the period surrounding the assassination. The DCI's involvement in discussions on Southeast Asia and Soviet policy, as well as the management of sensitive operations like MHCHAOS, underscores the DCI's position as a key figure in the U.S. intelligence community at the time.",
+  "document_ids": [
+    "104-10074-10347",
+    "104-10306-10011",
+    "104-10063-10434"
+  ]
+}

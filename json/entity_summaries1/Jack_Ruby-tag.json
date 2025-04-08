@@ -1,0 +1,19 @@
+{
+  "entity_name": "Jack Ruby",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Jack Ruby is identified as the individual who killed Lee Harvey Oswald. The Warren Commission concluded that Ruby acted alone, possibly due to personal motivation and mental instability. CIA officials met with the Warren Commission to discuss information on Jack Ruby. One document mentions Samuel Ruby, who sent his tax returns and a letter to the HSCA. The documents suggest Ruby's actions were a significant part of the Warren Commission's investigation into the assassination of President Kennedy.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Warren Commission",
+    "Samuel Ruby"
+  ],
+  "significance": "Jack Ruby's killing of Lee Harvey Oswald is significant because it occurred shortly after President Kennedy's assassination and led to further investigation and speculation about the events surrounding Kennedy's death. His actions were a focal point of the Warren Commission's inquiry.",
+  "document_ids": [
+    "144-10001-10122",
+    "144-10001-10102",
+    "180-10073-10093",
+    "135-10001-10283",
+    "157-10004-10144"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "entity_name": "Humphrey",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, \"Humphrey\" refers to Senator Hubert Humphrey. He is mentioned in connection with a request made to Polish officials in December 1963, along with Senator Romney, to consider naming a hospital in Krakow in honor of President John F. Kennedy. The documents also mention him in the context of notes for Mr. McCone, specifically regarding recommendations on improving standing in Congress. While the documents do not directly link Humphrey to the JFK assassination itself, his involvement in honoring Kennedy posthumously and his role in congressional matters during that period are noted.",
+  "key_connections": [
+    "John F. Kennedy",
+    "Senator Romney",
+    "Mr. McCone",
+    "Polish Officials"
+  ],
+  "significance": "Humphrey's significance in the JFK context, based on these documents, lies in his role as a U.S. Senator who participated in efforts to honor President Kennedy after his assassination. He was also involved in congressional matters during the period, as indicated by the notes for Mr. McCone. The documents do not suggest any direct involvement in the assassination itself.",
+  "document_ids": [
+    "144-10001-10372",
+    "104-10306-10007",
+    "144-10001-10086",
+    "104-10122-10291"
+  ]
+}

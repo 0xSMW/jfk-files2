@@ -1,0 +1,30 @@
+{
+  "entity_name": "Intelligence Collection",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "Intelligence collection, as a theme across these documents, refers to the activities and methods used by intelligence agencies like the CIA and FBI to gather information. These activities range from monitoring individuals and groups to assessing foreign intelligence capabilities and managing assets for information gathering. The documents highlight various aspects of intelligence collection, including the protection of methods, the assessment of foreign intelligence operations within the US, training of personnel in intelligence gathering, and the use of exiles for intelligence purposes. The timeline spans from the early 1960s to the late 1990s, showcasing the ongoing nature of these activities. A notable pattern is the concern for protecting intelligence sources and methods, as well as the continuous effort to gather information on individuals and groups of interest.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Lee Harvey Oswald",
+    "Warren Commission",
+    "PBRUMEN",
+    "Cuban exiles",
+    "Miami Station",
+    "Assassination Records Review Board",
+    "House Select Committee on Assassinations",
+    "James Angleton",
+    "Israel",
+    "Soviet Union"
+  ],
+  "significance": "In the context of the JFK assassination, intelligence collection is significant as it relates to the monitoring of individuals like Lee Harvey Oswald, the assessment of potential threats, and the gathering of information relevant to the investigation. The documents reveal the CIA's and FBI's involvement in collecting intelligence on Oswald before and after the assassination, as well as their interactions with investigative bodies like the Warren Commission. The protection of intelligence methods is also a recurring theme, suggesting a concern for maintaining operational secrecy even in the context of the assassination investigation.",
+  "document_ids": [
+    "104-10330-10118",
+    "124-10276-10400",
+    "104-10215-10146",
+    "135-10001-10283",
+    "104-10229-10097",
+    "178-10004-10416",
+    "104-10165-10077"
+  ]
+}

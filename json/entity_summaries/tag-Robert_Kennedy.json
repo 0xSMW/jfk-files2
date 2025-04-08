@@ -1,0 +1,28 @@
+{
+  "entity_name": "Robert Kennedy",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "Robert Kennedy, the Attorney General during President John F. Kennedy's administration and later a U.S. Senator, appears in these documents primarily in the context of the JFK assassination and related investigations. He is mentioned in connection to potential plots against President Kennedy, discussions of the impact of JFK's death on US policy, and investigations into the assassination itself, including District Attorney Jim Garrison's probe. Some documents highlight his role as a potential successor to his brother in the 1964 presidential campaign. Additionally, there are references to his relationship with individuals involved in organized crime, such as Sam Mannarino and Sam Giancana, and concerns about their influence on his actions as Attorney General. The documents span from 1961 to 1976, reflecting his involvement both during and after his brother's presidency.",
+  "key_connections": [
+    "John F. Kennedy",
+    "Jim Garrison",
+    "Sam Mannarino",
+    "Sam Giancana",
+    "Fidel Castro",
+    "Lyndon B. Johnson"
+  ],
+  "significance": "Robert Kennedy's significance in the JFK context lies in his role as Attorney General, his potential as a successor to his brother, and his involvement in investigations related to the assassination. The documents suggest concerns about his relationship with organized crime figures and the potential impact of JFK's death on his political career. His name also surfaces in discussions about covert operations against Cuba and potential assassination plots against Fidel Castro, indicating his involvement in sensitive national security matters during his brother's administration.",
+  "document_ids": [
+    "157-10014-10017",
+    "104-10012-10076",
+    "144-10001-10270",
+    "144-10001-10102",
+    "176-10030-10168",
+    "157-10011-10008",
+    "124-10203-10489",
+    "124-10280-10030",
+    "144-10001-10054",
+    "178-10002-10279",
+    "124-10203-10246"
+  ]
+}

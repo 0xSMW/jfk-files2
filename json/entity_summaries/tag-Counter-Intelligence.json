@@ -1,0 +1,34 @@
+{
+  "entity_name": "Counter-Intelligence",
+  "entity_type": "tag",
+  "document_count": 14,
+  "summary": "The documents highlight counter-intelligence activities primarily in the context of identifying and mitigating potential threats to U.S. military personnel and installations, as well as investigating potential espionage or subversive activities. Several agent reports detail incidents in Datteln, Germany, involving an individual known as 'John the Dee Jay' who displayed unusual knowledge of military matters, prompting counter-intelligence investigations. Other documents discuss counter-intelligence efforts related to Cuban activities, including the AMBRUSH organization and allegations of Cuban intelligence penetration into U.S. agencies. The documents also touch upon CIA's domestic activities review, focusing on the counter-intelligence staff's role in handling information related to Americans and foreign intelligence contacts. Overall, the documents illustrate the diverse range of counter-intelligence operations, from local security incidents to broader efforts to counter foreign intelligence threats.",
+  "key_connections": [
+    "John the Dee Jay",
+    "AMBRUSH organization",
+    "Nicky Szulc",
+    "Philip Agee",
+    "John Stein",
+    "Directorate of the Service of Intelligence and Prevention (DISIP)",
+    "Cuban Intelligence",
+    "Soviet Embassy",
+    "Cuban Embassy"
+  ],
+  "significance": "In the context of the JFK assassination, counter-intelligence is relevant as it relates to the monitoring of potential threats, including foreign intelligence activities and subversive elements. The documents suggest a focus on Cuban and Soviet activities, which were areas of concern during the Cold War and the time of the assassination. The mention of Lee Harvey Oswald's visits to the Soviet and Cuban embassies in Mexico City, along with the interview of David Atlee Phillips regarding CIA activities in Mexico, indicates the importance of counter-intelligence in understanding potential foreign involvement or influence related to Oswald and the assassination.",
+  "document_ids": [
+    "194-10006-10311",
+    "180-10110-10100",
+    "124-90158-10062",
+    "194-10006-10316",
+    "194-10006-10317",
+    "194-10006-10318",
+    "178-10004-10396",
+    "104-10308-10044",
+    "194-10006-10315",
+    "104-10103-10357",
+    "194-10006-10312",
+    "135-10001-10287",
+    "104-10171-10047",
+    "194-10006-10313"
+  ]
+}

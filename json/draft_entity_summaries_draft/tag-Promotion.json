@@ -1,0 +1,32 @@
+{
+  "entity_name": "Promotion",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "The documents provided relate to the career progression of various CIA employees, with a focus on personnel actions such as promotions, reassignments, performance evaluations, and retirements. These documents detail the professional trajectories of individuals like Calvin W. Hicks, James S. Woods, David A. Phillips, Joseph S. Piccolo, Charlotte Bustos-Videla, Guy Vitale, Ross L. Crozier, Lee H. Wigren, and Herman E. Kimsey. The documents outline the processes and justifications for promotions, often highlighting exceptional performance and contributions to the CIA. The timeline spans from the 1950s to the 1980s, showcasing the career paths of these individuals within the agency. A notable pattern is the inclusion of personnel action forms, memoranda, and performance evaluations as key components in documenting promotion decisions.",
+  "key_connections": [
+    "Calvin W. Hicks",
+    "James S. Woods",
+    "David A. Phillips",
+    "Joseph S. Piccolo",
+    "Charlotte Bustos-Videla",
+    "Guy Vitale",
+    "Ross L. Crozier",
+    "Lee H. Wigren",
+    "Herman E. Kimsey",
+    "CIA",
+    "Directorate of Operations Records Review Task Force",
+    "Association of Retired Intelligence Officers"
+  ],
+  "significance": "In the context of JFK assassination research, the 'Promotion' tag highlights documents related to the career progression of CIA personnel. While the documents themselves do not directly mention the JFK assassination, they provide insight into the backgrounds, roles, and performance of CIA employees who may have been involved in events related to the assassination. Understanding the career trajectories and performance evaluations of these individuals could potentially reveal connections or motivations relevant to the JFK assassination.",
+  "document_ids": [
+    "104-10193-10077",
+    "104-10291-10004",
+    "104-10194-10026",
+    "104-10225-10003",
+    "104-10222-10042",
+    "104-10194-10017",
+    "104-10215-10246",
+    "104-10224-10012",
+    "104-10224-10004"
+  ]
+}

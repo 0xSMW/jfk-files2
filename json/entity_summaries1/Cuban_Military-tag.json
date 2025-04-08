@@ -1,0 +1,23 @@
+{
+  "entity_name": "Cuban Military",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The Cuban Military is referenced in several documents, primarily within the context of intelligence gathering during the 1960s. These documents highlight various activities, including tracked tank movements, ship arrivals from the USSR, and the fleeing of naval officers. One report mentions the alert status of the First Army in Cuba following President Kennedy's assassination. Jose Fernandez, a high-ranking Cuban military officer, is also mentioned in relation to army training and defense preparations. The NSA's involvement in analyzing documents related to Cuban military alerts after the assassination is also noted, indicating a focus on potential reactions or implications following Kennedy's death.",
+  "key_connections": [
+    "JAGUAR group",
+    "USSR",
+    "Jose Fernandez",
+    "Castro regime",
+    "NSA",
+    "Warren Commission",
+    "Senate Select Committee",
+    "President Kennedy"
+  ],
+  "significance": "The Cuban Military's significance in the JFK assassination context lies in the potential for understanding the reactions and implications within Cuba following Kennedy's death. The alert status of the Cuban military and the NSA's analysis of related documents suggest an effort to assess any potential threats or responses from Cuba in the aftermath of the assassination. The documents also highlight the ongoing intelligence gathering efforts focused on Cuban military activities during this period.",
+  "document_ids": [
+    "104-10308-10168",
+    "144-10001-10171",
+    "104-10185-10117",
+    "144-10001-10195"
+  ]
+}

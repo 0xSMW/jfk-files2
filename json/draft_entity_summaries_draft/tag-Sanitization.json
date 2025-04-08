@@ -1,0 +1,23 @@
+{
+  "entity_name": "Sanitization",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Sanitization, in the context of the JFK assassination records, refers to the process of redacting or removing sensitive information from documents before their release to the public. This process is mentioned in several documents related to the CIA's review of JFK assassination records, meetings with the Assassination Records Review Board (ARRB), and responses to FOIA requests. The CIA balanced transparency with the need to protect sensitive sources, methods, and foreign relations. The ARRB played a role in decisions regarding sanitized releases. The documents indicate that sanitization was a recurring issue in the release of JFK assassination-related documents, reflecting the tension between public access and national security concerns.",
+  "key_connections": [
+    "CIA",
+    "Assassination Records Review Board (ARRB)",
+    "John W. Donovan",
+    "Senate Select Committee on Intelligence",
+    "Lee Harvey Oswald",
+    "FOIA",
+    "JFK Assassination Records"
+  ],
+  "significance": "Sanitization is significant because it highlights the challenges and complexities involved in releasing classified information related to the JFK assassination. It represents the government's attempt to balance transparency and public access with the need to protect national security interests, intelligence sources and methods, and potentially sensitive foreign relations. The process and decisions surrounding sanitization were subject to scrutiny and negotiation with oversight bodies like the ARRB and the Senate Select Committee on Intelligence.",
+  "document_ids": [
+    "104-10333-10008",
+    "104-10061-10386",
+    "104-10331-10166",
+    "104-10422-10057",
+    "104-10310-10118"
+  ]
+}

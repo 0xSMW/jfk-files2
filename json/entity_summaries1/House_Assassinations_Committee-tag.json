@@ -1,0 +1,18 @@
+{
+  "entity_name": "House Assassinations Committee",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The House Assassinations Committee was a U.S. Congressional committee that investigated the assassination of President John F. Kennedy. The documents indicate the committee's active role in querying the NSA for information related to the assassination. Specifically, they sought information regarding potential Cuban involvement, as well as any relevant communications intercepts. The NSA responded to these queries by searching for and providing information related to Cuban intelligence activities and reactions to the JFK assassination, as well as any potential leads from other sources, such as a reported intercept from Kirknewton, Scotland. The documents span from 1978 to 1979, indicating the period of the committee's active investigation and information gathering from the NSA.",
+  "key_connections": [
+    "NSA",
+    "John F. Kennedy",
+    "Cuban intelligence",
+    "Kirknewton, Scotland (USA-55)"
+  ],
+  "significance": "The House Assassinations Committee played a crucial role in investigating potential conspiracies and foreign involvement in the JFK assassination. Their inquiries to agencies like the NSA highlight the committee's efforts to uncover any hidden information or overlooked leads related to the event.",
+  "document_ids": [
+    "144-10001-10162",
+    "144-10001-10191",
+    "144-10001-10136"
+  ]
+}

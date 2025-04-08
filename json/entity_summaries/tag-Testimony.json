@@ -1,0 +1,26 @@
+{
+  "entity_name": "Testimony",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The documents provided consist of testimonies and recollections before Senate and House Committees, primarily the Senate Select Committee (SSC) and the House Select Committee on Assassinations (HSCA). These testimonies cover a range of topics, including investigations into Martin Luther King Jr., the Southern Christian Leadership Conference (SCLC), Stanley Levison, CIA mail opening projects, CIA activities in Mexico City related to Lee Harvey Oswald, and Yuri Nosenko's account of Oswald's time in the Soviet Union. The testimonies span from 1975 to 1978, reflecting efforts to investigate past events and activities of various organizations and individuals. A notable pattern is the focus on investigations and recollections related to significant historical events and figures, including the JFK assassination and related intelligence activities.",
+  "key_connections": [
+    "Senate Select Committee (SSC)",
+    "House Select Committee on Assassinations (HSCA)",
+    "Martin Luther King Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "Stanley Levison",
+    "CIA",
+    "Lee Harvey Oswald",
+    "Yuri Nosenko",
+    "KGB"
+  ],
+  "significance": "Testimonies play a crucial role in the JFK assassination context by providing firsthand accounts, recollections, and insights into events, activities, and individuals connected to the assassination. They offer valuable information for investigations, helping to piece together the circumstances surrounding the assassination and related intelligence operations. The testimonies also shed light on the actions and knowledge of various government agencies and individuals, contributing to a broader understanding of the historical context.",
+  "document_ids": [
+    "124-10274-10358_multirif",
+    "124-10273-10012_multirif",
+    "157-10002-10150",
+    "180-10131-10329",
+    "124-10273-10008_multirif",
+    "180-10131-10324"
+  ]
+}

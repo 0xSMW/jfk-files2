@@ -1,0 +1,21 @@
+{
+  "entity_name": "Jack Ruby",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Jack Ruby is mentioned in the context of the JFK assassination investigation. The documents indicate that the CIA was questioned about Ruby's connections and involvement following the assassination of President Kennedy. A CIA memorandum summarizes a meeting with the Warren Commission on March 12, 1964, discussing the CIA's involvement and information related to Lee Harvey Oswald and Jack Ruby. The documents do not provide extensive details about Ruby's background or motives, but his name appears in connection with the investigation into the assassination.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Warren Commission",
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Jack Ruby's significance lies in his murder of Lee Harvey Oswald, the accused assassin of President John F. Kennedy. This act immediately raised questions about potential conspiracies and connections to other individuals or groups, making him a central figure in the subsequent investigations into the assassination.",
+  "document_ids": [
+    "180-10145-10269",
+    "157-10002-10165",
+    "104-10305-10005",
+    "104-10302-10022",
+    "180-10145-10295",
+    "104-10079-10016",
+    "157-10004-10144"
+  ]
+}

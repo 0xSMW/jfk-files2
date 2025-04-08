@@ -1,0 +1,26 @@
+{
+  "entity_name": "John Elliff",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "summary": "Based on the provided documents, John Elliff appears to be associated with the Senate Select Committee on Intelligence Activities (also referred to as SENSTUDY) during the mid-1970s. The documents primarily concern responses to requests from Congressional committees, including the Senate Select Committee, regarding various intelligence operations, COINTELPRO, FBI informants, and security clearances for committee staff. Elliff's name appears in the context of these responses and related administrative matters. The documents suggest that Elliff was likely involved in the Senate Select Committee's investigation of intelligence activities, possibly related to document requests, briefings, or security clearances.",
+  "key_connections": [
+    "Senate Select Committee on Intelligence Activities",
+    "FBI",
+    "CIA",
+    "Clarence M. Kelley",
+    "Senators Church and Tower"
+  ],
+  "significance": "The documents do not directly connect John Elliff to the JFK assassination. His significance lies in his apparent involvement with the Senate Select Committee on Intelligence Activities during a period when the committee was investigating various intelligence operations, including those of the FBI and CIA. While the documents do not explicitly mention the JFK assassination, the committee's broader investigation into intelligence activities could potentially have touched upon aspects related to the assassination.",
+  "document_ids": [
+    "124-10274-10014_multirif_redacted",
+    "124-10271-10299",
+    "124-10185-10195_multirif",
+    "124-10271-10003_multirif",
+    "124-10271-10033_multirif_redacted",
+    "124-10264-10191",
+    "124-10271-10011_multirif",
+    "124-10274-10029",
+    "124-10271-10299_multirif",
+    "124-10271-10003"
+  ]
+}

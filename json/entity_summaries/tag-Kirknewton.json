@@ -1,0 +1,18 @@
+{
+  "entity_name": "Kirknewton",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Kirknewton, Scotland (USA-55) is a location mentioned in a 1979 NSA memorandum regarding a search for a reported 1963 intercept. This intercept was believed to potentially contain information about an assassination plot against President John F. Kennedy. The search was initiated in response to a request from the House Assassinations Committee. The documents suggest that there was a belief or a report that a message intercepted at Kirknewton might have contained foreknowledge of the JFK assassination.",
+  "key_connections": [
+    "USA-55",
+    "John F. Kennedy",
+    "House Assassinations Committee",
+    "NSA"
+  ],
+  "significance": "Kirknewton's significance lies in its potential role as the location where an intercept containing information about a plot to assassinate President Kennedy may have originated. The documents indicate that the House Assassinations Committee requested the NSA to investigate this possibility, suggesting that Kirknewton was considered a potentially important source of information related to the assassination.",
+  "document_ids": [
+    "144-10001-10180",
+    "144-10001-10143",
+    "144-10001-10162"
+  ]
+}

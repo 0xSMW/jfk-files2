@@ -1,0 +1,21 @@
+{
+  "entity_name": "Chicago",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "Chicago appears in these documents primarily as a location of interest. It is mentioned as the location of the Chicago Field Office of the Secret Service, involved in assessing the suitability of Hargrave Secret Service for cover purposes. It is also noted as the birthplace of David Reed Fromer, subject of FBI and intelligence checks. Additionally, it is a destination point for Chairman Pak's party traveling to John F. Kennedy's funeral, requiring arrangements for someone to meet them there. The documents suggest Chicago's role is largely geographical, serving as a place of origin, operation, or transit in relation to individuals and events connected to the JFK assassination context.",
+  "key_connections": [
+    "Hargrave Secret Service",
+    "David Reed Fromer",
+    "John F. Kennedy",
+    "Chairman Pak",
+    "FBI",
+    "Secret Service"
+  ],
+  "significance": "Chicago's significance in the JFK context, based on these documents, is primarily as a geographical point connected to individuals and organizations involved in investigations, security, and related events following the assassination. It serves as a location for field offices, a place of birth, and a transit point for attendees of Kennedy's funeral.",
+  "document_ids": [
+    "104-10110-10568",
+    "194-10004-10161",
+    "144-10001-10324",
+    "194-10004-10154"
+  ]
+}

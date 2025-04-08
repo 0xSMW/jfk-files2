@@ -1,0 +1,19 @@
+{
+  "entity_name": "Brussels",
+  "entity_type": "recipient",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Brussels appears to be a location where intelligence operations related to the Flemish Order of Militants (VMO) and NIGALE were relevant. The documents discuss the House Select Committee on Assassinations' (HSCA) request for information on the VMO in connection with the Martin Luther King, Jr. assassination investigation. The CIA is seeking guidance on how to respond to the HSCA request while preserving the relationship with NIGALE, an intelligence source. One document also mentions a trace request on Vladimir P/CR/V Kuznetsov.",
+  "key_connections": [
+    "Flemish Order of Militants (VMO)",
+    "NIGALE",
+    "House Select Committee on Assassinations (HSCA)",
+    "Martin Luther King, Jr.",
+    "Vladimir P/CR/V Kuznetsov"
+  ],
+  "significance": "Brussels' significance in the JFK context is indirect. The documents primarily relate to the Martin Luther King, Jr. assassination investigation, where the HSCA requested information on the VMO. Brussels is likely a location where intelligence related to the VMO and NIGALE was gathered or processed. The connection to the JFK assassination is through the HSCA's broader investigation into assassinations.",
+  "document_ids": [
+    "104-10412-10005",
+    "104-10066-10260",
+    "104-10065-10386"
+  ]
+}

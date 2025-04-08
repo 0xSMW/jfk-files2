@@ -1,0 +1,20 @@
+{
+  "entity_name": "Stephen R. Wilson",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Stephen R. Wilson is identified as SP4 Stephen R. Wilson in an agent report dated February 4, 1972. He was interviewed concerning a potential counter-intelligence interest involving an individual known as 'John' who was seeking information about a Security Sergeant and made contact through a local bar in Datteln, Germany, possibly related to drug activity. The documents suggest Wilson was a member of the 66th USA Artillery Detachment and was involved in an incident where an individual named \"John Dee Jay\" attempted to elicit official information from members of the detachment in Soest, FRG. The incident was considered of possible CI (Counter-Intelligence) interest. The documents indicate that the 66th MI GP in Munich, FRG, and the 165th MI CO in Frankfurt were involved in investigating this incident.",
+  "key_connections": [
+    "John (John the Dee Jay)",
+    "66th USA Artillery Detachment",
+    "66th MI GP (Munich, FRG)",
+    "165th MI CO (Frankfurt)",
+    "Security Sergeant"
+  ],
+  "significance": "Based on the provided documents, Stephen R. Wilson's significance in the JFK context is not directly apparent. His involvement seems to be related to a counter-intelligence investigation within the military, specifically concerning attempts to solicit official information. There is no direct mention or implication of any connection to the JFK assassination in these documents.",
+  "document_ids": [
+    "194-10006-10300",
+    "194-10006-10316",
+    "194-10006-10298",
+    "194-10006-10329"
+  ]
+}

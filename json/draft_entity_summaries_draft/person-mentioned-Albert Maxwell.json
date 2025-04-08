@@ -1,0 +1,17 @@
+{
+  "entity_name": "Albert Maxwell",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Albert Maxwell is identified as an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA). The documents provided are payroll and certification reports spanning from October 1977 to November 1978. These reports list Maxwell's name, position, and salary during this period. The documents do not provide specific details about Maxwell's role within the HSCA or his direct involvement in the JFK assassination investigation, but they confirm his employment during the committee's active period.",
+  "key_connections": [
+    "Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Albert Maxwell's significance lies in his employment with the HSCA during its investigation into the JFK assassination. While the provided documents do not detail his specific contributions, his presence on the committee's payroll indicates his involvement in the broader effort to investigate the assassination.",
+  "document_ids": [
+    "180-10125-10081",
+    "180-10125-10096",
+    "180-10125-10079",
+    "180-10125-10086",
+    "180-10125-10094"
+  ]
+}

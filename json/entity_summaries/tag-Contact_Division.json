@@ -1,0 +1,29 @@
+{
+  "entity_name": "Contact Division",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The Contact Division appears to be a unit within the CIA responsible for maintaining and utilizing contacts for various purposes, including intelligence gathering, cover operations, and support for anti-communist activities. The documents suggest the Contact Division played a role in connecting with individuals and organizations, both domestic and foreign, to further the CIA's objectives. This included establishing relationships with Cuban refugee groups, utilizing organizations like the Research Institute of America for agent cover, and assessing the suitability of entities like Hargrave Secret Service for cover purposes. The division also seems to have been involved in tracking individuals of interest, such as Maurice Halperin, and investigating potential connections to organizations like PRAEGER Publishing Corporation.",
+  "key_connections": [
+    "Chicago Field Office",
+    "Robert Pratchett",
+    "Alpha-66",
+    "Maurice Halperin",
+    "Cuban refugee groups",
+    "Minneapolis Office",
+    "Henry L. Bretton",
+    "PRAEGER Publishing Corporation",
+    "Arthur V. Cox",
+    "Research Institute of America (RIA)",
+    "Leo Cherne",
+    "Hargrave Secret Service"
+  ],
+  "significance": "While the documents do not directly link the Contact Division to the JFK assassination, its role in establishing and maintaining contacts, providing cover for agents, and supporting anti-Castro activities suggests a potential indirect connection. The division's involvement in these areas could have contributed to the broader context of political intrigue and covert operations surrounding the assassination. Further research would be needed to establish any direct link.",
+  "document_ids": [
+    "104-10110-10568",
+    "104-10069-10112",
+    "104-10069-10359",
+    "104-10069-10120",
+    "104-10105-10285",
+    "104-10070-10296"
+  ]
+}

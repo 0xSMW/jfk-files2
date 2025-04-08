@@ -1,0 +1,27 @@
+{
+  "entity_name": "DINAR",
+  "entity_type": "tag",
+  "document_count": 17,
+  "summary": "The entity \"DINAR\" appears to be a tag used within a collection of NSA documents related to reactions and events following the assassination of President John F. Kennedy in November 1963. The documents tagged with \"DINAR\" cover a wide range of topics, including instructions to diplomatic missions from various countries (Cuba, Poland, Iraq, South Korea) regarding responses to Kennedy's death, evaluations of President Lyndon B. Johnson by foreign officials (Belgian Foreign Minister), reports on Viet Cong propaganda plans, observations by Indonesian presidential bodyguard officials, mourning declarations in Tanganyika, and reactions from the United Nations. The documents also include information on military alerts in Latin American countries, a potential visit by Chinese Premier Chou En-Lai to Africa, and Portuguese reactions to Kennedy's death. The tag seems to categorize documents related to international reactions, security measures, and political assessments following the assassination.",
+  "key_connections": [],
+  "significance": "The significance of the \"DINAR\" tag lies in its role as a metadata marker for documents pertaining to the immediate aftermath of President Kennedy's assassination, specifically focusing on international reactions, security concerns, and political assessments from various countries and organizations. It provides a way to group documents that offer insights into the global impact and implications of the event.",
+  "document_ids": [
+    "144-10001-10302",
+    "144-10001-10089",
+    "144-10001-10359",
+    "144-10001-10313",
+    "144-10001-10332",
+    "144-10001-10060",
+    "144-10001-10369",
+    "144-10001-10312",
+    "144-10001-10304",
+    "144-10001-10370",
+    "144-10001-10062",
+    "144-10001-10330",
+    "144-10001-10058",
+    "144-10001-10306",
+    "144-10001-10321",
+    "144-10001-10086",
+    "144-10001-10068"
+  ]
+}

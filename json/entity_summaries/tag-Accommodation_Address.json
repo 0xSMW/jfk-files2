@@ -1,0 +1,21 @@
+{
+  "entity_name": "Accommodation Address",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Accommodation addresses, as referenced in these documents, are temporary or discreet locations used by agents for mail handling and lodging, often under aliases, to maintain operational security. These addresses were crucial for agents operating in sensitive locations such as Mexico City, Brazil, and potentially Cuba, especially during the REDSOX operation and related activities around 1960-1961. The documents highlight the logistical challenges of securing these addresses, including the use of PO Boxes and the urgency in establishing them for agents being dispatched to Cuba. The need for accommodation addresses underscores the clandestine nature of the operations and the efforts to conceal the identities and movements of involved personnel.",
+  "key_connections": [
+    "REDSOX operation",
+    "Agent AEASPIC (David Durvard)",
+    "Lucian W. Fabsik",
+    "Mexico City",
+    "Cuba",
+    "Bell",
+    "S/ Agents"
+  ],
+  "significance": "In the context of the JFK assassination, accommodation addresses are significant as they represent a component of covert operations and intelligence activities that may have connections to individuals or groups involved in events surrounding the assassination. The use of such addresses points to a network of clandestine activities and the potential for hidden communications and movements that could be relevant to understanding the broader context of the assassination.",
+  "document_ids": [
+    "104-10182-10004",
+    "104-10171-10095",
+    "104-10171-10093"
+  ]
+}

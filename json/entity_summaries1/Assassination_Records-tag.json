@@ -1,0 +1,21 @@
+{
+  "entity_name": "Assassination Records",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The 'Assassination Records' entity, as represented in these documents, primarily refers to records related to the JFK assassination, specifically those governed by the JFK Assassination Records Collection Act. These records encompass a range of materials, including meeting agendas, reports, correspondence, and personal documents of individuals connected to the assassination. The documents highlight the efforts to collect, review, and ensure compliance with the Act, involving organizations like the Assassination Records Review Board (ARRB) and the Central Intelligence Agency (CIA). The records also include information on individuals such as Lee Harvey Oswald and Marina Oswald, spanning from pre-assassination activities to post-assassination investigations.",
+  "key_connections": [
+    "JFK Assassination Records Collection Act",
+    "Assassination Records Review Board (ARRB)",
+    "Central Intelligence Agency (CIA)",
+    "Lee Harvey Oswald",
+    "Marina Oswald",
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "House Select Committee on Assassinations"
+  ],
+  "significance": "The 'Assassination Records' are significant because they represent the body of evidence and documentation surrounding the JFK assassination. The JFK Assassination Records Collection Act aimed to provide transparency and ensure that all relevant information was available for public scrutiny. The records are crucial for understanding the events leading up to, during, and after the assassination, as well as the various investigations and inquiries that followed. They are essential for historical analysis, research, and public understanding of this pivotal event.",
+  "document_ids": [
+    "206-10001-10003",
+    "180-10072-10186",
+    "104-10332-10022"
+  ]
+}

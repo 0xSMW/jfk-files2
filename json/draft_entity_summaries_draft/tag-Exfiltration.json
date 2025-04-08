@@ -1,0 +1,28 @@
+{
+  "entity_name": "Exfiltration",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The documents highlight 'Exfiltration' primarily as a clandestine operation involving the extraction of agents or assets from hostile environments, particularly Cuba, during the early to mid-1960s. These operations were often complex, involving careful planning, coordination, and the use of various resources, including boats (M/V ADA) and communication channels (French embassy). The documents reveal instances of both successful and unsuccessful exfiltration attempts, with failures often attributed to unforeseen circumstances or security breaches. The exfiltration operations were crucial for protecting agents and maintaining the integrity of intelligence networks operating in sensitive areas. The documents also suggest that exfiltration was a high-stakes activity, with potential risks to both the agents being extracted and the personnel involved in the operation.",
+  "key_connections": [
+    "AMFAUMA-25",
+    "AMFAUMA-14",
+    "ANTEUHK VII",
+    "AMLEO-3",
+    "M/V ADA",
+    "Cuba",
+    "JMWAVE",
+    "Mitchell L. WER-BELL",
+    "Emilio SANTANA Galindo"
+  ],
+  "significance": "In the context of the JFK assassination, exfiltration operations are relevant as they provide insight into the CIA's clandestine activities and network of agents operating in Cuba during the period leading up to the assassination. These operations could potentially be linked to individuals or groups involved in plots against Fidel Castro, and understanding the details of these operations may shed light on the broader context of US-Cuban relations and the various actors involved in the anti-Castro movement. The documents do not directly link exfiltration to the JFK assassination, but they provide a glimpse into the operational environment and the types of activities the CIA was engaged in during that time.",
+  "document_ids": [
+    "104-10103-10112",
+    "104-10075-10365",
+    "104-10075-10250",
+    "104-10216-10148",
+    "104-10182-10137",
+    "104-10308-10062",
+    "104-10170-10146",
+    "104-10076-10000"
+  ]
+}

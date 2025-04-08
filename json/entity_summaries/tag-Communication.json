@@ -1,0 +1,22 @@
+{
+  "entity_name": "Communication",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents highlight various aspects of communication within the CIA and related operations. They cover secure communication channels, communication strategies, and technical infrastructure for communication. The documents mention communication related to intelligence gathering, security incidents, and operational planning. Specifically, they detail communication with agents in the field, such as DMCHAR and A-3, and the establishment of secure communication methods, like AMJAVA-4 infiltration. The documents also discuss technical aspects of communication, such as the expansion of UHF radio systems. The timeline spans from 1957 to 1970, indicating ongoing efforts to maintain and improve communication capabilities. A notable pattern is the emphasis on secure and reliable communication in sensitive operations and locations.",
+  "key_connections": [
+    "DMCHAR",
+    "A-3",
+    "AMJAVA-4",
+    "G2 (Cuban Intelligence)",
+    "UHF radio system",
+    "Soviet Union",
+    "Fidel Castro"
+  ],
+  "significance": "While not directly linked to the JFK assassination in these documents, secure and reliable communication was crucial for intelligence gathering and operational activities during the Cold War, which provides context to the political climate surrounding the assassination. The documents illustrate the importance of communication in maintaining operational security and gathering intelligence, which are relevant to understanding the broader context of the JFK assassination.",
+  "document_ids": [
+    "104-10167-10127",
+    "144-10001-10322",
+    "104-10169-10265",
+    "104-10073-10322"
+  ]
+}

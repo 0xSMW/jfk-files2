@@ -1,0 +1,27 @@
+{
+  "entity_name": "HSCA",
+  "entity_type": "recipient",
+  "document_count": 4,
+  "summary": "The House Select Committee on Assassinations (HSCA) was a committee of the United States House of Representatives established in 1976 to investigate the assassinations of John F. Kennedy and Martin Luther King, Jr. The documents provided show the HSCA actively investigating aspects related to the JFK assassination. This includes requesting information from the NSA regarding Cuban communications during March and April 1962, interviewing individuals like Sgt. Lewis Wesley Leber regarding potential connections to the assassination, and receiving reports from forensic pathology panels. The timeline of involvement spans from at least November 1977 to July 1978, as indicated by journal entries and document dates. A notable pattern is the committee's focus on gathering information from various sources, including government agencies and individuals, to comprehensively investigate the circumstances surrounding the assassination.",
+  "key_connections": [
+    "University of New Mexico, School of Medicine",
+    "James T. Weston",
+    "Laura Krug",
+    "Debbie McMath",
+    "Karen C. Schwartz",
+    "Sgt. Lewis Wesley Leber",
+    "Captain William C. Stanley",
+    "Langley AFB",
+    "NSA",
+    "Cuban communications",
+    "Office of Legislative Counsel",
+    "Senate Select Committee on Intelligence"
+  ],
+  "significance": "The HSCA played a crucial role in re-examining the evidence and circumstances surrounding the JFK assassination. Its investigation aimed to provide a more comprehensive understanding of the events and address lingering questions and controversies. The HSCA's findings, while controversial, contributed significantly to the historical record and continue to be a subject of debate and analysis.",
+  "document_ids": [
+    "180-10096-10448",
+    "180-10120-10150",
+    "104-10142-10317",
+    "144-10001-10185"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "entity_name": "Fred Wickham",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Based on the provided documents, Fred Wickham is a person whose name appears in connection with CIA documents related to the JFK assassination records. The documents suggest that his name is associated with concerns about the release of CIA employees' names in JFK records. He is mentioned in the context of discussions regarding the handling of CIA information and interactions with the ARRB (Assassination Records Review Board) and the HPSCI (House Permanent Select Committee on Intelligence). The documents indicate a focus on protecting the identities of CIA employees with limited connection to the JFK assassination story. The documents do not provide specific details about Wickham's role or involvement, but rather place him within the broader context of CIA's efforts to manage the release of information related to its personnel in connection with the JFK investigation.",
+  "key_connections": [
+    "CIA",
+    "ARRB (Assassination Records Review Board)",
+    "HPSCI (House Permanent Select Committee on Intelligence)",
+    "JFK Assassination Records"
+  ],
+  "significance": "Fred Wickham's significance lies in his association with the CIA's management of information and protection of employee identities in the context of the JFK assassination records review. The documents suggest that his name is part of a larger discussion about balancing transparency with the need to protect individuals with limited connection to the assassination.",
+  "document_ids": [
+    "104-10331-10202",
+    "104-10331-10134",
+    "104-10331-10154",
+    "104-10331-10139",
+    "104-10337-10002"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "entity_name": "Classified Information",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The documents highlight the CIA's concern with protecting classified information, particularly in the context of publications by former employees like David A. Phillips and E. Howard Hunt, and in providing information to congressional oversight committees. The review processes aimed to prevent the unauthorized disclosure of sensitive CIA operations, sources, and methods. The documents also touch upon the management of personnel records to restrict access to classified information and the systems used for identifying and retrieving information on persons of interest. A notable pattern is the proactive effort to redact or revise materials to safeguard classified information from public disclosure, especially in memoirs and during congressional briefings.",
+  "key_connections": [
+    "David A. Phillips",
+    "E. Howard Hunt",
+    "CIA",
+    "House Appropriations Committee",
+    "Congressional Oversight Committees",
+    "201 System"
+  ],
+  "significance": "While the documents do not directly relate to the JFK assassination, they illustrate the CIA's general procedures for handling classified information and protecting intelligence sources and methods. This context is relevant to understanding how information related to the JFK assassination might have been managed and controlled within the CIA.",
+  "document_ids": [
+    "104-10105-10137",
+    "194-10006-10197",
+    "104-10105-10293",
+    "104-10105-10271",
+    "104-10400-10316",
+    "104-10105-10277",
+    "104-10087-10054"
+  ]
+}

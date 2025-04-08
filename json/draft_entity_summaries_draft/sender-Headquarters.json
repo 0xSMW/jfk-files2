@@ -1,0 +1,18 @@
+{
+  "entity_name": "Headquarters",
+  "entity_type": "sender",
+  "document_count": 3,
+  "summary": "Headquarters, in the context of these documents, appears to be a central authority responsible for directing and overseeing investigations and operations. The documents highlight its role in managing credit blocks for individuals, directing field offices in investigations (such as the Peter Paul Gregory case), and receiving intelligence reports on matters of national security (like suspected Cuban security penetrations). The timeline spans from 1965 to 1996, indicating a long-term involvement in various intelligence and security matters. A notable pattern is the headquarters' function as a central hub for information dissemination and operational control, issuing directives and receiving reports from various sources.",
+  "key_connections": [
+    "Peter Paul Gregory",
+    "DFO (Los Angeles Field Office)",
+    "Ministry of Interior (MININT)",
+    "Cuban human rights/dissident movement"
+  ],
+  "significance": "While the documents do not explicitly link Headquarters to the JFK assassination, its role as a central intelligence authority suggests it would have been involved in investigations and intelligence gathering relevant to national security matters during that period. The documents illustrate the organization's capacity to manage investigations, gather intelligence, and direct field operations, all of which could have been relevant to the JFK assassination context.",
+  "document_ids": [
+    "104-10131-10037",
+    "104-10117-10296",
+    "104-10326-10059"
+  ]
+}

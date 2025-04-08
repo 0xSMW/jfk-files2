@@ -1,0 +1,23 @@
+{
+  "entity_name": "201 System",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The 201 System was a method used by the CIA's Operations Directorate to identify, track, and manage information on individuals of interest. It involved procedures for opening dossiers, assigning OI (Operational Interest) codes, and generating machine listings. The system detailed file creation, maintenance, and information retrieval procedures, including how to control and file information about individuals, maintain files, restrict access, and generate lists of these individuals based on various categories. The system also included procedures for managing personality files, including file maintenance, access restrictions, and machine listings. The 201 system involved assigning unique numbers, creating dossiers, and maintaining records.",
+  "key_connections": [
+    "CIA",
+    "Operations Directorate",
+    "OI codes",
+    "Personality files"
+  ],
+  "significance": "Based on the provided documents, the significance of the 201 System in the JFK assassination context is not explicitly mentioned. The documents primarily describe the system's function as a method for tracking individuals of interest to the CIA. Further investigation would be needed to determine if and how the 201 System was related to the JFK assassination.",
+  "document_ids": [
+    "104-10023-10087",
+    "104-10213-10202",
+    "104-10408-10316",
+    "104-10051-10170",
+    "104-10406-10139",
+    "104-10088-10074",
+    "104-10143-10088",
+    "104-10087-10054"
+  ]
+}

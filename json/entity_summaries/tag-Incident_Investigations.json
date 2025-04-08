@@ -1,0 +1,39 @@
+{
+  "entity_name": "Incident Investigations",
+  "entity_type": "tag",
+  "document_count": 10,
+  "summary": "The documents reference various incident investigations conducted by different agencies, including the FBI and military intelligence groups, primarily focusing on individuals such as Joachim S. Beer, David Reed Fromer, Manuel Marti, Richard C. Nagell, Kenneth C. Griggs, and Joseph Timothy White. These investigations involve local agency checks, verification of personal information, and examination of potential derogatory information or connections to certain organizations. The investigations span from the 1960s to the 1980s, with a concentration in the late 1960s. A recurring pattern involves local agency checks and the use of FBI reports to gather information on individuals of interest.",
+  "key_connections": [
+    "Joachim S. Beer",
+    "Henry S. Beer",
+    "David Reed Fromer",
+    "Manuel Marti",
+    "Richard C. Nagell",
+    "Kenneth C. Griggs",
+    "Joseph Timothy White",
+    "FBI",
+    "113th Intelligence Corps Group",
+    "108th Military Intelligence Group",
+    "Provost Marshal's Office (PMO)",
+    "SLATE",
+    "Juanita Reyes",
+    "Cecil L. Griggs",
+    "Philip LaChapelle Jr.",
+    "Henry D. Glaister",
+    "Norval White Jr.",
+    "Manuel Adrian Sotomayor-Badillo"
+  ],
+  "significance": "While the documents detail various incident investigations, their direct significance to the JFK assassination context is not explicitly stated. The investigations appear to be routine background checks or inquiries into individuals, some of whom may have tangential connections to figures or events related to the assassination. Further context would be needed to determine the specific relevance of these investigations to the JFK assassination.",
+  "document_ids": [
+    "194-10007-10266",
+    "194-10004-10161",
+    "194-10004-10388",
+    "194-10004-10151",
+    "194-10004-10149",
+    "194-10007-10423",
+    "194-10004-10400",
+    "194-10013-10013",
+    "194-10013-10141",
+    "194-10004-10362"
+  ]
+}

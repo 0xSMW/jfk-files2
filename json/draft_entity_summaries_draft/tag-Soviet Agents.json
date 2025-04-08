@@ -1,0 +1,22 @@
+{
+  "entity_name": "Soviet Agents",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents reference Soviet agents in various contexts, primarily focusing on counterintelligence activities and potential connections to other events. The FBI conducted mail interception programs targeting Soviet agents and the Soviet Mission to the UN, as well as telephone tap operations in Mexico City aimed at Soviet, Satellite, and Cuban agents. Concerns arose during the release of JFK assassination-related documents regarding the protection of informants' and Soviet agents' identities. Allegations also surfaced concerning connections between the CIA, Schlumberger Well Surveying Corporation, and individuals linked to Soviet agents. The documents span from 1962 to 1993, indicating a sustained interest and concern regarding Soviet agents across different periods.",
+  "key_connections": [
+    "FBI",
+    "Soviet Mission to the UN",
+    "Project LIFEAT",
+    "CIA",
+    "Schlumberger Well Surveying Corporation",
+    "Cuban Agents",
+    "Satellite Agents"
+  ],
+  "significance": "In the JFK assassination context, the significance of Soviet agents lies in the potential involvement or influence they might have had, as well as the need to protect their identities during the release of related documents. The documents suggest a concern that revealing information about Soviet agents could compromise ongoing intelligence operations or expose sensitive sources.",
+  "document_ids": [
+    "124-10274-10029_multirif_redacted",
+    "104-10188-10000",
+    "104-10338-10005",
+    "104-10106-10716"
+  ]
+}

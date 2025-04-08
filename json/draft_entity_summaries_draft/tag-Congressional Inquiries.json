@@ -1,0 +1,20 @@
+{
+  "entity_name": "Congressional Inquiries",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents highlight Congressional Inquiries, particularly those from the Senate Select Committee on Intelligence Activities (also known as the Church Committee), into various aspects of intelligence operations. These inquiries focused on the FBI's responses to congressional requests, including those related to COINTELPRO, FBI informants, and security clearances for Senate Select Committee staff. The inquiries also extended to the CIA, specifically addressing the agency's budget for contract employees and the involvement of individuals with CIA ties in the Watergate burglary and cover-up. The documents span around 1975, indicating a period of intense scrutiny of intelligence agencies by Congress.",
+  "key_connections": [
+    "Senate Select Committee on Intelligence Activities (Church Committee)",
+    "FBI",
+    "COINTELPRO",
+    "CIA",
+    "Watergate"
+  ],
+  "significance": "While the documents do not directly relate to the JFK assassination, they are significant in the broader context of government oversight and accountability. The inquiries into the CIA's budget and potential involvement in Watergate, along with the scrutiny of the FBI's COINTELPRO activities, reflect a period of increased congressional oversight of intelligence agencies. These inquiries could indirectly relate to the JFK assassination if they uncovered information about intelligence agency activities that were relevant to the assassination or its investigation, but this is not explicitly stated in the provided documents.",
+  "document_ids": [
+    "124-10271-10003_multirif",
+    "124-10271-10011_multirif",
+    "124-10271-10299_multirif",
+    "104-10256-10283"
+  ]
+}

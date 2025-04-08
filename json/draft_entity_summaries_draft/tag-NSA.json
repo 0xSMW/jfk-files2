@@ -1,0 +1,28 @@
+{
+  "entity_name": "NSA",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "The National Security Agency (NSA) is mentioned in these documents primarily in the context of espionage, defectors, and surveillance activities. Several documents relate to the defection of NSA employees William Hamilton Martin and Bernon Ferguson Mitchell to the Soviet Union in 1960, and the subsequent investigations and information gathering efforts by the CIA and FBI. The NSA's ability to read Korean diplomatic traffic is also mentioned, raising concerns about leaks and damage assessment. The documents also reveal the NSA's involvement in electronic surveillance, including monitoring embassy traffic, which was a topic of interest for the Senate Select Committee. The timeline spans from the early 1960s to the mid-1970s, indicating a sustained period of activity and scrutiny.",
+  "key_connections": [
+    "William Hamilton Martin",
+    "Bernon Ferguson Mitchell",
+    "CIA",
+    "FBI",
+    "Soviet Union",
+    "Senate Select Committee",
+    "Nicholas Georges Damascus",
+    "Anastasia Magdalene Martiliane Daskalakis"
+  ],
+  "significance": "Based on the provided documents, the NSA's significance in the JFK context is indirect. The documents focus on espionage, defectors, and surveillance activities, but do not directly link the NSA to the JFK assassination. The NSA's involvement in monitoring communications and its potential vulnerabilities to leaks are highlighted, but these aspects are not explicitly tied to the assassination.",
+  "document_ids": [
+    "104-10219-10283",
+    "104-10176-10015",
+    "104-10219-10282",
+    "124-10271-10299",
+    "104-10126-10253",
+    "157-10011-10092",
+    "104-10219-10154",
+    "124-10274-10029",
+    "104-10219-10110"
+  ]
+}

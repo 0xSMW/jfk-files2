@@ -1,0 +1,23 @@
+{
+  "entity_name": "HSCA",
+  "entity_type": "sender",
+  "document_count": 5,
+  "summary": "The House Select Committee on Assassinations (HSCA) was a committee established by the U.S. House of Representatives in 1976 to investigate the assassinations of President John F. Kennedy and Martin Luther King Jr. The documents provided relate to the HSCA's operations, including staff payroll records, background checks, and investigations into CIA activities in Mexico City. These documents highlight the administrative aspects of the HSCA's work, as well as their investigative efforts into potential connections between the CIA and the JFK assassination. The timeline of involvement spans from 1976 to 1978, reflecting the period during which the HSCA was actively conducting its investigations. A notable pattern across the documents is the focus on personnel management and security, as well as the investigation into the CIA's role.",
+  "key_connections": [
+    "Arnold Arehart",
+    "Elizabeth M. Norris",
+    "Jeffrey Facter",
+    "Rebecca Wheeler Martin",
+    "CIA",
+    "Anne Goodpasture",
+    "Win Scott"
+  ],
+  "significance": "The HSCA was responsible for reinvestigating the JFK assassination and determining whether there was a conspiracy. Their findings and conclusions have had a lasting impact on the public's understanding of the event and continue to be a subject of debate and scrutiny.",
+  "document_ids": [
+    "180-10110-10121",
+    "180-10060-10492",
+    "180-10068-10344",
+    "180-10060-10475",
+    "180-10125-10172"
+  ]
+}

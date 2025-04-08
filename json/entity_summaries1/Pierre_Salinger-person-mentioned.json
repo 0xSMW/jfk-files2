@@ -1,0 +1,18 @@
+{
+  "entity_name": "Pierre Salinger",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Pierre Salinger appears in the context of the Kennedy administration. While the documents do not explicitly detail Salinger's direct involvement in the JFK assassination, they place him within the sphere of influence and information surrounding President Kennedy's policies and reactions to events like the Bay of Pigs invasion and U.S.-Cuba relations. One document mentions the U.S. government's reaction to interviews with John F. Kennedy and Fidel Castro, suggesting Salinger, as a member of the administration, would have been privy to these reactions. The documents do not provide a timeline of Salinger's specific actions or a pattern of involvement directly related to the assassination, but rather indicate his presence within the Kennedy administration during relevant periods.",
+  "key_connections": [
+    "John F. Kennedy",
+    "Fidel Castro",
+    "Edward Lansdale",
+    "President Johnson"
+  ],
+  "significance": "Pierre Salinger's significance in the JFK context, based on these documents, lies in his role as a member of the Kennedy administration, potentially involved in communications and policy decisions related to Cuba and other foreign policy matters. The documents suggest he would have been aware of the administration's reactions to events and interviews related to Kennedy and Castro.",
+  "document_ids": [
+    "176-10030-10085",
+    "206-10001-10002",
+    "144-10001-10112"
+  ]
+}

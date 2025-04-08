@@ -1,0 +1,24 @@
+{
+  "entity_name": "John A. Mintz",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "summary": "John A. Mintz appears in several memoranda related to the Senate Select Committee's (SSC) review of the FBI's domestic intelligence investigations in the mid-1970s. The documents suggest Mintz was involved in discussions and preparations for the FBI's response to the Senate Select Committee's inquiries. The documents indicate that the Senate Select Committee was reviewing the FBI's domestic intelligence operations and considering legislative actions, oversight, and potential limitations on investigative authority. Mintz's role seems to be related to the legal aspects and strategic planning for the FBI in the face of this scrutiny.",
+  "key_connections": [
+    "Senate Select Committee",
+    "FBI",
+    "J.B. Adams"
+  ],
+  "significance": "Based on the provided documents, John A. Mintz's significance in the JFK assassination context is indirect. He was involved in the FBI's response to the Senate Select Committee's review of domestic intelligence activities, which, while not directly related to the JFK assassination, could potentially involve related investigations or information. His role appears to be more focused on the legal and strategic aspects of the FBI's interactions with the Senate Select Committee during its review of domestic intelligence operations.",
+  "document_ids": [
+    "124-10186-10048_multirif",
+    "124-10183-10277_multirif_redacted",
+    "124-10186-10045_multirif",
+    "124-10186-10056_multirif",
+    "124-10186-10051_multirif",
+    "124-10183-10279_multirif_redacted",
+    "124-10186-10055_multirif",
+    "124-10274-10070",
+    "124-10186-10054_multirif",
+    "124-10186-10049_multirif"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "entity_name": "John Rosselli",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "summary": "John Rosselli, also known as AR, was a person of interest to the FBI in the early 1960s. The documents detail his activities, whereabouts, and associations, primarily in Los Angeles and Las Vegas. He was involved in various financial transactions, including receiving money from Bryan Foy for a hotel and casino deal and handling checks from Emanuel Rothman's trust account. Rosselli's activities were closely monitored, including his travel plans, meetings with individuals like Irving J. Leff, Jonie Taps, Albert Foley, and Gordon Nesser, and his contacts with Maurice Friedman. The FBI also investigated telephone calls made from Robert A. Maheu and Associates in Los Angeles that were linked to Rosselli. There are mentions of potential scandals, such as an alleged offer to suppress information related to Judi Meredith and Peter Fairchild, and discussions about firearm purchases during the Cuban Missile Crisis. The documents suggest a pattern of surveillance and investigation into Rosselli's activities and connections.",
+  "key_connections": [
+    "Irving J. Leff",
+    "Joseph I. Breen, Jr.",
+    "Jack Brooks (Brookstein)",
+    "Bryan Foy",
+    "Jonie Taps",
+    "Albert Foley",
+    "Maurice Friedman",
+    "Gordon Nesser",
+    "Robert A. Maheu",
+    "Emanuel Rothman",
+    "Judi Meredith",
+    "Peter Fairchild"
+  ],
+  "significance": "The provided documents do not explicitly state John Rosselli's role or significance in the JFK assassination context. However, the intense FBI scrutiny of his activities and connections during the early 1960s suggests he was a person of interest, potentially linked to organized crime or other activities that drew the attention of federal authorities. Further documents would be needed to establish a direct connection to the JFK assassination.",
+  "document_ids": [
+    "124-10223-10071",
+    "124-10223-10070",
+    "124-10223-10085",
+    "124-10223-10173",
+    "124-10223-10169",
+    "124-10223-10082",
+    "124-10223-10076",
+    "124-10223-10171",
+    "124-10223-10079",
+    "124-10223-10074",
+    "124-10223-10064",
+    "124-10223-10087"
+  ]
+}

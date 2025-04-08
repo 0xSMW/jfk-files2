@@ -1,0 +1,24 @@
+{
+  "entity_name": "Biographic Profile",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "A biographic profile is a document detailing an individual's personal and professional history, often used within organizations like the CIA to track employment, training, skills, and performance. The documents provided include biographic profiles of CIA operatives such as Newton S. Miler, Robert M. Zambernardi, Howard McCrea Orr, William Vincent Broe, and Robert Malcolm Keith. These profiles typically cover employment history, training, language abilities, commendations, positions held, locations of assignment, and performance appraisals. The profiles span various periods, with some dating back to the 1940s and extending into the 1970s. A review of Thomas B. CASASIN's personnel file is also mentioned, indicating that such files contain pertinent information and documents.",
+  "key_connections": [
+    "Newton S. Miler",
+    "Robert M. Zambernardi",
+    "Howard McCrea Orr",
+    "William Vincent Broe",
+    "Robert Malcolm Keith",
+    "Thomas B. CASASIN",
+    "CIA"
+  ],
+  "significance": "In the context of JFK assassination-related documents, biographic profiles provide background information on individuals who may have been involved in or connected to events surrounding the assassination. These profiles can help researchers understand the roles, experiences, and potential motivations of individuals within the CIA and other relevant organizations, aiding in the investigation and analysis of the assassination and related activities. The presence of these profiles in personnel files reviewed by the House Select Committee on Assassinations highlights their relevance to understanding the historical context.",
+  "document_ids": [
+    "104-10224-10007",
+    "104-10222-10033",
+    "104-10136-10329",
+    "104-10136-10324",
+    "104-10136-10327",
+    "104-10193-10075"
+  ]
+}

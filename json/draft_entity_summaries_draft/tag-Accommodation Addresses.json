@@ -1,0 +1,22 @@
+{
+  "entity_name": "Accommodation Addresses",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "Accommodation addresses, in the context of these documents, appear to be addresses used by agents, particularly in covert operations, to provide a safe or anonymous location. They are mentioned in relation to CIA activities, specifically concerning agents dispatched to Cuba from Mexico in 1961 and in discussions regarding the release of assassination records in the 1990s. The CIA sought to postpone the release of information related to accommodation addresses, citing potential damage to diplomatic relations, litigation, and intelligence collection methods. Some accommodation addresses were cancelled in 1961. The Assassination Records Review Board (ARRB) engaged with the CIA to balance transparency with the protection of sensitive information related to these addresses.",
+  "key_connections": [
+    "CIA",
+    "Assassination Records Review Board (ARRB)",
+    "Cuba",
+    "Mexico",
+    "JFK Assassination Records",
+    "Alias Documentation",
+    "Covert Actions"
+  ],
+  "significance": "Accommodation addresses are significant in the JFK assassination context because they represent a potential link to covert activities and the identities of individuals involved in those activities. The debate surrounding the release of information related to these addresses highlights the tension between transparency and the protection of sensitive intelligence information. The addresses may have been used by individuals connected to the assassination or related events, making their disclosure potentially revealing.",
+  "document_ids": [
+    "104-10330-10118",
+    "104-10171-10097",
+    "104-10331-10140",
+    "104-10121-10191"
+  ]
+}

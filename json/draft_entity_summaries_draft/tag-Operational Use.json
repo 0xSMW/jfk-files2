@@ -1,0 +1,25 @@
+{
+  "entity_name": "Operational Use",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "Operational Use, in the context of these documents, refers to the CIA's utilization of individuals and materials for clandestine activities. The documents outline regulations, restrictions, and definitions concerning the management and deployment of non-staff personnel, including agents, assets, sources, collaborators, and contract employees. These regulations emphasize security protocols and operational limitations based on affiliations and nationalities. Specific restrictions are placed on the operational use of certain categories of individuals, such as members of ACTION, Fulbright grantees, and employees of certain foundations, requiring special approvals or outright prohibition. The documents also cover the handling of authentication materials used in operations, emphasizing the need for accountability and security.",
+  "key_connections": [
+    "CIA",
+    "DDO (Directorate of Operations)",
+    "Agents",
+    "Assets",
+    "Sources",
+    "Collaborators",
+    "Contract Employees",
+    "ACTION",
+    "Fulbright Grantees",
+    "Foundations"
+  ],
+  "significance": "While the documents do not directly link 'Operational Use' to the JFK assassination, they provide insight into the CIA's operational practices, restrictions, and management of individuals and materials during the relevant time period. Understanding these practices is crucial for analyzing potential CIA involvement or connections to individuals or groups related to the assassination. The restrictions on certain categories of individuals and the emphasis on security protocols highlight the complexities and potential vulnerabilities within the CIA's operational framework.",
+  "document_ids": [
+    "104-10185-10247",
+    "104-10406-10136",
+    "104-10439-10113",
+    "104-10213-10209"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "entity_name": "GRU",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The GRU (Glavnoye Razvedyvatelnoye Upravleniye) is identified as Soviet military intelligence. The documents reference GRU officers and potential operatives. One document requests a trace on Vladimir P/CR/V Kuznetsov, suspected to be Vladimir Sergeyevich Kuznetsov, a GRU staff officer. Another document details the case of Yuriy Ivanovich Nosenko, a KGB defector, and his background, KGB career, and assessment of his bona fides. A third document involves the surveillance of Ivan Dmitriyevich Obyedkov, suspected of being a Soviet intelligence operative (RIS).",
+  "key_connections": [
+    "Vladimir Sergeyevich Kuznetsov",
+    "Yuriy Ivanovich Nosenko",
+    "Ivan Dmitriyevich Obyedkov",
+    "KGB"
+  ],
+  "significance": "The GRU's significance in the JFK context is indirect, based on the documents provided. The documents suggest the CIA was actively monitoring suspected GRU operatives and investigating Soviet defectors. The documents do not directly link the GRU to the JFK assassination, but rather highlight the agency's counterintelligence efforts against Soviet intelligence during the Cold War.",
+  "document_ids": [
+    "104-10412-10005",
+    "104-10210-10037",
+    "104-10177-10224"
+  ]
+}

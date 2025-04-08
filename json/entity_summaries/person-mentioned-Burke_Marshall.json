@@ -1,0 +1,20 @@
+{
+  "entity_name": "Burke Marshall",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Based on the provided documents, Burke Marshall is mentioned in the context of FBI responses to requests from the U.S. Senate Select Committee on Intelligence Activities (SSC) regarding materials related to Martin Luther King, Jr., and the Southern Christian Leadership Conference (SCLC). The documents detail the FBI's efforts to locate and provide requested materials to the SSC. However, the documents do not provide any direct information about Burke Marshall's role, significance, or involvement in the JFK assassination context. The documents focus on the FBI's interactions with the SSC concerning MLK and the SCLC.",
+  "key_connections": [
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "U. S. Senate Select Committee on Intelligence Activities (SSC)",
+    "FBI"
+  ],
+  "significance": "The provided documents do not establish any significance of Burke Marshall in the JFK assassination context. His mention appears to be related to the FBI's response to the SSC's inquiries about Martin Luther King, Jr., and the SCLC.",
+  "document_ids": [
+    "124-10274-10014_multirif_redacted",
+    "124-10264-10206_multirif",
+    "124-10264-10208_multirif",
+    "124-10264-10209_multirif",
+    "124-10264-10210_multirif"
+  ]
+}

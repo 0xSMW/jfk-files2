@@ -1,0 +1,20 @@
+{
+  "entity_name": "Rockefeller",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, \"Rockefeller\" is mentioned in the context of discussions and meetings related to intelligence and foreign policy during the Kennedy and Johnson administrations. The documents reference meetings of the President's Foreign Intelligence Advisory Board (PFIAB) where covert action programs, intelligence coordination, and operations in various countries were discussed. While the specific role or actions of \"Rockefeller\" are not explicitly detailed, the presence of the name within these high-level intelligence discussions suggests involvement in or influence on U.S. foreign policy and intelligence matters during this period. The documents span from July 1962 to December 1963, indicating a period of involvement or relevance during the later part of Kennedy's presidency and the immediate aftermath of his assassination.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "President Kennedy",
+    "President Johnson",
+    "CIA",
+    "Director of Central Intelligence (DCI)"
+  ],
+  "significance": "The significance of \"Rockefeller\" in the JFK context, based on these documents, lies in their potential involvement in U.S. foreign policy and intelligence operations during the Kennedy administration. The documents suggest a connection to high-level discussions and decisions related to covert actions, intelligence gathering, and U.S. policy toward countries like Cuba. However, the exact nature and extent of their influence or role require further investigation.",
+  "document_ids": [
+    "144-10001-10103",
+    "104-10302-10000",
+    "206-10001-10005",
+    "144-10001-10086"
+  ]
+}

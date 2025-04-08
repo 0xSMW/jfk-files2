@@ -1,0 +1,30 @@
+{
+  "entity_name": "Office of Personnel",
+  "entity_type": "recipient",
+  "document_count": 7,
+  "summary": "The Office of Personnel is referenced in the documents as the entity responsible for processing personnel actions within the CIA. These actions include assignments, reassignments, promotions, leaves of absence, retirements, and removals from the CIA Retirement and Disability System. The documents highlight the Office of Personnel's role in managing the careers of CIA employees, including those stationed in various locations such as Mexico City, Bangkok, and Paris. The timeline spans from 1951 to 1970, indicating the office's consistent involvement in managing CIA personnel throughout this period. A notable pattern is the frequent mention of 'Request for Personnel Action' forms, suggesting a standardized process for managing employee-related changes.",
+  "key_connections": [
+    "Robert M. Zambernardi",
+    "James B. Wilcott, Jr.",
+    "James A. Noel",
+    "Floryan R. Karty",
+    "Anna Tarasoff",
+    "Thomas B. CASASIN (J. Richardson)",
+    "Balmes N. Hidalgo Jr.",
+    "CIA Retirement and Disability System",
+    "CIA",
+    "Mexico City Station",
+    "Bangkok",
+    "Paris Station"
+  ],
+  "significance": "The Office of Personnel's significance in the JFK context is indirect. The documents primarily illustrate the office's role in managing CIA personnel, some of whom may have been involved in events related to the JFK assassination. The documents themselves do not directly implicate the Office of Personnel in any specific activities related to the assassination, but they provide insight into the management and movement of CIA personnel during the relevant time period.",
+  "document_ids": [
+    "104-10222-10033",
+    "104-10195-10003",
+    "104-10291-10013",
+    "104-10222-10043",
+    "104-10194-10015",
+    "104-10194-10019",
+    "104-10194-10022"
+  ]
+}

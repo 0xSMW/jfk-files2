@@ -1,0 +1,24 @@
+{
+  "entity_name": "ASIO",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The Australian Security Intelligence Organisation (ASIO) is Australia's national security agency. In the context of the JFK assassination documents, ASIO's involvement primarily revolves around concerns raised by its Director-General, Sir Charles Spry, regarding the declassification of Warren Commission document CD-971. This document related to an investigation of anonymous telephone calls made to the Canberra Embassy before and after President Kennedy's assassination. ASIO, through Sir Charles Spry, recommended against declassification, a recommendation that was acknowledged and followed by the CIA. Additionally, ASIO, via representative Leslie V. Jarvis, acted as an intermediary for Australian Justice A.R. Moffitt's request to the CIA for information on Herbert Itkin, a former CIA and FBI employee, in connection with an inquiry into organized crime in New South Wales.",
+  "key_connections": [
+    "Sir Charles Spry",
+    "Warren Commission (CD-971)",
+    "CIA",
+    "Herbert Itkin",
+    "Leslie V. Jarvis",
+    "Australian Justice A.R. Moffitt",
+    "Canberra Embassy"
+  ],
+  "significance": "ASIO's significance in the JFK assassination context lies in its advisory role regarding the declassification of a Warren Commission document and its involvement in facilitating information requests related to individuals potentially connected to the assassination or related investigations. The documents suggest a level of cooperation and information sharing between ASIO and the CIA.",
+  "document_ids": [
+    "104-10320-10038",
+    "104-10408-10416",
+    "104-10106-10421",
+    "104-10408-10415",
+    "104-10012-10078",
+    "104-10107-10089"
+  ]
+}

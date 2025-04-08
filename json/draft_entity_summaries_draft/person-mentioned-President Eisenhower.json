@@ -1,0 +1,23 @@
+{
+  "entity_name": "President Eisenhower",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Dwight D. Eisenhower was the 34th President of the United States, serving from 1953 to 1961. In the context of these documents, his significance arises primarily from allegations of his potential authorization of covert operations, specifically the assassination of foreign leaders. One document mentions a report summarizing an interview regarding the CIA's involvement in the Lumumba assassination plan in the Congo during 1960-1961, including the alleged authorization from President Eisenhower. Another document mentions covert actions, including plots to assassinate foreign leaders such as Patrice Lumumba, and discusses the extent of authorization within the CIA and US government for these operations. While the documents do not directly link Eisenhower to the JFK assassination, they highlight his potential involvement in authorizing covert actions during his presidency, which is a relevant historical context for understanding the environment in which the JFK assassination occurred.",
+  "key_connections": [
+    "Patrice Lumumba",
+    "CIA",
+    "President Lopez Mateos",
+    "Winston Scott",
+    "President Dorticos",
+    "Fidel Castro",
+    "E. Howard Hunt"
+  ],
+  "significance": "President Eisenhower's significance in the JFK context stems from allegations of his potential authorization of covert operations, including assassination plots against foreign leaders. While not directly implicated in the JFK assassination, his alleged involvement in authorizing such actions during his presidency provides a historical context for understanding the environment in which the JFK assassination occurred and the potential for covert operations within the US government.",
+  "document_ids": [
+    "157-10014-10178",
+    "104-10171-10220",
+    "178-10004-10416",
+    "157-10005-10297",
+    "104-10173-10132"
+  ]
+}

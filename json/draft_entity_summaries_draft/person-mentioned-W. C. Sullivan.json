@@ -1,0 +1,20 @@
+{
+  "entity_name": "W. C. Sullivan",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, W. C. Sullivan is not directly mentioned. However, the documents discuss FBI-CIA relations, investigations into individuals, and requests for information related to CIA activities. Sam Papich is mentioned as providing insights into FBI-CIA relations, intelligence operations, and controversies. The documents also discuss justified grievances against the CIA and instances of conflict and cooperation between the FBI and CIA. Additionally, there is coordination between the CIA and FBI regarding the release of JFK assassination-related documents, specifically addressing concerns about protecting the identities of informants and Soviet agents.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Sam Papich",
+    "National Council of Churches",
+    "Soviet agents"
+  ],
+  "significance": "W. C. Sullivan is not directly mentioned in the context of the JFK assassination. The documents focus on the relationship between the FBI and CIA, and the coordination between them regarding the release of JFK assassination-related documents.",
+  "document_ids": [
+    "124-10273-10104",
+    "157-10002-10152",
+    "124-10168-10040",
+    "104-10338-10005"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "entity_name": "J. Lee Rankin",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Based on the provided documents, J. Lee Rankin is not directly mentioned. However, the documents discuss the Warren Commission, which Rankin served as General Counsel. The documents primarily focus on the CIA and NSA's involvement with the Warren Commission, including information related to Lee Harvey Oswald's activities and communications, and the extent to which the Commission was informed about these activities. The documents also highlight concerns about protecting CIA sources and methods during the Warren Commission's investigation. While Rankin's specific actions or contributions are not detailed, the documents suggest that the Warren Commission, under his legal guidance, was a focal point for information gathering and analysis related to the JFK assassination.",
+  "key_connections": [
+    "Warren Commission",
+    "Lee Harvey Oswald",
+    "CIA",
+    "NSA",
+    "President Kennedy"
+  ],
+  "significance": "As General Counsel to the Warren Commission, J. Lee Rankin played a crucial role in the investigation of President Kennedy's assassination. While the documents do not explicitly detail his actions, his position implies significant involvement in directing the legal and investigative aspects of the Commission's work, including interactions with agencies like the CIA and NSA.",
+  "document_ids": [
+    "144-10001-10288",
+    "104-10301-10002",
+    "104-10004-10213",
+    "144-10001-10213",
+    "144-10001-10195"
+  ]
+}

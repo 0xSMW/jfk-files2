@@ -1,0 +1,20 @@
+{
+  "entity_name": "Rio de Janeiro",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Rio de Janeiro appears in three documents related to CIA activities and information gathering. One document from 1962 mentions the Rio de Janeiro station providing information on journalist Tad Szulc. Another document from 1980 relays information from an individual in Rio de Janeiro claiming knowledge of President Kennedy's assassination. A 1995 cable discusses a meeting in Rio de Janeiro involving Cuban CI officers and alleged CIA officers to review the JFK and Letelier assassinations. The city serves as a location for intelligence gathering, information relay, and potentially clandestine meetings related to sensitive topics.",
+  "key_connections": [
+    "Tad Szulc",
+    "Ignacy Sachs",
+    "President Kennedy Assassination",
+    "Letelier Assassination",
+    "Cuban CI officers",
+    "CIA officers"
+  ],
+  "significance": "Rio de Janeiro's significance in the JFK context lies in its role as a location from which information related to the assassination was sourced and where meetings potentially related to reviewing the assassination took place. The city is mentioned as a place where individuals claimed to have knowledge about the assassination and where discussions about it may have occurred within intelligence circles.",
+  "document_ids": [
+    "104-10102-10233",
+    "124-10164-10151",
+    "104-10326-10072"
+  ]
+}

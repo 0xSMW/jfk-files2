@@ -1,0 +1,26 @@
+{
+  "entity_name": "OGC",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The Office of General Counsel (OGC) at the CIA plays a crucial role in legal matters, including classification reviews, compliance with privacy acts, and providing legal interpretations. In the context of the JFK assassination records, the OGC is involved in analyzing the President John F. Kennedy Assassination Records Collection Act of 1992 (ARCA) and its impact on the Director of Central Intelligence's (DCI) authority to protect intelligence sources and methods. The OGC provides legal guidance on postponing the release of information related to intelligence operations, ensuring compliance with ARCA while safeguarding sensitive intelligence information. They also handle requests related to the Privacy Act and classification of documents related to sensitive operations like MHCHAOS.",
+  "key_connections": [
+    "CIA",
+    "President John F. Kennedy Assassination Records Collection Act of 1992 (ARCA)",
+    "Director of Central Intelligence (DCI)",
+    "MHCHAOS",
+    "Walter Lloyd",
+    "A. F. Addona",
+    "J.D. Lavery",
+    "P. Haefner",
+    "FBI"
+  ],
+  "significance": "The OGC's significance in the JFK context lies in its role of interpreting and applying the ARCA, balancing the public's right to information with the need to protect intelligence sources and methods. They provide legal guidance on what information can be released and what needs to be protected, influencing the availability of JFK assassination-related records.",
+  "document_ids": [
+    "104-10331-10080",
+    "104-10107-10195",
+    "104-10074-10347",
+    "104-10063-10430",
+    "104-10105-10212",
+    "104-10333-10011"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "entity_name": "William E. Colby",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "William E. Colby was the Director of Central Intelligence (DCI) during the time period covered by these documents. As DCI, he testified before the SSCIA regarding CIA operations, including plots to assassinate foreign leaders like Fidel Castro and Patrice Lumumba. A memo to Colby details potentially controversial CIA activities that could be misinterpreted or viewed as exceeding the Agency's charter, including operations involving wiretapping, breaking and entering, chemical warfare planning, and questionable use of Agency funds. He is mentioned in the context of an inventory of Rockefeller Commission files, which investigated CIA activities, and in relation to William K. Harvey's OP file.",
+  "key_connections": [
+    "William K. Harvey",
+    "Fidel Castro",
+    "Patrice Lumumba",
+    "Robert Maheu",
+    "Walter Elder",
+    "Rockefeller Commission",
+    "SSCI"
+  ],
+  "significance": "While the documents do not directly link William E. Colby to the JFK assassination, his role as DCI and the mention of the Rockefeller Commission files (which contain documents related to the Kennedy assassination) suggest a peripheral connection. His testimony regarding controversial CIA activities and the existence of potentially illegal operations under his watch could be relevant to understanding the broader context of the time period and potential motives for individuals or groups involved in the assassination.",
+  "document_ids": [
+    "104-10193-10076",
+    "157-10011-10024",
+    "178-10004-10420",
+    "104-10303-10007"
+  ]
+}

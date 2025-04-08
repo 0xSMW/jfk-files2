@@ -1,0 +1,32 @@
+{
+  "entity_name": "Records Management",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "Records Management, as reflected in the provided documents, encompasses the CIA's systems and procedures for creating, maintaining, controlling, and disposing of information. This includes managing personnel records, establishing and maintaining cover identities (military cover backstops), and operating systems like the 201 system for tracking individuals of interest. The documents highlight the importance of proper record-keeping for operational security, accountability, and compliance with information requests, including those related to the JFK assassination. The timeline spans from the early 1960s through the late 1990s, indicating ongoing efforts to refine and adapt records management practices. A notable pattern is the consistent emphasis on standardized procedures, secure storage, and controlled access to sensitive information.",
+  "key_connections": [
+    "Rene L. Rodriguez",
+    "James S. Woods",
+    "JFK Assassination Records Review Board (ARRB)",
+    "David F. Christ",
+    "Office of Legislative Counsel",
+    "US Air Elements",
+    "Joint Operations Group",
+    "Operations Directorate",
+    "201 System"
+  ],
+  "significance": "In the JFK context, records management is crucial for understanding what information the CIA possessed, how it was handled, and whether all relevant records have been disclosed. The JFK Assassination Records Review Board's interactions with the CIA, as documented, underscore the importance of transparent and accountable records management practices in addressing historical inquiries and ensuring public trust. The documents also suggest that records management practices were in place to potentially obscure or protect certain operations and individuals, raising questions about the completeness and accuracy of information provided to investigators.",
+  "document_ids": [
+    "104-10112-10186",
+    "104-10291-10004",
+    "104-10333-10002",
+    "104-10023-10087",
+    "104-10110-10328",
+    "104-10111-10086",
+    "104-10126-10194",
+    "104-10408-10316",
+    "104-10112-10204",
+    "104-10406-10139",
+    "104-10110-10340",
+    "104-10087-10054"
+  ]
+}

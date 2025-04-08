@@ -1,0 +1,17 @@
+{
+  "entity_name": "Jane Lind Downey",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Jane Lind Downey was an employee of the Select Committee on Assassinations (SCA). She is listed in multiple payroll and certification reports from 1978 and 1979. These documents detail her position, annual salary, and pay period earnings during her time with the committee. The reports span from May 1978 to February 1979, indicating her period of employment with the SCA.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Jane Lind Downey's significance lies in her employment with the Select Committee on Assassinations, contributing to the committee's operations during its investigation. The payroll documents confirm her role within the committee's staff.",
+  "document_ids": [
+    "180-10125-10081",
+    "180-10125-10079",
+    "180-10125-10075",
+    "180-10125-10086",
+    "180-10125-10076"
+  ]
+}

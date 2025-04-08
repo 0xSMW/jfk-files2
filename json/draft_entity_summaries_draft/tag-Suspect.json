@@ -1,0 +1,21 @@
+{
+  "entity_name": "Suspect",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents refer to multiple individuals identified as suspects in different contexts. One document mentions Adolph Jay ALBRECHT, a U.S. citizen residing in Sweden, who reported a statement related to President Kennedy's assassination prediction. The other two documents concern Eric Starvo Galt (aliases Harvey Lowmyer and John Willard), a suspect in the Martin Luther King, Jr. assassination. The documents related to Galt provide information such as aliases and physical descriptions, disseminated via cable to multiple locations. The documents highlight the FBI and CIA's efforts to gather and share information about individuals potentially connected to significant assassinations.",
+  "key_connections": [
+    "Adolph Jay ALBRECHT",
+    "Karl-Erik RIDDERSTRALE",
+    "Eric Starvo Galt",
+    "Harvey Lowmyer",
+    "John Willard",
+    "President Kennedy",
+    "Martin Luther King, Jr."
+  ],
+  "significance": "The term 'Suspect' is used to categorize individuals who are under investigation or considered potentially involved in the assassinations of President Kennedy and Martin Luther King, Jr. The documents reflect the investigative processes and information sharing among law enforcement and intelligence agencies regarding these individuals.",
+  "document_ids": [
+    "124-10163-10134",
+    "104-10178-10136",
+    "104-10072-10034"
+  ]
+}

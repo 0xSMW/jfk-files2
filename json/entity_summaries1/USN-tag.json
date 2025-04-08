@@ -1,0 +1,19 @@
+{
+  "entity_name": "USN",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Based on the provided documents, USN (United States Navy) appears in the context of intelligence reporting related to the assassination of President John F. Kennedy. The documents highlight the USN's role in gathering and disseminating information regarding the reactions and actions of the Venezuelan Armed Forces following the assassination and the attempt on Kennedy's life. Specifically, the USN intercepted messages detailing the Venezuelan Armed Forces' decision to observe a period of mourning and the alert status of Venezuelan army units. The documents suggest the USN was actively monitoring communications and relaying information to relevant authorities like DIRNSA (Director of the National Security Agency).",
+  "key_connections": [
+    "Venezuelan Armed Forces",
+    "President John F. Kennedy",
+    "DIRNSA (Director of the National Security Agency)",
+    "Caracas",
+    "Ciudad Bolivar"
+  ],
+  "significance": "The USN's significance in the JFK assassination context, as evidenced by these documents, lies in its intelligence gathering and reporting capabilities. It was responsible for monitoring and reporting on the reactions and activities of foreign entities, such as the Venezuelan Armed Forces, in the aftermath of the assassination. This intelligence likely contributed to a broader understanding of the international response and potential security implications following the event.",
+  "document_ids": [
+    "144-10001-10378",
+    "144-10001-10276",
+    "144-10001-10275"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "entity_name": "NSC",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The NSC (National Security Council) appears in these documents primarily in the context of policy and contingency planning, particularly concerning covert operations and national security actions during the early 1960s and mid-1970s. The NSC's involvement spans various global hotspots, including Cuba, Vietnam, Korea, and countries in South America. The documents highlight the NSC's role in overseeing and coordinating covert activities conducted by the CIA and other agencies. The NSC also played a role in managing information and briefings related to intelligence operations, as seen in the context of Senator Mondale's planned inspection of CIA sites and briefings on National Intelligence Estimates. The documents suggest a pattern of the NSC being a central authority in shaping and approving covert actions and national security policies during this period.",
+  "key_connections": [
+    "CIA",
+    "DOD",
+    "DOS",
+    "Cuba",
+    "Vietnam",
+    "Korea",
+    "Richard Goodwin",
+    "Fidel Castro",
+    "Senator Walter Mondale"
+  ],
+  "significance": "In the context of the JFK assassination, the NSC's significance lies in its role as a key decision-making body overseeing covert operations, particularly those related to Cuba and Fidel Castro. The documents suggest the NSC was involved in discussions and planning related to anti-Castro activities, including Operation Mongoose and potential assassination attempts. This involvement could be relevant to understanding the broader context of U.S. policy towards Cuba and the potential motivations of individuals or groups involved in the assassination.",
+  "document_ids": [
+    "176-10011-10152",
+    "198-10004-10076",
+    "157-10014-10117",
+    "206-10001-10016",
+    "124-10273-10053"
+  ]
+}

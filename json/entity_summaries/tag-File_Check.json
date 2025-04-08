@@ -1,0 +1,19 @@
+{
+  "entity_name": "File Check",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents reference 'File Checks' as a process of querying records held by various agencies to gather information on individuals. These checks are used to determine if any derogatory information or records exist regarding a person of interest. In the provided documents, file checks were conducted on Manuel Marti and American students who traveled to China. The results of these checks varied, with some showing 'no record' or 'nothing derogatory,' while others detailed political affiliations and activities. The file checks were conducted by agencies such as the FBI and the New York City Police Department.",
+  "key_connections": [
+    "Manuel Marti",
+    "FBI",
+    "New York City Police Department",
+    "American students in China",
+    "Moscow Youth Festival"
+  ],
+  "significance": "In the context of the JFK assassination, file checks are a tool used to investigate individuals who may be of interest to the investigation. The provided documents show file checks being used to gather information on individuals who may be connected to the assassination or related events. The results of these file checks can be used to determine if further investigation is warranted.",
+  "document_ids": [
+    "194-10004-10402",
+    "104-10215-10125",
+    "194-10004-10368"
+  ]
+}

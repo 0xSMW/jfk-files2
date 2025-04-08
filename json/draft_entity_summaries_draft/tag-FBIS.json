@@ -1,0 +1,20 @@
+{
+  "entity_name": "FBIS",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The Foreign Broadcast Information Service (FBIS) is mentioned in the documents primarily in the context of intelligence handling and dissemination. Several cables from 1978 discuss the inadvertent or potential dissemination of sensitive information to FBIS, raising concerns about compromising intelligence operations. One cable clarifies that a message was intended for internal station use only and not for FBIS. Another recommends recalling a document that was mistakenly passed to FBIS. Outside of these incidents, FBIS is not directly linked to the JFK assassination in these documents, but rather serves as a recipient of intelligence information. The documents highlight the importance of controlling the flow of sensitive information and the potential risks associated with its unintended dissemination.",
+  "key_connections": [
+    "HSCA",
+    "CIA",
+    "Hong Kong Station"
+  ],
+  "significance": "In the context of these documents, FBIS's significance lies in its role as a recipient of intelligence information and the concerns surrounding the potential compromise of sensitive intelligence operations through unintended dissemination to FBIS. There is no direct evidence in these documents to suggest FBIS played a role in the JFK assassination.",
+  "document_ids": [
+    "104-10065-10069",
+    "104-10527-10424",
+    "104-10100-10251",
+    "104-10101-10239",
+    "104-10065-10050",
+    "104-10066-10245"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "entity_name": "Jeffrey Facter",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Jeffrey Facter was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA). The documents indicate his employment spanned from at least December 1976 to November 1977. The documents available are primarily payroll records, including payroll authorizations, leave records, and payroll certifications, which detail his salary and employment period with the HSCA. The records do not specify his exact role within the committee, but they confirm his status as a staff member during the HSCA's investigation.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Jeffrey Facter's significance lies in his employment with the HSCA during its investigation into the JFK assassination. While the available documents do not reveal the specifics of his role, his employment contributes to the overall staffing and operational context of the HSCA's work.",
+  "document_ids": [
+    "180-10125-10107",
+    "180-10125-10096",
+    "180-10068-10344",
+    "180-10125-10094"
+  ]
+}

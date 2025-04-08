@@ -1,0 +1,24 @@
+{
+  "entity_name": "Mail Opening",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "Mail opening, as referenced in the documents, pertains to intelligence activities involving the interception and examination of mail. The FBI and CIA engaged in these practices, sometimes without explicit authorization. The documents reveal concerns about the Senate Select Committee's investigation into these activities, particularly regarding potential compromises of FBI operations and sources. Howard Osborn's testimony details CIA mail opening projects like SR POINTER and West Pointer, as well as cooperative arrangements with Customs. These operations sometimes involved opening mail without explicit authorization, and higher-ups were aware of the New York mail openings. The Senate Select Committee's inquiries into these activities, including mail opening, COINTELPRO, and interactions with the CIA, were a significant focus of the FBI's attention in 1975.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "Senate Select Committee (SENSTUDY)",
+    "COINTELPRO",
+    "Howard Osborn",
+    "SR POINTER",
+    "West Pointer",
+    "Customs",
+    "Mr. Helms"
+  ],
+  "significance": "While the documents do not directly link mail opening to the JFK assassination, the practice is significant in the broader context of intelligence agency activities and potential abuses of power during that era. The Senate Select Committee's investigation into these activities suggests a concern about the legality and ethical implications of mail opening, which could have implications for understanding the full scope of intelligence operations during the JFK era.",
+  "document_ids": [
+    "124-10179-10219_multirif",
+    "124-10179-10217_multirif",
+    "124-10264-10191",
+    "157-10002-10150"
+  ]
+}

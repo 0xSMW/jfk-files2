@@ -1,0 +1,20 @@
+{
+  "entity_name": "USIB",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The USIB (United States Intelligence Board) is referenced in the context of Congressional review and intelligence coordination. The documents highlight USIB's involvement in responding to Senate Select Committee inquiries, particularly concerning CIA activities. Key areas of interest included assassinations, the Phoenix program, and covert actions. The USIB also played a role in implementing a Community Central Index. The documents also mention FBI-CIA relations and intelligence operations during Hoover's tenure, as well as discussions related to Operation MONGOOSE and potential actions against Castro, although the direct involvement of USIB in these specific operations is not explicitly detailed.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Senate Select Committee",
+    "Operation MONGOOSE",
+    "Special Group Augmented",
+    "Hoover"
+  ],
+  "significance": "The USIB's significance in the JFK context, based on these documents, lies primarily in its role in intelligence oversight and coordination, particularly in relation to investigations into controversial operations and activities that may have tangential connections to the broader circumstances surrounding the assassination. The documents suggest USIB was involved in managing the fallout and scrutiny related to intelligence activities, rather than directly participating in events leading to the assassination.",
+  "document_ids": [
+    "124-10271-10299",
+    "157-10002-10152",
+    "157-10011-10007"
+  ]
+}

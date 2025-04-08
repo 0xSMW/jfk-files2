@@ -1,0 +1,43 @@
+{
+  "entity_name": "Interview",
+  "entity_type": "tag",
+  "document_count": 19,
+  "summary": "The documents primarily consist of summaries, transcripts, and reports related to interviews conducted by various agencies, including the HSCA, CIA, and FBI, concerning the JFK assassination and related matters. These interviews cover a wide range of individuals, including those who knew Lee Harvey Oswald, defectors, and individuals with potential knowledge of relevant events. The interviews aim to gather information about Oswald's activities, connections, and background, as well as to explore potential leads and assess the credibility of various sources. The documents span from the 1960s to the late 1970s, reflecting ongoing investigations and inquiries into the assassination. A notable pattern is the focus on individuals who had contact with Oswald in various contexts, such as his time in the Soviet Union, his military service, and his involvement with the Fair Play for Cuba Committee.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Yuri Nosenko",
+    "David Ferrie",
+    "George De Mohrenschildt",
+    "Fair Play for Cuba Committee (FPCC)",
+    "CIA",
+    "FBI",
+    "HSCA",
+    "KGB",
+    "Robert Scheer",
+    "William C. Stanley",
+    "Gary Edward Taylor",
+    "Sergey Alexandrovech Uslov"
+  ],
+  "significance": "Interviews are a crucial method for gathering information and evidence related to the JFK assassination. They provide firsthand accounts, recollections, and insights from individuals who may have relevant knowledge about the events leading up to the assassination, Oswald's motives, and potential conspiracies. The interviews documented in these files contribute to the ongoing effort to understand the circumstances surrounding the assassination and to assess the credibility of different theories.",
+  "document_ids": [
+    "180-10094-10459",
+    "104-10181-10107",
+    "104-10110-10303",
+    "194-10006-10188",
+    "180-10091-10228",
+    "194-10006-10235",
+    "180-10120-10150",
+    "180-10107-10006",
+    "180-10111-10051",
+    "157-10008-10246",
+    "180-10086-10257",
+    "180-10096-10399",
+    "124-10150-10104",
+    "104-10121-10304",
+    "194-10006-10187",
+    "180-10078-10492",
+    "194-10001-10495",
+    "194-10013-10005",
+    "180-10131-10324"
+  ]
+}

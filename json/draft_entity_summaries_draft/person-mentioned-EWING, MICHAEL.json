@@ -1,0 +1,15 @@
+{
+  "entity_name": "EWING, MICHAEL",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Michael Ewing was an employee of the Select Committee on Assassinations (SCA). He appears in payroll and certification reports from April 1978 to December 1978. The documents list his name, social security number, annual salary, and gross pay for the specified periods. The documents do not provide any further information about his specific role or responsibilities within the committee.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Michael Ewing's significance lies in his employment with the Select Committee on Assassinations. While the documents do not detail his specific role, his presence on the payroll indicates his involvement in the committee's work related to the JFK assassination investigation.",
+  "document_ids": [
+    "180-10125-10078",
+    "180-10125-10087",
+    "180-10125-10083"
+  ]
+}

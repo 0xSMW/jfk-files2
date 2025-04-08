@@ -1,0 +1,28 @@
+{
+  "entity_name": "Social Security Number Redaction",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The redaction of Social Security numbers appears across several payroll-related documents from the House Select Committee on Assassinations (HSCA). These documents include payroll authorization forms, memoranda, and final determination notifications. The redaction is likely done to protect the privacy of HSCA staff members such as Charlotte Green, Kenneth S. McHargh, Barbara Jean Robinson, Edwin J. Lopez, Barbara L. Mosley, Oliver J. Champion, and Judith R. Burford. The documents span from 1977 to 1978, indicating a consistent practice of redacting this information during that period. The presence of 'Final Determination Notifications' suggests a formal review process regarding the redaction of Social Security numbers, possibly mandated by the Assassination Records Review Board.",
+  "key_connections": [
+    "Charlotte Green",
+    "Kenneth S. McHargh",
+    "Barbara Jean Robinson",
+    "Edwin J. Lopez",
+    "Barbara L. Mosley",
+    "Oliver J. Champion",
+    "Judith R. Burford",
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board",
+    "Payroll Records"
+  ],
+  "significance": "In the context of the JFK assassination records, the redaction of Social Security numbers is a measure taken to protect the privacy of individuals involved with the HSCA. While the redaction itself doesn't directly relate to the assassination, it reflects the efforts to balance transparency with personal privacy when releasing sensitive government documents related to the investigation.",
+  "document_ids": [
+    "180-10068-10362",
+    "180-10060-10482",
+    "180-10147-10258",
+    "180-10060-10473",
+    "180-10060-10491",
+    "180-10068-10321",
+    "180-10068-10320"
+  ]
+}

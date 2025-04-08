@@ -1,0 +1,31 @@
+{
+  "entity_name": "Harvey",
+  "entity_type": "person-mentioned",
+  "document_count": 14,
+  "summary": "Based on the provided documents, \"Harvey\" appears to be a person involved in CIA activities related to Cuba, particularly Operation Mongoose. The documents suggest that Harvey interacted with individuals like Lansdale, Bissell, Helms, and McCone. He was likely involved in Task Force W, which played a role in the Mongoose operation. The documents do not provide a specific timeline of involvement, but references span from the early 1960s through the mid-1970s, as evidenced by interviews and summaries conducted in 1975. The documents also suggest that Harvey's activities were scrutinized as part of inquiries into potential assassination plots against Fidel Castro and the broader context of the JFK assassination.",
+  "key_connections": [
+    "Lansdale",
+    "Bissell",
+    "Helms",
+    "McCone",
+    "Task Force W",
+    "Operation Mongoose"
+  ],
+  "significance": "Harvey's significance in the JFK context lies in his involvement with Operation Mongoose and potential connections to assassination plots against Fidel Castro. His interactions with high-ranking CIA officials and his role in Task Force W make him a person of interest in understanding the scope and nature of covert operations against Cuba during the Kennedy era.",
+  "document_ids": [
+    "157-10005-10236",
+    "157-10011-10000",
+    "157-10008-10241",
+    "104-10324-10000",
+    "157-10011-10010",
+    "104-10310-10014",
+    "157-10008-10246",
+    "157-10011-10007",
+    "157-10011-10008",
+    "157-10005-10224",
+    "157-10011-10009",
+    "104-10131-10014",
+    "157-10011-10003",
+    "157-10002-10087"
+  ]
+}

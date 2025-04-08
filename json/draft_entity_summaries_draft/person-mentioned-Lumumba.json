@@ -1,0 +1,21 @@
+{
+  "entity_name": "Lumumba",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Patrice Lumumba is mentioned in the documents as a target of CIA assassination plots. The documents reference SSCIA hearings and reports concerning CIA operations, including plots to assassinate foreign leaders. Lumumba's name appears in the context of discussions about \"executive action\" capabilities of the CIA, specifically Project ZR/RIFLE, which researched assassination as a tool. The documents also mention William Harvey's testimony regarding Operation Mongoose, ZRRIFLE, and potential executive actions, further linking Lumumba to assassination plots.",
+  "key_connections": [
+    "William Harvey",
+    "Fidel Castro",
+    "CIA",
+    "SSCIA",
+    "ZR/RIFLE",
+    "Operation Mongoose"
+  ],
+  "significance": "Patrice Lumumba's significance in the JFK assassination context lies in the fact that the CIA's involvement in plots to assassinate him was investigated by the Church Committee (SSCIA). These investigations into CIA activities, including assassination attempts on foreign leaders like Lumumba and Castro, are relevant to understanding the scope and nature of covert operations conducted by the CIA during the Cold War, which is a broader context often considered in discussions about the JFK assassination.",
+  "document_ids": [
+    "157-10014-10109",
+    "157-10011-10024",
+    "157-10014-10137",
+    "157-10008-10238"
+  ]
+}

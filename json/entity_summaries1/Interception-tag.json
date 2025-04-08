@@ -1,0 +1,19 @@
+{
+  "entity_name": "Interception",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The 'Interception' tag refers to the interception of communications by the National Security Agency (NSA) related to the assassination of President John F. Kennedy. These intercepted messages provide insights into reactions and discussions surrounding the event from various locations, including Cuba, East Germany, and even a message sent from Nebraska to Fidel Castro. The interceptions capture a range of sentiments, from sorrow to implied satisfaction, and reveal the relay of information about the assassination through different communication channels.",
+  "key_connections": [
+    "NSA",
+    "Cuba",
+    "East Germany",
+    "Fidel Castro",
+    "President Kennedy"
+  ],
+  "significance": "The interception of communications is significant as it provides real-time reactions and information flow following President Kennedy's assassination. It highlights the global impact of the event and the immediate responses from various international actors and individuals. The intercepted messages offer a glimpse into the sentiments and discussions occurring behind the scenes, potentially revealing insights into the broader context and implications of the assassination.",
+  "document_ids": [
+    "144-10001-10338",
+    "144-10001-10271",
+    "144-10001-10273"
+  ]
+}

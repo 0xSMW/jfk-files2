@@ -1,0 +1,26 @@
+{
+  "entity_name": "George de Mohrenschildt",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "George de Mohrenschildt is mentioned in several CIA documents, primarily in connection to Lee Harvey Oswald and journalist Willem Oltmans. He appears to have had connections to individuals of interest to the CIA, including Jean K. Saurel, a Haitian official, and figures associated with Cuban and Soviet diplomats. The documents suggest that de Mohrenschildt's association with Oswald and his other contacts made him relevant to Congressional committees investigating the JFK assassination. The documents span from 1963 to 1996, indicating ongoing interest in his connections and activities. Notably, Willem Oltmans testified before the House of Representatives Assassinations Committee regarding de Mohrenschildt's link to Oswald.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Willem Oltmans",
+    "Jean K. Saurel",
+    "Cuban diplomats",
+    "Soviet diplomats",
+    "H. Charles",
+    "Jeanne de Mohrenschildt",
+    "William Alexander Morgan"
+  ],
+  "significance": "George de Mohrenschildt's significance in the JFK context stems from his association with Lee Harvey Oswald and his connections to individuals and entities of interest to the CIA, particularly those with ties to Cuba and the Soviet Union. His relationship with Oswald made him a subject of interest to Congressional committees investigating the assassination, as evidenced by Oltmans' testimony and the CIA's monitoring of Oltmans' contacts.",
+  "document_ids": [
+    "104-10326-10057",
+    "104-10066-10031",
+    "104-10164-10088",
+    "104-10147-10301",
+    "104-10166-10262",
+    "104-10418-10230",
+    "180-10145-10285"
+  ]
+}

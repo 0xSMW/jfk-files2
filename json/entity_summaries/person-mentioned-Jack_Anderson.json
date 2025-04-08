@@ -1,0 +1,30 @@
+{
+  "entity_name": "Jack Anderson",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "summary": "Jack Anderson is mentioned in these documents primarily in the context of his association with individuals and organizations investigated by the CIA. He is identified as an associate of Les Whitaker, who inquired about William Loomer's alleged activities at 'Liar's Lair' on Linderman Key. The documents do not directly implicate Anderson in the JFK assassination but rather place him in the milieu of individuals and events that the CIA was monitoring during the Cold War era. His role appears to be that of a journalist or reporter whose inquiries and associations drew the attention of the agency.",
+  "key_connections": [
+    "Les Whitaker",
+    "William Loomer",
+    "Robert A. Maheu",
+    "I. Irving Davidson",
+    "Frank Sturgis",
+    "Manuel Artime",
+    "William L. Oltmans",
+    "George Brewer"
+  ],
+  "significance": "Jack Anderson's significance in the JFK context, based on these documents, is indirect. He is not directly linked to the assassination itself, but his connections to individuals and events of interest to the CIA, such as the activities at 'Liar's Lair' and inquiries about individuals associated with the agency, suggest that he operated in circles that were under surveillance. His role as a journalist likely brought him into contact with various individuals and organizations, some of which were of interest to the CIA.",
+  "document_ids": [
+    "104-10122-10288",
+    "124-10185-10099",
+    "104-10418-10045",
+    "157-10011-10066",
+    "104-10182-10007",
+    "104-10221-10039",
+    "124-10284-10081",
+    "104-10216-10100",
+    "104-10109-10320",
+    "104-10122-10141",
+    "157-10011-10078"
+  ]
+}

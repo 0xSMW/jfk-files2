@@ -1,0 +1,17 @@
+{
+  "entity_name": "MONTEAGUDO",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, there is no mention of an entity named MONTEAGUDO. The documents focus on meetings with Dr. MIRO Cardona, detailing discussions about anti-Castro propaganda, underground activities, and a potential commando raid in Cuba. These discussions include requests for U.S. support, arms, information on arms received by the Castro regime, and a proposal for the Revolutionary Council to establish a government on Cuban soil. The meetings occurred around October 6, 1961, and were documented in memoranda dated October 10, 1961.",
+  "key_connections": [
+    "Dr. MIRO Cardona",
+    "Castro regime",
+    "Revolutionary Council"
+  ],
+  "significance": "Without direct mention of MONTEAGUDO, it's impossible to assess their significance in the JFK context based on these documents. The documents primarily concern anti-Castro activities and U.S. involvement in Cuban affairs.",
+  "document_ids": [
+    "104-10227-10150",
+    "104-10232-10004",
+    "104-10236-10056"
+  ]
+}

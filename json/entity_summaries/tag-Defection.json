@@ -1,0 +1,41 @@
+{
+  "entity_name": "Defection",
+  "entity_type": "tag",
+  "document_count": 20,
+  "summary": "The documents highlight various instances of defection, involving individuals from different countries and organizations, including Cuba, the Soviet Union, North Korea, and Yugoslavia. These defections often involve intelligence officers, military personnel, and government officials. The motivations behind these defections range from ideological disagreements and fear of persecution to seeking a better life or providing intelligence to foreign powers. The CIA and FBI are frequently involved in investigating and managing these defections, gathering information, and assessing the potential impact on national security. Several documents detail plans to encourage or facilitate defections, as well as the aftermath and consequences of such actions, including potential exposure of assets and operations. The timeline spans from the late 1950s to the late 1970s, indicating a sustained interest in defection as an intelligence tool and a source of concern.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Soviet Union",
+    "Cuba",
+    "North Korea",
+    "Yugoslavia",
+    "Lee Harvey Oswald",
+    "Yuri Nosenko",
+    "Fidel Castro",
+    "KGB"
+  ],
+  "significance": "While not directly related to the JFK assassination in most cases, the documents reveal the broader context of Cold War espionage and intelligence operations, including the defection of individuals who may have had knowledge or involvement in events related to the assassination. For example, the defection of Yuri Nosenko, a KGB officer, is mentioned in relation to Lee Harvey Oswald's time in the Soviet Union. The documents also highlight the CIA's interest in Cuban defectors and their potential use in operations against Fidel Castro, which indirectly touches upon the political climate surrounding the assassination.",
+  "document_ids": [
+    "104-10219-10283",
+    "104-10308-10168",
+    "104-10247-10042",
+    "194-10013-10144",
+    "104-10100-10199",
+    "124-90110-10071",
+    "104-10209-10259",
+    "104-10225-10012",
+    "104-10093-10010",
+    "180-10145-10409",
+    "104-10122-10411",
+    "104-10171-10021",
+    "124-10280-10030",
+    "104-10210-10021",
+    "104-10164-10032",
+    "104-10174-10037",
+    "104-10179-10134",
+    "180-10131-10324",
+    "104-10100-10411",
+    "104-10102-10231"
+  ]
+}

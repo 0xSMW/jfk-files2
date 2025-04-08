@@ -1,0 +1,25 @@
+{
+  "entity_name": "General Carter",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "summary": "Based on the provided documents, General Carter appears in the context of high-level meetings and discussions concerning covert operations and foreign policy during the early to mid-1960s. The documents reference meetings of the Special Group (Augmented) and the 303 Committee, where actions related to Cuba (Operation MONGOOSE), North Vietnam, and other regions were discussed. General Carter's specific role is not explicitly detailed in these summaries, but his presence at these meetings suggests involvement in the planning or oversight of these sensitive operations. The documents span from 1962 to 1964, indicating a period of active involvement in these matters. The documents do not directly link General Carter to the JFK assassination, but his involvement in covert operations and policy decisions during this period is evident.",
+  "key_connections": [
+    "President Johnson",
+    "Special Group (Augmented)",
+    "303 Committee",
+    "Operation MONGOOSE"
+  ],
+  "significance": "The documents do not directly link General Carter to the JFK assassination. His significance lies in his apparent involvement in covert operations and policy decisions related to Cuba and other regions during the early 1960s, as indicated by his presence at Special Group and 303 Committee meetings.",
+  "document_ids": [
+    "178-10003-10090",
+    "104-10306-10018",
+    "104-10306-10003",
+    "124-10274-10029_multirif_redacted",
+    "104-10306-10010",
+    "178-10003-10016",
+    "178-10003-10001",
+    "202-10001-10187",
+    "178-10004-10056",
+    "104-10306-10021"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "entity_name": "Classification",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The documents highlight 'Classification' primarily in the context of managing sensitive information and determining the appropriate level of security for specific documents. Several documents pertain to the classification of document EX 3600, justifying its classification due to its connection to Operation MHCHAOS, the inclusion of information from sensitive sources and methods, and classified FBI reports. The documents also address requests from external bodies like the Senate Select Committee (Church Committee) and the House Select Committee on Assassinations (HSCA) for access to classified documents, outlining the considerations involved in releasing or withholding information. Internal procedures for managing classified personnel information and cover status are also mentioned. A blank 'Personality File Action Request' form indicates the existence of a classified system for managing individual records.",
+  "key_connections": [
+    "Operation MHCHAOS",
+    "FBI",
+    "Senate Select Committee (Church Committee)",
+    "House Select Committee on Assassinations (HSCA)",
+    "EX 3600",
+    "Tennent Bagley",
+    "Central Cover Staff (CCS)"
+  ],
+  "significance": "In the JFK context, 'Classification' is significant because it governs the accessibility of information related to the assassination. The classification status of documents can determine what information is available to the public, researchers, and investigators, potentially influencing our understanding of the events surrounding the assassination and any related investigations. The documents suggest a concern for protecting sensitive sources, methods, and ongoing operations, which could be relevant to understanding why certain information related to the JFK assassination remains classified.",
+  "document_ids": [
+    "178-10003-10176",
+    "104-10145-10436",
+    "104-10074-10347",
+    "104-10061-10181",
+    "104-10063-10430",
+    "104-10074-10349",
+    "104-10221-10003",
+    "104-10063-10434"
+  ]
+}

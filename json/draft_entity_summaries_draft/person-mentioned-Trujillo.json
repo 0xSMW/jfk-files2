@@ -1,0 +1,30 @@
+{
+  "entity_name": "Trujillo",
+  "entity_type": "person-mentioned",
+  "document_count": 13,
+  "summary": "Rafael Trujillo was the dictator of the Dominican Republic from 1930 until his assassination in 1961. The documents suggest that the CIA considered or discussed his assassination. He is mentioned in the context of potential assassinations of foreign leaders, alongside figures like Fidel Castro and Patrice Lumumba. The documents also reference covert operations in the Dominican Republic during his rule, including providing arms to dissident groups. Gordon Gray's notes mention discussions related to potential assassinations of foreign leaders, including Trujillo, during his time as Special Assistant to President Eisenhower, raising questions about the extent of Eisenhower's and other officials' knowledge and authorization of these plans.",
+  "key_connections": [
+    "Gordon Gray",
+    "Fidel Castro",
+    "Patrice Lumumba",
+    "Eisenhower",
+    "Richard Bissell",
+    "McGeorge Bundy"
+  ],
+  "significance": "Trujillo's significance in the JFK context lies in the fact that he was a foreign leader who was considered as a potential target for assassination by the CIA. The discussions and planning around his assassination, as revealed in these documents, shed light on the CIA's \"executive action\" capability and the broader context of US foreign policy during the Cold War. The documents raise questions about the extent of presidential knowledge and authorization of such actions, which is relevant to understanding the environment in which decisions regarding Cuba and other foreign policy matters were made during the Kennedy administration.",
+  "document_ids": [
+    "124-90135-10074",
+    "176-10033-10151",
+    "157-10002-10105",
+    "104-10263-10111",
+    "157-10014-10137",
+    "157-10014-10117",
+    "104-10186-10308",
+    "104-10061-10053",
+    "157-10014-10100",
+    "104-10171-10230",
+    "157-10008-10234",
+    "157-10011-10018",
+    "104-10164-10110"
+  ]
+}

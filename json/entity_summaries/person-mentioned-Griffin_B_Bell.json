@@ -1,0 +1,21 @@
+{
+  "entity_name": "Griffin B. Bell",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Based on the provided documents, Griffin B. Bell is mentioned in the context of the House Select Committee on Assassinations (HSCA) investigations into the assassinations of Martin Luther King Jr. and John F. Kennedy. The documents consist of communications between the FBI, HSCA, and other agencies, including requests for files, informant information, and agent details. While Bell's specific role or actions are not explicitly detailed in these summaries, the documents indicate that the HSCA was seeking information from the FBI related to their investigations, and Bell's name appears in the context of these inquiries. The documents do not provide a timeline of Bell's involvement or specific details about his connections to the assassinations themselves, but rather place him within the broader context of the HSCA's investigative process.",
+  "key_connections": [
+    "FBI",
+    "House Select Committee on Assassinations (HSCA)",
+    "Martin Luther King Jr.",
+    "John F. Kennedy"
+  ],
+  "significance": "The significance of Griffin B. Bell in the JFK context, based solely on these documents, appears to be related to the House Select Committee on Assassinations (HSCA) investigations. The documents suggest that the HSCA was seeking information from the FBI, and Bell's name is mentioned in the context of these inquiries. However, the documents do not provide specific details about his role or actions, making it difficult to assess his direct involvement or influence on the investigation.",
+  "document_ids": [
+    "124-10180-10324_multirif",
+    "124-10180-10320_multirif",
+    "124-10180-10323_multirif",
+    "124-10180-10236_multirif",
+    "180-10125-10172",
+    "124-10180-10325_multirif"
+  ]
+}

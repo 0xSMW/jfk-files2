@@ -1,0 +1,24 @@
+{
+  "entity_name": "David E. Murphy",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "summary": "David E. Murphy was a CIA employee. The documents mention his potential compromise to the North Vietnamese Intelligence Service, personnel actions related to his retirement and resignation, and letters of appreciation for his service. He is mentioned in the context of House Select Committee on Assassinations (HSCA) requests for information on individuals, suggesting his involvement or knowledge was of interest to the committee. The documents span from 1964 to 1978, indicating a long career with the CIA. He is also mentioned in documents related to Yuriy Ivanovich Nosenko, a Soviet KGB officer who defected to the U.S. and was later confined by the CIA.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Yuriy Ivanovich Nosenko",
+    "North Vietnamese Intelligence Service"
+  ],
+  "significance": "David E. Murphy's significance in the JFK context stems from his CIA employment and the HSCA's interest in him. The documents suggest he may have had knowledge or involvement relevant to the assassination investigation, though the specific nature of his role is not explicitly detailed. His connection to the Nosenko case, which was a matter of significant controversy within the CIA, further underscores his potential relevance.",
+  "document_ids": [
+    "104-10226-10001",
+    "104-10174-10072",
+    "104-10061-10181",
+    "104-10061-10292",
+    "104-10222-10038",
+    "180-10145-10409",
+    "104-10106-10300",
+    "104-10227-10000",
+    "104-10224-10002",
+    "180-10143-10233"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "entity_name": "Danny O. Coulson",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, Danny O. Coulson is mentioned in the context of communications between the FBI, its field offices, and the House Select Committee on Assassinations (HSCA) during its investigation into the assassinations of Martin Luther King Jr. and John F. Kennedy. The documents primarily consist of teletypes, memoranda, and letters dated February 10, 1978, indicating that Coulson's name appeared in requests for files, informant information, and agent details related to the HSCA's investigation. The documents do not provide specific details about Coulson's role or involvement, but his name is included in the context of FBI responses to HSCA requests for information.",
+  "key_connections": [
+    "FBI",
+    "House Select Committee on Assassinations (HSCA)",
+    "Martin Luther King Jr.",
+    "John F. Kennedy"
+  ],
+  "significance": "The significance of Danny O. Coulson in the JFK context, based solely on these documents, appears to be related to his potential involvement in the FBI's response to the HSCA's investigation into the assassination. The documents suggest that information related to him was requested by the HSCA, possibly as part of their broader inquiry into the circumstances surrounding the assassination and the FBI's role in the investigation.",
+  "document_ids": [
+    "124-10180-10324_multirif",
+    "124-10180-10320_multirif",
+    "124-10180-10323_multirif",
+    "124-10180-10236_multirif"
+  ]
+}

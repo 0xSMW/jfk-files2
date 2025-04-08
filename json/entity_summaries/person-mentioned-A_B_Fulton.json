@@ -1,0 +1,21 @@
+{
+  "entity_name": "A. B. Fulton",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, A. B. Fulton is mentioned in the context of CIA and FBI activities investigated by the Senate Select Committee (SSC). The documents do not provide specific details about Fulton's role or activities. Instead, Fulton's name appears within collections of documents related to broader investigations into intelligence operations, including those concerning the FBI's policies, procedures, personnel, and interactions with the SSC, as well as CIA activities such as support to the Secret Service, investigations into leaks, the MHCHAOS program, corporate cover operations, and sensitive security operations. The documents do not offer enough information to determine Fulton's specific involvement or significance.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Senate Select Committee (SSC)",
+    "Secret Service",
+    "MHCHAOS program",
+    "Douglas Durham",
+    "American Indian Movement (AIM)"
+  ],
+  "significance": "The provided documents do not contain enough information to determine A. B. Fulton's significance in the JFK assassination context. The documents focus on broader investigations into CIA and FBI activities.",
+  "document_ids": [
+    "124-10185-10099",
+    "124-10274-10001_multirif",
+    "124-10273-10086_multirif"
+  ]
+}

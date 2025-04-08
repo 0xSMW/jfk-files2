@@ -1,0 +1,19 @@
+{
+  "entity_name": "Resource Allocation",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Resource allocation, in the context of these documents, refers to the distribution of funds, personnel, and other assets to support intelligence activities and the declassification of JFK assassination records. The documents highlight concerns and discussions surrounding the adequacy and efficiency of resource allocation within the CIA and related government bodies. Specifically, the Senate Select Committee hearing transcript mentions resource allocation as part of the DCI's responsibilities in coordinating intelligence activities. The memos and letters related to the JFK Assassination Records Review Board (ARRB) reveal concerns about meeting deadlines due to resource constraints and the CIA's commitment to providing adequate resources for declassification efforts while balancing the need to protect sensitive information. The documents also show the ARRB expressing concerns about the pace of declassification due to resource limitations, prompting internal CIA discussions about funding and resource allocation for the project.",
+  "key_connections": [
+    "DCI (Director of Central Intelligence)",
+    "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities",
+    "JFK Assassination Records Review Board (ARRB)",
+    "CIA (Central Intelligence Agency)",
+    "JFK assassination records declassification"
+  ],
+  "significance": "Resource allocation is significant because it directly impacts the ability of government agencies, particularly the CIA, to fulfill their intelligence mandates and comply with legal requirements, such as the declassification of JFK assassination records. Adequate resource allocation ensures timely and thorough execution of tasks, while insufficient resources can lead to delays, incomplete work, and concerns about transparency and accountability. The ARRB's concerns about resource allocation highlight the importance of proper funding and staffing for the declassification process to ensure public access to historical records.",
+  "document_ids": [
+    "157-10014-10121",
+    "104-10331-10118",
+    "104-10330-10100"
+  ]
+}

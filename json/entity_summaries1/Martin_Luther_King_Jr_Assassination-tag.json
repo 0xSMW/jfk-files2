@@ -1,0 +1,18 @@
+{
+  "entity_name": "Martin Luther King Jr. Assassination",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents relate to the investigation into the assassination of Martin Luther King Jr. by various entities, including the FBI and the House Select Committee on Assassinations (HSCA). The HSCA requested information from the FBI and other sources regarding the assassination, including information on potential suspects and organizations. One document specifically mentions Eric Starvo Galt (an alias of James Earl Ray) as a suspect. The documents also reveal the FBI's involvement in gathering information and communicating with its field offices and other agencies regarding the investigation. The HSCA's investigation aimed to uncover the truth behind the assassination and determine if any other individuals or groups were involved.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "FBI",
+    "Eric Starvo Galt (James Earl Ray)",
+    "Flemish Order of Militants (VMO)"
+  ],
+  "significance": "While the primary focus of these documents is the Martin Luther King Jr. assassination, the HSCA's investigation into this event occurred concurrently with their investigation into the John F. Kennedy assassination. The documents highlight the HSCA's broad mandate to investigate political assassinations and the FBI's role in providing information to the committee. The mention of the HSCA in these documents connects the MLK assassination investigation to the broader context of investigations into political violence during that era.",
+  "document_ids": [
+    "124-10180-10324_multirif",
+    "104-10066-10260",
+    "104-10072-10034"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "entity_name": "Lansdale",
+  "entity_type": "person-mentioned",
+  "document_count": 14,
+  "summary": "General Lansdale is a person mentioned in the context of Operation Mongoose, a covert operation aimed at destabilizing the Cuban government and potentially assassinating Fidel Castro. The documents suggest Lansdale was involved in discussions and planning related to Mongoose, as well as potential assassination plots. He appears in meeting minutes, memoranda, and summaries related to the Special Group Augmented (SGA) and Task Force W. The documents span from 1962 to 1975, indicating a sustained interest or investigation into Lansdale's role in these activities. The documents highlight his involvement in covert actions against Cuba and his interactions with other key figures involved in Operation Mongoose.",
+  "key_connections": [
+    "Fidel Castro",
+    "Operation Mongoose",
+    "Special Group Augmented (SGA)",
+    "Task Force W",
+    "William Harvey",
+    "Richard Goodwin",
+    "John A. McCone",
+    "Bruce Cheever"
+  ],
+  "significance": "Lansdale's significance in the JFK context lies in his potential involvement in Operation Mongoose, which included discussions and planning related to the possible assassination of Fidel Castro. The Senate Select Committee on Intelligence Activities (SSCIA) investigated these activities, and Lansdale's role was scrutinized as part of the broader inquiry into potential executive actions and covert operations against Cuba. His connections to individuals like William Harvey, who was involved in ZRRIFLE (a CIA assassination program), further underscore his relevance to the JFK assassination context.",
+  "document_ids": [
+    "157-10005-10236",
+    "157-10011-10000",
+    "157-10008-10241",
+    "135-10001-10246",
+    "157-10014-10109",
+    "157-10011-10010",
+    "104-10062-10073",
+    "157-10011-10007",
+    "157-10002-10001",
+    "157-10014-10117",
+    "157-10011-10009",
+    "157-10008-10238",
+    "104-10306-10020",
+    "157-10011-10003"
+  ]
+}

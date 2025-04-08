@@ -1,0 +1,41 @@
+{
+  "entity_name": "Oswald",
+  "entity_type": "person-mentioned",
+  "document_count": 18,
+  "summary": "Lee Harvey Oswald is a central figure in the JFK assassination context, primarily known as the alleged assassin of President John F. Kennedy. The documents reflect investigations and discussions surrounding his actions, motives, and connections in the aftermath of the assassination. These documents include intelligence reports, memoranda, and summaries from various agencies like the CIA, NSA, and Senate Select Committee, detailing reactions to his actions, inquiries into potential conspiracies, and the impact of his death on US foreign and domestic policy. The documents also touch upon investigations into Oswald's possible connections with foreign entities, such as Cuba and the Soviet Union, and the scrutiny of related intelligence activities. The Warren Commission's work and its reception are also mentioned, as well as the House Select Committee on Assassinations (HSCA) and the Assassination Records Review Board (ARRB) inquiries into the matter.",
+  "key_connections": [
+    "John F. Kennedy",
+    "Robert Kennedy",
+    "Lyndon B. Johnson",
+    "Warren Commission",
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board (ARRB)",
+    "Cuba",
+    "Soviet Union",
+    "Yuriy Nosenko",
+    "CIA",
+    "NSA",
+    "Mark Lane"
+  ],
+  "significance": "Oswald's significance lies in his alleged role as the assassin of President Kennedy, making him a pivotal figure in one of the most significant events in American history. The investigations into his background, motives, and potential connections have shaped much of the historical narrative and continue to fuel debate and scrutiny.",
+  "document_ids": [
+    "144-10001-10102",
+    "104-10095-10263",
+    "144-10001-10103",
+    "144-10001-10119",
+    "144-10001-10288",
+    "104-10065-10028",
+    "104-10331-10209",
+    "104-10302-10022",
+    "180-10144-10068",
+    "144-10001-10185",
+    "104-10336-10000",
+    "104-10331-10226",
+    "104-10331-10318",
+    "104-10326-10002",
+    "104-10534-10173",
+    "135-10001-10287",
+    "104-10333-10006",
+    "104-10331-10149"
+  ]
+}

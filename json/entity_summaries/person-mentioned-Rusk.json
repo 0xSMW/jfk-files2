@@ -1,0 +1,29 @@
+{
+  "entity_name": "Rusk",
+  "entity_type": "person-mentioned",
+  "document_count": 13,
+  "summary": "Based on the provided documents, Dean Rusk is mentioned in the context of discussions and reactions following President Kennedy's assassination and related foreign policy matters. He appears in documents detailing meetings with President Johnson on various foreign policy issues, including Cuba and Vietnam, and in reports summarizing global reactions to Kennedy's death. Rusk's presence in these documents suggests his involvement in high-level discussions and decision-making processes during this critical period. The documents also indicate his role in the Johnson administration's foreign policy initiatives and intelligence operations.",
+  "key_connections": [
+    "President Johnson",
+    "John F. Kennedy",
+    "McCone",
+    "Castro",
+    "General Carter"
+  ],
+  "significance": "Dean Rusk's significance in the JFK context lies in his role as a key figure in the Johnson administration, involved in foreign policy discussions and decisions following Kennedy's assassination. His presence in documents related to Cuba, Vietnam, and global reactions to Kennedy's death highlights his influence and involvement in shaping the US response to these events.",
+  "document_ids": [
+    "135-10001-10246",
+    "144-10001-10084",
+    "104-10306-10018",
+    "144-10001-10315",
+    "144-10001-10103",
+    "157-10011-10007",
+    "104-10306-10011",
+    "144-10001-10367",
+    "157-10011-10009",
+    "157-10008-10150",
+    "104-10306-10020",
+    "206-10001-10000",
+    "157-10011-10003"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "entity_name": "Orr, Patricia",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Patricia Orr is identified in payroll records related to the U.S. House of Representatives Select Committee on Assassinations (HSCA). These records include payroll certifications for February 1977, detailing her name, social security number, and salary, confirming her employment during that period. The Assassination Records Review Board (ARRB) also issued notifications regarding the postponement of the release of Social Security numbers from HSCA staff payroll records, which would include Orr's information. The documents suggest that Patricia Orr was a staff member of the HSCA.",
+  "key_connections": [
+    "HSCA (House Select Committee on Assassinations)",
+    "Jacqueline Hess",
+    "S. Jonathan Blackmer"
+  ],
+  "significance": "Patricia Orr's significance lies in her being a staff member of the HSCA, which investigated the JFK assassination. Her payroll records are part of the official documentation related to the committee's operations and staffing.",
+  "document_ids": [
+    "180-10125-10106",
+    "180-10060-10440",
+    "180-10068-10310"
+  ]
+}

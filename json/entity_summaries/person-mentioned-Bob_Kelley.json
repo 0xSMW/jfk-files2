@@ -1,0 +1,17 @@
+{
+  "entity_name": "Bob Kelley",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "The documents mention \"Bob Kelley\" as FBI Director Clarence M. Kelley. He appears in a 1983 document related to a Senate hearing transcript discussing FBI intelligence activities. Additionally, a 1976 Senate Select Committee hearing transcript mentions him in the context of intelligence activities. A 1975 memorandum is also included, but it does not directly involve Kelley.",
+  "key_connections": [
+    "Clarence M. Kelley",
+    "FBI",
+    "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities"
+  ],
+  "significance": "The significance of Bob Kelley (Clarence M. Kelley) in the JFK context is not explicitly detailed in these documents. However, his role as FBI Director during the period covered by these documents suggests a potential connection to investigations and intelligence activities related to the assassination, though the documents provided do not offer specifics.",
+  "document_ids": [
+    "124-10185-10195_multirif",
+    "157-10014-10121",
+    "157-10005-10254"
+  ]
+}

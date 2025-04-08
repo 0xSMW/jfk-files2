@@ -1,0 +1,17 @@
+{
+  "entity_name": "Wilson",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, information about \"Wilson\" is limited. The documents primarily focus on Operation MONGOOSE and Congressional delegations' visits to CIA stations. While Wilson is mentioned across three documents, the context does not provide specific details about their role, significance, or timeline of involvement. The documents suggest Wilson may be connected to Operation MONGOOSE or Congressional briefings, but further information is needed to determine the nature and extent of their involvement.",
+  "key_connections": [
+    "Operation MONGOOSE",
+    "Congressional Delegations (CODELS)",
+    "CIA"
+  ],
+  "significance": "The significance of Wilson in the JFK assassination context cannot be determined based on the provided documents. More context is needed to understand their role and connection to relevant events.",
+  "document_ids": [
+    "157-10011-10007",
+    "157-10011-10009",
+    "104-10400-10311"
+  ]
+}

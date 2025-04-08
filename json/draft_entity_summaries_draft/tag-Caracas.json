@@ -1,0 +1,24 @@
+{
+  "entity_name": "Caracas",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "Caracas appears in the documents primarily in the context of CIA stations and investigations related to the House Select Committee on Assassinations (HSCA) and the assassination of Orlando Letelier. CIA cables instructed personnel in Caracas, along with those in Guayaquil and Quito, on how to interact with HSCA investigators, emphasizing the need to limit comments to their cover activities. One document mentions reporters traveling to Caracas to investigate potential connections between the Letelier assassination and Cuban exiles, Venezuelan secret police, the CIA, and Chilean secret police. Another document relays statements of Manolo Ray regarding Cuban exiles, though the connection to Caracas is not explicitly stated.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Guayaquil",
+    "Quito",
+    "Orlando Letelier",
+    "Cuban exiles",
+    "Venezuelan secret police",
+    "CIA",
+    "Chilean secret police",
+    "Manolo Ray"
+  ],
+  "significance": "Caracas's significance lies in its role as a location of a CIA station involved in communications regarding the HSCA investigation and as a destination for reporters investigating potential connections to the Letelier assassination. The documents suggest that Caracas was a point of interest in exploring potential links between various actors and the assassination of Orlando Letelier.",
+  "document_ids": [
+    "104-10067-10044",
+    "104-10177-10217",
+    "104-10065-10105",
+    "104-10179-10122"
+  ]
+}

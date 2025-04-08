@@ -1,0 +1,26 @@
+{
+  "entity_name": "President Kennedy",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "President John F. Kennedy is a central figure in these documents, primarily in the context of reactions and policy shifts following his assassination. The documents reveal immediate international responses to his death, including evaluations of his successor, President Lyndon B. Johnson, by foreign leaders and governments. These evaluations range from confidence in Johnson's commitment to Kennedy's policies to concerns about potential shifts in U.S. foreign policy. Additionally, the documents highlight the impact of Kennedy's assassination on Cuban-U.S. relations, with reports indicating Fidel Castro's reaction and the Cuban government's policy adjustments. The documents also touch upon potential security concerns and diplomatic actions taken in response to perceived threats or disrespectful actions following Kennedy's death, such as a Cambodian broadcast and restrictions on memorial services in Cuba.",
+  "key_connections": [
+    "President Johnson",
+    "Fidel Castro",
+    "Cuban Government",
+    "U.S. Government",
+    "Belgian Foreign Minister",
+    "Ambassador Kamel",
+    "Operation MONGOOSE"
+  ],
+  "significance": "President Kennedy's assassination serves as a pivotal event influencing international relations, domestic policy considerations, and security measures as reflected in the immediate aftermath documented in these reports. His death triggered a cascade of evaluations, policy adjustments, and security concerns, highlighting his significant role in shaping global affairs during his presidency.",
+  "document_ids": [
+    "144-10001-10103",
+    "144-10001-10061",
+    "144-10001-10369",
+    "144-10001-10110",
+    "176-10036-10129",
+    "157-10011-10008",
+    "177-10001-10060",
+    "144-10001-10087"
+  ]
+}

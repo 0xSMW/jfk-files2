@@ -1,0 +1,25 @@
+{
+  "entity_name": "Code Names",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents reference code names used by the CIA in association with assets, operations, and individuals. These code names appear in various contexts, including lists of assets, communications regarding Cuban operations, and classified messages detailing agent activities. The use of code names is a common practice in intelligence operations to protect the identities of individuals and the nature of activities. The documents span from an undated list to cables and messages from late 1963, indicating ongoing operations around the time of the JFK assassination. The documents suggest a network of individuals and operations managed by the CIA, where code names served a crucial role in maintaining secrecy and operational security.",
+  "key_connections": [
+    "CIA",
+    "JMWAVE (Miami)",
+    "Cuban operations",
+    "Agents",
+    "Assets",
+    "ICEN A",
+    "IDER B",
+    "LDEN C",
+    "LUEN D",
+    "IDEN E"
+  ],
+  "significance": "In the context of the JFK assassination, the use of code names highlights the clandestine nature of intelligence operations potentially relevant to the events surrounding the assassination. While the documents do not directly link code names to the assassination, they illustrate the operational environment and the individuals involved in covert activities during that period. The presence of code names in communications and lists suggests a need for secrecy and the potential involvement of various individuals and assets in sensitive operations, which could be relevant to understanding the broader context of the assassination.",
+  "document_ids": [
+    "104-10079-10391",
+    "104-10234-10105",
+    "104-10075-10042",
+    "104-10076-10000"
+  ]
+}

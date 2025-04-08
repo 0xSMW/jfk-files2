@@ -1,0 +1,24 @@
+{
+  "entity_name": "JWAVE",
+  "entity_type": "sender",
+  "document_count": 3,
+  "summary": "JWAVE is identified as the sender of classified messages and cables. The documents suggest JWAVE was involved in sensitive operations related to Cuban exiles and assets within Cuba during the early 1960s. Specifically, JWAVE was concerned with the exfiltration of assets like AMFAUMA-25 from Cuba, especially in light of the exfiltration of AMFAUNA-14 and potential threats to other assets. JWAVE also requested Personal Opinion and Attitude Surveys (POAS) on individuals like Carlos Roman and Mariano Ramirez, indicating an intelligence-gathering role. Furthermore, JWAVE reported on the leadership changes within the Cuban exile community, specifically the replacement of Miro Cardona by Manuel Ray, and the alleged involvement of the United States.",
+  "key_connections": [
+    "Director",
+    "AMFAUMA-25",
+    "AMFAUNA-14",
+    "Cuba",
+    "Miro Cardona",
+    "Manuel Ray",
+    "Adolf A. Berle Jr.",
+    "Carlos Roman",
+    "Mariano Ramirez",
+    "Miami Herald"
+  ],
+  "significance": "While the documents do not directly link JWAVE to the JFK assassination, they reveal JWAVE's involvement in Cuban-related intelligence operations during the period leading up to the assassination. The focus on Cuban exiles, potential assets in Cuba, and leadership changes within the exile community suggests JWAVE was part of a network involved in monitoring and potentially influencing events related to Cuba, a key area of interest and tension during the Cold War and relevant to potential motives surrounding the assassination.",
+  "document_ids": [
+    "104-10075-10365",
+    "104-10298-10184",
+    "104-10076-10295"
+  ]
+}

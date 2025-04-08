@@ -1,0 +1,22 @@
+{
+  "entity_name": "Personal History",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents relate to personal history statements and files of individuals, including David Reed Fromer, Emilio Americo Rodriguez, Myriam Finkelman Winer, Thomas B. CASASIN, and Daniel Flores. These statements typically include biographical information, education, family details, employment history, financial status, and military service. The documents serve as records of individuals' backgrounds, potentially used for security clearances, investigations, or personnel reviews. One document focuses on whether Myriam Finkelman Winer poses a threat or intends to enter the United States. Another document references a review of Thomas B. CASASIN's personnel file by the House Select Committee on Assassinations staff, suggesting a connection to the JFK assassination investigation. The documents span from 1961 to 1978, indicating a range of time periods for the collection and review of personal history information.",
+  "key_connections": [
+    "David Reed Fromer",
+    "Emilio Americo Rodriguez",
+    "Myriam Finkelman Winer",
+    "Thomas B. CASASIN",
+    "Daniel Flores",
+    "House Select Committee on Assassinations"
+  ],
+  "significance": "Personal history statements and files are significant in the JFK context as they provide background information on individuals who may have been involved in or connected to the assassination. The review of Thomas B. CASASIN's personnel file by the House Select Committee on Assassinations highlights the importance of these records in identifying potential leads or uncovering relevant information related to the assassination.",
+  "document_ids": [
+    "194-10004-10141",
+    "104-10129-10002",
+    "124-10291-10319",
+    "104-10193-10075",
+    "104-10117-10075"
+  ]
+}

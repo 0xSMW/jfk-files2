@@ -1,0 +1,43 @@
+{
+  "entity_name": "COMINT",
+  "entity_type": "tag",
+  "document_count": 24,
+  "summary": "COMINT, or Communications Intelligence, refers to intelligence gathered from intercepted communications. In the context of the JFK assassination, COMINT played a significant role in monitoring communications from Cuba, the Soviet Union, and other relevant locations. The NSA utilized COMINT to intercept and analyze communications related to Cuban activities, Soviet military communications, and other intelligence relevant to the assassination. Documents reveal that the NSA provided information derived from COMINT to the House Select Committee on Assassinations (HSCA) and the Assassination Records Review Board (ARRB) to aid in their investigations. COMINT was used to assess Cuban reactions to Kennedy's death, monitor Cuban military alerts, and track the movement of individuals and cargo between Cuba and other locations. The documents also highlight the challenges in preserving and retrieving historical COMINT data, which sometimes hindered investigations.",
+  "key_connections": [
+    "NSA (National Security Agency)",
+    "HSCA (House Select Committee on Assassinations)",
+    "ARRB (Assassination Records Review Board)",
+    "Cuba",
+    "Soviet Union",
+    "JFK Assassination",
+    "David F. Christensen",
+    "Nicholas B. Stevenson"
+  ],
+  "significance": "COMINT is significant in the JFK assassination context because it provided a means to gather intelligence on potential foreign involvement, particularly from Cuba and the Soviet Union. Intercepted communications were analyzed to understand Cuban reactions to the assassination, monitor military activities, and identify potential leads related to the event. The NSA's COMINT capabilities and records were scrutinized by investigative bodies like the HSCA and ARRB to determine if any relevant information was missed or suppressed. The classification and handling of COMINT information were also subjects of inquiry, as seen in the concerns raised about the sensitivity of communications intelligence and its proper handling.",
+  "document_ids": [
+    "104-10150-10038",
+    "144-10001-10175",
+    "180-10143-10070",
+    "104-10076-10371",
+    "124-10223-10159",
+    "144-10001-10143",
+    "144-10001-10178",
+    "144-10001-10206",
+    "144-10001-10169",
+    "144-10001-10153",
+    "144-10001-10148",
+    "104-10106-10143",
+    "144-10001-10191",
+    "144-10001-10083",
+    "206-10001-10010",
+    "124-90074-10051",
+    "144-10001-10185",
+    "144-10001-10202",
+    "144-10001-10310",
+    "144-10001-10279",
+    "144-10001-10287",
+    "206-10001-10000",
+    "144-10001-10068",
+    "144-10001-10249"
+  ]
+}

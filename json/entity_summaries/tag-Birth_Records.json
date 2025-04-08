@@ -1,0 +1,19 @@
+{
+  "entity_name": "Birth Records",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents highlight the use of birth records in investigations, specifically concerning name changes and potential discrepancies. In the context of Manuel Marti, birth records were checked to verify his identity and uncover a name change from Manuel Adrian Sotomayor-Badillo, along with his father's name change. Similarly, birth records were sought in Italy for Vincenzo Roselli and his family, but no records were found. These instances demonstrate the importance of birth records in establishing identities and uncovering potential inconsistencies or aliases, which could be relevant in various investigations.",
+  "key_connections": [
+    "Manuel Marti",
+    "Adrian Martir",
+    "Adrian Sotomayor",
+    "Vincenzo Roselli",
+    "Italian National Police"
+  ],
+  "significance": "Birth records are significant in the JFK context as they are used to verify identities, uncover potential aliases, and investigate connections between individuals. Discrepancies or the absence of records can raise suspicions and prompt further investigation into a person's background and potential involvement in relevant events.",
+  "document_ids": [
+    "194-10004-10370",
+    "194-10004-10369",
+    "124-10223-10121"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "entity_name": "DeLoach",
+  "entity_type": "person-mentioned",
+  "document_count": 13,
+  "summary": "Based on the provided documents, DeLoach appears in the context of FBI activities and internal communications. The documents do not provide specific details about DeLoach's role or actions, but rather mention him in the context of broader FBI operations, such as responses to Senate Select Committee inquiries, handling sensitive information from the CIA, and investigations into individuals like John Roselli, Gabriel Mannarino, and Santo Trafficante, Jr. DeLoach's name appears in memos and teletypes related to the FBI's handling of intelligence, liaison with other agencies (like the CIA), and responses to external inquiries. The documents suggest DeLoach was involved in the administrative and operational aspects of the FBI during the 1960s and 1970s.",
+  "key_connections": [
+    "John Roselli",
+    "Gabriel Mannarino",
+    "Santo Trafficante, Jr.",
+    "James Angleton",
+    "J. Edgar Hoover",
+    "Sam J. Papich",
+    "Robert Kennedy",
+    "Sam Giancana",
+    "CIA",
+    "Senate Select Committee on Intelligence Activities (SSC)"
+  ],
+  "significance": "The documents do not directly link DeLoach to the JFK assassination. His significance lies in his involvement in FBI operations and communications during the period relevant to the assassination and subsequent investigations. His role appears to be more administrative and operational within the FBI, rather than directly involved in the events surrounding the assassination.",
+  "document_ids": [
+    "124-10223-10088",
+    "124-10326-10103",
+    "124-10203-10468",
+    "124-10223-10082",
+    "124-10223-10083",
+    "157-10011-10093",
+    "124-10204-10209",
+    "124-10326-10105",
+    "124-10203-10465",
+    "124-10264-10209_multirif",
+    "124-10271-10013",
+    "124-90137-10467",
+    "124-10203-10246"
+  ]
+}

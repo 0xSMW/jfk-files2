@@ -1,0 +1,22 @@
+{
+  "entity_name": "L'Allier",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "L'Allier appears to be an individual within the FBI, possibly in a liaison role with the CIA. The documents indicate that L'Allier was a point of contact for the CIA, receiving memos and requests from S.J. Papich regarding various CIA operations and individuals of interest. These operations include using Cubana Airlines employees as couriers between the U.S. and Cuba, planting articles to discredit the Fair Play for Cuba Committee (FPCC), and utilizing informants in Cuba. The memos span from September 1960 to August 1961, suggesting a period of active collaboration between the FBI and CIA on matters related to Cuba.",
+  "key_connections": [
+    "S.J. Papich",
+    "Ismael Rodriguez",
+    "Cubana Airlines",
+    "CIA",
+    "Fair Play for Cuba Committee (FPCC)",
+    "Jorge Beliard",
+    "Petros Moutsos"
+  ],
+  "significance": "L'Allier's significance in the JFK context lies in their role as an FBI liaison with the CIA during a period of intense focus on Cuba. The documents suggest involvement in covert operations and intelligence gathering related to Cuba, which is relevant given the complex relationship between the U.S. and Cuba leading up to the assassination. The connections to individuals and organizations involved in Cuban affairs may provide insights into the broader intelligence landscape of the time.",
+  "document_ids": [
+    "124-90139-10050",
+    "124-90140-10071",
+    "124-90137-10467",
+    "124-90137-10067"
+  ]
+}

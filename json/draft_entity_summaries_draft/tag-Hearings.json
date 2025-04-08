@@ -1,0 +1,30 @@
+{
+  "entity_name": "Hearings",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The documents reference hearings held by the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (SSCIA), also known as the Church Committee. These hearings, primarily conducted in 1975 and 1976, investigated various aspects of CIA activities, including potential assassination attempts on foreign leaders like Fidel Castro and Patrice Lumumba, CIA operations against Cuba (Operation Mongoose, JMWAVE), and counterintelligence methodologies. The hearings feature testimonies from key figures such as James Angleton, Bronson Tweedy, Robert G. Halley, and Richard Goodwin. The transcripts reveal details about the CIA's relationships with exile groups, its involvement in foreign affairs, and internal changes within the agency. A notable pattern is the focus on CIA activities during the early 1960s and the potential for abuse of power.",
+  "key_connections": [
+    "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (SSCIA)",
+    "CIA",
+    "James Angleton",
+    "Bronson Tweedy",
+    "Robert G. Halley",
+    "Richard Goodwin",
+    "Fidel Castro",
+    "Patrice Lumumba",
+    "Operation Mongoose",
+    "JMWAVE",
+    "Cuba",
+    "Counterintelligence"
+  ],
+  "significance": "While the hearings directly address CIA activities and potential abuses of power, their significance in the JFK assassination context lies in the potential connections between the CIA's covert operations and the events surrounding the assassination. The hearings reveal details about CIA operations against Cuba and relationships with Cuban exile groups, which are relevant to understanding potential motives and actors involved in the assassination. The testimony of Robert G. Halley, former Chief of Station for CIA's JMWAVE in Miami, is particularly relevant due to its focus on Cuban operations and activities around the time of the Kennedy assassination. The hearings provide a broader context for understanding the political climate and the CIA's role during that period.",
+  "document_ids": [
+    "157-10014-10089",
+    "157-10014-10046",
+    "157-10014-10006",
+    "157-10014-10047",
+    "157-10014-10067",
+    "157-10014-10005",
+    "157-10014-10081"
+  ]
+}

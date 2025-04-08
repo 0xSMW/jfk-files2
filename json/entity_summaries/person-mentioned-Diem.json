@@ -1,0 +1,40 @@
+{
+  "entity_name": "Diem",
+  "entity_type": "person-mentioned",
+  "document_count": 21,
+  "summary": "Ngo Dinh Diem was the President of South Vietnam. The documents reveal a growing tension between the U.S. and Diem's government, with Diem and Ngo Dinh Nhu considering reducing American personnel due to perceived infringements on Vietnamese sovereignty. The documents also detail various coup plots against Diem's regime, with the U.S. grappling with its policy on intervention. CIA reports and telegrams discuss the planning of coups by Vietnamese generals and political oppositionists, including potential U.S. support or assurances. The documents also mention Diem's proposal for a 100,000-man increase in GVN forces and concerns about his government's stability and actions. The documents span from 1961 to 1964, with a concentration in 1963 leading up to the coup that overthrew and assassinated Diem.",
+  "key_connections": [
+    "Nguyen Khanh",
+    "Duong Van Minh",
+    "Tran Thien Khiem",
+    "Ngo Dinh Nhu",
+    "John F. Kennedy",
+    "McGeorge Bundy",
+    "Henry Cabot Lodge",
+    "Viet Cong"
+  ],
+  "significance": "Diem's leadership and the U.S. policy towards his regime were significant factors in the escalating conflict in Vietnam. The documents suggest that the U.S. was aware of and potentially involved in the coup that led to Diem's assassination, which occurred shortly before President Kennedy's assassination. The instability in South Vietnam and the U.S. involvement were key foreign policy issues during Kennedy's presidency.",
+  "document_ids": [
+    "206-10001-10014",
+    "104-10306-10018",
+    "206-10001-10003",
+    "176-10036-10073",
+    "176-10036-10131",
+    "176-10036-10095",
+    "144-10001-10110",
+    "176-10036-10129",
+    "176-10036-10149",
+    "176-10036-10173",
+    "104-10302-10028",
+    "104-10306-10020",
+    "176-10037-10491",
+    "176-10036-10103",
+    "176-10036-10115",
+    "176-10036-10142",
+    "206-10001-10016",
+    "176-10036-10143",
+    "206-10001-10001",
+    "176-10036-10179",
+    "177-10002-10097"
+  ]
+}

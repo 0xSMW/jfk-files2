@@ -1,0 +1,23 @@
+{
+  "entity_name": "MI-6",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "MI-6, British Intelligence, appears in these documents primarily in the context of information sharing with U.S. intelligence agencies like the CIA and FBI. Their role involves providing information related to individuals and events of interest to U.S. investigations, including potential provocateurs in Cuba, claims related to Lee Harvey Oswald, and unauthorized travel to Cuba. The documents span from 1961 to 1964, indicating a period of active information exchange. A notable pattern is MI-6's role as an information source, often relaying intelligence gathered from their own sources, such as British newspapermen or observations from their London post.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Robert Morten Geddes",
+    "Sergyj Czornonoh",
+    "Lee Harvey Oswald",
+    "Levi Laub",
+    "Gavin Young",
+    "Cuban Embassy (London)"
+  ],
+  "significance": "MI-6's significance in the JFK assassination context lies in its role as an intelligence provider, offering potentially relevant information about individuals and events that may have connections to Oswald or Cuba. Their information contributed to the broader investigative efforts of U.S. agencies, though the direct impact or validity of their intelligence is not explicitly detailed in these documents.",
+  "document_ids": [
+    "104-10226-10045",
+    "104-10012-10035",
+    "124-90137-10284",
+    "124-10058-10420"
+  ]
+}

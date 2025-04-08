@@ -1,0 +1,29 @@
+{
+  "entity_name": "Beth Mills",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "summary": "Based on the provided documents, Beth Mills is a former employee of the CIA. The documents detail efforts by the CIA in March 1997 to comply with the JFK Assassination Records Collection Act of 1992. As part of this compliance, CIA stations were instructed to contact former employees, including Beth Mills, residing in various locations (Paris, Wachtberg-Pech, Mexico City, Caracas, Trieste, Hong Kong, and Costa Rica) to inform them that their names appear in JFK assassination records. The purpose of contacting these former employees was to advise them of the potential public release of their names and to offer guidance on how to request postponement of public disclosure if they believed their safety or sensitive activities could be compromised. The documents suggest a coordinated effort to inform former employees about the potential impact of the JFK Assassination Records Collection Act on their privacy and security.",
+  "key_connections": [
+    "CIA",
+    "Paris Station",
+    "Bonn Station",
+    "Mexico City Station",
+    "Caracas Station",
+    "Hong Kong Station",
+    "San Jose Station",
+    "Office of Covert Communications (OCC)",
+    "Office of Collection Coordination (OCC)",
+    "JFK Assassination Records Collection Act of 1992"
+  ],
+  "significance": "Beth Mills' significance in the JFK context, based solely on these documents, lies in the fact that her name appears in JFK assassination records. The documents do not specify the nature of her involvement or the reason her name is included in these records. Her inclusion is significant in the context of the CIA's efforts to comply with the JFK Assassination Records Collection Act by informing former employees about the potential release of their names.",
+  "document_ids": [
+    "104-10326-10036",
+    "104-10326-10037",
+    "104-10326-10031",
+    "104-10326-10032",
+    "104-10326-10033",
+    "104-10326-10038",
+    "104-10326-10034",
+    "104-10326-10035"
+  ]
+}

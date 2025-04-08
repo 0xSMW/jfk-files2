@@ -1,0 +1,19 @@
+{
+  "entity_name": "Daniel Ellsberg",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Daniel Ellsberg is mentioned in the context of FBI and CIA activities investigated by the Senate Select Committee (SENSTUDY) in 1975 and a Domestic Intelligence Division inspection report from 1971. While the documents do not explicitly detail Ellsberg's role, his name appears in connection with investigations into intelligence operations, including potential abuses of power such as mail opening activities and COINTELPRO. The documents suggest that Ellsberg's activities or the investigation thereof were of interest to the FBI and CIA during the early 1970s, leading to scrutiny by the Senate. The documents also mention Howard J. Osborn's testimony regarding activities of the CIA's Office of Security, including electronic surveillance, physical surveillance, Watergate contacts, covert informers, mail intercepts, and cooperation with local police.",
+  "key_connections": [
+    "Senate Select Committee (SENSTUDY)",
+    "FBI",
+    "CIA",
+    "COINTELPRO",
+    "Howard J. Osborn"
+  ],
+  "significance": "The provided documents do not directly link Daniel Ellsberg to the JFK assassination. His significance in these documents lies in his connection to investigations of intelligence activities and potential abuses of power by the FBI and CIA during the early 1970s.",
+  "document_ids": [
+    "124-10264-10191",
+    "124-10274-10127",
+    "157-10011-10078"
+  ]
+}

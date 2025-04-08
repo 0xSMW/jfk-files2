@@ -1,0 +1,26 @@
+{
+  "entity_name": "Raymond Rocca",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Raymond Rocca is mentioned in several documents related to investigations into the JFK assassination, particularly in the context of requests from the House Select Committee on Assassinations (HSCA) for information held by the Central Cover Staff (CCS). While the documents do not explicitly detail Rocca's role, his name appears alongside those of other individuals and entities of interest to the HSCA, such as George DeMohrenschildt, Leo Cherne, William Harvey, Richard Helms, James Angleton, and the Wackenhut Corporation. He is also mentioned in an inventory of Rockefeller Commission files. One document references a meeting with the Warren Commission. The documents suggest Rocca was likely a CIA employee or affiliate whose activities or knowledge were relevant to the investigations into the assassination.",
+  "key_connections": [
+    "George DeMohrenschildt",
+    "Leo Cherne",
+    "William Harvey",
+    "Richard Helms",
+    "James Angleton",
+    "Wackenhut Corporation",
+    "Lee Harvey Oswald",
+    "Jack Ruby"
+  ],
+  "significance": "Raymond Rocca's significance in the JFK assassination context lies in his potential involvement with the CIA and his connection to individuals and entities that were of interest to both the Warren Commission, the Rockefeller Commission, and the HSCA during their investigations into the assassination. The documents suggest he may have had knowledge or involvement that warranted scrutiny by these investigative bodies.",
+  "document_ids": [
+    "104-10059-10057",
+    "104-10061-10320",
+    "157-10011-10024",
+    "178-10004-10420",
+    "157-10004-10144",
+    "104-10061-10214",
+    "104-10224-10012"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "entity_name": "Daniel K. Inouye",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Daniel K. Inouye is mentioned in the context of the House Select Committee on Assassinations (HSCA) and the Senate Select Committee on Intelligence (SSCI) inquiries into the assassinations of President John F. Kennedy and Dr. Martin Luther King, Jr. While the documents do not explicitly detail Inouye's direct involvement, his presence is implied through the SSCI's investigation into Cuban intelligence networks and related materials, as well as requests for information related to Antonio Veciana and Sergyj Czornonoh's claims regarding Lee Harvey Oswald. The documents suggest that Inouye, as part of the SSCI, would have been involved in overseeing and directing the investigation into potential connections between Cuban intelligence and the JFK assassination.",
+  "key_connections": [
+    "Antonio Veciana",
+    "Lee Harvey Oswald",
+    "John F. Kennedy",
+    "House Select Committee on Assassinations (HSCA)",
+    "Senate Select Committee on Intelligence (SSCI)",
+    "Sergyj Czornonoh"
+  ],
+  "significance": "Daniel K. Inouye's significance in the JFK context stems from his role as a member of the Senate Select Committee on Intelligence (SSCI), which was involved in investigating potential connections between Cuban intelligence networks and the assassination of President Kennedy. His association with the SSCI places him in a position of oversight and responsibility for the investigation, although the specific details of his individual contributions are not explicitly outlined in these documents.",
+  "document_ids": [
+    "144-10001-10159",
+    "144-10001-10206",
+    "104-10431-10102",
+    "104-10012-10035"
+  ]
+}

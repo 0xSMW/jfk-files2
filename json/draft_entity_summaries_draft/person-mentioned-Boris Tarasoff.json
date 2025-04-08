@@ -1,0 +1,19 @@
+{
+  "entity_name": "Boris Tarasoff",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Boris Tarasoff was a person connected to the CIA, specifically mentioned in the context of the CIA station in Mexico City during Lee Harvey Oswald's visit. He was involved in interviews related to the CIA's operations in Mexico City, as indicated by a memorandum referencing information gleaned from his interviews. A memo also indicates that in 1962, he was selected as an interpreter for a Soviet Delegation under State Department cover, with no security objections raised. He may have been involved in support activities such as unilateral phone taps and photography operations targeting Cubans and Soviets, as well as liaison and covert action roles.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "David Phillips",
+    "CIA Mexico City Station",
+    "Soviet Delegation"
+  ],
+  "significance": "Boris Tarasoff's significance in the JFK context lies in his connection to the CIA station in Mexico City during the period when Lee Harvey Oswald visited. His interviews provided information related to the CIA's operations, potentially shedding light on the agency's activities and knowledge concerning Oswald. His role as an interpreter for a Soviet Delegation also adds a layer of complexity, given the Cold War context and the focus on Soviet activities.",
+  "document_ids": [
+    "180-10110-10121",
+    "180-10113-10119",
+    "104-10095-10161",
+    "104-10130-10339"
+  ]
+}

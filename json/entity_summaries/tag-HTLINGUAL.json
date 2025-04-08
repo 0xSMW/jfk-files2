@@ -1,0 +1,21 @@
+{
+  "entity_name": "HTLINGUAL",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "HTLINGUAL was a CIA project, as evidenced by its mention in several documents related to the JFK assassination investigation. The project is referenced in the context of information requests from the Assassination Records Review Board (ARRB) to the CIA, specifically concerning records related to the project. It appears in documents detailing briefing questions for the ARRB regarding the CIA's Directorate of Science and Technology (DS&T) and Directorate of Operations (DO). Additionally, HTLINGUAL is mentioned in a report outlining the activities of the CI/SIG (Special Investigations Group) within the CIA, indicating its involvement in counterintelligence and internal security. The timeline of HTLINGUAL's involvement is not explicitly detailed in these documents, but its connection to the CI/SIG suggests its operation spanned from at least 1955 to 1973.",
+  "key_connections": [
+    "CIA",
+    "ARRB (Assassination Records Review Board)",
+    "DS&T (Directorate of Science and Technology)",
+    "DO (Directorate of Operations)",
+    "CI/SIG (Special Investigations Group)"
+  ],
+  "significance": "HTLINGUAL's significance in the JFK assassination context lies in its potential connection to CIA activities and information that the ARRB sought to uncover during its investigation. The ARRB's repeated requests for information related to HTLINGUAL suggest that it was considered a potentially relevant project to the assassination, possibly involving counterintelligence, internal security, or other operations that could shed light on the events surrounding the assassination.",
+  "document_ids": [
+    "135-10001-10276",
+    "104-10335-10001",
+    "104-10330-10081",
+    "104-10336-10000",
+    "104-10301-10011"
+  ]
+}

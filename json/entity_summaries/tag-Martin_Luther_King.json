@@ -1,0 +1,16 @@
+{
+  "entity_name": "Martin Luther King",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents provided mention Martin Luther King in the context of indices searches, attendance at the World Peace Council Conference, and a station trace of an individual named Zanders. While the documents list King's name, they do not provide specific details about his role or significance in the JFK assassination context. The indices search request suggests a routine check of King's name against records. The mention in the context of the World Peace Council Conference indicates his association with individuals and organizations involved in peace movements. The station trace of Zanders does not directly connect King to the JFK assassination.",
+  "key_connections": [
+    "World Peace Council",
+    "Zanders"
+  ],
+  "significance": "Based on the provided documents, Martin Luther King's significance in the JFK assassination context is not directly apparent. The documents suggest routine monitoring or cross-referencing of his name, but do not establish a clear connection to the assassination itself.",
+  "document_ids": [
+    "104-10120-10502",
+    "104-10071-10041",
+    "104-10071-10143"
+  ]
+}

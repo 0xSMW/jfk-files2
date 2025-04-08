@@ -1,0 +1,17 @@
+{
+  "entity_name": "Louis Ivon",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Louis Ivon is mentioned in the documents as the recipient of a memorandum from Lynn Loisel regarding a phone call from Jimmy Johnson. The memorandum details information about David Ferrie's activities, including possible illegal activities and suspicious conversations. While the other two documents do not directly mention Louis Ivon, they are included in the list of documents related to him, suggesting a broader context of investigation or information gathering related to the JFK assassination.",
+  "key_connections": [
+    "Lynn Loisel",
+    "Jimmy Johnson",
+    "David Ferrie"
+  ],
+  "significance": "Louis Ivon's significance lies in his receipt of information related to David Ferrie, a figure of interest in the JFK assassination investigations. The memo suggests that Ivon was involved in receiving and potentially acting upon information regarding Ferrie's activities, indicating a role in the broader investigation or information gathering process.",
+  "document_ids": [
+    "180-10076-10105",
+    "104-10330-10081",
+    "104-10333-10006"
+  ]
+}

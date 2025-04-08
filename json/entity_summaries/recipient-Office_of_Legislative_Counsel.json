@@ -1,0 +1,22 @@
+{
+  "entity_name": "Office of Legislative Counsel",
+  "entity_type": "recipient",
+  "document_count": 6,
+  "summary": "The Office of Legislative Counsel (OLC) served as a liaison between the CIA and the United States Congress. The documents indicate that the OLC was actively involved in managing information requests from congressional committees, including the House Select Committee on Assassinations (HSCA). The OLC facilitated access to information, arranged meetings, and responded to inquiries related to sensitive topics, including the Kennedy assassination. They also handled logistical arrangements for intelligence-related events and managed access for congressional staff to sensitive materials. The OLC interacted with various congressional offices and committees, providing information and coordinating responses to their requests. The documents span from 1977 to 1978, indicating a period of active engagement with congressional oversight bodies.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "House Permanent Select Committee on Intelligence",
+    "Senate Select Committee on Intelligence",
+    "NSA",
+    "Directorate of Science and Technology"
+  ],
+  "significance": "The Office of Legislative Counsel's significance in the JFK assassination context lies in its role as the primary interface between the CIA and the HSCA. They were responsible for managing the flow of information to the committee, including responding to specific requests related to the assassination. The OLC's activities suggest a level of involvement in shaping the CIA's response to congressional inquiries about the JFK assassination.",
+  "document_ids": [
+    "104-10145-10047",
+    "104-10126-10253",
+    "104-10106-10143",
+    "104-10126-10194",
+    "104-10151-10188",
+    "104-10140-10101"
+  ]
+}

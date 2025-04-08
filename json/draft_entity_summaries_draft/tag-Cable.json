@@ -1,0 +1,36 @@
+{
+  "entity_name": "Cable",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The documents highlight 'Cable' primarily as a medium of communication used by the CIA, particularly within the Mexico City station, during the 1960s and 1970s. These cables cover a range of topics, including identity verification, visa requests, project updates (KDFACTOR, LIEMPTY), and personnel matters. They often contain sensitive information, operational details, and code names, indicating their importance in covert operations and intelligence gathering. The cables also reveal connections to specific individuals and projects, suggesting their role in coordinating activities and disseminating information within the agency. The documents span from 1963 to 1978, with a concentration in the early 1960s, indicating a period of intense activity related to Cuban matters and covert operations.",
+  "key_connections": [
+    "WELCOME HOS",
+    "CAM",
+    "KDFACTOR Project",
+    "LIEMPTY Project",
+    "Suzuki",
+    "Trans Pacific C",
+    "San Francisco",
+    "FELTRO",
+    "DANDORIC",
+    "EXP",
+    "TORKS",
+    "ALFONSO DIELLEOX",
+    "DTDORIC",
+    "HBEPITOME",
+    "ALFONSO DIBILDOX",
+    "CNE",
+    "FUSA"
+  ],
+  "significance": "In the context of the JFK assassination, the cables suggest the CIA's active involvement in covert operations and intelligence gathering in Mexico City, a location of interest in the investigation. The cables themselves don't directly mention the assassination, but the content reveals the operational environment and communication methods used by the CIA during that period. The identities, projects, and locations mentioned in the cables may hold clues or connections relevant to understanding the events surrounding the assassination.",
+  "document_ids": [
+    "104-10077-10369",
+    "104-10092-10202",
+    "104-10098-10380",
+    "104-10188-10023",
+    "104-10135-10145",
+    "104-10290-10062",
+    "104-10528-10149",
+    "104-10092-10267"
+  ]
+}

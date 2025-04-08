@@ -1,0 +1,26 @@
+{
+  "entity_name": "Land",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "summary": "Based on the provided documents, \"Land\" appears to be associated with discussions and meetings of the President's Foreign Intelligence Advisory Board (PFIAB) between 1962 and 1964. The documents do not provide specific details about Land's identity or role, but rather mention the PFIAB's activities related to intelligence matters, including Cuba, covert operations, reconnaissance programs, and discussions with the Director of Central Intelligence (DCI). The documents suggest that Land was likely a member of the PFIAB or otherwise involved in the board's activities, given the context of the meetings and discussions.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Director of Central Intelligence (DCI)",
+    "Cuba",
+    "Soviet Union",
+    "National Reconnaissance Office (NRO)",
+    "National Signals Intelligence (SIGINT)"
+  ],
+  "significance": "The significance of \"Land\" in the JFK context is indirect. The documents focus on the activities of the PFIAB, which advised the President on intelligence matters. While the documents do not explicitly link Land to the JFK assassination, the PFIAB's involvement in intelligence activities related to Cuba and the Soviet Union during this period could be relevant to understanding the broader context of the assassination.",
+  "document_ids": [
+    "206-10001-10012",
+    "206-10001-10004",
+    "104-10302-10000",
+    "206-10001-10005",
+    "206-10001-10013",
+    "206-10001-10006",
+    "206-10001-10010",
+    "206-10001-10007",
+    "206-10001-10000"
+  ]
+}

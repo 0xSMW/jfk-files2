@@ -1,0 +1,15 @@
+{
+  "entity_name": "Howarth, Thomas",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Thomas Howarth was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA). His name appears on multiple payroll certification reports for the committee, specifically for the periods of February 1977, November 1977, and December 1977. These documents list his name, social security number, and salary, confirming his employment during that time. The documents certify that he performed his assigned duties.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Thomas Howarth's significance lies in his employment with the HSCA, the committee tasked with investigating the assassination of President John F. Kennedy. While the specific nature of his role is not detailed in these payroll documents, his presence on the committee's payroll indicates his involvement in the investigation, contributing to the overall effort to understand the events surrounding the assassination.",
+  "document_ids": [
+    "180-10125-10106",
+    "180-10125-10093",
+    "180-10125-10092"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "entity_name": "John Newman",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "John Newman is mentioned in the context of discussions and investigations related to the JFK assassination records. Specifically, he is noted in a cable regarding a conference in Rio de Janeiro concerning the JFK assassination, where he was expected to be present alongside a purported CIA agent. The documents suggest that Newman's presence or involvement was of interest in the context of reviewing the JFK assassination, potentially related to intelligence gathering or analysis of the event. The documents do not provide explicit details about Newman's background or expertise, but his attendance at the Rio conference indicates some level of involvement or interest in the JFK assassination topic.",
+  "key_connections": [
+    "Fabian Escalante",
+    "Cuban CI officers",
+    "Alleged CIA officers",
+    "ARRB (JFK Board)"
+  ],
+  "significance": "John Newman's significance lies in his presence at a conference focused on reviewing the JFK assassination, suggesting his involvement in discussions or investigations related to the event. The documents highlight his connection to individuals and organizations potentially involved in intelligence activities related to the assassination.",
+  "document_ids": [
+    "104-10332-10000",
+    "104-10326-10072",
+    "104-10326-10079",
+    "104-10331-10149",
+    "104-10331-10152"
+  ]
+}

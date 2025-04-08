@@ -1,0 +1,27 @@
+{
+  "entity_name": "Assassinations",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents reference \"Assassinations\" primarily in the context of Congressional reviews and investigations into CIA activities. The USIB Ad Hoc Coordinating Group discussed responses to Senate Select Committee inquiries, specifically mentioning assassinations as a key area of interest. A P/Intelligence meeting included discussions about intelligence oversight and the Church Committee, which investigated potential CIA involvement in assassinations. The House Select Committee on Assassinations (HSCA) is mentioned in a request for CIA assistance with interviews in Mexico, indicating an active investigation into the topic. While the documents do not directly implicate the CIA in specific assassinations, they highlight the scrutiny and investigations surrounding the agency's potential involvement in such activities during the relevant time period.",
+  "key_connections": [
+    "USIB Ad Hoc Coordinating Group",
+    "Senate Select Committee",
+    "Church Committee",
+    "House Select Committee on Assassinations (HSCA)",
+    "CIA",
+    "Phoenix program",
+    "William Gaudet",
+    "Antonio Veciana",
+    "William C. Sturbitts",
+    "June Cobb Sharp",
+    "Henry P. Lopez"
+  ],
+  "significance": "In the JFK assassination context, the entity \"Assassinations\" represents the broader investigations and concerns regarding potential CIA involvement in political assassinations, which indirectly relates to the JFK assassination through the HSCA's investigation. The documents highlight the sensitivity and scrutiny surrounding the topic, indicating the importance of understanding the extent of any potential involvement by intelligence agencies in such activities.",
+  "document_ids": [
+    "124-10271-10299",
+    "178-10004-10314",
+    "104-10181-10174",
+    "178-10002-10091",
+    "180-10141-10015"
+  ]
+}

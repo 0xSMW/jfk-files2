@@ -1,0 +1,22 @@
+{
+  "entity_name": "Gary Hart",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Based on the provided documents, Gary Hart is mentioned in the context of the U.S. Senate Select Committee on Intelligence Activities (SSC) investigations during the mid-1970s. The documents primarily relate to the SSC's inquiries into intelligence activities, including those of the FBI and CIA. Gary Hart's specific role or involvement is not explicitly detailed in the summaries provided, but his name appears in documents related to the committee's work. The documents cover topics such as the FBI's provision of materials to the SSC regarding Martin Luther King, Jr., and the Southern Christian Leadership Conference (SCLC), covert CIA operations involving media and academics, and concerns about potential compromises of FBI operations and sources. One document mentions Senator Walter Mondale's trip to inspect CIA covert intelligence sites in Europe and a briefing for the SSC on National Intelligence Estimates.",
+  "key_connections": [
+    "U.S. Senate Select Committee on Intelligence Activities (SSC)",
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "FBI",
+    "CIA",
+    "Walter Mondale"
+  ],
+  "significance": "The provided documents do not directly link Gary Hart to the JFK assassination. His significance in these documents lies in his association with the Senate Select Committee on Intelligence Activities (SSC) during its investigations into intelligence operations in the 1970s.",
+  "document_ids": [
+    "124-10264-10206_multirif",
+    "157-10014-10125",
+    "124-10264-10191",
+    "124-10238-10329_multirif",
+    "124-10273-10053"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "entity_name": "Official Cover",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "Official Cover refers to a system used by the CIA to conceal the true identities and affiliations of its personnel. This involves creating a fabricated or alternative identity and employment history for an agent, often using other government agencies or private organizations as a front. The purpose is to provide a plausible explanation for the agent's activities and whereabouts, protecting them from exposure and enabling them to operate covertly. The documents highlight the establishment, modification, and cancellation of official cover for various individuals, detailing the agencies involved (e.g., U.S. Army, Department of State, DOD), the types of cover provided (Integrated State, Nominal State), and the administrative procedures for managing associated documentation and notifications. The documents also emphasize the importance of maintaining the secrecy of the cover, with specific instructions regarding employment verification and record-keeping.",
+  "key_connections": [
+    "Guy VITATE",
+    "Charlotte Z. BUSTOS-VIDELA",
+    "Joseph E. Piccolo",
+    "Robert Tyler Shaw",
+    "William M. Kent",
+    "Calvin W. HICKS",
+    "David S. Morales",
+    "U.S. Army",
+    "Department of State",
+    "DOD",
+    "Joint Operations Group",
+    "U.S. Army Records Analysis",
+    "U.S. Army Staff Group",
+    "MAZE unit"
+  ],
+  "significance": "In the context of the JFK assassination, official cover is significant because it represents a method by which individuals involved in covert operations could conceal their true roles and affiliations. Understanding the use of official cover can help researchers identify potential connections between individuals, organizations, and events related to the assassination, and assess the credibility of information provided by individuals who may have been operating under cover. The documents provided do not directly link official cover to the JFK assassination, but they illustrate the mechanisms and procedures used to create and maintain cover identities, which could be relevant to understanding the broader context of covert operations during that era.",
+  "document_ids": [
+    "104-10256-10428",
+    "104-10110-10314",
+    "104-10110-10295",
+    "104-10110-10298",
+    "104-10161-10154",
+    "104-10222-10040",
+    "104-10110-10307",
+    "104-10291-10021",
+    "104-10120-10275",
+    "104-10110-10291",
+    "104-10121-10226",
+    "104-10121-10119"
+  ]
+}

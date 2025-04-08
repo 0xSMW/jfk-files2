@@ -1,0 +1,23 @@
+{
+  "entity_name": "President Eisenhower",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "President Dwight D. Eisenhower is mentioned in the documents primarily in the context of alleged authorization of covert operations during his presidency. Specifically, he is implicated in a report regarding the Lumumba assassination plan in the Congo during 1960-1961, where it is alleged that he authorized the CIA's involvement, including the use of lethal biological agents. While the documents do not directly link Eisenhower to the JFK assassination, they highlight his potential role in authorizing covert actions and assassination plots during his time in office, which is a relevant context for understanding the environment in which such operations were considered and potentially carried out. The documents also reference the CIA's activities during his presidency, including those related to anti-Castro efforts and support for Cuban exiles, which later became significant in the JFK assassination context.",
+  "key_connections": [
+    "Patrice Lumumba",
+    "CIA",
+    "President Lopez Mateos",
+    "Winston Scott",
+    "President Dorticos",
+    "Fidel Castro",
+    "E. Howard Hunt"
+  ],
+  "significance": "While not directly linked to the JFK assassination in these documents, President Eisenhower's significance lies in the alleged authorization of covert operations, including assassination plots, during his presidency. This establishes a context for understanding the potential for such operations and the extent of authorization within the US government during that era. His administration's policies toward Cuba and involvement in the Congo are also relevant background information.",
+  "document_ids": [
+    "157-10014-10178",
+    "104-10171-10220",
+    "178-10004-10416",
+    "157-10005-10297",
+    "104-10173-10132"
+  ]
+}

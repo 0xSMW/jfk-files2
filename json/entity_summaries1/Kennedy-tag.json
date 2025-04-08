@@ -1,0 +1,24 @@
+{
+  "entity_name": "Kennedy",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents mention Kennedy primarily in the context of John F. Kennedy's presidency and its impact on various events. One document refers to the Western Army in Cuba being placed on alert following President Kennedy's death, indicating the immediate aftermath and potential security concerns. Another document discusses South Vietnamese rebel officers appealing to President Kennedy for support against the Diem government, highlighting his involvement in foreign affairs and the Vietnam War. A document also mentions the President's Foreign Intelligence Advisory Board's (PFIAB) consideration of covert action matters during Kennedy's presidency. Finally, a report from the Church Committee covers topics such as anti-Castro activities, organized crime, the CIA, and the assassination of John F. Kennedy.",
+  "key_connections": [
+    "Lyndon B. Johnson",
+    "Diem Government",
+    "CIA",
+    "Fidel Castro",
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Church Committee",
+    "Western Army (Cuba)",
+    "South Vietnamese rebel officers"
+  ],
+  "significance": "Kennedy, specifically John F. Kennedy, is central to understanding the political and international landscape during his presidency. His assassination is a focal point, triggering immediate reactions and investigations. His administration's foreign policy decisions, particularly regarding Cuba and Vietnam, are also significant. The documents suggest his involvement in covert actions and intelligence matters, as well as his role in shaping U.S. foreign policy during a critical period.",
+  "document_ids": [
+    "144-10001-10108",
+    "144-10001-10060",
+    "176-10037-10491",
+    "206-10001-10017",
+    "157-10014-10242"
+  ]
+}

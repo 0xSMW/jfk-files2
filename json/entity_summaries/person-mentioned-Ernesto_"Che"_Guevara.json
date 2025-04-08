@@ -1,0 +1,17 @@
+{
+  "entity_name": "Ernesto \"Che\" Guevara",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Ernesto \"Che\" Guevara is mentioned in three documents. The documents suggest that the CIA was interested in individuals connected to Guevara, potentially as sources of information. One document from 1963 details the potential recruitment of Jorge Antonio Abasolo Garcia, a Cuban industrial engineer with ties to Guevara, who was reportedly disillusioned with the Cuban regime. Another document outlines plans to maintain contact with a subject who has access to Guevara and high-level planning sessions at the Ministry of Industries. The third document is a monthly intelligence summary from 1960 that covers various topics related to Mexico and Cuba.",
+  "key_connections": [
+    "Jorge Antonio Abasolo Garcia",
+    "Gustavo Abasolo (AMSEVER-2)",
+    "Ministry of Industries (Cuba)"
+  ],
+  "significance": "The documents suggest that the CIA was actively monitoring individuals associated with Che Guevara, potentially seeking intelligence on Cuban activities and policies. While the documents do not directly link Guevara to the JFK assassination, they illustrate the CIA's interest in individuals connected to the Cuban government during this period.",
+  "document_ids": [
+    "104-10093-10109",
+    "104-10097-10360",
+    "124-10279-10258"
+  ]
+}

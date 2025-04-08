@@ -1,0 +1,22 @@
+{
+  "entity_name": "Interagency Cooperation",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Interagency cooperation, in the context of these documents, refers to the collaboration and information sharing between various U.S. government agencies, particularly intelligence and security services such as the CIA, FBI, Secret Service, Department of Defense, and Department of State. Its significance lies in its role in Presidential protection and national security. The documents highlight the importance of this cooperation in the aftermath of the JFK assassination, as seen in the Warren Commission's emphasis on improving interagency communication and coordination to prevent future security lapses. The documents also show that interagency cooperation was a topic of discussion during inquiries by the Senate Select Committee on Intelligence (SSCI) regarding counterintelligence programs, specifically concerning the FBI's role and relationships with other agencies in locations like West Berlin. The timeline spans from the Warren Commission hearings in the mid-1960s to SSCI inquiries in 1990, indicating a continued focus on interagency collaboration over several decades.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Secret Service",
+    "Warren Commission",
+    "Senate Select Committee on Intelligence (SSCI)",
+    "Department of Defense",
+    "Department of State",
+    "Presidential Protection"
+  ],
+  "significance": "In the JFK assassination context, interagency cooperation is significant because the Warren Commission identified failures in communication and coordination between agencies as potential contributing factors to the assassination. The emphasis on improving interagency cooperation reflects a desire to prevent similar security failures in the future, particularly concerning Presidential protection. The SSCI inquiries further underscore the ongoing importance of interagency collaboration in national security and counterintelligence activities.",
+  "document_ids": [
+    "104-10007-10345",
+    "104-10423-10337",
+    "124-10185-10214"
+  ]
+}

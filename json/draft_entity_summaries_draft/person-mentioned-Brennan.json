@@ -1,0 +1,19 @@
+{
+  "entity_name": "Brennan",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "D.J. Brennan is an individual mentioned in FBI memos from the 1960s, specifically in communications to W.C. Sullivan. Brennan's role appears to be related to managing and documenting the FBI's relationship with the CIA, particularly concerning information received from James Angleton of the CIA. The memos discuss procedures for handling information sourced from Angleton, including a procedure called 'Bureau Informant 100' and the maintenance of control files. Brennan also provides updates on the overall status of FBI-CIA relations, highlighting both conflicts and instances of cooperation. The documents suggest Brennan was involved in the administrative aspects of intelligence sharing and liaison activities between the FBI and CIA during this period.",
+  "key_connections": [
+    "W.C. Sullivan",
+    "James Angleton",
+    "CIA",
+    "FBI",
+    "Israeli Intelligence Service"
+  ],
+  "significance": "Brennan's significance in the JFK context, based on these documents, is primarily related to their role in managing the FBI's relationship with the CIA and handling information received from CIA sources. While the documents don't directly mention the JFK assassination, they provide insight into the intelligence community's operations and information-sharing practices during the period leading up to and following the assassination. The memos highlight the complexities and challenges of inter-agency cooperation and the handling of sensitive intelligence information.",
+  "document_ids": [
+    "124-10326-10103",
+    "124-10326-10104",
+    "124-10325-10318"
+  ]
+}

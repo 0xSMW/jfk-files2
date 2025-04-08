@@ -1,0 +1,34 @@
+{
+  "entity_name": "Bundy",
+  "entity_type": "person-mentioned",
+  "document_count": 20,
+  "summary": "McGeorge Bundy is mentioned in one document, a cable dated October 30, 1963, from the White House to Ambassador Lodge in Saigon. This cable addresses the U.S. position regarding a potential coup in South Vietnam, emphasizing controlled intervention and authorized clandestine disbursements to coup groups. Bundy's role in this context is as a key figure in shaping U.S. policy towards Vietnam during a critical period, specifically concerning the possibility of a coup. The document highlights the U.S. government's involvement in influencing political events in South Vietnam and Bundy's role in communicating these policies.",
+  "key_connections": [
+    "Ambassador Lodge",
+    "Vietnam",
+    "South Vietnam"
+  ],
+  "significance": "McGeorge Bundy's significance in the JFK context, based on the provided documents, lies in his role as a key figure in shaping U.S. policy towards Vietnam. The cable indicates the U.S. government's involvement in influencing political events in South Vietnam, specifically regarding a potential coup. While the document doesn't directly relate to the JFK assassination, it provides insight into the political climate and U.S. foreign policy decisions during the Kennedy administration.",
+  "document_ids": [
+    "157-10008-10241",
+    "135-10001-10246",
+    "144-10001-10084",
+    "144-10001-10103",
+    "176-10011-10152",
+    "104-10306-10003",
+    "157-10011-10010",
+    "157-10011-10007",
+    "104-10118-10427",
+    "206-10001-10005",
+    "104-10306-10010",
+    "176-10036-10173",
+    "157-10011-10009",
+    "104-10306-10016",
+    "157-10008-10238",
+    "157-10008-10150",
+    "104-10306-10020",
+    "176-10036-10085",
+    "157-10011-10018",
+    "206-10001-10016"
+  ]
+}

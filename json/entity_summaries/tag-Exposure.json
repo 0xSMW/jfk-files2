@@ -1,0 +1,23 @@
+{
+  "entity_name": "Exposure",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents highlight 'Exposure' primarily in the context of individuals threatening to reveal sensitive information related to the U.S. government and its operations. Philip Agee's actions in exposing CIA personnel, including details about their assignments in Mexico City in 1963, are documented, raising concerns about potential connections to the Kennedy assassination. Richard Case Nagell is also a central figure, threatening to expose his contacts within an organization ('WOF IRM') and the U.S. government if his demands are not met. These threats occurred around March 1969, with Nagell making appearances at the Zurich Consulate and the U.S. Consulate in Barcelona. The documents suggest a pattern of individuals using the threat of exposure as leverage against the U.S. government.",
+  "key_connections": [
+    "Philip Agee",
+    "CIA Personnel",
+    "Richard Case Nagell",
+    "WOF IRM",
+    "Mexico City",
+    "Ronald KESSLER",
+    "Zurich Consulate",
+    "Barcelona Consulate"
+  ],
+  "significance": "The significance lies in the potential compromise of sensitive information and the exposure of covert operations, particularly the potential links to the Kennedy assassination through the exposure of CIA personnel involved in activities in Mexico City in 1963. The threats of exposure from individuals like Nagell also suggest underlying tensions and potential vulnerabilities within the U.S. government and its intelligence apparatus.",
+  "document_ids": [
+    "104-10129-10101",
+    "104-10310-10142",
+    "104-10123-10020",
+    "104-10123-10017"
+  ]
+}

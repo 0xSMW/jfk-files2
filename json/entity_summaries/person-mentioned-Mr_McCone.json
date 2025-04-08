@@ -1,0 +1,26 @@
+{
+  "entity_name": "Mr. McCone",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "summary": "Mr. McCone appears in several documents related to covert operations, intelligence activities, and policy discussions during the Kennedy administration. The documents suggest he was a high-ranking official involved in decisions related to Cuba, including Operation Mongoose, reconnaissance flights, and potential sabotage. He also participated in discussions related to other regions such as Laos, Chile, Dominican Republic, and Panama. The documents also indicate his involvement in intelligence matters beyond Cuba, such as the National Reconnaissance Office (NRO), National Signals Intelligence (SIGINT) program, and foreign intelligence budgeting. One document contains notes specifically for Mr. McCone, covering a range of topics including international visits, personnel matters, and congressional relations. The timeline of involvement spans from 1962 to 1964, indicating sustained participation in key intelligence and policy discussions during this period. The documents highlight his role in overseeing and coordinating various intelligence and covert action initiatives.",
+  "key_connections": [
+    "Special Group (Augmented)",
+    "Brig. Gen. Lansdale",
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Chiang Ching-kuo",
+    "Joint Chiefs",
+    "Colonel Grogan"
+  ],
+  "significance": "Based on the documents, Mr. McCone's significance in the JFK context lies in his high-level involvement in covert operations and intelligence activities, particularly those related to Cuba. His role in Operation Mongoose and other actions against Cuba places him at the center of a key area of focus during the Kennedy administration. While the documents do not directly link him to the JFK assassination, his position and involvement in sensitive operations make him a figure of interest in understanding the broader context of U.S. policy and covert actions during that era.",
+  "document_ids": [
+    "206-10001-10015",
+    "202-10001-10219",
+    "104-10306-10024",
+    "206-10001-10006",
+    "178-10003-10016",
+    "104-10306-10007",
+    "206-10001-10011",
+    "206-10001-10007",
+    "104-10306-10021"
+  ]
+}

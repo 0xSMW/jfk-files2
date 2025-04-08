@@ -1,0 +1,24 @@
+{
+  "entity_name": "Dwight D. Eisenhower",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "summary": "Dwight D. Eisenhower, a former President of the United States, is mentioned in several documents related to CIA activities and historical events. His administration is referenced in connection to the planning of the Bay of Pigs invasion, as detailed in oral history interviews with Edward Lansdale. Documents also allude to security requirements for government employment and investigations during his presidency. Furthermore, his name appears in the context of CIA activities in the Congo and potential assassination of Patrice Lumumba, as well as potentially controversial CIA activities that could be misinterpreted or viewed as exceeding the Agency's charter. While not directly implicated in the JFK assassination, his administration's policies and the actions of the CIA under his leadership are relevant to understanding the broader historical context and the environment in which the assassination occurred.",
+  "key_connections": [
+    "Edward Lansdale",
+    "John F. Kennedy",
+    "Patrice Lumumba",
+    "CIA",
+    "Bay of Pigs invasion"
+  ],
+  "significance": "Dwight D. Eisenhower's significance in the JFK context lies primarily in the historical backdrop of his presidency, particularly concerning the CIA's activities and the planning of the Bay of Pigs invasion. While not directly involved in the assassination, the policies and operations initiated during his administration provide context for understanding the political climate and the actions of various agencies that may have indirectly contributed to the circumstances surrounding the assassination.",
+  "document_ids": [
+    "177-10001-10445",
+    "176-10030-10085",
+    "124-10183-10277_multirif_redacted",
+    "176-10030-10168",
+    "124-10183-10279_multirif_redacted",
+    "157-10014-10067",
+    "104-10303-10007",
+    "104-10106-10716"
+  ]
+}

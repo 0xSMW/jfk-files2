@@ -1,0 +1,21 @@
+{
+  "entity_name": "Burl F. Johnson",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Based on the provided documents, Burl F. Johnson is a person mentioned in the context of the House Select Committee on Assassinations (HSCA) investigations into the assassinations of Martin Luther King Jr. and John F. Kennedy. The documents consist of communications between the FBI, its field offices, and the HSCA, including requests for files, informant information, and agent details. While Burl F. Johnson's specific role or significance is not explicitly detailed in the summaries, the repeated mention of his name suggests he was likely an informant or an agent involved in the investigations, or that information related to him was of interest to the HSCA. The documents span a period around February 10, 1978, indicating the timeline of the HSCA's inquiry and the FBI's response to their requests.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "FBI",
+    "Martin Luther King Jr.",
+    "John F. Kennedy"
+  ],
+  "significance": "The significance of Burl F. Johnson in the JFK context is not explicitly stated in the provided summaries. However, his mention in documents related to the HSCA investigations suggests he may have been an informant, agent, or individual whose information was relevant to the inquiries into the assassinations of Martin Luther King Jr. and John F. Kennedy.",
+  "document_ids": [
+    "124-10180-10324_multirif",
+    "124-10180-10320_multirif",
+    "124-10180-10217_multirif",
+    "124-10180-10323_multirif",
+    "124-10180-10236_multirif",
+    "124-10180-10325_multirif"
+  ]
+}

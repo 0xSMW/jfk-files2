@@ -1,0 +1,25 @@
+{
+  "entity_name": "Counter Intelligence",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents reveal Counter Intelligence (CI) as a critical function within the CIA and other government agencies, focused on protecting sensitive information, operations, and personnel from compromise. CI activities included investigating leaks of classified information, managing security protocols for covert operations, and conducting surveillance. The Counter Intelligence Staff played a role in granting operational and security approvals for clandestine services. CI also collaborated with other entities, such as the Army Counter Intelligence (ACSI), on matters related to Cuban operations, agent referrals, and infiltration tactics. The documents span from 1958 to 1973, indicating a sustained focus on counterintelligence activities during this period.",
+  "key_connections": [
+    "Secret Service",
+    "MHCHAOS program",
+    "Clandestine Services",
+    "Office of Security",
+    "United Revolutionary Movement (URM)",
+    "Warren Commission",
+    "ACSI (Army Counter Intelligence)",
+    "JMWAVE",
+    "Task Force W"
+  ],
+  "significance": "In the context of the JFK assassination, Counter Intelligence is relevant due to its role in managing sensitive information, covert operations, and potential dealings with defectors. One document mentions the declassification review of Warren Commission documents, specifically withholding information about an agent under cover and dealings with defectors, which suggests CI's involvement in managing information related to the assassination investigation. The activities related to Cuban operations and agent handling could also be relevant, given the potential connections between Cuban exiles and the assassination.",
+  "document_ids": [
+    "124-10185-10099",
+    "104-10088-10070",
+    "104-10226-10011",
+    "104-10425-10008",
+    "104-10069-10185"
+  ]
+}

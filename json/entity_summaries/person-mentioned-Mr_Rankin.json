@@ -1,0 +1,18 @@
+{
+  "entity_name": "Mr. Rankin",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, \"Mr. Rankin\" is mentioned in the context of meetings with the Warren Commission. The documents do not provide specific details about Mr. Rankin's identity, role, or affiliation. He is referenced in memoranda summarizing meetings between CIA officials and the Warren Commission on March 12, 1964. These meetings covered topics such as Lee Harvey Oswald's time in the Soviet Union, a book found in Oswald's possessions possibly used for a cipher, the CIA's file on Oswald, and information on Jack Ruby. He is also mentioned in a dispatch forwarding excerpts of Warren Commission testimony by U.S. intelligence and security officials.",
+  "key_connections": [
+    "Warren Commission",
+    "CIA",
+    "Lee Harvey Oswald",
+    "Jack Ruby"
+  ],
+  "significance": "The significance of Mr. Rankin lies in his potential involvement or representation during meetings with the Warren Commission, which investigated the assassination of President Kennedy. However, without more specific information, his exact role and contribution remain unclear.",
+  "document_ids": [
+    "135-10001-10283",
+    "157-10004-10144",
+    "104-10423-10337"
+  ]
+}

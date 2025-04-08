@@ -1,0 +1,18 @@
+{
+  "entity_name": "James R. Schlesinger",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "James R. Schlesinger is mentioned in these documents primarily in the context of his role as Secretary of Defense in 1975. One document (104-10431-10006) is a memorandum from James Angleton to Schlesinger analyzing Soviet policy towards the United States based on information from a former KGB member. Another document (178-10004-10420) is an inventory of Rockefeller Commission files, which may indirectly relate to Schlesinger if the commission's investigations touched upon matters relevant to the Department of Defense. The third document (124-10271-10303) does not directly mention Schlesinger, but discusses CIA and FBI activities under review by the Senate Select Committee (SSC), which could potentially involve the Secretary of Defense depending on the nature of the activities under scrutiny. There is no direct evidence in these documents that explicitly links Schlesinger to the JFK assassination.",
+  "key_connections": [
+    "James Angleton",
+    "KGB",
+    "Senate Select Committee (SSC)",
+    "Rockefeller Commission"
+  ],
+  "significance": "Based on the provided documents, James R. Schlesinger's significance in the JFK context is minimal. He is mentioned as the Secretary of Defense receiving information related to Soviet policy and potentially being tangentially involved in investigations of CIA and FBI activities. There is no direct evidence linking him to the JFK assassination.",
+  "document_ids": [
+    "124-10271-10303",
+    "178-10004-10420",
+    "104-10431-10006"
+  ]
+}

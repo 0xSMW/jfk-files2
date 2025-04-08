@@ -1,0 +1,18 @@
+{
+  "entity_name": "Credit Check",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Credit checks were used by the CIA for various purposes, including vetting potential agents and providing cover for operations. One document mentions a search for credit records of Manuel Marti, which yielded negative results from two credit agencies in New York City. Another memo proposes using nonofficial cover for A&E assessments and credit checks on staff members. A classified message discusses employment cover and credit checks for AMMUG/1, who used the Inter-University Committee for Political and Social Action (IUCPSA) as a cover and is attempting to purchase a house. The documents suggest that credit checks were a standard procedure for assessing individuals and maintaining operational security.",
+  "key_connections": [
+    "Manuel Marti",
+    "REDSKIN agents",
+    "AMMUG/1",
+    "Inter-University Committee for Political and Social Action (IUCPSA)"
+  ],
+  "significance": "Credit checks were a tool used by the CIA to vet potential agents, maintain operational security, and provide cover for individuals involved in covert activities. While the documents do not directly link credit checks to the JFK assassination, they illustrate the CIA's methods for assessing individuals and maintaining secrecy, which could be relevant in understanding the broader context of the assassination.",
+  "document_ids": [
+    "194-10004-10399",
+    "104-10120-10378",
+    "104-10183-10335"
+  ]
+}

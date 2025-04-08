@@ -1,0 +1,20 @@
+{
+  "entity_name": "Allende",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Salvador Allende was the President of Chile whose overthrow is referenced in the documents. The documents primarily discuss the aftermath of his overthrow and the CIA's involvement in psychological operations to manage the narrative surrounding Chile under the Junta. One document mentions concerns about an individual's views on Allende's ouster and its potential impact on sensitive communications. Another document mentions contacts in Chile by Cuban exile leader Orlando Bosch Xavilla, along with CIA assessments of these individuals. The documents suggest that Allende's overthrow was a significant event that prompted considerable attention and covert actions by the CIA.",
+  "key_connections": [
+    "Junta (Chile)",
+    "Orlando Bosch Xavilla",
+    "David Phillips",
+    "NWBOLTON"
+  ],
+  "significance": "While not directly related to the JFK assassination, Allende's ouster is mentioned in the context of an individual's views on the event, raising concerns about their suitability for sensitive communications. This suggests that the circumstances surrounding Allende's removal from power were a point of contention and scrutiny, potentially influencing perceptions of other historical events.",
+  "document_ids": [
+    "104-10225-10030",
+    "104-10326-10073",
+    "104-10105-10102",
+    "124-10221-10245",
+    "180-10144-10130"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "entity_name": "Secrecy Agreement",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "Secrecy Agreements are formal documents used by the CIA and related entities to ensure individuals protect classified information. These agreements appear in various contexts, including the employment and termination of agents (like Ernest G. Maycrink/WIROGUE), commercial cover programs, and security protocols for classified systems (like BYEMAN). The agreements are used to manage the risk of sensitive information being disclosed, especially during congressional reviews, investigations (such as the HSCA's investigation into the JFK assassination), and the termination of agents who might reveal operational details. The documents highlight the CIA's consistent effort to maintain confidentiality and control information, particularly when dealing with potentially sensitive operations and personnel.",
+  "key_connections": [
+    "CIA",
+    "Ernest G. Maycrink (WIROGUE)",
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board (ARRB)",
+    "BYEMAN Control System",
+    "Commercial Cover Program"
+  ],
+  "significance": "In the JFK context, secrecy agreements are significant because they underscore the CIA's efforts to control information related to its operations. The documents reveal concerns about potential exposure of sensitive CIA activities during investigations, such as the HSCA's inquiry into the assassination. The presence of secrecy agreements in the context of commercial cover programs and agent terminations suggests a broader effort to manage information and prevent disclosures that could compromise CIA operations, potentially including those related to the JFK assassination.",
+  "document_ids": [
+    "124-10271-10000",
+    "104-10164-10000",
+    "104-10330-10133",
+    "104-10331-10121",
+    "104-10291-10003",
+    "104-10145-10262",
+    "104-10182-10003",
+    "104-10123-10220"
+  ]
+}

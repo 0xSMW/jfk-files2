@@ -1,0 +1,21 @@
+{
+  "entity_name": "Command Center",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The NSA SIGINT Command Center was a crucial operational hub for the National Security Agency during the period surrounding President John F. Kennedy's assassination. The documents indicate that the Command Center played a central role in monitoring and responding to intelligence and operational developments. Specifically, the 'Record of Events' documents from November 22 and 23, 1963, detail the Command Center's activities immediately following the assassination, including communications, intelligence reports, coordination with other agencies, and adjustments to alert conditions and mission coverage. The OPSUM reports provide summaries of significant intelligence matters, including alerts in Cuba and political situations in South Korea and Cambodia. The Command Center served as a focal point for gathering, analyzing, and disseminating critical information during a period of national crisis.",
+  "key_connections": [
+    "NSA",
+    "SIGINT",
+    "President John F. Kennedy",
+    "Cuba",
+    "South Korea",
+    "Prince Sihanouk"
+  ],
+  "significance": "The NSA SIGINT Command Center's significance in the JFK assassination context lies in its role as a central node for intelligence gathering and dissemination. The records of events from the Command Center provide a detailed timeline of the immediate responses and actions taken by the NSA following the assassination. These documents offer insights into the operational tempo and the types of information being monitored and communicated during this critical period. The Command Center's activities reflect the NSA's efforts to assess and respond to potential threats and maintain situational awareness in the wake of the assassination.",
+  "document_ids": [
+    "144-10001-10365",
+    "144-10001-10280",
+    "144-10001-10291",
+    "144-10001-10290"
+  ]
+}

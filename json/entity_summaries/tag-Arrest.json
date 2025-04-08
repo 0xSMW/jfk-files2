@@ -1,0 +1,34 @@
+{
+  "entity_name": "Arrest",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The documents discuss various arrests related to CIA operations, anti-Castro activities, and political unrest. These arrests span from 1961 to 1976 and involve individuals in Cuba, Mexico, and El Salvador. The arrests include agents (ANETE-1, AMLEO-3, AMFAUNA-26), political figures (Cesar Del Angel Fuentes), and individuals suspected of anti-Castro activities (Epifanio Romero-Delgado). The documents highlight the potential damage to CIA operations due to agent arrests, the involvement of foreign governments (Chilean government information on Cuban exiles), and the recruitment efforts following arrests. The circumstances surrounding the arrests vary, ranging from agitational activities to suspected espionage and anti-government actions.",
+  "key_connections": [
+    "ANETE-1",
+    "AMLEO-3",
+    "AMFAUNA-26",
+    "Cesar Del Angel Fuentes",
+    "Epifanio Romero-Delgado",
+    "Charlotta Maria Christ",
+    "José Rehberto Carrillo Calderón",
+    "Alejandro Gonez Montano",
+    "Orlando Bosch",
+    "Rolando Otero",
+    "Mitchell L. WER-BELL",
+    "Cuban exiles",
+    "CIA",
+    "DINA (Chilean Intelligence)",
+    "National Guard"
+  ],
+  "significance": "While the documents detail various arrests, their direct significance to the JFK assassination context is not explicitly stated. However, the documents provide insight into CIA operations, anti-Castro activities, and political unrest during the Cold War era, which are relevant to the broader historical context surrounding the assassination. The arrests of individuals involved in these activities could potentially have indirect connections to the events and investigations related to the JFK assassination.",
+  "document_ids": [
+    "104-10180-10180",
+    "124-10279-10020",
+    "104-10111-10079",
+    "104-10186-10021",
+    "104-10182-10137",
+    "194-10001-10495",
+    "104-10308-10127",
+    "124-10291-10040"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "entity_name": "Authentication Materials",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Authentication materials, as referenced in these documents, consist of items like passports, driver's licenses, voter certificates, and vaccination certificates. These materials were transferred to branches within the Technical Services Division (TSD), specifically TSD/DB and TSD/IB, for operational or background use. The receipts indicate a controlled process for handling these materials, requiring their return after use and notification in case of loss or destruction. The documents span from 1961 to 1964, suggesting ongoing use of such materials during this period. A notable pattern is the formal acknowledgment of transfer and the emphasis on accountability for these sensitive items.",
+  "key_connections": [
+    "TSD/DB",
+    "TSD/IB",
+    "Cuban passport",
+    "Mexican driver's license",
+    "Ernesto Jesus GARCIA Guzman"
+  ],
+  "significance": "In the context of the JFK assassination, authentication materials could be significant for operations involving individuals potentially connected to the assassination. The use of passports, licenses, and other identifying documents suggests efforts to create or verify identities for individuals involved in intelligence activities. The specific purpose and connection to the assassination would require further investigation beyond these documents.",
+  "document_ids": [
+    "104-10185-10247",
+    "104-10162-10108",
+    "104-10185-10209"
+  ]
+}

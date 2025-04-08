@@ -1,0 +1,23 @@
+{
+  "entity_name": "President Duvalier",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "President Duvalier of Haiti is mentioned in several documents primarily concerning political intrigue and security matters within Haiti during the 1960s. The documents portray Duvalier as the target of plots and opposition, particularly from figures like Clemard Joseph Charles. He is also shown engaging in communications with individuals like Irving Davidson, potentially for diplomatic or strategic purposes. The documents also suggest Duvalier's interest in improving Haiti's international image to attract foreign investment. While the documents do not directly link Duvalier to the JFK assassination, one memo mentions Jean K. Saurel, a Haitian official allegedly connected to the Ton Ton Macoutes, who also had connections to George and Jeanne de Mohrenschildt, acquaintances of Lee Harvey Oswald, creating an indirect association.",
+  "key_connections": [
+    "Clemard Joseph Charles",
+    "Irving Davidson",
+    "Jean K. Saurel",
+    "George de Mohrenschildt",
+    "Jeanne de Mohrenschildt",
+    "Rolando Masferrer"
+  ],
+  "significance": "President Duvalier's direct significance to the JFK assassination context is minimal. However, the connection of a Haitian official (Jean K. Saurel) with alleged ties to the Ton Ton Macoutes and acquaintances of Lee Harvey Oswald (George and Jeanne de Mohrenschildt) introduces a tangential link that warrants further scrutiny, though it does not establish any direct involvement.",
+  "document_ids": [
+    "124-10299-10042",
+    "104-10164-10112",
+    "124-10299-10044",
+    "104-10176-10069",
+    "194-10014-10116",
+    "104-10166-10262"
+  ]
+}

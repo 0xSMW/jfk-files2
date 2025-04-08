@@ -1,0 +1,19 @@
+{
+  "entity_name": "John Newman",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "John Newman is mentioned in the context of discussions and information related to the JFK assassination. He is specifically noted in a cable regarding a Rio de Janeiro conference on the JFK assassination, where he is expected to be present alongside a purported CIA agent (Cuban counter-espionage chief, Fabian Escalante). The documents suggest that Newman's presence or involvement is of interest in relation to the review of the JFK assassination, as indicated by the CIA's monitoring of the Rio conference. The documents do not provide details about Newman's specific role or expertise, but his attendance at the conference is considered noteworthy enough to be reported in a CIA cable.",
+  "key_connections": [
+    "Fabian Escalante",
+    "CIA",
+    "Cuban CI officers"
+  ],
+  "significance": "John Newman's significance lies in his attendance at a conference concerning the JFK assassination, particularly one that was monitored by the CIA and involved discussions with Cuban intelligence officers. His presence suggests he may have some expertise or involvement in the topic of the JFK assassination, warranting attention from intelligence agencies.",
+  "document_ids": [
+    "104-10332-10000",
+    "104-10326-10072",
+    "104-10326-10079",
+    "104-10331-10149",
+    "104-10331-10152"
+  ]
+}

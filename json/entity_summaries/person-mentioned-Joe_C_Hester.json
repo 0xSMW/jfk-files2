@@ -1,0 +1,21 @@
+{
+  "entity_name": "Joe C. Hester",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Joe C. Hester is mentioned in several documents related to the House Select Committee on Assassinations (HSCA) investigation into the assassinations of Martin Luther King Jr. and John F. Kennedy. The documents consist of communications between the FBI, its field offices, and the HSCA, indicating that the HSCA requested information from the FBI regarding Hester. The documents include requests for files, informant information, and agent details. The documents do not specify Hester's role or significance in the JFK assassination context, but his name appears in connection with FBI investigations and HSCA inquiries, suggesting he was a person of interest or had information relevant to the investigations.",
+  "key_connections": [
+    "FBI",
+    "House Select Committee on Assassinations (HSCA)",
+    "Martin Luther King Jr.",
+    "John F. Kennedy"
+  ],
+  "significance": "The significance of Joe C. Hester in the JFK context is not explicitly stated in the provided documents. However, his mention in FBI communications with the HSCA suggests he was a person of interest or had information relevant to the HSCA's investigation into the assassinations of Martin Luther King Jr. and John F. Kennedy.",
+  "document_ids": [
+    "124-10180-10324_multirif",
+    "124-10180-10320_multirif",
+    "124-10180-10217_multirif",
+    "124-10180-10323_multirif",
+    "124-10180-10236_multirif",
+    "124-10180-10325_multirif"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "entity_name": "John Martin",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, there is insufficient information to provide a comprehensive summary about John Martin. The documents mention his name in the context of Senate Select Committee requests for documents related to intelligence activities, including those related to Martin Luther King Jr. However, the documents do not specify John Martin's role, significance, connections, or timeline of involvement. The documents do not provide enough context to determine his significance or role in the JFK assassination context.",
+  "key_connections": [
+    "Martin Luther King Jr.",
+    "Senate Select Committee on Intelligence Activities",
+    "FBI"
+  ],
+  "significance": "Insufficient information to determine significance in the JFK context.",
+  "document_ids": [
+    "124-10271-10299",
+    "104-10057-10096",
+    "124-10271-10033_multirif_redacted",
+    "124-10274-10127"
+  ]
+}

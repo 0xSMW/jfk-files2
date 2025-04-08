@@ -1,0 +1,16 @@
+{
+  "entity_name": "Ross",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "The documents mention \"Ross\" in two distinct contexts. One document refers to an individual known as 'Ross' who was present at the Friar-s Club in Los Angeles with John Rosselli and Irving J. Leff in October 1962. The context involves Rosselli's activities and associations, including a conversation about firearm purchases during the Cuban Missile Crisis. The other two documents do not mention Ross, but are included in the set of documents provided.",
+  "key_connections": [
+    "John Rosselli",
+    "Irving J. Leff"
+  ],
+  "significance": "The significance of 'Ross' in the JFK context is unclear based on the provided documents. The connection to John Rosselli, who was allegedly involved in plots against Fidel Castro, suggests a potential link to organized crime and anti-Castro activities, which are relevant to some JFK assassination theories. However, without further information, the role and importance of 'Ross' remain uncertain.",
+  "document_ids": [
+    "104-10303-10007",
+    "124-10223-10074",
+    "180-10143-10072"
+  ]
+}

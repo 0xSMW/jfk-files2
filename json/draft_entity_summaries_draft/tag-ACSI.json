@@ -1,0 +1,28 @@
+{
+  "entity_name": "ACSI",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "ACSI (Army Counter Intelligence) is referenced in several documents related to CIA operations and investigations. The documents suggest ACSI's involvement in various activities, including investigations into individuals, sponsorship of trips (AMTRUNK-9), and Cuban operations. ACSI received information regarding the AMTRUNK/MHAPRON operation in January 1965. They also coordinated with JMWAVE on Cuban operations, agent referrals, and infiltration tactics in 1962. Furthermore, ACSI coordinated with the CIA, Army, and State Department regarding Clemard Joseph Charles, a Haitian banker, in 1963. The documents indicate a pattern of ACSI's collaboration with other agencies on intelligence matters and operations.",
+  "key_connections": [
+    "AMTRUNK-9",
+    "AMFAUNA-3",
+    "JMHAVE",
+    "WH/SA",
+    "Modesto Orlando Orozco Basulto",
+    "JMWAVE",
+    "Task Force W",
+    "Clemard Joseph Charles",
+    "CIA",
+    "Army",
+    "State Department"
+  ],
+  "significance": "Based on the provided documents, ACSI's significance in the JFK context appears to be related to its role in intelligence operations and investigations involving individuals and activities potentially relevant to understanding the broader landscape of covert operations during that era. While the documents don't directly link ACSI to the JFK assassination, their involvement in Cuban operations and coordination with other agencies suggests a potential connection to the overall intelligence environment of the time.",
+  "document_ids": [
+    "104-10119-10225",
+    "104-10234-10101",
+    "104-10234-10102",
+    "104-10117-10296",
+    "104-10069-10185",
+    "104-10217-10000"
+  ]
+}

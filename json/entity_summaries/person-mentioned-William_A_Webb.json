@@ -1,0 +1,18 @@
+{
+  "entity_name": "William A Webb",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "William A. Webb was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA). His name appears on multiple payroll and certification reports spanning from October 1977 to November 1978. These documents list his position, annual salary, and gross pay for the specified accounting periods. The consistent appearance of his name across these documents indicates his continued employment with the HSCA during this timeframe.",
+  "key_connections": [
+    "Select Committee on Assassinations",
+    "U.S. House of Representatives"
+  ],
+  "significance": "William A. Webb's significance lies in his employment with the HSCA, an organization tasked with investigating the JFK assassination. While the documents do not specify his exact role within the committee, his presence on payroll and certification reports confirms his involvement in the HSCA's operations during a crucial period of its investigation.",
+  "document_ids": [
+    "180-10125-10081",
+    "180-10125-10096",
+    "180-10125-10079",
+    "180-10125-10086",
+    "180-10125-10094"
+  ]
+}

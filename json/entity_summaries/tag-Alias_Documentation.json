@@ -1,0 +1,32 @@
+{
+  "entity_name": "Alias Documentation",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "Alias documentation refers to the creation and management of false identities and supporting documents (such as driver's licenses, social security cards, and other forms of identification) for individuals, primarily CIA operatives, to facilitate covert operations. In the context of the JFK assassination records, alias documentation is a sensitive topic due to its potential to reveal covert actions, intelligence collection methods, and the identities of individuals involved in clandestine activities. The Assassination Records Review Board (ARRB) negotiated with the CIA regarding the release of documents related to alias documentation, balancing the public interest in transparency with the need to protect ongoing intelligence operations and sources. The CIA sought to postpone or redact the release of this information, citing potential damage to diplomatic relations, litigation, and intelligence collection methods. The documents reveal a timeline spanning from the early 1960s to the late 1990s, indicating the ongoing use and sensitivity of alias documentation within the CIA. A notable pattern is the CIA's consistent concern over protecting this information, leading to negotiations and proposed compromises with the ARRB.",
+  "key_connections": [
+    "CIA",
+    "Assassination Records Review Board (ARRB)",
+    "Covert Actions",
+    "Mexico City Tapes",
+    "LITAMIL-9",
+    "Richard Gibson",
+    "James P. O'Connell",
+    "Harold F. Swenson",
+    "James Paul Olds",
+    "Bernard N. HILLARY"
+  ],
+  "significance": "Alias documentation is significant in the JFK assassination context because its release could potentially expose covert operations, intelligence sources, and methods related to the assassination or events leading up to it. The ARRB's efforts to declassify these records were met with resistance from the CIA, highlighting the sensitivity of this information and its potential impact on national security and foreign relations.",
+  "document_ids": [
+    "104-10332-10000",
+    "104-10123-10097",
+    "104-10330-10118",
+    "104-10131-10016",
+    "104-10331-10177",
+    "104-10331-10140",
+    "104-10303-10008",
+    "104-10123-10098",
+    "104-10331-10149",
+    "104-10331-10152",
+    "104-10120-10297"
+  ]
+}

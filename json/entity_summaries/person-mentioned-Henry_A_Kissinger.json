@@ -1,0 +1,18 @@
+{
+  "entity_name": "Henry A. Kissinger",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Henry A. Kissinger is mentioned in the context of investigations into intelligence activities and the Rockefeller Commission files. While the documents do not directly detail his role or actions, his name appears in inventories and memoranda related to sensitive matters investigated by the Senate Select Committee (SENSTUDY) and the Rockefeller Commission. These investigations covered a range of topics, including CIA activities, potential compromises of FBI operations, and the Kennedy assassination. The documents suggest that Kissinger's name is associated with high-level inquiries into intelligence matters during the 1970s, although the specific nature of his involvement is not detailed within these particular documents.",
+  "key_connections": [
+    "Senate Select Committee (SENSTUDY)",
+    "Rockefeller Commission",
+    "CIA",
+    "FBI"
+  ],
+  "significance": "The provided documents do not explicitly state Henry A. Kissinger's significance in the JFK assassination context. His appearance in the inventory of Rockefeller Commission files, which included documents related to the Kennedy assassination, suggests a potential indirect connection to the investigation, but the nature of this connection is not specified.",
+  "document_ids": [
+    "124-10264-10191",
+    "178-10004-10420",
+    "104-10224-10002"
+  ]
+}

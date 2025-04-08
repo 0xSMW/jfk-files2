@@ -1,0 +1,26 @@
+{
+  "entity_name": "Daily Summary",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "Daily Summaries, primarily from the CIA and NSA, provide regular intelligence updates on various global events, including those related to Cuba and the JFK assassination. These summaries cover a range of topics, such as military developments, international relations, internal situations within Cuba, economic activities, and subversive activities supported by Cuba. In the context of the JFK assassination, these summaries document Cuban reactions to the event, including Fidel Castro's speeches and the Cuban military's defensive posture. They also track potential connections or implications related to the assassination, such as reports on ultrarightist theories and internal unrest within Cuba following the event. The summaries span from November 1963 to October 1968, with a concentration of reports immediately following the assassination. A notable pattern is the consistent monitoring of Cuban activities and reactions in the aftermath of President Kennedy's death.",
+  "key_connections": [
+    "Central Intelligence Agency (CIA)",
+    "National Security Agency (NSA)",
+    "Fidel Castro",
+    "Cuba",
+    "JFK Assassination",
+    "Cuban Military",
+    "Venezuela",
+    "Robert Kennedy Assassination",
+    "CSSR"
+  ],
+  "significance": "Daily Summaries are significant as they provide contemporaneous intelligence assessments and reports on events surrounding the JFK assassination, particularly focusing on Cuban reactions, potential implications, and related global developments. They offer insights into the immediate aftermath of the assassination and the intelligence community's focus on Cuba during this period.",
+  "document_ids": [
+    "104-10302-10020",
+    "104-10302-10021",
+    "104-10302-10022",
+    "104-10302-10019",
+    "144-10001-10376",
+    "144-10001-10269"
+  ]
+}

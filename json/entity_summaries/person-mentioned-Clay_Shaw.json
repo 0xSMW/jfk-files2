@@ -1,0 +1,30 @@
+{
+  "entity_name": "Clay Shaw",
+  "entity_type": "person-mentioned",
+  "document_count": 13,
+  "summary": "Clay Shaw is mentioned in the context of the JFK assassination investigation, specifically in relation to CIA records and inquiries by the Assassination Records Review Board (ARRB) and the House Select Committee on Assassinations (HSCA). He appears in documents concerning briefing questions for the ARRB regarding CIA's Directorate of Science and Technology (DS&T) and Directorate of Operations (DO), with specific questions about records related to the QKENCHANT project and Clay Shaw. The documents suggest an interest in understanding any potential CIA connections to Shaw. While the documents don't explicitly detail Shaw's role, his name is included in lists of topics and individuals of interest to investigators examining potential CIA involvement in the assassination.",
+  "key_connections": [
+    "QKENCHANT project",
+    "CIA",
+    "ARRB",
+    "HSCA",
+    "Lee Harvey Oswald",
+    "David Ferrie"
+  ],
+  "significance": "Clay Shaw's significance in the JFK context stems from suspicions and investigations into his possible connections to individuals and organizations potentially involved in the assassination. The documents indicate that investigators were interested in exploring any links between Shaw and the CIA, particularly through projects like QKENCHANT. The exact nature and extent of these connections remain a subject of inquiry based on the available documents.",
+  "document_ids": [
+    "180-10145-10269",
+    "135-10001-10288",
+    "180-10107-10006",
+    "104-10333-10002",
+    "178-10002-10091",
+    "104-10330-10081",
+    "180-10145-10295",
+    "104-10079-10016",
+    "180-10106-10011",
+    "104-10336-10000",
+    "180-10104-10354",
+    "104-10333-10006",
+    "104-10332-10022"
+  ]
+}

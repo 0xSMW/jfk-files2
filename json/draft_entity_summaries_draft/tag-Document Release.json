@@ -1,0 +1,22 @@
+{
+  "entity_name": "Document Release",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Document Release, as a theme, appears in several documents related to the JFK assassination records. These documents highlight the complexities and concerns surrounding the public disclosure of information. The documents cover a range of issues, including FOIA requests related to Martin Luther King, Jr., formal determinations by the Assassination Records Review Board (ARRB) regarding CIA records, British Secret Intelligence Service (SIS) objections to releasing certain documents, notifications to former CIA employees about their names appearing in released documents, and general concerns about document releases in relation to specific meetings. The documents span from 1976 to 1998, indicating ongoing efforts and challenges in declassifying and releasing information related to the JFK assassination.",
+  "key_connections": [
+    "Martin Luther King, Jr.",
+    "Assassination Records Review Board (ARRB)",
+    "CIA",
+    "British Secret Intelligence Service (SIS)",
+    "Warren Commission",
+    "JFK Assassination Records Collection Act of 1992"
+  ],
+  "significance": "The significance of 'Document Release' in the JFK context lies in its connection to the broader effort to declassify and make public records related to the assassination. The documents reveal the challenges and considerations involved in balancing transparency with national security concerns, as well as the involvement of various agencies and individuals in the process. The concerns raised about document releases, particularly those involving sensitive information or foreign intelligence services, underscore the complex political and historical context surrounding the JFK assassination records.",
+  "document_ids": [
+    "104-10433-10209",
+    "104-10328-10038",
+    "104-10326-10102",
+    "104-10326-10064",
+    "104-10331-10353"
+  ]
+}

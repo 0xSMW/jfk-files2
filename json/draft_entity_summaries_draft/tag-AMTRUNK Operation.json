@@ -1,0 +1,22 @@
+{
+  "entity_name": "AMTRUNK Operation",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The AMTRUNK Operation is referenced in several CIA memoranda from early 1977. The operation appears to be a possible political action operation potentially run against the U.S. Government/CIA. Documents discuss the involvement of individuals like Nestor Antonio MORENO Lopez (AMICE-27) and Jose Ricardo RABEL Nunez (AMLEO-3) in the operation. MORENO Lopez's involvement was problematic due to security concerns and indiscretions, leading to his termination. RABEL Nunez's involvement is assessed in light of potential dual loyalties to both the CIA and CASTRO. One document focuses on Tad Szulc's involvement and potential connections to hostile foreign agents in relation to AMTRUNK. The documents suggest concerns about security, potential conflicts of interest, and the possibility of the operation being compromised or used against the CIA.",
+  "key_connections": [
+    "Nestor Antonio MORENO Lopez (AMICE-27)",
+    "Jose Ricardo RABEL Nunez (AMLEO-3)",
+    "Tad Szulc",
+    "CASTRO",
+    "CIA",
+    "BATISTA"
+  ],
+  "significance": "Based on the provided documents, the significance of the AMTRUNK Operation in the JFK assassination context is not explicitly stated. The documents primarily focus on the operation's internal dynamics, potential security risks, and the individuals involved. Further research would be needed to establish any direct connection to the JFK assassination.",
+  "document_ids": [
+    "104-10103-10108",
+    "104-10102-10232",
+    "104-10103-10350",
+    "104-10103-10097",
+    "104-10102-10231"
+  ]
+}

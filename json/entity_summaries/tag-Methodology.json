@@ -1,0 +1,27 @@
+{
+  "entity_name": "Methodology",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The documents highlight \"Methodology\" primarily in the context of CIA counterintelligence practices, media manipulation, and the verification of historical records related to the JFK assassination investigation. The Senate Select Committee hearings in 1976 (documents dated March 10, March 25, January 22, and March 9) extensively discuss CIA methodologies concerning the use of academics, media, and grantees, including restrictions and prohibitions on certain practices. The interview with Donald Deneslya touches on CIA activities and information related to Lee Harvey Oswald. A specific report (document ID 104-10227-10003) focuses on the methodology for verifying transcriptions of a 1962 tape involving Nosenko, indicating a concern for accuracy in historical records. Yuri Nosenko's testimony before the HSCA also contributes to the understanding of investigative methodologies used in the JFK assassination case.",
+  "key_connections": [
+    "CIA",
+    "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities",
+    "Lee Harvey Oswald",
+    "Yuri Nosenko",
+    "James Angleton",
+    "Scotty Miler",
+    "HSCA",
+    "Media",
+    "Academics"
+  ],
+  "significance": "In the JFK assassination context, \"Methodology\" refers to the investigative and operational techniques employed by the CIA and congressional committees. It encompasses counterintelligence practices, media manipulation, and the rigorous verification of historical records. The scrutiny of these methodologies aims to understand the CIA's role and potential influence on events related to the assassination, as well as to ensure the accuracy of information used in investigations.",
+  "document_ids": [
+    "157-10014-10133",
+    "157-10014-10125",
+    "180-10111-10051",
+    "157-10014-10006",
+    "104-10227-10003",
+    "157-10014-10121",
+    "180-10131-10324"
+  ]
+}

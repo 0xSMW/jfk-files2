@@ -1,0 +1,23 @@
+{
+  "entity_name": "John F. Kennedy Assassination",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents relate to investigations and inquiries surrounding the John F. Kennedy assassination. They include communications between the FBI and the House Select Committee on Assassinations (HSCA) regarding investigations into the assassinations of Martin Luther King Jr. and John F. Kennedy, a CIA memorandum providing answers to questions from the Assassination Records Review Board (ARRB), a notification of the establishment of a military cover backstop, and a memorandum summarizing an interview with E. Howard Hunt regarding allegations of his involvement in the assassination. These documents collectively highlight the ongoing efforts to investigate the circumstances surrounding the assassination and the various agencies and individuals involved in these investigations.",
+  "key_connections": [
+    "FBI",
+    "House Select Committee on Assassinations (HSCA)",
+    "Martin Luther King Jr. Assassination",
+    "Assassination Records Review Board (ARRB)",
+    "CIA",
+    "David F. Christ",
+    "E. Howard Hunt",
+    "Lisa Hunt"
+  ],
+  "significance": "The John F. Kennedy assassination is a pivotal event in American history, and these documents reflect the continued efforts to understand the circumstances surrounding it. The documents highlight the involvement of various government agencies and individuals in investigating the assassination and addressing related allegations and inquiries.",
+  "document_ids": [
+    "124-10180-10324_multirif",
+    "104-10330-10133",
+    "104-10111-10086",
+    "135-10001-10243"
+  ]
+}

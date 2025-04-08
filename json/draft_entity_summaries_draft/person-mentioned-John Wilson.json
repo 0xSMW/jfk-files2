@@ -1,0 +1,16 @@
+{
+  "entity_name": "John Wilson",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "John Wilson is mentioned in a memo dated July 9, 1970, regarding a meeting with DCS Headquarters' officers, specifically Shirley Stetson and John Wilson. The meeting discussed their roles, assignments, and other personnel matters within the CIA. While John Wilson is mentioned in three documents, the other two documents do not provide additional context about him. One document details information for Harold Francis Swenson's security file, and the other pertains to Project KDAFGHAN, a CIA operation in Mexico City. Therefore, the primary information available about John Wilson is his association with the CIA and his involvement in personnel matters within the organization.",
+  "key_connections": [
+    "Shirley Stetson",
+    "CIA"
+  ],
+  "significance": "Based on the provided documents, John Wilson's significance in the JFK assassination context is not apparent. The documents primarily indicate his involvement in CIA personnel matters and do not directly link him to events surrounding the assassination.",
+  "document_ids": [
+    "157-10011-10085",
+    "104-10131-10010",
+    "104-10188-10012"
+  ]
+}

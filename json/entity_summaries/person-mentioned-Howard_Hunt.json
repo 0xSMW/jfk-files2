@@ -1,0 +1,34 @@
+{
+  "entity_name": "Howard Hunt",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "summary": "Howard Hunt is mentioned in several CIA documents, primarily in the context of the Watergate case, Cuban involvement, and CIA operations. He is referenced in connection to individuals like Sturgis, Barber, and others involved with the CIA, Cuba, and the Bay of Pigs. Documents also mention a search for unaccounted payments to Hunt, revealing no large unrecorded payments but noting unusual financial procedures. His name appears in documents related to CIA's compliance with the JFK Assassination Records Collection Act, as well as in briefing questions for the ARRB regarding CIA's DS&T and DO, indicating potential connections to sensitive information and operations. Overall, the documents suggest Hunt's involvement in various covert activities and connections to individuals and events of interest to the CIA.",
+  "key_connections": [
+    "Sturgis",
+    "Barber",
+    "Knowless",
+    "Bill Johnson",
+    "Carlos Prio",
+    "Carlos Marcello",
+    "Marita Lorenz",
+    "Rene VIERA Gonzalez",
+    "David Phillips",
+    "Lucien Conein",
+    "Arthur R. Schwickrath"
+  ],
+  "significance": "Howard Hunt's significance in the JFK context is implied through his connections to CIA operations, Cuban involvement, and mentions in documents related to the JFK Assassination Records Collection Act. While the documents do not explicitly state his direct involvement in the assassination, his presence in these contexts suggests a potential link to information or events relevant to the investigation.",
+  "document_ids": [
+    "104-10095-10202",
+    "104-10105-10120",
+    "135-10001-10237",
+    "104-10061-10115",
+    "104-10095-10161",
+    "157-10011-10024",
+    "104-10330-10081",
+    "104-10222-10041",
+    "157-10011-10121",
+    "104-10333-10006",
+    "104-10103-10038",
+    "104-10332-10022"
+  ]
+}

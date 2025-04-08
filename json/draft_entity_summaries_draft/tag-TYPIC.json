@@ -1,0 +1,29 @@
+{
+  "entity_name": "TYPIC",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "TYPIC appears to be an operational tag used by JMWAVE (CIA station in Miami) in the 1960s, primarily in the context of Memoranda of Oral Commitment (MOCs) and operational activities. These MOCs relate to individuals working with or for the CIA, outlining their compensation, terms of engagement, and operational commitments. The tag is associated with salary raises, dependency payments, and amendments to existing agreements. It appears in documents related to the AMBUD program and AMWORLD activities, suggesting it was used to categorize or track specific types of operations or personnel. The documents span from 1964 to 1967, indicating a period of active use for this tag.",
+  "key_connections": [
+    "JMWAVE",
+    "AMBUD",
+    "AMWORLD",
+    "Memorandum of Oral Commitment (MOC)",
+    "Subject of 201-307337",
+    "Subject of 201-332676",
+    "CUERTLER",
+    "Maria Teresa (SACRE) ABIRAFHED",
+    "Carlos (UPANCA) CARCIA",
+    "Dr. Francisco(RENE DE LA MUERTA) AQUIAR",
+    "Dr Mario (Enrique (CAPTIVEZ) DELGADO"
+  ],
+  "significance": "While TYPIC itself doesn't directly relate to the JFK assassination, its presence in documents concerning CIA operations, personnel management, and covert activities in the AMWORLD program suggests it was part of the broader intelligence landscape during the period relevant to the assassination. The tag's association with individuals and programs potentially involved in covert actions could be of interest in understanding the operational context of the time.",
+  "document_ids": [
+    "104-10247-10069",
+    "104-10215-10151",
+    "104-10229-10000",
+    "104-10101-10109",
+    "104-10215-10149",
+    "104-10308-10086",
+    "104-10076-10374"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "entity_name": "[RESTRICTED]",
+  "entity_type": "sender",
+  "document_count": 9,
+  "summary": "The documents provided are agent reports and requests for information sent by [RESTRICTED]. These reports cover a range of individuals and topics, including background investigations, security concerns, and potential defections. The reports detail investigations into individuals such as Peter K. Simons, Roman D. S. Arnold, David Reed Fromer, Manuel Marti, Kenneth C. Griggs, Joseph Timothy White, and Robert Scheer. The investigations involve checking FBI files, local agency records, educational records, and interviewing individuals connected to the subjects. The reports span from 1966 to 1982, indicating a sustained interest in these individuals over a significant period. The nature of the investigations suggests a focus on potential security risks, political affiliations, and activities that might be of concern to the US Army or other government agencies.",
+  "key_connections": [
+    "Peter K. Simons",
+    "Roman D. S. Arnold",
+    "David Reed Fromer",
+    "Manuel Marti",
+    "Kenneth C. Griggs",
+    "Joseph Timothy White",
+    "Robert Scheer",
+    "FBI",
+    "New York City Police Department",
+    "Philip LaChapelle Jr.",
+    "Henry D. Glaister"
+  ],
+  "significance": "Due to the redaction, the specific significance of [RESTRICTED] in the JFK assassination context cannot be determined. However, as the sender of these agent reports, [RESTRICTED] likely played a role in gathering and disseminating information related to individuals and events that may or may not be connected to the JFK assassination. The reports suggest an intelligence or security function within the US Army or a related agency.",
+  "document_ids": [
+    "194-10012-10409",
+    "194-10004-10402",
+    "194-10004-10376",
+    "194-10012-10408",
+    "194-10002-10094",
+    "194-10004-10363",
+    "194-10013-10005",
+    "194-10013-10140",
+    "194-10006-10186"
+  ]
+}

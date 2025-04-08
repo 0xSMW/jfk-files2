@@ -1,0 +1,24 @@
+{
+  "entity_name": "Dwight D. Eisenhower",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "summary": "Dwight D. Eisenhower, a former President of the United States, is mentioned in the documents primarily in the context of events that occurred during or shortly after his administration. Specifically, his administration's involvement in the planning of the Bay of Pigs invasion is referenced in oral history interviews with Edward Lansdale. These interviews discuss Lansdale's role in the Bay of Pigs planning under Eisenhower and his subsequent interactions with the Kennedy administration. Additionally, the documents touch on security requirements for government employment and investigations of federal employees, areas that were relevant during Eisenhower's presidency. While Eisenhower is not directly implicated in the JFK assassination, his administration's policies and actions, particularly concerning Cuba and covert operations, provide a historical backdrop for understanding the events leading up to Kennedy's assassination.",
+  "key_connections": [
+    "Edward Lansdale",
+    "John F. Kennedy",
+    "Bay of Pigs invasion",
+    "Cuba"
+  ],
+  "significance": "Dwight D. Eisenhower's significance in the JFK context lies in the historical background his administration provides, particularly concerning the Bay of Pigs invasion and covert operations against Cuba. His administration's policies and the individuals involved, such as Edward Lansdale, are relevant to understanding the context in which the Kennedy administration operated and the challenges it faced.",
+  "document_ids": [
+    "177-10001-10445",
+    "176-10030-10085",
+    "124-10183-10277_multirif_redacted",
+    "176-10030-10168",
+    "124-10183-10279_multirif_redacted",
+    "157-10014-10067",
+    "104-10303-10007",
+    "104-10106-10716",
+    "144-10001-10072"
+  ]
+}

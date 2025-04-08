@@ -1,0 +1,27 @@
+{
+  "entity_name": "Coup",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The documents reference several coup plots in different countries during the early to mid-1960s. These include a CIA effort to organize a military coup against Fidel Castro (AMLASH operation), and multiple planned coups in South Vietnam against President Diem in 1963. One document also mentions a potential coup in South Korea in November 1963. The documents highlight the U.S. government's awareness and involvement in these coup plots, particularly in South Vietnam, where the U.S. was considering its position and potential intervention. The timeline spans from 1963 to 1976, with the majority of documents focusing on events in 1963. A notable pattern is the U.S. government's active monitoring and consideration of involvement in these foreign coup attempts.",
+  "key_connections": [
+    "Fidel Castro",
+    "AMLASH operation",
+    "South Vietnam",
+    "President Diem",
+    "McGeorge Bundy",
+    "Ambassador Lodge",
+    "South Korea",
+    "Tran Thien Khiem",
+    "Nguyen Khanh",
+    "Duong Van Minh"
+  ],
+  "significance": "In the context of the JFK assassination, the references to coup plots reveal a broader landscape of U.S. foreign policy involving intervention and regime change during the Cold War. While not directly linked to the assassination itself, the documents illustrate a climate where covert operations and political instability were prevalent, potentially influencing the environment in which the assassination occurred. The focus on Vietnam is particularly relevant given the later escalation of the Vietnam War and its impact on U.S. politics.",
+  "document_ids": [
+    "157-10014-10017",
+    "176-10036-10149",
+    "176-10036-10173",
+    "144-10001-10279",
+    "144-10001-10291",
+    "176-10036-10142"
+  ]
+}

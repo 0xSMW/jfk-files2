@@ -1,0 +1,20 @@
+{
+  "entity_name": "Bob Skwirot",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Bob Skwirot is mentioned in a collection of memoranda primarily concerning the release of JFK assassination records and the CIA's interactions with the Assassination Records Review Board (ARRB). The documents focus on the CIA's efforts to protect sensitive information, such as cryptonyms, pseudonyms, file numbers, and employee names, while complying with the JFK Act. Skwirot's specific role or involvement is not explicitly detailed in the summaries provided, but his name appears in the context of these discussions about information release and redaction policies. The documents suggest that Skwirot was likely involved in the process of reviewing and declassifying JFK assassination records within the CIA.",
+  "key_connections": [
+    "Assassination Records Review Board (ARRB)",
+    "CIA",
+    "JFK Assassination Records"
+  ],
+  "significance": "Bob Skwirot's significance lies in his potential involvement in the CIA's efforts to manage the release of information related to the JFK assassination, particularly concerning the protection of sensitive intelligence sources and methods. While the exact nature of his role is not specified, his name appears in documents detailing the CIA's interactions with the ARRB and the guidelines for redaction and declassification.",
+  "document_ids": [
+    "104-10332-10016",
+    "104-10336-10034",
+    "104-10332-10008",
+    "104-10336-10000",
+    "104-10335-10008",
+    "104-10332-10002"
+  ]
+}

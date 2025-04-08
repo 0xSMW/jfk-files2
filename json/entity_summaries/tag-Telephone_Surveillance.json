@@ -1,0 +1,24 @@
+{
+  "entity_name": "Telephone Surveillance",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Telephone surveillance, as depicted in the provided documents, refers to the monitoring of telephone communications, often conducted by government agencies like the CIA and FBI. These surveillances were used in various contexts, including national security investigations, monitoring of domestic organizations, and intelligence gathering in foreign countries. The documents reveal instances of telephone surveillance targeting individuals like Martin Luther King, Jr., and organizations such as the Black Panther Party, Students for a Democratic Society (SDS), and the Southern Christian Leadership Conference (SCLC). One document mentions a collaborative telephone surveillance operation in Mexico City with President Mateos. The surveillances were often justified by alleged extremist activities or potential threats to national security. The documents span from 1964 to 1975, indicating a sustained practice of telephone surveillance during this period.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Martin Luther King, Jr.",
+    "Black Panther Party",
+    "Students for a Democratic Society (SDS)",
+    "Southern Christian Leadership Conference (SCLC)",
+    "President Mateos",
+    "Mexico City"
+  ],
+  "significance": "While the documents do not directly link telephone surveillance to the JFK assassination, they illustrate the intelligence community's capabilities and practices during that era. The surveillance of individuals and organizations deemed threats could potentially uncover information relevant to the assassination or its aftermath, depending on the targets and scope of the surveillance. The document mentioning surveillance in Mexico City may be relevant if it involved individuals or groups connected to the assassination.",
+  "document_ids": [
+    "177-10001-10445",
+    "124-10276-10482_multirif",
+    "124-10188-10208",
+    "124-10273-10012_multirif",
+    "124-10273-10008_multirif"
+  ]
+}

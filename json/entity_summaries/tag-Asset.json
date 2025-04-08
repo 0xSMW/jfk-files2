@@ -1,0 +1,42 @@
+{
+  "entity_name": "Asset",
+  "entity_type": "tag",
+  "document_count": 10,
+  "summary": "The documents refer to various individuals considered or utilized as CIA assets. These individuals were approached or employed for a range of purposes, including intelligence gathering, operational support, and providing access to specific regimes or individuals of interest. The assets mentioned come from diverse backgrounds, including industrial engineers, doctors, bankers, and individuals with connections to political figures or regimes. The documents span from the early 1960s to the late 1970s, indicating a sustained effort to cultivate and utilize assets for various intelligence operations. The recruitment and management of these assets involved coordination between different CIA departments and, in some cases, other government agencies like the Army and State Department. Some potential assets were not ultimately utilized due to security concerns or lack of follow-up.",
+  "key_connections": [
+    "Jorge Antonio Abasolo Garcia",
+    "Gustavo Abasolo (AMSEVER-2)",
+    "Che Guevara",
+    "Luis Posada Carriles",
+    "Sergio Dieguez",
+    "BKHERALD",
+    "Project JMATE",
+    "AMCONCERT",
+    "Garcia",
+    "Valdes",
+    "Martha Valdes",
+    "Arturo Carrillo Esparza",
+    "Valentin Vasilyevich Bakulin",
+    "Cynthia Chlebicki",
+    "Agustin Guitart Campuzano",
+    "AMWHIP/1",
+    "Perumen regime",
+    "Watsonasset",
+    "Henry P. Lopez",
+    "WUSALINE",
+    "Clemard Joseph Charles"
+  ],
+  "significance": "In the context of the JFK assassination, the term 'asset' is relevant as it highlights the CIA's network of informants and operatives, some of whom may have been involved in events surrounding the assassination. While none of the documents directly link these specific assets to the JFK assassination, they illustrate the CIA's operational methods and the types of individuals they recruited, which is important for understanding the broader context of the time. The documents do not provide any direct evidence of involvement in the JFK assassination.",
+  "document_ids": [
+    "104-10093-10109",
+    "104-10178-10001",
+    "104-10129-10264",
+    "104-10077-10112",
+    "104-10215-10018",
+    "104-10172-10105",
+    "104-10183-10043",
+    "104-10188-10454",
+    "104-10119-10220",
+    "104-10217-10000"
+  ]
+}

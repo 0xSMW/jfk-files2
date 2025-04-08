@@ -1,0 +1,13 @@
+{
+  "entity_name": "John Brock",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, there is no information available about John Brock or their role in the JFK assassination context. The documents primarily focus on the USIB Ad Hoc Coordinating Group's meetings and the FBI's responses to congressional committee requests regarding CIA activities, COINTELPRO, and informants. John Brock is mentioned in none of the summaries.",
+  "key_connections": [],
+  "significance": "The provided documents do not indicate any significance of John Brock in the JFK context.",
+  "document_ids": [
+    "124-10271-10299",
+    "124-10271-10003_multirif",
+    "124-10271-10011_multirif"
+  ]
+}

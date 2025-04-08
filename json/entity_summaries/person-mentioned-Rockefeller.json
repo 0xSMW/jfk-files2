@@ -1,0 +1,20 @@
+{
+  "entity_name": "Rockefeller",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, \"Rockefeller\" is mentioned across several reports and memoranda related to U.S. foreign intelligence activities during the early 1960s. The documents span from July 1962 to December 1963, covering topics such as covert action programs, intelligence coordination, and reactions to President Kennedy's assassination. While the documents do not explicitly detail Rockefeller's direct involvement in the JFK assassination, his presence in discussions within the President's Foreign Intelligence Advisory Board (PFIAB) suggests his role in shaping U.S. intelligence policy and oversight during this period. The documents indicate that Rockefeller was part of discussions involving Cuba, Brazil, and Southeast Asia, as well as U.S. policy toward Cuba and Soviet activities. The documents suggest that Rockefeller was a member of the President's Foreign Intelligence Advisory Board (PFIAB).",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "President Johnson",
+    "President Kennedy",
+    "CIA",
+    "Soviet activities"
+  ],
+  "significance": "Rockefeller's significance in the JFK context, based on these documents, lies in his role as a member of the President's Foreign Intelligence Advisory Board (PFIAB), which advised on intelligence matters and covert operations during a critical period in U.S. history, including the lead-up to and aftermath of President Kennedy's assassination. The documents suggest that Rockefeller was involved in discussions related to U.S. policy toward Cuba and Soviet activities.",
+  "document_ids": [
+    "144-10001-10103",
+    "104-10302-10000",
+    "206-10001-10005",
+    "144-10001-10086"
+  ]
+}

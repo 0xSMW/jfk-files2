@@ -1,0 +1,22 @@
+{
+  "entity_name": "JFK",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "The documents reference JFK primarily in the context of potential CIA involvement in his assassination and related covert operations. One document suggests a Cuban active measures campaign to promote the idea of CIA involvement in the JFK assassination. Another details a meeting between a JFK Board attorney and John Whitten, raising concerns about Whitten's safety if his CIA affiliation is revealed. Additionally, JFK is mentioned in relation to Operation MONGOOSE, a covert program against Cuba, which included discussions of assassination plots and sabotage proposals. The documents suggest an ongoing investigation and scrutiny of potential connections between the CIA, covert operations against Cuba, and the assassination of JFK.",
+  "key_connections": [
+    "CIA",
+    "Operation MONGOOSE",
+    "Cuba",
+    "John Whitten",
+    "JFK Board",
+    "Warren Commission"
+  ],
+  "significance": "JFK is central to the investigation into his assassination, particularly concerning potential involvement of the CIA and Cuban entities. The documents highlight the ongoing scrutiny and investigation into possible connections between covert operations, individuals associated with the CIA, and the events surrounding his death.",
+  "document_ids": [
+    "135-10001-10246",
+    "104-10326-10083",
+    "104-10326-10070",
+    "104-10326-10049",
+    "157-10011-10008"
+  ]
+}

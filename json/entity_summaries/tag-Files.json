@@ -1,0 +1,27 @@
+{
+  "entity_name": "Files",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The term 'Files' in these documents refers to various records, memoranda, teletypes, letters, notes, and transcripts held by agencies like the CIA and FBI, and requested or reviewed by the House Select Committee on Assassinations (HSCA) during their investigations into the assassinations of John F. Kennedy and Martin Luther King Jr. These files contain information on individuals, organizations, and events related to the assassinations, including details on Lee Harvey Oswald, James Earl Ray, George DeMohrenschildt, Luis Posada Carriles, and others. The documents highlight the HSCA's efforts to gather information from different agencies, the CIA's responses to these requests, and concerns about the security and access to these files. The files are crucial for understanding the extent of knowledge held by various agencies and their potential connections to the assassinations.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "CIA",
+    "FBI",
+    "Lee Harvey Oswald",
+    "James Earl Ray",
+    "George DeMohrenschildt",
+    "Luis Posada Carriles",
+    "Martin Luther King Jr.",
+    "John F. Kennedy"
+  ],
+  "significance": "The 'Files' are significant because they represent the primary source material used by the HSCA to investigate the JFK assassination. They contain potentially crucial information about individuals, organizations, and events connected to the assassination, and the extent to which various agencies may have been involved or had prior knowledge. The requests for and access to these files were central to the HSCA's efforts to uncover the truth behind the assassination.",
+  "document_ids": [
+    "124-10180-10323_multirif",
+    "180-10144-10288",
+    "104-10061-10320",
+    "180-10143-10222",
+    "180-10144-10402",
+    "104-10326-10074",
+    "180-10131-10324"
+  ]
+}

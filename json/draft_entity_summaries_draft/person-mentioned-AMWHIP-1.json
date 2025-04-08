@@ -1,0 +1,22 @@
+{
+  "entity_name": "AMWHIP-1",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "AMWHIP-1 is a person mentioned in several CIA documents from 1965. The documents suggest AMWHIP-1 was involved in assessing and managing individuals for potential operations. Specifically, AMWHIP-1 participated in meetings concerning the placement of AMBUNNY-1 as a secretary in UNSNAFU-19's mission in Paris, addressing concerns about AMBUNNY-1's background. AMWHIP-1 suggested using a cutout to introduce AMBUNNY-1 to UNSNAFU-19. AMWHIP-1 also appears to have been involved in discussions regarding potential contact with PACETTE and ANAHIP-1, although direct involvement with ANAHIP-1 was deferred. The documents indicate AMWHIP-1 had a role in evaluating the suitability of individuals for specific assignments and in operational planning.",
+  "key_connections": [
+    "AMBUNNY-1",
+    "UNSNAFU-19",
+    "PACETTE",
+    "ANAHIP-1",
+    "AMLASH-1",
+    "DAMICONE (alias AL MARIN)"
+  ],
+  "significance": "The significance of AMWHIP-1 in the JFK assassination context is not explicitly stated in the provided documents. However, their role in managing and assessing individuals for CIA operations during this period suggests they were part of the broader intelligence network. Further investigation into the operations and individuals they were connected to might reveal more specific relevance to the JFK assassination.",
+  "document_ids": [
+    "104-10183-10439",
+    "104-10247-10097",
+    "104-10183-10436",
+    "104-10216-10398",
+    "104-10183-10437"
+  ]
+}

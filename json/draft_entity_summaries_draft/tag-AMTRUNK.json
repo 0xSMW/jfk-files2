@@ -1,0 +1,23 @@
+{
+  "entity_name": "AMTRUNK",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "Project AMTRUNK was a CIA operation, as indicated by dispatches from JMWAVE and JMHAVE stations. The project involved the infiltration of agents into Cuba, as seen with AMTRUNK-9's infiltration by Modesto Orlando Orozco Basulto. However, the project faced significant weaknesses, including concerns about agent reliability, security risks, and potential for operational compromise, leading to a recommendation for its termination in April 1963. Documents suggest that AMTRUNK was active around 1963-1965. There are concerns about the possible capture of AMTRUNK-9 in Cuba and instructions on how to proceed with locating AMLASH-9 without alerting Cuban authorities. The project is also connected to ACSI (Assistant Chief of Staff, Intelligence) as information regarding AMTRUNK-9 was passed to them.",
+  "key_connections": [
+    "JMWAVE",
+    "JMHAVE",
+    "AMTRUNK-9",
+    "Modesto Orlando Orozco Basulto",
+    "ACSI",
+    "AMLASH-9"
+  ],
+  "significance": "While the documents do not explicitly link AMTRUNK to the JFK assassination, its association with covert operations against Cuba during the Cold War era, a period of intense focus and activity for the CIA, places it within the broader context of potential motives and actors investigated by the ARRB (JFK Board). The connection to AMLASH-9, another covert operation, further suggests involvement in sensitive activities that could be of interest to investigators examining potential links between anti-Castro elements and the assassination.",
+  "document_ids": [
+    "104-10103-10112",
+    "104-10332-10000",
+    "104-10234-10102",
+    "104-10102-10237",
+    "104-10234-10050",
+    "104-10234-10105"
+  ]
+}

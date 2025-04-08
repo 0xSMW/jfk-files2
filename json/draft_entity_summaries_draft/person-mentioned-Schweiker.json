@@ -1,0 +1,21 @@
+{
+  "entity_name": "Schweiker",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, Schweiker is mentioned in the context of Senate Select Committee hearings related to intelligence activities. The documents do not explicitly detail Schweiker's role or significance in the JFK assassination context. Instead, Schweiker's name appears in transcripts and memos concerning CIA counterintelligence methodologies, restrictions on the CIA's operational use of academics and grantees, and identification of sensitive sources. The documents span from 1975 to 1977, indicating Schweiker's involvement or interest in governmental operations and intelligence activities during that period. However, the specific nature of Schweiker's involvement and any direct connection to the JFK assassination remain unclear from these documents alone.",
+  "key_connections": [
+    "James Angleton",
+    "Scotty Miler",
+    "Richard Goodwin",
+    "Marta FRAYDE",
+    "CIA",
+    "Senate Select Committee to Study Governmental Operations With Respect to Intelligence Activities"
+  ],
+  "significance": "The provided documents do not establish Schweiker's significance in the JFK assassination context. Schweiker is mentioned in relation to Senate Select Committee hearings on intelligence activities.",
+  "document_ids": [
+    "157-10014-10133",
+    "157-10014-10006",
+    "104-10102-10043",
+    "157-10014-10081"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "entity_name": "John Dimmer",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "John Dimmer is identified as a covert CIA official. According to one document, the FBI's Bern office reported that Mark Lane was scheduled to speak in Zurich about Oswald's innocence in the Kennedy assassination, based on information provided by Dimmer, who was given background material on Lane. Other documents in the set concern Lee Harvey Oswald, CIA activities related to Cuba, and depositions of William C. Sturbitts, but do not directly mention John Dimmer.",
+  "key_connections": [
+    "Mark Lane",
+    "CIA",
+    "Lee Harvey Oswald"
+  ],
+  "significance": "John Dimmer's significance in the JFK context lies in his role as a covert CIA official who provided background material on Mark Lane, who was speaking about Oswald's innocence in the Kennedy assassination. This suggests a potential connection between the CIA, Mark Lane's activities, and the narrative surrounding Oswald's involvement in the assassination.",
+  "document_ids": [
+    "124-10180-10295",
+    "157-10011-10083",
+    "124-10158-10061",
+    "178-10002-10279"
+  ]
+}

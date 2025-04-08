@@ -1,0 +1,23 @@
+{
+  "entity_name": "Expenses",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents highlight various expenses related to investigations and activities surrounding the JFK assassination. These expenses encompass a range of costs, including labor, printing, postage, and overall budget management. One document details the expenses incurred by the University of New Mexico, School of Medicine, in preparing the Report of the Forensic Pathology Panel for the Select Committee on Assassinations. Another document analyzes deposits and expenses related to activities concerning Cuba within an $81,500 budget. A payroll certification report lists employee salaries and earnings for the U.S. House of Representatives Select Committee on Assassinations, indicating personnel-related expenses. The expenses are associated with different organizations and time periods, reflecting the multifaceted nature of investigations and activities related to the JFK assassination.",
+  "key_connections": [
+    "University of New Mexico, School of Medicine",
+    "Report of the Forensic Pathology Panel",
+    "Select Committee on Assassinations",
+    "James T. Weston",
+    "Laura Krug",
+    "Debbie McMath",
+    "Karen C. Schwartz",
+    "Cuba",
+    "U.S. House of Representatives"
+  ],
+  "significance": "Expenses are significant as they provide insight into the financial resources allocated to various investigations, reports, and activities related to the JFK assassination. They reflect the scope and scale of the efforts undertaken by different organizations and committees to examine the events surrounding the assassination and related matters.",
+  "document_ids": [
+    "180-10096-10448",
+    "104-10230-10153",
+    "180-10125-10088"
+  ]
+}

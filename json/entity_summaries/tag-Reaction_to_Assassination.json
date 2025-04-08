@@ -1,0 +1,32 @@
+{
+  "entity_name": "Reaction to Assassination",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "The documents detail various international reactions to President Kennedy's assassination. These reactions range from official mourning periods declared by countries like Mexico to expressions of sorrow from adversarial nations like Cuba. Some reports focus on specific leaders' reactions, such as Fidel Castro's concerns about potential U.S. retaliation and attempts to deflect blame, and President Nasser's condolences. Other documents highlight concerns and speculations, including Syrian claims of Zionist involvement and Cambodian broadcasts that appeared to celebrate the death. The reports also cover the U.S. government's reaction to international responses, such as concerns over Cambodian broadcasts and the implications of published interviews with Kennedy and Castro. Overall, the documents provide a glimpse into the global impact and diverse interpretations of the assassination.",
+  "key_connections": [
+    "Mexico",
+    "Fidel Castro",
+    "Cuba",
+    "Syria",
+    "Zionists",
+    "Cambodia",
+    "Egypt",
+    "President Nasser",
+    "Soviet Union"
+  ],
+  "significance": "The reactions to President Kennedy's assassination reveal the complex geopolitical landscape of the time. They highlight the anxieties and suspicions surrounding the event, particularly concerning potential repercussions for U.S. foreign policy and relations with countries like Cuba and the Soviet Union. The diverse range of reactions, from mourning to speculation and even celebration, underscores the global impact of the assassination and its significance in shaping international perceptions of the United States.",
+  "document_ids": [
+    "144-10001-10067",
+    "144-10001-10093",
+    "144-10001-10094",
+    "144-10001-10104",
+    "144-10001-10112",
+    "144-10001-10076",
+    "144-10001-10055",
+    "144-10001-10110",
+    "144-10001-10080",
+    "144-10001-10096",
+    "144-10001-10059",
+    "144-10001-10063"
+  ]
+}

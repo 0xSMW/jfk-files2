@@ -1,0 +1,25 @@
+{
+  "entity_name": "Clerk of the House of Representatives, All Staff",
+  "entity_type": "recipient",
+  "document_count": 6,
+  "summary": "The documents provided primarily relate to the payroll records of staff members who worked for the House Select Committee on Assassinations (HSCA). The Clerk of the House of Representatives, All Staff, is implicitly the recipient of these records, as they pertain to the management and authorization of staff salaries and employment details. The documents include payroll authorization forms, memoranda, and Final Determination Notifications from the Assassination Records Review Board regarding the postponement of Social Security numbers from public release to protect personal privacy. These records span from 1977 to 1995, reflecting the period of HSCA's operation and subsequent review processes. A notable pattern across the documents is the consistent postponement of Social Security numbers from public release due to privacy concerns.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board",
+    "Lance W. Svendsen",
+    "Dawne C. Miller",
+    "Peter G. Beeson",
+    "Clarence J. Day",
+    "Margo E. Jackson",
+    "Dan L. Hardway"
+  ],
+  "significance": "The Clerk of the House of Representatives, All Staff, is significant in the JFK assassination context as the entity responsible for managing and maintaining the payroll records of the HSCA staff. These records provide insight into the individuals involved in the investigation, their roles, and the administrative processes surrounding the committee's operations. The documents highlight the balance between transparency and the protection of personal information in the context of historical records.",
+  "document_ids": [
+    "180-10070-10161",
+    "180-10060-10484",
+    "180-10068-10305",
+    "180-10068-10332",
+    "180-10060-10449",
+    "180-10060-10438"
+  ]
+}

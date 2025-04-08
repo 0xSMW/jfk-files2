@@ -1,0 +1,29 @@
+{
+  "entity_name": "SSCI",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The SSCI, or Senate Select Committee on Intelligence, played a significant role in investigating CIA activities, including potential involvement in assassinations of foreign leaders and other covert operations. The documents reveal the SSCI's efforts to gather information through hearings, interviews, and document reviews. Key figures like DCI William Colby and Richard M. Bissell testified before the committee. The SSCI sought access to sensitive CIA files, including those related to the KCIA and the Office of Security, to understand the extent of CIA involvement in various events, including potential plots against Fidel Castro, Patrice Lumumba, and Rafael Trujillo. The committee's work involved navigating the complexities of protecting sensitive sources and methods while pursuing a thorough investigation.",
+  "key_connections": [
+    "William Colby",
+    "Richard M. Bissell",
+    "CIA",
+    "KCIA",
+    "Office of Security",
+    "Fidel Castro",
+    "Patrice Lumumba",
+    "Rafael Trujillo",
+    "Task Force W",
+    "Special Group"
+  ],
+  "significance": "In the context of the JFK assassination, the SSCI's investigation into potential CIA involvement in assassinations and covert operations is crucial. The documents highlight the committee's efforts to uncover any connections between the CIA and the assassination of foreign leaders, which could potentially shed light on the agency's activities and motivations during the Kennedy era. The SSCI's inquiries into the CIA's relationship with the Mafia and possible involvement with Castro are particularly relevant.",
+  "document_ids": [
+    "157-10011-10041",
+    "157-10008-10241",
+    "104-10066-10060",
+    "157-10011-10066",
+    "157-10011-10024",
+    "104-10096-10048",
+    "157-10008-10238",
+    "157-10011-10018"
+  ]
+}

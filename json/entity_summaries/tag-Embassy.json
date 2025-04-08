@@ -1,0 +1,18 @@
+{
+  "entity_name": "Embassy",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents mention embassies in various contexts. One document details the Minsk Station's activities, including embassy-related matters like housing and reconstruction. Another involves the Guatemalan Ambassador representing the government at President Kennedy's funeral. The third document relays reactions in Norway to Kennedy's assassination as reported by the U.S. Embassy in Oslo. The documents highlight embassies as key locations for diplomatic activities, communication, and representation of their respective countries.",
+  "key_connections": [
+    "Minsk Station",
+    "Guatemalan Foreign Ministry",
+    "U.S. Embassy in Oslo",
+    "President John F. Kennedy"
+  ],
+  "significance": "In the JFK context, embassies serve as channels for diplomatic communication and representation, reflecting international reactions and involvement following the assassination. They also play a role in logistical and security matters related to official events like the funeral.",
+  "document_ids": [
+    "104-10326-10040",
+    "144-10001-10309",
+    "144-10001-10349"
+  ]
+}

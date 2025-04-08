@@ -1,0 +1,20 @@
+{
+  "entity_name": "John Fitzgerald Kennedy",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "John Fitzgerald Kennedy, the 35th President of the United States, is the central figure in these documents, primarily due to his assassination. The documents consist of FBI Airtels and a memorandum related to investigations and information gathering following his death. These documents include intercepted conversations, interviews, and inquiries related to the assassination. The documents span from 1964 to 1978, indicating ongoing investigations and inquiries years after the event. The documents suggest a pattern of international interest and investigation into the circumstances surrounding Kennedy's assassination, with involvement from various agencies like the CIA and British intelligence.",
+  "key_connections": [
+    "ANGHEL DRAGOMIR",
+    "Mary Ceciliadell Bertucci",
+    "CIA",
+    "FBI",
+    "British intelligence"
+  ],
+  "significance": "John Fitzgerald Kennedy is the victim of the assassination that prompted these investigations and information gathering efforts. His death is the central event that connects all these documents, making him the most significant figure in this context.",
+  "document_ids": [
+    "124-10181-10009",
+    "124-10150-10104",
+    "124-10237-10009",
+    "180-10071-10459"
+  ]
+}

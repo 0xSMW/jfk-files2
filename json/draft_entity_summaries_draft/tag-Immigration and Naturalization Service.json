@@ -1,0 +1,20 @@
+{
+  "entity_name": "Immigration and Naturalization Service",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The Immigration and Naturalization Service (INS) appears in these documents primarily in the context of CIA operations and personnel. The INS is involved in providing reentry documents for CIA contract employees traveling under false identities, as seen in the DIAZ Isalgue case. There's also a request from the INS to potentially use a covert Agency employee, Balmes Hidalgo Jr., as an informant. The documents suggest a working relationship between the CIA and INS, where the CIA seeks assistance from the INS for facilitating covert operations and managing the identities of its personnel. The INS also interacts with individuals involved in anti-Castro activities, as seen in the report on Felipe Vidal Santiago, though the specific nature of this interaction isn't detailed in these documents.",
+  "key_connections": [
+    "CIA",
+    "Miguel DIAZ-Isalgue",
+    "Balmes Hidalgo Jr.",
+    "Felipe Vidal Santiago",
+    "Anti-Castro activities"
+  ],
+  "significance": "While not directly linked to the JFK assassination in these documents, the INS's role in facilitating covert operations and managing the identities of individuals involved in sensitive activities could be relevant in understanding the broader context of clandestine operations during the Cold War era. The documents suggest a potential for the INS to be used as a tool for intelligence gathering and supporting covert actions, which might have indirect implications for understanding the environment in which the JFK assassination occurred.",
+  "document_ids": [
+    "104-10113-10244",
+    "104-10225-10009",
+    "104-10250-10199",
+    "104-10221-10222"
+  ]
+}

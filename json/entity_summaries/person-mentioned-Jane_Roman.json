@@ -1,0 +1,20 @@
+{
+  "entity_name": "Jane Roman",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "summary": "Jane Roman is identified as a person who reviewed a cable and was tasked with preparing a blind memo to the FBI on the same topic. The specific subject of the cable and memo is not detailed in the provided documents, but it indicates her role involved intelligence-related communications and coordination with the FBI. The documents do not provide extensive details about her background, affiliations, or specific responsibilities beyond this instance of reviewing and responding to a cable.",
+  "key_connections": [
+    "FBI"
+  ],
+  "significance": "Based on the available documents, Jane Roman's significance in the JFK assassination context is not explicitly established. Her role appears to be related to intelligence communication and coordination with the FBI, but the documents do not directly link her to events or investigations related to the assassination.",
+  "document_ids": [
+    "124-10273-10104",
+    "124-90140-10071",
+    "124-90138-10004",
+    "124-90138-10066",
+    "124-90137-10467",
+    "104-10220-10037",
+    "124-10281-10028",
+    "124-90137-10067"
+  ]
+}

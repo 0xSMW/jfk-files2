@@ -1,0 +1,20 @@
+{
+  "entity_name": "Jacqueline Kennedy",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Jacqueline Kennedy, the wife of President John F. Kennedy, is mentioned in the context of condolences received following President Kennedy's assassination. The documents highlight the global outpouring of sympathy directed towards her and President Lyndon B. Johnson. Specifically, the King and Queen of Thailand sent condolences to both President Johnson and Mrs. Kennedy. Additionally, a message from Saigon conveyed sympathy from the people of South Vietnam to President Johnson, acknowledging the loss felt by the nation. Furthermore, Mrs. Kennedy's appreciation was relayed to Kwame Nkrumah, President of Ghana, for his message of condolence and representation at President Kennedy's funeral, indicating her active role in acknowledging the global support during the period of mourning.",
+  "key_connections": [
+    "John F. Kennedy",
+    "Lyndon B. Johnson",
+    "King and Queen of Thailand",
+    "Duong Van Minh",
+    "Kwame Nkrumah",
+    "Kwesi Armah"
+  ],
+  "significance": "As the First Lady, Jacqueline Kennedy's role is primarily reflected in the context of receiving condolences and acknowledging the global sympathy following President Kennedy's assassination. The documents underscore the personal impact of the assassination on her and her role in representing the Kennedy family during the period of mourning.",
+  "document_ids": [
+    "144-10001-10342",
+    "144-10001-10355",
+    "144-10001-10308"
+  ]
+}

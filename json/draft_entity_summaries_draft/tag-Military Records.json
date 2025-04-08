@@ -1,0 +1,24 @@
+{
+  "entity_name": "Military Records",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Military records are significant in the JFK assassination context as they provide background information on individuals involved, such as Lee Harvey Oswald and Lawrence Huber Florer. These records, including enlistment details, assignments, and personal information, are reviewed to understand the individuals' backgrounds and potential connections to the assassination. The Assassination Records Review Board (ARRB) also sought to declassify military records related to U.S. policy toward Cuba from 1962-64, indicating an interest in understanding the broader military context surrounding the assassination. The documents highlight the importance of military records in tracing individuals' histories and uncovering potential links to the events surrounding the JFK assassination.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Lawrence Huber Florer",
+    "Joseph Califano",
+    "Marina Oswald",
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board (ARRB)",
+    "Texas Air National Guard",
+    "Joint Staff/JCS",
+    "USAF",
+    "Cuba (U.S. policy toward)"
+  ],
+  "significance": "Military records are crucial for establishing the backgrounds and activities of individuals connected to the JFK assassination, potentially revealing motives, connections, and relevant historical context. They are used to trace individuals' histories, understand their roles, and uncover potential links to the events surrounding the assassination, as well as to understand the broader military and political context of the time.",
+  "document_ids": [
+    "180-10113-10246",
+    "104-10333-10014",
+    "180-10072-10186"
+  ]
+}

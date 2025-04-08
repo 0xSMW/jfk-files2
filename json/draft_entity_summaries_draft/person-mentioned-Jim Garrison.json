@@ -1,0 +1,23 @@
+{
+  "entity_name": "Jim Garrison",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Jim Garrison was the District Attorney of New Orleans who investigated the assassination of President John F. Kennedy. The documents indicate that Garrison's investigation drew the attention of various agencies, including the CIA and FBI. He was contacted by the Bertrand Russell Peace Foundation to write an article about the Kennedy assassination. His investigation led to inquiries about individuals like William Wayne Dalzell, who had contact with the Addis Ababa station in 1956, and was mentioned in connection to Rolando Masferrer. The documents span from 1967 to 1976, reflecting the period of Garrison's active investigation and subsequent inquiries related to it.",
+  "key_connections": [
+    "Bertrand Russell Peace Foundation",
+    "William Wayne Dalzell",
+    "Rolando Masferrer",
+    "MI-5",
+    "FBI",
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Jim Garrison's significance lies in his role as the New Orleans District Attorney who launched an independent investigation into the JFK assassination, challenging the official Warren Commission findings. His investigation, though controversial, brought alternative theories and potential leads to light, prompting further scrutiny and debate surrounding the events of the assassination.",
+  "document_ids": [
+    "104-10418-10041",
+    "104-10176-10067",
+    "178-10002-10091",
+    "104-10079-10016",
+    "104-10104-10262",
+    "104-10170-10171"
+  ]
+}

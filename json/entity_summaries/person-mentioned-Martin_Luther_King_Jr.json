@@ -1,0 +1,37 @@
+{
+  "entity_name": "Martin Luther King, Jr.",
+  "entity_type": "person-mentioned",
+  "document_count": 19,
+  "summary": "Martin Luther King, Jr. is mentioned in these documents primarily in the context of investigations into his activities and connections, particularly by the FBI and the Senate Select Committee on Intelligence Activities (SSC). The documents reveal investigations into King's alleged communist ties and his relationship with Stanley Levison. The FBI provided materials to the SSC regarding King and the Southern Christian Leadership Conference (SCLC). Some documents also relate to the House Select Committee on Assassinations' (HSCA) investigation into King's assassination, including requests for information on groups like the Flemish Order of Militants (VMO) and potential connections to the JFK assassination. The documents span from the 1960s to the late 1970s, reflecting ongoing scrutiny of King's activities and legacy.",
+  "key_connections": [
+    "Stanley Levison",
+    "Southern Christian Leadership Conference (SCLC)",
+    "FBI",
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "House Select Committee on Assassinations (HSCA)",
+    "Flemish Order of Militants (VMO)",
+    "Eric Starvo Galt (aliases Harvey Lowmyer, John Willard)"
+  ],
+  "significance": "While not directly involved in the JFK assassination, the documents suggest that investigations into Martin Luther King, Jr.'s activities and assassination were sometimes intertwined with inquiries related to the JFK assassination, particularly concerning potential connections between individuals or groups involved in both events. The HSCA's investigation into King's assassination led to requests for information that also touched upon individuals and groups of interest in the JFK investigation.",
+  "document_ids": [
+    "124-10276-10482_multirif",
+    "104-10337-10001",
+    "144-10001-10206",
+    "124-10274-10358_multirif",
+    "124-10271-10003_multirif",
+    "104-10066-10260",
+    "124-10273-10014_multirif",
+    "124-10274-10070",
+    "104-10305-10005",
+    "124-10264-10209_multirif",
+    "124-10273-10012_multirif",
+    "104-10431-10102",
+    "104-10065-10386",
+    "124-10238-10333_multirif",
+    "124-10271-10011_multirif",
+    "104-10012-10035",
+    "124-10271-10299_multirif",
+    "124-10271-10003",
+    "104-10071-10139"
+  ]
+}

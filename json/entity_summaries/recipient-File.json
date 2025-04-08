@@ -1,0 +1,41 @@
+{
+  "entity_name": "File",
+  "entity_type": "recipient",
+  "document_count": 11,
+  "summary": "The documents mention 'File' in the context of reviewing and discussing various CIA activities and operations. These include Project MONGOOSE, ZRRIFLE, QJWIN, potential assassination attempts, contacts with the Warren Commission, covert operations involving Cuba, counterintelligence efforts, and domestic activities of the CIA. The documents also reference the handling of information related to Americans and foreign intelligence contacts. The documents do not explicitly define what the 'File' is, but it appears to be a collection of documents or information related to specific CIA activities and individuals, reviewed for various purposes, including potential disclosure and historical analysis.",
+  "key_connections": [
+    "McCone Papers",
+    "Project MONGOOSE",
+    "ZRRIFLE",
+    "QJWIN",
+    "Warren Commission",
+    "Cuba",
+    "Tennent Bagley",
+    "Victor Marchetti",
+    "Jim Angleton",
+    "Sam J. Papich",
+    "J. Edgar Hoover",
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "George Brewer",
+    "Miguel Angel DIAZ Isalgué",
+    "John Stein",
+    "E. Howard Hunt",
+    "Lisa Hunt",
+    "Boris Tarasoff",
+    "Soviet Delegation"
+  ],
+  "significance": "The significance of 'File' in the JFK context is indirect. The documents suggest a review of CIA activities, including potential assassination attempts and covert operations, some of which relate to Cuba. E. Howard Hunt's denial of involvement in the JFK assassination is also mentioned. The 'File' appears to be part of a broader investigation or review of CIA activities, some of which may have tangential connections to the JFK assassination.",
+  "document_ids": [
+    "135-10001-10246",
+    "104-10145-10436",
+    "157-10011-10092",
+    "157-10011-10093",
+    "206-10001-10009",
+    "157-10011-10066",
+    "104-10113-10258",
+    "178-10004-10396",
+    "135-10001-10243",
+    "135-10001-10287",
+    "104-10130-10339"
+  ]
+}

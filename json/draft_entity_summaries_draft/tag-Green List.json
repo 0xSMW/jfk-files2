@@ -1,0 +1,21 @@
+{
+  "entity_name": "Green List",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The 'Green List' appears to be a designation or classification used in connection with individuals, possibly related to Cuban operations or intelligence activities. The documents list names with corresponding 'Green List' numbers, sometimes alongside '201' numbers, suggesting an internal tracking or categorization system. One document mentions a 'Green List request' in relation to personal information. The documents span from 1961 to 1968, indicating the use of this list over a period of time. A notable pattern is the association of the 'Green List' with names and numerical identifiers, suggesting a system for managing or tracking individuals of interest.",
+  "key_connections": [
+    "201 Numbers",
+    "Santiago Alvarez Fernandez",
+    "Cuban Operations",
+    "Henry P. Lopez",
+    "Mexico City Station",
+    "WUSALINE"
+  ],
+  "significance": "The significance of the 'Green List' in the JFK assassination context is not explicitly stated in these documents. However, the association with Cuban operations and intelligence activities suggests a potential connection to individuals or groups involved in anti-Castro efforts, which have been a subject of inquiry in relation to the assassination. Further investigation would be needed to determine if individuals on the 'Green List' had any direct or indirect involvement.",
+  "document_ids": [
+    "104-10122-10135",
+    "104-10162-10120",
+    "104-10072-10212",
+    "104-10119-10220"
+  ]
+}

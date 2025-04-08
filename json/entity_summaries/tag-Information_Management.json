@@ -1,0 +1,26 @@
+{
+  "entity_name": "Information Management",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "The documents highlight the CIA's information management practices, particularly focusing on the '201 system,' which was used to identify, track, and manage information on individuals of interest. This system involved creating and maintaining dossiers, assigning codes, and generating lists of individuals based on various categories. The documents also cover the CIA's compliance with the JFK Assassination Records Collection Act of 1992, detailing the search, review, and release of assassination-related records. Lessons learned from the JFK Records Review are discussed, including challenges related to deadlines, standards, and resource allocation. Overall, the documents provide insight into the CIA's methods for handling sensitive information and its efforts to comply with legal requirements regarding the release of historical records.",
+  "key_connections": [
+    "201 System",
+    "JFK Assassination Records Collection Act of 1992",
+    "JFK Assassination Records Review Board (ARRB)",
+    "Operations Directorate"
+  ],
+  "significance": "In the context of the JFK assassination, information management is significant because it relates to how the CIA handled and organized records pertaining to individuals and events potentially connected to the assassination. The CIA's compliance with the JFK Assassination Records Collection Act of 1992 and the lessons learned from the records review process are crucial for understanding the agency's transparency and the availability of information related to the assassination.",
+  "document_ids": [
+    "180-10143-10070",
+    "104-10333-10002",
+    "104-10023-10087",
+    "104-10213-10202",
+    "104-10408-10316",
+    "104-10051-10170",
+    "104-10406-10139",
+    "104-10332-10023",
+    "104-10143-10088",
+    "104-10337-10014",
+    "104-10087-10054"
+  ]
+}

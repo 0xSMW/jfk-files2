@@ -1,0 +1,19 @@
+{
+  "entity_name": "Tom Moore",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Tom Moore was a staffer for the Senate Select Committee on Intelligence (SSCI) in 1976. He is mentioned in NSA documents related to the SSCI's investigation into Cuban intelligence networks and potential assassination plots, specifically concerning Antonio Veciana. Moore, along with Howard Liebengood, met with NSA's John C. Wobensmith to review an NSA product on Veciana, which led to the SSCI requesting a review of all Cuban material from 1961-1965. His role appears to be part of the SSCI's effort to gather information related to the JFK assassination and related Cuban matters.",
+  "key_connections": [
+    "Antonio Veciana",
+    "Howard Liebengood",
+    "John C. Wobensmith",
+    "Senate Select Committee on Intelligence (SSCI)",
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Tom Moore's significance lies in his role as an SSCI staffer involved in the investigation of Cuban intelligence networks and their potential connection to the JFK assassination. His involvement in requesting and reviewing NSA materials related to Antonio Veciana highlights the SSCI's focus on Cuban elements in their investigation.",
+  "document_ids": [
+    "144-10001-10159",
+    "144-10001-10206",
+    "144-10001-10173"
+  ]
+}

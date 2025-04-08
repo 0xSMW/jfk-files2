@@ -1,0 +1,17 @@
+{
+  "entity_name": "Frank Holcomb",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Frank Holcomb is mentioned in the context of the CIA's review of E. Howard Hunt's memoirs, \"Undercover.\" The documents relate to meetings and revisions concerning Hunt's book, particularly regarding the deletion of classified information and sensitive CIA operations. While Frank Holcomb's specific role is not detailed in these documents, his presence suggests involvement in the review process of Hunt's manuscript to ensure it did not compromise national security or reveal classified information. The documents highlight the CIA's concern over the content of Hunt's memoirs and its potential impact on the agency's reputation and operations.",
+  "key_connections": [
+    "E. Howard Hunt",
+    "John D. Morrison, Jr.",
+    "CIA"
+  ],
+  "significance": "Based on the provided documents, Frank Holcomb's significance in the JFK context is indirect. He is involved in the review of E. Howard Hunt's memoirs, which could potentially touch upon events or individuals related to the JFK assassination. However, the documents do not explicitly link Holcomb or Hunt's memoirs directly to the assassination itself. His role appears to be more related to managing the potential fallout from Hunt's revelations about CIA activities.",
+  "document_ids": [
+    "104-10105-10293",
+    "104-10105-10271",
+    "104-10105-10277"
+  ]
+}

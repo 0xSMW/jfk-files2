@@ -1,0 +1,33 @@
+{
+  "entity_name": "The Record",
+  "entity_type": "recipient",
+  "document_count": 5,
+  "summary": "Based on the provided documents, \"The Record\" appears as the recipient of various memoranda, indicating its role as an official archive or repository within the CIA or related agencies. The memoranda cover a range of topics, from summaries of Special Group meetings discussing international issues like the Congo and covert operations in Vietnam and Korea, to internal communications regarding security clearances, defectors, and investigations. The documents span from 1961 to 1995, suggesting a long-term function as a central point for documenting important agency activities and decisions. There is no direct mention of the JFK assassination in these documents, but the nature of the information being recorded suggests a role in maintaining institutional memory and accountability.",
+  "key_connections": [
+    "Special Group",
+    "Francis Gary Powers",
+    "Congo",
+    "Vietnam",
+    "Korea",
+    "OCA (Office of Central Archives)",
+    "Dee Werbrich",
+    "Frank S. Most",
+    "BREZHNEV",
+    "Secret Service",
+    "Boris D. TARASOFF",
+    "WHD (likely a department within the CIA)",
+    "USSR representatives",
+    "Herbert Itkin",
+    "New York FBI office",
+    "Roberts",
+    "Delson"
+  ],
+  "significance": "While the provided documents do not directly link \"The Record\" to the JFK assassination, its role as a recipient of sensitive memoranda within the CIA suggests it could potentially hold relevant information or context related to the events surrounding the assassination. The documents highlight the entity's function in preserving records of covert operations, security matters, and international relations, which might indirectly shed light on individuals, operations, or geopolitical factors relevant to the JFK assassination.",
+  "document_ids": [
+    "176-10011-10152",
+    "104-10331-10320",
+    "104-10172-10264",
+    "104-10130-10381",
+    "104-10107-10135"
+  ]
+}

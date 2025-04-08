@@ -1,0 +1,20 @@
+{
+  "entity_name": "Personal Privacy",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents provided focus on the protection of personal privacy, specifically concerning the Social Security numbers (SSNs) of HSCA (House Select Committee on Assassinations) staff. The Assassination Records Review Board (ARRB) issued Final Determination Notifications to postpone the release of these SSNs from HSCA staff payroll records. The rationale behind this postponement was to prevent an unwarranted invasion of personal privacy, as the release of SSNs was deemed a privacy violation. This action was taken in relation to payroll records of individuals like Paul T. Golden and Miriam Rudder, among other HSCA staff.",
+  "key_connections": [
+    "Assassination Records Review Board (ARRB)",
+    "House Select Committee on Assassinations (HSCA)",
+    "Paul T. Golden",
+    "Miriam Rudder",
+    "Social Security numbers (SSNs)",
+    "HSCA Staff Payroll Records"
+  ],
+  "significance": "In the context of JFK assassination records, the protection of personal privacy, specifically regarding Social Security numbers, highlights the balance between public access to information and the need to safeguard individual privacy rights. The ARRB's decisions to postpone the release of SSNs demonstrate a consideration for the potential harm that could arise from making this information public, even within the broader context of historical records related to the JFK assassination investigation.",
+  "document_ids": [
+    "180-10068-10359",
+    "180-10070-10150",
+    "180-10068-10312"
+  ]
+}

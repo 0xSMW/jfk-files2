@@ -1,0 +1,19 @@
+{
+  "entity_name": "Hurwitch",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, Hurwitch is mentioned in the context of Operation MONGOOSE, a covert operation against Cuba. The documents consist of an interview summary and index cards referencing memos and meeting minutes related to Operation MONGOOSE. While the specific role or actions of Hurwitch are not detailed in the summaries, the documents indicate involvement in discussions and activities from July to October 1962, including sabotage, psychological operations, and potential policy questions. The index cards summarize various aspects of Operation MONGOOSE, including budget allocations, planning, intelligence gathering, and actions taken against Cuba, as documented in meeting minutes and memoranda from 1959 to 1963. The absence of specific details about Hurwitch's role suggests a potentially peripheral or indirect involvement in the operation.",
+  "key_connections": [
+    "Operation MONGOOSE",
+    "Cuba",
+    "Castro",
+    "Special Group Augmented"
+  ],
+  "significance": "The significance of Hurwitch in the JFK context is tied to Operation MONGOOSE, a controversial CIA operation aimed at destabilizing the Cuban government under Fidel Castro. While the exact nature of Hurwitch's involvement is not specified, the connection to MONGOOSE places them within the broader context of US-Cuban relations and covert operations that have been scrutinized in relation to the JFK assassination.",
+  "document_ids": [
+    "157-10008-10241",
+    "157-10011-10007",
+    "157-10011-10009",
+    "157-10011-10003"
+  ]
+}

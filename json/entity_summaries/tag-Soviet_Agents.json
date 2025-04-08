@@ -1,0 +1,21 @@
+{
+  "entity_name": "Soviet Agents",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents reference \"Soviet Agents\" primarily in the context of FBI and CIA activities, including mail interception programs, telephone tap operations, and concerns regarding the release of JFK assassination-related documents. These agents are mentioned in connection with investigations and intelligence gathering efforts aimed at monitoring Soviet activities during the Cold War era. The documents suggest that the FBI and CIA were actively tracking and investigating individuals suspected of being Soviet agents, both within the United States and in locations like Mexico City. The references span from the early 1960s to the mid-1970s, with a later mention in the 1990s concerning document release policies.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "Project LIFEAT",
+    "Schlumberger Well Surveying Corporation",
+    "Soviet Mission to the UN",
+    "Senate Select Committee on Intelligence Activities"
+  ],
+  "significance": "In the JFK assassination context, the reference to Soviet agents appears in discussions regarding the release of assassination-related documents, specifically concerning the protection of informant identities and agent-specific data. This suggests a concern that revealing information about Soviet agents could compromise ongoing intelligence operations or expose individuals who had cooperated with U.S. intelligence agencies.",
+  "document_ids": [
+    "124-10274-10029_multirif_redacted",
+    "104-10188-10000",
+    "104-10338-10005",
+    "104-10106-10716"
+  ]
+}

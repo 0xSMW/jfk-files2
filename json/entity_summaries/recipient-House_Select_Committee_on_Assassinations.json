@@ -1,0 +1,19 @@
+{
+  "entity_name": "House Select Committee on Assassinations",
+  "entity_type": "recipient",
+  "document_count": 3,
+  "summary": "The House Select Committee on Assassinations (HSCA) is mentioned in three documents. While the documents themselves do not directly detail the HSCA's activities or findings, their presence as recipients suggests the committee's role in investigating matters related to assassinations, specifically concerning individuals and events of interest to the CIA. The documents include files on William P. Burke Jr., Chief of the New Orleans Field Office, interactions with Soviet officials like Valentin Sergeyevich Loganov in Mexico, and information on Cuban exile leader Manuel Ray. The date range of the documents (1960-1978) implies that the HSCA's interest spanned a considerable period, likely encompassing various leads and figures relevant to their investigations.",
+  "key_connections": [
+    "William P. Burke Jr.",
+    "Valentin Sergeyevich Loganov",
+    "Manuel Antonio Ray y Rivero",
+    "CIA",
+    "Cuban exiles"
+  ],
+  "significance": "As a recipient of information related to individuals and events potentially connected to assassinations, the HSCA played a crucial role in gathering and analyzing intelligence to determine the facts and circumstances surrounding these events. The documents suggest the HSCA was interested in a range of individuals, from CIA personnel to Soviet officials and Cuban exiles, indicating a broad scope of inquiry into potential conspiracies or relevant information.",
+  "document_ids": [
+    "104-10193-10069",
+    "104-10173-10135",
+    "180-10145-10295"
+  ]
+}

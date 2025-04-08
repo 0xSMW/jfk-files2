@@ -1,0 +1,22 @@
+{
+  "entity_name": "IDEN A",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "IDEN A appears to be an individual involved in various intelligence operations during the early to mid-1960s. They are mentioned in connection with Jose Artecona's request for miniature cameras to be transmitted to PBRUMEN, potentially through a diplomatic pouch also used for small arms. IDEN A is also linked to information obtained from former members of AMWORLD, an organization involved in intelligence operations and potentially an assassination attempt. Additionally, they are mentioned in the context of ANTRUNK operations, specifically in a progress report detailing recruitment and planning activities. The documents suggest IDEN A was a source of information or a participant in covert activities during this period.",
+  "key_connections": [
+    "Jose Artecona",
+    "IDEN B",
+    "PBRUMEN",
+    "AMWORLD",
+    "ANTRUNK"
+  ],
+  "significance": "While the documents do not explicitly link IDEN A to the JFK assassination, their involvement in covert operations, intelligence gathering, and potential assassination plots during the same period raises questions about their potential knowledge of or involvement in related activities. Further investigation would be needed to determine if IDEN A had any direct or indirect connection to the assassination.",
+  "document_ids": [
+    "104-10170-10036",
+    "104-10174-10043",
+    "104-10528-10052",
+    "104-10216-10002",
+    "104-10308-10086",
+    "104-10216-10273"
+  ]
+}

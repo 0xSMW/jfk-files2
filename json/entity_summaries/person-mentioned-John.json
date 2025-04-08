@@ -1,0 +1,17 @@
+{
+  "entity_name": "John",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, 'John' appears in two agent reports related to potential counter-intelligence concerns in Datteln, Germany, in 1972. In one instance, 'John' sought information about a Security Sergeant through a local bar, possibly related to drug activity. In another, 'John,' identified as a disc jockey, accurately revealed sensitive military information to U.S. soldiers. The third document is a list of CIA personnel involved in support activities from 1949-1971 and does not appear to be related to the other two documents or the entity 'John'.",
+  "key_connections": [
+    "SP4 Stephen R. Wilson",
+    "Security Sergeant (unnamed)",
+    "U.S. Soldiers (unnamed)"
+  ],
+  "significance": "Based on the provided documents, 'John's' significance to the JFK assassination context is not apparent. The documents focus on potential counter-intelligence risks in Germany in the early 1970s, unrelated to the JFK assassination.",
+  "document_ids": [
+    "194-10006-10316",
+    "194-10006-10317",
+    "104-10095-10161"
+  ]
+}

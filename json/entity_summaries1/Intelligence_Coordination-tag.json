@@ -1,0 +1,23 @@
+{
+  "entity_name": "Intelligence Coordination",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Intelligence Coordination, as reflected in the provided documents, appears to be a function involving multiple agencies and committees, primarily focused on responding to requests and coordinating information related to intelligence matters. The documents highlight the interaction between the Senate Select Committee, the FBI, the Office of the Deputy Attorney General, and the President's Foreign Intelligence Advisory Board (PFIAB). The coordination involves handling requests from oversight bodies like the Senate Select Committee and facilitating communication between different government entities. The documents suggest that intelligence coordination was a significant aspect of government operations during the periods covered, involving covert action programs, satellite reconnaissance, and operations in various countries.",
+  "key_connections": [
+    "Senate Select Committee",
+    "FBI",
+    "Office of the Deputy Attorney General",
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Covert Action Programs",
+    "Satellite Reconnaissance",
+    "Cuba",
+    "Brazil",
+    "Southeast Asia"
+  ],
+  "significance": "While the documents do not explicitly link Intelligence Coordination directly to the JFK assassination, the presence of Senate Select Committee requests and the involvement of intelligence agencies suggest a broader context of government oversight and investigation into intelligence matters during the time period relevant to the assassination. The coordination efforts reflect the government's attempts to manage and oversee intelligence activities, which could indirectly relate to investigations or information gathering surrounding the JFK assassination.",
+  "document_ids": [
+    "124-10183-10277_multirif_redacted",
+    "104-10302-10000",
+    "124-10238-10331"
+  ]
+}

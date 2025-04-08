@@ -1,0 +1,35 @@
+{
+  "entity_name": "Military Personnel",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The documents reference various military personnel, primarily within the US Army, and their potential involvement in counter-intelligence matters or investigations. These individuals range in rank from Specialist 4 to Captain and are connected to various units and locations, including Fort Hood, Texas; Langley AFB; and Datteln, Germany. The documents detail background investigations, security clearance checks, and interviews related to possible sensitive desertions, counter-intelligence interests, and potential connections to individuals of interest. The investigations often involve checking 201 files, interviewing fellow soldiers, and assessing potential security risks. The timeline spans from 1967 to 1982, with a concentration of reports in the early 1970s. A recurring pattern involves investigating military personnel for potential counter-intelligence concerns, often triggered by suspicious inquiries or contacts.",
+  "key_connections": [
+    "Peter K. Simons",
+    "Joseph Timothy White",
+    "Lewis Wesley Leber",
+    "William C. Stanley",
+    "Stephen R. Wilson",
+    "Joachim F. Beer",
+    "Henry S. Beer",
+    "Peter D. Herpst",
+    "Cristobal Pimentel-Davilla",
+    "John C. Stelpflug",
+    "John P. Lukasik",
+    "Roman Davor Srecko Arnold",
+    "US Army",
+    "US Army National Guard",
+    "ROTC",
+    "66th USA Artillery Detachment"
+  ],
+  "significance": "While the documents do not directly link military personnel to the JFK assassination, they highlight the context of counter-intelligence activities and security investigations during the period surrounding the assassination. The investigation of Captain William C. Stanley, a Special Security Officer at Langley AFB, specifically mentions an interview seeking information about his background and any potential knowledge related to the JFK assassination, Russia, Cuba, or Mexico, suggesting a possible, though indirect, connection to the JFK context.",
+  "document_ids": [
+    "194-10012-10409",
+    "194-10013-10155",
+    "180-10120-10150",
+    "194-10006-10316",
+    "194-10007-10262",
+    "194-10006-10315",
+    "194-10006-10312",
+    "194-10012-10471"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "entity_name": "HQ",
+  "entity_type": "sender",
+  "document_count": 8,
+  "summary": "Based on the provided documents, \"HQ\" refers to the FBI headquarters. The documents primarily involve the FBI's interactions and information sharing with the CIA on various matters. These include providing information on individuals of interest, such as Eloy Gutierrez Menoyo, Raul Roa, Lucien Conein, Herbert Levy, Franc Pecar, Jorge Beliard, and Petros Moutsos. The documents also cover the handling of sensitive information received from the CIA, particularly concerning James Angleton and Israeli intelligence activities. The FBI appears to be acting as a liaison, sharing intelligence and coordinating actions with the CIA on matters related to Cuban exiles, Cuban economic matters, potential informants, and counterintelligence. The documents span from 1960 to 1970, indicating a sustained period of collaboration and information exchange between the FBI and CIA.",
+  "key_connections": [
+    "CIA",
+    "Eloy Gutierrez Menoyo",
+    "Raul Roa",
+    "Lucien Conein",
+    "Herbert Levy",
+    "James Angleton",
+    "Franc Pecar",
+    "Jorge Beliard",
+    "Petros Moutsos",
+    "Cubana Airlines",
+    "St. Regis Paper Company"
+  ],
+  "significance": "In the context of the JFK assassination, the FBI's role as a liaison and information sharer with the CIA is significant. The documents highlight the FBI's involvement in gathering intelligence on individuals and groups related to Cuba and anti-Castro activities, which are relevant to understanding potential motives and actors involved in the assassination. The documents do not directly mention the JFK assassination, but the intelligence activities and relationships documented could provide context for understanding the broader political landscape and potential threats at the time.",
+  "document_ids": [
+    "124-90135-10074",
+    "124-90139-10138",
+    "124-90060-10015",
+    "124-90139-10070",
+    "124-10326-10105",
+    "124-90110-10070",
+    "124-90137-10468",
+    "124-90137-10230"
+  ]
+}

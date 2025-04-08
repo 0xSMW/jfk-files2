@@ -1,0 +1,19 @@
+{
+  "entity_name": "Bell",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Bell is mentioned in the context of CIA activities related to anti-Castro Cuban groups and individuals. The documents suggest Bell was involved in facilitating logistical support for agents being dispatched to Cuba in early 1961. Specifically, a classified message from Mexico City to Bell requests a fifth PO Box and advises on efforts to obtain three more, indicating Bell's role in providing accommodation addresses for agents operating in the Mexico area. The documents do not explicitly detail Bell's full name or specific position, but they imply a connection to the CIA or a related organization involved in supporting anti-Castro operations.",
+  "key_connections": [
+    "Mexico City",
+    "Cuba",
+    "Anti-Castro Cuban groups",
+    "Julio Lanier Hevia",
+    "Manuel Ray y Rivero"
+  ],
+  "significance": "Bell's significance in the JFK context is indirect but potentially relevant. The documents highlight CIA activities and support for anti-Castro groups, which are often implicated in theories surrounding the assassination. Bell's role in providing logistical support to agents operating in this context could be of interest to researchers investigating potential connections between the CIA, Cuban exiles, and the assassination.",
+  "document_ids": [
+    "180-10145-10269",
+    "180-10143-10456",
+    "104-10171-10093"
+  ]
+}

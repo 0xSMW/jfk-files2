@@ -1,0 +1,20 @@
+{
+  "entity_name": "Secrecy Agreements",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Secrecy agreements, as reflected in the provided documents, pertain to the protection of classified information and intelligence sources, particularly in the context of government operations and investigations. In the context of the JFK assassination records, secrecy agreements were relevant to ensuring the confidentiality of information held by members and staff of the Assassination Records Review Board (ARRB). These agreements were coordinated between the ARRB, CIA, FBI, and other agencies. The documents also highlight the broader concern of protecting classified information when providing information to congressional oversight committees and managing security protocols within the intelligence community. The agreements are a recurring theme in discussions about intelligence activities and the handling of sensitive information by government entities.",
+  "key_connections": [
+    "JFK Assassination Records Review Board (ARRB)",
+    "CIA",
+    "FBI",
+    "Senate Select Committee on Intelligence Activities",
+    "House Appropriations Committee",
+    "Congressional Oversight Committees"
+  ],
+  "significance": "In the JFK context, secrecy agreements are significant because they highlight the challenges in balancing transparency and national security concerns when investigating historical events. The agreements underscore the need to manage classified information and protect intelligence sources while ensuring accountability and public access to information related to the assassination.",
+  "document_ids": [
+    "104-10333-10013",
+    "124-10271-10033_multirif_redacted",
+    "104-10400-10316"
+  ]
+}

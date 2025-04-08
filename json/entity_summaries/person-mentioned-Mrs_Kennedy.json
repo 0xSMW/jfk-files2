@@ -1,0 +1,23 @@
+{
+  "entity_name": "Mrs. Kennedy",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Mrs. Kennedy, identified as the wife of President John F. Kennedy, is a central figure in the aftermath of his assassination. Several documents detail the reactions and condolences offered to her by world leaders, including President De Gaulle of France and representatives from South Korea. She is mentioned in the context of funeral arrangements and messages of support. The documents highlight the global outpouring of sympathy directed towards her, with numerous foreign dignitaries attending the funeral and expressing their condolences. The documents also mention interactions with President Johnson.",
+  "key_connections": [
+    "President John F. Kennedy",
+    "President De Gaulle",
+    "President Johnson",
+    "Foreign dignitaries",
+    "South Korean officials"
+  ],
+  "significance": "Mrs. Kennedy's significance in the JFK assassination context lies in her role as the grieving widow and recipient of international condolences and support. Her presence at the funeral and the messages directed to her underscore the personal and emotional impact of the assassination on a global scale. She serves as a focal point for expressions of sympathy and solidarity in the wake of the tragedy.",
+  "document_ids": [
+    "144-10001-10067",
+    "144-10001-10303",
+    "144-10001-10084",
+    "144-10001-10315",
+    "144-10001-10299",
+    "144-10001-10332",
+    "144-10001-10307"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "entity_name": "Garcia",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Garcia appears in several CIA and FBI documents related to financial transactions, potential leads, and requests for assistance. One document mentions the \"Garcia and Paula\" Trust Account, which was used for payments to recruits' dependents, transfers to savings accounts, and reimbursements to Garcia and Paula. Another document references Garcia in connection with leads related to AMCONCERT in Mexico City, alongside Valdes. The third document involves an FBI request for the CIA's help in obtaining papers held by Garcia from a person named Vergara, potentially containing intelligence or propaganda data. The documents suggest Garcia may have been involved in financial activities and potentially held sensitive information relevant to intelligence operations.",
+  "key_connections": [
+    "Paula",
+    "Valdes",
+    "Vergara",
+    "AMCONCERT",
+    "CIA",
+    "FBI"
+  ],
+  "significance": "Garcia's significance in the JFK context is unclear based on these documents alone. The references suggest potential involvement in financial transactions related to intelligence operations and possession of potentially sensitive information. Further investigation would be needed to determine the extent of Garcia's role and connection to the JFK assassination.",
+  "document_ids": [
+    "104-10231-10042",
+    "104-10077-10112",
+    "124-90138-10007"
+  ]
+}

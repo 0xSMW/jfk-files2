@@ -1,0 +1,38 @@
+{
+  "entity_name": "Military Intelligence",
+  "entity_type": "tag",
+  "document_count": 18,
+  "summary": "The documents reveal Military Intelligence (MI) as a key entity involved in various activities, including counter-intelligence operations, security investigations, and information gathering. MI's role spans from routine background checks and loyalty investigations of military personnel to more sensitive operations involving potential security threats and espionage. The timeline of involvement ranges from the early 1960s to the early 1980s, indicating a sustained presence in both domestic and international contexts. MI's activities include monitoring individuals of interest, investigating potential security breaches, and coordinating with other intelligence agencies like the FBI and CIA. A notable pattern across the documents is MI's focus on identifying and mitigating potential threats to military personnel, installations, and information, often involving individuals with unusual access or knowledge.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "US Army",
+    "66th MI Group",
+    "108th MI Group",
+    "Naval Investigative Service (NIS)",
+    "Saigon Government",
+    "Vietnamese Communist (VC)",
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "In the context of the JFK assassination, Military Intelligence's significance is primarily related to its role in investigating individuals and organizations that may have been connected to Lee Harvey Oswald. The documents highlight MI's involvement in providing information to the House Select Committee on Assassinations (HSCA) regarding Oswald's military service and the handling of his photograph by the CIA and Navy. While the documents do not directly implicate MI in the assassination itself, they underscore its role in the broader intelligence landscape and its potential involvement in gathering information relevant to the investigation.",
+  "document_ids": [
+    "194-10012-10472",
+    "176-10036-10087",
+    "194-10004-10402",
+    "180-10145-10233",
+    "194-10007-10267",
+    "194-10006-10311",
+    "104-10307-10006",
+    "104-10075-10099",
+    "194-10012-10408",
+    "194-10006-10300",
+    "194-10006-10317",
+    "104-10076-10400",
+    "194-10007-10424",
+    "194-10004-10158",
+    "194-10013-10009",
+    "180-10104-10354",
+    "194-10013-10140",
+    "194-10006-10329"
+  ]
+}

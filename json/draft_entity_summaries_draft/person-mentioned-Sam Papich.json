@@ -1,0 +1,31 @@
+{
+  "entity_name": "Sam Papich",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "summary": "Sam Papich was an FBI official involved in liaison and coordination between the FBI and the CIA. The documents indicate his role in managing the relationship between the two agencies, particularly during periods of tension and cooperation. He is mentioned in the context of Project HUNTER, a CIA program involving mail review to and from the Soviet Union, and the FBI's utilization of information from this project. He also appears in documents related to the Senate Select Committee inquiries into CIA activities, including potential executive actions and assassination plots. A 1975 interview with Papich provides insights into FBI-CIA relations, intelligence operations, and controversies during Hoover's tenure. He is also mentioned in connection to Mitchell Livingston Werbell III and Herbert Itkin. A memorandum from Papich to the Director of the FBI forwards a list of grievances against the CIA and discusses relations between the FBI and CIA, including instances of conflict and cooperation.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "William Harvey",
+    "Herbert Itkin",
+    "Mitchell Livingston Werbell III",
+    "Hoover",
+    "Thomas L. Roberts",
+    "Robert Delson"
+  ],
+  "significance": "Sam Papich's significance in the JFK context is primarily related to his role as a liaison between the FBI and CIA. The documents suggest he was involved in managing the complex relationship between these agencies, including instances of cooperation and conflict. His name appears in documents related to the Senate Select Committee inquiries into CIA activities, including potential executive actions and assassination plots, and the Rockefeller Commission files related to the Kennedy assassination. While not directly implicated in the assassination, his position and involvement in inter-agency coordination make him a figure of interest in understanding the broader context of intelligence operations during that period.",
+  "document_ids": [
+    "124-10273-10070",
+    "157-10014-10109",
+    "104-10107-10137",
+    "124-10271-10299",
+    "157-10002-10152",
+    "124-10271-10303",
+    "104-10221-10022",
+    "178-10004-10420",
+    "157-10002-10150",
+    "104-10306-10011",
+    "124-10168-10040",
+    "104-10107-10135"
+  ]
+}

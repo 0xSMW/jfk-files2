@@ -1,0 +1,27 @@
+{
+  "entity_name": "David Marwell",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "summary": "David Marwell was involved with the Assassination Records Review Board (ARRB). A memo from John Pereira to David Marwell regards the sensitivity of releasing information about joint US-Mexican telephone tap operations in Mexico City. The documents suggest that Marwell played a role in the ARRB's operations, particularly concerning the review and potential release of sensitive information related to the JFK assassination. He appears to have been a point of contact or recipient of information regarding the sensitivity of certain records, specifically those pertaining to US-Mexican intelligence operations.",
+  "key_connections": [
+    "John Pereira",
+    "Assassination Records Review Board (ARRB)",
+    "CIA",
+    "FBI",
+    "House Permanent Select Committee on Intelligence (HPSCI)",
+    "John Scelso",
+    "Phillip Agee"
+  ],
+  "significance": "David Marwell's significance in the JFK context lies in his involvement with the ARRB and his role in handling sensitive information related to the assassination records, particularly concerning US-Mexican intelligence operations. He appears to have been a key figure in the process of reviewing and potentially releasing classified information.",
+  "document_ids": [
+    "104-10333-10008",
+    "104-10333-10013",
+    "104-10330-10010",
+    "144-10001-10153",
+    "104-10335-10001",
+    "104-10331-10118",
+    "104-10331-10154",
+    "104-10337-10002",
+    "104-10332-10014"
+  ]
+}

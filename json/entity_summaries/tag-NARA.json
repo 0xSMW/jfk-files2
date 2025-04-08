@@ -1,0 +1,21 @@
+{
+  "entity_name": "NARA",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents provided do not directly mention NARA (National Archives and Records Administration). However, they reference the Assassination Records Review Board (ARRB), also known as the JFK Board, which was responsible for reviewing and releasing JFK assassination records. The documents outline the CIA's interactions with the ARRB, including meetings, discussions about record sanitization and privacy, and issues related to the release of sensitive information. The documents also touch on the inadvertent destruction of records and the protection of certain information, such as LITAMIL-9 and details related to photo operations in Mexico City. The timeline spans from 1994 to 1998, reflecting the period when the ARRB was actively reviewing and releasing records.",
+  "key_connections": [
+    "Assassination Records Review Board (ARRB)/JFK Board",
+    "CIA",
+    "Lee Harvey Oswald",
+    "Lonnquist",
+    "Richard Gibson",
+    "Mexico City"
+  ],
+  "significance": "While NARA is not directly mentioned, the ARRB, which these documents focus on, was created to make JFK assassination records publicly available. NARA is the organization that ultimately houses and provides access to these records. The documents highlight the challenges and considerations involved in releasing sensitive information related to the JFK assassination, including privacy concerns and national security interests.",
+  "document_ids": [
+    "104-10333-10008",
+    "104-10331-10370",
+    "104-10332-10000",
+    "104-10331-10177"
+  ]
+}

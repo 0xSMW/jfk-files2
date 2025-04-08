@@ -1,0 +1,20 @@
+{
+  "entity_name": "David Christensen",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "David Christensen is a former Air Force Security Service member who claimed to have intercepted a message related to the Kennedy assassination before it occurred. He contacted authorities with this information, leading to correspondence between the NSA and the FBI regarding his claims. The NSA forwarded Christensen's correspondence to the FBI, noting that Christensen had a history of personal problems and concerns about his safety. The House Select Committee on Assassinations also investigated Christensen's allegations, interviewing Sgt. Nicholas B. Stevenson regarding Christensen's claims about events at USA-55, Kirknewton, Scotland.",
+  "key_connections": [
+    "Daniel Silver",
+    "FBI",
+    "NSA",
+    "House Select Committee on Assassinations",
+    "Nicholas B. Stevenson",
+    "President Kennedy"
+  ],
+  "significance": "David Christensen is significant in the JFK assassination context because he claimed to have intercepted a message related to the assassination before it happened, prompting investigations and correspondence between government agencies. However, his credibility was questioned due to his history of personal problems.",
+  "document_ids": [
+    "144-10001-10180",
+    "144-10001-10143",
+    "144-10001-10253"
+  ]
+}

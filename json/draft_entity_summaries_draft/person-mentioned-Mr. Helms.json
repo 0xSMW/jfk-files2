@@ -1,0 +1,17 @@
+{
+  "entity_name": "Mr. Helms",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Mr. Helms is mentioned in the context of CIA activities, specifically regarding mail opening projects and the awareness of such activities by higher-ups within the agency. While the documents do not directly link Mr. Helms to the JFK assassination, they place him in a position of authority within the CIA during a period when controversial operations were being conducted. The documents suggest that Mr. Helms was aware of the New York mail openings, indicating his involvement in or oversight of these activities. The documents also mention Mr. Ober's requests for documentation related to the creation of the Special Counterintelligence Operation in mid-1967 and a study on \"International Connections with the United States Peace Movement,\" which may indirectly relate to the broader context of intelligence operations during that era.",
+  "key_connections": [
+    "Mr. Ober",
+    "Howard J. Osborn",
+    "Rockefeller Commission"
+  ],
+  "significance": "The significance of Mr. Helms in the JFK context, based solely on these documents, is indirect. He represents a figure of authority within the CIA during a period of controversial operations. His awareness of mail opening projects, as indicated in Howard Osborn's testimony, suggests a level of involvement in activities that have been subject to scrutiny. However, the documents do not provide explicit evidence linking him directly to the JFK assassination.",
+  "document_ids": [
+    "104-10059-10218",
+    "157-10002-10150",
+    "157-10011-10078"
+  ]
+}

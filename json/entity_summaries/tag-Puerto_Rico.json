@@ -1,0 +1,36 @@
+{
+  "entity_name": "Puerto Rico",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "Puerto Rico appears in the documents primarily as a location for FBI investigations and operations related to individuals and events of interest. Several documents detail local agency checks conducted in San Juan on individuals like Manuel Marti and his family, including birth record verifications and name changes. One document describes a CIA operation in San Juan to contaminate Cuban sugar being shipped to the Soviet Union. Another report mentions Puerto Rico as one of the countries considering contributions to the Kennedy Library project. These documents suggest that Puerto Rico served as a base of operations for intelligence activities and a location where individuals connected to broader investigations had ties or were being monitored.",
+  "key_connections": [
+    "Manuel Marti",
+    "Ivan Marti",
+    "Blanca Marti",
+    "Adrian Martir/Sotomayor",
+    "FBI",
+    "CIA",
+    "Cuba",
+    "Soviet Union",
+    "Kennedy Library project",
+    "Antonio Veciana",
+    "Geronimo Estevez",
+    "Jorge Raul Roblejo Lorie",
+    "Sergio Oswaldo Betancourt Collazo"
+  ],
+  "significance": "Puerto Rico's significance in the JFK assassination context lies in its role as a location for intelligence operations and investigations related to individuals who may have had connections to events surrounding the assassination. The documents suggest that individuals of interest were being monitored and investigated in Puerto Rico, and that the island was used as a base for clandestine operations targeting Cuba. The extent to which these activities directly relate to the JFK assassination remains unclear from these documents alone, but they highlight Puerto Rico as a point of activity within the broader intelligence landscape of the time.",
+  "document_ids": [
+    "194-10004-10367",
+    "194-10004-10371",
+    "194-10004-10370",
+    "144-10001-10172",
+    "144-10001-10113",
+    "194-10004-10373",
+    "104-10070-10272",
+    "176-10011-10101",
+    "194-10004-10363",
+    "194-10004-10400",
+    "124-10300-10024",
+    "194-10004-10374"
+  ]
+}

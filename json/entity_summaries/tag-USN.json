@@ -1,0 +1,19 @@
+{
+  "entity_name": "USN",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Based on the provided documents, USN (United States Navy) appears in the context of intelligence reporting related to reactions in Venezuela following President Kennedy's assassination. Specifically, a USN intelligence report details the Venezuelan Armed Forces' decision to observe three days of mourning in honor of President Kennedy. Another document mentions communication from USN-19 to DIRNSA regarding the alert status of Venezuelan army units following the attempt on President Kennedy's life. The documents suggest that the USN was involved in monitoring and reporting on the reactions and security measures taken by the Venezuelan government and military in response to the assassination.",
+  "key_connections": [
+    "Venezuelan Armed Forces",
+    "President John F. Kennedy",
+    "DIRNSA",
+    "Caracas",
+    "Ciudad Bolivar"
+  ],
+  "significance": "In the context of the JFK assassination documents, USN's significance lies in its role in gathering and disseminating intelligence regarding the reactions and security measures taken by foreign governments, specifically Venezuela, following the assassination. This highlights the US Navy's intelligence gathering capabilities and its contribution to understanding the global impact and response to the event.",
+  "document_ids": [
+    "144-10001-10378",
+    "144-10001-10276",
+    "144-10001-10275"
+  ]
+}

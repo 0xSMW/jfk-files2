@@ -1,0 +1,24 @@
+{
+  "entity_name": "INS",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The Immigration and Naturalization Service (INS) appears in the documents primarily in the context of providing information to other agencies, such as the FBI and CIA, or requesting information from them. The INS is mentioned in relation to travel restrictions to Cuba, potential use of covert employees as informants, and general information sharing. The documents span from 1954 to 1977, indicating a sustained, though not necessarily central, role in the activities described. There is no direct evidence linking the INS to the JFK assassination in these documents, but the documents highlight the INS's role in immigration matters and information sharing with other government agencies.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "Cuba",
+    "Francisco RODRIGUEZ Tamayo",
+    "Ernst Friedrich Haas",
+    "Balmes Hidalgo Jr."
+  ],
+  "significance": "In the context of these documents, the INS's significance lies in its role as an agency that provides information to and receives information from other government entities like the FBI and CIA. While not directly implicated in the JFK assassination, its involvement in monitoring travel and individuals of interest to national security is evident.",
+  "document_ids": [
+    "104-10180-10031",
+    "104-10301-10004",
+    "124-10223-10017",
+    "180-10143-10222",
+    "104-10250-10199",
+    "104-10418-10103",
+    "124-10223-10101"
+  ]
+}

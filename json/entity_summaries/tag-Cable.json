@@ -1,0 +1,38 @@
+{
+  "entity_name": "Cable",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "The documents highlight 'Cable' primarily as a medium of communication within the CIA, particularly between Mexico City and the Director, and occasionally involving other locations like Miami, Ankara, and San Francisco. These cables cover a range of topics from visa requests and identity verification to operational details of covert projects like KDFACTOR and LIEMPTY. They also touch upon sensitive matters involving individuals and operations with code names such as WELCOME HOS, DANDORIC, and HBEPITOME. The cables span from 1963 to 1978, with a concentration in late 1963 around the time of the JFK assassination. A recurring pattern is the use of cables for urgent requests, identity confirmations, and logistical coordination of covert activities.",
+  "key_connections": [
+    "Mexico City",
+    "Director (of CIA)",
+    "KDFACTOR Project",
+    "LIEMPTY Project",
+    "WELCOME HOS",
+    "DANDORIC",
+    "HBEPITOME",
+    "Silvia Anna",
+    "Turkish Ambassador",
+    "Suzuki",
+    "Trans Pacific C",
+    "San Francisco",
+    "FELTRO",
+    "ALFONSO DIELLEOX",
+    "DTDORIC",
+    "ALFONSO DIBILDOX",
+    "CNE",
+    "FUSA"
+  ],
+  "significance": "In the context of the JFK assassination, the cables suggest a network of communication and operational activity, particularly within the CIA's Mexico City station. While the cables themselves do not directly mention the assassination, their focus on covert operations, identity verification, and urgent communications during the period surrounding the event raises questions about potential connections to related intelligence activities. The references to specific individuals and projects within these cables could be relevant to understanding the broader context of events leading up to and following the assassination.",
+  "document_ids": [
+    "104-10077-10369",
+    "104-10092-10202",
+    "144-10001-10345",
+    "104-10098-10380",
+    "104-10188-10023",
+    "104-10135-10145",
+    "104-10290-10062",
+    "104-10528-10149",
+    "104-10092-10267"
+  ]
+}

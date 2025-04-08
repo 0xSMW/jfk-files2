@@ -1,0 +1,22 @@
+{
+  "entity_name": "British Intelligence",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "British Intelligence, specifically MI-6, plays a role in these documents primarily through information gathering and sharing with US intelligence agencies like the CIA and FBI. Their involvement spans from 1960 to 1964, with a focus on relaying intercepted communications and providing leads on individuals of interest. They are depicted as a source of information regarding potential security risks, such as individuals possibly connected to the KGB or those traveling to Cuba without authorization. A notable pattern is their function as an intermediary, passing on information obtained from other sources, like the Cuban Embassy in London or British newspapermen, to US agencies for further investigation.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "KGB",
+    "Cuban Embassy (London)",
+    "Levi Laub",
+    "Samuel Adason Jaffe",
+    "Gavin Young"
+  ],
+  "significance": "In the context of the JFK assassination, British Intelligence is mentioned as having intercepted a conversation at the Cuban Embassy in London, which was then relayed to the FBI via the CIA. This suggests a role in gathering intelligence that may have been relevant to the investigation, although the specific content and significance of the intercepted conversation would require further context.",
+  "document_ids": [
+    "124-10181-10009",
+    "104-10071-10239",
+    "124-10179-10217",
+    "124-90137-10284"
+  ]
+}

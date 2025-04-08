@@ -1,0 +1,33 @@
+{
+  "entity_name": "Colby",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "summary": "The documents mention \"Colby\" in various contexts related to CIA activities and investigations. The documents do not provide enough information to determine Colby's specific role or significance in the JFK assassination context. The documents show Colby's involvement in covert operations against Cuba, reconnaissance activities in Southeast Asia, and internal security matters. The documents also mention Colby's involvement in the Lumumba assassination plan in the Congo during 1960-1961, and the Senate Select Committee testimony on February 4, 1974, regarding CIA involvement in Presidential Campaign Activities. The documents also mention Colby's involvement in contract amendments, memoranda, and related documentation pertaining to George Martin Rosnek and Bruce A. Bertotally, detailing adjustments to their compensation, allowances, and contractual terms with the CIA. The documents also mention Colby's involvement in a CIA \"Secret\" document detailing questionable activities involving both the CIA and FBI, which are under review by the Senate Select Committee (SSC). The documents also mention Colby's involvement in a hearing held before the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities on March 9, 1976. The documents also mention Colby's involvement in DCI's (Director of Central Intelligence) meetings and activities from April to July 1964, including discussions with government officials, journalists, and foreign representatives on topics ranging from Southeast Asia to Soviet policy. The documents also mention Colby's involvement in the protection of classified information and intelligence sources, particularly in the context of providing information to congressional oversight committees and managing security protocols within the intelligence community. The documents also mention Colby's involvement in a discussion among CIA officials regarding the potential procurement of 7.62 Soviet ammunition from I. Irving Davidson, weighing the logistical advantages against the security risks associated with his reputation and connections. The documents also mention Colby's involvement in Sam Jaffe's past relationships with the FBI and CIA, including his role as an informant and his contact with the KGB, as well as addressing Jaffe's belief that the CIA passed derogatory information to his employers.",
+  "key_connections": [
+    "Cuba",
+    "Southeast Asia",
+    "Lumumba",
+    "Congo",
+    "President Eisenhower",
+    "Senate Select Committee",
+    "George Martin Rosnek",
+    "Bruce A. Bertotally",
+    "FBI",
+    "I. Irving Davidson",
+    "Sam Jaffe",
+    "KGB"
+  ],
+  "significance": "Insufficient information to determine significance in the JFK context.",
+  "document_ids": [
+    "104-10306-10003",
+    "157-10014-10178",
+    "104-10062-10073",
+    "104-10291-10019",
+    "124-10271-10303",
+    "157-10014-10121",
+    "104-10306-10011",
+    "104-10400-10316",
+    "104-10216-10100",
+    "104-10106-10188"
+  ]
+}

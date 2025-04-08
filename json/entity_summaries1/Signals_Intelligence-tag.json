@@ -1,0 +1,27 @@
+{
+  "entity_name": "Signals Intelligence",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "Signals Intelligence (SIGINT), as represented in these documents, refers to the interception of communications, primarily by the National Security Agency (NSA), to gather information. In the context of the JFK assassination, SIGINT played a role in monitoring communications from various countries, including the Soviet Union, Cuba, Portugal, and South Vietnam, to assess their reactions and analyses of the event. The NSA intercepted messages related to mourning arrangements, security measures, and potential policy shifts following Kennedy's death. Furthermore, SIGINT was used to respond to congressional inquiries, specifically from the House Select Committee on Assassinations (HCSA), regarding potential Cuban involvement. The timeline of involvement spans from the immediate aftermath of the assassination in November 1963 through at least 1978, as evidenced by the HCSA requests and internal NSA memoranda. A notable pattern across the documents is the focus on international reactions and the use of intercepted communications to understand the potential impact of Kennedy's assassination on global politics and security.",
+  "key_connections": [
+    "National Security Agency (NSA)",
+    "Soviet Union",
+    "Cuba",
+    "House Select Committee on Assassinations (HCSA)",
+    "President John F. Kennedy",
+    "Portugal",
+    "South Vietnam"
+  ],
+  "significance": "In the JFK assassination context, Signals Intelligence provided a means to monitor global reactions, assess potential threats or policy changes, and respond to congressional inquiries regarding possible foreign involvement. It was a tool used to gather information and understand the international ramifications of the assassination.",
+  "document_ids": [
+    "144-10001-10375",
+    "144-10001-10164",
+    "144-10001-10331",
+    "144-10001-10097",
+    "144-10001-10321",
+    "144-10001-10065",
+    "144-10001-10205",
+    "144-10001-10356",
+    "144-10001-10072"
+  ]
+}

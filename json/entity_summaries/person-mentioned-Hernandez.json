@@ -1,0 +1,18 @@
+{
+  "entity_name": "Hernandez",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, information about Hernandez is limited. The documents mention Hernandez in the context of guerilla warfare training (Document ID 104-10183-10347), Cuban activities following Kennedy's assassination (Document ID 104-10302-10022), and U.S.-Venezuelan relations and CIA activities (Document ID 104-10161-10091). Without further context, it's difficult to ascertain Hernandez's specific role or significance in relation to the JFK assassination. The mentions are spread across different contexts, suggesting a possible involvement in covert operations or intelligence activities related to Cuba and Venezuela during the 1960s and 1970s.",
+  "key_connections": [
+    "Castro",
+    "DGI",
+    "Venezuelan government",
+    "CIA"
+  ],
+  "significance": "The significance of Hernandez in the JFK context is unclear based on the provided documents. Further information is needed to determine their specific role or connection to the assassination.",
+  "document_ids": [
+    "104-10183-10347",
+    "104-10302-10022",
+    "104-10161-10091"
+  ]
+}

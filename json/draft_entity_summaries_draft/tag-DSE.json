@@ -1,0 +1,20 @@
+{
+  "entity_name": "DSE",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The DSE (likely referring to the Dirección de Seguridad del Estado, the Cuban State Security Directorate) is mentioned in the context of Cuban intelligence activities during the 1960s and 1970s. The documents indicate the DSE's involvement in detaining and interrogating CIA assets (AMFAUNA-14) operating in Cuba, revealing information about their contacts and methods. They were also involved in the arrest of AMFAUNA-26. The documents suggest the DSE was actively working to counter U.S. intelligence operations within Cuba. One document also raises the possibility of individuals acting as double agents for both the CIA and the Cuban government, potentially involving the DSE.",
+  "key_connections": [
+    "AMFAUNA-14",
+    "AMFAUNA-26",
+    "Jose Ricardo RABEL Nunez (AMLEO-3)",
+    "CASTRO",
+    "CIA",
+    "AMTRUNK Operation"
+  ],
+  "significance": "In the context of the JFK assassination, the DSE's significance lies in its role as the Cuban intelligence agency responsible for counterintelligence and internal security. The documents suggest a potential link between Cuban intelligence and individuals who may have had connections to the assassination. The possibility of double agents and the DSE's active efforts to counter U.S. operations in Cuba could be relevant in exploring potential Cuban involvement or knowledge related to the assassination.",
+  "document_ids": [
+    "104-10073-10101",
+    "104-10308-10127",
+    "104-10102-10231"
+  ]
+}

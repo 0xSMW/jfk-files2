@@ -1,0 +1,24 @@
+{
+  "entity_name": "Jake Esterline",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Jake Esterline is identified as a CIA personnel based on the documents provided. He is mentioned in a handwritten note from April 1967 related to CIA personnel and operations. The note lists his name alongside other individuals like Frank Droller, Helms, Knight, Rubottom, and Wieland, suggesting his involvement in CIA activities during that period. He is also listed in a CIA personnel contact information document, indicating his association with the agency. The other documents do not provide specific details about Esterline's activities or role, but his presence in these records suggests he was a part of the CIA's operational network.",
+  "key_connections": [
+    "Frank Droller",
+    "Helms",
+    "Knight",
+    "Rubottom",
+    "Wieland",
+    "William C. Sturbitts",
+    "Sam Halpern"
+  ],
+  "significance": "Based on the documents, Jake Esterline appears to be a CIA personnel involved in operations during the 1960s. While the documents do not directly link him to the JFK assassination, his presence in CIA records related to Cuban operations and personnel suggests a potential indirect connection to events surrounding that period. Further research would be needed to determine the extent of his involvement or knowledge related to the assassination.",
+  "document_ids": [
+    "104-10324-10000",
+    "104-10119-10183",
+    "104-10161-10321",
+    "178-10002-10091",
+    "178-10002-10279",
+    "178-10002-10215"
+  ]
+}

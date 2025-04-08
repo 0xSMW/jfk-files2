@@ -1,0 +1,21 @@
+{
+  "entity_name": "NY",
+  "entity_type": "sender",
+  "document_count": 3,
+  "summary": "The provided documents do not offer direct information about 'NY' as an entity. Instead, the documents are FBI reports detailing information obtained from Robert Glenn Thompson regarding CIA personnel and activities. The reports focus on individuals like William K. Harvey and discussions about US plans for Cuba. The documents do not explicitly state that the FBI is the sender, but given the context of FBI reports, it is inferred that the FBI is the sender of these documents. The documents span from 1962 to 1965, indicating a period of intelligence gathering and reporting by the FBI on CIA activities and related matters.",
+  "key_connections": [
+    "Robert Glenn Thompson",
+    "William K. Harvey",
+    "Robert Kleberg",
+    "Lyndon B. Johnson",
+    "Michael J. P. Malone",
+    "CIA",
+    "Soviets"
+  ],
+  "significance": "The significance of the FBI (inferred as 'NY') in the JFK context, based on these documents, lies in its role as an intelligence-gathering agency monitoring CIA activities and individuals involved in sensitive operations related to Cuba and potentially, information leaks to the Soviets. The documents suggest the FBI was actively investigating and documenting information related to individuals and events that could have implications for national security during the Cold War era. However, the documents do not directly link the FBI to the JFK assassination.",
+  "document_ids": [
+    "124-90092-10002",
+    "124-10326-10191",
+    "124-90092-10001"
+  ]
+}

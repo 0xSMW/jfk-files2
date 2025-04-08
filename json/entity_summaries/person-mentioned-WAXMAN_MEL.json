@@ -1,0 +1,15 @@
+{
+  "entity_name": "WAXMAN, MEL",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Mel Waxman was an employee of the Select Committee on Assassinations (HSCA). The documents provided are payroll and certification reports that list Waxman's name, salary, and employment dates. Waxman appears in payroll certifications for April 1978 and August 1978, as well as a certification report for December 1978. These documents indicate that Waxman was employed by the HSCA during these periods.",
+  "key_connections": [
+    "Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "The significance of Mel Waxman in the JFK context is that he was an employee of the HSCA, which was tasked with investigating the assassination. The specific role Waxman played within the committee is not detailed in these documents, but his presence on the payroll indicates he contributed to the committee's work.",
+  "document_ids": [
+    "180-10125-10078",
+    "180-10125-10087",
+    "180-10125-10083"
+  ]
+}

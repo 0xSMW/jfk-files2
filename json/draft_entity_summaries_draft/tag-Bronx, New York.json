@@ -1,0 +1,22 @@
+{
+  "entity_name": "Bronx, New York",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The Bronx, New York, appears in the documents as the location where background checks and neighborhood investigations were conducted on individuals connected to Manuel Marti. These investigations involved interviewing neighbors and attempting to locate character references for Marti, such as Ramona Rodriguez, Juanita Reyes, and Aleanso Ortiz. The documents suggest that the Bronx is relevant as the place where Marti and his associates resided, providing a geographical context for understanding Marti's background and connections. The investigations aimed to gather information about Marti's character, upbringing, and potential associations through interviews and physical checks at addresses within the Bronx.",
+  "key_connections": [
+    "Manuel Marti",
+    "Ramona Rodriguez",
+    "Juanita Reyes",
+    "Aleanso Ortiz",
+    "Theodore Roosevelt Night High School",
+    "Evander Childs High School"
+  ],
+  "significance": "In the context of these documents, the Bronx, New York, serves as the geographical location for investigations into Manuel Marti's background and character. It is where Marti lived and where attempts were made to gather information from his neighbors and character references. The significance lies in the potential for the Bronx to provide insights into Marti's life and connections, which may be relevant to the broader investigation (implied, not explicitly stated in the documents).",
+  "document_ids": [
+    "194-10004-10377",
+    "194-10004-10398",
+    "194-10004-10384",
+    "194-10004-10387",
+    "194-10004-10391"
+  ]
+}

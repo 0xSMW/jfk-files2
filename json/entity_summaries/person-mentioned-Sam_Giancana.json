@@ -1,0 +1,25 @@
+{
+  "entity_name": "Sam Giancana",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Sam Giancana is mentioned in several documents related to investigations and testimonies concerning CIA activities and potential connections to the JFK assassination. He is associated with John Roselli and Judith E. Campbell, as evidenced by FBI investigations into their bank account activity and phone calls in 1962. Giancana's name appears in the context of organized crime's involvement in CIA plots against Fidel Castro between 1960 and 1963. The documents suggest a link between Giancana and CIA operations, particularly those involving anti-Castro activities and potential assassination attempts. The documents highlight Giancana's involvement with individuals connected to the CIA and organized crime, indicating a potential intersection of these entities in the context of covert operations.",
+  "key_connections": [
+    "John Roselli",
+    "Judith E. Campbell",
+    "CIA",
+    "Fidel Castro",
+    "Robert Maheu",
+    "William K. Harvey",
+    "Howard J. Osborn"
+  ],
+  "significance": "Sam Giancana's significance in the JFK context lies in his alleged involvement with organized crime and potential connections to CIA plots against Fidel Castro. The documents suggest that Giancana may have been part of a network of individuals and organizations that could have played a role in events surrounding the JFK assassination, particularly through his association with individuals involved in covert operations and anti-Castro activities.",
+  "document_ids": [
+    "124-10223-10077",
+    "157-10002-10106",
+    "180-10145-10446",
+    "157-10002-10150",
+    "157-10011-10048",
+    "178-10002-10215",
+    "124-10223-10068"
+  ]
+}

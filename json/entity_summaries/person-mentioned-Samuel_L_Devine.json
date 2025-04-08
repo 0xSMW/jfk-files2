@@ -1,0 +1,26 @@
+{
+  "entity_name": "Samuel L. Devine",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "summary": "Based on the provided documents, Samuel L. Devine is mentioned in the context of the House Select Committee on Assassinations (HSCA). The documents primarily relate to administrative matters, payroll records, and correspondence between the HSCA and other organizations like the CIA and FBI. While the documents do not explicitly detail Devine's specific role or activities, his name appears in connection with the HSCA's operations, suggesting he was likely a staff member or associated with the committee in some capacity. The documents also reference the Assassination Records Review Board's (ARRB) review of HSCA records, including payroll information, indicating Devine's potential inclusion in these records.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "CIA",
+    "FBI",
+    "Assassination Records Review Board (ARRB)"
+  ],
+  "significance": "The significance of Samuel L. Devine in the JFK context is not explicitly detailed in the provided documents. His connection to the HSCA suggests involvement in the investigation of the assassination, but the extent and nature of his role remain unclear based solely on these documents. Further research would be needed to determine his specific contribution or significance.",
+  "document_ids": [
+    "104-10140-10420",
+    "180-10071-10000",
+    "180-10068-10324",
+    "180-10068-10346",
+    "180-10125-10172",
+    "104-10408-10078",
+    "180-10060-10459",
+    "180-10060-10480",
+    "180-10060-10439",
+    "180-10068-10341",
+    "104-10142-10055"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "entity_name": "Freedom of Information Act",
+  "entity_type": "tag",
+  "document_count": 10,
+  "summary": "The Freedom of Information Act (FOIA) is a law that provides the public the right to request access to federal agency records. In the context of these documents, FOIA is primarily mentioned as a concern regarding the release of sensitive information to Congress, particularly the House Select Committee on Assassinations (HSCA) and the Senate Select Committee (SENSTUDY). Agencies like the CIA and FBI were wary of sharing certain information due to potential leaks and the implications of FOIA requests. This concern is evident in discussions about congressional reviews of intelligence activities, the release of JFK assassination records, and information sharing on groups like the Vlaamse Militanten Orde (VMO). The documents highlight the tension between congressional oversight, public access to information, and the protection of intelligence sources and methods.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Senate Select Committee (SENSTUDY)",
+    "CIA",
+    "FBI",
+    "Vlaamse Militanten Orde (VMO)",
+    "Privacy and Information Action Group (PIAG)"
+  ],
+  "significance": "In the JFK assassination context, the Freedom of Information Act represents a potential avenue for public access to information related to the assassination. However, it also highlights the concerns of intelligence agencies regarding the disclosure of sensitive information that could compromise sources, methods, or national security. The documents suggest that FOIA considerations influenced the CIA and FBI's decisions on what information to share with congressional committees investigating the assassination.",
+  "document_ids": [
+    "124-10271-10000",
+    "104-10337-10001",
+    "104-10222-10012",
+    "104-10106-10325",
+    "124-10271-10299",
+    "104-10066-10240",
+    "124-10264-10191",
+    "144-10001-10218",
+    "124-10271-10299_multirif",
+    "104-10065-10358"
+  ]
+}

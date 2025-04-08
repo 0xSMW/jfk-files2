@@ -1,0 +1,22 @@
+{
+  "entity_name": "JMWAVE",
+  "entity_type": "recipient",
+  "document_count": 3,
+  "summary": "Based on the provided documents, JMWAVE appears to be a recipient of communications related to various CIA activities. The documents do not explicitly define JMWAVE's function or organizational structure, but they suggest it was a central point for receiving information about diverse operations, including those related to Brigade 2506 members, trust accounts, and travel arrangements for individuals like Alexander Shatton. The documents span from 1963 to 1968, indicating JMWAVE's involvement over a period of several years. Without more context, it is difficult to ascertain the specific role or significance of JMWAVE within the CIA's broader organizational framework.",
+  "key_connections": [
+    "AMMUG/1",
+    "ICPSA",
+    "Langosch",
+    "Manuel (Reyes) Garcia",
+    "Angel (Pastrana) Santos",
+    "Brigade 2506",
+    "Clara Molina Cabrera",
+    "Alexander Shatton"
+  ],
+  "significance": "The provided documents do not directly link JMWAVE to the JFK assassination. However, as a recipient of communications related to various CIA activities during the period surrounding the assassination, further investigation into JMWAVE's specific functions and connections might reveal indirect relevance to the events or investigations related to the assassination.",
+  "document_ids": [
+    "104-10183-10333",
+    "104-10229-10002",
+    "104-10078-10014"
+  ]
+}

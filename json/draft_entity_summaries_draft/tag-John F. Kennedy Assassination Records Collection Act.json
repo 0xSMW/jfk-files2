@@ -1,0 +1,17 @@
+{
+  "entity_name": "John F. Kennedy Assassination Records Collection Act",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The John F. Kennedy Assassination Records Collection Act is referenced in documents pertaining to the Assassination Records Review Board's (ARRB) decisions regarding the release of HSCA (House Select Committee on Assassinations) staff payroll records. These documents are final determination notifications concerning the postponement of releasing specific information, namely Social Security numbers, from the HSCA staff payroll records. The ARRB is balancing the historical interest in these documents with the need to protect the personal privacy of individuals. The documents all share the same date, December 8, 1995, indicating a concentrated effort to address these specific privacy concerns related to the HSCA payroll records under the JFK Assassination Records Collection Act.",
+  "key_connections": [
+    "Assassination Records Review Board (ARRB)",
+    "HSCA (House Select Committee on Assassinations)",
+    "HSCA staff payroll records"
+  ],
+  "significance": "The John F. Kennedy Assassination Records Collection Act is significant as the legal framework under which the ARRB operated to determine the release of assassination-related records. In this context, it highlights the tension between transparency and the protection of personal privacy within the historical record.",
+  "document_ids": [
+    "180-10068-10346",
+    "180-10060-10444",
+    "180-10060-10439"
+  ]
+}

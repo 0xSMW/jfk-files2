@@ -1,0 +1,29 @@
+{
+  "entity_name": "Mark Gitenstein",
+  "entity_type": "person-mentioned",
+  "document_count": 13,
+  "summary": "Based on the provided documents, Mark Gitenstein's role and significance in the JFK assassination context are not directly apparent. The documents primarily concern the Senate Select Committee on Intelligence Activities (SSC), also known as SENSTUDY 75, which was reviewing FBI domestic intelligence investigations in the mid-1970s. The documents discuss potential legislative actions, oversight mechanisms, and responses to the SSC's inquiries regarding FBI activities, including COINTELPRO and mail opening operations. While Mark Gitenstein is mentioned in relation to these documents, the specific nature of his involvement or contribution is not detailed. The documents suggest he was likely involved in the legal or legislative aspects of the Senate Select Committee's work related to the FBI's intelligence activities.",
+  "key_connections": [
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "FBI",
+    "Clarence M. Kelley",
+    "Department of Justice",
+    "National Security Agency (NSA)"
+  ],
+  "significance": "The documents do not provide enough information to determine Mark Gitenstein's specific significance in the JFK assassination context. His involvement appears to be related to the Senate Select Committee's review of FBI activities in the years following the assassination, rather than the assassination itself.",
+  "document_ids": [
+    "124-10186-10048_multirif",
+    "124-10182-10231",
+    "124-10185-10195_multirif",
+    "124-10186-10045_multirif",
+    "124-10186-10056_multirif",
+    "124-10186-10051_multirif",
+    "124-10186-10055_multirif",
+    "124-10274-10070",
+    "124-10186-10054_multirif",
+    "124-10271-10033_multirif_redacted",
+    "124-10271-10013",
+    "124-10264-10191",
+    "124-10186-10049_multirif"
+  ]
+}

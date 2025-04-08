@@ -1,0 +1,30 @@
+{
+  "entity_name": "Security Review",
+  "entity_type": "tag",
+  "document_count": 10,
+  "summary": "The documents highlight 'Security Review' as a process within the CIA to ensure operational security, protect classified information, and assess the suitability and reliability of personnel and projects. This involves reviewing manuscripts, operational clearances, and agent statuses to identify potential security breaches or vulnerabilities. The reviews often involve assessing the risk of disclosing sensitive information related to CIA operations, facilities (like Camp Perry), sources, and methods. These reviews are conducted by various security divisions and units within the CIA, such as the Special Security Division and the External Activities Branch, SSD. The process includes identifying and addressing concerns related to classified material, potential identification of CIA training sites, and the reliability of agents.",
+  "key_connections": [
+    "Clare Boothe Luce",
+    "Special Security Division",
+    "David Phillips",
+    "Robert R. Kierce",
+    "E. Howard Hunt",
+    "KDFACTOR Project",
+    "LIEMPTY Project",
+    "Camp Perry",
+    "Mexico City Station"
+  ],
+  "significance": "In the context of the JFK assassination, security reviews are relevant as they reflect the CIA's internal processes for managing information and personnel, particularly concerning covert operations and potential disclosures. The documents suggest a focus on maintaining secrecy and preventing the exposure of sensitive information, which could be relevant to understanding the agency's actions and potential involvement in events surrounding the assassination. The review of individuals like E. Howard Hunt and projects like KDFACTOR, which operated in Mexico City, may hold indirect significance if these activities intersect with events or individuals related to the JFK assassination.",
+  "document_ids": [
+    "104-10120-10666",
+    "104-10114-10042",
+    "104-10105-10120",
+    "104-10098-10072",
+    "104-10105-10137",
+    "104-10105-10293",
+    "104-10187-10009",
+    "104-10188-10023",
+    "104-10105-10271",
+    "104-10105-10133"
+  ]
+}

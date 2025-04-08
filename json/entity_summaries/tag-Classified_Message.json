@@ -1,0 +1,32 @@
+{
+  "entity_name": "Classified Message",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "Classified messages appear frequently in the documents, serving as a primary means of communication within the CIA and between CIA stations. These messages cover a wide array of topics, including personnel matters (such as travel arrangements, identification, and administrative actions), operational details (routing instructions, handling instructions), and sensitive information related to specific individuals and events. The messages often contain codenames and references to specific operations or projects, highlighting the secretive nature of the communications. The documents span from 1958 to 1964, indicating a sustained period of activity and communication related to these classified messages.",
+  "key_connections": [
+    "CIA Stations",
+    "Harold R. Noemayr",
+    "AMWHIP",
+    "Carrillo",
+    "Robreno",
+    "AN VIO L. NEVES",
+    "GRACE HOLMES",
+    "Alfredo Davins",
+    "AR. GEORGE STEERS",
+    "GXASBAY",
+    "LPSHRINK",
+    "Bay of Pigs Invasion"
+  ],
+  "significance": "In the context of the JFK assassination, classified messages are significant because they represent a potential source of information regarding the events leading up to, during, and after the assassination. They could contain details about individuals, operations, or intelligence that are relevant to understanding the circumstances surrounding the assassination. The content of these messages, if declassified and analyzed, might shed light on the CIA's involvement, knowledge, or actions related to the assassination.",
+  "document_ids": [
+    "104-10510-10090",
+    "104-10516-10338",
+    "104-10100-10157",
+    "104-10215-10096",
+    "104-10517-10120",
+    "104-10512-10102",
+    "104-10170-10096",
+    "104-10290-10055",
+    "104-10228-10083"
+  ]
+}

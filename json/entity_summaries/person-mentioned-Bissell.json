@@ -1,0 +1,36 @@
+{
+  "entity_name": "Bissell",
+  "entity_type": "person-mentioned",
+  "document_count": 15,
+  "summary": "Richard Bissell was a key figure in the CIA during the period relevant to the JFK assassination, particularly concerning covert operations against Cuba. He is mentioned in the context of Operation Mongoose, a program aimed at destabilizing the Cuban government under Fidel Castro, and discussions about potential assassination plots against Castro. Documents reference his involvement in planning and executing covert actions, including providing arms to dissident groups in the Dominican Republic. Bissell's name appears in summaries of interviews and meetings related to the JFK assassination inquiry, indicating scrutiny of his role and knowledge of CIA activities. He is also linked to discussions regarding potential assassinations of other foreign leaders, such as Trujillo and Lumumba. The documents suggest a pattern of Bissell being associated with high-level covert operations and discussions of sensitive and potentially illegal activities.",
+  "key_connections": [
+    "McGeorge Bundy",
+    "Helms",
+    "McCone",
+    "Harvey",
+    "Robert Maheu",
+    "Fidel Castro",
+    "Patrice Lumumba",
+    "Trujillo",
+    "General Lansdale",
+    "Sukarno"
+  ],
+  "significance": "Richard Bissell's significance in the JFK assassination context lies in his role as a high-ranking CIA official involved in Operation Mongoose and other covert operations against Cuba. His potential knowledge of assassination plots against Fidel Castro and other foreign leaders, as well as his involvement in planning and executing covert actions, makes him a person of interest in understanding the events and circumstances surrounding the assassination of President Kennedy.",
+  "document_ids": [
+    "104-10324-10000",
+    "176-10033-10151",
+    "157-10011-10010",
+    "198-10004-10076",
+    "157-10008-10246",
+    "157-10011-10007",
+    "157-10002-10148",
+    "157-10011-10024",
+    "157-10011-10008",
+    "157-10014-10100",
+    "157-10008-10238",
+    "157-10008-10234",
+    "206-10001-10017",
+    "157-10011-10003",
+    "157-10002-10087"
+  ]
+}

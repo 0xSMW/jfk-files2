@@ -1,0 +1,20 @@
+{
+  "entity_name": "Christensen",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, there is no mention of an entity named \"Christensen.\" The documents primarily focus on Julia Wetzel from the NSA visiting the House Select Committee on Assassinations (HSCA) to review a report regarding an interview with Sgt Nicholas B. Stevenson. The main concern was classifying portions of the report as CONFIDENTIAL, HANDLE VIA COMINT CHANNELS ONLY due to sensitive communications intelligence information. The documents do not provide any information related to Christensen or their involvement in the JFK assassination context.",
+  "key_connections": [
+    "Julia Wetzel",
+    "NSA",
+    "House Select Committee on Assassinations (HSCA)",
+    "Sgt Nicholas B. Stevenson",
+    "Cornwell",
+    "Klein"
+  ],
+  "significance": "The entity \"Christensen\" has no significance in the JFK context based on the provided documents.",
+  "document_ids": [
+    "144-10001-10175",
+    "144-10001-10148",
+    "144-10001-10249"
+  ]
+}

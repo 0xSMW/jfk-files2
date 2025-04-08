@@ -1,0 +1,30 @@
+{
+  "entity_name": "Postponement",
+  "entity_type": "tag",
+  "document_count": 14,
+  "summary": "The term \"Postponement\" in these documents refers to the delayed release of specific information within assassination-related records, primarily HSCA (House Select Committee on Assassinations) staff payroll records. The Assassination Records Review Board (ARRB) issued final determination notifications regarding these postponements, mainly concerning the redaction of Social Security numbers to protect personal privacy. These postponements were made under the authority granted to the ARRB to balance public interest in assassination records with the need to protect individual privacy. The documents consistently highlight the ARRB's role in reviewing and determining the extent to which information could be released, often resulting in the postponement of sensitive personal data like Social Security numbers, with future review dates set to reassess the need for continued postponement.",
+  "key_connections": [
+    "Assassination Records Review Board (ARRB)",
+    "HSCA (House Select Committee on Assassinations)",
+    "Social Security numbers",
+    "Personal Privacy",
+    "Payroll Records"
+  ],
+  "significance": "In the JFK assassination context, \"Postponement\" signifies the ARRB's process of balancing transparency and privacy when releasing assassination-related records. It highlights the challenges in making historical records public while protecting sensitive personal information. The repeated postponement of Social Security numbers demonstrates the ARRB's commitment to protecting individual privacy, even while fulfilling its mandate to release assassination records.",
+  "document_ids": [
+    "180-10060-10499",
+    "104-10328-10038",
+    "180-10060-10447",
+    "180-10068-10352",
+    "180-10071-10000",
+    "180-10068-10345",
+    "180-10068-10324",
+    "180-10068-10308",
+    "180-10068-10346",
+    "180-10060-10444",
+    "180-10070-10145",
+    "180-10060-10454",
+    "180-10060-10439",
+    "180-10068-10300"
+  ]
+}

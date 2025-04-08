@@ -1,0 +1,24 @@
+{
+  "entity_name": "National Security Council",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The National Security Council (NSC) is a key entity involved in US foreign policy and national security matters. In the context of these documents, the NSC appears as a central point for deliberations and decision-making related to sensitive issues such as potential assassinations of foreign leaders (Trujillo, Castro, Lumumba) and US policy towards Cuba. The documents suggest the NSC played a role in overseeing covert actions and managing the containment of communism during the Cold War. The NSC also served as a point of contact for other government agencies, such as the FBI, regarding the release of sensitive documents to congressional committees investigating these matters.",
+  "key_connections": [
+    "FBI",
+    "Senate Select Committee (Church Committee)",
+    "President Eisenhower",
+    "President Kennedy",
+    "Gordon Gray",
+    "Cuba",
+    "Trujillo",
+    "Castro",
+    "Lumumba",
+    "Soviet Union"
+  ],
+  "significance": "The National Security Council's significance in the JFK context, as reflected in these documents, lies in its role in shaping US foreign policy, overseeing covert operations, and managing sensitive information related to potential assassinations and actions against foreign governments. The documents highlight the NSC's involvement in discussions and decisions that could have broader implications for understanding the political climate and events surrounding the JFK assassination, particularly concerning US-Cuba relations and covert activities.",
+  "document_ids": [
+    "178-10003-10176",
+    "157-10014-10100",
+    "104-10306-10016"
+  ]
+}

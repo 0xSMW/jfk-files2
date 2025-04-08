@@ -1,0 +1,13 @@
+{
+  "entity_name": "President Nixon",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "The documents provided mention President Nixon in contexts unrelated to the JFK assassination. One document discusses alleged domestic activities of the CIA, another concerns a CIA defector watch list for the Secret Service during a BREZHNEV visit, and the third involves the transmittal of newspaper clippings about Bobby Seale's visit to Norway. Nixon's direct role or significance in the JFK assassination is not apparent from these documents.",
+  "key_connections": [],
+  "significance": "Based on the provided documents, President Nixon's significance to the JFK assassination context is not evident.",
+  "document_ids": [
+    "178-10004-10396",
+    "104-10172-10264",
+    "104-10071-10102"
+  ]
+}

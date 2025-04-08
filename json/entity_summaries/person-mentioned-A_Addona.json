@@ -1,0 +1,21 @@
+{
+  "entity_name": "A. Addona",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "A. Addona appears as an intermediary in the routing of memoranda regarding the classification of document EX 3600. Specifically, memoranda from P. Haefner (or J. Haffner) to J.D. Lavery of OGC are routed 'via A. Addona.' The memoranda concern the classification of document EX 3600, justifying its classification based on its connection to Operation MHCHAOS and the inclusion of information from sensitive sources and classified FBI reports. Addona's role seems to be administrative, facilitating the flow of information between Haefner/Haffner and Lavery.",
+  "key_connections": [
+    "P. Haefner",
+    "J. Haffner",
+    "J.D. Lavery",
+    "OGC",
+    "Operation MHCHAOS",
+    "FBI",
+    "EX 3600"
+  ],
+  "significance": "A. Addona's significance in the JFK context is indirect. They are involved in the administrative process of classifying a document (EX 3600) related to Operation MHCHAOS, which itself may have connections to the JFK assassination investigation. Addona's role is primarily as a conduit for information flow, rather than a decision-maker or investigator.",
+  "document_ids": [
+    "104-10074-10347",
+    "104-10074-10349",
+    "104-10063-10434"
+  ]
+}

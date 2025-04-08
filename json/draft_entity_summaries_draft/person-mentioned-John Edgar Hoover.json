@@ -1,0 +1,32 @@
+{
+  "entity_name": "John Edgar Hoover",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "summary": "John Edgar Hoover, as the Director of the FBI, is mentioned in several documents related to intelligence activities and information sharing between the FBI and CIA. The documents span from 1958 to 1976, indicating a sustained period of his involvement in these matters. His role primarily involves overseeing the FBI's collaboration with the CIA on various projects, including the review of mail to and from the Soviet Union (Project HUNTER), sharing information on individuals of interest, and coordinating with the Senate Select Committee (Church Committee) investigating intelligence activities. Hoover's position allowed him to control the flow of information and influence decisions regarding the release of sensitive documents. The documents suggest Hoover's direct involvement in managing the FBI's relationship with other intelligence agencies and governmental bodies.",
+  "key_connections": [
+    "CIA",
+    "Clarence Kelley",
+    "Jeanne Davis",
+    "Senate Select Committee (Church Committee)",
+    "Susan Heilig",
+    "Richard Cyril Frank",
+    "Yuriy Ivanovich Nosenko",
+    "Ambassador Thompson",
+    "Herbert Levy",
+    "Angela Prince Moutsos",
+    "Eduardo Espinosa y Prieto"
+  ],
+  "significance": "While the documents provided do not directly link John Edgar Hoover to the JFK assassination, they highlight his central role in managing intelligence operations and information sharing during the period leading up to and following the assassination. His control over the FBI and its interactions with other agencies would have placed him in a position to influence investigations and the dissemination of information related to the event.",
+  "document_ids": [
+    "124-10212-10337",
+    "124-10273-10070",
+    "104-10226-10001",
+    "178-10003-10176",
+    "124-10274-10001",
+    "124-90139-10070",
+    "124-90138-10073",
+    "124-90140-10004",
+    "104-10301-10011",
+    "124-90137-10355"
+  ]
+}

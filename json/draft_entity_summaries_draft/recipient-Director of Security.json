@@ -1,0 +1,28 @@
+{
+  "entity_name": "Director of Security",
+  "entity_type": "recipient",
+  "document_count": 7,
+  "summary": "The Director of Security appears as a recipient of memoranda concerning various security matters, investigations, and reviews within the CIA. These documents span from 1967 to 1976, indicating a sustained role in overseeing security protocols and addressing potential breaches or compromises. The memoranda cover a range of topics, including the investigation of Yuriy Ivanovich Nosenko, reviews of manuscripts for sensitive information, procedures for releasing information to the Senate Select Committee on Intelligence, and background checks on individuals associated with the Agency. The Director of Security's office is involved in protecting sensitive sources and methods, evaluating potential security risks, and ensuring the integrity of Agency operations.",
+  "key_connections": [
+    "Yuriy Ivanovich Nosenko",
+    "Edward J. Hamilton",
+    "David Phillips",
+    "Senate Select Committee on Intelligence (SSCI)",
+    "Edward P. Morgan",
+    "J. Edgar Hoover",
+    "Lyon L. Tyler",
+    "Herbert Itkin",
+    "Allen Dulles",
+    "Thomas L. Roberts"
+  ],
+  "significance": "While the documents do not directly link the Director of Security to the JFK assassination, they highlight the office's role in managing sensitive information and security risks within the CIA during the period surrounding the assassination and its aftermath. The office's involvement in reviewing manuscripts and managing information requests from the Senate Select Committee on Intelligence suggests a concern for controlling the narrative and protecting classified information, which could indirectly relate to the JFK assassination context.",
+  "document_ids": [
+    "104-10150-10004",
+    "104-10119-10182",
+    "104-10105-10102",
+    "104-10096-10048",
+    "104-10122-10307",
+    "104-10122-10291",
+    "104-10119-10040"
+  ]
+}

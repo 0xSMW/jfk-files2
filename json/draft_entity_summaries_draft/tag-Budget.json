@@ -1,0 +1,33 @@
+{
+  "entity_name": "Budget",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "The documents highlight various aspects of budgets related to CIA operations and investigations, including those potentially relevant to the JFK assassination context. Budgets are mentioned in the context of covert operations like Project LIFEAT and KDFACTOR in Mexico City, covering expenses for surveillance activities against Soviet and Cuban interests. They also appear in discussions about the CIA's overall resource allocation, congressional oversight, and potential involvement in Watergate. Furthermore, budgets are referenced in relation to the House Select Committee on Assassinations (HSCA), specifically concerning payroll and administrative matters. The timeline spans from the early 1960s to the late 1970s and even into the 1990s, indicating ongoing budgetary considerations for various projects and investigations. A notable pattern is the connection between budget discussions and covert operations, as well as the scrutiny of CIA finances by congressional committees.",
+  "key_connections": [
+    "CIA",
+    "Project LIFEAT",
+    "Project KDFACTOR",
+    "House Select Committee on Assassinations (HSCA)",
+    "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities",
+    "Mexico City Station",
+    "Watergate",
+    "Soviet Union",
+    "Cuba",
+    "Senate Appropriations Committee",
+    "FBI"
+  ],
+  "significance": "In the JFK assassination context, the budget is significant as it relates to the funding and oversight of intelligence operations, some of which may have connections, direct or indirect, to events surrounding the assassination. The documents suggest that understanding the budgetary allocations and financial management of the CIA and related committees is crucial for uncovering potential links and activities relevant to the JFK assassination investigation.",
+  "document_ids": [
+    "104-10140-10420",
+    "104-10230-10153",
+    "180-10125-10101",
+    "104-10188-10000",
+    "157-10014-10121",
+    "104-10188-10023",
+    "104-10306-10007",
+    "104-10256-10283",
+    "180-10125-10105",
+    "104-10187-10014",
+    "104-10326-10081"
+  ]
+}

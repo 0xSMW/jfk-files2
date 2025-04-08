@@ -1,0 +1,24 @@
+{
+  "entity_name": "Howard Hunt",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Howard Hunt is mentioned in the documents in connection to various individuals and events. One document references a telephone call involving Sturgis discussing Hunt along with Barber, Knowless, Bill Johnson, Carlos Prio, Carlos Marcello, and Marita Lorenz, and their connections to the CIA, Cuba, and the Bay of Pigs. Another document involves a search for unaccounted payments to Howard Hunt, where no large unrecorded payments were found, but unusual financial procedures were noted. The documents suggest Hunt's involvement in covert activities and connections to individuals associated with the CIA and Cuban affairs.",
+  "key_connections": [
+    "Sturgis",
+    "Barber",
+    "Knowless",
+    "Bill Johnson",
+    "Carlos Prio",
+    "Carlos Marcello",
+    "Marita Lorenz",
+    "CIA",
+    "Cuba",
+    "Bay of Pigs"
+  ],
+  "significance": "Howard Hunt's significance in the JFK context is suggested through his connections to individuals and events related to the CIA, Cuba, and the Bay of Pigs. The documents hint at his involvement in covert activities and potential financial irregularities, which could be relevant to understanding the broader context of the JFK assassination, particularly regarding potential involvement of intelligence agencies or anti-Castro groups.",
+  "document_ids": [
+    "135-10001-10237",
+    "157-10011-10121",
+    "104-10103-10038"
+  ]
+}

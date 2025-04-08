@@ -1,0 +1,24 @@
+{
+  "entity_name": "Norman Rothman",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Norman Rothman is a person mentioned in several FBI reports and documents. An FBI report from March 31, 1967, details an investigation into his activities, associates, and travel, with connections to anti-racketeering efforts. Other documents mention individuals connected to Rothman, such as David Yaras, Frank Rosenthal, and Luis Posada Carriles. One document contains INS file reviews conducted by Howard Shapiro, summarizing information on individuals including Benny Binion, Joe Campisi, Joseph Civello, and others, with notes on their backgrounds, activities, and connections. Another document summarizes intelligence from Mexico, covering Lopez Mateos' South American trip, Caribbean political situations, activities of the Mexican Communist Party and Popular Party, Soviet intelligence activities, and Cuban exile activities. A cable discusses Albert Larrain Maestre, a fugitive under narcotics indictment who allegedly admitted involvement in bombings with Rosenthal, and requests station traces; additionally it explores AMCLEVE/15's connection to the case and FBI involvement.",
+  "key_connections": [
+    "David Yaras",
+    "Frank Rosenthal",
+    "Luis Posada Carriles",
+    "Benny Binion",
+    "Joe Campisi",
+    "Joseph Civello",
+    "Albert Larrain Maestre"
+  ],
+  "significance": "The significance of Norman Rothman in the JFK assassination context is not explicitly stated in the provided documents. However, his connections to individuals involved in criminal activities and anti-racketeering efforts suggest a potential link to organized crime, which has been theorized to have played a role in the assassination. Further research would be needed to establish a direct connection.",
+  "document_ids": [
+    "124-10226-10305",
+    "124-90073-10039",
+    "104-10096-10048",
+    "180-10104-10294",
+    "124-10279-10258",
+    "104-10178-10096"
+  ]
+}

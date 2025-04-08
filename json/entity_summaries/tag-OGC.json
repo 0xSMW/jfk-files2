@@ -1,0 +1,24 @@
+{
+  "entity_name": "OGC",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The Office of General Counsel (OGC) at the CIA is a legal division responsible for providing legal advice and representation to the agency. In the context of the JFK assassination records, the OGC played a role in interpreting the President John F. Kennedy Assassination Records Collection Act of 1992 (ARCA) and advising on the extent to which the Director of Central Intelligence (DCI) could protect intelligence sources and methods from disclosure. The OGC analyzed ARCA's impact on existing statutes and outlined procedures for postponing the release of information related to intelligence operations. They also handled matters related to classification of documents, such as EX 3600 related to Operation MHCHAOS, and provided legal guidance on privacy act cases, such as case 71-728 concerning Werbell. The documents span from 1975 to 1996, indicating a sustained involvement in legal matters related to CIA operations and information release.",
+  "key_connections": [
+    "CIA",
+    "President John F. Kennedy Assassination Records Collection Act of 1992 (ARCA)",
+    "Director of Central Intelligence (DCI)",
+    "LICRYPT",
+    "Operation MHCHAOS",
+    "FBI",
+    "Werbell"
+  ],
+  "significance": "The OGC's significance in the JFK context lies in its role as the legal advisor to the CIA, interpreting and applying the JFK Assassination Records Collection Act to the agency's records. Their analysis influenced the release or postponement of information related to intelligence sources and methods, potentially impacting the transparency of JFK assassination-related documents.",
+  "document_ids": [
+    "104-10331-10080",
+    "104-10107-10195",
+    "104-10074-10347",
+    "104-10063-10430",
+    "104-10105-10212",
+    "104-10333-10011"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "entity_name": "Langer",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "summary": "Based on the provided documents, 'Langer' is mentioned within the context of the President's Foreign Intelligence Advisory Board (PFIAB) meetings from 1962 to 1964. The documents do not provide specific details about Langer's identity, role, or direct involvement in the JFK assassination. Instead, Langer's presence is implied through their participation in PFIAB meetings where various intelligence matters were discussed, including those related to Cuba, Soviet activities, and national security concerns. The documents suggest that Langer was likely a member or participant in these high-level intelligence discussions, contributing to the advisory role of the PFIAB during this period. Without further context, it's difficult to ascertain their precise contribution or expertise.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Cuba",
+    "Soviet activities",
+    "John McCone",
+    "McGeorge Bundy"
+  ],
+  "significance": "The significance of 'Langer' in the JFK context, based solely on these documents, is indirect. Their presence in PFIAB meetings suggests involvement in intelligence discussions relevant to national security during the Kennedy administration. However, the documents lack specific details linking Langer directly to events surrounding the assassination.",
+  "document_ids": [
+    "206-10001-10012",
+    "206-10001-10004",
+    "206-10001-10005",
+    "206-10001-10013",
+    "206-10001-10006",
+    "206-10001-10010",
+    "206-10001-10007",
+    "206-10001-10000",
+    "206-10001-10001"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "entity_name": "Security Information",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The documents tagged with \"Security Information\" encompass a range of activities related to intelligence gathering, dissemination, and protection. This includes sharing information about individuals like Mark Lane with law enforcement and intelligence agencies, assessing the suitability of contract employees like Balmes Nieves Hidalgo, Jr., managing access to sensitive materials for Congressional committees, and using organizations like the Research Institute of America for agent cover. The documents also cover investigations into potential subversive activities, such as the monitoring of delegates to youth festivals and journalists with suspected Soviet connections. Furthermore, the documents highlight instances where individuals sought security information improperly, prompting counter-intelligence interviews. Overall, the documents reveal the CIA and FBI's efforts to gather, protect, and manage sensitive information related to individuals, organizations, and events deemed relevant to national security.",
+  "key_connections": [
+    "Mark Lane",
+    "Balmes Nieves Hidalgo, Jr.",
+    "Research Institute of America",
+    "Leo Cherne",
+    "III Festival Mundial de la Juventud",
+    "Ross L. Crozier",
+    "Frits (aka Fred) SNECHI",
+    "Rota Japollo network",
+    "John the Dee Jay",
+    "Phillip W. May",
+    "House Select Committee on Assassinations",
+    "Senate Select Committee on Intelligence"
+  ],
+  "significance": "In the context of the JFK assassination, \"Security Information\" is a broad category that highlights the efforts to monitor individuals and organizations, manage sensitive data, and protect against potential threats. While not directly related to the assassination itself in these documents, the tag points to the environment of surveillance and intelligence gathering that existed during the period, which could indirectly relate to the investigation and the various theories surrounding the event.",
+  "document_ids": [
+    "124-10320-10087",
+    "104-10250-10200",
+    "104-10140-10101",
+    "104-10070-10296",
+    "104-10048-10252",
+    "104-10215-10246",
+    "104-10171-10138",
+    "194-10006-10313"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "entity_name": "Assassinations Committee",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The Assassinations Committee, specifically the House Select Committee on Assassinations (HSCA), was a Congressional body tasked with investigating the assassinations of John F. Kennedy and Martin Luther King Jr. The documents indicate the committee's activities included gathering information from various sources, such as the CIA and KCIA, and managing staff payroll. The committee sought information regarding potential CIA involvement with the Mafia and Fidel Castro, reflecting a focus on exploring conspiracy theories surrounding the JFK assassination. The documents span from 1977 to 1978, indicating the period of the HSCA's active investigation. A notable pattern is the focus on internal operations, such as staff payroll, alongside external investigations into potential conspiracies.",
+  "key_connections": [
+    "CIA",
+    "KCIA",
+    "Mafia",
+    "Fidel Castro",
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "The Assassinations Committee played a crucial role in re-examining the circumstances surrounding the JFK assassination, exploring potential conspiracies and government involvement. Its investigations and findings contributed to the ongoing debate and public understanding of the event.",
+  "document_ids": [
+    "104-10066-10060",
+    "180-10060-10473",
+    "180-10060-10452"
+  ]
+}

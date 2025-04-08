@@ -1,0 +1,21 @@
+{
+  "entity_name": "Turkey",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "Turkey is mentioned in several documents related to the JFK assassination period. The American Ambassador to Turkey believed that Russia and Cuba were involved in President Kennedy's assassination. A Turkish cable relays that Tunisia declared three days of national mourning after President Kennedy's death and that Prime Minister Bahi Ladgham will represent Tunisia at the funeral ceremony in Washington. Additionally, one document refers to Turkish government instability as a topic of interest in the President's Intelligence Checklist. Turkey appears in a world brief summarizing political and military situations across the globe.",
+  "key_connections": [
+    "Russia",
+    "Cuba",
+    "Tunisia",
+    "Bahi Ladgham"
+  ],
+  "significance": "Turkey's significance in the JFK context primarily revolves around the American Ambassador's belief regarding Russian and Cuban involvement in the assassination, as well as the country's reaction to Kennedy's death. The mention of Turkish government instability suggests broader geopolitical concerns during that period.",
+  "document_ids": [
+    "177-10002-10098",
+    "104-10290-10190",
+    "144-10001-10346",
+    "144-10001-10074",
+    "144-10001-10347",
+    "104-10302-10028"
+  ]
+}

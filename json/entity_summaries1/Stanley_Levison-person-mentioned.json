@@ -1,0 +1,27 @@
+{
+  "entity_name": "Stanley Levison",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "summary": "Stanley Levison is a person of interest due to his connections with Martin Luther King Jr. and alleged ties to the Communist Party USA (CPUSA). The documents primarily focus on FBI investigations into Martin Luther King Jr., the Southern Christian Leadership Conference (SCLC), and Stanley Levison, with emphasis on electronic surveillance and potential communist influence. Alan G. Sentinella's testimony before the Senate Select Committee (SSC) in 1975 repeatedly references investigations involving Levison, suggesting a sustained interest in his activities and associations. The FBI sought to establish a factual basis for Levison's alleged secret CPUSA membership, indicating a concern about his ideological alignment and potential influence.",
+  "key_connections": [
+    "Martin Luther King Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "Communist Party USA (CPUSA)",
+    "Alan G. Sentinella",
+    "FBI"
+  ],
+  "significance": "While the documents do not directly link Stanley Levison to the JFK assassination, his association with Martin Luther King Jr. and alleged ties to the CPUSA made him a subject of intense FBI scrutiny during the same era. The investigations into his activities and connections reflect the broader context of political surveillance and counterintelligence operations during the Cold War, which indirectly touches upon the environment in which the JFK assassination occurred.",
+  "document_ids": [
+    "124-10276-10482_multirif",
+    "124-10274-10358_multirif",
+    "124-10273-10014_multirif",
+    "124-10273-10016_multirif",
+    "124-10273-10012_multirif",
+    "124-10274-10357_multirif",
+    "124-10273-10022_multirif",
+    "124-10273-10008_multirif",
+    "124-10276-10483_multirif",
+    "124-10238-10329_multirif",
+    "124-10273-10018_multirif"
+  ]
+}

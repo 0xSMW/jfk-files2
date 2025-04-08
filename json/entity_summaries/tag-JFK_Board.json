@@ -1,0 +1,21 @@
+{
+  "entity_name": "JFK Board",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The JFK Board, formally known as the Assassination Records Review Board (ARRB), was responsible for reviewing and releasing government records related to the assassination of President John F. Kennedy. The documents indicate ongoing negotiations and potential conflicts between the CIA and the JFK Board regarding the release of sensitive information. The CIA sought to protect sensitive equities and operational details, including unacknowledged covert actions, alias documentation, organizational materials, Mexico City tapes, protection of LITAMIL-9, Richard Gibson (CIA Asset), and files of CIA officials. The documents span from 1996 to 1998, indicating a period of active engagement between the Board and the CIA in resolving issues related to declassification and release of JFK assassination-related records. The board also made decisions on releasing the true names of individuals like Jose Marie Mankel, a former ZRRIFLE agent.",
+  "key_connections": [
+    "CIA",
+    "Jose Marie Mankel",
+    "John Whitten",
+    "Richard Gibson",
+    "LITAMIL-9",
+    "Mexico City tapes"
+  ],
+  "significance": "The JFK Board played a crucial role in the declassification and release of government documents related to the JFK assassination, aiming to provide transparency and facilitate public understanding of the events surrounding the assassination. Its interactions with the CIA highlight the challenges in balancing transparency with the protection of sensitive national security information.",
+  "document_ids": [
+    "104-10332-10000",
+    "104-10331-10194",
+    "104-10326-10049",
+    "104-10331-10152"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "entity_name": "Justice Department",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The Justice Department is a key entity involved in legal and investigative matters. The documents highlight the Justice Department's role in investigating potential criminal activities that intersect with CIA operations. One document discusses the potential damage to CIA activities in Miami due to the Justice Department's pursuit of a Grand Jury indictment against Rolando Masferrer for a planned Haitian invasion. Another document reveals a Justice Department request to survey CIA files related to mail operations, indicating an interest in the CIA's covert activities involving mail. A third document mentions a narcotics indictment and potential involvement in bombings, with the FBI also involved. These documents suggest a pattern of the Justice Department investigating individuals and activities that may have connections to or implications for the CIA.",
+  "key_connections": [
+    "CIA",
+    "Rolando Masferrer",
+    "Brent Scowcroft",
+    "Rob Roy Ratliff",
+    "Albert Larrain Maestre",
+    "Frank \"Lefty\" Rosenthal",
+    "FBI"
+  ],
+  "significance": "While the documents do not directly link the Justice Department to the JFK assassination, they reveal the department's role in investigating potential criminal activities and its interactions with the CIA, which may be relevant in understanding the broader context of events surrounding the assassination.",
+  "document_ids": [
+    "104-10104-10094",
+    "178-10004-10148",
+    "104-10178-10096"
+  ]
+}

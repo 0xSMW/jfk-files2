@@ -1,0 +1,32 @@
+{
+  "entity_name": "Lansdale",
+  "entity_type": "person-mentioned",
+  "document_count": 14,
+  "summary": "General Lansdale is a key figure mentioned in documents related to Operation Mongoose and alleged assassination plots against Fidel Castro. The documents suggest Lansdale was involved in discussions and planning related to covert actions against Cuba, including potential assassination attempts. He is referenced in meeting minutes, memoranda, and summaries related to Operation Mongoose, indicating his participation in the planning and execution of activities aimed at destabilizing the Cuban government. The documents span from the early 1960s through the mid-1970s, reflecting ongoing investigations and reviews of these operations. Lansdale's name appears in connection with Task Force W, the Special Group Augmented, and discussions of potential executive actions, highlighting his role in the covert operations against Cuba.",
+  "key_connections": [
+    "Fidel Castro",
+    "Operation Mongoose",
+    "Task Force W",
+    "Special Group Augmented",
+    "William Harvey",
+    "Richard Goodwin",
+    "McCone"
+  ],
+  "significance": "Lansdale's significance in the JFK context lies in his involvement in Operation Mongoose, a covert program aimed at destabilizing the Cuban government, which included discussions and planning related to potential assassination attempts against Fidel Castro. His role is examined in the context of investigations into potential executive actions and CIA activities related to Cuba during the Kennedy administration.",
+  "document_ids": [
+    "157-10005-10236",
+    "157-10011-10000",
+    "157-10008-10241",
+    "135-10001-10246",
+    "157-10014-10109",
+    "157-10011-10010",
+    "104-10062-10073",
+    "157-10011-10007",
+    "157-10002-10001",
+    "157-10014-10117",
+    "157-10011-10009",
+    "157-10008-10238",
+    "104-10306-10020",
+    "157-10011-10003"
+  ]
+}

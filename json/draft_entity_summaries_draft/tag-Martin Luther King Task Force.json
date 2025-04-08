@@ -1,0 +1,25 @@
+{
+  "entity_name": "Martin Luther King Task Force",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The Martin Luther King Task Force was a part of the House Select Committee on Assassinations (HSCA). The documents provided primarily relate to the payroll records of individuals employed by the Task Force. These records include payroll authorization forms, memoranda, and final determination notifications regarding the postponement of certain information due to privacy concerns. The documents span from 1977 to 1978, with a later notification in 1995. The Task Force appears to have employed researchers and attorneys, such as Thomas Wayne Sacco, Kenneth S. McHargh, Barbara Jean Robinson, Elizabeth C. Feeley, Dean B. Webb and Mark A. Speiser. A notable pattern is the consistent focus on payroll and personnel administration, suggesting the documents are primarily administrative in nature.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Thomas Wayne Sacco",
+    "Kenneth S. McHargh",
+    "Barbara Jean Robinson",
+    "Elizabeth C. Feeley",
+    "Dean B. Webb",
+    "Mark A. Speiser",
+    "Assassination Records Review Board"
+  ],
+  "significance": "The Martin Luther King Task Force was a component of the HSCA, which investigated the assassination of Martin Luther King Jr. The documents provided do not directly address the JFK assassination, but rather focus on the administrative aspects of the Task Force's operations while investigating the assassination of Martin Luther King Jr.",
+  "document_ids": [
+    "180-10147-10259",
+    "180-10060-10482",
+    "180-10147-10258",
+    "180-10147-10265",
+    "180-10068-10347",
+    "180-10147-10260"
+  ]
+}

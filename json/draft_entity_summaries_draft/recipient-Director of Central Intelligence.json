@@ -1,0 +1,29 @@
+{
+  "entity_name": "Director of Central Intelligence",
+  "entity_type": "recipient",
+  "document_count": 11,
+  "summary": "The Director of Central Intelligence (DCI) appears as a recipient of various memoranda and letters, indicating their role as a central figure in receiving information and recommendations on a range of topics, including U.S. actions in Cuba, the handling of the Yuriy Nosenko case, and correspondence related to the JFK assassination records. The DCI received information from various sources, including Sir Charles Spry of the Australian Security Intelligence Organization (ASIO), regarding the declassification of Warren Commission documents. The documents span from 1959 to 1978, showcasing the DCI's involvement in intelligence matters across different periods. A notable pattern is the DCI's role in receiving updates and recommendations related to sensitive matters, including potential risks associated with declassifying information related to the JFK assassination.",
+  "key_connections": [
+    "Sir Charles Spry (ASIO)",
+    "William H. Webster",
+    "Fidel Castro",
+    "Yuriy Nosenko",
+    "James Earl Ray",
+    "FBI",
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "The Director of Central Intelligence's significance in the JFK context lies in their role as a recipient of information and recommendations related to the assassination and subsequent investigations. The documents suggest that the DCI was involved in decisions regarding the declassification of Warren Commission documents and the handling of information related to individuals like Yuriy Nosenko, who had potential connections to the assassination. The DCI's office was a key point of contact for information sharing and decision-making related to the JFK assassination records.",
+  "document_ids": [
+    "104-10320-10038",
+    "104-10301-10004",
+    "104-10193-10076",
+    "104-10291-10014",
+    "104-10308-10208",
+    "104-10332-10009",
+    "104-10322-10056",
+    "104-10408-10415",
+    "104-10012-10078",
+    "104-10307-10024",
+    "104-10095-10276"
+  ]
+}

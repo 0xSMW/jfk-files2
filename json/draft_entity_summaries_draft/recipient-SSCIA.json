@@ -1,0 +1,36 @@
+{
+  "entity_name": "SSCIA",
+  "entity_type": "recipient",
+  "document_count": 11,
+  "summary": "The SSCIA (Senate Select Committee on Intelligence Activities), also known as the Church Committee, was a Senate committee established in 1975 to investigate intelligence activities of the United States government, including the CIA and FBI. In the context of the JFK assassination, the SSCIA conducted hearings and collected testimonies from various individuals involved in or knowledgeable about CIA activities, potential assassination plots, and covert operations. The documents reveal that the SSCIA investigated topics such as Operation Mongoose, ZRRIFLE, CIA's relationship with Cuban exiles, mail opening projects, and alleged assassination plans involving foreign leaders. The committee sought to understand the extent of CIA involvement in activities that might have relevance to the JFK assassination, including potential plots against Fidel Castro and other foreign leaders. The timeline of involvement is primarily focused on 1975, when the SSCIA conducted its investigations and hearings.",
+  "key_connections": [
+    "CIA",
+    "William Harvey",
+    "David Atlee Phillips",
+    "Richard M. Bissell",
+    "Robert Maheu",
+    "Alfred J. Sarno",
+    "James P. O'Connell",
+    "Howard J. Osborn",
+    "Lawrence Houston",
+    "Paul David (alias)",
+    "FBI",
+    "Fidel Castro",
+    "Allende",
+    "Aristotle Onassis"
+  ],
+  "significance": "The SSCIA's significance in the JFK context lies in its investigation into potential CIA involvement in activities that could be linked to the assassination. By collecting testimonies and examining documents related to covert operations, assassination plots, and relationships with individuals and organizations potentially involved, the SSCIA aimed to uncover any connections between the CIA and the assassination of President Kennedy. The testimonies and documents gathered by the SSCIA provide valuable insights into the CIA's activities during the relevant period and contribute to the ongoing understanding of the events surrounding the JFK assassination.",
+  "document_ids": [
+    "157-10002-10165",
+    "157-10008-10246",
+    "157-10002-10105",
+    "157-10005-10250",
+    "157-10002-10148",
+    "157-10002-10106",
+    "157-10005-10225",
+    "157-10002-10150",
+    "157-10011-10048",
+    "157-10004-10095",
+    "157-10011-10018"
+  ]
+}

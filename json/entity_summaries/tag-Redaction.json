@@ -1,0 +1,29 @@
+{
+  "entity_name": "Redaction",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "The term \"Redaction\" in these documents refers to the act of obscuring or removing sensitive information from documents before their release to the public, particularly concerning the House Select Committee on Assassinations (HSCA) records and other JFK assassination-related materials. The primary reason for redaction is to protect personal privacy, specifically Social Security numbers of HSCA staff and other individuals mentioned in the documents. The Assassination Records Review Board (ARRB) made final determination notifications regarding these redactions, often postponing the release of Social Security numbers and other sensitive information. These redactions are a recurring theme across multiple documents, highlighting the balance between transparency and the protection of personal information in the context of historical records related to the JFK assassination.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board (ARRB)",
+    "Social Security numbers",
+    "Personal privacy",
+    "JFK Assassination Records Act",
+    "British Security Service (BSS)"
+  ],
+  "significance": "Redaction is significant in the JFK context as it reflects the legal and ethical considerations involved in releasing sensitive historical documents. It highlights the tension between the public's right to know and the need to protect individuals' privacy. The redactions, primarily of Social Security numbers, demonstrate the ARRB's efforts to comply with the JFK Assassination Records Act while safeguarding personal information.",
+  "document_ids": [
+    "178-10003-10176",
+    "180-10070-10170",
+    "180-10060-10451",
+    "180-10068-10313",
+    "180-10060-10467",
+    "180-10060-10489",
+    "180-10068-10307",
+    "104-10326-10002",
+    "180-10070-10169",
+    "104-10326-10035",
+    "180-10060-10481",
+    "180-10068-10341"
+  ]
+}

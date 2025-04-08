@@ -1,0 +1,19 @@
+{
+  "entity_name": "Rostow",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Based on the provided documents, Rostow is mentioned in the context of a memorandum from Johnson summarizing a meeting of the Task Force on Viet Nam. The meeting discussed intelligence briefings, local currency costs, the situation in Laos in relation to South Viet Nam, and other matters like Diem's proposal for a 100,000 man increase in GVN forces. The documents do not provide enough information to determine Rostow's full name, specific role, or significance in the JFK assassination context. The documents focus on foreign policy issues, particularly related to Vietnam, during the Kennedy and Johnson administrations.",
+  "key_connections": [
+    "Johnson",
+    "Diem",
+    "Task Force on Viet Nam"
+  ],
+  "significance": "The provided documents do not establish a direct connection between Rostow and the JFK assassination. Rostow's significance in these documents relates to his involvement in discussions and policy-making concerning Vietnam during the Kennedy and Johnson administrations.",
+  "document_ids": [
+    "144-10001-10084",
+    "104-10306-10018",
+    "176-10036-10073",
+    "157-10008-10150",
+    "157-10011-10018"
+  ]
+}

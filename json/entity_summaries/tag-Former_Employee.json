@@ -1,0 +1,23 @@
+{
+  "entity_name": "Former Employee",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents pertain to CIA efforts to contact former employees residing in various locations (Paris, Vienna, Wachtberg-Pech, Caracas, and Hong Kong) regarding the potential public release of their names in documents related to the JFK Assassination Records Collection Act of 1992. The CIA stations were tasked with informing these individuals about the appearance of their names in the JFK assassination records and offering guidance on how to respond if they had concerns about the release of their personal information. The cables indicate a coordinated effort by the CIA to comply with the JFK Assassination Records Collection Act by notifying former employees and providing them with an opportunity to request postponement of public disclosure.",
+  "key_connections": [
+    "CIA",
+    "JFK Assassination Records Collection Act of 1992",
+    "Paris Station",
+    "Vienna Station",
+    "Bonn Station",
+    "Caracas Station",
+    "Hong Kong Station"
+  ],
+  "significance": "The former employees' significance lies in the fact that their names appear in documents related to the JFK assassination. The documents suggest that these individuals may have had some connection, however tangential, to events or information relevant to the assassination, prompting the CIA to notify them about the potential public release of their names. The exact nature of their involvement is not specified in these documents.",
+  "document_ids": [
+    "104-10326-10036",
+    "104-10326-10067",
+    "104-10326-10031",
+    "104-10326-10033",
+    "104-10326-10034"
+  ]
+}

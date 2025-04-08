@@ -1,0 +1,26 @@
+{
+  "entity_name": "Budget Officer",
+  "entity_type": "sender",
+  "document_count": 10,
+  "summary": "The documents provided do not explicitly mention a \"Budget Officer\" by name. Instead, they primarily concern the House Select Committee on Assassinations (HSCA) staff payroll records and notifications from the Assassination Records Review Board (ARRB) regarding the postponement of certain information, specifically Social Security numbers, to protect personal privacy. The documents include payroll authorization forms, memoranda, and final determination notifications related to HSCA staff. The role of a budget officer would be implicit in the authorization and management of these payroll records, ensuring proper allocation and certification of funds for HSCA staff. However, no specific individual is identified as the Budget Officer in these documents.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board (ARRB)",
+    "HSCA Staff (e.g., Antoinette M. Roberts, Donald A. Purdy, Jr., Ann Furnald Taylor, Thomas Howarth, James Lerer Wolf, Elizabeth Ann Wolf, Ann Lyon Strickland, Jane E. Godfrey)",
+    "Louis Stokes",
+    "Henry B. Gonzalez"
+  ],
+  "significance": "While no specific Budget Officer is named, the role is significant in ensuring the financial operations of the HSCA. The documents highlight the importance of managing and protecting staff payroll information, as evidenced by the ARRB's involvement in postponing the release of Social Security numbers to protect personal privacy. The existence of payroll records and authorization forms indicates the presence of a budget management function within the HSCA, even if the specific individual responsible is not identified.",
+  "document_ids": [
+    "180-10070-10146",
+    "180-10071-10001",
+    "180-10071-10000",
+    "180-10068-10312",
+    "180-10070-10163",
+    "180-10060-10445",
+    "180-10070-10175",
+    "180-10070-10174",
+    "180-10147-10261",
+    "180-10068-10357"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "entity_name": "Consultant",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents mention 'Consultant' as a role held by individuals in different contexts. Newton S. Miler's records include memoranda regarding his contract termination as a consultant. Yurily Ivanovich Nosenko, a former KGB officer who defected and was confined by the CIA, later became a U.S. citizen and Agency consultant. The third document does not directly mention a consultant but involves an investigation into the potential disclosure of classified information related to an Identi-kit project, possibly involving external parties or consultants. The role of 'consultant' appears in the context of personnel records, defector integration, and potentially in external projects or investigations.",
+  "key_connections": [
+    "Newton S. Miler",
+    "Yurily Ivanovich Nosenko",
+    "CIA",
+    "KGB",
+    "Identi-kit project"
+  ],
+  "significance": "The significance of 'Consultant' in the JFK context is indirect. While none of the documents directly relate to the assassination, they illustrate the use of consultants by government agencies like the CIA. The presence of former KGB officers as consultants highlights the complex relationships and information flows during the Cold War, which forms the broader historical backdrop of the JFK assassination. The Identi-kit document suggests potential security concerns related to external parties involved in sensitive projects.",
+  "document_ids": [
+    "104-10224-10007",
+    "104-10418-10202",
+    "104-10124-10149"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "entity_name": "Sensitive Compartmented Information",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "The documents provided are reports and memoranda from the National Security Agency (NSA) related to the assassination of President John F. Kennedy and the reactions to it, particularly from Cuba and the Soviet Union. The presence of \"Sensitive Compartmented Information\" as a tag indicates that these documents contain highly classified information requiring special handling and access control. The documents cover a range of topics, including Cuban reactions to the assassination, Soviet grief and security measures, efforts to extract an American citizen from Cuba, and the NSA's response to queries from the House Assassinations Committee. The timeline spans from November 1963 to December 1975, with a focus on the immediate aftermath of the assassination. The documents highlight the NSA's role in monitoring and analyzing foreign reactions and intelligence related to the event.",
+  "key_connections": [
+    "National Security Agency (NSA)",
+    "John F. Kennedy",
+    "Cuba",
+    "Soviet Union",
+    "Lee Harvey Oswald",
+    "Fidel Castro",
+    "House Assassinations Committee",
+    "Mexican Government",
+    "Eastern Naval District of Cuba"
+  ],
+  "significance": "In the context of the JFK assassination, Sensitive Compartmented Information signifies the classified nature of intelligence gathering and analysis conducted by the NSA regarding the event and its international repercussions. The documents tagged with this classification provide insights into the reactions and potential involvement of foreign entities, particularly Cuba and the Soviet Union, and the measures taken by the U.S. government to understand and respond to the situation. The classification underscores the sensitivity and strategic importance of the information collected and disseminated by the NSA during this period.",
+  "document_ids": [
+    "144-10001-10061",
+    "144-10001-10125",
+    "144-10001-10105",
+    "144-10001-10080",
+    "144-10001-10063",
+    "144-10001-10167",
+    "144-10001-10166",
+    "144-10001-10170",
+    "144-10001-10136",
+    "144-10001-10101",
+    "144-10001-10117",
+    "144-10001-10072"
+  ]
+}

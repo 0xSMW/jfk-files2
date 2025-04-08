@@ -1,0 +1,19 @@
+{
+  "entity_name": "DCI (Director of Central Intelligence)",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "The Director of Central Intelligence (DCI) is mentioned in three documents. One set of memoranda details the DCI's meetings and activities from April to July 1964, including discussions with government officials, journalists, and foreign representatives on topics ranging from Southeast Asia to Soviet policy. The other two documents relate to the classification of document EX 3600, justifying its classification based on its connection to Operation MHCHAOS and the inclusion of information from sensitive sources and classified FBI reports. The DCI's role appears to be primarily administrative and supervisory, overseeing intelligence operations and managing relationships with various stakeholders. The timeline of involvement spans from at least April 1964 to April 1977, based on the document dates.",
+  "key_connections": [
+    "Government officials",
+    "Journalists",
+    "Foreign representatives",
+    "Operation MHCHAOS",
+    "FBI"
+  ],
+  "significance": "The DCI's significance in the JFK context, based on these documents, is related to the broader intelligence landscape and the management of sensitive information. While the documents do not directly implicate the DCI in the assassination, they highlight the DCI's role in overseeing intelligence operations and managing relationships with various stakeholders during the period surrounding the assassination and beyond. The connection to Operation MHCHAOS and the classification of documents suggest involvement in sensitive and potentially controversial activities.",
+  "document_ids": [
+    "104-10074-10347",
+    "104-10306-10011",
+    "104-10063-10434"
+  ]
+}

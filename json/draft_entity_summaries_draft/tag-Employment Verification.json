@@ -1,0 +1,20 @@
+{
+  "entity_name": "Employment Verification",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Employment verification appears in the documents as a process of confirming an individual's work history, including dates of employment and positions held. These verifications are conducted to establish background information and potentially assess credibility or connections. In the context of the JFK assassination records, employment verification is used to investigate individuals like I. Charles Mathews, Manuel Marti, and others, to understand their backgrounds and potential relevance to the assassination or related investigations. The documents include payroll records, identification forms, and agent reports, all contributing to a more complete picture of an individual's employment history.",
+  "key_connections": [
+    "I. Charles Mathews",
+    "Manuel Marti",
+    "House Select Committee on Assassinations (HSCA)",
+    "Albert B. Cassidy Jr.",
+    "Mutual Insurance Advisory Association",
+    "Polly Perry Stores"
+  ],
+  "significance": "In the JFK assassination context, employment verification is a tool used to investigate individuals who may have been connected to the assassination or subsequent investigations. By verifying employment history, investigators aimed to uncover potential connections, assess credibility, and identify any inconsistencies or hidden affiliations that might shed light on the events surrounding the assassination.",
+  "document_ids": [
+    "180-10060-10477",
+    "194-10004-10383",
+    "194-10004-10378"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "entity_name": "Psychological Assessment",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Psychological assessments were utilized by the CIA for various purposes, including evaluating potential agents and assessing the reliability and background of individuals of interest. These assessments involved psychological testing, graphological analysis, and psychiatric evaluations. The documents highlight the use of psychological assessments in the context of recruiting and handling agents, such as in the WIROGUE project and the REDSKIN program. They were also used to evaluate the truthfulness and background of individuals like Yuriy Nosenko, a defector, and to determine the suitability of individuals like Victor Paneque as CIA assets. The assessments were part of a broader effort to vet individuals for intelligence operations and to understand their motivations and potential vulnerabilities.",
+  "key_connections": [
+    "WIROGUE project",
+    "AEASPIC operation",
+    "Yuriy Nosenko",
+    "Peter Deryabin",
+    "Victor Paneque",
+    "REDSKIN agents",
+    "Victor Manuel Paneque",
+    "CIA"
+  ],
+  "significance": "In the context of the JFK assassination, psychological assessments are relevant as they reflect the CIA's methods for evaluating individuals who may have been involved in intelligence activities or who could provide information related to the assassination. The assessments provide insight into the agency's operational procedures and its efforts to understand the motivations and reliability of potential assets and informants. While not directly linked to the assassination in these documents, the use of psychological assessments highlights the CIA's broader intelligence gathering and evaluation practices during this period.",
+  "document_ids": [
+    "104-10182-10057",
+    "104-10211-10001",
+    "180-10144-10133",
+    "104-10120-10378",
+    "180-10145-10302"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "entity_name": "Final Determination",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The \"Final Determination\" tag refers to notifications issued by the Assassination Records Review Board (ARRB) regarding the release status of specific records related to the House Select Committee on Assassinations (HSCA) staff payroll. These notifications primarily address the postponement of releasing Social Security numbers from HSCA staff payroll records to protect personal privacy. The documents indicate a consistent pattern of the ARRB making final determinations to postpone the release of sensitive personal information, specifically Social Security numbers, from HSCA payroll records. These determinations are documented in notifications accompanying payroll records and authorization forms for HSCA staff members like Wendy S. Collins and Cynthia S. Cooper.",
+  "key_connections": [
+    "Assassination Records Review Board (ARRB)",
+    "House Select Committee on Assassinations (HSCA)",
+    "HSCA staff payroll records",
+    "Wendy S. Collins",
+    "Cynthia S. Cooper",
+    "Social Security numbers"
+  ],
+  "significance": "In the context of the JFK assassination records, \"Final Determination\" signifies the ARRB's role in balancing the public's right to access assassination-related records with the need to protect the personal privacy of individuals mentioned in those records. The postponement of Social Security numbers reflects a specific decision made by the ARRB to redact sensitive information while still releasing the underlying historical documents.",
+  "document_ids": [
+    "180-10071-10000",
+    "180-10068-10324",
+    "180-10068-10327"
+  ]
+}

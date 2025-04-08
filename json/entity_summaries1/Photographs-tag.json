@@ -1,0 +1,25 @@
+{
+  "entity_name": "Photographs",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Photographs appear in the documents primarily in the context of distribution and identification. They are used to disseminate information, as seen in the request to send copies of photographs to various stations that received DIR 92664. Photographs also play a role in identifying individuals, such as Carlos Marcello, where the FBI sought identification from informants in different field offices. The documents suggest that the distribution and handling of these photographs were controlled, with specific instructions regarding routing, dissemination, and the protection of informant identities. The timeline of involvement is primarily focused around April 1968, with an earlier instance in November 1966.",
+  "key_connections": [
+    "POSSON",
+    "Carlos Marcello",
+    "Richard Ober",
+    "FBI New Orleans",
+    "FBI Tampa",
+    "FBI Miami",
+    "C/NE",
+    "C/FE",
+    "C/WH",
+    "C/EUR",
+    "DIR 92664"
+  ],
+  "significance": "In the context of the JFK assassination, photographs are used as a tool for identification and information dissemination. The documents highlight the importance of visual evidence and the controlled distribution of such evidence within investigative agencies. While the documents do not directly link the photographs to the assassination itself, they illustrate the methods used to gather and share information related to individuals of interest.",
+  "document_ids": [
+    "104-10072-10046",
+    "124-10204-10212",
+    "104-10178-10137"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "entity_name": "Central Cover Staff",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "The Central Cover Staff (CCS) was a division within the CIA responsible for establishing and maintaining cover identities for CIA agents and operations. Their work involved creating documentation and arrangements to conceal the true affiliation of agents, often using military or domestic organizations as fronts. The CCS played a role in providing cover for agents working with sensitive projects, such as those involving the Special Affairs Staff (SAS). They also interacted with external entities like The Wackenhut Corporation to explore potential cover support. The CCS was involved in responding to inquiries from the House Select Committee on Assassinations (HSCA) by providing information on individuals and entities of interest, detailing their Agency affiliations, cover status, and any relevant files held by the CCS. The timeline of involvement spans from at least 1963 to 1978, as indicated by the document dates.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "The Wackenhut Corporation",
+    "Special Affairs Staff (SAS)",
+    "Marie L. PRISBECH (Heda Massing)",
+    "Ross Crozier",
+    "George DeMohrenschildt",
+    "Leo Cherne",
+    "William Harvey",
+    "International Rescue Committee",
+    "Richard Helms",
+    "James Angleton",
+    "Raymond Rocca",
+    "Thomas Lee Roberts",
+    "Itkin",
+    "Conestoga Group",
+    "State Department"
+  ],
+  "significance": "In the context of the JFK assassination, the Central Cover Staff's significance lies in its role of providing cover for individuals and organizations that may have been connected to the assassination. The HSCA's interest in the CCS files suggests a potential link between the CIA's cover operations and the events surrounding the assassination. The CCS's records on individuals like George DeMohrenschildt, and organizations like the Wackenhut Corporation, which were of interest to the HSCA, indicate the potential for uncovering hidden connections or activities related to the assassination.",
+  "document_ids": [
+    "104-10059-10026",
+    "104-10061-10132",
+    "104-10215-10004",
+    "104-10061-10181",
+    "104-10061-10292",
+    "104-10130-10472",
+    "104-10059-10057",
+    "104-10061-10320",
+    "104-10061-10265",
+    "104-10121-10236",
+    "104-10061-10214",
+    "104-10107-10085"
+  ]
+}

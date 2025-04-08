@@ -1,0 +1,19 @@
+{
+  "entity_name": "Johnny Rosselli",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Johnny Rosselli is mentioned in the context of CIA activities and potential assassination plots. While the documents do not explicitly detail his role in the JFK assassination, they place him within the sphere of individuals connected to sensitive and potentially illegal operations conducted by the CIA. He appears in documents related to the testimony of William Harvey and Howard J. Osborn, which discuss topics such as ZRRIFLE and CIA mail opening projects. Additionally, he is connected to Robert A. Maheu, who worked with the CIA's Office of Security on sensitive assignments. The documents suggest Rosselli's involvement or knowledge of covert operations, but his specific role or timeline of involvement related to the JFK assassination is not explicitly stated.",
+  "key_connections": [
+    "William Harvey",
+    "Robert A. Maheu",
+    "Howard J. Osborn",
+    "CIA",
+    "ZRRIFLE"
+  ],
+  "significance": "The significance of Johnny Rosselli in the JFK context is implied through his association with individuals and activities related to potential assassination plots and covert CIA operations. While the documents do not directly link him to the assassination, his connections to these sensitive areas suggest a potential, albeit undefined, role or knowledge of related events.",
+  "document_ids": [
+    "157-10002-10105",
+    "104-10122-10279",
+    "157-10002-10150"
+  ]
+}

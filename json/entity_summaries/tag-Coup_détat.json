@@ -1,0 +1,25 @@
+{
+  "entity_name": "Coup d'état",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents primarily concern potential coup d'états in South Vietnam during the early 1960s. These coups were considered against the Diem regime, involving various South Vietnamese military figures and factions. The documents suggest that the United States was aware of these plans, and the plotters were concerned about securing U.S. support or at least non-interference. The timing of these potential coups spans from mid-1962 to late 1963, with specific plans mentioned for July and September 1963. A notable pattern is the CIA's active monitoring and reporting on these coup plots, indicating a significant U.S. interest in the political stability (or instability) of South Vietnam during this period.",
+  "key_connections": [
+    "Ngo Dinh Diem",
+    "Ngo Dinh Nhu",
+    "Nguyen Khanh",
+    "Duong Van Minh",
+    "Le Van Kim",
+    "Pham Ngoc Thao",
+    "Tran Kim Tuyen",
+    "Ton That Xung",
+    "United States Government (CIA)"
+  ],
+  "significance": "In the context of the JFK assassination, the potential coups d'état in South Vietnam highlight the volatile political climate and the U.S. involvement in the region. While the documents do not directly link to the assassination, they provide insight into the complex dynamics and power struggles that characterized the period, which could have indirectly influenced events leading up to the assassination. The US involvement in the potential coups also shows the US interest in the region.",
+  "document_ids": [
+    "176-10036-10086",
+    "176-10036-10131",
+    "176-10036-10113",
+    "176-10036-10115",
+    "176-10036-10134"
+  ]
+}

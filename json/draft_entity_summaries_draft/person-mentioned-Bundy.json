@@ -1,0 +1,36 @@
+{
+  "entity_name": "Bundy",
+  "entity_type": "person-mentioned",
+  "document_count": 15,
+  "summary": "McGeorge Bundy appears in the documents primarily in the context of U.S. foreign policy during the Kennedy and Johnson administrations, particularly concerning Cuba and Vietnam. He is mentioned in connection with the Special Group, a committee involved in overseeing covert operations, including Operation Mongoose aimed at Cuba. Bundy's role seems to be related to high-level policy decisions and communications, as evidenced by a cable he sent to Ambassador Lodge regarding a potential coup in Vietnam. The documents suggest his involvement in discussions and decisions related to covert actions, reconnaissance activities, and overall U.S. strategy during the Cold War. The timeline of his involvement spans from the early 1960s to the mid-1970s, based on the document dates.",
+  "key_connections": [
+    "Special Group",
+    "Operation Mongoose",
+    "Ambassador Lodge",
+    "Kennedy Administration",
+    "Johnson Administration",
+    "Cuba",
+    "Vietnam",
+    "Castro",
+    "Harvey",
+    "Lansdale"
+  ],
+  "significance": "McGeorge Bundy's significance in the JFK context lies in his role as a key advisor and decision-maker during a period when the U.S. government was actively involved in covert operations and policy decisions related to Cuba and Vietnam. While the documents do not directly link him to the JFK assassination, his involvement in the Special Group and his influence on U.S. foreign policy during that era make him a relevant figure in understanding the broader context of the events surrounding the assassination.",
+  "document_ids": [
+    "157-10008-10241",
+    "176-10011-10152",
+    "104-10306-10003",
+    "157-10011-10010",
+    "157-10011-10007",
+    "104-10118-10427",
+    "104-10306-10010",
+    "176-10036-10173",
+    "157-10011-10009",
+    "104-10306-10016",
+    "157-10008-10238",
+    "157-10008-10150",
+    "104-10306-10020",
+    "176-10036-10085",
+    "157-10011-10018"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "entity_name": "Employment",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "The documents primarily relate to the employment records of staff members working for the House Select Committee on Assassinations (HSCA). These records include payroll authorization forms, memoranda, resumes, and certification reports detailing employee positions, salaries, and periods of employment. The documents also cover employment-related investigations and background checks. Specific individuals mentioned include Joseph Kiel, Patricia M. Orr, Burton A. Chardak, Richard Newcombe Billings, Peter G. Beeson, Robin David Lindley, and Thomas Howarth. One document summarizes an interview with Juanita Brown regarding Lee Harvey Oswald's employment at William B. Rielly Coffee Co. Another document concerns a background check on Robert Scheer. Emilio A. Rodriguez's resume is also included, detailing his work experience.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Joseph Kiel",
+    "Patricia M. Orr",
+    "Burton A. Chardak",
+    "Richard Newcombe Billings",
+    "Peter G. Beeson",
+    "Robin David Lindley",
+    "Thomas Howarth",
+    "Juanita Brown",
+    "Lee Harvey Oswald",
+    "William B. Rielly Coffee Co.",
+    "Robert Scheer",
+    "Emilio A. Rodriguez"
+  ],
+  "significance": "Employment records and related documentation are significant in the JFK assassination context as they provide insight into the staffing and operations of the HSCA, the committee responsible for reinvestigating the assassination. These records can help establish the roles and responsibilities of individuals involved in the investigation and potentially uncover information relevant to the assassination itself. Additionally, information about Lee Harvey Oswald's employment history is relevant to understanding his background and activities prior to the assassination.",
+  "document_ids": [
+    "180-10060-10457",
+    "180-10060-10494",
+    "180-10068-10322",
+    "180-10125-10075",
+    "180-10068-10309",
+    "180-10068-10305",
+    "180-10060-10471",
+    "180-10086-10257",
+    "180-10060-10445",
+    "194-10006-10180",
+    "180-10125-10077",
+    "104-10180-10156"
+  ]
+}

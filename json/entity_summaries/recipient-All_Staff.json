@@ -1,0 +1,22 @@
+{
+  "entity_name": "All Staff",
+  "entity_type": "recipient",
+  "document_count": 5,
+  "summary": "The entity \"All Staff\" refers to the employees of the House Select Committee on Assassinations (HSCA). The documents primarily concern the payroll records of HSCA staff members, with the Assassination Records Review Board (ARRB) making final determinations regarding the release of these records. A recurring theme is the postponement of releasing Social Security numbers to protect personal privacy. Individual staff members mentioned include William K. Triplett, Michael Ewing, Lisa M. Berlow, and William A. Webb. The documents span from 1977 (likely related to initial employment) to 1995, when the ARRB was reviewing and making determinations about the records.",
+  "key_connections": [
+    "William K. Triplett",
+    "Michael Ewing",
+    "Lisa M. Berlow",
+    "William A. Webb",
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board (ARRB)"
+  ],
+  "significance": "The HSCA staff played a crucial role in investigating the assassination of JFK. Their payroll records, while seemingly mundane, are subject to review and potential release as part of the broader effort to provide transparency and access to information related to the assassination. The ARRB's decisions regarding these records reflect the balance between historical interest and personal privacy.",
+  "document_ids": [
+    "180-10070-10166",
+    "180-10068-10343",
+    "180-10068-10307",
+    "180-10147-10266",
+    "180-10068-10336"
+  ]
+}

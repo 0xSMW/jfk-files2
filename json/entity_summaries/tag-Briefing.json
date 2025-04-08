@@ -1,0 +1,19 @@
+{
+  "entity_name": "Briefing",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents reference briefings in various contexts. One briefing, dated January 26, 1978, involves CIA notes on record administration, filing systems, and operational procedures, specifically focusing on 201 files and handling sensitive information. Another briefing, dated October 13, 1964, details a briefing given to Guatemalan officials, including Chief of State Peralta, on CIA operational techniques and intelligence matters, focusing on Guatemala and El Salvador, and discussing security protocols and potential exploitation of information. A third document, a Director cable from December 14, 1963, concerns the travel, briefing, and training arrangements for Mr. Alexander Shatton, scheduled to arrive in Sao Paulo on December 20, 1963. These briefings cover a range of topics from internal CIA procedures to international operations and personnel training.",
+  "key_connections": [
+    "CIA",
+    "Guatemala",
+    "El Salvador",
+    "Alexander Shatton",
+    "Chief of State Peralta"
+  ],
+  "significance": "The significance of 'Briefing' in the JFK context is indirect. The documents highlight CIA operational procedures, international relations, and personnel training, which provide background context to the agency's activities during the period relevant to the JFK assassination. However, none of the briefings directly mention the assassination or related investigations.",
+  "document_ids": [
+    "180-10145-10287",
+    "104-10183-10260",
+    "104-10078-10014"
+  ]
+}

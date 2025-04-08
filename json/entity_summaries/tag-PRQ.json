@@ -1,0 +1,21 @@
+{
+  "entity_name": "PRQ",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "PRQ stands for Personal Record Questionnaire. The documents indicate that PRQs were used by the CIA to gather detailed biographical and operational information about individuals, including intelligence assets and potential recruits. These questionnaires covered aspects such as recruitment, motivation, cover stories, intelligence connections, operational use, security considerations, history, skills, family, and security checks. The documents suggest that PRQs were a standard tool for vetting and managing individuals involved in CIA operations and intelligence activities.",
+  "key_connections": [
+    "Ross Lester Crozier",
+    "Harold R. NOFMAYR aka Arthur C. VAIVADA",
+    "AMICE/31 - Reinaldo Pico Ramon",
+    "CREBORY/1",
+    "House Select Committee on Assassinations (HSCA)",
+    "Projects AMPHODARCH and LIEDGE"
+  ],
+  "significance": "While the documents themselves do not directly link PRQs to the JFK assassination, one document mentions the review of materials related to Ross Lester Crozier by the House Select Committee on Assassinations (HSCA). This suggests that information gathered through PRQs, or related to individuals documented by PRQs, was potentially relevant to the HSCA's investigation into the assassination. The PRQ itself is a tool used to gather information about individuals, and the significance lies in the information it contains about people who may be connected to the JFK assassination.",
+  "document_ids": [
+    "104-10215-10129",
+    "104-10178-10078",
+    "104-10217-10221",
+    "104-10220-10128"
+  ]
+}

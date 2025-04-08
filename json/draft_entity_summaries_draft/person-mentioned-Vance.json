@@ -1,0 +1,19 @@
+{
+  "entity_name": "Vance",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, \"Vance\" is mentioned in the context of discussions and activities related to Cuba and North Vietnam during the 1960s and 1970s. The documents reference Operation MONGOOSE, Cuban subversion in Latin America, and covert operations against Cuba and North Vietnam. While the specific role or full name of \"Vance\" is not explicitly detailed, the documents suggest involvement in discussions or activities related to these operations. The documents indicate that \"Vance\" was involved in discussions by the Special Group Augmented regarding reconnaissance of Cuba and potential actions against Castro.",
+  "key_connections": [
+    "Operation MONGOOSE",
+    "Special Group Augmented",
+    "Castro",
+    "Cuba",
+    "North Vietnam"
+  ],
+  "significance": "Without further context, it's difficult to ascertain the full significance of \"Vance\" in the JFK assassination context. The documents suggest involvement in covert operations and discussions related to Cuba, which is relevant given the historical context surrounding the assassination. However, the limited information prevents a definitive assessment of their role or importance.",
+  "document_ids": [
+    "157-10011-10007",
+    "198-10009-10099",
+    "104-10306-10010"
+  ]
+}

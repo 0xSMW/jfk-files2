@@ -1,0 +1,27 @@
+{
+  "entity_name": "HSCA",
+  "entity_type": "recipient",
+  "document_count": 3,
+  "summary": "The House Select Committee on Assassinations (HSCA) is a recipient in the context of these documents. The documents highlight the HSCA's activities and investigations related to the JFK assassination. One document details the costs associated with the Forensic Pathology Panel's report to the HSCA, indicating the committee's reliance on expert analysis. Another document summarizes an interview conducted by the HSCA regarding a potential connection to the assassination. A journal entry from the Office of Legislative Counsel mentions security matters related to the HSCA, indicating the committee's involvement in sensitive investigations. The documents suggest the HSCA was actively involved in gathering information, consulting experts, and addressing security concerns related to the JFK assassination investigation.",
+  "key_connections": [
+    "University of New Mexico School of Medicine",
+    "James T. Weston",
+    "Laura Krug",
+    "Debbie McMath",
+    "Karen C. Schwartz",
+    "Sgt. Lewis Wesley Leber",
+    "Captain William C. Stanley",
+    "Langley AFB",
+    "Russia",
+    "Cuba",
+    "Mexico",
+    "Office of Legislative Counsel",
+    "Senate Select Committee on Intelligence"
+  ],
+  "significance": "The HSCA played a crucial role in reinvestigating the JFK assassination, seeking to uncover new evidence and perspectives on the events surrounding the assassination. Their work involved gathering testimonies, consulting experts, and examining potential connections to other countries or individuals.",
+  "document_ids": [
+    "180-10096-10448",
+    "180-10120-10150",
+    "104-10142-10317"
+  ]
+}

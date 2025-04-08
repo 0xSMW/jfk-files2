@@ -1,0 +1,24 @@
+{
+  "entity_name": "Attorney General",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "summary": "The documents mention the Attorney General in the context of discussions and decisions related to covert operations and foreign policy, particularly concerning Cuba and Vietnam. The Attorney General participated in Special Group meetings where actions against Cuba, including Operation MONGOOSE, were planned and reviewed. These actions ranged from sabotage and harassment to potential use of biological agents. The Attorney General's involvement spans from 1962 to 1964, as reflected in the meeting minutes and memoranda. The documents suggest the Attorney General was part of the decision-making process for covert actions and policy regarding Cuba and other regions during this period.",
+  "key_connections": [
+    "President Johnson",
+    "Special Group (Augmented)",
+    "Operation MONGOOSE",
+    "Cuba",
+    "North Vietnam"
+  ],
+  "significance": "The Attorney General's significance in the JFK context lies in their involvement in covert operations and policy decisions related to Cuba, particularly Operation MONGOOSE, which was active during the Kennedy administration. The documents suggest the Attorney General was part of the decision-making process for actions against Cuba, which could be relevant to understanding the broader context of US-Cuba relations and potential motives related to the assassination.",
+  "document_ids": [
+    "178-10003-10090",
+    "104-10306-10018",
+    "206-10001-10015",
+    "104-10306-10003",
+    "104-10306-10024",
+    "104-10306-10010",
+    "202-10001-10187",
+    "104-10306-10021"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "entity_name": "J. Edgar Hoover",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "J. Edgar Hoover was the Director of the FBI during the period covered by these documents. The documents highlight his interactions with the CIA, particularly through individuals like Sam J. Papich, and his cautious approach to counterintelligence, which sometimes led to disillusionment among those seeking greater cooperation between the agencies. He also had a rumored conflict with Edward P. Morgan. The Senate Select Committee (SSC) investigated intelligence activities, including FBI coordination, suggesting scrutiny of Hoover's leadership and the FBI's operations. The documents suggest Hoover's leadership and the FBI's operations were under scrutiny.",
+  "key_connections": [
+    "Sam J. Papich",
+    "Jim Angleton",
+    "Edward P. Morgan",
+    "CIA",
+    "FBI",
+    "Senate Select Committee (SSC)"
+  ],
+  "significance": "While the documents don't directly link J. Edgar Hoover to the JFK assassination, they reveal his central role in intelligence and counterintelligence during that era. The scrutiny of the FBI's activities by the Senate Select Committee suggests potential interest in the agency's handling of information related to the assassination, though this is not explicitly stated. The documents highlight Hoover's influence and the FBI's role in the broader context of national security and intelligence during the Kennedy administration.",
+  "document_ids": [
+    "124-10274-10001",
+    "157-10011-10093",
+    "104-10122-10307"
+  ]
+}

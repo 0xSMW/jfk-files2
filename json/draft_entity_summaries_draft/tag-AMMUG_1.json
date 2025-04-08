@@ -1,0 +1,21 @@
+{
+  "entity_name": "AMMUG/1",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "AMMUG/1 appears to be an agent whose activities are documented in several CIA messages and memoranda. The agent's cover employment was with the Inter-University Committee for Political and Social Action (ICPSA), and there are concerns and clarifications regarding this cover, particularly in relation to tax requirements and credit checks. AMMUG/1's activities also involve operational leads in Central America and the Caribbean. There is a mention of a possible house purchase by AMMUG/1, which is deferred pending a decision on their WOFACT future. AMMUG/1 was also queried regarding the identification of Manuel ESTEVEZ Perez but was unable to identify him, suggesting a possible intelligence-gathering role.",
+  "key_connections": [
+    "Inter-University Committee for Political and Social Action (ICPSA)",
+    "Manuel ESTEVEZ Perez",
+    "JMWAVE",
+    "Langosch",
+    "WOFACT"
+  ],
+  "significance": "The significance of AMMUG/1 in the JFK assassination context is not explicitly stated in the provided documents. However, the documents suggest that AMMUG/1 was an active agent involved in intelligence operations in Central America and the Caribbean during the 1960s. The connection to ICPSA as a cover organization and the mention of WOFACT could potentially link AMMUG/1 to broader CIA activities during that period, which may or may not be related to the JFK assassination. Further investigation would be needed to determine any direct relevance.",
+  "document_ids": [
+    "104-10225-10035",
+    "104-10186-10382",
+    "104-10183-10276",
+    "104-10183-10333",
+    "104-10183-10335"
+  ]
+}

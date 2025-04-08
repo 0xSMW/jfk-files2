@@ -1,0 +1,22 @@
+{
+  "entity_name": "Mr. Rosen",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Mr. Rosen is mentioned in one document, a memorandum from E.S. Miller regarding the expansion of foreign liaison offices. The memo, dated October 14, 1971, addresses concerns about coordination with Narcotics investigators and personnel increases in Brazil and Malaysia. The other documents do not contain information about Mr. Rosen.",
+  "key_connections": [
+    "E.S. Miller",
+    "Narcotics investigators",
+    "Brazil",
+    "Malaysia"
+  ],
+  "significance": "Based on the provided documents, Mr. Rosen's significance in the JFK assassination context is not apparent. The documents primarily concern organized crime figures and FBI investigations unrelated to the assassination. The one document mentioning Mr. Rosen is about the expansion of foreign liaison offices and does not relate to the JFK assassination.",
+  "document_ids": [
+    "124-10203-10497",
+    "124-10223-10077",
+    "124-10223-10304",
+    "124-10274-10011",
+    "124-10203-10485",
+    "124-10223-10073",
+    "124-10223-10087"
+  ]
+}

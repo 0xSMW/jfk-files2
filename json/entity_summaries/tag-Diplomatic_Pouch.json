@@ -1,0 +1,19 @@
+{
+  "entity_name": "Diplomatic Pouch",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The term \"diplomatic pouch\" appears in the documents as a method of clandestine transmission. In one instance, it is mentioned in connection with Jose Artecona's request for miniature cameras to be sent to PBRUMEN through a channel involving IDEN A and IDEN B. This particular pouch was allegedly used to transmit small arms. The other two documents do not provide any context about the diplomatic pouch.",
+  "key_connections": [
+    "Jose Artecona",
+    "IDEN A",
+    "IDEN B",
+    "PBRUMEN",
+    "Small Arms"
+  ],
+  "significance": "The significance of the \"diplomatic pouch\" lies in its use as a covert channel for transmitting sensitive materials, including potentially illegal items like small arms. This suggests its involvement in clandestine operations and potentially illicit activities. However, the documents do not directly link the diplomatic pouch to the JFK assassination.",
+  "document_ids": [
+    "104-10170-10036",
+    "104-10215-10035",
+    "104-10220-10293"
+  ]
+}

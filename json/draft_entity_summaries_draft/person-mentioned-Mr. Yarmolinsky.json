@@ -1,0 +1,18 @@
+{
+  "entity_name": "Mr. Yarmolinsky",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Mr. Yarmolinsky is mentioned in the context of reports detailing actions taken by the US government to counter Cuban subversion in Latin America during 1963. The documents focus on the implementation of actions designed to curb Cuban influence, including controlling travel, propaganda, and clandestine movements, as well as strengthening counter-insurgency capabilities and exchanging intelligence. The reports involve activities by various government agencies such as the Department of State, Department of Defense, CIA, and U.S. Information Agency. However, the specific role or involvement of Mr. Yarmolinsky in these actions is not detailed in the summaries provided.",
+  "key_connections": [
+    "Department of State",
+    "Department of Defense",
+    "CIA",
+    "U.S. Information Agency"
+  ],
+  "significance": "The significance of Mr. Yarmolinsky in the JFK context cannot be determined from the provided documents. The documents focus on actions to counter Cuban subversion, but do not specify Mr. Yarmolinsky's role or connection to the JFK assassination.",
+  "document_ids": [
+    "198-10009-10098",
+    "198-10004-10076",
+    "198-10007-10022"
+  ]
+}

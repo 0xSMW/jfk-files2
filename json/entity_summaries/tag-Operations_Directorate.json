@@ -1,0 +1,28 @@
+{
+  "entity_name": "Operations Directorate",
+  "entity_type": "tag",
+  "document_count": 10,
+  "summary": "The Operations Directorate was a key component of the CIA responsible for clandestine operations, including intelligence gathering and covert actions. The documents highlight the Operations Directorate's use of the '201 system' for identifying, tracking, and managing information on individuals of interest. This system involved creating and maintaining files (201 files) on these individuals, assigning OI codes, and generating listings. The Directorate underwent reorganization in 1976, affecting its staff structure and functions. The House Select Committee on Assassinations (HSCA) requested information on the criteria for opening 201 files, indicating Congressional interest in the Directorate's activities and information management practices. The Directorate's activities and information management practices were of interest to the HSCA.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "201 System",
+    "William F. Donnelly",
+    "Information Services Staff (ISS)",
+    "DDCI",
+    "DCI",
+    "Dr. Brzezinski"
+  ],
+  "significance": "While the documents do not explicitly link the Operations Directorate to the JFK assassination, the Directorate's role in intelligence gathering and covert operations, as well as its system for tracking individuals of interest (the 201 system), were subjects of inquiry by the HSCA. The HSCA's interest in the criteria for opening 201 files suggests a concern about the potential misuse or relevance of these files in the context of the assassination investigation.",
+  "document_ids": [
+    "104-10023-10087",
+    "104-10213-10352",
+    "104-10213-10202",
+    "104-10065-10152",
+    "104-10408-10316",
+    "104-10051-10170",
+    "104-10406-10139",
+    "104-10408-10078",
+    "104-10062-10256",
+    "104-10143-10088"
+  ]
+}

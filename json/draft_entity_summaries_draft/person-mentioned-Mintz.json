@@ -1,0 +1,19 @@
+{
+  "entity_name": "Mintz",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, \"Mintz\" is mentioned in the context of FBI responses to Congressional committee requests, specifically concerning COINTELPRO and an FBI informant within a legal service agency. The documents, all dated June 2, 1975, relate to inquiries from Congressional committees, including the Senate Select Committee on Intelligence Activities, regarding investigations and related matters. The documents do not provide specific details about Mintz's identity, role, or involvement beyond being mentioned in the context of these inquiries. There is no direct mention of the JFK assassination in relation to Mintz in these documents.",
+  "key_connections": [
+    "Congressional committees",
+    "Senate Select Committee on Intelligence Activities",
+    "FBI",
+    "COINTELPRO",
+    "New Orleans Legal Assistance Corps (implied through informant context)"
+  ],
+  "significance": "The significance of \"Mintz\" in the JFK context, based solely on these documents, is not apparent. The documents focus on FBI responses to Congressional inquiries regarding COINTELPRO and informants, with Mintz mentioned within that context, but without further elaboration.",
+  "document_ids": [
+    "124-10271-10003_multirif",
+    "124-10271-10011_multirif",
+    "124-10271-10299_multirif"
+  ]
+}

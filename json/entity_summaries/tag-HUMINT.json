@@ -1,0 +1,18 @@
+{
+  "entity_name": "HUMINT",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents provided offer glimpses into HUMINT (Human Intelligence) operations, primarily within the context of Cold War-era intelligence gathering. One document describes the organizational structure of JMWAVE, a CIA station involved in covert operations, indicating HUMINT's role in supporting these activities. Another document details observations of truck traffic and tube-like objects entering the Torrens base in Cuba, relying on information from human sources, highlighting HUMINT's use in gathering intelligence on Cuban activities. The third document lists station contacts and assets in a \"no contact\" status, revealing the challenges and complexities of managing human sources. While these documents do not directly link HUMINT to the JFK assassination, they illustrate the operational environment and intelligence-gathering methods employed during that period, which could indirectly relate to the broader context of the assassination.",
+  "key_connections": [
+    "JMWAVE",
+    "Torrens base",
+    "CIA",
+    "Cuba"
+  ],
+  "significance": "While the provided documents do not directly link HUMINT to the JFK assassination, they illustrate the operational environment and intelligence-gathering methods employed during that period, which could indirectly relate to the broader context of the assassination. HUMINT operations were crucial for gathering information on potential threats and adversaries during the Cold War, and understanding these operations provides context for the political and security landscape surrounding the assassination.",
+  "document_ids": [
+    "104-10301-10008",
+    "104-10076-10372",
+    "104-10326-10054"
+  ]
+}

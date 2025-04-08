@@ -1,0 +1,20 @@
+{
+  "entity_name": "AMLILAC",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "AMLILAC appears to be an operational tag used by JMWAVE, a CIA station, in connection with various activities and operations. The documents indicate that AMLILAC is associated with the management and administration of agents and operations, including the creation and amendment of Memoranda of Oral Commitment (MOC) for subjects like 201-332676. It is also linked to the termination of agents, as seen in the case of AMHINT-56, and the reporting on activities of other entities like AMWORLD. The documents span from 1964 to 1968, suggesting a period of active use for this operational tag.",
+  "key_connections": [
+    "JMWAVE",
+    "Subject 201-332676",
+    "AMHINT-56",
+    "AMWORLD",
+    "TIPEC"
+  ],
+  "significance": "AMLILAC's significance in the JFK context is not explicitly stated in these documents. However, the tag's association with CIA operations, agent management, and activities within JMWAVE suggests it was part of the operational infrastructure during the period relevant to the JFK assassination. Further investigation into the specific operations and agents linked to AMLILAC might reveal more direct connections to events or individuals involved in the assassination.",
+  "document_ids": [
+    "104-10215-10149",
+    "104-10308-10086",
+    "104-10215-10145",
+    "104-10215-10153"
+  ]
+}

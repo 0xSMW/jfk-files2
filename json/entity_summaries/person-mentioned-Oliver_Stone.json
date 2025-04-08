@@ -1,0 +1,20 @@
+{
+  "entity_name": "Oliver Stone",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Oliver Stone is mentioned in the context of JFK assassination-related documents, specifically in relation to a Washington Times article about a KGB offer to Hollywood. The document suggests a possible connection between this offer and the LWOPUS case, prompting an analysis of potential links and instructions to check the backgrounds of FIVA officers. While the documents do not provide extensive details about Oliver Stone's direct involvement, his name appears in connection with media coverage and potential intelligence connections related to the JFK assassination.",
+  "key_connections": [
+    "KGB",
+    "Hollywood",
+    "LWOPUS case",
+    "FIVA officers",
+    "Washington Times"
+  ],
+  "significance": "Oliver Stone's significance in the JFK context, based on these documents, is primarily related to his potential involvement with media coverage and possible intelligence connections related to the JFK assassination, specifically through a Washington Times article about a KGB offer to Hollywood.",
+  "document_ids": [
+    "104-10337-10001",
+    "104-10331-10194",
+    "104-10014-10066",
+    "104-10326-10101"
+  ]
+}

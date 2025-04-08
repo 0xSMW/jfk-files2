@@ -1,0 +1,14 @@
+{
+  "entity_name": "Aldrich Ames",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Aldrich Ames is mentioned in a series of CIA memoranda to the Assassination Records Review Board (ARRB) primarily in the context of protecting the identities of human intelligence sources. The documents discuss the challenges of releasing information related to the JFK assassination while safeguarding sensitive intelligence operations and the identities of individuals who provided information to the CIA. While Ames himself is not directly involved in the JFK assassination, his case serves as a reference point in discussions about the potential damage that the disclosure of human source identities could cause to U.S. intelligence interests, particularly concerning Russian counterintelligence. The documents highlight the CIA's concerns about protecting cryptonyms and pseudonyms, drawing parallels to the Ames case to emphasize the importance of maintaining confidentiality.",
+  "key_connections": [],
+  "significance": "Aldrich Ames' significance in the JFK context is indirect. His case is used as an example to illustrate the potential risks and consequences of revealing the identities of human intelligence sources, particularly in relation to counterintelligence efforts. The documents use his name to underscore the importance of protecting sensitive information and the potential damage that could result from its disclosure, even decades after the JFK assassination.",
+  "document_ids": [
+    "104-10330-10070",
+    "104-10332-10016",
+    "104-10336-10034",
+    "104-10332-10002"
+  ]
+}

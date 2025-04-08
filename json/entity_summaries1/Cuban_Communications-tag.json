@@ -1,0 +1,19 @@
+{
+  "entity_name": "Cuban Communications",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "Cuban Communications, as referenced in the documents, pertain to intercepted communications involving Cuba, particularly between 1962 and 1964. These communications were of interest to the House Select Committee on Assassinations (HSCA) in their investigation into the JFK assassination. The NSA intercepted and analyzed these communications, seeking insights into Cuban activities, agent operations in the Western Hemisphere, and reactions to President Kennedy's assassination. While some communications were successfully intercepted, a search for specific communications from March and April 1962 yielded negative results due to the destruction of raw traffic data and the lack of product files. A report from November 29, 1963, details the status of Cuban/Soviet communications, covering various aspects such as Soviet military communications between Moscow and Havana, Soviet communications within Cuba, Soviet air and air defense communications, and Cuban ground processes and naval activities.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "National Security Agency (NSA)",
+    "Soviet Union",
+    "President John F. Kennedy (JFK)"
+  ],
+  "significance": "The significance of Cuban Communications lies in the potential for these communications to reveal Cuban involvement in the JFK assassination. The HSCA sought to determine if intercepted Cuban communications contained any evidence linking Cuba to the assassination. The documents suggest that the NSA actively monitored and analyzed Cuban communications during the period surrounding the assassination, but the extent to which these communications provided conclusive evidence of Cuban involvement remains unclear based on the provided summaries.",
+  "document_ids": [
+    "144-10001-10164",
+    "144-10001-10191",
+    "144-10001-10185",
+    "144-10001-10202"
+  ]
+}

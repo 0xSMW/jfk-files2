@@ -1,0 +1,39 @@
+{
+  "entity_name": "Double Agent",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "The documents refer to several instances of individuals acting as double agents, primarily in the context of Cuban intelligence and counterintelligence operations. These individuals are used by various intelligence agencies, including the CIA and FBI, to gather information, infiltrate enemy organizations, and potentially spread disinformation. The documents highlight the complexities and risks associated with using double agents, including the potential for dual loyalties and the difficulty in verifying their true allegiances. The activities of these double agents span from the 1950s to the 1970s, with some operations continuing into the 1990s. The documents also reveal the use of codenames for double agents, such as DOLPHIN, JUMAVE 1, and IDENTITY, to protect their identities and maintain operational security. The documents suggest a pattern of using double agents to monitor anti-Castro activities in Miami and to gather intelligence on Cuban government operations.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Cuban Intelligence (CUIS)",
+    "DGI",
+    "VZTOUCHDOWN",
+    "SLANK/1",
+    "DOLPHIN",
+    "James Angleton",
+    "KITTY HAWK",
+    "E. Howard Hunt",
+    "Boris Pash",
+    "JUMAVE 1",
+    "Jose Ricardo RABEL Nunez (AMLEO-3)",
+    "AMTRUNK Operation",
+    "Tad Szulc",
+    "IDENTITY",
+    "Lamberto Besta"
+  ],
+  "significance": "While not directly linked to the JFK assassination in most documents, the presence of double agents in the context of Cuban intelligence and anti-Castro activities is significant. One document mentions a request to question VZTOUCHDOWN about SLANK/1, a former DGI officer who defected and provided information indicating the Cuban government was not involved in the Kennedy assassination. Another document mentions E. Howard Hunt's inquiries into potential CIA involvement in assassinations, including contact with Colonel Boris Pash regarding the potential liquidation of a suspected double agent. These references suggest that the use of double agents and the information they provided were considered relevant to investigations surrounding the assassination.",
+  "document_ids": [
+    "104-10326-10098",
+    "180-10144-10133",
+    "124-10285-10254",
+    "124-10276-10400",
+    "104-10322-10101",
+    "157-10005-10228",
+    "104-10183-10261",
+    "104-10103-10350",
+    "104-10103-10097",
+    "104-10166-10120",
+    "104-10185-10024"
+  ]
+}

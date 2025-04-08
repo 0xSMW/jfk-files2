@@ -1,0 +1,20 @@
+{
+  "entity_name": "Lisbon-Tangier link",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The Lisbon-Tangier link refers to a communications link that was able to be collected by a facility mentioned in a report reviewed by Julia Wetzel from the NSA. This report was created by Cornwell and Klein regarding their interview with Sgt. Nicholas B. Stevenson, USAF. The NSA deemed information about this link sensitive enough to warrant classification as \"CONFIDENTIAL, HANDLE VIA COMINT CHANNELS ONLY\". The documents suggest the NSA was concerned about protecting information related to communications intelligence capabilities.",
+  "key_connections": [
+    "Julia Wetzel",
+    "House Select Committee on Assassinations",
+    "Sgt. Nicholas B. Stevenson",
+    "Cornwell",
+    "Klein",
+    "NSA"
+  ],
+  "significance": "The significance of the Lisbon-Tangier link in the JFK assassination context is not explicitly stated in the provided documents. However, the fact that the House Select Committee on Assassinations (HSCA) was investigating it, and that the NSA took measures to classify information related to it, suggests it was considered potentially relevant to their investigation. The exact nature of its relevance remains unclear based solely on these documents, but it likely involves communications intelligence capabilities and potentially sensitive information gathered through this link.",
+  "document_ids": [
+    "144-10001-10175",
+    "144-10001-10148",
+    "144-10001-10249"
+  ]
+}

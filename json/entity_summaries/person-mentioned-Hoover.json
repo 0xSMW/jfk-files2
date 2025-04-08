@@ -1,0 +1,26 @@
+{
+  "entity_name": "Hoover",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "summary": "The documents mention Hoover in the context of FBI activities and investigations during the 1960s and 1970s. Specifically, the documents relate to the FBI's response to requests from the U.S. Senate Select Committee on Intelligence Activities (SSC) for materials related to Martin Luther King, Jr., and the Southern Christian Leadership Conference. The documents detail which items were provided and explain instances where requested information could not be located. Hoover's role is implied as the director of the FBI during this period, overseeing these activities and responses to inquiries. The documents also touch on broader intelligence activities, such as COINTELPRO, the Huston Plan, and investigations into leaks of classified information, suggesting Hoover's involvement in these areas as well.",
+  "key_connections": [
+    "FBI",
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference",
+    "U.S. Senate Select Committee on Intelligence Activities (SSC)",
+    "COINTELPRO",
+    "Huston Plan"
+  ],
+  "significance": "While the documents do not directly link Hoover to the JFK assassination, they highlight his role as the director of the FBI during a period of intense intelligence activity and investigation. The documents suggest Hoover's involvement in controversial programs like COINTELPRO and the Huston Plan, which raises questions about the FBI's broader activities and potential connections to other events during this era.",
+  "document_ids": [
+    "124-10185-10099",
+    "206-10001-10003",
+    "157-10014-10006",
+    "178-10004-10115",
+    "124-10264-10209_multirif",
+    "104-10306-10010",
+    "124-10184-10237",
+    "124-10274-10001_multirif",
+    "124-10264-10210_multirif"
+  ]
+}

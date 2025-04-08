@@ -1,0 +1,22 @@
+{
+  "entity_name": "Eglin AFB",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Eglin AFB is a United States Air Force base that appears in the documents in the context of shipments of small arms ammunition and captured enemy weapons. In July 1969, S.F. Reeves of the 3201st Transportation Squadron at Eglin AFB reported a review of files that revealed a shipment of such items from Eglin AFB to Sicris in Atlanta, Georgia. The base is also mentioned in connection with Lt Col Paul Arnold Marriott's potential customs violations and misuse of government resources related to the importation and shipment of captured enemy weapons. The USAF Office of Special Investigations (OSI) conducted an investigation into Marriott's connections with Mitchell Livingston WerBell III and the shipment of weapons from Vietnam, potentially involving Eglin AFB as a point of origin or transit for these shipments.",
+  "key_connections": [
+    "S.F. Reeves",
+    "3201st Transportation Squadron",
+    "Sicris",
+    "Atlanta, Georgia",
+    "Paul Arnold Marriott",
+    "USAF Office of Special Investigations (OSI)",
+    "Mitchell Livingston WerBell III",
+    "Vietnam"
+  ],
+  "significance": "Eglin AFB's significance in the JFK assassination context lies in its potential involvement in the movement and handling of weapons, particularly captured enemy weapons from Vietnam. The documents suggest that Eglin AFB may have been a transit point or origin for shipments of these weapons, raising questions about the purpose and destination of these shipments and their possible connection to individuals or groups involved in illegal activities.",
+  "document_ids": [
+    "194-10006-10235",
+    "194-10001-10169",
+    "194-10001-10168"
+  ]
+}

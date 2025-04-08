@@ -1,0 +1,19 @@
+{
+  "entity_name": "Firearms",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents reference firearms in various contexts. One document concerns the tracking of arms shipments, including firearms, to identify purchasers and trace their movement. Another document details an investigation into customs violations involving Paul Arnold Marriott, focusing on his connections with Mitchell Livingston WerBell III and the shipment of weapons from Vietnam, allegedly for museum purposes. A third document mentions a conversation about firearm purchases during the Cuban Missile Crisis in relation to John Rosselli's activities.",
+  "key_connections": [
+    "Arms Shipments",
+    "Paul Arnold Marriott",
+    "Mitchell Livingston WerBell III",
+    "John Rosselli",
+    "Cuban Missile Crisis"
+  ],
+  "significance": "Firearms are mentioned in the context of tracking arms shipments, customs violations, and potential connections to individuals involved in illegal activities. While not directly linked to the JFK assassination in these documents, the references to arms shipments and individuals involved in weapons trafficking suggest a broader context of potential illegal activities during the time period.",
+  "document_ids": [
+    "104-10290-10162",
+    "194-10001-10168",
+    "124-10223-10074"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "entity_name": "Fingerprint Formula",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The 'Fingerprint Formula' refers to a specific fingerprint identification code, designated as 'LNERGO,' used to confirm the identity of James Earl Ray as the accused assassin in the JFK case. The documents detail the distribution of Ray's fingerprint formula via cables and message forms to various international locations through liaison channels. This distribution occurred in April 1968, following Ray's identification. The consistent pattern across the documents is the urgent relay of this formula to confirm Ray's identity to international contacts.",
+  "key_connections": [
+    "James Earl Ray",
+    "LNERGO",
+    "Richard Ober"
+  ],
+  "significance": "The fingerprint formula is significant as it represents a key piece of evidence used to identify and track James Earl Ray, the man accused of assassinating Martin Luther King. Its distribution highlights the international effort to apprehend Ray following the assassination.",
+  "document_ids": [
+    "104-10433-10081",
+    "104-10071-10407",
+    "104-10178-10120"
+  ]
+}

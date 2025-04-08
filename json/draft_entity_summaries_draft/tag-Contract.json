@@ -1,0 +1,20 @@
+{
+  "entity_name": "Contract",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents reference contracts primarily related to the procurement of confidential information and services by the U.S. Government, specifically the CIA. These contracts outline terms of compensation, travel, security, and operational expenses. One document mentions Bernard Barker's contract with the CIA and inquiries about its termination, potentially linking it to the Watergate scandal. Other contracts involve individuals like Bruce G. Mastrocola and Raymond H. Gerende, detailing their agreements for providing confidential information and related services to the U.S. Government. The contracts emphasize secrecy obligations and the confidential nature of the information exchanged.",
+  "key_connections": [
+    "Bernard Barker",
+    "CIA",
+    "Bruce G. Mastrocola",
+    "Raymond H. Gerende",
+    "Watergate scandal",
+    "U.S. Government"
+  ],
+  "significance": "In the context of the JFK assassination, the significance of 'Contract' as a tag lies in its potential to uncover covert operations, intelligence gathering activities, and relationships between individuals and government agencies like the CIA. The contracts themselves may not directly relate to the assassination, but the individuals involved or the nature of the confidential information could provide insights into related events, motives, or conspiracies. The connection to Bernard Barker and the Watergate scandal suggests a potential link to clandestine activities that could have broader implications.",
+  "document_ids": [
+    "104-10164-10000",
+    "104-10222-10001",
+    "104-10219-10005"
+  ]
+}

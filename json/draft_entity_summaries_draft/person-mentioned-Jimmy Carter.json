@@ -1,0 +1,20 @@
+{
+  "entity_name": "Jimmy Carter",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Jimmy Carter is mentioned in these documents primarily in the context of a potential security concern during his visit to Venezuela in March 1978. A CIA situation report details potential threats from leftist groups, Cuban exiles, and international terrorists during this visit. He is also mentioned in documents related to Sergyj Czornonoh's claims about Lee Harvey Oswald, though Carter's direct involvement in that context is not specified. The documents do not suggest any direct involvement of Jimmy Carter in the JFK assassination or related investigations, but rather his name appears in documents covering a range of unrelated topics.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Sergyj Czornonoh",
+    "Cuban exiles",
+    "Leftist groups",
+    "International terrorists"
+  ],
+  "significance": "Jimmy Carter's significance in the JFK context, based on these documents, is minimal. His name appears in documents that are tangentially related to the JFK assassination through the claims of Sergyj Czornonoh, but there is no indication of any direct involvement or relevance to the assassination itself. His mention is more related to unrelated security concerns during his presidency.",
+  "document_ids": [
+    "124-10291-10023",
+    "180-10060-10453",
+    "104-10431-10102",
+    "104-10012-10035"
+  ]
+}

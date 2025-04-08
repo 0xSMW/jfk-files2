@@ -1,0 +1,15 @@
+{
+  "entity_name": "JACKSON, BEVERLY",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Beverly Jackson was an employee of the Select Committee on Assassinations (SCA). The documents provided are certification reports listing employees, their positions, salaries, and employment dates. Jackson's name appears on payroll reports for August 1978, December 1978, and January 1979. The reports include her name, social security number, and salary information.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Beverly Jackson's significance lies in her employment with the Select Committee on Assassinations, indicating her involvement in the investigation, though the specific nature and extent of her role are not detailed in these documents.",
+  "document_ids": [
+    "180-10125-10078",
+    "180-10125-10083",
+    "180-10125-10077"
+  ]
+}

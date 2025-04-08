@@ -1,0 +1,18 @@
+{
+  "entity_name": "Aristotle Onassis",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Aristotle Onassis is mentioned in the documents primarily in the context of being a target of CIA activities. Specifically, Robert Maheu testified before the SSCIA about his involvement in wiretapping Onassis. The documents suggest that this wiretapping was part of broader, potentially controversial CIA operations. While the documents do not explicitly link Onassis to the JFK assassination, his name appears in connection with sensitive CIA projects and individuals involved in those projects, indicating a potential area of interest for investigation into clandestine activities during that era.",
+  "key_connections": [
+    "Robert Maheu",
+    "CIA",
+    "Walter Elder",
+    "William Colby"
+  ],
+  "significance": "Aristotle Onassis's significance in the JFK context, based on these documents, is indirect. He was a target of CIA wiretapping, which suggests he may have been of interest to the agency for reasons not explicitly stated. The connection lies in the broader context of CIA activities and the individuals involved, which are relevant to understanding the environment surrounding the JFK assassination.",
+  "document_ids": [
+    "104-10303-10007",
+    "157-10011-10048",
+    "104-10122-10141"
+  ]
+}

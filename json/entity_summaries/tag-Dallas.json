@@ -1,0 +1,21 @@
+{
+  "entity_name": "Dallas",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Dallas is mentioned in several documents related to the JFK assassination investigation. These documents suggest Dallas was a location of interest both before and after the assassination. Charles [REDACTED] had associations with questionable individuals in the Dallas and Fort Worth areas. Jerzy Plebanski was scheduled to travel to Dallas for a physics symposium. An FBI airtel concerned the assassination of President John F. Kennedy was sent to the Dallas field office. Additionally, a representative of Arbeiter-Zeitung was expected to report from Dallas shortly after the assassination. These references indicate that Dallas was a focal point for various activities and investigations related to the JFK assassination.",
+  "key_connections": [
+    "Charles [REDACTED]",
+    "Jerzy Plebanski",
+    "FBI",
+    "Arbeiter-Zeitung",
+    "John F. Kennedy"
+  ],
+  "significance": "Dallas is significant as a location where individuals of interest were active, where investigations were conducted, and where media reported on the assassination. It appears to be a central hub in the context of events surrounding the JFK assassination.",
+  "document_ids": [
+    "104-10241-10250",
+    "104-10097-10170",
+    "180-10144-10288",
+    "124-10150-10104",
+    "144-10001-10065"
+  ]
+}

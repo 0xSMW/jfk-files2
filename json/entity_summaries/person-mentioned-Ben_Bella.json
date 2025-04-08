@@ -1,0 +1,19 @@
+{
+  "entity_name": "Ben Bella",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Ahmed Ben Bella was the first President of Algeria after its independence. The documents mention him in the context of international relations during the Cold War era. Specifically, he is referenced in connection with Fidel Castro's planned visit to Algiers in April 1963, where Castro intended to meet with Ben Bella and Boumedienne, potentially to assert Cuba's independence from the Soviet Union. While not directly related to the JFK assassination, his interactions with Castro place him within the broader network of international figures and events that the CIA was monitoring during this period. The documents do not suggest any direct involvement in the JFK assassination.",
+  "key_connections": [
+    "Fidel Castro",
+    "Boumedienne",
+    "Soviet Union",
+    "Cuba"
+  ],
+  "significance": "Ben Bella's significance in the JFK context is indirect. He represents a point of contact for Fidel Castro, a figure of interest to the CIA, during a period of heightened Cold War tensions. His planned meeting with Castro in Algiers was part of the broader intelligence landscape being monitored by the US government.",
+  "document_ids": [
+    "104-10302-10030",
+    "104-10170-10121",
+    "176-10036-10027",
+    "177-10002-10096"
+  ]
+}

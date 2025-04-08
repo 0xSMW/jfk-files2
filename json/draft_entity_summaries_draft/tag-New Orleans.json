@@ -1,0 +1,25 @@
+{
+  "entity_name": "New Orleans",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "New Orleans appears as a significant location in the context of the JFK assassination and related investigations. It served as a hub for activities involving individuals connected to Lee Harvey Oswald, such as his involvement with the Fair Play for Cuba Committee (FPCC) in August 1963, and his associations with figures like David Ferrie through the Civil Air Patrol Cadets (CAPC). The city was also a base for CIA operations, including the potential use of Cuban exiles as assets and cover operations involving wealthy businessmen. Furthermore, New Orleans was a point of entry and departure for individuals traveling to and from Cuba, with the CIA considering using the city as a location for informants to establish contacts in Cuba. The documents suggest New Orleans was a focal point for anti-Castro activities, intelligence operations, and individuals linked to Oswald prior to the assassination.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Fair Play for Cuba Committee (FPCC)",
+    "David Ferrie",
+    "Civil Air Patrol Cadets (CAPC)",
+    "CIA",
+    "Cuban exiles",
+    "Petros Moutsos"
+  ],
+  "significance": "New Orleans is significant due to its role as a location where Lee Harvey Oswald was involved in activities related to the Fair Play for Cuba Committee, and where he had connections to individuals like David Ferrie. It also served as a base for CIA operations and a transit point for individuals traveling to Cuba, making it a key location in understanding the events and relationships surrounding the JFK assassination.",
+  "document_ids": [
+    "180-10091-10228",
+    "180-10107-10006",
+    "104-10104-10172",
+    "104-10172-10105",
+    "178-10002-10091",
+    "157-10002-10150",
+    "124-90137-10230"
+  ]
+}

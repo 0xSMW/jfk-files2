@@ -1,0 +1,25 @@
+{
+  "entity_name": "Former Employee",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents pertain to efforts by the CIA to contact former employees residing in various locations (Paris, Vienna, Wachtberg-Pech, Caracas, and Hong Kong) in the mid-1990s. These contacts were initiated because the names of these former employees appeared in documents being reviewed for public release under the President John F. Kennedy Assassination Records Collection Act of 1992. The CIA sought to inform these individuals about the potential public disclosure of their names and offer them guidance on how to respond, including the possibility of requesting a postponement of the disclosure. The cables indicate a coordinated effort by the CIA, specifically through its Office of Covert Communications (OCC) and Office of Collection Coordination (OCC), to manage the release of information related to the JFK assassination records and to address potential concerns of former employees whose names were included in those records. The pattern across the documents is consistent: a request for station assistance to contact a former employee, inform them of the potential release of their name, and offer guidance.",
+  "key_connections": [
+    "CIA",
+    "Paris Station",
+    "Vienna Station",
+    "Bonn Station",
+    "Caracas Station",
+    "Hong Kong Station",
+    "Office of Covert Communications (OCC)",
+    "Office of Collection Coordination (OCC)",
+    "President John F. Kennedy Assassination Records Collection Act of 1992"
+  ],
+  "significance": "The former employees are significant in the JFK assassination context because their names appeared in documents related to the assassination, which were being reviewed for public release. The CIA's efforts to contact them suggest that these individuals may have had some connection, however indirect, to events or information relevant to the JFK assassination. The documents do not specify the nature of their involvement, but the CIA's proactive approach indicates a need to manage the potential impact of their names being publicly associated with the assassination records.",
+  "document_ids": [
+    "104-10326-10036",
+    "104-10326-10067",
+    "104-10326-10031",
+    "104-10326-10033",
+    "104-10326-10034"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "entity_name": "Richard Ober",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "summary": "Richard Ober was a CIA officer involved in the investigation following the assassination of Martin Luther King, Jr. The documents show him requesting and disseminating information related to James Earl Ray, the accused assassin. Specifically, he requested an Identikit composite of Ray, distributed Ray's fingerprint formula, and shared information about Ray's aliases and physical characteristics. He was part of CI/OP/DO and involved in relaying information from LNERGO. Ober also appears in a document related to potential damage from Ramparts Magazine's allegations concerning CIA ties to various organizations and in documents related to American attendees at international conferences. He is also mentioned in an inventory of Rockefeller Commission files.",
+  "key_connections": [
+    "James Earl Ray",
+    "LNERGO",
+    "Martin Luther King, Jr.",
+    "Ramparts Magazine",
+    "World Peace Council"
+  ],
+  "significance": "While not directly related to the JFK assassination in these documents, Richard Ober's presence in an inventory of Rockefeller Commission files, which include documents related to the Kennedy assassination, suggests a possible indirect connection or involvement in related investigations or activities. His primary significance in these documents revolves around his role in the investigation of the Martin Luther King, Jr. assassination.",
+  "document_ids": [
+    "104-10178-10112",
+    "104-10059-10026",
+    "104-10071-10405",
+    "104-10071-10043",
+    "104-10071-10404",
+    "104-10433-10081",
+    "104-10071-10041",
+    "104-10071-10407",
+    "178-10004-10420",
+    "104-10178-10137",
+    "104-10178-10136",
+    "104-10072-10034"
+  ]
+}

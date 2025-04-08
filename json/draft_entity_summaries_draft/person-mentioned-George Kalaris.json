@@ -1,0 +1,23 @@
+{
+  "entity_name": "George Kalaris",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, George Kalaris is mentioned in the context of CIA records related to the JFK assassination. The documents consist of memoranda, fax transmissions, and briefing questions for the Assassination Records Review Board (ARRB). While the documents do not explicitly detail Kalaris's role or involvement, his name appears in the context of inquiries about CIA activities, including destroyed records, Mexico City operations, contacts with journalists, and projects like QKENCHANT. The documents suggest that information about Kalaris was relevant to the ARRB's investigation into the JFK assassination records.",
+  "key_connections": [
+    "Yuriy Nosenko",
+    "Michelle Combs",
+    "Barry Harrelson",
+    "Clay Shaw",
+    "HTLINGUAL project",
+    "QKENCHANT project",
+    "Castro assassination plots",
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board (ARRB)"
+  ],
+  "significance": "The significance of George Kalaris in the JFK context is not explicitly stated in the provided documents. However, the fact that his name is included in briefing questions and discussions related to CIA records suggests that he may have been involved in activities or possessed information relevant to the JFK assassination. Further research would be needed to determine the precise nature and extent of his involvement.",
+  "document_ids": [
+    "104-10332-10009",
+    "104-10330-10081",
+    "104-10333-10006"
+  ]
+}

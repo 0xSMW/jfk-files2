@@ -1,0 +1,30 @@
+{
+  "entity_name": "Alias",
+  "entity_type": "tag",
+  "document_count": 10,
+  "summary": "The documents describe the use of aliases by CIA personnel and assets for various operational purposes, including travel, recruitment, and maintaining cover. Aliases were created using forged documents such as passports, visas, and identification cards. The documents span from the early 1960s to the late 1970s, indicating a sustained practice of using aliases within the CIA. The creation and maintenance of these aliases involved multiple divisions within the CIA, including the Western Hemisphere Division, SAS/Support, and Technical Services Division. The documents highlight the importance of security and operational effectiveness in the use of aliases, with procedures in place to handle inquiries and maintain cover stories.",
+  "key_connections": [
+    "ANOTIN-117",
+    "Miguel Angel DIAZ Isalgué",
+    "Edifanio Romero Delgado",
+    "Cal William Hitch",
+    "Gilbert Richmond",
+    "Simon S. MARTINEZ",
+    "Harold F. Safley",
+    "KURIOT",
+    "Roush-Walker Company"
+  ],
+  "significance": "While the documents do not directly link the use of aliases to the JFK assassination, they illustrate the CIA's established practice of using aliases for covert operations. This context is relevant to the JFK assassination because it demonstrates the agency's capacity for deception and the creation of false identities, which could be pertinent to understanding potential covert activities related to the assassination.",
+  "document_ids": [
+    "104-10120-10276",
+    "104-10113-10254",
+    "104-10113-10258",
+    "194-10001-10490",
+    "104-10120-10273",
+    "104-10121-10217",
+    "104-10121-10133",
+    "104-10106-10194",
+    "104-10185-10253",
+    "104-10131-10014"
+  ]
+}

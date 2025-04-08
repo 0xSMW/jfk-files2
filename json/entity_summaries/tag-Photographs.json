@@ -1,0 +1,22 @@
+{
+  "entity_name": "Photographs",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Photographs appear in the documents primarily as items being distributed for identification or informational purposes. In one instance, photographs were sent to POSSON via APO, indicating their use in communication or intelligence operations. Another instance involves the FBI distributing photographs of Carlos Marcello to field offices for informant identification, highlighting their role in investigative processes. A third document details a request for the distribution of photographs to various stations, suggesting a broader dissemination strategy within an organization. The photographs themselves are not directly linked to the JFK assassination in these documents, but their use in intelligence and law enforcement contexts is evident.",
+  "key_connections": [
+    "POSSON",
+    "Carlos Marcello",
+    "FBI",
+    "Richard Ober",
+    "C/NE",
+    "C/FE",
+    "C/WH",
+    "C/EUR"
+  ],
+  "significance": "While the documents do not explicitly link the photographs to the JFK assassination, they demonstrate the use of photographs in intelligence and law enforcement activities during the relevant time period. Their significance lies in their role as tools for identification, communication, and information dissemination within these contexts.",
+  "document_ids": [
+    "104-10072-10046",
+    "124-10204-10212",
+    "104-10178-10137"
+  ]
+}

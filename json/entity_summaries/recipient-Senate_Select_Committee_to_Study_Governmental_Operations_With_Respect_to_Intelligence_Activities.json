@@ -1,0 +1,24 @@
+{
+  "entity_name": "Senate Select Committee to Study Governmental Operations With Respect to Intelligence Activities",
+  "entity_type": "recipient",
+  "document_count": 4,
+  "summary": "The Senate Select Committee to Study Governmental Operations With Respect to Intelligence Activities, often referred to as the Church Committee, was a U.S. Senate committee established in 1975 to investigate intelligence gathering activities by the CIA, FBI, and other government agencies. The documents indicate the committee held hearings on a range of topics, including the CIA's covert use of media and academics, Cuban operations and relationships with exile groups around the time of the Kennedy assassination, CIA activities in the Congo and potential assassination of Patrice Lumumba, and inquiries into potential CIA involvement in assassinations, including the testimony of E. Howard Hunt. The committee's role was to provide oversight and investigate potential abuses of power by intelligence agencies.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Robert G. Halley",
+    "JMWAVE",
+    "Cuban exile groups",
+    "Bronson Tweedy",
+    "Patrice Lumumba",
+    "E. Howard Hunt",
+    "Colonel Boris Pash"
+  ],
+  "significance": "The committee investigated potential CIA involvement in assassinations, including inquiries related to the Kennedy assassination through its examination of Cuban operations and relationships with exile groups, as well as the testimony of individuals like E. Howard Hunt regarding potential CIA involvement in assassinations.",
+  "document_ids": [
+    "157-10014-10125",
+    "157-10014-10047",
+    "157-10014-10067",
+    "157-10005-10228"
+  ]
+}

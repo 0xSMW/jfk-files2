@@ -1,0 +1,22 @@
+{
+  "entity_name": "J. Edgar Hoover",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "J. Edgar Hoover was the Director of the FBI during the time period relevant to the JFK assassination and its subsequent investigations. The documents suggest his involvement primarily revolves around the FBI's role in intelligence activities, counterintelligence efforts, and cooperation (or lack thereof) with other agencies like the CIA and the Warren Commission. He interacted with individuals such as Sam J. Papich, Allen Dulles, and Lee Rankin. The documents indicate a cautious approach to counterintelligence and potential conflicts with individuals like Edward P. Morgan. His interactions with the Warren Commission are also noted, particularly through communications involving Allen Dulles. The timeline of his involvement spans from before the assassination through the Warren Commission's investigation and into the 1970s, as evidenced by documents related to the Senate Select Committee investigations.",
+  "key_connections": [
+    "Sam J. Papich",
+    "Allen Dulles",
+    "Lee Rankin",
+    "Edward P. Morgan",
+    "CIA",
+    "Warren Commission",
+    "Senate Select Committee (SSC)"
+  ],
+  "significance": "J. Edgar Hoover's significance in the JFK context lies in his role as the Director of the FBI, the primary investigative agency. His interactions with the Warren Commission, his agency's handling of evidence and information, and his relationships with key figures involved in the investigation are all crucial aspects of understanding the official narrative and potential alternative theories surrounding the assassination.",
+  "document_ids": [
+    "124-10274-10001",
+    "157-10011-10093",
+    "135-10001-10255",
+    "104-10122-10307"
+  ]
+}

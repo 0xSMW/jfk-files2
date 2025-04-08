@@ -1,0 +1,20 @@
+{
+  "entity_name": "Aldrich Ames",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Aldrich Ames is mentioned in a series of CIA memoranda to the Assassination Records Review Board (ARRB) primarily in the context of protecting the identities of human intelligence sources and sensitive information related to intelligence operations. The documents discuss the CIA's concerns about releasing information that could compromise sources and damage U.S. intelligence interests, particularly concerning cryptonyms and the identification of sources in relation to Lee Harvey Oswald's time in the Soviet Union. The documents reveal the CIA's efforts to balance transparency with the need to protect sensitive intelligence assets and methods.",
+  "key_connections": [
+    "Assassination Records Review Board (ARRB)",
+    "Lee Harvey Oswald",
+    "CIA",
+    "IJDECANTER",
+    "Russian counterintelligence"
+  ],
+  "significance": "Aldrich Ames's name appears in documents related to the CIA's efforts to protect intelligence sources and methods during the release of JFK assassination records. While Ames himself is not directly involved in the JFK assassination, his case is used as a reference point when discussing the potential damage that can be caused by revealing sensitive information and compromising intelligence assets. The documents highlight the CIA's concerns about the potential risks of disclosing information that could benefit foreign intelligence agencies and endanger human sources.",
+  "document_ids": [
+    "104-10330-10070",
+    "104-10332-10016",
+    "104-10336-10034",
+    "104-10332-10002"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "entity_name": "Gordon Novel",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Gordon Novel is an individual who claimed affiliation with the CIA. The documents primarily focus on the Agency's efforts to monitor and address his claims, particularly in relation to the Garrison investigation and his legal troubles. One document details alleged connections between the CIA, Schlumberger Well Surveying Corporation, and individuals linked to Soviet agents, as well as providing information on security clearances and contact approvals for Schlumberger personnel. The documents span from 1967 to 1975.",
+  "key_connections": [
+    "CIA",
+    "Jim Garrison",
+    "Schlumberger Well Surveying Corporation",
+    "Soviet agents"
+  ],
+  "significance": "Gordon Novel's significance in the JFK context stems from his alleged CIA affiliation and his connection to the Garrison investigation, which was an inquiry into the assassination of President John F. Kennedy led by New Orleans District Attorney Jim Garrison. The documents suggest that the CIA was monitoring Novel's claims and activities, possibly due to concerns about his statements related to the assassination or the Agency's operations.",
+  "document_ids": [
+    "180-10145-10269",
+    "104-10305-10000",
+    "180-10145-10295",
+    "104-10106-10716"
+  ]
+}

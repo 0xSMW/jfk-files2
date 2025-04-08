@@ -1,0 +1,21 @@
+{
+  "entity_name": "Cables",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents reference 'cables' in various contexts. One document lists cables removed during the Watergate file search, covering subjects like AMANCHOR-1/ARTIME/AMNAIL operations, Cuban exiles, potential security risks, alias documentation, Agency involvement in Watergate, and financial transactions. Another memo summarizes a review of tapes, transcripts, and cables related to Lee Harvey Oswald's activities in Mexico City before the Kennedy assassination, highlighting issues with translation quality and missing transcripts. A third document is a U.K. Liaison file referencing specific cables (LOND 5956 and LOND 5963) and noting restricted access for sensitive cables within. The cables appear to be a form of communication used by the CIA and other agencies, containing potentially sensitive information.",
+  "key_connections": [
+    "Watergate",
+    "Lee Harvey Oswald",
+    "Kennedy Assassination",
+    "CIA",
+    "AMANCHOR-1/ARTIME/AMNAIL",
+    "Cuban exiles",
+    "U.K. Liaison"
+  ],
+  "significance": "In the JFK context, cables are significant as a medium of communication that could contain information related to Lee Harvey Oswald's activities and the CIA's knowledge or involvement prior to the assassination. The mention of cables in connection to Oswald's activities in Mexico City suggests they might hold crucial details about his contacts and plans. The issues with translation quality and missing transcripts further complicate the understanding of these communications.",
+  "document_ids": [
+    "104-10095-10326",
+    "180-10143-10100",
+    "104-10228-10076"
+  ]
+}

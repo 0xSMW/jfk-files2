@@ -1,0 +1,33 @@
+{
+  "entity_name": "Reaction to Assassination",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "The documents detail various international reactions to President Kennedy's assassination. These reactions range from official mourning periods declared by countries like Mexico to expressions of sorrow from adversarial nations like Cuba. Some reports focus on specific leaders' reactions, such as Fidel Castro's concerns about potential U.S. retaliation and attempts to deflect blame, and President Nasser's condolences. Other documents highlight concerns and speculations, including Syrian claims of Zionist involvement and Washington's unease over a Cambodian broadcast that seemed to celebrate the death. The reports also cover reactions within the U.S., such as the French Embassy's assessment of the U.S. government's response to interviews with Kennedy and Castro. Overall, the documents paint a picture of global shock, concern, and political maneuvering in the wake of the assassination.",
+  "key_connections": [
+    "Mexico",
+    "Fidel Castro",
+    "Cuba",
+    "Syria",
+    "Zionists",
+    "France",
+    "Zaire",
+    "Cambodia",
+    "Egypt",
+    "President Nasser"
+  ],
+  "significance": "The global reaction to President Kennedy's assassination provides insight into the international political climate of the time and the diverse perspectives on the event. The reactions reveal existing tensions, fears of escalation, and attempts to leverage the tragedy for political gain. They also highlight the widespread impact of Kennedy's death on the world stage.",
+  "document_ids": [
+    "144-10001-10067",
+    "144-10001-10093",
+    "144-10001-10094",
+    "144-10001-10104",
+    "144-10001-10112",
+    "144-10001-10076",
+    "144-10001-10055",
+    "144-10001-10110",
+    "144-10001-10080",
+    "144-10001-10096",
+    "144-10001-10059",
+    "144-10001-10063"
+  ]
+}

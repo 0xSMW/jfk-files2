@@ -1,0 +1,25 @@
+{
+  "entity_name": "Federal Bureau of Investigation",
+  "entity_type": "recipient",
+  "document_count": 3,
+  "summary": "The Federal Bureau of Investigation (FBI) is a recipient of information from the Central Intelligence Agency (CIA) in the context of national security matters. The documents indicate that the CIA requests the FBI's assistance in gathering information on individuals suspected of espionage or having connections to Soviet and Cuban officials. This includes providing details on individuals' travel history, visa applications, and family details. The FBI is also involved in investigations related to individuals associated with CIA employees, suggesting a collaborative relationship between the two agencies in addressing potential security threats.",
+  "key_connections": [
+    "CIA",
+    "Nicolas Ferguson MITCHELL",
+    "William Hamilton MARTIN",
+    "Justo SIERRA Casasús",
+    "Nicolas Georges DAMASCUS",
+    "Anastasia Georges DAMASCUS",
+    "NSA",
+    "Court Foster Wood",
+    "Michael Weimer Stratton",
+    "Soviet officials",
+    "Cuban officials"
+  ],
+  "significance": "In the context of these documents, the FBI's significance lies in its role as a recipient of intelligence from the CIA and its involvement in investigating individuals potentially linked to espionage or security threats. While the documents do not directly relate to the JFK assassination, they highlight the FBI's broader role in national security during the Cold War era, which is the historical backdrop against which the JFK assassination occurred. The documents suggest a collaborative relationship between the FBI and CIA in addressing potential security threats.",
+  "document_ids": [
+    "104-10219-10283",
+    "104-10219-10282",
+    "104-10114-10162"
+  ]
+}

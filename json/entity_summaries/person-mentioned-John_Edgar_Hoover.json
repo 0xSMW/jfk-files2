@@ -1,0 +1,31 @@
+{
+  "entity_name": "John Edgar Hoover",
+  "entity_type": "person-mentioned",
+  "document_count": 14,
+  "summary": "The documents provided do not directly mention John Edgar Hoover's involvement in the JFK assassination. However, they highlight his role as the Director of the FBI during a period relevant to the JFK era and the subsequent investigations into intelligence activities. The documents show the FBI, under Hoover's leadership, collaborating with the CIA on various intelligence matters, including domestic surveillance (Project HUNTER), monitoring individuals suspected of espionage or communist activities, and sharing information on individuals of interest. The documents also reveal the FBI's involvement in providing information to the Senate Select Committee (Church Committee) investigating intelligence activities in the 1970s, indicating the FBI's role in responding to inquiries about past intelligence operations. The documents also show the FBI's interest in Cuban affairs and individuals connected to Cuba during the early 1960s.",
+  "key_connections": [
+    "CIA",
+    "Senate Select Committee (Church Committee)",
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "Attorney General",
+    "National Security Council"
+  ],
+  "significance": "While the documents do not directly implicate John Edgar Hoover in the JFK assassination, they illustrate the FBI's broad surveillance activities and its interactions with other intelligence agencies during the period. The documents show the FBI's role in domestic surveillance, counterintelligence, and information sharing, which are relevant to understanding the broader context of the JFK assassination and the subsequent investigations into intelligence activities.",
+  "document_ids": [
+    "124-10212-10337",
+    "124-10273-10070",
+    "124-10188-10308",
+    "104-10226-10001",
+    "178-10003-10176",
+    "124-10274-10001",
+    "124-90139-10070",
+    "124-90138-10073",
+    "124-10264-10208_multirif",
+    "124-10273-10071_multirif",
+    "124-90140-10004",
+    "124-10273-10086_multirif",
+    "104-10301-10011",
+    "124-90137-10355"
+  ]
+}

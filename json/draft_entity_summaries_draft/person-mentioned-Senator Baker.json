@@ -1,0 +1,22 @@
+{
+  "entity_name": "Senator Baker",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Senator Baker is mentioned in the documents primarily in the context of the Watergate scandal and related investigations. Frank Sturgis, a figure connected to Watergate, reportedly attempted to contact Senator Baker to turn over cryptographic material obtained from Marita Lorenz. This suggests that Senator Baker was perceived as someone who could potentially receive sensitive information related to covert activities. The documents also reference investigations into E. Howard Hunt's activities and the CIA's involvement in Watergate, indicating a broader context of political intrigue and potential cover-ups. Senator Baker's role appears to be that of a potential recipient of information, possibly in a position to investigate or expose wrongdoing.",
+  "key_connections": [
+    "Frank Sturgis",
+    "Marita Lorenz",
+    "E. Howard Hunt",
+    "Watergate Scandal",
+    "CIA"
+  ],
+  "significance": "Senator Baker's significance in the JFK context, based on these documents, is indirect. He is not directly implicated in the assassination itself. However, his potential role as a recipient of sensitive information related to Watergate, which involved individuals with connections to intelligence agencies and covert operations, places him within the broader network of individuals and events that have fueled speculation and investigation into the JFK assassination. The documents suggest that Senator Baker was a figure of authority or influence to whom individuals with potentially sensitive information sought to reach out.",
+  "document_ids": [
+    "104-10173-10130",
+    "104-10438-10186",
+    "104-10049-10004",
+    "104-10256-10283",
+    "157-10011-10018",
+    "104-10173-10132"
+  ]
+}

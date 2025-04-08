@@ -1,0 +1,19 @@
+{
+  "entity_name": "President Johnson",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "President Johnson became the President of the United States following the assassination of President John F. Kennedy. The documents reflect immediate concerns and observations about his administration in the wake of this event. One document details an evaluation from Ambassador Kamel to Cairo regarding President Johnson and his administration, covering rumors surrounding Kennedy's assassination and anticipated policy shifts. Another document references a Spanish-language letter alleging the existence of a stolen Warren Commission document prejudicial to President Johnson. A CIA report indicates that Fidel Castro was upset by Kennedy's assassination and that the Cuban government intended to avoid irritating President Johnson, awaiting potential improvements in relations. These documents highlight the immediate aftermath of the assassination and the scrutiny and adjustments surrounding the new presidency.",
+  "key_connections": [
+    "President Kennedy",
+    "Ambassador Kamel",
+    "Fidel Castro",
+    "Warren Commission",
+    "Oswald"
+  ],
+  "significance": "President Johnson's significance in the JFK assassination context lies primarily in his succession to the presidency after Kennedy's death and the immediate impact this had on domestic and foreign policy, as well as the investigations and rumors surrounding the assassination. The documents reflect concerns about potential shifts in policy and the handling of information related to the assassination.",
+  "document_ids": [
+    "144-10001-10103",
+    "124-10114-10010",
+    "177-10001-10060"
+  ]
+}

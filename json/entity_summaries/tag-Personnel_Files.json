@@ -1,0 +1,40 @@
+{
+  "entity_name": "Personnel Files",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Personnel files, as indicated by the documents, encompass records related to individuals, often employees or persons of interest to organizations like the CIA. These files contain personal history statements, background checks, security clearances, and details of their activities. The documents suggest that personnel files were used for various purposes, including cross-referencing individuals, identifying potential connections, conducting security checks, and summarizing involvement in specific activities or operations. The files are essential for understanding the backgrounds, affiliations, and roles of individuals within the context of investigations or organizational operations.",
+  "key_connections": [
+    "Gertrude L. Cully Duffey",
+    "Alice L. Duffey",
+    "Timothy Joseph Burke",
+    "Stewart L. Butts",
+    "Francis Leo Carroll",
+    "Edward C. Penimore",
+    "Theo E. HK Lau",
+    "Thomas F. McCoy",
+    "Clare Booth Luce",
+    "Alexis Davison",
+    "Daniel Carswell",
+    "Luis Posada",
+    "Cesar Diosdado",
+    "David A. Phillips",
+    "Mitchell L. WerBell III",
+    "E. Howard Hunt",
+    "David Lamar Christ",
+    "Myrtle V. Quine",
+    "David R. Wesy",
+    "Adolph R. Jane",
+    "Helena V. Bimroty",
+    "Morris Bishop",
+    "CIA",
+    "Security Branch, OSQ"
+  ],
+  "significance": "In the JFK assassination context, personnel files are significant as they provide insights into the individuals involved, their backgrounds, potential motives, and connections to relevant organizations or events. These files could help uncover relationships, identify potential suspects, and understand the roles of various individuals within the broader scope of the assassination investigation.",
+  "document_ids": [
+    "104-10120-10657",
+    "104-10331-10134",
+    "104-10147-10229",
+    "180-10143-10072",
+    "104-10113-10181"
+  ]
+}

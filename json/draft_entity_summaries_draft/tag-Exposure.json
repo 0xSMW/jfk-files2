@@ -1,0 +1,23 @@
+{
+  "entity_name": "Exposure",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents highlight instances of individuals threatening to expose information, primarily related to the U.S. government and its operations. Philip Agee exposed CIA personnel, potentially including information relevant to the Kennedy assassination. Richard Case Nagell threatened to expose his contacts within an organization ('WOF IRM') and the U.S. government if his demands were not met. These threats occurred around 1969, with Nagell making appearances at the Zurich and Barcelona consulates. A notable pattern is the use of exposure as leverage or retaliation against perceived broken promises or grievances with the U.S. government.",
+  "key_connections": [
+    "Philip Agee",
+    "CIA Personnel",
+    "Richard Case Nagell",
+    "WOF IRM",
+    "U.S. Government",
+    "Ronald KESSLER",
+    "Mexico City",
+    "Kennedy Assassination"
+  ],
+  "significance": "Exposure, in the context of these documents, represents a threat to reveal sensitive information, potentially compromising individuals, operations, or the U.S. government itself. The mention of CIA personnel exposure in relation to the Kennedy assassination suggests a possible link, although the extent and nature of this connection are not fully detailed in these documents. The threats made by Nagell also indicate a potential vulnerability of the U.S. government to exposure of sensitive information.",
+  "document_ids": [
+    "104-10129-10101",
+    "104-10310-10142",
+    "104-10123-10020",
+    "104-10123-10017"
+  ]
+}

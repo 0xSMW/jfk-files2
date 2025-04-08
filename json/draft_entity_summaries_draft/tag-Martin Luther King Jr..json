@@ -1,0 +1,38 @@
+{
+  "entity_name": "Martin Luther King Jr.",
+  "entity_type": "tag",
+  "document_count": 17,
+  "summary": "Martin Luther King Jr. was a prominent civil rights leader whose assassination in April 1968 is a subject of interest in the documents. The documents reflect investigations into his assassination, including potential suspects like Eric Starvo Galt (an alias of Harvey Lowmyer and John Willard) and James Earl Ray. There are also mentions of investigations into possible communist connections, particularly through Stanley Levison, and the FBI's interest in these connections. The documents also cover the reactions of communist media to his death and the use of his name and legacy in international forums like the World Peace Council. The House Select Committee on Assassinations (HSCA) investigated his assassination alongside that of President Kennedy, seeking information from various sources, including the CIA and FBI. The documents also reveal the monitoring of individuals and groups critical of the FBI and CIA in relation to the King and Kennedy assassinations.",
+  "key_connections": [
+    "James Earl Ray",
+    "Eric Starvo Galt (Harvey Lowmyer, John Willard)",
+    "Stanley Levison",
+    "House Select Committee on Assassinations (HSCA)",
+    "FBI",
+    "CIA",
+    "John F. Kennedy",
+    "Hosea Williams",
+    "World Peace Council",
+    "Communist Party USA (CPUSA)"
+  ],
+  "significance": "While not directly related to the JFK assassination, the documents highlight the parallel investigation conducted by the HSCA into King's assassination. The documents also reveal the extent of surveillance and investigation into King's activities and connections, reflecting a broader context of political and social upheaval during the 1960s. The documents also show the FBI's interest in King's alleged communist ties, similar to concerns raised about individuals connected to JFK.",
+  "document_ids": [
+    "104-10173-10166",
+    "104-10433-10209",
+    "104-10066-10010",
+    "104-10433-10212",
+    "104-10071-10147",
+    "104-10433-10167",
+    "104-10305-10005",
+    "124-10271-10033_multirif_redacted",
+    "104-10065-10386",
+    "104-10071-10148",
+    "104-10178-10136",
+    "124-10238-10333_multirif",
+    "104-10322-10056",
+    "104-10079-10016",
+    "124-10238-10329_multirif",
+    "104-10433-10050",
+    "104-10071-10139"
+  ]
+}

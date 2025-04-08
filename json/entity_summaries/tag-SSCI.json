@@ -1,0 +1,31 @@
+{
+  "entity_name": "SSCI",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "The Senate Select Committee on Intelligence (SSCI) played a significant role in investigating CIA activities, including potential involvement in assassinations of foreign leaders and related covert operations. The SSCI requested and reviewed numerous documents from agencies like the CIA and NSA, focusing on topics such as Cuban intelligence, Antonio Veciana, and potential assassination plots against Fidel Castro and others. The committee's inquiries led to internal discussions within these agencies about how to handle the requests, including decisions to withhold certain information to protect sensitive sources and methods. The SSCI's work involved interviewing key figures like William Colby and Richard Bissell, and their investigations touched upon sensitive topics such as the ZR Rifle project, relationships with criminal elements, and the CIA's interactions with the Mafia.",
+  "key_connections": [
+    "CIA",
+    "NSA",
+    "William Colby",
+    "Richard Bissell",
+    "Antonio Veciana",
+    "Fidel Castro",
+    "House Select Committee on Assassinations (HSCA)",
+    "Task Force W",
+    "Special Group"
+  ],
+  "significance": "The SSCI's significance in the JFK assassination context lies in its investigation into potential CIA involvement in assassinations and covert operations, which indirectly touched upon the environment and context surrounding the assassination. While the documents do not directly link the CIA to the JFK assassination, the SSCI's inquiries into related activities and figures, such as Antonio Veciana and potential plots against Castro, are relevant to understanding the broader landscape of covert operations and intelligence activities during that period.",
+  "document_ids": [
+    "157-10011-10041",
+    "157-10008-10241",
+    "144-10001-10159",
+    "144-10001-10206",
+    "144-10001-10173",
+    "104-10066-10060",
+    "157-10011-10066",
+    "157-10011-10024",
+    "104-10096-10048",
+    "157-10008-10238",
+    "157-10011-10018"
+  ]
+}

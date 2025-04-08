@@ -1,0 +1,20 @@
+{
+  "entity_name": "Theard",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, there is no mention of an entity named \"Theard.\" The documents primarily concern communications involving Irving Davidson, a Haitian government representative, and requests from the Haitian government, specifically President Duvalier, to the U.S. government. These requests involve the recall of U.S. Embassy officials, including Ambassador Timmons, to improve relations between Haiti and the United States. The documents highlight the use of Davidson as an intermediary for these sensitive communications.",
+  "key_connections": [
+    "Irving Davidson",
+    "Jacques Fourcand",
+    "President Duvalier",
+    "Ambassador Timmons",
+    "Haitian Government",
+    "U.S. Embassy"
+  ],
+  "significance": "Without any mention of \"Theard\" in the provided documents, it is impossible to determine their significance in the JFK context. The documents focus on diplomatic relations between Haiti and the United States and do not directly relate to the JFK assassination.",
+  "document_ids": [
+    "124-10299-10043",
+    "124-10299-10032",
+    "124-10299-10041"
+  ]
+}

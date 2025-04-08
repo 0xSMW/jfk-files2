@@ -1,0 +1,26 @@
+{
+  "entity_name": "Operational",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The tag \"Operational\" appears in several CIA documents, primarily dispatches and reports, indicating the operational nature of the content. These documents cover a range of activities, including the transmission of CIA reports related to GYROSE and UFGA operations, contract extensions, and specific operational reports. The documents highlight activities such as gathering information on anti-communist groups in Cuba, DRE activities, and potential Soviet contacts. The timeline spans from 1953 to 1962, suggesting ongoing operational activities during this period. A notable pattern is the focus on intelligence gathering and reporting related to Cuban activities and potential communist connections.",
+  "key_connections": [
+    "GYROSE",
+    "UFGA",
+    "DRE (Directorio Revolucionario Estudiantil)",
+    "Raymond H. CEREDE",
+    "Juan Rodriguez Jobolca",
+    "Salvador Jomolca",
+    "AN VIO L. NEVES",
+    "Frits (aka Fred) SNECHI",
+    "Head BURCHHARDT"
+  ],
+  "significance": "The significance of the \"Operational\" tag in the JFK context lies in its association with CIA activities related to Cuba and potential communist connections during the period leading up to the assassination. These operations, including intelligence gathering and reporting, provide insight into the CIA's focus and activities in the region, which may be relevant to understanding the broader context of the JFK assassination.",
+  "document_ids": [
+    "104-10171-10044",
+    "104-10171-10013",
+    "104-10219-10153",
+    "104-10171-10034",
+    "104-10512-10102",
+    "104-10171-10138"
+  ]
+}

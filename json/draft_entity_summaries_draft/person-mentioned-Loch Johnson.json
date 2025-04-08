@@ -1,0 +1,20 @@
+{
+  "entity_name": "Loch Johnson",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Loch Johnson appears to be a person involved in matters related to security clearances and legislative counsel activities, particularly concerning intelligence oversight. The documents indicate his involvement in discussions and interactions with the NSA and House and Senate Intelligence Committees. He is mentioned in the context of security clearances up to TOP SECRET and briefed under DCID 1/14. He is also mentioned in journal entries detailing liaison activities of the Office of Legislative Counsel, including discussions with the NSA regarding the leak of NSA's ability to read Korean diplomatic traffic and the provision of a damage assessment to the House Intelligence Committee. He is also mentioned in journal entries detailing the Office of Legislative Counsel's interactions with the House Permanent Select Committee on Intelligence and the House Select Committee on Assassinations, covering topics such as terrorism hearings, codeword cover sheets, file destruction, and intelligence reports.",
+  "key_connections": [
+    "NSA",
+    "House Intelligence Committee",
+    "Senate Intelligence Committee",
+    "House Permanent Select Committee on Intelligence",
+    "House Select Committee on Assassinations",
+    "Office of Legislative Counsel"
+  ],
+  "significance": "While the documents mention Loch Johnson, they do not directly link him to the JFK assassination. His significance lies in his involvement with intelligence oversight and security clearances during the period covered by the documents, which may indirectly relate to the broader context of intelligence activities surrounding the JFK assassination.",
+  "document_ids": [
+    "124-10274-10014_multirif_redacted",
+    "104-10126-10253",
+    "104-10151-10188"
+  ]
+}

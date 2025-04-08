@@ -1,0 +1,21 @@
+{
+  "entity_name": "Coordination",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents highlight 'coordination' primarily in the context of operational activities and inter-agency collaboration. One document discusses Sam Halpern's experiences with personnel selection and coordination with the DDI. Another details coordination between DCSI USCOB Berlin and DPSI USAREUR Heidelberg, including coordination with West Berlin police, regarding the apprehension of possible US Army deserters. The third document mentions coordination between Kammer (likely CIA) and Mr. McCORD of SRS regarding the operational use of Michael Weimer Stratton within the US for propaganda, and discusses potential FBI involvement. The pattern across these documents is that 'coordination' is essential for the successful execution of operations, involving multiple agencies and individuals.",
+  "key_connections": [
+    "DDI",
+    "DCSI USCOB Berlin",
+    "DPSI USAREUR Heidelberg",
+    "West Berlin police",
+    "Kammer (CIA)",
+    "Mr. McCORD (SRS)",
+    "FBI"
+  ],
+  "significance": "In the JFK context, 'coordination' is significant as it reflects the operational dynamics and inter-agency relationships involved in various covert activities. While not directly related to the assassination itself in these documents, it provides insight into how different entities worked together (or potentially failed to coordinate effectively) during the Cold War era, which is the backdrop against which the assassination occurred. The emphasis on coordination highlights the importance of understanding the operational environment and the potential for miscommunication or conflicting agendas.",
+  "document_ids": [
+    "104-10324-10000",
+    "194-10012-10400",
+    "104-10128-10300"
+  ]
+}

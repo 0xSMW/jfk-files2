@@ -1,0 +1,32 @@
+{
+  "entity_name": "SAC, MM",
+  "entity_type": "sender",
+  "document_count": 5,
+  "summary": "SAC, MM refers to the Special Agent in Charge of the Miami field office of the FBI. The documents indicate the Miami SAC was involved in gathering and disseminating intelligence related to anti-Castro activities, potential assassination plots against Cuban leaders, and monitoring individuals of interest. The office communicated with the Director of the FBI and other agencies like the CIA and United States Customs Office. The documents span from 1958 to 1967, showing a sustained focus on Cuban-related intelligence matters. A notable pattern is the relaying of information from Cuban double agents and CIA sources, as well as coordinating with other law enforcement agencies.",
+  "key_connections": [
+    "Director, FBI",
+    "CIA",
+    "United States Customs Office",
+    "DOLPHIN (Cuban double agent)",
+    "PEDRO LUIS DIAZ LANZ",
+    "RENALDO BLANCO HERNANDEZ",
+    "ALBERTO EUSEBIO MOJENA",
+    "CARLOS HILARIO GONZALEZ",
+    "ESTEBAN VENTURA_NOVO",
+    "ANA ROSA GUERRA",
+    "ROLANDO L. CUBELA Y SECADES",
+    "Carlos Tepedino",
+    "Fidel Castro",
+    "President Johnson",
+    "Jorge Raul Roblejo Lorie",
+    "Sergio Oswaldo Betancourt Collazo"
+  ],
+  "significance": "In the context of the JFK assassination, the Miami SAC's role in monitoring anti-Castro activities and potential assassination plots is relevant. The office's connections to individuals and groups potentially involved in such activities could provide insights into the broader landscape of anti-Castro sentiment and potential threats to political figures. The documents suggest the Miami SAC was a key node in the intelligence network related to Cuban affairs during this period.",
+  "document_ids": [
+    "124-10285-10254",
+    "124-10221-10231",
+    "124-10284-10172",
+    "124-10280-10030",
+    "124-10300-10024"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "entity_name": "Merchant",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Based on the provided documents, there is no direct information about an individual named \"Merchant.\" The documents primarily focus on Operation Mongoose, potential assassination plots against Fidel Castro and other foreign leaders (Trujillo, Lumumba), US policy towards Cuba, and covert actions during the Cold War. Discussions involve high-level authorities within the U.S. government, including the Special Group and individuals like Gordon Gray. The documents also mention concerns about unauthorized raids by Cuban exiles and broader US foreign policy concerning Europe and the Soviet Union. The absence of specific details about \"Merchant\" suggests that this individual is not a central figure in the narratives presented in these documents.",
+  "key_connections": [
+    "Fidel Castro",
+    "Trujillo",
+    "Lumumba",
+    "Gordon Gray",
+    "Cuban exiles",
+    "Special Group",
+    "President Eisenhower",
+    "Kennedy administration"
+  ],
+  "significance": "Without specific information about \"Merchant\" from the provided documents, it's impossible to determine their significance in the JFK assassination context. The documents focus on broader Cold War activities and covert operations related to Cuba and other countries.",
+  "document_ids": [
+    "157-10011-10010",
+    "157-10014-10100",
+    "104-10306-10016",
+    "157-10008-10238",
+    "157-10011-10003"
+  ]
+}

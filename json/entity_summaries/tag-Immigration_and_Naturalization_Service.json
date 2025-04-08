@@ -1,0 +1,23 @@
+{
+  "entity_name": "Immigration and Naturalization Service",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The Immigration and Naturalization Service (INS) appears in these documents primarily in the context of CIA operations and individuals of interest. The CIA interacted with the INS to facilitate the reentry of contract employees traveling under false identities, as seen in the case of Miguel Angel DIAZ Isalgue. The INS also sought to potentially use covert Agency employees, such as Balmes Hidalgo Jr., as informants. These interactions suggest a relationship where the CIA occasionally required the INS's cooperation for operational purposes, while the INS, in turn, sought intelligence from individuals connected to the Agency. The documents span from 1954 to 1975, indicating a sustained, albeit perhaps infrequent, interaction between the two agencies.",
+  "key_connections": [
+    "CIA",
+    "Miguel Angel DIAZ Isalgue",
+    "Balmes Hidalgo Jr.",
+    "FELIPE VIDAL SANTIAGO",
+    "RYBAT",
+    "AERONAUT",
+    "AETARGET",
+    "REDTOP"
+  ],
+  "significance": "While the documents do not directly link the Immigration and Naturalization Service to the JFK assassination, their interactions with the CIA and individuals involved in covert operations suggest a peripheral role in the broader intelligence landscape of the time. The INS's potential access to information and individuals relevant to national security could have indirectly touched upon matters related to the assassination, though this is not explicitly stated in the provided documents.",
+  "document_ids": [
+    "104-10113-10244",
+    "104-10225-10009",
+    "104-10250-10199",
+    "104-10221-10222"
+  ]
+}

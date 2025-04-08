@@ -1,0 +1,18 @@
+{
+  "entity_name": "HUMINT",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents provided offer glimpses into HUMINT (Human Intelligence) activities, primarily within the context of CIA operations. HUMINT refers to intelligence gathered from human sources, and these documents illustrate its application in various scenarios. One document describes the organizational structure of JMWAVE, a CIA station, highlighting its operational branches. Another telegram reports observations of truck traffic and tube-like objects entering the Torrens base in Cuba, relying on information from human sources. A cable lists station contacts and assets in a \"no contact\" status, indicating the management and challenges associated with maintaining human sources. While these documents don't directly link HUMINT to the JFK assassination, they demonstrate the CIA's reliance on human intelligence gathering in its operations, particularly concerning Cuba, which was a focal point during the Cold War and a region of interest in the context of the assassination.",
+  "key_connections": [
+    "JMWAVE",
+    "CIA",
+    "Cuba",
+    "Torrens base"
+  ],
+  "significance": "While the provided documents do not directly link HUMINT to the JFK assassination, they highlight the CIA's reliance on human intelligence gathering in its operations, particularly concerning Cuba, which was a focal point during the Cold War and a region of interest in the context of the assassination. The documents illustrate the type of information being gathered and the challenges in managing human sources.",
+  "document_ids": [
+    "104-10301-10008",
+    "104-10076-10372",
+    "104-10326-10054"
+  ]
+}

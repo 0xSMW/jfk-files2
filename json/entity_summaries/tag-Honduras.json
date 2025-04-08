@@ -1,0 +1,21 @@
+{
+  "entity_name": "Honduras",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents indicate Honduras's involvement in several contexts during the early to mid-1960s. One document mentions US efforts to counter Cuban subversion in Latin America, implying Honduras was a region of concern. Another document references a Honduran immigration chief possibly connected to contraband and narcotics trafficking. A third document lists Latin American public figures, potentially including Hondurans, who signed an appeal for a conference in Mexico. Finally, a classified message details a briefing between LANGOSCH and Col. Oswaldo Lopez of Honduras, regarding DGI operations and individuals of interest, with Lopez expressing concerns about security and competence within his government. Overall, Honduras appears as a country of interest due to its geographical location, potential involvement in subversive activities, and internal security concerns.",
+  "key_connections": [
+    "Cuba",
+    "Maria Paula Souza Freitas",
+    "Miquel Russo",
+    "Col. Oswaldo Lopez",
+    "LANGOSCH",
+    "DGI"
+  ],
+  "significance": "Honduras's significance in the JFK context is indirect. The documents suggest it was a region of interest concerning Cuban subversion and potentially a transit point for illicit activities. The connection to DGI operations and security concerns within the Honduran government, as revealed in the briefing between LANGOSCH and Col. Oswaldo Lopez, could be relevant in understanding the broader geopolitical landscape of the time, but there is no direct link to the JFK assassination in these documents.",
+  "document_ids": [
+    "198-10009-10098",
+    "104-10057-10096",
+    "104-10070-10272",
+    "104-10183-10267"
+  ]
+}

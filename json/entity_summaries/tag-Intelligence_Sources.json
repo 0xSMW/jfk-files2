@@ -1,0 +1,23 @@
+{
+  "entity_name": "Intelligence Sources",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents highlight the importance of protecting intelligence sources, particularly human sources, and classified information related to foreign intelligence and security services. The CIA is concerned about revealing the identities of human intelligence sources in the JFK Collection and proposes substitutions to protect them. Guidelines are established for providing information to congressional oversight committees while safeguarding classified information and intelligence sources. A cable mentions individuals with code names, indicating the use of such identifiers to protect the identities of intelligence sources. The documents collectively emphasize the need to maintain the secrecy of intelligence sources and methods, reflecting the sensitive nature of intelligence operations and the potential risks to individuals involved.",
+  "key_connections": [
+    "CIA",
+    "Assassination Records Review Board (ARRB)",
+    "House Appropriations Committee",
+    "JMWAVE (Miami)",
+    "ICEN A",
+    "IDER B",
+    "LDEN C",
+    "LUEN D",
+    "IDEN E"
+  ],
+  "significance": "In the JFK assassination context, protecting intelligence sources is crucial to avoid compromising ongoing or future intelligence operations and to safeguard the individuals who provide information. The documents suggest a concern that revealing the identities of these sources could have negative repercussions, potentially endangering their lives or hindering future intelligence gathering efforts. The use of code names and the emphasis on security protocols underscore the sensitivity surrounding intelligence activities related to the assassination investigation.",
+  "document_ids": [
+    "104-10330-10070",
+    "104-10400-10316",
+    "104-10075-10042"
+  ]
+}

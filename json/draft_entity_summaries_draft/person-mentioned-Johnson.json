@@ -1,0 +1,32 @@
+{
+  "entity_name": "Johnson",
+  "entity_type": "person-mentioned",
+  "document_count": 14,
+  "summary": "The documents mention \"Johnson\" in various contexts, primarily related to Operation Mongoose, activities against Cuba, and discussions within the Vietnam Task Force. Johnson appears in meeting summaries, memoranda, and index cards summarizing these activities. The documents suggest Johnson was involved in high-level discussions and decision-making processes related to covert operations and foreign policy during the early 1960s. One document mentions a threat against the 'Johnson gang,' indicating a level of notoriety or opposition. The documents span from 1961 to 1987, with a concentration in the 1975 period due to investigations into Operation Mongoose and assassination plots.",
+  "key_connections": [
+    "Lansdale",
+    "Harvey",
+    "Cheever",
+    "Rostow",
+    "Diem",
+    "Castro",
+    "Lumumba"
+  ],
+  "significance": "The significance of \"Johnson\" in the JFK assassination context is indirect but potentially relevant. The documents highlight Johnson's involvement in Operation Mongoose, which included covert actions against Cuba and alleged assassination plots against Fidel Castro. While not directly linked to the JFK assassination, these activities provide context for the political climate and potential motivations of various actors during that period. The reference to a threat against the 'Johnson gang' also suggests a level of political tension and opposition.",
+  "document_ids": [
+    "157-10005-10236",
+    "157-10011-10000",
+    "157-10008-10241",
+    "176-10036-10073",
+    "104-10306-10003",
+    "124-10369-10022",
+    "157-10011-10010",
+    "157-10011-10006",
+    "180-10145-10280",
+    "157-10011-10007",
+    "104-10324-10002",
+    "157-10011-10009",
+    "157-10011-10003",
+    "157-10014-10151"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "entity_name": "Visa",
+  "entity_type": "tag",
+  "document_count": 10,
+  "summary": "The documents highlight the use of visas, both genuine and forged, in various intelligence operations and in connection to individuals of interest. Several documents mention the acquisition or denial of visas for individuals like Max Lesnick, Ivan Gavrilevich Alferov, and Lee Harvey Oswald. The documents also reveal instances where the CIA sought to obtain visas through unconventional channels, including using high-level contacts or creating forged documents for agents like ANOTIN-117 and Miguel Angel DIAZ Isalgué. The documents suggest that visas were a crucial tool for facilitating travel and movement of individuals involved in intelligence activities, and the process of obtaining or being denied a visa could be a significant event in the context of intelligence operations.",
+  "key_connections": [
+    "Max Lesnick",
+    "Ivan Gavrilevich Alferov",
+    "Lee Harvey Oswald",
+    "ANOTIN-117",
+    "Miguel Angel DIAZ Isalgué",
+    "Cuban Consulate (Merida, Mexico)",
+    "Valeriy Vladimirovich Kostikov",
+    "AMBANG-1"
+  ],
+  "significance": "In the JFK assassination context, visas are significant because they relate to Lee Harvey Oswald's attempts to travel to the Soviet Union via Cuba. The documents indicate that Oswald requested a transit visa to the USSR from the Cuban Consulate in Mexico, but it was never granted. This detail is important for understanding Oswald's movements and intentions leading up to the assassination. Additionally, the broader context of visa procurement and manipulation by intelligence agencies highlights the clandestine activities surrounding individuals of interest during this period.",
+  "document_ids": [
+    "104-10173-10170",
+    "104-10162-10014",
+    "180-10110-10100",
+    "124-10239-10171",
+    "104-10113-10254",
+    "104-10113-10258",
+    "144-10001-10168",
+    "124-10291-10123",
+    "104-10179-10143",
+    "104-10012-10022"
+  ]
+}

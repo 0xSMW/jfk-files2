@@ -1,0 +1,21 @@
+{
+  "entity_name": "Overseas Assignment",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents reference 'Overseas Assignment' in the context of personnel actions related to CIA officers. These assignments appear to be a routine part of operational duties, involving relocation to various international locations. The documents include a temporary suspension of a reinvestigation due to an individual's overseas assignment (Boris Dimitri Tarasoff), and requests for Permanent Change of Station (PCS) overseas evaluations for Operations Officers (Joseph S. Piccolo and Calvin W. Hicks). These evaluations are part of the process for reassigning personnel to different overseas posts, such as Managua, Nicaragua, or La Paz, Bolivia. The documents highlight the administrative processes involved in managing personnel deployed internationally.",
+  "key_connections": [
+    "Boris Dimitri Tarasoff",
+    "Joseph S. Piccolo",
+    "Calvin W. Hicks",
+    "Managua, Nicaragua",
+    "La Paz, Bolivia",
+    "JMCOBRA",
+    "Clearance Branch"
+  ],
+  "significance": "In the context of JFK assassination related documents, 'Overseas Assignment' primarily represents a logistical and administrative aspect of managing CIA personnel involved in various operations. While not directly linked to the assassination itself in these documents, it provides context for understanding the movement and deployment of individuals who may have been involved in related events or investigations. The significance lies in understanding the operational environment and personnel management practices of the CIA during the relevant period.",
+  "document_ids": [
+    "104-10130-10305",
+    "104-10129-10027",
+    "104-10250-10035"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "entity_name": "Director of Central Intelligence",
+  "entity_type": "recipient",
+  "document_count": 11,
+  "summary": "The Director of Central Intelligence (DCI) appears as a key recipient of information and directives within the CIA, particularly concerning sensitive matters related to Cuba, the JFK assassination, and interactions with international intelligence agencies. The DCI receives memoranda, letters, and personnel records, indicating a central role in overseeing CIA operations and intelligence assessments. The documents reveal the DCI's involvement in operational planning against Cuba, managing information related to Yuriy Nosenko and the JFK assassination records, and coordinating with foreign intelligence services like the Australian Security Intelligence Organization (ASIO). The DCI's office is a focal point for decisions regarding declassification of documents and responses to inquiries from organizations like the House Select Committee on Assassinations (HSCA).",
+  "key_connections": [
+    "Sir Charles Spry (ASIO)",
+    "William K. Harvey",
+    "Birch D. O'Neal",
+    "Fidel Castro",
+    "Richard Nixon",
+    "Yuriy Nosenko",
+    "James Earl Ray",
+    "FBI",
+    "House Select Committee on Assassinations (HSCA)",
+    "William H. Webster"
+  ],
+  "significance": "The Director of Central Intelligence's significance in the JFK context lies in their oversight of CIA activities and information related to the assassination. The documents suggest the DCI was involved in managing information about potential connections or investigations related to the assassination, including the Yuriy Nosenko case and interactions with the FBI regarding James Earl Ray. The DCI's role in deciding whether to declassify Warren Commission documents also highlights their influence on the availability of information related to the assassination.",
+  "document_ids": [
+    "104-10320-10038",
+    "104-10301-10004",
+    "104-10193-10076",
+    "104-10291-10014",
+    "104-10308-10208",
+    "104-10332-10009",
+    "104-10322-10056",
+    "104-10408-10415",
+    "104-10012-10078",
+    "104-10307-10024",
+    "104-10095-10276"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "entity_name": "Wiretaps",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents reference wiretaps in various contexts related to CIA activities. One document mentions CIA's wiretapping activities in Mexico City during the JFK assassination timeframe, specifically a Washington Post article revealing these activities. Another document discusses Robert Maheu's testimony regarding his involvement in wiretapping Aristotle Onassis as part of CIA projects. A memorandum summarizes information obtained from George Brewer regarding the CIA's Washington Field Office activities, including technical operations and surveillance operations. Lastly, a memorandum discusses coordinating responses to the Senate Committee regarding access to information, with a focus on protecting sensitive sources and methods, which could potentially include information related to wiretaps.",
+  "key_connections": [
+    "CIA",
+    "Mexico City",
+    "Robert Maheu",
+    "Aristotle Onassis",
+    "George Brewer",
+    "Washington Field Office",
+    "Senate Committee"
+  ],
+  "significance": "The significance of wiretaps in the JFK context lies in the potential for uncovering information related to the assassination through surveillance activities conducted by the CIA, particularly in Mexico City. The documents suggest that wiretapping was a tool used by the CIA for various purposes, including intelligence gathering and potentially influencing foreign leaders. The secrecy surrounding these activities and the efforts to protect sensitive sources and methods indicate the importance of wiretaps in the broader context of intelligence operations during this period.",
+  "document_ids": [
+    "157-10011-10066",
+    "104-10326-10068",
+    "157-10011-10048",
+    "124-10276-10400 (c06716411)"
+  ]
+}

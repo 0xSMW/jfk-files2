@@ -1,0 +1,18 @@
+{
+  "entity_name": "The Attorney General",
+  "entity_type": "recipient",
+  "document_count": 3,
+  "summary": "Based on the provided documents, the Attorney General is mentioned as the recipient of information regarding the FBI's response to the U.S. Senate Select Committee on Intelligence Activities (SSC). The documents detail the FBI's efforts to provide materials requested by the SSC, specifically concerning Martin Luther King, Jr., and the Southern Christian Leadership Conference (SCLC). The Attorney General's role appears to be one of oversight or awareness regarding the FBI's interactions with the Senate Committee. The documents do not provide specific details about the Attorney General's direct involvement or actions, but rather indicate that they were kept informed about the FBI's responses to the SSC's requests.",
+  "key_connections": [
+    "U. S. SENATE SELECT COMMITTEE ON INTELLIGENCE ACTIVITIES (SSC)",
+    "FBI",
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference (SCLC)"
+  ],
+  "significance": "The Attorney General's significance in the JFK context, based solely on these documents, is indirect. The documents focus on the FBI's response to the SSC's requests for information related to Martin Luther King, Jr., and the SCLC. The Attorney General's role appears to be that of an informed party regarding the FBI's activities and responses to the Senate Committee, rather than a direct actor in events related to the JFK assassination. Without additional context, it's difficult to ascertain a more specific significance.",
+  "document_ids": [
+    "124-10264-10206_multirif",
+    "124-10264-10208_multirif",
+    "124-10264-10209_multirif"
+  ]
+}

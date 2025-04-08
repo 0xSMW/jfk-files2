@@ -1,0 +1,41 @@
+{
+  "entity_name": "Soviet Embassy",
+  "entity_type": "tag",
+  "document_count": 19,
+  "summary": "The Soviet Embassy appears in numerous CIA documents primarily in the context of surveillance operations, intelligence gathering, and investigations related to individuals of interest. These documents reveal that the CIA monitored the Soviet Embassy in Mexico City and Buenos Aires, among other locations, through projects like LIENVOY and KDFACTOR, which involved telephone intercepts and visual surveillance. The embassy's role is significant due to its connection to Lee Harvey Oswald's visits in Mexico City prior to the JFK assassination, prompting investigations into his contacts and motives. The documents also mention Soviet officials and employees, such as Ivan Gavrilovich Alferov, Roman Fedorovich Dedkov, Valeriy Vladimirovich Kostikov, Valentin Sergeyevich Loginov, and Yuriy Ivanovich Moskalev, who were either stationed at the embassy or had dealings with it, leading to CIA scrutiny. The timeline of involvement spans from the early 1960s through the 1970s, with a focus on the period immediately before and after the assassination. A notable pattern across the documents is the CIA's consistent effort to identify and monitor individuals visiting or working at the Soviet Embassy, particularly in relation to potential intelligence activities and connections to Lee Harvey Oswald.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Cuban Embassy",
+    "CIA",
+    "KGB",
+    "LIENVOY Project",
+    "KDFACTOR Project",
+    "Ivan Gavrilovich Alferov",
+    "Roman Fedorovich Dedkov",
+    "Valeriy Vladimirovich Kostikov",
+    "Valentin Sergeyevich Loginov",
+    "Yuriy Ivanovich Moskalev"
+  ],
+  "significance": "The Soviet Embassy's significance in the JFK context stems from Lee Harvey Oswald's visits to the embassy in Mexico City weeks before the assassination. These visits raised suspicions about Oswald's motives and potential connections to Soviet intelligence, leading to extensive CIA investigations and surveillance efforts. The CIA's monitoring of the embassy and its personnel aimed to uncover any possible Soviet involvement in the assassination or any prior knowledge of Oswald's intentions. The existence of taped telephone conversations between Oswald and the embassy, and the handling of this information by the CIA, further underscore the embassy's importance in the JFK assassination narrative.",
+  "document_ids": [
+    "104-10065-10028",
+    "104-10162-10014",
+    "180-10110-10100",
+    "104-10413-10057",
+    "180-10143-10113",
+    "104-10006-10247",
+    "124-90138-10073",
+    "104-10215-10126",
+    "104-10428-10012",
+    "180-10145-10239",
+    "104-10187-10030",
+    "180-10110-10484",
+    "104-10072-10243",
+    "157-10004-10144",
+    "104-10413-10306",
+    "104-10177-10224",
+    "144-10001-10213",
+    "104-10173-10104",
+    "104-10187-10014"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "entity_name": "Robert F. Kennedy",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Robert F. Kennedy is mentioned in the context of CIA activities related to Cuba and anti-Castro operations. The documents suggest his involvement, or at least knowledge, of sensitive operations such as Operation Mongoose and potential assassination plots against Fidel Castro. He appears in discussions related to US plans for Cuba, as relayed through conversations involving individuals like Robert Kleberg and Vice-President Lyndon B. Johnson. The documents also reference the Kennedy administration's interactions with individuals involved in the Bay of Pigs invasion planning. While the specific timeline of his involvement isn't explicitly detailed, the documents span from the early 1960s to the mid-1970s, indicating a sustained period of relevance in these matters.",
+  "key_connections": [
+    "Lyndon B. Johnson",
+    "Fidel Castro",
+    "William Harvey",
+    "Edward Lansdale",
+    "Manuel Artime",
+    "John F. Kennedy"
+  ],
+  "significance": "Robert F. Kennedy's significance in the JFK assassination context lies in his potential knowledge and oversight of covert operations against Cuba, including those that may have involved assassination attempts. His role as Attorney General during this period places him in a position of authority and responsibility regarding these activities, making him a key figure in understanding the full scope of US actions against Cuba and their potential implications.",
+  "document_ids": [
+    "176-10030-10085",
+    "157-10014-10109",
+    "176-10030-10168",
+    "124-10326-10191",
+    "104-10303-10007",
+    "104-10110-10245",
+    "178-10002-10215"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "entity_name": "Cornwell",
+  "entity_type": "person-mentioned",
+  "document_count": 1,
+  "summary": "Cornwell is mentioned in one document (144-10001-10249) related to a visit by Julia Wetzel (NSA) to the House Select Committee on Assassinations (HSCA). Cornwell, along with Klein, authored a report regarding their interview with Sgt. Nicholas B. Stevenson, USAF, concerning a facility able to collect the Lisbon-Tangier link. The document indicates that Wetzel ensured the classification of this report.",
+  "key_connections": [
+    "Klein",
+    "Julia Wetzel",
+    "Sgt. Nicholas B. Stevenson",
+    "House Select Committee on Assassinations",
+    "Lisbon-Tangier link"
+  ],
+  "significance": "Cornwell's significance lies in their involvement in interviewing Sgt. Nicholas B. Stevenson and co-authoring a report about the Lisbon-Tangier link, a report that was later reviewed and classified by the NSA. The specific role Cornwell played in the JFK assassination context is not explicitly detailed, but their work was relevant enough to be reviewed by the HSCA.",
+  "document_ids": [
+    "144-10001-10175",
+    "144-10001-10148",
+    "104-10061-10207",
+    "104-10413-10306",
+    "144-10001-10249"
+  ]
+}

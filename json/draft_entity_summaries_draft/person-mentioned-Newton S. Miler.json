@@ -1,0 +1,18 @@
+{
+  "entity_name": "Newton S. Miler",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Newton S. Miler was a consultant whose contract with an unspecified organization (likely the CIA, given the document context) was terminated. Documents suggest scrutiny of former Agency employees by the House Select Committee on Assassinations (HSCA) in 1978. The documents include personnel records from 1975 and journal addenda from 1978 detailing liaison activities between the CIA and House and Senate committees regarding the HSCA investigation. These addenda discuss concerns about potential exposure of sensitive CIA operations and inquiries related to former Agency employees, possibly including Miler.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "CIA",
+    "Office of Legislative Counsel",
+    "House and Senate committees"
+  ],
+  "significance": "Newton S. Miler's significance in the JFK assassination context stems from his status as a former consultant, potentially for the CIA, and the HSCA's investigation into former Agency employees. The documents suggest concerns within the CIA about the HSCA's inquiries and the potential exposure of sensitive information related to individuals like Miler.",
+  "document_ids": [
+    "104-10224-10007",
+    "104-10145-10262",
+    "104-10147-10202"
+  ]
+}

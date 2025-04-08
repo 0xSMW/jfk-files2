@@ -1,0 +1,19 @@
+{
+  "entity_name": "Dallas",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "Dallas is mentioned in the documents primarily as a location of interest in connection to individuals and events related to the JFK assassination. One document refers to questionable individuals in the Dallas and Fort Worth areas. Another mentions Jerzy Plebanski's travel to Dallas for a physics symposium. The FBI Dallas field office is also mentioned in connection to the assassination of President John F. Kennedy. Overall, Dallas appears as a place where individuals of interest were located or traveled to, prompting investigation and information gathering in the context of the JFK assassination.",
+  "key_connections": [
+    "Charles [REDACTED]",
+    "Jerzy Plebanski",
+    "FBI",
+    "John F. Kennedy"
+  ],
+  "significance": "Dallas is significant as a location associated with individuals and events relevant to the JFK assassination, prompting investigations and information gathering by agencies like the FBI.",
+  "document_ids": [
+    "104-10241-10250",
+    "104-10097-10170",
+    "180-10144-10288",
+    "124-10150-10104"
+  ]
+}

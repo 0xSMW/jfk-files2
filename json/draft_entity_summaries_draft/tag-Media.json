@@ -1,0 +1,22 @@
+{
+  "entity_name": "Media",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents highlight the media's role in both disseminating and potentially manipulating information related to covert operations and the JFK assassination. The CIA was concerned about unauthorized leaks to the media regarding sensitive operations, indicating a desire to control the narrative. The Senate Select Committee investigated the covert use of media by the CIA, including the distribution of unattributed publications and the operational use of American media organizations. In the context of AMLASH/1, the individual refused media interviews, suggesting a desire to control his public image or protect sensitive information. Furthermore, a UPI reporter was preparing a story about Lee Harvey Oswald's alleged CIA recruitment in Japan, prompting inquiries about declassification of Kennedy assassination papers. Overall, the media is portrayed as a potential conduit for both controlled and uncontrolled information, making it a significant factor in shaping public perception and potentially exposing covert activities.",
+  "key_connections": [
+    "CIA",
+    "Lee Harvey Oswald",
+    "AMLASH/1",
+    "Senate Select Committee",
+    "Kennedy Assassination",
+    "UPI"
+  ],
+  "significance": "The media's significance in the JFK context lies in its potential to uncover and disseminate information related to the assassination, as well as its potential for being used as a tool for covert operations and propaganda. The documents suggest concerns about media leaks and the need to manage the narrative surrounding sensitive events, including the assassination and related investigations.",
+  "document_ids": [
+    "104-10101-10227",
+    "157-10014-10125",
+    "104-10236-10075",
+    "104-10216-10002",
+    "104-10326-10045"
+  ]
+}

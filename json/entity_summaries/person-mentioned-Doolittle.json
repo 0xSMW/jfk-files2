@@ -1,0 +1,28 @@
+{
+  "entity_name": "Doolittle",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "summary": "Based on the provided documents, \"Doolittle\" refers to a person involved with the President's Foreign Intelligence Advisory Board (PFIAB). The documents span from late 1962 to late 1964 and detail the agendas and minutes of PFIAB meetings. These meetings covered a wide range of intelligence activities, including anti-Castro activities, covert operations (such as MONGOOSE), intelligence on Cuba, and broader global intelligence matters. Doolittle's specific role within the PFIAB is not explicitly stated, but their presence at these meetings suggests involvement in advising on or overseeing intelligence matters. The documents indicate a focus on Cuba, Soviet activities, and various global hotspots during this period.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Cuba",
+    "Soviet Union",
+    "John McCone",
+    "McGeorge Bundy"
+  ],
+  "significance": "The significance of Doolittle in the JFK context, based on these documents, lies in their association with the PFIAB during a period of intense focus on Cuba and covert operations. While the documents do not directly link Doolittle to the JFK assassination, the PFIAB's oversight of intelligence activities related to Cuba, particularly anti-Castro efforts, places Doolittle within the broader context of the political and intelligence landscape surrounding the assassination. The documents suggest Doolittle was involved in high-level discussions and decision-making related to intelligence matters, including those concerning Cuba.",
+  "document_ids": [
+    "178-10004-10054",
+    "206-10001-10012",
+    "206-10001-10004",
+    "206-10001-10008",
+    "104-10302-10000",
+    "206-10001-10009",
+    "206-10001-10005",
+    "206-10001-10006",
+    "206-10001-10010",
+    "206-10001-10007",
+    "206-10001-10000",
+    "206-10001-10001"
+  ]
+}

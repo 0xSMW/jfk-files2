@@ -1,0 +1,25 @@
+{
+  "entity_name": "Distribution List",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "Distribution lists within the CIA context, as evidenced by the provided documents, serve as crucial tools for disseminating information to various field offices, headquarters divisions, and stations. These lists, exemplified by documents like \"Field and HQS Distribution - BD #5847,\" outline the specific recipients of particular messages or documents, ensuring that relevant parties receive timely updates and intelligence. The \"Teletype Routing List\" further illustrates this function, indicating distribution points for messages. A request for photograph distribution highlights the practical application of these lists in directing specific materials to relevant stations. While the documents do not explicitly link distribution lists to the JFK assassination, their role in information dissemination within the CIA suggests their potential importance in understanding how information related to the assassination might have been circulated and managed within the agency.",
+  "key_connections": [
+    "CIA field offices",
+    "CIA headquarters divisions",
+    "CIA stations",
+    "BD #5847",
+    "Richard Ober (CI/OP)",
+    "C/NE",
+    "C/FE",
+    "C/WH",
+    "C/EUR",
+    "DIR 92664"
+  ],
+  "significance": "While the provided documents do not directly link distribution lists to the JFK assassination, their function in disseminating information within the CIA suggests they could be relevant in understanding how information related to the assassination was circulated and managed within the agency. The lists themselves do not provide direct evidence, but understanding their use could be important in tracing the flow of information.",
+  "document_ids": [
+    "104-10418-10439",
+    "104-10009-10021",
+    "104-10178-10137",
+    "124-10179-10221_multirif"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "entity_name": "Interviews",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The documents highlight interviews conducted by various entities, including the House Select Committee on Assassinations (HSCA) and internal CIA investigations, concerning individuals connected to the JFK assassination and related CIA activities. These interviews cover a range of topics, from CIA personnel information and cover procedures to security measures and potential connections to Lee Harvey Oswald. The interviews are crucial for gathering information, assessing security protocols, and investigating potential conspiracies. They involve current and former CIA employees, individuals with knowledge of CIA operations, and those potentially linked to Oswald. The documents span from the 1960s to the late 1970s, with some materials compiled later, indicating ongoing scrutiny and investigation into the events surrounding the assassination.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "CIA",
+    "Lee Harvey Oswald",
+    "Dennis A. Flynn",
+    "June Cobb Sharp",
+    "Henry P. Lopez",
+    "Rockefeller Commission"
+  ],
+  "significance": "Interviews are a primary method for gathering information and testimony related to the JFK assassination. They provide insights into the knowledge, activities, and potential involvement of individuals and organizations, particularly the CIA, in events surrounding the assassination. The interviews help to uncover potential security lapses, cover-ups, and conspiracies, contributing to a deeper understanding of the circumstances surrounding JFK's death.",
+  "document_ids": [
+    "104-10061-10207",
+    "104-10062-10005",
+    "180-10143-10062",
+    "180-10140-10152",
+    "180-10096-10401",
+    "180-10141-10015",
+    "157-10008-10234"
+  ]
+}

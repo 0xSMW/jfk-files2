@@ -1,0 +1,29 @@
+{
+  "entity_name": "NOFORN",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "NOFORN is a security classification marking, indicating that the information is not releasable to foreign nationals. In the provided documents, the presence of the NOFORN tag suggests that the information contained within was considered highly sensitive and restricted to U.S. eyes only. The documents cover a range of topics, including potential coups in South Vietnam, Cuban exile activities, and internal Cuban affairs. The tag's presence doesn't directly implicate NOFORN in the JFK assassination but highlights the classified nature of information surrounding related events and geopolitical situations of the time. The documents span from 1960 to 1963, indicating a consistent need for restricted access to this information during that period.",
+  "key_connections": [
+    "South Vietnam",
+    "Cuba",
+    "Cuban exiles",
+    "President Diem",
+    "Manolo Ray",
+    "People's Revolutionary Movement (MRP)",
+    "Alfonso Dibildox Torres",
+    "Jose Xavier CORTES Hernandez",
+    "Fidel Castro",
+    "John F. Kennedy"
+  ],
+  "significance": "The NOFORN tag itself doesn't have direct significance to the JFK assassination. However, its presence on documents related to Cuba, Vietnam, and related intelligence matters underscores the highly classified and sensitive nature of information surrounding geopolitical events and actors potentially relevant to understanding the broader context of the assassination. It indicates that access to these documents was strictly controlled, suggesting the information was considered vital to national security.",
+  "document_ids": [
+    "176-10036-10086",
+    "104-10098-10264",
+    "104-10074-10413",
+    "104-10302-10022",
+    "104-10192-10284",
+    "104-10179-10122",
+    "176-10036-10085",
+    "176-10037-10452"
+  ]
+}

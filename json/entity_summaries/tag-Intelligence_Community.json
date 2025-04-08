@@ -1,0 +1,25 @@
+{
+  "entity_name": "Intelligence Community",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The documents highlight the Intelligence Community's activities and oversight during the Cold War era, with a focus on congressional reviews, internal organization, and external relations. Key themes include managing information disclosure during inquiries, coordinating intelligence efforts across agencies like the CIA and FBI, and addressing concerns about domestic surveillance and counterintelligence. The President's Foreign Intelligence Advisory Board (PFIAB) played a role in reviewing intelligence matters, while internal working groups focused on improving the CIA's organization and activities. Specific concerns arose regarding warrantless electronic surveillances, surreptitious entries, and the handling of Soviet defectors. The documents also reveal efforts to manage media coverage of the intelligence community and protect sensitive information.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Senate Select Committee (SSC)",
+    "Rockefeller Commission",
+    "Congress",
+    "Newsweek"
+  ],
+  "significance": "While the documents do not directly address the JFK assassination, they provide context on the operational environment and oversight mechanisms of the Intelligence Community during the period surrounding the assassination. The documents highlight the intelligence community's focus on counterintelligence, domestic surveillance, and managing information, which are relevant to understanding the broader context in which the assassination occurred and the subsequent investigations.",
+  "document_ids": [
+    "124-10271-10000",
+    "206-10001-10008",
+    "104-10118-10427",
+    "178-10004-10115",
+    "124-10274-10029",
+    "206-10001-10007",
+    "104-10119-10365"
+  ]
+}

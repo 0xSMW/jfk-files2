@@ -1,0 +1,26 @@
+{
+  "entity_name": "Angleton",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "James Angleton is a key figure within the CIA, particularly in the context of counterintelligence. The documents suggest his involvement in sensitive operations and investigations. One document mentions a report submitted by Angleton to the Rockefeller Commission, critiquing the CIA's counterintelligence function, especially concerning Soviet defectors and penetrations. Another document references the CIA's interrogation of Tepedino regarding the AMLASH operation and Rolando Cubela's (AMLASH) connections, as well as the handling of AMLASH's name in the context of the JFK assassination investigation. While not directly implicated in the assassination itself, Angleton's role in counterintelligence and his awareness of operations involving individuals like AMLASH, who had connections to the assassination investigation, make him a figure of interest.",
+  "key_connections": [
+    "Rockefeller Commission",
+    "CIA",
+    "Soviet defectors",
+    "FBI",
+    "Tepedino",
+    "AMLASH (Rolando Cubela)",
+    "JFK assassination investigation",
+    "Howard Osborn",
+    "Helms",
+    "SR POINTER",
+    "West Pointer",
+    "Customs"
+  ],
+  "significance": "Angleton's significance in the JFK context stems from his position within the CIA's counterintelligence operations and his potential knowledge of individuals and operations that intersected with the JFK assassination investigation, particularly the AMLASH operation. His report to the Rockefeller Commission and his involvement in handling information related to AMLASH's connections suggest a proximity to information relevant to the assassination, even if he was not directly involved.",
+  "document_ids": [
+    "178-10004-10115",
+    "157-10008-10253",
+    "157-10002-10150"
+  ]
+}

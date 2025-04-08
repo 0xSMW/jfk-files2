@@ -1,0 +1,18 @@
+{
+  "entity_name": "White House",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents indicate the White House's involvement in matters related to intelligence operations and investigations surrounding the JFK assassination. One document mentions contacts within the White House, suggesting potential connections or awareness of certain activities. Another document describes a meeting between White House officials and intelligence agencies to coordinate responses to the Senate Committee regarding access to information, indicating an effort to manage the flow of information and protect sensitive sources and methods. The timeline spans from March to July 1975, reflecting activities during the period of investigations and inquiries into intelligence matters and the JFK assassination. A notable pattern is the White House's role in coordinating and managing information related to sensitive intelligence matters and investigations.",
+  "key_connections": [
+    "L. Fletcher Prouty",
+    "William K. Harvey",
+    "Senate Committee",
+    "Intelligence Agencies"
+  ],
+  "significance": "The White House's significance in the JFK context, based on these documents, lies in its role as a coordinating body for intelligence matters and its involvement in managing information related to investigations into the assassination. The documents suggest an effort to protect sensitive sources and methods, indicating a potential concern about the exposure of certain operations or individuals.",
+  "document_ids": [
+    "157-10011-10041",
+    "157-10002-10106",
+    "124-10276-10400 (c06716411)"
+  ]
+}

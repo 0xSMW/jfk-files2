@@ -1,0 +1,28 @@
+{
+  "entity_name": "Testimony",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents provided are transcripts of testimonies given before government committees investigating aspects related to the JFK assassination and CIA activities. These testimonies offer firsthand accounts and insights into various events and operations. Howard Osborn's testimony concerns CIA mail opening projects and the knowledge of higher-ups like Mr. Helms. Robert T. Shaw's testimony focuses on CIA activities in Mexico City in 1963 related to Lee Harvey Oswald and Cuban operations. Yuri Nosenko's testimony addresses Oswald's time in the Soviet Union and the KGB's alleged lack of interest in him. The testimonies are significant as they provide direct accounts and potentially conflicting information that the committees used to understand the events surrounding the assassination and related intelligence activities.",
+  "key_connections": [
+    "Howard J. Osborn",
+    "CIA",
+    "SR POINTER",
+    "West Pointer",
+    "Customs",
+    "Mr. Helms",
+    "Robert T. Shaw",
+    "House Select Committee on Assassinations (HSCA)",
+    "Lee Harvey Oswald",
+    "Mexico City",
+    "Cuban operations",
+    "Yuri Ivanovich Nosenko",
+    "Soviet Union",
+    "KGB"
+  ],
+  "significance": "Testimonies are crucial for understanding the context surrounding the JFK assassination, providing direct accounts from individuals involved in related events and intelligence operations. They offer insights into potential connections, motives, and failures that may have contributed to the assassination or its aftermath. The testimonies also highlight the CIA's activities and its interactions with individuals like Lee Harvey Oswald, both before and after the assassination.",
+  "document_ids": [
+    "157-10002-10150",
+    "180-10131-10329",
+    "180-10131-10324"
+  ]
+}

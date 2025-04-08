@@ -1,0 +1,40 @@
+{
+  "entity_name": "J. Edgar Hoover",
+  "entity_type": "person-mentioned",
+  "document_count": 15,
+  "summary": "J. Edgar Hoover was the Director of the FBI during the time period relevant to the JFK assassination and its aftermath. The documents suggest a complex relationship between Hoover, the FBI, and other intelligence agencies like the CIA. Hoover's role includes overseeing FBI investigations, intelligence gathering, and interactions with other agencies on matters of national security, including potential threats related to Cuba, Vietnam, and domestic dissidents. The documents also point to instances of both cooperation and conflict between the FBI and CIA under Hoover's leadership, particularly regarding counterintelligence efforts and information sharing. Some documents suggest Hoover's cautious approach to counterintelligence and potential disagreements with figures like Jim Angleton. There are also references to FBI involvement in security checks for government employees and the handling of information related to potential disloyalty. The documents also suggest that Hoover had conflicts with Edward P. Morgan.",
+  "key_connections": [
+    "President Johnson",
+    "William Harvey",
+    "Sam J. Papich",
+    "Jim Angleton",
+    "George Hoover Pratt",
+    "James Warren Smedley",
+    "CIA",
+    "Lee Harvey Oswald",
+    "Warren Commission",
+    "Samuel Adason Jaffe",
+    "Edward P. Morgan",
+    "William Zebulon Foster",
+    "Robert A. Maheu",
+    "Howard J. Osborn"
+  ],
+  "significance": "In the context of the JFK assassination, J. Edgar Hoover's significance lies in his role as the Director of the FBI, the primary law enforcement agency responsible for investigating potential threats and gathering intelligence. The documents suggest the FBI's involvement in monitoring individuals and groups of interest, including Lee Harvey Oswald. The Warren Commission also relied on the FBI for information and testimony. The extent to which the FBI under Hoover's leadership shared information with other agencies and the thoroughness of their investigations are key aspects of understanding the events surrounding the assassination.",
+  "document_ids": [
+    "104-10306-10018",
+    "157-10014-10109",
+    "124-10183-10277_multirif_redacted",
+    "157-10011-10093",
+    "124-10296-10130",
+    "124-10183-10279_multirif_redacted",
+    "157-10002-10152",
+    "180-10110-10484",
+    "104-10423-10337",
+    "124-10274-10044",
+    "104-10122-10307",
+    "104-10074-10007",
+    "104-10122-10141",
+    "124-10168-10040",
+    "157-10011-10078"
+  ]
+}

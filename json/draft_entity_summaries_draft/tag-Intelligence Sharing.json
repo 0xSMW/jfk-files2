@@ -1,0 +1,36 @@
+{
+  "entity_name": "Intelligence Sharing",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "The documents highlight various instances of intelligence sharing between different agencies, both domestic and international. These include the CIA and FBI sharing information on individuals of interest, such as Susan Heilig and Richard Cyril Frank, and their potential connections to Communist China. There are also examples of sharing information with foreign intelligence services, such as the British SIS, German intelligence, and French authorities, on topics ranging from anti-Castro activities to Cuban defectors and the release of sensitive documents related to the Warren Commission. The documents also reveal instances where agencies coordinate on matters of mutual interest, such as curbing Cuban subversion in Latin America and managing the release of foreign government information. The documents also show instances where the CIA and FBI had conflicts but also cooperated on sharing sensitive sources and technical data.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "British SIS",
+    "German Intelligence",
+    "French Authorities",
+    "Cuban Defectors",
+    "Anti-Castro Activities",
+    "Warren Commission",
+    "Interdepartmental Coordinating Committee of Cuban Affairs (ICCA)",
+    "MI-5",
+    "Bertrand Russell Peace Foundation",
+    "Susan Heilig",
+    "Richard Cyril Frank"
+  ],
+  "significance": "In the context of the JFK assassination, intelligence sharing is significant because it reveals the flow of information between different agencies and countries, potentially shedding light on what was known about individuals or groups who may have been involved. The documents related to James Garrison and the Bertrand Russell Peace Foundation indicate the monitoring of individuals investigating the assassination. The sharing of information with foreign intelligence services also suggests a broader network of surveillance and intelligence gathering that could have implications for understanding the events surrounding the assassination.",
+  "document_ids": [
+    "124-10212-10337",
+    "124-90158-10069",
+    "104-10330-10060",
+    "104-10187-10103",
+    "104-10326-10102",
+    "124-90037-10081",
+    "198-10008-10119",
+    "104-10061-10053",
+    "104-10172-10243",
+    "104-10185-10171",
+    "104-10104-10262",
+    "124-10325-10318"
+  ]
+}

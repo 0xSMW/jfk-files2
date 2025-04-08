@@ -1,0 +1,21 @@
+{
+  "entity_name": "Congressional Review",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Congressional Review, as evidenced by the documents, refers to the scrutiny and inquiries conducted by various congressional committees into intelligence activities, including those potentially related to the JFK assassination. These reviews involved managing information disclosure, coordinating responses among agencies like the FBI, CIA, and NSA, and establishing task forces to handle the workload. Key areas of interest included assassinations, covert actions (like the Phoenix program), and the CIA's coordination with other entities. The Senate Select Committee (SSC) played a significant role, inquiring about the Warren Commission and requesting information from agencies like the NSA regarding their involvement, such as reviewing exhibits for secret writing and providing information about Cuban military alerts after the assassination. The documents highlight a pattern of intelligence agencies preparing for and responding to these congressional inquiries, often focusing on controlling the narrative and managing sensitive information.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "NSA",
+    "Senate Select Committee (SSC)",
+    "Warren Commission",
+    "USIB Ad Hoc Coordinating Group",
+    "Phoenix program"
+  ],
+  "significance": "In the JFK assassination context, Congressional Review represents the efforts by Congress to investigate the intelligence community's activities and potential connections to the assassination. The inquiries into the Warren Commission and the focus on covert actions suggest a concern about the transparency and accountability of intelligence agencies during that period. The documents indicate that Congress sought to understand the extent of agency involvement and to assess whether any intelligence failures or actions contributed to the events surrounding the assassination.",
+  "document_ids": [
+    "124-10271-10000",
+    "124-10271-10299",
+    "144-10001-10212"
+  ]
+}

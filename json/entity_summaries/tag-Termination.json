@@ -1,0 +1,40 @@
+{
+  "entity_name": "Termination",
+  "entity_type": "tag",
+  "document_count": 14,
+  "summary": "The documents primarily relate to the termination of employment or contracts of individuals associated with various organizations, including the House Select Committee on Assassinations (HSCA) and the CIA. These terminations are documented through payroll records, personnel actions, contract details, and related correspondence. The reasons for termination vary, ranging from the end of a project or contract to resignation, administrative leave, or concerns about an individual's performance or suitability. A recurring theme is the protection of personal privacy, particularly Social Security numbers, in HSCA staff payroll records, leading to the postponement of their release. The documents span a timeline from the late 1940s to the late 1970s, with some later reviews and notifications in the 1990s.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "CIA",
+    "Patricia M. Orr",
+    "Burton A. Chardak",
+    "Bernard Barker",
+    "Edward G. Tichborn",
+    "Dominick K. Giangrasso",
+    "Stephen J. Fallis",
+    "Ann Furnald Taylor",
+    "Kenneth D. Klein",
+    "Joyce H. PINEINCH",
+    "Joan Talbert Thornell",
+    "Herman E. Kimsey",
+    "KDFACTOR Project",
+    "KDAFGHAN Project"
+  ],
+  "significance": "In the JFK assassination context, the 'Termination' tag highlights documents related to the employment history and departures of individuals connected to the HSCA, which investigated the assassination. Understanding the circumstances surrounding the termination of staff or contractors may provide insights into the inner workings of these organizations and potentially reveal information relevant to the assassination investigation itself. The documents also reveal details about individuals who may have been involved in related activities, such as surveillance operations, and their connections to the CIA.",
+  "document_ids": [
+    "180-10060-10494",
+    "180-10068-10322",
+    "104-10164-10000",
+    "104-10222-10032",
+    "180-10068-10355",
+    "180-10068-10312",
+    "180-10068-10345",
+    "180-10070-10163",
+    "104-10187-10009",
+    "180-10060-10459",
+    "104-10266-10026",
+    "104-10188-10012",
+    "180-10070-10164",
+    "104-10224-10004"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "entity_name": "Salary",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "The documents provided relate to the salaries of staff members working for the House Select Committee on Assassinations (HSCA) and, in one instance, an individual connected to operational advances. These documents include payroll records, authorization forms, and certification reports detailing salary adjustments, employment dates, and gross pay for various HSCA employees. The records span from 1976 to 1979, covering the period when the HSCA was actively investigating the JFK assassination. The documents highlight the financial aspects of staffing the committee and provide a record of the individuals involved in the investigation. One document also details bank account information for Edward G. Tichborn, including instructions for depositing salary payments.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Patricia M. Orr",
+    "Vivian L. McPherson",
+    "Robin David Lindley",
+    "Richard A. Sprague",
+    "Thomas Howarth",
+    "Edward G. Tichborn",
+    "Gene R. Johnson",
+    "Helen Whitney Watriss",
+    "Kenneth D. Klein"
+  ],
+  "significance": "In the context of the JFK assassination, 'Salary' as a tag is significant because it relates to the financial administration and staffing of the House Select Committee on Assassinations (HSCA). These records provide insight into the individuals employed by the committee, their roles, and the resources allocated to the investigation. While the documents themselves do not directly reveal details about the assassination, they offer a glimpse into the operational aspects of the HSCA and the individuals involved in the inquiry.",
+  "document_ids": [
+    "180-10125-10078",
+    "180-10060-10494",
+    "180-10060-10483",
+    "180-10060-10471",
+    "180-10070-10160",
+    "180-10060-10445",
+    "104-10174-10041",
+    "180-10060-10452",
+    "180-10070-10169",
+    "180-10060-10459",
+    "180-10125-10082"
+  ]
+}

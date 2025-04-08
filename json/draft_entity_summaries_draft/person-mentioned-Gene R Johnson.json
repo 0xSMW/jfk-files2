@@ -1,0 +1,18 @@
+{
+  "entity_name": "Gene R Johnson",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Gene R Johnson is identified as an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) based on multiple payroll and certification reports spanning from 1977 to 1978. The documents list Johnson's name, position, annual salary, and gross pay for various accounting periods. The consistent appearance of Johnson's name across these documents indicates their ongoing employment with the HSCA during the specified timeframe. However, the specific role or responsibilities of Gene R Johnson within the HSCA are not detailed in these documents.",
+  "key_connections": [
+    "Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "The significance of Gene R Johnson lies in their employment with the HSCA, the committee tasked with investigating the JFK assassination. While the documents do not specify Johnson's role, their presence on the payroll suggests they contributed to the committee's work, whether in an investigative, administrative, or support capacity.",
+  "document_ids": [
+    "180-10125-10081",
+    "180-10125-10107",
+    "180-10125-10096",
+    "180-10125-10079",
+    "180-10125-10086",
+    "180-10125-10094"
+  ]
+}

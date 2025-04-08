@@ -1,0 +1,13 @@
+{
+  "entity_name": "Frank",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, there is insufficient information to provide a comprehensive summary about \"Frank.\" The documents mention security clearances for JFK Assassination Records Review Board members, Robert Maheu's testimony regarding CIA projects, and the National Committee for a Free Europe. However, none of these summaries explicitly mention an individual named Frank or provide any context about their role, connections, or significance.",
+  "key_connections": [],
+  "significance": "Insufficient information to determine significance in the JFK context.",
+  "document_ids": [
+    "104-10333-10013",
+    "157-10011-10048",
+    "104-10225-10000"
+  ]
+}

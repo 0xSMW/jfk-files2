@@ -1,0 +1,28 @@
+{
+  "entity_name": "Passports",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents mention passports in various contexts related to individuals and their movements, particularly concerning Cuba and Guatemala. In one instance, the FBI investigated individuals possibly traveling to Cuba, checking their records and movements. Another document details the arrest and expulsion of ANUPAS-1 in Guatemala, who possessed multiple U.S. passports and Coxie propaganda. CIA projects in Mexico City involved passport renewals for agents. Additionally, a receipt acknowledges the transfer of authentication materials, including passports, for Ernesto Jesus GARCIA Guzman, noting the return of his Cuban documents. The recurring theme is the use of passports in international travel and intelligence operations, often linked to Cold War tensions and concerns about individuals' affiliations and movements.",
+  "key_connections": [
+    "Louis Henry Jones",
+    "Lenna Schweitzer Jones",
+    "Beth Michel Wolland",
+    "John Arthur Sweetman",
+    "Cuba",
+    "ANUPAS-1",
+    "Guatemala",
+    "Coxie propaganda",
+    "AQUATIC project",
+    "KDAFGHAN project",
+    "KDAFGHAN-1",
+    "KDAFGHAN-2",
+    "Ernesto Jesus GARCIA Guzman"
+  ],
+  "significance": "In the context of the JFK assassination, passports are significant as tools for international travel and potential cover for individuals involved in intelligence operations or activities related to the assassination. The documents suggest that passports were monitored and used in connection with individuals of interest during the Cold War, potentially including those who may have had connections to events surrounding the assassination.",
+  "document_ids": [
+    "124-10204-10297",
+    "104-10218-10097",
+    "104-10188-10015",
+    "104-10185-10209"
+  ]
+}

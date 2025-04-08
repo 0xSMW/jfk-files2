@@ -1,0 +1,27 @@
+{
+  "entity_name": "State Cover",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "State Cover refers to the practice of CIA employees operating under the guise of being State Department employees. The JFK Assassination Records Review Board (ARRB) was investigating the release of information pertaining to the CIA's use of State Cover, prompting concerns within the CIA about potential damage to operations, relationships with liaison services, and the security of station officers. The CIA was particularly concerned about the official recognition of this practice in Argentina and the potential exploitation by hostile intelligence services. The ARRB meetings discussed the release of CIA records related to the JFK assassination, including the status of the Warrenton Records Center, CIA's use of State Cover, Nosenko NBR records, and Cuban Revolutionary Council financial records. The CIA requested assessments from various stations (Moscow, Paris, Mexico City, and Buenos Aires) regarding the potential damage from releasing documents confirming the CIA's use of State Department cover.",
+  "key_connections": [
+    "CIA",
+    "JFK Assassination Records Review Board (ARRB)",
+    "State Department",
+    "Warrenton Records Center",
+    "Nosenko NBR records",
+    "Cuban Revolutionary Council (CRC)",
+    "Moscow Station",
+    "Paris Station",
+    "Mexico City Station",
+    "Buenos Aires Station"
+  ],
+  "significance": "In the JFK context, the CIA's use of State Cover is significant because the ARRB was investigating its use and considering the release of related documents. The CIA was concerned about the potential repercussions of this information becoming public, including damage to operations, relationships with liaison services, and the security of personnel. The documents suggest that the CIA was actively trying to manage the release of this information and assess the potential damage it could cause.",
+  "document_ids": [
+    "104-10326-10017",
+    "104-10331-10202",
+    "104-10331-10209",
+    "104-10331-10134",
+    "104-10331-10226",
+    "104-10326-10018"
+  ]
+}

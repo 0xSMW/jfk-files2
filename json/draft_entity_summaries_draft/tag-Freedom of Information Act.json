@@ -1,0 +1,25 @@
+{
+  "entity_name": "Freedom of Information Act",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The Freedom of Information Act (FOIA) is a law that grants the public access to information possessed by government agencies. In the context of the JFK assassination records, FOIA plays a significant role as it governs the release, declassification, and review of documents related to the assassination. The CIA, in particular, was involved in efforts to comply with FOIA requests and address concerns about potential leaks of sensitive information. The documents reveal that FOIA considerations influenced decisions regarding the sharing of information with Congressional committees, such as the House Select Committee on Assassinations (HSCA), particularly concerning potentially sensitive sources and methods. The timeline spans from the 1970s, with initial concerns about FOIA requests, to the 1990s, with the implementation of the Assassination Materials Disclosure Act of 1992, highlighting ongoing efforts to balance transparency with national security concerns.",
+  "key_connections": [
+    "CIA",
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Materials Disclosure Act of 1992",
+    "Privacy and Information Action Group (PIAG)",
+    "Senate Select Committee on Intelligence Activities",
+    "NITRUST",
+    "Vlaamse Militanten Orde (VMO)"
+  ],
+  "significance": "The Freedom of Information Act is significant in the JFK context because it directly impacts the availability of information related to the assassination. Concerns about FOIA requests and potential leaks influenced the CIA's decisions regarding information sharing with Congressional committees and the public, shaping the narrative and understanding of the events surrounding the assassination.",
+  "document_ids": [
+    "104-10337-10001",
+    "104-10222-10012",
+    "104-10106-10325",
+    "124-10271-10299",
+    "104-10066-10240",
+    "124-10271-10299_multirif",
+    "104-10065-10358"
+  ]
+}

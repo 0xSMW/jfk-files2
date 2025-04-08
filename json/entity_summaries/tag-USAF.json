@@ -1,0 +1,22 @@
+{
+  "entity_name": "USAF",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The documents indicate the USAF (United States Air Force) was involved in various activities, including investigations of personnel, intelligence gathering, and potential misuse of resources. One document details an investigation into Lt Col Paul Arnold Marriott for customs violations related to importing weapons from Vietnam, connecting him to Mitchell Livingston WerBell III. Another document mentions Sgt. Nicholas B. Stevenson, USAF, and a facility capable of collecting data from the Lisbon-Tangier link, reviewed by the House Select Committee on Assassinations (HSCA). Additionally, a review of Lawrence Huber Florer's USAF file was conducted by an HSCA investigator. The documents span from 1963 to 1978, showing a range of activities from potential customs violations to intelligence operations and retrospective investigations related to the JFK assassination.",
+  "key_connections": [
+    "Lawrence Huber Florer",
+    "Paul Arnold Marriott",
+    "Mitchell Livingston WerBell III",
+    "Nicholas B. Stevenson",
+    "HSCA",
+    "NSA"
+  ],
+  "significance": "The USAF's significance in the JFK context appears primarily through investigations and intelligence activities. The HSCA reviewed USAF personnel files and investigated potential connections to individuals involved in weapons trafficking. The interception of a message related to the assassination by the NSA, and the involvement of USAF personnel in intelligence gathering activities, suggest a peripheral role in monitoring events and individuals of interest during that period.",
+  "document_ids": [
+    "180-10113-10246",
+    "194-10001-10169",
+    "194-10001-10168",
+    "144-10001-10249",
+    "144-10001-10273"
+  ]
+}

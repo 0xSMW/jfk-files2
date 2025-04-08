@@ -1,0 +1,20 @@
+{
+  "entity_name": "MM",
+  "entity_type": "sender",
+  "document_count": 3,
+  "summary": "MM refers to the FBI's Miami office. The documents indicate that the Miami office was involved in investigating individuals and groups related to anti-Castro activities and potential connections to the CIA. They investigated Joseph Raymond Merola, who claimed connections to the CIA and arms supply to anti-Castro groups, Francisco Rodriguez Tamayo and the Pan America Confederation, and Santiago Alvarez Rodriguez, noting CIA's interest in his son and yacht. The office also utilized informants and Southern Bell Telephone and Telegraph Company for information gathering.",
+  "key_connections": [
+    "Joseph Raymond Merola",
+    "CIA",
+    "Francisco Rodriguez Tamayo",
+    "Pan America Confederation",
+    "Santiago Alvarez Rodriguez",
+    "Southern Bell Telephone and Telegraph Company"
+  ],
+  "significance": "The FBI Miami office (MM) was involved in monitoring individuals and groups potentially linked to anti-Castro activities and the CIA, which is relevant in the context of the JFK assassination due to the focus on Cuban exiles and their potential involvement. The documents suggest the office's role in gathering intelligence on these individuals and their connections.",
+  "document_ids": [
+    "124-90110-10083",
+    "124-90130-10005",
+    "124-10332-10018"
+  ]
+}

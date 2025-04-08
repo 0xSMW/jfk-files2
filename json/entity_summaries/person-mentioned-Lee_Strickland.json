@@ -1,0 +1,22 @@
+{
+  "entity_name": "Lee Strickland",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Based on the provided documents, Lee Strickland appears to be a CIA official involved in discussions and decisions regarding the release of CIA records related to the JFK assassination to the Assassination Records Review Board (ARRB). The documents indicate Strickland's involvement in issues such as the release of information about the Warrenton Training Center (WTC), the CIA Record Center location, the opening date of Nosenko NBR material, the release of information on CIA employees under State cover, and the handling of Cuban Revolutionary Council (CRC) financial records. Strickland also participated in discussions regarding personnel files, non-related files in the Sequestered Collection, and other sensitive topics like covert actions, alias documentation, Mexico City tapes, and a CIA penetration of the Cuban Embassy (LITAMIL-9).",
+  "key_connections": [
+    "Assassination Records Review Board (ARRB)",
+    "Warrenton Training Center (WTC)",
+    "Nosenko",
+    "Cuban Revolutionary Council (CRC)",
+    "Richard Gibson"
+  ],
+  "significance": "Lee Strickland's significance lies in his role as a CIA official involved in the process of declassifying and releasing CIA records related to the JFK assassination. His involvement in discussions about sensitive information, such as the Warrenton Training Center and CIA's use of State Cover, suggests he was a key figure in navigating the balance between transparency and national security concerns during the ARRB's investigation.",
+  "document_ids": [
+    "104-10332-10021",
+    "104-10331-10202",
+    "104-10331-10209",
+    "104-10331-10134",
+    "104-10331-10226",
+    "104-10331-10149"
+  ]
+}

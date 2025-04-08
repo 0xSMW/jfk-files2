@@ -1,0 +1,25 @@
+{
+  "entity_name": "Los Angeles",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "Los Angeles appears as a location of interest in several FBI and CIA documents related to individuals and groups potentially connected to the JFK assassination. John Rosselli, a figure with alleged Mafia ties, is frequently mentioned as being present in Los Angeles during the fall of 1962, with the FBI tracking his whereabouts, associates (such as Irving J. Leff and Joseph I. Breen, Jr.), and activities, including car rentals and meetings at places like the Friars Club. The documents suggest surveillance and information gathering on Rosselli in Los Angeles. Additionally, Los Angeles is mentioned as a base of operations for Alpha 66, an anti-Castro Cuban exile group, in 1970. A CIA memorandum also references arrangements made in Los Angeles for a foreign Head of State in 1959. The documents collectively portray Los Angeles as a location where individuals of interest to the FBI and CIA were active, necessitating surveillance and intelligence gathering.",
+  "key_connections": [
+    "John Rosselli",
+    "Irving J. Leff",
+    "Joseph I. Breen, Jr.",
+    "Alpha 66",
+    "Judith Campbell",
+    "Hertz Corporation"
+  ],
+  "significance": "Los Angeles serves as a geographical focal point in the activities of individuals and groups potentially linked to the JFK assassination. The presence of John Rosselli and the operations of Alpha 66 in Los Angeles suggest the city may have been a hub for individuals and organizations involved in events leading up to or following the assassination. The surveillance activities conducted by the FBI in Los Angeles highlight the city's importance in tracking individuals of interest.",
+  "document_ids": [
+    "124-10223-10071",
+    "124-10223-10070",
+    "104-10170-10125",
+    "124-10223-10074",
+    "157-10004-10270",
+    "124-10223-10073",
+    "124-10223-10087",
+    "124-10223-10068"
+  ]
+}

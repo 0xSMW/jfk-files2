@@ -1,0 +1,33 @@
+{
+  "entity_name": "Diplomatic Relations",
+  "entity_type": "tag",
+  "document_count": 10,
+  "summary": "The documents reflect various aspects of diplomatic relations in the context of the JFK assassination and its immediate aftermath. Several documents concern assessments of the Johnson administration by foreign governments (Brazil, UAR) and reactions to Kennedy's death (Hungary). There are indications of potential shifts in diplomatic strategies, such as Castro's willingness to discuss normalizing relations with the U.S. and the Cuban government's policy of avoiding irritating President Johnson. Tensions are also evident, with the Cambodian government considering severing ties with South Vietnam and the Haitian government requesting the recall of U.S. Embassy officials. The CIA also considered the potential damage to diplomatic relations when deciding whether to release alias documentation and accommodation addresses in assassination records. Overall, the documents highlight the sensitivity of diplomatic relations during this period and the potential for the assassination to influence international relations.",
+  "key_connections": [
+    "Fidel Castro",
+    "President Johnson",
+    "President Kennedy",
+    "United States",
+    "Cuba",
+    "Haiti",
+    "Cambodia",
+    "South Vietnam",
+    "Brazil",
+    "Hungary",
+    "UAR (Egypt)",
+    "France"
+  ],
+  "significance": "In the JFK context, diplomatic relations are significant because the assassination had the potential to alter existing relationships and create new opportunities or challenges for the U.S. on the global stage. The documents illustrate how foreign governments were evaluating the new administration and adjusting their policies accordingly. The potential impact on diplomatic relations was also a consideration in decisions related to the release of assassination records.",
+  "document_ids": [
+    "144-10001-10118",
+    "144-10001-10103",
+    "104-10330-10118",
+    "144-10001-10082",
+    "124-10299-10032",
+    "176-10036-10079",
+    "144-10001-10081",
+    "177-10001-10060",
+    "124-10299-10041",
+    "144-10001-10286"
+  ]
+}

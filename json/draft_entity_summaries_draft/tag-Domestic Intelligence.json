@@ -1,0 +1,25 @@
+{
+  "entity_name": "Domestic Intelligence",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The documents reference \"Domestic Intelligence\" primarily in the context of FBI and Department of Justice activities, particularly concerning surveillance, counterintelligence, and responses to congressional inquiries. These activities span from the 1950s to the 1970s, with a notable focus on the FBI's domestic intelligence programs and their oversight by committees like the Senate Select Committee on Intelligence Activities (SSC). The documents reveal the FBI's involvement in monitoring individuals and organizations deemed politically sensitive, including Robert Scheer and anti-war movements. The Rockefeller Commission's files also touch upon sensitive matters related to the CIA's activities and the Kennedy assassination, suggesting a broader scope of domestic intelligence concerns. A pattern across the documents is the scrutiny of domestic intelligence operations by congressional committees and the need for the FBI to provide information and justifications for its activities.",
+  "key_connections": [
+    "FBI",
+    "Department of Justice",
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "Robert Scheer",
+    "Anti-War Movements",
+    "Rockefeller Commission",
+    "CIA",
+    "Martin Luther King Jr."
+  ],
+  "significance": "While the documents mention domestic intelligence activities, their direct relevance to the JFK assassination is limited. The Rockefeller Commission files, which include documents related to the Kennedy assassination, suggest a potential indirect connection, but the specific nature of this connection is not detailed in these documents. The significance lies more in the broader context of intelligence oversight and the potential for domestic intelligence operations to intersect with investigations into significant events like the JFK assassination.",
+  "document_ids": [
+    "194-10002-10203_redacted",
+    "104-10071-10043",
+    "124-10185-10099_multirif",
+    "124-10271-10033_multirif_redacted",
+    "178-10004-10420",
+    "104-10225-10000"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "entity_name": "Alias",
+  "entity_type": "tag",
+  "document_count": 10,
+  "summary": "The documents describe the use of aliases by CIA personnel and assets for various operational purposes, including travel, recruitment, and maintaining cover. Aliases were created using forged documents like passports and identification cards. The documents span from 1961 to 1998, indicating a long-standing practice. The use of aliases was approved at high levels within the CIA, as evidenced by memos from chiefs of divisions and security personnel. The aliases were used in various locations, including the United States, Latin America, and Europe. The documents also reveal the creation of P.O. boxes under aliases for operational security.",
+  "key_connections": [
+    "ANOTIN-117",
+    "Miguel Angel DIAZ Isalgué",
+    "Edifanio Romero Delgado",
+    "Cal William Hitch",
+    "Gilbert Richmond",
+    "Simon S. MARTINEZ",
+    "Harold F. Safley",
+    "KURIOT",
+    "Roush-Walker Company"
+  ],
+  "significance": "In the context of the JFK assassination, the use of aliases is significant because it highlights the CIA's capacity for covert operations and the creation of false identities. This capability could have been used to conceal the involvement of individuals or groups in the assassination. The documents do not directly link aliases to the JFK assassination, but they demonstrate the agency's ability to operate in secrecy and create plausible deniability.",
+  "document_ids": [
+    "104-10120-10276",
+    "104-10113-10254",
+    "104-10113-10258",
+    "194-10001-10490",
+    "104-10120-10273",
+    "104-10121-10217",
+    "104-10121-10133",
+    "104-10106-10194",
+    "104-10185-10253",
+    "104-10131-10014"
+  ]
+}

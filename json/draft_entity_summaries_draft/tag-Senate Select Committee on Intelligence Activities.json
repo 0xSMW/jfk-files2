@@ -1,0 +1,22 @@
+{
+  "entity_name": "Senate Select Committee on Intelligence Activities",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The Senate Select Committee on Intelligence Activities, also known as the Church Committee, was a U.S. Senate committee established in 1975 to investigate abuses by the Central Intelligence Agency (CIA), National Security Agency (NSA), Federal Bureau of Investigation (FBI), and the Internal Revenue Service (IRS). The documents provided indicate the committee's active role in requesting information and documents from these agencies, including inquiries into COINTELPRO, FBI informants, and domestic intelligence activities. The documents also cover security clearances for the committee's staff, reflecting the sensitive nature of the information they were handling. The timeline of involvement is primarily focused on 1975, during the committee's active investigation period. A notable pattern across the documents is the FBI's responsiveness to the committee's requests for information on various intelligence operations and potential abuses.",
+  "key_connections": [
+    "CIA",
+    "NSA",
+    "FBI",
+    "IRS",
+    "COINTELPRO",
+    "Martin Luther King Jr."
+  ],
+  "significance": "While the provided documents do not directly link the Senate Select Committee on Intelligence Activities to the JFK assassination, the committee's investigation into the CIA and FBI's activities could potentially uncover information relevant to the assassination. The committee's focus on intelligence operations and potential abuses could shed light on any involvement or knowledge these agencies might have had regarding the assassination or related events.",
+  "document_ids": [
+    "124-10274-10014_multirif_redacted",
+    "124-10185-10099 (c06716626)",
+    "124-10271-10003_multirif",
+    "124-10271-10033_multirif_redacted",
+    "124-10271-10299_multirif"
+  ]
+}

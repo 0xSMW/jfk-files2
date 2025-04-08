@@ -1,0 +1,29 @@
+{
+  "entity_name": "Doolittle",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "summary": "Based on the provided documents, \"Doolittle\" appears to be a member of, or associated with, the President's Foreign Intelligence Advisory Board (PFIAB). The documents consist primarily of meeting agendas and minutes from PFIAB meetings between 1962 and 1964. These meetings covered a range of intelligence activities, including discussions on Cuba (anti-Castro activities, Soviet missile buildup), covert operations (MONGOOSE), intelligence collection capabilities (satellite reconnaissance, SIGINT), and global hotspots like Vietnam. Doolittle's specific role or contributions are not detailed in the summaries, but their presence at these meetings indicates involvement in high-level intelligence oversight and advisory functions during the Kennedy administration.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "CIA",
+    "John McCone",
+    "McGeorge Bundy",
+    "Cuba",
+    "Soviet Union"
+  ],
+  "significance": "While the documents indicate Doolittle's involvement in intelligence matters during the Kennedy administration, there is no direct mention of the JFK assassination. Their significance lies in their participation in the PFIAB, which advised the President on intelligence matters, including those related to Cuba and covert operations, which are often subjects of interest in JFK assassination research.",
+  "document_ids": [
+    "178-10004-10054",
+    "206-10001-10012",
+    "206-10001-10004",
+    "206-10001-10008",
+    "104-10302-10000",
+    "206-10001-10009",
+    "206-10001-10005",
+    "206-10001-10006",
+    "206-10001-10010",
+    "206-10001-10007",
+    "206-10001-10000",
+    "206-10001-10001"
+  ]
+}

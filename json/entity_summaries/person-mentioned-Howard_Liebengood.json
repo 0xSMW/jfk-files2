@@ -1,0 +1,21 @@
+{
+  "entity_name": "Howard Liebengood",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Howard Liebengood was a staffer for the Senate Select Committee on Intelligence (SSCI). He is mentioned in documents related to the SSCI's investigation into Cuban intelligence networks and the assassinations of President John F. Kennedy and Dr. Martin Luther King, Jr. Specifically, he participated in a meeting with NSA officials John C. Wobensmith and Tom Moore to review an NSA product on Antonio Veciana, which led to the SSCI requesting a review of all Cuban material from 1961-1965. He is also listed as meeting security clearance requirements up to TOP SECRET.",
+  "key_connections": [
+    "Senate Select Committee on Intelligence (SSCI)",
+    "John C. Wobensmith",
+    "Tom Moore",
+    "Antonio Veciana",
+    "E. Howard Hunt"
+  ],
+  "significance": "Howard Liebengood's significance in the JFK context lies in his role as an SSCI staffer involved in the committee's investigation into potential Cuban involvement in the assassination. His participation in reviewing NSA materials related to Antonio Veciana, a figure of interest in the JFK assassination investigations, highlights his contribution to the SSCI's efforts to uncover relevant information.",
+  "document_ids": [
+    "144-10001-10159",
+    "124-10274-10014_multirif_redacted",
+    "144-10001-10206",
+    "144-10001-10173",
+    "157-10005-10228"
+  ]
+}

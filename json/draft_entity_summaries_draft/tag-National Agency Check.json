@@ -1,0 +1,30 @@
+{
+  "entity_name": "National Agency Check",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "A National Agency Check (NAC) is a background investigation conducted by U.S. government agencies, often the Department of Defense and the U.S. Army, to verify an individual's suitability for employment, security clearances, or other official purposes. These checks involve gathering information about a person's personal history, including residences, employment, education, and any foreign connections. The documents indicate that NACs were requested for individuals such as Manuel Marti, Edward Kaczmarczyk, David Reed Fromer, Robert Scheer, and John Joseph Dowling. The requests often include personal identifying information, employment history, and security questionnaires. Some individuals, like Robert Scheer and David Reed Fromer, refused to complete certain forms during the process. The timeline of these checks spans from the mid-1960s to the early 1970s, suggesting a period of heightened scrutiny during and after the JFK assassination.",
+  "key_connections": [
+    "Manuel Marti",
+    "Edward Kaczmarczyk",
+    "David Reed Fromer",
+    "Robert Scheer",
+    "John Joseph Dowling",
+    "U.S. Army",
+    "Department of Defense"
+  ],
+  "significance": "In the context of the JFK assassination, National Agency Checks were part of the broader effort to investigate individuals and assess potential security risks. The checks on individuals like David Reed Fromer, documented in JFK Assassination System Identification Forms, suggest an attempt to identify any connections or potential threats related to the assassination. The checks themselves do not directly implicate anyone in the assassination but reflect the extensive background investigations conducted during that period.",
+  "document_ids": [
+    "194-10004-10403",
+    "194-10004-10408",
+    "194-10003-10336",
+    "194-10004-10406",
+    "194-10003-10335",
+    "194-10004-10129",
+    "194-10006-10181",
+    "194-10006-10180",
+    "194-10003-10338",
+    "194-10012-10477",
+    "194-10004-10145",
+    "194-10004-10143"
+  ]
+}

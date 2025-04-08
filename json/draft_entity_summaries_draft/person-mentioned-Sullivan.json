@@ -1,0 +1,26 @@
+{
+  "entity_name": "Sullivan",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "summary": "W.C. Sullivan is mentioned in several FBI memos primarily related to FBI-CIA liaison activities and internal FBI procedures. He appears to be a recipient of information and recommendations from D.J. Brennan regarding CIA-related matters, such as the handling of information from James Angleton and the discontinuation of specific control files. Sullivan's role seems to be supervisory, receiving updates on the status of FBI-CIA relations, including instances of cooperation and past conflicts. The documents suggest he was involved in decisions regarding how the FBI managed information received from the CIA and how they responded to CIA requests.",
+  "key_connections": [
+    "D.J. Brennan",
+    "James Angleton",
+    "CIA",
+    "FBI",
+    "S.J. Papich",
+    "Jorge Beliard",
+    "Thomas Keogh"
+  ],
+  "significance": "Based on the provided documents, Sullivan's significance in the JFK assassination context is indirect. He is not directly linked to the assassination itself, but rather to the management of intelligence and liaison activities between the FBI and CIA during the period surrounding the event. His role in these activities might be relevant to understanding the broader intelligence landscape and the flow of information related to potential threats or investigations, but the documents do not explicitly connect him to the assassination.",
+  "document_ids": [
+    "124-10326-10103",
+    "124-10326-10104",
+    "157-10011-10093",
+    "124-90137-10467",
+    "104-10310-10020",
+    "180-10143-10072",
+    "124-10325-10318",
+    "124-10281-10028"
+  ]
+}

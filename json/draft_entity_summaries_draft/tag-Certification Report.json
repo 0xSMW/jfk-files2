@@ -1,0 +1,22 @@
+{
+  "entity_name": "Certification Report",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The Certification Reports are U.S. House of Representatives documents listing the employees of the Select Committee on Assassinations (HSCA), their positions, annual salaries, and pay period earnings. These reports provide a detailed accounting of the HSCA's payroll and staffing during its investigation into the JFK assassination. The reports span from August 1978 to January 1979, with one report also including information from November 1976. They offer a snapshot of the committee's personnel and financial operations during a critical period of its inquiry.",
+  "key_connections": [
+    "Select Committee on Assassinations (HSCA)",
+    "U.S. House of Representatives",
+    "HSCA Employees",
+    "Payroll",
+    "Salaries"
+  ],
+  "significance": "The Certification Reports are significant because they provide transparency into the financial and personnel aspects of the HSCA's investigation into the JFK assassination. They document who was employed by the committee, their roles, and their compensation, offering insights into the resources allocated to the investigation. While they don't directly address the assassination itself, they are valuable for understanding the administrative and operational context of the HSCA's work.",
+  "document_ids": [
+    "180-10125-10081",
+    "180-10125-10080",
+    "180-10125-10079",
+    "180-10125-10083",
+    "180-10125-10082",
+    "180-10125-10077"
+  ]
+}

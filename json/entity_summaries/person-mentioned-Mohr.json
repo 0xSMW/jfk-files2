@@ -1,0 +1,32 @@
+{
+  "entity_name": "Mohr",
+  "entity_type": "person-mentioned",
+  "document_count": 13,
+  "summary": "Based on the provided documents, \"Mohr\" appears in the context of FBI memoranda and teletypes related to various investigations and intelligence matters. Mohr is mentioned in connection with procedures for handling sensitive information received from the CIA, particularly concerning \"Bureau Informant 100\" (James Angleton) and SCOPE material (Israeli intelligence activities). The documents suggest Mohr was involved in establishing and maintaining liaison arrangements with the CIA and Israeli intelligence services. The timeline of involvement spans from 1954 to 1975, indicating a long-term role in handling sensitive intelligence matters. The documents highlight Mohr's role in managing the flow of information from intelligence sources and ensuring the protection of those sources.",
+  "key_connections": [
+    "James Angleton",
+    "CIA",
+    "Israeli Intelligence Service",
+    "John Roselli",
+    "Gabriel Mannarino",
+    "Santo Trafficante, Jr.",
+    "Sam Giancana",
+    "Robert Kennedy"
+  ],
+  "significance": "The significance of \"Mohr\" in the JFK context, based on these documents, is primarily related to their involvement in intelligence liaison activities and the handling of sensitive information from the CIA and Israeli intelligence. While the documents do not directly link Mohr to the JFK assassination, their role in managing intelligence sources and information flow could be relevant to understanding the broader intelligence landscape during that period.",
+  "document_ids": [
+    "124-10223-10088",
+    "124-10326-10103",
+    "124-10203-10468",
+    "124-10223-10082",
+    "124-10223-10083",
+    "124-10204-10209",
+    "124-10326-10105",
+    "124-10203-10465",
+    "124-10264-10209_multirif",
+    "124-90137-10467",
+    "124-10203-10246",
+    "124-10326-10100",
+    "124-10203-10494"
+  ]
+}

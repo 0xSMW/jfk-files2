@@ -1,0 +1,25 @@
+{
+  "entity_name": "Operational",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The tag \"Operational\" appears in several CIA documents, primarily dispatches and operational reports, indicating the subject matter pertains to ongoing or planned clandestine activities. These documents cover a range of topics, including the transmission of CIA reports related to GYROSE and UFGA operations, contract extensions, and specific operational reports on individuals and groups. The documents span from 1953 to 1962, suggesting a period of active intelligence gathering and operational planning. The term is used to categorize documents related to the DRE (Directorio Revolucionario Estudiantil), anti-communist groups in Cuba, and individuals of interest, such as Frits (aka Fred) SNECHI. The documents highlight the CIA's focus on Cuban affairs and potential Soviet connections during this period.",
+  "key_connections": [
+    "GYROSE",
+    "UFGA",
+    "DRE (Directorio Revolucionario Estudiantil)",
+    "Frits (aka Fred) SNECHI",
+    "Raymond H. CEREDE",
+    "Juan Rodriguez Jobolca",
+    "Salvador Jomolca",
+    "AN VIO L. NEVES"
+  ],
+  "significance": "In the context of the JFK assassination, the \"Operational\" tag signifies documents related to covert activities and intelligence gathering, particularly concerning Cuban exiles and potential communist connections. While the documents themselves do not directly mention the assassination, they provide insight into the CIA's operational focus and the environment in which anti-Castro activities were taking place, which is relevant to understanding potential motives and actors involved in the assassination.",
+  "document_ids": [
+    "104-10171-10044",
+    "104-10171-10013",
+    "104-10219-10153",
+    "104-10171-10034",
+    "104-10512-10102",
+    "104-10171-10138"
+  ]
+}

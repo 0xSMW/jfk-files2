@@ -1,0 +1,21 @@
+{
+  "entity_name": "NWBOLTON",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "NWBOLTON is a person mentioned in several CIA documents related to the JFK assassination. The documents suggest that some individuals, such as LPAVERT, suspected NWBOLTON of involvement in President Kennedy's assassination. One document mentions concerns about LPAVERT's views on NWBOLTON's alleged involvement, leading to changes in plans for using LPAVERT in sensitive communications. Another document references a Rio <JFK> conference suspected to be anti-NWBOLTON propaganda. The documents span from 1994 to 1996, indicating a period of interest or investigation into NWBOLTON's potential connection to the assassination.",
+  "key_connections": [
+    "LPAVERT",
+    "Lee Harvey Oswald",
+    "President Kennedy",
+    "Allende"
+  ],
+  "significance": "NWBOLTON's significance lies in being a person of interest or suspicion in connection to the JFK assassination, as perceived by certain individuals and possibly investigated by the CIA. The documents suggest that there were concerns and discussions surrounding NWBOLTON's potential role, although the extent and nature of this role remain unclear based on the provided documents.",
+  "document_ids": [
+    "104-10326-10071",
+    "104-10326-10047",
+    "104-10326-10085",
+    "104-10326-10073",
+    "104-10326-10087",
+    "104-10326-10044"
+  ]
+}

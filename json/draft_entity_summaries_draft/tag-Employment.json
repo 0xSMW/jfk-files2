@@ -1,0 +1,36 @@
+{
+  "entity_name": "Employment",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "The documents primarily focus on the employment records and payroll information of staff members working for the House Select Committee on Assassinations (HSCA). These records include payroll authorization forms, memoranda, resumes, and certification reports detailing employee salaries, positions, and periods of employment. The documents span from 1976 to 1979, covering the period when the HSCA was actively investigating the JFK assassination. Some documents also pertain to individuals' employment history outside of the HSCA, such as Juanita Brown's recollections of Lee Harvey Oswald's employment at William B. Rielly Coffee Co. and Emilio A. Rodriguez's resume created in the context of seeking employment due to the Cuban political situation. A notable pattern is the meticulous documentation of HSCA staff appointments, salary adjustments, and terminations, reflecting the administrative operations of the committee.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Joseph Kiel",
+    "Patricia M. Orr",
+    "Burton A. Chardak",
+    "Richard Newcombe Billings",
+    "Peter G. Beeson",
+    "Robin David Lindley",
+    "Thomas Howarth",
+    "Juanita Brown",
+    "Lee Harvey Oswald",
+    "William B. Rielly Coffee Co.",
+    "Emilio A. Rodriguez",
+    "Robert Scheer"
+  ],
+  "significance": "In the JFK assassination context, employment records are significant for understanding the composition and operation of the HSCA, the committee responsible for reinvestigating the assassination. These records provide insights into who was involved in the investigation, their roles, and the resources allocated to the committee's work. Additionally, documents related to individuals' employment outside the HSCA, such as Oswald's, offer potential leads and context related to the events surrounding the assassination.",
+  "document_ids": [
+    "180-10060-10457",
+    "180-10060-10494",
+    "180-10068-10322",
+    "180-10125-10075",
+    "180-10068-10309",
+    "180-10068-10305",
+    "180-10060-10471",
+    "180-10086-10257",
+    "180-10060-10445",
+    "194-10006-10180",
+    "180-10125-10077",
+    "104-10180-10156"
+  ]
+}

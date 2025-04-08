@@ -1,0 +1,20 @@
+{
+  "entity_name": "Hubert H. Humphrey",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Based on the provided documents, Hubert H. Humphrey is mentioned in the context of the U.S. Senate Select Committee on Intelligence Activities (SSC) investigation into intelligence activities, specifically concerning Martin Luther King, Jr., and the Southern Christian Leadership Conference (SCLC). The documents detail the FBI's response to the SSC's requests for materials related to King and the SCLC. Humphrey's direct role or significance in the JFK assassination context is not explicitly stated in these documents. However, his name appears in a document listing biographies of members of the Assassination Records Review Board (ARRB), suggesting a potential connection to the JFK assassination records review process, although the exact nature of his involvement is not detailed. The primary focus of the documents is on the FBI's interactions with the SSC regarding King and the SCLC, rather than Humphrey's direct actions or involvement.",
+  "key_connections": [
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "U. S. Senate Select Committee on Intelligence Activities (SSC)",
+    "Assassination Records Review Board (ARRB)"
+  ],
+  "significance": "The documents suggest a potential indirect connection to the JFK assassination context through his mention in the Assassination Records Review Board (ARRB) member biographies, but his primary significance in these documents relates to the investigation into Martin Luther King, Jr., and the Southern Christian Leadership Conference (SCLC) by the U.S. Senate Select Committee on Intelligence Activities (SSC).",
+  "document_ids": [
+    "124-10264-10206_multirif",
+    "124-10264-10208_multirif",
+    "124-10264-10209_multirif",
+    "104-10333-10001",
+    "124-10264-10210_multirif"
+  ]
+}

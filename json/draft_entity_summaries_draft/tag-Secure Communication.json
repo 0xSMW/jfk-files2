@@ -1,0 +1,21 @@
+{
+  "entity_name": "Secure Communication",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents highlight the importance of secure communication channels in intelligence operations, particularly in the context of Cuban operations related to individuals like AM/LASH (Rolando CUBELA Secades) and other agents. These secure methods include establishing two-way communication using specific supplies and training, employing secure writing systems, and utilizing trusted intermediaries like a jeweler in Havana to relay sensitive information. The emphasis on secure communication underscores the need to protect information and maintain operational integrity in potentially hostile environments. The documents suggest that secure communication was a critical aspect of managing agents and relaying information within the CIA's network in Cuba.",
+  "key_connections": [
+    "AM/LASH (Rolando CUBELA Secades)",
+    "AMIRE 1",
+    "UNSNAFU/19",
+    "UNSNAFU/9",
+    "AMTHIP/1",
+    "KUBARK",
+    "Havana"
+  ],
+  "significance": "In the JFK assassination context, secure communication methods are significant because they were essential for managing and protecting intelligence assets and operations related to Cuba. The use of secure channels to communicate with individuals like AM/LASH, who was considered as a potential asset for actions against Fidel Castro, highlights the clandestine nature of these operations and the efforts to maintain secrecy. The failure or compromise of these secure communication channels could have had significant implications for the success or exposure of these operations.",
+  "document_ids": [
+    "104-10180-10138",
+    "104-10234-10096",
+    "104-10216-10338"
+  ]
+}

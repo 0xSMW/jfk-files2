@@ -1,0 +1,21 @@
+{
+  "entity_name": "Nguyen Khanh",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Nguyen Khanh was a South Vietnamese General involved in planning a coup against the Diem regime in 1963. The documents indicate his involvement in deliberations and planning for a coup, with his decision potentially hinging on U.S. support. He is mentioned as being involved in a planned coup possibly before October 5, 1963, along with Generals Tran Thien Khiem and Duong Van Minh. Another document suggests his participation in a coup scheduled for the week of September 22, 1963, alongside Pham Ngoc Thao, Generals Duong Van Minh and Le Van Kim.",
+  "key_connections": [
+    "Diem regime",
+    "Tran Thien Khiem",
+    "Duong Van Minh",
+    "Pham Ngoc Thao",
+    "Le Van Kim",
+    "Ngo Dinh Nhu"
+  ],
+  "significance": "Nguyen Khanh's significance in the JFK assassination context lies in his involvement in the coup planning against President Diem, which created instability in South Vietnam and ultimately led to Diem's assassination. This event had significant implications for U.S. involvement in Vietnam and the broader Cold War context during JFK's presidency.",
+  "document_ids": [
+    "176-10036-10131",
+    "176-10036-10113",
+    "176-10036-10142",
+    "176-10036-10134"
+  ]
+}

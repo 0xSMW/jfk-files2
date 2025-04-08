@@ -1,0 +1,20 @@
+{
+  "entity_name": "Intercept",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The term \"Intercept\" in these documents refers to intercepted messages, primarily by the National Security Agency (NSA), that potentially contain information related to a plot to assassinate President John F. Kennedy. These intercepts are central to investigations into the assassination, particularly concerning pre-assassination knowledge. The documents highlight the NSA's role in intercepting and analyzing communications, as well as the subsequent investigations and responses to inquiries from the FBI and the House Assassinations Committee. The timeline spans from March 1963 (the date of a specific intercept) to 1979, reflecting ongoing efforts to locate and analyze relevant intercepts. A notable pattern is the recurring theme of a potential pre-assassination warning contained within these intercepted messages, prompting investigations and information requests.",
+  "key_connections": [
+    "NSA",
+    "President Kennedy",
+    "FBI",
+    "House Assassinations Committee",
+    "David Christensen",
+    "Kirknewton, Scotland (USA-55)"
+  ],
+  "significance": "Intercepts are significant because they represent potential evidence of prior knowledge of the assassination plot. The existence and content of these intercepts are crucial to understanding whether there were missed opportunities to prevent the assassination and whether relevant information was properly investigated at the time.",
+  "document_ids": [
+    "144-10001-10270",
+    "144-10001-10143",
+    "144-10001-10162"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "entity_name": "GTDANCER",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Based on the provided documents, GTDANCER is a tag associated with documents related to efforts to access information in Minsk and Belorussian archives concerning the JFK assassination. The documents indicate that the US Embassy and the Records Review Board were actively seeking access to records in Minsk, potentially involving individuals like JYVAPOROUS and files related to Lee Harvey Oswald. The timeline spans from at least 1993 to 1996, with a focus on coordinating with the SVRR (Russian Foreign Intelligence Service) and addressing concerns about unilateral actions due to distrust related to the Kennedy assassination. The documents highlight the diplomatic efforts and challenges in obtaining these records.",
+  "key_connections": [
+    "JYVAPOROUS",
+    "Lee Harvey Oswald",
+    "Records Review Board",
+    "SVRR (Russian Foreign Intelligence Service)",
+    "Oleg ((NECHIPORENKO))"
+  ],
+  "significance": "GTDANCER signifies the CIA's and US government's efforts to investigate potential leads and access relevant records in Minsk and Belorussian archives related to the JFK assassination, reflecting the ongoing interest and investigation into the event even decades later.",
+  "document_ids": [
+    "104-10326-10041",
+    "104-10326-10077",
+    "104-10326-10040",
+    "104-10326-10092",
+    "104-10326-10042"
+  ]
+}

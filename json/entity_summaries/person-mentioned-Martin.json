@@ -1,0 +1,17 @@
+{
+  "entity_name": "Martin",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Martin is a person mentioned in connection with intelligence operations in Tokyo. The documents suggest potential connections between Martin and Soviet intelligence, as well as associations with individuals like Maude L. Burris. One document references intelligence operations and contacts in Tokyo related to Martin, while another is a CIA personnel contact list. The third document contains memoranda regarding a Special Group (5412) and a disarmament meeting, but Martin's direct involvement in these events is not specified. The timeline of Martin's involvement is unclear, but one document is dated April 17, 1961, and another is dated February 14, 1964. The pattern across the documents indicates Martin is a contact of interest to the CIA.",
+  "key_connections": [
+    "Maude L. Burris",
+    "Soviet intelligence",
+    "CIA"
+  ],
+  "significance": "The significance of Martin in the JFK context is not explicitly stated in the provided documents. However, the connection to intelligence operations and potential Soviet ties suggests a possible, though unspecified, role within the broader intelligence landscape of the time.",
+  "document_ids": [
+    "104-10219-10143",
+    "104-10161-10321",
+    "104-10310-10020"
+  ]
+}

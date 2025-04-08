@@ -1,0 +1,25 @@
+{
+  "entity_name": "Threat",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The documents highlight several instances of individuals making threats, primarily against the U.S. government or revealing sensitive information. Richard Case Nagell is a recurring figure, threatening to expose contacts within an organization ('WOF IRM') and the U.S. government if certain promises are not honored. Another subject, possibly MHORDER WOMUSE, threatens to disclose alleged contacts via radio broadcast. Additionally, there's a reference to a 'possible plot to kill President Kennedy and sister' in 1963. The threats made by Nagell appear in cables dated around March 1969, indicating a specific period of concern. A notable pattern is the use of threats as leverage to obtain something from U.S. officials or to protest perceived injustices.",
+  "key_connections": [
+    "Richard Case Nagell",
+    "President Kennedy",
+    "MHORDER WOMUSE",
+    "WOF IRM",
+    "US Government",
+    "Lee Harvey Oswald",
+    "Cuban Associations"
+  ],
+  "significance": "The significance in the JFK context lies in the potential connection between these threats and the assassination. The 'plot to kill President Kennedy' document, though vague, raises concerns about prior knowledge or related conspiracies. The threats made by individuals like Nagell, while not directly linked to the assassination in these documents, suggest a climate of distrust and potential exposure of sensitive information that could be relevant to understanding the broader context of the event.",
+  "document_ids": [
+    "104-10123-10022",
+    "144-10001-10270",
+    "144-10001-10281",
+    "104-10310-10142",
+    "104-10123-10020",
+    "104-10220-10036",
+    "104-10123-10017"
+  ]
+}

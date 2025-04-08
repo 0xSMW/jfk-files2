@@ -1,0 +1,19 @@
+{
+  "entity_name": "Mortgage",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents describe a mortgage transaction involving a husband and wife in New York and Croush-Walker Company (also referred to as ROUSH-WALKER Company) of Atlanta, Georgia. The mortgage, dated March 2, 1978, secures a debt of $167,429.88 against the property located at 163 East 71st Street, New York, NY. A memorandum indicates that this mortgage was part of a CIA-devised facility arrangement, with Croush-Walker Company acting as a nominee. The transaction and acknowledgement of the facility's CIA link were recorded in a classified document.",
+  "key_connections": [
+    "Husband and wife (New York residents)",
+    "Croush-Walker Company/ROUSH-WALKER Company",
+    "Robert D. Clark",
+    "CIA",
+    "163 East 71st Street, New York, NY"
+  ],
+  "significance": "The mortgage is significant because it appears to be linked to a CIA-devised facility, with Croush-Walker Company acting as a nominee. This suggests a potential connection to covert activities, although the specific implications for the JFK assassination context are not explicitly stated in the provided documents. The classified nature of the documentation surrounding the CIA link further underscores the sensitivity and potential importance of this transaction.",
+  "document_ids": [
+    "104-10106-10217",
+    "104-10106-10194",
+    "104-10106-10218"
+  ]
+}

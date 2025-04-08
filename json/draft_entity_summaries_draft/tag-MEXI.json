@@ -1,0 +1,22 @@
+{
+  "entity_name": "MEXI",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "MEXI appears to be a tag used in CIA communications related to operations and individuals in Mexico. The documents suggest MEXI is associated with Mexico City and the surrounding area. One document mentions accommodation addresses for S/ agents in the MEXI area, indicating it's a geographical designation for operational purposes. Another document refers to \"NEXI\", which could be a typo or a related designation. The documents do not directly link MEXI to the JFK assassination but rather to general intelligence activities in Mexico during the early 1960s.",
+  "key_connections": [
+    "S/ agents",
+    "Mexico City",
+    "Luis Alberto de Jesus Condo: Cajisal",
+    "OLIEN",
+    "WAVE",
+    "LITAMIL-3",
+    "Antonio de Souza Carbajal",
+    "CIRAN"
+  ],
+  "significance": "While the documents do not explicitly link MEXI to the JFK assassination, the tag's association with CIA activities in Mexico, a location of interest in the JFK assassination investigations, suggests it could be indirectly relevant. The documents highlight the CIA's operational presence and intelligence gathering efforts in Mexico during the period leading up to the assassination.",
+  "document_ids": [
+    "104-10171-10095",
+    "104-10180-10176",
+    "104-10290-10219"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "entity_name": "Cryptonyms",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "Cryptonyms, aliases, and project code names were used by the CIA to protect the identities of personnel, assets, and operations, particularly in sensitive contexts such as Cuban-related activities and the JFK assassination investigation. The CIA's use of cryptonyms became a point of focus during the House Select Committee on Assassinations (HSCA) investigation in 1978 and later with the Assassination Records Review Board (ARRB) in the 1990s. The CIA balanced transparency with the need to protect covert employees, cover mechanisms, and ongoing intelligence operations when releasing information related to the JFK assassination. Documents reveal deliberations between the CIA and the ARRB regarding redactions of cryptonyms and other sensitive information. The use of cryptonyms is a recurring theme across documents related to the JFK assassination records, highlighting the CIA's efforts to manage and control the release of information while safeguarding national security interests.",
+  "key_connections": [
+    "CIA",
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board (ARRB)",
+    "JFK Assassination Records",
+    "Project ZRRIFLE",
+    "James Earl Ray",
+    "Guy Bannister",
+    "Victor Dominado Espinosa-Hernandez",
+    "Ed Butler"
+  ],
+  "significance": "In the JFK assassination context, cryptonyms are significant because they represent a layer of secrecy and obfuscation employed by the CIA. The debate over their release reflects the tension between transparency and national security concerns. The identification and understanding of these cryptonyms are crucial for researchers and investigators seeking to uncover the full truth behind the assassination, as they may lead to uncovering previously hidden connections, operations, and individuals involved.",
+  "document_ids": [
+    "180-10143-10070",
+    "180-10145-10287",
+    "104-10332-10007",
+    "104-10061-10115",
+    "104-10335-10001",
+    "104-10310-10014",
+    "104-10332-10002",
+    "104-10079-10231"
+  ]
+}

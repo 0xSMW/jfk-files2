@@ -1,0 +1,21 @@
+{
+  "entity_name": "ELINT",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "ELINT, or Electronic Intelligence, is the gathering of intelligence through electronic sensors. The documents highlight ELINT's role in understanding Soviet air defense systems during the Cold War, specifically in the 1950s and 1960s. ELINT data was crucial in assessing Soviet radar coverage, response strategies, and the effectiveness of their warning systems. While not directly related to the JFK assassination in these documents, ELINT capabilities were part of the broader intelligence landscape during that era, contributing to the understanding of Soviet and Cuban military communications and capabilities. The documents suggest ELINT was a key component in analyzing Soviet military activities and communications, particularly in relation to air defense and military coordination with Cuba.",
+  "key_connections": [
+    "Soviet Union",
+    "Cuba",
+    "COMINT",
+    "Soviet air defense system",
+    "NSA",
+    "U-2 Project"
+  ],
+  "significance": "While ELINT is not directly linked to the JFK assassination in these documents, it represents a crucial intelligence-gathering capability during the Cold War era, which is the backdrop of the JFK assassination. The documents highlight its importance in understanding Soviet and Cuban military capabilities and communications, providing context for the geopolitical landscape at the time.",
+  "document_ids": [
+    "104-10150-10038",
+    "104-10107-10183",
+    "104-10106-10143",
+    "144-10001-10202"
+  ]
+}

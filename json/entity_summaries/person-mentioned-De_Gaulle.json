@@ -1,0 +1,27 @@
+{
+  "entity_name": "De Gaulle",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "summary": "Charles de Gaulle, the President of France at the time of John F. Kennedy's assassination, is mentioned in several documents primarily in the context of reactions to Kennedy's death and the subsequent funeral. He is noted for his attendance at the funeral, which was perceived as a significant gesture of respect and mourning. Documents highlight his positive reaction to Kennedy's death, including messages sent to Mrs. Kennedy and President Johnson. A Polish intelligence report mentions De Gaulle's presence at meetings within the UN following the assassination. French reactions to Kennedy's death are summarized, noting widespread mourning and concern over potential political instability in the U.S. and a perceived lack of leadership under Johnson. De Gaulle's presence at the funeral alongside other world leaders like Erhard is also highlighted, emphasizing the global impact of Kennedy's death.",
+  "key_connections": [
+    "John F. Kennedy",
+    "Mrs. Kennedy",
+    "Lyndon B. Johnson",
+    "Erhard",
+    "Mikoyan"
+  ],
+  "significance": "De Gaulle's significance in the JFK assassination context lies primarily in his role as a prominent world leader whose reaction to Kennedy's death and attendance at the funeral reflected the global impact of the event. His presence and messages of condolence underscored the international importance of the U.S. presidency and the widespread mourning following Kennedy's assassination. The documents also suggest that his actions and the French reaction to Kennedy's death were closely monitored for their political implications.",
+  "document_ids": [
+    "144-10001-10358",
+    "144-10001-10303",
+    "144-10001-10084",
+    "104-10302-10030",
+    "144-10001-10315",
+    "144-10001-10102",
+    "144-10001-10103",
+    "177-10002-10069",
+    "144-10001-10367",
+    "124-10325-10318",
+    "144-10001-10316"
+  ]
+}

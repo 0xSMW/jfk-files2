@@ -1,0 +1,40 @@
+{
+  "entity_name": "SSCIA",
+  "entity_type": "recipient",
+  "document_count": 11,
+  "summary": "The SSCIA (Senate Select Committee on Intelligence Activities), also known as the Church Committee, is the recipient of numerous testimonies and reports related to CIA activities, particularly concerning the JFK assassination and other covert operations. The documents reveal the SSCIA's role in investigating potential CIA involvement in assassination plots, including those against foreign leaders like Castro, and the agency's broader activities related to Cuba, Chile, and other international affairs. The testimonies cover a range of topics, from Operation Mongoose and the Bay of Pigs to mail opening projects and relationships with Cuban exiles. The SSCIA's investigation aimed to uncover the truth about the CIA's actions and their potential connection to the JFK assassination, as well as to assess the legality and ethical implications of the agency's covert operations.",
+  "key_connections": [
+    "CIA",
+    "David Atlee Phillips",
+    "William Harvey",
+    "Alfred J. Sarno",
+    "James P. O'Connell",
+    "Lawrence Houston",
+    "Howard J. Osborn",
+    "Robert Maheu",
+    "Richard M. Bissell",
+    "Operation Mongoose",
+    "Bay of Pigs",
+    "ZRRIFLE",
+    "AMUTS",
+    "SR POINTER",
+    "West Pointer",
+    "Aristotle Onassis",
+    "Castro",
+    "Allende"
+  ],
+  "significance": "The SSCIA's significance in the JFK context lies in its investigation into potential CIA involvement in the assassination. The committee's hearings and reports aimed to uncover any evidence linking the CIA to the assassination, exploring potential motives, operational capabilities, and connections to individuals or groups that may have been involved. The SSCIA's findings contributed to a broader understanding of the CIA's activities during the Cold War and their potential impact on domestic and foreign affairs, including the JFK assassination.",
+  "document_ids": [
+    "157-10002-10165",
+    "157-10008-10246",
+    "157-10002-10105",
+    "157-10005-10250",
+    "157-10002-10148",
+    "157-10002-10106",
+    "157-10005-10225",
+    "157-10002-10150",
+    "157-10011-10048",
+    "157-10004-10095",
+    "157-10011-10018"
+  ]
+}

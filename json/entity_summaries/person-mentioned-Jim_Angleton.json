@@ -1,0 +1,24 @@
+{
+  "entity_name": "Jim Angleton",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Jim Angleton is mentioned in several documents related to CIA activities and investigations. He appears in the context of CIA-FBI relationships, counterintelligence efforts, and discussions about potential CIA involvement in assassinations. Sam Papich's interview details his interactions with Angleton and J. Edgar Hoover, focusing on improving cooperation between the CIA and FBI, while expressing disillusionment with Hoover's approach. Victor Marchetti's testimony to the Rockefeller Commission includes Angleton's name in relation to Soviet defectors and other sensitive topics. E. Howard Hunt's testimony mentions inquiries into possible CIA involvement in assassinations. Sam Halpern's interview touches on tensions within the CIA, though Angleton's specific role in these tensions is not detailed.",
+  "key_connections": [
+    "Victor Marchetti",
+    "Sam J. Papich",
+    "J. Edgar Hoover",
+    "E. Howard Hunt",
+    "Boris Pash",
+    "Sam Halpern",
+    "CIA",
+    "FBI",
+    "Rockefeller Commission"
+  ],
+  "significance": "Based on the provided documents, Jim Angleton's significance in the JFK assassination context is indirect. He is mentioned in connection to inquiries about potential CIA involvement in assassinations, as testified by E. Howard Hunt. However, the documents do not directly link him to the JFK assassination itself, but rather to broader concerns about CIA activities and counterintelligence operations during that era.",
+  "document_ids": [
+    "157-10011-10092",
+    "157-10011-10093",
+    "157-10005-10228",
+    "104-10324-10002"
+  ]
+}

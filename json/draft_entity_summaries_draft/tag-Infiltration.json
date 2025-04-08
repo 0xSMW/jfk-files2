@@ -1,0 +1,43 @@
+{
+  "entity_name": "Infiltration",
+  "entity_type": "tag",
+  "document_count": 20,
+  "summary": "The documents highlight 'Infiltration' primarily in the context of CIA operations against Cuba, particularly during the early 1960s. These operations involved sending agents into Cuba for intelligence gathering, sabotage, recruitment of dissidents, and establishing communication networks. Projects like AMTRUNK, GYROSE, JEAN III, and ANTRUNK are mentioned, detailing specific missions, agent recruitment, and operational planning. The documents also reveal concerns about security, communication, and potential risks associated with these infiltration efforts. Some documents discuss the infiltration of Vietnamese Communist (VC) members in Saigon, showcasing the broader use of infiltration tactics beyond just Cuba. The timeline spans from the late 1950s to the mid-1970s, with a concentration of activity during the peak of the Cold War and the Cuban Missile Crisis. A notable pattern is the focus on disrupting anti-Castro groups and undermining the Cuban regime through covert operations.",
+  "key_connections": [
+    "Cuba",
+    "CIA",
+    "AMTRUNK",
+    "GYROSE",
+    "JEAN III",
+    "ANTRUNK",
+    "ACSI (Army Counter Intelligence)",
+    "AMDENIM-1",
+    "AMRUGB-5",
+    "Operation MONGOOSE",
+    "Vietnamese Communist (VC)",
+    "PBRUMEN (likely Cuba)"
+  ],
+  "significance": "In the context of the JFK assassination, 'Infiltration' is significant as it underscores the CIA's extensive covert operations against Cuba, which created a complex and volatile environment. These operations, and the individuals involved, have been scrutinized for potential links to the assassination, particularly concerning possible motives and connections between anti-Castro Cubans, the CIA, and the events surrounding JFK's death. The documents provide insight into the methods, targets, and personnel involved in these operations, which are relevant to understanding the broader context of the assassination.",
+  "document_ids": [
+    "104-10179-10209",
+    "176-10036-10087",
+    "104-10103-10112",
+    "202-10001-10203",
+    "104-10062-10062",
+    "104-10177-10175",
+    "104-10171-10003",
+    "104-10172-10133",
+    "104-10216-10148",
+    "104-10176-10068",
+    "104-10234-10101",
+    "104-10234-10102",
+    "104-10172-10147",
+    "104-10169-10265",
+    "104-10172-10059",
+    "104-10172-10062",
+    "104-10216-10273",
+    "104-10069-10185",
+    "104-10170-10146",
+    "157-10011-10003"
+  ]
+}

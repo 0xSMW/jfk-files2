@@ -1,0 +1,30 @@
+{
+  "entity_name": "Document Release",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Document Release, as a tag, encompasses various aspects of making documents public, particularly within the context of investigations and historical inquiries such as the JFK assassination records. The documents highlight the processes involved in determining which information can be released, the challenges in balancing transparency with national security or privacy concerns, and the coordination required with other agencies, both domestic and international. This includes navigating FOIA requests, addressing concerns from foreign intelligence services (like the British SIS), and managing the notification of individuals whose names appear in potentially releasable documents. The documents also reveal the existence of internal discussions and meetings concerning the management and potential impact of document releases.",
+  "key_connections": [
+    "Martin Luther King, Jr.",
+    "FOIA",
+    "Assassination Records Review Board (ARRB)",
+    "Director of Central Intelligence George Tenet",
+    "John F. Kennedy assassination",
+    "British Secret Intelligence Service (SIS)",
+    "Warren Commission",
+    "CIA",
+    "JFK Assassination Records Collection Act of 1992",
+    "Mexico City station",
+    "J. Barry Harrelson",
+    "Eileen M. Wukitch",
+    "Australian liaison documents",
+    "state cover documents"
+  ],
+  "significance": "In the context of the JFK assassination, 'Document Release' is significant because it represents the ongoing effort to provide transparency and access to historical records related to the event. The process involves navigating complex legal and political considerations, coordinating with various agencies, and addressing concerns about national security and individual privacy. The release of documents can potentially shed new light on the events surrounding the assassination, contributing to a more complete understanding of the historical record.",
+  "document_ids": [
+    "104-10433-10209",
+    "104-10328-10038",
+    "104-10326-10102",
+    "104-10326-10064",
+    "104-10331-10353"
+  ]
+}
