@@ -20,6 +20,10 @@ from tqdm import tqdm
 client = genai.Client(api_key=os.getenv('GEMINI_API_KEY'))
 model = "gemini-2.0-flash"
 
+# Define absolute paths
+INPUT_JSON_DIR = "/Users/stephenwalker/Code/ecosystem/jfk-files/json/2025/"
+OUTPUT_ENTITY_SUMMARIES_DIR = "/Users/stephenwalker/Code/ecosystem/jfk-files/json/entity_summaries/"
+
 def process_json_files():
     """
     Process all JSON files to extract entities (persons_mentioned, sender, recipient, tags),
@@ -33,7 +37,8 @@ def process_json_files():
     tags_dict = defaultdict(list)
     
     # Find all JSON files
-    json_files = glob.glob('json/2025/*.json')
+    # json_files = glob.glob('json/2025/*.json') # Old relative path
+    json_files = glob.glob(os.path.join(INPUT_JSON_DIR, '*.json')) # Use absolute path constant
     print(f"Found {len(json_files)} JSON files to process")
     
     # Process each JSON file
@@ -77,8 +82,9 @@ def process_json_files():
             print(f"Error processing {file_path}: {e}")
     
     # Create output directory
-    os.makedirs('entity_summaries', exist_ok=True)
-    
+    # os.makedirs('entity_summaries', exist_ok=True) # Old relative path
+    os.makedirs(OUTPUT_ENTITY_SUMMARIES_DIR, exist_ok=True) # Use absolute path constant
+
     # Generate summaries for each entity type
     generate_entity_summaries(persons_dict, "person-mentioned")
     generate_entity_summaries(senders_dict, "sender")
@@ -92,6 +98,18 @@ def generate_entity_summaries(entity_dict, entity_type):
     with ThreadPoolExecutor(max_workers=5) as executor:
         futures = {}
         for entity, documents in entity_dict.items():
+            # Construct the expected output filename
+            # entity_filename = f"entity_summaries/{entity_type}-{entity.replace('/', '_')}.json" # Old relative path
+            # Update sanitization to include replacing spaces with underscores
+            sanitized_entity = entity.replace('/', '_').replace('\\', '_').replace(' ', '_') # Updated sanitization
+            # Update filename format to {sanitized_entity}-{entity_type}.json
+            entity_filename = os.path.join(OUTPUT_ENTITY_SUMMARIES_DIR, f"{sanitized_entity}-{entity_type}.json") # Use new format and absolute path constant
+
+            # Check if the summary file already exists
+            if os.path.exists(entity_filename):
+                # print(f"Skipping {entity_type} '{entity}' - summary file already exists.") # Optional: uncomment to log skips
+                continue # Skip this entity if the file exists
+
             if len(documents) >= 3:  # Only process entities mentioned in at least 3 documents
                 future = executor.submit(
                     summarize_entity,
@@ -107,7 +125,11 @@ def generate_entity_summaries(entity_dict, entity_type):
                 result = future.result()
                 if result:
                     # Save the result to a file
-                    entity_filename = f"entity_summaries/{entity_type}-{entity.replace('/', '_')}.json"
+                    # entity_filename = f"entity_summaries/{entity_type}-{entity.replace('/', '_')}.json" # Old relative path
+                    # Update sanitization to include replacing spaces with underscores
+                    sanitized_entity = entity.replace('/', '_').replace('\\', '_').replace(' ', '_') # Updated sanitization
+                    # Update filename format to {sanitized_entity}-{entity_type}.json
+                    entity_filename = os.path.join(OUTPUT_ENTITY_SUMMARIES_DIR, f"{sanitized_entity}-{entity_type}.json") # Use new format and absolute path constant
                     with open(entity_filename, 'w', encoding='utf-8') as f:
                         json.dump(result, f, indent=2, ensure_ascii=False)
             except Exception as e:
@@ -176,4 +198,3 @@ def summarize_entity(entity, documents, entity_type):
 
 if __name__ == "__main__":
     process_json_files()
-
