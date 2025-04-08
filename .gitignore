@@ -3,7 +3,6 @@
 
 # original pdf files
 .documents/
-entity_summaries/
 jfk-explorer/node_modules/
 
 # Byte-compiled / optimized / DLL files
