@@ -94,16 +94,20 @@ def process_json_files():
 def generate_entity_summaries(entity_dict, entity_type):
     """Generate summaries for each entity using Gemini API"""
     print(f"Generating summaries for {len(entity_dict)} {entity_type} entities")
-    
+
     with ThreadPoolExecutor(max_workers=5) as executor:
         futures = {}
         for entity, documents in entity_dict.items():
-            # Construct the expected output filename
-            # entity_filename = f"entity_summaries/{entity_type}-{entity.replace('/', '_')}.json" # Old relative path
-            # Update sanitization to include replacing spaces with underscores
-            sanitized_entity = entity.replace('/', '_').replace('\\', '_').replace(' ', '_') # Updated sanitization
-            # Update filename format to {sanitized_entity}-{entity_type}.json
-            entity_filename = os.path.join(OUTPUT_ENTITY_SUMMARIES_DIR, f"{sanitized_entity}-{entity_type}.json") # Use new format and absolute path constant
+            # --- Start of Changes ---
+            # Sanitize the entity name
+            sanitized_entity = entity.replace(' ', '_')
+            chars_to_remove = ['/', '\\', '.', ',', "'", '[', ']']
+            for char in chars_to_remove:
+                sanitized_entity = sanitized_entity.replace(char, '')
+
+            # Construct the expected output filename using the new format and sanitization
+            entity_filename = os.path.join(OUTPUT_ENTITY_SUMMARIES_DIR, f"{entity_type}-{sanitized_entity}.json")
+            # --- End of Changes ---
 
             # Check if the summary file already exists
             if os.path.exists(entity_filename):
@@ -113,27 +117,35 @@ def generate_entity_summaries(entity_dict, entity_type):
             if len(documents) >= 3:  # Only process entities mentioned in at least 3 documents
                 future = executor.submit(
                     summarize_entity,
-                    entity,
+                    entity, # Pass original entity name to summarize function
                     documents,
                     entity_type
                 )
-                futures[future] = entity
-        
+                # --- Start of Changes ---
+                # Store both original entity name and the calculated filename
+                futures[future] = {"original_entity": entity, "filename": entity_filename}
+                # --- End of Changes ---
+
         for future in tqdm(as_completed(futures), total=len(futures), desc=f"Summarizing {entity_type}"):
-            entity = futures[future]
+            # --- Start of Changes ---
+            # Retrieve original entity name and filename from the dictionary
+            future_data = futures[future]
+            original_entity = future_data["original_entity"]
+            entity_filename = future_data["filename"]
+            # --- End of Changes ---
             try:
                 result = future.result()
                 if result:
-                    # Save the result to a file
-                    # entity_filename = f"entity_summaries/{entity_type}-{entity.replace('/', '_')}.json" # Old relative path
-                    # Update sanitization to include replacing spaces with underscores
-                    sanitized_entity = entity.replace('/', '_').replace('\\', '_').replace(' ', '_') # Updated sanitization
-                    # Update filename format to {sanitized_entity}-{entity_type}.json
-                    entity_filename = os.path.join(OUTPUT_ENTITY_SUMMARIES_DIR, f"{sanitized_entity}-{entity_type}.json") # Use new format and absolute path constant
+                    # --- Start of Changes ---
+                    # Use the pre-calculated entity_filename for saving
                     with open(entity_filename, 'w', encoding='utf-8') as f:
                         json.dump(result, f, indent=2, ensure_ascii=False)
+                    # --- End of Changes ---
             except Exception as e:
-                print(f"Error summarizing {entity}: {e}")
+                # --- Start of Changes ---
+                # Use the original entity name in the error message
+                print(f"Error summarizing {original_entity}: {e}")
+                # --- End of Changes ---
 
 def summarize_entity(entity, documents, entity_type):
     """Generate a summary for a specific entity using Gemini"""

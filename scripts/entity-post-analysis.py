@@ -20,9 +20,9 @@ import glob
 import re
 import shutil
 from collections import defaultdict
+from google import genai
+from google.genai import types as genai_types
 from google.api_core import exceptions as google_exceptions
-from google.generativeai import client as genai_client
-from google.generativeai import types as genai_types
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 import logging
@@ -48,7 +48,7 @@ MAX_MERGE_WORKERS = 50
 
 # --- Gemini Client Initialization ---
 try:
-    client = genai_client.Client(api_key=GEMINI_API_KEY)
+    client = genai.Client(api_key=GEMINI_API_KEY)
 except Exception as e:
     logging.error(f"Failed to initialize Gemini client: {e}")
     exit(1)
@@ -237,14 +237,14 @@ def get_entity_clusters_from_gemini(filepaths, entity_type_prefix, model_name):
 
     try:
         # Configure Gemini call for JSON output
-        generation_config = genai_types.GenerationConfig(
-            response_mime_type="application/json",
-            temperature=0.1 # Lower temperature for more deterministic clustering
+        generation_config = genai_types.GenerateContentConfig(
+            temperature=0.1, # Lower temperature for more deterministic clustering
+            response_mime_type="application/json" # Ensure JSON output is requested
         )
-        model = client.get_generative_model(model_name) # Use get_generative_model
-        response = model.generate_content(
+        response = client.models.generate_content(
+            model=model_name,
             contents=prompt,
-            generation_config=generation_config
+            config=generation_config
         )
 
         # Debug: Log the raw response text
@@ -368,14 +368,14 @@ def generate_merged_summary(canonical_name, entity_type, aggregated_data, model_
 
     try:
         # Configure Gemini call for JSON output
-        generation_config = genai_types.GenerationConfig(
-            response_mime_type="application/json",
-            temperature=0.3 # Slightly higher temp for synthesis creativity
+        generation_config = genai_types.GenerateContentConfig(
+            temperature=0.3, # Slightly higher temp for synthesis creativity
+            response_mime_type="application/json" # Ensure JSON output is requested
         )
-        model = client.get_generative_model(model_name)
-        response = model.generate_content(
+        response = client.models.generate_content(
+            model=model_name,
             contents=prompt,
-            generation_config=generation_config
+            config=generation_config
         )
 
         # Debug: Log the raw response text
