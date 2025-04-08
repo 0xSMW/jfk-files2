@@ -25,7 +25,7 @@ def download_file(url, folder):
 
 def main():
     # Create downloads folder
-    download_folder = "jfk_documents"
+    download_folder = "/Users/stephenwalker/Code/ecosystem/jfk-files/.documents/2025"
     if not os.path.exists(download_folder):
         os.makedirs(download_folder)
 
@@ -35,7 +35,7 @@ def main():
     # Extract file paths using regex
     pattern = r'href="(/files/research/jfk/releases/2025/0318/.*?\.pdf)"'
     
-    with open('links.txt', 'r') as f:
+    with open('links_2025.txt', 'r') as f:
         content = f.read()
         
     file_paths = re.findall(pattern, content)
