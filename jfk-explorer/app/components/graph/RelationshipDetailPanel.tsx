@@ -5,6 +5,8 @@ import Link from 'next/link';
 import { GraphData, GraphNode, GraphLink } from '@/app/lib/models/graph';
 import { Document } from '@/app/lib/models/document';
 import { Entity } from '@/app/lib/models/entity';
+// Remove getFileSystemSafeName if no longer needed
+// import { getFileSystemSafeName } from '@/app/lib/utils/helpers';
 
 interface RelationshipDetailPanelProps {
   selectedNode: GraphNode | null;
@@ -24,26 +26,28 @@ export default function RelationshipDetailPanel({
   inFocusMode = false
 }: RelationshipDetailPanelProps) {
   const [connectedNodes, setConnectedNodes] = useState<Array<{node: GraphNode, link: GraphLink, isSource: boolean}>>([]);
-  
+
   // Calculate connected nodes whenever selected node changes
   useEffect(() => {
     if (!selectedNode) {
       setConnectedNodes([]);
       return;
     }
-    
+
     const connections = graphData.links
       .filter(link => 
-        link.source === selectedNode.id || 
-        link.target === selectedNode.id
+        (typeof link.source === 'string' ? link.source : (link.source as any).id) === selectedNode.id ||
+        (typeof link.target === 'string' ? link.target : (link.target as any).id) === selectedNode.id
       )
       .map(link => {
-        const isSource = link.source === selectedNode.id;
-        const otherNodeId = isSource ? link.target : link.source;
+        const sourceId = typeof link.source === 'string' ? link.source : (link.source as any).id;
+        const targetId = typeof link.target === 'string' ? link.target : (link.target as any).id;
+        const isSource = sourceId === selectedNode.id;
+        const otherNodeId = isSource ? targetId : sourceId;
         const otherNode = graphData.nodes.find(n => n.id === otherNodeId);
-        
+
         if (!otherNode) return null;
-        
+
         return {
           node: otherNode,
           link,
@@ -51,10 +55,10 @@ export default function RelationshipDetailPanel({
         };
       })
       .filter((item): item is {node: GraphNode, link: GraphLink, isSource: boolean} => item !== null);
-    
+
     setConnectedNodes(connections);
   }, [selectedNode, graphData]);
-  
+
   if (!selectedNode) {
     return (
       <div className="p-8 text-center">
@@ -62,14 +66,20 @@ export default function RelationshipDetailPanel({
       </div>
     );
   }
-  
+
   const isDocument = selectedNode.type === 'document';
   const isEntity = selectedNode.type === 'entity';
-  const metadata = selectedNode.metadata as (Document | Entity);
-  
+  // Cast metadata, assuming it contains the full Entity or Document structure including slug etc.
+  const metadata = selectedNode.metadata as (Document | (Entity & { slug?: string; key_connection_slugs?: { name: string; slug: string; }[] }));
+
   // Safely extract tags from document metadata
   const documentTags = isDocument ? (metadata as Document).tags || [] : [];
-  
+
+  // Get entity slug from the node's metadata or directly if attached
+  const entitySlug = isEntity ? (metadata as Entity).slug || (selectedNode as any).slug : '';
+  // Get resolved key connection slugs
+  const keyConnectionSlugs = isEntity ? (metadata as Entity).key_connection_slugs || [] : [];
+
   return (
     <div className="h-full flex flex-col overflow-hidden">
       <div className="p-4 border-b bg-white flex justify-between items-start">
@@ -83,7 +93,7 @@ export default function RelationshipDetailPanel({
                 Document: {(metadata as Document).document_type || 'Unknown'}
               </span>
             )}
-            
+
             {isEntity && (
               <span className="inline-flex items-center rounded-full bg-purple-100 px-2.5 py-0.5 text-xs font-medium text-purple-800">
                 Entity: {(metadata as Entity).entity_type || 'Unknown'}
@@ -91,7 +101,7 @@ export default function RelationshipDetailPanel({
             )}
           </div>
         </div>
-        
+
         <button 
           onClick={onClose}
           className="text-gray-500 hover:text-gray-700"
@@ -102,10 +112,11 @@ export default function RelationshipDetailPanel({
           </svg>
         </button>
       </div>
-      
+
       <div className="flex-1 overflow-y-auto p-4">
         {isDocument && (
           <>
+            {/* Document details... */}
             <div className="mb-4">
               <div className="text-sm text-gray-700 grid grid-cols-2 gap-x-4 gap-y-2">
                 <div>
@@ -122,14 +133,14 @@ export default function RelationshipDetailPanel({
                 </div>
               </div>
             </div>
-            
+
             <div className="mb-6">
               <h4 className="text-sm font-medium text-gray-900 mb-1">Summary</h4>
               <p className="text-sm text-gray-700">
                 {(metadata as Document).summary_one_paragraph || 'No summary available.'}
               </p>
             </div>
-            
+
             {isDocument && documentTags.length > 0 && (
               <div className="mb-6">
                 <h4 className="text-sm font-medium text-gray-900 mb-2">Tags</h4>
@@ -137,6 +148,7 @@ export default function RelationshipDetailPanel({
                   {documentTags.map(tag => (
                     <Link 
                       key={tag} 
+                      // Link to visualization page using query param (needs encodeURIComponent)
                       href={`/visualization?entity=${encodeURIComponent(tag)}`}
                       className="inline-flex items-center rounded-full bg-gray-100 px-2.5 py-0.5 text-xs font-medium text-gray-800 hover:bg-gray-200"
                     >
@@ -146,7 +158,7 @@ export default function RelationshipDetailPanel({
                 </div>
               </div>
             )}
-            
+
             <div className="mt-4">
               <Link 
                 href={`/documents/${(metadata as Document).id}`}
@@ -157,16 +169,17 @@ export default function RelationshipDetailPanel({
             </div>
           </>
         )}
-        
+
         {isEntity && (
           <>
+            {/* Entity details... */}
             <div className="mb-6">
               <h4 className="text-sm font-medium text-gray-900 mb-1">Description</h4>
               <p className="text-sm text-gray-700">
                 {(metadata as Entity).summary || 'No description available.'}
               </p>
             </div>
-            
+
             {(metadata as Entity).significance && (
               <div className="mb-6">
                 <h4 className="text-sm font-medium text-gray-900 mb-1">Significance</h4>
@@ -175,7 +188,7 @@ export default function RelationshipDetailPanel({
                 </p>
               </div>
             )}
-            
+
             <div className="mb-4">
               <div className="flex items-center justify-between">
                 <h4 className="text-sm font-medium text-gray-900">Related Documents</h4>
@@ -183,27 +196,32 @@ export default function RelationshipDetailPanel({
                   {(metadata as Entity).document_count || 0}
                 </span>
               </div>
+              {/* Consider adding a link/button to view these documents */}
             </div>
-            
-            {(metadata as Entity).key_connections && (metadata as Entity).key_connections.length > 0 && (
+
+            {keyConnectionSlugs.length > 0 && (
               <div className="mb-6">
                 <h4 className="text-sm font-medium text-gray-900 mb-2">Key Connections</h4>
                 <div className="flex flex-wrap gap-1">
-                  {(metadata as Entity).key_connections.map(connection => (
-                    <Link 
-                      key={connection}
-                      href={`/visualization?entity=${encodeURIComponent(connection)}`}
-                      className="inline-flex items-center rounded-full bg-gray-100 px-2.5 py-0.5 text-xs font-medium text-gray-800 hover:bg-gray-200"
-                    >
-                      {connection}
-                    </Link>
-                  ))}
+                  {keyConnectionSlugs.map(connection => {
+                    // Link to the entity detail page using the resolved slug
+                    return (
+                      <Link
+                        key={connection.slug}
+                        href={`/entities/${connection.slug}`}
+                        className="inline-flex items-center rounded-full bg-purple-100 px-2.5 py-0.5 text-xs font-medium text-purple-800 hover:bg-purple-200"
+                      >
+                        {connection.name}
+                      </Link>
+                    );
+                  })}
                 </div>
               </div>
             )}
           </>
         )}
-        
+
+        {/* Connected Nodes Section */}
         <div className="mt-6 pt-4 border-t border-gray-200">
           <div className="flex items-center justify-between mb-2">
             <h4 className="text-sm font-medium text-gray-900">Connected Nodes</h4>
@@ -211,13 +229,13 @@ export default function RelationshipDetailPanel({
               {connectedNodes.length}
             </span>
           </div>
-          
+
           {connectedNodes.length > 0 ? (
             <div className="space-y-2">
               {connectedNodes.map(({ node, link, isSource }, index) => (
                 <div key={index} className="p-2 bg-white border rounded-md hover:shadow-sm transition-shadow">
                   <button
-                    onClick={() => onNodeSelect(node)}
+                    onClick={() => onNodeSelect(node)} // Selects node in graph
                     className="flex items-start w-full text-left"
                   >
                     <div className="w-2 h-2 mt-1.5 mr-2 rounded-full" 
@@ -240,7 +258,8 @@ export default function RelationshipDetailPanel({
           )}
         </div>
       </div>
-      
+
+      {/* Action Buttons */}
       <div className="p-3 border-t bg-gray-50 space-y-2">
         {isDocument && (
           <Link 
@@ -250,16 +269,16 @@ export default function RelationshipDetailPanel({
             Open Document
           </Link>
         )}
-        
-        {isEntity && (
+
+        {isEntity && entitySlug && ( // Check if entitySlug exists
           <Link 
-            href={`/entities/${encodeURIComponent(selectedNode.id.replace('entity-', ''))}`}
+            href={`/entities/${entitySlug}`} // Use the slug from the selected node
             className="w-full inline-flex justify-center items-center px-4 py-2 bg-purple-600 text-white rounded-md hover:bg-purple-700 text-sm font-medium"
           >
             View Entity Details
           </Link>
         )}
-        
+
         {onFocus && (
           <button
             onClick={() => onFocus(selectedNode)}

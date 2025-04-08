@@ -12,7 +12,7 @@ def convert_pdf_to_markdown(pdf_path, retries=3, initial_delay=1):
     try:
         # Extract filename without extension
         filename = os.path.splitext(os.path.basename(pdf_path))[0]
-        output_path = os.path.join('jfk_text', f'{filename}.md')
+        output_path = os.path.join('/Users/stephenwalker/Code/ecosystem/jfk-files/md/2025', f'{filename}.md')
 
         # Skip if already converted
         if os.path.exists(output_path):
@@ -97,10 +97,11 @@ def log_failed_file(filename):
         f.write(f"{filename}\n")
 
 def main():
-    # Get list of PDF files
+    # Get list of PDF files from the new path
+    pdf_dir = "/Users/stephenwalker/Code/ecosystem/jfk-files/.documents/2025"
     pdf_files = [
-        os.path.join('jfk_documents', f) 
-        for f in os.listdir('jfk_documents') 
+        os.path.join(pdf_dir, f) 
+        for f in os.listdir(pdf_dir) 
         if f.endswith('.pdf')
     ]
 
