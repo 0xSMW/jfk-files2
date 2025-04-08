@@ -1,0 +1,20 @@
+{
+  "entity_name": "Jacqueline Kennedy",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Jacqueline Kennedy was the First Lady of the United States during President John F. Kennedy's presidency. In the context of the JFK assassination, she is primarily mentioned as the recipient of condolences from various world leaders and representatives following her husband's death. These messages include condolences from the King and Queen of Thailand, Duong Van Minh of Saigon, and Kwame Nkrumah, President of Ghana. The documents highlight the global sympathy extended to her during this period of national and personal tragedy.",
+  "key_connections": [
+    "John F. Kennedy",
+    "Lyndon B. Johnson",
+    "King and Queen of Thailand",
+    "Duong Van Minh",
+    "Kwame Nkrumah",
+    "Kwesi Armah"
+  ],
+  "significance": "Jacqueline Kennedy's significance in the JFK assassination context lies in her role as the grieving widow of the assassinated president. The documents reflect the widespread international sympathy and support she received, underscoring her personal loss and the global impact of President Kennedy's death.",
+  "document_ids": [
+    "144-10001-10342",
+    "144-10001-10355",
+    "144-10001-10308"
+  ]
+}

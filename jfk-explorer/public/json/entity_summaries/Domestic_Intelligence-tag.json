@@ -1,0 +1,28 @@
+{
+  "entity_name": "Domestic Intelligence",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The documents reference \"Domestic Intelligence\" primarily in the context of FBI and Department of Justice activities, particularly concerning surveillance, counterintelligence, and responses to congressional inquiries. These activities span from the 1950s to the 1970s, covering topics such as political affiliations, anti-war movements, and sensitive operations. The FBI's involvement in domestic intelligence programs is a recurring theme, with documents indicating scrutiny from the Senate Select Committee on Intelligence Activities and the Rockefeller Commission. The documents also reveal the FBI's interest in individuals like Robert Scheer and organizations involved in political activism. The timeline spans from the early 1950s to the mid-1970s, reflecting a period of heightened domestic surveillance and counterintelligence efforts.",
+  "key_connections": [
+    "FBI",
+    "Department of Justice",
+    "Senate Select Committee on Intelligence Activities",
+    "Rockefeller Commission",
+    "Robert Scheer",
+    "Fair Play For Cuba Committee",
+    "Students for a Democratic Society",
+    "National Anti-War Conference",
+    "National Committee for a Free Europe (NCFE)",
+    "CIA",
+    "Martin Luther King Jr."
+  ],
+  "significance": "While the documents mention domestic intelligence activities, they do not directly link it to the JFK assassination. However, the documents indicate that the Rockefeller Commission files contain documents related to the Kennedy assassination, suggesting that domestic intelligence activities may have been investigated in connection to the assassination.",
+  "document_ids": [
+    "194-10002-10203_redacted",
+    "104-10071-10043",
+    "124-10185-10099_multirif",
+    "124-10271-10033_multirif_redacted",
+    "178-10004-10420",
+    "104-10225-10000"
+  ]
+}

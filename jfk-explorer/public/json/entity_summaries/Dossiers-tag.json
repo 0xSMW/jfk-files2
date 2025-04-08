@@ -1,0 +1,17 @@
+{
+  "entity_name": "Dossiers",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents describe the '201 system' used by the Operations Directorate. This system is a method for identifying, tracking, and managing information on individuals of interest. The system includes procedures for opening dossiers, assigning OI (Operational Interest) codes, and generating machine listings of these individuals based on various categories. The purpose is to control and file information about these persons of interest.",
+  "key_connections": [
+    "Operations Directorate",
+    "Individuals of interest",
+    "OI codes"
+  ],
+  "significance": "While the documents don't explicitly link the '201 system' to the JFK assassination, the system's function of tracking individuals of interest suggests its potential use in monitoring persons related to the assassination or subsequent investigations. The system's ability to categorize and generate lists of individuals could have been used to manage information related to the event.",
+  "document_ids": [
+    "104-10023-10087",
+    "104-10408-10316",
+    "104-10143-10088"
+  ]
+}

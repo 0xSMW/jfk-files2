@@ -1,0 +1,25 @@
+{
+  "entity_name": "J. B. Adams",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "summary": "J. B. Adams is mentioned in several documents related to the responses of intelligence agencies, particularly the FBI and CIA, to Congressional inquiries in 1975, specifically those from the Senate Select Committee on Intelligence Activities (also known as the Church Committee). The documents suggest Adams was involved in discussions and coordination regarding the release of classified information to Congress, focusing on protecting sensitive sources, methods, and ongoing investigations. The addendum dated 3/31/75 specifically mentions Adams in the context of a meeting between White House officials and intelligence agency representatives to coordinate responses to the Senate Committee regarding access to information. The documents do not explicitly state Adams' role or affiliation, but the context suggests involvement in intelligence matters or government administration during the period of heightened scrutiny following the JFK assassination and related investigations.",
+  "key_connections": [
+    "James Angleton",
+    "FBI",
+    "CIA",
+    "Senate Select Committee on Intelligence Activities",
+    "White House officials"
+  ],
+  "significance": "Based on the documents provided, J. B. Adams' significance in the JFK assassination context is indirect. The documents focus on the aftermath and investigations into intelligence activities following the assassination, rather than direct involvement in the event itself. Adams appears to be involved in managing the release of information to Congress during the investigations into intelligence agencies, which were partly spurred by concerns arising from the JFK assassination and related events.",
+  "document_ids": [
+    "124-10276-10400",
+    "124-10271-10299",
+    "124-10271-10003_multirif",
+    "124-10273-10007_multirif",
+    "124-10271-10033_multirif_redacted",
+    "124-10271-10011_multirif",
+    "124-10185-10100",
+    "124-10271-10299_multirif",
+    "124-10276-10400 (c06716411)"
+  ]
+}

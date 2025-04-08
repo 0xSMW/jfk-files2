@@ -1,0 +1,41 @@
+{
+  "entity_name": "Church Committee",
+  "entity_type": "tag",
+  "document_count": 17,
+  "summary": "The Church Committee, formally known as the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (SSCIA), was a U.S. Senate committee established in 1975 to investigate intelligence gathering for illegality by the CIA, National Security Agency (NSA), and Federal Bureau of Investigation (FBI). The committee's investigations covered a wide range of topics, including covert operations, assassination plots, domestic surveillance, and the use of media and academics by the CIA. The documents reveal the committee's deep dive into CIA activities, including the use of proprietary companies, potential executive actions like assassination plots (Operation Mongoose, ZRRIFLE), and the covert use of media and academics. The committee also examined the CIA's involvement in foreign affairs, such as the Lumumba assassination plan in the Congo and activities related to the Diem regime in Vietnam. The committee's work led to proposed restrictions on the CIA's operational use of academics and grantees and aimed to establish greater oversight and accountability within the intelligence community.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "NSA",
+    "William Colby",
+    "John F. Kennedy",
+    "Fidel Castro",
+    "Patrice Lumumba",
+    "Lyndon B. Johnson",
+    "Operation Mongoose",
+    "Project ZR/RIFLE",
+    "Senate Select Committee on Assassinations (SSCIA)",
+    "Gordon Gray",
+    "Rolando Cubela (AMLASH)"
+  ],
+  "significance": "The Church Committee's investigation touched upon the JFK assassination indirectly through its broader examination of CIA activities, including anti-Castro operations and potential connections to organized crime. One document references notes relating to Book V of the Church Committee report, referencing the CIA's interrogation of Tepedino regarding the AMLASH operation and Rolando Cubela's (AMLASH) connections, as well as the handling of AMLASH's name in the context of the JFK assassination investigation. Another document mentions miscellaneous records of the Church Committee covering topics such as anti-Castro activities, organized crime, the CIA, and the assassination of John F. Kennedy, featuring an article about Marie Lorenz, an alleged American Mata Hari who spied on Fidel Castro. While the committee's primary focus was not the JFK assassination, its inquiries into these areas provided context and potentially uncovered information relevant to understanding the events surrounding Kennedy's death.",
+  "document_ids": [
+    "157-10014-10144",
+    "157-10014-10133",
+    "157-10014-10125",
+    "157-10014-10109",
+    "178-10003-10176",
+    "104-10126-10253",
+    "157-10014-10178",
+    "178-10003-10311",
+    "178-10003-10453",
+    "157-10014-10227",
+    "157-10014-10121",
+    "157-10014-10137",
+    "157-10008-10253",
+    "157-10014-10100",
+    "157-10014-10185",
+    "157-10014-10242",
+    "157-10014-10151"
+  ]
+}

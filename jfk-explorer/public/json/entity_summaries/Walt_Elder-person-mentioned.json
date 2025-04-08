@@ -1,0 +1,18 @@
+{
+  "entity_name": "Walt Elder",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Walt Elder is a person mentioned in three documents related to CIA activities. The documents suggest his involvement in Project ZRRIFLE, as clarified in a response to the SSC's request for additional information. He is also listed in a document containing contact information of individuals, many of whom are identified as current or former CIA employees, along with notes about their employment history and interviews. Additionally, he is referenced in index cards summarizing CIA activities related to the assassination of Fidel Castro, including Operation Mongoose and interactions with Cuban exiles.",
+  "key_connections": [
+    "Project ZRRIFLE",
+    "CIA",
+    "Operation Mongoose",
+    "Cuban exiles"
+  ],
+  "significance": "Based on the documents, Walt Elder's significance in the JFK context is potentially related to CIA activities, specifically Project ZRRIFLE and possibly activities related to the assassination of Fidel Castro, which may have indirect connections to the broader context of the JFK assassination due to the political climate and related operations of the time. Further investigation would be needed to determine the extent and nature of his involvement.",
+  "document_ids": [
+    "104-10310-10014",
+    "104-10061-10207",
+    "157-10011-10005"
+  ]
+}

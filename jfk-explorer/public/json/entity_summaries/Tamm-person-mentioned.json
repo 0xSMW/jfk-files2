@@ -1,0 +1,19 @@
+{
+  "entity_name": "Tamm",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, \"Tamm\" is mentioned in the context of materials prepared for the Senate Select Committee (SSC) investigating intelligence activities in 1975. The documents relate to the FBI's coordination with the SSC, inquiries into historical memoranda, and monitoring of individuals contacted by the SSC. The documents do not provide specific details about Tamm's role or involvement, but suggest that Tamm is someone whose activities or communications were of interest to the FBI and the SSC during their investigation into intelligence activities. The documents also mention the FBI's monitoring of former agents and potential witnesses, which could be related to Tamm's involvement.",
+  "key_connections": [
+    "Senate Select Committee (SSC)",
+    "FBI",
+    "Douglas Durham",
+    "American Indian Movement (AIM)"
+  ],
+  "significance": "The provided documents do not explicitly link Tamm to the JFK assassination. The documents focus on the Senate Select Committee's investigation into intelligence activities in 1975, which is a separate matter. Therefore, the significance of Tamm in the JFK context cannot be determined from these documents.",
+  "document_ids": [
+    "124-10274-10001",
+    "124-10273-10071_multirif",
+    "124-10274-10001_multirif",
+    "124-10273-10086_multirif"
+  ]
+}

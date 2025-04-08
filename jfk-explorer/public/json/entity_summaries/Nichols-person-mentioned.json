@@ -1,0 +1,18 @@
+{
+  "entity_name": "Nichols",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, it is difficult to determine the exact identity or role of \"Nichols\" in the context of the JFK assassination. The documents primarily concern investigations into intelligence activities by the Senate Select Committee and internal procedures within the CIA and FBI. Nichols is mentioned in the context of the FBI's response to the Senate Select Committee (SSC) investigating intelligence activities, suggesting involvement in or knowledge of these activities. One document also outlines a procedure for handling information received from James Angleton of the CIA, who provides the FBI with intelligence outside regular CIA channels, particularly concerning Israeli matters. Without further context, it's impossible to ascertain Nichols' specific role, significance, or timeline of involvement related to the JFK assassination.",
+  "key_connections": [
+    "Senate Select Committee (SSC)",
+    "FBI",
+    "CIA",
+    "James Angleton"
+  ],
+  "significance": "The significance of \"Nichols\" in the JFK context is unclear based on the provided documents. Further information is needed to determine their role and relevance to the assassination.",
+  "document_ids": [
+    "124-10271-10299",
+    "124-10273-10071_multirif",
+    "124-10326-10100"
+  ]
+}

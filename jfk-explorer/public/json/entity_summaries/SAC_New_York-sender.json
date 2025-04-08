@@ -1,0 +1,23 @@
+{
+  "entity_name": "SAC, New York",
+  "entity_type": "sender",
+  "document_count": 3,
+  "summary": "SAC, New York, refers to the Special Agent in Charge of the FBI's New York field office. Based on the provided documents, SAC, New York, was involved in gathering intelligence and coordinating with the CIA on matters related to individuals of interest, particularly those with connections to Cuba or communist activities. This included monitoring individuals like Angela Prince Moutsos who traveled to Havana, utilizing informants like Samuel Adason Jaffe to gather information on Soviet nationals, and investigating Richard Thomas Gibson's connections to Cuban and communist activities. The documents indicate a pattern of cooperation between the FBI's New York office and the CIA in intelligence gathering and monitoring individuals with potential ties to foreign entities.",
+  "key_connections": [
+    "CIA",
+    "Angela Prince Moutsos",
+    "Pedros Moutsos",
+    "Samuel Adason Jaffe",
+    "Richard Thomas Gibson",
+    "Frances Kelley",
+    "Robert Williams",
+    "Fair Play for Cuba Committee",
+    "Monthly Review"
+  ],
+  "significance": "In the context of the JFK assassination, the significance of SAC, New York lies in its role in gathering intelligence on individuals and groups potentially connected to foreign entities, particularly Cuba and the Soviet Union. While the provided documents do not directly link SAC, New York to the assassination itself, they highlight the office's involvement in monitoring individuals and organizations that were of interest to the FBI and CIA during the Cold War era, some of whom may have had connections, direct or indirect, to events surrounding the assassination.",
+  "document_ids": [
+    "124-90140-10005",
+    "124-10274-10044",
+    "124-90146-10108"
+  ]
+}

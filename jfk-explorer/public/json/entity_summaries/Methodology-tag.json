@@ -1,0 +1,28 @@
+{
+  "entity_name": "Methodology",
+  "entity_type": "tag",
+  "document_count": 7,
+  "summary": "The documents highlight \"Methodology\" primarily in the context of CIA counterintelligence practices, media manipulation, and the verification of historical records related to the JFK assassination investigation. The Senate Select Committee hearings in 1976 (documents dated March 10, March 25, January 22, and March 9) discuss CIA methodologies concerning the use of academics, media, and grantees, including restrictions on unattributed publications and the operational use of American media organizations. James Angleton and Scotty Miler testified about CIA counterintelligence methodologies. Furthermore, the term appears in relation to the verification of tape transcriptions involving Yuri Nosenko, focusing on specific statements he made. Yuri Nosenko's testimony before the HSCA is also relevant. Donald Deneslya's interview also touches upon CIA activities. The documents reveal a pattern of scrutiny regarding the CIA's operational methods and the importance of accurate record-keeping in the investigation of the JFK assassination.",
+  "key_connections": [
+    "CIA",
+    "Senate Select Committee to Study Governmental Operations With Respect to Intelligence Activities",
+    "James Angleton",
+    "Scotty Miler",
+    "Yuri Nosenko",
+    "Lee Harvey Oswald",
+    "Donald Deneslya",
+    "HSCA",
+    "Media",
+    "Academics"
+  ],
+  "significance": "In the JFK context, \"Methodology\" refers to the specific techniques and procedures employed by the CIA, the Senate Select Committee, and the HSCA in gathering intelligence, conducting investigations, and verifying information related to Lee Harvey Oswald and potential Soviet involvement. The scrutiny of CIA methodologies is significant due to concerns about covert operations and potential manipulation of information, while the verification methodologies are crucial for ensuring the accuracy of historical records and testimonies.",
+  "document_ids": [
+    "157-10014-10133",
+    "157-10014-10125",
+    "180-10111-10051",
+    "157-10014-10006",
+    "104-10227-10003",
+    "157-10014-10121",
+    "180-10131-10324"
+  ]
+}

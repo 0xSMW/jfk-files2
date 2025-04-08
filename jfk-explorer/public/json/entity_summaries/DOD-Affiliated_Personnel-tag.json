@@ -1,0 +1,33 @@
+{
+  "entity_name": "DOD-Affiliated Personnel",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The documents reference several individuals who appear to be connected to or investigated by the Department of Defense (DOD) through various agencies like the Provost Marshal's Office (PMO), Military Intelligence Groups (e.g., 113th Intelligence Corps Group, 108th Military Intelligence Group), and the US Army. These individuals, such as Joachim S. Beer, David Reed Fromer, and Manuel Marti, were subjects of local agency checks, requests for information, and investigations, often involving collaboration with the FBI. The investigations covered various aspects, including background checks, verification of references, and tracking of aliases. The documents span from 1967 to 1971, with some later exhibit cover sheets from the 1990s, indicating ongoing interest or review of these cases. A notable pattern is the collaboration between military intelligence and the FBI in conducting these investigations.",
+  "key_connections": [
+    "Joachim S. Beer",
+    "Henry S. Beer",
+    "David Reed Fromer",
+    "Manuel Marti",
+    "Juanita Reyes",
+    "Manuel Adrian Sotomayor-Badillo",
+    "Cecil L. Griggs",
+    "Kenneth C. Griggs",
+    "Philip LaChapelle Jr.",
+    "FBI",
+    "Provost Marshal's Office (PMO)",
+    "113th Intelligence Corps Group",
+    "108th Military Intelligence Group",
+    "US Army"
+  ],
+  "significance": "While the documents do not explicitly link these DOD-affiliated personnel to the JFK assassination, the investigations and background checks suggest a broader interest in individuals who may have been of interest to military intelligence or law enforcement during the period surrounding the assassination. The significance lies in the potential for these individuals to have had some indirect connection or relevance to events or persons of interest related to the JFK investigation, warranting further scrutiny of their activities and associations.",
+  "document_ids": [
+    "194-10007-10266",
+    "194-10004-10161",
+    "194-10004-10388",
+    "194-10004-10147",
+    "194-10004-10149",
+    "194-10004-10400",
+    "194-10013-10013",
+    "194-10004-10362"
+  ]
+}

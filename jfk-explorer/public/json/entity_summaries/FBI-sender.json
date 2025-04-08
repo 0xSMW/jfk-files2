@@ -1,0 +1,27 @@
+{
+  "entity_name": "FBI",
+  "entity_type": "sender",
+  "document_count": 7,
+  "summary": "The FBI, as a sender in these documents, is shown to be involved in various intelligence and investigative activities. These activities include coordinating with the Senate Select Committee (SSC) on intelligence investigations, providing information to the CIA on Soviet activities, conducting mail interception programs targeting Soviet agents, and investigating potential Communist ties of individuals like Martin Luther King Jr. The documents span from 1960 to 1975, indicating a sustained involvement in intelligence gathering and information sharing with other agencies. A notable pattern is the FBI's role in responding to requests from other organizations, such as the CIA and the Senate Select Committee, and providing information on individuals and activities of interest.",
+  "key_connections": [
+    "Senate Select Committee (SSC)",
+    "CIA",
+    "Soviet Union",
+    "Martin Luther King Jr.",
+    "Stanley Levison",
+    "Department of Justice",
+    "Department of State",
+    "KGB",
+    "Bundesamt fuer Verfassungsschutz (BFV)"
+  ],
+  "significance": "While these documents do not directly relate to the JFK assassination, they highlight the FBI's broad intelligence and investigative capabilities during the Cold War era, including their interactions with other intelligence agencies and their focus on potential threats to national security. The documents showcase the FBI's role in gathering and disseminating information, which could be relevant in understanding the broader context of intelligence activities during the time of the JFK assassination.",
+  "document_ids": [
+    "124-10274-10001",
+    "124-90138-10073",
+    "124-10274-10029_multirif_redacted",
+    "124-10274-10011 (c06716583)",
+    "124-10238-10333_multirif",
+    "124-10179-10217",
+    "124-90137-10355"
+  ]
+}

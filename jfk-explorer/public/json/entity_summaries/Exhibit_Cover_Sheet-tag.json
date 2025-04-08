@@ -1,0 +1,20 @@
+{
+  "entity_name": "Exhibit Cover Sheet",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Exhibit Cover Sheets are used to catalog and organize documents, correspondence, and other materials related to investigations or specific subjects. In the context of the provided documents, these cover sheets pertain to correspondence involving individuals such as Kenneth C. Griggs, Cecil L. Griggs, and Philip LaChapelle Jr., as well as a letter from the FBI regarding David Reed Fromer. The cover sheets provide a structured way to identify and track these exhibits, indicating their date, title, and a brief summary of their contents. The documents span from 1967 to 1996, suggesting ongoing interest or investigation into the individuals and topics covered.",
+  "key_connections": [
+    "Kenneth C. Griggs",
+    "Cecil L. Griggs",
+    "Philip LaChapelle Jr.",
+    "David Reed Fromer",
+    "FBI (Federal Bureau of Investigation)",
+    "113th Intelligence Corps Group"
+  ],
+  "significance": "In the context of JFK assassination-related documents, exhibit cover sheets are significant for their role in organizing and cataloging evidence and information. They provide a structured way to track documents related to individuals and events potentially connected to the assassination, aiding in research and analysis. The presence of these cover sheets indicates that the associated documents were considered relevant to some investigation or inquiry, though the specific connection to the JFK assassination is not explicitly stated in the provided summaries.",
+  "document_ids": [
+    "194-10013-10011",
+    "194-10004-10161",
+    "194-10013-10013"
+  ]
+}

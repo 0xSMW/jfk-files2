@@ -1,0 +1,26 @@
+{
+  "entity_name": "Intelligence Collection",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "Intelligence collection, as a theme, appears in various contexts within the JFK assassination records. It encompasses activities ranging from CIA and FBI efforts to gather information on foreign intelligence operations within the US (specifically Israeli intelligence), to paramilitary training and asset assessment for intelligence purposes (PBRUMEN II team), and the broader operations of CIA stations like the Miami Station, which focused on anti-Castro activities and intelligence gathering in the Caribbean. The documents also reveal concerns about protecting intelligence collection methods, as seen in the CIA's request to postpone the release of certain assassination records. Furthermore, intelligence collection is linked to monitoring international conferences like the Pugwash Conference, indicating its use in gathering information on individuals and groups of interest. The timeline spans from the early 1960s to the late 1970s, reflecting ongoing intelligence activities.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Israeli intelligence",
+    "PBRUMEN II",
+    "Miami Station",
+    "Anti-Castro activities",
+    "Pugwash Conference",
+    "Assassination Records Review Board",
+    "House Select Committee on Assassinations"
+  ],
+  "significance": "In the JFK assassination context, 'Intelligence Collection' is significant because it highlights the intelligence community's broad range of activities and interests, some of which may have intersected with events surrounding the assassination. The documents suggest that intelligence collection efforts were focused on various targets, including foreign intelligence operations, paramilitary groups, and international conferences. The protection of intelligence collection methods was also a concern, as evidenced by the CIA's request to postpone the release of certain assassination records. While not directly implicating intelligence collection in the assassination itself, these documents provide insight into the operational environment and priorities of intelligence agencies during that period.",
+  "document_ids": [
+    "104-10330-10118",
+    "124-10276-10400",
+    "104-10215-10146",
+    "104-10229-10097",
+    "178-10004-10416",
+    "104-10165-10077"
+  ]
+}

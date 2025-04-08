@@ -1,0 +1,19 @@
+{
+  "entity_name": "Eugene F. Yeates",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Eugene F. Yeates is mentioned in several NSA documents related to the House Select Committee on Assassinations' (HSCA) investigation into the JFK assassination. The documents detail NSA's efforts to locate information related to the assassination, specifically concerning possible Cuban involvement. Yeates's specific role is not explicitly stated, but his name appears in the context of NSA's responses to HSCA requests for materials. The documents indicate that the NSA conducted multiple reviews of its files, including signals intelligence and Cuban communications, but found no intelligence material revealing Cuban involvement. The timeline of involvement spans from the initial reviews after the assassination in 1963 to the HSCA's investigation in 1978.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "David F. Christensen",
+    "Cuban communications",
+    "NSA"
+  ],
+  "significance": "Eugene F. Yeates's significance lies in his connection to the NSA's internal processes of searching for and providing information to the HSCA regarding the JFK assassination, particularly concerning potential Cuban involvement. While his specific role is not detailed, his name appears in documents outlining the NSA's response to the HSCA's inquiries.",
+  "document_ids": [
+    "144-10001-10138",
+    "144-10001-10178",
+    "144-10001-10164",
+    "144-10001-10185"
+  ]
+}

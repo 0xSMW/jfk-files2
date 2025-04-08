@@ -1,0 +1,25 @@
+{
+  "entity_name": "Robert F. Kennedy",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Robert F. Kennedy is mentioned in the context of CIA activities related to Cuba and anti-Castro operations. The documents suggest his involvement, or at least awareness, of sensitive operations such as Operation Mongoose, which involved potential assassination plots against Fidel Castro. He appears in discussions related to US plans for Cuba and differing opinions on action in Cuba. The documents also reference his brother, John F. Kennedy, and his administration's involvement in the Bay of Pigs invasion. Robert Kennedy's role seems to be one of oversight or awareness of these covert operations, particularly those targeting Cuba and Fidel Castro. The timeline of his involvement appears to be primarily during the Kennedy administration, specifically in the early 1960s.",
+  "key_connections": [
+    "John F. Kennedy",
+    "Edward Lansdale",
+    "William Harvey",
+    "Lyndon B. Johnson",
+    "Fidel Castro",
+    "Manuel Artime",
+    "CIA"
+  ],
+  "significance": "Robert F. Kennedy's significance in the JFK context lies in his potential knowledge and oversight of covert CIA operations, particularly those targeting Cuba and Fidel Castro. His involvement in Operation Mongoose and other anti-Castro activities could be relevant to understanding the broader context of US-Cuba relations and potential motives for the assassination of President Kennedy.",
+  "document_ids": [
+    "176-10030-10085",
+    "157-10014-10109",
+    "176-10030-10168",
+    "124-10326-10191",
+    "104-10303-10007",
+    "104-10110-10245",
+    "178-10002-10215"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "entity_name": "Carlos Marcello",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "summary": "Carlos Marcello is identified as a person of interest in several FBI documents, primarily in connection to Santo Trafficante Jr. The documents span from 1966 to 1975, indicating ongoing surveillance and investigation into Marcello's activities and associations. He is mentioned in the context of meetings with Trafficante in Florida and Louisiana, as well as travel plans to meet Trafficante's attorney in Texas. One document also connects him to discussions involving individuals linked to the CIA, Cuba, and the Bay of Pigs. The documents suggest that Marcello was a subject of interest due to his potential involvement in criminal activities and his connections to other individuals of interest to the FBI.",
+  "key_connections": [
+    "Santo Trafficante Jr.",
+    "Joseph Marcello",
+    "Frank Ragano",
+    "Giuseppe Gagliano",
+    "Sturgis",
+    "Barber",
+    "Knowless",
+    "Bill Johnson",
+    "Hunt",
+    "Carlos Prio",
+    "Marita Lorenz"
+  ],
+  "significance": "While the documents do not explicitly link Carlos Marcello to the JFK assassination, his association with Santo Trafficante Jr. and mentions in discussions related to the CIA, Cuba, and the Bay of Pigs place him within the milieu of individuals and events that have been scrutinized in connection to the assassination. The documents suggest a potential for involvement in conspiracies or activities related to anti-Castro efforts, which have been theorized as possible motives for the assassination.",
+  "document_ids": [
+    "124-10204-10212",
+    "135-10001-10237",
+    "124-10204-10213",
+    "124-10204-10206",
+    "124-10203-10294",
+    "124-10203-10292"
+  ]
+}

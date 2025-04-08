@@ -1,0 +1,17 @@
+{
+  "entity_name": "Martin",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Martin is a person mentioned in connection with intelligence operations in Tokyo in 1961. The documents suggest that Martin was a contact of interest to the CIA, potentially linked to Soviet intelligence. One document mentions ongoing intelligence operations in Tokyo, focusing on contacts related to Martin and potential connections to Soviet intelligence, including details about individuals like Maude L. Burris and locations such as the Berezka Restaurant. Another document is a CIA personnel contact list. The third document contains memoranda regarding a Special Group (5412) meeting and a disarmament meeting, but Martin's direct involvement in these meetings is not specified.",
+  "key_connections": [
+    "Soviet intelligence",
+    "Maude L. Burris",
+    "Berezka Restaurant"
+  ],
+  "significance": "The significance of Martin in the JFK assassination context is unclear based on the provided documents. The documents suggest Martin was a person of interest to the CIA due to potential connections to Soviet intelligence in Tokyo. However, there is no direct evidence linking Martin to the JFK assassination in these documents.",
+  "document_ids": [
+    "104-10219-10143",
+    "104-10161-10321",
+    "104-10310-10020"
+  ]
+}

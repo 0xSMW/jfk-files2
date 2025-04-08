@@ -1,0 +1,18 @@
+{
+  "entity_name": "Ernesto \"Che\" Guevara",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Ernesto \"Che\" Guevara was a prominent figure in the Cuban Revolution. The documents suggest that in the early 1960s, he held a significant position within the Cuban government, specifically at the Ministry of Industries. One document indicates an attempt to recruit Jorge Antonio Abasolo Garcia, an industrial engineer with ties to Guevara, as an asset, highlighting the interest in individuals connected to him. Another document reveals the existence of a subject (SUBJ) with access to Guevara and high-level planning sessions, indicating the importance of gathering intelligence related to his activities and the Cuban government's plans. While the documents do not directly link Guevara to the JFK assassination, they illustrate the CIA's interest in gathering intelligence on him and those around him during a period of heightened tensions between the US and Cuba.",
+  "key_connections": [
+    "Jorge Antonio Abasolo Garcia",
+    "Gustavo Abasolo Garcia (AMSEVER-2)",
+    "Cuban Ministry of Industries",
+    "SUBJ (Subject with access to Guevara)"
+  ],
+  "significance": "While not directly implicated in the JFK assassination in these documents, Ernesto \"Che\" Guevara's significance lies in his role as a key figure in the Cuban government during a period of intense Cold War tensions. The CIA's interest in gathering intelligence on him and those connected to him reflects the US government's broader efforts to monitor and potentially destabilize the Cuban regime.",
+  "document_ids": [
+    "104-10093-10109",
+    "104-10097-10360",
+    "124-10279-10258"
+  ]
+}

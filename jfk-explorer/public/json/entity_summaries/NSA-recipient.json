@@ -1,0 +1,18 @@
+{
+  "entity_name": "NSA",
+  "entity_type": "recipient",
+  "document_count": 3,
+  "summary": "The National Security Agency (NSA) is a U.S. intelligence agency that played a role in providing information and materials to congressional committees investigating the JFK assassination. The NSA provided materials to the House Select Committee on Assassinations (HSCA) and the Senate Select Committee on Intelligence (SSCI) related to Cuban intelligence networks and signals intelligence. The NSA reviewed its holdings and concluded that no intelligence material revealed Cuban involvement in the assassination. The NSA also classified portions of reports related to interviews conducted during the investigation due to sensitive communications intelligence information.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Senate Select Committee on Intelligence (SSCI)",
+    "Cuban intelligence networks",
+    "Sgt Nicholas B. Stevenson"
+  ],
+  "significance": "The NSA's significance in the JFK assassination context lies in its role as a holder of signals intelligence and communications data that could potentially shed light on foreign involvement, particularly Cuban, in the assassination. The HSCA requested materials from the NSA, and the NSA's review and response were part of the broader investigation into the circumstances surrounding President Kennedy's death.",
+  "document_ids": [
+    "144-10001-10175",
+    "144-10001-10206",
+    "144-10001-10164"
+  ]
+}

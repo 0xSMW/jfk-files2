@@ -1,0 +1,33 @@
+{
+  "entity_name": "Budget Officer",
+  "entity_type": "sender",
+  "document_count": 10,
+  "summary": "The documents provided do not explicitly mention a \"Budget Officer\" by name. However, they relate to the House Select Committee on Assassinations (HSCA) staff payroll records. The documents consist of payroll authorization forms, memoranda, and Final Determination Notifications from the Assassination Records Review Board (ARRB) regarding the postponement of certain information, specifically Social Security numbers, to protect personal privacy. These records detail the employment, salary adjustments, and positions of various HSCA staff members from 1976 to 1979. The ARRB's notifications address the release status of these payroll records, citing concerns about unwarranted invasions of privacy if Social Security numbers were disclosed. The documents also include correspondence and related materials for specific employees, such as Antoinette M. Roberts, Donald A. Purdy, Jr., Ann Furnald Taylor, Thomas Howarth, James Lerer Wolf, Elizabeth Ann Wolf, Ann Lyon Strickland, and Jane E. Godfrey.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board (ARRB)",
+    "Antoinette M. Roberts",
+    "Donald A. Purdy, Jr.",
+    "Ann Furnald Taylor",
+    "Thomas Howarth",
+    "James Lerer Wolf",
+    "Elizabeth Ann Wolf",
+    "Ann Lyon Strickland",
+    "Jane E. Godfrey",
+    "Louis Stokes",
+    "Henry B. Gonzalez"
+  ],
+  "significance": "While a specific \"Budget Officer\" is not identified, the documents highlight the administrative and financial aspects of the HSCA's operations, particularly concerning staff payroll. The ARRB's involvement in reviewing and potentially postponing the release of payroll information underscores the balance between transparency and protecting personal privacy in the context of assassination records. The documents provide insight into the individuals who worked on the HSCA investigation and the management of their compensation.",
+  "document_ids": [
+    "180-10070-10146",
+    "180-10071-10001",
+    "180-10071-10000",
+    "180-10068-10312",
+    "180-10070-10163",
+    "180-10060-10445",
+    "180-10070-10175",
+    "180-10070-10174",
+    "180-10147-10261",
+    "180-10068-10357"
+  ]
+}

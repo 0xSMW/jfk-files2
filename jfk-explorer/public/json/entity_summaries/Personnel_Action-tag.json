@@ -1,0 +1,41 @@
+{
+  "entity_name": "Personnel Action",
+  "entity_type": "tag",
+  "document_count": 13,
+  "summary": "Personnel Actions, as reflected in the documents, pertain to various administrative changes and events in the careers of CIA employees. These actions encompass a range of activities, including reassignments, promotions, retirements, resignations, leaves of absence, and terminations. The documents highlight the use of specific forms, such as 'Request for Personnel Action,' to initiate and record these changes. The records also include details about employees' involvement in the CIA Retirement and Disability System, security clearances for overseas assignments, and recognition for service, such as the Intelligence Medal of Merit. The documents span from the 1950s to the 1980s, indicating the ongoing nature of personnel management within the CIA. A notable pattern is the documentation of employees' transitions, whether through reassignment, retirement, or termination, and the formal processes involved.",
+  "key_connections": [
+    "Newton S. Miler",
+    "James A. Noel",
+    "Joseph S. Piccolo",
+    "Floryan R. Karty",
+    "Anna Tarasoff",
+    "Thomas B. CASASIN (J. Richardson)",
+    "Balmes N. Hidalgo Jr.",
+    "John F. Rittenhouse",
+    "David E. Murphy",
+    "James P. O'Connell, Jr.",
+    "Jeremy K. Benadum",
+    "Herman E. Kimsey",
+    "CIA Retirement and Disability System",
+    "Mexico City",
+    "Bangkok",
+    "Paris Station",
+    "North Vietnamese Intelligence Service"
+  ],
+  "significance": "In the context of the JFK assassination, 'Personnel Action' documents themselves do not directly relate to the assassination. However, they provide insight into the operational and administrative aspects of the CIA during the period relevant to the assassination. These documents offer a glimpse into the careers and movements of individuals who may have been involved in events surrounding the assassination, potentially revealing connections or shedding light on the organizational structure and activities of the CIA at the time.",
+  "document_ids": [
+    "104-10224-10007",
+    "104-10291-10013",
+    "104-10225-10003",
+    "104-10222-10043",
+    "104-10194-10015",
+    "104-10194-10019",
+    "104-10194-10022",
+    "104-10119-10338",
+    "104-10224-10002",
+    "104-10194-10014",
+    "104-10224-10008",
+    "104-10120-10274",
+    "104-10224-10004"
+  ]
+}

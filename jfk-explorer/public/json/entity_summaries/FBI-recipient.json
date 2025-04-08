@@ -1,0 +1,19 @@
+{
+  "entity_name": "FBI",
+  "entity_type": "recipient",
+  "document_count": 3,
+  "summary": "Based on the provided documents, the FBI is mentioned as a recipient of intelligence reports from other agencies like the NSA and CIA. The documents do not directly implicate the FBI in the JFK assassination but rather show them receiving information related to national security matters, such as the activities of insurgent groups (Cuban Revolutionary Junta), travel of Communist nationals, and the activities of Black Power advocates. The documents span from 1968 to 1971, indicating a period during which the FBI was receiving intelligence on various potential threats.",
+  "key_connections": [
+    "NSA",
+    "CIA",
+    "Cuban Revolutionary Junta",
+    "Communist nationals",
+    "Dale Smith"
+  ],
+  "significance": "The provided documents do not directly link the FBI to the JFK assassination. Their significance lies in their role as a recipient of intelligence related to national security concerns during the late 1960s and early 1970s.",
+  "document_ids": [
+    "124-10223-10159",
+    "124-90074-10051",
+    "104-10071-10021"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "entity_name": "South Korea",
+  "entity_type": "tag",
+  "document_count": 11,
+  "summary": "In November 1963, South Korea was significantly impacted by the assassination of President John F. Kennedy. The documents reveal that South Korean officials expressed deep sorrow and took immediate steps to honor Kennedy, including flying flags at half-mast and conducting memorial rites in Seoul. High-ranking South Korean officials, including Chairman PAK and Prime Minister KIM (YO'NG CHO'L), traveled to Washington D.C. to attend Kennedy's funeral, with arrangements made for their security and meetings with U.S. officials. The documents also highlight South Korea's internal political situation, particularly the preparations for the National Assembly General Elections in November 1963, along with concerns about election violations and political stability. Furthermore, there was a report of a potential coup in South Korea mentioned in an NSA SIGINT Command Center OPSUM. The South Korean Ambassador in Washington reported on the positive reactions to the South Korean President's visit to the United States following Kennedy's assassination.",
+  "key_connections": [
+    "John F. Kennedy",
+    "Pak Chong Hui",
+    "Kim (Yo'ng Cho'l)",
+    "Washington D.C.",
+    "National Assembly General Elections",
+    "United States"
+  ],
+  "significance": "South Korea's significance in the JFK assassination context primarily revolves around the nation's reaction to Kennedy's death, the attendance of South Korean officials at the funeral, and the potential impact of Kennedy's assassination on South Korea's internal political stability and relations with the United States. The documents also suggest that the US government was monitoring the political situation in South Korea, including the possibility of a coup.",
+  "document_ids": [
+    "177-10002-10098",
+    "104-10290-10190",
+    "144-10001-10334",
+    "144-10001-10329",
+    "144-10001-10333",
+    "144-10001-10332",
+    "144-10001-10370",
+    "144-10001-10331",
+    "144-10001-10326",
+    "144-10001-10279",
+    "144-10001-10291"
+  ]
+}

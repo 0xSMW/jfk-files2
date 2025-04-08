@@ -1,0 +1,23 @@
+{
+  "entity_name": "Communications",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents highlight various aspects of communications within the CIA and related operations. They cover secure voice and high-speed data transmission using Collins modems, as well as communication methods employed by agents in the field, including AMFAUNA-1's network in Cuba. The communications also involve recruitment, potential agents, sabotage objectives, and supply caches. The documents also mention the use of guerilla warfare training, case files on agents, instructions, legalities, communication methods, retreat plans, training information, and document translations.",
+  "key_connections": [
+    "UMWAVE",
+    "Cuba",
+    "DGI",
+    "Collins Modem",
+    "Station 'D'",
+    "VTC",
+    "AMFAUNA-1",
+    "JMWAVE"
+  ],
+  "significance": "In the context of the JFK assassination, secure and reliable communications were crucial for intelligence gathering, covert operations, and maintaining secrecy. The documents suggest the CIA's focus on upgrading communication technology and establishing secure channels for agents operating in hostile environments like Cuba. Understanding these communication networks and protocols is essential for tracing the flow of information and identifying potential links to events surrounding the assassination.",
+  "document_ids": [
+    "104-10075-10373",
+    "104-10183-10347",
+    "104-10107-10180",
+    "104-10070-10079"
+  ]
+}

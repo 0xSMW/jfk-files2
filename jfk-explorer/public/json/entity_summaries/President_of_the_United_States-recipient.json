@@ -1,0 +1,21 @@
+{
+  "entity_name": "President of the United States",
+  "entity_type": "recipient",
+  "document_count": 4,
+  "summary": "The President of the United States, specifically John F. Kennedy and later Lyndon B. Johnson, is a key recipient of intelligence information and advice in these documents. The documents highlight the President's role in receiving intelligence briefings, setting agendas for intelligence advisory boards, and being informed about critical national security issues. The President's Foreign Intelligence Advisory Board (PFIAB) directly advises the President on intelligence matters, and the President receives regular intelligence checklists covering global hotspots and potential threats. The documents span from early 1963 to early 1964, indicating a continuous flow of intelligence to the President during this period, including information related to Cuba, Soviet activities, and other international concerns. The President's involvement is primarily as the ultimate consumer of intelligence, using it to inform policy decisions and national security strategies.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Acting Director of Central Intelligence",
+    "Director of the National Reconnaissance Office",
+    "Cuba",
+    "Soviet Union",
+    "Lyndon B. Johnson"
+  ],
+  "significance": "The President of the United States is significant in the JFK assassination context because they were the head of state and the ultimate authority responsible for national security. The documents reveal the intelligence landscape and the types of information being provided to the President in the lead-up to and immediately following the assassination. Understanding what the President knew and when they knew it is crucial for analyzing the events surrounding the assassination and its aftermath.",
+  "document_ids": [
+    "177-10002-10098",
+    "206-10001-10002",
+    "206-10001-10012",
+    "206-10001-10011"
+  ]
+}

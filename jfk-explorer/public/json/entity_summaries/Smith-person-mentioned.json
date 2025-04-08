@@ -1,0 +1,13 @@
+{
+  "entity_name": "Smith",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, there is insufficient information to provide a comprehensive summary about \"Smith.\" The documents mention meetings and activities of the Director of Central Intelligence (DCI), U.S. policy on a potential coup in Vietnam, and a Vietnamese Communist analysis of U.S. military aid to Vietnam. However, none of the document summaries explicitly mention an individual named \"Smith\" or their role in any of the events described. Therefore, it's impossible to determine Smith's role, significance, connections, timeline of involvement, or any notable patterns based solely on these documents.",
+  "key_connections": [],
+  "significance": "Without further information from the provided documents, the significance of \"Smith\" in the JFK context cannot be determined.",
+  "document_ids": [
+    "104-10306-10011",
+    "176-10036-10173",
+    "176-10036-10085"
+  ]
+}

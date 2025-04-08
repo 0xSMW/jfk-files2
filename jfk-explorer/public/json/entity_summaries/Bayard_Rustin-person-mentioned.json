@@ -1,0 +1,28 @@
+{
+  "entity_name": "Bayard Rustin",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "summary": "Bayard Rustin is mentioned in documents primarily concerning FBI investigations into Martin Luther King Jr., the Southern Christian Leadership Conference (SCLC), and Stanley Levison. The documents, largely consisting of memoranda summarizing the testimony of retired FBI Special Agent Alan G. Sentinella before the Senate Select Committee (SSC), focus on electronic surveillance, potential communist influence, and the FBI's operational policies regarding these individuals and organizations. While Rustin is mentioned in these contexts, the documents do not provide specific details about his direct involvement or activities. His name appears alongside those of King, Levison, and the SCLC, suggesting a connection within the civil rights movement that drew the attention of the FBI during this period.",
+  "key_connections": [
+    "Martin Luther King Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "Stanley Levison",
+    "Alan G. Sentinella",
+    "FBI",
+    "Senate Select Committee (SSC)"
+  ],
+  "significance": "Based on the provided documents, Bayard Rustin's significance in the JFK context is indirect. He is mentioned in connection with FBI investigations into Martin Luther King Jr. and Stanley Levison, which were subjects of interest to the Senate Select Committee. However, the documents do not explicitly link Rustin to the JFK assassination or any related events. His presence in these documents primarily reflects his association with key figures and organizations under FBI scrutiny during the civil rights era.",
+  "document_ids": [
+    "124-10276-10482_multirif",
+    "124-10274-10358_multirif",
+    "124-10273-10014_multirif",
+    "124-10273-10016_multirif",
+    "124-10273-10012_multirif",
+    "124-10274-10357_multirif",
+    "124-10273-10022_multirif",
+    "124-10273-10008_multirif",
+    "124-10276-10483_multirif",
+    "124-10238-10329_multirif",
+    "124-10273-10018_multirif"
+  ]
+}

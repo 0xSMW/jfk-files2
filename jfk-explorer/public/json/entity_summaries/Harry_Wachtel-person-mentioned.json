@@ -1,0 +1,27 @@
+{
+  "entity_name": "Harry Wachtel",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "summary": "Based on the provided documents, Harry Wachtel is mentioned in the context of FBI investigations into Martin Luther King Jr., the Southern Christian Leadership Conference (SCLC), and Stanley Levison. The documents consist of memoranda and testimonies from Alan G. Sentinella before the Senate Select Committee (SSC) in 1975. While Wachtel's specific role or involvement is not detailed in these summaries, his name appears alongside those of King, the SCLC, and Levison, suggesting a connection within the scope of the FBI's surveillance and investigations during that period. The documents focus on electronic surveillance, potential communist influence, and the FBI's operational policies related to these individuals and organizations.",
+  "key_connections": [
+    "Martin Luther King Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "Stanley Levison",
+    "Alan G. Sentinella",
+    "FBI",
+    "Senate Select Committee (SSC)"
+  ],
+  "significance": "The significance of Harry Wachtel in the JFK context is not directly apparent from these documents. His connection to the investigations of Martin Luther King Jr., the SCLC, and Stanley Levison is established, but his specific role or relevance to the JFK assassination is not mentioned. Further information would be needed to determine his significance in that context.",
+  "document_ids": [
+    "124-10276-10482_multirif",
+    "124-10274-10358_multirif",
+    "124-10273-10014_multirif",
+    "124-10273-10016_multirif",
+    "124-10273-10012_multirif",
+    "124-10274-10357_multirif",
+    "124-10273-10022_multirif",
+    "124-10273-10008_multirif",
+    "124-10276-10483_multirif",
+    "124-10273-10018_multirif"
+  ]
+}

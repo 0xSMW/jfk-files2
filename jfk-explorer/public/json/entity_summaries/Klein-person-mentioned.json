@@ -1,0 +1,19 @@
+{
+  "entity_name": "Klein",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Klein is mentioned in three memoranda related to a visit by Julia Wetzel of the NSA to the House Select Committee on Assassinations (HSCA) on November 28, 1978. Klein, along with Cornwell, conducted an interview with Sgt. Nicholas B. Stevenson, USAF, regarding a facility capable of collecting the Lisbon-Tangier link. The report generated from this interview was reviewed by Wetzel, who ensured its classification due to sensitive information. The documents suggest Klein's involvement in gathering information relevant to the HSCA's investigation, specifically concerning communications intelligence.",
+  "key_connections": [
+    "Cornwell",
+    "Nicholas B. Stevenson",
+    "Julia Wetzel",
+    "House Select Committee on Assassinations (HSCA)",
+    "Lisbon-Tangier link"
+  ],
+  "significance": "Klein's significance in the JFK context lies in their role in interviewing Sgt. Nicholas B. Stevenson and contributing to a report containing sensitive communications intelligence information that was reviewed by the HSCA. The specific relevance of the Lisbon-Tangier link to the JFK assassination is not explicitly stated in the provided documents, but the classification of the report suggests its potential importance to the investigation.",
+  "document_ids": [
+    "144-10001-10175",
+    "144-10001-10148",
+    "144-10001-10249"
+  ]
+}

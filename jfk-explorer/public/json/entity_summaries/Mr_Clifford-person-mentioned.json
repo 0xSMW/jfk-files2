@@ -1,0 +1,21 @@
+{
+  "entity_name": "Mr. Clifford",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, Mr. Clifford is mentioned in the context of the President's Foreign Intelligence Advisory Board (PFIAB) meetings and related discussions from 1962 to 1964. The documents cover a range of topics including the OXCART project, intelligence budget allocations, Operation MONGOOSE (related to Cuba), National Reconnaissance Office (NRO), and National Signals Intelligence (SIGINT) program. Mr. Clifford's specific role or involvement is not explicitly detailed in the summaries, but his presence is implied through his association with the PFIAB's activities and discussions during this period. The documents suggest that the PFIAB was actively involved in overseeing and advising on various intelligence operations and programs during the Kennedy administration.",
+  "key_connections": [
+    "DCI McCone",
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "OXCART project",
+    "Operation MONGOOSE",
+    "National Reconnaissance Office (NRO)",
+    "National Signals Intelligence (SIGINT)"
+  ],
+  "significance": "Without more specific information, it is difficult to determine Mr. Clifford's direct significance to the JFK assassination context. His association with the PFIAB, which oversaw intelligence activities, suggests a potential indirect connection, but further details would be needed to establish any meaningful link.",
+  "document_ids": [
+    "178-10004-10053",
+    "206-10001-10006",
+    "206-10001-10011",
+    "206-10001-10017"
+  ]
+}

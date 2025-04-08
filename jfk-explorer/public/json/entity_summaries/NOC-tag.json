@@ -1,0 +1,21 @@
+{
+  "entity_name": "NOC",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "NOC stands for Non-Official Cover, referring to individuals working for the CIA under a guise that does not reveal their affiliation with the agency. In the context of the JFK assassination documents, NOCs are mentioned in relation to the House Select Committee on Assassinations (HSCA) investigations, where guidelines were established for interviews with NOCs to protect sources and operational security. One document specifically mentions a NOC involved in transcribing TELTAP tapes related to Oswald, raising concerns about potential disclosure. Another document details the turnover from NOC JAGGER to NOC CORDLE.",
+  "key_connections": [
+    "CIA",
+    "House Select Committee on Assassinations (HSCA)",
+    "Oswald",
+    "TELTAP tapes",
+    "NOC JAGGER",
+    "NOC CORDLE"
+  ],
+  "significance": "NOCs are significant in the JFK context because their involvement, if exposed, could compromise CIA operations and sources. The documents suggest concerns about protecting the identities of NOCs during investigations into the assassination, particularly regarding their potential roles in events or evidence related to the case.",
+  "document_ids": [
+    "104-10326-10082",
+    "104-10067-10043",
+    "104-10065-10075",
+    "104-10326-10087"
+  ]
+}

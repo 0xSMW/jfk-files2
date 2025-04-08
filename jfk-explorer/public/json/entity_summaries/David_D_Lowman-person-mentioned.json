@@ -1,0 +1,19 @@
+{
+  "entity_name": "David D. Lowman",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "David D. Lowman was an employee of the National Security Agency (NSA). In December 1975, Lowman forwarded messages related to Lee Harvey Oswald's proposed trip to Russia in 1963 to the Senate Select Committee investigating President Kennedy's assassination. This action indicates Lowman's role in providing information and documentation to the Senate Select Committee regarding potential connections between Oswald and foreign entities, specifically in the context of the JFK assassination investigation. The documents suggest that Lowman was a point of contact within the NSA for the Senate Select Committee's inquiries related to the assassination.",
+  "key_connections": [
+    "NSA",
+    "Lee Harvey Oswald",
+    "Senate Select Committee",
+    "Warren Commission",
+    "Russia"
+  ],
+  "significance": "David D. Lowman's significance lies in his role as a conduit of information from the NSA to the Senate Select Committee investigating the JFK assassination. He facilitated the transfer of documents related to Lee Harvey Oswald's potential connections to Russia, contributing to the committee's investigation into possible foreign involvement in the assassination.",
+  "document_ids": [
+    "144-10001-10288",
+    "144-10001-10125",
+    "144-10001-10212"
+  ]
+}

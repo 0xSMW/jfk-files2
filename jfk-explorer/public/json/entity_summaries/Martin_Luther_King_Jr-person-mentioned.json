@@ -1,0 +1,27 @@
+{
+  "entity_name": "Martin Luther King, Jr.",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "summary": "Martin Luther King, Jr. is mentioned in these documents primarily in the context of investigations into his assassination and potential connections to other individuals and organizations. Several documents relate to the House Select Committee on Assassinations (HSCA) investigation into King's death, including requests for information on groups like the Flemish Order of Militants (VMO). One document details the CIA's dissemination of information about Eric Starvo Galt (aliases Harvey Lowmyer, John Willard), the suspected assassin of Martin Luther King, Jr., to multiple stations worldwide, requesting assistance in locating him. The documents also reveal FBI investigations into King's alleged Communist ties and connections with Stanley Levison, responding to requests from the Senate Select Committee on Intelligence Activities (SSC).",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Flemish Order of Militants (VMO)",
+    "Eric Starvo Galt (aliases Harvey Lowmyer, John Willard)",
+    "Stanley Levison",
+    "Senate Select Committee on Intelligence Activities (SSC)"
+  ],
+  "significance": "While the documents do not directly implicate Martin Luther King, Jr. in the JFK assassination, they highlight the investigations into his own assassination and the potential connections between various individuals and organizations. The documents also reveal the FBI's scrutiny of King's activities and associations, reflecting the broader political and social climate of the time. The documents show the HSCA was investigating the death of Martin Luther King, Jr.",
+  "document_ids": [
+    "104-10337-10001",
+    "124-10271-10003_multirif",
+    "104-10066-10260",
+    "104-10305-10005",
+    "104-10431-10102",
+    "104-10065-10386",
+    "124-10238-10333_multirif",
+    "124-10271-10011_multirif",
+    "104-10012-10035",
+    "124-10271-10299_multirif",
+    "104-10071-10139"
+  ]
+}

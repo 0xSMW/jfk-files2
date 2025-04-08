@@ -1,0 +1,15 @@
+{
+  "entity_name": "GOLDSMITH, MICHAEL",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Michael Goldsmith was an employee of the Select Committee on Assassinations (SCA). He is listed in payroll and certification reports from April, August, and December of 1978. These documents provide his name and salary information during his employment with the committee. The documents do not specify his role within the committee, but his presence on the payroll indicates he was a staff member.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Michael Goldsmith's significance lies in his employment with the Select Committee on Assassinations, indicating his involvement in the investigation, though his specific role is not detailed in the provided documents.",
+  "document_ids": [
+    "180-10125-10078",
+    "180-10125-10087",
+    "180-10125-10083"
+  ]
+}

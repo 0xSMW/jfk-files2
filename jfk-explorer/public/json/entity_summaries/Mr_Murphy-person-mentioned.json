@@ -1,0 +1,20 @@
+{
+  "entity_name": "Mr. Murphy",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Mr. Murphy appears in the context of high-level discussions and meetings related to intelligence activities during the early 1960s. He is mentioned in the minutes of a PFIAB Covert Action Panel meeting discussing covert actions globally, including CIA support in Chile, the situation in Vietnam, and operations related to Cuba. He is also present in the context of a meeting with the Warren Commission, where topics such as Lee Harvey Oswald's time in the Soviet Union and the CIA's file on Oswald were discussed. Additionally, he is mentioned in the agenda for the President's Foreign Intelligence Advisory Board meetings, which focused on intelligence activities pertaining to Cuba. The documents suggest Mr. Murphy was involved in or privy to discussions regarding significant intelligence matters and covert operations during this period.",
+  "key_connections": [
+    "Special Group",
+    "Warren Commission",
+    "President's Foreign Intelligence Advisory Board",
+    "CIA",
+    "Lee Harvey Oswald",
+    "Jack Ruby"
+  ],
+  "significance": "The documents suggest Mr. Murphy was involved in intelligence matters and covert operations during the time of the JFK assassination. His presence in meetings related to the Warren Commission indicates his potential knowledge of information relevant to the investigation, although the exact nature and extent of his involvement remain unclear based on these documents alone.",
+  "document_ids": [
+    "206-10001-10014",
+    "135-10001-10283",
+    "206-10001-10011"
+  ]
+}

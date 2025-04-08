@@ -1,0 +1,26 @@
+{
+  "entity_name": "Finance",
+  "entity_type": "tag",
+  "document_count": 6,
+  "summary": "The 'Finance' entity, as represented in these documents, pertains to the financial aspects of CIA operations and activities, including salary payments, operational funding, and financial transactions related to individuals and projects. It encompasses the management and disbursement of funds for various purposes, such as agent recruitment (Emilio Americo Rodriguez), payments to individuals involved in specific operations (Bivard G. Tichborn), and the financial administration of programs like radio broadcasts related to Cuba. The documents also touch on investigations into financial transactions of individuals like E. Howard Hunt and the financial records associated with Cuban-related activities. The timeline spans from 1960 to 1973, reflecting ongoing financial activities related to covert operations and intelligence gathering.",
+  "key_connections": [
+    "Emilio Americo Rodriguez",
+    "Bivard G. Tichborn",
+    "E. Howard Hunt",
+    "Hada Mireya Rosete",
+    "Revolutionary Council (Cuba)",
+    "Radio America",
+    "WIROGUE/1",
+    "Habana Station",
+    "AMBUD-3 radio program"
+  ],
+  "significance": "In the context of these documents, 'Finance' is significant as it highlights the financial mechanisms supporting various CIA operations and personnel, some of which are related to Cuba and individuals potentially connected to events surrounding the JFK assassination. While the documents do not directly link 'Finance' to the assassination, they provide insight into the financial infrastructure supporting covert activities during that era, which could be relevant for understanding the broader context of events.",
+  "document_ids": [
+    "104-10180-10155",
+    "104-10174-10033",
+    "104-10173-10130",
+    "104-10236-10075",
+    "104-10245-10000",
+    "104-10182-10069"
+  ]
+}

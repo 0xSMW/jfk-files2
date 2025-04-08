@@ -1,0 +1,19 @@
+{
+  "entity_name": "Ambassador YOST",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Ambassador YOST is mentioned in the context of Cambodian-U.S. relations following President Kennedy's assassination. The documents suggest that Cambodia demanded apologies from American ambassadors, including YOST, for statements made about Cambodia. These demands were part of Cambodia's conditions for resolving a dispute with the U.S. through Philippine mediation. The documents also highlight Washington's concern over a Cambodian broadcast that appeared to celebrate the deaths of perceived enemies, possibly including President Kennedy, leading to diplomatic actions. Cambodia later clarified that their joy stemmed from liberation from Diem and Thanarat's threats, not Kennedy's death, and that they observed national mourning for Kennedy.",
+  "key_connections": [
+    "President Kennedy",
+    "Cambodia",
+    "Ngo Dinh Diem",
+    "Sarit Thanarat",
+    "Philippine mediation"
+  ],
+  "significance": "Ambassador YOST's significance in the JFK context, based on these documents, lies in the diplomatic fallout and tensions between the U.S. and Cambodia following Kennedy's assassination. The documents suggest that statements made by American ambassadors, including YOST, were a point of contention in the relationship between the two countries.",
+  "document_ids": [
+    "144-10001-10284",
+    "144-10001-10110",
+    "144-10001-10111"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "entity_name": "Military Personnel",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The documents reference various military personnel, primarily within the US Army, and their involvement in counter-intelligence investigations and background checks. These investigations often relate to potential security risks, such as sensitive desertions, possible counter-intelligence interests, and connections to individuals of interest. The personnel mentioned range from Specialists and Sergeants to Captains, and their roles vary from being subjects of investigation to providing information as witnesses or interviewees. The investigations span from the late 1960s to the late 1970s and early 1980s, indicating ongoing security concerns within the military during this period. A notable pattern is the focus on potential security breaches and the use of agent reports to document interviews and file checks.",
+  "key_connections": [
+    "Peter K. Simons",
+    "Joseph Timothy White",
+    "Lewis Wesley Leber",
+    "William C. Stanley",
+    "Stephen R. Wilson",
+    "Joachim F. Beer",
+    "Henry S. Beer",
+    "Peter D. Herpst",
+    "Cristobal Pimentel-Davilla",
+    "John C. Stelpflug",
+    "John P. Lukasik",
+    "Roman Davor Srecko Arnold",
+    "US Army",
+    "US Army National Guard",
+    "Langley AFB",
+    "Fort Hood",
+    "ROTC",
+    "Security Sergeant",
+    "Special Security Officer",
+    "66th USA Artillery Detachment"
+  ],
+  "significance": "While the documents do not directly link military personnel to the JFK assassination, they highlight the security environment and counter-intelligence activities during the period surrounding the event. The investigations into potential security risks and the monitoring of military personnel suggest a broader context of concern about internal threats and potential vulnerabilities. The mention of Captain William C. Stanley, a Special Security Officer at Langley AFB, in relation to the JFK assassination, Russia, Cuba, or Mexico, is the most direct connection, although the documents primarily focus on background information and potential knowledge rather than direct involvement.",
+  "document_ids": [
+    "194-10012-10409",
+    "194-10013-10155",
+    "180-10120-10150",
+    "194-10006-10316",
+    "194-10007-10262",
+    "194-10006-10315",
+    "194-10006-10312",
+    "194-10012-10471"
+  ]
+}

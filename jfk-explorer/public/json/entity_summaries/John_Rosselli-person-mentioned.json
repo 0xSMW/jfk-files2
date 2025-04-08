@@ -1,0 +1,33 @@
+{
+  "entity_name": "John Rosselli",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "summary": "John Rosselli, also known as AR, was a person of interest to the FBI in the early 1960s. The documents detail his activities, whereabouts, and associations, primarily in Los Angeles and Las Vegas. He was involved in various activities, including car rentals, hotel and casino deals, and financial transactions. The FBI tracked his movements, contacts, and potential involvement in suppressing scandals. Rosselli's connections included individuals like Irving J. Leff, Joseph I. Breen, Jr., Jack Brooks (Brookstein), Bryan Foy, Jonie Taps, Albert Foley, Maurice Friedman, Gordon Nesser, and Emanuel Rothman. The documents also mention his presence at the Friar-s Club and conversations about firearm purchases during the Cuban Missile Crisis. The FBI's interest in Rosselli appears to stem from investigations into his corporations and potential criminal activities.",
+  "key_connections": [
+    "Irving J. Leff",
+    "Joseph I. Breen, Jr.",
+    "Jack Brooks (Brookstein)",
+    "Bryan Foy",
+    "Jonie Taps",
+    "Albert Foley",
+    "Maurice Friedman",
+    "Gordon Nesser",
+    "Emanuel Rothman",
+    "Robert A. Maheu"
+  ],
+  "significance": "The provided documents do not explicitly state John Rosselli's role or significance in the JFK assassination context. However, the FBI's intense surveillance and documentation of his activities suggest he was a person of interest, potentially linked to organized crime or other activities that might have intersected with events surrounding the assassination. Further research beyond these documents would be needed to establish a definitive connection.",
+  "document_ids": [
+    "124-10223-10071",
+    "124-10223-10070",
+    "124-10223-10085",
+    "124-10223-10173",
+    "124-10223-10169",
+    "124-10223-10082",
+    "124-10223-10076",
+    "124-10223-10171",
+    "124-10223-10079",
+    "124-10223-10074",
+    "124-10223-10064",
+    "124-10223-10087"
+  ]
+}

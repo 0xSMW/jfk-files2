@@ -1,0 +1,21 @@
+{
+  "entity_name": "Rodriguez",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "The documents mention a person named Rodriguez in the context of Cuban exile activities and potential involvement in plans against the Castro regime. One document references Luis Clemente Posada Carriles, who is associated with Cuban exile groups like RECE and potentially involved in activities against Castro. Another document details the briefing of an FBI informant going to Cuba to gather intelligence. A daily summary reports on Castro's response to Kennedy's assassination and Cuban exile activities. Lastly, a memorandum discusses the handling of LIRING-3, potentially a hostile agent, and his contacts with Cuban officials. While Rodriguez is not directly mentioned in all documents, the context suggests involvement in Cuban-related intelligence and potentially anti-Castro activities during the period surrounding the JFK assassination.",
+  "key_connections": [
+    "Luis Clemente Posada Carriles",
+    "RECE (Cuban exile group)",
+    "Castro regime",
+    "Victor Thomas Vicente (FBI informant)",
+    "LIRING-3",
+    "Cuban officials"
+  ],
+  "significance": "The significance of Rodriguez in the JFK context is indirect but potentially relevant due to the broader context of Cuban exile activities and anti-Castro sentiment that existed during the time of the assassination. The documents suggest involvement in intelligence gathering and potential hostile actions related to Cuba, which could be linked to theories surrounding the assassination.",
+  "document_ids": [
+    "104-10178-10154",
+    "104-10308-10163",
+    "104-10302-10022",
+    "104-10266-10138"
+  ]
+}

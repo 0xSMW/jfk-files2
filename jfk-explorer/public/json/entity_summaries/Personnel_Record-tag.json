@@ -1,0 +1,21 @@
+{
+  "entity_name": "Personnel Record",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents tagged as \"Personnel Record\" encompass a variety of records related to individuals and personnel actions within the CIA. These records include investigations into individuals of interest (like Sergey Uzlov), official personnel files documenting career events such as retirement and bar admission (like Birch D. O'Neal), and blank forms used for personnel actions. The records span from 1957 to 1977, indicating ongoing personnel management and investigations during this period. The documents highlight the CIA's internal processes for managing its personnel and investigating individuals of interest.",
+  "key_connections": [
+    "Sergey Uzlov",
+    "Birch D. O'Neal",
+    "CIA",
+    "FBI",
+    "SE/USSR",
+    "SE/X/FR",
+    "District of Columbia Bar"
+  ],
+  "significance": "While the documents themselves don't directly relate to the JFK assassination, they provide insight into the CIA's operational procedures, personnel management, and investigative practices during the relevant time frame. Understanding these internal processes can be valuable in contextualizing the actions and roles of individuals within the CIA who may have been involved in events surrounding the assassination.",
+  "document_ids": [
+    "104-10181-10107",
+    "104-10291-10014",
+    "104-10120-10274"
+  ]
+}

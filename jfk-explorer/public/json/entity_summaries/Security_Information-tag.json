@@ -1,0 +1,30 @@
+{
+  "entity_name": "Security Information",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The documents tagged with \"Security Information\" encompass a range of activities related to intelligence gathering, dissemination, and protection. This includes sharing information with law enforcement and intelligence agencies, managing access to sensitive materials, providing cover for CIA operatives, and investigating potential security breaches. The documents span from the early 1950s to the 1970s, indicating a sustained focus on security matters during the Cold War era and beyond. The information covers topics such as potential subversive activities, foreign intelligence operations, and internal security protocols. A notable pattern is the concern with identifying and monitoring individuals or groups perceived as threats to national security, as well as protecting sensitive information from unauthorized access or disclosure.",
+  "key_connections": [
+    "Mark Lane",
+    "Balmes Nieves Hidalgo, Jr.",
+    "Research Institute of America (RIA)",
+    "Leo Cherne",
+    "Ross L. Crozier",
+    "Frits (aka Fred) SNECHI",
+    "Phillip W. May",
+    "Rota Japollo network",
+    "Subversive Activities Control Board",
+    "House Select Committee on Assassinations",
+    "Senate Select Committee on Intelligence"
+  ],
+  "significance": "In the context of the JFK assassination, \"Security Information\" is a broad category that highlights the intelligence community's efforts to monitor individuals and organizations, manage sensitive information, and maintain operational security. While not directly related to the assassination itself in these documents, the tag points to the environment of surveillance and counterintelligence that existed during the period, which is relevant to understanding the broader context in which the assassination occurred. The documents suggest a proactive approach to identifying and addressing potential threats, which could indirectly relate to the investigation and handling of information surrounding the assassination.",
+  "document_ids": [
+    "124-10320-10087",
+    "104-10250-10200",
+    "104-10140-10101",
+    "104-10070-10296",
+    "104-10048-10252",
+    "104-10215-10246",
+    "104-10171-10138",
+    "194-10006-10313"
+  ]
+}

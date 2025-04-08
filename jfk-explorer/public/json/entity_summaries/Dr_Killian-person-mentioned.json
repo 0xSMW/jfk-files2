@@ -1,0 +1,18 @@
+{
+  "entity_name": "Dr. Killian",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Based on the provided documents, Dr. Killian is mentioned in the context of the President's Foreign Intelligence Advisory Board (PFIAB) meetings in late 1962 and early 1963. The documents are primarily agendas and memoranda related to these meetings, focusing on intelligence matters, particularly those concerning Cuba. While the documents mention Dr. Killian's presence at these meetings, they do not specify his exact role or contributions. The meetings covered topics such as the Cuban arms buildup, discussions with CIA officials, advanced intelligence collection capabilities, the OXCART project, intelligence budget allocations, and Operation MONGOOSE. Without further context, it's difficult to ascertain Dr. Killian's specific involvement or significance beyond his participation in these advisory board meetings.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "DCI McCone",
+    "CIA"
+  ],
+  "significance": "The significance of Dr. Killian in the JFK context, based solely on these documents, is limited to his participation in the President's Foreign Intelligence Advisory Board meetings during a period of intense focus on Cuba. The documents do not provide enough information to determine any direct connection to the JFK assassination.",
+  "document_ids": [
+    "206-10001-10008",
+    "206-10001-10009",
+    "178-10004-10053",
+    "206-10001-10011"
+  ]
+}

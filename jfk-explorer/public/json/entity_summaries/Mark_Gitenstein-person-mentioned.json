@@ -1,0 +1,29 @@
+{
+  "entity_name": "Mark Gitenstein",
+  "entity_type": "person-mentioned",
+  "document_count": 13,
+  "summary": "Based on the provided documents, Mark Gitenstein's role and significance in the context of the JFK assassination is not directly apparent. The documents primarily concern the Senate Select Committee on Intelligence Activities' (SSC) review of FBI domestic intelligence investigations in the mid-1970s (referred to as SENSTUDY 75). These documents discuss potential legislative actions, oversight mechanisms, and reforms related to the FBI's authority and activities, including COINTELPRO and mail opening operations. While Mark Gitenstein is mentioned in connection to these documents, the specific nature of his involvement or contribution to the SSC's work is not detailed. The documents focus on the FBI's interactions with the SSC, responses to inquiries, and internal discussions regarding the review and sanitization of documents. Therefore, without additional context, it is difficult to ascertain Gitenstein's specific role or significance in relation to the JFK assassination based solely on these documents.",
+  "key_connections": [
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "FBI",
+    "Clarence M. Kelley",
+    "Department of Justice",
+    "National Security Agency (NSA)"
+  ],
+  "significance": "The provided documents do not establish a direct significance of Mark Gitenstein in the JFK assassination context. His connection appears to be related to the Senate Select Committee's review of FBI activities in the years following the assassination.",
+  "document_ids": [
+    "124-10186-10048_multirif",
+    "124-10182-10231",
+    "124-10185-10195_multirif",
+    "124-10186-10045_multirif",
+    "124-10186-10056_multirif",
+    "124-10186-10051_multirif",
+    "124-10186-10055_multirif",
+    "124-10274-10070",
+    "124-10186-10054_multirif",
+    "124-10271-10033_multirif_redacted",
+    "124-10271-10013",
+    "124-10264-10191",
+    "124-10186-10049_multirif"
+  ]
+}

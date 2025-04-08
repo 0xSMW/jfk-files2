@@ -1,0 +1,20 @@
+{
+  "entity_name": "President Kennedy",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "President Kennedy is mentioned in the context of CIA activities and Cuban relations. One document indicates that Fidel Castro was upset by Kennedy's assassination and that the Cuban government was adopting a policy of avoiding irritating President Johnson, hoping for improved relations. Another document, consisting of index cards, summarizes meetings, memos, and reports related to Operation MONGOOSE, covert activities against Cuba, and discussions regarding Vietnam, potentially linking Kennedy to these operations. The documents suggest that Kennedy's administration was involved in covert activities and that his assassination had implications for US-Cuban relations.",
+  "key_connections": [
+    "Fidel Castro",
+    "President Johnson",
+    "CIA",
+    "Operation MONGOOSE",
+    "Vietnam",
+    "Cuban Government"
+  ],
+  "significance": "President Kennedy's assassination is a central event, and his administration's policies and actions, particularly regarding Cuba and Vietnam, are relevant to understanding the context surrounding the assassination. The documents suggest potential connections to covert operations and the complex geopolitical landscape of the time.",
+  "document_ids": [
+    "176-10036-10129",
+    "157-10011-10008",
+    "177-10001-10060"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "entity_name": "Covert Actions",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "The term \"Covert Actions\" appears in the context of discussions between the CIA and the ARRB (Assassination Records Review Board) regarding the release of JFK assassination-related records. The CIA sought to protect sensitive information related to these covert actions, particularly unacknowledged ones, during the ARRB's review process. The documents suggest that the ARRB was interested in accessing information about these actions, leading to negotiations and potential compromises between the CIA and the ARRB to balance transparency with the protection of sensitive operational details. The discussions also involved other sensitive topics such as alias documentation, organizational materials, Mexico City tapes, and the protection of individuals like LITAMIL-9 and Richard Gibson.",
+  "key_connections": [
+    "ARRB (Assassination Records Review Board)",
+    "CIA",
+    "Alias Documentation",
+    "Mexico City Tapes",
+    "LITAMIL-9",
+    "Richard Gibson"
+  ],
+  "significance": "In the JFK assassination context, \"Covert Actions\" represents a category of potentially sensitive information that the CIA was concerned about releasing. The ARRB's interest in these actions suggests they may have been relevant to understanding the events surrounding the assassination, leading to conflicts between transparency and national security concerns.",
+  "document_ids": [
+    "104-10332-10000",
+    "104-10331-10140",
+    "104-10306-10007",
+    "104-10331-10149",
+    "104-10331-10152"
+  ]
+}

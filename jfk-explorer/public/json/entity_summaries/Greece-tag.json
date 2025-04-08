@@ -1,0 +1,21 @@
+{
+  "entity_name": "Greece",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Greece is mentioned in three documents related to the JFK assassination records. One document details a conversation about a tire recap plant investment in Greece. Another document reports on comments from Yugoslav and Soviet Bloc diplomats regarding the probable effect of President Kennedy's assassination on East-West relations, gathered from a Greek political observer in Athens. The third document is an intelligence checklist for the President, dated November 28, 1963, which includes Greece as one of the global hotspots being monitored.",
+  "key_connections": [
+    "WUBRINY/1",
+    "WUBRINY/4",
+    "H. Charles",
+    "George de Mohrenschildt",
+    "Yugoslav diplomats",
+    "Soviet Bloc diplomats",
+    "Greek political observer"
+  ],
+  "significance": "Greece's significance in the JFK assassination context appears to be primarily as a location where information relevant to the assassination's potential impact on international relations was gathered. It is also mentioned as a country of interest in a broader intelligence context.",
+  "document_ids": [
+    "104-10164-10088",
+    "176-10037-10120",
+    "177-10002-10101"
+  ]
+}

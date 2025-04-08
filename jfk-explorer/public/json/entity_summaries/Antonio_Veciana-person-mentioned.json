@@ -1,0 +1,24 @@
+{
+  "entity_name": "Antonio Veciana",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "summary": "Antonio Veciana was a Cuban exile figure of interest to both the Senate Select Committee on Intelligence (SSCI) and the House Select Committee on Assassinations (HSCA) in their investigations into the JFK assassination. He was the subject of a 1962 NSA report detailing plans for his execution, along with Geronimo Estevez, under a plan referred to as PO ALPHA. The SSCI requested information on Veciana from the NSA, leading to a review of Cuban material from 1961-1965. The NSA reviewed its files multiple times in response to requests from the SSCI and HSCA, but no intelligence material revealed Cuban involvement in the assassination. Veciana's name appears in connection with inquiries into Cuban intelligence networks and potential assassination plans.",
+  "key_connections": [
+    "Geronimo Estevez",
+    "Lee Harvey Oswald",
+    "SSCI (Senate Select Committee on Intelligence)",
+    "HSCA (House Select Committee on Assassinations)",
+    "Cuban intelligence networks"
+  ],
+  "significance": "Antonio Veciana's significance in the JFK context lies in his status as a Cuban exile targeted for execution, his connection to Cuban intelligence matters, and the inquiries made by the SSCI and HSCA regarding his potential involvement or knowledge related to the assassination. The NSA's records concerning Veciana were reviewed multiple times in response to congressional inquiries.",
+  "document_ids": [
+    "144-10001-10159",
+    "144-10001-10138",
+    "144-10001-10206",
+    "104-10174-10072",
+    "144-10001-10173",
+    "144-10001-10172",
+    "144-10001-10164",
+    "144-10001-10264"
+  ]
+}

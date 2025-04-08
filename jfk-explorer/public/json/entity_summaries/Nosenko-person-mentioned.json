@@ -1,0 +1,28 @@
+{
+  "entity_name": "Nosenko",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "summary": "Igor Nosenko was a Soviet KGB officer who defected to the United States in 1964. His defection and subsequent interrogation by the CIA are central themes in the documents. The documents reveal that Nosenko's interrogation was a sensitive matter, discussed at high levels, including a briefing to President Johnson. There were concerns about his veracity and the information he provided. The documents also mention efforts to verify information provided by Nosenko, including a tape transcription verification focusing on his alleged presence in the United States under the alias Nikolayev. Later documents indicate ongoing checks with Nosenko regarding other matters, such as the Wallenberg case and PD DIPPERS. The documents also touch on the handling of information related to Nosenko, including the opening date of Nosenko NBR material and requests for documents related to his testimony.",
+  "key_connections": [
+    "John McCone",
+    "President Johnson",
+    "President Mateos",
+    "Tennent Bagley",
+    "Wallenberg",
+    "PD DIPPERS",
+    "Sam Jaffe",
+    "KGB",
+    "CIA"
+  ],
+  "significance": "Nosenko's significance in the JFK assassination context stems from his potential knowledge of Soviet involvement or lack thereof. As a high-ranking KGB defector, his information could either confirm or deny Soviet complicity in the assassination. The CIA's interrogation of Nosenko and the evaluation of his information were critical in assessing the Soviet Union's role, making him a key figure in the investigation and subsequent historical analysis.",
+  "document_ids": [
+    "177-10001-10445",
+    "104-10331-10202",
+    "104-10322-10101",
+    "104-10145-10436",
+    "104-10291-10019",
+    "104-10227-10003",
+    "104-10172-10255",
+    "104-10106-10188"
+  ]
+}

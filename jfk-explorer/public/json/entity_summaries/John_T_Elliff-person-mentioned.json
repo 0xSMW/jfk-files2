@@ -1,0 +1,30 @@
+{
+  "entity_name": "John T. Elliff",
+  "entity_type": "person-mentioned",
+  "document_count": 13,
+  "summary": "John T. Elliff is mentioned in several documents related to the Senate Select Committee on Intelligence Activities (SSC) review of the FBI's domestic intelligence investigations in the mid-1970s. The documents suggest Elliff was involved in discussions and preparations related to the FBI's response to the SSC's inquiries, particularly concerning investigations into Martin Luther King, Jr., the Southern Christian Leadership Conference (SCLC), and broader issues like COINTELPRO and the Huston Plan. The documents indicate that Elliff was likely involved in advising the FBI on legislative options and potential reforms in response to the Senate Committee's scrutiny. The documents span from October 1975 to February 1976, indicating a period of active engagement with the Senate Committee's work.",
+  "key_connections": [
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "FBI",
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "COINTELPRO",
+    "Huston Plan"
+  ],
+  "significance": "Based on the provided documents, John T. Elliff's significance is primarily related to his involvement in the FBI's response to the Senate Select Committee's investigation into intelligence activities. There is no direct mention of the JFK assassination in these documents, so his role in that context is not apparent.",
+  "document_ids": [
+    "124-10186-10048_multirif",
+    "124-10182-10231",
+    "124-10264-10206_multirif",
+    "124-10186-10045_multirif",
+    "124-10186-10056_multirif",
+    "124-10186-10051_multirif",
+    "124-10264-10208_multirif",
+    "124-10186-10055_multirif",
+    "124-10274-10070",
+    "124-10186-10054_multirif",
+    "124-10184-10237",
+    "124-10264-10210_multirif",
+    "124-10186-10049_multirif"
+  ]
+}

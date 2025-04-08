@@ -1,0 +1,25 @@
+{
+  "entity_name": "H. Clark Schor",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "H. Clark Schor is identified as the author of several memoranda in January 1978 to SA/DO/O (likely an internal CIA designation) providing information in response to a request from the House Select Committee on Assassinations (HSCA). Schor's role appears to be gathering and providing details about individuals and entities of interest to the HSCA, specifically detailing the types and quantity of documents held by the Central Cover Staff (CCS) on each. The memoranda reference files on George DeMohrenschildt, Leo Cherne, William Harvey, the International Rescue Committee, Richard Helms, James Angleton, Raymond Rocca, and the Wackenhut Corporation.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "SA/DO/O",
+    "Central Cover Staff (CCS)",
+    "George DeMohrenschildt",
+    "Leo Cherne",
+    "William Harvey",
+    "International Rescue Committee",
+    "Richard Helms",
+    "James Angleton",
+    "Raymond Rocca",
+    "Wackenhut Corporation"
+  ],
+  "significance": "H. Clark Schor's significance lies in his role as a point of contact within the CIA, tasked with compiling and providing information to the HSCA regarding individuals and organizations potentially relevant to the JFK assassination investigation. His memoranda offer insights into the CIA's internal processes for responding to the HSCA's inquiries and the specific files deemed relevant to the investigation.",
+  "document_ids": [
+    "104-10059-10057",
+    "104-10061-10320",
+    "104-10061-10214"
+  ]
+}

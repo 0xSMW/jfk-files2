@@ -1,0 +1,29 @@
+{
+  "entity_name": "Visa",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "The documents discuss visas in various contexts, primarily related to individuals of interest to the CIA and FBI. These include efforts to secure visas for agents or assets, such as Max Lesnick, and the use of forged documents for covert operations, like creating a Nicaraguan passport with a U.S. visa for ANOTIN-117. The documents also mention individuals seeking visas to enter specific countries, such as Ivan Gavrilevich Alferov requesting an Argentine visa and Miguel Angel DIAZ Isalgué needing an Argentine passport with a B-2 visa. Additionally, the documents address the difficulties in obtaining visas through normal channels and the use of alternative methods, such as high-level contacts or the LITEMPO visa channel, as seen in the case of AMBANG-1. Lee Harvey Oswald's visa applications and interactions with individuals like Valeriy Vladimirovich Kostikov are also mentioned, linking visa-related matters to the JFK assassination investigation.",
+  "key_connections": [
+    "Max Lesnick",
+    "Ivan Gavrilevich Alferov",
+    "ANOTIN-117",
+    "Miguel Angel DIAZ Isalgué",
+    "AMBANG-1",
+    "Lee Harvey Oswald",
+    "Valeriy Vladimirovich Kostikov",
+    "Soviet Embassy",
+    "Cuban Embassy",
+    "Ernesto Mitrani Levy"
+  ],
+  "significance": "In the JFK assassination context, visas are significant because they relate to Lee Harvey Oswald's travels and contacts, particularly his visits to the Soviet and Cuban embassies in Mexico City. The documents suggest that Oswald sought a visa to travel to the Soviet Union or Cuba, and his interactions with individuals potentially linked to intelligence agencies raise questions about his motives and connections. The broader context of visa applications and document forgery highlights the clandestine activities of intelligence agencies during this period and their potential involvement in events surrounding the assassination.",
+  "document_ids": [
+    "104-10173-10170",
+    "104-10162-10014",
+    "180-10110-10100",
+    "124-10239-10171",
+    "104-10113-10254",
+    "104-10113-10258",
+    "104-10179-10143",
+    "104-10012-10022"
+  ]
+}

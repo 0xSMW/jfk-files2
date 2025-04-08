@@ -1,0 +1,19 @@
+{
+  "entity_name": "John G. Tower",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, John G. Tower is mentioned in the context of the Senate Select Committee on Intelligence Activities (SSC) investigations during the 1970s. The documents do not directly specify Tower's role or involvement in the JFK assassination. Instead, they focus on the FBI's interactions with the SSC, including providing information and addressing concerns related to intelligence activities, informant confidentiality, and potential compromises of FBI operations. The documents highlight the FBI's efforts to cooperate with the SSC's inquiries into various matters, including investigations into Martin Luther King, Jr., and Stanley Levison's alleged ties to the Communist Party USA (CPUSA).",
+  "key_connections": [
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "FBI",
+    "Martin Luther King, Jr.",
+    "Stanley Levison",
+    "Communist Party USA (CPUSA)"
+  ],
+  "significance": "The provided documents do not indicate any direct significance of John G. Tower in the JFK assassination context. His mention is related to the Senate Select Committee on Intelligence Activities (SSC) investigations into intelligence matters during the 1970s.",
+  "document_ids": [
+    "124-10274-10070",
+    "124-10264-10191",
+    "124-10238-10329_multirif"
+  ]
+}

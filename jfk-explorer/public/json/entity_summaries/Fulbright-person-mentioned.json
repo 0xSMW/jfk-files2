@@ -1,0 +1,21 @@
+{
+  "entity_name": "Fulbright",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, \"Fulbright\" refers to the Fulbright Program, a foreign exchange program. The documents mention the program in the context of proposed restrictions on the CIA's operational use of academics and grantees involved in foreign exchange programs. The program is also mentioned in the context of President Johnson's meetings and briefings on various foreign policy issues. Additionally, the program is mentioned in the context of Ambassador Kamel's evaluation sent to Cairo regarding President Johnson and his administration in the aftermath of President Kennedy's assassination.",
+  "key_connections": [
+    "CIA",
+    "President Johnson",
+    "Academics",
+    "Grantees",
+    "Foreign Exchange Programs",
+    "Ambassador Kamel",
+    "Cairo"
+  ],
+  "significance": "The Fulbright Program's significance in the JFK assassination context is indirect. It appears in discussions regarding the potential use or misuse of academic exchange programs by the CIA, and in the context of foreign policy evaluations following Kennedy's assassination. The documents suggest concerns about the CIA's involvement with academics and grantees, including those in the Fulbright Program, and how this might impact foreign relations and intelligence operations.",
+  "document_ids": [
+    "157-10014-10133",
+    "104-10306-10018",
+    "144-10001-10103"
+  ]
+}

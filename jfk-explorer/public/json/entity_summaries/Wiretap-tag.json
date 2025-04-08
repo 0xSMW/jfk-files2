@@ -1,0 +1,25 @@
+{
+  "entity_name": "Wiretap",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents indicate that wiretaps, or technical surveillance, were a tool used by the FBI and potentially the CIA for various purposes, including investigating espionage, Communist activities, racketeering, and assassinations. The FBI requested authorization for technical surveillance on individuals and groups suspected of espionage, Communist activities, and racketeering. Wiretaps were also used in the investigations of the assassinations of Martin Luther King Jr. and President John F. Kennedy, to monitor individuals and groups critical of the FBI and CIA. The CIA's activities related to the assassination of Fidel Castro are also mentioned, although the specific use of wiretaps in that context is not explicitly stated in the provided summaries.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "Attorney General",
+    "Espionage",
+    "Communist activities",
+    "Racketeering",
+    "Martin Luther King Jr. assassination",
+    "John F. Kennedy assassination",
+    "Fidel Castro assassination",
+    "Operation Mongoose",
+    "Cuban exiles"
+  ],
+  "significance": "In the JFK context, wiretaps represent a method of investigation and intelligence gathering employed by the FBI and potentially the CIA. The documents suggest that wiretaps were used to monitor individuals and groups related to the assassinations of Martin Luther King Jr. and President John F. Kennedy. The extent and specific targets of these wiretaps in relation to the JFK assassination are not fully detailed in the provided summaries, but their use indicates an active effort to gather information and monitor potential threats or leads.",
+  "document_ids": [
+    "124-10188-10308",
+    "104-10433-10167",
+    "157-10011-10005"
+  ]
+}

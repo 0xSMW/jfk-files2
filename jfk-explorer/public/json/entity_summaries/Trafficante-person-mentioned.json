@@ -1,0 +1,23 @@
+{
+  "entity_name": "Trafficante",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Trafficante is a person mentioned in several documents related to CIA activities and investigations into the JFK assassination. The documents suggest potential connections between Trafficante and the CIA, the Mafia, and possible plots to assassinate Fidel Castro. One document mentions the Assassinations Committee's inquiries related to the Mafia and possible CIA involvement with Castro, suggesting Trafficante's name came up in that context. Another document contains INS file reviews summarizing information on individuals, indicating Trafficante's background and activities were of interest to authorities. The index cards summarizing CIA activities related to the assassination of Fidel Castro, including Operation Mongoose and interactions with Cuban exiles, also mention Trafficante.",
+  "key_connections": [
+    "Mafia",
+    "Fidel Castro",
+    "CIA",
+    "Robert Maheu",
+    "Cuban exiles",
+    "Benny Binion",
+    "Joe Campisi",
+    "Joseph Civello"
+  ],
+  "significance": "Trafficante's significance in the JFK context lies in the potential connections to organized crime and possible CIA involvement in plots against Fidel Castro, which were areas of investigation by the Assassinations Committee. The documents suggest a need to explore the extent of Trafficante's involvement in any plots or activities related to the assassination of JFK.",
+  "document_ids": [
+    "104-10066-10060",
+    "157-10002-10148",
+    "157-10011-10005",
+    "180-10104-10294"
+  ]
+}

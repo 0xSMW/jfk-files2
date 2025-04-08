@@ -1,0 +1,33 @@
+{
+  "entity_name": "Richard Ober",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "summary": "Richard Ober was a CIA officer involved in the investigation following the assassination of Martin Luther King Jr. The documents show him requesting and disseminating information related to James Earl Ray, the accused assassin. Specifically, he requested an Identi-Kit composite of Ray, distributed Ray's fingerprint formula, and shared information about Ray's aliases and physical characteristics. He also requested the distribution of photographs of Ray to various stations. Ober's role appears to be focused on the operational aspects of identifying and tracking Ray in the immediate aftermath of King's assassination. He is identified as being part of CI/OP/DO in one document.",
+  "key_connections": [
+    "James Earl Ray",
+    "Martin Luther King Jr.",
+    "LNERGO",
+    "Eric Starvo Galt",
+    "Harvey Lowmyer",
+    "John Willard",
+    "C/NE",
+    "C/FE",
+    "C/WH",
+    "C/EUR"
+  ],
+  "significance": "While the documents primarily relate to the Martin Luther King Jr. assassination, one document mentions an inventory of Rockefeller Commission files which include documents related to the Kennedy assassination. Therefore, Richard Ober's name appearing in these documents suggests a potential, though indirect, connection to the JFK assassination context, as the Rockefeller Commission investigated CIA activities, including those related to the Kennedy assassination.",
+  "document_ids": [
+    "104-10178-10112",
+    "104-10059-10026",
+    "104-10071-10405",
+    "104-10071-10043",
+    "104-10071-10404",
+    "104-10433-10081",
+    "104-10071-10041",
+    "104-10071-10407",
+    "178-10004-10420",
+    "104-10178-10137",
+    "104-10178-10136",
+    "104-10072-10034"
+  ]
+}

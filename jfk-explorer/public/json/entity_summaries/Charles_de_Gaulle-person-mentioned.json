@@ -1,0 +1,18 @@
+{
+  "entity_name": "Charles de Gaulle",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Charles de Gaulle, the President of France, is mentioned in the context of President Kennedy's assassination and its aftermath. He attended Kennedy's funeral, which was a significant event drawing numerous heads of state and dignitaries. Following the assassination, the Brazilian Foreign Minister had conversations with de Gaulle, and Prince Sihanouk of Cambodia delivered a speech condemning the U.S., referencing Cambodian relations with France. De Gaulle's presence at the funeral underscores France's diplomatic relationship with the United States during that period. The documents suggest that the assassination had global repercussions, prompting discussions and reactions from various world leaders, including de Gaulle.",
+  "key_connections": [
+    "Dean Rusk",
+    "President Kennedy",
+    "Brazilian Foreign Minister",
+    "Prince Sihanouk"
+  ],
+  "significance": "Charles de Gaulle's significance in the JFK assassination context lies primarily in his role as a prominent world leader who attended Kennedy's funeral, signifying the international impact of the event. His subsequent discussions with other foreign ministers, as well as the mention of France in the context of Cambodian relations following the assassination, highlight the global diplomatic implications and reactions to Kennedy's death.",
+  "document_ids": [
+    "144-10001-10294",
+    "144-10001-10345",
+    "144-10001-10286"
+  ]
+}

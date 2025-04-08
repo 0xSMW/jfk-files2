@@ -1,0 +1,21 @@
+{
+  "entity_name": "Courier",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "The documents identify 'Courier' as a role individuals played in transmitting materials or information, often in a clandestine manner. In one instance, Ismael Rodriguez, a comptroller for Cubana Airlines, was used by the CIA as a courier for transmitting material between the U.S. and Cuba related to CIA operations in 1961. Another document details an attempt to use AMLACE-1's wife as a courier for anti-Castro reports from Havana in 1962, highlighting the use of family members and the potential security risks involved. The third document does not directly mention a courier but involves individuals suspected of operating from Ft. Lauderdale, Florida, and possibly associated with Fidel Castro, suggesting potential covert activities where couriers might be involved. The documents suggest that couriers were used by the CIA for various purposes, including transmitting sensitive information and materials related to anti-Castro operations.",
+  "key_connections": [
+    "Ismael Rodriguez",
+    "CIA",
+    "Cubana Airlines",
+    "AMLACE-1",
+    "AMTOAD-1",
+    "Pedro Luis Diaz Lanz",
+    "Fidel Castro"
+  ],
+  "significance": "In the context of the JFK assassination, the use of couriers highlights the clandestine operations and information networks that were active during the Cold War and the anti-Castro efforts. While the documents do not directly link couriers to the assassination, they illustrate the environment of covert activities and the methods used to transmit information, which could be relevant to understanding the broader context of events surrounding the assassination.",
+  "document_ids": [
+    "124-90139-10050",
+    "104-10512-10101",
+    "124-10221-10229"
+  ]
+}

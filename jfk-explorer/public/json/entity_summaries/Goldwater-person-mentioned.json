@@ -1,0 +1,22 @@
+{
+  "entity_name": "Goldwater",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Based on the provided documents, Goldwater is mentioned in the context of Senate Select Committee activities and reactions to President Kennedy's assassination. The documents suggest that Goldwater's name appears in connection with Congressional investigations related to the CIA and FBI intelligence activities. The documents do not provide specific details about Goldwater's direct involvement in the JFK assassination but rather place him within the broader political landscape and Congressional oversight during that period and subsequent investigations. The mentions are spread across documents spanning from 1963 to 1987, indicating a sustained relevance in discussions related to intelligence and government oversight.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "President Kennedy",
+    "Senate Select Committee",
+    "Clarence M. Kelley",
+    "President Johnson"
+  ],
+  "significance": "Goldwater's significance in the JFK context, based on these documents, lies in his association with Congressional oversight and investigations related to intelligence agencies during and after the Kennedy assassination. While the documents do not directly link him to the assassination, his name appears in discussions related to the political climate and investigations that followed.",
+  "document_ids": [
+    "104-10095-10263",
+    "144-10001-10103",
+    "124-10185-10195_multirif",
+    "104-10324-10002",
+    "144-10001-10086"
+  ]
+}

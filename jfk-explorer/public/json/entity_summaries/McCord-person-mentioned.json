@@ -1,0 +1,21 @@
+{
+  "entity_name": "McCord",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Based on the provided documents, McCord is mentioned in the context of CIA activities and investigations, particularly concerning E. Howard Hunt and Watergate. One memo from 1961 references coordination between Kammer (likely CIA) and Mr. McCORD of SRS regarding the operational use of Michael Weimer Stratton for propaganda within the US, indicating McCord's involvement in operational activities. The other documents focus on investigations into E. Howard Hunt's activities and potential CIA involvement in Watergate, but McCord's direct role in these events is not explicitly detailed. The documents suggest McCord was involved in CIA operations and potentially had connections to individuals involved in Watergate, but the extent of his involvement remains unclear based on these documents alone.",
+  "key_connections": [
+    "E. Howard Hunt",
+    "Michael Weimer Stratton",
+    "Kammer",
+    "SRS",
+    "Watergate"
+  ],
+  "significance": "The documents do not directly link McCord to the JFK assassination. His significance lies in his potential involvement in CIA operations and connections to individuals involved in Watergate, which is a separate historical event.",
+  "document_ids": [
+    "104-10173-10130",
+    "104-10062-10073",
+    "104-10128-10300",
+    "104-10256-10283",
+    "104-10173-10132"
+  ]
+}

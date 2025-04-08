@@ -1,0 +1,23 @@
+{
+  "entity_name": "Belin",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Belin is mentioned in the context of discussions and file materials related to the JFK assassination and the investigation that followed. The documents reference materials reviewed for possible assassination attempts, covert operations involving Cuba, and the release of file material related to the Lee Harvey Oswald case. Belin's specific role is not explicitly stated, but the documents suggest involvement in the investigation or review of materials related to the assassination and related covert activities.",
+  "key_connections": [
+    "McCone Papers",
+    "Project MONGOOSE",
+    "ZRRIFLE",
+    "QJWIN",
+    "Warren Commission",
+    "Castro",
+    "Lee Harvey Oswald",
+    "Senate Select Committee on Intelligence",
+    "Paul Wallach"
+  ],
+  "significance": "Belin's significance lies in their connection to the investigation of the JFK assassination and related covert operations. While the exact nature of their involvement is not detailed, the documents suggest they were involved in reviewing or managing materials related to the assassination and potential CIA activities.",
+  "document_ids": [
+    "135-10001-10246",
+    "157-10008-10234",
+    "104-10310-10118"
+  ]
+}

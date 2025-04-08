@@ -1,0 +1,22 @@
+{
+  "entity_name": "Mr. Rosen",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "summary": "Mr. Rosen is mentioned in one document, a memorandum from E.S. Miller regarding the expansion of foreign liaison offices. The memo addresses concerns about coordination with Narcotics investigators and personnel increases in Brazil and Malaysia. The other documents do not mention Mr. Rosen, and instead focus on organized crime figures such as Gabriel and Samuel Mannarino, John Roselli, and William Alexander Parzow. These documents detail gambling operations, loan sharking, influence peddling, and investigations into the activities of these individuals.",
+  "key_connections": [
+    "E.S. Miller",
+    "Narcotics investigators",
+    "Brazil",
+    "Malaysia"
+  ],
+  "significance": "Based on the provided documents, Mr. Rosen's significance in the JFK assassination context is not apparent. He is only mentioned in relation to the expansion of foreign liaison offices and coordination with Narcotics investigators. The other documents focus on organized crime figures and their activities, but do not directly connect Mr. Rosen to the JFK assassination.",
+  "document_ids": [
+    "124-10203-10497",
+    "124-10223-10077",
+    "124-10223-10304",
+    "124-10274-10011",
+    "124-10203-10485",
+    "124-10223-10073",
+    "124-10223-10087"
+  ]
+}

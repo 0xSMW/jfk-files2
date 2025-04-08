@@ -1,0 +1,19 @@
+{
+  "entity_name": "Harvey Lowmyer",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Harvey Lowmyer is identified as an alias of Eric Starvo Galt and John Willard, who is a suspect in the assassination of Martin Luther King, Jr. The documents consist of cables disseminated by the CIA to various locations worldwide, seeking assistance in locating Galt/Lowmyer/Willard. The cables provide information about Galt, including his aliases and physical description, indicating that he was a person of interest in the investigation following King's assassination.",
+  "key_connections": [
+    "Eric Starvo Galt",
+    "John Willard",
+    "Martin Luther King, Jr.",
+    "LNERGO",
+    "CIA"
+  ],
+  "significance": "Harvey Lowmyer, as an alias of Eric Starvo Galt, is significant in the context of the Martin Luther King, Jr. assassination investigation. The CIA's active dissemination of information about Galt under various aliases suggests a high level of interest in locating and potentially apprehending him as a suspect in the assassination.",
+  "document_ids": [
+    "104-10178-10136",
+    "104-10072-10034",
+    "104-10071-10139"
+  ]
+}

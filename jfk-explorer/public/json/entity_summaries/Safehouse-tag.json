@@ -1,0 +1,28 @@
+{
+  "entity_name": "Safehouse",
+  "entity_type": "tag",
+  "document_count": 9,
+  "summary": "The documents reference CIA safehouses, primarily in Silver Spring, Maryland, used in the 1960s and 1970s. These safehouses served various purposes, including housing assets like AMMUG-1 and QRPHONE/1, facilitating meetings, and providing secure locations for operational activities. The documents detail arrangements for securing and furnishing these apartments, managing leases, and ensuring security protocols. There are concerns about the security of some locations due to their familiarity. The safehouses were used in connection with projects such as WIROGUE/AEASPIC and involved individuals from Latin America. The documents also mention the use of safehouses for training assets and verifying communications.",
+  "key_connections": [
+    "AMMUG-1",
+    "QRPHONE/1",
+    "WIROGUE",
+    "AEASPIC",
+    "Vladimir Rodriguez Lahera",
+    "Silver Spring, MD",
+    "Summit Hill Apartments",
+    "Lyon L. Tyler"
+  ],
+  "significance": "While these documents do not directly link safehouses to the JFK assassination, they reveal the CIA's operational infrastructure and practices during the same period. The safehouses were used for various covert activities, including housing and training assets, which could be relevant in understanding the broader context of CIA operations during the Cold War and potentially any connections, however indirect, to events surrounding the assassination.",
+  "document_ids": [
+    "104-10182-10057",
+    "104-10161-10226",
+    "104-10217-10225",
+    "104-10185-10234",
+    "104-10185-10202",
+    "104-10185-10228",
+    "104-10122-10291",
+    "104-10185-10252",
+    "104-10185-10244"
+  ]
+}

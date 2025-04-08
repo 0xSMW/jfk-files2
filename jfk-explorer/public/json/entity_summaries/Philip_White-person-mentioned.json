@@ -1,0 +1,19 @@
+{
+  "entity_name": "Philip White",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, Philip White is mentioned in the context of FBI responses to Congressional committee requests, specifically regarding COINTELPRO and an FBI informant within the New Orleans Legal Assistance Corps. The documents, all dated June 2, 1975, suggest that inquiries were made by Congressional committees, including the Senate Select Committee on Intelligence Activities, about FBI activities and informants. However, the documents do not provide specific details about Philip White's role or involvement beyond his name being associated with these inquiries. The documents do not offer enough information to determine White's specific role, significance, or timeline of involvement.",
+  "key_connections": [
+    "COINTELPRO",
+    "FBI",
+    "Senate Select Committee on Intelligence Activities",
+    "New Orleans Legal Assistance Corps",
+    "FBI informant"
+  ],
+  "significance": "The provided documents do not offer enough information to determine Philip White's significance in the JFK context. His name appears in documents related to FBI responses to Congressional inquiries about COINTELPRO and informants, but his specific role or connection to the JFK assassination is not evident.",
+  "document_ids": [
+    "124-10271-10003_multirif",
+    "124-10271-10011_multirif",
+    "124-10271-10299_multirif"
+  ]
+}

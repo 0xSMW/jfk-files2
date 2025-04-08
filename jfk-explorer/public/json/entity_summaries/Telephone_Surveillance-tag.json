@@ -1,0 +1,24 @@
+{
+  "entity_name": "Telephone Surveillance",
+  "entity_type": "tag",
+  "document_count": 5,
+  "summary": "Telephone surveillance, as depicted in the provided documents, refers to the monitoring of telephone communications, often conducted by government agencies like the CIA and FBI. These surveillances were used to gather intelligence on individuals and organizations deemed to be threats or of interest. The documents reveal instances of telephone surveillance targeting individuals like Martin Luther King, Jr., organizations such as the Black Panther Party, Students for a Democratic Society (SDS), and the Southern Christian Leadership Conference (SCLC). One document mentions a telephone surveillance operation in Mexico City in collaboration with President Mateos. The surveillances were justified by alleged extremist activities, potential threats to national security, or investigations into possible communist connections. The documents span from the 1960s to the 1970s, indicating a sustained period of use.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Martin Luther King, Jr.",
+    "Black Panther Party",
+    "Students for a Democratic Society (SDS)",
+    "Southern Christian Leadership Conference (SCLC)",
+    "President Mateos",
+    "Stanley Levison"
+  ],
+  "significance": "While not directly linked to the JFK assassination in these documents, telephone surveillance represents a broader context of intelligence gathering and potential abuse of power by government agencies during the period surrounding the assassination. The documents illustrate the FBI's and CIA's extensive use of surveillance techniques, which raises questions about the scope and legality of their activities during the JFK investigation and the potential for these activities to have influenced or been influenced by the assassination.",
+  "document_ids": [
+    "177-10001-10445",
+    "124-10276-10482_multirif",
+    "124-10188-10208",
+    "124-10273-10012_multirif",
+    "124-10273-10008_multirif"
+  ]
+}

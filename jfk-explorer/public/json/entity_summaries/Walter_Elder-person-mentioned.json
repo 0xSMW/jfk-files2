@@ -1,0 +1,20 @@
+{
+  "entity_name": "Walter Elder",
+  "entity_type": "person-mentioned",
+  "document_count": 5,
+  "summary": "Walter Elder is identified as the author of a memorandum to William Colby in 1973, detailing potentially controversial CIA activities that could be misinterpreted or viewed as exceeding the Agency's charter. These activities included operations involving wiretapping, breaking and entering, chemical warfare planning, and questionable use of Agency funds. While the documents do not explicitly connect Walter Elder to the JFK assassination, his memo highlights concerns about CIA activities that could be considered controversial or illegal, which is relevant to the broader context of investigations into the agency's actions during that period. Other documents mention his involvement in the USIB Ad Hoc Coordinating Group on Congressional Review and FBI responses to Congressional committee requests.",
+  "key_connections": [
+    "William Colby",
+    "USIB Ad Hoc Coordinating Group",
+    "FBI",
+    "Senate Select Committee on Intelligence Activities"
+  ],
+  "significance": "Walter Elder's significance in the JFK context lies in his role within the CIA and his awareness of potentially controversial activities, as evidenced by his memo to William Colby. While not directly implicated in the assassination, his memo sheds light on the types of operations the CIA was involved in, which are relevant to understanding the broader context of investigations into the agency's actions during that period.",
+  "document_ids": [
+    "124-10271-10299",
+    "104-10303-10007",
+    "124-10271-10011_multirif",
+    "104-10301-10000",
+    "157-10005-10424"
+  ]
+}

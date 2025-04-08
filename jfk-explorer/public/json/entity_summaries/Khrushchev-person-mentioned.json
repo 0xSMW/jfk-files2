@@ -1,0 +1,35 @@
+{
+  "entity_name": "Khrushchev",
+  "entity_type": "person-mentioned",
+  "document_count": 19,
+  "summary": "Nikita Khrushchev, the leader of the Soviet Union during the period covered by these documents, appears primarily in the context of Cold War tensions and Soviet relations with Cuba. The documents mention Khrushchev in relation to Soviet military capabilities, particularly missiles, and the Soviet build-up in Cuba, which led to the Cuban Missile Crisis. His visit to Cuba and the potential exploitation of that visit for intelligence purposes are also noted. The documents also touch upon Soviet economic and trade activities, including wheat purchases, and broader Soviet policy towards the United States. While not directly implicated in the JFK assassination, Khrushchev's leadership and the Soviet Union's relationship with Cuba are significant factors in the geopolitical landscape of the time, which is relevant to understanding potential motives or connections related to the assassination.",
+  "key_connections": [
+    "Fidel Castro",
+    "Soviet Union",
+    "Cuba",
+    "James Angleton",
+    "John F. Kennedy"
+  ],
+  "significance": "Khrushchev's significance in the JFK context lies in his role as the leader of the Soviet Union during a period of intense Cold War rivalry and the Cuban Missile Crisis. While the documents do not directly link him to the assassination, his leadership and the Soviet Union's relationship with Cuba are relevant to understanding the geopolitical context and potential motivations of various actors during that time.",
+  "document_ids": [
+    "177-10002-10098",
+    "104-10302-10030",
+    "104-10306-10018",
+    "104-10290-10190",
+    "104-10306-10003",
+    "104-10302-10000",
+    "104-10506-10028",
+    "104-10308-10163",
+    "198-10007-10022",
+    "178-10004-10115",
+    "104-10308-10208",
+    "104-10431-10006",
+    "104-10310-10020",
+    "104-10302-10019",
+    "176-10036-10027",
+    "104-10302-10028",
+    "104-10306-10020",
+    "178-10004-10056",
+    "104-10326-10022"
+  ]
+}

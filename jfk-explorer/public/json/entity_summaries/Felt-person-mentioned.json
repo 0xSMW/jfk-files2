@@ -1,0 +1,20 @@
+{
+  "entity_name": "Felt",
+  "entity_type": "person-mentioned",
+  "document_count": 3,
+  "summary": "Based on the provided documents, 'Felt' is not explicitly mentioned. However, the documents discuss 'Bureau Informant 100,' identified as James Angleton of the CIA, who is the source of information, largely from a Liaison arrangement with the Israeli Intelligence Service. The documents outline procedures for handling sensitive information received from Angleton, particularly concerning Israeli intelligence activities (SCOPE material). The memos detail the method of forwarding this information by courier in sealed envelopes to maintain confidentiality. The timeline spans from 1965 to 1970, focusing on the established protocol for handling information from this source.",
+  "key_connections": [
+    "James Angleton",
+    "CIA",
+    "Israeli Intelligence Service",
+    "D.J. Brennan",
+    "W.C. Sullivan",
+    "Santo Trafficante, Jr."
+  ],
+  "significance": "While 'Felt' is not directly mentioned, the documents highlight the importance of intelligence sharing and the handling of sensitive information from sources like James Angleton (Bureau Informant 100) and the Israeli Intelligence Service. The significance lies in the established procedures for maintaining confidentiality and the potential impact of this intelligence on investigations, although the specific relevance to the JFK assassination is not explicitly stated in these documents.",
+  "document_ids": [
+    "124-10326-10103",
+    "124-10204-10209",
+    "124-10326-10105"
+  ]
+}

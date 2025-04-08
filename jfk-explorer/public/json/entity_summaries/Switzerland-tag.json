@@ -1,0 +1,30 @@
+{
+  "entity_name": "Switzerland",
+  "entity_type": "tag",
+  "document_count": 8,
+  "summary": "Switzerland appears in these documents primarily as a location for activities related to intelligence gathering, potential threats to the President, and the movements of individuals of interest to the CIA and FBI. It serves as a base for FBI's Legat office in Bern, which disseminates security information and conducts inquiries. The country is also mentioned as a transit point or residence for individuals with connections to Cuban political activities, American Black militants, and individuals potentially involved in arms sales to Cuba. The Swiss authorities are sometimes involved through information sharing by the CIA, and the country's neutrality seemingly makes it a location for meetings and communications involving various parties.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Susan Heilig",
+    "Richard Cyril Frank",
+    "Chinese Communist Embassy in Bern",
+    "American Black militants/hijackers",
+    "Mark Lane",
+    "Cuban political activities",
+    "Soviet representatives",
+    "John Dimmer",
+    "Oswald"
+  ],
+  "significance": "Switzerland's significance in the JFK context, based on these documents, lies in its role as a location where individuals and organizations connected to the assassination or related investigations were present or active. The FBI and CIA used Switzerland as a base for intelligence gathering and information sharing, particularly concerning potential threats to the President and individuals associated with Lee Harvey Oswald, such as Mark Lane. The documents suggest that Switzerland was a point of contact and transit for individuals of interest to US intelligence agencies during this period.",
+  "document_ids": [
+    "124-10212-10337",
+    "104-10063-10162",
+    "124-10284-10155",
+    "124-10311-10292",
+    "124-10320-10087",
+    "104-10171-10021",
+    "124-90138-10066",
+    "124-10158-10061"
+  ]
+}

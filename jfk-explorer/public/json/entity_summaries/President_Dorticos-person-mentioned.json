@@ -1,0 +1,19 @@
+{
+  "entity_name": "President Dorticos",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "summary": "Osvaldo Dorticós Torrado was the President of Cuba from 1959 to 1976. The documents mention him in the context of international relations and Cuban internal affairs during the early to mid-1960s. Specifically, he is mentioned in a conversation between President Lopez Mateos of Mexico and Mr. Winston Scott, where Lopez Mateos conveyed his friendship to the United States, his invitation to President Dorticos of Cuba, and his decision not to invite Fidel Castro to Mexico. The other documents focus on CIA activities related to Cuba, including meetings with AMLASH-1, and daily summaries of Cuban military, political, and economic situations. While Dorticos is mentioned, the documents do not directly link him to the JFK assassination.",
+  "key_connections": [
+    "President Lopez Mateos",
+    "Fidel Castro",
+    "AMLASH-1",
+    "Winston Scott"
+  ],
+  "significance": "President Dorticos' significance in the JFK context, based on these documents, is minimal. He appears as the President of Cuba during a period of intense CIA activity and US-Cuban relations, but there is no direct evidence linking him to the assassination. His role is more related to the broader political landscape of the time.",
+  "document_ids": [
+    "104-10247-10097",
+    "104-10302-10020",
+    "104-10171-10220",
+    "104-10216-10398"
+  ]
+}
