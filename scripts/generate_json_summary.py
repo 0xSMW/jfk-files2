@@ -377,7 +377,7 @@ ExampleOutput02 = """
 }
 """
 
-output_dir = "jfk_json"
+output_dir = "/Users/stephenwalker/Code/ecosystem/jfk-files/json/2025"
 schema_json = "schema.json"
 model = "gemini-2.0-flash"
 max_rpm = 500  # requests per minute
@@ -453,7 +453,10 @@ def generate_content_retry(text):
 # Process a single file
 def process_single_file(md_file):
     json_file = os.path.join(output_dir, os.path.basename(md_file).removesuffix('.md') + '.json')
+    
+    # Skip if JSON file already exists
     if os.path.exists(json_file):
+        print(f"Skipping {md_file} - JSON already exists")
         return None
         
     with open(md_file, 'r', encoding='utf-8') as f:
@@ -504,31 +507,36 @@ def process_single_file(md_file):
 def process_files_concurrently(md_files, max_workers=25, chunk_size=100, pause_seconds=10):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
-    
+
     # Process files in chunks to manage rate limits
     for i in range(0, len(md_files), chunk_size):
         chunk = md_files[i:i+chunk_size]
         print(f"Processing chunk {i//chunk_size + 1}/{math.ceil(len(md_files)/chunk_size)} ({len(chunk)} files)")
-        
+
         completed = 0
+        processed_in_chunk = 0 # Track files actually processed in this chunk
         with ThreadPoolExecutor(max_workers=max_workers) as executor:
             futures = {executor.submit(process_single_file, md_file): md_file for md_file in chunk}
-            
+
             for future in tqdm(as_completed(futures), total=len(futures), desc="Processing files"):
                 result = future.result()
                 if result:
                     completed += 1
-        
-        print(f"Completed {completed}/{len(chunk)} files in current chunk")
-        
-        # Pause between chunks to avoid hitting rate limits
-        if i + chunk_size < len(md_files):
+                    processed_in_chunk += 1 # Increment if a file was processed
+
+        print(f"Completed {completed}/{len(chunk)} files in current chunk ({processed_in_chunk} actually processed)")
+
+        # Pause between chunks only if it's not the last chunk AND if any files were actually processed in this chunk
+        if i + chunk_size < len(md_files) and processed_in_chunk > 0:
             print(f"Pausing for {pause_seconds} seconds before next chunk...")
             time.sleep(pause_seconds)
+        elif i + chunk_size < len(md_files) and processed_in_chunk == 0:
+             print(f"Skipping pause as no files were processed in this chunk.")
+
 
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
-md_files = sorted(glob.glob('.stash/jfk_text/*.md'))
+md_files = sorted(glob.glob('/Users/stephenwalker/Code/ecosystem/jfk-files/md/2025/*.md'))
 # Choose parameters based on API limits and performance needs
-process_files_concurrently(md_files, max_workers=5, chunk_size=max_rpm, pause_seconds=60)
+process_files_concurrently(md_files, max_workers=5, chunk_size=max_rpm, pause_seconds=10)
