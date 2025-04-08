@@ -1,0 +1,23 @@
+{
+  "entity_name": "Travel Records",
+  "entity_type": "tag",
+  "document_count": 4,
+  "summary": "The documents reference travel records of various individuals, including Santo Trafficante Jr., Reinaldo Pico Ramor, Gus Alex, and E. Howard Hunt. These records are investigated by entities such as the FBI and Swiss Central Police Bureau, indicating an interest in tracking the movements and contacts of these individuals. The travel records span from 1965 to 1975, with investigations occurring in locations such as the UK, Switzerland, Latin America, and the U.S. The documents suggest that travel records are used to monitor individuals of interest, potentially linking them to organizations or events under investigation.",
+  "key_connections": [
+    "Santo Trafficante Jr.",
+    "Reinaldo Pico Ramor",
+    "Gus Alex",
+    "E. Howard Hunt",
+    "FBI",
+    "Swiss Central Police Bureau",
+    "Dietgard Fueger",
+    "Latin American Confederation of Christian Trade Unions (CLASC)"
+  ],
+  "significance": "In the JFK context, travel records are significant as they provide potential insights into the movements and associations of individuals who may have been involved in events surrounding the assassination. Specifically, E. Howard Hunt's travel records and whereabouts on the day of the assassination are noted, suggesting an attempt to establish or verify his alibi or involvement.",
+  "document_ids": [
+    "124-10204-10215",
+    "104-10178-10334",
+    "124-10204-10004",
+    "135-10001-10245"
+  ]
+}

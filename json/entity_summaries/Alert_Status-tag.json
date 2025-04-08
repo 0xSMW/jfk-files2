@@ -1,0 +1,18 @@
+{
+  "entity_name": "Alert Status",
+  "entity_type": "tag",
+  "document_count": 3,
+  "summary": "Following President Kennedy's assassination in November 1963, various Cuban entities were placed on alert status due to concerns about potential hostile activities. The First Army in Cuba was put on alert, as detailed in a report from November 24, 1963. The Eastern Naval District of Cuba was also placed on alert, though this alert was relaxed by November 23, as noted in an NSA report from November 25. Furthermore, Cuban diplomatic missions were put on alert status due to fears of hostile activity, as reported by the CIA in December 1963. These alerts reflect a period of heightened tension and security measures in Cuba immediately following Kennedy's assassination.",
+  "key_connections": [
+    "First Army in Cuba",
+    "Eastern Naval District of Cuba",
+    "Cuban diplomatic missions",
+    "President Kennedy's assassination"
+  ],
+  "significance": "The alert status of Cuban military and diplomatic entities following President Kennedy's assassination highlights the immediate security concerns and heightened state of readiness in Cuba during this period. It reflects the potential for perceived threats or hostile actions in the aftermath of the assassination, prompting precautionary measures by Cuban authorities.",
+  "document_ids": [
+    "144-10001-10171",
+    "144-10001-10170",
+    "177-10001-10061"
+  ]
+}

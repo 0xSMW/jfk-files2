@@ -1,0 +1,31 @@
+{
+  "entity_name": "Sensitive Compartmented Information",
+  "entity_type": "tag",
+  "document_count": 12,
+  "summary": "The documents provided are reports and memoranda from the National Security Agency (NSA) related to the assassination of President John F. Kennedy. The presence of \"Sensitive Compartmented Information\" (SCI) indicates that these documents contain highly classified intelligence information that requires special handling and access controls. The documents cover a range of topics, including reactions to the assassination from Cuba, the Soviet Union, and Egypt, as well as internal NSA communications regarding investigations and responses to inquiries from committees. The reports detail Cuban government statements, security measures, and diplomatic efforts following the assassination. The SCI tag highlights the sensitive nature of the intelligence gathered and analyzed by the NSA during this period.",
+  "key_connections": [
+    "National Security Agency (NSA)",
+    "Cuba",
+    "Soviet Union",
+    "Egypt",
+    "Fidel Castro",
+    "Lee Harvey Oswald",
+    "House Assassinations Committee",
+    "Senate Select Committee"
+  ],
+  "significance": "In the context of the JFK assassination, the presence of Sensitive Compartmented Information (SCI) underscores the highly classified nature of the intelligence activities and information gathering surrounding the event. It suggests that the NSA was actively monitoring communications and gathering intelligence related to the assassination and its aftermath, including the reactions and potential involvement of foreign governments and individuals. The SCI designation emphasizes the need for strict security protocols to protect this sensitive information from unauthorized disclosure.",
+  "document_ids": [
+    "144-10001-10061",
+    "144-10001-10125",
+    "144-10001-10105",
+    "144-10001-10080",
+    "144-10001-10063",
+    "144-10001-10167",
+    "144-10001-10166",
+    "144-10001-10170",
+    "144-10001-10136",
+    "144-10001-10101",
+    "144-10001-10117",
+    "144-10001-10072"
+  ]
+}
