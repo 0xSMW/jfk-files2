@@ -43,7 +43,7 @@ def convert_pdf_to_markdown(pdf_path, retries=3, initial_delay=1):
                 ]
 
                 generate_content_config = types.GenerateContentConfig(
-                    temperature=1,
+                    temperature=0.5,
                     top_p=0.95,
                     top_k=40,
                     max_output_tokens=8192,
