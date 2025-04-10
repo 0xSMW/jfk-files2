@@ -239,7 +239,11 @@ def get_entity_clusters_from_gemini(filepaths, entity_type_prefix, model_name):
         # Configure Gemini call for JSON output
         generation_config = genai_types.GenerateContentConfig(
             temperature=0.1, # Lower temperature for more deterministic clustering
-            response_mime_type="application/json" # Ensure JSON output is requested
+            top_p=0.95,      # Added to match entity-analysis.py
+            top_k=40,        # Added to match entity-analysis.py
+            max_output_tokens=8192, # Increased token limit slightly, match entity-analysis.py style
+            response_mime_type="application/json", # Ensure JSON output is requested
+            tools=None       # Explicitly disable function calling
         )
         response = client.models.generate_content(
             model=model_name,
@@ -288,8 +292,17 @@ def get_entity_clusters_from_gemini(filepaths, entity_type_prefix, model_name):
         logging.info(f"Successfully clustered into {len(final_clusters)} groups.")
         return final_clusters
 
-    except json.JSONDecodeError:
-        logging.error(f"Failed to parse JSON response from Gemini clustering. Response text: {response.text}")
+    except json.JSONDecodeError as e:
+        # Log the full response text if possible when JSON parsing fails
+        full_response_text = "Unavailable"
+        try:
+            full_response_text = response.text
+        except AttributeError:
+            logging.warning("Could not access response.text after JSONDecodeError.")
+        except Exception as access_e:
+             logging.warning(f"Error accessing response.text after JSONDecodeError: {access_e}")
+
+        logging.error(f"Failed to parse JSON response from Gemini clustering: {e}. Raw Response Text: '{full_response_text}'")
         return None
     except google_exceptions.GoogleAPICallError as e:
          logging.error(f"Gemini API call failed during clustering: {e}")
@@ -370,7 +383,11 @@ def generate_merged_summary(canonical_name, entity_type, aggregated_data, model_
         # Configure Gemini call for JSON output
         generation_config = genai_types.GenerateContentConfig(
             temperature=0.3, # Slightly higher temp for synthesis creativity
-            response_mime_type="application/json" # Ensure JSON output is requested
+            top_p=0.95,      # Added to match entity-analysis.py
+            top_k=40,        # Added to match entity-analysis.py
+            max_output_tokens=8192, # Increased token limit slightly, match entity-analysis.py style
+            response_mime_type="application/json", # Ensure JSON output is requested
+            tools=None       # Explicitly disable function calling
         )
         response = client.models.generate_content(
             model=model_name,
