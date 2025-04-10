@@ -35,11 +35,14 @@ ENTITY_SUMMARY_DIR = "/Users/stephenwalker/Code/ecosystem/jfk-files/json/entity_
 ARCHIVE_DIR_NAME = "archived_duplicates" # Subdirectory within ENTITY_SUMMARY_DIR
 ARCHIVE_DIR = os.path.join(ENTITY_SUMMARY_DIR, ARCHIVE_DIR_NAME)
 
-# Entity type to process (e.g., "person-mentioned", "sender", "tag")
-ENTITY_TYPE_TO_PROCESS = "person-mentioned"
+# Entity types to process
+ENTITY_TYPES_TO_PROCESS = ["tag", "person-mentioned", "sender", "recipient"] # List of types
+
+# Tracking file for processed types
+PROCESSED_TYPES_TRACKING_FILE = os.path.join(ENTITY_SUMMARY_DIR, ".processed_entity_types.json")
 
 # Gemini Models
-GEMINI_CLUSTER_MODEL = "gemini-2.0-flash" # Model for Hop 1 (Clustering) - Use Flash 2
+GEMINI_CLUSTER_MODEL = "gemini-2.5-pro-preview-03-25" # Model for Hop 1 (Clustering) - Use 2.5
 GEMINI_MERGE_MODEL = "gemini-2.0-flash"   # Model for Hop 2 (Merging) - Use Flash 2
 GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
 
@@ -52,6 +55,48 @@ try:
 except Exception as e:
     logging.error(f"Failed to initialize Gemini client: {e}")
     exit(1)
+
+# --- Tracking File Functions ---
+
+def load_processed_types(filepath):
+    """Loads the set of already processed entity types from a JSON file."""
+    if not os.path.exists(filepath):
+        return set()
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            content = f.read()
+            if not content: # Handle empty file
+                return set()
+            processed_list = json.loads(content)
+            # Basic validation: ensure it's a list of strings
+            if isinstance(processed_list, list) and all(isinstance(item, str) for item in processed_list):
+                return set(processed_list)
+            else:
+                logging.warning(f"Invalid format in tracking file: {filepath}. Expected list of strings. Starting fresh.")
+                return set()
+    except json.JSONDecodeError:
+        logging.warning(f"Invalid JSON found in tracking file: {filepath}. Starting fresh.")
+        return set()
+    except IOError as e:
+        logging.error(f"Error reading tracking file {filepath}: {e}. Assuming no types processed.")
+        return set()
+    except Exception as e:
+        logging.error(f"Unexpected error loading tracking file {filepath}: {e}. Assuming no types processed.")
+        return set()
+
+def save_processed_types(filepath, processed_set):
+    """Saves the set of processed entity types to a JSON file."""
+    try:
+        # Ensure the directory exists
+        os.makedirs(os.path.dirname(filepath), exist_ok=True)
+        with open(filepath, 'w', encoding='utf-8') as f:
+            json.dump(sorted(list(processed_set)), f, indent=2) # Convert set to sorted list for consistent output
+        logging.debug(f"Saved processed types tracking file to {filepath}")
+    except IOError as e:
+        logging.error(f"Error writing tracking file {filepath}: {e}")
+    except Exception as e:
+        logging.error(f"Unexpected error saving tracking file {filepath}: {e}")
+
 
 # --- Helper Functions ---
 
@@ -173,13 +218,14 @@ def save_merged_entity(merged_data, canonical_name, entity_type, output_dir):
 
 # --- Gemini Interaction Functions ---
 
-def get_entity_clusters_from_gemini(filepaths, entity_type_prefix, model_name):
+def get_entity_clusters_from_gemini(filepaths, entity_type_prefix, current_entity_type, model_name):
     """
     Uses Gemini (Hop 1) to cluster entity filenames.
 
     Args:
         filepaths: List of file paths for a specific entity type.
         entity_type_prefix: The prefix string (e.g., "person-mentioned-").
+        current_entity_type: The entity type being processed (e.g., "person-mentioned").
         model_name: The Gemini model name to use for clustering.
 
     Returns:
@@ -187,7 +233,7 @@ def get_entity_clusters_from_gemini(filepaths, entity_type_prefix, model_name):
         belonging to the same cluster. Returns None on failure.
     """
     if not filepaths:
-        logging.info("No filepaths provided for clustering.")
+        logging.info(f"[{current_entity_type}] No filepaths provided for clustering.")
         return []
 
     # Create mapping from extracted name to original filepath
@@ -198,22 +244,22 @@ def get_entity_clusters_from_gemini(filepaths, entity_type_prefix, model_name):
         if name:
             # Handle potential name collisions (though unlikely with UUIDs/good sanitization)
             if name in name_to_filepath:
-                 logging.warning(f"Duplicate extracted name '{name}' found for files: {name_to_filepath[name]} and {fp}. Using first encountered.")
+                 logging.warning(f"[{current_entity_type}] Duplicate extracted name '{name}' found for files: {name_to_filepath[name]} and {fp}. Using first encountered.")
             else:
                 name_to_filepath[name] = fp
                 entity_names.append(name)
         else:
-            logging.warning(f"Could not extract valid name from: {fp}")
+            logging.warning(f"[{current_entity_type}] Could not extract valid name from: {fp}")
 
     if not entity_names:
-        logging.error("No valid entity names extracted for clustering.")
+        logging.error(f"[{current_entity_type}] No valid entity names extracted for clustering.")
         return []
 
-    logging.info(f"Requesting clustering for {len(entity_names)} unique entity names.")
+    logging.info(f"[{current_entity_type}] Requesting clustering for {len(entity_names)} unique entity names.")
 
     # Construct the prompt for Gemini
     prompt = f"""
-    Analyze the following list of entity names extracted from filenames. These entities are all of the type '{ENTITY_TYPE_TO_PROCESS}'.
+    Analyze the following list of entity names extracted from filenames. These entities are all of the type '{current_entity_type}'.
     Group the names that refer to the exact same real-world entity. Consider variations in titles, initials, abbreviations, and common references.
 
     Entity Names:
@@ -224,7 +270,7 @@ def get_entity_clusters_from_gemini(filepaths, entity_type_prefix, model_name):
     Include ALL provided entity names in the output, placing each name in exactly one cluster.
     Names that do not have duplicates should be in their own cluster (a list containing only that single name).
 
-    Example Input Names: ["JFK", "John_F_Kennedy", "President_Kennedy", "Lee_Harvey_Oswald", "Oswald", "CIA"]
+    Example Input Names (for type 'person-mentioned'): ["JFK", "John_F_Kennedy", "President_Kennedy", "Lee_Harvey_Oswald", "Oswald", "CIA"]
     Example JSON Output:
     {{
       "clusters": [
@@ -241,7 +287,7 @@ def get_entity_clusters_from_gemini(filepaths, entity_type_prefix, model_name):
             temperature=0.1, # Lower temperature for more deterministic clustering
             top_p=0.95,      # Added to match entity-analysis.py
             top_k=40,        # Added to match entity-analysis.py
-            max_output_tokens=8192, # Increased token limit slightly, match entity-analysis.py style
+            max_output_tokens=65536 if "2.5" in model_name else 8192, # Token limit based on model version
             response_mime_type="application/json", # Ensure JSON output is requested
             tools=None       # Explicitly disable function calling
         )
@@ -252,14 +298,49 @@ def get_entity_clusters_from_gemini(filepaths, entity_type_prefix, model_name):
         )
 
         # Debug: Log the raw response text
-        # logging.debug(f"Raw Gemini clustering response: {response.text}")
+        # logging.debug(f"[{current_entity_type}] Raw Gemini clustering response: {response.text}")
 
-        # Parse the JSON response
-        response_data = json.loads(response.text)
+        # --- MODIFIED: Extract JSON string from potential markdown block ---
+        raw_response_text = response.text
+        json_string = None
+        # Regex to find JSON object within ```json ... ```, allowing for whitespace and newlines
+        match = re.search(r"```json\s*(\{.*?\})\s*```", raw_response_text, re.DOTALL)
+        if match:
+            json_string = match.group(1)
+            logging.debug(f"[{current_entity_type}] Extracted JSON string using ```json``` regex.")
+        else:
+            # Fallback: Attempt to find JSON starting with '{' and ending with '}'
+            # This is less robust but might catch cases without markdown fences
+            start_index = raw_response_text.find('{')
+            end_index = raw_response_text.rfind('}')
+            if start_index != -1 and end_index != -1 and end_index > start_index:
+                 json_string = raw_response_text[start_index:end_index+1]
+                 logging.warning(f"[{current_entity_type}] Could not find ```json``` block, attempting fallback JSON extraction.")
+            else:
+                logging.error(f"[{current_entity_type}] Could not extract valid JSON object from Gemini clustering response. Raw text: '{raw_response_text}'")
+                return None # Cannot proceed if no JSON structure is found
+
+        # --- MODIFIED: Parse the extracted JSON string ---
+        response_data = None
+        if json_string:
+            try:
+                response_data = json.loads(json_string)
+            except json.JSONDecodeError as e:
+                # Log the string that failed parsing
+                logging.error(f"[{current_entity_type}] Failed to parse the extracted JSON string: {e}. Extracted text: '{json_string}'")
+                return None # Cannot proceed if extracted JSON is invalid
+        else:
+            # This case should be caught by the extraction logic above, but added for safety
+            logging.error(f"[{current_entity_type}] JSON string extraction failed, cannot parse.")
+            return None
+
+        # --- Original logic continues below, using response_data ---
         clustered_names = response_data.get("clusters")
 
         if not isinstance(clustered_names, list):
-            logging.error(f"Gemini clustering response did not contain a valid 'clusters' list. Response: {response.text}")
+            # Log the *parsed* data if it wasn't a list, or the raw text if parsing failed earlier
+            log_content = response_data if response_data else raw_response_text
+            logging.error(f"[{current_entity_type}] Gemini clustering response did not contain a valid 'clusters' list. Parsed/Raw Content: {log_content}")
             return None
 
         # Convert clustered names back to filepaths
@@ -268,14 +349,14 @@ def get_entity_clusters_from_gemini(filepaths, entity_type_prefix, model_name):
         for name_cluster in clustered_names:
             path_cluster = []
             if not isinstance(name_cluster, list):
-                 logging.warning(f"Skipping invalid cluster format in response: {name_cluster}")
+                 logging.warning(f"[{current_entity_type}] Skipping invalid cluster format in response: {name_cluster}")
                  continue
             for name in name_cluster:
                 if name in name_to_filepath:
                     path_cluster.append(name_to_filepath[name])
                     processed_names.add(name)
                 else:
-                    logging.warning(f"Name '{name}' from Gemini cluster not found in original name map.")
+                    logging.warning(f"[{current_entity_type}] Name '{name}' from Gemini cluster not found in original name map.")
             if path_cluster: # Only add non-empty clusters
                 final_clusters.append(path_cluster)
 
@@ -283,32 +364,33 @@ def get_entity_clusters_from_gemini(filepaths, entity_type_prefix, model_name):
         original_names_set = set(entity_names)
         missed_names = original_names_set - processed_names
         if missed_names:
-            logging.warning(f"Gemini clustering missed {len(missed_names)} names: {missed_names}. Adding them as individual clusters.")
+            logging.warning(f"[{current_entity_type}] Gemini clustering missed {len(missed_names)} names: {missed_names}. Adding them as individual clusters.")
             for name in missed_names:
                  if name in name_to_filepath:
                       final_clusters.append([name_to_filepath[name]])
 
 
-        logging.info(f"Successfully clustered into {len(final_clusters)} groups.")
+        logging.info(f"[{current_entity_type}] Successfully clustered into {len(final_clusters)} groups.")
         return final_clusters
 
     except json.JSONDecodeError as e:
-        # Log the full response text if possible when JSON parsing fails
+        # Log the full raw response text when JSON parsing fails (either initial or fallback)
         full_response_text = "Unavailable"
         try:
-            full_response_text = response.text
-        except AttributeError:
-            logging.warning("Could not access response.text after JSONDecodeError.")
+            # Ensure raw_response_text is accessible here, might need to define it earlier if not already
+            full_response_text = raw_response_text # Assumes raw_response_text is defined before this block
+        except NameError:
+             logging.warning(f"[{current_entity_type}] Variable raw_response_text not available for logging in JSONDecodeError.")
         except Exception as access_e:
-             logging.warning(f"Error accessing response.text after JSONDecodeError: {access_e}")
+             logging.warning(f"[{current_entity_type}] Error accessing raw response text in JSONDecodeError handler: {access_e}")
 
-        logging.error(f"Failed to parse JSON response from Gemini clustering: {e}. Raw Response Text: '{full_response_text}'")
+        logging.error(f"[{current_entity_type}] Failed to parse JSON response from Gemini clustering: {e}. Raw Response Text: '{full_response_text}'")
         return None
     except google_exceptions.GoogleAPICallError as e:
-         logging.error(f"Gemini API call failed during clustering: {e}")
+         logging.error(f"[{current_entity_type}] Gemini API call failed during clustering: {e}")
          return None
     except Exception as e:
-        logging.error(f"An unexpected error occurred during Gemini clustering: {e}")
+        logging.error(f"[{current_entity_type}] An unexpected error occurred during Gemini clustering: {e}")
         # Consider logging the prompt here for debugging if it doesn't contain sensitive info
         # logging.error(f"Prompt sent: {prompt}")
         return None
@@ -385,7 +467,7 @@ def generate_merged_summary(canonical_name, entity_type, aggregated_data, model_
             temperature=0.3, # Slightly higher temp for synthesis creativity
             top_p=0.95,      # Added to match entity-analysis.py
             top_k=40,        # Added to match entity-analysis.py
-            max_output_tokens=8192, # Increased token limit slightly, match entity-analysis.py style
+            max_output_tokens=65536 if "2.5" in model_name else 8192, # Token limit based on model version
             response_mime_type="application/json", # Ensure JSON output is requested
             tools=None       # Explicitly disable function calling
         )
@@ -475,83 +557,137 @@ def process_cluster(cluster_filepaths, entity_type_prefix, merge_model_name, out
         return None # Failed merge generation
 
 def main():
-    """Main function to orchestrate the entity merging process."""
+    """Main function to orchestrate the entity merging process for multiple types."""
     logging.info("--- Starting Entity Post-Analysis ---")
-    logging.info(f"Processing entity type: {ENTITY_TYPE_TO_PROCESS}")
     logging.info(f"Entity summaries source: {ENTITY_SUMMARY_DIR}")
     logging.info(f"Archive directory: {ARCHIVE_DIR}")
+    logging.info(f"Processing entity types: {ENTITY_TYPES_TO_PROCESS}")
+    logging.info(f"Tracking file: {PROCESSED_TYPES_TRACKING_FILE}")
 
-    entity_type_prefix = f"{ENTITY_TYPE_TO_PROCESS}-"
+    # Load the set of already processed types
+    processed_types = load_processed_types(PROCESSED_TYPES_TRACKING_FILE)
+    logging.info(f"Already processed types: {sorted(list(processed_types)) if processed_types else 'None'}")
 
-    # 1. Find all relevant entity files
-    all_files = find_entity_files(ENTITY_SUMMARY_DIR, entity_type_prefix, ARCHIVE_DIR_NAME)
-    if not all_files:
-        logging.info("No entity files found to process. Exiting.")
-        return
+    overall_merged_count = 0
+    overall_failed_clusters = 0
+    types_processed_this_run = 0
+    types_skipped = 0
 
-    # 2. Get Clusters from Gemini (Hop 1)
-    logging.info("Requesting entity clustering from Gemini (Hop 1)...")
-    clusters = get_entity_clusters_from_gemini(all_files, entity_type_prefix, GEMINI_CLUSTER_MODEL)
-
-    if clusters is None:
-        logging.error("Failed to get clusters from Gemini. Aborting merge process.")
-        return
-    if not clusters:
-        logging.info("No clusters returned or identified by Gemini. Exiting.")
-        return
-
-    # Separate clusters needing merging
-    clusters_to_merge = [c for c in clusters if len(c) > 1]
-    singleton_clusters = [c for c in clusters if len(c) <= 1]
-
-    logging.info(f"Identified {len(clusters_to_merge)} clusters requiring merging.")
-    logging.info(f"Identified {len(singleton_clusters)} singleton clusters (no merging needed).")
-
-    if not clusters_to_merge:
-        logging.info("No clusters require merging. Exiting.")
-        return
-
-    # 3. Process Merging in Parallel (Hop 2)
-    logging.info(f"Starting parallel merge process for {len(clusters_to_merge)} clusters using up to {MAX_MERGE_WORKERS} workers...")
-    merged_count = 0
-    failed_clusters = 0
-
-    # Ensure archive directory exists before starting workers
+    # Ensure archive directory exists globally
     os.makedirs(ARCHIVE_DIR, exist_ok=True)
 
-    with ThreadPoolExecutor(max_workers=MAX_MERGE_WORKERS) as executor:
-        # Submit tasks
-        future_to_cluster = {
-            executor.submit(
-                process_cluster,
-                cluster_filepaths,
-                entity_type_prefix,
-                GEMINI_MERGE_MODEL,
-                ENTITY_SUMMARY_DIR, # Output merged files to the main summary dir
-                ARCHIVE_DIR
-            ): cluster_filepaths for cluster_filepaths in clusters_to_merge
-        }
+    for entity_type in ENTITY_TYPES_TO_PROCESS:
+        if entity_type in processed_types:
+            logging.info(f"--- Skipping already processed entity type: {entity_type} ---")
+            types_skipped += 1
+            continue
 
-        # Process results as they complete
-        for future in tqdm(as_completed(future_to_cluster), total=len(clusters_to_merge), desc="Merging Clusters"):
-            cluster_filepaths = future_to_cluster[future]
-            try:
-                result = future.result()
-                if result:
-                    merged_count += 1
-                    logging.debug(f"Successfully merged cluster resulting in: {result}")
-                else:
-                    # Error logged within process_cluster
-                    failed_clusters += 1
-                    logging.warning(f"Failed to process cluster: {cluster_filepaths}")
-            except Exception as exc:
-                failed_clusters += 1
-                logging.error(f"Cluster {cluster_filepaths} generated an exception: {exc}", exc_info=True) # Log traceback
+        logging.info(f"--- Processing entity type: {entity_type} ---")
+        entity_type_prefix = f"{entity_type}-"
+        type_merged_count = 0
+        type_failed_clusters = 0
+        processed_successfully = False # Flag to track if this type completes without critical failure
+
+        try:
+            # 1. Find all relevant entity files for the current type
+            all_files = find_entity_files(ENTITY_SUMMARY_DIR, entity_type_prefix, ARCHIVE_DIR_NAME)
+            if not all_files:
+                logging.info(f"[{entity_type}] No entity files found to process.")
+                processed_successfully = True # Mark as processed even if no files found, prevents re-checking
+                continue # Move to the next type
+
+            # 2. Get Clusters from Gemini (Hop 1)
+            logging.info(f"[{entity_type}] Requesting entity clustering from Gemini {GEMINI_CLUSTER_MODEL} (Hop 1)...")
+            # Pass the current entity_type to the clustering function
+            clusters = get_entity_clusters_from_gemini(all_files, entity_type_prefix, entity_type, GEMINI_CLUSTER_MODEL)
+
+            if clusters is None:
+                logging.error(f"[{entity_type}] Failed to get clusters from Gemini. Skipping merge for this type. Will retry on next run.")
+                # Do not mark as processed, allow retry on next run
+                continue # Move to the next type
+            if not clusters:
+                logging.info(f"[{entity_type}] No clusters returned or identified by Gemini.")
+                processed_successfully = True # Mark as processed if clustering ran but found nothing to cluster/merge
+                continue # Move to the next type
+
+            # Separate clusters needing merging
+            clusters_to_merge = [c for c in clusters if len(c) > 1]
+            singleton_clusters = [c for c in clusters if len(c) <= 1]
+
+            logging.info(f"[{entity_type}] Identified {len(clusters_to_merge)} clusters requiring merging.")
+            logging.info(f"[{entity_type}] Identified {len(singleton_clusters)} singleton clusters (no merging needed).")
+
+            if not clusters_to_merge:
+                logging.info(f"[{entity_type}] No clusters require merging for this type.")
+                processed_successfully = True # Mark as processed
+                continue # Move to the next type
+
+            # 3. Process Merging in Parallel (Hop 2)
+            logging.info(f"[{entity_type}] Starting parallel merge process for {len(clusters_to_merge)} clusters using up to {MAX_MERGE_WORKERS} workers...")
+
+            with ThreadPoolExecutor(max_workers=MAX_MERGE_WORKERS) as executor:
+                # Submit tasks
+                future_to_cluster = {
+                    executor.submit(
+                        process_cluster,
+                        cluster_filepaths,
+                        entity_type_prefix, # Pass the correct prefix for this type
+                        GEMINI_MERGE_MODEL,
+                        ENTITY_SUMMARY_DIR, # Output merged files to the main summary dir
+                        ARCHIVE_DIR
+                    ): cluster_filepaths for cluster_filepaths in clusters_to_merge
+                }
+
+                # Process results as they complete
+                for future in tqdm(as_completed(future_to_cluster), total=len(clusters_to_merge), desc=f"Merging {entity_type}"):
+                    cluster_filepaths = future_to_cluster[future]
+                    try:
+                        result = future.result()
+                        if result:
+                            type_merged_count += 1
+                            logging.debug(f"[{entity_type}] Successfully merged cluster resulting in: {result}")
+                        else:
+                            # Error logged within process_cluster
+                            type_failed_clusters += 1
+                            logging.warning(f"[{entity_type}] Failed to process cluster: {cluster_filepaths}")
+                    except Exception as exc:
+                        type_failed_clusters += 1
+                        logging.error(f"[{entity_type}] Cluster {cluster_filepaths} generated an exception: {exc}", exc_info=True) # Log traceback
+
+            logging.info(f"--- Finished processing entity type: {entity_type} ---")
+            logging.info(f"[{entity_type}] Successfully merged {type_merged_count} clusters.")
+            if type_failed_clusters > 0:
+                logging.warning(f"[{entity_type}] Failed to merge {type_failed_clusters} clusters. Check logs for details.")
+
+            # If we reached here without critical errors (like clustering failure), mark as processed.
+            # Even if some individual merges failed, we consider the type processed for this run.
+            processed_successfully = True
+
+        except Exception as e:
+            logging.error(f"--- Unhandled error during processing of entity type {entity_type}: {e} ---", exc_info=True)
+            # Do not mark as processed if a major error occurred in the main loop for this type
+
+        finally:
+            # Update overall counters
+            overall_merged_count += type_merged_count
+            overall_failed_clusters += type_failed_clusters
+
+            # Update and save the tracking file if this type was successfully processed
+            if processed_successfully:
+                processed_types.add(entity_type)
+                save_processed_types(PROCESSED_TYPES_TRACKING_FILE, processed_types)
+                types_processed_this_run += 1
+                logging.info(f"Marked '{entity_type}' as processed.")
+            else:
+                 logging.warning(f"Entity type '{entity_type}' was not marked as processed due to errors during its run.")
+
 
     logging.info("--- Entity Post-Analysis Complete ---")
-    logging.info(f"Successfully merged {merged_count} clusters.")
-    if failed_clusters > 0:
-        logging.warning(f"Failed to merge {failed_clusters} clusters. Check logs for details.")
+    logging.info(f"Skipped {types_skipped} already processed type(s).")
+    logging.info(f"Attempted processing for {types_processed_this_run} entity type(s) in this run.")
+    logging.info(f"Overall successfully merged clusters across all processed types: {overall_merged_count}")
+    if overall_failed_clusters > 0:
+        logging.warning(f"Overall failed clusters across all processed types: {overall_failed_clusters}. Check logs for details.")
 
 if __name__ == "__main__":
     if not GEMINI_API_KEY:
