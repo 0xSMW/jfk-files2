@@ -1,0 +1,25 @@
+{
+  "entity_name": "James_P_Kelly",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078"
+  ],
+  "summary": "James P. Kelly was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from 1977 to 1978. Payroll and certification reports document his employment, position, and salary during this period. These records confirm his continued role within the HSCA, likely in an administrative or support capacity.",
+  "key_connections": [
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium - James P. Kelly's significance lies in his employment with the HSCA, as documented in multiple payroll and certification reports. While the specific nature of his work isn't detailed, the repeated mentions across several documents suggest a consistent role within the committee's operations.",
+  "merged_from_variants": [
+    "KELLY, JAMES P",
+    "James P Kelly"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "entity_name": "Brenda_L_Welburn",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10079",
+    "180-10125-10081",
+    "180-10125-10078",
+    "180-10125-10077"
+  ],
+  "summary": "Brenda L. Welburn was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from 1978 to early 1979. Payroll certifications and reports document her position and salary within the committee during its investigation into the JFK assassination. These documents provide administrative details of her employment during this period.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Brenda L. Welburn's significance lies in her employment within the HSCA during its investigation into the JFK assassination. While her specific role isn't detailed, the multiple payroll documents suggest she was a staff member involved in the committee's operations.",
+  "merged_from_variants": [
+    "WELBURN, BRENDA L",
+    "Brenda L Welburn"
+  ]
+}

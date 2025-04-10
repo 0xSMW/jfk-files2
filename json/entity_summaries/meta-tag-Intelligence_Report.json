@@ -1,0 +1,50 @@
+{
+  "entity_name": "Intelligence_Report",
+  "entity_type": "tag",
+  "document_count": 24,
+  "document_ids": [
+    "104-10076-10375",
+    "144-10001-10276",
+    "176-10036-10097",
+    "177-10002-10101",
+    "104-10179-10233",
+    "144-10001-10346",
+    "177-10002-10102",
+    "177-10002-10105",
+    "104-10216-10029",
+    "104-10180-10044",
+    "104-10167-10190",
+    "104-10164-10002",
+    "104-10215-10128",
+    "176-10036-10104",
+    "176-10036-10142",
+    "194-10012-10030",
+    "177-10002-10097",
+    "104-10072-10013",
+    "176-10036-10027",
+    "104-10072-10001",
+    "104-10098-10401",
+    "176-10036-10139",
+    "104-10326-10059",
+    "177-10002-10096"
+  ],
+  "summary": "The 'Intelligence Report' tag encompasses a diverse collection of documents, including CIA and NSA reports, field information reports, telegrams, memoranda, and President's Intelligence Checklists, spanning from 1956 to 1996, with a concentration around November 1963. These reports provide insights into global events and political situations, covering topics such as Soviet submarine development, political tensions in Venezuela, Viet Cong activities in South Vietnam, Cuban government activities, and the activities of Guatemalan exiles. Specific reports detail information related to South Vietnamese politics, including Gene Gregory's white paper on the Buddhist issue, recommendations for Ngo Dinh Nhu, and planned coups against President Diem.",
+  "key_connections": [
+    "CIA",
+    "NSA",
+    "South Vietnam",
+    "Cuba",
+    "Soviet Union",
+    "Viet Cong",
+    "Ngo Dinh Diem",
+    "Madame Ngo Dinh Nhu",
+    "Venezuela",
+    "Guatemalan exiles",
+    "President John F. Kennedy"
+  ],
+  "significance": "High - The 'Intelligence Report' tag is highly significant due to the wide range of sensitive information it covers, the high volume of documents associated with it, and its relevance to key historical events and figures, particularly surrounding the Kennedy assassination and the Vietnam War era.",
+  "merged_from_variants": [
+    "Information Report",
+    "Intelligence Report"
+  ]
+}

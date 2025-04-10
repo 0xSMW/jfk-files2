@@ -1,0 +1,30 @@
+{
+  "entity_name": "Walter_D_Huddleston",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "document_ids": [
+    "157-10014-10081",
+    "157-10014-10121",
+    "124-10185-10195_multirif",
+    "157-10014-10125",
+    "124-10186-10041",
+    "124-10238-10329_multirif",
+    "124-10264-10191",
+    "157-10014-10133"
+  ],
+  "summary": "Walter D. Huddleston is mentioned in eight documents primarily related to the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee) during 1975 and 1976. The documents include hearing transcripts and FBI memoranda concerning topics such as the CIA's covert activities involving media and academics, FBI domestic intelligence operations, and information provided to the committee regarding Martin Luther King, Jr. and Stanley Levison's alleged ties to the Communist Party USA. While the documents suggest Huddleston was likely a member of the Senate Select Committee and participated in these hearings, his specific role or involvement is not explicitly detailed.",
+  "key_connections": [
+    "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities",
+    "FBI",
+    "CIA",
+    "Martin Luther King, Jr.",
+    "Stanley Levison",
+    "Communist Party USA",
+    "Church"
+  ],
+  "significance": "Medium. Walter D. Huddleston's presence in eight documents related to the Church Committee suggests a moderate level of involvement in the investigations into intelligence activities during the 1970s. While his specific actions are not detailed, his association with the committee places him within the context of these significant historical events.",
+  "merged_from_variants": [
+    "Walter D. Huddleston",
+    "Huddleston"
+  ]
+}

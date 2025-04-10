@@ -1,0 +1,48 @@
+{
+  "entity_name": "Infiltration",
+  "entity_type": "tag",
+  "document_count": 25,
+  "document_ids": [
+    "104-10069-10185",
+    "104-10234-10102",
+    "104-10172-10062",
+    "202-10001-10203",
+    "104-10103-10112",
+    "104-10216-10148",
+    "104-10062-10062",
+    "104-10172-10147",
+    "124-10271-10304",
+    "178-10004-10115",
+    "104-10171-10003",
+    "104-10172-10133",
+    "104-10176-10068",
+    "104-10169-10265",
+    "104-10216-10273",
+    "176-10036-10087",
+    "157-10011-10003",
+    "104-10170-10146",
+    "104-10193-10160",
+    "104-10177-10175",
+    "157-10014-10006",
+    "104-10169-10005",
+    "104-10234-10101",
+    "104-10179-10209",
+    "104-10172-10059"
+  ],
+  "summary": "Infiltration, a key tactic in intelligence operations, is prominently featured in the documents, particularly in the context of CIA activities. These activities include sending agents into Cuba for intelligence gathering, sabotage, and recruitment, as exemplified by Project AMTRUNK and Operation JEAN III. The documents also detail attempts to penetrate various organizations, such as revolutionary Arab groups and the National Democratic Party (NPD) in Germany, often involving the use of covert sources and meticulous planning. Counter-intelligence efforts to identify and disrupt anti-Castro groups and investigate security breaches are also discussed. The documents reveal the significance of infiltration as a means of gaining access to information, influencing activities, and disrupting operations.",
+  "key_connections": [
+    "CIA",
+    "Project AMTRUNK",
+    "Anti-Castro groups",
+    "Revolutionary Arab groups",
+    "National Democratic Party (NPD)",
+    "Operation JEAN III",
+    "Cuba Project",
+    "James Angleton"
+  ],
+  "significance": "High - Infiltration appears as a central theme across multiple documents, highlighting its importance in intelligence operations, particularly those related to Cuba and counterintelligence efforts. The variety of contexts and the number of documents suggest a significant focus on this tactic.",
+  "merged_from_variants": [
+    "Penetration",
+    "Infiltration"
+  ]
+}

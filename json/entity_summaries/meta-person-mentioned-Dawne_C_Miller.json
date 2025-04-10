@@ -1,0 +1,25 @@
+{
+  "entity_name": "Dawne_C_Miller",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10075",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10076",
+    "180-10125-10096",
+    "180-10125-10078"
+  ],
+  "summary": "Dawne C. Miller was an employee of the Select Committee on Assassinations (SCAS) from 1977 to 1979. Her employment is documented in multiple payroll certifications and reports, which include her name, and in some instances, her salary and social security number. These records indicate her involvement as a staff member during the committee's investigation.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Dawne C. Miller's significance is moderate. While she is mentioned in a substantial number of documents (9), her role within the Select Committee on Assassinations is not explicitly detailed beyond her presence on payroll records. This suggests she was a staff member, but the specific nature of her contributions to the investigation remains unclear.",
+  "merged_from_variants": [
+    "Dawne C Miller",
+    "MILLER, DAWNE C"
+  ]
+}

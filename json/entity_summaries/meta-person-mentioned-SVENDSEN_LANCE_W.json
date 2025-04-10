@@ -1,0 +1,27 @@
+{
+  "entity_name": "SVENDSEN_LANCE_W",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10075",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10076",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078",
+    "180-10125-10077"
+  ],
+  "summary": "Lance W. Svendsen was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA), also referred to as the Select Committee on Assassinations (SCA). Payroll and certification reports from October 1977 to February 1979 document his employment, position, and salary within the committee. These records indicate his sustained involvement with the HSCA during its investigation into the JFK assassination.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Lance W. Svendsen's consistent presence on payroll documents across multiple periods suggests he was a staff member involved in the HSCA's operations. While not a central figure, his employment provides insight into the committee's staffing and activities.",
+  "merged_from_variants": [
+    "Lance W Svendsen",
+    "SVENDSEN, LANCE W"
+  ]
+}

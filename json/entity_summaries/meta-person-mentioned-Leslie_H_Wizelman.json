@@ -1,0 +1,26 @@
+{
+  "entity_name": "Leslie_H_Wizelman",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "document_ids": [
+    "180-10060-10438",
+    "180-10125-10086",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10060-10473",
+    "180-10125-10081",
+    "180-10068-10350",
+    "104-10061-10115"
+  ],
+  "summary": "Leslie H Wizelman was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from October 1977 to November 1978. Payroll and certification reports document her position, annual salary, and gross pay during this period, indicating her consistent employment with the HSCA.",
+  "key_connections": [
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Leslie H Wizelman's significance is moderate. While mentioned in nine documents, her role appears to be primarily administrative, as evidenced by payroll records. Her connection to the HSCA suggests some relevance to the investigation of assassinations, but the available information doesn't indicate a central or investigatory role.",
+  "merged_from_variants": [
+    "Leslie Wizelman",
+    "Leslie H Wizelman"
+  ]
+}

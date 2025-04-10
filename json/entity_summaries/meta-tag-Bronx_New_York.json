@@ -1,0 +1,36 @@
+{
+  "entity_name": "Bronx_New_York",
+  "entity_type": "tag",
+  "document_count": 16,
+  "document_ids": [
+    "104-10062-10062",
+    "124-10226-10305",
+    "194-10004-10387",
+    "104-10072-10227",
+    "104-10106-10215",
+    "104-10106-10217",
+    "104-10106-10218",
+    "104-10217-10225",
+    "194-10004-10384",
+    "194-10004-10391",
+    "194-10004-10398",
+    "157-10004-10270",
+    "194-10004-10377",
+    "104-10519-10184",
+    "194-10004-10397",
+    "194-10004-10378"
+  ],
+  "summary": "The Bronx, New York, is a significant location within the documents, serving both as a residential area and a site for various activities. It is prominently featured as the location where background investigations into Manuel Marti were conducted, including neighborhood checks, interviews with character references, and verification of his educational background. Addresses within the Bronx were focal points for locating and interviewing individuals connected to Marti, such as Ramona Rodriguez, Juanita Reyes, and Aleanso Ortiz, indicating the area's importance in Marti's social network and upbringing. More broadly, New York appears as a location for meetings, real estate transactions, training exercises, and employment details, suggesting its role as a base of operations or residence for individuals involved in the described activities.",
+  "key_connections": [
+    "Manuel Marti",
+    "Aleanso Ortiz",
+    "Ramona Rodriguez",
+    "Juanita Reyes",
+    "Peter J. DI GERVENO"
+  ],
+  "significance": "Medium - The Bronx, New York, appears in a moderate number of documents (16) and is central to the background investigation of Manuel Marti. While not directly related to high-level events, its role as a location for residence, social networks, and investigative activities makes it a relevant entity within the context of the documents.",
+  "merged_from_variants": [
+    "New York",
+    "Bronx, New York"
+  ]
+}

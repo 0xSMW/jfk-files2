@@ -1,0 +1,29 @@
+{
+  "entity_name": "Anne_Paul_Wilander",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10075",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10076",
+    "180-10070-10171",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078",
+    "180-10125-10077"
+  ],
+  "summary": "Anne Paul Wilander was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from 1977 to 1979. Payroll records and certification reports document her position, salary, and pay period earnings during this time. These records, including payroll authorization forms and memoranda, confirm her employment with the HSCA during its investigation into the JFK assassination. The Assassination Records Review Board also mentions her in relation to the postponement of a HSCA staff payroll record to redact Social Security numbers.",
+  "key_connections": [
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations",
+    "Assassination Records Review Board"
+  ],
+  "significance": "Medium. Anne Paul Wilander's significance lies in her employment with the HSCA during the JFK assassination investigation. While her exact role is not specified, the payroll records and related documents suggest she was a staff member involved in the committee's operations. The number of documents (11) indicates a consistent presence in the records, but without more details about her specific duties, her overall impact is difficult to assess.",
+  "merged_from_variants": [
+    "WILANDER, ANNE PAUL",
+    "Anne Paul Wilander"
+  ]
+}

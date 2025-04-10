@@ -1,0 +1,29 @@
+{
+  "entity_name": "National_Reconnaissance_Program",
+  "entity_type": "tag",
+  "document_count": 7,
+  "document_ids": [
+    "206-10001-10009",
+    "178-10004-10053",
+    "206-10001-10000",
+    "206-10001-10007",
+    "206-10001-10013",
+    "104-10306-10011",
+    "206-10001-10006"
+  ],
+  "summary": "The National Reconnaissance Program (NRO) was a significant aspect of U.S. intelligence efforts during the Cold War, as evidenced by its inclusion in President's Foreign Intelligence Advisory Board (PFIAB) meetings in the early 1960s. The PFIAB reviewed the NRO's activities and programs, indicating its involvement in advanced intelligence collection capabilities. Discussions surrounding the NRO were part of broader intelligence assessments and strategic planning, focusing on areas such as Soviet and Chinese activities. The program's presence in these high-level meetings underscores its importance within the national security apparatus.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Soviet satellite reconnaissance",
+    "China",
+    "Soviet Union",
+    "Foreign intelligence budgeting",
+    "CIA",
+    "Defense Intelligence Agency"
+  ],
+  "significance": "High. The National Reconnaissance Program was a key intelligence initiative during the Cold War, discussed at the highest levels of government, as evidenced by its frequent mentions in the PFIAB meetings. Its involvement in intelligence collection related to the Soviet Union and China highlights its strategic importance.",
+  "merged_from_variants": [
+    "National Reconnaissance Program",
+    "NRO"
+  ]
+}

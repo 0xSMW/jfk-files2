@@ -1,0 +1,40 @@
+{
+  "entity_name": "Lyman_Kirkpatrick",
+  "entity_type": "person-mentioned",
+  "document_count": 19,
+  "document_ids": [
+    "206-10001-10009",
+    "206-10001-10000",
+    "157-10011-10009",
+    "157-10002-10001",
+    "206-10001-10005",
+    "206-10001-10012",
+    "206-10001-10007",
+    "206-10001-10013",
+    "104-10059-10026",
+    "104-10301-10000",
+    "104-10324-10000",
+    "104-10118-10427",
+    "157-10005-10225",
+    "206-10001-10003",
+    "104-10302-10000",
+    "104-10301-10011",
+    "104-10306-10011",
+    "206-10001-10017",
+    "124-10185-10099"
+  ],
+  "summary": "Lyman Kirkpatrick was involved in intelligence matters during the 1960s and 1970s, as evidenced by his presence in documents spanning from 1962 to 1975. He is associated with the President's Foreign Intelligence Advisory Board (PFIAB) and CIA activities, including discussions on covert operations, intelligence coordination, internal security, and national reconnaissance programs. His name appears in agendas, minutes, and memoranda related to topics such as intelligence operations in Cuba (Operation Mongoose), counterintelligence assessments, and CIA relationships with various organizations. While the documents do not specify his exact role, they suggest he held an advisory or oversight position within the intelligence community, particularly during the period surrounding the JFK assassination, where he was part of discussions about internal investigations and sensitive operations.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "CIA",
+    "Operation Mongoose",
+    "Cuba",
+    "John A. McCone",
+    "CI/SIG (Special Investigations Group)"
+  ],
+  "significance": "Medium. Lyman Kirkpatrick appears in a significant number of documents (19) related to intelligence activities and the CIA, including during the period surrounding the JFK assassination. His association with the PFIAB and his involvement in discussions about sensitive operations suggest a noteworthy, though not explicitly defined, role within the intelligence community.",
+  "merged_from_variants": [
+    "Lyman Kirkpatrick",
+    "Kirkpatrick"
+  ]
+}

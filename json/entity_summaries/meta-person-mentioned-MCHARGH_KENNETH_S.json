@@ -1,0 +1,23 @@
+{
+  "entity_name": "MCHARGH_KENNETH_S",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10079",
+    "180-10125-10081",
+    "180-10125-10078",
+    "180-10125-10077"
+  ],
+  "summary": "Kenneth S. McHargh, also listed as Kenneth S McHargh and MCHARGH, KENNETH S, was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) during its investigation into the JFK assassination. Payroll and certification reports from 1978 and 1979 document his employment, including his name, social security number, position, salary, and period of service. These reports, specifically those from May, October, and November of 1978, confirm his continued involvement with the committee throughout that period.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Kenneth S. McHargh's significance stems from his employment with the HSCA during its investigation into the JFK assassination. The multiple documents referencing his payroll and certification suggest a consistent role within the committee, making him a relevant, though likely not central, figure in the investigation.",
+  "merged_from_variants": [
+    "Kenneth S McHargh",
+    "MCHARGH, KENNETH S"
+  ]
+}

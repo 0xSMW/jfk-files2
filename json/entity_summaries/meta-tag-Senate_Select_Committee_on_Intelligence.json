@@ -1,0 +1,48 @@
+{
+  "entity_name": "Senate_Select_Committee_on_Intelligence",
+  "entity_type": "tag",
+  "document_count": 23,
+  "document_ids": [
+    "104-10142-10279",
+    "104-10140-10101",
+    "104-10310-10118",
+    "104-10066-10060",
+    "157-10011-10066",
+    "124-10185-10214",
+    "104-10126-10253",
+    "104-10145-10047",
+    "144-10001-10173",
+    "144-10001-10206",
+    "157-10008-10238",
+    "104-10422-10057",
+    "104-10146-10308",
+    "104-10147-10202",
+    "157-10011-10041",
+    "104-10096-10048",
+    "157-10011-10018",
+    "157-10011-10024",
+    "144-10001-10159",
+    "104-10066-10031",
+    "104-10147-10301",
+    "157-10008-10241",
+    "104-10142-10317"
+  ],
+  "summary": "The Senate Select Committee on Intelligence (SSCI) played a crucial oversight role regarding the CIA and other intelligence agencies, particularly between 1975 and 1990. The SSCI investigated CIA activities, including potential involvement in assassinations of foreign leaders and the agency's handling of information related to the Lee Harvey Oswald case and the JFK assassination. The committee's inquiries involved requesting and reviewing numerous documents from agencies like the CIA and NSA, interviewing key figures such as William Colby and Richard Bissell, and addressing sensitive topics like potential assassination plots against Fidel Castro, the ZR Rifle project, and relationships with criminal elements. The Office of Legislative Counsel served as the primary liaison between the CIA and the SSCI, managing information requests and ensuring appropriate access to materials, while the CIA carefully managed the information released to protect sensitive sources and methods.",
+  "key_connections": [
+    "CIA",
+    "Office of Legislative Counsel",
+    "Lee Harvey Oswald",
+    "Fidel Castro",
+    "William Colby",
+    "Richard Bissell",
+    "NSA",
+    "Antonio Veciana",
+    "House Select Committee on Assassinations (HSCA)",
+    "FBI"
+  ],
+  "significance": "High - The SSCI's oversight role and investigations into sensitive topics like assassinations and CIA activities related to the JFK assassination indicate a high level of significance within the context of these documents.",
+  "merged_from_variants": [
+    "Senate Select Committee on Intelligence",
+    "SSCI"
+  ]
+}

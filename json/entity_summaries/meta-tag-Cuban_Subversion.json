@@ -1,0 +1,47 @@
+{
+  "entity_name": "Cuban_Subversion",
+  "entity_type": "tag",
+  "document_count": 22,
+  "document_ids": [
+    "198-10009-10099",
+    "176-10036-10097",
+    "176-10036-10058",
+    "104-10187-10149",
+    "104-10218-10034",
+    "104-10302-10022",
+    "198-10007-10022",
+    "198-10004-10207",
+    "104-10187-10142",
+    "104-10171-10230",
+    "177-10002-10016",
+    "198-10007-10013",
+    "198-10005-10018",
+    "177-10002-10012",
+    "104-10338-10018",
+    "119-10021-10413",
+    "104-10302-10019",
+    "104-10183-10267",
+    "198-10007-10021",
+    "198-10007-10002",
+    "198-10009-10098",
+    "198-10008-10119"
+  ],
+  "summary": "Cuban subversion, particularly during the early to mid-1960s, refers to Cuba's active support for revolutionary and subversive movements, primarily in Latin America, but also with mentions in Southeast Asia. Under Fidel Castro, Cuba provided training, funding, arms, propaganda, and guidance to pro-Castro groups and guerrillas, often with backing from the Soviet Union. These activities aimed to destabilize governments in countries such as Venezuela, Nicaragua, Ecuador, Guatemala, Brazil, Peru, and Argentina. The U.S. government, through agencies like the CIA, Department of State, and Department of Defense, actively countered these efforts by controlling travel, curbing propaganda, preventing clandestine movements, strengthening counter-insurgency, and exchanging intelligence. Concerns also extended to Viet Cong plans for increased subversion in Saigon, targeting Americans.",
+  "key_connections": [
+    "Cuba",
+    "Fidel Castro",
+    "Latin America",
+    "Soviet Union",
+    "Venezuela",
+    "Peru",
+    "CIA",
+    "Department of State",
+    "Department of Defense",
+    "Viet Cong"
+  ],
+  "significance": "High. The entity 'Cuban_Subversion' appears significant due to the high document count (22) and the content of the summaries, which detail extensive Cuban involvement in supporting subversive activities and the U.S. government's efforts to counter them. The involvement of multiple U.S. agencies further underscores its importance.",
+  "merged_from_variants": [
+    "Subversion",
+    "Cuban Subversion"
+  ]
+}

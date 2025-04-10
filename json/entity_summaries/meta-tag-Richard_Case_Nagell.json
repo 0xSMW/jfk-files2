@@ -1,0 +1,32 @@
+{
+  "entity_name": "Richard_Case_Nagell",
+  "entity_type": "tag",
+  "document_count": 12,
+  "document_ids": [
+    "104-10220-10034",
+    "194-10007-10423",
+    "104-10123-10020",
+    "104-10220-10020",
+    "194-10007-10426",
+    "104-10220-10038",
+    "194-10007-10417",
+    "104-10310-10142",
+    "104-10305-10005",
+    "104-10220-10033",
+    "194-10007-10422",
+    "104-10326-10096"
+  ],
+  "summary": "Richard Case Nagell is depicted as a complex individual involved in multiple concerning incidents. He is documented making threats against the U.S. government, initially in Zurich and later at the U.S. Consulate in Barcelona, prompting government concern about potential exposure of sensitive information. Nagell also intervened in the military service of Victor L. Trinkala, a conscientious objector who had been contacted by a \"Soviet Agent,\" preventing Trinkala's deployment to Vietnam. His activities and connections were reviewed by the House Select Committee on Assassinations (HSCA). He is also described as a 'fabricator and mental case' who threatened to expose his contacts with an organization referred to as 'WOFIRM'.",
+  "key_connections": [
+    "Victor L. Trinkala",
+    "Harfez Muneer",
+    "House Select Committee on Assassinations (HSCA)",
+    "WOFIRM"
+  ],
+  "significance": "Medium - Richard Case Nagell appears in a moderate number of documents and is connected to potentially sensitive information and events, including alleged Soviet connections and threats against the U.S. government. The HSCA review suggests his activities were considered relevant to their investigation, though the provided information does not explicitly link him to the JFK assassination.",
+  "merged_from_variants": [
+    "Nagell",
+    "Richard C. Nagell",
+    "Richard Case Nagell"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "entity_name": "Accommodation_Addresses",
+  "entity_type": "tag",
+  "document_count": 10,
+  "document_ids": [
+    "104-10121-10217",
+    "104-10290-10055",
+    "104-10171-10095",
+    "104-10182-10004",
+    "104-10330-10118",
+    "104-10331-10140",
+    "104-10101-10124",
+    "104-10121-10191",
+    "104-10171-10097",
+    "104-10171-10093"
+  ],
+  "summary": "Accommodation addresses, including P.O. boxes, served as temporary and discreet locations used by CIA agents for mail handling, lodging, and maintaining operational security, particularly during covert operations. These addresses were often established under aliases and were crucial for agents operating in sensitive locations such as Mexico City, Brazil, and potentially Cuba, especially during the REDSOX operation and related activities around 1960-1961. The documents highlight the logistical challenges of securing these addresses, the dynamic nature of their use, and the sensitivity surrounding their disclosure, particularly in relation to the JFK assassination records and concerns about protecting intelligence methods and diplomatic relations. Specific instances include a P.O. box in Coral Gables, Florida, linked to classified messages and another in Washington, D.C., established for internal security measures.",
+  "key_connections": [
+    "Cuba",
+    "Mexico City",
+    "Washington, D.C.",
+    "JFK Assassination Records",
+    "Assassination Records Review Board (ARRB)",
+    "CIA",
+    "Mexico",
+    "REDSOX operation",
+    "Coral Gables, Florida",
+    "Grace Holmes",
+    "Gilbert Richmond",
+    "Diego S. Mardones"
+  ],
+  "significance": "High - Accommodation addresses are central to understanding the operational security and clandestine activities of CIA agents, particularly in the context of sensitive events like the JFK assassination and operations in Cuba and Mexico. The documents reveal the importance of these addresses in maintaining secrecy and the challenges associated with their management and potential disclosure.",
+  "merged_from_variants": [
+    "Accommodation Addresses",
+    "P.O. Box",
+    "Accommodation Address"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "entity_name": "Woodrow_C_Olien",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "document_ids": [
+    "180-10143-10456",
+    "104-10061-10115",
+    "180-10145-10269",
+    "104-10180-10176"
+  ],
+  "summary": "Woodrow C. Olien, also known as Olien, is mentioned in CIA documents related to anti-Castro Cuban groups and individuals during the early 1960s. A message from WAVE to BELL dated March 9, 1961, identifies Olien as handling individuals, specifically confirming statements made by Luis Alberto de Jesus Condo: Cajisal in NEXI. The documents, which include cable traffic, file reviews, and lists of cryptonyms, do not detail Olien's specific role or significance in the JFK assassination context, but they place him within the network of CIA personnel and assets involved in Cuban-related operations.",
+  "key_connections": [
+    "WAVE",
+    "BELL",
+    "NEXI",
+    "Luis Alberto de Jesus Condo: Cajisal"
+  ],
+  "significance": "Medium - Woodrow C. Olien appears to be a CIA operative involved in handling individuals connected to anti-Castro Cuban activities. While the documents don't directly link him to the JFK assassination, his role within this network suggests a potential, though undefined, connection to related events.",
+  "merged_from_variants": [
+    "Woodrow C. Olien",
+    "Olien"
+  ]
+}

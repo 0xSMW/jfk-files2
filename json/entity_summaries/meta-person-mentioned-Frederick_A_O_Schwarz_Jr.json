@@ -1,0 +1,31 @@
+{
+  "entity_name": "Frederick_A_O_Schwarz_Jr",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "157-10014-10081",
+    "124-10186-10056_multirif",
+    "124-10186-10048_multirif",
+    "124-10185-10195_multirif",
+    "124-10186-10049_multirif",
+    "124-10186-10045_multirif",
+    "124-10186-10055_multirif",
+    "124-10186-10051_multirif",
+    "124-10186-10054_multirif",
+    "124-10264-10191"
+  ],
+  "summary": "Frederick A. O. Schwarz, Jr. is mentioned in the context of Senate Select Committee hearings and investigations into intelligence activities during the 1970s, specifically concerning the FBI's domestic intelligence investigations (SENSTUDY 75). Documents include references to Senate Select Committee reviews, potential legislative actions related to the FBI's authority, and investigations into FBI interactions with the CIA. The investigations covered topics such as mail opening activities, COINTELPRO, and potential compromises of FBI operations and sources. He is mentioned in connection to testimony and requests from the Senate Select Committee (SENSTUDY) to investigate intelligence activities.",
+  "key_connections": [
+    "Senate Select Committee",
+    "Senate Select Committee (SENSTUDY)",
+    "FBI",
+    "CIA",
+    "Clarence M. Kelley",
+    "Richard Goodwin"
+  ],
+  "significance": "Medium - Frederick A. O. Schwarz, Jr. appears to be connected to the Senate Select Committee's investigation into intelligence activities, particularly those of the FBI and CIA, during the 1970s. While mentioned in a moderate number of documents, his specific role or involvement is not explicitly detailed beyond the context of these investigations.",
+  "merged_from_variants": [
+    "Frederick A. O. Schwarz, Jr.",
+    "F.A.O. Schwartz"
+  ]
+}

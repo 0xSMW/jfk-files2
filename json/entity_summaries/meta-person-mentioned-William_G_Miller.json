@@ -1,0 +1,34 @@
+{
+  "entity_name": "William_G_Miller",
+  "entity_type": "person-mentioned",
+  "document_count": 16,
+  "document_ids": [
+    "157-10014-10081",
+    "124-10273-10086_multirif",
+    "157-10008-10238",
+    "124-10274-10001",
+    "104-10310-10014",
+    "124-10185-10195_multirif",
+    "104-10122-10344",
+    "124-10274-10014_multirif_redacted",
+    "157-10014-10121",
+    "157-10014-10125",
+    "157-10005-10424",
+    "124-10273-10071_multirif",
+    "124-10274-10001_multirif",
+    "124-10238-10329_multirif",
+    "124-10264-10191",
+    "157-10014-10133"
+  ],
+  "summary": "William G. Miller is mentioned in several documents related to the Senate Select Committee (SSC) investigations into intelligence activities in the 1970s. He appears to have been a staff member of the SSC, evidenced by a memorandum updating security clearances and his presence in transcripts of Senate Select Committee hearings. While the documents indicate his involvement in the committee's work, they do not explicitly detail his specific role or responsibilities. The documents also touch upon FBI coordination and historical memoranda, but without more specific information, it is difficult to determine Miller's precise significance within the context of investigations into intelligence activities.",
+  "key_connections": [
+    "Senate Select Committee (SSC)",
+    "FBI",
+    "CIA"
+  ],
+  "significance": "Medium. William G. Miller appears in a significant number of documents (16), suggesting some relevance to the investigations. However, the summaries indicate that his specific role and significance are not fully elaborated upon, limiting a higher assessment of significance.",
+  "merged_from_variants": [
+    "William G. Miller",
+    "William Miller"
+  ]
+}

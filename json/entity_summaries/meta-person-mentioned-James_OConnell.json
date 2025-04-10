@@ -1,0 +1,21 @@
+{
+  "entity_name": "James_OConnell",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "document_ids": [
+    "157-10008-10234",
+    "157-10011-10006",
+    "104-10122-10141",
+    "157-10011-10005",
+    "157-10002-10001",
+    "157-10014-10109",
+    "157-10011-10048"
+  ],
+  "summary": "Based on the provided documents, James O'Connell, sometimes referred to as just \"O'Connell\", is mentioned in connection with CIA activities during the period covered by the documents. While the documents primarily focus on CIA operations such as Operation Mongoose and plots to assassinate Fidel Castro, as well as individuals like Robert Maheu, the specific role and involvement of O'Connell in these events is not detailed within the summaries. Further context is needed to determine the nature and extent of his involvement.",
+  "key_connections": [],
+  "significance": "Low. While James O'Connell is mentioned in several documents, the summaries lack specific details about his role or significance within the context of the CIA activities described. The documents primarily focus on other individuals and operations, suggesting O'Connell's involvement, if any, was not central to the key events.",
+  "merged_from_variants": [
+    "James O'Connell",
+    "O'Connell"
+  ]
+}

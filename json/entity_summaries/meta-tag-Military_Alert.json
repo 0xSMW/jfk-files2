@@ -1,0 +1,31 @@
+{
+  "entity_name": "Military_Alert",
+  "entity_type": "tag",
+  "document_count": 8,
+  "document_ids": [
+    "177-10001-10061",
+    "144-10001-10171",
+    "144-10001-10279",
+    "144-10001-10108",
+    "144-10001-10170",
+    "104-10302-10021",
+    "144-10001-10068",
+    "197-10002-10190"
+  ],
+  "summary": "Following President Kennedy's assassination in November 1963, a heightened state of military alert was observed in Cuba and the Soviet Union. Cuban military units, including the First Army, Western Army, and the Eastern Naval District, were placed on alert as a precautionary measure due to concerns about potential hostile activities or instability. Cuban diplomatic missions were also put on alert. While some alerts, like that of the Eastern Naval District, were later relaxed, the overall situation reflected a period of heightened tension and security measures within the Soviet Bloc and Cuba in response to the assassination, indicating a global atmosphere of caution and vigilance.",
+  "key_connections": [
+    "Cuba",
+    "Cuban diplomatic missions",
+    "First Army (Cuba)",
+    "Western Army (Cuba)",
+    "Eastern Naval District (Cuba)",
+    "President John F. Kennedy",
+    "President Kennedy's Assassination",
+    "Soviet Union"
+  ],
+  "significance": "High - The 'Military Alert' status is a significant indicator of the immediate international reactions and concerns following President Kennedy's assassination. The alerts in Cuba and the Soviet Union suggest a perceived threat of instability or exploitation of the situation, highlighting the global impact of the event and the need for heightened vigilance among military forces.",
+  "merged_from_variants": [
+    "Alert Status",
+    "Military Alert"
+  ]
+}

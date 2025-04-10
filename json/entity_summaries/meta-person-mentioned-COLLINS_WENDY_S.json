@@ -1,0 +1,22 @@
+{
+  "entity_name": "COLLINS_WENDY_S",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10079",
+    "180-10125-10081",
+    "180-10125-10078"
+  ],
+  "summary": "Wendy S. Collins, also known as Wendy S Collins, was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA), formerly known as the Select Committee on Assassinations (SCAS). Payroll and certification reports from April, May, August, November, and December of 1978 list her as an employee, detailing her salary and pay during those periods. While her specific role within the committee is not explicitly stated in these documents, her presence on the payroll indicates she was a staff member during the SCAS/HSCA investigation into the JFK assassination.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Wendy S. Collins appears in multiple payroll documents related to the HSCA investigation. While her specific role is not detailed, her consistent presence as a paid employee suggests she was a staff member involved in the investigation, making her a relevant but not central figure.",
+  "merged_from_variants": [
+    "Wendy S Collins",
+    "COLLINS, WENDY S"
+  ]
+}

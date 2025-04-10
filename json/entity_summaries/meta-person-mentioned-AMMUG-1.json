@@ -1,0 +1,27 @@
+{
+  "entity_name": "AMMUG-1",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "document_ids": [
+    "104-10186-10382",
+    "104-10186-10021",
+    "104-10185-10248",
+    "104-10185-10252",
+    "104-10225-10035",
+    "104-10183-10333",
+    "104-10185-10315",
+    "104-10180-10044"
+  ],
+  "summary": "AMMUG-1, also known as AMMUG/1, was a CIA agent active in Mexico City between 1964 and 1966. In 1964, the CIA sought a safehouse for AMMUG-1 in Mexico City, ultimately choosing an apartment despite concerns about its location. Later documents detail AMMUG/1's cover employment with the Inter-University Committee for Political and Social Action (ICPSA), including issues related to taxes and his WOFACT future. AMMUG/1's attempt to purchase a house was deferred. He was also unable to identify Manuel ESTEVEZ Perez when queried, leading to a suggestion to provide a photograph for identification in Barcelona.",
+  "key_connections": [
+    "WOFACT",
+    "Inter-University Committee for Political and Social Action (ICPSA)",
+    "KUBARK",
+    "Manuel ESTEVEZ Perez"
+  ],
+  "significance": "Medium. AMMUG-1 appears in a moderate number of documents and was important enough to warrant a CIA safehouse. His cover employment and activities suggest involvement in intelligence operations, but the specific nature and impact of his work are not fully clear from the provided summaries.",
+  "merged_from_variants": [
+    "AMMUG-1",
+    "AMMUG/1"
+  ]
+}

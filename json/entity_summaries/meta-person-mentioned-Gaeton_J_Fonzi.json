@@ -1,0 +1,35 @@
+{
+  "entity_name": "Gaeton_J_Fonzi",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "104-10065-10113",
+    "180-10125-10078",
+    "104-10067-10046",
+    "180-10125-10107",
+    "104-10326-10072"
+  ],
+  "summary": "Gaeton J. Fonzi was a staff member of the House Select Committee on Assassinations (HSCA) from approximately April 1977 to December 1978. Payroll and certification reports confirm his employment during this period. As part of the HSCA's investigation, Fonzi, along with Albert Gonzales, traveled to Guayaquil and Caracas in May 1978. Documents also mention a CIA cable discussing their visit and requesting guidance. While his direct involvement is not specified, one document mentions a meeting in Rio de Janeiro involving Cuban CI officers and alleged CIA officers reviewing the JFK and Letelier assassinations.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Select Committee on Assassinations",
+    "Albert Gonzales",
+    "CIA",
+    "Cuban CI officers",
+    "Letelier assassination",
+    "U.S. House of Representatives"
+  ],
+  "significance": "Medium. Gaeton J. Fonzi's role as a staff member of the HSCA and his involvement in investigative travel suggest a moderate level of significance within the context of the JFK assassination documents. While the documents don't detail his specific contributions, his employment and travel related to the investigation indicate his participation in the committee's work.",
+  "merged_from_variants": [
+    "FONZI, GAETON J",
+    "Gaeton Fonzi",
+    "Gaeton J Fonzi"
+  ]
+}

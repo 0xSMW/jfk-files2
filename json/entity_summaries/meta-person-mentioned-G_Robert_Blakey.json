@@ -1,0 +1,44 @@
+{
+  "entity_name": "G_Robert_Blakey",
+  "entity_type": "person-mentioned",
+  "document_count": 22,
+  "document_ids": [
+    "180-10147-10264",
+    "104-10413-10306",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10076",
+    "180-10060-10473",
+    "144-10001-10185",
+    "180-10070-10173",
+    "180-10060-10438",
+    "180-10125-10086",
+    "180-10125-10096",
+    "180-10147-10257",
+    "180-10072-10186",
+    "180-10068-10320",
+    "180-10125-10083",
+    "180-10125-10075",
+    "180-10068-10322",
+    "180-10125-10081",
+    "104-10332-10009",
+    "180-10125-10087",
+    "180-10125-10078",
+    "180-10068-10350"
+  ],
+  "summary": "G. Robert Blakey served as the Chief Counsel and Staff Director for the House Select Committee on Assassinations (HSCA) between 1977 and 1979. Payroll and certification reports confirm his employment and leadership role within the committee during its investigation into the JFK assassination. Blakey also requested Cuban communications from the NSA in March and April 1962, although a search for these communications yielded negative results due to data destruction and lack of product files. HSCA staff payroll records were later subject to redactions to protect personal privacy.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Select Committee on Assassinations",
+    "NSA",
+    "Cuban communications",
+    "Assassination Records Review Board"
+  ],
+  "significance": "High - G. Robert Blakey held a significant leadership position as Chief Counsel and Staff Director for the HSCA, a key organization investigating the JFK assassination. His role and requests for information are documented across multiple files, indicating his central involvement in the investigation.",
+  "merged_from_variants": [
+    "BLAKEY, G ROBERT",
+    "Blakey",
+    "Bob Blakey",
+    "G Robert Blakey"
+  ]
+}

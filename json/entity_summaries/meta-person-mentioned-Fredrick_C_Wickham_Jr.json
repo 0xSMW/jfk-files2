@@ -1,0 +1,39 @@
+{
+  "entity_name": "Fredrick_C_Wickham_Jr",
+  "entity_type": "person-mentioned",
+  "document_count": 16,
+  "document_ids": [
+    "104-10331-10127",
+    "104-10337-10002",
+    "104-10332-10002",
+    "104-10336-10000",
+    "104-10331-10338",
+    "104-10332-10020",
+    "104-10332-10000",
+    "104-10331-10202",
+    "104-10331-10139",
+    "104-10331-10226",
+    "104-10331-10134",
+    "104-10331-10154",
+    "104-10331-10166",
+    "104-10330-10133",
+    "104-10332-10007",
+    "104-10331-10121"
+  ],
+  "summary": "Fredrick C. Wickham, Jr. is identified as a CIA official involved in the agency's interactions with the Assassination Records Review Board (ARRB) regarding the release of JFK assassination-related documents. His role appears to center on balancing transparency with the protection of sensitive information, including the identities of covert employees, cover mechanisms, and ongoing intelligence operations. Wickham participated in discussions concerning redactions and the management of CIA information released to the ARRB and the HPSCI (House Permanent Select Committee on Intelligence), particularly concerning the protection of CIA personnel with limited connection to the JFK assassination story. The documents span from 1996 to 1998, indicating his involvement during the ARRB's investigation.",
+  "key_connections": [
+    "ARRB (Assassination Records Review Board)",
+    "JFK assassination records",
+    "JFK Assassination Records",
+    "ARRB",
+    "HPSCI (House Permanent Select Committee on Intelligence)",
+    "CIA"
+  ],
+  "significance": "Medium - Fredrick C. Wickham, Jr. appears to be a mid-level CIA official involved in the agency's response to the ARRB's requests for information related to the JFK assassination. While not directly involved in the assassination, his role in managing the release of information and protecting CIA assets places him in a significant position within the context of these documents.",
+  "merged_from_variants": [
+    "Fredrick C. Wickham, Jr.",
+    "Fredrick Wickham",
+    "Fred Wickham",
+    "Fredrick C. Wickham"
+  ]
+}

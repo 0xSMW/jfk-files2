@@ -1,0 +1,37 @@
+{
+  "entity_name": "Luis_Clemente_Posada_Carriles",
+  "entity_type": "person-mentioned",
+  "document_count": 13,
+  "document_ids": [
+    "124-90158-10069",
+    "104-10220-10069",
+    "104-10178-10154",
+    "104-10178-10000",
+    "104-10178-10002",
+    "104-10177-10226",
+    "180-10144-10402",
+    "180-10143-10072",
+    "104-10178-10001",
+    "180-10144-10130",
+    "124-10218-10058",
+    "124-90073-10039",
+    "104-10178-10046"
+  ],
+  "summary": "Luis Clemente Posada Carriles, a Venezuelan citizen of Cuban origin, is a significant figure of interest due to his alleged involvement in narcotics trafficking, associations with Cuban exile groups like RECE, and anti-Castro activities. Documents detail CIA interest and involvement with him, starting as early as 1966, including background checks, security clearances, and concerns about his cover status. He is implicated in terrorist plotting by Cuban exiles, potential CIA plots against Fidel Castro, and specifically linked to the 1976 Cubana airliner bombing, with Fidel Castro alleging CIA involvement. He is also connected to individuals investigated for bombings in Miami and associated with Orlando Bosch Avila, another figure involved in anti-Cuba activities.",
+  "key_connections": [
+    "CIA",
+    "Fidel Castro",
+    "Cuban exiles",
+    "RECE (Cuban exile group)",
+    "Orlando Bosch Avila",
+    "Ricardo Morales Navarrete",
+    "David Yaras",
+    "Castro regime"
+  ],
+  "significance": "High. Luis Clemente Posada Carriles appears in a significant number of documents (13) and is linked to serious allegations, including terrorism, narcotics trafficking, and potential CIA involvement in anti-Castro activities, including the Cubana airliner bombing. His connections to other key figures and organizations further highlight his importance within the context of these documents.",
+  "merged_from_variants": [
+    "Luis Posada Carriles",
+    "Luis Clemente Posada Carriles",
+    "Luis Posada"
+  ]
+}

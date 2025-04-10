@@ -1,0 +1,27 @@
+{
+  "entity_name": "Arthur_Schlesinger",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "document_ids": [
+    "176-10036-10085",
+    "157-10008-10238",
+    "157-10014-10178",
+    "157-10014-10117",
+    "104-10119-10182",
+    "135-10001-10297",
+    "135-10001-10243",
+    "176-10036-10086",
+    "144-10001-10084"
+  ],
+  "summary": "Arthur Schlesinger is mentioned in the context of discussions and evaluations related to the Bay of Pigs invasion and anti-Castro activities during the Kennedy administration. Specifically, he is referenced in a memorandum evaluating a manuscript critical of the Kennedy administration's handling of the Bay of Pigs. His name also appears in connection with Richard Goodwin's involvement in anti-Castro efforts, including the Cuba Task Force and Operation Mongoose. Furthermore, he is mentioned in documents pertaining to discussions of covert actions and potential assassination plots concerning Cuba and the Dominican Republic. While the documents do not explicitly detail Schlesinger's direct involvement in these activities, his presence is noted within the context of high-level discussions and historical analyses of the Kennedy administration's foreign policy and covert operations.",
+  "key_connections": [
+    "Fidel Castro",
+    "John F. Kennedy",
+    "Richard Goodwin"
+  ],
+  "significance": "Medium. Arthur Schlesinger appears in a moderate number of documents related to significant events like the Bay of Pigs invasion and anti-Castro activities. While the documents don't detail direct involvement, his presence in discussions and evaluations suggests a level of awareness or advisory role within the Kennedy administration's foreign policy apparatus.",
+  "merged_from_variants": [
+    "Schlesinger",
+    "Arthur Schlesinger"
+  ]
+}

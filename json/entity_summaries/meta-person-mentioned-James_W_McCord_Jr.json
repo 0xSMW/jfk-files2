@@ -1,0 +1,38 @@
+{
+  "entity_name": "James_W_McCord_Jr",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "document_ids": [
+    "157-10011-10078",
+    "104-10128-10300",
+    "104-10123-10407",
+    "104-10062-10073",
+    "104-10256-10283",
+    "104-10224-10006",
+    "104-10256-10273",
+    "104-10173-10132",
+    "104-10123-10219",
+    "104-10123-10421",
+    "104-10173-10130",
+    "124-10264-10191"
+  ],
+  "summary": "James W. McCord, Jr. was a CIA employee from 1948 to 1970, working within the Office of Security. His personnel file details his career assignments and commendations, including an Honor and Merit Award for improving the Agency's Audio-countermeasures Program. Documents also mention his involvement in operational activities within the CIA, specifically related to propaganda efforts in the early 1960s, coordinating with Kammer and SRS regarding the operational use of Michael Weimer Stratton. Later, McCord is mentioned in connection to the Watergate incident, investigated by the Senate Select Committee, and his name appears in documents summarizing CIA information provided to the FBI regarding individuals connected to Watergate.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Senate Select Committee",
+    "E. Howard Hunt",
+    "Watergate incident",
+    "Kammer",
+    "Michael Weimer Stratton",
+    "Arthur C. Sheridan",
+    "James P. O'Connell, Jr.",
+    "SRS"
+  ],
+  "significance": "High. James W. McCord, Jr.'s CIA background and subsequent involvement in the Watergate scandal make him a significant figure within the context of these documents. His connection to both CIA operations and the Watergate investigation indicates a potentially important role.",
+  "merged_from_variants": [
+    "James W. McCord, Jr.",
+    "James McCord",
+    "McCord"
+  ]
+}

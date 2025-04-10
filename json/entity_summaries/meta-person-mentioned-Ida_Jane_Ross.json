@@ -1,0 +1,27 @@
+{
+  "entity_name": "Ida_Jane_Ross",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "180-10125-10093",
+    "180-10125-10086",
+    "180-10125-10106",
+    "180-10060-10498",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10092",
+    "180-10125-10107"
+  ],
+  "summary": "Ida Jane Ross was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from February 1977 to January 1978. Payroll certifications and reports document her employment, including her name, social security number, salary, and gross pay for various accounting periods. These records confirm her role as a staff member during the HSCA's investigation, though her specific responsibilities are not detailed.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations (HSCA)",
+    "Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Medium. Ida Jane Ross's significance lies in her documented employment with the HSCA, indicating her involvement in the investigation, even if the specifics of her role are not detailed in these documents. The multiple payroll records across 10 documents suggest a consistent presence within the committee's staff.",
+  "merged_from_variants": [
+    "Ida Jane Ross",
+    "Ross, Ida Jane"
+  ]
+}

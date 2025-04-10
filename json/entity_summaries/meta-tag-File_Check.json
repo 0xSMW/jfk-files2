@@ -1,0 +1,34 @@
+{
+  "entity_name": "File_Check",
+  "entity_type": "tag",
+  "document_count": 12,
+  "document_ids": [
+    "104-10215-10125",
+    "104-10162-10121",
+    "104-10006-10247",
+    "124-10163-10134",
+    "194-10004-10158",
+    "194-10004-10368",
+    "124-90137-10467",
+    "104-10185-10024",
+    "104-10216-10075",
+    "104-10177-10220",
+    "194-10004-10402",
+    "104-10119-10225"
+  ],
+  "summary": "File Checks, also referred to as Name Checks, represent a process of investigation and information gathering conducted by agencies such as the CIA, FBI, and the New York City Police Department. These checks involve querying records and databases to consolidate information on individuals of interest, often for security, intelligence, or operational purposes. The requests are initiated for various reasons, including assessing potential collaborators, investigating individuals linked to specific projects (e.g., LICONIC, WE/4), and gathering intelligence on foreign nationals or U.S. citizens, such as American students traveling to China. The results of these checks can vary, ranging from 'no record' or 'nothing derogatory' to detailing political affiliations and activities. This practice appears to have been sustained from the 1950s to the 1970s.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "New York City Police Department",
+    "Manuel Marti",
+    "American students in China",
+    "LICONIC",
+    "WE/4"
+  ],
+  "significance": "Medium. File Checks appear to be a standard investigative procedure used by multiple agencies for gathering information on individuals. The document count suggests it is a recurring theme, but the summaries do not indicate a direct connection to the central subject matter (e.g., JFK assassination) beyond general intelligence gathering.",
+  "merged_from_variants": [
+    "Name Check",
+    "File Check"
+  ]
+}

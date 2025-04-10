@@ -1,0 +1,45 @@
+{
+  "entity_name": "James_B_Adams",
+  "entity_type": "person-mentioned",
+  "document_count": 24,
+  "document_ids": [
+    "124-10186-10049_multirif",
+    "124-10184-10237",
+    "124-10186-10054_multirif",
+    "124-10185-10100",
+    "124-10273-10007_multirif",
+    "124-10273-10086_multirif",
+    "124-10271-10299",
+    "124-10273-10007",
+    "124-10273-10006",
+    "124-10186-10041",
+    "124-10186-10051_multirif",
+    "124-10276-10400",
+    "124-10271-10003_multirif",
+    "124-10186-10048_multirif",
+    "124-10271-10299_multirif",
+    "124-10186-10055_multirif",
+    "124-10271-10033_multirif_redacted",
+    "124-10186-10056_multirif",
+    "124-10274-10070",
+    "124-10186-10045_multirif",
+    "124-10271-10011_multirif",
+    "124-10271-10003",
+    "124-10276-10400 (c06716411)",
+    "124-10264-10191"
+  ],
+  "summary": "James B. Adams served in a legal or advisory capacity, potentially within the FBI or the Department of Justice, during the Senate Select Committee's (SSC) investigation into intelligence activities in 1975. His involvement centered on providing legal guidance and strategic advice to the FBI concerning the SSC's inquiries, particularly regarding domestic intelligence investigations, COINTELPRO, and the release of classified data. Adams participated in discussions and preparations related to the FBI's responses, including potential legislative actions, oversight mechanisms, and FBI reform.",
+  "key_connections": [
+    "Senate Select Committee",
+    "FBI",
+    "Senate Select Committee (SSC)",
+    "Director of the FBI",
+    "Frank Church",
+    "COINTELPRO"
+  ],
+  "significance": "Medium. James B. Adams appears to have played a significant role in advising the FBI during a critical period of Congressional oversight, as evidenced by his involvement in discussions about domestic intelligence investigations and COINTELPRO. The number of documents (24) suggests a sustained involvement in these matters.",
+  "merged_from_variants": [
+    "J. B. Adams",
+    "James B. Adams"
+  ]
+}

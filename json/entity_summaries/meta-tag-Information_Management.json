@@ -1,0 +1,50 @@
+{
+  "entity_name": "Information_Management",
+  "entity_type": "tag",
+  "document_count": 23,
+  "document_ids": [
+    "104-10332-10023",
+    "104-10337-10014",
+    "104-10177-10134",
+    "180-10143-10070",
+    "104-10023-10087",
+    "104-10110-10340",
+    "104-10163-10176",
+    "104-10112-10204",
+    "104-10126-10194",
+    "104-10143-10088",
+    "104-10229-10000",
+    "104-10406-10139",
+    "104-10051-10170",
+    "104-10188-10015",
+    "104-10213-10202",
+    "104-10111-10086",
+    "104-10112-10186",
+    "104-10408-10316",
+    "104-10291-10004",
+    "180-10141-10204",
+    "104-10110-10328",
+    "104-10087-10054",
+    "104-10333-10002"
+  ],
+  "summary": "Information Management within the CIA, encompassing file and records management and indexing, is crucial for organizing, tracking, and controlling access to information related to its operations and individuals of interest. The CIA's practices, including the '201 system,' involve creating and maintaining dossiers, assigning codes, and generating lists for tracking individuals. These systems and procedures are essential for operational security, accountability, and compliance with information requests, particularly those related to the JFK assassination. The emphasis is on standardized procedures, secure storage, and controlled access to sensitive information, with ongoing efforts to refine these practices from the early 1960s through the late 1990s.",
+  "key_connections": [
+    "CIA",
+    "201 System",
+    "JFK Assassination Records Collection Act of 1992",
+    "House Select Committee on Assassinations (HSCA)",
+    "Daniel A. Parsons",
+    "Operations Directorate",
+    "Project KDAFGHAN",
+    "Project AQUATIC",
+    "Projects FURIOSC",
+    "Project FULMINATOR-1"
+  ],
+  "significance": "High - Information Management is a core function within the CIA, particularly concerning sensitive information related to individuals of interest and historical events like the JFK assassination. The numerous documents (23) and the focus on systems like the '201 system' indicate its importance.",
+  "merged_from_variants": [
+    "File Management",
+    "Records Management",
+    "Indexing",
+    "Information Management"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "entity_name": "Alexander_Rourke",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "document_ids": [
+    "180-10145-10302",
+    "180-10144-10133",
+    "104-10061-10214",
+    "104-10096-10048",
+    "104-10059-10057",
+    "104-10506-10028"
+  ],
+  "summary": "Alexander Rourke is an individual mentioned in six documents related to CIA activities, investigations, and the House Select Committee on Assassinations (HSCA). The HSCA requested information from the CIA's Central Cover Staff (CCS) regarding Rourke. While the documents confirm Rourke's name appeared in connection to these investigations, the summaries do not provide specific details about his role, activities, or significance within the context of the JFK assassination or Cuban activities.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Central Cover Staff (CCS)"
+  ],
+  "significance": "Medium - Alexander Rourke is mentioned in several documents and was of interest to the HSCA, suggesting some level of involvement or connection to the topics under investigation. However, the lack of specific details in the summaries limits a definitive assessment of his significance.",
+  "merged_from_variants": [
+    "Alexander Rorke",
+    "Alexander Rourke"
+  ]
+}

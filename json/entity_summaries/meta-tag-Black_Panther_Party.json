@@ -1,0 +1,33 @@
+{
+  "entity_name": "Black_Panther_Party",
+  "entity_type": "tag",
+  "document_count": 9,
+  "document_ids": [
+    "104-10063-10149",
+    "104-10063-10160",
+    "104-10063-10153",
+    "124-10179-10221",
+    "104-10063-10179",
+    "104-10063-10152",
+    "104-10071-10102",
+    "124-10188-10208",
+    "104-10063-10162"
+  ],
+  "summary": "The documents reveal that the Black Panther Party (BPP) was a significant target of US intelligence agencies, including the CIA and FBI, during the late 1960s and early 1970s. Surveillance efforts focused on BPP members, their international travel (particularly to and from Algiers), and internal dynamics, including the relationship between Eldridge Cleaver and other members. The FBI sought authorization for telephone surveillance based on alleged extremist activities and potential threats to national security. The documents also mention connections to hijackings, stolen passports, and the activities of individuals associated with the BPP, such as Melvin McNair, Pete O'Neal, and Bobby Seale. The CIA was interested in the BPP's international connections and the views of its members. Some BPP members traveled between Algeria, France, and Switzerland, potentially intending to return to the U.S. for revolutionary activities, possibly with the assistance of the Algerian government. Programs MHCURB and MHCHAOS also appear to be related to surveillance or intelligence gathering activities related to the BPP.",
+  "key_connections": [
+    "Eldridge Cleaver",
+    "Bobby Seale",
+    "Pete O'Neal",
+    "Melvin McNair",
+    "Algerian government",
+    "MHCURB",
+    "MHCHAOS",
+    "George Lorenzo Matthews",
+    "James Joseph Patterson"
+  ],
+  "significance": "High - The Black Panther Party was a significant target of US intelligence agencies, suggesting a high level of concern regarding their activities and potential impact. The number of documents (9) and the focus on surveillance, international connections, and potential threats to national security indicate a substantial level of interest and perceived importance.",
+  "merged_from_variants": [
+    "Black Panther Party",
+    "BPP"
+  ]
+}

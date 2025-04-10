@@ -1,0 +1,34 @@
+{
+  "entity_name": "Passports",
+  "entity_type": "tag",
+  "document_count": 10,
+  "document_ids": [
+    "124-10221-10245",
+    "104-10165-10084",
+    "124-10204-10297",
+    "104-10215-10128",
+    "104-10162-10107",
+    "104-10161-10513",
+    "104-10113-10258",
+    "104-10185-10209",
+    "104-10188-10015",
+    "104-10218-10097"
+  ],
+  "summary": "Passports feature prominently in the documents, primarily in the context of international travel, intelligence operations, and security concerns during the Cold War era. They are used to facilitate travel under aliases, document individuals' movements, and verify identities in security checks. Specific instances include investigations related to travel to Cuba, the expulsion of individuals with multiple passports, CIA projects involving passport renewals, and the authentication of documents for individuals with Cuban connections. The documents highlight the importance of passports in clandestine activities and the monitoring of individuals' affiliations and movements across international borders.",
+  "key_connections": [
+    "Cuba",
+    "Guatemala",
+    "Manuel Artime y Buesa",
+    "Miguel Angel DIAZ Isalgué",
+    "Adrian F. Sherman",
+    "Rogelio Wenceslao Cisneros Diaz",
+    "Winfred Clark Barnes",
+    "ANUPAS-1",
+    "Ernesto Jesus GARCIA Guzman"
+  ],
+  "significance": "High - Passports are central to understanding international movements, identity verification, and clandestine operations described in the documents. The frequent mention across multiple documents suggests a significant role in the events and investigations covered.",
+  "merged_from_variants": [
+    "Passports",
+    "Passport"
+  ]
+}

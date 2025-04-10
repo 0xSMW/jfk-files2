@@ -1,0 +1,27 @@
+{
+  "entity_name": "Justo_Carrillo",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "document_ids": [
+    "104-10162-10248",
+    "104-10183-10240",
+    "124-10280-10030",
+    "104-10517-10120",
+    "180-10143-10456",
+    "124-10284-10081",
+    "180-10145-10269",
+    "104-10169-10017"
+  ],
+  "summary": "Justo Carrillo is mentioned in classified messages related to 'AMWHIP' and 'KUBARK' business in Paris. The documents suggest that AMWHIP's activities in Paris were related to matters concerning both Carrillo and Robreno. The messages indicate that AMWHIP's availability and assistance were being coordinated, specifically involving AMWHIP/2 in Rome. While the exact nature of Carrillo's involvement or role is not explicitly stated, the documents imply that Carrillo was a subject of interest or a key figure in the operations being conducted by AMWHIP in Paris. Other documents focus on anti-Castro activities and Cuban exile groups but do not directly mention Carrillo.",
+  "key_connections": [
+    "AMWHIP",
+    "KUBARK",
+    "Robreno",
+    "AMWHIP/2"
+  ],
+  "significance": "Medium. Justo Carrillo appears in 8 documents, primarily in connection to 'AMWHIP' and 'KUBARK' operations in Paris. While the specifics of his role are not detailed, the references suggest he was a person of interest within these operations. The lack of direct mention in other documents related to anti-Castro activities suggests a potentially specific or limited role.",
+  "merged_from_variants": [
+    "Justo Carrillo",
+    "Carrillo"
+  ]
+}

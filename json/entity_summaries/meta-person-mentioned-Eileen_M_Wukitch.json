@@ -1,0 +1,29 @@
+{
+  "entity_name": "Eileen_M_Wukitch",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "104-10331-10177",
+    "104-10332-10009",
+    "104-10331-10202",
+    "104-10331-10134",
+    "104-10331-10132",
+    "104-10331-10226",
+    "104-10333-10014",
+    "104-10331-10353",
+    "104-10331-10166",
+    "104-10331-10209"
+  ],
+  "summary": "Eileen M. Wukitch was involved in discussions and meetings between the CIA and the Assassination Records Review Board (ARRB) from approximately January 1997 to January 1998, concerning the release of CIA records related to the JFK assassination. Her role appears to have encompassed compliance reviews, agenda setting for meetings, and summarizing ARRB meeting results. She served as a point of contact or participant in the CIA's efforts to comply with ARRB requests, including addressing concerns about document releases and liaison documents, as indicated in notes from J. Barry Harrelson.",
+  "key_connections": [
+    "ARRB (Assassination Records Review Board)",
+    "Assassination Records Review Board (ARRB)",
+    "CIA (Central Intelligence Agency)",
+    "J. Barry Harrelson"
+  ],
+  "significance": "Medium. Eileen M. Wukitch appears to have played a supporting role in the CIA's interactions with the ARRB regarding JFK assassination records. While not a central figure, her involvement in multiple documents suggests she was a consistent participant in the process of reviewing and releasing information.",
+  "merged_from_variants": [
+    "Eileen Wukitch",
+    "Eileen M. Wukitch"
+  ]
+}

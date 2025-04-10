@@ -1,0 +1,22 @@
+{
+  "entity_name": "SHAPIRO_HOWARD_L",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10079",
+    "180-10125-10081",
+    "180-10125-10078"
+  ],
+  "summary": "Howard L. Shapiro was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from at least April 1978 to December 1978. Payroll and certification reports document his employment, position, and salary within the committee during this period. While the specific details of Shapiro's role are not provided in these documents, his presence on the HSCA payroll indicates his involvement in the committee's investigation.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Howard L. Shapiro's significance is moderate. He was a staff member of the HSCA, as evidenced by payroll documents. While his exact role is unspecified, his employment suggests involvement in the investigation, making him a relevant but not necessarily central figure.",
+  "merged_from_variants": [
+    "SHAPIRO, HOWARD L",
+    "Howard L Shapiro"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "entity_name": "Robert_A_Maheu",
+  "entity_type": "person-mentioned",
+  "document_count": 16,
+  "document_ids": [
+    "104-10121-10342",
+    "157-10011-10024",
+    "124-10223-10173",
+    "104-10122-10344",
+    "157-10002-10148",
+    "157-10011-10006",
+    "104-10122-10141",
+    "104-10122-10346",
+    "104-10121-10341",
+    "104-10121-10366",
+    "157-10011-10048",
+    "104-10122-10279",
+    "157-10004-10270",
+    "157-10002-10150",
+    "180-10145-10446",
+    "104-10122-10288"
+  ],
+  "summary": "Robert A. Maheu was a key figure in sensitive CIA operations from the early 1950s through the 1970s. With a background as an FBI agent, personnel relations executive, and private investigator, he was recruited by the CIA's Office of Security and became involved in various covert activities. These included attempts to assassinate Fidel Castro, providing services to King Hussein of Jordan, and involvement in projects like HARPSTAR, which aimed to influence foreign leaders. Maheu's activities, often ethically questionable, involved organized crime, wiretapping, and staging films. His work drew the attention of Senate Subcommittees and was investigated by INTERTEL on behalf of the Hughes Tool Company, and the FBI investigated telephone calls from his office.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "Fidel Castro",
+    "King Hussein",
+    "Organized Crime",
+    "Hughes Tool Company",
+    "International Intelligence, Inc. (INTERTEL)",
+    "John Rosselli"
+  ],
+  "significance": "High - Robert A. Maheu appears to be a significant figure due to his involvement in numerous sensitive and controversial CIA operations, his connections to organized crime, and the attention he garnered from government investigations. The high document count (16) further underscores his importance within the source material.",
+  "merged_from_variants": [
+    "Robert A. Maheu",
+    "Robert Maheu"
+  ]
+}

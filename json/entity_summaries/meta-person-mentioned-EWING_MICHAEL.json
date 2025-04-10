@@ -1,0 +1,26 @@
+{
+  "entity_name": "EWING_MICHAEL",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10075",
+    "180-10125-10079",
+    "180-10125-10076",
+    "180-10125-10081",
+    "180-10125-10078",
+    "180-10068-10343"
+  ],
+  "summary": "Michael Ewing was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from April 1978 to March 1979. Payroll and certification reports document his position and salary during this period. A 1995 document references a payroll authorization form for Ewing and internal memoranda related to it. His Social Security number was redacted from HSCA staff payroll records to protect his privacy, indicating the sensitivity of the information.",
+  "key_connections": [
+    "Select Committee on Assassinations (HSCA)",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Michael Ewing's significance lies in his employment with the HSCA, as evidenced by multiple payroll records. While the exact nature of his role is not detailed, his presence on the committee's payroll suggests he was a staff member contributing to its work. The redaction of his Social Security number further indicates the sensitive nature of the HSCA's records.",
+  "merged_from_variants": [
+    "EWING, MICHAEL",
+    "Michael Ewing"
+  ]
+}

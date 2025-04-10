@@ -1,0 +1,35 @@
+{
+  "entity_name": "Patrice_Lumumba",
+  "entity_type": "tag",
+  "document_count": 10,
+  "document_ids": [
+    "157-10011-10024",
+    "157-10005-10141",
+    "157-10002-10105",
+    "157-10011-10006",
+    "157-10014-10089",
+    "157-10005-10297",
+    "157-10014-10151",
+    "157-10011-10018",
+    "157-10014-10067",
+    "157-10014-10100"
+  ],
+  "summary": "Patrice Lumumba, the first Prime Minister of the Democratic Republic of the Congo, is a significant figure in these documents due to investigations into potential CIA involvement in plots to assassinate him. The Senate Select Committee on Intelligence Activities (SSCIA) examined these allegations, with testimonies and reports detailing discussions about 'Executive Action' and covert operations during the Eisenhower administration. Individuals like William Harvey, Richard Bissell, and DCI William Colby were involved in discussions and investigations related to these plots. While the extent of the CIA's involvement and whether an actual assassination plot was carried out remain subjects of debate, Lumumba is consistently mentioned alongside Fidel Castro as a target of potential CIA assassination attempts.",
+  "key_connections": [
+    "William Harvey",
+    "Richard M. Bissell",
+    "Senate Select Committee on Intelligence Activities (SSCIA)",
+    "Fidel Castro",
+    "Congo",
+    "CIA",
+    "Dwight D. Eisenhower",
+    "William Colby",
+    "Gordon Gray",
+    "Bronson Tweedy"
+  ],
+  "significance": "High. Patrice Lumumba is a key figure in discussions surrounding potential CIA assassination plots, appearing in a significant number of documents related to investigations into these activities. His case is often linked to that of Fidel Castro, highlighting the scope and nature of covert operations considered by the US government.",
+  "merged_from_variants": [
+    "Patrice Lumumba",
+    "Lumumba"
+  ]
+}

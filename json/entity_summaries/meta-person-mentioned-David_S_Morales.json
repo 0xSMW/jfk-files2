@@ -1,0 +1,36 @@
+{
+  "entity_name": "David_S_Morales",
+  "entity_type": "person-mentioned",
+  "document_count": 14,
+  "document_ids": [
+    "104-10121-10130",
+    "104-10121-10140",
+    "104-10222-10019",
+    "104-10331-10152",
+    "104-10121-10236",
+    "180-10145-10301",
+    "104-10332-10000",
+    "104-10330-10118",
+    "180-10144-10130",
+    "104-10121-10226",
+    "104-10103-10097",
+    "104-10302-10022",
+    "104-10331-10149",
+    "104-10121-10197"
+  ],
+  "summary": "David S. Morales, also known as David Morales, was a CIA officer with 25 years of service, including assignments in Europe, Latin America, and East Asia. His official personnel file contains biographic information, employment history, and performance evaluations. He received foreign awards and decorations, and had an official cover established within the US Army Staff Group under the MAZE unit starting in July 1971. Documents also detail the transfer of his alias documents within the CIA, including identification cards and a Mexican passport, from Foreign Resources (FR) Plans Chief Robert Baker to WH/Security. These documents are related to the Assassination Records Review Board (ARRB) and the release of JFK assassination-related records, suggesting that information about Morales is considered relevant to the JFK assassination investigation.",
+  "key_connections": [
+    "CIA",
+    "Assassination Records Review Board (ARRB)",
+    "Robert Baker",
+    "WH/Security",
+    "MAZE unit",
+    "US Army Staff Group"
+  ],
+  "significance": "Medium - David S. Morales's long career in the CIA and the sensitivity surrounding his alias documents, particularly in the context of the JFK assassination records, suggest a moderate level of significance. The number of documents (14) also supports this assessment.",
+  "merged_from_variants": [
+    "David Morales",
+    "Morales",
+    "David S. Morales"
+  ]
+}

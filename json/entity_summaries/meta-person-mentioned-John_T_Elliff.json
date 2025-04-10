@@ -1,0 +1,45 @@
+{
+  "entity_name": "John_T_Elliff",
+  "entity_type": "person-mentioned",
+  "document_count": 23,
+  "document_ids": [
+    "124-10186-10049_multirif",
+    "124-10184-10237",
+    "124-10186-10054_multirif",
+    "124-10271-10299",
+    "124-10264-10208_multirif",
+    "124-10186-10051_multirif",
+    "124-10274-10029",
+    "124-10264-10210_multirif",
+    "124-10271-10003_multirif",
+    "124-10186-10048_multirif",
+    "124-10274-10014_multirif_redacted",
+    "124-10182-10231",
+    "124-10271-10299_multirif",
+    "124-10186-10055_multirif",
+    "124-10271-10033_multirif_redacted",
+    "124-10186-10056_multirif",
+    "124-10185-10195_multirif",
+    "124-10274-10070",
+    "124-10186-10045_multirif",
+    "124-10264-10206_multirif",
+    "124-10271-10011_multirif",
+    "124-10271-10003",
+    "124-10264-10191"
+  ],
+  "summary": "John T. Elliff was involved with the Senate Select Committee on Intelligence Activities (SSC), also known as the Church Committee, during the mid-1970s. His role primarily concerned the investigation of the FBI's domestic intelligence operations. Elliff participated in discussions and preparations related to the FBI's response to the SSC's inquiries, which covered sensitive topics such as the FBI's investigations of Martin Luther King, Jr., the Southern Christian Leadership Conference (SCLC), COINTELPRO, and the Huston Plan. He was involved in analyzing potential legislative actions and oversight mechanisms related to the FBI's activities, preparing for the Director's testimony before the Senate Select Committee, and handling legal aspects of the FBI's interactions with the SSC, including document requests, briefings, and security clearances.",
+  "key_connections": [
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "FBI",
+    "COINTELPRO",
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "Huston Plan",
+    "Senate Select Committee on Intelligence Activities"
+  ],
+  "significance": "Medium. John T. Elliff appears in a significant number of documents (23) in connection to the Church Committee's investigation of the FBI. His role seems to be focused on the legal and administrative aspects of the investigation, suggesting he was a staff member or advisor involved in the process.",
+  "merged_from_variants": [
+    "John T. Elliff",
+    "John Elliff"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "entity_name": "United_Nations",
+  "entity_type": "tag",
+  "document_count": 13,
+  "document_ids": [
+    "144-10001-10361",
+    "124-10276-10400",
+    "176-10036-10023",
+    "124-90139-10138",
+    "144-10001-10086",
+    "144-10001-10322",
+    "104-10187-10111",
+    "144-10001-10336",
+    "144-10001-10102",
+    "124-10274-10044",
+    "144-10001-10060",
+    "124-10274-10029_multirif_redacted",
+    "104-10180-10050"
+  ],
+  "summary": "The United Nations (UN) features prominently in these documents as a key venue for international diplomacy and a focal point for reactions to significant global events during the 1960s, particularly the assassination of President Kennedy. The UN served as a forum for discussions and diplomatic activities following Kennedy's death, including a plenary session honoring him. The documents also reveal the UN's involvement in various international issues, such as the Cuban situation, outer space, and the Congo crisis, including peacekeeping operations. Furthermore, the documents mention intelligence activities related to the UN, such as FBI mail interception programs targeting the Soviet Mission to the UN and monitoring of the Cuban UN mission.",
+  "key_connections": [
+    "Cuba",
+    "FBI",
+    "Lyndon B. Johnson",
+    "Congo",
+    "Soviet Union",
+    "John F. Kennedy",
+    "Poland"
+  ],
+  "significance": "High - The United Nations plays a significant role as a backdrop for international diplomacy, intelligence operations, and reactions to major events like the Kennedy assassination. Its involvement in various global issues and the presence of related intelligence activities indicate its importance within the context of these documents.",
+  "merged_from_variants": [
+    "United Nations",
+    "UN"
+  ]
+}

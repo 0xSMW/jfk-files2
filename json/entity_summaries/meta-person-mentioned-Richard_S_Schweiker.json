@@ -1,0 +1,31 @@
+{
+  "entity_name": "Richard_S_Schweiker",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "157-10014-10047",
+    "157-10014-10081",
+    "157-10014-10017",
+    "157-10014-10006",
+    "124-10264-10206_multirif",
+    "124-10186-10041",
+    "104-10102-10043",
+    "124-10238-10329_multirif",
+    "124-10264-10191",
+    "157-10014-10133"
+  ],
+  "summary": "Richard S. Schweiker is mentioned in documents related to the U.S. Senate Select Committee on Intelligence Activities (SSC), also known as the Church Committee, during the period of 1975-1976. The documents consist of transcripts of hearings and memoranda concerning investigations into intelligence activities conducted by the FBI and CIA. While the summaries do not explicitly detail Schweiker's specific role, his presence in these documents suggests his involvement in the committee's oversight of intelligence agencies, potentially as a member or in another official capacity. The investigations covered topics such as the AMLASH operation, FBI activities related to Martin Luther King, Jr., and potential CIA involvement in the Kennedy assassination, as well as broader inquiries into counterintelligence methodologies and potential abuses of power.",
+  "key_connections": [
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "Church",
+    "FBI",
+    "CIA",
+    "Martin Luther King, Jr.",
+    "James Angleton"
+  ],
+  "significance": "Medium - Richard S. Schweiker appears in a significant number of documents (10) related to the Church Committee's investigations into intelligence activities. While his specific role isn't always detailed, his association with the committee suggests a relevant, though perhaps not central, involvement in the oversight of intelligence agencies during a critical period.",
+  "merged_from_variants": [
+    "Schweiker",
+    "Richard S. Schweiker"
+  ]
+}

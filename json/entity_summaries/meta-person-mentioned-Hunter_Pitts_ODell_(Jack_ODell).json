@@ -1,0 +1,39 @@
+{
+  "entity_name": "Hunter_Pitts_ODell_(Jack_ODell)",
+  "entity_type": "person-mentioned",
+  "document_count": 15,
+  "document_ids": [
+    "124-10276-10482_multirif",
+    "124-10264-10210_multirif",
+    "124-10273-10018_multirif",
+    "124-10273-10016_multirif",
+    "124-10238-10333_multirif",
+    "124-10276-10483_multirif",
+    "124-10274-10357_multirif",
+    "124-10274-10358_multirif",
+    "124-10273-10014_multirif",
+    "124-10264-10206_multirif",
+    "124-10273-10008_multirif",
+    "124-10273-10012_multirif",
+    "124-10264-10209_multirif",
+    "124-10238-10329_multirif",
+    "124-10273-10022_multirif"
+  ],
+  "summary": "Hunter Pitts O'Dell (Jack O'Dell) is mentioned in documents related to the U.S. Senate Select Committee on Intelligence Activities (SSC) investigation into the FBI's scrutiny of Martin Luther King Jr. and the Southern Christian Leadership Conference (SCLC). These documents, primarily from 1975, detail the FBI's response to the SSC's requests for information, focusing on potential communist ties within the civil rights movement. O'Dell's significance stems from his potential association with individuals or groups suspected of communist affiliations, which was a key focus of the FBI's investigations, as highlighted in the testimony of retired FBI Special Agent Alan G. Sentinella.",
+  "key_connections": [
+    "Martin Luther King, Jr.",
+    "Senate Select Committee (SSC)",
+    "Alan G. Sentinella",
+    "Southern Christian Leadership Conference (SCLC)",
+    "FBI",
+    "Stanley Levison",
+    "U. S. Senate Select Committee on Intelligence Activities (SSC)",
+    "Communist Party USA (CPUSA)"
+  ],
+  "significance": "Medium - Hunter Pitts O'Dell is mentioned in a moderate number of documents (15) in relation to the FBI's investigations into alleged communist ties within the Civil Rights Movement. While the documents don't detail his specific activities, his name appears in connection to key figures and organizations under scrutiny, suggesting he was a person of interest during this period.",
+  "merged_from_variants": [
+    "Hunter Fitts O'Dell",
+    "Hunter Pitts O'Dell",
+    "Hunter Pitts O'Dell (Jack O'Dell)"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "entity_name": "Oswald_201_File",
+  "entity_type": "tag",
+  "document_count": 27,
+  "document_ids": [
+    "180-10143-10070",
+    "104-10023-10087",
+    "104-10056-10005",
+    "104-10217-10223",
+    "104-10176-10075",
+    "180-10143-10100",
+    "104-10335-10014",
+    "104-10143-10088",
+    "104-10177-10220",
+    "104-10213-10352",
+    "104-10337-10002",
+    "104-10406-10139",
+    "104-10122-10135",
+    "194-10012-10471",
+    "180-10145-10287",
+    "104-10051-10170",
+    "104-10088-10074",
+    "104-10213-10202",
+    "104-10333-10008",
+    "104-10408-10316",
+    "104-10331-10321",
+    "104-10408-10078",
+    "104-10176-10073",
+    "104-10104-10172",
+    "104-10169-10002",
+    "104-10221-10003",
+    "104-10087-10054"
+  ],
+  "summary": "The Oswald 201 File, also referred to as the 201 System or simply 201 files, represents a collection of documents maintained by the CIA to track individuals of interest, including agents, sources, and potential collaborators. These files contain a range of information, such as personal history, activities, health records, and financial matters. The CIA used the 201 system for internal control, tracking, and consolidating information, with specific regulations governing their creation, maintenance, and access. The Oswald 201 File is particularly relevant to investigations surrounding the JFK assassination, as it contains information related to Lee Harvey Oswald's activities and connections, including those in Mexico City. The review and release of these records, including sanitization and privacy concerns, have been subjects of discussion with the Assassination Records Review Board (ARRB) and the House Permanent Select Committee on Intelligence (HPSCI).",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Assassination Records Review Board",
+    "House Select Committee on Assassinations (HSCA)",
+    "House Permanent Select Committee on Intelligence (HPSCI)",
+    "CIA",
+    "JFK Assassination Records",
+    "Mexico City",
+    "Individuals of Interest",
+    "Operations Directorate"
+  ],
+  "significance": "High. The Oswald 201 File is highly significant due to its direct connection to Lee Harvey Oswald and the JFK assassination. The file's contents and the CIA's handling of it have been the subject of scrutiny by multiple investigative bodies, and it represents a key source of information for understanding the events surrounding the assassination.",
+  "merged_from_variants": [
+    "201 System",
+    "201 Files",
+    "201 File",
+    "Oswald 201 File"
+  ]
+}

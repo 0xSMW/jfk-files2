@@ -1,0 +1,48 @@
+{
+  "entity_name": "John_B_Hotis",
+  "entity_type": "person-mentioned",
+  "document_count": 26,
+  "document_ids": [
+    "124-10186-10049_multirif",
+    "124-10186-10054_multirif",
+    "124-10273-10007_multirif",
+    "124-10238-10329_multirif",
+    "124-10271-10299",
+    "124-10273-10007",
+    "124-10273-10006",
+    "124-10264-10208_multirif",
+    "124-10186-10051_multirif",
+    "124-10274-10011 (c06716583)",
+    "124-10264-10210_multirif",
+    "124-10271-10003_multirif",
+    "124-10186-10048_multirif",
+    "124-10238-10333_multirif",
+    "124-10182-10231",
+    "124-10271-10299_multirif",
+    "124-10186-10055_multirif",
+    "124-10271-10033_multirif_redacted",
+    "124-10186-10056_multirif",
+    "124-10274-10070",
+    "124-10186-10045_multirif",
+    "124-10271-10013",
+    "124-10264-10206_multirif",
+    "124-10271-10011_multirif",
+    "124-10264-10209_multirif",
+    "124-10271-10003"
+  ],
+  "summary": "John B. Hotis is identified as being involved in the FBI's interactions with the Senate Select Committee on Intelligence Activities (SSC) in 1975, particularly concerning the FBI's domestic intelligence investigations. His role appears to be related to providing legal counsel or advice, specifically regarding the FBI's responses to the SSC's requests for documents and information. These requests included materials related to Martin Luther King, Jr., the Southern Christian Leadership Conference (SCLC), and alleged Communist ties involving Stanley Levison. The documents suggest Hotis was involved in discussions surrounding potential legislative actions, oversight mechanisms, and reforms concerning the FBI's authority and activities.",
+  "key_connections": [
+    "U.S. Senate Select Committee on Intelligence Activities (SSC)",
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "FBI",
+    "Stanley Levison",
+    "Senate Select Committee on Intelligence Activities"
+  ],
+  "significance": "Medium. John B. Hotis appears in a significant number of documents (26), indicating a notable involvement in the FBI's interactions with the Senate Select Committee on Intelligence Activities. His role seems to be primarily advisory, but his presence in these discussions suggests he was a relevant figure in the context of the FBI's domestic intelligence operations and the Senate's oversight of these activities.",
+  "merged_from_variants": [
+    "Hotis",
+    "John B. Hotis",
+    "J. B. Hotis"
+  ]
+}

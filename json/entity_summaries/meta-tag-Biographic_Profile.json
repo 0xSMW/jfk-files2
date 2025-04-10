@@ -1,0 +1,45 @@
+{
+  "entity_name": "Biographic_Profile",
+  "entity_type": "tag",
+  "document_count": 14,
+  "document_ids": [
+    "194-10004-10141",
+    "104-10180-10156",
+    "180-10068-10317",
+    "124-10291-10319",
+    "180-10060-10457",
+    "104-10222-10033",
+    "104-10136-10329",
+    "104-10136-10327",
+    "180-10068-10313",
+    "104-10193-10075",
+    "104-10136-10324",
+    "104-10129-10002",
+    "104-10224-10007",
+    "104-10117-10075"
+  ],
+  "summary": "Biographic profiles, also appearing as resumes or personal history statements, are documents detailing an individual's personal and professional background. They are used by organizations like the CIA to track employment history, training, skills, performance, and other relevant information. The documents in this collection include profiles of CIA operatives, individuals connected to the House Select Committee on Assassinations (HSCA), and others seeking employment. These profiles often contain biographical information, education, family details, employment history, financial status, and military service records. The Assassination Records Review Board reviewed some of these documents, particularly those related to the HSCA, and made determinations regarding the release of personal information. A review of Thomas B. CASASIN's personnel file is mentioned in multiple documents, suggesting its importance.",
+  "key_connections": [
+    "David Reed Fromer",
+    "House Select Committee on Assassinations",
+    "Howard McCrea Orr",
+    "Emilio Americo Rodriguez",
+    "Claire L. Brown",
+    "Robert Malcolm Keith",
+    "William Vincent Broe",
+    "Sheryl Lynn Bonifer",
+    "Newton S. Miler",
+    "Joseph Kiel",
+    "CIA",
+    "Robert M. Zambernardi",
+    "Myriam Finkelman Winer",
+    "Thomas B. CASASIN",
+    "Assassination Records Review Board"
+  ],
+  "significance": "High. Biographic profiles are central to understanding the backgrounds and affiliations of individuals involved in sensitive contexts, such as the CIA and the House Select Committee on Assassinations. The number of documents (14) and the detailed information contained within these profiles suggest a significant role in personnel management, security clearances, and historical investigations.",
+  "merged_from_variants": [
+    "Biographic Profile",
+    "Resume",
+    "Personal History"
+  ]
+}

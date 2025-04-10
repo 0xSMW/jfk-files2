@@ -1,0 +1,29 @@
+{
+  "entity_name": "Antonia_(Toni)_Leigh_Chayes",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "document_ids": [
+    "104-10132-10092",
+    "104-10437-10079",
+    "104-10051-10106",
+    "104-10209-10259",
+    "104-10165-10077",
+    "104-10333-10006",
+    "104-10418-10378",
+    "104-10133-10437",
+    "104-10300-10124"
+  ],
+  "summary": "While Antonia (Toni) Leigh Chayes is not directly mentioned in the provided documents, her name appears as a variant. The documents primarily focus on Abram Chayes and his alleged involvement in Lee Harvey Oswald's return to the U.S. from the Soviet Union in 1962. Concerns are raised regarding Abram Chayes' security clearances, potential associations, and perceived leniency towards communism. The documents also reference a House Select Committee on Assassinations request for material on Abram Chayes.",
+  "key_connections": [
+    "Abram Chayes",
+    "Lee Harvey Oswald",
+    "House Select Committee on Assassinations",
+    "CIA",
+    "Llewellyn Thompson"
+  ],
+  "significance": "Low. Antonia (Toni) Leigh Chayes is not directly mentioned in the documents, but her name is a variant associated with Abram Chayes, who is a figure of interest in the context of Lee Harvey Oswald's return to the U.S. and potential security concerns. Her significance is tied to her association with Abram Chayes.",
+  "merged_from_variants": [
+    "Abram Chayes",
+    "Antonia (Toni) Leigh Chayes"
+  ]
+}

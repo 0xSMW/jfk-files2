@@ -1,0 +1,27 @@
+{
+  "entity_name": "GRIMES_MARY_SUSAN",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10068-10363",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10172",
+    "180-10125-10078",
+    "180-10125-10107"
+  ],
+  "summary": "Mary Susan Grimes was an employee of both the Select Committee on Assassinations (SCAS) and the House Select Committee on Assassinations (HSCA) from January 1977 to December 1978. Payroll records and certifications document her employment, annual salary, and gross pay during this period. These records include payroll authorization forms, certificates of relationship to members of Congress, and low earnings reports. She is also mentioned in a JFK Assassination System Identification Form related to background checks conducted on HSCA staff and applicants.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations (HSCA)",
+    "Select Committee on Assassinations (SCAS)"
+  ],
+  "significance": "Medium. Mary Susan Grimes's employment with the HSCA and SCAS is documented in multiple payroll records and a background check form related to the JFK assassination investigation. While her specific role is not detailed, her presence in these records suggests she was a staff member involved in the investigation.",
+  "merged_from_variants": [
+    "GRIMES, MARY SUSAN",
+    "Mary Susan Grimes"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "entity_name": "Lisa_M_Berlow",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078"
+  ],
+  "summary": "Lisa M Berlow was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from October 1977 to December 1978. Payroll and certification reports document her employment during this period, listing her name, salary, and employment dates alongside other committee staff. While her specific role within the HSCA is not detailed in the available summaries, her presence on multiple payroll documents suggests she was a staff member involved in the committee's investigation into the JFK assassination.",
+  "key_connections": [
+    "Select Committee on Assassinations (HSCA)",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Lisa M Berlow's significance is moderate. While the specifics of her role are unknown, her consistent presence on payroll documents related to the HSCA suggests she played a supporting role in the investigation into the JFK assassination. The number of documents (8) further supports this assessment.",
+  "merged_from_variants": [
+    "BERLOW, LISA M",
+    "Lisa M Berlow"
+  ]
+}

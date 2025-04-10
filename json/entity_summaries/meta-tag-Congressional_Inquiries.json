@@ -1,0 +1,40 @@
+{
+  "entity_name": "Congressional_Inquiries",
+  "entity_type": "tag",
+  "document_count": 11,
+  "document_ids": [
+    "124-10271-10003_multirif",
+    "124-10271-10299",
+    "124-10271-10000",
+    "157-10014-10121",
+    "104-10256-10283",
+    "124-10271-10299_multirif",
+    "144-10001-10212",
+    "157-10014-10125",
+    "124-10271-10011_multirif",
+    "124-10271-10003",
+    "157-10014-10133"
+  ],
+  "summary": "Congressional Inquiries, particularly those conducted by committees like the Senate Select Committee on Intelligence Activities (SSC) and the Church Committee in the mid-1970s, involved extensive scrutiny of intelligence agencies such as the FBI, CIA, and NSA. These inquiries focused on sensitive topics including covert actions, assassinations, the Phoenix program, the Warren Commission, the CIA's budget, the Watergate scandal, COINTELPRO, and the use of media and academics. The documents reveal efforts by intelligence agencies to manage information disclosure, coordinate responses, and address concerns raised by Congress regarding oversight, accountability, and potential legislative reforms.",
+  "key_connections": [
+    "Senate Select Committee",
+    "Covert Action",
+    "Watergate Scandal",
+    "FBI",
+    "CIA",
+    "Senate Select Committee to Study Governmental Operations With Respect to Intelligence Activities (Church Committee)",
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "COINTELPRO",
+    "Media",
+    "Academics",
+    "DCI (Director of Central Intelligence)",
+    "Phoenix program",
+    "Warren Commission"
+  ],
+  "significance": "High. Congressional inquiries represent a significant theme within these documents, indicating a period of intense scrutiny and oversight of intelligence agencies. The high document count and the sensitive nature of the topics investigated suggest a crucial period of re-evaluation and potential reform.",
+  "merged_from_variants": [
+    "Congressional Review",
+    "Committee Business",
+    "Congressional Inquiries"
+  ]
+}

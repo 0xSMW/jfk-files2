@@ -1,0 +1,36 @@
+{
+  "entity_name": "Immigration",
+  "entity_type": "tag",
+  "document_count": 9,
+  "document_ids": [
+    "104-10162-10108",
+    "104-10004-10213",
+    "104-10219-10154",
+    "104-10167-10083",
+    "194-10007-10267",
+    "104-10219-10282",
+    "124-10291-10319",
+    "104-10219-10064",
+    "194-10003-10336"
+  ],
+  "summary": "The documents focus on immigration and emigration as relevant factors for individuals of interest to the CIA and FBI. Immigration is discussed in the context of background checks, visa applications, and potential security risks, with specific mentions of individuals like Henry S. Beer, Joachim S. Beer, Edward Kaczmarczyk, Miriam Finkelman Winner, Nicholas Georges Damascus, Anastasia Magdalene Martiliane Daskalakis, and connections to REICHHARDT. Emigration is highlighted in relation to American defectors in the USSR, such as William Hamilton Martin and Bernon Ferguson Mitchell, and the departure of Lee Harvey Oswald and his wife from the Soviet Union. The documents, spanning from 1959 to 1971, reveal the agencies' interest in tracking the movement and relocation of individuals, especially those with connections to foreign entities or those who may pose security concerns.",
+  "key_connections": [
+    "Nicholas Georges Damascus",
+    "William Hamilton Martin",
+    "USSR",
+    "Joachim S. Beer",
+    "Edward Kaczmarczyk",
+    "Bernon Ferguson Mitchell",
+    "Anastasia Magdalene Martiliane Daskalakis",
+    "REICHHARDT",
+    "Lee Harvey Oswald",
+    "CIA",
+    "Henry S. Beer",
+    "Miriam Finkelman Winner"
+  ],
+  "significance": "Medium. Immigration and emigration are recurring themes across multiple documents, suggesting their importance in the context of security and intelligence gathering. The focus on individuals connected to the USSR and potential security risks indicates a significant, though not necessarily central, role in the overall narrative.",
+  "merged_from_variants": [
+    "Immigration",
+    "Emigration"
+  ]
+}

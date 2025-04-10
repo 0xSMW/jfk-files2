@@ -1,0 +1,24 @@
+{
+  "entity_name": "Ponder_Mary_Elizabeth",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "document_ids": [
+    "180-10125-10093",
+    "180-10125-10106",
+    "180-10125-10094",
+    "180-10060-10499",
+    "180-10125-10096",
+    "180-10125-10092",
+    "180-10125-10107"
+  ],
+  "summary": "Mary Elizabeth Ponder was a staff member of the U.S. House of Representatives Select Committee on Assassinations (HSCA) during its investigation into the JFK assassination in 1977. Payroll certification reports from February through December 1977 document her employment, listing her name, social security number, and salary. These records, whose release status was reviewed by the Assassination Records Review Board with postponements related to Social Security number redaction, confirm her role as a paid employee of the HSCA.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board"
+  ],
+  "significance": "Medium. Mary Elizabeth Ponder's significance lies in her documented employment with the HSCA during its investigation into the JFK assassination. While her specific role is not detailed, the payroll records confirm her involvement and provide a verifiable link to the committee's activities. The number of documents mentioning her (7) suggests a moderate level of relevance.",
+  "merged_from_variants": [
+    "Mary Elizabeth Ponder",
+    "Ponder, Mary Elizabeth"
+  ]
+}

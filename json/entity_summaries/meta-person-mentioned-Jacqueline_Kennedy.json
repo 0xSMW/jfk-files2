@@ -1,0 +1,33 @@
+{
+  "entity_name": "Jacqueline_Kennedy",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "144-10001-10303",
+    "144-10001-10355",
+    "144-10001-10307",
+    "144-10001-10315",
+    "144-10001-10299",
+    "144-10001-10342",
+    "144-10001-10067",
+    "144-10001-10308",
+    "144-10001-10084",
+    "144-10001-10332"
+  ],
+  "summary": "Jacqueline Kennedy, wife of President John F. Kennedy, is a central figure in the aftermath of his assassination. The documents detail the global outpouring of sympathy and condolences directed towards her from world leaders and representatives, including President De Gaulle of France, the King and Queen of Thailand, and officials from South Korea. She is mentioned in the context of funeral arrangements, messages of support, and her active role in acknowledging the global support during the period of mourning. Interactions with President Lyndon B. Johnson are also noted, highlighting the shared grief and support received by both.",
+  "key_connections": [
+    "President John F. Kennedy",
+    "Lyndon B. Johnson",
+    "President Johnson",
+    "President De Gaulle",
+    "King and Queen of Thailand",
+    "Kwame Nkrumah",
+    "South Korean officials",
+    "Foreign dignitaries"
+  ],
+  "significance": "High - Jacqueline Kennedy's role as the First Lady and her personal loss following President Kennedy's assassination made her a significant recipient of global sympathy and a key figure in the immediate aftermath, as reflected in the numerous documents expressing condolences and support.",
+  "merged_from_variants": [
+    "Jacqueline Kennedy",
+    "Mrs. Kennedy"
+  ]
+}

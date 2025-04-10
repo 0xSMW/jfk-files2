@@ -1,0 +1,28 @@
+{
+  "entity_name": "Personal_Information",
+  "entity_type": "tag",
+  "document_count": 6,
+  "document_ids": [
+    "194-10004-10129",
+    "180-10060-10454",
+    "180-10068-10322",
+    "104-10117-10075",
+    "104-10162-10120",
+    "180-10072-10186"
+  ],
+  "summary": "The documents contain personal information related to individuals connected to the JFK assassination and subsequent investigations, including those by the House Select Committee on Assassinations (HSCA). This information encompasses a range of data points such as names, dates and places of birth, social security numbers, military service numbers, marital status, spouse's information, residences, children, relatives' information, payroll records, resumes, employment details, social security applications, death certificates, marriage and birth certificates, and military records. The presence of this Personally Identifiable Information (PII) necessitates redaction or postponement of release to protect individual privacy.",
+  "key_connections": [
+    "HSCA (House Select Committee on Assassinations)",
+    "Lee Harvey Oswald",
+    "Marina Oswald",
+    "Burton A. Chardak",
+    "Santiago Alvarez Fernandez",
+    "Social Security Administration",
+    "JFK Assassination Records Review Board"
+  ],
+  "significance": "High - The presence of personal information across multiple documents related to the JFK assassination and investigations indicates a high level of sensitivity and the need for careful handling to protect individual privacy. The variety of personal data points and the involvement of key figures and investigative bodies underscore its importance.",
+  "merged_from_variants": [
+    "PII",
+    "Personal Information"
+  ]
+}

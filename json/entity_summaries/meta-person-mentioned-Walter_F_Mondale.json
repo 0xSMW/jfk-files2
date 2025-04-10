@@ -1,0 +1,30 @@
+{
+  "entity_name": "Walter_F_Mondale",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "document_ids": [
+    "157-10014-10081",
+    "104-10337-10002",
+    "124-10273-10053",
+    "124-10185-10195_multirif",
+    "157-10014-10067",
+    "124-10238-10329_multirif",
+    "124-10264-10191",
+    "157-10014-10133"
+  ],
+  "summary": "Walter F. Mondale, also referred to as Mondale, is featured in documents primarily related to his role on the Senate Select Committee on Intelligence Activities (SSC) from 1975 onwards. These documents detail the SSC's investigations into intelligence agencies, including the CIA and FBI, and their activities such as potential assassination plots (e.g., Patrice Lumumba) and investigations into individuals like Martin Luther King, Jr. Mondale's involvement includes a planned trip to inspect CIA covert intelligence sites in Europe, which caused concern within the White House. His significance lies in his oversight role within the Senate concerning intelligence matters during a period when investigations into the JFK assassination were also ongoing.",
+  "key_connections": [
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "CIA",
+    "FBI",
+    "Martin Luther King, Jr.",
+    "Patrice Lumumba",
+    "Communist Party USA (CPUSA)",
+    "Senate Select Committee"
+  ],
+  "significance": "Medium - Walter F. Mondale's significance is moderate. While not directly implicated in the JFK assassination, his prominent role on the Senate Select Committee on Intelligence Activities places him within the sphere of governmental oversight of intelligence operations during the period when investigations into the assassination were ongoing. The number of documents (8) suggests a notable, but not central, presence.",
+  "merged_from_variants": [
+    "Mondale",
+    "Walter F. Mondale"
+  ]
+}

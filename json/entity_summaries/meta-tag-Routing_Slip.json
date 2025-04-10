@@ -1,0 +1,30 @@
+{
+  "entity_name": "Routing_Slip",
+  "entity_type": "tag",
+  "document_count": 9,
+  "document_ids": [
+    "104-10105-10211",
+    "104-10171-10136",
+    "104-10061-10208",
+    "104-10170-10096",
+    "124-10185-10193_multirif",
+    "104-10510-10090",
+    "124-10179-10221_multirif",
+    "104-10220-10037",
+    "104-10178-10137"
+  ],
+  "summary": "Routing slips and the broader 'Routing' process are crucial for the internal distribution and tracking of documents within organizations like the CIA and FBI. These slips facilitate the secure and efficient dissemination of information, including classified messages, OOB reports, and teletype communications, ensuring they reach the correct recipients. They document the movement of information between offices and personnel, providing a record of review and handling related to topics such as asset protection (e.g., Howard Hao-Sheng Chao), FBI file management, photograph distribution, and inter-agency communication. The use of routing slips and defined routing procedures spans from 1951 to 1983 and beyond, indicating their continuous importance in internal communication and information management.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Howard Hao-Sheng Chao",
+    "Jane Roman",
+    "Clarence M. Kelley",
+    "Richard Ober"
+  ],
+  "significance": "Medium - Routing slips are essential for understanding internal communication and information flow within intelligence agencies. While not directly related to the JFK assassination, they provide valuable context for how information was managed and disseminated within these organizations during relevant time periods.",
+  "merged_from_variants": [
+    "Routing Slip",
+    "Routing"
+  ]
+}

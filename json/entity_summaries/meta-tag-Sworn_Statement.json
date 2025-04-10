@@ -1,0 +1,35 @@
+{
+  "entity_name": "Sworn_Statement",
+  "entity_type": "tag",
+  "document_count": 9,
+  "document_ids": [
+    "194-10007-10425",
+    "180-10131-10324",
+    "194-10007-10424",
+    "124-10274-10358_multirif",
+    "194-10013-10141",
+    "124-10273-10008_multirif",
+    "124-10273-10012_multirif",
+    "180-10131-10329",
+    "157-10002-10150"
+  ],
+  "summary": "Sworn statements and testimonies appear in the documents as official records used in investigations and information gathering, particularly by committees like the Senate Select Committee (SSC) and the House Select Committee on Assassinations (HSCA). These statements cover a range of topics, including investigations into Martin Luther King Jr., the Southern Christian Leadership Conference (SCLC), CIA activities (such as mail opening projects and operations in Mexico City related to Lee Harvey Oswald), and individuals like Yuri Nosenko. Specific examples include Victor Lee Trinkala's statement regarding his discharge from the Army and contact with Richard Nagell, and Henry D. Glaister authorizing the release of an agent report concerning Joseph Timothy White. The testimonies span from 1975 to 1978 and represent efforts to investigate past events and activities.",
+  "key_connections": [
+    "Senate Select Committee (SSC)",
+    "House Select Committee on Assassinations (HSCA)",
+    "Martin Luther King Jr.",
+    "CIA",
+    "Lee Harvey Oswald",
+    "Yuri Nosenko",
+    "Victor Lee Trinkala",
+    "Joseph Timothy White",
+    "Henry D. Glaister",
+    "Richard Nagell",
+    "Southern Christian Leadership Conference (SCLC)"
+  ],
+  "significance": "High - Sworn statements are central to the investigations documented, providing direct accounts and authorizations related to key individuals and events surrounding the JFK assassination and related intelligence activities. The number of documents referencing them further underscores their importance.",
+  "merged_from_variants": [
+    "Sworn Statement",
+    "Testimony"
+  ]
+}

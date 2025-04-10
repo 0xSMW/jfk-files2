@@ -1,0 +1,44 @@
+{
+  "entity_name": "Documentation",
+  "entity_type": "tag",
+  "document_count": 17,
+  "document_ids": [
+    "104-10059-10218",
+    "104-10079-10391",
+    "104-10105-10290",
+    "180-10144-10402",
+    "104-10117-10251",
+    "180-10131-10324",
+    "104-10111-10104",
+    "180-10143-10222",
+    "104-10131-10028",
+    "104-10061-10320",
+    "104-10120-10273",
+    "104-10182-10052",
+    "104-10303-10008",
+    "104-10333-10006",
+    "124-10180-10323_multirif",
+    "180-10144-10288",
+    "104-10326-10074"
+  ],
+  "summary": "Documentation, encompassing files, records, and lists, is a critical element within the CIA's operations and investigations, particularly concerning sensitive matters such as the JFK assassination. These documents, spanning from 1961 to 1975, include memoranda, teletypes, letters, notes, and transcripts, and are meticulously managed to maintain security and control. They serve various purposes, including supporting other agencies, creating alias identities, tracking individuals and events, and managing access limitations. The House Select Committee on Assassinations (HSCA) heavily relied on these files from agencies like the CIA and FBI during their investigations into the assassinations of John F. Kennedy and Martin Luther King Jr. Lists within the documentation contain names, dates, and assets, potentially revealing connections between individuals, organizations, and events relevant to CIA activities.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "JFK assassination",
+    "John F. Kennedy",
+    "House Select Committee on Assassinations (HSCA)",
+    "Lee Harvey Oswald",
+    "Martin Luther King Jr.",
+    "Mexico City operations",
+    "Thomas Buchanan",
+    "Bernard Redmont"
+  ],
+  "significance": "High. Documentation is central to understanding CIA operations, internal tracking, and investigations, especially those related to the JFK assassination. The high document count and the sensitive nature of the information contained within these records underscore its importance.",
+  "merged_from_variants": [
+    "Documentation",
+    "Files",
+    "Records",
+    "List"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "entity_name": "_RESTRICTED_",
+  "entity_type": "sender",
+  "document_count": 26,
+  "document_ids": [
+    "194-10004-10379",
+    "194-10004-10388",
+    "194-10002-10094",
+    "194-10002-10091",
+    "194-10004-10383",
+    "194-10004-10359",
+    "194-10012-10409",
+    "194-10006-10184",
+    "194-10004-10363",
+    "194-10004-10384",
+    "194-10004-10400",
+    "194-10004-10376",
+    "194-10004-10162",
+    "194-10004-10357",
+    "194-10006-10186",
+    "194-10007-10426",
+    "194-10012-10408",
+    "194-10013-10140",
+    "194-10012-10472",
+    "194-10004-10397",
+    "194-10004-10402",
+    "194-10004-10381",
+    "194-10004-10387",
+    "194-10004-10385",
+    "194-10013-10005",
+    "194-10004-10399"
+  ],
+  "summary": "_RESTRICTED_ sent agent reports and requests for information related to background investigations and security concerns, primarily focusing on individuals connected to the US Army. These investigations, spanning from 1966 to 1982, involved verifying personal information, employment history, and potential connections to subversive activities, particularly communism during the Cold War era. The investigations often involved checking FBI files, local agency records, educational records, and interviewing individuals. Specific individuals investigated include Peter K. Simons, Roman D. S. Arnold, David Reed Fromer, Manuel Marti, Kenneth C. Griggs, Joseph Timothy White, and Robert Scheer.",
+  "key_connections": [
+    "Peter K. Simons",
+    "Roman D. S. Arnold",
+    "David Reed Fromer",
+    "Manuel Marti",
+    "Kenneth C. Griggs",
+    "Joseph Timothy White",
+    "Robert Scheer",
+    "FBI"
+  ],
+  "significance": "Medium. _RESTRICTED_ appears to be an entity involved in conducting background checks and security investigations, particularly during the Cold War era. The number of documents (26) suggests a moderate level of involvement in these activities, with a focus on individuals potentially connected to the US Army and potential subversive activities.",
+  "merged_from_variants": [
+    "[RESTRICTED]"
+  ]
+}

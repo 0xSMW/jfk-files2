@@ -1,0 +1,43 @@
+{
+  "entity_name": "Operations_Directorate",
+  "entity_type": "tag",
+  "document_count": 21,
+  "document_ids": [
+    "104-10062-10256",
+    "104-10304-10000",
+    "104-10023-10087",
+    "180-10144-10130",
+    "104-10213-10209",
+    "104-10143-10088",
+    "104-10213-10352",
+    "104-10406-10139",
+    "104-10291-10002",
+    "104-10051-10170",
+    "104-10074-10040",
+    "180-10145-10233",
+    "104-10213-10202",
+    "104-10096-10048",
+    "104-10408-10316",
+    "104-10065-10152",
+    "104-10408-10078",
+    "104-10291-10021",
+    "104-10061-10386",
+    "104-10119-10403",
+    "104-10222-10012"
+  ],
+  "summary": "The Operations Directorate (also known as the Directorate of Operations or DDO, formerly the Directorate of Plans) is a critical component of the CIA responsible for clandestine operations, intelligence gathering, and covert actions worldwide. The Directorate managed personnel, handled Freedom of Information Act requests, and oversaw sensitive operations. It utilized the '201 system' for identifying, tracking, and managing information on individuals of interest, creating and maintaining files (201 files) and assigning OI codes. The Directorate's activities, including its information management practices and the criteria for opening 201 files, were of interest to the House Select Committee on Assassinations (HSCA). The Directorate also issued instructions regarding the operational use of certain categories of individuals, indicating its role in setting policy and guidelines for covert actions. Reorganization occurred in 1976, affecting staff structure and functions.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Senate Select Committee on Intelligence (SSCI)",
+    "201 System",
+    "Robert P. Wheeler",
+    "William M. Kent",
+    "George Joannides",
+    "Edwin Anderson Walker"
+  ],
+  "significance": "High. The Operations Directorate's involvement in clandestine operations, intelligence gathering, and information management, along with Congressional interest in its activities, suggests a significant role within the context of the source material. The high document count (21) further supports this assessment.",
+  "merged_from_variants": [
+    "DDO",
+    "Operations Directorate"
+  ]
+}

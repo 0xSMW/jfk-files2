@@ -1,0 +1,35 @@
+{
+  "entity_name": "Charles_de_Gaulle",
+  "entity_type": "person-mentioned",
+  "document_count": 14,
+  "document_ids": [
+    "144-10001-10316",
+    "144-10001-10303",
+    "144-10001-10315",
+    "124-10325-10318",
+    "177-10002-10069",
+    "144-10001-10294",
+    "104-10302-10030",
+    "144-10001-10358",
+    "144-10001-10103",
+    "144-10001-10345",
+    "144-10001-10102",
+    "144-10001-10367",
+    "144-10001-10286",
+    "144-10001-10084"
+  ],
+  "summary": "Charles de Gaulle, the President of France, is prominently featured in documents related to President John F. Kennedy's assassination, primarily due to his attendance at Kennedy's funeral. His presence, along with other heads of state, was a significant event prompting diplomatic communications. Documents highlight De Gaulle's reactions to Kennedy's death, including messages to Mrs. Kennedy and President Johnson, and summarize French reactions, noting widespread mourning and concern over potential U.S. political instability. De Gaulle's interactions with other world leaders, such as the Brazilian Foreign Minister, following the funeral are also noted, as is a speech by Prince Sihanouk mentioning Cambodian relations with France in the aftermath of the assassination. A Polish intelligence report mentions De Gaulle's presence at UN meetings following the assassination.",
+  "key_connections": [
+    "John F. Kennedy",
+    "Mrs. Kennedy",
+    "Lyndon B. Johnson",
+    "Brazilian Foreign Minister",
+    "Prince Sihanouk",
+    "Erhard"
+  ],
+  "significance": "High - As the President of France, Charles de Gaulle's presence at Kennedy's funeral and the reactions to his death were considered significant diplomatic events, indicating his importance in the global context of the assassination's aftermath.",
+  "merged_from_variants": [
+    "Charles de Gaulle",
+    "De Gaulle"
+  ]
+}

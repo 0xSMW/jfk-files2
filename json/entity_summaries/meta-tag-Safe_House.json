@@ -1,0 +1,36 @@
+{
+  "entity_name": "Safe_House",
+  "entity_type": "tag",
+  "document_count": 12,
+  "document_ids": [
+    "104-10185-10234",
+    "104-10217-10228",
+    "104-10182-10057",
+    "104-10169-10139",
+    "104-10120-10373",
+    "104-10217-10225",
+    "104-10122-10291",
+    "104-10161-10226",
+    "104-10185-10202",
+    "104-10185-10252",
+    "104-10185-10244",
+    "104-10185-10228"
+  ],
+  "summary": "CIA safe houses were secure locations used for various clandestine activities during the Cold War era. These safe houses, such as apartments at Summit Hill Apartments in Silver Spring, Maryland, served as secure meeting places, temporary housing for assets like AMMUG-1 and Vladimir Rodriguez Lahera, and locations for sensitive operations including training and assessment of REDSKIN agent candidates. Security protocols were paramount, with efforts made to maintain discretion and avoid compromises. Safe houses also facilitated communications, as evidenced by a trace on a phone call originating from one such location. They were a standard component of CIA operations, providing secure environments for activities ranging from agent training to handling Soviet defectors.",
+  "key_connections": [
+    "AMMUG-1",
+    "Vladimir Rodriguez Lahera",
+    "REDSKIN agent candidates",
+    "Soviet defector",
+    "Silver Spring, MD",
+    "Summit Hill Apartments",
+    "SR (Security Research, a CIA division)",
+    "WIROGUE project",
+    "AEASPIC operation"
+  ],
+  "significance": "Medium - The entity 'Safe_House' appears in 12 documents, indicating a moderate level of importance. The summaries suggest that safe houses were a standard operational component for the CIA, particularly during the Cold War, making them a relevant element in understanding the agency's activities.",
+  "merged_from_variants": [
+    "Safehouse",
+    "Safe House"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "entity_name": "Hubert_H_Humphrey",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "document_ids": [
+    "144-10001-10372",
+    "124-10264-10210_multirif",
+    "144-10001-10086",
+    "104-10306-10007",
+    "104-10122-10291",
+    "124-10264-10208_multirif",
+    "124-10264-10206_multirif",
+    "104-10333-10001",
+    "124-10264-10209_multirif"
+  ],
+  "summary": "Hubert H. Humphrey, often referred to as \"Humphrey,\" is mentioned in several contexts within the documents. He is noted for a request made to Polish officials in December 1963, alongside Senator Romney, to consider naming a hospital in Krakow in honor of President John F. Kennedy. Additionally, he appears in notes for Mr. McCone regarding recommendations for improving standing in Congress. Humphrey is also mentioned in connection with the U.S. Senate Select Committee on Intelligence Activities (SSC) investigations into Martin Luther King, Jr., and the Southern Christian Leadership Conference (SCLC), specifically concerning the FBI's response to the SSC's requests for materials related to these investigations.",
+  "key_connections": [
+    "John F. Kennedy",
+    "Senator Romney",
+    "Polish Officials",
+    "Mr. McCone",
+    "U. S. Senate Select Committee on Intelligence Activities (SSC)",
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "FBI"
+  ],
+  "significance": "Medium. Hubert H. Humphrey appears in a moderate number of documents, primarily in connection to congressional matters, intelligence investigations, and posthumous honors for JFK. While not directly implicated in the JFK assassination itself, his presence in these contexts suggests a relevant, though not central, role in the broader historical narrative.",
+  "merged_from_variants": [
+    "Hubert H. Humphrey",
+    "Humphrey"
+  ]
+}

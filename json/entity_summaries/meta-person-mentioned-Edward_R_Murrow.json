@@ -1,0 +1,28 @@
+{
+  "entity_name": "Edward_R_Murrow",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "document_ids": [
+    "180-10141-10204",
+    "104-10306-10024",
+    "180-10145-10280",
+    "178-10003-10090",
+    "202-10001-10187",
+    "104-10174-10038"
+  ],
+  "summary": "Edward R. Murrow is mentioned in the context of memos, notes, and meetings related to individuals, operations, and covert actions, particularly against Cuba. He appears in documents alongside references to individuals like Edward G. Tichborn and Daniel A. Parsons, as well as organizations such as the USIA and CIA. His presence at meetings related to Operation MONGOOSE suggests involvement in discussions regarding sabotage, propaganda, and potential military actions against Cuba in 1962 and 1963. While his specific role and actions are not explicitly detailed, the documents suggest his involvement in these discussions and potential connections to various cases, including the Penkovsky case.",
+  "key_connections": [
+    "Cuba",
+    "Operation MONGOOSE",
+    "CIA",
+    "USIA",
+    "Edward G. Tichborn",
+    "Daniel A. Parsons",
+    "Special Group (Augmented)"
+  ],
+  "significance": "Medium. Edward R. Murrow's presence in documents related to Operation MONGOOSE and discussions about Cuba suggests a level of involvement in relevant activities. While the documents do not explicitly detail his specific actions, his participation in meetings and connections to key individuals and organizations indicate a noteworthy, though not necessarily central, role.",
+  "merged_from_variants": [
+    "Mr. Murrow",
+    "Edward R. Murrow"
+  ]
+}

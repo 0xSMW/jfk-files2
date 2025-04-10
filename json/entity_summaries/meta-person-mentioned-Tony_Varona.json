@@ -1,0 +1,29 @@
+{
+  "entity_name": "Tony_Varona",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "document_ids": [
+    "104-10179-10025",
+    "104-10119-10182",
+    "104-10232-10019",
+    "104-10236-10056",
+    "104-10232-10004",
+    "157-10014-10109",
+    "104-10227-10150"
+  ],
+  "summary": "Tony Varona is mentioned in seven documents related to anti-Castro activities. He is identified as being involved with the AMTIM group in Cuba, with John D. Peters reporting on a meeting with AMRUNG-1, a leader within the group. The documents also suggest potential connections to the CIA and Operation Mongoose, as well as ZRRIFLE, based on William Harvey's testimony regarding assassination plots and contacts with the criminal syndicate. While other documents focus on Dr. MIRO Cardona and anti-Castro operations, including propaganda and commando plans, Varona's direct involvement in these specific operations is not explicitly detailed, but his association with anti-Castro groups suggests a broader role in these efforts.",
+  "key_connections": [
+    "AMTIM group",
+    "AMRUNG-1",
+    "CIA",
+    "Operation Mongoose",
+    "William Harvey",
+    "ZRRIFLE",
+    "MIRO Cardona"
+  ],
+  "significance": "Medium - Tony Varona appears in multiple documents related to anti-Castro activities and potential CIA involvement, suggesting a moderate level of significance within the context of these documents. While not directly implicated in assassination plots, his association with key figures and groups involved in such activities warrants attention.",
+  "merged_from_variants": [
+    "VARONA",
+    "Tony Varona"
+  ]
+}

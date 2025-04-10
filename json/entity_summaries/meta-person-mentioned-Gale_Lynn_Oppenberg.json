@@ -1,0 +1,27 @@
+{
+  "entity_name": "Gale_Lynn_Oppenberg",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10060-10493",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10079",
+    "180-10125-10081",
+    "180-10125-10078",
+    "180-10125-10077"
+  ],
+  "summary": "Gale Lynn Oppenberg was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from at least December 1977 to January 1979. Her employment is documented in payroll certifications, reports, authorization forms, and memos, which detail her position, annual salary, and pay period earnings. These records, including a Final Determination Notification from the Assassination Records Review Board, primarily serve to verify her employment and compensation during her tenure with the HSCA and its predecessor, the Select Committee on Assassinations (SCA).",
+  "key_connections": [
+    "U.S. House of Representatives",
+    "House Select Committee on Assassinations (HSCA)",
+    "Select Committee on Assassinations",
+    "Assassination Records Review Board"
+  ],
+  "significance": "Medium. Gale Lynn Oppenberg's significance lies in her employment with the HSCA and SCA, as evidenced by multiple payroll documents. While the documents primarily confirm her employment, her role within these committees investigating the JFK assassination suggests a moderate level of importance within the context of the source material.",
+  "merged_from_variants": [
+    "Gale Lynn Oppenberg",
+    "OPPENBERG, GALE LYNN"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "entity_name": "Dan_L_Hardway",
+  "entity_type": "person-mentioned",
+  "document_count": 17,
+  "document_ids": [
+    "180-10060-10438",
+    "104-10188-10002",
+    "104-10182-10057",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10143-10072",
+    "104-10194-10023",
+    "180-10143-10100",
+    "180-10125-10077",
+    "180-10060-10473",
+    "180-10125-10172",
+    "104-10061-10207",
+    "180-10110-10121",
+    "180-10068-10350",
+    "180-10131-10329",
+    "180-10125-10078",
+    "180-10070-10173"
+  ],
+  "summary": "Dan L. Hardway was a staff member of the House Select Committee on Assassinations (HSCA) from approximately April 1978 to January 1979, as evidenced by payroll records and memoranda. His work with the HSCA involved the investigation of CIA activities related to Lee Harvey Oswald and Cuban operations in Mexico City in 1963. He was involved in reviewing and analyzing information, including AM/CLOSET tapes, transcripts, and cables, pertaining to Oswald's activities prior to the Kennedy assassination, and background checks were conducted on him as part of his role.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Lee Harvey Oswald",
+    "CIA",
+    "AM/CLOSET tapes",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium - Dan L. Hardway's role as a staff member of the HSCA, specifically his involvement in investigating CIA activities related to Lee Harvey Oswald, suggests a moderate level of significance within the context of the JFK assassination documents. His work involved analyzing key evidence and information.",
+  "merged_from_variants": [
+    "HARDWAY, DAN L",
+    "Dan L. Hardway",
+    "Hardway",
+    "Dan Hardway"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "entity_name": "SAC_Los_Angeles",
+  "entity_type": "sender",
+  "document_count": 15,
+  "document_ids": [
+    "124-10223-10070",
+    "124-10223-10079",
+    "124-10223-10068",
+    "124-10223-10071",
+    "124-10223-10077",
+    "124-10223-10087",
+    "124-10223-10086",
+    "124-10223-10088",
+    "124-10223-10064",
+    "124-10223-10082",
+    "124-10223-10074",
+    "124-10223-10164",
+    "124-10223-10169",
+    "124-10223-10076",
+    "124-10223-10083"
+  ],
+  "summary": "The Special Agent in Charge (SAC) of the FBI's Los Angeles field office was actively involved in the investigation and surveillance of John Rosselli during the early 1960s. The SAC, Los Angeles, directed and oversaw the gathering and dissemination of intelligence regarding Rosselli's activities, whereabouts, and associations within the Los Angeles area. This included monitoring his meetings, financial transactions, and possible attempts to influence legal matters. The SAC, LA coordinated surveillance efforts, gathered information from various sources, and reported findings to the FBI Director and, in some instances, the SAC in Las Vegas.",
+  "key_connections": [
+    "FBI Director",
+    "John Rosselli",
+    "SAC Las Vegas",
+    "Director, FBI",
+    "Sam Giancana",
+    "Hertz Corporation"
+  ],
+  "significance": "Medium. The SAC of the Los Angeles FBI office played a significant role in monitoring John Rosselli, a figure of interest due to his alleged connections to organized crime. The number of documents (15) indicates a sustained interest in Rosselli's activities within the Los Angeles jurisdiction, making the SAC a relevant figure in this context.",
+  "merged_from_variants": [
+    "SAC, LA",
+    "SAC, Los Angeles"
+  ]
+}

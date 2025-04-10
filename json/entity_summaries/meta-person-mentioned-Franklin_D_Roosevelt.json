@@ -1,0 +1,21 @@
+{
+  "entity_name": "Franklin_D_Roosevelt",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "document_ids": [
+    "124-10273-10086_multirif",
+    "124-10274-10001",
+    "124-10186-10049_multirif",
+    "124-10273-10071_multirif",
+    "124-10186-10051_multirif",
+    "124-10186-10054_multirif",
+    "144-10001-10351"
+  ],
+  "summary": "The documents provided primarily concern the Senate Select Committee's (SSC) investigation into intelligence activities during the 1970s, specifically focusing on FBI domestic intelligence investigations. These documents do not contain information directly pertaining to Franklin D. Roosevelt or his involvement in the JFK assassination. While one document includes a Turkish intelligence report summarizing Finnish reactions to President Kennedy's assassination and initial assessments of Lyndon B. Johnson's succession, none of the documents provide any information about Franklin D. Roosevelt's role, connections, or timeline of involvement related to the JFK assassination.",
+  "key_connections": [],
+  "significance": "Low. Franklin D. Roosevelt is mentioned in documents related to the JFK assassination investigation, but the documents themselves do not contain any information about his involvement or connection to the event. His mention appears incidental within the broader context of intelligence activities and reactions to Kennedy's assassination.",
+  "merged_from_variants": [
+    "Franklin Roosevelt",
+    "Franklin D. Roosevelt"
+  ]
+}

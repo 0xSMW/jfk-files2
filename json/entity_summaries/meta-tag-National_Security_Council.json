@@ -1,0 +1,35 @@
+{
+  "entity_name": "National_Security_Council",
+  "entity_type": "tag",
+  "document_count": 8,
+  "document_ids": [
+    "178-10003-10176",
+    "124-10273-10053",
+    "157-10014-10100",
+    "157-10014-10117",
+    "198-10004-10076",
+    "104-10306-10016",
+    "206-10001-10016",
+    "176-10011-10152"
+  ],
+  "summary": "The National Security Council (NSC) served as a central authority in shaping and approving covert actions and national security policies, particularly during the early 1960s and mid-1970s. The NSC's involvement spanned various global hotspots, including Cuba, Vietnam, and Korea, and countries in South America. The documents highlight the NSC's role in overseeing and coordinating covert activities conducted by the CIA and other agencies, including deliberations and decision-making related to sensitive issues such as potential assassinations of foreign leaders like Trujillo, Castro, and Lumumba, as well as managing the containment of communism during the Cold War. The NSC also played a role in managing information and briefings related to intelligence operations and served as a point of contact for other government agencies, such as the FBI, regarding the release of sensitive documents to congressional committees.",
+  "key_connections": [
+    "Cuba",
+    "Castro",
+    "Trujillo",
+    "Lumumba",
+    "Korea",
+    "Vietnam",
+    "CIA",
+    "FBI",
+    "President Kennedy",
+    "Soviet Union",
+    "Senate Select Committee (Church Committee)",
+    "Senator Walter Mondale"
+  ],
+  "significance": "High - The National Security Council appears to be a significant entity, given its involvement in covert operations, national security policy, and foreign policy decisions during a critical period. Its presence in 8 documents and its connection to key events and figures suggest a central role in the events covered by these documents.",
+  "merged_from_variants": [
+    "NSC",
+    "National Security Council"
+  ]
+}

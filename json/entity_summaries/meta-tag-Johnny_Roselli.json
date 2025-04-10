@@ -1,0 +1,41 @@
+{
+  "entity_name": "Johnny_Roselli",
+  "entity_type": "tag",
+  "document_count": 17,
+  "document_ids": [
+    "124-10223-10073",
+    "124-10223-10068",
+    "104-10121-10342",
+    "124-10223-10077",
+    "124-10223-10164",
+    "124-10223-10086",
+    "124-10223-10088",
+    "178-10002-10215",
+    "104-10121-10341",
+    "124-10223-10067",
+    "124-10223-10121",
+    "157-10002-10106",
+    "180-10117-10032",
+    "104-10122-10141",
+    "157-10011-10048",
+    "180-10145-10446",
+    "124-10223-10083"
+  ],
+  "summary": "Johnny Roselli, also known as \"Handsome Johnny\", was a prominent figure in organized crime whose activities were investigated by the FBI, particularly in Los Angeles and Las Vegas during the early 1960s. These investigations encompassed potential disruptions of movie filming involving Frank Sinatra, scrutiny of his bank accounts and phone calls, and his associations with figures like Judith E. Campbell and Sam Giancana. The FBI also tracked his movements and contacts, including a possible trip to San Diego with Natalie V. Loughran and conversations at the Friar's Club. Roselli is also mentioned in connection to CIA operations, specifically plots against Fidel Castro between 1960 and 1963, placing him within a network of individuals involved in sensitive assignments and covert operations. While the documents do not explicitly detail his direct involvement in the JFK assassination, his association with individuals like Robert Maheu and William Harvey, who were central to these CIA operations, suggests a possible, though indirect, link to the events surrounding the assassination.",
+  "key_connections": [
+    "Judith E. Campbell",
+    "Sam Giancana",
+    "Fidel Castro",
+    "Robert A. Maheu",
+    "CIA",
+    "Frank Sinatra",
+    "William K. Harvey",
+    "Natalie V. Loughran",
+    "Eugene Michael Carrafa"
+  ],
+  "significance": "Medium. Johnny Roselli appears in a significant number of documents (17), indicating a notable presence within the JFK assassination documents. His connections to both organized crime and CIA activities, particularly the plots against Fidel Castro, suggest a potential, albeit indirect, relevance to the events surrounding the assassination. While not directly implicated in the assassination itself, his involvement in covert operations and associations with key figures warrant attention.",
+  "merged_from_variants": [
+    "John Roselli",
+    "Johnny Roselli"
+  ]
+}

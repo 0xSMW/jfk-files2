@@ -1,0 +1,37 @@
+{
+  "entity_name": "J_Patrick_Coyne",
+  "entity_type": "person-mentioned",
+  "document_count": 15,
+  "document_ids": [
+    "206-10001-10002",
+    "124-10325-10318",
+    "206-10001-10012",
+    "206-10001-10007",
+    "104-10302-10000",
+    "104-10118-10427",
+    "206-10001-10013",
+    "206-10001-10014",
+    "206-10001-10000",
+    "206-10001-10001",
+    "206-10001-10004",
+    "206-10001-10017",
+    "206-10001-10005",
+    "206-10001-10016",
+    "206-10001-10006"
+  ],
+  "summary": "J. Patrick Coyne is mentioned in documents spanning from 1962 to 1964, primarily in the context of the President's Foreign Intelligence Advisory Board (PFIAB) meetings. While his specific role is not explicitly detailed, his presence in these meetings suggests involvement in discussions concerning intelligence matters, including CIA activities, covert operations, national reconnaissance programs, and intelligence operations related to Cuba, Vietnam, and the Soviet Union. He participated in high-level discussions with the Director of Central Intelligence and other key figures.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "CIA",
+    "Cuba",
+    "Vietnam",
+    "Director of Central Intelligence (DCI)",
+    "John McCone",
+    "McGeorge Bundy"
+  ],
+  "significance": "Medium. J. Patrick Coyne's involvement in PFIAB meetings during a critical period (1962-1964) suggests he held a position of some importance within the intelligence community, though his precise role remains unclear based on the provided summaries. The number of documents (15) indicates a consistent presence in these discussions.",
+  "merged_from_variants": [
+    "Coyne",
+    "J. Patrick Coyne"
+  ]
+}

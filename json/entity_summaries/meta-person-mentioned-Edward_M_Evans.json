@@ -1,0 +1,26 @@
+{
+  "entity_name": "Edward_M_Evans",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078",
+    "180-10125-10107"
+  ],
+  "summary": "Edward M Evans was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from 1977 to 1978. Payroll and certification reports confirm his employment during this period, detailing his name, position, salary, and pay period earnings. His consistent presence in these documents indicates continuous employment throughout the HSCA's investigation into the JFK assassination.",
+  "key_connections": [
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Edward M Evans's employment with the HSCA during its investigation into the JFK assassination suggests a moderate level of significance. While not a central figure, his presence in multiple payroll documents indicates a consistent role within the committee's staff.",
+  "merged_from_variants": [
+    "EVANS, EDWARD M",
+    "Edward M Evans"
+  ]
+}

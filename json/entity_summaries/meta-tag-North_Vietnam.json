@@ -1,0 +1,36 @@
+{
+  "entity_name": "North_Vietnam",
+  "entity_type": "tag",
+  "document_count": 12,
+  "document_ids": [
+    "104-10306-10003",
+    "104-10063-10266",
+    "104-10306-10024",
+    "178-10003-10001",
+    "104-10306-10021",
+    "176-10036-10088",
+    "176-10036-10129",
+    "176-10037-10460",
+    "104-10073-10105",
+    "104-10290-10190",
+    "104-10306-10010",
+    "104-10303-10007"
+  ],
+  "summary": "North Vietnam, also known as the Democratic Republic of Vietnam (DRV), was a communist state whose activities were of significant interest to the CIA during the Vietnam War era. Documents reveal North Vietnam's involvement in covert operations, reconnaissance, and psychological warfare, particularly during the early to mid-1960s, aimed at weakening DRV security and diverting resources from South Vietnam. These activities included planning for potential reoccupation and intelligence gathering from former residents. The CIA also monitored potential visits to the DRV by American trade union representatives and faced challenges in maintaining contact with Vietnamese officials. The timeline spans from at least 1962 to 1973, highlighting a consistent focus on covert actions and intelligence gathering.",
+  "key_connections": [
+    "CIA",
+    "South Vietnam",
+    "Cambodia",
+    "MHCHAOS",
+    "GVN (Government of Vietnam)",
+    "James Hoffa",
+    "Harold Gibbons",
+    "William Taub",
+    "MACV (Military Assistance Command, Vietnam)"
+  ],
+  "significance": "High - North Vietnam is a central figure in the Vietnam War, and the documents reveal significant CIA interest in its activities, including covert operations and intelligence gathering. The monitoring of potential visits by American citizens also indicates a high level of concern.",
+  "merged_from_variants": [
+    "DRV",
+    "North Vietnam"
+  ]
+}

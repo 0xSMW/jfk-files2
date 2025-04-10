@@ -1,0 +1,36 @@
+{
+  "entity_name": "Operation_Mongoose",
+  "entity_type": "tag",
+  "document_count": 13,
+  "document_ids": [
+    "104-10103-10079",
+    "178-10004-10054",
+    "104-10306-10020",
+    "178-10003-10090",
+    "157-10011-10009",
+    "178-10004-10148",
+    "202-10001-10187",
+    "104-10102-10224",
+    "157-10011-10007",
+    "104-10301-10000",
+    "157-10011-10003",
+    "104-10307-10024",
+    "157-10011-10000"
+  ],
+  "summary": "Operation Mongoose was a covert CIA operation authorized in November 1961, aimed at destabilizing and potentially overthrowing the Cuban government under Fidel Castro. The operation, which spanned from 1961 to 1963, involved a range of activities including sabotage, psychological warfare, intelligence gathering, economic pressure, and exploring the potential use of biological agents to disrupt Cuban agriculture. Discussions and planning for Mongoose were frequently conducted within the Special Group (Augmented), which included high-level government officials. Operational plans focused on intelligence gathering, economic pressure, psychological warfare, and potential support for internal resistance, adjusted in response to the post-missile crisis environment. The operation involved efforts to isolate and discredit the Castro regime, while also exploiting potential splits within the Cuban government. The Special Group on Mongoose met to discuss these actions, with oversight from the DCI and the PFIAB.",
+  "key_connections": [
+    "Cuba",
+    "Fidel Castro",
+    "CIA",
+    "Special Group on Mongoose",
+    "Special Group Augmented",
+    "DCI (Director of Central Intelligence)",
+    "Cuban Missile Crisis",
+    "William Harvey"
+  ],
+  "significance": "High. Operation Mongoose was a significant covert operation involving high-level government officials and a wide range of activities aimed at destabilizing the Cuban government. Its connection to the Cuban Missile Crisis and the high number of associated documents suggest a substantial role in Cold War tensions.",
+  "merged_from_variants": [
+    "Mongoose",
+    "Operation MONGOOSE"
+  ]
+}

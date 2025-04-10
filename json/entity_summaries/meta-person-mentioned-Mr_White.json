@@ -1,0 +1,22 @@
+{
+  "entity_name": "Mr_White",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "document_ids": [
+    "104-10059-10218",
+    "124-10274-10001",
+    "104-10130-10472",
+    "157-10002-10148",
+    "104-10161-10115",
+    "206-10001-10001",
+    "157-10002-10150",
+    "124-10273-10071_multirif"
+  ],
+  "summary": "Based on the provided documents, there is insufficient information to provide a comprehensive summary about Mr. White. While the documents mention topics such as Senate Select Committee investigations, CIA activities (including mail opening projects), the Wackenhut Corporation, FBI responses to Senate Select Committee requests, cancellation of military cover, requests for documentation related to counterintelligence operations, and meetings of the President's Foreign Intelligence Advisory Board, none of them explicitly detail who Mr. White is, his role, or his connections to the JFK assassination. Therefore, a meaningful summary cannot be constructed from the given information.",
+  "key_connections": [],
+  "significance": "Low. Despite being mentioned in 8 documents, the available summaries indicate a lack of explicit information about Mr. White's role or connections to the JFK assassination or other significant events. The documents mention various topics, but Mr. White's involvement, if any, is not clear from the summaries.",
+  "merged_from_variants": [
+    "White",
+    "Mr. White"
+  ]
+}

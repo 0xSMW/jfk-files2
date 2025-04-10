@@ -1,0 +1,37 @@
+{
+  "entity_name": "Samuel_Halpern",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "document_ids": [
+    "157-10002-10087",
+    "104-10324-10000",
+    "157-10011-10006",
+    "104-10324-10002",
+    "157-10011-10009",
+    "104-10173-10132",
+    "157-10002-10001",
+    "157-10011-10007",
+    "104-10122-10141",
+    "104-10173-10130",
+    "104-10110-10245",
+    "104-10216-10100"
+  ],
+  "summary": "Samuel Halpern, also known as Sam Halpern and simply as Halpern, was a CIA operative deeply involved in sensitive Cold War operations. His involvement is documented in connection with Operation Mongoose, a covert program aimed at destabilizing or overthrowing Fidel Castro's Cuban government. Halpern testified before the SSCIA in 1975 regarding this operation, including discussions about 'getting rid of Castro' and the involvement of General Lansdale. He also appears in documents related to assassination plots against Fidel Castro and Patrice Lumumba. Additionally, Halpern was interviewed in 1987 and 1998 concerning Congressional investigations, the Bay of Pigs, and changes within the CIA. He is further linked to CIA operations involving Manuel Artime and the E. Howard Hunt investigation.",
+  "key_connections": [
+    "Operation Mongoose",
+    "Fidel Castro",
+    "Castro",
+    "General Lansdale",
+    "Patrice Lumumba",
+    "E. Howard Hunt",
+    "Manuel Artime",
+    "Robert A. Maheu",
+    "Bay of Pigs"
+  ],
+  "significance": "High. Samuel Halpern's involvement in Operation Mongoose and other sensitive CIA activities, including potential assassination plots, suggests a significant role within the agency during the Cold War. The number of documents mentioning him and his testimony before the SSCIA further underscore his importance.",
+  "merged_from_variants": [
+    "Samuel Halpern",
+    "Halpern",
+    "Sam Halpern"
+  ]
+}

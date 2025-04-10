@@ -1,0 +1,40 @@
+{
+  "entity_name": "Howard_J_Osborn",
+  "entity_type": "person-mentioned",
+  "document_count": 15,
+  "document_ids": [
+    "157-10011-10078",
+    "104-10222-10041",
+    "157-10002-10148",
+    "104-10305-10000",
+    "206-10001-10007",
+    "206-10001-10000",
+    "104-10059-10099",
+    "104-10120-10373",
+    "180-10111-10051",
+    "180-10145-10409",
+    "180-10143-10233",
+    "104-10123-10219",
+    "180-10143-10222",
+    "157-10002-10150",
+    "104-10172-10264"
+  ],
+  "summary": "Howard J. Osborn served as the Director of Security for the CIA, overseeing key personnel assignments and covert security approvals. He testified about CIA mail opening projects, including SR POINTER and West Pointer, acknowledging unauthorized mail openings with the awareness of higher-ups. His role also involved the CIA's Office of Security activities, such as electronic and physical surveillance, Watergate contacts, covert informers, and cooperation with local police. Osborn's involvement extended to discussions within the President's Foreign Intelligence Advisory Board (PFIAB) in 1964, concerning intelligence operations and assessments. While not directly linked to the JFK assassination in the provided documents, his presence in intelligence discussions during that period suggests a potential indirect connection to the broader intelligence context.",
+  "key_connections": [
+    "CIA",
+    "Office of Security",
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Robert West Pugh",
+    "James W. McCord, Jr.",
+    "FBI",
+    "Lucien Conein",
+    "Arthur R. Schwickrath",
+    "Mr. Helms"
+  ],
+  "significance": "Medium - Howard J. Osborn held a significant position within the CIA as Director of Security and was involved in sensitive intelligence matters. His presence in PFIAB meetings and his testimony regarding controversial CIA activities indicate his importance within the agency. While not directly implicated in the JFK assassination, his role places him within the broader intelligence landscape of the time.",
+  "merged_from_variants": [
+    "Howard J. Osborn",
+    "Howard Osborne",
+    "Howard Osborn"
+  ]
+}

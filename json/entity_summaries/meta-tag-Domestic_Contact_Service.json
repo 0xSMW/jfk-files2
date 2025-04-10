@@ -1,0 +1,36 @@
+{
+  "entity_name": "Domestic_Contact_Service",
+  "entity_type": "tag",
+  "document_count": 12,
+  "document_ids": [
+    "104-10105-10285",
+    "104-10165-10084",
+    "104-10070-10296",
+    "104-10120-10354",
+    "104-10069-10359",
+    "104-10219-10003",
+    "104-10069-10112",
+    "104-10248-10203",
+    "104-10110-10568",
+    "104-10069-10120",
+    "104-10069-10177",
+    "104-10221-10022"
+  ],
+  "summary": "The Domestic Contact Service (DCS), sometimes referred to as the Contact Division, was a component of the CIA involved in cultivating relationships with individuals and organizations, both domestic and foreign, for intelligence gathering and other operational purposes. This included establishing relationships with individuals from diverse backgrounds, including businessmen like Dwayne Orville Andreas, who served as a Principal Officer for a CIA funding mechanism, and Cuban refugee groups. The DCS conducted security checks and assessed individuals like Rogelio Wenceslao Cisneros Diaz and Hugh C. McDonald and his company, World Associates, Inc., for potential utilization. The Contact Division also appears to have been involved in tracking individuals of interest, such as Maurice Halperin, and utilizing organizations like the Research Institute of America for agent cover and assessing entities like Hargrave Secret Service for cover purposes. The activities of the DCS supported various CIA objectives, including intelligence gathering, cover operations, and anti-communist activities.",
+  "key_connections": [
+    "Dwayne Orville Andreas",
+    "Rogelio Wenceslao Cisneros Diaz",
+    "Hugh C. McDonald",
+    "World Associates, Inc.",
+    "Maurice Halperin",
+    "Research Institute of America (RIA)",
+    "Hargrave Secret Service",
+    "Cuban refugee groups",
+    "PRAEGER Publishing Corporation"
+  ],
+  "significance": "Medium. The Domestic Contact Service appears in a moderate number of documents and its activities are directly related to CIA intelligence gathering and operational activities within the United States. Its connections to various individuals and organizations suggest a significant role in the CIA's domestic operations.",
+  "merged_from_variants": [
+    "Domestic Contact Service",
+    "Contact Division"
+  ]
+}

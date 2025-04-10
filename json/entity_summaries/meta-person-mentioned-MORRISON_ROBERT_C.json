@@ -1,0 +1,27 @@
+{
+  "entity_name": "MORRISON_ROBERT_C",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078",
+    "180-10125-10077",
+    "180-10125-10107"
+  ],
+  "summary": "Robert C. Morrison was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from 1977 to 1979. Payroll and certification reports document his employment, listing his position, salary, and employment dates. These records indicate his involvement with the HSCA during its investigation into the JFK assassination.",
+  "key_connections": [
+    "Select Committee on Assassinations (HSCA)",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Robert C. Morrison's significance lies in his employment with the HSCA during its investigation into the JFK assassination. While the documents available are primarily payroll records, his presence on the committee's staff suggests a role in the investigation, making him a relevant figure within the context of these documents.",
+  "merged_from_variants": [
+    "MORRISON, ROBERT C",
+    "Robert C Morrison"
+  ]
+}

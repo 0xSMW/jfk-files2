@@ -1,0 +1,34 @@
+{
+  "entity_name": "Australian_Security_Intelligence_Organization",
+  "entity_type": "tag",
+  "document_count": 9,
+  "document_ids": [
+    "104-10408-10415",
+    "104-10107-10089",
+    "104-10012-10078",
+    "104-10106-10421",
+    "104-10320-10038",
+    "104-10009-10222",
+    "104-10320-10039",
+    "104-10012-10079",
+    "104-10408-10416"
+  ],
+  "summary": "The Australian Security Intelligence Organization (ASIO) played a role in the declassification of Warren Commission documents related to the JFK assassination. Specifically, Sir Charles Spry of ASIO advised against the declassification of document CD-971, which concerned an investigation into anonymous telephone calls to the Canberra Embassy before and after President Kennedy's assassination. This recommendation was acknowledged by Richard Helms of the CIA. ASIO, through Leslie V. Jarvis, also facilitated a request from Australian Justice A.R. Moffitt for information on Herbert Itkin in connection with an inquiry into organized crime in New South Wales. These documents highlight ASIO's collaborative relationship with US intelligence agencies, such as the CIA and FBI, regarding sensitive information related to the JFK assassination and subsequent investigations.",
+  "key_connections": [
+    "Sir Charles Spry",
+    "Warren Commission document CD-971",
+    "Richard Helms",
+    "CIA",
+    "FBI",
+    "Australian Justice A.R. Moffitt",
+    "Herbert Itkin",
+    "Leslie V. Jarvis",
+    "Canberra Embassy",
+    "Warren Commission"
+  ],
+  "significance": "Medium. ASIO's involvement in the declassification process and its role as a liaison between Australian and US intelligence agencies regarding the JFK assassination documents suggests a moderate level of significance. While not directly involved in the assassination itself, its handling of sensitive information and collaboration with US agencies places it as a relevant entity in the context of these historical documents.",
+  "merged_from_variants": [
+    "Australian Security Intelligence Organization",
+    "ASIO"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "entity_name": "Military_Service",
+  "entity_type": "tag",
+  "document_count": 9,
+  "document_ids": [
+    "180-10078-10492",
+    "194-10005-10140",
+    "194-10004-10380",
+    "194-10007-10426",
+    "104-10333-10014",
+    "194-10007-10417",
+    "104-10224-10008",
+    "180-10113-10246",
+    "180-10072-10186"
+  ],
+  "summary": "Military service is a recurring theme within these documents, often appearing in the context of investigations and personnel records. Several individuals' military service is examined, including Lee Harvey Oswald's time in the Marines and Jeremy K. Benadum's service verification for the CIA. The documents also touch upon potential exploitation related to military service, such as Victor L. Trinkala's underage enlistment and conscientious objector status. Furthermore, military records are considered significant in understanding the backgrounds and activities of individuals connected to the JFK assassination, with the Assassination Records Review Board (ARRB) seeking to declassify records related to U.S. policy toward Cuba. The documents also mention Manuel Marti leaving his job for military service and Robert Scheer refusing to complete an Armed Forces Security Questionnaire.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Victor L. Trinkala",
+    "Jeremy K. Benadum",
+    "Richard Dennis Call",
+    "Assassination Records Review Board (ARRB)",
+    "U.S. policy toward Cuba (1962-64)",
+    "Manuel Marti",
+    "Robert Scheer",
+    "Lawrence Huber Florer"
+  ],
+  "significance": "High - Military service records and related information are crucial for understanding the backgrounds, activities, and potential connections of individuals involved in the JFK assassination and related investigations. The ARRB's interest in declassifying military records further emphasizes its importance.",
+  "merged_from_variants": [
+    "Military Service",
+    "Military Records"
+  ]
+}

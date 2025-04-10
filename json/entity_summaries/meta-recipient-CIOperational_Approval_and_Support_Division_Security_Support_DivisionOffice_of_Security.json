@@ -1,0 +1,38 @@
+{
+  "entity_name": "CIOperational_Approval_and_Support_Division_Security_Support_DivisionOffice_of_Security",
+  "entity_type": "recipient",
+  "document_count": 13,
+  "document_ids": [
+    "104-10162-10121",
+    "104-10241-10249",
+    "104-10418-10202",
+    "104-10119-10040",
+    "104-10106-10312",
+    "104-10119-10182",
+    "104-10122-10291",
+    "104-10150-10004",
+    "104-10121-10366",
+    "104-10096-10048",
+    "104-10105-10102",
+    "157-10004-10270",
+    "104-10122-10307"
+  ],
+  "summary": "The CI/Operational Approval and Support Division, Security Support Division/Office of Security, and the Director of Security collectively functioned as a key recipient within the CIA for operational and security approvals, memoranda, and investigative reports from 1959 to 1976. This entity was involved in vetting individuals for covert operations, assessing security risks, conducting record checks, and providing clearances, particularly for projects related to Cuba. They also handled sensitive matters related to defectors like Yurily Ivanovich Nosenko and foreign dignitaries, ensuring the protection of sensitive information and coordinating with other departments and external bodies like the Senate Select Committee on Intelligence.",
+  "key_connections": [
+    "Yuriy Ivanovich Nosenko",
+    "Senate Select Committee on Intelligence",
+    "CIA",
+    "Cuba",
+    "KGB",
+    "Herbert Itkin",
+    "Edward P. Morgan",
+    "Lyon L. Tyler",
+    "Allen Dulles"
+  ],
+  "significance": "High. This entity played a crucial role in security and operational approvals within the CIA during a significant period, handling sensitive cases and coordinating with various departments and external bodies. The number of documents (13) and the nature of the entity's responsibilities suggest a high level of involvement in important CIA activities.",
+  "merged_from_variants": [
+    "Office of Security",
+    "CI/Operational Approval and Support Division, Security Support Division/Office of Security",
+    "Director of Security"
+  ]
+}

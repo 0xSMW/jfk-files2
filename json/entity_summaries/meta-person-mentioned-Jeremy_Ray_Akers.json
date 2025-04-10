@@ -1,0 +1,30 @@
+{
+  "entity_name": "Jeremy_Ray_Akers",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "document_ids": [
+    "180-10125-10093",
+    "180-10125-10086",
+    "180-10068-10310",
+    "180-10125-10106",
+    "180-10060-10440",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10092",
+    "180-10060-10494",
+    "180-10125-10107"
+  ],
+  "summary": "Jeremy Ray Akers was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from 1977 to 1978. Payroll and certification reports confirm his employment during this period, listing his name, position, and salary. While the specific role and responsibilities of Akers within the HSCA are not detailed in the provided documents, his consistent presence in payroll records indicates his involvement in the committee's activities during its investigation of the JFK assassination.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations (HSCA)",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium - Jeremy Ray Akers' significance is moderate. He appears in a substantial number of documents (12) as an employee of the HSCA, indicating his involvement in the JFK assassination investigation. However, the documents primarily focus on payroll information, and his specific contributions or role within the committee are not detailed, limiting a higher assessment of significance.",
+  "merged_from_variants": [
+    "Jeremy Ray Akers",
+    "Akers, Jeremy Ray",
+    "Akers"
+  ]
+}

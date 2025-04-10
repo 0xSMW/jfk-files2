@@ -1,0 +1,51 @@
+{
+  "entity_name": "Martin_Luther_King_Jr",
+  "entity_type": "person-mentioned",
+  "document_count": 29,
+  "document_ids": [
+    "104-10431-10102",
+    "124-10184-10237",
+    "104-10065-10386",
+    "104-10066-10260",
+    "104-10071-10139",
+    "135-10001-10288",
+    "104-10071-10041",
+    "124-10274-10358_multirif",
+    "144-10001-10206",
+    "104-10071-10102",
+    "104-10120-10502",
+    "124-10271-10003_multirif",
+    "104-10433-10212",
+    "124-10238-10333_multirif",
+    "124-10271-10299_multirif",
+    "104-10071-10056",
+    "104-10147-10304",
+    "124-10276-10482_multirif",
+    "104-10071-10143",
+    "124-10274-10070",
+    "104-10337-10001",
+    "104-10072-10315",
+    "124-10273-10014_multirif",
+    "124-10271-10011_multirif",
+    "124-10273-10012_multirif",
+    "124-10264-10209_multirif",
+    "104-10305-10005",
+    "124-10271-10003",
+    "104-10012-10035"
+  ],
+  "summary": "Martin Luther King Jr. is a subject of significant scrutiny in these documents, primarily relating to investigations into his activities, associations, and the circumstances surrounding his assassination. The FBI and the Senate Select Committee on Intelligence Activities (SSC) investigated King's alleged communist ties and his relationship with Stanley Levison. The House Select Committee on Assassinations (HSCA) also investigated his assassination, alongside that of President Kennedy, exploring potential connections to various groups. The Cuban media's coverage of King's death is also noted. Intelligence gathering efforts focused on Communist, Castroist, and radical influences within the civil rights movement, potentially spurred by King's assassination.",
+  "key_connections": [
+    "FBI",
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "House Select Committee on Assassinations (HSCA)",
+    "Stanley Levison",
+    "Southern Christian Leadership Conference (SCLC)",
+    "James Earl Ray",
+    "Cuban media"
+  ],
+  "significance": "High - Martin Luther King Jr.'s presence in 29 documents, coupled with the focus on investigations into his activities and assassination, indicates a high level of significance within the context of these source materials. The investigations by multiple committees and agencies underscore his importance.",
+  "merged_from_variants": [
+    "Martin Luther King, Jr.",
+    "Martin Luther King"
+  ]
+}

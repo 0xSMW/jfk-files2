@@ -1,0 +1,24 @@
+{
+  "entity_name": "GENZMAN_ROBERT_W",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10078"
+  ],
+  "summary": "Robert W. Genzman was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA), also known as the Select Committee on Assassinations (SCA). Payroll certifications and reports from 1977 and 1978 document his employment, indicating his presence on the committee's staff during that period. While the specific role or responsibilities of Genzman within the HSCA are not detailed in these documents, his presence on the payroll signifies his involvement in the committee's operations during its investigation into the JFK assassination.",
+  "key_connections": [
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Robert W. Genzman's significance lies in his documented employment with the Select Committee on Assassinations (HSCA) during its investigation into the JFK assassination. While his specific role is not detailed, his presence on the payroll across multiple documents suggests he was a contributing staff member. The document count of 7 further supports his involvement.",
+  "merged_from_variants": [
+    "GENZMAN, ROBERT W",
+    "Robert W Genzman"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "entity_name": "British_Intelligence",
+  "entity_type": "tag",
+  "document_count": 10,
+  "document_ids": [
+    "176-10036-10052",
+    "104-10071-10239",
+    "124-10181-10009",
+    "124-90137-10284",
+    "104-10179-10122",
+    "124-10179-10217",
+    "124-10058-10420",
+    "104-10226-10045",
+    "104-10012-10035",
+    "104-10192-10284"
+  ],
+  "summary": "British Intelligence, including MI-6 and referred to as the British Service, actively monitored and shared information related to Cuban exiles, potential provocateurs, and other individuals of interest to U.S. intelligence agencies between 1961 and 1964. Operating from London, they gathered intelligence on anti-Castro movements, reported on the activities and opinions of key figures like Manolo Ray, and intercepted communications, such as those at the Cuban Embassy. This information was regularly shared with the CIA and FBI, contributing to U.S. investigations related to unauthorized travel to Cuba, claims related to Lee Harvey Oswald, and other matters of mutual interest, including the \"A 7 case\" and an incident involving an American correspondent.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Cuban exiles",
+    "Manolo Ray",
+    "Lee Harvey Oswald",
+    "Cuban Embassy (London)",
+    "Levi Laub",
+    "People's Revolutionary Movement (MRP)"
+  ],
+  "significance": "High - British Intelligence played a significant role in gathering and sharing information with U.S. intelligence agencies during a critical period, particularly concerning Cuban exiles, potential threats, and events related to the Kennedy assassination. Their active monitoring and information sharing suggest a close collaborative relationship and a substantial contribution to U.S. intelligence efforts.",
+  "merged_from_variants": [
+    "British Intelligence",
+    "MI-6",
+    "British Service"
+  ]
+}

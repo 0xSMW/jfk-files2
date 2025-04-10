@@ -1,0 +1,24 @@
+{
+  "entity_name": "Michael_C_Eberhardt",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "document_ids": [
+    "180-10125-10086",
+    "124-10180-10325_multirif",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "124-10180-10323_multirif",
+    "124-10180-10324_multirif"
+  ],
+  "summary": "Michael C. Eberhardt was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from October 1977 to November 1978. Payroll and certification reports confirm his employment, listing his name, position, and salary during this period. While the specific role and involvement of Michael C. Eberhardt within the HSCA, particularly in relation to the JFK assassination investigation, are not detailed in the provided documents, his employment with the committee during a significant period of its operation is confirmed.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Medium. Michael C. Eberhardt's significance is moderate. He was an employee of the HSCA, which is a key entity in the JFK assassination investigation. While his specific role is not detailed, his employment during a crucial period suggests some level of involvement or knowledge, making him a relevant, though not central, figure.",
+  "merged_from_variants": [
+    "Michael C Eberhardt",
+    "Michael Eberhardt"
+  ]
+}

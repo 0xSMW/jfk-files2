@@ -1,0 +1,33 @@
+{
+  "entity_name": "Bernard_L_Barker",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "document_ids": [
+    "104-10256-10268",
+    "104-10120-10354",
+    "135-10001-10288",
+    "104-10052-10130",
+    "104-10256-10283",
+    "104-10256-10273",
+    "104-10061-10115",
+    "104-10221-10021",
+    "104-10221-10020"
+  ],
+  "summary": "Bernard L. Barker is identified as an individual connected to the Watergate scandal and potentially associated with the CIA. The documents suggest his involvement in the Watergate break-in and related investigations, specifically referencing CIA connections to individuals and organizations involved. He is also linked to information provided by the CIA to the FBI regarding the Watergate incident. References to Roberto Cardenas and IUSTEER-1 suggest potential involvement in other operations. The timeline spans from 1963 to 1975, with a focus on events surrounding the Watergate scandal in the early 1970s.",
+  "key_connections": [
+    "Watergate Incident",
+    "CIA",
+    "FBI",
+    "Roberto Cardenas",
+    "IUSTEER-1",
+    "Virgilio Gonzales",
+    "James McCord",
+    "Eugenio Martinez",
+    "Frank Sturgis"
+  ],
+  "significance": "High - Bernard L. Barker appears to be a significant figure due to his connection to the Watergate scandal and potential ties to the CIA, as evidenced by multiple documents. His involvement in the Watergate break-in and related investigations suggests a prominent role within the context of the source material.",
+  "merged_from_variants": [
+    "Barker",
+    "Bernard L. Barker"
+  ]
+}

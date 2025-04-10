@@ -1,0 +1,42 @@
+{
+  "entity_name": "T_Jeremy_Gunn",
+  "entity_type": "person-mentioned",
+  "document_count": 22,
+  "document_ids": [
+    "104-10332-10002",
+    "104-10332-10022",
+    "104-10331-10154",
+    "104-10333-10014",
+    "104-10335-10008",
+    "144-10001-10287",
+    "104-10332-10008",
+    "104-10331-10118",
+    "104-10332-10016",
+    "104-10335-10001",
+    "104-10332-10014",
+    "104-10336-10000",
+    "104-10331-10338",
+    "104-10333-10013",
+    "104-10331-10139",
+    "104-10333-10008",
+    "104-10328-10038",
+    "104-10330-10100",
+    "104-10332-10009",
+    "104-10332-10020",
+    "104-10331-10132",
+    "104-10332-10007"
+  ],
+  "summary": "T. Jeremy Gunn was a member of the Assassination Records Review Board (ARRB) and played a significant role in the declassification and release of records related to the JFK assassination, ensuring compliance with the JFK Assassination Records Collection Act. His work involved requesting information from agencies like the CIA and NSA, addressing concerns about the pace of declassification, and reviewing foreign government information, particularly liaison relationships between the CIA and foreign intelligence services. He also participated in making formal determinations regarding the public disclosure of CIA records related to the assassination, balancing compliance with the JFK Act and national security concerns.",
+  "key_connections": [
+    "Assassination Records Review Board (ARRB)",
+    "CIA",
+    "NSA",
+    "Lee Harvey Oswald",
+    "George Tenet"
+  ],
+  "significance": "High - T. Jeremy Gunn's direct involvement with the ARRB and the declassification of JFK assassination records indicates a high level of significance in the context of these documents. His role in negotiating with agencies like the CIA and NSA further underscores his importance.",
+  "merged_from_variants": [
+    "Jeremy Gunn",
+    "T. Jeremy Gunn"
+  ]
+}

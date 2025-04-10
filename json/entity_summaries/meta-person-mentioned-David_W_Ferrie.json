@@ -1,0 +1,34 @@
+{
+  "entity_name": "David_W_Ferrie",
+  "entity_type": "person-mentioned",
+  "document_count": 14,
+  "document_ids": [
+    "135-10001-10276",
+    "144-10001-10200",
+    "104-10079-10016",
+    "144-10001-10164",
+    "180-10145-10285",
+    "180-10145-10308",
+    "178-10002-10091",
+    "144-10001-10138",
+    "180-10145-10295",
+    "180-10145-10269",
+    "180-10076-10105",
+    "144-10001-10264",
+    "180-10107-10006",
+    "180-10106-10008"
+  ],
+  "summary": "David W. Ferrie was a person of interest in the JFK assassination investigation. He was associated with Lee Harvey Oswald and the Civil Air Patrol Cadets (CAPC) in New Orleans, and documents suggest scrutiny of his possible illegal activities and suspicious conversations. Ferrie was also linked to anti-Castro Cuban groups and individuals, and the Cuban Press Agency requested information about his potential role. The House Select Committee on Assassinations (HSCA) reviewed notes and files related to him, indicating his significance to the investigation.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Civil Air Patrol Cadets (CAPC)",
+    "Anti-Castro Cuban groups",
+    "Cuban Press Agency",
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "High - David W. Ferrie appears in a significant number of documents (14) and is directly linked to the JFK assassination investigation through his associations with Lee Harvey Oswald, anti-Castro groups, and the attention given to him by the HSCA and the Cuban Press Agency.",
+  "merged_from_variants": [
+    "David W. Ferrie",
+    "David Ferrie"
+  ]
+}

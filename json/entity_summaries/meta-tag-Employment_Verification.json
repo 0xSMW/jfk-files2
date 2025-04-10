@@ -1,0 +1,45 @@
+{
+  "entity_name": "Employment_Verification",
+  "entity_type": "tag",
+  "document_count": 18,
+  "document_ids": [
+    "194-10004-10378",
+    "104-10140-10101",
+    "180-10060-10445",
+    "180-10060-10477",
+    "180-10125-10075",
+    "180-10060-10457",
+    "104-10145-10047",
+    "194-10006-10180",
+    "180-10068-10305",
+    "180-10125-10077",
+    "180-10060-10471",
+    "180-10068-10309",
+    "180-10068-10322",
+    "180-10086-10257",
+    "104-10180-10156",
+    "180-10060-10494",
+    "104-10142-10317",
+    "194-10004-10383"
+  ],
+  "summary": "The documents pertain to employment verification and requests, primarily concerning staff members of the House Select Committee on Assassinations (HSCA). This includes verifying employment history through payroll records, contacting previous employers, and reviewing identification forms for individuals such as I. Charles Mathews and Manuel Marti. The Office of Legislative Counsel also handled employment requests as part of its routine activities, alongside other liaison and security tasks. These verifications and requests are likely related to assessing individuals' backgrounds and potential connections relevant to investigations, possibly linked to the JFK assassination.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Office of Legislative Counsel",
+    "I. Charles Mathews",
+    "Manuel Marti",
+    "Lee Harvey Oswald",
+    "Juanita Brown",
+    "William B. Rielly Coffee Co.",
+    "Robert Scheer",
+    "Senate Select Committee on Intelligence",
+    "Joseph Kiel",
+    "Richard Newcombe Billings"
+  ],
+  "significance": "Medium - Employment verification is a recurring process within the documents, particularly in relation to individuals connected to the HSCA and potentially the JFK assassination investigation. While not a primary focus, the frequency of its occurrence across 18 documents suggests a notable role in background checks and establishing connections.",
+  "merged_from_variants": [
+    "Employment Requests",
+    "Employment",
+    "Employment Verification"
+  ]
+}

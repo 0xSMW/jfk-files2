@@ -1,0 +1,30 @@
+{
+  "entity_name": "Department_of_Justice",
+  "entity_type": "tag",
+  "document_count": 7,
+  "document_ids": [
+    "104-10178-10096",
+    "104-10129-10034",
+    "178-10004-10148",
+    "104-10221-10022",
+    "104-10227-10000",
+    "104-10104-10094",
+    "124-10274-10011 (c06716583)"
+  ],
+  "summary": "The Department of Justice (DOJ) plays a significant role in legal oversight, investigations, and coordination related to CIA and FBI activities. Its involvement spans from investigating potential illegal activities, such as a planned Haitian invasion and narcotics indictments, to providing legal justifications for actions like the confinement of Yuriy Nosenko. The DOJ also coordinates on projects like Project Liberty and addresses concerns related to the potential disclosure of classified information. Its activities often intersect with CIA operations, requiring collaboration and oversight.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Project Liberty",
+    "Yuriy Ivanovich Nosenko",
+    "Albert Larrain Maestre",
+    "Frank \"Lefty\" Rosenthal",
+    "Rolando Masferrer",
+    "Mitchell Livingston Werbell III"
+  ],
+  "significance": "Medium - The Department of Justice appears in a moderate number of documents. Its involvement in investigating potential illegal activities related to the CIA and providing legal oversight suggests a notable, but not central, role in the context of these documents.",
+  "merged_from_variants": [
+    "Justice Department",
+    "Department of Justice"
+  ]
+}

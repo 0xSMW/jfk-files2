@@ -1,0 +1,36 @@
+{
+  "entity_name": "James_Garrison",
+  "entity_type": "person-mentioned",
+  "document_count": 13,
+  "document_ids": [
+    "104-10332-10023",
+    "124-10271-10299",
+    "104-10326-10101",
+    "144-10001-10200",
+    "104-10079-10016",
+    "104-10305-10000",
+    "104-10176-10067",
+    "178-10002-10091",
+    "144-10001-10138",
+    "104-10104-10262",
+    "104-10170-10171",
+    "104-10418-10041",
+    "144-10001-10264"
+  ],
+  "summary": "James Garrison, the District Attorney of New Orleans, conducted an independent investigation into the assassination of President John F. Kennedy, starting around 1967 and continuing through 1978. His investigation centered on the belief that the assassination was the result of a conspiracy extending beyond Lee Harvey Oswald, and his interest in individuals like David Ferrie and Gordon Novel drew the attention of agencies such as the CIA and FBI. The CIA monitored Novel's claims of CIA affiliation in relation to Garrison's investigation. Garrison's work also prompted inquiries from Congressional review committees and is relevant to the JFK Assassination Records Collection Act of 1992. He was also contacted by the Bertrand Russell Peace Foundation to write about the Kennedy assassination.",
+  "key_connections": [
+    "JFK Assassination Records Collection Act of 1992",
+    "Lee Harvey Oswald",
+    "CIA",
+    "FBI",
+    "David Ferrie",
+    "Gordon Novel",
+    "Bertrand Russell Peace Foundation",
+    "Senate Select Committee"
+  ],
+  "significance": "High - James Garrison's independent investigation into the JFK assassination, his focus on potential conspiracies, and the resulting attention from various agencies and Congressional committees indicate a high level of significance. The enduring relevance of his work is underscored by its connection to the JFK Assassination Records Collection Act.",
+  "merged_from_variants": [
+    "Jim Garrison",
+    "James Garrison"
+  ]
+}

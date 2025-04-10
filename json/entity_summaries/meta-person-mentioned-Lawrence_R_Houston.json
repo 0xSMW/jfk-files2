@@ -1,0 +1,43 @@
+{
+  "entity_name": "Lawrence_R_Houston",
+  "entity_type": "person-mentioned",
+  "document_count": 23,
+  "document_ids": [
+    "104-10418-10202",
+    "104-10331-10152",
+    "104-10122-10344",
+    "104-10122-10346",
+    "104-10107-10137",
+    "104-10107-10135",
+    "104-10105-10218",
+    "157-10005-10224",
+    "104-10229-10000",
+    "178-10004-10420",
+    "104-10332-10000",
+    "104-10306-10007",
+    "104-10107-10087",
+    "104-10227-10000",
+    "104-10106-10300",
+    "104-10106-10312",
+    "104-10306-10020",
+    "157-10005-10225",
+    "104-10331-10149",
+    "104-10176-10069",
+    "104-10306-10011",
+    "104-10291-10014",
+    "124-10185-10099"
+  ],
+  "summary": "Lawrence R. Houston was a former CIA employee whose involvement is documented in several files spanning from 1966 to 1978. His testimony before the SSCIA in 1975 concerned CIA operations, including those related to Fidel Castro and internal agency practices. Houston's role extended to the CIA's relationships with administrative agencies, proprietary companies such as MH MUTUAL, and insurance operations. While not explicitly linked to the JFK assassination in the provided documents, his knowledge of CIA operations made his testimony and CIA files of interest to the ARRB (JFK Board). He appears to have held a position of authority or was involved in legal or operational aspects of the agency, potentially related to sensitive and legally complex operations involving Cuban exiles and discussions about legal implications.",
+  "key_connections": [
+    "CIA",
+    "Fidel Castro",
+    "MH MUTUAL",
+    "ARRB (JFK Board)"
+  ],
+  "significance": "Medium. Lawrence R. Houston's involvement in CIA operations and his testimony before the SSCIA make him a person of interest in understanding the agency's activities during a critical period. While the documents don't directly link him to the JFK assassination, his knowledge and role within the CIA warrant attention, as evidenced by the ARRB's interest in his testimony and files. The number of documents (23) further suggests a notable level of involvement or relevance.",
+  "merged_from_variants": [
+    "Houston",
+    "Lawrence R. Houston",
+    "Lawrence Houston"
+  ]
+}

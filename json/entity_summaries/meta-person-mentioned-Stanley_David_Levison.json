@@ -1,0 +1,42 @@
+{
+  "entity_name": "Stanley_David_Levison",
+  "entity_type": "person-mentioned",
+  "document_count": 21,
+  "document_ids": [
+    "124-10273-10018_multirif",
+    "124-10274-10357_multirif",
+    "124-10273-10008_multirif",
+    "124-10238-10329_multirif",
+    "124-10273-10006",
+    "124-10276-10483_multirif",
+    "124-10274-10358_multirif",
+    "124-10273-10016_multirif",
+    "124-10273-10022_multirif",
+    "124-10264-10210_multirif",
+    "124-10271-10003_multirif",
+    "124-10238-10333_multirif",
+    "124-10271-10299_multirif",
+    "124-10276-10482_multirif",
+    "124-10274-10070",
+    "124-10273-10014_multirif",
+    "124-10264-10206_multirif",
+    "124-10271-10011_multirif",
+    "124-10273-10012_multirif",
+    "124-10264-10209_multirif",
+    "124-10271-10003"
+  ],
+  "summary": "Stanley David Levison is a significant figure primarily due to his association with Martin Luther King Jr. and allegations of ties to the Communist Party USA (CPUSA). The documents, spanning from 1962 to 1976, largely consist of FBI investigations into King, the Southern Christian Leadership Conference (SCLC), and Levison himself, including surveillance activities. The FBI's objective was to establish a factual basis for Levison's alleged secret CPUSA membership. Alan G. Sentinella's 1975 testimony before the Senate Select Committee (SSC) regarding these investigations is a recurring point of reference.",
+  "key_connections": [
+    "Martin Luther King Jr.",
+    "FBI",
+    "Communist Party USA (CPUSA)",
+    "Southern Christian Leadership Conference (SCLC)",
+    "Alan G. Sentinella",
+    "U.S. Senate Select Committee on Intelligence Activities (SSC)"
+  ],
+  "significance": "High - Stanley David Levison is a significant entity due to his close association with Martin Luther King Jr. and the extensive FBI investigations into his alleged ties to the Communist Party USA. The number of documents (21) and the focus on him in relation to King and the SCLC indicate a high level of interest from the FBI and the U.S. Senate Select Committee.",
+  "merged_from_variants": [
+    "Stanley David Levison",
+    "Stanley Levison"
+  ]
+}

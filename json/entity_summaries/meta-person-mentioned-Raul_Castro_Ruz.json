@@ -1,0 +1,36 @@
+{
+  "entity_name": "Raul_Castro_Ruz",
+  "entity_type": "person-mentioned",
+  "document_count": 14,
+  "document_ids": [
+    "178-10002-10185",
+    "157-10008-10238",
+    "144-10001-10174",
+    "104-10308-10029",
+    "104-10326-10060",
+    "104-10185-10128",
+    "144-10001-10164",
+    "104-10171-10003",
+    "144-10001-10138",
+    "104-10073-10101",
+    "104-10167-10127",
+    "144-10001-10158",
+    "104-10326-10059",
+    "144-10001-10264"
+  ],
+  "summary": "Raul Castro Ruz is a significant figure in the context of US-Cuban relations during the Cold War era, particularly concerning CIA activities and the Cuban Revolution. He is mentioned in documents detailing potential CIA assassination plots against Cuban leaders, including a 1960 plan to stage an accident on a Cubana Airline flight, which was later rescinded. He is also referenced in connection with CIA projects aimed at supporting Cuban resistance groups to overthrow the Castro regime. While some documents discuss Cuban intelligence activities and reactions to the JFK assassination, Raul Castro's direct involvement in the assassination is not explicitly detailed within these summaries.",
+  "key_connections": [
+    "CIA",
+    "Cuban government",
+    "Cuban resistance groups",
+    "Cubana Airline",
+    "Cuban Intelligence Service (DGI)",
+    "William J. Murray"
+  ],
+  "significance": "Medium - Raul Castro is mentioned in a significant number of documents (14), indicating his relevance to the overall collection. His connection to CIA activities and the Cuban Revolution, as well as potential assassination plots, suggests a notable, though not central, role in the events covered by the documents. The lack of direct implication in the JFK assassination itself tempers the overall significance.",
+  "merged_from_variants": [
+    "Raul CASTRO",
+    "Raul Castro Ruz",
+    "Raul"
+  ]
+}

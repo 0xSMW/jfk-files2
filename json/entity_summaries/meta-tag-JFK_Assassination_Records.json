@@ -1,0 +1,38 @@
+{
+  "entity_name": "JFK_Assassination_Records",
+  "entity_type": "tag",
+  "document_count": 16,
+  "document_ids": [
+    "104-10337-10002",
+    "104-10332-10002",
+    "104-10333-10011",
+    "104-10336-10000",
+    "104-10331-10152",
+    "104-10331-10178",
+    "104-10333-10008",
+    "104-10332-10022",
+    "104-10331-10226",
+    "104-10331-10132",
+    "206-10001-10003",
+    "104-10332-10007",
+    "104-10330-10100",
+    "104-10331-10209",
+    "180-10072-10186",
+    "206-10001-10002"
+  ],
+  "summary": "The JFK Assassination Records encompass a collection of documents pertaining to the investigation and events surrounding the assassination of President John F. Kennedy. These records, spanning from 1963 to 1996, were reviewed and processed by the CIA for release under the President John F. Kennedy Assassination Records Collection Act of 1992 (ARCA). The Assassination Records Review Board (ARRB) worked with the CIA to ensure compliance with the Act, balancing transparency with the protection of intelligence sources and methods. The records reveal internal discussions and negotiations regarding redactions, the protection of covert employees' identities, and the handling of sensitive information, as well as concerns about the pace of declassification and resource allocation. They also include materials related to Lee Harvey Oswald, his family, and intelligence activities.",
+  "key_connections": [
+    "President John F. Kennedy Assassination Records Collection Act of 1992 (ARCA)",
+    "Assassination Records Review Board (ARRB)",
+    "Lee Harvey Oswald",
+    "CIA",
+    "Central Intelligence Agency (CIA)",
+    "House Permanent Select Committee on Intelligence (HPSCI)",
+    "JFK Assassination Records Collection Act"
+  ],
+  "significance": "High - The JFK Assassination Records are highly significant due to their direct relevance to understanding the events surrounding a major historical event and the subsequent investigations. The large number of documents (16) and the involvement of key agencies like the CIA indicate the importance and complexity of this topic.",
+  "merged_from_variants": [
+    "JFK Assassination Records",
+    "Assassination Records"
+  ]
+}

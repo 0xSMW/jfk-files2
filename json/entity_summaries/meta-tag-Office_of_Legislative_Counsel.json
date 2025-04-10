@@ -1,0 +1,36 @@
+{
+  "entity_name": "Office_of_Legislative_Counsel",
+  "entity_type": "tag",
+  "document_count": 12,
+  "document_ids": [
+    "104-10142-10029",
+    "104-10142-10279",
+    "104-10140-10101",
+    "124-10179-10219_multirif",
+    "124-10238-10331",
+    "104-10142-10055",
+    "104-10145-10047",
+    "104-10140-10420",
+    "104-10322-10104",
+    "124-10186-10055_multirif",
+    "104-10151-10188",
+    "104-10142-10317"
+  ],
+  "summary": "The Office of Legislative Counsel (OLC) served as the CIA's primary liaison to Congress, handling a wide array of requests and communications between the agency and various congressional committees. This included administrative deliveries, budget discussions, and managing employment requests. The OLC also played a role in providing information and coordinating with committees investigating sensitive matters, such as the House Select Committee on Assassinations (HSCA) and the Senate Select Committee (SENSTUDY 75) regarding FBI activities. Furthermore, the OLC managed security matters related to intelligence materials, arranged meetings for congressional staff, and addressed inquiries related to specific intelligence matters, including the Kennedy assassination. The documents span from 1977 to 1978, indicating consistent and significant interaction between the CIA and Congress.",
+  "key_connections": [
+    "House Select Committee on Assassinations",
+    "Senate Foreign Relations Committee",
+    "Senate Select Committee (SENSTUDY 75)",
+    "FBI",
+    "House Permanent Select Committee on Intelligence",
+    "Congressional committees",
+    "COINTELPRO",
+    "Congressional offices"
+  ],
+  "significance": "High - The Office of Legislative Counsel appears to be a crucial entity in facilitating communication and cooperation between the CIA and Congress, particularly concerning sensitive investigations and oversight. The frequent mentions and involvement in key events suggest a significant role.",
+  "merged_from_variants": [
+    "Legal Counsel",
+    "Legislative Counsel",
+    "Office of Legislative Counsel"
+  ]
+}

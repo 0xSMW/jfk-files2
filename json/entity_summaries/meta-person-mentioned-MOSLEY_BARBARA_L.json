@@ -1,0 +1,25 @@
+{
+  "entity_name": "MOSLEY_BARBARA_L",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078"
+  ],
+  "summary": "Barbara L. Mosley was an employee of both the Select Committee on Assassinations (SCAS) and the U.S. House of Representatives Select Committee on Assassinations (HSCA). Payroll and certification reports document her employment from October 1977 to December 1978. These records detail her salary and employment dates during her time with the committees, indicating consistent employment throughout the HSCA investigation.",
+  "key_connections": [
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Barbara L. Mosley's employment with the HSCA is documented in multiple payroll and certification reports, suggesting a consistent role within the committee during its investigation. While the specific nature of her work is not detailed, her presence in these records indicates involvement in the HSCA's activities.",
+  "merged_from_variants": [
+    "Barbara L Mosley",
+    "MOSLEY, BARBARA L"
+  ]
+}

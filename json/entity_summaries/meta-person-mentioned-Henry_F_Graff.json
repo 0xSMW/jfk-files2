@@ -1,0 +1,29 @@
+{
+  "entity_name": "Henry_F_Graff",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "104-10333-10013",
+    "104-10333-10008",
+    "104-10335-10001",
+    "104-10333-10014",
+    "104-10332-10007",
+    "104-10333-10001",
+    "104-10335-10014",
+    "104-10332-10021",
+    "104-10328-10038",
+    "104-10330-10100"
+  ],
+  "summary": "Henry F. Graff is mentioned in several documents pertaining to the Assassination Records Review Board's (ARRB) efforts to declassify and release JFK assassination records. While the specific nature of his involvement is not detailed, his name appears within the context of the ARRB's activities, suggesting a potential role in the review or declassification process of JFK assassination-related materials. These documents include letters, memoranda, and biographies related to the ARRB's operations.",
+  "key_connections": [
+    "Assassination Records Review Board (ARRB)",
+    "Lee Harvey Oswald",
+    "Director of Central Intelligence George Tenet",
+    "CIA Historical Review Group (HRG)"
+  ],
+  "significance": "Medium - Henry F. Graff appears in a supporting role related to the ARRB's work on JFK assassination records. While not a central figure, his presence in multiple documents suggests some level of involvement in the declassification process.",
+  "merged_from_variants": [
+    "Henry F. Graff",
+    "Henry Graff"
+  ]
+}

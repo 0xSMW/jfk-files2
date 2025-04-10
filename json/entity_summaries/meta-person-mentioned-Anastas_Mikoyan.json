@@ -1,0 +1,30 @@
+{
+  "entity_name": "Anastas_Mikoyan",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "document_ids": [
+    "206-10001-10011",
+    "144-10001-10174",
+    "104-10218-10008",
+    "104-10306-10020",
+    "144-10001-10362",
+    "144-10001-10103",
+    "144-10001-10102",
+    "144-10001-10158",
+    "144-10001-10367",
+    "144-10001-10084",
+    "144-10001-10317"
+  ],
+  "summary": "Anastas Mikoyan, a prominent Soviet official, is mentioned in several documents related to the aftermath of President Kennedy's assassination. He appears in a Polish intelligence report concerning diplomatic activities and reactions within the UN, including meetings involving figures like De Gaulle and Erhard. Furthermore, Mikoyan engaged in talks with U.S. President Lyndon B. Johnson and Secretary of State Dean Rusk, as detailed in an Italian report, to ensure continued peaceful relations between the Soviet Union and the United States, addressing disarmament and nuclear arms limitations. These discussions highlight Mikoyan's role in maintaining diplomatic channels and seeking stability during a period of international uncertainty.",
+  "key_connections": [
+    "Lyndon B. Johnson",
+    "Dean Rusk",
+    "De Gaulle",
+    "Erhard"
+  ],
+  "significance": "Medium - Anastas Mikoyan's significance is moderate. While mentioned in 11 documents, his role appears to be primarily related to diplomatic activities following the assassination, rather than direct involvement in events surrounding it. His engagement with key U.S. figures suggests a relevant, though not central, position.",
+  "merged_from_variants": [
+    "Mikoyan",
+    "Anastas Mikoyan"
+  ]
+}

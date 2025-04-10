@@ -1,0 +1,29 @@
+{
+  "entity_name": "E_McK_Hutton",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10068-10341",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10070-10171",
+    "180-10125-10081",
+    "180-10125-10078",
+    "180-10125-10107",
+    "180-10068-10320"
+  ],
+  "summary": "E McK Hutton, also known as Tiny Hutton, was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA), later referred to as the Select Committee on Assassinations (SCA). Payroll and certification reports from 1977 to 1978 document Hutton's employment, including their name, position, annual salary, and gross pay for specific accounting periods. These records provide administrative details of Hutton's role within the HSCA during its investigation into the JFK assassination.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. E McK Hutton's significance is moderate. While mentioned in 12 documents, the information primarily relates to payroll and employment records within the HSCA/SCA. This indicates an administrative role related to the JFK assassination investigation, but the documents do not reveal specific investigative contributions.",
+  "merged_from_variants": [
+    "HUTTON, E MCK",
+    "Tiny Hutton",
+    "E McK Hutton"
+  ]
+}

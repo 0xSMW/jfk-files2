@@ -1,0 +1,27 @@
+{
+  "entity_name": "Johanna_Lynn_Smith",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078",
+    "180-10070-10159",
+    "180-10125-10107"
+  ],
+  "summary": "Johanna Lynn Smith was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA), later referred to as the Select Committee on Assassinations (SCA). Payroll certifications and related records from January 1977 to December 1978 document her employment. These records detail her name, position, annual salary, and gross pay for various accounting periods, suggesting she held an administrative or support role within the committee.",
+  "key_connections": [
+    "Select Committee on Assassinations",
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Medium. Johanna Lynn Smith's significance stems from her employment with the HSCA/SCA, as evidenced by multiple payroll documents. While the documents don't reveal her specific role, her presence on the payroll across numerous documents suggests she was a staff member involved in the committee's operations.",
+  "merged_from_variants": [
+    "SMITH, JOHANNA LYNN",
+    "Johanna Lynn Smith"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "entity_name": "Ammunition",
+  "entity_type": "tag",
+  "document_count": 21,
+  "document_ids": [
+    "104-10256-10081",
+    "104-10169-10269",
+    "104-10180-10178",
+    "104-10275-10176",
+    "104-10216-10159",
+    "104-10074-10066",
+    "124-10223-10074",
+    "104-10308-10053",
+    "104-10216-10171",
+    "104-10180-10044",
+    "124-10213-10310",
+    "104-10216-10234",
+    "104-10290-10162",
+    "104-10122-10147",
+    "124-10204-10278",
+    "104-10071-10257",
+    "194-10001-10169",
+    "104-10100-10237",
+    "104-10169-10271",
+    "194-10001-10168",
+    "104-10073-10074"
+  ],
+  "summary": "The documents discuss ammunition in the context of arms shipments, testing, and potential use in covert operations and anti-Castro activities. References are made to tracking arms shipments, including firearms and explosives, and investigations into illegal trafficking. Specific instances include the shipment of machine gun and pistol ammo by the Military Armament Corporation (MAC), tests on modified sights for the 7.62 Belgium (FAL) Rifle to improve accuracy and reduce noise, and the potential supply of weapons and explosives to anti-Castro groups and other rebel factions. The documents also touch on the broader context of weapons management and potential misuse, including planned sabotage operations against Cuba and bombings in Miami linked to Cuban exile groups.",
+  "key_connections": [
+    "Arms Shipments",
+    "Cuban exiles",
+    "Government of Cuba (GOC)",
+    "Cuban exile groups (Cuban Power, MIRR)",
+    "Bombings in Miami",
+    "Military Armament Corporation (MAC)",
+    "7.62 Belgium (FAL) Rifle",
+    "Sabotage operations",
+    "Anti-Castro forces",
+    "Explosives",
+    "Firearms",
+    "Weapons"
+  ],
+  "significance": "Medium - Ammunition, firearms, and explosives are mentioned in a significant number of documents (21), indicating their relevance to the investigations and activities described. While not directly linked to the JFK assassination, the documents suggest a broader context of arms trafficking, covert operations, and anti-Castro activities involving these materials.",
+  "merged_from_variants": [
+    "Firearms",
+    "Weapons",
+    "Ammunition",
+    "FAL Rifle",
+    "Explosives"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "entity_name": "Orlando_Bosch_Avila",
+  "entity_type": "person-mentioned",
+  "document_count": 23,
+  "document_ids": [
+    "124-10221-10271",
+    "104-10178-10002",
+    "180-10144-10133",
+    "104-10173-10171",
+    "180-10144-10130",
+    "104-10164-10054",
+    "104-10164-10060",
+    "104-10176-10070",
+    "180-10145-10302",
+    "104-10177-10217",
+    "104-10164-10097",
+    "180-10145-10308",
+    "124-10213-10310",
+    "104-10192-10229",
+    "104-10164-10050",
+    "124-10218-10058",
+    "124-10291-10040",
+    "104-10506-10028",
+    "104-10164-10099",
+    "124-10206-10337",
+    "180-10145-10301",
+    "104-10177-10226",
+    "104-10169-10006"
+  ],
+  "summary": "Orlando Bosch Avila was a prominent Cuban exile leader known for his staunch anti-Castro activities and alleged involvement in terrorist acts. He was associated with various anti-Cuba operations, including the Movimiento Insurreccional de Recuperación Revolucionaria (MIRR), and investigated for bombings, including the bombing of a Cuban airliner, and assassination attempts. While he had connections to the CIA, the extent of this relationship is not fully detailed and was denied by the agency. Bosch's activities were tracked by the FBI and other agencies. He was at one point under the protection of Venezuelan President Carlos Andres Perez and was imprisoned in Venezuela. Intelligence reports also mention his deteriorating health during a hunger strike. He used false Chilean identity documents and was associated with other Cuban exiles and groups involved in anti-Castro activities, such as CORU. His activities spanned from the 1960s to the late 1970s.",
+  "key_connections": [
+    "Luis Clemente Posada Carriles",
+    "Carlos Andres Perez",
+    "Fidel Castro",
+    "Ricardo Morales Navarrete",
+    "Luis Posada Carriles",
+    "CORU"
+  ],
+  "significance": "High. Orlando Bosch Avila appears in 23 documents and is portrayed as a central figure in anti-Castro activities and alleged terrorist plots, suggesting a significant role within the context of these documents.",
+  "merged_from_variants": [
+    "Orlando Bosch Avila",
+    "Orlando Bosch"
+  ]
+}

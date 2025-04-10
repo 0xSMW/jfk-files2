@@ -1,0 +1,32 @@
+{
+  "entity_name": "Miss_Gandy",
+  "entity_type": "person-mentioned",
+  "document_count": 18,
+  "document_ids": [
+    "124-10203-10485",
+    "124-10223-10073",
+    "124-10204-10209",
+    "124-10203-10246",
+    "124-10223-10077",
+    "124-10223-10087",
+    "124-10223-10088",
+    "124-10223-10304",
+    "124-10203-10497",
+    "124-10326-10105",
+    "124-10326-10103",
+    "124-10223-10082",
+    "124-10326-10100",
+    "124-10203-10465",
+    "124-90137-10467",
+    "124-10203-10468",
+    "124-10203-10494",
+    "124-10223-10083"
+  ],
+  "summary": "Despite appearing in 18 documents, there is no direct mention of Miss Gandy or Gandy within the provided summaries. The documents primarily focus on other individuals and their involvement in organized crime, gambling operations, and intelligence matters during the early 1960s to early 1970s. These individuals include John Roselli, Gabriel Mannarino, Santo Trafficante Jr., Sam Giancana, James Angleton, Judith E. Campbell, and William Alexander Parzow. The documents also detail FBI procedures and CIA liaison activities.",
+  "key_connections": [],
+  "significance": "Low. While Miss Gandy is associated with 18 documents, the provided summaries indicate that she is not directly mentioned in the context of the documents. The documents focus on other individuals and activities.",
+  "merged_from_variants": [
+    "Miss Gandy",
+    "Gandy"
+  ]
+}

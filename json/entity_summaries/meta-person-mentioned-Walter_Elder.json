@@ -1,0 +1,34 @@
+{
+  "entity_name": "Walter_Elder",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "124-10271-10299",
+    "104-10310-10014",
+    "124-10184-10237",
+    "157-10005-10424",
+    "124-10271-10011_multirif",
+    "157-10011-10005",
+    "104-10061-10207",
+    "104-10301-10000",
+    "104-10303-10007",
+    "124-10271-10003"
+  ],
+  "summary": "Walter Elder, also known as Walt Elder, is identified in multiple documents related to CIA activities and Congressional oversight during the 1970s. He appears to have been involved in potentially controversial operations, as evidenced by a memo to William Colby detailing activities such as wiretapping, breaking and entering, and chemical warfare planning. Elder's name is also associated with projects like ZRRIFLE, the Huston Plan, COINTELPRO, and Operation Mongoose, which involved covert operations related to the assassination of Fidel Castro. Furthermore, he participated in discussions within the USIB Ad Hoc Coordinating Group on Congressional Review, indicating his involvement in the CIA's response to Senate Select Committee inquiries regarding sensitive and potentially illegal activities.",
+  "key_connections": [
+    "CIA",
+    "William Colby",
+    "Senate Select Committee on Intelligence Activities",
+    "Huston Plan",
+    "COINTELPRO",
+    "Operation Mongoose",
+    "Fidel Castro",
+    "Project ZRRIFLE",
+    "USIB Ad Hoc Coordinating Group"
+  ],
+  "significance": "High - Walter Elder appears to have been significantly involved in potentially controversial CIA activities and the Agency's response to Congressional oversight. His connection to projects like ZRRIFLE, Operation Mongoose, and the Huston Plan, combined with his role in internal discussions regarding sensitive operations, suggests a high level of involvement in matters of considerable importance.",
+  "merged_from_variants": [
+    "Walter Elder",
+    "Walt Elder"
+  ]
+}

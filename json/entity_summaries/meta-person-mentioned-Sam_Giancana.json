@@ -1,0 +1,32 @@
+{
+  "entity_name": "Sam_Giancana",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "124-10223-10068",
+    "157-10011-10024",
+    "124-10223-10077",
+    "157-10002-10148",
+    "157-10002-10150",
+    "178-10002-10215",
+    "157-10011-10005",
+    "157-10002-10106",
+    "157-10011-10048",
+    "180-10145-10446"
+  ],
+  "summary": "Sam Giancana is mentioned in documents concerning CIA activities, particularly in relation to assassination plots and potential connections to the JFK assassination. He is linked to organized crime and individuals such as John Roselli and Judith E. Campbell, with FBI investigations noting their associations. Giancana's name appears in the context of CIA involvement with organized crime in plots against Fidel Castro between 1960 and 1963, suggesting a potential intersection of these entities in covert operations. While direct involvement in the JFK assassination is not explicitly detailed, Giancana is situated within the milieu of CIA operations involving assassination attempts and connections to figures like Robert Maheu.",
+  "key_connections": [
+    "John Roselli",
+    "Judith E. Campbell",
+    "Robert Maheu",
+    "Fidel Castro",
+    "CIA",
+    "Criminal Elements",
+    "William K. Harvey"
+  ],
+  "significance": "Medium - Giancana appears in a significant number of documents (10) and is linked to key figures and events related to CIA activities and potential assassination plots, suggesting a notable but not definitively central role.",
+  "merged_from_variants": [
+    "Sam Giancana",
+    "Giancana"
+  ]
+}

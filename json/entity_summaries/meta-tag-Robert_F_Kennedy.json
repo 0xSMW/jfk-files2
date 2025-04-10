@@ -1,0 +1,37 @@
+{
+  "entity_name": "Robert_F_Kennedy",
+  "entity_type": "tag",
+  "document_count": 15,
+  "document_ids": [
+    "124-10326-10191",
+    "124-10280-10030",
+    "157-10014-10017",
+    "124-10203-10246",
+    "176-10030-10168",
+    "124-10203-10489",
+    "104-10012-10076",
+    "178-10002-10215",
+    "144-10001-10102",
+    "144-10001-10054",
+    "178-10002-10279",
+    "124-10326-10149",
+    "104-10303-10007",
+    "144-10001-10270",
+    "157-10011-10008"
+  ],
+  "summary": "Robert F. Kennedy, Attorney General during his brother John F. Kennedy's presidency and later a U.S. Senator, is featured in these documents primarily in the context of the JFK assassination and related investigations. This includes discussions of potential plots against President Kennedy, the impact of his death on US policy, and investigations such as Jim Garrison's probe. The documents also touch upon U.S. policy and anti-Castro operations during the early 1960s, suggesting a broader context of U.S. actions regarding Cuba that may have indirect relevance to the assassination. Furthermore, there are references to Robert Kennedy's relationship with individuals involved in organized crime, such as Sam Giancana and Sam Mannarino, and concerns about their influence. The documents span from 1961 to 1976, reflecting his involvement both during and after his brother's presidency.",
+  "key_connections": [
+    "John F. Kennedy",
+    "Jim Garrison",
+    "Sam Giancana",
+    "Sam Mannarino",
+    "Fidel Castro",
+    "CIA",
+    "Lyndon B. Johnson"
+  ],
+  "significance": "High - Robert F. Kennedy, as Attorney General and brother of JFK, is a central figure in understanding the political climate and investigations surrounding the JFK assassination. His involvement in anti-Castro operations and potential connections to organized crime make him a significant entity within these documents.",
+  "merged_from_variants": [
+    "Robert Kennedy",
+    "Robert F. Kennedy"
+  ]
+}

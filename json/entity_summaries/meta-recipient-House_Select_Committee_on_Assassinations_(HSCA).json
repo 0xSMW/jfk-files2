@@ -1,0 +1,52 @@
+{
+  "entity_name": "House_Select_Committee_on_Assassinations_(HSCA)",
+  "entity_type": "recipient",
+  "document_count": 25,
+  "document_ids": [
+    "180-10060-10457",
+    "104-10163-10176",
+    "180-10125-10094",
+    "180-10125-10079",
+    "104-10173-10135",
+    "180-10125-10088",
+    "180-10145-10295",
+    "144-10001-10185",
+    "104-10079-10016",
+    "180-10125-10105",
+    "180-10120-10150",
+    "180-10125-10080",
+    "180-10125-10103",
+    "180-10125-10102",
+    "180-10125-10085",
+    "180-10145-10265",
+    "104-10142-10317",
+    "180-10125-10090",
+    "180-10147-10176",
+    "180-10096-10448",
+    "180-10125-10091",
+    "104-10193-10069",
+    "180-10125-10078",
+    "180-10125-10082",
+    "180-10125-10084"
+  ],
+  "summary": "The House Select Committee on Assassinations (HSCA), established in 1976, investigated the assassinations of President John F. Kennedy and Martin Luther King Jr. The HSCA actively gathered information from various sources, including the CIA and the NSA, reviewing files and interviewing personnel to investigate potential connections to the assassinations. Specifically, the HSCA examined allegations of CIA involvement with Lee Harvey Oswald and requested information regarding Cuban communications. The committee's work, spanning from 1976 to 1978, also involved administrative and financial aspects, including managing staff payroll and resources. The HSCA's investigations encompassed a wide range of leads and figures, including individuals of interest to the CIA and interactions with Soviet officials.",
+  "key_connections": [
+    "John F. Kennedy",
+    "Martin Luther King Jr.",
+    "Lee Harvey Oswald",
+    "CIA",
+    "NSA",
+    "Cuban communications",
+    "U.S. House of Representatives",
+    "William P. Burke Jr.",
+    "Valentin Sergeyevich Loganov",
+    "Manuel Antonio Ray y Rivero"
+  ],
+  "significance": "High - The HSCA was a central body created to investigate the JFK and MLK assassinations, indicating its significant role in examining these historical events. The high document count (25) further underscores its importance.",
+  "merged_from_variants": [
+    "HSCA",
+    "House Select Committee on Assassinations",
+    "Select Committee on Assassinations",
+    "House Select Committee on Assassinations (HSCA)"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "entity_name": "Elizabeth_C_Feeley",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10075",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10076",
+    "180-10125-10081",
+    "180-10125-10078"
+  ],
+  "summary": "Elizabeth C. Feeley was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from December 1977 to March 1979. Payroll and certification reports document her employment, listing her name, social security number, position, annual salary, and gross pay for various periods. These records indicate her sustained involvement with the HSCA during its investigation, though her specific role and responsibilities are not detailed in the available documents.",
+  "key_connections": [
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Elizabeth C. Feeley's significance lies in her documented employment with the HSCA during its investigation. While the documents don't specify her exact role, the consistent record of her employment across multiple payroll documents suggests she was a staff member involved in the committee's work. The number of documents (9) further supports this.",
+  "merged_from_variants": [
+    "FEELEY, ELIZABETH C",
+    "Elizabeth C Feeley"
+  ]
+}

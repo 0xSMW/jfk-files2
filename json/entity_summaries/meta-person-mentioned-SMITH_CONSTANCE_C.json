@@ -1,0 +1,22 @@
+{
+  "entity_name": "SMITH_CONSTANCE_C",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10079",
+    "180-10125-10081",
+    "180-10125-10078"
+  ],
+  "summary": "Constance C Smith, also known as SMITH, CONSTANCE C, was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA), also referred to as the Select Committee on Assassinations (SCA). Payroll and certification reports confirm her employment from approximately April to December 1978. These documents list her name, salary, and in some cases, her social security number. While the documents establish her employment during this period, they do not detail her specific role within the committee or her direct involvement in the JFK assassination investigation.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Constance C Smith's significance is moderate. While she is mentioned in six documents related to the HSCA, the available information primarily confirms her employment and salary. Her specific role and contribution to the committee's work are not detailed, limiting her overall significance to the JFK assassination investigation.",
+  "merged_from_variants": [
+    "SMITH, CONSTANCE C",
+    "Constance C Smith"
+  ]
+}

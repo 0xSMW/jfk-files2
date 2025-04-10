@@ -1,0 +1,46 @@
+{
+  "entity_name": "AMLASH-1",
+  "entity_type": "tag",
+  "document_count": 22,
+  "document_ids": [
+    "104-10216-10002",
+    "104-10234-10155",
+    "104-10216-10338",
+    "157-10014-10017",
+    "104-10216-10238",
+    "104-10234-10088",
+    "104-10216-10398",
+    "157-10008-10253",
+    "104-10234-10007",
+    "104-10247-10064",
+    "104-10234-10050",
+    "104-10234-10115",
+    "104-10216-10234",
+    "104-10215-10200",
+    "104-10216-10397",
+    "104-10234-10148",
+    "104-10216-10000",
+    "157-10002-10087",
+    "104-10295-10001",
+    "104-10216-10202",
+    "104-10247-10097",
+    "104-10216-10001"
+  ],
+  "summary": "AMLASH-1 refers to Rolando Cubela Secades, a Cuban doctor and former revolutionary who became a CIA asset. The AMLASH operation, a CIA effort aimed at organizing a military coup against Fidel Castro, involved AMLASH-1 from at least 1962 through the late 1960s, with monitoring continuing into the 1980s. Activities included recruitment, secret writing and explosives training in Paris, contacts with KUBARK assets, and meetings related to a plan to assassinate AMPED. AMLASH-1 was also connected to Operation Mongoose. Documents detail CIA management of AMLASH, including facilitating contact with other agents, granting visas to his family, and relaying information through secure channels. In 1980, AMLASH/1 arrived in Madrid and contacted LNERGO, refusing media interviews. Security concerns about the operation and potential exposure to Cuban intelligence are evident.",
+  "key_connections": [
+    "Rolando Cubela Secades",
+    "CIA",
+    "Fidel Castro",
+    "Operation Mongoose",
+    "KUBARK",
+    "LNERGO",
+    "AMPED",
+    "Cuban Intelligence Service"
+  ],
+  "significance": "High - AMLASH-1 was a key CIA asset involved in efforts to undermine the Cuban government, including potential assassination plots. The number of documents (22) and the nature of the activities suggest a significant role within CIA operations related to Cuba.",
+  "merged_from_variants": [
+    "AMLASH",
+    "AMLASH/1",
+    "AMLASH-1"
+  ]
+}

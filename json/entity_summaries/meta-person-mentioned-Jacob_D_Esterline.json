@@ -1,0 +1,40 @@
+{
+  "entity_name": "Jacob_D_Esterline",
+  "entity_type": "person-mentioned",
+  "document_count": 13,
+  "document_ids": [
+    "104-10162-10121",
+    "104-10161-10321",
+    "104-10301-10004",
+    "104-10324-10000",
+    "104-10119-10183",
+    "157-10011-10006",
+    "104-10214-10034",
+    "178-10002-10091",
+    "178-10002-10215",
+    "104-10183-10333",
+    "157-10011-10005",
+    "178-10002-10279",
+    "104-10301-10001"
+  ],
+  "summary": "Jacob D. Esterline, also known as Jake Esterline and J. D. Esterline, is identified as a CIA personnel involved in various covert operations during the Cold War era, as evidenced by his presence in CIA personnel records and handwritten notes from 1967. The documents suggest his involvement in CIA activities related to assassination plots, including those against Fidel Castro (Operation Mongoose) and Patrice Lumumba. He is also linked to discussions and planning related to the overthrow of Rafael Trujillo, the dictator of the Dominican Republic, including providing arms to dissident groups. While mentioned in documents related to CIA activities in the Western Hemisphere and the JFK assassination, his specific role in the latter is not detailed.",
+  "key_connections": [
+    "CIA",
+    "Operation Mongoose",
+    "Fidel Castro",
+    "Patrice Lumumba",
+    "Rafael Trujillo",
+    "Cuban exiles",
+    "State Department",
+    "Frank Droller",
+    "Helms",
+    "Rubottom",
+    "Wieland"
+  ],
+  "significance": "Medium - Jacob D. Esterline appears in a significant number of documents (13) and is connected to sensitive CIA operations, including assassination plots and covert actions during the Cold War. While his specific role in the JFK assassination is not detailed, his involvement in other significant events suggests a notable presence within the CIA.",
+  "merged_from_variants": [
+    "Jake Esterline",
+    "J. D. Esterline",
+    "Jacob D. Esterline"
+  ]
+}

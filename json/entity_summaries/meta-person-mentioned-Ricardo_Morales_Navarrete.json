@@ -1,0 +1,34 @@
+{
+  "entity_name": "Ricardo_Morales_Navarrete",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "document_ids": [
+    "124-10206-10337",
+    "104-10177-10147",
+    "124-10213-10310",
+    "104-10177-10217",
+    "104-10177-10226",
+    "180-10144-10130",
+    "180-10145-10308",
+    "124-10291-10023",
+    "124-90065-10029",
+    "124-10218-10058",
+    "104-10176-10070"
+  ],
+  "summary": "Ricardo Morales Navarrete, also known as Ricardo Morales, was a Cuban exile investigated for his anti-Castro activities and potential connections to the CIA. He is mentioned in connection with a possible trip to the U.S., allegations of being a U.S. intelligence agent along with other Venezuelan security officials, and the bombing of a Cuban airliner. Documents from 1968 to 1978 suggest scrutiny of his activities within the Cuban exile community and his association with other anti-Castro activists like Orlando Bosch and Joaquin Godoy.",
+  "key_connections": [
+    "CIA",
+    "Cuban exiles",
+    "Orlando Bosch",
+    "Joaquin Godoy",
+    "Luis Posada Carriles",
+    "Venezuelan security officials",
+    "Cuban airliner bombing"
+  ],
+  "significance": "Medium - Ricardo Morales Navarrete appears in 11 documents, suggesting a moderate level of interest in his activities and connections within the Cuban exile community and potential CIA involvement. His alleged involvement in significant events like the Cuban airliner bombing elevates his importance.",
+  "merged_from_variants": [
+    "Ricardo Morales",
+    "Ricardo Morales Navarette",
+    "Ricardo Morales Navarrete"
+  ]
+}

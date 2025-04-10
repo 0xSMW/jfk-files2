@@ -1,0 +1,27 @@
+{
+  "entity_name": "Gerald_P_Hamilton",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078",
+    "180-10125-10077",
+    "180-10125-10107"
+  ],
+  "summary": "Gerald P. Hamilton was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA), later referred to as the Select Committee on Assassinations (SCAS). Payroll and certification reports from 1977 to 1979 document his employment, listing his name, social security number, position, annual salary, and gross pay for specific accounting periods. While his exact role within the committee is not specified, these records indicate he was a paid staff member during the HSCA/SCAS investigation.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations (HSCA)",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Gerald P. Hamilton's significance lies in his employment with the HSCA/SCAS, as evidenced by multiple payroll and certification documents. While his specific role is not detailed, his presence as a staff member during the committee's investigation suggests a moderate level of involvement in the JFK assassination documents.",
+  "merged_from_variants": [
+    "HAMILTON, GERALD P",
+    "Gerald P Hamilton"
+  ]
+}

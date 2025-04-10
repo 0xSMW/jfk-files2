@@ -1,0 +1,29 @@
+{
+  "entity_name": "Joseph_F_Carroll",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "document_ids": [
+    "198-10009-10099",
+    "206-10001-10007",
+    "206-10001-10010",
+    "206-10001-10005",
+    "206-10001-10003",
+    "124-10185-10099",
+    "206-10001-10008"
+  ],
+  "summary": "Joseph F. Carroll was involved in national security and intelligence matters during the 1960s and 1970s. He participated in President's Foreign Intelligence Advisory Board (PFIAB) meetings, where discussions covered a wide range of topics including the Dunlap espionage case, NSA actions, counterintelligence, CIA activities in South Vietnam and Cuba (including the Soviet missile buildup), covert operations, Soviet activities, and intelligence budgeting. He also appears in connection with CIA activities in 1973, including support to the Secret Service, investigations into leaks, the MHCHAOS program, corporate cover operations, and sensitive security operations. These documents suggest Carroll held an advisory role and possessed knowledge of significant intelligence operations during critical periods of the Cold War.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "CIA",
+    "NSA",
+    "Soviet missile buildup in Cuba",
+    "MHCHAOS program",
+    "Secret Service",
+    "Defense Intelligence Agency"
+  ],
+  "significance": "Medium - Joseph F. Carroll appears in multiple documents related to high-level intelligence discussions and CIA activities during the Cold War. While his specific actions are not always detailed, his presence in these contexts suggests a significant role in national security matters.",
+  "merged_from_variants": [
+    "Joseph F. Carroll",
+    "Joseph Carroll"
+  ]
+}

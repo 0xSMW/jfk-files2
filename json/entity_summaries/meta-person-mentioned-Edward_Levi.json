@@ -1,0 +1,28 @@
+{
+  "entity_name": "Edward_Levi",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "document_ids": [
+    "124-10186-10056_multirif",
+    "124-10186-10048_multirif",
+    "124-10185-10195_multirif",
+    "124-10186-10049_multirif",
+    "124-10186-10045_multirif",
+    "124-10184-10237",
+    "124-10185-10193_multirif",
+    "124-10186-10055_multirif",
+    "124-10186-10051_multirif"
+  ],
+  "summary": "Edward Levi is mentioned in the context of Senate Select Committee reviews of the FBI's domestic intelligence investigations, particularly concerning COINTELPRO, during 1975 and 1983. The documents include Senate Select Committee hearings and memoranda that discuss potential legislative actions, FBI reform, and oversight measures. While his specific role is not explicitly detailed, the context suggests Levi was involved in legal or legislative discussions related to the FBI's activities and oversight during this period, possibly concerning responses to questions about domestic intelligence investigations and potential changes to the FBI's authority.",
+  "key_connections": [
+    "Senate Select Committee",
+    "FBI",
+    "COINTELPRO",
+    "Senate Select Committee on Intelligence Activities"
+  ],
+  "significance": "Medium. Edward Levi appears in a significant number of documents (9) related to the sensitive topic of FBI domestic intelligence investigations and oversight. While his exact role is not always explicitly stated, his involvement in discussions and reviews suggests a relevant connection to these matters.",
+  "merged_from_variants": [
+    "Levi",
+    "Edward Levi"
+  ]
+}

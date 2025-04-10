@@ -1,0 +1,38 @@
+{
+  "entity_name": "General_Doolittle",
+  "entity_type": "person-mentioned",
+  "document_count": 15,
+  "document_ids": [
+    "206-10001-10009",
+    "206-10001-10017",
+    "178-10004-10054",
+    "206-10001-10012",
+    "206-10001-10007",
+    "104-10302-10000",
+    "206-10001-10000",
+    "206-10001-10001",
+    "206-10001-10014",
+    "206-10001-10013",
+    "206-10001-10010",
+    "206-10001-10006",
+    "206-10001-10004",
+    "206-10001-10005",
+    "206-10001-10008"
+  ],
+  "summary": "General Doolittle was involved in high-level intelligence discussions during the early 1960s, as evidenced by his presence at meetings of the President's Foreign Intelligence Advisory Board (PFIAB) and the Covert Action Panel. The documents, spanning from 1961 to 1964, reveal that these meetings covered a wide array of topics, including national reconnaissance programs, covert actions in countries such as Chile, Vietnam, and Cuba, intelligence gathering efforts related to the Soviet Union, and anti-Castro activities, including the MONGOOSE operation. While the specific nature of Doolittle's contributions is not detailed, his participation indicates a role in advising on or overseeing these intelligence matters.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Covert Action Panel",
+    "Cuba",
+    "Soviet Union",
+    "CIA",
+    "John McCone",
+    "McGeorge Bundy",
+    "Special Group"
+  ],
+  "significance": "Medium. General Doolittle's involvement in the PFIAB and Covert Action Panel suggests a significant role in intelligence matters during the early 1960s. The number of documents (15) mentioning him further supports this assessment, although the lack of specific details about his actions limits a higher significance rating.",
+  "merged_from_variants": [
+    "General Doolittle",
+    "Doolittle"
+  ]
+}

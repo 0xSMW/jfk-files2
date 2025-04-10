@@ -1,0 +1,23 @@
+{
+  "entity_name": "Vivian_L_McPherson",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "document_ids": [
+    "180-10060-10483",
+    "180-10125-10086",
+    "180-10068-10310",
+    "180-10060-10440",
+    "180-10125-10094",
+    "180-10060-10494",
+    "180-10125-10107"
+  ],
+  "summary": "Vivian L. McPherson was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from October 1976 to December 1977, and again in May 1978. Payroll certifications and records document her employment, including salary and pay period earnings. The redaction of her Social Security Number in at least one document suggests a concern for personal privacy.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Medium. Vivian L. McPherson's significance is moderate. While mentioned in seven documents, her role appears to be primarily administrative, as an employee of the HSCA. The available information does not suggest a direct connection to the JFK assassination itself, but rather to the committee investigating it.",
+  "merged_from_variants": [
+    "McPherson",
+    "Vivian L. McPherson"
+  ]
+}

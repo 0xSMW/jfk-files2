@@ -1,0 +1,43 @@
+{
+  "entity_name": "Mr_Johnson",
+  "entity_type": "person-mentioned",
+  "document_count": 22,
+  "document_ids": [
+    "104-10306-10003",
+    "157-10011-10009",
+    "144-10001-10102",
+    "157-10014-10151",
+    "157-10011-10010",
+    "144-10001-10315",
+    "157-10011-10006",
+    "202-10001-10219",
+    "157-10005-10236",
+    "144-10001-10084",
+    "206-10001-10015",
+    "104-10306-10024",
+    "124-10369-10022",
+    "157-10011-10003",
+    "157-10011-10000",
+    "176-10036-10073",
+    "178-10003-10016",
+    "104-10306-10021",
+    "180-10145-10280",
+    "104-10324-10002",
+    "157-10008-10241",
+    "157-10011-10007"
+  ],
+  "summary": "Mr. Johnson appears to have been a significant figure in US policy discussions and decisions during the Kennedy and post-Kennedy era. The documents suggest his involvement in diplomatic activities following President Kennedy's assassination, including interactions with world leaders. He also participated in Vietnam Task Force meetings in 1961 and was potentially involved in discussions related to Operation Mongoose and other covert operations against Cuba, North Vietnam and Chile. References to threats against the 'Johnson gang' indicate a period of heightened security concerns. However, the precise nature and extent of Mr. Johnson's role in these events, particularly in relation to the JFK assassination, remains somewhat unclear based on the provided summaries.",
+  "key_connections": [
+    "Kennedy",
+    "Castro",
+    "Harvey",
+    "Lansdale",
+    "Diem",
+    "Mikoyan"
+  ],
+  "significance": "Medium - Mr. Johnson is mentioned in a substantial number of documents (22), suggesting a notable presence. The summaries indicate involvement in significant historical events and policy discussions, although his specific role and level of influence are not always explicitly defined.",
+  "merged_from_variants": [
+    "Johnson",
+    "Mr. Johnson"
+  ]
+}

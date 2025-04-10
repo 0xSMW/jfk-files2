@@ -1,0 +1,46 @@
+{
+  "entity_name": "Director",
+  "entity_type": "sender",
+  "document_count": 24,
+  "document_ids": [
+    "104-10216-10002",
+    "104-10100-10192",
+    "104-10075-10099",
+    "104-10068-10142",
+    "104-10101-10239",
+    "104-10098-10404",
+    "104-10183-10262",
+    "104-10247-10037",
+    "104-10216-10238",
+    "104-10527-10277",
+    "104-10183-10240",
+    "104-10186-10004",
+    "104-10326-10027",
+    "104-10234-10050",
+    "104-10067-10043",
+    "104-10100-10394",
+    "104-10186-10037",
+    "104-10100-10086",
+    "104-10528-10052",
+    "104-10187-10110",
+    "104-10183-10139",
+    "104-10516-10270",
+    "104-10181-10174",
+    "104-10517-10121"
+  ],
+  "summary": "The Director, identified in documents as both \"DIRECTOR\" and \"DIR\", functions as a central authority overseeing covert operations and intelligence gathering activities from 1963 to 1997, with a concentration in the mid-1960s. The Director issues instructions, requests information, and provides guidelines related to a range of sensitive topics, including Soviet and Cuban military activities, potential sabotage operations against Cuba, and the recruitment and management of intelligence assets and defectors. The Director's office coordinates responses to events, disseminates information about individuals of interest, and cooperates with external bodies such as the House Select Committee on Assassinations (HSCA). Security, operational discretion, and coordination are emphasized in the Director's instructions.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "AMLASH",
+    "AMTRUNK",
+    "JUAVE 2",
+    "Cuban Security",
+    "JMWAVE Station",
+    "Antonio Veciana"
+  ],
+  "significance": "High. The Director, as the sender of numerous classified messages spanning several decades, plays a crucial role in directing and overseeing intelligence operations, particularly those related to Cuba and the Soviet Union. The Director's involvement in sensitive operations and connections to entities like the HSCA indicate a significant level of authority and influence within the CIA.",
+  "merged_from_variants": [
+    "DIR",
+    "DIRECTOR"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "entity_name": "Covert_Security_Approval",
+  "entity_type": "tag",
+  "document_count": 10,
+  "document_ids": [
+    "104-10241-10249",
+    "104-10123-10160",
+    "104-10130-10454",
+    "104-10059-10099",
+    "104-10250-10035",
+    "104-10215-10129",
+    "104-10121-10341",
+    "104-10121-10366",
+    "104-10120-10273",
+    "180-10143-10362"
+  ],
+  "summary": "Covert Security Approval represents the process of vetting and authorizing individuals, activities, and sites for participation in sensitive or clandestine operations, particularly within the CIA. This process involved scrutiny of backgrounds, potential security risks, and associations, as demonstrated by approvals for individuals like Robert West Pugh, Clare Booth Luce, and Robert A. Maheu in projects such as HBILKA/JBGREED and PBGREGALE. Security approvals were required for personnel assignments, the use of assets, and securing covert sites. The documents, spanning from 1959 to 1975, indicate that covert security approvals were a standard procedure for maintaining operational security and the integrity of covert operations during the Cold War era.",
+  "key_connections": [
+    "Robert West Pugh",
+    "Clare Booth Luce",
+    "Robert A. Maheu",
+    "Project HBILKA/JBGREED",
+    "Project PBGREGALE",
+    "Covert Sites",
+    "Cal William Hitch"
+  ],
+  "significance": "High - The entity appears in 10 documents and relates to a core function of the CIA: ensuring the security and integrity of covert operations. The summaries highlight the importance of security approvals for individuals and projects, suggesting a significant role in maintaining secrecy and managing risks associated with sensitive activities.",
+  "merged_from_variants": [
+    "Covert Security Approval",
+    "Security Approval"
+  ]
+}

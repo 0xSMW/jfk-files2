@@ -1,0 +1,28 @@
+{
+  "entity_name": "Thomas_Mark_Flanagan_Jr",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "180-10060-10438",
+    "180-10125-10086",
+    "180-10125-10075",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10076",
+    "180-10125-10096",
+    "180-10060-10473",
+    "180-10125-10081",
+    "180-10070-10173"
+  ],
+  "summary": "Thomas Mark Flanagan, Jr., also known as T Mark Flanagan, was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from at least October 1977 through February 1979. Payroll and certification reports document his presence on the committee's staff during this period, indicating a consistent involvement with the HSCA's investigation. The documents provide details such as his name, position, and salary, although the specific role he held within the HSCA is not detailed.",
+  "key_connections": [
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations",
+    "HSCA"
+  ],
+  "significance": "Medium - Thomas Mark Flanagan, Jr. appears in 10 documents related to the HSCA, suggesting a moderate level of involvement in the committee's work. While his specific role is not explicitly detailed, his presence on payroll and certification reports indicates a consistent association with the HSCA during its investigation.",
+  "merged_from_variants": [
+    "Thomas Mark Flanagan, Jr.",
+    "T Mark Flanagan"
+  ]
+}

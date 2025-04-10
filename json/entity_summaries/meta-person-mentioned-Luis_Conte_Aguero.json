@@ -1,0 +1,27 @@
+{
+  "entity_name": "Luis_Conte_Aguero",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "document_ids": [
+    "124-10213-10483",
+    "180-10145-10302",
+    "180-10144-10133",
+    "104-10232-10019",
+    "104-10236-10056",
+    "104-10232-10004",
+    "104-10227-10150"
+  ],
+  "summary": "Luis Conte Aguero is mentioned in connection to Cuban exile activities and organizations involved in anti-Castro efforts during the period from 1959 to 1977. While the documents do not explicitly detail his specific role, his name appears within the context of Cuban exiles, including Victor Paneque and Victor Ganaque, and groups such as the Frente Interno de Unidad Revolucionaria (FIUR). These activities are sometimes associated with the CIA and involve discussions regarding anti-Castro operations, propaganda, and potential actions against the Castro regime.",
+  "key_connections": [
+    "Victor Paneque",
+    "Victor Ganaque",
+    "CIA",
+    "Castro regime",
+    "Frente Interno de Unidad Revolucionaria (FIUR)"
+  ],
+  "significance": "Medium. Luis Conte Aguero appears in several documents related to Cuban exile activities and anti-Castro efforts. While his specific role is not always detailed, his association with key individuals and organizations suggests a moderate level of involvement in these activities.",
+  "merged_from_variants": [
+    "CONTE AGUERO",
+    "Luis Conte Aguero"
+  ]
+}

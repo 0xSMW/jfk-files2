@@ -1,0 +1,28 @@
+{
+  "entity_name": "The_Attorney_General",
+  "entity_type": "recipient",
+  "document_count": 6,
+  "document_ids": [
+    "124-10223-10304",
+    "124-10264-10208_multirif",
+    "124-10264-10206_multirif",
+    "124-10188-10308",
+    "124-10264-10209_multirif",
+    "124-10188-10208"
+  ],
+  "summary": "The Attorney General appears in these documents primarily as the recipient of information and requests from the FBI. They were informed about the FBI's responses to the U.S. Senate Select Committee on Intelligence Activities (SSC) regarding sensitive matters such as investigations into Martin Luther King, Jr. and the Southern Christian Leadership Conference (SCLC). Furthermore, the Attorney General's authorization was sought by the FBI for technical surveillance and other investigative activities related to individuals and groups suspected of espionage, Communist activities, racketeering, and involvement in domestic extremist organizations, spanning from 1954 to 1972. This highlights the Attorney General's crucial role in overseeing law enforcement and national security matters through their approval of sensitive investigative measures.",
+  "key_connections": [
+    "FBI",
+    "U. S. SENATE SELECT COMMITTEE ON INTELLIGENCE ACTIVITIES (SSC)",
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "Students for a Democratic Society (SDS)",
+    "Black Panther Party",
+    "Workers World Party"
+  ],
+  "significance": "High. The Attorney General's role as the authorizing figure for FBI investigations and recipient of sensitive information from the SSC indicates a significant position in the context of these documents. The involvement in matters related to national security and civil rights figures further underscores their importance.",
+  "merged_from_variants": [
+    "The Attorney General",
+    "Attorney General"
+  ]
+}

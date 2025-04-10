@@ -1,0 +1,36 @@
+{
+  "entity_name": "Luis_Posada_Carriles",
+  "entity_type": "tag",
+  "document_count": 13,
+  "document_ids": [
+    "124-90158-10069",
+    "104-10220-10069",
+    "104-10178-10002",
+    "124-90158-10062",
+    "180-10144-10402",
+    "104-10178-10001",
+    "180-10144-10130",
+    "180-10143-10072",
+    "104-10178-10052",
+    "124-10218-10058",
+    "104-10178-10054",
+    "124-90073-10039",
+    "104-10178-10046"
+  ],
+  "summary": "Luis Posada Carriles, a Venezuelan citizen of Cuban origin and former CIA asset, is heavily implicated in anti-Fidel Castro activities and potential terrorist plots. Documents reveal his involvement with the CIA, including cover employment and operational approvals, spanning from the mid-1960s to the late 1970s. He is linked to the bombing of a Cubana airliner, with Fidel Castro alleging CIA involvement, and is connected to terrorist plotting by Cuban exiles, including the Ejercito De Liberacion Cubano (ELC). He is also implicated in a CIA plot to assassinate Castro and is connected to other individuals with CIA ties and criminal figures.",
+  "key_connections": [
+    "CIA",
+    "Fidel Castro",
+    "Ejercito De Liberacion Cubano (ELC)",
+    "Alexis Davison",
+    "David A. Phillips",
+    "E. Howard Hunt",
+    "Daniel Carswell",
+    "Cesar Diosdado"
+  ],
+  "significance": "High. Luis Posada Carriles appears in a significant number of documents and is linked to serious allegations, including terrorism, CIA involvement, and plots against Fidel Castro. His connections to other individuals with CIA ties further underscore his importance within the context of these documents.",
+  "merged_from_variants": [
+    "Luis Posada Carriles",
+    "Luis Posada"
+  ]
+}

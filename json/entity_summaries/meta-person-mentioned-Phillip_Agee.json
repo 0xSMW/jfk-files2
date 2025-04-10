@@ -1,0 +1,38 @@
+{
+  "entity_name": "Phillip_Agee",
+  "entity_type": "person-mentioned",
+  "document_count": 14,
+  "document_ids": [
+    "104-10105-10120",
+    "104-10110-10305",
+    "180-10110-10484",
+    "104-10418-10046",
+    "104-10326-10076",
+    "104-10105-10119",
+    "104-10103-10357",
+    "104-10103-10097",
+    "180-10110-10121",
+    "104-10102-10227",
+    "104-10105-10102",
+    "104-10110-10303",
+    "104-10105-10103",
+    "104-10332-10014"
+  ],
+  "summary": "Phillip Agee, a former CIA employee, is a figure of interest in these documents primarily due to concerns about the disclosure of sensitive CIA information and potential connections to hostile foreign agents. His activities, including writing a book about CIA operations in Mexico City and associating with individuals like Nicky Szulc and Stephen M. Weissman, raised concerns within the CIA regarding the compromise of classified information. He is also mentioned in connection to potential disclosures related to the JFK assassination and his resignation from the CIA under a cloud is noted. Interview requests were made regarding his acquaintances.",
+  "key_connections": [
+    "Nicky Szulc",
+    "Stephen M. Weissman",
+    "Charlotte Z. Bustos-Videla",
+    "Dorothy Hennick",
+    "Elsie L. Scaletti",
+    "Fabian Escalante",
+    "Jim Noland",
+    "Dewi Sukarno"
+  ],
+  "significance": "Medium - Phillip Agee appears in a significant number of documents (14), suggesting a notable level of interest. His connection to potential information leaks and associations with individuals of concern to the CIA makes him a relevant figure within the context of these documents, though his direct involvement in the JFK assassination context is limited to references to his book.",
+  "merged_from_variants": [
+    "Agee",
+    "Philip Agee",
+    "Phillip Agee"
+  ]
+}

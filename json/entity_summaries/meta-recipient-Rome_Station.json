@@ -1,0 +1,28 @@
+{
+  "entity_name": "Rome_Station",
+  "entity_type": "recipient",
+  "document_count": 7,
+  "document_ids": [
+    "104-10215-10188",
+    "104-10183-10039",
+    "104-10183-10239",
+    "104-10101-10227",
+    "104-10183-10011",
+    "104-10183-10037",
+    "104-10183-10043"
+  ],
+  "summary": "Rome Station, also referred to as Rome, was a CIA station actively involved in intelligence gathering and operations during the 1960s. Classified messages were sent to Rome Station regarding various matters, including information on Karin Espinosa and her husband Miguel Angel Espinosa Bravo, a former Cuban ambassador. The station was also involved in potential operations supported by AMWHIP/1, a CIA asset with ties to the Perumen regime, for cover and access to Perumen officials. The CIA communicated with Rome regarding unauthorized sub-surfacing of information via media. AMWHIP's visit to Rome and potential services needed by the station were also topics of communication.",
+  "key_connections": [
+    "AMWHIP",
+    "AMWHIP/1",
+    "Karin Espinosa",
+    "Miguel Angel Espinosa Bravo",
+    "Perumen regime",
+    "CIA"
+  ],
+  "significance": "Medium. Rome Station appears to have been an active CIA station involved in intelligence gathering and operations, as evidenced by the number of documents mentioning it and the nature of the communications it received. Its connection to AMWHIP/1 and potential operations related to the Perumen regime suggest a significant role, though the specific details are limited.",
+  "merged_from_variants": [
+    "Rome Station",
+    "Rome"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "entity_name": "Barry_Goldwater",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "document_ids": [
+    "144-10001-10086",
+    "124-10185-10195_multirif",
+    "124-10273-10105",
+    "104-10095-10263",
+    "104-10324-10002",
+    "144-10001-10103",
+    "124-10264-10206_multirif",
+    "104-10173-10132",
+    "104-10303-10007",
+    "104-10173-10130",
+    "124-10238-10329_multirif",
+    "124-10264-10191"
+  ],
+  "summary": "Barry Goldwater is mentioned in the context of investigations and intelligence activities related to the JFK assassination, specifically within Senate Select Committee activities and reactions to the event. While the documents do not detail his direct involvement in the assassination itself, they place him within the political and investigative landscape of the time. His name appears in relation to Senate hearings, investigations into intelligence operations (including FBI and CIA activities like COINTELPRO and investigations into figures like E. Howard Hunt), and inquiries regarding intelligence operations. His connection to the events appears to be peripheral, placing him within the broader scope of intelligence matters being investigated rather than as a central figure in the assassination.",
+  "key_connections": [],
+  "significance": "Medium - Barry Goldwater appears in a moderate number of documents (12), suggesting a notable but not central role. The summaries indicate his presence within the political and investigative context surrounding the JFK assassination, primarily through Senate Select Committee activities and intelligence-related inquiries, but without direct implication in the assassination itself.",
+  "merged_from_variants": [
+    "Barry Goldwater",
+    "Goldwater"
+  ]
+}

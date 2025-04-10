@@ -1,0 +1,48 @@
+{
+  "entity_name": "John_F_Pereira",
+  "entity_type": "person-mentioned",
+  "document_count": 26,
+  "document_ids": [
+    "104-10332-10002",
+    "104-10333-10011",
+    "104-10332-10022",
+    "104-10330-10060",
+    "104-10335-10014",
+    "104-10335-10008",
+    "104-10331-10121",
+    "104-10331-10209",
+    "104-10332-10008",
+    "104-10331-10118",
+    "104-10337-10002",
+    "104-10332-10016",
+    "104-10335-10001",
+    "104-10332-10021",
+    "104-10330-10010",
+    "104-10336-10000",
+    "104-10331-10338",
+    "104-10333-10013",
+    "104-10331-10202",
+    "104-10333-10008",
+    "104-10331-10134",
+    "104-10331-10226",
+    "104-10330-10100",
+    "104-10331-10178",
+    "104-10330-10133",
+    "104-10332-10007"
+  ],
+  "summary": "John F. Pereira was a CIA official and a member of the Historical Review Group (HRG) who played a significant role in the CIA's response to requests from the Assassination Records Review Board (ARRB) and the House Permanent Select Committee on Intelligence (HPSCI) regarding the JFK assassination records. From 1993 to 1996, he was involved in the review, declassification, and release of CIA documents related to the assassination, including those concerning CIA employees, operations in Mexico City, and the CIA's commercial cover program. Pereira was a key point of contact for the ARRB, facilitating the process while balancing transparency with the need to protect sensitive intelligence sources, methods, and foreign liaison relationships.",
+  "key_connections": [
+    "Assassination Records Review Board (ARRB)",
+    "CIA",
+    "CIA Historical Review Group (HRG)",
+    "House Permanent Select Committee on Intelligence (HPSCI)",
+    "Office of Central Cover",
+    "Linda A. Jasper",
+    "David Marwell"
+  ],
+  "significance": "High. John F. Pereira appears to have been a central figure within the CIA regarding the declassification and release of JFK assassination records. His involvement with the ARRB and HPSCI, coupled with the number of documents mentioning him, indicates a significant role in a sensitive and important historical matter.",
+  "merged_from_variants": [
+    "John Pereira",
+    "John F. Pereira"
+  ]
+}

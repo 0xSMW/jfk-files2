@@ -1,0 +1,25 @@
+{
+  "entity_name": "Alan_B_Hausman",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078",
+    "180-10125-10077"
+  ],
+  "summary": "Alan B. Hausman was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA), later referred to as the Select Committee on Assassinations (SCAS). Payroll and certification reports from October 1977 to January 1979 document his employment, position, and salary during the committee's investigation into the JFK assassination. These records indicate his involvement as a staff member throughout a significant portion of the HSCA/SCAS investigation.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Alan B. Hausman's significance lies in his documented employment within the HSCA/SCAS during its investigation into the JFK assassination. While the specific nature of his work is not detailed, the multiple payroll records suggest a consistent role within the committee.",
+  "merged_from_variants": [
+    "HAUSMAN, ALAN B",
+    "Alan B Hausman"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "entity_name": "Ngo_Dinh_Nhu",
+  "entity_type": "person-mentioned",
+  "document_count": 21,
+  "document_ids": [
+    "176-10036-10149",
+    "176-10036-10134",
+    "176-10036-10095",
+    "176-10036-10113",
+    "176-10036-10088",
+    "176-10036-10117",
+    "176-10037-10494",
+    "157-10014-10227",
+    "176-10037-10453",
+    "176-10036-10137",
+    "176-10036-10099",
+    "176-10036-10116",
+    "104-10301-10000",
+    "176-10036-10138",
+    "176-10036-10179",
+    "104-10306-10020",
+    "176-10036-10143",
+    "176-10036-10139",
+    "206-10001-10001",
+    "176-10036-10103",
+    "176-10036-10094"
+  ],
+  "summary": "Ngo Dinh Nhu was a central figure in South Vietnam's government during the early 1960s, serving as the chief political advisor to his brother, President Ngo Dinh Diem. He wielded considerable influence and was perceived as a powerful force within the regime. Documents suggest Nhu was involved in various aspects of governance, including the Strategic Hamlets program, relations with the U.S., and internal political strategies. He was a controversial figure, with reports indicating he considered reducing American personnel in Vietnam and even contemplated a coup against his own government. Allegations also surfaced regarding his potential dealings with the Viet Cong and plans to assassinate U.S. Ambassador Henry Cabot Lodge. His actions and policies are considered contributing factors to the political instability that ultimately led to the 1963 coup, in which he and his brother were assassinated.",
+  "key_connections": [
+    "Ngo Dinh Diem",
+    "Henry Cabot Lodge, Jr.",
+    "Nguyen Khanh",
+    "Duong Van Minh",
+    "John A. McCone",
+    "Pham Ngoc Thao"
+  ],
+  "significance": "High - Ngo Dinh Nhu's significant role as a key advisor and influential figure within the Diem regime, along with his involvement in controversial policies and potential plots, suggests a high level of significance within the context of documents related to the period and the JFK assassination.",
+  "merged_from_variants": [
+    "Ngo Dinh Nhu",
+    "Nhu"
+  ]
+}

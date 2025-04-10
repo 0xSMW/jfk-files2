@@ -1,0 +1,40 @@
+{
+  "entity_name": "Sanitization",
+  "entity_type": "tag",
+  "document_count": 17,
+  "document_ids": [
+    "104-10310-10118",
+    "178-10003-10176",
+    "180-10060-10451",
+    "104-10422-10057",
+    "180-10060-10489",
+    "180-10068-10341",
+    "180-10068-10307",
+    "104-10333-10008",
+    "180-10060-10467",
+    "180-10060-10481",
+    "180-10068-10313",
+    "104-10061-10386",
+    "180-10070-10169",
+    "104-10331-10166",
+    "104-10326-10035",
+    "104-10326-10002",
+    "180-10070-10170"
+  ],
+  "summary": "Sanitization, also referred to as redaction, is the process of removing or obscuring sensitive information from documents before public release. In the context of JFK assassination records, this process was employed by entities like the CIA and the Assassination Records Review Board (ARRB) to balance transparency mandates with the protection of classified intelligence sources, methods, and personal privacy, including Social Security numbers. Sanitization efforts involved considerations of crypts, project names, sensitive foreign documents, and the protection of sources and methods related to Lee Harvey Oswald case files, as well as records from the House Select Committee on Assassinations (HSCA).",
+  "key_connections": [
+    "Assassination Records Review Board (ARRB)",
+    "House Select Committee on Assassinations (HSCA)",
+    "Lee Harvey Oswald",
+    "CIA",
+    "Personal privacy",
+    "Social Security numbers",
+    "FOIA",
+    "JFK Assassination Records Act"
+  ],
+  "significance": "High - Sanitization is a critical process in the release of sensitive historical documents, particularly those related to the JFK assassination. The high document count (17) and the involvement of key agencies like the CIA and ARRB indicate its central role in managing transparency and national security concerns.",
+  "merged_from_variants": [
+    "Sanitization",
+    "Redaction"
+  ]
+}

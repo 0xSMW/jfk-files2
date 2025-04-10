@@ -1,0 +1,28 @@
+{
+  "entity_name": "Joyce_Ann_Larkin",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "180-10125-10093",
+    "180-10125-10086",
+    "180-10060-10462",
+    "180-10125-10106",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10092",
+    "180-10125-10107"
+  ],
+  "summary": "Joyce Ann Larkin was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from 1977 to 1978. Payroll certifications and reports document her employment, position, annual salary, and gross pay during this period. While the specific role Larkin held within the HSCA is not detailed in these records, her name appears on staff payroll records and Payroll Authorization Forms.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations (HSCA)",
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Joyce Ann Larkin's significance lies in her employment with the HSCA, as evidenced by multiple payroll documents. While her specific role is not detailed, her presence on the committee's payroll suggests she played some part in its operations. The number of documents mentioning her (10) indicates a notable, though not necessarily central, role.",
+  "merged_from_variants": [
+    "Joyce Ann Larkin",
+    "Larkin, Joyce Ann"
+  ]
+}

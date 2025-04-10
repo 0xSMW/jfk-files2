@@ -1,0 +1,43 @@
+{
+  "entity_name": "James_Angleton",
+  "entity_type": "tag",
+  "document_count": 16,
+  "document_ids": [
+    "178-10004-10115",
+    "157-10011-10024",
+    "124-10276-10400",
+    "124-10326-10099",
+    "124-10326-10098",
+    "124-10326-10105",
+    "104-10431-10006",
+    "124-10326-10103",
+    "124-10326-10104",
+    "104-10059-10057",
+    "104-10061-10320",
+    "104-10061-10214",
+    "124-10326-10100",
+    "104-10301-10011",
+    "157-10002-10150",
+    "157-10008-10253"
+  ],
+  "summary": "James Angleton served as the Chief of Counterintelligence Operations at the CIA and was a key liaison between the CIA and the FBI, particularly concerning sensitive intelligence matters, including those related to Israeli intelligence. His involvement spanned from at least 1953 to 1975, and he submitted a report to the Rockefeller Commission critiquing the CIA's counterintelligence function, especially regarding Soviet defectors. Documents also reference the CIA's interrogation of Tepedino regarding the AMLASH operation and Rolando Cubela's (AMLASH) connections, as well as the handling of AMLASH's name in the context of the JFK assassination investigation. The House Select Committee on Assassinations (HSCA) showed continued interest in his activities, and procedures were in place to protect his identity and the source of his information, especially concerning Israeli intelligence. He also analyzed Soviet policy towards the United States based on information from a former KGB member.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "Rockefeller Commission",
+    "Soviet defectors",
+    "AMLASH (Rolando Cubela)",
+    "JFK assassination investigation",
+    "House Select Committee on Assassinations (HSCA)",
+    "Israeli Intelligence Service",
+    "Tepedino",
+    "Richard Helms",
+    "William Harvey",
+    "George DeMohrenschildt"
+  ],
+  "significance": "High. James Angleton's role as Chief of Counterintelligence at the CIA, his involvement in sensitive operations, his connections to individuals involved in the JFK assassination investigation (like AMLASH), and the continued interest in his activities by the HSCA indicate a significant role within the context of these documents.",
+  "merged_from_variants": [
+    "James Angleton",
+    "Angleton"
+  ]
+}

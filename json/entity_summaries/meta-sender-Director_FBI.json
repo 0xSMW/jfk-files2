@@ -1,0 +1,42 @@
+{
+  "entity_name": "Director_FBI",
+  "entity_type": "sender",
+  "document_count": 20,
+  "document_ids": [
+    "124-10284-10081",
+    "124-10291-10123",
+    "124-10179-10217_multirif",
+    "124-90137-10355",
+    "124-10296-10130",
+    "124-10238-10329_multirif",
+    "124-90138-10073",
+    "124-10274-10001",
+    "124-10274-10011 (c06716583)",
+    "124-10238-10333_multirif",
+    "124-10182-10231",
+    "124-10223-10304",
+    "124-10274-10029_multirif_redacted",
+    "124-10204-10278",
+    "124-10203-10482",
+    "124-10206-10337",
+    "124-10185-10195_multirif",
+    "124-10271-10013",
+    "124-10264-10206_multirif",
+    "124-10179-10217"
+  ],
+  "summary": "The Director of the FBI and the FBI itself played a significant role in intelligence and investigative activities, particularly during the 1960s and 1970s. The Director oversaw investigations related to Cuban exile activities, neutrality matters, organized crime, and potential threats to national security. The FBI coordinated with agencies like the CIA and provided information to the Senate Select Committee on Intelligence Activities (SSC) regarding investigations into intelligence activities, including those related to Martin Luther King Jr. and alleged Communist ties. The FBI also engaged in activities such as mail interception programs targeting Soviet agents and responding to CIA requests regarding individuals of interest.",
+  "key_connections": [
+    "CIA",
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "Martin Luther King Jr.",
+    "Soviet Union",
+    "Eduardo Espinosa y Prieto",
+    "Cuban exile activities",
+    "KGB"
+  ],
+  "significance": "High - The Director of the FBI's involvement in numerous investigations, coordination with other agencies like the CIA, and responses to inquiries from oversight committees, as well as the high document count, indicate a significant role in national security matters during this period.",
+  "merged_from_variants": [
+    "FBI",
+    "Director, FBI"
+  ]
+}

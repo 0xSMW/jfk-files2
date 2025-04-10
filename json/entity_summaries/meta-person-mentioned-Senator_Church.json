@@ -1,0 +1,48 @@
+{
+  "entity_name": "Senator_Church",
+  "entity_type": "person-mentioned",
+  "document_count": 25,
+  "document_ids": [
+    "124-10184-10237",
+    "124-10273-10007_multirif",
+    "124-10238-10329_multirif",
+    "157-10014-10081",
+    "124-10273-10086_multirif",
+    "124-10273-10053",
+    "124-10274-10001",
+    "124-10273-10007",
+    "124-10273-10006",
+    "124-10185-10193_multirif",
+    "124-10186-10041",
+    "124-10264-10210_multirif",
+    "124-10271-10000",
+    "124-10238-10333_multirif",
+    "104-10418-10046",
+    "124-10274-10001_multirif",
+    "124-10185-10195_multirif",
+    "178-10004-10087",
+    "124-10274-10070",
+    "104-10324-10002",
+    "124-10264-10206_multirif",
+    "124-10264-10209_multirif",
+    "124-10273-10071_multirif",
+    "124-10264-10191",
+    "157-10014-10133"
+  ],
+  "summary": "Senator Frank Church played a significant role in congressional oversight of U.S. intelligence activities during the 1970s. As chairman of the Senate Select Committee on Intelligence Activities (SSC), also known as the Church Committee, he led investigations into potential abuses of power by the FBI and CIA, including matters related to Martin Luther King Jr. and COINTELPRO. The documents reflect the FBI's interactions with the Church Committee, including providing materials and addressing concerns about the potential compromise of intelligence operations and sources. Senator Church's involvement extended to congressional reviews of the CIA and related intelligence matters, including concerns raised with the White House regarding oversight of covert intelligence sites.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "COINTELPRO",
+    "Martin Luther King Jr.",
+    "White House",
+    "Senator Walter Mondale",
+    "SSC (Senate Select Committee)"
+  ],
+  "significance": "High - Senator Church's role as chairman of the Church Committee places him at the center of significant investigations into intelligence agencies, suggesting a high level of importance within the context of documents related to intelligence oversight and potential abuses.",
+  "merged_from_variants": [
+    "Frank Church",
+    "Senator Church"
+  ]
+}

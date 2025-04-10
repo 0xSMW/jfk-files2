@@ -1,0 +1,42 @@
+{
+  "entity_name": "US_House_of_Representatives",
+  "entity_type": "tag",
+  "document_count": 22,
+  "document_ids": [
+    "180-10125-10104",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10076",
+    "180-10125-10098",
+    "180-10125-10088",
+    "180-10125-10092",
+    "180-10060-10494",
+    "180-10125-10107",
+    "180-10125-10086",
+    "180-10125-10106",
+    "180-10125-10096",
+    "180-10068-10347",
+    "180-10125-10075",
+    "180-10125-10103",
+    "180-10125-10102",
+    "180-10125-10081",
+    "180-10125-10085",
+    "180-10125-10095",
+    "180-10125-10091",
+    "180-10125-10082",
+    "180-10125-10101"
+  ],
+  "summary": "The US House of Representatives is featured in these documents primarily through its establishment and oversight of the House Select Committee on Assassinations (HSCA). The documents, largely consisting of payroll and certification reports from 1977 to 1979, detail the staffing, positions, and salaries within the HSCA. These records offer insights into the administrative and financial operations of the HSCA during its investigation into the assassinations of John F. Kennedy and Martin Luther King Jr.",
+  "key_connections": [
+    "Select Committee on Assassinations (HSCA)",
+    "House Select Committee on Assassinations (HSCA)",
+    "Martin Luther King Task Force",
+    "Elizabeth C. Feeley",
+    "Patricia M. Orr"
+  ],
+  "significance": "High. The US House of Representatives, through the HSCA, played a central role in investigating the JFK and Martin Luther King Jr. assassinations. The numerous documents related to the HSCA's operations highlight the significant involvement of the House in this historical investigation.",
+  "merged_from_variants": [
+    "US House of Representatives",
+    "House of Representatives"
+  ]
+}

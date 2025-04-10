@@ -1,0 +1,33 @@
+{
+  "entity_name": "ORR_PATRICIA_M",
+  "entity_type": "person-mentioned",
+  "document_count": 13,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10068-10310",
+    "180-10125-10083",
+    "180-10125-10106",
+    "180-10125-10087",
+    "180-10060-10440",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078",
+    "180-10125-10077",
+    "180-10125-10107"
+  ],
+  "summary": "Patricia M. Orr was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from 1977 to 1979. Payroll and certification reports document her employment, including her name, salary, and employment dates. These records confirm her role as a staff member during the HSCA's investigation into the JFK assassination. The Assassination Records Review Board (ARRB) also issued notifications regarding the postponement of the release of Social Security numbers from HSCA staff payroll records, which included Orr's information.",
+  "key_connections": [
+    "HSCA (House Select Committee on Assassinations)",
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations (HSCA)",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Patricia M. Orr's significance lies in her documented employment with the HSCA during its investigation into the JFK assassination. While not a central figure, her presence in multiple payroll and certification records across a number of documents indicates a consistent role within the committee's staff.",
+  "merged_from_variants": [
+    "Patricia M Orr",
+    "Orr, Patricia",
+    "ORR, PATRICIA M"
+  ]
+}

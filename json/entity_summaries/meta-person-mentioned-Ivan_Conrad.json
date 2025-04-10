@@ -1,0 +1,42 @@
+{
+  "entity_name": "Ivan_Conrad",
+  "entity_type": "person-mentioned",
+  "document_count": 20,
+  "document_ids": [
+    "124-10223-10073",
+    "124-10204-10209",
+    "124-10184-10237",
+    "124-10203-10465",
+    "124-10223-10077",
+    "124-10273-10006",
+    "124-10223-10082",
+    "124-90137-10467",
+    "124-10203-10494",
+    "124-10203-10485",
+    "124-10223-10088",
+    "124-10223-10304",
+    "124-10203-10497",
+    "124-10326-10103",
+    "124-10271-10033_multirif_redacted",
+    "124-10203-10468",
+    "124-10203-10246",
+    "124-10223-10087",
+    "124-10326-10105",
+    "124-10223-10083"
+  ],
+  "summary": "Ivan Conrad, also known as Mr. Conrad or simply Conrad, was a former Assistant Director at the FBI. Documents indicate his involvement in FBI investigations, particularly those related to Martin Luther King Jr. and electronic surveillance. He was interviewed by the Senate Select Committee (SSC) regarding these investigations. The documents also touch upon the Senate Select Committee's inquiries into various intelligence operations, the Cabinet Committee to Combat Terrorism, and the FBI's involvement in domestic intelligence and counterintelligence activities, including the Huston Plan and COINTELPRO.",
+  "key_connections": [
+    "Ivan Conrad",
+    "FBI",
+    "Martin Luther King Jr.",
+    "Senate Select Committee (SSC)",
+    "Huston Plan",
+    "COINTELPRO"
+  ],
+  "significance": "Medium - Ivan Conrad's role as a former Assistant Director at the FBI and his involvement in sensitive investigations, including those related to Martin Luther King Jr., the Huston Plan, and COINTELPRO, suggest a moderate level of significance within the context of the documents. The fact that he was interviewed by the Senate Select Committee further reinforces this assessment.",
+  "merged_from_variants": [
+    "Ivan Conrad",
+    "Mr. Conrad",
+    "Conrad"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "entity_name": "US_Embassy",
+  "entity_type": "tag",
+  "document_count": 6,
+  "document_ids": [
+    "144-10001-10349",
+    "104-10326-10040",
+    "104-10210-10037",
+    "176-10036-10135",
+    "104-10172-10001",
+    "144-10001-10309"
+  ],
+  "summary": "The U.S. Embassy serves as a key location for diplomatic activities, communication, and representation of the United States in various countries. Documents highlight the embassy's involvement in international relations, intelligence gathering, and relaying information related to significant events. These events include reactions to President Kennedy's assassination (as reported by the U.S. Embassy in Oslo), suspected gold smuggling activities involving U.S. citizens and Panamanian officials, the case of Soviet defector Yuriy Ivanovich Nosenko, and the planned suicide of Dieu Hue, mother of Vietnamese diplomat Buu Hoi, intended to denounce her son and highlight the persecution of Buddhists in Vietnam. The Minsk Station's activities also involve embassy-related matters like housing and reconstruction.",
+  "key_connections": [
+    "U.S. Embassy in Oslo",
+    "Minsk Station",
+    "Panama",
+    "Yuriy Ivanovich Nosenko",
+    "President John F. Kennedy",
+    "Buu Hoi",
+    "Vietnam"
+  ],
+  "significance": "Medium - The U.S. Embassy appears in multiple documents related to international relations and specific events, indicating its role as a significant point of contact and information relay, though not directly involved in the JFK assassination itself.",
+  "merged_from_variants": [
+    "U.S. Embassy",
+    "Embassy"
+  ]
+}

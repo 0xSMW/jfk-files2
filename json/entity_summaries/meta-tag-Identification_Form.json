@@ -1,0 +1,43 @@
+{
+  "entity_name": "Identification_Form",
+  "entity_type": "tag",
+  "document_count": 20,
+  "document_ids": [
+    "104-10178-10130",
+    "104-10101-10109",
+    "104-10413-10057",
+    "104-10071-10404",
+    "104-10071-10407",
+    "194-10005-10030",
+    "194-10004-10368",
+    "104-10100-10065",
+    "194-10004-10129",
+    "104-10057-10117",
+    "104-10186-10382",
+    "104-10101-10124",
+    "104-10433-10081",
+    "104-10519-10182",
+    "104-10428-10012",
+    "104-10290-10038",
+    "104-10183-10325",
+    "194-10013-10011",
+    "194-10004-10371",
+    "104-10517-10121"
+  ],
+  "summary": "Identification Forms and related documents are used to track individuals of interest across various investigations, including the JFK assassination and intelligence operations during the Cold War era. These forms contain personal information such as names, dates of birth, addresses, social security numbers, and file numbers, consolidating data from agencies like INSCOM/CSF and other law enforcement or intelligence entities. The documents facilitate the sharing of identifying information, physical descriptions, and fingerprint formulas among various stations and liaison contacts, as seen in the identification efforts related to James Earl Ray and individuals connected to Cuban or Soviet Embassies. The documents span from the early 1960s to 1998, indicating a sustained effort to identify and monitor individuals for intelligence purposes.",
+  "key_connections": [
+    "James Earl Ray",
+    "INSCOM/CSF",
+    "Robert Scheer",
+    "Manuel Marti",
+    "David Reed Fromer",
+    "Maria Francisca Crespo Falcon",
+    "Ernesto Castro Moro",
+    "Yuri (KGB officer)"
+  ],
+  "significance": "High. Identification Forms are central to tracking individuals of interest in significant investigations, including the JFK assassination and Cold War intelligence operations. The high document count (20) and the inclusion of key figures like James Earl Ray suggest a critical role in intelligence gathering and analysis.",
+  "merged_from_variants": [
+    "Identification",
+    "Identification Form"
+  ]
+}

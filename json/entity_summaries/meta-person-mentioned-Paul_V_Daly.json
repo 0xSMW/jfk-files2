@@ -1,0 +1,43 @@
+{
+  "entity_name": "Paul_V_Daly",
+  "entity_type": "person-mentioned",
+  "document_count": 25,
+  "document_ids": [
+    "124-10273-10018_multirif",
+    "124-10186-10049_multirif",
+    "124-10274-10357_multirif",
+    "124-10273-10008_multirif",
+    "124-10186-10054_multirif",
+    "124-10273-10006",
+    "124-10276-10483_multirif",
+    "124-10274-10358_multirif",
+    "124-10186-10051_multirif",
+    "124-10273-10016_multirif",
+    "124-10183-10279_multirif_redacted",
+    "124-10273-10022_multirif",
+    "104-10142-10055",
+    "124-10186-10048_multirif",
+    "124-10182-10231",
+    "124-10186-10055_multirif",
+    "124-10271-10033_multirif_redacted",
+    "124-10276-10482_multirif",
+    "124-10186-10056_multirif",
+    "124-10274-10070",
+    "124-10186-10045_multirif",
+    "124-10271-10013",
+    "124-10273-10014_multirif",
+    "124-10273-10012_multirif",
+    "104-10140-10420"
+  ],
+  "summary": "Paul V. Daly was involved in preparations for the Senate Select Committee's (SSC) review of the FBI's domestic intelligence investigations in 1975. He participated in analyzing options for FBI legislation and responses to the SSC's inquiries, as documented in memoranda labeled \"SENSTUDY 75.\" These discussions included potential oversight mechanisms, reforms to the FBI's authority, and responses to questions about domestic intelligence investigations and COINTELPRO. Daly was involved in preparing for the Director's testimony before the Senate Select Committee, which was investigating the FBI's involvement in domestic intelligence and counterintelligence activities, including those related to Martin Luther King Jr.",
+  "key_connections": [
+    "Senate Select Committee",
+    "FBI",
+    "Martin Luther King Jr."
+  ],
+  "significance": "Medium. Paul V. Daly appears to have played a role in preparing the FBI's response to inquiries from the Senate Select Committee regarding domestic intelligence investigations. While not a central figure, his involvement in analyzing options for FBI legislation and preparing for testimony suggests he was a staff member or advisor involved in these matters. The number of documents mentioning him (25) indicates a moderate level of involvement.",
+  "merged_from_variants": [
+    "Paul V. Daly",
+    "Paul Daly"
+  ]
+}

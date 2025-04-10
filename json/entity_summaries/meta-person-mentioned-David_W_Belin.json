@@ -1,0 +1,32 @@
+{
+  "entity_name": "David_W_Belin",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "104-10310-10118",
+    "135-10001-10255",
+    "157-10011-10078",
+    "178-10004-10420",
+    "157-10008-10234",
+    "157-10005-10141",
+    "135-10001-10287",
+    "178-10004-10396",
+    "135-10001-10246",
+    "135-10001-10297"
+  ],
+  "summary": "David W. Belin was significantly involved in investigations related to the JFK assassination and the CIA's activities surrounding it. His work included reviewing materials related to the Warren Commission, as evidenced by correspondence from E.H. Knoche transmitting documents related to Allen Dulles. Belin also conducted an interview with William K. Harvey concerning Harvey's knowledge of assassination plots within the CIA, particularly in the context of the Rockefeller Commission files. His role centered on gathering and handling sensitive information related to the CIA and the JFK assassination, especially during inquiries in 1975.",
+  "key_connections": [
+    "Warren Commission",
+    "Allen Dulles",
+    "William K. Harvey",
+    "E.H. Knoche",
+    "Lee Harvey Oswald",
+    "Rockefeller Commission",
+    "CIA"
+  ],
+  "significance": "High - David W. Belin's involvement in the Warren Commission and the Rockefeller Commission, specifically his investigation into the CIA's potential role in the JFK assassination, indicates a high level of significance. The number of documents (10) further supports this assessment.",
+  "merged_from_variants": [
+    "Belin",
+    "David W. Belin"
+  ]
+}

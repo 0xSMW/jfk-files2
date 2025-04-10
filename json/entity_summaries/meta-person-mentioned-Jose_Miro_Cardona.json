@@ -1,0 +1,32 @@
+{
+  "entity_name": "Jose_Miro_Cardona",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "124-10326-10191",
+    "104-10227-10271",
+    "104-10298-10095",
+    "124-10284-10081",
+    "104-10167-10366",
+    "104-10232-10019",
+    "104-10236-10056",
+    "104-10232-10004",
+    "124-90135-10074",
+    "104-10227-10150"
+  ],
+  "summary": "Jose Miro Cardona was a prominent leader within the Cuban exile community, deeply involved in anti-Castro activities. He played a key role in the Cuban Revolutionary Council, and his potential resignation reflected his influence and concerns about U.S. policy shifts towards Cuba. Cardona actively sought U.S. support, including arms and military assistance, for aggressive actions against the Castro regime, proposing plans for propaganda, underground operations, and a commando raid. He also coordinated with other nations, such as Guatemala (Carlos Alejos), to garner support for removing Castro from power and establishing a new government on Cuban soil.",
+  "key_connections": [
+    "Carlos Alejos",
+    "Castro regime",
+    "Cuban Revolutionary Council",
+    "Fidel Castro",
+    "U.S. government",
+    "Antonio Varona",
+    "Manuel Artime"
+  ],
+  "significance": "High - Jose Miro Cardona appears in 10 documents and is depicted as a central figure in anti-Castro activities, actively seeking U.S. support and coordinating with other nations. His position within the Cuban Revolutionary Council and his direct involvement in planning and proposing actions against the Castro regime indicate a significant role.",
+  "merged_from_variants": [
+    "Jose Miro Cardona",
+    "MIRO Cardona"
+  ]
+}

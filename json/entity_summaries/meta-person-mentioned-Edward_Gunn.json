@@ -1,0 +1,25 @@
+{
+  "entity_name": "Edward_Gunn",
+  "entity_type": "person-mentioned",
+  "document_count": 4,
+  "document_ids": [
+    "157-10014-10109",
+    "157-10011-10006",
+    "157-10011-10005",
+    "157-10008-10234"
+  ],
+  "summary": "Edward Gunn is mentioned in documents spanning from 1975 to 1993, primarily related to CIA activities, assassination plots, and subsequent investigations. While Gunn's specific role is not detailed, his name appears in connection with sensitive operations such as Operation Mongoose and ZRRIFLE, as well as discussions surrounding 'Executive Action' and plots targeting Fidel Castro and Patrice Lumumba. The documents consist of notes, summaries, and index cards pertaining to these matters.",
+  "key_connections": [
+    "CIA",
+    "Operation Mongoose",
+    "ZRRIFLE",
+    "Fidel Castro",
+    "Patrice Lumumba",
+    "William Harvey",
+    "Rockefeller Commission"
+  ],
+  "significance": "Medium. Edward Gunn's name appears in multiple documents related to sensitive CIA operations and assassination plots, suggesting a potential connection to these activities. However, the lack of specific details regarding his role limits a higher significance assessment.",
+  "merged_from_variants": [
+    "Edward Gunn"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "entity_name": "Philip_Agee",
+  "entity_type": "tag",
+  "document_count": 8,
+  "document_ids": [
+    "104-10110-10305",
+    "104-10129-10101",
+    "104-10418-10046",
+    "104-10110-10306",
+    "104-10105-10119",
+    "104-10103-10357",
+    "104-10105-10102",
+    "104-10110-10303"
+  ],
+  "summary": "Philip Agee is a central figure in these documents, primarily due to his exposure of CIA personnel and activities, particularly between 1972 and 1976. He worked at the Mexico City Station and his actions, including the publication of his book, raised significant concerns within the CIA regarding the disclosure of sensitive information. Agee's activities also led to an assessment of potential damage and connections, including a possible link to the Kennedy assassination through his exposure of CIA personnel with assignments in Mexico City in 1963. Individuals like Nicky Szulc, who claimed access to Cuban intelligence, are mentioned in connection with Agee. Others like Charlotte Z. Bustos-Videla and Elsie L. Scaletti were interviewed about their association with Agee.",
+  "key_connections": [
+    "Mexico City Station",
+    "Nicky Szulc",
+    "David Phillips",
+    "Charlotte Z. Bustos-Videla",
+    "Elsie L. Scaletti",
+    "Cuban operations",
+    "John A. Probert"
+  ],
+  "significance": "High - Philip Agee's exposure of CIA personnel and activities, along with the high document count and potential connection to the Kennedy assassination, indicates a high level of significance within the context of these documents.",
+  "merged_from_variants": [
+    "Agee",
+    "Philip Agee"
+  ]
+}

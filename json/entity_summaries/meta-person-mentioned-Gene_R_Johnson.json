@@ -1,0 +1,27 @@
+{
+  "entity_name": "Gene_R_Johnson",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078",
+    "180-10125-10077",
+    "180-10125-10107"
+  ],
+  "summary": "Gene R. Johnson was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA), later referred to as the Select Committee on Assassinations (SCAS), from 1977 to 1979. Payroll and certification reports document his employment during the committee's investigation into the JFK assassination, listing his name, position, salary, and employment dates.",
+  "key_connections": [
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium - Gene R. Johnson's employment with the HSCA/SCAS is documented across multiple payroll records, indicating his involvement in the JFK assassination investigation. While the exact nature of his role is not specified, the consistent documentation suggests a non-trivial contribution to the committee's work.",
+  "merged_from_variants": [
+    "JOHNSON, GENE R",
+    "Gene R Johnson"
+  ]
+}

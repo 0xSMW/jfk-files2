@@ -1,0 +1,45 @@
+{
+  "entity_name": "Overseas_Assignment",
+  "entity_type": "tag",
+  "document_count": 17,
+  "document_ids": [
+    "104-10225-10003",
+    "104-10129-10439",
+    "104-10113-10030",
+    "104-10129-10027",
+    "104-10250-10035",
+    "104-10326-10082",
+    "104-10110-10314",
+    "104-10215-10003",
+    "104-10222-10043",
+    "104-10112-10148",
+    "104-10194-10001",
+    "104-10194-10026",
+    "104-10224-10012",
+    "104-10113-10258",
+    "104-10130-10305",
+    "104-10291-10004",
+    "104-10194-10017"
+  ],
+  "summary": "Overseas assignments, including both temporary duty (TDY) and permanent changes of station (PCS), represent a significant aspect of CIA personnel actions. These assignments involved relocating officers to various international locations such as Mexico City, Caracas, Bangkok, Managua, Nicaragua, and La Paz, Bolivia, as well as regions like Europe and Southeast Asia. The documents detail the administrative processes, requests, and approvals associated with these reassignments, often linked to operational needs, promotions, or personal requests. Specific examples include TDY trips to Russia for conferences and PCS evaluations for Operations Officers. The records span from the 1950s through the 1970s, highlighting the continuous international deployment and reassignment of CIA personnel.",
+  "key_connections": [
+    "Russia",
+    "Mexico City",
+    "Caracas",
+    "Europe",
+    "Southeast Asia",
+    "Managua, Nicaragua",
+    "La Paz, Bolivia",
+    "Bangkok",
+    "Charlotte Z. Bustos-Videla",
+    "Calvin W. Hicks",
+    "Joseph S. Piccolo",
+    "Miguel Angel DIAZ Isalgué"
+  ],
+  "significance": "High. Overseas assignments are a fundamental aspect of CIA operations, involving frequent relocation of personnel and significant administrative overhead. The presence of 17 documents and the variety of locations and individuals mentioned indicate a substantial role in the agency's activities.",
+  "merged_from_variants": [
+    "Reassignment",
+    "TDY",
+    "Overseas Assignment"
+  ]
+}

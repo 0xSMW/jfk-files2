@@ -1,0 +1,26 @@
+{
+  "entity_name": "John_N_McMahon",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "document_ids": [
+    "104-10145-10436",
+    "104-10095-10263",
+    "104-10067-10043",
+    "180-10111-10051",
+    "104-10065-10075",
+    "104-10291-10004"
+  ],
+  "summary": "John N. McMahon is mentioned in documents related to CIA activities and investigations during the 1970s. While specific details about his role are limited, his name appears in connection with Senate Select Committee actions, a request for documents pertaining to Tennent Bagley, and an interview with Donald Deneslya concerning CIA activities and Lee Harvey Oswald. This suggests McMahon was likely involved in CIA operations or investigations, possibly with knowledge of matters related to Oswald and the aftermath of the JFK assassination. However, the precise nature and extent of his involvement remains unclear.",
+  "key_connections": [
+    "Senate Select Committee",
+    "Tennent Bagley",
+    "Lee Harvey Oswald",
+    "CIA",
+    "Donald Deneslya"
+  ],
+  "significance": "Medium - John N. McMahon appears in multiple documents related to CIA activities and the JFK assassination investigation, suggesting some level of involvement or knowledge. However, the available summaries do not provide enough detail to determine the full extent of his significance.",
+  "merged_from_variants": [
+    "John McMahon",
+    "John N. McMahon"
+  ]
+}

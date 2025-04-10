@@ -1,0 +1,29 @@
+{
+  "entity_name": "Cyrus_Vance",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "document_ids": [
+    "198-10009-10099",
+    "206-10001-10014",
+    "104-10306-10010",
+    "104-10310-10020",
+    "157-10011-10007",
+    "206-10001-10006"
+  ],
+  "summary": "Cyrus Vance is identified as being involved in high-level discussions and decision-making processes related to national security and covert operations during the 1960s. He participated in meetings of the President's Foreign Intelligence Advisory Board (PFIAB) and the Special Group (5412), indicating his role in advising on or overseeing aspects of U.S. foreign policy and intelligence operations. These discussions included covert actions related to Cuba, North Vietnam, and Chile, as well as broader intelligence matters such as the National Reconnaissance Office (NRO) and National Signals Intelligence (SIGINT) program. The documents suggest his involvement in discussions regarding reconnaissance of Cuba, potential actions against Castro, and Cuban subversion efforts in Latin America.",
+  "key_connections": [
+    "Cuba",
+    "Castro",
+    "Special Group Augmented",
+    "North Vietnam",
+    "National Reconnaissance Office (NRO)",
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Special Group (5412)",
+    "National Signals Intelligence (SIGINT)"
+  ],
+  "significance": "High - Cyrus Vance appears to have been a significant figure involved in high-level discussions and decision-making regarding sensitive covert operations and intelligence matters during the 1960s, as evidenced by his presence in meetings of key advisory boards and groups.",
+  "merged_from_variants": [
+    "Vance",
+    "Cyrus Vance"
+  ]
+}

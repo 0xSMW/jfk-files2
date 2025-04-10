@@ -1,0 +1,24 @@
+{
+  "entity_name": "Mark_A_Speiser",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078"
+  ],
+  "summary": "Mark A. Speiser was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA), also referred to as the Select Committee on Assassinations (SCAS). Payroll and certification reports from October 1977 to December 1978 document his employment, listing his name, salary, and pay during this period. These records indicate his continuous involvement with the committee's work, although his specific role is not detailed in the provided documents.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Mark A. Speiser's consistent presence in the HSCA/SCAS payroll records across multiple documents suggests a significant, though potentially administrative, role within the committee investigating the JFK assassination. The lack of specific role details limits a higher significance rating.",
+  "merged_from_variants": [
+    "Mark A Speiser",
+    "SPEISER, MARK A"
+  ]
+}

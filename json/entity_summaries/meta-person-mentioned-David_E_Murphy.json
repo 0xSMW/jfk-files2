@@ -1,0 +1,51 @@
+{
+  "entity_name": "David_E_Murphy",
+  "entity_type": "person-mentioned",
+  "document_count": 27,
+  "document_ids": [
+    "206-10001-10009",
+    "178-10004-10054",
+    "180-10143-10062",
+    "206-10001-10000",
+    "206-10001-10014",
+    "104-10226-10001",
+    "206-10001-10005",
+    "104-10222-10038",
+    "104-10174-10072",
+    "206-10001-10008",
+    "206-10001-10006",
+    "206-10001-10012",
+    "206-10001-10007",
+    "135-10001-10283",
+    "206-10001-10013",
+    "206-10001-10004",
+    "104-10227-10000",
+    "104-10106-10300",
+    "206-10001-10011",
+    "135-10001-10297",
+    "104-10061-10181",
+    "157-10011-10003",
+    "104-10224-10002",
+    "180-10145-10409",
+    "180-10143-10233",
+    "104-10061-10292",
+    "206-10001-10001"
+  ],
+  "summary": "David E. Murphy was a CIA employee involved in intelligence activities from the early 1960s through the 1970s. Documents mention his potential compromise to North Vietnamese Intelligence, personnel actions related to his CIA career, and letters of appreciation for his service. He participated in high-level discussions and meetings concerning covert actions globally, including CIA support in Chile, the situation in Vietnam, and operations related to Cuba, particularly Operation MONGOOSE. He was also present at a meeting with the Warren Commission, where topics such as Lee Harvey Oswald's time in the Soviet Union were discussed. His involvement with the President's Foreign Intelligence Advisory Board (PFIAB) suggests he was privy to significant intelligence matters during this period.",
+  "key_connections": [
+    "CIA",
+    "Cuba",
+    "Vietnam",
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Operation MONGOOSE",
+    "Warren Commission",
+    "Lee Harvey Oswald",
+    "Chile"
+  ],
+  "significance": "Medium. David E. Murphy appears to have been a significant figure within the CIA during a critical period, as evidenced by his involvement in discussions related to major intelligence operations and his presence at meetings with the Warren Commission and the PFIAB. The number of documents mentioning him (27) further supports this assessment.",
+  "merged_from_variants": [
+    "David E. Murphy",
+    "Mr. Murphy",
+    "Murphy"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "entity_name": "President_of_the_United_States",
+  "entity_type": "recipient",
+  "document_count": 10,
+  "document_ids": [
+    "177-10002-10070",
+    "206-10001-10011",
+    "206-10001-10012",
+    "177-10002-10069",
+    "157-10002-10056",
+    "177-10002-10098",
+    "177-10002-10097",
+    "177-10002-10096",
+    "177-10002-10103",
+    "206-10001-10002"
+  ],
+  "summary": "The President of the United States served as the primary recipient of intelligence information and briefings on critical national security matters between 1963 and 1964, during the Kennedy and early Johnson administrations. The President received regular intelligence checklists covering global hotspots and potential threats, including activity in Cuba, South Vietnam, Venezuela, and Berlin, as well as information on Soviet activities and potential political instability. The President's Foreign Intelligence Advisory Board (PFIAB) provided briefings and recommendations, particularly concerning intelligence activities related to Cuba. The President also oversaw the CIA, including reorganization efforts and covert operations, and was involved in diplomatic relations, including preparations for meetings with foreign leaders to discuss trade, cooperation against Castro Communism, and narcotics control. These documents underscore the President's central role in national security decision-making and oversight of intelligence operations.",
+  "key_connections": [
+    "Cuba",
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "CIA",
+    "South Vietnam",
+    "Soviet Union",
+    "President Lopez Mateos (Mexico)"
+  ],
+  "significance": "High. The President of the United States is a central figure in national security matters and intelligence operations, as evidenced by the frequent briefings, intelligence checklists, and oversight responsibilities detailed in these documents.",
+  "merged_from_variants": [
+    "The President",
+    "President of the United States"
+  ]
+}

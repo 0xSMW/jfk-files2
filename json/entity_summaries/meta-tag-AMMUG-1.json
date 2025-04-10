@@ -1,0 +1,33 @@
+{
+  "entity_name": "AMMUG-1",
+  "entity_type": "tag",
+  "document_count": 13,
+  "document_ids": [
+    "104-10186-10004",
+    "104-10185-10234",
+    "104-10180-10044",
+    "104-10183-10276",
+    "104-10186-10382",
+    "104-10185-10243",
+    "104-10183-10333",
+    "104-10225-10035",
+    "104-10185-10248",
+    "104-10185-10252",
+    "104-10183-10355",
+    "104-10185-10315",
+    "104-10183-10335"
+  ],
+  "summary": "AMMUG-1, also referred to as AMMUG/1, was an individual of interest to the CIA during the 1960s and 1970s. Documents suggest AMMUG-1 was a Cuban defector involved in operations in Central America and the Caribbean, with a focus on target analysis and operational leads. The CIA provided logistical and financial support, including safe housing in Silver Spring, Maryland, and cover employment through the Inter-University Committee for Political and Social Action (ICPSA). Concerns arose regarding the security of safehouses and AMMUG-1's cover. In 1968, AMMUG-1 was requested to present in Montevideo to influence the Uruguayan government's intelligence efforts. Later documentation from 1970 relates to securing AMMUG-1's citizenship and potential recruitment approaches towards Roberto Rodriguez Llompart, the brother of a Cuban ambassador. AMMUG-1 was also queried about Manuel ESTEVEZ Perez but could not identify him.",
+  "key_connections": [
+    "Inter-University Committee for Political and Social Action (ICPSA)",
+    "Roberto Rodriguez Llompart",
+    "KUBARK",
+    "Manuel ESTEVEZ Perez",
+    "JMWAVE"
+  ],
+  "significance": "Medium. AMMUG-1 appears in a moderate number of documents and was involved in CIA operations and intelligence gathering, suggesting a relevant but not central role within the documented activities.",
+  "merged_from_variants": [
+    "AMMUG-1",
+    "AMMUG/1"
+  ]
+}

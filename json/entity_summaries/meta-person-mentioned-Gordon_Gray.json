@@ -1,0 +1,50 @@
+{
+  "entity_name": "Gordon_Gray",
+  "entity_type": "person-mentioned",
+  "document_count": 26,
+  "document_ids": [
+    "206-10001-10009",
+    "104-10301-10004",
+    "206-10001-10000",
+    "206-10001-10005",
+    "157-10014-10100",
+    "206-10001-10006",
+    "157-10011-10010",
+    "206-10001-10012",
+    "206-10001-10007",
+    "206-10001-10013",
+    "206-10001-10010",
+    "206-10001-10004",
+    "124-10274-10029",
+    "178-10004-10115",
+    "157-10008-10238",
+    "157-10008-10234",
+    "157-10014-10178",
+    "135-10001-10297",
+    "157-10011-10003",
+    "206-10001-10016",
+    "157-10014-10137",
+    "104-10302-10000",
+    "124-10271-10013",
+    "157-10014-10067",
+    "206-10001-10017",
+    "206-10001-10002"
+  ],
+  "summary": "Gordon Gray was a significant figure in U.S. intelligence and foreign policy, particularly during the Eisenhower and Kennedy administrations. He served as Special Assistant to President Eisenhower and was a member of the President's Foreign Intelligence Advisory Board (PFIAB). His involvement extended to discussions and considerations regarding covert actions, intelligence gathering, and potential assassinations of foreign leaders, including Trujillo, Castro, and Lumumba. Gray participated in meetings concerning CIA activities in various countries, such as Cuba, Brazil, and Southeast Asia. He also reviewed and advised on intelligence matters, especially those related to Cuba, including the Soviet missile buildup and covert operations. He testified before the President's Commission on CIA Activities, focusing on the CIA's role, intelligence gathering methods, and executive oversight.",
+  "key_connections": [
+    "President Eisenhower",
+    "President Kennedy",
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "CIA",
+    "Fidel Castro",
+    "Trujillo",
+    "Patrice Lumumba",
+    "Director of Central Intelligence (DCI)",
+    "Cuba"
+  ],
+  "significance": "High. Gordon Gray's extensive involvement in intelligence matters during critical periods of the Cold War, his advisory role to Presidents Eisenhower and Kennedy, and his participation in discussions related to sensitive topics like covert operations and potential assassinations suggest a high level of significance within the context of these documents.",
+  "merged_from_variants": [
+    "Gordon Gray",
+    "Gray"
+  ]
+}

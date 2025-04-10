@@ -1,0 +1,38 @@
+{
+  "entity_name": "Southern_Christian_Leadership_Conference",
+  "entity_type": "tag",
+  "document_count": 17,
+  "document_ids": [
+    "124-10276-10482_multirif",
+    "124-10264-10210_multirif",
+    "124-10273-10018_multirif",
+    "124-10264-10209_multirif",
+    "124-10238-10333_multirif",
+    "124-10276-10483_multirif",
+    "124-10274-10357_multirif",
+    "124-10274-10358_multirif",
+    "124-10273-10014_multirif",
+    "124-10264-10208_multirif",
+    "124-10273-10008_multirif",
+    "124-10264-10206_multirif",
+    "124-10273-10012_multirif",
+    "124-10273-10016_multirif",
+    "104-10071-10148",
+    "124-10238-10329_multirif",
+    "124-10273-10022_multirif"
+  ],
+  "summary": "The Southern Christian Leadership Conference (SCLC) is a significant entity within the documents, primarily due to the FBI's extensive investigations into the organization and its leader, Martin Luther King Jr. These investigations, which focused on alleged communist ties and associations with individuals like Stanley Levison, were a key focus of the FBI's activities. The U.S. Senate Select Committee on Intelligence Activities (SSC) later requested and received materials from the FBI regarding these investigations. The documents also mention Hosea Williams in connection to claims regarding the assassinations of Martin Luther King Jr. and Malcolm X.",
+  "key_connections": [
+    "Martin Luther King, Jr.",
+    "FBI",
+    "Stanley Levison",
+    "U.S. Senate Select Committee on Intelligence Activities (SSC)",
+    "Hosea Williams",
+    "Communist Party USA (CPUSA)"
+  ],
+  "significance": "High - The SCLC is a central figure in the documents due to the extensive FBI investigations into the organization and its leader, Martin Luther King Jr. The high document count and the focus on alleged communist ties suggest a significant level of scrutiny and relevance within the context of the source material.",
+  "merged_from_variants": [
+    "Southern Christian Leadership Conference",
+    "SCLC"
+  ]
+}

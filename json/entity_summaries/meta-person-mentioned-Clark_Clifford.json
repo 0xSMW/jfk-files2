@@ -1,0 +1,40 @@
+{
+  "entity_name": "Clark_Clifford",
+  "entity_type": "person-mentioned",
+  "document_count": 17,
+  "document_ids": [
+    "206-10001-10009",
+    "178-10004-10053",
+    "178-10004-10420",
+    "206-10001-10011",
+    "124-10325-10318",
+    "206-10001-10012",
+    "206-10001-10000",
+    "104-10302-10000",
+    "206-10001-10001",
+    "206-10001-10013",
+    "206-10001-10010",
+    "206-10001-10006",
+    "206-10001-10003",
+    "206-10001-10017",
+    "206-10001-10004",
+    "206-10001-10005",
+    "206-10001-10002"
+  ],
+  "summary": "Clark Clifford, also referred to as Mr. Clifford or simply Clifford, was involved in high-level government affairs, particularly related to intelligence matters, between 1962 and 1975. His presence is noted in the context of the President's Foreign Intelligence Advisory Board (PFIAB) meetings and discussions. These meetings covered a range of critical intelligence topics, including the OXCART project, intelligence budget allocations, Operation MONGOOSE, the National Reconnaissance Office (NRO), the National Signals Intelligence (SIGINT) program, intelligence activities pertaining to Cuba (including the Cuban Missile Crisis), and Southeast Asia (particularly Vietnam). While the documents do not detail his specific contributions, his association with the PFIAB suggests his role as an advisor or participant in discussions concerning national security and intelligence operations.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Cuba",
+    "Vietnam",
+    "National Reconnaissance Office (NRO)",
+    "National Signals Intelligence (SIGINT)",
+    "CIA",
+    "John McCone"
+  ],
+  "significance": "Medium. Clark Clifford's involvement with the PFIAB and his presence in discussions related to critical intelligence matters suggest a moderate level of significance. While the documents do not explicitly detail his specific actions or decisions, his participation in these high-level meetings indicates that he was a figure of some importance in the context of national security and intelligence during this period.",
+  "merged_from_variants": [
+    "Mr. Clifford",
+    "Clark Clifford",
+    "Clifford"
+  ]
+}

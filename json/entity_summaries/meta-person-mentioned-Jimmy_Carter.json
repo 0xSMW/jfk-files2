@@ -1,0 +1,32 @@
+{
+  "entity_name": "Jimmy_Carter",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "document_ids": [
+    "104-10431-10102",
+    "206-10001-10009",
+    "206-10001-10000",
+    "104-10118-10427",
+    "157-10011-10009",
+    "124-10291-10023",
+    "206-10001-10010",
+    "206-10001-10006",
+    "180-10060-10453",
+    "104-10263-10111",
+    "104-10012-10035",
+    "157-10011-10007"
+  ],
+  "summary": "Jimmy Carter's name appears in several documents, primarily in the context of a potential security threat during his 1978 visit to Venezuela. CIA situation reports detail concerns about leftist groups, Cuban exiles, and international terrorists potentially posing a risk. He is also mentioned in documents related to Sergyj Czornonoh's claims about Lee Harvey Oswald, although his direct involvement is not specified. While the documents cover a range of topics during his presidency, including intelligence activities related to Cuba and discussions within the President's Foreign Intelligence Advisory Board (PFIAB), there is no indication of direct involvement or connection to the JFK assassination itself.",
+  "key_connections": [
+    "Venezuela",
+    "Cuban exiles",
+    "International terrorists",
+    "Sergyj Czornonoh",
+    "Lee Harvey Oswald"
+  ],
+  "significance": "Medium. Jimmy Carter is mentioned in a moderate number of documents (12), but his connection to the core topic (JFK assassination) is indirect. He appears more prominently in the context of other events and intelligence matters during his presidency.",
+  "merged_from_variants": [
+    "Jimmy Carter",
+    "Carter"
+  ]
+}

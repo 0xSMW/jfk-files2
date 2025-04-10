@@ -1,0 +1,30 @@
+{
+  "entity_name": "Legal_Attaches",
+  "entity_type": "tag",
+  "document_count": 8,
+  "document_ids": [
+    "124-10271-10301",
+    "124-10274-10127",
+    "124-10212-10337",
+    "104-10433-10050",
+    "157-10002-10152",
+    "124-10168-10040",
+    "104-10178-10136",
+    "124-10274-10011 (c06716583)"
+  ],
+  "summary": "Legal Attaches are referenced in the documents primarily in the context of FBI activities, intelligence dissemination, and interactions with other agencies, including the CIA and the Department of State. Their role involves receiving and potentially acting upon intelligence information from various sources. Documents indicate that the Senate Select Committee (SSC) showed interest in contacts between the FBI, the President, and the Department of State regarding legal attaches in 1971. Specific instances include the dissemination of information related to the Martin Luther King Jr. assassination investigation and a CIA request to enter the Chilean Embassy. The documents also touch on the broader relationship between the FBI and CIA, including instances of conflict and cooperation.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "Department of State",
+    "Senate Select Committee (SSC)",
+    "Martin Luther King Jr.",
+    "Chilean Embassy",
+    "Domestic Intelligence Division"
+  ],
+  "significance": "Medium - Legal Attaches appear to be a relevant component within the FBI's operational structure and its interactions with other agencies, particularly concerning intelligence gathering and dissemination, as well as sensitive investigations. The documents suggest their involvement in both domestic and international matters, though the specifics of their activities are not extensively detailed.",
+  "merged_from_variants": [
+    "Legal Attache",
+    "Legal Attaches"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "entity_name": "MAXWELL_ALBERT",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078"
+  ],
+  "summary": "Albert Maxwell was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA), also known as the Select Committee on Assassinations (SCA). Payroll and certification reports from October 1977 to December 1978 document his employment, position, and salary. These records indicate that Maxwell was a staff member during a significant portion of the committee's investigation into assassinations.",
+  "key_connections": [
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Albert Maxwell's significance is moderate. He appears in multiple payroll records related to the HSCA investigation, suggesting he was a staff member. While his specific role isn't detailed, his presence in these records indicates involvement in the committee's work.",
+  "merged_from_variants": [
+    "Albert Maxwell",
+    "MAXWELL, ALBERT"
+  ]
+}

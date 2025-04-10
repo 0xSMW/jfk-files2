@@ -1,0 +1,25 @@
+{
+  "entity_name": "MATTHEWS_LEODIS_C",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078",
+    "180-10125-10077"
+  ],
+  "summary": "Leodis C. Matthews was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA), also known as the Select Committee on Assassinations (SCAS), from October 1977 to January 1979. Payroll and certification reports confirm Matthews' employment, listing their name, social security number, position, and salary during this period. While the specific role Matthews held within the committee is not detailed, the records indicate a sustained period of employment during its investigation into the JFK assassination.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Leodis C. Matthews' employment with the Select Committee on Assassinations is documented across multiple payroll and certification reports. While the specific role is not detailed, the consistent employment during the JFK assassination investigation suggests some level of involvement, meriting medium significance.",
+  "merged_from_variants": [
+    "Leodis C Matthews",
+    "MATTHEWS, LEODIS C"
+  ]
+}

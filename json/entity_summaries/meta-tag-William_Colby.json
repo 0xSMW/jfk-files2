@@ -1,0 +1,33 @@
+{
+  "entity_name": "William_Colby",
+  "entity_type": "tag",
+  "document_count": 7,
+  "document_ids": [
+    "178-10003-10453",
+    "157-10011-10024",
+    "178-10004-10314",
+    "157-10002-10150",
+    "104-10106-10188",
+    "104-10303-10007",
+    "157-10014-10227"
+  ],
+  "summary": "William Colby served as the Director of Central Intelligence (DCI) during the mid-1970s, a period marked by intense scrutiny of the CIA's activities. He was involved in high-level intelligence discussions and oversight, including matters related to the Church Committee and foreign policy concerning Angola. Colby's tenure coincided with investigations into potential CIA abuses, such as plots to assassinate foreign leaders like Fidel Castro and Patrice Lumumba, as well as controversial operations involving wiretapping, breaking and entering, and chemical warfare planning. He received correspondence from Senator Frank Church regarding Senate investigations and testified before the SSCIA regarding CIA operations, indicating his central role in addressing concerns about the agency's past actions.",
+  "key_connections": [
+    "Church Committee",
+    "Frank Church",
+    "Senate Select Committee",
+    "CIA",
+    "Fidel Castro",
+    "Patrice Lumumba",
+    "Kissinger",
+    "Ford",
+    "Scowcroft",
+    "FBI",
+    "Sam Jaffe"
+  ],
+  "significance": "High. William Colby, as DCI during a period of intense scrutiny of the CIA, is a significant figure in understanding the agency's activities and the investigations surrounding them. The documents highlight his involvement in key intelligence matters and his role in addressing concerns about potential abuses.",
+  "merged_from_variants": [
+    "William Colby",
+    "Colby"
+  ]
+}

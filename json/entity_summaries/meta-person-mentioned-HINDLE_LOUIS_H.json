@@ -1,0 +1,28 @@
+{
+  "entity_name": "HINDLE_LOUIS_H",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "document_ids": [
+    "180-10125-10093",
+    "180-10125-10086",
+    "180-10125-10106",
+    "180-10125-10075",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10076",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10092",
+    "180-10125-10107"
+  ],
+  "summary": "Louis H. Hindle was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from 1977 to 1979. Payroll certifications and reports document his position and salary as part of the committee staff during this period. While the specific nature of his role within the HSCA is not detailed, his consistent presence on payroll records indicates sustained employment throughout the HSCA's investigation into the JFK assassination.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations (HSCA)",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Louis H. Hindle's significance lies in his employment with the HSCA during its investigation into the JFK assassination. While his specific role is not detailed, the multiple payroll records suggest a consistent involvement, making him a relevant figure within the committee's staff.",
+  "merged_from_variants": [
+    "Hindle, Louis H",
+    "Louis H Hindle"
+  ]
+}

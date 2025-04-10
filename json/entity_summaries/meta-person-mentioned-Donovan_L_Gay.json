@@ -1,0 +1,31 @@
+{
+  "entity_name": "Donovan_L_Gay",
+  "entity_type": "person-mentioned",
+  "document_count": 16,
+  "document_ids": [
+    "180-10060-10438",
+    "180-10070-10143",
+    "180-10068-10310",
+    "180-10070-10173",
+    "180-10068-10346",
+    "180-10060-10440",
+    "180-10070-10150",
+    "180-10060-10491",
+    "180-10068-10317",
+    "180-10068-10337",
+    "180-10068-10350",
+    "180-10068-10334",
+    "180-10060-10494",
+    "180-10125-10107",
+    "180-10068-10320",
+    "180-10060-10449"
+  ],
+  "summary": "Based on the provided documents related to the House Select Committee on Assassinations (HSCA), there is no explicit mention of Donovan L. Gay, Donovan Gay, or Gay. The documents primarily consist of payroll records, authorization forms, memoranda, and notifications concerning the postponement of releasing Social Security numbers for HSCA staff members such as Patricia M. Orr, Jacqueline Hess, and S. Jonathan Blackmer. The records detail employee names, salaries, employment history, and termination dates. Therefore, it's impossible to determine Donovan L. Gay's role, significance, connections, timeline, or patterns within these documents.",
+  "key_connections": [],
+  "significance": "Low. While Donovan L. Gay is mentioned across 16 documents, the summaries indicate that the name is not explicitly present in the content of those documents. The documents are primarily focused on payroll and administrative matters of other HSCA staff.",
+  "merged_from_variants": [
+    "Donovan Gay",
+    "Gay",
+    "Donovan L. Gay"
+  ]
+}

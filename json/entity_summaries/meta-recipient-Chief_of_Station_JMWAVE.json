@@ -1,0 +1,29 @@
+{
+  "entity_name": "Chief_of_Station_JMWAVE",
+  "entity_type": "recipient",
+  "document_count": 8,
+  "document_ids": [
+    "104-10229-10002",
+    "104-10180-10210",
+    "104-10171-10003",
+    "104-10078-10014",
+    "104-10183-10333",
+    "104-10232-10019",
+    "104-10226-10067",
+    "104-10072-10289"
+  ],
+  "summary": "Chief of Station JMWAVE, also known as JMWAVE, was the head of a CIA station operating in Miami, Florida, during the early to late 1960s. The station was heavily involved in anti-Castro operations, including propaganda, intelligence gathering, and support for anti-Castro groups. As a recipient of communications, JMWAVE handled sensitive information and logistical arrangements related to these operations, including matters concerning the Inter-University Committee for Political and Social Action (ICPSA), trust accounts for Brigade 2506 members, and travel arrangements. JMWAVE also maintained relationships with individuals providing operational support and intelligence, such as the journalist AMCARBON-1, and was involved in establishing non-official cover for agents in other countries.",
+  "key_connections": [
+    "AMCARBON-1",
+    "Brigade 2506",
+    "ICPSA",
+    "Dr. MIRO Cardona",
+    "KUBARK",
+    "Alexander Shatton"
+  ],
+  "significance": "High. As the head of a CIA station involved in significant anti-Castro operations during the 1960s, Chief of Station JMWAVE played a crucial role in a sensitive and politically charged context. The station's involvement in propaganda, intelligence gathering, and support for anti-Castro groups, as well as its connections to key individuals and organizations, suggests a high level of operational importance.",
+  "merged_from_variants": [
+    "Chief of Station, JMWAVE",
+    "JMWAVE"
+  ]
+}

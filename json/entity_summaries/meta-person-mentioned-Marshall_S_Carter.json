@@ -1,0 +1,47 @@
+{
+  "entity_name": "Marshall_S_Carter",
+  "entity_type": "person-mentioned",
+  "document_count": 19,
+  "document_ids": [
+    "104-10306-10003",
+    "178-10004-10056",
+    "202-10001-10187",
+    "178-10003-10001",
+    "135-10001-10246",
+    "104-10227-10000",
+    "206-10001-10015",
+    "124-10222-10171",
+    "104-10306-10018",
+    "124-10274-10029_multirif_redacted",
+    "104-10331-10149",
+    "178-10003-10016",
+    "104-10306-10021",
+    "178-10003-10090",
+    "104-10306-10010",
+    "104-10193-10069",
+    "206-10001-10017",
+    "124-10185-10099",
+    "206-10001-10002"
+  ],
+  "summary": "Marshall S. Carter was involved in various CIA activities and foreign policy discussions during the Kennedy and Johnson administrations. He participated in Special Group (Augmented) meetings concerning covert operations against Cuba, including Operation MONGOOSE, from 1962 to 1964. Carter was also present at a President's Foreign Intelligence Advisory Board (PFIAB) meeting in 1964. Documents mention CIA activities such as support to the Secret Service, investigations into leaks, the MHCHAOS program, and the case of KGB defector Yuriy Nosenko. He appears connected to investigations involving the FBI and State Department related to anti-Castro exile groups. The documents suggest his involvement in intelligence matters and his connection to organizations like the CIA and PFIAB.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "State Department",
+    "Special Group (Augmented)",
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Cuba",
+    "Operation MONGOOSE",
+    "MHCHAOS program",
+    "Yuriy Ivanovich Nosenko",
+    "President Kennedy",
+    "President Johnson",
+    "Secret Service"
+  ],
+  "significance": "Medium - Marshall S. Carter appears in a significant number of documents (19) related to sensitive intelligence matters and covert operations during the Kennedy and Johnson administrations, suggesting a notable role within these contexts. While the documents don't explicitly detail all his actions, his presence in key meetings and connections to important organizations indicate his involvement in significant events.",
+  "merged_from_variants": [
+    "Marshall Carter",
+    "Marshall S. Carter",
+    "General Carter"
+  ]
+}

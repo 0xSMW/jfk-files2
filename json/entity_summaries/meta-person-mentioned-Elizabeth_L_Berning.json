@@ -1,0 +1,51 @@
+{
+  "entity_name": "Elizabeth_L_Berning",
+  "entity_type": "person-mentioned",
+  "document_count": 33,
+  "document_ids": [
+    "180-10060-10454",
+    "180-10068-10314",
+    "180-10068-10298",
+    "180-10070-10145",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10076",
+    "180-10060-10482",
+    "180-10125-10107",
+    "180-10125-10086",
+    "180-10068-10335",
+    "180-10068-10359",
+    "180-10125-10096",
+    "180-10147-10260",
+    "180-10147-10265",
+    "180-10068-10339",
+    "180-10068-10336",
+    "180-10125-10083",
+    "180-10125-10075",
+    "180-10060-10452",
+    "180-10060-10481",
+    "180-10147-10259",
+    "180-10068-10309",
+    "180-10125-10081",
+    "180-10068-10306",
+    "180-10060-10493",
+    "180-10125-10087",
+    "180-10070-10155",
+    "180-10060-10471",
+    "180-10068-10362",
+    "180-10125-10078",
+    "180-10068-10343",
+    "180-10070-10170"
+  ],
+  "summary": "Elizabeth L. Berning was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from 1977 to 1979. Payroll and certification reports confirm her employment during this period, detailing her name, position, salary, and pay period earnings. These documents indicate her involvement with the HSCA's operations during its investigation into the JFK assassination, although her specific role within the committee is not explicitly stated.",
+  "key_connections": [
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Elizabeth L. Berning's consistent presence in payroll records across multiple documents suggests she was a staff member of the HSCA during its active investigation into the JFK assassination. While her exact role is not detailed, her employment is confirmed, making her a relevant, though not central, figure in the committee's operations.",
+  "merged_from_variants": [
+    "BERNING, ELIZABETH L",
+    "Elizabeth L Berning",
+    "Elizabeth Berning"
+  ]
+}

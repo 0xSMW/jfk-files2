@@ -1,0 +1,40 @@
+{
+  "entity_name": "Technical_Services_Division",
+  "entity_type": "tag",
+  "document_count": 17,
+  "document_ids": [
+    "104-10066-10076",
+    "104-10179-10167",
+    "104-10124-10149",
+    "104-10216-10159",
+    "104-10219-10003",
+    "104-10120-10297",
+    "104-10123-10098",
+    "104-10110-10621",
+    "124-90092-10016",
+    "104-10216-10234",
+    "104-10120-10276",
+    "104-10063-10438",
+    "104-10123-10097",
+    "104-10303-10008",
+    "104-10111-10076",
+    "104-10068-10164",
+    "104-10131-10016"
+  ],
+  "summary": "The Technical Services Division (TSD) of the CIA was responsible for providing technical support and services to other CIA components and external agencies. This included creating and managing alias documentation (e.g., driver's licenses, social security cards) for covert personnel. TSD's activities spanned electronics engineering, audio surveillance, and microtechnology, involving the development of specialized equipment like radio switch equipment for demolition firing and the LENROUP-1 system. They were also involved in sensitive operations such as STESCALADE, an audio operation against the New China News Agency in Havana. The division coordinated with other departments, such as the Security division, and provided support to other agencies, outlining service types and request processes. TSD's involvement spanned from the early 1960s to the early 1970s.",
+  "key_connections": [
+    "Security division",
+    "Audio Operations Branch",
+    "New China News Agency (NCNA)",
+    "Sidney Gottlieb",
+    "William K. Harvey",
+    "Engineering Branch",
+    "Technical Aids Detachment (TAD)",
+    "LENROUP-1"
+  ],
+  "significance": "High. The Technical Services Division appears to have been a crucial component of the CIA, involved in a wide array of technical and operational activities, including sensitive operations and support for covert activities. The number of documents mentioning the TSD further underscores its significance.",
+  "merged_from_variants": [
+    "Technical Services Division",
+    "TSD"
+  ]
+}

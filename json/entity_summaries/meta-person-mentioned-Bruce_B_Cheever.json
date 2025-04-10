@@ -1,0 +1,38 @@
+{
+  "entity_name": "Bruce_B_Cheever",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "document_ids": [
+    "157-10014-10047",
+    "104-10306-10003",
+    "104-10304-10000",
+    "104-10306-10021",
+    "157-10011-10006",
+    "157-10011-10009",
+    "157-10008-10241",
+    "104-10306-10010",
+    "157-10002-10001",
+    "104-10163-10041",
+    "157-10011-10005",
+    "104-10301-10001"
+  ],
+  "summary": "Bruce B. Cheever, also known as Bruce Cheever or simply Cheever, was the former deputy director of Task Force W, a group heavily involved in Operation Mongoose, a CIA operation focused on covert actions against Cuba. Documents suggest Cheever participated in discussions and activities related to sabotage, psychological warfare, and reconnaissance against Cuba and potentially North Vietnam during the early 1960s. An interview summary from July 24, 1975, details Cheever's discussion with Paul Wallach and Joe DiGenova regarding the assassination inquiry, where he spoke about Task Force W's role in Operation Mongoose and his interactions with individuals such as Harvey, Lansdale, and members of the SGA. The documents span from 1964 to 1976, reflecting the period of Cheever's involvement and subsequent inquiries.",
+  "key_connections": [
+    "Operation Mongoose",
+    "Covert Operations",
+    "Cuba",
+    "CIA",
+    "Lansdale",
+    "Harvey",
+    "Paul Wallach",
+    "Joe DiGenova",
+    "Fidel Castro",
+    "Task Force W"
+  ],
+  "significance": "Medium. Bruce B. Cheever's involvement in Operation Mongoose and his position as deputy director of Task Force W suggest a significant role in covert operations during the early 1960s. His later discussion regarding the assassination inquiry further indicates his relevance to the historical context, although the documents do not directly link him to the JFK assassination itself.",
+  "merged_from_variants": [
+    "Bruce B. Cheever",
+    "Bruce Cheever",
+    "Cheever"
+  ]
+}

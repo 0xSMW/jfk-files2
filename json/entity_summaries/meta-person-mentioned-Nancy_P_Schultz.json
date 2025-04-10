@@ -1,0 +1,25 @@
+{
+  "entity_name": "Nancy_P_Schultz",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078",
+    "180-10125-10077"
+  ],
+  "summary": "Nancy P. Schultz was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA), later referred to as the Select Committee on Assassinations (SCAS). Payroll and certification reports from 1977 to 1979 document her employment, including her name, social security number, position, and salary. These records indicate her involvement with the committee during its investigation into the JFK assassination.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Nancy P. Schultz appears in multiple administrative documents related to the HSCA/SCAS investigation into the JFK assassination, indicating she was a staff member. While not a central figure, her consistent presence in payroll records suggests a supporting role in the committee's operations.",
+  "merged_from_variants": [
+    "Nancy P Schultz",
+    "SCHULTZ, NANCY P"
+  ]
+}

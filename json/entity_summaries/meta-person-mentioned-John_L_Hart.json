@@ -1,0 +1,28 @@
+{
+  "entity_name": "John_L_Hart",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "document_ids": [
+    "104-10332-10009",
+    "180-10111-10051",
+    "104-10301-10001",
+    "104-10222-10038",
+    "104-10193-10077",
+    "104-10178-10078",
+    "104-10306-10025"
+  ],
+  "summary": "John L. Hart is identified as the likely author of the \"Hart Report,\" a document of interest to the House Select Committee on Assassinations (HSCA) during its investigation into the JFK assassination. The HSCA requested access to this report, suggesting its relevance to the assassination inquiry. While the specific contents of the Hart Report are not detailed, its significance is indicated by the attention it received in relation to the JFK Assassination Records Collection Act and concerns surrounding the CIA's handling of information, particularly in connection to the Yuriy Nosenko case.",
+  "key_connections": [
+    "John Hart",
+    "Yuriy Nosenko",
+    "CIA",
+    "House Select Committee on Assassinations (HSCA)",
+    "JFK Assassination Records Collection Act",
+    "Hart Report"
+  ],
+  "significance": "Medium. John L. Hart's significance stems from his authorship of the 'Hart Report,' which was deemed relevant to the JFK assassination investigation by the HSCA. While his direct role and the report's specific contents are not fully detailed, the report's connection to the HSCA and the JFK Assassination Records Collection Act indicates a notable, albeit indirect, involvement in the broader context of the JFK assassination documents.",
+  "merged_from_variants": [
+    "John L. Hart",
+    "John Hart"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "entity_name": "LICHTENFELS_BETH_ANNE",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10075",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10076",
+    "180-10125-10096",
+    "180-10125-10078",
+    "180-10060-10470"
+  ],
+  "summary": "Beth Anne Lichtenfels was an employee of both the Select Committee on Assassinations (SCAS) and the House Select Committee on Assassinations (HSCA). Documents confirm her employment from at least October 1977 through December 1978, and potentially into February 1979. She held the position of Document Control Clerk and is listed in payroll certifications and reports, detailing her employment, salary, and pay during these periods. These records include authorizations, memos, and injury reports related to her employment.",
+  "key_connections": [
+    "Select Committee on Assassinations",
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Medium - Beth Anne Lichtenfels's role as a Document Control Clerk within the SCAS/HSCA suggests she had access to and managed sensitive information related to the JFK assassination investigation. While not a high-profile figure, her presence in multiple payroll records and reports across a significant timeframe indicates a consistent and potentially important role in the committee's operations.",
+  "merged_from_variants": [
+    "LICHTENFELS, BETH ANNE",
+    "Beth Anne Lichtenfels"
+  ]
+}

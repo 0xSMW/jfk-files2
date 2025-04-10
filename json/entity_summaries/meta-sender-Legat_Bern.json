@@ -1,0 +1,32 @@
+{
+  "entity_name": "Legat_Bern",
+  "entity_type": "sender",
+  "document_count": 6,
+  "document_ids": [
+    "124-10158-10061",
+    "124-10237-10009",
+    "124-10204-10004",
+    "124-10150-10104",
+    "124-10062-10456",
+    "124-10311-10292"
+  ],
+  "summary": "The FBI Legat office in Bern, Switzerland, served as a crucial conduit for information related to the JFK assassination and related investigations. The office gathered and disseminated intelligence from various sources, including the Swiss Central Police Bureau, Austrian police, covert CIA personnel (including John Dimmer and a covert CIA Research Branch in Vienna), and other informants. They relayed information to the Director of the FBI and the Dallas field office concerning individuals of interest such as Gus Alex and Mark Lane, detailing their activities and contacts in Switzerland and Austria. The office also reported on interviews, such as one with ANGHEL DRAGOMIR, in connection to the assassination. The period of involvement spans from at least August 1964 to January 1965.",
+  "key_connections": [
+    "FBI Director",
+    "ANGHEL DRAGOMIR",
+    "John Dimmer (covert CIA official)",
+    "Dallas field office",
+    "Austrian police",
+    "Covert CIA Research Branch in Vienna",
+    "Covert CIA sources",
+    "Gus Alex",
+    "Mark Lane",
+    "Swiss Central Police Bureau",
+    "Director, FBI"
+  ],
+  "significance": "High. The Legat_Bern played a significant role in gathering and disseminating information related to potential threats and investigations following the JFK assassination, acting as a key point of contact between the FBI and various international sources, including covert CIA assets. The number of documents (6) and the nature of the information handled suggest a substantial involvement.",
+  "merged_from_variants": [
+    "LEG, BR",
+    "Legat, Bern"
+  ]
+}

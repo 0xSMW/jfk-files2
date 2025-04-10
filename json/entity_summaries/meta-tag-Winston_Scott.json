@@ -1,0 +1,32 @@
+{
+  "entity_name": "Winston_Scott",
+  "entity_type": "tag",
+  "document_count": 6,
+  "document_ids": [
+    "104-10171-10220",
+    "180-10110-10100",
+    "180-10110-10121",
+    "180-10131-10329",
+    "180-10113-10119",
+    "177-10001-10445"
+  ],
+  "summary": "Winston Scott, also known as Win Scott, served as the Chief of Station for the CIA in Mexico during a period relevant to the JFK assassination investigations. He is mentioned in connection to CIA activities in Mexico City, including potential surveillance operations and contacts with individuals like Lee Harvey Oswald, who visited the Soviet and Cuban embassies there. His role involved conversations with President Lopez Mateos and interactions with CIA technicians like Arnold Arehart regarding telephone monitoring. Robert T. Shaw's testimony before the HSCA also highlights CIA activities in Mexico City in 1963 related to Lee Harvey Oswald and Cuban operations, further underscoring Scott's presence within this context.",
+  "key_connections": [
+    "Mexico City",
+    "Robert T. Shaw",
+    "President Lopez Mateos",
+    "Lee Harvey Oswald",
+    "CIA",
+    "Arnold Arehart",
+    "Cuban Embassy",
+    "Soviet Embassy",
+    "David Phillips",
+    "David Atlee Phillips",
+    "Boris Tarasoff"
+  ],
+  "significance": "High - Winston Scott's position as CIA Chief of Station in Mexico City during the time of Lee Harvey Oswald's visit and the subsequent JFK assassination investigations places him in a significant role. The number of documents mentioning him and his connections to key figures and events related to the assassination suggest a high level of importance.",
+  "merged_from_variants": [
+    "Win Scott",
+    "Winston Scott"
+  ]
+}

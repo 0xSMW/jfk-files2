@@ -1,0 +1,44 @@
+{
+  "entity_name": "Senate_Select_Committee_to_Study_Governmental_Operations_With_Respect_to_Intelligence_Activities",
+  "entity_type": "recipient",
+  "document_count": 18,
+  "document_ids": [
+    "157-10014-10047",
+    "157-10005-10228",
+    "157-10008-10246",
+    "124-10274-10001",
+    "157-10005-10250",
+    "157-10002-10165",
+    "157-10002-10105",
+    "157-10002-10148",
+    "157-10004-10095",
+    "157-10014-10125",
+    "124-10273-10008_multirif",
+    "157-10005-10225",
+    "157-10011-10018",
+    "157-10002-10106",
+    "157-10011-10048",
+    "157-10014-10067",
+    "124-10274-10001_multirif",
+    "157-10002-10150"
+  ],
+  "summary": "The Senate Select Committee to Study Governmental Operations With Respect to Intelligence Activities, also known as the Church Committee and referred to as the SSCIA or SSC, was established in 1975 to investigate intelligence gathering activities by the CIA, FBI, and other government agencies. The committee's investigations focused on potential abuses of power, the legality and ethical implications of covert operations, and the extent of intelligence gathering operations. Key areas of inquiry included CIA activities related to the JFK assassination, potential involvement in assassination plots against foreign leaders like Castro and Patrice Lumumba, covert use of media and academics, Cuban operations, relationships with Cuban exile groups, and FBI surveillance of individuals like Martin Luther King Jr. and organizations such as the Southern Christian Leadership Conference (SCLC).",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Castro",
+    "Martin Luther King Jr.",
+    "Patrice Lumumba",
+    "Cuban exile groups",
+    "Operation Mongoose",
+    "E. Howard Hunt",
+    "Southern Christian Leadership Conference (SCLC)",
+    "Bay of Pigs"
+  ],
+  "significance": "High - The Senate Select Committee played a crucial role in investigating potential abuses of power by intelligence agencies, particularly in relation to the JFK assassination and other sensitive matters. The high document count (18) and the nature of the investigations suggest a significant impact on understanding the activities of these agencies.",
+  "merged_from_variants": [
+    "SSCIA",
+    "Senate Select Committee (SSC)",
+    "Senate Select Committee to Study Governmental Operations With Respect to Intelligence Activities"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "entity_name": "Charles_Kirbow",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "document_ids": [
+    "157-10014-10121",
+    "124-10185-10195_multirif",
+    "124-10274-10014_multirif_redacted",
+    "157-10014-10125",
+    "157-10014-10006",
+    "157-10014-10005",
+    "124-10271-10011_multirif",
+    "157-10014-10133"
+  ],
+  "summary": "Charles Kirbow is mentioned in several documents primarily related to the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (SSCIA), also known as the Church Committee, between 1975 and 1983. While his precise role remains unclear, his presence in documents such as security clearance listings and Senate hearing transcripts suggests he was likely a staff member or had some involvement with the committee's activities related to intelligence oversight. The documents cover topics such as CIA activities, restrictions on the use of academics and media, and FBI intelligence activities. However, other documents focusing on CIA counterintelligence methodologies and FBI responses to Congressional requests provide insufficient information to determine his specific role, significance, or connections beyond his association with the SSCIA.",
+  "key_connections": [
+    "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)"
+  ],
+  "significance": "Medium. Charles Kirbow's association with the Church Committee and appearance in multiple documents suggest some level of involvement in intelligence oversight activities. However, the lack of specific details about his role limits a higher assessment of significance.",
+  "merged_from_variants": [
+    "Kirbow, Charles",
+    "Charles Kirbow"
+  ]
+}

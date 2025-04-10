@@ -1,0 +1,27 @@
+{
+  "entity_name": "Anne_B_Misita",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10075",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10076",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078"
+  ],
+  "summary": "Anne B. Misita was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA), later referred to as the Select Committee on Assassinations (SCA). Payroll and certification reports from October 1977 to February 1979, specifically in April, August, and December of 1978, list her as a staff member. These documents detail the committee's staff, their positions, and salaries during the HSCA's investigation into the JFK assassination, indicating her involvement as a staff member during a significant period of the committee's operations.",
+  "key_connections": [
+    "Select Committee on Assassinations (HSCA)",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium - Anne B. Misita's significance lies in her consistent presence on the payroll of the HSCA during its investigation into the JFK assassination. While her specific role isn't detailed, her repeated appearance in official documents suggests she was a staff member involved in the committee's operations.",
+  "merged_from_variants": [
+    "MISITA, ANNE B",
+    "Anne B Misita"
+  ]
+}

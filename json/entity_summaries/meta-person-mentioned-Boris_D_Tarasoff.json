@@ -1,0 +1,32 @@
+{
+  "entity_name": "Boris_D_Tarasoff",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "document_ids": [
+    "104-10130-10344",
+    "104-10095-10161",
+    "104-10130-10343",
+    "180-10113-10119",
+    "104-10130-10339",
+    "180-10110-10121",
+    "104-10194-10001",
+    "104-10131-10037",
+    "104-10130-10215"
+  ],
+  "summary": "Boris D. Tarasoff was a CIA employee, working within the FDD/00 division, with involvement in overseas operations and security matters. He was stationed in Mexico City, where he replaced an employee on home leave in 1960. Tarasoff's personnel file includes memos related to his employment, retirement, and reassignments. He served as an interpreter for a Soviet Delegation under State Department cover in 1962. He was also connected to CIA activities in Mexico City during Lee Harvey Oswald's visit and was involved in support activities, including phone taps and photography operations targeting Cubans and Soviets. Security concerns arose regarding his family's connections, specifically Anna Tarasoff's father's visit to the Russian Embassy, leading to considerations about briefing him on his daughter's CIA employment.",
+  "key_connections": [
+    "CIA",
+    "Mexico City",
+    "CIA Mexico City Station",
+    "Lee Harvey Oswald",
+    "Soviet Delegation",
+    "Anna Tarasoff",
+    "Russian Embassy",
+    "David Phillips"
+  ],
+  "significance": "Medium - Boris D. Tarasoff's involvement with the CIA, particularly his presence in Mexico City and connections to activities surrounding Lee Harvey Oswald, suggest a moderate level of significance within the context of JFK assassination documents. His role as an interpreter for a Soviet Delegation and security concerns related to his family further contribute to his relevance.",
+  "merged_from_variants": [
+    "Boris D. Tarasoff",
+    "Boris Tarasoff"
+  ]
+}

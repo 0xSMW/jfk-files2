@@ -1,0 +1,23 @@
+{
+  "entity_name": "Thomas_W_Sacco",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10079",
+    "180-10125-10081",
+    "180-10125-10078"
+  ],
+  "summary": "Thomas W. Sacco was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA), later referred to as the Select Committee on Assassinations (SCA). Payroll and certification reports from April to December 1978 document his employment, indicating his position, annual salary, and pay period earnings during that time. These records confirm his involvement with the committee's operations, although his specific role and responsibilities are not detailed within the provided documents.",
+  "key_connections": [
+    "Select Committee on Assassinations (HSCA)",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Thomas W. Sacco's employment with the HSCA/SCA is documented across multiple records, suggesting a role of some importance within the committee, even if the specifics are not detailed. The number of documents (6) supports this assessment.",
+  "merged_from_variants": [
+    "SACCO, THOMAS W",
+    "Thomas W Sacco"
+  ]
+}

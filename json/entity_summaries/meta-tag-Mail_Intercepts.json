@@ -1,0 +1,41 @@
+{
+  "entity_name": "Mail_Intercepts",
+  "entity_type": "tag",
+  "document_count": 13,
+  "document_ids": [
+    "124-10179-10219_multirif",
+    "157-10011-10078",
+    "178-10004-10420",
+    "104-10182-10004",
+    "104-10209-10017",
+    "178-10004-10148",
+    "124-10273-10070",
+    "124-10179-10217_multirif",
+    "124-10185-10099",
+    "157-10002-10150",
+    "124-10276-10400 (c06716411)",
+    "124-10264-10191",
+    "104-10215-10215"
+  ],
+  "summary": "Mail intercepts refer to the practice of intercepting and examining mail, primarily conducted by the CIA and FBI for intelligence gathering and security purposes. These activities, investigated by the Senate Select Committee (SENSTUDY), raised concerns about legality and potential compromise of operations. The CIA's involvement included projects like SR POINTER and West Pointer, as well as Project HUNTER, which reviewed mail to and from the Soviet Union. The FBI collaborated on some of these efforts, using the information for internal security. Mail intercepts were conducted by the CIA's Office of Security, alongside other surveillance methods, and were also relevant to investigations involving individuals like Luis Tedeschi. The Justice Department also requested information related to these mail operations. The Rockefeller Commission files may also contain related information.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Senate Select Committee (SENSTUDY)",
+    "SR POINTER",
+    "West Pointer",
+    "Project HUNTER",
+    "Soviet Union",
+    "CIA's Office of Security",
+    "Electronic surveillance",
+    "Physical surveillance",
+    "Justice Department",
+    "Rockefeller Commission"
+  ],
+  "significance": "High - Mail intercepts represent a significant intelligence activity involving multiple agencies and raising legal and ethical concerns. The involvement of the CIA and FBI, the Senate investigation, and the number of documents referencing this activity indicate its importance within the context of the source material.",
+  "merged_from_variants": [
+    "Mail Intercepts",
+    "Mail Intercept",
+    "Mail Opening"
+  ]
+}

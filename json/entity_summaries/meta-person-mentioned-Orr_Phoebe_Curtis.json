@@ -1,0 +1,31 @@
+{
+  "entity_name": "Orr_Phoebe_Curtis",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "document_ids": [
+    "180-10060-10495",
+    "180-10125-10093",
+    "180-10125-10086",
+    "180-10125-10106",
+    "180-10125-10075",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10076",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10092",
+    "180-10125-10107"
+  ],
+  "summary": "Phoebe Curtis Orr was a staff member of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from 1976 to 1979. Her employment is documented through payroll certifications and reports that detail her position, annual salary, and gross pay for various accounting periods. These documents, which include payroll authorization forms, confirm her regular employment with the committee. Redactions of her Social Security number were made to protect her privacy, as noted by the Assassination Records Review Board.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board",
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Phoebe Curtis Orr's significance lies in her documented employment with the HSCA, as evidenced by multiple payroll records. While the specific nature of her role is not detailed, her consistent presence on payroll documents across several years suggests a non-trivial contribution to the committee's work. The number of documents mentioning her (12) further supports this assessment.",
+  "merged_from_variants": [
+    "Orr, Phoebe Curtis",
+    "Phoebe Curtis Orr"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "entity_name": "Thomas_Mann",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "document_ids": [
+    "180-10110-10100",
+    "176-10033-10145",
+    "157-10002-10056",
+    "157-10008-10150",
+    "104-10310-10020",
+    "104-10163-10041",
+    "176-10030-10422"
+  ],
+  "summary": "Based on the provided documents, Thomas Mann, also known as Tom Mann, is mentioned in the context of documents related to CIA reorganization efforts during the Kennedy administration, US policy towards Cuba, and Lee Harvey Oswald's activities in Mexico City. However, the documents do not provide specific details regarding his role, significance, connections, or timeline of involvement. The documents primarily focus on topics such as CIA autonomy, covert operations, policy control, and discussions about clandestine activities and disarmament.",
+  "key_connections": [],
+  "significance": "Low. While mentioned across seven documents, the provided summaries indicate that the documents do not contain substantive information about Thomas Mann's role or activities. His presence is noted, but not elaborated upon.",
+  "merged_from_variants": [
+    "Thomas Mann",
+    "Tom Mann"
+  ]
+}

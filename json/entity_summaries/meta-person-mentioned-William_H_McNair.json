@@ -1,0 +1,20 @@
+{
+  "entity_name": "William_H_McNair",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "document_ids": [
+    "104-10332-10002",
+    "104-10331-10076",
+    "104-10332-10000",
+    "104-10331-10318",
+    "104-10331-10166",
+    "104-10331-10321"
+  ],
+  "summary": "Based on the provided documents related to the JFK assassination records, there is no explicit mention of William H. McNair, also known as Bill McNair. The documents primarily concern the release of JFK assassination records, focusing on CIA concerns about releasing information on overseas stations, potential political repercussions, and the balance between public interest and agency needs. The documents discuss the handling of cryptonyms, pseudonyms, file numbers, and employee names, as well as the CIA's deliberations with the ARRB regarding the extent of redactions and the reasoning behind protecting certain information. Therefore, it is impossible to determine William H. McNair's role, significance, connections, or timeline of involvement in the JFK assassination context based solely on these documents.",
+  "key_connections": [],
+  "significance": "Low. Despite being mentioned in 6 documents, the available summaries indicate that William H. McNair is not explicitly mentioned within the content of those documents. Therefore, his significance to the JFK assassination context, based on this information, appears to be low.",
+  "merged_from_variants": [
+    "William H. McNair",
+    "Bill McNair"
+  ]
+}

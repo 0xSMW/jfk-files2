@@ -1,0 +1,42 @@
+{
+  "entity_name": "Task_Force_W",
+  "entity_type": "tag",
+  "document_count": 20,
+  "document_ids": [
+    "157-10011-10083",
+    "104-10069-10185",
+    "104-10179-10104",
+    "104-10171-10013",
+    "104-10422-10055",
+    "178-10002-10279",
+    "176-10038-10032",
+    "124-10271-10000",
+    "104-10171-10003",
+    "157-10014-10046",
+    "104-10307-10006",
+    "104-10103-10079",
+    "104-10307-10024",
+    "157-10002-10087",
+    "104-10171-10033",
+    "178-10002-10215",
+    "104-10131-10014",
+    "104-10102-10224",
+    "157-10008-10241",
+    "104-10171-10044"
+  ],
+  "summary": "Task Force W was a CIA unit primarily active in the early 1960s, heavily involved in covert operations against Cuba as part of Operation Mongoose. Its activities included intelligence gathering, economic pressure, psychological warfare, and support for anti-Castro groups, with a focus on destabilizing the Castro regime. The unit coordinated closely with JMWAVE, the CIA's Miami station, and other agencies like ACSI. William Harvey played a key role in leading and planning Task Force W's operations, which included infiltrating anti-Castro organizations, gathering intelligence on Cuban military build-up, and exploring potential assassination attempts against Fidel Castro. Later investigations, such as the Rockefeller Commission and Senate Select Committee hearings in 1975, examined Task Force W's activities, particularly regarding potential assassination plots. The term \"Task Force\" also appears in other contexts, such as inter-agency groups handling congressional reviews and inquiries into intelligence activities, and in relation to the declassification of JFK assassination records.",
+  "key_connections": [
+    "Operation Mongoose",
+    "JMWAVE",
+    "William Harvey",
+    "Fidel Castro",
+    "ACSI (Army Counter Intelligence)",
+    "JFK Assassination Records",
+    "Congressional Review"
+  ],
+  "significance": "High - Task Force W's central role in Operation Mongoose and its connection to potential assassination plots against Fidel Castro, along with its mention in investigations related to the JFK assassination records, indicate a high level of significance.",
+  "merged_from_variants": [
+    "Task Force",
+    "Task Force W"
+  ]
+}

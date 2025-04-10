@@ -1,0 +1,22 @@
+{
+  "entity_name": "Robert_C_Petersen",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "document_ids": [
+    "176-10036-10085",
+    "124-10271-10003_multirif",
+    "194-10004-10363",
+    "124-10271-10299_multirif",
+    "176-10036-10086",
+    "124-10271-10011_multirif",
+    "194-10004-10400",
+    "194-10004-10367"
+  ],
+  "summary": "Based on the provided documents, information regarding Robert C. Petersen is limited. While the documents cover a range of topics including FBI investigations into individuals like Ivan Marti, Blanca Marti, and Manuel Marti in San Juan, Puerto Rico, as well as discussions on a possible coup d'état in South Vietnam, FBI responses to Congressional committee requests, and Vietnamese Communist analyses of U.S. military aid, there is no explicit mention of Robert C. Petersen or his role in any of these events. Consequently, his role, significance, connections, and timeline of involvement cannot be determined from these documents.",
+  "key_connections": [],
+  "significance": "Low. Despite being mentioned across eight documents, the available summaries indicate that Robert C. Petersen is not a central figure in any of the described events, and his presence is either nonexistent or unidentifiable within the document content.",
+  "merged_from_variants": [
+    "Petersen",
+    "Robert C. Petersen"
+  ]
+}

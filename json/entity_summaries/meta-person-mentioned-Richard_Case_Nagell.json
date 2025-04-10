@@ -1,0 +1,35 @@
+{
+  "entity_name": "Richard_Case_Nagell",
+  "entity_type": "person-mentioned",
+  "document_count": 15,
+  "document_ids": [
+    "104-10220-10034",
+    "194-10007-10425",
+    "194-10007-10423",
+    "104-10123-10020",
+    "194-10007-10424",
+    "194-10007-10418",
+    "104-10220-10020",
+    "194-10007-10426",
+    "104-10220-10038",
+    "194-10007-10417",
+    "104-10310-10142",
+    "104-10305-10005",
+    "104-10220-10033",
+    "194-10007-10422",
+    "104-10326-10096"
+  ],
+  "summary": "Richard Case Nagell is mentioned in several documents as a person who made threats to expose the U.S. government, particularly regarding an organization referred to as 'WOFIRM,' if his demands were not met. He reportedly aired grievances via radio/TV and caused issues for U.S. consulates, notably in Zurich and Barcelona. He is also connected to the case of Victor L. Trinkala, an underage soldier who sought discharge from the U.S. Army, with Nagell possibly intervening to prevent Trinkala's deployment to Vietnam. Nagell's activities and files were reviewed by the House Select Committee on Assassinations (HSCA).",
+  "key_connections": [
+    "Victor L. Trinkala",
+    "House Select Committee on Assassinations (HSCA)",
+    "WOFIRM",
+    "Harfez Muneer"
+  ],
+  "significance": "Medium - Richard Case Nagell appears in a moderate number of documents and is connected to potentially sensitive information regarding government activities and possible intervention in military service. His threats to expose the U.S. government and the HSCA's review of his files suggest a level of significance within the context of the source material.",
+  "merged_from_variants": [
+    "Nagell",
+    "Richard C. Nagell",
+    "Richard Case Nagell"
+  ]
+}

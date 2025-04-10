@@ -1,0 +1,26 @@
+{
+  "entity_name": "Cheddi_Jagan",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "document_ids": [
+    "104-10306-10003",
+    "198-10007-10021",
+    "104-10290-10190",
+    "104-10338-10018",
+    "198-10008-10119",
+    "206-10001-10016"
+  ],
+  "summary": "Cheddi Jagan is mentioned in the context of U.S. concerns about Castro-Communist subversion in Latin America and CIA activities in British Guiana during the 1960s. While the documents do not explicitly detail Jagan's specific actions, his name appears in relation to U.S. efforts to control travel to and from Cuba, manage propaganda, and strengthen counter-insurgency capabilities. The documents suggest that the U.S. government was actively monitoring and attempting to counteract Cuban support for pro-Castro groups and other subversive activities in the region, and Jagan's mention likely relates to these concerns, particularly within the political landscape of British Guiana where covert actions were being undertaken by the CIA.",
+  "key_connections": [
+    "Cuba",
+    "Pro-Castro groups",
+    "British Guiana",
+    "CIA",
+    "Castro-Communism"
+  ],
+  "significance": "Medium. Cheddi Jagan is mentioned in multiple documents related to U.S. foreign policy and CIA activities during a critical period. While the documents don't provide explicit details of his actions, the context suggests he was a significant figure in British Guiana, warranting U.S. attention due to concerns about Cuban and communist influence.",
+  "merged_from_variants": [
+    "Jagan",
+    "Cheddi Jagan"
+  ]
+}

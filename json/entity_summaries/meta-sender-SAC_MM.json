@@ -1,0 +1,34 @@
+{
+  "entity_name": "SAC_MM",
+  "entity_type": "sender",
+  "document_count": 9,
+  "document_ids": [
+    "124-10280-10030",
+    "124-10300-10024",
+    "124-10221-10231",
+    "124-10332-10018",
+    "124-90130-10005",
+    "124-10284-10172",
+    "124-90110-10083",
+    "124-10285-10254",
+    "124-90073-10039"
+  ],
+  "summary": "SAC_MM refers to the Special Agent in Charge of the FBI's Miami Field Office and the office itself. The Miami office was heavily involved in intelligence gathering and investigations related to anti-Castro activities, potential assassination plots against Cuban leaders, and monitoring individuals and groups of interest in the Miami area from the late 1950s to the late 1960s. This included investigating individuals with potential CIA connections, monitoring Cuban double agents, and coordinating with agencies like the CIA and United States Customs Office. The office tracked individuals like Joseph Raymond Merola, Francisco Rodriguez Tamayo, David Yaras, Luis Posada Carriles, and Santiago Alvarez Rodriguez, among others, and relayed information from various sources to the Director of the FBI.",
+  "key_connections": [
+    "Joseph Raymond Merola",
+    "Francisco Rodriguez Tamayo",
+    "David Yaras",
+    "Luis Posada Carriles",
+    "Santiago Alvarez Rodriguez",
+    "Fidel Castro",
+    "CIA",
+    "Director, FBI",
+    "United States Customs Office",
+    "DOLPHIN (Cuban double agent)"
+  ],
+  "significance": "High - The Miami Field Office, under SAC_MM, played a significant role in monitoring and investigating individuals and activities related to Cuban affairs, potential assassination plots, and CIA connections during a critical period. The high document count further underscores its importance in the context of the source material.",
+  "merged_from_variants": [
+    "MM",
+    "SAC, MM"
+  ]
+}

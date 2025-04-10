@@ -1,0 +1,44 @@
+{
+  "entity_name": "Director_Federal_Bureau_of_Investigation",
+  "entity_type": "recipient",
+  "document_count": 16,
+  "document_ids": [
+    "104-10071-10010",
+    "124-10210-10096",
+    "104-10164-10032",
+    "124-10204-10209",
+    "104-10071-10021",
+    "124-10204-10154",
+    "124-10273-10105",
+    "124-10223-10087",
+    "104-10219-10282",
+    "104-10114-10162",
+    "104-10219-10283",
+    "124-10223-10159",
+    "104-10166-10262",
+    "124-10058-10420",
+    "124-10223-10171",
+    "124-90074-10051"
+  ],
+  "summary": "The Director of the Federal Bureau of Investigation (FBI) appears as a recipient of intelligence reports, memoranda, cablegrams, and other documents spanning from 1959 to 1974. The FBI received information from agencies like the CIA and NSA concerning national security matters, including potential espionage activities, the activities of Communist nationals traveling to Latin America, and the monitoring of groups such as Black Power advocates. The FBI was involved in gathering information on individuals like Samuel M. Giancana, Santo Trafficante Jr., and John Rosselli, as well as counterintelligence programs targeting hate groups, including the Ku Klux Klan. The documents also suggest the FBI investigated potential leads related to the Kennedy assassination.",
+  "key_connections": [
+    "CIA",
+    "NSA",
+    "Samuel M. Giancana",
+    "Santo Trafficante, Jr.",
+    "John Rosselli",
+    "Communist nationals",
+    "Cuban officials",
+    "Coretta King",
+    "Dick Gregory",
+    "Ku Klux Klan (KKK)",
+    "Lee Harvey Oswald"
+  ],
+  "significance": "High - The FBI Director's role as a recipient of intelligence and investigative reports across a significant number of documents (16) suggests a central role in national security matters and investigations, including those related to potential threats and the JFK assassination.",
+  "merged_from_variants": [
+    "FBI",
+    "DIRECTOR, FBI",
+    "Director, Federal Bureau of Investigation",
+    "Federal Bureau of Investigation"
+  ]
+}

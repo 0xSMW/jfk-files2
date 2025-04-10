@@ -1,0 +1,46 @@
+{
+  "entity_name": "E_Howard_Hunt",
+  "entity_type": "tag",
+  "document_count": 22,
+  "document_ids": [
+    "104-10256-10268",
+    "178-10002-10091",
+    "104-10173-10132",
+    "135-10001-10237",
+    "135-10001-10243",
+    "104-10105-10277",
+    "135-10001-10245",
+    "135-10001-10279",
+    "135-10001-10288",
+    "180-10143-10072",
+    "104-10256-10273",
+    "135-10001-10276",
+    "104-10105-10290 (C06932214)",
+    "104-10173-10130",
+    "104-10105-10293",
+    "180-10113-10119",
+    "157-10005-10228",
+    "157-10011-10121",
+    "104-10103-10038",
+    "104-10105-10271",
+    "178-10002-10215",
+    "104-10194-10024"
+  ],
+  "summary": "E. Howard Hunt was a CIA officer involved in various operations from the early 1960s to the mid-1970s, including propaganda and project management. He is connected to the Bay of Pigs operation, evidenced by the issuance of alias birth certificates. After his CIA career, Hunt became involved in the Watergate scandal, leading to investigations into his activities and financial transactions. Documents also reference a search for unaccounted payments to Hunt, revealing unusual financial procedures. He was questioned regarding potential CIA involvement in assassinations and his whereabouts on the day of President Kennedy's assassination, which he denied. He is also mentioned in connection with Frank Sturgis and other individuals involved with the CIA, Cuba, and the Bay of Pigs.",
+  "key_connections": [
+    "Frank Sturgis",
+    "CIA",
+    "Bay of Pigs",
+    "Carlos Marcello",
+    "Marita Lorenz",
+    "Charles William Wiley",
+    "Bernard Barker",
+    "James McCord",
+    "David Phillips"
+  ],
+  "significance": "High - E. Howard Hunt's involvement with the CIA, the Bay of Pigs, and Watergate, coupled with questions surrounding the JFK assassination, makes him a significant figure within the context of these documents.",
+  "merged_from_variants": [
+    "E. Howard Hunt",
+    "Howard Hunt"
+  ]
+}

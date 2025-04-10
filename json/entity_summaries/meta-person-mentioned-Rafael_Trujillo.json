@@ -1,0 +1,37 @@
+{
+  "entity_name": "Rafael_Trujillo",
+  "entity_type": "person-mentioned",
+  "document_count": 16,
+  "document_ids": [
+    "157-10014-10137",
+    "104-10186-10308",
+    "157-10008-10234",
+    "104-10164-10110",
+    "157-10014-10242",
+    "157-10002-10105",
+    "157-10014-10117",
+    "104-10061-10053",
+    "104-10214-10034",
+    "104-10263-10111",
+    "104-10171-10230",
+    "176-10033-10151",
+    "157-10014-10151",
+    "157-10011-10018",
+    "124-90135-10074",
+    "157-10014-10100"
+  ],
+  "summary": "Rafael Trujillo was the dictator of the Dominican Republic from 1930 until his assassination in 1961. U.S. government agencies, including the CIA and State Department, were involved in plotting his overthrow, including providing arms to dissident groups. Documents suggest the CIA considered or was involved in plots to assassinate Trujillo, and discussions related to potential assassinations of foreign leaders like Trujillo, Castro, and Lumumba took place. The documents also detail worsening U.S./Dominican relations and outline covert operational plans, including considering an international shipping boycott against the Dominican Republic. Trujillo's assassination is mentioned in the context of the Church Committee's investigation into U.S. involvement in assassination plots against foreign leaders, highlighting a pattern of U.S. covert actions.",
+  "key_connections": [
+    "CIA",
+    "State Department",
+    "Church Committee",
+    "Castro",
+    "Lumumba",
+    "Eisenhower"
+  ],
+  "significance": "High - Rafael Trujillo is a significant figure due to the U.S. government's involvement in plotting his overthrow and potential assassination. The high document count (16) and the mention of his assassination in connection to the Church Committee's investigation into U.S. involvement in assassinations indicate a substantial level of interest and concern within the U.S. government regarding Trujillo.",
+  "merged_from_variants": [
+    "Rafael Trujillo",
+    "Trujillo"
+  ]
+}

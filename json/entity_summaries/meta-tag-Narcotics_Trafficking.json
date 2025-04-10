@@ -1,0 +1,41 @@
+{
+  "entity_name": "Narcotics_Trafficking",
+  "entity_type": "tag",
+  "document_count": 14,
+  "document_ids": [
+    "104-10178-10071",
+    "104-10178-10000",
+    "104-10178-10096",
+    "104-10105-10213",
+    "104-10169-10006",
+    "104-10169-10004",
+    "104-10177-10239",
+    "104-10105-10119",
+    "194-10006-10315",
+    "104-10221-10022",
+    "104-10174-10072",
+    "104-10169-10001",
+    "104-10057-10096",
+    "104-10221-10020"
+  ],
+  "summary": "The documents reveal a sustained interest in narcotics trafficking from 1959 to 1976, with potential connections to anti-Castro activities, the CIA, and other criminal activities. Several individuals, including Luis Clemente Posada Carriles, Evelio Duque, Herminio Diaz, and Mitchell Livingston WerBell III, are mentioned in connection to both anti-Castro efforts and potential involvement in drug trafficking. The documents also highlight concerns about mismanagement, potential exposure of former CIA assets involved in drug-related activities, and a Chinese opium smuggling operation. The investigations involved surveillance in multiple locations and scrutiny of individuals' contacts, including a Honduran immigration chief and an American resident of Miami.",
+  "key_connections": [
+    "Luis Clemente Posada Carriles (WKSCARLET-3)",
+    "Evelio Duque",
+    "Herminio Diaz",
+    "Mitchell Livingston WerBell III",
+    "Anti-Castro activities",
+    "CIA",
+    "Chinese opium smuggling",
+    "Alfredo Ordonez Gonzalez",
+    "Maria Paula Souza Freitas",
+    "Miquel Russo",
+    "Albert Larrain Maestre"
+  ],
+  "significance": "Medium. Narcotics trafficking appears as a recurring theme in the documents, often linked to other activities of interest, such as anti-Castro efforts and potential CIA involvement. The number of documents (14) suggests a notable level of concern and investigation surrounding this issue.",
+  "merged_from_variants": [
+    "Drug Trafficking",
+    "Narcotics",
+    "Narcotics Trafficking"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "entity_name": "Gary_T_Cornwell",
+  "entity_type": "person-mentioned",
+  "document_count": 15,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10075",
+    "104-10413-10306",
+    "144-10001-10175",
+    "144-10001-10249",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10076",
+    "180-10125-10096",
+    "144-10001-10148",
+    "180-10125-10081",
+    "104-10061-10207",
+    "180-10110-10121",
+    "144-10001-10253",
+    "144-10001-10178"
+  ],
+  "summary": "Gary T. Cornwell was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from October 1977 to February 1979, as indicated by payroll and certification reports. He co-authored a report with Klein regarding an interview with Sgt. Nicholas B. Stevenson, USAF, concerning a facility able to collect the Lisbon-Tangier link. This report was reviewed by Julia Wetzel (NSA) and subsequently classified. While mentioned in several documents related to HSCA inquiries, specific details regarding his role beyond his employment and co-authorship are limited within the provided summaries.",
+  "key_connections": [
+    "House Select Committee on Assassinations",
+    "Select Committee on Assassinations (HSCA)",
+    "Klein",
+    "Julia Wetzel",
+    "Nicholas B. Stevenson",
+    "Lisbon-Tangier link"
+  ],
+  "significance": "Medium. Gary T. Cornwell's significance is moderate. He was an employee of the HSCA and co-authored a report related to intelligence gathering. While the summaries don't reveal a central role in the JFK assassination investigation, his documented employment and involvement in a classified report suggest a relevant, albeit potentially supporting, role within the committee.",
+  "merged_from_variants": [
+    "Gary Cornwell",
+    "Gary T Cornwell",
+    "Cornwell"
+  ]
+}

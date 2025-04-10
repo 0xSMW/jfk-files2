@@ -1,0 +1,24 @@
+{
+  "entity_name": "Evalena_S_Vidal",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "document_ids": [
+    "104-10142-10279",
+    "104-10140-10101",
+    "104-10145-10047",
+    "104-10174-10033",
+    "104-10174-10030",
+    "104-10174-10038",
+    "104-10142-10317"
+  ],
+  "summary": "Evalena S. Vidal, also known as Evvy Vidal, is mentioned in several documents, including journals from the Office of Legislative Counsel and documents related to payments and debriefings concerning Edward G. Tichborn's trip to Cuba. Her role in the Office of Legislative Counsel is not specified, but the journals detail daily activities such as employment requests and liaison with congressional offices. The Cuba-related documents detail financial transactions and Tichborn's observations, but Vidal's specific connection to Tichborn or the purpose of her mention in these documents remains unclear.",
+  "key_connections": [
+    "Edward G. Tichborn",
+    "Fidel Castro"
+  ],
+  "significance": "Low. Evalena S. Vidal is mentioned in several documents, but her specific role and significance are unclear. While she appears in documents related to Edward G. Tichborn's trip to Cuba and the Office of Legislative Counsel, the summaries do not provide enough information to determine her importance.",
+  "merged_from_variants": [
+    "Evalena S. Vidal",
+    "Evvy Vidal"
+  ]
+}

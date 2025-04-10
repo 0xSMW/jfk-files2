@@ -1,0 +1,46 @@
+{
+  "entity_name": "Howard_H_Baker_Jr",
+  "entity_type": "person-mentioned",
+  "document_count": 22,
+  "document_ids": [
+    "206-10001-10009",
+    "104-10049-10004",
+    "157-10014-10005",
+    "104-10173-10132",
+    "206-10001-10005",
+    "157-10014-10081",
+    "206-10001-10012",
+    "206-10001-10007",
+    "206-10001-10013",
+    "206-10001-10010",
+    "144-10001-10206",
+    "124-10186-10041",
+    "104-10256-10283",
+    "157-10011-10018",
+    "104-10173-10130",
+    "124-10185-10195_multirif",
+    "144-10001-10159",
+    "104-10438-10186",
+    "124-10264-10206_multirif",
+    "206-10001-10001",
+    "124-10264-10191",
+    "157-10014-10133"
+  ],
+  "summary": "Howard H. Baker, Jr., also referred to as Senator Baker, appears in the documents primarily in connection to the Watergate scandal and investigations conducted by the Senate Select Committee on Intelligence Activities (SSC). He is mentioned in relation to Frank Sturgis' attempt to provide cryptographic material related to Albania obtained from Marita Lorenz. The documents also allude to his potential oversight role in investigations into intelligence activities, including those related to the assassinations of President John F. Kennedy and Dr. Martin Luther King, Jr., as well as CIA operations, FBI activities, and potential compromises of FBI operations. Individuals involved in Watergate sought to provide information to Senator Baker, suggesting his involvement in investigating the scandal.",
+  "key_connections": [
+    "Watergate",
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "Frank Sturgis",
+    "Marita Lorenz",
+    "CIA",
+    "FBI",
+    "John F. Kennedy",
+    "Martin Luther King, Jr."
+  ],
+  "significance": "Medium - Howard H. Baker, Jr. is mentioned in a significant number of documents (22), primarily in connection to the Watergate scandal and investigations into intelligence activities. While not directly implicated in the JFK assassination, his role in overseeing intelligence investigations and his connection to Watergate suggest a notable, though indirect, significance within the context of these historical events.",
+  "merged_from_variants": [
+    "Baker",
+    "Senator Baker",
+    "Howard H. Baker, Jr."
+  ]
+}

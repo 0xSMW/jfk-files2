@@ -1,0 +1,33 @@
+{
+  "entity_name": "George_de_Mohrenschildt",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "document_ids": [
+    "135-10001-10255",
+    "104-10326-10057",
+    "104-10164-10088",
+    "180-10145-10285",
+    "104-10066-10031",
+    "104-10061-10320",
+    "104-10059-10057",
+    "104-10418-10230",
+    "104-10166-10262",
+    "104-10147-10301",
+    "104-10061-10214"
+  ],
+  "summary": "George de Mohrenschildt was an individual of interest to the House Select Committee on Assassinations (HSCA) due to his connections to Lee Harvey Oswald. The Central Cover Staff (CCS) held files pertaining to him, and memoranda detail the types and quantity of documents held regarding him, suggesting his relevance to the JFK assassination investigation. Documents also link de Mohrenschildt to individuals such as Willem Oltmans, a Dutch journalist with alleged pro-Soviet leanings, and Jean K. Saurel, a Haitian official. He was observed with H. Charles in 1963. The CIA also possessed information on de Mohrenschildt, which was shared with the HSCA.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "House Select Committee on Assassinations (HSCA)",
+    "Central Cover Staff (CCS)",
+    "Willem Oltmans",
+    "Jean K. Saurel",
+    "H. Charles",
+    "CIA"
+  ],
+  "significance": "High - George de Mohrenschildt's direct connection to Lee Harvey Oswald and the significant number of documents (11) mentioning him, along with the interest from the HSCA and CIA, indicate a high level of significance in the context of the JFK assassination documents.",
+  "merged_from_variants": [
+    "George DeMohrenschildt",
+    "George de Mohrenschildt"
+  ]
+}

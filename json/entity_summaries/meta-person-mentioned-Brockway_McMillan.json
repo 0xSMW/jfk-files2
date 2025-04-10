@@ -1,0 +1,24 @@
+{
+  "entity_name": "Brockway_McMillan",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "document_ids": [
+    "206-10001-10009",
+    "206-10001-10007",
+    "206-10001-10005",
+    "206-10001-10004",
+    "206-10001-10016",
+    "206-10001-10002"
+  ],
+  "summary": "Brockway McMillan was a member of the President's Foreign Intelligence Advisory Board (PFIAB) during the early 1960s (1963-1964). The documents, consisting of meeting minutes and agendas of the PFIAB, indicate McMillan's involvement in advising the President on foreign intelligence matters. Discussions during these meetings covered a range of topics, including intelligence activities related to Cuba, covert operations, signals intelligence (SIGINT), the National Reconnaissance Program, and the Soviet Bloc threat. While the documents do not detail McMillan's specific contributions, his presence suggests his involvement in high-level discussions and reviews of intelligence operations and policies.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Director of Central Intelligence (DCI)",
+    "President Johnson"
+  ],
+  "significance": "Medium. Brockway McMillan's membership on the PFIAB and involvement in discussions regarding sensitive intelligence matters related to Cuba and covert operations suggest a moderate level of significance. While his specific actions are not detailed, his presence in these high-level meetings indicates some degree of influence or knowledge.",
+  "merged_from_variants": [
+    "MacMillan",
+    "Brockway McMillan"
+  ]
+}

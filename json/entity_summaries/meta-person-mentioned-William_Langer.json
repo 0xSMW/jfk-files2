@@ -1,0 +1,36 @@
+{
+  "entity_name": "William_Langer",
+  "entity_type": "person-mentioned",
+  "document_count": 15,
+  "document_ids": [
+    "206-10001-10009",
+    "178-10004-10053",
+    "206-10001-10011",
+    "206-10001-10012",
+    "206-10001-10007",
+    "104-10302-10000",
+    "206-10001-10000",
+    "206-10001-10013",
+    "206-10001-10001",
+    "206-10001-10010",
+    "206-10001-10004",
+    "206-10001-10017",
+    "206-10001-10005",
+    "206-10001-10016",
+    "206-10001-10006"
+  ],
+  "summary": "William Langer, also referred to as Dr. Langer, is mentioned in documents related to the President's Foreign Intelligence Advisory Board (PFIAB) from 1961 to 1963. The documents consist of meeting minutes, agendas, and memoranda concerning intelligence matters, particularly those related to Cuba and covert actions. While the specific role and contributions of Langer are not explicitly detailed, his presence suggests he was likely a member or advisor to the PFIAB, involved in discussions and reviews of CIA activities in various countries. The PFIAB's focus during this period included assessing and overseeing intelligence activities related to Cuba, among other global concerns.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Cuba",
+    "CIA",
+    "Operation MONGOOSE",
+    "John F. Kennedy"
+  ],
+  "significance": "Medium. William Langer's significance is moderate. While mentioned in a substantial number of documents (15), the summaries indicate his specific role within the PFIAB is not clearly defined. His connection to the PFIAB and discussions related to Cuba and covert actions suggests some level of involvement in intelligence matters during the Kennedy administration.",
+  "merged_from_variants": [
+    "William Langer",
+    "Langer",
+    "Dr. Langer"
+  ]
+}

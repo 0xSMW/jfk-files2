@@ -1,0 +1,27 @@
+{
+  "entity_name": "MOC_Amendment",
+  "entity_type": "tag",
+  "document_count": 6,
+  "document_ids": [
+    "104-10247-10069",
+    "104-10192-10110",
+    "104-10247-10070",
+    "104-10215-10149",
+    "104-10215-10151",
+    "104-10167-10375"
+  ],
+  "summary": "MOC Amendments, where MOC stands for Memorandum of Oral Commitment, represent modifications to agreements, particularly within the context of CIA operations. These amendments formalize changes to the original commitments, often involving individuals working with JMWAVE. The modifications primarily concern adjustments to compensation, funding mechanisms, and tax obligations. Examples include salary increases, changes in payment methods (e.g., transitioning individuals to the JMWAVE payroll with tax deductions), and ensuring appropriate financial arrangements for operational requirements. The use of MOCs and their amendments spans from 1961 to 1965, indicating a structured process for managing agreements during this period.",
+  "key_connections": [
+    "JMWAVE",
+    "New York funding mechanism",
+    "MI Division",
+    "WH Division",
+    "201-332676",
+    "Subject of 201-332676"
+  ],
+  "significance": "Medium - MOC Amendments appear in a moderate number of documents and relate to financial and operational agreements, particularly within JMWAVE. This suggests they were a standard administrative practice, but their connection to specific operations warrants attention.",
+  "merged_from_variants": [
+    "MOC",
+    "MOC Amendment"
+  ]
+}

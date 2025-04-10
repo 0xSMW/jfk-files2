@@ -1,0 +1,28 @@
+{
+  "entity_name": "Roger_Hilsman",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "document_ids": [
+    "104-10306-10024",
+    "206-10001-10011",
+    "178-10004-10056",
+    "144-10001-10371",
+    "206-10001-10017",
+    "157-10014-10227",
+    "206-10001-10015"
+  ],
+  "summary": "Roger Hilsman was involved in key foreign policy and intelligence matters during the Kennedy administration, particularly concerning Vietnam and Cuba. He participated in discussions and decision-making processes related to the Diem regime, the ROK President's visit to the U.S., and meetings of the President's Foreign Intelligence Advisory Board. Hilsman also appears in records of the Special Group (Augmented) meetings related to Operation MONGOOSE and covert operations against Cuba, including reconnaissance activities and potential sabotage. His involvement spans from 1961 to 1975, with a notable focus on covert actions and policy related to Cuba during 1962 and 1963.",
+  "key_connections": [
+    "Cuba",
+    "Operation MONGOOSE",
+    "Special Group (Augmented)",
+    "Diem regime",
+    "John F. Kennedy",
+    "U-2 flights"
+  ],
+  "significance": "High - Roger Hilsman appears in multiple documents related to significant events and operations during the Kennedy administration, including covert actions against Cuba and policy decisions regarding Vietnam. His involvement in high-level discussions and decision-making processes suggests a substantial role.",
+  "merged_from_variants": [
+    "Mr. Hilsman",
+    "Roger Hilsman"
+  ]
+}

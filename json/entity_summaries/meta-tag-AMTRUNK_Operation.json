@@ -1,0 +1,34 @@
+{
+  "entity_name": "AMTRUNK_Operation",
+  "entity_type": "tag",
+  "document_count": 11,
+  "document_ids": [
+    "104-10103-10112",
+    "104-10234-10105",
+    "104-10332-10000",
+    "104-10234-10050",
+    "104-10103-10108",
+    "104-10103-10350",
+    "104-10102-10237",
+    "104-10102-10231",
+    "104-10103-10097",
+    "104-10234-10102",
+    "104-10102-10232"
+  ],
+  "summary": "AMTRUNK_Operation was a CIA project involving the infiltration of agents into Cuba, with Modesto Orlando Orozco Basulto (AMTRUNK-9) as one such agent. Operational reviews in 1963 revealed weaknesses in agent reliability and security, leading to recommendations for termination due to the high risk of exposure. Concerns persisted into 1965 regarding the potential capture of AMTRUNK-9. Separately, documents from 1977 suggest a possible political action operation potentially run against the U.S. Government/CIA, involving individuals like Nestor Antonio MORENO Lopez (AMICE-27) and Jose Ricardo RABEL Nunez (AMLEO-3), whose backgrounds were scrutinized for potential dual loyalties. Tad Szulc was also mentioned, raising concerns about potential connections to hostile foreign agents. Overall, AMTRUNK_Operation appears to have been a high-risk endeavor with significant security concerns and potential for compromise.",
+  "key_connections": [
+    "Modesto Orlando Orozco Basulto (AMTRUNK-9)",
+    "CIA",
+    "JMWAVE",
+    "JMHAVE",
+    "Nestor Antonio MORENO Lopez (AMICE-27)",
+    "Jose Ricardo RABEL Nunez (AMLEO-3)",
+    "Tad Szulc",
+    "CASTRO"
+  ],
+  "significance": "Medium - AMTRUNK_Operation appears in 11 documents and involves potentially sensitive operations related to Cuba and potential political action against the U.S. Government/CIA. The security concerns and potential for compromise suggest a moderate level of importance.",
+  "merged_from_variants": [
+    "AMTRUNK Operation",
+    "AMTRUNK"
+  ]
+}

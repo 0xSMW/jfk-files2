@@ -1,0 +1,29 @@
+{
+  "entity_name": "HESS_JACQUELINE",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10060-10440",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078",
+    "180-10125-10077",
+    "180-10125-10107",
+    "180-10072-10186"
+  ],
+  "summary": "Jacqueline Hess was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA), also referred to as the Select Committee on Assassinations (SCAS). Payroll and certification reports from 1977 to 1979 document her employment, including her position, salary, and employment dates. The Assassination Records Review Board issued a notification regarding the postponed release of her Social Security number from HSCA staff payroll records, further confirming her employment history with the Select Committee on Assassinations.",
+  "key_connections": [
+    "Assassination Records Review Board",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Jacqueline Hess's significance lies in her documented employment with the HSCA/SCAS, as evidenced by multiple payroll records. While the specific nature of her work is not detailed, the consistency of her appearance in these records suggests a sustained involvement in the committee's operations, making her a relevant figure in the context of the JFK assassination documents.",
+  "merged_from_variants": [
+    "Jacqueline Hess",
+    "HESS, JACQUELINE"
+  ]
+}

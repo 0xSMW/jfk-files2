@@ -1,0 +1,29 @@
+{
+  "entity_name": "Robert_Bannerman",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "document_ids": [
+    "157-10011-10121",
+    "104-10130-10472",
+    "206-10001-10007",
+    "157-10011-10006",
+    "157-10002-10148",
+    "206-10001-10013",
+    "104-10306-10007",
+    "104-10131-10014",
+    "157-10011-10005",
+    "157-10002-10001",
+    "206-10001-10001"
+  ],
+  "summary": "Robert Bannerman is mentioned in four documents related to CIA activities, specifically concerning sensitive operations and discussions. These documents include index cards summarizing CIA activities related to assassination plots against Fidel Castro and Patrice Lumumba, discussions about 'Executive Action', and Operation Mongoose. He is also mentioned in the minutes of a President's Foreign Intelligence Advisory Board (PFIAB) meeting and in a summary report about Charles William Wiley's background, recruitment, activities, and termination with the CIA. While the specific role or actions of Robert Bannerman are not detailed, his name appears in the context of these sensitive topics.",
+  "key_connections": [
+    "Patrice Lumumba",
+    "Fidel Castro",
+    "Charles William Wiley"
+  ],
+  "significance": "Medium. Robert Bannerman's connection to CIA activities, including potential assassination plots and sensitive operations, suggests a moderate level of significance within the context of the source material, despite the lack of specific details regarding his role. The number of documents (11) also supports this assessment.",
+  "merged_from_variants": [
+    "Bannerman",
+    "Robert Bannerman"
+  ]
+}

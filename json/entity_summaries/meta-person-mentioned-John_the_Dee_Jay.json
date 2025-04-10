@@ -1,0 +1,28 @@
+{
+  "entity_name": "John_the_Dee_Jay",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "document_ids": [
+    "194-10006-10318",
+    "194-10006-10313",
+    "194-10006-10311",
+    "194-10006-10329",
+    "194-10006-10298",
+    "194-10006-10315",
+    "194-10006-10300"
+  ],
+  "summary": "In February and March 1972, John the Dee Jay attracted the attention of counter-intelligence in Datteln, Federal Republic of Germany. He is described as displaying unusual interest in military personnel, installations, and equipment, and attempting to elicit official information from members of the 66th USA Artillery Detachment in Soest, FRG. He made inquiries about former unit members, mentioned a 'package' for Cristobal Pimentel-Davilla, and asked about security information at a bar, making a nuisance of himself. His activities prompted multiple agent reports and a message from the 66th MI GP to DCSI USAREUR, leading to a counter-intelligence investigation initiated by the 165th MI CO and the 66th MI Group, indicating concern about his attempts to gather information.",
+  "key_connections": [
+    "66th USA Artillery Detachment",
+    "66th MI GP",
+    "DCSI USAREUR",
+    "165th MI CO",
+    "66th MI Group",
+    "Cristobal Pimentel-Davilla"
+  ],
+  "significance": "Medium. John the Dee Jay's activities raised enough suspicion to warrant a counter-intelligence investigation involving multiple military intelligence units. While the exact nature of his intentions remains unclear from the provided information, the level of concern and resources dedicated to investigating him suggest a moderate level of significance.",
+  "merged_from_variants": [
+    "John Dee Jay",
+    "John the Dee Jay"
+  ]
+}

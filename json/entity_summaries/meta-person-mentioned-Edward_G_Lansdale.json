@@ -1,0 +1,53 @@
+{
+  "entity_name": "Edward_G_Lansdale",
+  "entity_type": "person-mentioned",
+  "document_count": 27,
+  "document_ids": [
+    "206-10001-10009",
+    "178-10004-10056",
+    "157-10011-10009",
+    "202-10001-10187",
+    "157-10002-10001",
+    "202-10001-10203",
+    "157-10011-10010",
+    "178-10004-10420",
+    "104-10062-10073",
+    "157-10014-10117",
+    "135-10001-10246",
+    "157-10011-10005",
+    "157-10005-10236",
+    "206-10001-10015",
+    "157-10008-10238",
+    "176-10030-10085",
+    "206-10001-10011",
+    "104-10306-10020",
+    "157-10014-10046",
+    "157-10011-10003",
+    "157-10014-10109",
+    "157-10011-10007",
+    "157-10011-10000",
+    "157-10014-10047",
+    "176-10030-10168",
+    "178-10003-10090",
+    "157-10008-10241"
+  ],
+  "summary": "Edward G. Lansdale was a central figure in covert operations and planning, particularly during the Eisenhower and Kennedy administrations. He was significantly involved in Operation Mongoose, participating in discussions and planning of actions against Fidel Castro's Cuba, including potential sabotage, propaganda, and even assassination attempts. His role extended from the early 1960s through the mid-1970s, as reflected in meeting minutes, memoranda, and investigations into the CIA's activities. Lansdale's involvement also included the Bay of Pigs invasion planning and subsequent interactions with the Kennedy administration. His activities were later reviewed by the Rockefeller Commission, suggesting scrutiny of his role in pre-assassination events and CIA operations.",
+  "key_connections": [
+    "Operation Mongoose",
+    "Fidel Castro",
+    "CIA",
+    "Bay of Pigs invasion",
+    "Eisenhower Administration",
+    "John F. Kennedy",
+    "Rockefeller Commission",
+    "Special Group Augmented",
+    "Operation MONGOOSE",
+    "Task Force W"
+  ],
+  "significance": "High - Edward G. Lansdale appears to be a significant figure due to his involvement in sensitive covert operations against Cuba and his connection to investigations into the CIA's activities. The high document count (27) further underscores his importance within the source material.",
+  "merged_from_variants": [
+    "General Lansdale",
+    "Lansdale",
+    "Edward G. Lansdale"
+  ]
+}

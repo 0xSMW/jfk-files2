@@ -1,0 +1,27 @@
+{
+  "entity_name": "Jane_E_Godfrey",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078",
+    "180-10125-10077",
+    "180-10125-10107"
+  ],
+  "summary": "Jane E. Godfrey was an employee of both the U.S. House of Representatives Select Committee on Assassinations (HSCA) and its predecessor, the Select Committee on Assassinations (SCAS). Payroll and certification reports from 1977 to 1979 document her employment, detailing her name, social security number, position, salary, and employment dates. These records indicate her sustained involvement with the committee during its investigation into the JFK assassination, although her specific role is not explicitly stated.",
+  "key_connections": [
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium - Jane E. Godfrey's consistent presence in payroll records across multiple documents suggests a notable, though potentially administrative, role within the HSCA and SCAS during the JFK assassination investigation. While the exact nature of her work is not detailed, her sustained employment indicates a level of involvement beyond a peripheral figure.",
+  "merged_from_variants": [
+    "GODFREY, JANE E",
+    "Jane E Godfrey"
+  ]
+}

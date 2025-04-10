@@ -1,0 +1,36 @@
+{
+  "entity_name": "Journalists",
+  "entity_type": "tag",
+  "document_count": 12,
+  "document_ids": [
+    "104-10218-10083",
+    "104-10171-10138",
+    "104-10068-10172",
+    "104-10100-10424",
+    "104-10418-10045",
+    "104-10103-10103",
+    "104-10218-10033",
+    "104-10418-10041",
+    "104-10333-10006",
+    "104-10221-10002",
+    "104-10330-10081",
+    "104-10102-10233"
+  ],
+  "summary": "The CIA maintained an active interest in journalists, particularly those with leftist or pro-communist leanings, connections to communist countries or organizations, or those traveling to areas of intelligence interest, such as Cuba or China. This interest manifested in various ways, including monitoring journalists like William L. Oltmans, Frank Pilgrim, and Tad Szulc, as well as Mexican Marxist journalist Victor Rico Galan. The agency sought information on journalists for potential recruitment, observation, or to assess their potential security risk or intelligence value. Specific instances include investigating journalists attending a FIOPP seminar in Mexico City, and inquiries related to the agency's relationships with journalists in the context of the JFK assassination.",
+  "key_connections": [
+    "Tad Szulc",
+    "Frank Pilgrim",
+    "William L. Oltmans",
+    "Victor Rico Galan",
+    "Soviet diplomats",
+    "Polish intelligence",
+    "FIOPP",
+    "Mexico City station",
+    "Castro assassination plots"
+  ],
+  "significance": "High. Journalists are mentioned in a significant number of documents (12), and the summaries indicate that the CIA actively monitored and investigated journalists for potential intelligence value or security risks, including in connection to sensitive topics like the JFK assassination and potential connections to communist entities.",
+  "merged_from_variants": [
+    "Journalists",
+    "Journalist"
+  ]
+}

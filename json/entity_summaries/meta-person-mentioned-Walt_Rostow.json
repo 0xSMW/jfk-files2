@@ -1,0 +1,31 @@
+{
+  "entity_name": "Walt_Rostow",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "176-10036-10073",
+    "157-10014-10137",
+    "104-10306-10018",
+    "104-10302-10024",
+    "104-10119-10182",
+    "178-10004-10148",
+    "157-10008-10150",
+    "157-10011-10018",
+    "104-10301-10000",
+    "144-10001-10084"
+  ],
+  "summary": "Walt Rostow appears in multiple documents related to the JFK assassination and associated events, primarily in the context of high-level policy and intelligence matters during the Kennedy and Johnson administrations. While his direct involvement in the assassination is not specified, he is mentioned in discussions regarding the Bay of Pigs invasion, CIA activities, and intelligence briefings provided to Presidents Kennedy and Johnson. Rostow's role seems to have been significant in shaping the information and analysis presented to the President, particularly concerning foreign policy and national security issues, including matters related to Vietnam, as evidenced by his presence in meetings of the Task Force on Viet Nam.",
+  "key_connections": [
+    "Johnson",
+    "John F. Kennedy",
+    "Lyndon B. Johnson",
+    "CIA",
+    "Task Force on Viet Nam",
+    "Diem"
+  ],
+  "significance": "Medium. Walt Rostow's presence in 10 documents related to the JFK assassination and associated events, particularly his involvement in high-level policy and intelligence discussions, suggests a moderate level of significance. While not directly implicated in the assassination itself, his role in shaping policy and intelligence during the Kennedy and Johnson administrations places him as a relevant figure within the broader context of these events.",
+  "merged_from_variants": [
+    "Walt Rostow",
+    "Rostow"
+  ]
+}

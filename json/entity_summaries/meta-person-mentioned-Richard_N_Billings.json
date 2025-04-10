@@ -1,0 +1,24 @@
+{
+  "entity_name": "Richard_N_Billings",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10075",
+    "180-10125-10087",
+    "180-10125-10079",
+    "180-10125-10076",
+    "180-10125-10081",
+    "180-10125-10078"
+  ],
+  "summary": "Richard N. Billings was an employee of the Select Committee on Assassinations (SCAS) during its investigation into the JFK assassination. Payroll and certification reports from 1978 and 1979 consistently list Billings as a staff member, detailing his salary and gross pay across various periods, including April, August, and December of 1978. The documents confirm his ongoing employment with the committee but do not specify his exact role or responsibilities.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Richard N. Billings's presence on the payroll of the Select Committee on Assassinations across multiple documents suggests a consistent role within the committee's staff. While the specific nature of his work is not detailed, his consistent employment indicates a level of involvement in the JFK assassination investigation.",
+  "merged_from_variants": [
+    "BILLINGS, RICHARD N",
+    "Richard N Billings"
+  ]
+}

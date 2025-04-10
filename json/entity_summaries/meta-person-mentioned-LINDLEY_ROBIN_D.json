@@ -1,0 +1,27 @@
+{
+  "entity_name": "LINDLEY_ROBIN_D",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10075",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10076",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078"
+  ],
+  "summary": "Robin D. Lindley was an employee of both the Select Committee on Assassinations (SCAS) and the U.S. House of Representatives Select Committee on Assassinations (HSCA). Payroll and certification reports from October 1977 to March 1979 document Lindley's employment, position, and salary during this period. These records indicate Lindley served as a staff member during the HSCA's investigation into the JFK assassination, though the specific details of their role are not provided in the available documents.",
+  "key_connections": [
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Robin D. Lindley's significance is moderate. While mentioned in 10 documents, the available information is limited to payroll records, indicating their role as a staff member within the HSCA. The lack of specific details about their contributions to the investigation prevents a higher assessment of significance.",
+  "merged_from_variants": [
+    "Robin D Lindley",
+    "LINDLEY, ROBIN D"
+  ]
+}

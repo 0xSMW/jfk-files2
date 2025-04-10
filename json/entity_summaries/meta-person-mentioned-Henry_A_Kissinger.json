@@ -1,0 +1,34 @@
+{
+  "entity_name": "Henry_A_Kissinger",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "document_ids": [
+    "104-10224-10002",
+    "178-10004-10420",
+    "144-10001-10213",
+    "135-10001-10238",
+    "180-10145-10301",
+    "104-10177-10217",
+    "104-10324-10002",
+    "180-10144-10130",
+    "124-10274-10127",
+    "124-10271-10033_multirif_redacted",
+    "104-10301-10011",
+    "124-10264-10191"
+  ],
+  "summary": "Henry A. Kissinger appears in the documents primarily in the context of investigations into intelligence activities, including those by the Senate Select Committee (SENSTUDY) and the Rockefeller Commission. His name is associated with inquiries related to CIA activities, potential compromises of FBI operations, and investigations surrounding the Kennedy assassination, although the documents do not specify his direct involvement in the assassination itself. Kissinger's name also surfaces in connection with activities related to his trip to Venezuela, involving information from Miami and possible CIA contacts, as well as investigations related to the Cuban ambassador. Thus, while not directly implicated in specific events, Kissinger's presence in these documents suggests his involvement, or at least awareness, of intelligence matters under governmental scrutiny during the relevant period.",
+  "key_connections": [
+    "Senate Select Committee (SENSTUDY)",
+    "CIA",
+    "Rockefeller Commission",
+    "FBI",
+    "Cuban ambassador",
+    "Venezuelan secret police"
+  ],
+  "significance": "Medium. Henry A. Kissinger is mentioned in a significant number of documents (12), indicating his relevance to the overall subject matter. However, his role appears to be more related to investigations and intelligence oversight rather than direct involvement in the central events, suggesting a moderate level of significance.",
+  "merged_from_variants": [
+    "Henry Kissinger",
+    "Henry A. Kissinger",
+    "Kissinger"
+  ]
+}

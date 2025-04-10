@@ -1,0 +1,24 @@
+{
+  "entity_name": "Mr_Casper",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "124-10223-10073",
+    "124-10204-10209",
+    "124-10223-10077",
+    "124-10223-10087",
+    "124-10223-10088",
+    "124-10223-10304",
+    "124-10326-10105",
+    "124-10326-10103",
+    "124-10223-10082",
+    "124-10223-10083"
+  ],
+  "summary": "Based on the provided documents, there is no mention of an entity named either \"Mr. Casper\" or \"Casper.\" The documents primarily focus on individuals such as John Roselli, Judith E. Campbell, Sam Giancana, William Alexander Parzow, and Santo Trafficante, Jr., detailing investigations into their activities, connections, and surveillance. Some documents also discuss sensitive information from the CIA and Israeli intelligence. Therefore, no information regarding Mr. Casper's role, connections, or timeline of involvement can be provided based on the given information.",
+  "key_connections": [],
+  "significance": "Low. Despite being mentioned in 10 documents under variant names, the provided summaries indicate that Mr. Casper is not actually mentioned in the documents themselves. The documents focus on other individuals and topics.",
+  "merged_from_variants": [
+    "Casper",
+    "Mr. Casper"
+  ]
+}

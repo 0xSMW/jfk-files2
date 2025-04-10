@@ -1,0 +1,53 @@
+{
+  "entity_name": "Signals_Intelligence",
+  "entity_type": "tag",
+  "document_count": 31,
+  "document_ids": [
+    "180-10143-10070",
+    "206-10001-10000",
+    "144-10001-10290",
+    "206-10001-10005",
+    "144-10001-10153",
+    "144-10001-10185",
+    "144-10001-10291",
+    "144-10001-10253",
+    "144-10001-10287",
+    "206-10001-10006",
+    "144-10001-10212",
+    "144-10001-10138",
+    "144-10001-10365",
+    "144-10001-10288",
+    "206-10001-10004",
+    "144-10001-10331",
+    "144-10001-10205",
+    "144-10001-10072",
+    "144-10001-10065",
+    "144-10001-10097",
+    "144-10001-10356",
+    "144-10001-10334",
+    "144-10001-10279",
+    "144-10001-10164",
+    "144-10001-10166",
+    "144-10001-10321",
+    "206-10001-10001",
+    "144-10001-10068",
+    "144-10001-10376",
+    "144-10001-10375",
+    "144-10001-10280"
+  ],
+  "summary": "Signals Intelligence (SIGINT) refers to intelligence gathered through the interception of signals, including communications (COMINT) and electronic signals. In the context of the JFK assassination, the National Security Agency (NSA) utilized SIGINT to monitor communications from various entities, including the Soviet Union, Cuba, and foreign embassies, to assess reactions and potential implications following the event. This included tracking the dissemination of news, monitoring foreign government responses, and investigating potential foreign involvement or exploitation of the situation. The NSA provided information derived from SIGINT to investigative bodies like the Warren Commission and the House Select Committee on Assassinations (HSCA). Reviews of NSA files and communications intercepts were conducted in response to queries from these committees, spanning from the immediate aftermath of the assassination in November 1963 into the 1970s, focusing on foreign reactions and potential involvement.",
+  "key_connections": [
+    "NSA (National Security Agency)",
+    "Cuba",
+    "Soviet Union",
+    "John F. Kennedy Assassination",
+    "Warren Commission",
+    "House Select Committee on Assassinations (HSCA)",
+    "COMINT (Communications Intelligence)"
+  ],
+  "significance": "High - Signals Intelligence played a significant role in monitoring foreign reactions and potential involvement following the JFK assassination, as evidenced by the number of documents (31) and the NSA's active involvement in providing SIGINT-derived information to investigative bodies.",
+  "merged_from_variants": [
+    "Signals Intelligence",
+    "SIGINT"
+  ]
+}

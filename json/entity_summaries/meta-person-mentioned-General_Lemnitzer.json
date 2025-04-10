@@ -1,0 +1,40 @@
+{
+  "entity_name": "General_Lemnitzer",
+  "entity_type": "person-mentioned",
+  "document_count": 18,
+  "document_ids": [
+    "157-10011-10078",
+    "178-10004-10420",
+    "178-10003-10016",
+    "176-10030-10085",
+    "176-10030-10168",
+    "178-10004-10056",
+    "157-10011-10006",
+    "135-10001-10287",
+    "178-10004-10396",
+    "157-10011-10009",
+    "206-10001-10014",
+    "135-10001-10246",
+    "135-10001-10297",
+    "202-10001-10219",
+    "157-10011-10007",
+    "157-10011-10003",
+    "206-10001-10015",
+    "157-10011-10000"
+  ],
+  "summary": "General Lyman L. Lemnitzer is mentioned in documents spanning from 1959 to 1975, primarily in the context of covert operations during the Kennedy administration, particularly concerning Cuba. He appears in connection with Operation MONGOOSE, a covert operation aimed at destabilizing the Cuban government, and is documented as participating in meetings of the Special Group (Augmented) and the Covert Action Panel, which oversaw covert actions. These meetings involved discussions and planning related to actions against Cuba, including potential actions against Fidel Castro. While the documents do not directly link Lemnitzer to the JFK assassination, his involvement in these sensitive operations places him within the broader network of individuals and events relevant to the investigation, particularly concerning CIA activities, the Bay of Pigs invasion, and responses to Soviet activities in Cuba.",
+  "key_connections": [
+    "Operation MONGOOSE",
+    "Special Group Augmented",
+    "Special Group (Augmented)",
+    "Covert Action Panel",
+    "Fidel Castro",
+    "McCone Papers"
+  ],
+  "significance": "Medium. General Lemnitzer's involvement in Operation MONGOOSE and his presence in high-level meetings concerning covert actions against Cuba suggest a significant role in the events leading up to the JFK assassination, even if a direct connection is not explicitly stated in these documents. His position within the military and intelligence apparatus makes him a relevant figure in understanding the broader context of the assassination.",
+  "merged_from_variants": [
+    "Lyman L. Lemnitzer",
+    "Lemnitzer",
+    "General Lemnitzer"
+  ]
+}

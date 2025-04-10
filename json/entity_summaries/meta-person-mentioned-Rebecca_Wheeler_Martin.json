@@ -1,0 +1,27 @@
+{
+  "entity_name": "Rebecca_Wheeler_Martin",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "180-10060-10490",
+    "180-10068-10308",
+    "180-10060-10475",
+    "180-10060-10489",
+    "180-10068-10341",
+    "180-10068-10317",
+    "180-10060-10480",
+    "180-10060-10447",
+    "180-10068-10322",
+    "180-10070-10153"
+  ],
+  "summary": "Rebecca Wheeler Martin, also known as Rebecca W. Martin and Becky Martin, served as the Chief Clerk for the House Select Committee on Assassinations (HSCA). Payroll and personnel records related to her employment within the HSCA are documented, including payroll authorization forms, a personal leave record, and a summary of her employment history and qualifications. Some HSCA payroll records, including those potentially related to Martin, were reviewed by the Assassination Records Review Board concerning the release and redaction of personal information like Social Security numbers.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Medium - Rebecca Wheeler Martin's role as Chief Clerk for the HSCA suggests a moderate level of significance. While the available documents primarily concern administrative and payroll matters, her position within the committee places her in a central role for its operations.",
+  "merged_from_variants": [
+    "Becky Martin",
+    "Rebecca W. Martin",
+    "Rebecca Wheeler Martin"
+  ]
+}

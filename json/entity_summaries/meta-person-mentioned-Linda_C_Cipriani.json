@@ -1,0 +1,33 @@
+{
+  "entity_name": "Linda_C_Cipriani",
+  "entity_type": "person-mentioned",
+  "document_count": 14,
+  "document_ids": [
+    "104-10331-10194",
+    "104-10332-10008",
+    "104-10337-10002",
+    "104-10332-10020",
+    "104-10331-10202",
+    "104-10333-10008",
+    "104-10331-10134",
+    "104-10331-10154",
+    "104-10331-10226",
+    "104-10332-10022",
+    "104-10332-10007",
+    "104-10330-10044",
+    "104-10331-10166",
+    "104-10331-10209"
+  ],
+  "summary": "Linda C. Cipriani was involved in the CIA's interactions with the Assassination Records Review Board (ARRB) concerning the release of JFK assassination records from 1993 to 1998. Her role encompassed the review, declassification, and release of these records, as well as managing the CIA's relationship with the ARRB and the House Permanent Select Committee on Intelligence (HPSCI). Cipriani participated in discussions and decisions regarding the release of sensitive information, balancing transparency with the need to protect covert operations and personnel, particularly concerning the identities of CIA employees and ongoing intelligence activities. She was also involved in managing sensitive foreign documents related to the JFK assassination.",
+  "key_connections": [
+    "Assassination Records Review Board (ARRB)",
+    "Central Intelligence Agency (CIA)",
+    "CIA employees",
+    "House Permanent Select Committee on Intelligence (HPSCI)"
+  ],
+  "significance": "High. Linda C. Cipriani appears to have played a significant role in the CIA's management and release of JFK assassination records, as evidenced by her sustained involvement over several years and her interactions with key oversight bodies like the ARRB and HPSCI. The number of documents mentioning her (14) further supports her importance in this process.",
+  "merged_from_variants": [
+    "Linda C. Cipriani",
+    "Linda Cipriani"
+  ]
+}

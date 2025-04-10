@@ -1,0 +1,29 @@
+{
+  "entity_name": "BRADY_SURELL",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10068-10314",
+    "180-10125-10087",
+    "180-10143-10227",
+    "180-10125-10079",
+    "180-10125-10094",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078",
+    "180-10113-10246"
+  ],
+  "summary": "Surell Brady was employed by both the Select Committee on Assassinations (SCA) and the House Select Committee on Assassinations (HSCA). Documents, including payroll records and certifications from 1977 and 1978, detail Brady's employment as Staff Counsel for the HSCA, listing their position, salary, and employment dates. A Final Determination Notification from the Assassination Records Review Board also mentions Brady in relation to HSCA staff payroll records and authorization forms. These records provide insight into Brady's employment and compensation within these committees.",
+  "key_connections": [
+    "Select Committee on Assassinations",
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board"
+  ],
+  "significance": "Medium. Surell Brady's significance is moderate. While mentioned in 11 documents, the information primarily relates to employment records within the SCA and HSCA. The role as Staff Counsel suggests some involvement in the committee's work, but the documents do not provide specific details about direct involvement in the JFK assassination investigation.",
+  "merged_from_variants": [
+    "Surell Brady",
+    "BRADY, SURELL"
+  ]
+}

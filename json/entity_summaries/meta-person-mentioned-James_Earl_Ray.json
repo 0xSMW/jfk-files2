@@ -1,0 +1,44 @@
+{
+  "entity_name": "James_Earl_Ray",
+  "entity_type": "person-mentioned",
+  "document_count": 24,
+  "document_ids": [
+    "104-10178-10130",
+    "104-10431-10102",
+    "104-10322-10056",
+    "104-10071-10404",
+    "124-10180-10217_multirif",
+    "104-10079-10016",
+    "124-10180-10324_multirif",
+    "104-10071-10407",
+    "124-10180-10325_multirif",
+    "104-10071-10405",
+    "104-10079-10163",
+    "104-10066-10010",
+    "104-10178-10112",
+    "124-10180-10320_multirif",
+    "104-10433-10081",
+    "104-10079-10231",
+    "180-10143-10222",
+    "124-10180-10236_multirif",
+    "104-10178-10124",
+    "104-10147-10304",
+    "104-10433-10167",
+    "124-10180-10323_multirif",
+    "104-10178-10120",
+    "104-10012-10035"
+  ],
+  "summary": "James Earl Ray is identified as the accused assassin of Martin Luther King Jr., and the documents detail extensive efforts to track and identify him following the assassination. These efforts included requests for identikit composites, fingerprint formulas, and information on his aliases and whereabouts. The FBI and CIA were involved in gathering information, often at the request of the House Select Committee on Assassinations (HSCA), which investigated potential leads related to Ray in various countries. The documents also reveal the sharing of Ray's physical characteristics, criminal history, and mental health history with international liaisons. Jerry Ray is also mentioned in the context of the HSCA investigation, with his name appearing in FBI communications and information requests related to the assassinations of both Martin Luther King Jr. and John F. Kennedy, although his specific role is not detailed.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "FBI",
+    "CIA",
+    "Martin Luther King Jr.",
+    "John F. Kennedy"
+  ],
+  "significance": "High - James Earl Ray is central to the investigation of Martin Luther King Jr.'s assassination, as indicated by the high document count and the focus on identifying, tracking, and investigating him in connection with the assassination. The involvement of the FBI, CIA, and HSCA further underscores his importance.",
+  "merged_from_variants": [
+    "Jerry Ray",
+    "James Earl Ray"
+  ]
+}

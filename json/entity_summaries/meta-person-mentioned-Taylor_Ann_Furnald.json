@@ -1,0 +1,26 @@
+{
+  "entity_name": "Taylor_Ann_Furnald",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "document_ids": [
+    "180-10125-10093",
+    "180-10125-10086",
+    "180-10125-10106",
+    "180-10125-10094",
+    "180-10125-10096",
+    "180-10070-10163",
+    "180-10125-10172",
+    "180-10125-10092",
+    "180-10125-10107"
+  ],
+  "summary": "Ann Furnald Taylor, also known as Taylor, Ann Furnald, was a staff member of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from 1977 to 1978. Payroll certifications and related documents confirm her employment, salary, and position within the committee during this period. Her Social Security number's public release was initially postponed for privacy reasons, as determined by the Assassination Records Review Board. She was also subject to background checks, including fingerprint analysis, as part of HSCA's staff vetting process.",
+  "key_connections": [
+    "U.S. House of Representatives Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board"
+  ],
+  "significance": "Medium. Taylor_Ann_Furnald's significance lies in her employment with the HSCA, as evidenced by multiple payroll documents and background checks. While her specific role isn't detailed, the fact that her employment records are present in multiple documents related to the JFK assassination investigation suggests a relevant, though perhaps not central, position within the committee.",
+  "merged_from_variants": [
+    "Taylor, Ann Furnald",
+    "Ann Furnald Taylor"
+  ]
+}

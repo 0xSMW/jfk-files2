@@ -1,0 +1,53 @@
+{
+  "entity_name": "Headquarters",
+  "entity_type": "recipient",
+  "document_count": 29,
+  "document_ids": [
+    "124-90110-10072",
+    "124-90092-10002",
+    "124-90139-10071",
+    "124-90124-10055",
+    "124-10371-10015",
+    "104-10063-10169",
+    "124-90073-10039",
+    "104-10063-10149",
+    "124-90092-10001",
+    "124-90037-10081",
+    "124-10311-10292",
+    "124-90155-10008",
+    "124-90110-10071",
+    "124-90137-10488",
+    "124-10365-10020",
+    "124-90130-10005",
+    "124-10332-10018",
+    "124-90124-10092",
+    "124-90065-10029",
+    "104-10227-10046",
+    "124-90110-10083",
+    "104-10071-10148",
+    "124-10326-10191",
+    "104-10217-10221",
+    "104-10171-10136",
+    "124-10332-10047",
+    "124-90158-10062",
+    "104-10117-10075",
+    "104-10071-10147"
+  ],
+  "summary": "Headquarters, referring to both CIA and FBI headquarters, serves as a central recipient and disseminator of intelligence information. The documents, spanning from 1951 to 1974, reveal its role in coordinating investigations, gathering intelligence from field offices and other agencies, and disseminating information related to individuals and groups of interest. This includes anti-Castro activities, potential Soviet connections, threats to national security, and the activities of groups like the Black Panther Party and the World Peace Council. Headquarters is involved in both routine administrative tasks, such as processing reports, and sensitive intelligence operations, including tracking individuals and investigating claims related to assassinations. It receives reports, memos, and cables detailing investigations into individuals and organizations of interest, analyzing this intelligence to assess potential threats and coordinate law enforcement activities.",
+  "key_connections": [
+    "CIA",
+    "FBI field offices (e.g., Miami, Bonn, Santo Domingo, Washington Metropolitan Field Office)",
+    "Yuri Ivanovich Nosenko",
+    "Black Panther Party",
+    "World Peace Council",
+    "Santiago Alvarez Rodriguez",
+    "Field Offices",
+    "Martin Luther King Jr.",
+    "Malcolm X"
+  ],
+  "significance": "High. Headquarters is a central node in the intelligence network, receiving and processing information related to significant events and individuals. The high document count (29) and the nature of the information handled indicate a crucial role in intelligence gathering and analysis.",
+  "merged_from_variants": [
+    "HQ",
+    "Headquarters"
+  ]
+}

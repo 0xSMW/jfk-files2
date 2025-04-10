@@ -1,0 +1,33 @@
+{
+  "entity_name": "J_Edgar_Hoover",
+  "entity_type": "tag",
+  "document_count": 8,
+  "document_ids": [
+    "178-10004-10115",
+    "135-10001-10255",
+    "124-10274-10001",
+    "157-10011-10093",
+    "157-10014-10006",
+    "157-10002-10152",
+    "124-10188-10208",
+    "104-10122-10307"
+  ],
+  "summary": "J. Edgar Hoover, as Director of the FBI, is a central figure in these documents, particularly concerning FBI-CIA relations, intelligence operations, and the JFK assassination investigations. His tenure is marked by challenges in coordinating with the CIA, especially regarding Soviet activities and domestic surveillance of groups like the Black Panther Party, Students for a Democratic Society (SDS), and the Young Lords. The documents suggest his involvement in counterintelligence efforts and interactions with figures such as Sam J. Papich, Allen Dulles, and Lee Rankin, including communications with the Warren Commission. His approach to counterintelligence and potential conflicts with individuals like Edward P. Morgan are also noted, as are later investigations by the Senate Select Committee.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "Warren Commission",
+    "Allen Dulles",
+    "Sam J. Papich",
+    "Senate Select Committee (SSC)",
+    "Black Panther Party",
+    "Students for a Democratic Society (SDS)",
+    "Young Lords",
+    "Soviet activities"
+  ],
+  "significance": "High - J. Edgar Hoover's directorship of the FBI places him as a highly significant figure in these documents, given the FBI's involvement in intelligence, counterintelligence, and investigations related to the JFK assassination and domestic surveillance during the specified time period. The number of documents mentioning him further underscores his importance.",
+  "merged_from_variants": [
+    "Hoover",
+    "J. Edgar Hoover"
+  ]
+}

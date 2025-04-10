@@ -1,0 +1,32 @@
+{
+  "entity_name": "Headquarters",
+  "entity_type": "sender",
+  "document_count": 11,
+  "document_ids": [
+    "124-90139-10070",
+    "124-90137-10468",
+    "124-10326-10105",
+    "124-90137-10230",
+    "124-90060-10015",
+    "104-10117-10296",
+    "124-90110-10070",
+    "124-90139-10138",
+    "104-10326-10059",
+    "124-90135-10074",
+    "104-10131-10037"
+  ],
+  "summary": "Headquarters functions as a central authority responsible for directing and overseeing various operations, investigations, and intelligence gathering activities. The documents reveal its role in managing credit blocks, directing field offices in investigations such as the Peter Paul Gregory case, and disseminating intelligence reports, including those related to suspected Cuban security penetrations. Headquarters also acts as a liaison, sharing information with the CIA on individuals like Cuban exiles, foreign officials, and potential informants, and advising on the risks and benefits of approaching individuals for intelligence purposes. This entity's involvement spans from 1965 to 1996, indicating a long-term engagement in operational and intelligence matters, particularly concerning Cuban affairs and collaboration with the CIA.",
+  "key_connections": [
+    "CIA",
+    "Peter Paul Gregory",
+    "Cuban human rights/dissident movement",
+    "Ministry of Interior (MININT)",
+    "James Angleton",
+    "DFO (Los Angeles Field Office)"
+  ],
+  "significance": "Medium - Headquarters appears to be a significant entity involved in directing operations and intelligence gathering, particularly related to Cuban affairs and collaboration with the CIA. The number of documents (11) suggests a consistent and important role, although the specific impact on the JFK assassination documents is not explicitly stated.",
+  "merged_from_variants": [
+    "HQ",
+    "Headquarters"
+  ]
+}

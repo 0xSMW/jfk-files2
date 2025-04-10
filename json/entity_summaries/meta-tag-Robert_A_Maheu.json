@@ -1,0 +1,39 @@
+{
+  "entity_name": "Robert_A_Maheu",
+  "entity_type": "tag",
+  "document_count": 14,
+  "document_ids": [
+    "104-10121-10342",
+    "157-10011-10024",
+    "124-10223-10173",
+    "104-10122-10344",
+    "157-10002-10148",
+    "104-10122-10346",
+    "104-10122-10141",
+    "104-10121-10341",
+    "104-10121-10366",
+    "104-10122-10279",
+    "157-10004-10270",
+    "157-10011-10048",
+    "180-10145-10446",
+    "104-10122-10288"
+  ],
+  "summary": "Robert A. Maheu was a personnel relations executive and former FBI agent recruited by the CIA in 1954 for sensitive and covert operations. His activities included involvement in plots against Fidel Castro, sometimes in collaboration with organized crime figures, and projects to influence foreign leaders like President Sukarno of Indonesia and King Hussein of Jordan, including the use of female assets. He was associated with the Hughes Tool Company, leading to an investigation by INTERTEL. Maheu's other activities included wiretapping Aristotle Onassis and staging a film to discredit a foreign leader. He testified before the SSCIA in 1975 regarding his CIA involvement and was also investigated by the FBI concerning telephone calls made from his office, revealing connections to former FBI Special Agents.",
+  "key_connections": [
+    "CIA",
+    "FBI",
+    "Fidel Castro",
+    "King Hussein of Jordan",
+    "Aristotle Onassis",
+    "Hughes Tool Company",
+    "Organized Crime",
+    "President Sukarno",
+    "CIA Office of Security",
+    "International Intelligence, Inc. (INTERTEL)"
+  ],
+  "significance": "High. Robert A. Maheu appears in a significant number of documents (14) and is connected to highly sensitive operations involving the CIA, including assassination plots and influence operations against foreign leaders. His connections to organized crime and investigations by both the FBI and INTERTEL further underscore his importance within the context of these documents.",
+  "merged_from_variants": [
+    "Robert A. Maheu",
+    "Robert Maheu"
+  ]
+}

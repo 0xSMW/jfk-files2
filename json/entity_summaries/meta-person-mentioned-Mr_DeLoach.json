@@ -1,0 +1,42 @@
+{
+  "entity_name": "Mr_DeLoach",
+  "entity_type": "person-mentioned",
+  "document_count": 19,
+  "document_ids": [
+    "124-10223-10073",
+    "124-10204-10209",
+    "124-10203-10465",
+    "104-10338-10005",
+    "124-10223-10077",
+    "124-10223-10082",
+    "124-90137-10467",
+    "124-10203-10485",
+    "157-10011-10093",
+    "124-10223-10088",
+    "124-10203-10497",
+    "124-10326-10103",
+    "124-10203-10468",
+    "124-10203-10246",
+    "124-10223-10087",
+    "124-10271-10013",
+    "124-10326-10105",
+    "124-10264-10209_multirif",
+    "124-10223-10083"
+  ],
+  "summary": "Mr. DeLoach, often referred to as DeLoach, was involved in the administrative and operational aspects of the FBI during the 1960s and 1970s. His name appears in memos and teletypes related to the FBI's handling of intelligence, liaison with other agencies like the CIA, and responses to external inquiries, including those from the Senate Select Committee. He is mentioned in connection with FBI investigations into individuals such as John Roselli, Gabriel Mannarino, and Santo Trafficante, Jr., as well as in the context of handling sensitive information and coordinating with the CIA regarding the release of JFK assassination-related documents.",
+  "key_connections": [
+    "CIA",
+    "J. Edgar Hoover",
+    "John Roselli",
+    "Gabriel Mannarino",
+    "Santo Trafficante, Jr.",
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "Sam J. Papich",
+    "James Angleton"
+  ],
+  "significance": "Medium. Mr. DeLoach appears in a significant number of documents (19), suggesting a notable role within the FBI during the period covered. While the summaries don't detail specific actions, his involvement in handling intelligence, liaising with the CIA, and responding to inquiries related to sensitive investigations indicates a position of some importance.",
+  "merged_from_variants": [
+    "Mr. DeLoach",
+    "DeLoach"
+  ]
+}

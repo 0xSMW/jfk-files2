@@ -1,0 +1,47 @@
+{
+  "entity_name": "All_Staff_Employees",
+  "entity_type": "recipient",
+  "document_count": 18,
+  "document_ids": [
+    "180-10071-10000",
+    "180-10068-10336",
+    "180-10070-10146",
+    "180-10068-10312",
+    "180-10068-10345",
+    "180-10070-10166",
+    "180-10070-10174",
+    "180-10068-10337",
+    "180-10068-10307",
+    "180-10060-10499",
+    "180-10071-10001",
+    "180-10060-10486",
+    "180-10147-10266",
+    "180-10070-10163",
+    "180-10060-10480",
+    "180-10068-10343",
+    "180-10068-10357",
+    "180-10060-10465"
+  ],
+  "summary": "The entity \"All_Staff_Employees\" encompasses the personnel employed by the House Select Committee on Assassinations (HSCA). The documents primarily consist of payroll records and related employment information, which were later reviewed by the Assassination Records Review Board (ARRB). A key concern during the ARRB review was the protection of staff members' personal privacy, specifically regarding the release of Social Security numbers. The documents span from the period of actual employment (1976-1978) to 1995, when the ARRB made its final determinations. Several staff members are specifically named in the documents, including Antoinette M. Roberts, Donald A. Purdy, Jr., Sari Mordana, Ann Furnald Taylor, Elizabeth Ann Wolf, Denise L. McCray, Kevin Sean Doyle, Jane E. Godfrey, William K. Triplett, Michael Ewing, Lisa M. Berlow, and William A. Webb.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board (ARRB)",
+    "Antoinette M. Roberts",
+    "Donald A. Purdy, Jr.",
+    "Sari Mordana",
+    "Ann Furnald Taylor",
+    "Elizabeth Ann Wolf",
+    "Denise L. McCray",
+    "Kevin Sean Doyle",
+    "Jane E. Godfrey",
+    "William K. Triplett",
+    "Michael Ewing",
+    "Lisa M. Berlow",
+    "William A. Webb"
+  ],
+  "significance": "Medium. While the entity represents a relatively large group (all staff), the documents primarily concern administrative matters (payroll). The ARRB's involvement suggests a degree of sensitivity, but the core issue revolves around privacy rather than direct involvement in the assassination itself. The number of documents (18) indicates a moderate level of relevance within the broader collection.",
+  "merged_from_variants": [
+    "All Staff Employees",
+    "All Staff"
+  ]
+}

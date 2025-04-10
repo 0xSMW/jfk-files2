@@ -1,0 +1,53 @@
+{
+  "entity_name": "Employment_Records",
+  "entity_type": "tag",
+  "document_count": 32,
+  "document_ids": [
+    "194-10004-10382",
+    "194-10004-10379",
+    "194-10005-10063",
+    "194-10002-10216",
+    "104-10136-10324",
+    "104-10222-10040",
+    "194-10005-10105",
+    "180-10060-10475",
+    "194-10005-10064",
+    "180-10068-10303",
+    "180-10070-10150",
+    "104-10194-10023",
+    "180-10060-10467",
+    "180-10060-10486",
+    "194-10004-10380",
+    "180-10072-10186",
+    "180-10060-10449",
+    "180-10060-10441",
+    "180-10060-10464",
+    "180-10060-10490",
+    "104-10222-10041",
+    "180-10068-10363",
+    "180-10060-10452",
+    "180-10068-10317",
+    "180-10060-10480",
+    "180-10060-10442",
+    "194-10006-10141",
+    "180-10070-10155",
+    "104-10061-10207",
+    "104-10129-10002",
+    "180-10060-10450",
+    "104-10146-10198"
+  ],
+  "summary": "The 'Employment Records' entity encompasses payroll records, personnel files, agent reports, and related documentation pertaining to individuals connected to the House Select Committee on Assassinations (HSCA), the CIA, and other organizations. These records detail employment history, salary information, position titles, performance reviews, personal history statements, resumes, and biographic profiles. A significant aspect of these records is the redaction or postponement of Social Security numbers, particularly within HSCA staff payroll documents, to protect personal privacy. Agent reports often verify employment details of individuals of interest, such as Robert Scheer and Manuel Marti, as part of investigations or screenings. The records also sometimes include disclosures of relationships to members of Congress.",
+  "key_connections": [
+    "House Select Committee on Assassinations (HSCA)",
+    "CIA (Central Intelligence Agency)",
+    "Robert Scheer",
+    "Manuel Marti",
+    "Social Security Administration",
+    "HSCA (House Select Committee on Assassinations)"
+  ],
+  "significance": "Medium - The 'Employment Records' entity appears in a moderate number of documents (32) and provides valuable insights into the backgrounds, affiliations, and employment details of individuals connected to the HSCA and CIA, which are central to the JFK assassination documents. The redaction of Social Security numbers also highlights a concern for privacy within these organizations.",
+  "merged_from_variants": [
+    "Employment History",
+    "Employment Records"
+  ]
+}

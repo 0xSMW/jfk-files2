@@ -1,0 +1,31 @@
+{
+  "entity_name": "C_Tracy_Barnes",
+  "entity_type": "person-mentioned",
+  "document_count": 11,
+  "document_ids": [
+    "157-10005-10228",
+    "176-10030-10085",
+    "104-10331-10152",
+    "180-10143-10456",
+    "176-10030-10168",
+    "104-10332-10000",
+    "180-10143-10072",
+    "104-10119-10182",
+    "135-10001-10243",
+    "104-10174-10064",
+    "135-10001-10245"
+  ],
+  "summary": "C. Tracy Barnes is mentioned in documents related to pending issues between the CIA and the ARRB (JFK Board) concerning the release of JFK assassination-related records. The documents suggest his name is relevant in discussions about protecting sensitive Agency equities and operational details during the ARRB review process. Specific areas of concern include unacknowledged covert actions, alias documentation, organizational materials, Mexico City tapes, and the protection of assets and files of CIA officials.",
+  "key_connections": [
+    "CIA",
+    "ARRB (JFK Board)",
+    "Mexico City tapes",
+    "Richard Gibson",
+    "LITAMIL-9"
+  ],
+  "significance": "Medium - C. Tracy Barnes appears in a significant number of documents (11) related to the JFK assassination records, suggesting some involvement or connection to the CIA's handling of information relevant to the ARRB review. While the documents don't explicitly detail his role in the assassination itself, his name is associated with sensitive CIA equities and operational details.",
+  "merged_from_variants": [
+    "C. Tracy Barnes",
+    "Tracy Barnes"
+  ]
+}

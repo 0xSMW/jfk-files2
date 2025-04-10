@@ -1,0 +1,28 @@
+{
+  "entity_name": "Rafael_Trujillo",
+  "entity_type": "tag",
+  "document_count": 6,
+  "document_ids": [
+    "157-10014-10081",
+    "104-10214-10034",
+    "176-10033-10151",
+    "157-10014-10151",
+    "157-10011-10018",
+    "157-10014-10100"
+  ],
+  "summary": "Rafael Trujillo was the dictator of the Dominican Republic. U.S. government involvement in plotting his overthrow, including potential assassination plots, is a central theme in the documents. The CIA and State Department were involved in providing arms to dissident groups. The Select Committee on Assassinations (SSCIA) investigated allegations of U.S. involvement in these plots, with Richard M. Bissell testifying regarding potential assassinations of foreign leaders. Discussions regarding covert actions against Trujillo's regime, including a potential international shipping boycott, occurred during Eisenhower's administration.",
+  "key_connections": [
+    "CIA",
+    "State Department",
+    "Richard M. Bissell",
+    "Select Committee on Assassinations (SSCIA)",
+    "Dominican Republic",
+    "Eisenhower",
+    "Senate Select Committee"
+  ],
+  "significance": "High - Rafael Trujillo's assassination and the potential U.S. government involvement are significant themes within the documents, as evidenced by the number of documents mentioning him and the focus of the SSCIA investigation.",
+  "merged_from_variants": [
+    "Rafael Trujillo",
+    "Trujillo"
+  ]
+}

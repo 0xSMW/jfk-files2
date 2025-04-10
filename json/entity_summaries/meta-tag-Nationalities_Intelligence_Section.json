@@ -1,0 +1,27 @@
+{
+  "entity_name": "Nationalities_Intelligence_Section",
+  "entity_type": "tag",
+  "document_count": 6,
+  "document_ids": [
+    "124-90139-10050",
+    "104-10113-10254",
+    "124-90140-10071",
+    "124-90137-10053",
+    "104-10122-10147",
+    "104-10113-10258"
+  ],
+  "summary": "The Nationalities Intelligence Section, sometimes referred to as the 'Alien Affairs Staff,' was involved in CIA operations, particularly those concerning Cuban exiles and foreign nationals. Their activities included facilitating travel, creating forged documents, and coordinating transportation for individuals, some of whom traveled under aliases. Information regarding individuals like Ismael Rodriguez, a comptroller for Cubana Airlines used as a CIA courier, was directed to the section. The documents suggest involvement in covert operations related to Cuba, including potential activities involving fishing boats and proposals to influence public opinion regarding Cuba. The section's activities are documented from the early 1960s to 1968.",
+  "key_connections": [
+    "Cuba",
+    "Cuban exiles",
+    "CIA",
+    "Ismael Rodriguez",
+    "Cubana Airlines",
+    "Fair Play for Cuba Committee"
+  ],
+  "significance": "Medium. The Nationalities Intelligence Section appears in a moderate number of documents and is linked to CIA activities involving Cuban exiles and covert operations. While not directly linked to the JFK assassination in the provided summaries, their involvement in sensitive operations and management of individuals of interest suggests a potential, though indirect, relevance.",
+  "merged_from_variants": [
+    "Alien Affairs Staff",
+    "Nationalities Intelligence Section"
+  ]
+}

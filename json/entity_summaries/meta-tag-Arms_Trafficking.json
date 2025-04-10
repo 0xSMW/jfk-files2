@@ -1,0 +1,43 @@
+{
+  "entity_name": "Arms_Trafficking",
+  "entity_type": "tag",
+  "document_count": 13,
+  "document_ids": [
+    "124-90124-10055",
+    "104-10163-10087",
+    "104-10182-10073",
+    "104-10171-10033",
+    "104-10170-10145",
+    "124-90138-10066",
+    "104-10170-10036",
+    "104-10290-10162",
+    "104-10216-10075",
+    "104-10105-10218",
+    "198-10008-10119",
+    "104-10180-10062",
+    "104-10180-10044"
+  ],
+  "summary": "The documents reveal a network of individuals and organizations involved in arms trafficking, particularly concerning Cuba and Latin America, spanning from the late 1950s to the early 1970s. This includes instances of arms dealing, sales, and shipments linked to subversive activities, political instability, and revolutionary movements. Individuals like Manuel Artime, Mitchell Livingston WerBell, and Paul Hickman are mentioned in connection with these activities, along with organizations such as the DRE and FEU. The CIA also investigated these matters, indicating an intelligence interest. Arms were used to support Cuban subversion, mercenary activities in Africa, and potentially smuggled via diplomatic pouches. The Communist Party of El Salvador also sought explosives.",
+  "key_connections": [
+    "Manuel Artime (AMBIDDY-1)",
+    "Mitchell Livingston WerBell",
+    "CIA",
+    "Cuba",
+    "Cuban subversion in Latin America",
+    "Central America",
+    "Communist Party of El Salvador",
+    "DRE (Directorio Revolucionario Estudiantil)",
+    "FEU",
+    "Paul Hickman",
+    "Samuel George Cummings",
+    "Venezuela",
+    "Mexico"
+  ],
+  "significance": "High - Arms trafficking appears as a significant element in the context of Cuban subversion, political instability in Latin America, and the activities of various individuals and organizations, warranting intelligence interest and investigation. The number of documents (13) further underscores its importance.",
+  "merged_from_variants": [
+    "Arms Trafficking",
+    "Arms Dealing",
+    "Arms Sales",
+    "Arms Shipment"
+  ]
+}

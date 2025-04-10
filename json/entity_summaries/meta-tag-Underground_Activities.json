@@ -1,0 +1,42 @@
+{
+  "entity_name": "Underground_Activities",
+  "entity_type": "tag",
+  "document_count": 13,
+  "document_ids": [
+    "178-10003-10453",
+    "104-10066-10076",
+    "180-10106-10011",
+    "104-10275-10176",
+    "104-10230-10154",
+    "135-10001-10287",
+    "178-10004-10396",
+    "124-10212-10160",
+    "104-10241-10250",
+    "104-10230-10153",
+    "104-10232-10004",
+    "124-90073-10039",
+    "104-10227-10150"
+  ],
+  "summary": "The documents detail various underground activities, primarily focused on covert operations against the Castro regime in Cuba during the early 1960s, including potential sabotage, propaganda, and efforts to establish a government on Cuban soil. These activities were supported by allocated budgets and involved meetings with Cuban exile leaders like AMBANG-1 and Dr. MIRO Cardona. Investigations also extended to the CIA's domestic activities, raising concerns about potential abuses and the handling of information related to American citizens, prompting Senate Select Committee investigations. Furthermore, the documents touch upon political activities, fundraising, and connections to individuals with pro or anti-Castro sentiments, including Lee Harvey Oswald and Charles [REDACTED], as well as potential involvement in gambling rackets and surveillance operations.",
+  "key_connections": [
+    "Castro Regime",
+    "Cuba",
+    "CIA",
+    "Lee Harvey Oswald",
+    "Frank Church",
+    "William Colby",
+    "Senate Select Committee",
+    "AMBANG-1",
+    "Dr. MIRO Cardona",
+    "Cuban Operations",
+    "Charles [REDACTED]",
+    "Counter-Intelligence (CI) Staff"
+  ],
+  "significance": "High. The entity 'Underground_Activities' appears significant due to its connection to both anti-Castro operations and investigations into the CIA's domestic activities. The involvement of figures like Lee Harvey Oswald and the Senate Select Committee, coupled with the number of documents (13), suggests a substantial level of scrutiny and relevance within the context of the source material.",
+  "merged_from_variants": [
+    "Political Activities",
+    "Cuban Activities",
+    "Underground Activities",
+    "Domestic Activities"
+  ]
+}

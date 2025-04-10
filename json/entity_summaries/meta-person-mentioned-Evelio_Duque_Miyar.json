@@ -1,0 +1,29 @@
+{
+  "entity_name": "Evelio_Duque_Miyar",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "document_ids": [
+    "104-10169-10271",
+    "104-10169-10002",
+    "104-10169-10007",
+    "104-10169-10004",
+    "104-10169-10000",
+    "104-10169-10003",
+    "104-10169-10017",
+    "104-10169-10001",
+    "104-10169-10006"
+  ],
+  "summary": "Evelio Duque Miyar was a Cuban anti-communist with past ties to the CIA, who provided him with assistance before terminating the relationship due to disagreements. He was involved in anti-Castro activities, potentially including Cuban operations in Miami during the early 1960s. Documents from 1966 and 1973 place him in Ecuador, and intelligence agencies showed interest in his activities, requesting traces on him. There are also indications of potential connections to drug trafficking, including a meeting with Alfredo Ordonez Gonzalez in Central America, and affiliations with various exile groups. In 1978, he operated a confectionery store across from the consulate in Guayaquil.",
+  "key_connections": [
+    "CIA",
+    "Anti-Castro groups",
+    "Cuban operations in Miami",
+    "Alfredo Ordonez Gonzalez",
+    "EAC"
+  ],
+  "significance": "Medium. Evelio Duque Miyar appears in a moderate number of documents and is linked to both anti-Castro activities and potential drug trafficking, warranting further investigation. His past relationship with the CIA also adds to his significance.",
+  "merged_from_variants": [
+    "Evelio Duque",
+    "Evelio Duque Miyar"
+  ]
+}

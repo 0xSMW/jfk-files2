@@ -1,0 +1,35 @@
+{
+  "entity_name": "Conspiracy_Theory",
+  "entity_type": "tag",
+  "document_count": 11,
+  "document_ids": [
+    "104-10431-10102",
+    "104-10183-10331",
+    "144-10001-10168",
+    "144-10001-10305",
+    "124-10164-10151",
+    "104-10012-10076",
+    "104-10326-10070",
+    "104-10012-10035",
+    "104-10326-10052",
+    "104-10165-10075",
+    "104-10326-10096"
+  ],
+  "summary": "The documents primarily focus on conspiracy theories surrounding the assassination of President John F. Kennedy, spanning from 1963 to 1996. These theories implicate various actors, including the CIA, the military-industrial complex, and Cuban entities. The documents include investigations, allegations, and claims of prior knowledge or involvement related to the assassination. The propagation of these theories is evident in published works and through claims made by individuals, sometimes alleging harassment or conspiracy against them. The documents also touch upon broader political contexts, such as the political situation in Haiti and discussions between Cubans and MAIJA representatives, suggesting potential covert activities.",
+  "key_connections": [
+    "John F. Kennedy",
+    "Lee Harvey Oswald",
+    "CIA",
+    "Cuba",
+    "Jim Garrison",
+    "Robert Kennedy",
+    "Military-industrial complex",
+    "Dick Russell",
+    "Sergyj Czornonoh"
+  ],
+  "significance": "High - The entity 'Conspiracy_Theory' is highly significant due to its central role in the documents related to the JFK assassination. The numerous documents and the detailed summaries indicate a sustained and widespread interest in various conspiracy theories surrounding this event.",
+  "merged_from_variants": [
+    "Conspiracy Theory",
+    "Conspiracy"
+  ]
+}

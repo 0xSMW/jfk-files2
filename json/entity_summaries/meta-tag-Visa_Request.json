@@ -1,0 +1,45 @@
+{
+  "entity_name": "Visa_Request",
+  "entity_type": "tag",
+  "document_count": 17,
+  "document_ids": [
+    "104-10216-10000",
+    "104-10173-10170",
+    "104-10012-10022",
+    "124-10289-10464",
+    "104-10092-10202",
+    "124-10239-10171",
+    "180-10110-10100",
+    "104-10162-10014",
+    "144-10001-10168",
+    "104-10113-10254",
+    "124-10291-10123",
+    "104-10535-10001",
+    "104-10431-10091",
+    "104-10179-10143",
+    "104-10113-10258",
+    "124-90074-10051",
+    "104-10077-10136"
+  ],
+  "summary": "Visa requests and visas, both genuine and forged, played a significant role in intelligence operations and the movement of individuals of interest. The documents reveal instances of visa acquisition, denial, and potential manipulation by entities like the CIA. Lee Harvey Oswald's attempts to obtain visas to Cuba and the Soviet Union in Mexico City are highlighted, as are visa requests related to anti-Castro activities and the travel of Communist nationals. Visa authorizations and travel routes were monitored, particularly for individuals of interest to national security, suggesting that visa requests were a point of interest for intelligence gathering and tracking.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "Cuba",
+    "Soviet Union",
+    "Mexico City",
+    "CIA",
+    "Anti-Castro support",
+    "Cuban Officials",
+    "Soviet Officials",
+    "Max Lesnick",
+    "Miguel Angel DIAZ Isalgué",
+    "Ivan Gavrilevich Alferov",
+    "Valeriy Vladimirovich Kostikov"
+  ],
+  "significance": "High. The entity 'Visa_Request' appears in 17 documents and is directly linked to key figures and events surrounding the JFK assassination, intelligence operations, and Cold War political activities. The manipulation and monitoring of visa processes suggest a significant role in intelligence gathering and control of movement.",
+  "merged_from_variants": [
+    "Visa Request",
+    "Visa",
+    "Visas"
+  ]
+}

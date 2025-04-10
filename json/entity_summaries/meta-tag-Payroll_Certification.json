@@ -1,0 +1,40 @@
+{
+  "entity_name": "Payroll_Certification",
+  "entity_type": "tag",
+  "document_count": 16,
+  "document_ids": [
+    "180-10125-10093",
+    "180-10125-10083",
+    "180-10125-10080",
+    "180-10068-10311",
+    "180-10068-10357",
+    "180-10125-10098",
+    "180-10125-10079",
+    "180-10071-10001",
+    "180-10125-10100",
+    "180-10060-10459",
+    "180-10125-10081",
+    "180-10125-10082",
+    "180-10125-10077",
+    "180-10060-10494",
+    "180-10125-10084",
+    "180-10070-10161"
+  ],
+  "summary": "Payroll certification documents from the U.S. House of Representatives Select Committee on Assassinations (HSCA) provide detailed payroll information for committee staff. These documents, including payroll authorization forms, memoranda, and certification reports, span from November 1976 to January 1979. They list employee names, positions, annual salaries, and pay period earnings, reflecting the administrative processes for managing HSCA personnel and ensuring accurate compensation. The Assassination Records Review Board (ARRB) also played a role in these records, issuing notifications regarding the postponement of sensitive information like Social Security numbers due to privacy concerns.",
+  "key_connections": [
+    "U.S. House of Representatives",
+    "U.S. House of Representatives Select Committee on Assassinations (HSCA)",
+    "Select Committee on Assassinations (HSCA)",
+    "HSCA Employees",
+    "Committee Staff",
+    "Assassination Records Review Board (ARRB)",
+    "Payroll Authorization Forms",
+    "Payroll"
+  ],
+  "significance": "Medium - Payroll certifications, while routine administrative documents, are significant because they provide a record of the individuals employed by the HSCA and their compensation during the investigation. The number of documents (16) suggests that this was a consistent administrative function.",
+  "merged_from_variants": [
+    "Certification Report",
+    "Certification",
+    "Payroll Certification"
+  ]
+}

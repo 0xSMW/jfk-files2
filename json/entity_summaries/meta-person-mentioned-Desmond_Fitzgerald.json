@@ -1,0 +1,47 @@
+{
+  "entity_name": "Desmond_Fitzgerald",
+  "entity_type": "person-mentioned",
+  "document_count": 22,
+  "document_ids": [
+    "104-10161-10226",
+    "104-10215-10004",
+    "104-10161-10321",
+    "206-10001-10013",
+    "104-10222-10042",
+    "104-10187-10003",
+    "206-10001-10004",
+    "104-10301-10001",
+    "104-10100-10251",
+    "157-10008-10253",
+    "157-10008-10238",
+    "104-10306-10018",
+    "104-10306-10024",
+    "104-10234-10050",
+    "157-10014-10046",
+    "104-10077-10067",
+    "104-10310-10020",
+    "104-10173-10130",
+    "157-10014-10047",
+    "104-10306-10021",
+    "157-10008-10150",
+    "104-10112-10148"
+  ],
+  "summary": "Desmond FitzGerald was a key CIA figure heavily involved in covert operations related to Cuba during the early to mid-1960s. He participated in planning and oversight of clandestine activities against Cuba, including potential sabotage attempts, support for anti-Castro elements, and discussions regarding potential assassination plots. He attended meetings of the Special Group and was involved with CIA operations such as JMWAVE and Operation Mongoose. His involvement spanned from at least January 1963 to the mid-1970s and included personnel matters and operational support for specific operations like KDBADGER. The documents suggest his involvement in sensitive and potentially controversial activities during a period of heightened tensions between the US and Cuba, and potentially the Dominican Republic.",
+  "key_connections": [
+    "CIA",
+    "Cuba",
+    "Operation Mongoose",
+    "Fidel Castro",
+    "Special Group",
+    "JMWAVE",
+    "JMWAVE station",
+    "KDBADGER",
+    "AMLASH operation"
+  ],
+  "significance": "High. Desmond FitzGerald appears to have been a significant figure in CIA covert operations, particularly those targeting Cuba. The number of documents mentioning him (22) and the nature of his involvement in sensitive activities indicate a high level of importance within the context of these historical records.",
+  "merged_from_variants": [
+    "Fitzgerald",
+    "Desmond FitzGerald",
+    "Mr. FitzGerald"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "entity_name": "David_Atlee_Phillips",
+  "entity_type": "tag",
+  "document_count": 18,
+  "document_ids": [
+    "104-10105-10120",
+    "104-10114-10161",
+    "104-10105-10137",
+    "104-10105-10133",
+    "104-10161-10096",
+    "180-10110-10100",
+    "157-10002-10165",
+    "180-10131-10329",
+    "104-10161-10097",
+    "180-10143-10072",
+    "104-10128-10300",
+    "104-10105-10119",
+    "104-10194-10026",
+    "104-10105-10102",
+    "104-10105-10130",
+    "180-10113-10119",
+    "104-10161-10091",
+    "104-10105-10126"
+  ],
+  "summary": "David Atlee Phillips, also known as Dave Phillips and David Phillips, was a CIA officer whose career is documented in these files, including personnel actions, reassignments, and promotions. His manuscript, \"The Night Watch,\" underwent CIA review due to potential security breaches and operational compromises, focusing on classified information. Phillips was connected to the CIA station in Mexico City during Lee Harvey Oswald's visit in 1963, and he testified before the SSCIA regarding CIA activities related to Cuba, Chile, and the JFK assassination, including Operation Mongoose and the Bay of Pigs. He was also involved with the Association of Retired Intelligence Officers. A document mentions his son, Chris Phillips, and a suspicious phone call, raising security concerns. Additionally, there is mention of coordination regarding the operational use of Michael Weimer Stratton within the US for propaganda.",
+  "key_connections": [
+    "Lee Harvey Oswald",
+    "CIA",
+    "Mexico City CIA station",
+    "Operation Mongoose",
+    "Bay of Pigs",
+    "Cuba",
+    "Chile",
+    "Allende",
+    "Association of Retired Intelligence Officers",
+    "Chris Phillips",
+    "Michael Weimer Stratton",
+    "Kammer",
+    "McCord"
+  ],
+  "significance": "High. David Atlee Phillips appears to be a significant figure due to his involvement in sensitive CIA operations, his connection to the JFK assassination investigation, and the security concerns surrounding his manuscript. The number of documents (18) further underscores his importance within the context of these files.",
+  "merged_from_variants": [
+    "Dave Phillips",
+    "David Phillips",
+    "David A. Phillips",
+    "David Atlee Phillips"
+  ]
+}

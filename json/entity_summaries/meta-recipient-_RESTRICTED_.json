@@ -1,0 +1,29 @@
+{
+  "entity_name": "_RESTRICTED_",
+  "entity_type": "recipient",
+  "document_count": 9,
+  "document_ids": [
+    "194-10004-10369",
+    "194-10007-10424",
+    "194-10004-10394",
+    "194-10002-10203_redacted",
+    "194-10002-10094",
+    "194-10006-10186",
+    "194-10004-10401",
+    "194-10005-10105",
+    "194-10004-10402"
+  ],
+  "summary": "_RESTRICTED_ was being considered for a position of trust with the U.S. government, prompting background checks and investigations. Documents include a character reference from Richard H. Franken. Other individuals mentioned in relation to these investigations include Manuel Marti (and his father Adrian Sotomayor), Robert Scheer, and David Reed Fromer, though their direct connection to _RESTRICTED_ is not explicitly detailed. The specific role and significance of _RESTRICTED_ remain somewhat unclear based on the provided summaries, but the fact that they were being vetted for a position of trust suggests some level of importance.",
+  "key_connections": [
+    "Richard H. Franken",
+    "Manuel Marti",
+    "Adrian Sotomayor",
+    "Robert Scheer",
+    "David Reed Fromer"
+  ],
+  "significance": "Medium - _RESTRICTED_ appears in 9 documents and was being considered for a position of trust, indicating some level of scrutiny and potential importance. However, the summaries lack specific details about their role or the outcome of the vetting process, limiting a higher assessment.",
+  "merged_from_variants": [
+    "RESTRICTED",
+    "[ RESTRICTED ]"
+  ]
+}

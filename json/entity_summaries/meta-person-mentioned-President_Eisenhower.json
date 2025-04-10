@@ -1,0 +1,49 @@
+{
+  "entity_name": "President_Eisenhower",
+  "entity_type": "person-mentioned",
+  "document_count": 25,
+  "document_ids": [
+    "124-10279-10258",
+    "104-10173-10132",
+    "176-10033-10151",
+    "157-10014-10151",
+    "104-10306-10016",
+    "157-10014-10100",
+    "104-10308-10208",
+    "206-10001-10012",
+    "180-10143-10072",
+    "135-10001-10246",
+    "124-10183-10279_multirif_redacted",
+    "177-10001-10445",
+    "104-10164-10032",
+    "176-10030-10085",
+    "104-10171-10220",
+    "157-10014-10178",
+    "144-10001-10072",
+    "124-10183-10277_multirif_redacted",
+    "178-10004-10416",
+    "104-10106-10716",
+    "176-10030-10168",
+    "157-10005-10297",
+    "104-10306-10011",
+    "157-10014-10067",
+    "104-10303-10007"
+  ],
+  "summary": "President Dwight D. Eisenhower is mentioned in the documents primarily concerning his potential authorization of covert operations and assassination plots against foreign leaders during his presidency, specifically regarding Trujillo, Castro, and Lumumba. The documents explore the extent of his knowledge and approval of these plans, as well as the command structure for covert actions during his administration. His administration's involvement in the planning of the Bay of Pigs invasion is also referenced. These actions and policies provide a historical context for understanding events leading up to the JFK assassination, particularly concerning Cuba and covert operations.",
+  "key_connections": [
+    "Patrice Lumumba",
+    "Cuba",
+    "Castro",
+    "Edward Lansdale",
+    "Trujillo",
+    "CIA",
+    "Bay of Pigs invasion",
+    "John F. Kennedy"
+  ],
+  "significance": "Medium - Eisenhower's presidency is significant as it provides the historical backdrop and context for understanding the covert operations and foreign policy decisions that potentially influenced events surrounding the JFK assassination. The documents raise questions about the authorization of assassination attempts and the command structure for covert actions during his administration.",
+  "merged_from_variants": [
+    "President Eisenhower",
+    "Dwight D. Eisenhower",
+    "Eisenhower"
+  ]
+}

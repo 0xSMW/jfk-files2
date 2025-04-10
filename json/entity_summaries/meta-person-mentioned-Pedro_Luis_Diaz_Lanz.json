@@ -1,0 +1,28 @@
+{
+  "entity_name": "Pedro_Luis_Diaz_Lanz",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "document_ids": [
+    "124-10289-10464",
+    "124-10221-10231",
+    "104-10171-10047",
+    "104-10171-10034",
+    "124-10370-10012",
+    "124-10279-10258",
+    "124-10221-10229"
+  ],
+  "summary": "Pedro Luis Diaz Lanz was a former Cuban Air Force officer who became a figure of interest to the FBI and CIA in the late 1950s and early 1960s. Initially, he was potentially associated with Fidel Castro in 1958, but by 1960, he was linked to Cuban exile activities and anti-Castro efforts, including seeking visas to discuss support against Castro. He was also alleged to be involved in the assassination of President John F. Kennedy, according to information relayed by the FBI from a source in Jamaica, along with other Cuban exiles during a Communist Party meeting in the Cuban Embassy. The documents also mention resistance activity against the Castro regime by Cuban refugees and members of the Revolutionary Student Directorate.",
+  "key_connections": [
+    "Fidel Castro",
+    "Cuban exiles",
+    "John F. Kennedy",
+    "Alberto Eusebio Mojena",
+    "Renaldo Blanco Hernandez",
+    "United States Customs Office (Miami)"
+  ],
+  "significance": "Medium - Diaz Lanz appears in multiple documents related to Cuban exile activities and is even mentioned in connection to the JFK assassination, suggesting a moderate level of importance within the context of these files. His shifting allegiances and potential involvement in significant events warrant attention.",
+  "merged_from_variants": [
+    "Diaz Lanz",
+    "Pedro Luis Diaz Lanz"
+  ]
+}

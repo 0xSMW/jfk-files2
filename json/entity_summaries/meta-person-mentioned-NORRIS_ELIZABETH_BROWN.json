@@ -1,0 +1,22 @@
+{
+  "entity_name": "NORRIS_ELIZABETH_BROWN",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10079",
+    "180-10125-10081",
+    "180-10125-10078"
+  ],
+  "summary": "Elizabeth Brown Norris was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA), also referred to as the Select Committee on Assassinations (SCAS). Payroll and certification reports from 1978 document her employment, listing her name, social security number, annual salary, and gross pay. These records span from April to December 1978, indicating her involvement with the committee during the latter part of its investigation.",
+  "key_connections": [
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Elizabeth Brown Norris's significance lies in her documented employment with the Select Committee on Assassinations (HSCA). The payroll records provide evidence of her role within the committee during its investigation, although the specific nature of her work is not detailed in the provided summaries.",
+  "merged_from_variants": [
+    "Elizabeth Brown Norris",
+    "NORRIS, ELIZABETH BROWN"
+  ]
+}

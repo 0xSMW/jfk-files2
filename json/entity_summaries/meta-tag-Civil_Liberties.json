@@ -1,0 +1,38 @@
+{
+  "entity_name": "Civil_Liberties",
+  "entity_type": "tag",
+  "document_count": 11,
+  "document_ids": [
+    "124-10186-10056_multirif",
+    "124-10186-10049_multirif",
+    "124-10273-10105",
+    "104-10326-10060",
+    "124-10273-10008_multirif",
+    "104-10326-10058",
+    "124-10186-10054_multirif",
+    "104-10326-10059",
+    "104-10071-10102",
+    "104-10165-10075",
+    "104-10071-10143"
+  ],
+  "summary": "The documents reveal concerns regarding civil liberties, particularly in the context of government surveillance and counterintelligence activities. The Senate Select Committee reviewed the FBI's domestic intelligence investigations in 1975, considering legislative and administrative actions to protect civil liberties. The FBI's COINTELPRO targeted groups and individuals associated with the Civil Rights movement, including Martin Luther King, Jr., the Southern Christian Leadership Conference (SCLC), Bobby Seale, and the Black Panther Party. The documents also highlight human rights issues related to Cuban dissident movements and the political imprisonment of Clemard Joseph Charles in Haiti, focusing on intelligence operations aimed at monitoring and potentially disrupting these activities.",
+  "key_connections": [
+    "FBI (COINTELPRO)",
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "Bobby Seale",
+    "Black Panther Party",
+    "Senate Select Committee",
+    "Domestic Intelligence Investigations",
+    "Cuban dissident movements",
+    "Ministry of Interior (MININT)",
+    "Clemard Joseph Charles",
+    "Haiti"
+  ],
+  "significance": "High - Civil liberties are a central concern across multiple documents, particularly in relation to government surveillance and the activities of the FBI. The entity is mentioned in 11 documents, indicating a significant presence within the collection.",
+  "merged_from_variants": [
+    "Civil Rights",
+    "Human Rights",
+    "Civil Liberties"
+  ]
+}

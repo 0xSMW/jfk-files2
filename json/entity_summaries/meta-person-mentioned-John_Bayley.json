@@ -1,0 +1,28 @@
+{
+  "entity_name": "John_Bayley",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "124-10186-10056_multirif",
+    "124-10186-10048_multirif",
+    "124-10186-10049_multirif",
+    "124-10185-10195_multirif",
+    "124-10274-10014_multirif_redacted",
+    "124-10186-10045_multirif",
+    "124-10186-10055_multirif",
+    "124-10186-10051_multirif",
+    "124-10186-10054_multirif",
+    "157-10014-10133"
+  ],
+  "summary": "John Bayley is mentioned in ten documents spanning from 1975 to 1983, primarily related to the Senate Select Committee's review of the FBI's domestic intelligence investigations (SENSTUDY 75). These documents include memoranda discussing potential legislative actions and oversight of the FBI, as well as transcripts from Senate Select Committee meetings and hearings. Bayley appears to have been involved in governmental operations related to intelligence, potentially in a capacity requiring high-level security clearance, as one document indicates he met security clearance requirements up to TOP SECRET. His specific role is not explicitly defined, but his presence in these contexts suggests involvement in or awareness of the Senate Select Committee's work.",
+  "key_connections": [
+    "Senate Select Committee",
+    "Clarence M. Kelley",
+    "FBI"
+  ],
+  "significance": "Medium - John Bayley is mentioned in a moderate number of documents related to the Senate Select Committee's investigation of the FBI. While his specific role is not detailed, his security clearance and presence in meeting transcripts suggest a relevant, though not necessarily central, position.",
+  "merged_from_variants": [
+    "John Bayly",
+    "John Bayley"
+  ]
+}

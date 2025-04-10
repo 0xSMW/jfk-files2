@@ -1,0 +1,30 @@
+{
+  "entity_name": "John_S_Warner",
+  "entity_type": "person-mentioned",
+  "document_count": 15,
+  "document_ids": [
+    "135-10001-10255",
+    "124-10271-10000",
+    "178-10004-10420",
+    "124-10273-10007",
+    "104-10105-10290 (C06932214)",
+    "124-10271-10299",
+    "124-10299-10032",
+    "104-10164-10000",
+    "104-10306-10007",
+    "104-10177-10239",
+    "104-10107-10137",
+    "104-10306-10011",
+    "104-10107-10135",
+    "124-10273-10007_multirif",
+    "104-10107-10195"
+  ],
+  "summary": "Based on the provided documents, information regarding John S. Warner's role and significance within the context of the JFK assassination or related events is limited. While the documents cover a range of topics, including congressional reviews of intelligence activities, the Rockefeller Commission, and individuals like Allen Dulles and Herbert Itkin, there are no explicit details connecting John S. Warner to these subjects. Some documents do not mention him at all, making it difficult to ascertain his involvement or timeline of activities.",
+  "key_connections": [],
+  "significance": "Low. Despite being mentioned in 15 documents under various names, the available summaries indicate a lack of substantial information directly linking John S. Warner to the core topics of the documents, such as the JFK assassination. The absence of specific details about his role or connections suggests a limited significance within this context.",
+  "merged_from_variants": [
+    "John S. Warner",
+    "Warner",
+    "John Warner"
+  ]
+}

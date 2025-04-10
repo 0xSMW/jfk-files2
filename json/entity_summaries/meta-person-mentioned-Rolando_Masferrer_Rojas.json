@@ -1,0 +1,37 @@
+{
+  "entity_name": "Rolando_Masferrer_Rojas",
+  "entity_type": "person-mentioned",
+  "document_count": 13,
+  "document_ids": [
+    "104-10176-10067",
+    "104-10176-10070",
+    "104-10105-10210",
+    "124-90090-10035",
+    "104-10176-10069",
+    "104-10176-10068",
+    "124-90090-10025",
+    "124-10279-10258",
+    "124-90090-10026",
+    "124-90090-10037",
+    "104-10221-10022",
+    "124-90090-10038",
+    "104-10104-10094"
+  ],
+  "summary": "Rolando Masferrer Rojas, also known as Rolando Masferrer, was a Cuban exile and former senator deeply involved in anti-Castro and anti-Haiti activities during the 1960s and potentially earlier, spanning from 1959 to 1976. He organized groups in Miami, including Cubans and Haitians, for potential invasions of Haiti and was connected to Marquez Sterling and former Batista officers. Documents suggest potential CIA connections and concerns regarding the legal implications of indicting Masferrer due to his claims of U.S. government backing. He was also linked to an assassin and the infiltration of Abel and Antonio Diez into the Rebel Army. The Justice Department's investigation into his activities raised concerns within the CIA about potential damage to its Miami operations. There are also allegations of CIA involvement in his assassination and investigations into his connections within the Cuban exile community. He used the covername 'POLO' and was reportedly arriving in Santo Domingo to potentially join forces with the CANTAVE/RIGAUD/VERNA group.",
+  "key_connections": [
+    "Batista officers",
+    "Haitian operations",
+    "Antonio Diez",
+    "Cuban operations",
+    "Marquez Sterling",
+    "Abel Diez",
+    "Cuban exiles",
+    "CIA",
+    "CANTAVE/RIGAUD/VERNA group"
+  ],
+  "significance": "High. Rolando Masferrer Rojas appears to be a significant figure due to his involvement in multiple plots and connections to the CIA and Cuban exile community, as evidenced by the number of documents (13) and the nature of his activities. The concerns about the legal implications of indicting him and potential CIA involvement further highlight his importance.",
+  "merged_from_variants": [
+    "Rolando Masferrer Rojas",
+    "Rolando Masferrer"
+  ]
+}

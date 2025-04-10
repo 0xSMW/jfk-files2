@@ -1,0 +1,43 @@
+{
+  "entity_name": "Johnny_Roselli",
+  "entity_type": "person-mentioned",
+  "document_count": 18,
+  "document_ids": [
+    "124-10223-10070",
+    "124-10223-10079",
+    "104-10121-10342",
+    "124-10223-10173",
+    "124-10223-10087",
+    "124-10223-10169",
+    "124-10223-10064",
+    "124-10223-10171",
+    "124-10223-10082",
+    "178-10002-10215",
+    "104-10121-10341",
+    "124-10223-10074",
+    "157-10002-10106",
+    "124-10223-10085",
+    "104-10122-10141",
+    "124-10223-10071",
+    "157-10011-10048",
+    "124-10223-10076"
+  ],
+  "summary": "Johnny Roselli, also known as John Rosselli, was a person of interest to the FBI in the early 1960s, with his activities closely monitored in Los Angeles and Las Vegas. He was involved in various financial transactions and associated with individuals like Bryan Foy and Emanuel Rothman. Roselli was also connected to CIA operations and potential assassination attempts, particularly those related to Fidel Castro, and individuals like Robert Maheu. The documents suggest a sustained period of activity within clandestine circles, including potential scandals and involvement in sensitive assignments.",
+  "key_connections": [
+    "Robert A. Maheu",
+    "Fidel Castro",
+    "Bryan Foy",
+    "Emanuel Rothman",
+    "Irving J. Leff",
+    "Jonie Taps",
+    "Albert Foley",
+    "Maurice Friedman",
+    "Peter Fairchild",
+    "Judi Meredith"
+  ],
+  "significance": "High - Johnny Roselli appears in a significant number of documents (18) and is connected to both FBI investigations into organized crime and CIA operations involving assassination attempts, suggesting a key role within these contexts.",
+  "merged_from_variants": [
+    "Johnny Roselli",
+    "John Rosselli"
+  ]
+}

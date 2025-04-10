@@ -1,0 +1,22 @@
+{
+  "entity_name": "Ramsey_Clark",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "document_ids": [
+    "104-10070-10296",
+    "124-10186-10055_multirif",
+    "180-10060-10486",
+    "104-10306-10011",
+    "104-10333-10006",
+    "124-10185-10100",
+    "104-10330-10081",
+    "104-10227-10150"
+  ],
+  "summary": "Ramsey Clark is mentioned in the JFK assassination records, specifically within documents related to the Assassination Records Review Board (ARRB) and CIA records. The documents primarily focus on CIA operations, destroyed records, and investigations into the assassination. While Clark's exact role or involvement is not explicitly detailed, his name appears within this broader context of the JFK assassination records. Other documents mention various topics, including Senate Select Committee reviews of the FBI, anti-Castro activities, DCI meetings, and CIA cover operations, but do not provide further context about Clark's involvement.",
+  "key_connections": [],
+  "significance": "Low. Ramsey Clark is mentioned in the context of JFK assassination records, but the documents do not provide specific details about his role or involvement. His presence is noted within a broader context of CIA operations and investigations, suggesting a peripheral connection.",
+  "merged_from_variants": [
+    "Ramsey Clark",
+    "Clark"
+  ]
+}

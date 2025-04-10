@@ -1,0 +1,48 @@
+{
+  "entity_name": "Telegram",
+  "entity_type": "tag",
+  "document_count": 18,
+  "document_ids": [
+    "176-10036-10131",
+    "104-10092-10267",
+    "104-10092-10202",
+    "104-10077-10369",
+    "104-10135-10145",
+    "176-10036-10134",
+    "176-10036-10079",
+    "104-10098-10380",
+    "104-10095-10326",
+    "104-10164-10050",
+    "180-10143-10100",
+    "104-10101-10198",
+    "144-10001-10345",
+    "104-10290-10062",
+    "104-10174-10030",
+    "104-10528-10149",
+    "104-10188-10023",
+    "104-10228-10076"
+  ],
+  "summary": "Telegrams (also referred to as Cables) served as a crucial medium of communication for the CIA and other entities, facilitating rapid information dissemination and coordination, particularly during sensitive political and intelligence operations. These communications covered a wide range of topics, including covert projects like KDFACTOR and LIEMPTY, visa requests, identity verification, financial transactions (such as payments to individuals like Edvard G. Tichborn), and urgent requests related to individuals and operations with code names like WELCOME HOS and DANDORIC. Several documents reference cables removed during the Watergate file search, and others pertain to Lee Harvey Oswald's activities in Mexico City prior to the Kennedy assassination. The use of telegrams highlights their importance in conveying urgent information, providing instructions, and addressing logistical and operational details within the CIA and related organizations, especially during the 1960s and 1970s.",
+  "key_connections": [
+    "CIA",
+    "Mexico City",
+    "Lee Harvey Oswald",
+    "Kennedy Assassination",
+    "Watergate",
+    "Director (of CIA)",
+    "Edvard G. Tichborn",
+    "KDFACTOR Project",
+    "LIEMPTY Project",
+    "WELCOME HOS",
+    "DANDORIC",
+    "HBEPITOME",
+    "MIRR (Group of Orlando Bosch Avila)",
+    "Associated Press"
+  ],
+  "significance": "High. Telegrams were a primary method of communication for the CIA and other organizations during a critical period, including events surrounding the JFK assassination and Watergate. The documents suggest that telegrams contained sensitive information related to covert operations, intelligence gathering, and political events.",
+  "merged_from_variants": [
+    "Telegram",
+    "Cables",
+    "Cable"
+  ]
+}

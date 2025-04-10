@@ -1,0 +1,32 @@
+{
+  "entity_name": "Dr_Land",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "document_ids": [
+    "206-10001-10017",
+    "206-10001-10011",
+    "206-10001-10012",
+    "206-10001-10007",
+    "104-10302-10000",
+    "206-10001-10000",
+    "206-10001-10013",
+    "206-10001-10010",
+    "104-10306-10011",
+    "206-10001-10005",
+    "206-10001-10004",
+    "206-10001-10006"
+  ],
+  "summary": "Dr. Land was involved in intelligence matters during the early 1960s, specifically between 1962 and 1964. The documents place Dr. Land in the context of the President's Foreign Intelligence Advisory Board (PFIAB) and meetings related to the Director of Central Intelligence (DCI). Discussions and briefings included covert actions and intelligence activities, particularly concerning Cuba. While the specific nature of Dr. Land's role or expertise is not detailed, the documents suggest involvement in the PFIAB's activities and discussions related to intelligence matters.",
+  "key_connections": [
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Director of Central Intelligence (DCI)",
+    "Cuba",
+    "President Kennedy",
+    "National Reconnaissance Office (NRO)"
+  ],
+  "significance": "Medium - Dr. Land appears in a moderate number of documents related to intelligence activities during a critical period. While the specific role is not fully defined, the connection to the PFIAB and DCI suggests some level of involvement in important discussions and decisions.",
+  "merged_from_variants": [
+    "Land",
+    "Dr. Land"
+  ]
+}

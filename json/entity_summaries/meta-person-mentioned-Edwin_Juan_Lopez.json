@@ -1,0 +1,25 @@
+{
+  "entity_name": "Edwin_Juan_Lopez",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "document_ids": [
+    "180-10060-10438",
+    "180-10125-10086",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10068-10350",
+    "180-10070-10173"
+  ],
+  "summary": "Edwin Juan Lopez, also known as Edwin J Lopez, was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA). Payroll and certification reports from October 1977 to November 1978 document his employment, listing his position, annual salary, and gross pay during that period, indicating sustained employment with the HSCA.",
+  "key_connections": [
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium - Edwin Juan Lopez's employment with the HSCA is documented across multiple records, suggesting a role within the committee, though the specific nature of his work is not detailed in the provided summaries. The number of documents mentioning him indicates some relevance.",
+  "merged_from_variants": [
+    "Edwin J Lopez",
+    "Edwin Juan Lopez"
+  ]
+}

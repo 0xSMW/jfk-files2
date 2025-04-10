@@ -1,0 +1,28 @@
+{
+  "entity_name": "Interception",
+  "entity_type": "tag",
+  "document_count": 6,
+  "document_ids": [
+    "144-10001-10143",
+    "144-10001-10273",
+    "144-10001-10162",
+    "144-10001-10271",
+    "144-10001-10338",
+    "144-10001-10270"
+  ],
+  "summary": "The 'Interception' tag refers to communications intercepted by the National Security Agency (NSA) pertaining to the assassination of President John F. Kennedy. These intercepts include messages potentially containing pre-assassination knowledge, as well as immediate reactions and communications following the assassination from various international perspectives, such as those from Cuba and East Germany. Investigations into these intercepts, including those by the House Assassinations Committee and the FBI, aimed to uncover any foreknowledge of the assassination and the NSA's role in analyzing these communications. The timeline of relevant documents spans from March 1963 to 1979, reflecting ongoing efforts to locate and analyze these intercepts.",
+  "key_connections": [
+    "NSA",
+    "President John F. Kennedy",
+    "Cuba",
+    "East Germany",
+    "House Assassinations Committee",
+    "FBI",
+    "Fidel Castro"
+  ],
+  "significance": "High - The 'Interception' tag is highly significant due to its direct connection to the JFK assassination and the potential for intercepted communications to reveal pre-assassination knowledge. The involvement of the NSA and the investigations by the FBI and House Assassinations Committee further underscore its importance.",
+  "merged_from_variants": [
+    "Intercept",
+    "Interception"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "entity_name": "US_Army",
+  "entity_type": "tag",
+  "document_count": 13,
+  "document_ids": [
+    "194-10004-10355",
+    "194-10012-10400",
+    "194-10006-10198",
+    "194-10012-10452",
+    "198-10005-10018",
+    "194-10006-10180",
+    "194-10004-10408",
+    "194-10004-10403",
+    "194-10013-10005",
+    "104-10220-10020",
+    "194-10004-10147",
+    "194-10006-10181",
+    "104-10110-10328"
+  ],
+  "summary": "The US Army is referenced in documents primarily concerning military operations, personnel matters, and security activities during the 1960s and early 1970s. This includes the establishment of military cover backstops, personnel security determinations by the US Army, Pacific, and investigations related to potential defections to the USSR, desertion, and background checks. The Army conducted National Agency Checks (NAC) on individuals, scrutinizing their backgrounds, employment history, and foreign connections to assess suitability for induction and security clearances. These activities suggest the Army's involvement in broader security and intelligence operations during the Cold War era.",
+  "key_connections": [
+    "USSR",
+    "Manuel Marti",
+    "David Reed Fromer",
+    "Robert Scheer",
+    "US Army, Pacific",
+    "West Berlin Police",
+    "Peter Simons",
+    "Roman Arnold",
+    "Adjutant General's Office"
+  ],
+  "significance": "Medium. The US Army appears in a moderate number of documents, primarily in the context of routine security and personnel matters during the Cold War. While not directly related to the JFK assassination, the documents highlight the Army's role in the broader security climate of the time, suggesting a potential indirect relevance.",
+  "merged_from_variants": [
+    "US Army",
+    "Army"
+  ]
+}

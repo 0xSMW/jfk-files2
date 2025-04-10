@@ -1,0 +1,36 @@
+{
+  "entity_name": "Mr_Callahan",
+  "entity_type": "person-mentioned",
+  "document_count": 22,
+  "document_ids": [
+    "124-10223-10073",
+    "124-10204-10209",
+    "124-10203-10465",
+    "124-10273-10086_multirif",
+    "124-10223-10077",
+    "124-10223-10082",
+    "124-90137-10467",
+    "124-10203-10494",
+    "124-10203-10485",
+    "124-10271-10003_multirif",
+    "124-10223-10088",
+    "124-10223-10304",
+    "124-10271-10299_multirif",
+    "124-10203-10497",
+    "124-10326-10103",
+    "124-10203-10468",
+    "124-10203-10246",
+    "124-10223-10087",
+    "124-10326-10105",
+    "124-10271-10011_multirif",
+    "124-10271-10003",
+    "124-10223-10083"
+  ],
+  "summary": "Based on the provided documents, there is no explicit information available to determine who Mr. Callahan is or their specific role. Mentions of \"Callahan\" and \"Mr. Callahan\" appear across 22 documents, but these documents primarily focus on investigations, surveillance, and responses to congressional inquiries related to various other individuals and organizations, including John Roselli, Gabriel Mannarino, Santo Trafficante Jr., and the CIA. The documents also cover topics such as gambling activities, potential informants, and the FBI's interactions with congressional committees investigating intelligence activities. Without further context or specific mentions of Mr. Callahan within the document summaries, it is impossible to provide a meaningful summary of their involvement or significance.",
+  "key_connections": [],
+  "significance": "Low. Despite being mentioned in 22 documents, the available summaries indicate that Mr. Callahan's role or significance is unclear and not explicitly detailed within the context of the provided information. The documents focus on other individuals and topics, suggesting that Mr. Callahan is not a central figure in the narratives presented.",
+  "merged_from_variants": [
+    "Callahan",
+    "Mr. Callahan"
+  ]
+}

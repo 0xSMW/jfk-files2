@@ -1,0 +1,27 @@
+{
+  "entity_name": "Hart_of_Michigan",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "document_ids": [
+    "157-10014-10081",
+    "124-10185-10195_multirif",
+    "124-10264-10206_multirif",
+    "124-10238-10329_multirif",
+    "124-10264-10191",
+    "157-10014-10133"
+  ],
+  "summary": "Philip A. Hart, also known as Hart of Michigan, is mentioned in the context of the U.S. Senate Select Committee on Intelligence Activities (SSC) investigations in 1975. The documents detail the FBI's response to the SSC's requests for information, particularly concerning Martin Luther King, Jr., and alleged ties to the Communist Party USA (CPUSA). While Hart's direct role is not explicitly detailed, his involvement is implied through his likely participation in the SSC as a Senator during hearings related to intelligence activities and proposed restrictions on the CIA. The documents focus on the FBI's efforts to provide materials to the SSC, including information on King and Stanley Levison, and the FBI's concerns about potential compromises of their operations and sources.",
+  "key_connections": [
+    "U.S. Senate Select Committee on Intelligence Activities (SSC)",
+    "Martin Luther King, Jr.",
+    "FBI",
+    "Stanley Levison",
+    "CIA",
+    "Communist Party USA (CPUSA)"
+  ],
+  "significance": "Medium. Hart's significance stems from his implied role as a Senator involved with the U.S. Senate Select Committee on Intelligence Activities (SSC) during a period of investigation into sensitive matters involving the FBI, Martin Luther King Jr., and the CIA. While his direct actions are not explicitly detailed, his presence within the SSC suggests a level of influence and access to information.",
+  "merged_from_variants": [
+    "Philip A. Hart",
+    "Hart of Michigan"
+  ]
+}

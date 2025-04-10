@@ -1,0 +1,25 @@
+{
+  "entity_name": "Philip_White",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "document_ids": [
+    "124-10271-10003_multirif",
+    "124-10271-10299",
+    "194-10002-10187",
+    "124-10271-10299_multirif",
+    "124-10271-10011_multirif",
+    "124-10271-10033_multirif_redacted",
+    "124-10271-10003"
+  ],
+  "summary": "Philip White, also known as Phil White, is mentioned in documents related to FBI responses to Congressional committee requests, specifically concerning the Senate Select Committee on Intelligence Activities (SSC), COINTELPRO, and related matters. While the documents mention his name, they do not provide specific details about his role, actions, or direct involvement in the JFK assassination context. Instead, his name appears in documents related to the FBI's administrative and informational responses to congressional inquiries about various investigations and programs. The documents suggest that information about Philip White was relevant to the inquiries made by the Congressional committees, but the exact nature of his involvement or the reason for the inquiry is not explicitly stated.",
+  "key_connections": [
+    "FBI",
+    "Senate Select Committee on Intelligence Activities (SSC)",
+    "COINTELPRO"
+  ],
+  "significance": "Low. Philip White's significance appears to be low. While mentioned in multiple documents, his role is not explicitly defined, and his name primarily appears in the context of FBI responses to congressional inquiries. The lack of specific details about his actions or involvement suggests a limited or indirect connection to the core topics of the documents.",
+  "merged_from_variants": [
+    "Phil White",
+    "Philip White"
+  ]
+}

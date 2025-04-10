@@ -1,0 +1,36 @@
+{
+  "entity_name": "Mr_Gilpatric",
+  "entity_type": "person-mentioned",
+  "document_count": 14,
+  "document_ids": [
+    "206-10001-10015",
+    "157-10011-10010",
+    "104-10306-10003",
+    "178-10003-10016",
+    "104-10306-10024",
+    "104-10306-10021",
+    "206-10001-10012",
+    "178-10004-10056",
+    "104-10302-10000",
+    "104-10306-10007",
+    "202-10001-10219",
+    "157-10005-10236",
+    "157-10011-10007",
+    "176-10011-10152"
+  ],
+  "summary": "Mr. Gilpatric was involved in high-level discussions and decision-making processes related to covert operations and intelligence activities during the Kennedy administration, particularly concerning Cuba and Operation Mongoose. He participated in Special Group meetings from at least June 1961 to March 1963 (and potentially up to 1964), which addressed reconnaissance activities, potential sabotage, and actions against Cuba. His presence in these meetings suggests he played a role in sensitive national security matters and foreign policy decisions.",
+  "key_connections": [
+    "Special Group",
+    "Special Group (Augmented)",
+    "Fidel Castro",
+    "Mr. McCone",
+    "Lansdale",
+    "Brig. Gen. Lansdale",
+    "Joint Chiefs"
+  ],
+  "significance": "High. Mr. Gilpatric's involvement in covert operations, particularly concerning Cuba and the Cuban Missile Crisis, as well as his participation in the Special Group, indicates a significant role in sensitive national security matters during the Kennedy administration.",
+  "merged_from_variants": [
+    "Mr. Gilpatric",
+    "Gilpatric"
+  ]
+}

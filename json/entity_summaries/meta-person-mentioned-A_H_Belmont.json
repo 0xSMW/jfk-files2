@@ -1,0 +1,47 @@
+{
+  "entity_name": "A_H_Belmont",
+  "entity_type": "person-mentioned",
+  "document_count": 28,
+  "document_ids": [
+    "124-10223-10073",
+    "124-10203-10465",
+    "124-10185-10100",
+    "104-10338-10005",
+    "124-10223-10077",
+    "124-90140-10071",
+    "124-10264-10208_multirif",
+    "124-10223-10082",
+    "124-90137-10467",
+    "124-10203-10494",
+    "124-10222-10171",
+    "124-10264-10210_multirif",
+    "124-10203-10485",
+    "157-10011-10093",
+    "124-10325-10318",
+    "124-10271-10303",
+    "124-10223-10088",
+    "124-10203-10497",
+    "124-10326-10103",
+    "124-10203-10468",
+    "124-10203-10246",
+    "124-10223-10083",
+    "124-10223-10087",
+    "124-10264-10206_multirif",
+    "124-10326-10100",
+    "124-10264-10209_multirif",
+    "124-10193-10258",
+    "124-10264-10191"
+  ],
+  "summary": "A. H. Belmont is mentioned in FBI memoranda concerning the handling of intelligence and responses to inquiries from the Senate Select Committee on Intelligence Activities (SSC). He was involved in the FBI's procedures for handling sensitive information, particularly intelligence received from external sources like James Angleton of the CIA. Belmont played a role in establishing protocols to protect the identities of informants and the sources of intelligence, especially in matters related to Israeli intelligence. The documents highlight Belmont's role in the FBI's internal processes for managing and disseminating intelligence information.",
+  "key_connections": [
+    "U.S. Senate Select Committee on Intelligence Activities (SSC)",
+    "James Angleton",
+    "J. Edgar Hoover"
+  ],
+  "significance": "Medium - A. H. Belmont appears to have been involved in internal FBI procedures for handling sensitive intelligence, making him relevant to understanding the FBI's operations during the period covered by the documents. While not a central figure in the investigations themselves, his role in intelligence management suggests a moderate level of significance.",
+  "merged_from_variants": [
+    "Belmont",
+    "A. H. Belmont",
+    "Mr. Belmont"
+  ]
+}

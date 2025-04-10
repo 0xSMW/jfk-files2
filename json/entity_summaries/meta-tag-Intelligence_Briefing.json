@@ -1,0 +1,43 @@
+{
+  "entity_name": "Intelligence_Briefing",
+  "entity_type": "tag",
+  "document_count": 13,
+  "document_ids": [
+    "176-10036-10073",
+    "104-10130-10344",
+    "104-10121-10091",
+    "206-10001-10000",
+    "104-10129-10438",
+    "104-10121-10304",
+    "104-10078-10014",
+    "104-10187-10147",
+    "104-10110-10095",
+    "104-10183-10260",
+    "180-10145-10287",
+    "104-10110-10292",
+    "104-10161-10193"
+  ],
+  "summary": "Intelligence briefings, including travel and security briefings, are a standard practice within the CIA and other government entities for conveying crucial information to personnel and key decision-makers. These briefings cover a wide array of topics, ranging from internal CIA procedures, such as record administration and operational techniques, to international operations in locations like Guatemala, El Salvador, Mexico City, and Trinidad. They are used to prepare individuals for overseas travel and PCS assignments, ensuring adherence to security protocols, data protection, and appropriate conduct. Intelligence briefings also serve to inform leaders, such as the President and foreign officials, on critical situations and developments, as seen with the Vietnam Task Force and briefings for President Rivera and Chief of State Peralta.",
+  "key_connections": [
+    "CIA",
+    "Guatemala",
+    "El Salvador",
+    "Mexico City",
+    "Trinidad",
+    "President Rivera",
+    "Chief of State Peralta",
+    "Vietnam Task Force",
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "Alexander Shatton",
+    "Charlotte Bustos-Videla",
+    "David L. Morales",
+    "Todik Piccoli"
+  ],
+  "significance": "Medium - Intelligence briefings appear to be a routine but important function within the CIA and related entities. The number of documents (13) suggests a moderate level of focus on this topic. The content indicates that briefings were a standard method for disseminating information and preparing personnel for various assignments and operations.",
+  "merged_from_variants": [
+    "Travel Briefing",
+    "Security Briefing",
+    "Briefing",
+    "Intelligence Briefing"
+  ]
+}

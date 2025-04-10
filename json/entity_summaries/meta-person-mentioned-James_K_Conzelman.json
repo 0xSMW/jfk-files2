@@ -1,0 +1,26 @@
+{
+  "entity_name": "James_K_Conzelman",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "document_ids": [
+    "180-10125-10093",
+    "180-10125-10086",
+    "180-10125-10106",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10092",
+    "180-10125-10107"
+  ],
+  "summary": "James K. Conzelman was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from 1977 to 1978. Payroll and certification reports confirm his employment and salary during this period, indicating his involvement in the HSCA's investigation into the JFK assassination. While his specific role within the committee is not detailed, his consistent presence on these reports suggests sustained involvement with the HSCA's operations.",
+  "key_connections": [
+    "Select Committee on Assassinations (HSCA)",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. James K. Conzelman's significance is moderate. He was a staff member of the HSCA, involved in the JFK assassination investigation. While his specific role isn't detailed, his presence in multiple payroll records suggests a consistent, if perhaps not central, role within the committee.",
+  "merged_from_variants": [
+    "Conzelman, James K",
+    "James K Conzelman"
+  ]
+}

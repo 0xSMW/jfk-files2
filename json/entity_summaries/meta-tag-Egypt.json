@@ -1,0 +1,34 @@
+{
+  "entity_name": "Egypt",
+  "entity_type": "tag",
+  "document_count": 10,
+  "document_ids": [
+    "104-10302-10028",
+    "144-10001-10091",
+    "144-10001-10115",
+    "144-10001-10103",
+    "177-10002-10098",
+    "177-10002-10096",
+    "124-10193-10258",
+    "144-10001-10352",
+    "177-10002-10103",
+    "144-10001-10063"
+  ],
+  "summary": "Egypt, also referred to as the United Arab Republic (UAR), was a country of interest to the US during the period surrounding President Kennedy's assassination. Documents reveal interactions between the U.S. and Egypt, including messages of condolence from Abdul Nasser following Kennedy's death and assurances of continued cooperation. The Egyptian press speculated on the motivations behind the assassination, with some reports detailing Cairo's reaction and a trend of blaming Zionism. Egypt's involvement also extends to its activities in the Middle East, particularly in Yemen, where its use of poison gas is noted. The UAR ambassador in Washington discussed President Johnson's prospects, and the country's role in international relations during the Kennedy era is evident through diplomatic exchanges and intelligence checklists.",
+  "key_connections": [
+    "Abdul Nasser",
+    "President Nasser",
+    "President Kennedy",
+    "President Johnson",
+    "Yemen",
+    "Zionism",
+    "USSR",
+    "Zionist Congress",
+    "Ambassador Kamel"
+  ],
+  "significance": "Medium - Egypt, under both names, appears in a moderate number of documents and is primarily significant as an observer and reactor to events surrounding the Kennedy assassination and US foreign policy in the Middle East. Its role in Yemen also contributes to its significance.",
+  "merged_from_variants": [
+    "UAR",
+    "Egypt"
+  ]
+}

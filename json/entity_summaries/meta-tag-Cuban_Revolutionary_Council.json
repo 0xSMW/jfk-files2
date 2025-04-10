@@ -1,0 +1,36 @@
+{
+  "entity_name": "Cuban_Revolutionary_Council",
+  "entity_type": "tag",
+  "document_count": 14,
+  "document_ids": [
+    "124-10326-10191",
+    "104-10298-10095",
+    "104-10236-10075",
+    "104-10232-10004",
+    "104-10308-10024",
+    "104-10231-10418",
+    "104-10331-10202",
+    "104-10167-10366",
+    "104-10331-10226",
+    "104-10232-10019",
+    "104-10236-10056",
+    "104-10232-10018",
+    "104-10227-10150",
+    "104-10331-10209"
+  ],
+  "summary": "The Cuban Revolutionary Council (CRC), also known as the Revolutionary Council, was formed in 1961 with the support of the U.S. Government to unite Cuban exile groups against the Castro regime. Led by figures like Dr. Jose Miro Cardona, the CRC aimed to coordinate anti-Castro activities, including propaganda, underground resistance, and potential military actions to establish a new government in Cuba. The organization sought U.S. support in the form of arms, funds, and military assistance, and explored establishing training bases in other countries like Panama. Internal issues arose due to perceived changes in U.S. policy, a lack of CIA support and coordination, and frustration over the failure to resolve issues such as providing adequate resources and a unified plan of action.",
+  "key_connections": [
+    "Dr. Jose Miro Cardona",
+    "CIA",
+    "Castro Regime",
+    "United States Government",
+    "President Chiari of Panama",
+    "Anti-Castro insurgents",
+    "Dr. MIRO Cardona"
+  ],
+  "significance": "Medium - The Cuban Revolutionary Council appears in 14 documents, suggesting a moderate level of relevance within the source material. The summaries indicate its importance as a key organization in the efforts to overthrow the Castro regime, with significant involvement from the U.S. government and the CIA.",
+  "merged_from_variants": [
+    "Cuban Revolutionary Council",
+    "Revolutionary Council"
+  ]
+}

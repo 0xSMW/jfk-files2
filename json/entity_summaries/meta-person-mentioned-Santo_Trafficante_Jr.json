@@ -1,0 +1,45 @@
+{
+  "entity_name": "Santo_Trafficante_Jr",
+  "entity_type": "person-mentioned",
+  "document_count": 19,
+  "document_ids": [
+    "124-10204-10209",
+    "104-10066-10060",
+    "124-10204-10215",
+    "104-10079-10016",
+    "104-10061-10115",
+    "180-10145-10446",
+    "180-10104-10294",
+    "124-10204-10154",
+    "124-10204-10147",
+    "157-10011-10005",
+    "124-10204-10204",
+    "157-10002-10165",
+    "124-10204-10211",
+    "157-10014-10109",
+    "104-10506-10028",
+    "157-10002-10148",
+    "124-10204-10203",
+    "124-10204-10212",
+    "124-10203-10292"
+  ],
+  "summary": "Santo Trafficante, Jr. was a significant figure investigated by the FBI for his involvement in organized crime, particularly his potential affiliations with La Cosa Nostra (LCN) and gambling activities. He was monitored for his travels to locations such as London, Madrid, and Lisbon, and his connections to individuals possibly involved in gambling, such as Eloy Garcia. Trafficante is also a person of interest in the context of CIA activities, specifically regarding potential involvement in plots against Fidel Castro and investigations related to the JFK assassination. Documents suggest connections to Carlos Marcello and a planned meeting involving his attorney, Dr. Frank Ragano. Investigations considered possible Cuban involvement in the JFK assassination, with Trafficante's name appearing in materials related to these inquiries.",
+  "key_connections": [
+    "Fidel Castro",
+    "CIA",
+    "Carlos Marcello",
+    "John F. Kennedy",
+    "LCN (La Cosa Nostra)",
+    "Dr. Frank Ragano",
+    "Eloy Garcia",
+    "Cuba",
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "High - Santo Trafficante, Jr. appears to be a significant figure due to his alleged involvement in organized crime, potential connections to CIA activities related to Fidel Castro, and his presence in investigations surrounding the JFK assassination. The high document count (19) further underscores his importance within the source material.",
+  "merged_from_variants": [
+    "Trafficante",
+    "Santo Trafficante, Jr.",
+    "Santos Trafficante",
+    "Santo Trafficante"
+  ]
+}

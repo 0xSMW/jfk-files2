@@ -1,0 +1,36 @@
+{
+  "entity_name": "Sheffield_Edwards",
+  "entity_type": "person-mentioned",
+  "document_count": 17,
+  "document_ids": [
+    "124-10185-10099",
+    "157-10008-10234",
+    "157-10011-10121",
+    "180-10145-10446",
+    "104-10130-10472",
+    "157-10002-10148",
+    "157-10011-10006",
+    "104-10122-10141",
+    "206-10001-10014",
+    "104-10331-10132",
+    "104-10400-10311",
+    "157-10002-10001",
+    "157-10011-10005",
+    "157-10011-10007",
+    "144-10001-10291",
+    "157-10014-10109",
+    "124-10273-10071_multirif"
+  ],
+  "summary": "Sheffield Edwards, also referred to as \"Edwards,\" is mentioned in several CIA-related documents spanning from the early 1960s to the 1990s, suggesting long-term involvement with the agency. The documents indicate Edwards' involvement in sensitive security operations and potential knowledge of or involvement in plots scrutinized by committees and commissions investigating CIA activities. While his specific role in the JFK assassination is not explicitly detailed, the documents suggest his connection to CIA activities relevant to the historical context surrounding the assassination, including potential assassination plots against Fidel Castro, relationships with organized crime, and internal CIA investigations. The documents mention Edwards in the context of discussions within the Covert Action Panel, CIA's potential collaboration with The Wackenhut Corporation, Operation MONGOOSE, CIA activities against Castro, and Congressional delegations' visits.",
+  "key_connections": [
+    "Fidel Castro",
+    "Organized Crime",
+    "William Harvey",
+    "Robert A. Maheu"
+  ],
+  "significance": "Medium. Sheffield Edwards appears in a significant number of documents (17) related to CIA activities during the period surrounding the JFK assassination. While his direct involvement in the assassination is not explicitly stated, his connection to sensitive CIA operations, potential assassination plots, and relationships with organized crime suggests a relevant, though not definitively central, role.",
+  "merged_from_variants": [
+    "Sheffield Edwards",
+    "Edwards"
+  ]
+}

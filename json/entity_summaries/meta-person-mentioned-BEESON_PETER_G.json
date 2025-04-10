@@ -1,0 +1,25 @@
+{
+  "entity_name": "BEESON_PETER_G",
+  "entity_type": "person-mentioned",
+  "document_count": 8,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078"
+  ],
+  "summary": "Peter G. Beeson was an employee of the Select Committee on Assassinations (SCAS), later known as the U.S. House of Representatives Select Committee on Assassinations (HSCA). Payroll and certification reports from October 1977 to December 1978 document his employment, position, and salary during the committee's investigation. His presence on multiple payroll certifications indicates consistent employment throughout the HSCA's investigation.",
+  "key_connections": [
+    "Select Committee on Assassinations (HSCA)",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium - Peter G. Beeson's employment with the Select Committee on Assassinations, as evidenced by multiple payroll records, suggests a moderate level of involvement in the investigation. While his specific role isn't detailed, his consistent presence on payroll indicates a sustained contribution to the committee's work.",
+  "merged_from_variants": [
+    "BEESON, PETER G",
+    "Peter G Beeson"
+  ]
+}

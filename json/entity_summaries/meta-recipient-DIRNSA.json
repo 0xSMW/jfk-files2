@@ -1,0 +1,33 @@
+{
+  "entity_name": "DIRNSA",
+  "entity_type": "recipient",
+  "document_count": 11,
+  "document_ids": [
+    "144-10001-10276",
+    "144-10001-10175",
+    "144-10001-10191",
+    "144-10001-10164",
+    "144-10001-10273",
+    "144-10001-10274",
+    "144-10001-10272",
+    "144-10001-10206",
+    "144-10001-10271",
+    "144-10001-10378",
+    "144-10001-10275"
+  ],
+  "summary": "DIRNSA (Director of the National Security Agency) and the NSA played a crucial role in the U.S. government's response to inquiries and intelligence gathering following the assassination of President John F. Kennedy. As a central recipient of intelligence reports, DIRNSA received and disseminated intercepted communications from various sources, including Cuba, Venezuela, and possibly East Germany, between November 22-24, 1963, and continuing interest in Cuban communications from 1962-1964. The NSA also provided materials and information to the House Select Committee on Assassinations (HSCA) and the Senate Select Committee on Intelligence (SSCI) regarding potential Cuban involvement, ultimately concluding that no intelligence material revealed such involvement. The NSA also classified portions of a report regarding an interview with Sgt Nicholas B. Stevenson due to sensitive communications intelligence information.",
+  "key_connections": [
+    "President John F. Kennedy",
+    "Cuba",
+    "House Select Committee on Assassinations (HSCA)",
+    "Senate Select Committee on Intelligence (SSCI)",
+    "Venezuela",
+    "East Germany",
+    "Sgt Nicholas B. Stevenson"
+  ],
+  "significance": "High - DIRNSA was a central figure in receiving and disseminating intelligence related to the JFK assassination and its aftermath, indicating a significant role in the U.S. government's response and investigation.",
+  "merged_from_variants": [
+    "NSA",
+    "DIRNSA"
+  ]
+}

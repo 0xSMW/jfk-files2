@@ -1,0 +1,43 @@
+{
+  "entity_name": "Mr_Rosen",
+  "entity_type": "person-mentioned",
+  "document_count": 21,
+  "document_ids": [
+    "124-10223-10073",
+    "124-10204-10209",
+    "124-10203-10465",
+    "124-10223-10077",
+    "124-10274-10011",
+    "124-10223-10082",
+    "124-90137-10467",
+    "124-10203-10494",
+    "124-10203-10485",
+    "124-10264-10210_multirif",
+    "124-10223-10088",
+    "124-10223-10304",
+    "124-10203-10497",
+    "124-10326-10103",
+    "124-10203-10468",
+    "124-10281-10028",
+    "124-10203-10246",
+    "124-10223-10087",
+    "124-10326-10105",
+    "124-10326-10100",
+    "124-10223-10083"
+  ],
+  "summary": "Mr. Rosen is mentioned in at least one document, specifically a memorandum dated October 14, 1971, from E.S. Miller concerning the expansion of foreign liaison offices and addressing coordination with Narcotics investigators, as well as personnel increases in Brazil and Malaysia. While the name \"Rosen\" alone appears in documents, these documents primarily focus on John Roselli and his connections to organized crime figures. It is important to note that the documents referencing \"Rosen\" and \"Mr. Rosen\" may or may not be directly related to the activities of John Roselli.",
+  "key_connections": [
+    "E.S. Miller",
+    "Narcotics investigators",
+    "Brazil",
+    "Malaysia",
+    "John Roselli",
+    "Sam Giancana",
+    "Santo Trafficante, Jr."
+  ],
+  "significance": "Low to Medium. Mr. Rosen is mentioned in a limited context related to foreign liaison offices. However, the potential association with John Roselli, a figure of interest in organized crime investigations, could elevate the significance if a direct link is established. Further investigation would be needed to determine the extent of Mr. Rosen's involvement or knowledge of Roselli's activities.",
+  "merged_from_variants": [
+    "Rosen",
+    "Mr. Rosen"
+  ]
+}

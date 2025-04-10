@@ -1,0 +1,27 @@
+{
+  "entity_name": "James_A_Wilderotter",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "124-10273-10086_multirif",
+    "124-10271-10000",
+    "124-10274-10001",
+    "124-10273-10016_multirif",
+    "124-10273-10007",
+    "124-10273-10006",
+    "124-10271-10303",
+    "124-10273-10007_multirif",
+    "124-10274-10001_multirif",
+    "124-10273-10071_multirif"
+  ],
+  "summary": "James A. Wilderotter is mentioned in FBI documents pertaining to the Senate Select Committee's (SSC) investigation into intelligence activities in 1975. While the documents do not explicitly detail Wilderotter's specific role, his name appears in the context of the FBI's response to the SSC's inquiries, including the provision of materials, monitoring of former agents, and internal coordination regarding information disclosure. The documents suggest the FBI was actively managing its interactions with the SSC and monitoring individuals who might be contacted by the committee.",
+  "key_connections": [
+    "FBI",
+    "Senate Select Committee (SSC)"
+  ],
+  "significance": "Medium. James A. Wilderotter appears in 10 documents related to the SSC investigation into intelligence activities. While his specific role is not detailed, his connection to the FBI's response to the SSC suggests he was involved in or aware of the FBI's management of the investigation.",
+  "merged_from_variants": [
+    "James Wilderotter",
+    "James A. Wilderotter"
+  ]
+}

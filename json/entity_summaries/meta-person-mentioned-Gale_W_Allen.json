@@ -1,0 +1,32 @@
+{
+  "entity_name": "Gale_W_Allen",
+  "entity_type": "person-mentioned",
+  "document_count": 16,
+  "document_ids": [
+    "124-10223-10073",
+    "124-10204-10209",
+    "104-10218-10009",
+    "124-10223-10077",
+    "124-10223-10087",
+    "104-10174-10069",
+    "104-10164-10110",
+    "124-10223-10088",
+    "124-10326-10105",
+    "124-10326-10103",
+    "124-10223-10082",
+    "104-10174-10064",
+    "104-10263-10111",
+    "104-10187-10014",
+    "124-10223-10083",
+    "104-10414-10025"
+  ],
+  "summary": "Based on the provided documents, there is no direct mention of Gale W. Allen or any of his variants ('Gale W. Allen', 'Gale', 'Mr. Gale', 'Gale Allen') in relation to the activities, surveillance, or investigations discussed. The documents primarily concern individuals such as John Roselli and Santo Trafficante, Jr., as well as topics like intelligence gathering in Latin America and Europe, and the handling of sensitive information from the CIA. Therefore, it is impossible to provide a summary about Gale W. Allen's role, significance, connections, timeline, or patterns within these documents.",
+  "key_connections": [],
+  "significance": "Low. Despite being mentioned across 16 documents, Gale W. Allen and his variants are not directly discussed or play a discernible role in the content of those documents, based on the provided summaries.",
+  "merged_from_variants": [
+    "Gale W. Allen",
+    "Gale",
+    "Mr. Gale",
+    "Gale Allen"
+  ]
+}

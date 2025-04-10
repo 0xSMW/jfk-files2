@@ -1,0 +1,39 @@
+{
+  "entity_name": "Gambling",
+  "entity_type": "tag",
+  "document_count": 17,
+  "document_ids": [
+    "124-10203-10485",
+    "124-10203-10482",
+    "124-10226-10305",
+    "124-10206-10180",
+    "124-10223-10173",
+    "124-10204-10147",
+    "124-10203-10489",
+    "124-10212-10160",
+    "124-10203-10497",
+    "104-10069-10177",
+    "124-10203-10465",
+    "124-10203-10276",
+    "104-10216-10075",
+    "124-10203-10494",
+    "124-10203-10468",
+    "124-10204-10204",
+    "180-10104-10294"
+  ],
+  "summary": "The documents reveal that gambling, including casino ventures and illegal gambling operations, is connected to various individuals and organizations. Irving Davidson is noted for his involvement in casino ventures, while Gordon Cooper and Associates (GCA) is associated with Casino Management International (CMI). Illegal gambling is linked to figures like Gabriel and Samuel Mannarino, who operated gambling establishments and faced wagering tax investigations. Santo Trafficante, Jr. is another key figure with gambling connections in Florida, London, and Cuba. Angelo Bruno's involvement includes numbers rackets, loan sharking, and Cuban gambling interests. These activities, spanning from the late 1950s to the early 1970s, were under consistent FBI surveillance, with legitimate businesses often used as fronts for illegal operations. While casinos are mentioned, the documents do not directly link them to the JFK assassination, but rather suggest connections to individuals involved in other ventures.",
+  "key_connections": [
+    "Angelo Bruno",
+    "Gabriel Mannarino",
+    "Samuel Mannarino",
+    "Santo Trafficante, Jr.",
+    "Irving Davidson",
+    "Gordon Cooper",
+    "Casino Management International (CMI)"
+  ],
+  "significance": "Medium. Gambling appears in a moderate number of documents and is linked to individuals and organizations of interest. While not directly tied to the JFK assassination, the connections to organized crime and business ventures suggest a relevant context for understanding potential influences and activities.",
+  "merged_from_variants": [
+    "Gambling",
+    "Casino"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "entity_name": "Mr_Tolson",
+  "entity_type": "person-mentioned",
+  "document_count": 22,
+  "document_ids": [
+    "124-10223-10073",
+    "124-10204-10209",
+    "124-10274-10127",
+    "124-10203-10465",
+    "124-10274-10044",
+    "124-10223-10077",
+    "124-10223-10082",
+    "124-90137-10467",
+    "124-10203-10494",
+    "124-10203-10485",
+    "124-10223-10088",
+    "124-10223-10304",
+    "124-10203-10497",
+    "124-10326-10103",
+    "124-10274-10029_multirif_redacted",
+    "124-10203-10468",
+    "124-10203-10246",
+    "124-10223-10087",
+    "124-10326-10105",
+    "124-10326-10100",
+    "124-10264-10209_multirif",
+    "124-10223-10083"
+  ],
+  "summary": "Based on the provided documents, Mr. Tolson, sometimes referred to as Tolson or Mr. Tolson, is not explicitly mentioned in the context of FBI investigations, surveillance, and intelligence activities. The documents focus on individuals involved in organized crime, such as John Roselli, Gabriel Mannarino, Santo Trafficante Jr., Sam Giancana, and William Alexander Parzow, as well as FBI procedures, CIA liaison activities, gambling operations, mail interception programs, and responses to Senate Select Committee inquiries. Therefore, it is impossible to determine Mr. Tolson's role, connections, or timeline of involvement based solely on these documents.",
+  "key_connections": [],
+  "significance": "Low. Despite being mentioned in 22 documents, the provided summaries indicate that Mr. Tolson is not explicitly mentioned within the content of those documents. This suggests a low level of direct involvement or relevance to the primary subjects of the documents.",
+  "merged_from_variants": [
+    "Mr. Tolson",
+    "Tolson"
+  ]
+}

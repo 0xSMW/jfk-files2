@@ -1,0 +1,26 @@
+{
+  "entity_name": "Bob_Nichols",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "document_ids": [
+    "124-10276-10482_multirif",
+    "124-10273-10018_multirif",
+    "124-10271-10299",
+    "124-10276-10483_multirif",
+    "124-10274-10357_multirif",
+    "124-10274-10358_multirif",
+    "124-10273-10014_multirif",
+    "124-10273-10008_multirif",
+    "124-10326-10100",
+    "124-10273-10016_multirif",
+    "124-10273-10071_multirif",
+    "124-10273-10022_multirif"
+  ],
+  "summary": "Based on the provided documents, information regarding Bob Nichols' role and connections is limited. While the name \"Nichols\" appears in some documents related to investigations into Martin Luther King Jr., the Southern Christian Leadership Conference (SCLC), and the JFK assassination, the context does not provide enough specific details to ascertain their precise involvement or significance. The documents primarily focus on broader themes such as intelligence oversight, information handling, inter-agency coordination (CIA and FBI), and the testimony of individuals like Alan G. Sentinella before Senate Select Committees.",
+  "key_connections": [],
+  "significance": "Low. While Bob Nichols is mentioned in 12 documents, the available summaries suggest that the mentions are either absent or lack sufficient context to determine their specific role or significance within the scope of the documents. The documents focus more on broader investigations and intelligence oversight.",
+  "merged_from_variants": [
+    "Nichols",
+    "Bob Nichols"
+  ]
+}

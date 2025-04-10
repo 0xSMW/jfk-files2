@@ -1,0 +1,28 @@
+{
+  "entity_name": "KLEIN_KENNETH_D",
+  "entity_type": "person-mentioned",
+  "document_count": 10,
+  "document_ids": [
+    "180-10068-10332",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10068-10318",
+    "180-10070-10166",
+    "180-10060-10459",
+    "180-10125-10172",
+    "180-10125-10078",
+    "144-10001-10253",
+    "144-10001-10178"
+  ],
+  "summary": "Kenneth D. Klein was an employee of the House Select Committee on Assassinations (HSCA), also referred to as the Select Committee on Assassinations (SCA). Payroll records and certification reports document his employment from at least April 1977 through December 1978. These records include information such as his salary and gross pay. While the documents confirm his employment with the HSCA, they do not provide specific details regarding his role in the JFK assassination investigation or any direct connections to related events or individuals beyond his affiliation with the committee.",
+  "key_connections": [
+    "Select Committee on Assassinations",
+    "House Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Medium. Kenneth D. Klein's significance is moderate. He was an employee of the HSCA, as evidenced by multiple payroll records. However, the available documents do not provide specific details about his role or involvement in the JFK assassination investigation itself, limiting his overall significance to that of a staff member.",
+  "merged_from_variants": [
+    "Kenneth Klein",
+    "KLEIN, KENNETH D",
+    "Kenneth D. Klein"
+  ]
+}

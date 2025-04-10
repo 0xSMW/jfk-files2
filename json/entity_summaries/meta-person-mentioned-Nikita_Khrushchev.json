@@ -1,0 +1,53 @@
+{
+  "entity_name": "Nikita_Khrushchev",
+  "entity_type": "person-mentioned",
+  "document_count": 32,
+  "document_ids": [
+    "104-10306-10003",
+    "206-10001-10000",
+    "178-10004-10056",
+    "104-10302-10030",
+    "104-10431-10006",
+    "104-10290-10190",
+    "124-10274-10044",
+    "104-10218-10034",
+    "198-10007-10022",
+    "104-10308-10208",
+    "144-10001-10056",
+    "104-10209-10018",
+    "206-10001-10013",
+    "177-10002-10098",
+    "104-10301-10000",
+    "144-10001-10112",
+    "178-10004-10115",
+    "104-10306-10018",
+    "104-10306-10020",
+    "104-10310-10020",
+    "206-10001-10016",
+    "144-10001-10351",
+    "104-10302-10019",
+    "104-10506-10028",
+    "104-10308-10163",
+    "176-10036-10027",
+    "104-10176-10073",
+    "104-10326-10022",
+    "104-10302-10000",
+    "144-10001-10103",
+    "144-10001-10367",
+    "104-10302-10028"
+  ],
+  "summary": "Nikita Khrushchev, as the former Premier of the Soviet Union, is a significant figure in the JFK assassination documents due to his role during the Cold War and the Cuban Missile Crisis. The documents highlight the U.S. government's surveillance of Soviet activities, particularly in Cuba, including Soviet support for Fidel Castro and the potential for Soviet involvement in the region. Khrushchev's leadership and Soviet foreign policy are central to understanding the geopolitical tensions of the era, with specific mentions of his visit to Cuba and related CIA activities. While not directly implicated in the assassination, his leadership during this period is highly relevant.",
+  "key_connections": [
+    "Cuba",
+    "Fidel Castro",
+    "Soviet Union",
+    "President Kennedy",
+    "John F. Kennedy",
+    "Nikolay Sergeyevich Leonov"
+  ],
+  "significance": "High. Nikita Khrushchev's role as the leader of the Soviet Union during the Cold War and the Cuban Missile Crisis makes him a highly significant figure in the context of the JFK assassination documents. His interactions with Cuba and the broader Soviet-American tensions are central to understanding the political climate of the time.",
+  "merged_from_variants": [
+    "Nikita Khrushchev",
+    "Khrushchev"
+  ]
+}

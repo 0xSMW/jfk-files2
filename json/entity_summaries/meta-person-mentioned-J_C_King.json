@@ -1,0 +1,47 @@
+{
+  "entity_name": "J_C_King",
+  "entity_type": "person-mentioned",
+  "document_count": 25,
+  "document_ids": [
+    "104-10215-10246",
+    "104-10301-10004",
+    "104-10214-10034",
+    "104-10215-10099",
+    "104-10227-10153",
+    "104-10308-10208",
+    "157-10014-10017",
+    "104-10100-10396",
+    "157-10011-10006",
+    "180-10143-10072",
+    "157-10011-10005",
+    "180-10143-10113",
+    "104-10301-10001",
+    "104-10408-10027",
+    "157-10008-10238",
+    "104-10171-10220",
+    "104-10324-10000",
+    "104-10119-10183",
+    "104-10222-10032",
+    "104-10119-10182",
+    "104-10188-10000",
+    "104-10122-10141",
+    "104-10177-10135",
+    "104-10130-10343",
+    "104-10215-10129"
+  ],
+  "summary": "J.C. King served as the Chief of the Western Hemisphere (WH) Division within the CIA, playing a significant role in the agency's activities from 1946 to 1976. His involvement spanned a period of intense focus on Cuba and Latin America. King's responsibilities included administrative and supervisory oversight of CIA operations and directives, particularly concerning Mexico and Cuba. He was involved in the approval of the revised Related Mission Directive for Mexico, focused on countering communism and maintaining relations with the Mexican government. Documents also place him in the context of the Bay of Pigs invasion, Cuban operations from 1961, discussions related to the assassination of Rafael Trujillo, and potential assassination plots against Fidel Castro and Patrice Lumumba, including discussions about 'Executive Action'.",
+  "key_connections": [
+    "Fidel Castro",
+    "Rafael Trujillo",
+    "Patrice Lumumba",
+    "Deputy Director (Plans)",
+    "Winston Scott",
+    "David A. Phillips",
+    "Jake Esterline"
+  ],
+  "significance": "High. J.C. King's position as Chief of the Western Hemisphere Division within the CIA, his long tenure, and his involvement in significant operations like the Bay of Pigs and potential assassination plots indicate a high level of significance within the context of these documents.",
+  "merged_from_variants": [
+    "J.C. King",
+    "J. C. King"
+  ]
+}

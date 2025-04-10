@@ -1,0 +1,26 @@
+{
+  "entity_name": "Richard_Goodwin",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "document_ids": [
+    "157-10014-10081",
+    "157-10008-10234",
+    "144-10001-10113",
+    "157-10014-10117",
+    "104-10119-10182",
+    "157-10005-10236",
+    "104-10232-10018"
+  ],
+  "summary": "Richard Goodwin was involved in sensitive and controversial operations during the Kennedy administration, particularly concerning anti-Castro activities. He participated in the Cuba Task Force and Operation Mongoose, which involved discussions on policy, covert actions, and potential assassination attempts against Fidel Castro. Goodwin also testified before a Senate Select Committee in 1975 regarding governmental intelligence activities. The documents suggest his involvement in these operations, though his specific role and significance related to the JFK assassination are not definitively established within the provided context.",
+  "key_connections": [
+    "Fidel Castro",
+    "Cuba Task Force",
+    "Kennedy Administration",
+    "Operation Mongoose"
+  ],
+  "significance": "Medium - Richard Goodwin appears in multiple documents related to significant events like Operation Mongoose and the Cuba Task Force. While the documents don't directly link him to the JFK assassination, his involvement in related operations suggests a moderate level of significance.",
+  "merged_from_variants": [
+    "Goodwin",
+    "Richard Goodwin"
+  ]
+}

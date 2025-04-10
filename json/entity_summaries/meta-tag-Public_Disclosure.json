@@ -1,0 +1,44 @@
+{
+  "entity_name": "Public_Disclosure",
+  "entity_type": "tag",
+  "document_count": 15,
+  "document_ids": [
+    "104-10326-10067",
+    "104-10326-10027",
+    "104-10326-10102",
+    "104-10326-10029",
+    "104-10326-10033",
+    "104-10326-10064",
+    "104-10326-10034",
+    "104-10326-10032",
+    "104-10331-10353",
+    "104-10433-10209",
+    "104-10326-10031",
+    "104-10326-10035",
+    "104-10326-10030",
+    "104-10328-10038",
+    "104-10326-10036"
+  ],
+  "summary": "Public Disclosure, encompassing 'Document Release' and 'Public Release', is a significant tag within the JFK Assassination Records Collection Act of 1992. It relates to the mandated review and release of documents pertaining to the JFK assassination, balancing transparency with national security and individual privacy. This process involved the CIA contacting former employees, including those stationed overseas (e.g., Paris, Bonn, Mexico City, Hong Kong, Vienna, Caracas, Costa Rica), to inform them of potential disclosures of their names and offer them the opportunity to request postponements, particularly concerning security risks related to their former cover. The process also involves internal discussions, coordination with agencies like the British SIS, and managing FOIA requests.",
+  "key_connections": [
+    "JFK Assassination Records Collection Act of 1992",
+    "John F. Kennedy assassination",
+    "CIA",
+    "Former CIA employees",
+    "FOIA",
+    "British Secret Intelligence Service (SIS)",
+    "Office of Covert Communications (OCC)",
+    "Paris Station",
+    "Bonn Station",
+    "Mexico City Station",
+    "Hong Kong Station",
+    "Vienna Station",
+    "Caracas Station"
+  ],
+  "significance": "High - Public Disclosure is a central theme in the JFK assassination documents, driven by the JFK Assassination Records Collection Act. The process of determining what information to release, managing privacy concerns, and coordinating with various agencies demonstrates its importance.",
+  "merged_from_variants": [
+    "Document Release",
+    "Public Release",
+    "Public Disclosure"
+  ]
+}

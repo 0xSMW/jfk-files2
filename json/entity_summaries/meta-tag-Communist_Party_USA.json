@@ -1,0 +1,45 @@
+{
+  "entity_name": "Communist_Party_USA",
+  "entity_type": "tag",
+  "document_count": 20,
+  "document_ids": [
+    "124-10179-10217_multirif",
+    "124-10238-10329_multirif",
+    "104-10182-10000",
+    "104-10234-10141",
+    "124-10273-10016_multirif",
+    "124-10273-10022_multirif",
+    "104-10180-10044",
+    "177-10002-10016",
+    "194-10002-10187",
+    "124-10238-10333_multirif",
+    "194-10006-10196",
+    "194-10002-10189",
+    "104-10074-10007",
+    "104-10193-10163",
+    "104-10074-10403",
+    "104-10308-10163",
+    "104-10186-10308",
+    "104-10063-10017",
+    "124-10273-10012_multirif",
+    "104-10250-10267"
+  ],
+  "summary": "The Communist Party USA (CPUSA) was a significant entity of interest to U.S. intelligence agencies like the CIA and FBI, particularly during the Cold War era. The documents reveal the CPUSA's involvement in both domestic political movements, such as the Vietnam Day Committee (VDC) and alleged influence within the Civil Rights Movement through figures like Martin Luther King Jr. and Stanley Levison, and international activities, including alleged subversive operations in Latin America. Key CPUSA figures, such as Henry Winston and William Z. Foster, were subjects of intense scrutiny. The FBI's COINTELPRO activities targeted the CPUSA, and investigations explored potential Communist ties and influence within various organizations and movements.",
+  "key_connections": [
+    "FBI",
+    "CIA",
+    "Henry Winston",
+    "Martin Luther King, Jr.",
+    "Stanley Levison",
+    "COINTELPRO",
+    "Vietnam Day Committee (VDC)",
+    "Cuba",
+    "Latin America"
+  ],
+  "significance": "High - The CPUSA is mentioned in 20 documents and is a recurring subject of investigation by U.S. intelligence agencies, indicating a significant concern about its activities and influence during the Cold War.",
+  "merged_from_variants": [
+    "Communist Party",
+    "Communist Party USA",
+    "CPUSA"
+  ]
+}

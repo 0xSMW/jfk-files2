@@ -1,0 +1,33 @@
+{
+  "entity_name": "Scott_Breckenridge",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "document_ids": [
+    "180-10141-10015",
+    "104-10066-10060",
+    "104-10332-10009",
+    "104-10147-10229",
+    "104-10413-10306",
+    "104-10164-10000",
+    "104-10145-10262",
+    "104-10147-10202",
+    "104-10173-10132",
+    "104-10147-10216",
+    "104-10173-10130",
+    "104-10106-10143"
+  ],
+  "summary": "Scott Breckenridge, also known as S. D. Breckinridge, was a CIA official involved in administrative matters and the House Select Committee on Assassinations (HSCA) investigation into the JFK assassination in 1978. He authored memoranda related to internal CIA investigations, including requests for photographs to identify individuals and inquiries into E. Howard Hunt's activities and the Yuriy Nosenko case. As a liaison with the HSCA, Breckinridge facilitated the committee's access to information and individuals, including arranging interviews in Mexico, while also addressing the CIA's concerns about protecting sensitive operations and former employees. His involvement spans from the early 1970s to the late 1970s.",
+  "key_connections": [
+    "E. Howard Hunt",
+    "House Select Committee on Assassinations (HSCA)",
+    "Yuriy Nosenko",
+    "G. Robert Blakey",
+    "Morris Bishop"
+  ],
+  "significance": "Medium - Scott Breckenridge played a role in the CIA's internal administration and its interactions with the HSCA during the JFK assassination investigation. While not a central figure, his involvement as a liaison and his connection to internal investigations suggest a moderate level of significance.",
+  "merged_from_variants": [
+    "Scott Breckenridge",
+    "S. D. Breckinridge",
+    "Scott Breckinridge"
+  ]
+}

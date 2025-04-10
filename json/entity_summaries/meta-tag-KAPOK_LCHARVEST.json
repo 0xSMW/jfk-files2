@@ -1,0 +1,38 @@
+{
+  "entity_name": "KAPOK_LCHARVEST",
+  "entity_type": "tag",
+  "document_count": 10,
+  "document_ids": [
+    "104-10176-10005",
+    "104-10169-10282",
+    "104-10218-10083",
+    "104-10100-10200",
+    "104-10100-10223",
+    "180-10143-10243",
+    "104-10062-10227",
+    "104-10529-10329",
+    "104-10529-10330",
+    "104-10097-10360"
+  ],
+  "summary": "KAPOK_LCHARVEST refers to a CIA operation or project, primarily active in Mexico City between 1963 and 1964, though related projects appear to have continued until 1977. It involved contact procedures, potential contingencies, and internal CIA staff. The operation is linked to individuals like Richard Walker and Lloyd George, and the arrival of OTPLATE 1 in Mexico City. KAPOK appears to be part of a broader network of CIA operations in the Western Hemisphere, including projects such as LIRULE, LIPAIL, LIVACATE, and KUWOLF. The CIA's interest extended to recruiting individuals with connections to communist countries, including China and Cuba, and monitoring individuals with ties to communist organizations.",
+  "key_connections": [
+    "Lloyd George",
+    "Richard Walker",
+    "OTPLATE 1",
+    "LIRULE",
+    "LIPAIL",
+    "LIVACATE",
+    "KUWOLF",
+    "China",
+    "Cuba",
+    "Chinese delegation",
+    "Ernesto \"Che\" Guevara",
+    "University of South Carolina"
+  ],
+  "significance": "Medium. KAPOK_LCHARVEST appears to be a significant CIA operation with multiple facets, including recruitment and monitoring activities. The number of documents (10) suggests a notable level of activity, and the connections to other projects and individuals indicate its importance within the broader context of CIA operations during the Cold War.",
+  "merged_from_variants": [
+    "KAPOK LCHARVEST",
+    "KAPOK",
+    "LCHARVEST"
+  ]
+}

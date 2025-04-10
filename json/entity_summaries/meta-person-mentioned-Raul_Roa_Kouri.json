@@ -1,0 +1,33 @@
+{
+  "entity_name": "Raul_Roa_Kouri",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "document_ids": [
+    "144-10001-10099",
+    "104-10183-10355",
+    "144-10001-10090",
+    "198-10007-10021",
+    "124-10300-10012",
+    "124-90139-10138",
+    "104-10072-10228",
+    "198-10008-10119",
+    "104-10302-10022",
+    "104-10180-10050",
+    "119-10021-10413",
+    "104-10506-10028"
+  ],
+  "summary": "Raul Roa Kouri served as the Cuban Foreign Minister during the period covered by the documents. As Foreign Minister, he was involved in Cuban affairs and reactions to events such as the Kennedy assassination, with one document noting his pessimistic evaluation of Cuba's situation in 1963. While not directly implicated in the assassination, his position placed him within the sphere of Cuban government activities monitored by U.S. agencies like the CIA and FBI. The documents also mention U.S. government efforts to combat Castro-Communist subversion in Latin America, suggesting Roa Kouri's potential involvement in Cuban government or diplomatic circles during that period.",
+  "key_connections": [
+    "Cuban Government",
+    "Fidel Castro",
+    "CIA",
+    "Department of State",
+    "Department of Defense",
+    "USIA"
+  ],
+  "significance": "Medium. Raul Roa Kouri's position as Cuban Foreign Minister makes him a significant figure in understanding Cuban government activities and U.S. responses during the period. While not directly implicated in specific events, his role places him within the context of U.S. intelligence gathering and counter-subversion efforts.",
+  "merged_from_variants": [
+    "Raul Roa",
+    "Raul Roa Kouri"
+  ]
+}

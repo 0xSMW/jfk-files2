@@ -1,0 +1,42 @@
+{
+  "entity_name": "Cryptonyms",
+  "entity_type": "tag",
+  "document_count": 16,
+  "document_ids": [
+    "104-10234-10105",
+    "104-10332-10002",
+    "180-10143-10070",
+    "104-10310-10014",
+    "104-10076-10000",
+    "104-10075-10042",
+    "104-10014-10051",
+    "104-10326-10055",
+    "104-10335-10001",
+    "104-10079-10231",
+    "104-10331-10318",
+    "104-10332-10007",
+    "180-10145-10287",
+    "104-10331-10166",
+    "104-10079-10391",
+    "104-10061-10115"
+  ],
+  "summary": "Cryptonyms, including aliases and code names, were utilized by the CIA to protect the identities of individuals, assets, and operations, particularly in sensitive contexts such as Cuban-related activities and the JFK assassination. These cryptonyms also refer to cryptographic systems or codes used in communications, especially those involving overseas stations. The use and potential release of information regarding these cryptonyms became a point of contention during investigations by the House Select Committee on Assassinations (HSCA) and the Assassination Records Review Board (ARRB). The CIA balanced transparency with the need to protect covert employees, cover mechanisms, and ongoing intelligence operations when deciding how much information to release, often requesting redactions to protect operational security.",
+  "key_connections": [
+    "CIA",
+    "Assets",
+    "Cuban operations",
+    "JFK assassination",
+    "House Select Committee on Assassinations (HSCA)",
+    "Assassination Records Review Board (ARRB)",
+    "JFK Assassination Records",
+    "Project ZRRIFLE",
+    "Overseas Stations",
+    "Cuban-related activities"
+  ],
+  "significance": "High. The entity 'Cryptonyms' is highly significant due to its central role in CIA operations, particularly those related to sensitive events like the JFK assassination and Cuban operations. The numerous documents referencing cryptonyms, along with the involvement of investigative bodies like the HSCA and ARRB, highlight the importance of this entity in understanding the historical context and the CIA's operational practices.",
+  "merged_from_variants": [
+    "Code Names",
+    "Crypts",
+    "Cryptonyms"
+  ]
+}

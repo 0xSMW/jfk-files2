@@ -1,0 +1,47 @@
+{
+  "entity_name": "President_Duvalier",
+  "entity_type": "person-mentioned",
+  "document_count": 22,
+  "document_ids": [
+    "194-10014-10116",
+    "104-10106-10325",
+    "157-10014-10117",
+    "104-10061-10053",
+    "104-10176-10067",
+    "124-10299-10042",
+    "124-90090-10025",
+    "135-10001-10246",
+    "124-10299-10043",
+    "124-10299-10044",
+    "104-10166-10262",
+    "104-10165-10075",
+    "157-10008-10238",
+    "104-10186-10088",
+    "144-10001-10114",
+    "124-10299-10032",
+    "124-10299-10041",
+    "104-10163-10087",
+    "104-10164-10112",
+    "104-10302-10000",
+    "104-10176-10069",
+    "144-10001-10095"
+  ],
+  "summary": "President Francois Duvalier's administration in Haiti during the 1960s and 1970s is a focus of these documents, which reveal concerns about maintaining power, managing relations with the United States, and suppressing political opposition. Duvalier sought to improve Haiti's international image and attract foreign investment, while also perceiving threats from U.S. Embassy officials and Cuban exiles. The documents suggest the U.S. government monitored Haiti's political climate under Duvalier, including communications involving Haitian government representatives and Cuban intelligence activities. There are also indirect connections to the JFK assassination through Jean K. Saurel, a Haitian official allegedly connected to the Ton Ton Macoutes, who had associations with individuals linked to Lee Harvey Oswald.",
+  "key_connections": [
+    "Cuban intelligence",
+    "Herbert Itkin",
+    "Jean K. Saurel",
+    "George de Mohrenschildt",
+    "Clemard Joseph Charles",
+    "Manuel Artime",
+    "President Kennedy",
+    "Irving Davidson",
+    "Rolando Masferrer"
+  ],
+  "significance": "Medium. President Duvalier is mentioned in a significant number of documents (22), indicating his relevance to the overall context. While not directly implicated in the JFK assassination, his administration's activities and connections, particularly the indirect links through Jean K. Saurel, warrant attention.",
+  "merged_from_variants": [
+    "President Duvalier",
+    "Francois Duvalier",
+    "Duvalier"
+  ]
+}

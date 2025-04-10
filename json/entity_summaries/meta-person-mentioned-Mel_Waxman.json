@@ -1,0 +1,27 @@
+{
+  "entity_name": "Mel_Waxman",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "document_ids": [
+    "180-10147-10264",
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078"
+  ],
+  "summary": "Mel Waxman was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) during its investigation into the JFK assassination. Payroll and certification reports from 1977 and 1978 document his employment, position, and salary. In 1995, the Assassination Records Review Board postponed the release of HSCA staff payroll records, including those pertaining to Waxman, redacting Social Security numbers, which indicates ongoing privacy considerations related to his employment records.",
+  "key_connections": [
+    "Assassination Records Review Board",
+    "Select Committee on Assassinations",
+    "Select Committee on Assassinations (HSCA)"
+  ],
+  "significance": "Medium - Mel Waxman's role as an HSCA employee places him within the context of the JFK assassination investigation. While his specific contributions are not detailed, the presence of his payroll records across multiple documents and the later review by the Assassination Records Review Board suggest a moderate level of relevance.",
+  "merged_from_variants": [
+    "Mel Waxman",
+    "WAXMAN, MEL"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "entity_name": "Jim_Johnston",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "document_ids": [
+    "144-10001-10127",
+    "157-10014-10017",
+    "157-10014-10121",
+    "144-10001-10212",
+    "144-10001-10288",
+    "144-10001-10195",
+    "157-10014-10133"
+  ],
+  "summary": "Based on the provided documents, information regarding Jim Johnston's role and significance is limited. While mentioned in documents related to Senate Select Committee hearings concerning intelligence activities, including CIA operations and restrictions on academic involvement, the context of his involvement remains unclear. Similarly, documents concerning the NSA's responses to queries from the Senate Select Committee regarding the Warren Commission's investigation into the JFK assassination do not provide specific details about Jim Johnston's role. Therefore, a comprehensive understanding of his role, connections, or timeline of involvement cannot be established based solely on these documents.",
+  "key_connections": [],
+  "significance": "Low. Despite being mentioned across multiple documents, the available information provides no substantial details regarding Jim Johnston's role or significance within the context of the JFK assassination documents or intelligence activities. The lack of specific context limits the ability to assess his importance.",
+  "merged_from_variants": [
+    "Jim Johnson",
+    "Jim Johnston"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "entity_name": "Earl_J_Williamson",
+  "entity_type": "person-mentioned",
+  "document_count": 6,
+  "document_ids": [
+    "104-10225-10007",
+    "104-10178-10096",
+    "104-10161-10321",
+    "104-10119-10183",
+    "104-10119-10182",
+    "104-10229-10000"
+  ],
+  "summary": "Earl J. Williamson was a CIA employee whose official personnel folder contains records of his employment, including reassignments, performance evaluations, awards, and commendation for his service on the Clandestine Service Personnel Evaluation Board. He is mentioned in connection with the AMBUD program, possibly in an administrative or support role related to dependency payments and survivor benefits. Other documents include a memorandum evaluating a manuscript about the Bay of Pigs invasion, a handwritten note containing names and references related to CIA personnel and operations, and a contact list of individuals, likely CIA personnel. One document mentions AMCLEVE/15's contact with Frank \"Lefty\" Rosenthal, although Williamson's direct involvement is not specified.",
+  "key_connections": [
+    "AMBUD Program",
+    "AMCLEVE/15",
+    "Frank \"Lefty\" Rosenthal"
+  ],
+  "significance": "Medium. Earl J. Williamson appears to have been a CIA employee involved in administrative or support roles. While mentioned in multiple documents, his direct involvement in significant events like the JFK assassination is not evident from the provided summaries. The connections to programs like AMBUD and individuals like Frank \"Lefty\" Rosenthal suggest a potential for further investigation, but the current information does not establish a high level of significance.",
+  "merged_from_variants": [
+    "Earl Williamson",
+    "Earl J. Williamson"
+  ]
+}

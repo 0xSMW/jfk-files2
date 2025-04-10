@@ -1,0 +1,27 @@
+{
+  "entity_name": "U-2_Overflights",
+  "entity_type": "tag",
+  "document_count": 6,
+  "document_ids": [
+    "178-10003-10016",
+    "206-10001-10011",
+    "178-10004-10054",
+    "206-10001-10012",
+    "178-10004-10056",
+    "104-10106-10143"
+  ],
+  "summary": "U-2 overflights were reconnaissance missions conducted by the United States using U-2 aircraft, particularly during the Cold War era. These missions, often planned and executed by the CIA, were crucial for intelligence gathering, especially concerning Cuba. The overflights aimed to monitor Soviet military buildup, including missile deployments, and provided critical information that informed decision-making during events like the Cuban Missile Crisis. Documents spanning from 1962 to 1978 highlight discussions and concerns surrounding these operations, including concealing U.S. involvement and potential Soviet awareness of programs like the U-2 Project. These overflights represent a significant aspect of U.S. foreign policy and intelligence activities in politically sensitive regions.",
+  "key_connections": [
+    "Cuba",
+    "Cuban Missile Crisis",
+    "CIA",
+    "Soviet Union",
+    "U-2 Project",
+    "President's Foreign Intelligence Advisory Board"
+  ],
+  "significance": "High - U-2 overflights were a critical intelligence-gathering method during the Cold War, particularly during the Cuban Missile Crisis. The entity is mentioned in 6 unique documents, suggesting its importance within the collection.",
+  "merged_from_variants": [
+    "U-2 Overflights",
+    "Overflights"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "entity_name": "Hart_of_Colorado",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "document_ids": [
+    "157-10014-10081",
+    "124-10273-10053",
+    "157-10014-10121",
+    "124-10185-10195_multirif",
+    "157-10014-10125",
+    "124-10264-10206_multirif",
+    "124-10238-10329_multirif",
+    "124-10264-10191",
+    "157-10014-10133"
+  ],
+  "summary": "Gary Hart, also known as \"Hart of Colorado,\" is mentioned in documents related to the U.S. Senate Select Committee on Intelligence Activities (SSC) investigations from the mid-1970s to the early 1980s. These documents pertain to congressional oversight of intelligence operations, including those of the FBI and CIA. While the specific details of Hart's role are not explicitly detailed, his name appears in connection with hearings and inquiries into intelligence activities, suggesting involvement in governmental operations and intelligence matters. Topics covered include FBI materials related to Martin Luther King, Jr. and the Southern Christian Leadership Conference (SCLC), CIA covert operations, and concerns about compromised FBI sources.",
+  "key_connections": [
+    "U.S. Senate Select Committee on Intelligence Activities (SSC)",
+    "FBI",
+    "CIA",
+    "Martin Luther King, Jr.",
+    "Southern Christian Leadership Conference (SCLC)",
+    "Walter Mondale"
+  ],
+  "significance": "Medium - Gary Hart's involvement in the Senate Select Committee on Intelligence Activities suggests a moderate level of significance within the context of investigations into intelligence operations during the 1970s and 1980s. The document count of 9 further supports this assessment.",
+  "merged_from_variants": [
+    "Gary Hart",
+    "Hart of Colorado"
+  ]
+}

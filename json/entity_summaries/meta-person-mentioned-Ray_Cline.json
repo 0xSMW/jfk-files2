@@ -1,0 +1,39 @@
+{
+  "entity_name": "Ray_Cline",
+  "entity_type": "person-mentioned",
+  "document_count": 15,
+  "document_ids": [
+    "104-10306-10003",
+    "135-10001-10255",
+    "206-10001-10009",
+    "104-10306-10018",
+    "104-10324-10000",
+    "206-10001-10000",
+    "206-10001-10007",
+    "104-10306-10020",
+    "178-10004-10056",
+    "206-10001-10013",
+    "104-10306-10011",
+    "157-10011-10003",
+    "104-10302-10024",
+    "206-10001-10008",
+    "206-10001-10006"
+  ],
+  "summary": "Ray Cline was a significant figure in the intelligence community during the 1960s, involved in discussions and briefings related to national reconnaissance programs, signals intelligence, and overall world situation, including Soviet and Chinese activities. He participated in President's Foreign Intelligence Advisory Board (PFIAB) meetings and CIA activities. Cline was also involved in sensitive covert operations and intelligence assessments, particularly concerning Cuba and Southeast Asia, including the Cuban Missile Crisis and Operation MONGOOSE. His name appears in memoranda, meeting agendas, and collections of documents detailing CIA activities and foreign policy decisions from the late 1950s to the mid-1960s. He also had intelligence relations with the LBJ White House, specifically regarding the creation and evolution of the President's Daily Brief (PDB).",
+  "key_connections": [
+    "John A. McCone",
+    "Lyndon B. Johnson",
+    "President's Foreign Intelligence Advisory Board (PFIAB)",
+    "CIA",
+    "Operation MONGOOSE",
+    "Defense Intelligence Agency",
+    "Allen Dulles",
+    "National Reconnaissance Office (NRO)",
+    "President Johnson"
+  ],
+  "significance": "High. Ray Cline's involvement in intelligence matters during a critical period, including covert operations and high-level briefings, along with his numerous mentions across 15 documents, indicates a significant role within the intelligence community during the 1960s. His connections to key figures and events further underscore his importance.",
+  "merged_from_variants": [
+    "Cline",
+    "Ray Cline"
+  ]
+}

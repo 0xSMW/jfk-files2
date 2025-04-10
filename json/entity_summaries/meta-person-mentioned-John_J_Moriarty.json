@@ -1,0 +1,26 @@
+{
+  "entity_name": "John_J_Moriarty",
+  "entity_type": "person-mentioned",
+  "document_count": 9,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10096",
+    "180-10125-10081",
+    "180-10125-10078",
+    "180-10125-10107"
+  ],
+  "summary": "John J. Moriarty was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA) from 1977 to 1978. Payroll and certification reports document his employment, listing his name, position, annual salary, and gross pay. These records indicate his sustained involvement with the HSCA during its investigation into the JFK assassination.",
+  "key_connections": [
+    "U.S. House of Representatives",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. John J. Moriarty's significance is moderate. He was an employee of the HSCA, as evidenced by multiple payroll records. While not a central figure, his documented employment provides insight into the committee's staffing and operations during the JFK assassination investigation.",
+  "merged_from_variants": [
+    "MORIARTY, JOHN J",
+    "John J Moriarty"
+  ]
+}

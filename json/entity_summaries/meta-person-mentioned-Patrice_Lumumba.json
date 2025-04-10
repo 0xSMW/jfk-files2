@@ -1,0 +1,32 @@
+{
+  "entity_name": "Patrice_Lumumba",
+  "entity_type": "person-mentioned",
+  "document_count": 12,
+  "document_ids": [
+    "157-10011-10024",
+    "157-10008-10238",
+    "157-10014-10137",
+    "157-10014-10178",
+    "157-10005-10141",
+    "157-10002-10105",
+    "157-10011-10006",
+    "157-10014-10089",
+    "157-10005-10297",
+    "157-10014-10151",
+    "157-10014-10067",
+    "157-10014-10109"
+  ],
+  "summary": "Patrice Lumumba, the first Prime Minister of the Democratic Republic of the Congo, is a significant figure in these documents due to the CIA's exploration of potential assassination plots against him in the early 1960s. The Senate Select Committee on Intelligence Activities (SSCIA) investigated the CIA's involvement, revealing details about potential methods, including the use of lethal biological agents, and individuals involved. These plans, researched under Project ZR/RIFLE, may have been authorized at high levels of the US government, possibly by President Eisenhower, highlighting the CIA's covert actions and the extent of authorization for these operations.",
+  "key_connections": [
+    "CIA",
+    "SSCIA",
+    "Project ZR/RIFLE",
+    "President Eisenhower",
+    "William Harvey"
+  ],
+  "significance": "High. Patrice Lumumba's potential assassination by the CIA is a central theme in multiple documents, indicating a significant focus on covert operations and their authorization within the US government.",
+  "merged_from_variants": [
+    "Patrice Lumumba",
+    "Lumumba"
+  ]
+}

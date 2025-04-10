@@ -1,0 +1,24 @@
+{
+  "entity_name": "Donald_A_Purdy_Jr",
+  "entity_type": "person-mentioned",
+  "document_count": 7,
+  "document_ids": [
+    "180-10125-10086",
+    "180-10125-10083",
+    "180-10125-10087",
+    "180-10125-10094",
+    "180-10125-10079",
+    "180-10125-10081",
+    "180-10125-10078"
+  ],
+  "summary": "Donald A. Purdy, Jr. was an employee of the U.S. House of Representatives Select Committee on Assassinations (HSCA), later referred to as the Select Committee on Assassinations (SCAS). Payroll and certification reports from 1977 and 1978 document his employment, listing his name, position, salary, and earnings for specific pay periods. These records indicate his continued employment with the committee from April to December 1978.",
+  "key_connections": [
+    "Select Committee on Assassinations (HSCA)",
+    "Select Committee on Assassinations"
+  ],
+  "significance": "Medium. Donald A. Purdy, Jr.'s significance lies in his employment with the HSCA/SCAS, as documented in multiple payroll records. While not a central figure, his presence in these records provides insight into the committee's staffing and operations during its investigation.",
+  "merged_from_variants": [
+    "Donald A Purdy, Jr",
+    "PURDY, DONALD A, JR"
+  ]
+}
