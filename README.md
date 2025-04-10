@@ -87,7 +87,8 @@ The `scripts/` directory contains various utilities for processing and analyzing
 - `find_dupes.py`: Identifies duplicate documents to ensure data integrity
 - `process_jfk_files.sh`: Main processing pipeline for handling the documents
 - `generate_json_summary.py`: Generates structured JSON summaries of documents using Gemini AI
-- `analysis.py`: Creates entity-based summaries by extracting people, organizations, and concepts across documents
+- `entity-analysis.py`: Creates entity-based summaries by extracting people, organizations, and concepts across documents
+- `entity-post-analysis.py`: Finds, merges, and discards duplicate entities by clustering variant spelling/writings
 - `remove_1992_files.py`: Filters out previously released documents to focus on new information
 
 ## Usage
