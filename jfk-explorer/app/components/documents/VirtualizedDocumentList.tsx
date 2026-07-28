@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect, useRef, useMemo } from 'react';
-import { FixedSizeList as List } from 'react-window';
+import { List } from 'react-window';
 import { Document } from '@/app/lib/models/document';
 import DocumentCard from './DocumentCard';
 
@@ -95,13 +95,12 @@ export default function VirtualizedDocumentList({
     <div ref={containerRef} className="w-full h-full min-h-[500px]">
       {dimensions.width > 0 && dimensions.height > 0 && (
         <List
-          height={dimensions.height}
-          width={dimensions.width}
-          itemCount={displayItems.length}
-          itemSize={itemHeight}
-        >
-          {ItemRenderer}
-        </List>
+          rowCount={displayItems.length}
+          rowHeight={itemHeight}
+          rowComponent={ItemRenderer as any}
+          rowProps={{}}
+          style={{ height: dimensions.height, width: dimensions.width }}
+        />
       )}
     </div>
   );

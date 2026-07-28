@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { Document } from '@/app/lib/models/document';
-import { loadDocumentMetadata } from '@/app/lib/utils/data-loader';
+import { loadDocument } from '@/app/lib/utils/data-loader';
 import DocumentCard from '@/app/components/documents/DocumentCard';
 import Spinner from '@/app/components/Spinner';
 
@@ -26,7 +26,7 @@ export default function RelatedDocuments({ documentIds, limit = 6 }: RelatedDocu
         
         const loadedDocs = await Promise.all(
           idsToLoad.map(async (id) => {
-            const doc = await loadDocumentMetadata(id);
+            const doc = await loadDocument(id);
             return doc;
           })
         );

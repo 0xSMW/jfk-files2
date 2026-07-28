@@ -106,10 +106,10 @@ export default function RelationshipGraph({
     graphData,
     height: dimensions.height,
     width: dimensions.width,
-    nodeVal: (node: any) => (node as GraphNode).val || mergedConfig.nodeSize,
+    nodeVal: (node: any) => (node as GraphNode).val || mergedConfig.nodeSize || 5,
     nodeLabel: (node: any) => `${(node as GraphNode).label} (${(node as GraphNode).group})`,
     nodeColor: (node: any) => mergedConfig.colorByGroup ? ((node as GraphNode).color || '#718096') : '#718096',
-    linkWidth: (link: any) => (link as GraphLink).strength || mergedConfig.linkWidth,
+    linkWidth: (link: any) => (link as GraphLink).strength || mergedConfig.linkWidth || 1,
     linkLabel: (link: any) => (link as GraphLink).label || '',
     linkColor: (link: any) => (link as GraphLink).color || '#CBD5E0',
     onNodeClick: handleNodeClick,
@@ -123,7 +123,7 @@ export default function RelationshipGraph({
 
         // Node circle
         ctx.beginPath();
-        ctx.arc(typedNode.x, typedNode.y, typedNode.val || mergedConfig.nodeSize, 0, 2 * Math.PI);
+        ctx.arc(typedNode.x, typedNode.y, typedNode.val || mergedConfig.nodeSize || 5, 0, 2 * Math.PI);
         ctx.fillStyle = typedNode.color || '#718096';
         ctx.fill();
 
@@ -157,11 +157,11 @@ export default function RelationshipGraph({
       (key: string, value: any) => {
         if (key === 'charge') {
           // Increased repulsion for better node separation
-          return value.strength(mergedConfig.chargeStrength * 1.25);
+          return value.strength((mergedConfig.chargeStrength || -120) * 1.25);
         }
         if (key === 'link') {
           // Slightly longer links for better visibility
-          return value.distance(mergedConfig.linkDistance * 1.2);
+          return value.distance((mergedConfig.linkDistance || 100) * 1.2);
         }
         return value;
       },
@@ -178,19 +178,11 @@ export default function RelationshipGraph({
 
   return (
     <div className="relative border rounded-lg bg-white overflow-hidden" style={{ height: `${height}px`, width: '100%' }}>
-      {/* Render the graph with a try-catch fallback */}
-      {(() => {
-        try {
-          return mergedConfig.is3D ? (
-            <ForceGraph3D {...graphProps} />
-          ) : (
-            <ForceGraph2D {...graphProps} />
-          );
-        } catch (error) {
-          console.error('Graph rendering failed:', error);
-          return <div className="text-red-600">Failed to render graph. Please try again.</div>;
-        }
-      })()}
+      {mergedConfig.is3D ? (
+        <ForceGraph3D {...graphProps} />
+      ) : (
+        <ForceGraph2D {...graphProps} />
+      )}
 
       {hoveredNode && (
         <div className="absolute bottom-4 left-4 bg-white shadow-md rounded-md p-3 max-w-xs">
@@ -213,7 +205,7 @@ export default function RelationshipGraph({
         </button>
         {graphData.nodes.length > 10 && !mergedConfig.is3D && (
           <button 
-            onClick={() => graphRef.current?.d3Force('charge').strength(mergedConfig.chargeStrength * 1.5)}
+            onClick={() => graphRef.current?.d3Force('charge').strength((mergedConfig.chargeStrength || -120) * 1.5)}
             className="bg-blue-100 text-blue-800 px-2 py-1 rounded text-sm hover:bg-blue-200"
           >
             Spread
