@@ -45,6 +45,8 @@ The 2025 batch is **not primarily a pile of “who shot JFK” dockets**. After 
 
 High-frequency **tags/themes** in entity summaries include CIA, Cuba, FBI, HSCA, NSA, clandestine/anti-Castro activity, and FOIA process. Among people and roles with high document degree: **Lee Harvey Oswald**, **Fidel Castro**, **Richard Helms**, **John McCone**, **Allen Dulles**, **William K. Harvey**, **Lyndon B. Johnson**, **J. Edgar Hoover**, and a large **HSCA-era** cluster (e.g. Louis Stokes, Richard Sprague, G. Robert Blakey). Start from `json/entity_summaries/` or the explorer’s entity pages.
 
+**The reinvestigation outweighs the event.** In the explorer subset this is measurable, not just an impression: **Louis Stokes** (HSCA chairman) appears in **137 documents — more than Lee Harvey Oswald at 122**, and the oversight-era years **1977–78 (266 dated docs) edge out 1963 itself (262)**. The single densest tag pairing is **CIA–Cuba (288 docs)**, followed by CIA–FBI (175); on the HSCA side the strongest pairings are procedural — HSCA–Privacy (85) and HSCA–Stokes (71). Read as a graph, this corpus is first a record of *how the government investigated itself* in the 1970s, layered over Cold War Cuba operations, with Dealey Plaza as the gravitational center rather than the bulk of the mass.
+
 ### Deep dive example
 
 **John Garrett Underhill Jr.** — CIA-adjacent arms expert, *Ramparts* allegations about a “CIA clique,” contested death — is a good rabbit hole that combines one memorandum, broader biography, and how the schema’s optional `conspiracy` field surfaces allegations without endorsing them.
@@ -73,7 +75,9 @@ pnpm install   # or npm install
 pnpm dev       # or npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) — the app redirects to the documents browser. Static analysis JSON lives under `jfk-explorer/public/json/` (a published subset of the full `json/` tree).
+Open [http://localhost:3000](http://localhost:3000) — the app redirects to the documents browser. Static analysis JSON lives under `jfk-explorer/public/json/` (a published subset of the full `json/` tree): **2,175 documents and 2,588 entity profiles**. The UI is shadcn/Tailwind with light and dark themes, faceted filters, load-more pagination, and a theme-aware relationship graph.
+
+**Data-quality notes for the explorer subset:** 138 documents (6%) carry no usable date — the extraction left a literal `YYYY-MM-DD` placeholder; the UI renders these as "Date unknown" and sorts them last. Security markings are unnormalized in the raw JSON (`SECRET` 1,162 + `Secret` 124, `UNCLASSIFIED` 362 + `Unclassified` 112), and the top "entities" by document count are tags and routing roles (CIA, Cuba, Director), not people — filter by entity type Person to get actual figures.
 
 ### Open a single record
 
