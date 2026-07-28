@@ -1,0 +1,185 @@
+import { Document } from '../models/document';
+import { Entity } from '../models/entity';
+
+// In-memory cache
+let cachedDocuments: Document[] | null = null;
+let cachedEntities: Entity[] | null = null;
+
+function getFs() {
+  if (typeof window !== 'undefined') return null;
+  try {
+    // Prevent bundler from tracing dynamic fs glob paths into client bundle
+    return eval("require('fs')");
+  } catch (e) {
+    return null;
+  }
+}
+
+function getPath() {
+  if (typeof window !== 'undefined') return null;
+  try {
+    return eval("require('path')");
+  } catch (e) {
+    return null;
+  }
+}
+
+export async function loadDocumentMetadata(): Promise<Document[]> {
+  if (cachedDocuments) return cachedDocuments;
+
+  const fs = getFs();
+  const path = getPath();
+
+  if (fs && path) {
+    try {
+      const dir = path.join(process.cwd(), 'public/json/2025');
+      if (fs.existsSync(dir)) {
+        const files = (fs.readdirSync(dir) as string[]).filter(f => f.endsWith('.json')).slice(0, 300);
+        const docs: Document[] = [];
+
+        for (const file of files) {
+          try {
+            const raw = fs.readFileSync(path.join(dir, file), 'utf-8');
+            const data = JSON.parse(raw);
+            const id = file.replace(/\.json$/, '');
+            docs.push({
+              id,
+              ...data,
+              document_type: data.document_type || 'Document'
+            });
+          } catch (e) {
+            // ignore bad json
+          }
+        }
+        cachedDocuments = docs;
+        return docs;
+      }
+    } catch (e) {
+      console.error('Error reading documents:', e);
+    }
+  }
+
+  return cachedDocuments || [];
+}
+
+export async function loadDocument(id: string): Promise<Document | null> {
+  const docs = await loadDocumentMetadata();
+  let doc = docs.find(d => d.id === id || d.id === decodeURIComponent(id));
+
+  const fs = getFs();
+  const path = getPath();
+
+  if (!doc && fs && path) {
+    try {
+      const filePath = path.join(process.cwd(), `public/json/2025/${id}.json`);
+      if (fs.existsSync(filePath)) {
+        const raw = fs.readFileSync(filePath, 'utf-8');
+        const data = JSON.parse(raw);
+        doc = { id, ...data };
+      }
+    } catch (e) {
+      // ignore
+    }
+  }
+
+  if (!doc) return null;
+
+  if (!doc.content && fs && path) {
+    try {
+      const mdPath = path.join(process.cwd(), `public/md/2025/${id}.md`);
+      if (fs.existsSync(mdPath)) {
+        doc.content = fs.readFileSync(mdPath, 'utf-8');
+      }
+    } catch (e) {
+      // ignore
+    }
+  }
+
+  return doc;
+}
+
+export async function loadAllEntities(): Promise<Entity[]> {
+  if (cachedEntities) return cachedEntities;
+
+  const fs = getFs();
+  const path = getPath();
+
+  if (fs && path) {
+    try {
+      const dir = path.join(process.cwd(), 'public/json/entity_summaries');
+      if (fs.existsSync(dir)) {
+        const files = (fs.readdirSync(dir) as string[]).filter(f => f.endsWith('.json')).slice(0, 300);
+        const entities: Entity[] = [];
+
+        for (const file of files) {
+          try {
+            const raw = fs.readFileSync(path.join(dir, file), 'utf-8');
+            const data = JSON.parse(raw);
+            const slug = file.replace(/\.json$/, '');
+            entities.push({
+              slug,
+              ...data,
+              entity_name: data.entity_name || slug,
+              entity_type: data.entity_type || 'tag',
+              document_count: data.document_count || (data.document_ids ? data.document_ids.length : 0),
+              key_connections: data.key_connections || [],
+              document_ids: data.document_ids || []
+            });
+          } catch (e) {
+            // ignore bad json
+          }
+        }
+        cachedEntities = entities;
+        return entities;
+      }
+    } catch (e) {
+      console.error('Error reading entities:', e);
+    }
+  }
+
+  return cachedEntities || [];
+}
+
+export async function loadEntityBySlug(slug: string): Promise<Entity | null> {
+  const entities = await loadAllEntities();
+  const decodedSlug = decodeURIComponent(slug);
+  let entity = entities.find(e => e.slug === slug || e.slug === decodedSlug || e.entity_name === decodedSlug);
+
+  const fs = getFs();
+  const path = getPath();
+
+  if (!entity && fs && path) {
+    try {
+      const filePath = path.join(process.cwd(), `public/json/entity_summaries/${slug}.json`);
+      if (fs.existsSync(filePath)) {
+        const raw = fs.readFileSync(filePath, 'utf-8');
+        const data = JSON.parse(raw);
+        entity = { slug, ...data };
+      }
+    } catch (e) {
+      // ignore
+    }
+  }
+
+  return entity || null;
+}
+
+export async function getDataStatistics() {
+  const docs = await loadDocumentMetadata();
+  const entities = await loadAllEntities();
+
+  const documentsWithTags = docs.filter(d => d.tags && d.tags.length > 0).length;
+  const tagSet = new Set<string>();
+  docs.forEach(d => d.tags?.forEach(t => tagSet.add(t)));
+
+  return {
+    documentCount: docs.length,
+    entityCount: entities.length,
+    linkCount: docs.reduce((acc, d) => acc + (d.tags?.length || 0), 0),
+    totalDocuments: docs.length,
+    documentsWithTags,
+    uniqueTags: tagSet.size,
+    totalEntities: entities.length,
+    matchingTags: tagSet.size
+  };
+}
