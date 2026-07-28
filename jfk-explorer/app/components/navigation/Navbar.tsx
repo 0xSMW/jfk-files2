@@ -3,7 +3,16 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
+import { Menu } from 'lucide-react';
+import { ThemeToggle } from './ThemeToggle';
+import { Button } from '@/components/ui/button';
+import {
+  Sheet,
+  SheetContent,
+  SheetHeader,
+  SheetTitle,
+  SheetTrigger,
+} from '@/components/ui/sheet';
 
 const navigationLinks = [
   { href: '/documents', label: 'Documents' },
@@ -14,84 +23,75 @@ const navigationLinks = [
 
 export default function Navbar() {
   const pathname = usePathname();
-  const [isMenuOpen, setIsMenuOpen] = useState(false);
-
-  const toggleMenu = () => {
-    setIsMenuOpen(!isMenuOpen);
-  };
+  const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="bg-white shadow-md">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between h-16">
-          <div className="flex">
-            <div className="flex-shrink-0 flex items-center">
-              <Link href="/documents" className="text-xl font-bold text-blue-600">
-                JFK Explorer
+    <nav className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
+      <div className="flex items-center gap-8">
+        <Link href="/documents" className="text-xl font-bold tracking-tight text-primary">
+          JFK Explorer
+        </Link>
+        <div className="hidden sm:flex sm:space-x-6">
+          {navigationLinks.map((link) => {
+            const isActive = pathname === link.href || pathname.startsWith(`${link.href}/`);
+            return (
+              <Link
+                key={link.href}
+                href={link.href}
+                className={`text-sm font-medium transition-colors hover:text-foreground ${
+                  isActive
+                    ? 'text-foreground underline underline-offset-8 decoration-2 decoration-primary font-semibold'
+                    : 'text-muted-foreground'
+                }`}
+              >
+                {link.label}
               </Link>
-            </div>
-            <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
-              {navigationLinks.map((link) => {
-                const isActive = pathname === link.href;
-                return (
-                  <Link
-                    key={link.href}
-                    href={link.href}
-                    className={`inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium ${
-                      isActive
-                        ? 'border-blue-500 text-gray-900'
-                        : 'border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700'
-                    }`}
-                  >
-                    {link.label}
-                  </Link>
-                );
-              })}
-            </div>
-          </div>
-          
-          {/* Mobile menu button */}
-          <div className="flex items-center sm:hidden">
-            <button
-              type="button"
-              className="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500"
-              aria-expanded="false"
-              onClick={toggleMenu}
-            >
-              <span className="sr-only">Open main menu</span>
-              {isMenuOpen ? (
-                <XMarkIcon className="block h-6 w-6" aria-hidden="true" />
-              ) : (
-                <Bars3Icon className="block h-6 w-6" aria-hidden="true" />
-              )}
-            </button>
-          </div>
+            );
+          })}
         </div>
       </div>
 
-      {/* Mobile menu, show/hide based on menu state */}
-      {isMenuOpen && (
+      <div className="flex items-center gap-2">
+        <ThemeToggle />
+
+        {/* Mobile menu sheet */}
         <div className="sm:hidden">
-          <div className="pt-2 pb-3 space-y-1">
-            {navigationLinks.map((link) => {
-              const isActive = pathname === link.href;
-              return (
-                <Link
-                  key={link.href}
-                  href={link.href}
-                  className={`block pl-3 pr-4 py-2 border-l-4 text-base font-medium ${
-                    isActive
-                      ? 'bg-blue-50 border-blue-500 text-blue-700'
-                      : 'border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700'
-                  }`}
-                >
-                  {link.label}
-                </Link>
-              );
-            })}
-          </div>
+          <Sheet open={isOpen} onOpenChange={setIsOpen}>
+            <SheetTrigger asChild>
+              <Button variant="ghost" size="icon" className="h-9 w-9">
+                <Menu className="h-5 w-5" />
+                <span className="sr-only">Toggle navigation menu</span>
+              </Button>
+            </SheetTrigger>
+            <SheetContent side="right" className="w-64">
+              <SheetHeader>
+                <SheetTitle className="text-left text-lg font-bold text-primary">
+                  JFK Explorer
+                </SheetTitle>
+              </SheetHeader>
+              <div className="mt-6 flex flex-col space-y-4">
+                {navigationLinks.map((link) => {
+                  const isActive = pathname === link.href || pathname.startsWith(`${link.href}/`);
+                  return (
+                    <Link
+                      key={link.href}
+                      href={link.href}
+                      onClick={() => setIsOpen(false)}
+                      className={`text-base font-medium transition-colors ${
+                        isActive
+                          ? 'text-primary font-semibold'
+                          : 'text-muted-foreground hover:text-foreground'
+                      }`}
+                    >
+                      {link.label}
+                    </Link>
+                  );
+                })}
+              </div>
+            </SheetContent>
+          </Sheet>
         </div>
-      )}
+      </div>
     </nav>
   );
-} 
+}

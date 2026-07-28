@@ -1,6 +1,6 @@
 'use client';
 
-import { DOCUMENT_COLORS, ENTITY_COLORS } from '@/app/lib/utils/visualization-colors';
+import { DOCUMENT_COLORS, ENTITY_COLORS, LINK_COLORS } from '@/app/lib/utils/visualization-colors';
 
 interface GraphLegendProps {
   graphStats: {
@@ -12,50 +12,55 @@ interface GraphLegendProps {
 
 export default function GraphLegend({ graphStats }: GraphLegendProps) {
   return (
-    <div className="space-y-4">
+    <div className="space-y-4 text-xs text-foreground">
       <div>
-        <h3 className="text-sm font-medium text-gray-700 mb-2">Legend</h3>
-        <div className="space-y-3">
-          <div>
-            <h4 className="text-xs font-medium text-gray-600 mb-1">Documents ({graphStats.documentCount})</h4>
-            <div className="grid grid-cols-2 gap-1">
-              {Object.entries(DOCUMENT_COLORS).filter(([type]) => type !== 'default').map(([type, color]) => (
-                <div key={type} className="flex items-center">
-                  <div className="w-3 h-3 mr-1.5" style={{ backgroundColor: color }} />
-                  <span className="text-xs text-gray-700 truncate">{type}</span>
-                </div>
-              ))}
-            </div>
-          </div>
-          
-          <div>
-            <h4 className="text-xs font-medium text-gray-600 mb-1">Entities ({graphStats.entityCount})</h4>
-            <div className="grid grid-cols-2 gap-1">
-              {Object.entries(ENTITY_COLORS).filter(([type]) => type !== 'default').map(([type, color]) => (
-                <div key={type} className="flex items-center">
-                  <div className="w-3 h-3 mr-1.5" style={{ backgroundColor: color }} />
-                  <span className="text-xs text-gray-700 truncate">{type}</span>
-                </div>
-              ))}
-            </div>
+        <h3 className="font-semibold text-foreground mb-2 uppercase tracking-wider text-[11px]">Node Legend</h3>
+        
+        {/* Document Types */}
+        <div className="mb-3">
+          <h4 className="font-medium text-muted-foreground mb-1.5 flex items-center gap-1">
+            <span>📄</span> Documents (Rounded Rect)
+          </h4>
+          <div className="grid grid-cols-2 gap-1.5">
+            {Object.entries(DOCUMENT_COLORS).filter(([t]) => t !== 'default').map(([type, color]) => (
+              <div key={type} className="flex items-center gap-1.5">
+                <div className="w-2.5 h-3 rounded-[1px]" style={{ backgroundColor: color }} />
+                <span className="truncate text-[11px]">{type}</span>
+              </div>
+            ))}
           </div>
         </div>
-      </div>
-      
-      <div>
-        <h3 className="text-sm font-medium text-gray-700 mb-2">Network Statistics</h3>
-        <div className="text-xs text-gray-600 space-y-1">
-          <p>Documents: {graphStats.documentCount}</p>
-          <p>Entities: {graphStats.entityCount}</p>
-          <p>Connections: {graphStats.linkCount}</p>
+
+        {/* Entity Types */}
+        <div className="mb-3">
+          <h4 className="font-medium text-muted-foreground mb-1.5 flex items-center gap-1">
+            <span>👤</span> Entities (Shapes)
+          </h4>
+          <div className="grid grid-cols-2 gap-1.5">
+            {Object.entries(ENTITY_COLORS).filter(([t]) => t !== 'default').map(([type, color]) => (
+              <div key={type} className="flex items-center gap-1.5">
+                <div className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: color }} />
+                <span className="truncate text-[11px] capitalize">{type}</span>
+              </div>
+            ))}
+          </div>
         </div>
-      </div>
-      
-      <div className="text-xs text-gray-500 mt-4">
-        <p>Click on nodes to explore details</p>
-        <p>Use mouse wheel to zoom</p>
-        <p>Drag to pan the visualization</p>
+
+        {/* Relationship Link Types */}
+        <div>
+          <h4 className="font-medium text-muted-foreground mb-1.5 flex items-center gap-1">
+            <span>🔗</span> Connection Types
+          </h4>
+          <div className="grid grid-cols-2 gap-1.5">
+            {Object.entries(LINK_COLORS).filter(([t]) => t !== 'default').map(([type, color]) => (
+              <div key={type} className="flex items-center gap-1.5">
+                <div className="w-3 h-0.5" style={{ backgroundColor: color }} />
+                <span className="truncate text-[11px] capitalize">{type}</span>
+              </div>
+            ))}
+          </div>
+        </div>
       </div>
     </div>
   );
-} 
+}

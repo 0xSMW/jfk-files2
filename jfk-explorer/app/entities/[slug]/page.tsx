@@ -1,48 +1,45 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { useParams } from 'next/navigation';
+import { useParams, useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { Entity } from '@/app/lib/models/entity';
-// Import the correct function for loading by slug
-import { loadEntityBySlug } from '@/app/lib/utils/data-loader';
+import { Document } from '@/app/lib/models/document';
 import RelatedDocuments from '@/app/components/entities/RelatedDocuments';
 import EntityConnections from '@/app/components/entities/EntityConnections';
 import Spinner from '@/app/components/Spinner';
+import { Card } from '@/components/ui/card';
+import { Badge } from '@/components/ui/badge';
+import { Button } from '@/components/ui/button';
+import { ArrowLeft } from 'lucide-react';
 
 export default function EntityDetailPage() {
   const params = useParams();
-  // Use 'slug' from the route directory name
+  const router = useRouter();
   const entitySlug = params.slug as string;
 
   const [entity, setEntity] = useState<Entity | null>(null);
+  const [documents, setDocuments] = useState<Document[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
-  // Fetch entity data using the slug
   useEffect(() => {
     async function fetchEntity() {
-      if (!entitySlug) {
-        setError('Entity slug is missing.');
-        setIsLoading(false);
-        return;
-      }
+      if (!entitySlug) return;
       try {
         setIsLoading(true);
-        // Fetch entity by slug using the correct function
-        const entityData = await loadEntityBySlug(entitySlug);
-
-        if (entityData) {
-          setEntity(entityData);
-        } else {
-          // Use standard quotes for the string literal
-          setError(`Entity with slug "${entitySlug}" not found`);
+        const res = await fetch(`/api/entities/${encodeURIComponent(entitySlug)}`);
+        if (!res.ok) {
+          setError('Entity not found');
+          return;
         }
-
-        setIsLoading(false);
+        const data = await res.json();
+        setEntity(data.entity);
+        setDocuments(data.documents || []);
       } catch (err) {
-        console.error('Error fetching entity by slug:', err);
-        setError('Failed to load entity data');
+        console.error('Error fetching entity:', err);
+        setError('Failed to load entity');
+      } finally {
         setIsLoading(false);
       }
     }
@@ -52,8 +49,7 @@ export default function EntityDetailPage() {
 
   if (isLoading) {
     return (
-      // Use standard quotes for className
-      <div className="flex justify-center items-center h-screen">
+      <div className="flex justify-center items-center h-screen bg-background">
         <Spinner size="large" />
       </div>
     );
@@ -61,92 +57,66 @@ export default function EntityDetailPage() {
 
   if (error || !entity) {
     return (
-      // Use standard quotes for className
-      <div className="container mx-auto py-8 px-4">
-        <Link href="/entities" className="text-blue-600 hover:underline mb-8 inline-block">
-          ← Back to Entities
-        </Link>
-
-        {/* Use standard quotes for className */}
-        <div className="p-6 bg-red-50 border border-red-200 rounded-md text-red-700">
-          {error || 'Entity not found'}
-        </div>
+      <div className="max-w-4xl mx-auto p-8 text-center bg-card rounded-xl border mt-8">
+        <h2 className="text-xl font-bold text-destructive mb-2">Error</h2>
+        <p className="text-muted-foreground mb-4">{error || 'Entity not found'}</p>
+        <Button onClick={() => router.back()}>Go Back</Button>
       </div>
     );
   }
 
-  // Ensure key_connection_slugs is an array, default to empty if undefined
-  // This assumes data-loader populates key_connection_slugs correctly
-  const connectionsWithSlugs = entity.key_connection_slugs || [];
-
   return (
-    // Use standard quotes for className
-    <div className="container mx-auto py-8 px-4">
-      <Link href="/entities" className="text-blue-600 hover:underline mb-8 inline-block">
-        ← Back to Entities
-      </Link>
-
-      {/* Use standard quotes for className */}
-      <div className="bg-white border rounded-lg overflow-hidden">
-        {/* Use standard quotes for className */}
-        <div className="p-6">
-          {/* Use standard quotes for className */}
-          <div className="flex justify-between items-start mb-4">
-            {/* Use standard quotes for className */}
-            <h1 className="text-3xl font-bold">{entity.entity_name}</h1>
-
-            {/* Use standard quotes for className */}
-            <span className="inline-flex items-center rounded-full bg-purple-100 px-2.5 py-0.5 text-sm font-medium text-purple-800">
-              {entity.entity_type}
-            </span>
-          </div>
-
-          {/* Use standard quotes for className */}
-          <div className="mb-6">
-            {/* Use standard quotes for className */}
-            <h2 className="text-xl font-semibold mb-2">Overview</h2>
-            {/* Use standard quotes for className */}
-            <p className="text-gray-700">{entity.summary}</p>
-          </div>
-
-          {entity.significance && (
-            // Use standard quotes for className
-            <div className="mb-6">
-              {/* Use standard quotes for className */}
-              <h2 className="text-xl font-semibold mb-2">Significance</h2>
-              {/* Use standard quotes for className */}
-              <p className="text-gray-700">{entity.significance}</p>
-            </div>
-          )}
-
-          {/* Use standard quotes for className */}
-          <div className="mb-6">
-            {/* Use standard quotes for className */}
-            <h2 className="text-xl font-semibold mb-2">Key Connections</h2>
-            {/* Pass the resolved slugs and names to EntityConnections */}
-            <EntityConnections connections={connectionsWithSlugs} />
-          </div>
-        </div>
-      </div>
-
-      {/* Use standard quotes for className */}
-      <div className="mt-8">
-        {/* Use standard quotes for className */}
-        <h2 className="text-2xl font-bold mb-4">Related Documents ({entity.document_count})</h2>
-        <RelatedDocuments documentIds={entity.document_ids || []} />
-      </div>
-
-      {/* Use standard quotes for className */}
-      <div className="mt-8 mb-4">
-        <Link
-          // Link to visualization still uses entity_name for the query param
-          href={`/visualization?entity=${encodeURIComponent(entity.entity_name)}`}
-          // Use standard quotes for className
-          className="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700"
+    <div className="max-w-6xl mx-auto p-6 space-y-6">
+      <div className="flex justify-between items-center">
+        <Button
+          variant="ghost"
+          size="sm"
+          onClick={() => router.back()}
+          className="text-muted-foreground hover:text-foreground gap-1"
         >
-          View in Relationship Graph
-        </Link>
+          <ArrowLeft className="h-4 w-4" />
+          Back
+        </Button>
+        <Button variant="outline" size="sm" asChild>
+          <Link href={`/visualization?entity=${encodeURIComponent(entity.entity_name)}`}>
+            View in Relationship Graph
+          </Link>
+        </Button>
       </div>
+
+      <Card className="p-6 space-y-4">
+        <div className="flex justify-between items-start border-b border-border/50 pb-4">
+          <div>
+            <h1 className="text-2xl font-bold text-foreground">{entity.entity_name}</h1>
+            <p className="text-xs text-muted-foreground mt-1 capitalize">
+              Type: <Badge variant="outline" className="ml-1 capitalize">{entity.entity_type || 'Entity'}</Badge>
+            </p>
+          </div>
+          <span className="text-sm text-muted-foreground whitespace-nowrap">
+            {documents.length} Related Document{documents.length !== 1 ? 's' : ''}
+          </span>
+        </div>
+
+        {entity.summary && (
+          <div className="pb-4 border-b border-border/50">
+            <h3 className="text-xs font-semibold text-muted-foreground uppercase tracking-wider mb-1">Entity Summary</h3>
+            <p className="text-sm text-foreground leading-relaxed">{entity.summary}</p>
+          </div>
+        )}
+
+        {entity.significance && (
+          <div className="pb-4 border-b border-border/50">
+            <h3 className="text-xs font-semibold text-muted-foreground uppercase tracking-wider mb-1">Historical Significance</h3>
+            <p className="text-sm text-foreground leading-relaxed">{entity.significance}</p>
+          </div>
+        )}
+
+        {entity.key_connections && entity.key_connections.length > 0 && (
+          <EntityConnections connections={entity.key_connections} />
+        )}
+      </Card>
+
+      <RelatedDocuments documents={documents} isLoading={false} />
     </div>
   );
 }

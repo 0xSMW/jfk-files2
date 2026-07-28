@@ -1,55 +1,16 @@
 'use client';
 
-import { useState, useEffect } from 'react';
 import { Document } from '@/app/lib/models/document';
-import { loadDocument } from '@/app/lib/utils/data-loader';
 import DocumentCard from '@/app/components/documents/DocumentCard';
 import Spinner from '@/app/components/Spinner';
 
 interface RelatedDocumentsProps {
-  documentIds: string[];
-  limit?: number;
+  documents?: Document[];
+  isLoading?: boolean;
+  error?: string | null;
 }
 
-export default function RelatedDocuments({ documentIds, limit = 6 }: RelatedDocumentsProps) {
-  const [documents, setDocuments] = useState<Document[]>([]);
-  const [isLoading, setIsLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
-  
-  useEffect(() => {
-    async function loadDocuments() {
-      try {
-        setIsLoading(true);
-        
-        // Only load up to the limit
-        const idsToLoad = documentIds.slice(0, limit);
-        
-        const loadedDocs = await Promise.all(
-          idsToLoad.map(async (id) => {
-            const doc = await loadDocument(id);
-            return doc;
-          })
-        );
-        
-        // Filter out null documents
-        const validDocs = loadedDocs.filter((doc): doc is Document => doc !== null);
-        
-        setDocuments(validDocs);
-        setIsLoading(false);
-      } catch (err) {
-        console.error('Error loading related documents:', err);
-        setError('Failed to load related documents');
-        setIsLoading(false);
-      }
-    }
-    
-    if (documentIds && documentIds.length > 0) {
-      loadDocuments();
-    } else {
-      setIsLoading(false);
-    }
-  }, [documentIds, limit]);
-  
+export default function RelatedDocuments({ documents = [], isLoading = false, error = null }: RelatedDocumentsProps) {
   if (isLoading) {
     return (
       <div className="flex justify-center items-center py-8">
@@ -57,28 +18,31 @@ export default function RelatedDocuments({ documentIds, limit = 6 }: RelatedDocu
       </div>
     );
   }
-  
+
   if (error) {
     return (
-      <div className="p-4 bg-red-50 border border-red-200 rounded-md mb-4 text-red-700">
+      <div className="p-4 border border-destructive/50 rounded-md mb-4 text-destructive text-xs">
         {error}
       </div>
     );
   }
-  
+
   if (documents.length === 0) {
     return (
-      <div className="p-4 text-center text-gray-500">
+      <div className="p-6 bg-card border border-border rounded-lg text-center text-muted-foreground text-xs">
         No related documents found.
       </div>
     );
   }
-  
+
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-      {documents.map(doc => (
-        <DocumentCard key={doc.id} document={doc} isCompact={true} />
-      ))}
+    <div className="bg-card border border-border rounded-lg p-6">
+      <h3 className="text-base font-bold text-foreground mb-4">Related Documents ({documents.length})</h3>
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        {documents.map(doc => (
+          <DocumentCard key={doc.id} document={doc} isCompact={true} />
+        ))}
+      </div>
     </div>
   );
-} 
+}

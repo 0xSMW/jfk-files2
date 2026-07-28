@@ -2,6 +2,16 @@
 
 import { useState, useEffect } from 'react';
 import { EntitySearchParams } from '@/app/lib/models/entity';
+import { Input } from '@/components/ui/input';
+import { Button } from '@/components/ui/button';
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from '@/components/ui/select';
+import { Search } from 'lucide-react';
 
 interface EntityFilterSidebarProps {
   entityCount: number;
@@ -18,22 +28,22 @@ export default function EntityFilterSidebar({
 }: EntityFilterSidebarProps) {
   // Local state for search input
   const [searchQuery, setSearchQuery] = useState<string>('');
-  const [selectedType, setSelectedType] = useState<string>('');
+  const [selectedType, setSelectedType] = useState<string>('ALL');
   const [docCountMin, setDocCountMin] = useState<string>('');
   const [docCountMax, setDocCountMax] = useState<string>('');
-  
+
   // Apply filters when any filter value changes
   useEffect(() => {
     const filters: Partial<EntitySearchParams> = {};
-    
+
     if (searchQuery) {
       filters.query = searchQuery;
     }
-    
-    if (selectedType) {
+
+    if (selectedType && selectedType !== 'ALL') {
       filters.type = selectedType;
     }
-    
+
     if (docCountMin || docCountMax) {
       filters.documentCount = {};
       if (docCountMin) {
@@ -43,105 +53,110 @@ export default function EntityFilterSidebar({
         filters.documentCount.max = parseInt(docCountMax, 10);
       }
     }
-    
+
     onFilterChange(filters);
   }, [searchQuery, selectedType, docCountMin, docCountMax, onFilterChange]);
-  
+
   // Clear all filters
   const clearFilters = () => {
     setSearchQuery('');
-    setSelectedType('');
+    setSelectedType('ALL');
     setDocCountMin('');
     setDocCountMax('');
   };
-  
+
   return (
-    <div className="bg-white p-4 rounded-lg border">
-      <div className="flex justify-between items-center mb-4">
-        <h2 className="text-lg font-medium">Filters</h2>
-        <button
+    <div className="space-y-6">
+      <div className="flex justify-between items-center">
+        <h2 className="text-base font-semibold tracking-tight">Filters</h2>
+        <Button
+          variant="ghost"
+          size="sm"
           onClick={clearFilters}
-          className="text-sm text-blue-600 hover:text-blue-800"
+          className="text-xs h-7 text-muted-foreground hover:text-foreground"
           disabled={isLoading}
         >
-          Clear all
-        </button>
+          Reset
+        </Button>
       </div>
-      
+
       {/* Search filter */}
-      <div className="mb-6">
-        <label htmlFor="entity-search" className="block text-sm font-medium text-gray-700 mb-1">
+      <div className="space-y-2">
+        <label className="text-xs font-medium text-muted-foreground uppercase tracking-wider">
           Search
         </label>
-        <input
-          id="entity-search"
-          type="text"
-          value={searchQuery}
-          onChange={(e) => setSearchQuery(e.target.value)}
-          placeholder="Search entities..."
-          className="w-full px-3 py-2 border rounded-md text-sm"
-          disabled={isLoading}
-        />
+        <div className="relative">
+          <Search className="absolute left-2.5 top-2.5 h-4 w-4 text-muted-foreground" />
+          <Input
+            type="text"
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            placeholder="Search entities..."
+            className="pl-8 h-9 text-sm"
+            disabled={isLoading}
+          />
+        </div>
       </div>
-      
+
       {/* Entity type filter */}
-      <div className="mb-6">
-        <label htmlFor="entity-type" className="block text-sm font-medium text-gray-700 mb-1">
+      <div className="space-y-2">
+        <label className="text-xs font-medium text-muted-foreground uppercase tracking-wider">
           Entity Type
         </label>
-        <select
-          id="entity-type"
+        <Select
           value={selectedType}
-          onChange={(e) => setSelectedType(e.target.value)}
-          className="w-full px-3 py-2 border rounded-md text-sm"
+          onValueChange={setSelectedType}
           disabled={isLoading}
         >
-          <option value="">All types</option>
-          {entityTypes.map((type) => (
-            <option key={type} value={type}>
-              {type}
-            </option>
-          ))}
-        </select>
+          <SelectTrigger className="h-9 text-sm">
+            <SelectValue placeholder="All types" />
+          </SelectTrigger>
+          <SelectContent>
+            <SelectItem value="ALL">All types</SelectItem>
+            {entityTypes.map((type) => (
+              <SelectItem key={type} value={type}>
+                {type}
+              </SelectItem>
+            ))}
+          </SelectContent>
+        </Select>
       </div>
-      
+
       {/* Document count filter */}
-      <div className="mb-6">
-        <label className="block text-sm font-medium text-gray-700 mb-2">
+      <div className="space-y-2">
+        <label className="text-xs font-medium text-muted-foreground uppercase tracking-wider">
           Document Count
         </label>
-        <div className="flex space-x-2">
-          <div className="w-1/2">
-            <label htmlFor="doc-count-min" className="sr-only">Minimum</label>
-            <input
-              id="doc-count-min"
+        <div className="grid grid-cols-2 gap-2">
+          <div>
+            <span className="text-[10px] text-muted-foreground block mb-1">Min</span>
+            <Input
               type="number"
               min="0"
               value={docCountMin}
               onChange={(e) => setDocCountMin(e.target.value)}
               placeholder="Min"
-              className="w-full px-3 py-2 border rounded-md text-sm"
+              className="h-8 text-xs px-2"
               disabled={isLoading}
             />
           </div>
-          <div className="w-1/2">
-            <label htmlFor="doc-count-max" className="sr-only">Maximum</label>
-            <input
-              id="doc-count-max"
+          <div>
+            <span className="text-[10px] text-muted-foreground block mb-1">Max</span>
+            <Input
               type="number"
               min="0"
               value={docCountMax}
               onChange={(e) => setDocCountMax(e.target.value)}
               placeholder="Max"
-              className="w-full px-3 py-2 border rounded-md text-sm"
+              className="h-8 text-xs px-2"
               disabled={isLoading}
             />
           </div>
         </div>
       </div>
-      
+
       {/* Results count */}
-      <div className="pt-4 border-t text-sm text-gray-500">
+      <div className="pt-4 border-t border-border text-sm text-muted-foreground">
         {isLoading ? (
           <p>Loading...</p>
         ) : (
@@ -150,4 +165,4 @@ export default function EntityFilterSidebar({
       </div>
     </div>
   );
-} 
+}

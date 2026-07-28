@@ -1,6 +1,13 @@
 import { Document, DocumentSearchParams } from '../models/document';
 import { Entity, EntitySearchParams } from '../models/entity';
 import { loadDocumentMetadata, loadAllEntities, loadDocument } from './data-loader';
+import { isKnownDate } from './date';
+
+/** Timestamp for sorting; unknown/invalid dates always sort last in either direction. */
+function dateRank(dateStr: string | undefined | null, desc: boolean): number {
+  if (!isKnownDate(dateStr)) return desc ? Number.MIN_SAFE_INTEGER : Number.MAX_SAFE_INTEGER;
+  return new Date(dateStr!).getTime();
+}
 
 export async function searchDocuments(params: DocumentSearchParams = {}) {
   let docs = await loadDocumentMetadata();
@@ -39,10 +46,12 @@ export async function searchDocuments(params: DocumentSearchParams = {}) {
   // Sort
   if (sortBy) {
     docs = [...docs].sort((a, b) => {
-      if (sortBy === 'date_asc') return (a.date || '').localeCompare(b.date || '');
-      if (sortBy === 'date_desc') return (b.date || '').localeCompare(a.date || '');
+      if (sortBy === 'date_asc') return dateRank(a.date, false) - dateRank(b.date, false);
+      if (sortBy === 'date_desc') return dateRank(b.date, true) - dateRank(a.date, true);
       if (sortBy === 'title_asc') return (a.title || '').localeCompare(b.title || '');
       if (sortBy === 'title_desc') return (b.title || '').localeCompare(a.title || '');
+      if (sortBy === 'type_asc') return (a.document_type || '').localeCompare(b.document_type || '');
+      if (sortBy === 'type_desc') return (b.document_type || '').localeCompare(a.document_type || '');
       return 0;
     });
   }

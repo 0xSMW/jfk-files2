@@ -1,5 +1,8 @@
 import Link from 'next/link';
 import { Document } from '@/app/lib/models/document';
+import { formatDocDate, isKnownDate } from '@/app/lib/utils/date';
+import { Card } from '@/components/ui/card';
+import { Badge } from '@/components/ui/badge';
 
 interface DocumentCardProps {
   document: Document;
@@ -23,55 +26,56 @@ export default function DocumentCard({ document, isCompact = false }: DocumentCa
     ? (summary?.slice(0, 120) || summary_one_paragraph?.slice(0, 120))
     : (summary_one_paragraph || summary);
 
+  const formattedDate = formatDocDate(date);
+
   return (
-    <Link
-      href={`/documents/${id}`}
-      className="block border rounded-lg overflow-hidden transition-shadow hover:shadow-md bg-white"
-    >
-      <div className="p-4">
-        <div className="flex justify-between items-start">
-          <h3 className="text-lg font-medium leading-tight line-clamp-2">
+    <Link href={`/documents/${id}`} className="block h-full">
+      <Card className="p-4 h-full hover:bg-muted/50">
+        <div className="flex justify-between items-start gap-2">
+          <h3 className="text-base font-semibold leading-tight line-clamp-2">
             {title || 'Untitled Document'}
           </h3>
-          
+
           {!isCompact && (
-            <span className="text-xs px-2 py-1 rounded-full bg-gray-100 whitespace-nowrap ml-2">
+            <Badge variant="outline" className="shrink-0 font-normal text-muted-foreground">
               {document_type || 'Document'}
-            </span>
+            </Badge>
           )}
         </div>
-        
-        <div className="mt-1 flex items-center text-sm text-gray-500 gap-3">
-          <span>{date || 'Unknown date'}</span>
+
+        <div className="mt-1 flex items-center text-sm gap-3">
+          <span className={isKnownDate(date) ? 'text-muted-foreground' : 'text-muted-foreground/60'}>
+            {formattedDate}
+          </span>
           {origin_agency && !isCompact && (
             <>
-              <span>•</span>
-              <span>{origin_agency}</span>
+              <span className="text-muted-foreground/50">•</span>
+              <span className="text-muted-foreground">{origin_agency}</span>
             </>
           )}
         </div>
-        
+
         {displaySummary && (
-          <p className={`mt-3 ${isCompact ? 'line-clamp-2 text-sm' : 'line-clamp-3'} text-gray-600`}>
+          <p className={`mt-3 text-sm text-muted-foreground ${isCompact ? 'line-clamp-2' : 'line-clamp-3'}`}>
             {displaySummary}
           </p>
         )}
-        
+
         {tags && tags.length > 0 && !isCompact && (
-          <div className="mt-4 flex flex-wrap gap-1">
+          <div className="mt-4 flex flex-wrap gap-1.5">
             {tags.slice(0, 5).map((tag, i) => (
-              <span key={i} className="inline-block bg-blue-50 text-blue-700 text-xs px-2 py-1 rounded">
+              <Badge key={i} variant="secondary" className="font-normal">
                 {tag}
-              </span>
+              </Badge>
             ))}
             {tags.length > 5 && (
-              <span className="inline-block text-xs px-2 py-1 text-gray-500">
+              <span className="text-xs px-1 py-0.5 text-muted-foreground">
                 +{tags.length - 5} more
               </span>
             )}
           </div>
         )}
-      </div>
+      </Card>
     </Link>
   );
-} 
+}

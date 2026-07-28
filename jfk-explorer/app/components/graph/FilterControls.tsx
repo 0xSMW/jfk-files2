@@ -1,7 +1,11 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import { Search } from 'lucide-react';
 import { GraphFilterOptions } from '@/app/lib/models/graph';
+import { Button } from '@/components/ui/button';
+import { Checkbox } from '@/components/ui/checkbox';
+import { Input } from '@/components/ui/input';
 
 interface FilterControlsProps {
   filterOptions: GraphFilterOptions;
@@ -15,8 +19,8 @@ interface FilterControlsProps {
   } | null;
 }
 
-export default function FilterControls({ 
-  filterOptions, 
+export default function FilterControls({
+  filterOptions,
   onChange,
   statistics
 }: FilterControlsProps) {
@@ -26,20 +30,20 @@ export default function FilterControls({
   const [entityTypes, setEntityTypes] = useState<string[]>(filterOptions.entityTypes || []);
   // Local state for search
   const [searchQuery, setSearchQuery] = useState<string>(filterOptions.searchQuery || '');
-  
+
   // Common document types in the JFK Files
   const commonDocumentTypes = ['Report', 'Memo', 'Letter', 'Transcript', 'Interview', 'Medical Report'];
   // Common entity types
   const commonEntityTypes = ['Person', 'Organization', 'Location', 'Event'];
-  
+
   // Update local state when props change, but only if they're different
   useEffect(() => {
-    const docTypesChanged = 
+    const docTypesChanged =
       JSON.stringify(documentTypes) !== JSON.stringify(filterOptions.documentTypes || []);
-    const entityTypesChanged = 
+    const entityTypesChanged =
       JSON.stringify(entityTypes) !== JSON.stringify(filterOptions.entityTypes || []);
     const searchChanged = searchQuery !== (filterOptions.searchQuery || '');
-    
+
     if (docTypesChanged) {
       setDocumentTypes(filterOptions.documentTypes || []);
     }
@@ -50,38 +54,38 @@ export default function FilterControls({
       setSearchQuery(filterOptions.searchQuery || '');
     }
   }, [filterOptions, documentTypes, entityTypes, searchQuery]);
-  
+
   // Handle document type filter change
   const handleDocTypeChange = (type: string) => {
     const newDocTypes = documentTypes.includes(type)
       ? documentTypes.filter(t => t !== type)
       : [...documentTypes, type];
-    
+
     setDocumentTypes(newDocTypes);
     onChange({
       ...filterOptions,
       documentTypes: newDocTypes
     });
   };
-  
+
   // Handle entity type filter change
   const handleEntityTypeChange = (type: string) => {
     const newEntityTypes = entityTypes.includes(type)
       ? entityTypes.filter(t => t !== type)
       : [...entityTypes, type];
-    
+
     setEntityTypes(newEntityTypes);
     onChange({
       ...filterOptions,
       entityTypes: newEntityTypes
     });
   };
-  
+
   // Handle search input change with debounce
   const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const newValue = e.target.value;
     setSearchQuery(newValue);
-    
+
     // Debounce search to avoid too many updates
     const timeoutId = setTimeout(() => {
       onChange({
@@ -89,16 +93,16 @@ export default function FilterControls({
         searchQuery: newValue
       });
     }, 300);
-    
+
     return () => clearTimeout(timeoutId);
   };
-  
+
   // Reset all filters
   const handleResetFilters = () => {
     setDocumentTypes([]);
     setEntityTypes([]);
     setSearchQuery('');
-    
+
     onChange({
       ...filterOptions,
       documentTypes: [],
@@ -106,86 +110,91 @@ export default function FilterControls({
       searchQuery: ''
     });
   };
-  
+
   return (
     <div className="space-y-6">
       <div>
-        <h3 className="text-sm font-medium text-gray-700 mb-2">Search</h3>
+        <h3 className="text-sm font-medium mb-2">Search</h3>
         <div className="relative">
-          <input
+          <Search className="h-4 w-4 absolute left-2.5 top-1/2 -translate-y-1/2 text-muted-foreground" />
+          <Input
             type="text"
             value={searchQuery}
             onChange={handleSearchChange}
             placeholder="Search by title or content..."
-            className="w-full p-2 pl-8 border rounded-md text-sm"
+            className="pl-8 text-sm"
           />
-          <svg 
-            xmlns="http://www.w3.org/2000/svg" 
-            className="h-4 w-4 absolute left-2 top-2.5 text-gray-400" 
-            fill="none" 
-            viewBox="0 0 24 24" 
-            stroke="currentColor"
-          >
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-          </svg>
         </div>
       </div>
-      
+
       <div>
-        <h3 className="text-sm font-medium text-gray-700 mb-2">Document Types</h3>
-        <div className="space-y-1">
+        <h3 className="text-sm font-medium mb-2">Document Types</h3>
+        <div className="space-y-1.5">
           {commonDocumentTypes.map(type => (
-            <label key={type} className="flex items-center text-sm">
-              <input
-                type="checkbox"
+            <label key={type} className="flex items-center gap-2 text-sm cursor-pointer">
+              <Checkbox
                 checked={documentTypes.includes(type)}
-                onChange={() => handleDocTypeChange(type)}
-                className="mr-2 h-4 w-4 rounded border-gray-300 text-blue-600 focus:ring-blue-500"
+                onCheckedChange={() => handleDocTypeChange(type)}
               />
               <span>{type}</span>
             </label>
           ))}
         </div>
       </div>
-      
+
       <div>
-        <h3 className="text-sm font-medium text-gray-700 mb-2">Entity Types</h3>
-        <div className="space-y-1">
+        <h3 className="text-sm font-medium mb-2">Entity Types</h3>
+        <div className="space-y-1.5">
           {commonEntityTypes.map(type => (
-            <label key={type} className="flex items-center text-sm">
-              <input
-                type="checkbox"
+            <label key={type} className="flex items-center gap-2 text-sm cursor-pointer">
+              <Checkbox
                 checked={entityTypes.includes(type)}
-                onChange={() => handleEntityTypeChange(type)}
-                className="mr-2 h-4 w-4 rounded border-gray-300 text-blue-600 focus:ring-blue-500"
+                onCheckedChange={() => handleEntityTypeChange(type)}
               />
               <span>{type}</span>
             </label>
           ))}
         </div>
       </div>
-      
+
       {(documentTypes.length > 0 || entityTypes.length > 0 || searchQuery) && (
-        <button
+        <Button
+          variant="secondary"
+          size="sm"
           onClick={handleResetFilters}
-          className="mt-2 w-full py-1 px-3 bg-gray-100 hover:bg-gray-200 text-sm rounded-md"
+          className="w-full"
         >
           Reset Filters
-        </button>
+        </Button>
       )}
-      
+
       {statistics && (
-        <div className="mt-6 p-4 bg-gray-50 rounded-lg">
-          <h3 className="text-sm font-medium text-gray-700 mb-2">Data Statistics</h3>
-          <div className="space-y-1 text-sm text-gray-600">
-            <p>Total Documents: {statistics.totalDocuments}</p>
-            <p>Documents with Tags: {statistics.documentsWithTags}</p>
-            <p>Unique Tags: {statistics.uniqueTags}</p>
-            <p>Total Entities: {statistics.totalEntities}</p>
-            <p>Matching Tags: {statistics.matchingTags}</p>
-          </div>
+        <div className="mt-6 border-t pt-4">
+          <h3 className="text-sm font-medium mb-2">Data Statistics</h3>
+          <dl className="space-y-1 text-sm">
+            <div className="flex justify-between gap-2">
+              <dt className="text-muted-foreground">Total Documents</dt>
+              <dd className="font-medium">{statistics.totalDocuments}</dd>
+            </div>
+            <div className="flex justify-between gap-2">
+              <dt className="text-muted-foreground">Documents with Tags</dt>
+              <dd className="font-medium">{statistics.documentsWithTags}</dd>
+            </div>
+            <div className="flex justify-between gap-2">
+              <dt className="text-muted-foreground">Unique Tags</dt>
+              <dd className="font-medium">{statistics.uniqueTags}</dd>
+            </div>
+            <div className="flex justify-between gap-2">
+              <dt className="text-muted-foreground">Total Entities</dt>
+              <dd className="font-medium">{statistics.totalEntities}</dd>
+            </div>
+            <div className="flex justify-between gap-2">
+              <dt className="text-muted-foreground">Matching Tags</dt>
+              <dd className="font-medium">{statistics.matchingTags}</dd>
+            </div>
+          </dl>
         </div>
       )}
     </div>
   );
-} 
+}

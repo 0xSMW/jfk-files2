@@ -5,7 +5,7 @@ import Script from "next/script";
 
 import Header from "./components/layout/Header";
 import Footer from "./components/layout/Footer";
-import { DataProvider } from "./lib/context/data-context";
+import { ThemeProvider } from "./components/theme-provider";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -28,21 +28,21 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <head>
-        <Script 
-          src="https://aframe.io/releases/1.4.0/aframe.min.js" 
+        <Script
+          src="https://aframe.io/releases/1.4.0/aframe.min.js"
           strategy="afterInteractive"
         />
       </head>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen flex flex-col`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen flex flex-col bg-background text-foreground`}
       >
-        <DataProvider>
+        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
           <Header />
-          <main className="flex-1 p-6">{children}</main>
+          <main className="flex-1 max-w-7xl mx-auto w-full px-6 py-6">{children}</main>
           <Footer />
-        </DataProvider>
+        </ThemeProvider>
       </body>
     </html>
   );

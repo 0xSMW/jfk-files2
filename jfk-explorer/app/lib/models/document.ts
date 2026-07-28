@@ -29,7 +29,7 @@ export interface DocumentSearchParams {
   documentType?: string;
   dateFrom?: string;
   dateTo?: string;
-  sortBy?: 'date_asc' | 'date_desc' | 'title_asc' | 'title_desc' | 'relevance';
+  sortBy?: 'date_asc' | 'date_desc' | 'title_asc' | 'title_desc' | 'type_asc' | 'type_desc' | 'relevance';
   sortField?: string;
   sortDirection?: 'asc' | 'desc';
   page?: number;
